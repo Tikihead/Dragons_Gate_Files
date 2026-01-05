@@ -1,0 +1,725 @@
+ *******Barbs*************
+
+It is now 9:23 am on the 30th day of the 6th month in the year 308.
+
+
+
+These are the tenets of your class...
+
+1. Always seek to increase your skill with weapons over magick.
+2. Never rely on magick, as it will fail you.
+3. Never break your word when offered freely.
+4. Survive at all costs, unless your death would be glorious.
+5. Never back down from a fair fight.
+
+
+
+	::: Current Skill Rankings :::
+
+  1. Smakem Buckhanna the Thugian (919 pts.)
+  2. Cutlich Forgefist the Hithual (809 pts.)
+  3. Jazbo Woondle the Monitanian (652 pts.)
+  4. Barracuda Krow the Human (643 pts.)
+  5. Wing Capo the Thugian (593 pts.)
+  6. Kosmik Krythus the Hithual (482 pts.)
+  7. Daphnia Arachnia the Arachnian (474 pts.)
+  8. Morlandin Rokhart the Hithual (471 pts.)
+  9. Mrump Dalump the Oog-ra (456 pts.)
+ 10. Vollid Erfuln the Thugian (454 pts.)
+ 11. Ogkay Clerio the Monitanian (449 pts.)
+ 12. Jaeger Trotsky the Oog-ra (429 pts.)
+ 13. Baalzbug Arachious the Arachnian (399 pts.)
+ 14. Frith Headbasher the Thugian (375 pts.)
+ 15. Vekkattraka Artakkatrrk the Arachnian (341 pts.)
+ 16. Fivel Hatfitter the Thugian (338 pts.)
+ 17. Galiant Zay the Thugian (306 pts.)
+ 18. Mildain Organgrinder the Hithual (305 pts.)
+ 19. Moolaag Oonak the Oog-ra (303 pts.)
+ 20. Dmajh Ironclan the San Elf (300 pts.)
+ 21. Conn Hyborian the Hithual (298 pts.)
+ 22. Selow Semtak the Thugian (287 pts.)
+ 23. Guzzle Gru'kr the Go-blin-al (278 pts.)
+ 24. Ulgoth Dragonspear the Oog-ra (274 pts.)
+ 25. Eben Wilstorth the Monitanian (260 pts.)
+ 26. Thrunk Graps the Oog-ra (260 pts.)
+ 27. Dryax Vorkitras the Arachnian (255 pts.)
+ 28. Roknia Hunle the Monitanian (249 pts.)
+ 29. Broc Roughrider the Human (239 pts.)
+ 30. Vor Thunderbringer the Human (238 pts.)
+ 31. Tsalkon Sal the Thugian (234 pts.)
+ 32. Azeworai Sunstreak the Oog-ra (232 pts.)
+ 33. Bruto Thickhead the Thugian (227 pts.)
+ 34. Anaka Sol the Thugian (209 pts.)
+ 35. Tollkirsche Carniver the Monitanian (208 pts.)
+ 36. Fury Narbondel the San Elf (204 pts.)
+ 37. Salamandra Flametail the Drag-al (200 pts.)
+ 38. Czarik Bloodrain the San Elf (199 pts.)
+ 39. Jonas Scravy the Oog-ra (193 pts.)
+ 40. Venzki Svadensyk the Go-blin-al (188 pts.)
+ 41. Chapel Oshea the Thugian (182 pts.)
+ 42. Maestro Vallastro the Thugian (161 pts.)
+ 43. Nynae Emryss the Hithual (161 pts.)
+ 44. Jez Killmore the Thugian (159 pts.)
+ 45. Grot Getsem the Oog-ra (159 pts.)
+ 46. Aeshma Atan the Thugian (158 pts.)
+ 47. Tonton Granitefist the Oog-ra (153 pts.)
+ 48. Thropp Tomm the Oog-ra (152 pts.)
+ 49. Llore Hearthkin the Monitanian (148 pts.)
+ 50. Tarkell Wixten the Monitanian (146 pts.)
+
+
+
+>**********Fighters*************
+
+It is now 10:07 am on the 30th day of the 6th month in the year 308.
+
+
+
+These are the tenets of your class...
+
+1. Always seek to increase your skill with weapons over magick.
+2. Never rely on magick, as it will fail you.
+3. Never break your word when offered freely.
+4. Survive at all costs, unless your death would be glorious.
+5. Never back down from a fair fight.
+
+
+
+	::: Current Skill Rankings :::
+
+  1. Yedrow Tulgruff the Human (1105 pts.)
+  2. Meqetlh Forgefist the Hithual (1104 pts.)
+  3. Barra Sharpfangs the Leuian (931 pts.)
+  4. Ariakasterrende Demonia the Leuian (868 pts.)
+  5. Renshi Sanmight the San Elf (840 pts.)
+  6. Jedaka Dukhat the Leuian (830 pts.)
+  7. Masher Cranium the Hithual (825 pts.)
+  8. Tarmit Kanzel the Leuian (823 pts.)
+  9. Stanrar Mandor the Human (813 pts.)
+ 10. Santos Emo the Leuian (807 pts.)
+ 11. Tony Antaro the Drag-al (791 pts.)
+ 12. Netraa Denad the Leuian (767 pts.)
+ 13. Gruber Casser the Thugian (736 pts.)
+ 14. Wolfgar Grendal the Leuian (703 pts.)
+ 15. Borus Neanderthal the Thugian (697 pts.)
+ 16. Kassimer Seiber the San Elf (692 pts.)
+ 17. Mondex Silian the Leuian (691 pts.)
+ 18. Trawwll Naberr the Leuian (684 pts.)
+ 19. Khateul Tigerheart the Leuian (666 pts.)
+ 20. Thug Thrasher the Thugian (666 pts.)
+ 21. Roknar Zoole the Human (656 pts.)
+ 22. Valphein Breeze the Leuian (632 pts.)
+ 23. Creatine Gastor the Hithual (630 pts.)
+ 24. Kraggon Rockhard the Hithual (620 pts.)
+ 25. Kikiki Cuca the Hithual (619 pts.)
+ 26. Cranky Verminn the Go-blin-al (601 pts.)
+ 27. Jinood Scurlinut the Hithual (600 pts.)
+ 28. Silvermane Milard the Human (600 pts.)
+ 29. Caldron Blackweb the Arachnian (590 pts.)
+ 30. Daelin Alterac the Monitanian (574 pts.)
+ 31. Rivet Wirespin the Hithual (556 pts.)
+ 32. Gallaior Braq the Human (547 pts.)
+ 33. Star-eyed Tale'sedrin the San Elf (543 pts.)
+ 34. Gilreath Janke the Hithual (529 pts.)
+ 35. Teeeez Fortunate the Leuian (528 pts.)
+ 36. Rebel Oflegend the Hithual (516 pts.)
+ 37. Lisssa Diamonique the Monitanian (508 pts.)
+ 38. Dhenali Duhast the Leuian (504 pts.)
+ 39. Vilken Roencrantz the San Elf (503 pts.)
+ 40. Sinfonia Musica the Leuian (498 pts.)
+ 41. Salavdore Decrescente the Human (487 pts.)
+ 42. Aviandha Waterqueen the Anthian (481 pts.)
+ 43. Talar Delgrim the Human (461 pts.)
+ 44. Minkia Spinrae the Arachnian (437 pts.)
+ 45. Aykartkk Yiameth the Arachnian (435 pts.)
+ 46. Silkyn Poisonsilk the Arachnian (429 pts.)
+ 47. Sillo Shilan the Anthian (427 pts.)
+ 48. Foom Thurunder the San Elf (420 pts.)
+ 49. Bristol Mee the Drag-al (410 pts.)
+ 50. Kmakktirakh Kmrrk the Arachnian (408 pts.)
+
+
+
+***********Forresters****************
+
+These are the tenets of your class...
+
+1. Never harm a forest animal, unless in defense of yourself, another, or when hunting for survival.  (And then only as much as absolutely necessary.)
+2. Never allow a forest animal to be harmed by another, unless necessary for survival.
+3. Protect the forest and all its animal residents, as we are the guardians of nature.
+4. Destroy the undead at all costs!
+5. Defend the weak, the peaceful, and those pledged to non-violence.
+
+
+
+
+It is now 9:41 am on the 30th day of the 6th month in the year 308.
+
+
+
+	::: Current Skill Rankings :::
+
+  1. Kithrael Elven the Fir Elf (565 pts.)
+  2. Yulin Rochelet the Fir Elf (534 pts.)
+  3. Brandon Soultree the Psycian (402 pts.)
+  4. Rumor Dreamsbane the San Elf (390 pts.)
+  5. Telhuride Rosignol the Anthian (379 pts.)
+  6. Clive Foliot the Drag-al (375 pts.)
+  7. Sakura Amuro the Fir Elf (358 pts.)
+  8. Peony Whisper the Human (317 pts.)
+  9. Rahvin Telemon the Anthian (296 pts.)
+ 10. Perkin Rochelet the Fir Elf (277 pts.)
+ 11. Myster Mistletoe the Fir Elf (273 pts.)
+ 12. Green Kildare the Human (235 pts.)
+ 13. Tanarra Demone the Fir Elf (231 pts.)
+ 14. Arleta Silvermaid the Human (214 pts.)
+ 15. Croaker Cutpurse the Human (209 pts.)
+ 16. Shark Frenzy the Drag-al (175 pts.)
+ 17. Nutmeg Lightbreeze the Drag-al (168 pts.)
+ 18. Oakleaf Forestwalker the Fir Elf (152 pts.)
+ 19. Elyesse Rochelett the Fir Elf (151 pts.)
+ 20. Zolsts Zatas the Anthian (145 pts.)
+ 21. Kithkane Broadmoore the Fir Elf (136 pts.)
+ 22. Sheika Ravenwing the Anthian (133 pts.)
+ 23. Caltrop Lethe the Anthian (126 pts.)
+ 24. Lanx Cepheus the Fir Elf (126 pts.)
+ 25. Aridon Kuluzan the Human (124 pts.)
+ 26. Kathran Bosage the Anthian (118 pts.)
+ 27. Craiven Varene the Fir Elf (113 pts.)
+ 28. Arisa Willowseed the Fir Elf (112 pts.)
+ 29. Valace Vonacemitch the Fir Elf (110 pts.)
+ 30. Adunaphel Ecthelion the Human (107 pts.)
+ 31. Costabera Burgundian the Drag-al (103 pts.)
+ 32. Blackfox Landhorne the Fir Elf (100 pts.)
+ 33. Redorb Brooklyn the Drag-al (98 pts.)
+ 34. Anaximander Milesian the Fir Elf (93 pts.)
+ 35. Corrin Hyrull the Fir Elf (93 pts.)
+ 36. Thraegin Branchwind the Fir Elf (88 pts.)
+ 37. Taut Lightstep the Fir Elf (84 pts.)
+ 38. Alvian Amoran the Fir Elf (84 pts.)
+ 39. Jaysun Wulfskar the Human (84 pts.)
+ 40. Jaioch Darclander the Human (82 pts.)
+ 41. Jubei Darksun the Human (82 pts.)
+ 42. Jeffik Alittlewiser the Fir Elf (76 pts.)
+ 43. Zarra Brinn the Fir Elf (73 pts.)
+ 44. Rylex Vitha the Human (73 pts.)
+ 45. Wastrel Beechwood the Fir Elf (70 pts.)
+ 46. Handrell Distropp the Flerian (69 pts.)
+ 47. Crib Lean the Human (67 pts.)
+ 48. Binabik Mintahoq the Flerian (66 pts.)
+ 49. Calgar Innerber the Anthian (61 pts.)
+ 50. Castin Radagast the Anthian (60 pts.)
+
+
+> *********Hand Clerics************
+
+It is now 9:09 am on the 30th day of the 6th month in the year 308.
+
+
+These are the tenets of your class...
+
+1. Always seek to help those who are injured or are in need of your compassion.
+2. Never willingly cause injury unless it is in defense of yourself or another.
+3. Never boast or brag about your prowess and skill, as these are the gifts of the faithful.  Rather, let your humility and quiet confidence inspire those around you.
+4. Share your wisdom and bring peace wherever you travel.
+5. Never break your word when offered freely.
+6. Survive at all costs, unless your death would further the goals of your faith.
+7. Always be true to your calling, as we are the voice of wisdom in this world!
+
+
+
+	::: Current Skill Rankings :::
+
+  1. Katze Offaces the Leuian (483 pts.)
+  2. Kilnu Overlas the Leuian (477 pts.)
+  3. Sammeth Offaces the Leuian (426 pts.)
+  4. Thandril Impsbane the Leuian (406 pts.)
+  5. Khatmandu Snaggletooth the Leuian (380 pts.)
+  6. Remath Windkick the Flerian (377 pts.)
+  7. Callar Makath the Leuian (370 pts.)
+  8. Gwon Noggy the Leuian (361 pts.)
+  9. Tygraa Furbelly the Leuian (352 pts.)
+ 10. Tzchitinous Pentblood the Arachnian (297 pts.)
+ 11. Keaweone Kealoha the Leuian (292 pts.)
+ 12. Tyson Lector the Leuian (275 pts.)
+ 13. Shaey Faireydelven the Secian (264 pts.)
+ 14. Lorianna Odea the Anthian (248 pts.)
+ 15. Ignatus Jaskee the Anthian (245 pts.)
+ 16. Lei Kurilian the Leuian (240 pts.)
+ 17. Rhaz Talonclaw the Leuian (235 pts.)
+ 18. Canaris Stonefist the Flerian (227 pts.)
+ 19. Malakia Nothor the Leuian (226 pts.)
+ 20. Sash Musashi the Leuian (213 pts.)
+ 21. Odessa Immena the Human (207 pts.)
+ 22. Stoker Minnion the Leuian (204 pts.)
+ 23. Trenor Offaces the Leuian (201 pts.)
+ 24. Nathal Griim the Hithual (195 pts.)
+ 25. Sieri Snaggltooth the Leuian (191 pts.)
+ 26. Khendeul Remphal the Leuian (190 pts.)
+ 27. Shinto Askani the Leuian (190 pts.)
+ 28. Paratwa Oskaloq the Leuian (182 pts.)
+ 29. Hottshott Lastshot the Leuian (178 pts.)
+ 30. Mamoru Chiba the Drag-al (175 pts.)
+ 31. Ichiban Corkscrite the Secian (171 pts.)
+ 32. Matsuo Nakamura the Leuian (168 pts.)
+ 33. Pipper Timbally the Flerian (168 pts.)
+ 34. Kara Purrcel the Leuian (167 pts.)
+ 35. Kryton Amnahl the Leuian (165 pts.)
+ 36. Honorable Tigerblood the Leuian (163 pts.)
+ 37. Caravel Mystfire the Leuian (156 pts.)
+ 38. Soaren Cerlonian the Psycian (154 pts.)
+ 39. Maeon Fiekan the Leuian (152 pts.)
+ 40. Sandorian Kylla the Leuian (152 pts.)
+ 41. Lunara Darkling the Leuian (149 pts.)
+ 42. Noctorus Darkdawn the Leuian (148 pts.)
+ 43. Balor Mrykridia the Psycian (146 pts.)
+ 44. Alisha Begard the Leuian (140 pts.)
+ 45. Darius Kentaro the Leuian (139 pts.)
+ 46. Panthroe Lyonsmane the Leuian (138 pts.)
+ 47. Nievo Goldenhands the Leuian (136 pts.)
+ 48. Puss Ecat the Leuian (132 pts.)
+ 49. Elronde Malkyrie the Leuian (129 pts.)
+ 50. Xanthos Demosthenes the Leuian (128 pts.)
+
+ **********Hearts**************
+
+
+
+
+It is now 11:24 am on the 29th day of the 6th month in the year 308.
+
+
+
+	::: Current Skill Rankings :::
+
+  1. Purrkinn Pouncers the Leuian (659 pts.)
+  2. Verbaniah Debrenna the Secian (589 pts.)
+  3. Jazmyn Faierydelvyn the Secian (502 pts.)
+  4. Prattle Marly the Leuian (412 pts.)
+  5. Morgaze Starhammer the Anthian (405 pts.)
+  6. Layne Tallon the Secian (399 pts.)
+  7. Benni Corinth the Secian (392 pts.)
+  8. Alynia Pasmorte the Psycian (387 pts.)
+  9. Kyrinne Woodmist the Secian (384 pts.)
+ 10. Tula Starhopper the Secian (381 pts.)
+ 11. Myler Rainbows the Hithual (381 pts.)
+ 12. Maykit Betor the Secian (370 pts.)
+ 13. Kymberlee Krystaline the Secian (331 pts.)
+ 14. Rixinon Corinth the Secian (318 pts.)
+ 15. Tygerlili Flowerclaw the Leuian (311 pts.)
+ 16. Goldenhands Wellwisher the Secian (311 pts.)
+ 17. Illata Sallo the Secian (310 pts.)
+ 18. Berial Ambrosius the Secian (307 pts.)
+ 19. Reason Valencia the Human (307 pts.)
+ 20. Thistleroot Nettlepatch the Secian (299 pts.)
+ 21. Ambertiger Honorclaw the Leuian (268 pts.)
+ 22. Aliyah Darcy the Secian (248 pts.)
+ 23. Xia Ysier the Secian (243 pts.)
+ 24. Trinid Forical the Secian (230 pts.)
+ 25. Laesta Silverflower the Leuian (221 pts.)
+ 26. Kirrra Starmaid the Secian (219 pts.)
+ 27. Sakrylge Pyr the Leuian (216 pts.)
+ 28. Cleric Zangief the Leuian (212 pts.)
+ 29. Phannah Stonehenge the Human (209 pts.)
+ 30. Yad Nightstorm the Secian (203 pts.)
+ 31. Jewyl Silverblossom the Secian (201 pts.)
+ 32. Fawnna Littlewing the Secian (196 pts.)
+ 33. Firenna Sangesta the Human (195 pts.)
+ 34. Strident Ticklemelots the Secian (195 pts.)
+ 35. Kyrsten Glendale the Secian (181 pts.)
+ 36. Fidget Dewdrop the Secian (176 pts.)
+ 37. Asliox Lawce the Human (173 pts.)
+ 38. Danio Willsprite the Secian (172 pts.)
+ 39. Sylph Naigh the Secian (165 pts.)
+ 40. Glinka Dragondsfriend the Secian (160 pts.)
+ 41. Kaytrina Burnstaar the Leuian (160 pts.)
+ 42. Rimsee Moonglitter the Secian (154 pts.)
+ 43. Cilian Daile the Secian (145 pts.)
+ 44. Cappy Boundupbad the Secian (139 pts.)
+ 45. Balia Happyheart the Secian (137 pts.)
+ 46. Zerwyn Daeisae the Secian (137 pts.)
+ 47. Starlyn Sylverkiss the Secian (134 pts.)
+ 48. Oddessa Altania the Secian (133 pts.)
+ 49. Minerva Darkmyst the Secian (133 pts.)
+ 50. Cuki Doll the Secian (132 pts.)
+
+**********Psions*************
+
+
+
+It is now 9:13 am on the 30th day of the 6th month in the year 308.
+
+
+
+
+
+	::: Current Skill Rankings :::
+
+  1. Sordum Corinth the Psycian (745 pts.)
+  2. Alkazar Serendif the Psycian (726 pts.)
+  3. Nixtalis Vortex the Psycian (591 pts.)
+  4. Morpheus Maelificos the Leuian (585 pts.)
+  5. Rrylar Arrath the Leuian (552 pts.)
+  6. Phrenic Splinters the Psycian (547 pts.)
+  7. Mestoffa Poisonsilk the Arachnian (476 pts.)
+  8. Kalistyn Zalane the Hithual (462 pts.)
+  9. Vorach Vizual the Psycian (437 pts.)
+ 10. Aub Sugoi the Anthian (424 pts.)
+ 11. Marakos Nunsiska the Psycian (414 pts.)
+ 12. Guyver Khinar the Leuian (408 pts.)
+ 13. Bethany Lichlord the Psycian (393 pts.)
+ 14. Mikator Lornox the Psycian (387 pts.)
+ 15. September Breeze the Leuian (384 pts.)
+ 16. Alazam Duri the Psycian (375 pts.)
+ 17. Zerena Giel the Psycian (356 pts.)
+ 18. Marlos Thaton the Psycian (354 pts.)
+ 19. Jeremis Corromin the Psycian (352 pts.)
+ 20. Fig Felonio the Drag-al (302 pts.)
+ 21. Gilda Scally the Drag-al (293 pts.)
+ 22. Alamenian Dargarus the Psycian (288 pts.)
+ 23. Sweetie Niftyswift the Psycian (287 pts.)
+ 24. Mystigaal Dhaerivas the Anthian (275 pts.)
+ 25. Triana Roseenthaal the Psycian (274 pts.)
+ 26. Kuro Makur the Anthian (264 pts.)
+ 27. Jurrel Cylon the Leuian (254 pts.)
+ 28. Zuese Thunders the Psycian (251 pts.)
+ 29. Zabira Rahal the Drag-al (249 pts.)
+ 30. Milanden Sa'kar the Psycian (241 pts.)
+ 31. Sissie Whitewolf the Hithual (241 pts.)
+ 32. Deserie Listta the Psycian (240 pts.)
+ 33. Allie Bobba the Psycian (239 pts.)
+ 34. Cyrmion Amralon the Psycian (230 pts.)
+ 35. Psychie Atrick the Psycian (222 pts.)
+ 36. Tremor Aldicoth the Psycian (217 pts.)
+ 37. Cayl Semntal the Leuian (216 pts.)
+ 38. Preval Sleek the Psycian (210 pts.)
+ 39. Nimgul Leafy the Drag-al (209 pts.)
+ 40. Hesseth Rakhn the Leuian (198 pts.)
+ 41. Miracale Prophett the Hithual (196 pts.)
+ 42. Dancer Sliverfoot the Secian (193 pts.)
+ 43. Octavien Devereux the Psycian (191 pts.)
+ 44. Serrina Tobles the Anthian (189 pts.)
+ 45. Shiven Ley the Penthanian (188 pts.)
+ 46. Jarlaxle Baerne the San Elf (186 pts.)
+ 47. Portia Delarwea the Psycian (185 pts.)
+ 48. Elnia Zantorious the Psycian (183 pts.)
+ 49. Baerom Maltoth the Psycian (181 pts.)
+ 50. Stryfe Mamos the Psycian (178 pts.)
+
+**********Runemages*************
+
+
+
+
+It is now 7:56 am on the 30th day of the 6th month in the year 308.
+
+
+
+
+	::: Current Skill Rankings :::
+
+  1. Manick Muganda the Leuian (476 pts.)
+  2. Starman Comet the Frontacian (379 pts.)
+  3. Demeralda Asmeron the Secian (346 pts.)
+  4. Guaire Amalasan the Frontacian (324 pts.)
+  5. Crow Amalasan the Frontacian (306 pts.)
+  6. Avea Seni the San Elf (287 pts.)
+  7. Tisha Luckystarre the Secian (286 pts.)
+  8. Lucianar Lintharnas the Frontacian (283 pts.)
+  9. Hath Yallo the Thugian (272 pts.)
+ 10. Komodo Monitor the Monitanian (259 pts.)
+ 11. Wisedeb Gandalf the Frontacian (254 pts.)
+ 12. Silineos Boyscar the Anthian (241 pts.)
+ 13. Kess Brrea the Monitanian (231 pts.)
+ 14. Shlice Darkwater the Monitanian (198 pts.)
+ 15. Cirrus Scrivener the Frontacian (197 pts.)
+ 16. Shalafi Mastermind the Psycian (189 pts.)
+ 17. Tristenoira Dilsyna the San Elf (187 pts.)
+ 18. Sprit Thorson the Secian (184 pts.)
+ 19. Silouette Whiner the Penthanian (177 pts.)
+ 20. Blair Ushijima the Secian (176 pts.)
+ 21. Anguss Gutripper the Monitanian (173 pts.)
+ 22. Lightfeather Proudflyer the Anthian (172 pts.)
+ 23. Panthera Dukhat the Leuian (171 pts.)
+ 24. Friracia Ironweave the San Elf (169 pts.)
+ 25. Twilight Flutal the Secian (168 pts.)
+ 26. Firetoad Sewerling the Go-blin-al (165 pts.)
+ 27. Shimmerwing Aedhsson the Secian (164 pts.)
+ 28. Mashem Bugghanna the Thugian (159 pts.)
+ 29. Narcissa Aphrodite the Human (157 pts.)
+ 30. Xaranthalas Dwarodha the Drag-al (149 pts.)
+ 31. Hul Sarnac the Monitanian (141 pts.)
+ 32. Yenisei Kerensky the Psycian (132 pts.)
+ 33. Kento Tumbler the Secian (132 pts.)
+ 34. Sylkyn Khatster the Leuian (132 pts.)
+ 35. Maskar Firestave the Frontacian (125 pts.)
+ 36. Erodan Stormin the Anthian (121 pts.)
+ 37. Cushem Greenflame the Monitanian (121 pts.)
+ 38. Thales Milos the Human (116 pts.)
+ 39. Faile Sourcerous the Anthian (116 pts.)
+ 40. Mirabelle Nikolaevna the Leuian (116 pts.)
+ 41. Scarlet Mangaran the Drag-al (115 pts.)
+ 42. Arwyn Thurkalion the San Elf (114 pts.)
+ 43. Landoo Astroligone the Frontacian (114 pts.)
+ 44. Azur Graz the Frontacian (113 pts.)
+ 45. Realder Algorn the Drag-al (112 pts.)
+ 46. Jynx Notale the Leuian (98 pts.)
+ 47. Wanda Monomoy the Monitanian (97 pts.)
+ 48. Aregorn Arethorn the Monitanian (97 pts.)
+ 49. Zreah Flokar the San Elf (89 pts.)
+ 50. Erglin Malko the Drag-al (87 pts.)
+
+**********Sword Clerics**************
+
+
+
+It is now 10:40 am on the 30th day of the 6th month in the year 308.
+
+
+
+These are the tenets of your class...
+
+1. Always seek to help those who are injured or are in need.  Do not wait for them to come to you, seek them out in the places that they gather.
+2. Never willingly cause injury to those that do not seek to harm others.
+3. Always protect and aid others who follow your faith, they may be too timid or unskilled in the art of war to protect themselves.
+4. Never boast or brag about your prowess and skill, as these are the gifts of the faithful.  Rather, let your humility and quiet confidence inspire those around you.
+5. Never break your word when offered freely.
+6. Survive at all costs, unless your death would further the goals of your faith.
+7. Always be true to your calling, as we are the strong right arm of the Gods!
+
+
+
+	::: Current Skill Rankings :::
+
+  1. Lestor Pren the Leuian (765 pts.)
+  2. Armonius Undermount the Hithual (724 pts.)
+  3. Rev Lastcall the Hithual (677 pts.)
+  4. Grachus Trionomes the Leuian (632 pts.)
+  5. Liontu Oskaloq the Leuian (598 pts.)
+  6. Creolis Corleon the Leuian (584 pts.)
+  7. Eidolon Rivendale the Leuian (570 pts.)
+  8. Memnoch Devalois the San Elf (570 pts.)
+  9. Tracey Mandohr the Human (552 pts.)
+ 10. Dyannna Musica the Leuian (528 pts.)
+ 11. Kagee Predator the San Elf (520 pts.)
+ 12. Valkyn Demesne the Leuian (516 pts.)
+ 13. Tuvor Taathcrusader the San Elf (514 pts.)
+ 14. Panick Undermount the Drag-al (509 pts.)
+ 15. Thundax Kizan the Leuian (506 pts.)
+ 16. Dosad Silverslinger the Hithual (497 pts.)
+ 17. Terrulki Oskaloq the Leuian (496 pts.)
+ 18. Unk Gogas the Human (454 pts.)
+ 19. Tylar Vondracos the San Elf (439 pts.)
+ 20. Sorian Shadowdemon the San Elf (433 pts.)
+ 21. Dao Jiir the Leuian (431 pts.)
+ 22. Taniss Bourne the San Elf (427 pts.)
+ 23. Mala Guapa the Leuian (421 pts.)
+ 24. Anvil Bloodbaine the Hithual (420 pts.)
+ 25. Abegoodfellow Swanker the Hithual (411 pts.)
+ 26. Headflinger Gritloo the Hithual (410 pts.)
+ 27. Gutwrencher Hoek the Hithual (403 pts.)
+ 28. Deep Deeper the Leuian (370 pts.)
+ 29. Gargath Goldbuckle the Hithual (368 pts.)
+ 30. Ariella Monueltro the Anthian (364 pts.)
+ 31. Lathan Offaces the Leuian (356 pts.)
+ 32. Jajang Cocal the Drag-al (352 pts.)
+ 33. Mangus Blackcloud the Hithual (345 pts.)
+ 34. Rynock Gavinson the Anthian (339 pts.)
+ 35. Livana Lichlord the Secian (338 pts.)
+ 36. Stvoin Thebeloved the Hithual (334 pts.)
+ 37. Bearkhat Khades the Leuian (332 pts.)
+ 38. Toldren Mournblade the Hithual (329 pts.)
+ 39. Elessil Aravon the Leuian (320 pts.)
+ 40. Katahna Otrosk the Leuian (317 pts.)
+ 41. Mitka Burnstarr the Leuian (311 pts.)
+ 42. Cougarrr Clawsss the Leuian (309 pts.)
+ 43. Esprit Manadragon the Secian (293 pts.)
+ 44. Mortis Maelificos the Leuian (288 pts.)
+ 45. Khrune Retribution the Leuian (285 pts.)
+ 46. Snurd Evileye the San Elf (281 pts.)
+ 47. Cutter Strongblade the Hithual (279 pts.)
+ 48. Sturnan Ironjaw the Hithual (271 pts.)
+ 49. Parn Lichlord the Leuian (269 pts.)
+ 50. Rano Lerion the Arachnian (257 pts.)
+
+*************Thieves***************
+
+
+
+It is now 9:54 am on the 30th day of the 6th month in the year 308.
+
+
+
+
+
+	::: Current Skill Rankings :::
+
+  1. Changeman Shadowlurk the San Elf (1082 pts.)
+  2. Laeta Silkspinner the Arachnian (919 pts.)
+  3. Felixim Quick the San Elf (705 pts.)
+  4. Konichiwa Arigato the San Elf (704 pts.)
+  5. Gavin Swordsbane the Go-blin-al (691 pts.)
+  6. Vagn Holmskalle the Leuian (613 pts.)
+  7. Merrimax Maxonus the Leuian (610 pts.)
+  8. Rother Blackmask the Leuian (596 pts.)
+  9. Syrus Tekkstar the Psycian (484 pts.)
+ 10. Thundril Scarclaw the Leuian (431 pts.)
+ 11. Karma Arrenth the Leuian (422 pts.)
+ 12. Blister Peddlersklan the Flerian (413 pts.)
+ 13. Selbian Mabrie the Flerian (404 pts.)
+ 14. Xan Lanal the Psycian (401 pts.)
+ 15. Yaquah Lithal the Human (336 pts.)
+ 16. Graymalkin Hlaund the San Elf (330 pts.)
+ 17. Shaera Tiran the Human (304 pts.)
+ 18. Cuervo Delnoche the Drag-al (299 pts.)
+ 19. Alsan Lacar the Go-blin-al (295 pts.)
+ 20. Firanlen Trate the Penthanian (280 pts.)
+ 21. Stele Grahsear the Flerian (273 pts.)
+ 22. Moondove Amne the Anthian (272 pts.)
+ 23. Leyara Rin the Leuian (272 pts.)
+ 24. Xaviera Tustor the Leuian (268 pts.)
+ 25. Darkpaw Rhaeop the Leuian (254 pts.)
+ 26. Kasel Kendfoot the Human (250 pts.)
+ 27. Jaspere Maramda the Thugian (229 pts.)
+ 28. Carnie Knawledge the San Elf (226 pts.)
+ 29. Vixen Vivacious the San Elf (225 pts.)
+ 30. Baronus Kilgata the Leuian (218 pts.)
+ 31. October Ferver the Leuian (212 pts.)
+ 32. Keyren Swyft the Human (207 pts.)
+ 33. Trinnity Beahne the Arachnian (200 pts.)
+ 34. Charlan Palgrim the Human (190 pts.)
+ 35. Maelkith Shadowsoul the Leuian (180 pts.)
+ 36. Blrak Drascek the Go-blin-al (176 pts.)
+ 37. Kadrar Blacksun the Thugian (174 pts.)
+ 38. Aireon Sirrius the Psycian (173 pts.)
+ 39. Sampsiceramus Quirite the Psycian (169 pts.)
+ 40. Saoirse Chiraesa the Leuian (169 pts.)
+ 41. Magnolia Haight the Human (163 pts.)
+ 42. Astinus Redrock the Drag-al (161 pts.)
+ 43. Caroline Thom the San Elf (156 pts.)
+ 44. Nanda Mausumi the Go-blin-al (151 pts.)
+ 45. Sheldon Backstabber the Human (151 pts.)
+ 46. Zop Snirk the Go-blin-al (149 pts.)
+ 47. Hodar Lrogue the San Elf (141 pts.)
+ 48. Maelkith Shadowsoul the Leuian (140 pts.)
+ 49. Feather Havean the San Elf (133 pts.)
+ 50. Thalitanol Vendetta the San Elf (132 pts.)
+
+********************************************************
+
+
+2. The Arachnians
+
+The Arachnians are a highly intelligent race of spider-like beings.  They are one of the oldest races in the world and are known to inhabit parts of the Great Waste.  The Great Waste is located on the northern portion of Spur's continent, across the Great Divide.  Legend has it that eons ago these beings fought a mighty war with the Penthanians and paid a bitter price for it.  The war was going very well for the Arachnians until, just before what was intended to be the death blow to their foes, the Penthanian mages unleashed a previously unknown force in the world, UnMagick. This swept through the Arachnians like a gale, forever stripping their race of the ability to use and control runes.  Needless to say, this changed the course of the war and the Penthanians were victorious.  What made their defeat even more painful was that even though they were stripped of the ability to control the runes, they are still able to understand their use on a level that even the mighty Frontacians envy.  This has warped the race to the point that all members of them follow Chaos and wish to bring destruction down on ALL of the other races of the world. However, legend has it that the Arachnians were not the instigators of the war and that prior to their defeat (known as the Great Change), they were actually followers of Order.  Additionally, it is also foretold that there will be a day of reckoning with the Penthanians, and that what was lost will be restored.
+
+Reference Material:  Frontacian Archives, Imperial Council Histories & Minutes, Penthanian Legend, Ancient Lore, Library of Usil Elves
+
+Appearance:  Dark spider-like race, approximately 3 feet high.  They are very strong and massive, and can carry a tremendous amount.
+
+Eyes:  Black.
+
+Temperament:  Mean.  They have an axe to grind on anyone who is handy. They wish to bring destruction to ALL the races of the world.  They are warped and single-mindedly biased against any other race.  They serve Chaos.
+
+Tendencies:  Arachnians are so jealous of any of magick using creatures that they have been known to attack on sight.  They do not have a decent bone in their bodies and have a particularly have a great hatred of Penthanians.  Secians annoy them in an unfathomable manner.  They associate freely with Thugians and Oog-ra.  They cannot, or will not, speak Common.
+
+Background:  Arachnians are one of the oldest races, and inhabit the Great Waste.  Long ago, in a great war for domination against the Penthanians, they were robbed of their ability to use runes.  Regardless of this, they have a great understanding of the makings of magick and it will take some pretty fine magick to get one over on any of them.
+
+Advantages:  Natural armor on body, expertise with the theories behind alchemy, high resistance to magick and quick recognition of it.  They can throw web material to hold an opponent, or bite their pinned opponent with strong fangs.  The material needed to spin webs varies in amount from Arachnian to Arachnian and returns slowly after use.  Highly intelligent. Very strong. Great with their 'hands'.
+
+Use commands:  BITE <target> and WEB <size> AT <target>.
+
+Hindrances:  They cannot use rune-magick.  Cannot speak Common.  Their temperament precludes much interaction with others.
+
+Abilities:  Throw webs.  Fang bites.  Ever-increasing natural body protection.
+ 
+Alignment:  Chaotic
+
+Professions:  Preferred: Fighter
+Also:  Thief, Cleric, Barbarian
+
+
+**********************
+
+11. The Frontacians
+
+Appearance:  Tall semi-human race.  Thin & sinewy with a pale and dull complexion.  In the middle of their foreheads and their palms are what look like jewels.
+
+Eyes:  White
+Hair:  White
+
+Temperament:  Magick is as necessary as breathing.  Frontacians are aloof, and believe all life is expendable if it will benefit them. They are quick to remind you proudly of the Ages when the Frontacian Empire ruled the world.  All life is expendable if it will benefit them, but they hold themselves above the laws of other cultures and societies.  Indeed, they consider themselves so superior to others that they two sets of standards: one for their own kind, another, stricter set for all others.
+
+Tendencies:  They are quick to anger and look down upon any one or thing which cannot use magick.  They are excessively proud of magickally enchanted weapons, and with good reason.  They disdain those who lie & steal. Subject to fits of madness and fatal illness because of a genetic malady caused by some magickal event in their history, they are dependent upon a special drug used weekly.  Miss one dose, they are unstable, magick goes awry for them and around them, and they are weak and ill.  Miss two doses and they are dead.
+
+Background:  Rulers of the greatest single Empire ever to come to power in the world, the Frontacians are an ancient race.  During the Second and Third Ages when their explorations and conquests became legendary, so did their Magick.  There were great magickal bridges connecting the Empire and the other Isle Kingdoms.  Their home is Sorcerer's Isle in the Northern Sea.  While their Empire fell into disarray and ruin several Ages ago, their Magick continues to be some of the most powerful in all of Dragon's Gate. Their name comes from the Ancient Tongue, meaning "Jeweled Ones".  They have the ability to drain the energy from other peoples, using it to replenish their own natural stores.  Other travelers are very wary of any Frontacian because of this.  [And for good reason!]
+
+Advantages:  Great Magickal Ability.  With experience, will be able to enchant some of the finest magickal weapons available.
+
+Commands of use:  DRAIN ENERGY FROM <target>.
+
+Hindrances:  Unstable body chemistry requires expensive drug maintenance. They are not a strong race in constitution or in muscle power.  Few Frontacians ever study the arts of combat without magick.  Most races of the world consider them untrustworthy because of their ability and tendency to indiscriminately drain energy from others when they need it.
+
+Abilities:  Great Magick, Draining fatigue, and the eventual ability to enchant items (not implemented as of February '98.)
+
+Alignment:  Any
+
+Professions:  Preferred: Rune-Mage
+Rare:  Fighter
+
+*******************
+
+13. The Secian Race
+
+Note: Secians can be found wherever Dragons are wont to be.
+
+Appearance:  Smallest of all the races living in the world, the Secians are TINY.  The tallest among them might reach 1' 5 inches. Their hair is always blonde, their eyes ruby red. They are highly magickal, colorfully winged little fairy-like beings who are charming to behold.
+
+Eyes:   Ruby
+Hair:   Blonde
+
+Temperament: Secians are extremely helpful by nature, in fact, if you should meet one when you have been injured, they will begin to heal you immediately.  They are great friends to Dragon kind -- a friendship bound into the roots of the origin of their race.  They are extremely fond of jewels, diamonds being among their most favorite.  Natural healing empaths, these friendly little beings can be more than a little help In an adventuring party.  Highly magickal.  Almost always happy.
+
+Tendencies:  To members of other races, the unexplainable actions of Secians seem driven.  Secians will always rush to the aid of a Dragon.  The relationship between these two races, even between two who have just met is at once intense and seemingly familiar.  This caring and protective attitude is returned by the Dragons in the same way, because Dragon kind are unexplainably protective to these little ones.  Any wounded being will attract their attention and they will attempt to heal them.  Almost always cheery and fun, Secians are either Rune-Mages or members of the Clerical Orders.  They are ill-suited for anything other than magickal combat.  Even though they always serve Order, they can also be helpful to individuals and tasks which may include individuals other than those who serve Order.  They will not break laws or knowingly injure other sentient beings, and they will not lie.
+
+Background:  They are remnants of the powerful city-state of Secia, changed to this new race at the time of The Great Change.  They are both protected by Dragon kind and protectors of it. No one really knows why this special relationship exists between the smallest of the races and the largest, but there is no doubt that there is a strong binding between them.  They are overly fond of jewels and gemstones.  According to some scholars, this may be because during the Great Change the mutations of their bodies forever lost the embedded jewels. [See accounts of this disaster in histories, archives and library collections.]  They still consider Arachnians part of their 'family' and do not understand the hostility they meet with them.  Secians cannot harm any sentient race.  They will always heal any wounded they encounter.  They do not like items made of metal at all, and will not wear armor.  Secians are so tiny that they can carry very little.
+
+Advantages:  Quick recovery. Their small size makes them harder to hit. Very, VERY light and quick.  Very intelligent and charming.  They can fly with very little effort and the entire race is capable of empathic healing.
+
+Hindrances:  Very weak, Very small, able to carry very little.  Their same empathic ability to heal can also work against them.  If a Secian happens to harm a creature in close (non-magickal) combat, he will feel and experience the pain they caused to the creature.  It has been known for a Secian to die from this empathic backlash.
+
+Abilities:  Flight, empathic healing, great healing ability and quick moving.
+
+Alignment:  Orderly
+
+Professions:  Clerical Orders or Rune-Mage
+
+******************
+
+15.  The Penthanians
+
+Note: The Penthanian race originates in the Great Waste north of the Great Divide (which lies to the north of Spur).  The Penthanians reside primarily along the mountain's base, while the Arachnians hold the Waste's coastline.
+
+Appearance:  Tall human appearing race who have bodies of a soft crystalline substance.  They can be colorful, with the colors running in families.
+
+Eyes:  Black
+
+Temperament: Penthanians are aloof and tend to be somewhat unfeeling. They do not have much compassion or sympathy for others. In their dealings with other races, they can be calculating and at times purposefully deceitful.  There is a long standing hatred of Arachnians among the people of this race.  They are envious of Frontacians, who still have flesh as well as magick jewels.  Magick comes easily to Penthanians.
+
+Tendencies:  They are calculating and plan almost any action with great care.  They will look for the advantage in a situation and manipulate the scene until the advantage is even more in their favor.  They have cool heads.  Once you have earned their trust, most will not ever try to deceive you.  These people are a proud and aloof group.  They have lost their feeling in The Great Change when their bodies underwent the awful mutation caused by the releasing of UnMagick.  Some say they also lost part of the feeling in their hearts and souls at this time.  They will serve Entropy, never dedicating to any representative or deity of Order or Chaos. Most of the time, they serve themselves
+
+Background:  Named in their own tongue, "Living Jewels", the Penthanians were the authors of the UnMagick loosed at the Great Change, and suffered a backlash of effect from it which their Mages had not anticipated.  Their bodies are now crystalline, and they have been robbed of most of their sense of feeling.  Hardened, jealous and self centered, they may have also lost the ability to feel with their hearts. Ancient Legends of some accounts say that they were like this even before The Great Change, though.  Before the Great Change, these people were part of the Frontacian Empire, and were a mighty city-state of Mages. Since that time, they have continued to cultivate their magick.  Lost is their flesh, but their new hardened bodies almost make up for this loss and the jewels which used to be part of their bodies.
+
+Advantages:  High Intelligence and Wisdom.  Built like rocks. [literally!]  Able to withstand pain.  Body provides them great protection.
+
+Hindrances:  The same crystalline construction which gives them added protection also makes recovery not as easy as some peoples.
+
+Abilities:  Crystalline body structure helps protect them more so than those who must still be bound to flesh.
+
+Alignment:  Entropic
+
+Professions:  Preferred:  Rune-Mage
+Also:  Thief
+
+
+******************
+

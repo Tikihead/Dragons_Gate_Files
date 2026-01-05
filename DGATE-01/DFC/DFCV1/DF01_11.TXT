@@ -1,0 +1,912 @@
+Welcome to..                                                      
+   _____________________________________________
+ /  \                                                      \
+|    |\        THE DRAGON FIRE CHRONICLES                    \
+ \__/___\                                                      \ 
+          \           Volume 1, Issue 11                        \
+            \                                                    \
+              \   Printed this 31st  Day of the 7th  Month        \
+                \             In the Year 304                      \ 
+                  \     Sept 1st, the world outside ours            \
+                    \                                                \
+                      \      Editor: Michael Stormbringer             \ 
+                        \                                              \
+                          \  DFC Staff: Sordum Corinth                  \ 
+                           \                                             \
+                         /  \                                             \
+                        |    |                                            |
+                         \__/____________________________________________/
+
+Table of Contents:
+
+1) 	Letter from the Editor- Michael Stormbringer
+
+2) 	A Newbie's Guide to RuneMages- Auralean Sa'Kar
+
+3) 	At the Rose Tavern- Teariel Shada
+
+4) 	A tour of Meetpoint- Sordum Corinth
+
+5) 	A Thief's Perspective- Gavin Swordsbane
+
+6) 	Secian Wisdom- Wampa Kyes
+
+7)    Newbies, by a newbie- Castfighter Clay
+
+8) 	Agents of S.A.N.- Aubrei
+
+9)    Rise of the Classes- Kassandra Shadowslinker
+============================================================================
+***DFC***DFC***DFC***DFC***DFC***DFC***DFC***DFC***DFC***DFC***DFC***DFC***
+============================================================================
+Greetings Citizens of Spur,
+
+A lot has passed since the last issue, and I, for one, am no longer an Outlaw of Spur, as the issue with the peddler  Pensirilious Prenn and myself has been settled out of court. Further, he made restitution and corrected the problem I was having with my height variances, and now I am at a sound thirteen feet, and totally satisfied. Also, some time later, for service to the Governor, I have been made a Lord, don't ask how I became this, I will tell you in a story I am composing now, but I will not say further until that time. Let me get this out of the way as a reminder to be considerate when you ASSIST for help, the folks that come to your aide are not Gods, they can only GUIDE you in the ways best to reach an ends to your goals. When you do ASSIST, please remain in character as the GUIDES that come see you do so as well, it only adds to the experience and hopefully you will add to the grand picture by showing others by example. When you ASSIST and there will be times when you are directed to REPORT, please only do so if you are directed to REPORT, as most often than not, Elders are not going to hear your pleas for assistance in that manner. I trust this will make everything a better place to live if we all banded together and complied with a few simple requests from the staff that makes this all possible. Now, that I got that out of the way, back to normal topic and letter stuff. As the days pass, many things are now happening in and around Spur, hopefully others will submit things so that I am not the main source of such information, as it's all keeping me busy. So, what does that mean to you? Well, I will keep this editorial short and to the point, enjoy the stories I have included with my humble letter, after all, it's an added bonus for you all when I know you all read this DFC just for my letters. Didn't buy that last line? Well, can't blame me for trying, have fun Spur. On a good parting note, I will say that I will put out another DFC this month, around the 15th or so, as I have received enough submissions to do so.
+
+Michael
+Lord Editor in Chief- had to put it somewhere.
+
+============================================================================
+***DFC***DFC***DFC***DFC***DFC***DFC***DFC***DFC***DFC***DFC***DFC***DFC***
+============================================================================
+A Newbie's Guide to RuneMages 
+By Auralean Sa'Kar
+
+Most of this is just exerts from the Manual, but it should help new players get a better view on how to use Runemagick.
+
+The Rune-mage is a user of magick.  Those who wield magick in any form are capable of some of the greatest feats Dragon's Gate has ever known.  However, with such power also comes some equally monumental drawbacks, no matter which magickal art is chosen.
+
+The biggest restriction a mage will encounter is the amount of armor he may wear.  Many of the magickal arts require freedom of movement.  Binding armor will often reduce the effectiveness of a cast spell. Additionally, the metal used in forging the heavier suits of armor can cause a mage's spell to fizzle ineffectively, or even injure him.  This also applies to metal weapons in use. 
+
+The race of the mage can be as much of a determiner of which arts are available to a mage as his characteristics scores.  Much of a mage's life is bound up in ritual and arcane lore. Trial and error is the best way to learn to play a mage adventurer. This may make the mage the toughest character to learn to use effectively, as many unforeseen issues tend to crop up during play. However, once a good strategy of play is developed, the mage can be the most powerful adventurer available.
+
+High Characteristic scores beneficial to a mage adventurer:
+
+Strength:  Very useful to the 'combat mage', little use to other orders.
+
+Intelligence/Wisdom:  Extremely useful in learning new magick, and how to use the magick once it is learned.
+
+Dex/Agility:  Quick and precise motions are required for spell casting.
+
+Constitution:  High fatigue is necessary for casting numerous spells.
+
+Alignment: Any
+
+Especially Suited Races: Frontacian, Secian, Drag-al, Usil Elf, San Elf, Penthanian, Psycian
+
+
+Commands of use: WEAVE, INVOKE, MEMORIZE, INFO MAGICK
+
+
+Spell casting isn't always easy. How do you cast a spell? First you have to WEAVE the spell. It's recommended that you MEMORIZE it, too, but you don't have to. After you've done that, you can INVOKE the spell. Instructions for all three commands are below.
+-Auralean
+
+As you gain skill in channeling, you'll be able to use stronger weaves. You'll find that at lower levels, when you try to invoke certain spells you'll be told "You have not achieved a high enough level of skill with channeling to cast this spell!"  Meaning you need to practice more, and later on in your magick career you'll be able to cast the spell. At your starting level in channeling, you won't be able to cast many spells, but hang in there. Focus on gaining in your skill, not on buying more runes and getting more spells,
+for you won't be able to cast many. The class of Runemage takes patience and dedication. Good luck, and may your magick never fail you!
+
+Auralean Sa'Kar
+
+============================================================================
+***DFC***DFC***DFC***DFC***DFC***DFC***DFC***DFC***DFC***DFC***DFC***DFC***
+============================================================================
+Sitting on the bar of the Rose Eternal Tavern swinging my legs as i watch all the going on ..Oh, another day without a dragon...I have been looking for ages to find a bondmate...someday i will find my dragon...
+
+Just today Kinston  and Glitterwing were asking for me, but we don't really match that well...it seems all those months no dragon seemed to suite me...they slept too much or hunted the wrong things.
+
+Oh my, Glitterwing is almost as sweet as a secian and Kinston roams the lands giving good tickles  but to choose just one?  they are a pair  and need a pair...Sigh...I will wait maybe a new dragon will arrive and make me happy.. when the taxes came i was devastated all the dragons have gone I had spent days not seeing a dragon in the lands,<frowns>  maybe i should go travel other lands  i am so weary of looking in an empty Spur.
+
+Grin... oh a poor thugian is here it is hard on the dear barbarian. he is trying so hard to control his movements to a gentler pace be difficult to smash things all day and enter civilization and try to fit back in ,returning to gentler motions.. as with all thugians he is drinking heartily....OOPs  bad move pinching the barmaid  casing a ruckus ..finding it time for him to go.
+
+Oh my  Dragons arrive to hear the tales from the bard tonite.. kinda noisy but they settle down as they get served ..listening to the story of how dragons were created and their gifts from the gods...Listening to the story we whisper ,comments on the story and then more like getting to know each other again...before end of the tale I was feeling hopeful about this dragon...The second tale starts a love story about Kinston & Glitterwing romance <smiles wickedly> he also talks of how his patience pays off for him waiting for her....hmm, maybe I will find my dragon too...just be patient little one...
+
+Peqsion and I set up to go hunting after the tales are done and we make arrangement while we listen...The the room calls for us all to contribute to the night with stories and I shyly tell a small poem about how silly we look to the gods with our petty behavior.   Blushing profusely over the comments, I notice Peqsion rush out the door  ::Oh my, I hurt his feelings:: <sigh>
+
+Shortly he reappears hugging me, giving me a gift  ::Oh gasp, the biggest diamond sparklie I have ever been giving!!::   I don't know how to thank him...I want to jump and fly in the heavens for such a gift, yet I want to wrap my arms around him and cry for such a gift.
+
+As I am still sparklie struck, we leave as a group to go hunting.  Finding the pattern fits between me, Peqsion and Firewraith, I am feeling so content.  It was joyful when Firewraith and I found we fit together, it is overwhelming to find us all working together as a team without thoughts or words.  By the time we have hunted ourselves out, it was an unspoken and unanimous decision that we could easily be bond mates.  I spent our time apart pondering how wonderful it was to find him.
+
+Ah, but the joy as we learn and grow together <giggle>  I find him to be a slave driver about my training and yet he is as caring and gentle when we are done.
+
+Oh my dragon with the heart of gold and the honor as bright as diamonds, I am looking forward to many adventures with you.  My giant sparklie he is.  No other sparklie will shine as bright in my eyes ever again.
+
+Funny that we have hunted before...and yet until now we never managed to click...I guess we needed to grow and learn before we were ready for each other...So patience my secians, when the time is right you will suddenly see each other in a new bright shining light.  There will never be another cloud in your world again.
+
+
+Teariel Shada
+Devoted Heart Cleric of Odarous
+============================================================================
+***DFC***DFC***DFC***DFC***DFC***DFC***DFC***DFC***DFC***DFC***DFC***DFC***
+============================================================================
+[Meetpoint gate.]
+
+Before you is a tall, wooden stockade wall with a sturdy gate set into it. There are several uniformed guards staring down from its top at all who come here. Though dirty, the walls and town beyond seem well built.  
+
+This area is illuminated.
+You see the 1st tiny mouse (wearing a small gold collar).
+Obvious paths: northeast.
+
+Sordum says, "Welcome to your tour of meetpoint!"
+
+Sordum says, "Please form a line, no touching anything, and please no flash photographs."
+
+Sordum says, "Meetpoint was founded by gnomes in the early days as a trading post with the rijom."
+
+Sordum says, "Now it is one of the favorite tourist sights in the spur!!!"
+
+A guard captain just sauntered in right next to you!
+
+The guard captain wanders northeast.
+
+Sordum says, "Lets head into the the city shall we?"
+
+[Meetpoint.]
+
+Along the tops of the walls around Meetpoint, are a series of walkways that the guards use to patrol both outside and inside the town. The gate leads back outside while the town center lies to the southwest.  
+
+This area is illuminated.
+You see the 1st tiny mouse (wearing a small gold collar).
+Obvious paths: southeast southwest northwest.
+
+Sordum says, "Meetpoint is constantly on gaurd against invaders from all directions."
+
+Sordum says, "Being located in the Southlands they tend to get more criminal activity, let alone the lack of defense from being so far from the spur."
+
+Your flaming Jaxie-ka-bob-ie flickers for a moment.
+
+Sordum says, "The gaurds work the walls all day and night, making sure the town is safe for all its inhabitants. And of course for tourists like us!"
+
+[Meetpoint]
+
+Set into the base of a stubby tower to the east, there is a sturdy-looking door. The tower barely tops the stockade it is built into. The muddy street here has seen little traffic other than town guards.  
+
+This area is illuminated.
+You see the 1st tiny mouse (wearing a small gold collar).
+Obvious paths: southwest northwest*.
+
+Sordum says, "There are four gaurd towers located in a square shape here in the town."
+
+Sordum says, "The walls connect between the towers."
+
+Sordum says, "Please follow me in through the door, and watch your step."
+
+[Meetpoint guard tower.]
+
+Double and triple bunk beds line the walls and cover the floor of this large tower room. A sturdy ladder climbs up to an iron trapdoor leading up to the roof. Town guardsmen enter and exit through a stout oak door.  
+
+This room is illuminated.
+You see the 1st meetpoint guard, the 2nd meetpoint guard, and the 1st tiny mouse (wearing a small gold collar).
+Obvious exits: None.
+
+You bow to the meetpoint guard.
+>
+The meetpoint guard wanders out via the open oak door.
+
+The meetpoint guard wanders out via the open oak door.
+
+The tiny mouse makes a chittering sound.
+
+Sordum says, "This is the sleeping quarters for some of the guards, as you can see they have all there needs taken care of."
+
+Sordum says, "Now, one of the secrets of meetpoint, could I get you to step off that area there please?"
+
+You raise an eyebrow.
+
+You nod.
+
+Sordum says, "Thank you."
+
+Sordum Pulls open a small trap door in the ceiling
+
+Sordum says, "Please head on up one at a time, and be careful."
+
+[Meetpoint guard tower.]
+
+Short, crenelated walls ring the top of this tower and keep the clumsy from their own folly. Below you, you can see a narrow river flowing in from the east and bending south along the base of the town's stockade walls.  
+
+This area is illuminated.
+You see the 1st tiny mouse (wearing a small gold collar).
+Obvious paths: None.
+
+A townsman just wandered in right next to you!
+
+You point down.
+
+The townsman wanders out via the open iron trapdoor.
+
+Sordum says, "This is one of the greatest views perhaps in all the lands."
+
+Sordum says, "Many guards spend hours out of there day simply sitting here and thinking."
+
+Sordum says, "Well back to the main street."
+
+The tiny mouse cleans its face.
+
+[Meetpoint guard tower.]
+
+Double and triple bunk beds line the walls and cover the floor of this large tower room. A sturdy ladder climbs up to an iron trapdoor leading up to the roof. Town guardsmen enter and exit through a stout oak door.  
+
+This room is illuminated.
+You see the 1st townsman and the 1st tiny mouse (wearing a small gold collar).
+Obvious exits: None.
+>go door
+[Meetpoint]
+
+Set into the base of a stubby tower to the east, there is a sturdy-looking door. The tower barely tops the stockade it is built into. The muddy street here has seen little traffic other than town guards.  
+
+This area is illuminated.
+You see the 1st tiny mouse (wearing a small gold collar).
+Obvious paths: southwest northwest.
+>sw
+[Meetpoint.]
+
+All alone, a single guard paces to and fro on the walkway that runs along the top of the stockade. He seems totally indifferent to your presence. You can make out the faint sound of water from beyond the wall.
+
+This area is illuminated.
+You see the 1st tiny mouse (wearing a small gold collar).
+Obvious paths: northeast* southwest northwest.
+
+Sordum says, "That is Carl the guard, brother of the famous gate guard of spur, Arane who ran himself threw with his spear."
+
+A meetpoint guard just sauntered in right next to you!
+
+The meetpoint guard wanders southwest.
+
+Sordum says, "His brother was said to have been saved by a magic helm, which is rumord to be in the hands of one Reywind the Anthian at this very moment!"
+
+Sordum says, "Carl has long since lost his mind, and is obsessed with recovering the helm that saved his brothers life."
+
+[Meetpoint Square.]
+
+The Meetpoint town square gives a false impression of grandness. Behind the intricate store fronts about you, hints of the rough logworks beneath peek out. Still, business here is always brisk.
+This area is illuminated.
+You see the 1st tiny mouse (wearing a small gold collar).
+Obvious paths: north* northeast east* southeast* south* southwest west* northwest.
+>se
+[Meetpoint.]
+
+All alone, a single guard paces to and fro on the walkway that runs along the top of the stockade. He seems totally indifferent to your presence. You can make out the faint sound of water from beyond the wall.
+
+This area is illuminated.
+You see the 1st rijom plainsfolk and the 1st tiny mouse (wearing a small gold collar).
+Obvious paths: northeast southwest northwest*.
+>sw
+[Meetpoint.]
+
+Set into the southern corner is a small, sturdy door. It leads into a small tower that barely rises up over the stockade around it. You can make out the sound of water splashing on something nearby.  
+
+This area is illuminated.
+You see the 1st meetpoint guard, the 1st trader, the 1st merchant, and the 1st tiny mouse (wearing a small gold collar).
+Obvious paths: northeast* northwest.
+
+[Meetpoint.]
+
+Set into the southern corner is a small, sturdy door. It leads into a small tower that barely rises up over the stockade around it. You can make out the sound of water splashing on something nearby.  
+
+This area is illuminated.
+You see the 1st meetpoint guard and the 1st tiny mouse (wearing a small gold collar).
+Obvious paths: northeast northwest.
+
+Sordum says, "Here is another one of Meetpoint's towers."
+
+The townsman wanders out via the open oak door.
+
+Sordum says, "it is exactly like the other in nearly every dimension."
+
+Your flaming Jaxie-ka-bob-ie flickers for a moment.
+go door
+[Meetpoint guard tower.]
+
+Double and triple bunk beds line the walls and cover the floor of this large tower room. A sturdy ladder climbs up to an iron trapdoor leading up to the roof. Town guardsmen enter and exit through a stout oak door.  
+
+This room is illuminated.
+You see the 1st merchant, the 1st old rogue, the 1st meetpoint guard, the 1st townsman, and the 1st tiny mouse (wearing a small gold collar).
+Obvious exits: None.
+
+The tiny mouse skulks nervously.
+go tra
+[Meetpoint guard tower.]
+
+Short, crenelated walls ring the top of this tower and keep the clumsy from their own folly. Flowing all along the southern stockade walls of the town, a narrow river runs from east to west. Meetpoint stretches out to the north.  
+
+This area is illuminated.
+You see the 1st tiny mouse (wearing a small gold collar).
+Obvious paths: None.
+
+[Meetpoint guard tower.]
+
+Double and triple bunk beds line the walls and cover the floor of this large tower room. A sturdy ladder climbs up to an iron trapdoor leading up to the roof. Town guardsmen enter and exit through a stout oak door.  
+
+This room is illuminated.
+You see the 1st merchant, the 1st meetpoint guard, the 1st townsman, the 1st old rogue, and the 1st tiny mouse (wearing a small gold collar).
+Obvious exits: None.
+>go door
+[Meetpoint.]
+
+Set into the southern corner is a small, sturdy door. It leads into a small tower that barely rises up over the stockade around it. You can make out the sound of water splashing on something nearby.  
+
+This area is illuminated.
+You see the 1st tiny mouse (wearing a small gold collar).
+Obvious paths: northeast northwest.
+
+[Meetpoint.]
+
+Set into the southern corner is a small, sturdy door. It leads into a small tower that barely rises up over the stockade around it. You can make out the sound of water splashing on something nearby.  
+
+This area is illuminated.
+You see the 1st tiny mouse (wearing a small gold collar) and the 1st old rogue corpse.
+Obvious paths: northeast northwest.
+>nw
+[Meetpoint.]
+
+Guards look down from narrow crosswalks on those who pass through the gate in and out of Meetpoint here. The main tradeway heads off into town to the northeast while unpaved roads leads off in the other directions.  
+
+This area is illuminated.
+You see the 1st meetpoint guard, the 2nd meetpoint guard, and the 1st tiny mouse (wearing a small gold collar).
+Obvious paths: northeast southeast* northwest.
+>
+The meetpoint guard wanders out via the open wood gate and says "May the luck of Errol smile upon you!"
+
+The meetpoint guard wanders northwest.
+
+Sordum says, "Through this gate is the exit to the far southlands, once you cross over the bridge you are in Oliphant territory."
+
+Sordum says, "Some of the greatest hunters of our time have been rumored to actually find, and kill a true Oliphant."
+
+Sordum says, "Something unheard of in the past, some day in your life maybe you to will capture the hide of one of these great beasts."
+
+You smile.
+
+[Meetpoint.]
+
+Set into the west wall is a small, sturdy door. It leads into a rough tower that barely tops the town walls to give a view out onto the plains. Near the tower's top, you see several fish hanging down on a line.  
+
+This area is illuminated.
+You see the 1st tiny mouse (wearing a small gold collar).
+Obvious paths: northeast southeast*.
+
+Sordum says, "Here is yet another one of the towers."
+
+Sordum says, "You can see the fish there, perhaps the guards dinner."
+
+[Meetpoint guard tower.]
+
+Double and triple bunk beds line the walls and cover the floor of this large tower room. A sturdy ladder climbs up to an iron trapdoor leading up to the roof. Town guardsmen enter and exit through a stout oak door.  
+
+This room is illuminated.
+You see the 1st tiny mouse (wearing a small gold collar).
+Obvious exits: None.
+>
+The tiny mouse cleans its face.
+
+[Meetpoint guard tower.]
+
+Short, crenelated walls ring the top of this tower and keep the clumsy from their own folly. The river flowing to the south departs from the town and continues its way west. A dark line runs along the far western horizon.  
+
+This area is illuminated.
+You see the 1st townsman, the 2nd townsman, and the 1st tiny mouse (wearing a small gold collar).
+Obvious paths: None.
+>go tra
+[Meetpoint guard tower.]
+
+Double and triple bunk beds line the walls and cover the floor of this large tower room. A sturdy ladder climbs up to an iron trapdoor leading up to the roof. Town guardsmen enter and exit through a stout oak door.  
+
+This room is illuminated.
+You see the 1st tiny mouse (wearing a small gold collar).
+Obvious exits: None.
+>go door
+[Meetpoint.]
+
+Set into the west wall is a small, sturdy door. It leads into a rough tower that barely tops the town walls to give a view out onto the plains. Near the tower's top, you see several fish hanging down on a line.  
+
+This area is illuminated.
+You see the 1st tiny mouse (wearing a small gold collar).
+Obvious paths: northeast southeast.
+>ne
+[Meetpoint.]
+
+The road alongside the stockade here is crude and unpaved. Meetpoint guards and few others avail themselves of this route. You can make out the beginnings of cobblestones a ways to the southeast.
+
+This area is illuminated.
+You see the 1st tiny mouse (wearing a small gold collar).
+Obvious paths: northeast southeast southwest*.
+
+Sordum says, "Watch your step along the road here, its still in need of work. "
+
+Sordum says, "Many a thief is said to have captured a fortune in gold picking tourists of there money along this road, we will move along as quickly as possible."
+
+[Meetpoint.]
+
+Set into the base of the northern corner of the wall is a small, sturdy-looking door. Above you, a squat tower rises up just high enough to peer out over the stockade onto the plains beyond.  
+
+This area is illuminated.
+You see the 1st tiny mouse (wearing a small gold collar).
+Obvious paths: southeast southwest*.
+
+Sordum says, "And here is the last of the towers."
+
+Sordum says, "Relatively the same as the others."
+
+[Meetpoint guard tower.]
+
+The Meetpoint guard tower stands watch over the town. Plain wood benches line the well scuffed walls where many a guard has pulled duty.  
+
+This room is illuminated.
+You see the 1st tiny mouse (wearing a small gold collar).
+Obvious exits: None.
+
+The room is full, your familiar stays behind.
+[Meetpoint guard tower.]
+
+Short, crenelated walls ring the top of this tower and keep the clumsy from their own folly. North, a wide open plain stretches out before your eyes. The squat buildings of Meetpoint spread out to the south.  
+
+This area is illuminated.
+You see the 1st guard captain, the 1st townsman, the 1st meetpoint guard, the 2nd townsman, the 2nd meetpoint guard, the 3rd townsman, the 3rd meetpoint guard, the 4th meetpoint guard, the 5th meetpoint guard, the 6th meetpoint guard, the 7th meetpoint guard, the 4th townsman, the 8th meetpoint guard, the 5th townsman, the 6th townsman, the 7th townsman, the 8th townsman, the 9th meetpoint guard, the 10th meetpoint guard, and the 11th meetpoint guard.
+Obvious paths: None.
+>
+
+[Meetpoint guard tower.]
+
+The Meetpoint guard tower stands watch over the town. Plain wood benches line the well scuffed walls where many a guard has pulled duty.  
+
+This room is illuminated.
+You see the 1st tiny mouse (wearing a small gold collar), the 1st townsman, the 2nd townsman, the 1st guard captain, the 3rd townsman, the 1st meetpoint guard, the 4th townsman, the 2nd meetpoint guard, the 5th townsman, the 3rd meetpoint guard, the 4th meetpoint guard, the 5th meetpoint guard, the 6th meetpoint guard, the 6th townsman, the 7th meetpoint guard, the 7th townsman, the 8th townsman, the 9th townsman, the 10th townsman, and the 8th meetpoint guard.
+Obvious exits: None.
+>go door
+[Meetpoint.]
+
+Set into the base of the northern corner of the wall is a small, sturdy-looking door. Above you, a squat tower rises up just high enough to peer out over the stockade onto the plains beyond.  
+
+This area is illuminated.
+You see the 1st tiny mouse (wearing a small gold collar).
+Obvious paths: southeast southwest.
+>se
+[Meetpoint.]
+
+Along the tops of the walls around Meetpoint, are a series of walkways that the guards use to patrol both outside and inside the town. The gate leads back outside while the town center lies to the southwest.  
+
+This area is illuminated.
+You see the 1st meetpoint guard, the 2nd meetpoint guard, the 3rd meetpoint guard, and the 1st tiny mouse (wearing a small gold collar).
+Obvious paths: southeast southwest northwest*.
+>
+The meetpoint guard wanders southeast and says "So little time, so much to do.  Bye!"
+
+The 2nd meetpoint guard wanders out via the open wood gate.
+
+Sordum says, "And now we are back to the main entrance where we started our tower."
+
+Armonius smiles.
+
+You smile.
+>
+Armonius says, "Greetings, Sordum."
+
+Armonius bows.
+
+The tiny mouse skulks nervously.
+
+Sordum says, "Good day."
+
+Sordum Points the group of people behind him he is giving a tour to
+
+Armonius says, "I suppose there is no chance of finding Rehas' repairman?"
+
+Armonius chuckles.
+
+Armonius waves his shimmering ice mystical-blade.
+
+Armonius says, "I am in sore need of a repair."
+
+Sordum says, "No, I think he along with everyone else is off for the next few days."
+
+Armonius sighs.
+
+Armonius says, "This entire mess grieves me sorely."
+
+Armonius mutters something beneath his breath.
+
+Sordum says, "The merchants are having a bit of a quarrel folks, nothing to be to worried about."
+
+You nod.
+
+Armonius chuckles.
+
+Armonius says, "I shall let ye get back to yer tour."
+
+You smile at Armonius.
+
+Armonius says, "Be well, friend."
+
+Armonius bows.
+
+You bow.
+
+Armonius, wishing all the "Nobles" really were, just went southwest.
+
+
+Sordum says, "Next we move on to the town square of meetpoint,"
+
+Sordum says, "One of the busiest places in the town."
+>sw
+[Meetpoint Square.]
+
+The Meetpoint town square gives a false impression of grandness. Behind the intricate store fronts about you, hints of the rough logworks beneath peek out. Still, business here is always brisk.
+
+This area is illuminated.
+You see the 1st tiny mouse (wearing a small gold collar).
+Obvious paths: north* northeast* east* southeast south* southwest west* northwest.
+
+Armonius, tired of pushing, tackling, and disguises, just entered from the east.
+
+Armonius smiles.
+
+Sordum says, "Truly this the center of commerce for the entire area."
+
+Armonius says, "Why is everyone in TS saying Meetpoint is closed?"
+
+Sordum says, "The rijom bring there furs to trade along with other merchants."
+
+Sordum says, "The Meetpoint shops have closed for the next few days."
+
+Armonius furrows his brow.
+
+Sordum says, "To add a note, the tourist gift shop is still open. And you can purchase all the fine items that we sell."
+
+[Meetpoint Bank.]
+
+The Bank of Spur has opened this branch office for the ease and convenience of its many customers. Those who travel the Southern Tradeway and are unexpectedly short of cash on their journeys, find it most welcome.
+
+This room is illuminated.
+You see the 1st shrieking oyster (wearing a small gold collar) and the 1st tiny mouse (wearing a small gold collar).
+Obvious exits: south*.
+>
+The tiny mouse chases its tail.
+
+Sordum says, "yes though the merchants may strike, the tourist trade never falters. We are here for you."
+
+You smile.
+
+Sordum says, "This is the meetpoint bank, the place where people from all over the land come to deposit money and withdraw, take out loans, and keep items in there safe deposit box."
+
+Sordum says, "If you are in need of depositing any money at all, please do so here."
+>s
+[Meetpoint Square.]
+
+The Meetpoint town square gives a false impression of grandness. Behind the intricate store fronts about you, hints of the rough logworks beneath peek out. Still, business here is always brisk.
+
+This area is illuminated.
+You see the 1st tiny mouse (wearing a small gold collar).
+Obvious paths: north* northeast east* southeast south* southwest west* northwest.
+>e
+[Meetpoint Traders.]
+
+This shop is cluttered with all manner of goods. From weapons and armor, to assorted knick-knacks. Many goods are of a design used by the Rijom, the people who roam and hunt the plains outside town.  A giant sparkling gold sign is here.
+
+This room is illuminated.
+You see the 1st tiny mouse (wearing a small gold collar).
+Obvious exits: west*.
+
+Sordum says, "This is the largest shop in meetpoint, and perhaps the finest,"
+
+Sordum says, "Carrying any number of weapons and armor crafted by some of the best weapon and armor smiths ever."
+
+Sordum says, "I would have to say our tourist shop sells much better items though, and at a much more affordable price."
+
+You wink.
+
+Sordum says, "Note the sign telling of all that is occurring."
+
+The giant sparkling gold sign reads:
+"The Merchant's Guild are closing all stores in a boycott until the Merchant Pensirilious Prenn has received proper Justice."
+
+You nod.
+>w
+[Meetpoint Square.]
+
+The Meetpoint town square gives a false impression of grandness. Behind the intricate store fronts about you, hints of the rough logworks beneath peek out. Still, business here is always brisk.
+
+This area is illuminated.
+You see the 1st tiny mouse (wearing a small gold collar).
+Obvious paths: north* northeast east* southeast south* southwest west* northwest.
+>s
+[Meetpoint Inn.]
+
+Behind the small registration desk are the doors leading back to the private rooms. While most people choose to remain with their goods while in town, there are those who want a break from bedrolls and hard ground.
+
+This room is illuminated.
+You see the 1st tiny mouse (wearing a small gold collar).
+Obvious exits: north*.
+>
+The tiny mouse skulks nervously.
+
+The tiny mouse skulks nervously.
+
+Sordum says, "Welcome to the meetpoint Inn, im sure many of you know of it already because you are staying here."
+>
+Your flaming Jaxie-ka-bob-ie flickers for a moment.
+
+The tiny mouse skulks nervously.
+
+Sordum says, "This is one of the finest Inn's in the land, the service here is amazing."
+
+Sordum says, "They say any time you want they will even come and fluf your pillow!"
+
+You nod up and down.
+>
+The tiny mouse chases its tail.
+n
+[Meetpoint Square.]
+
+The Meetpoint town square gives a false impression of grandness. Behind the intricate store fronts about you, hints of the rough logworks beneath peek out. Still, business here is always brisk.
+
+This area is illuminated.
+You see the 1st tiny mouse (wearing a small gold collar).
+Obvious paths: north* northeast east* southeast south* southwest west* northwest.
+>w
+[Meetpoint Tavern.]
+
+Many a weary traveler stops here at Journey's End in their travels along the Southern Tradeway. A large bar starts near the entrance and nearly fills the room. A narrow stairway goes down behind it.  
+
+This room is illuminated.
+You see the 1st tiny mouse (wearing a small gold collar).
+Obvious exits: east* west*.
+>
+The tiny mouse makes a chittering sound.
+
+The tiny mouse skulks nervously.
+
+Sordum says, "This is the Meetpoint tavern, not a to well known Tavern do to there high prices."
+
+Sordum says, "But it serves some pretty good ale, in general the tavern is enough to satisfy the residents of meetpoint."
+>w
+[Meetpoint Tavern.]
+
+This small side room is usually reserved for those wishing private dining. A well-worn, but crude table with a pair of benches for seats takes up most of the room. At least it is fairly quiet and out of the way.  
+
+This room is illuminated.
+You see the 1st tiny mouse (wearing a small gold collar).
+Obvious exits: east*.
+
+Sordum says, "This is the private dinning area, nothing special about it really. Just a nice place to sit with someone special."
+>e
+[Meetpoint Tavern.]
+
+Many a weary traveler stops here at Journey's End in their travels along the Southern Tradeway. A large bar starts near the entrance and nearly fills the room. A narrow stairway goes down behind it.  
+
+This room is illuminated.
+You see the 1st tiny mouse (wearing a small gold collar).
+Obvious exits: east west*.
+
+>go stair
+[Cellar.]
+
+Several dozen huge casks and large kegs are neatly stacked against the wall opposite the narrow stairway that leads back up to the tavern above. For some reason, there are about twice as many water barrels here as well.  
+
+This room is illuminated.
+You see the 1st tiny mouse (wearing a small gold collar).
+Obvious exits: east.
+
+You grin.
+
+Sordum says, "And here you see one the problems with this tavern."
+
+Sordum says, "They water down there beer."
+
+Sordum says, "Just look at all these water barrels."
+>snort
+You snort.
+>e
+[Cellar.]
+
+The shelves lining the walls are filled to overflowing with dry goods and serving utensils. Three tall racks, standing apart in the center of the room, are partially filled with thin, dusty wine bottles.
+
+This room is illuminated.
+You see the 1st tiny mouse (wearing a small gold collar).
+Obvious exits: west*.
+
+Sordum says, "Here is the main wine room."
+
+Sordum says, "Some of the truly best wine in the land is believed to sit in this cellar gaining age and taste."
+
+Sordum says, "Some day perhaps someone will be able to afford a bottle of it."
+
+Sordum says, "And with that, I bring this tour to a close."
+
+Sordum says, "As you have seen, Meetpoint, though a small town is filled with excitement and information."
+
+Sordum says, "I invite you all to explore it further in your free time."
+
+Sordum says, "Now if you will follow me, I'll lead you to the gift shop where you can get nearly anything you have ever dreamed of."
+
+Sordum says, "And for enough you could even pick up this incredibly attractive t-shirt."
+
+Sordum rubs his cotton I am a tourist t-shirt.
+
+Sordum Listens to the crowd applaud and clap
+
+You bow.
+============================================================================
+***DFC***DFC***DFC***DFC***DFC***DFC***DFC***DFC***DFC***DFC***DFC***DFC***
+============================================================================
+A Thieves Perspective
+by Gavin Swordsbane
+
+Greetings.  You have just taken a very dangerous step into the twisted mind of me, Gavin.  This column will hopefully become a regular feature, if I deem it worthy of my time.  You may recognize this as similar to an AOL news and humor column called 'Buzzsaw.'  Thats because I have copied that concept and decided to apply it to the Spur.  Shameless, yes, but anyone who knows me would expect nothing more.
+
+A few notes before I get started.  First, this column will have both in character (IC), and out of character (OOC) references.  Second, although I may make fun of individuals, game mechanics, and just about anything else, that doesn't mean that I don't appreciate all the interesting things that happen in this world.  And lastly, please feel free to send comment and events that should go in this column to GemDerek@aol.com.
+
+A Thieves Perspective - August 10 through September 1, 1997
+
+A Scream in the Night...
+Slepinfire the Dragon completed the rare process of staging, and has changed to a ruby colored second stage dragon.  In an unrelated note, Sylvenn the Secian was arrested by Justices later that night and charged with purchasing one of the largest amounts of illegal heavily-concentrated Reduxa in spurian history.   Also found in the bugs home were some press-on scales, and several empty cans of ruby paint.  The location of the illegal Reduxa is currently unknown, but the person who uses it would likely gain lots of weight and possibly even grow several feet.
+
+One Stages, Another Hits the Road...
+Earlier this month Thoro Hav'Shal, the Rogue Dragon was banished permanently from the Spur.  Spurian Justices finally took action after discovering that he had repeatedly abused bugs, even after being warned.  A memorial service consisting of a collection plate for 'charity,' and 'Toro Haskall' scrawled on a scrap of paper was held at the House of the Dead.  Attendance was limited to the thief who planned to work the crowds at the service, not knowing that everyone hated him.
+
+Moronic Merchants...
+Spurian and Meetpoint shops were closed for nearly two weeks as a result of the vigilante slaying of Pensirillious the Merchant.  Pensirillious sold Michael Stormbringer a faulty growing potion, causing him to not only grow - but shrink too.  All shops were closed except the Jewelers Guild, who continued to buy gems at the normal price.  And the bank, which continued to allow deposits and withdrawals.  And the Runemages Guild who continued selling and recharging runes.  And a Pawnshop that no one seemed to know about.  And all the training facilities.  Well, a couple crappy shops that no one has ever used closed anyway.  All shops were reopened when it was discovered that the Merchant did indeed sell Michael a faulty product.  An unknown source said that 'Pensirillious backpedaled like a noble in the middle of the Poor Quarter.'
+
+Justice is Served...
+Jhered the San Elf was acquitted of wrongdoing during a two-day trial in which he was accused of the murder of countless Secians.  Jhered was reportedly responding to the theft of his armor by Michael Stormbringer, who took it after a botched assassination attempt by the San Elf.  The charges were dismissed when none of the prosecution, nor any of the witnesses of the supposed genocide showed up for the trial.  Among the high-pitched whines, Benni the Secian was reported to have said 'I expected a written invitation and an escort to the trial.  How was I supposed to know that the trial would actually resume at the time the Justice said it would?!(Note:  The preceding quote has been translated from Secian to Common for your convenience.)'  Jhered commented "Its good to know that its still legal to kill insects in the Spur."  Congratulations Jhered, and keep up the good work!
+
+Monsters Get Smart...
+Adventurer's bank accounts have been hurting recently because of the new locks being put on chests by various critters.  Local thieves are working on the problem though, furiously searching out locks to pick.  So far Konichiwa and myself have gotten to level 2 in the picklocks skill.  It only took me about 18 hours of work and just over 100k.  With a skill this easy, someone may be able to open a shade chest within the next 2 or 3 years!
+
+Whats Next?
+The next edition of "A Thieves Perspective" should be very interesting.  Among the stories to come is complete coverage of the quest to stop that Archdemon from doing whatever bad stuff he might do, new developments about Arioch, a Lord of Chaos, who has been recruiting followers in the Spur, and an investigation into possible corruption of the Spurian Justices!  See you next time...
+============================================================================
+***DFC***DFC***DFC***DFC***DFC***DFC***DFC***DFC***DFC***DFC***DFC***DFC***
+============================================================================
+Secian Wisdom 
+by Wampa Kyes
+
+Hi, this is Wampa Kyes, another Secian. I was looking through the old DFCs and found a
+column titled, "Secian Wisdom" It was a pretty good article, so I decided to resurrect it. I
+hope everyone enjoys this, and here goes:
+
+10. Never try to fam anything that can kill you in one hit.
+9. Don't lay down in the southlands with no armor and yell, "Here fire ants!"
+8. Don't fly at 1275 feet in a non-peacebonded area.
+7. Don't walk into the Dragon's lair and go swimming without being invited (rude).
+6. Trying to reveal everyone in TS won't make friends.
+5. Don't try to hide in TS if you're not good at hiding.
+4. Check you aim so you hit the cicada instead of the cat.
+3. Don't lead newbies to the Reaper Marsh and tell them it's the fam hut (...even if you do
+get your fams there.)
+2. Offer money to soon-to-be rezzers.
+1. Be happy and have fun.
+============================================================================
+***DFC***DFC***DFC***DFC***DFC***DFC***DFC***DFC***DFC***DFC***DFC***DFC***
+============================================================================
+NEWBIES!!!!!!- (EDITOR'S Note: This is how I received it, I'm not about to try to fix it, so suffer.)
+
+ok well this only goes for the NEWBIE killers i see no reason.. in newbie killing they are the people who will lead the spur at one day.. if you keep killing them then this will never stop! look at it like this. you was  A newbie at one time! you should know 
+how it feels to be killed when you are a newbie! why would you want to put someone else in this pain! is it because that you just want to show off your skills... Woo Hoo!!!
+you killed a newbie you are so cool... ::grins:: well its lam... if you think about it... you fight someone who doesnt have the skill to even hit you Back! ::growls:: it makes mad to even think about it! now im not saying all of you kill newbies dont get me wrong! but i would like to show you some of the feedback i got when i ask why do you kill newbies! 
+
+(person told me not to say a name!) I like it because it makes me feel like my hard work to get good payed off. i was also picked on when i was a newbie so its only fair i get to do the same.
+
+my comment: heh if you think you are a man for killing newbies well you are wrong! you just kill the weak! and i ask him why dont you try to kill people that have a chance! im not saying im good at all because i would be lieing but i just cant stand to see the newbie killing!
+
+( Kalikaa MotherofDarknes said) I kill newbies for a couple very simple reasons...Maybe some people won't understand them but they make sense to me so don't complain to me if you don't like it!!!....Well i kill newbies 1) Cuz some/most of them are SO annoying always asking..How do i move? Where do I get a weapon? Can I have money?...etc! 2) Most of them have STUPID names for instince just today I killed a newbie named BrickHead!..C'mon on people! Brickhead?..What were his parents smokin'? 3) Most of them CC (cross-character) they'll die or sumpthin' den dey'll come back as someone else and den announce to the world who their other character is! Or if i get in a fight with one of em cuz they all tink' dey all dat as soon as dey get a saber and some trainin' armor! Dey tink dey own Spur! Den dey come back and run in da room i'm in and start swingin' at mes and screamin' who they are and that i'm gonna get it now ::rolls her eyes:: ...Well that's why i kill em'...Maybe some people don't agree wit it! But who told u to?
+
+
+i would also like to show you some feedback from people who DONT like NEWBIE 
+killing.....
+
+(blackcrow said) I hate to kill newbies because they don't even got a chance against you, unless they are a theif, they deserve to Die. Its like real life going and killing ants to feel superior...
+
+(he never gave me his name so we will call him unknown! said)Newbies are all potentially good. I normally give them the benifit of the doubt. Help em out, see what kind of a player they will be. If they are gonna benifit the Spur help em a little more. If they are gonna cause problems and degrade play, kill em.
+
+
+(Guztymne RHR said)
+Personally, as my profession (forestry) goes, I am obliged to say that New-folk (commonly known as Newbies) killiing is bad.  Apparently, it's cruel to kill folks who don't even have a chance to defend themselves.  ::thinks of attacking someone who is asking about weaving runes... not a good sign::  Doesn't it show what kind of level Spur has sunken to?  Besides, with honor, I disapprove of bloodshed.On the other hand, people may rationalize that these Newfolks have not invested much time in their person, so, killing them and stripping their pocessions is better than killing a 2nd stage dragon.  But you must consider- how much money do Newfolks carry around?  Most only have a torch.  It's not worth it, I tell you.  Who kills newbies nowadays??  Hardly anyone.  
+
+if i may i would like to tell you what i think of it! well heres a little something for you to think about. yes thats right i just asked you to use your brain alittle.
+one day there was a newbie named backyard he was sitting down one south of the ts just minding his on business.. well kamal a big strong man come walking in the room well as you know heh this big strong man seen this little weak newbie so he thought! he would have some fun so he drawed his sword and kills the newbie well the newbie said thats it! before you know it this newbie got good got real strong! well he was just going around in the spur and he comes up to a newbie what do you think hes going to do? thats right hes not going to try to help hes going to draw a weapon and kill him! because thats what happened to him! so stop the newbie killing and maybe one day the spur will be a nice place to live! ::thinks of a time where maybe newbies can live without being killed!::
+
+Ok theres both sides of it! (sorry i didnt get to ask everyone in the spur it would have been nice to see the come out on that one!) ::grins:: ok well lets get back to the point! ok we seem to have some people who make newbie killing into a game! i will not say names! but i would just like to tell you guys in the TG well when you come over to the spur! get ready i would suggest! haveing a little money! ::grins:: no not to get picked from you.... just so you can buy better armor and better weapons..etc!
+
+
+some notes for newbies comeing in from the TG!
+
+1. when carrying money  ret 2 maybe 3 uds its up to you!
+
+2. never just start trying to kill a person at at anytime wait let him hit you first so you know what you are fighting and then you can see if you want to fight it! if you are hit well i guess its up to you if you want to fight back!
+
+3. never carry money around just to be carrying it! keep it in the bank!
+
+4. dont ask alot of stuff it makes some people mad! one maybe two questions would be fine but dont keep asking stuff! 
+
+5. keep updated on the VER. notes...... get Maps learn your own way around (now for the first few days you are there i see nothing bad about following someone but after that you should be able to just about get around!)
+
+ok well i hope that this helped some of you! open your heart! maybe you want kill newbies anymore well aleast you can maybe stop before you swing at a newbie! and think how is this guy ever... going to get good if you keep killing him/her... if the newbies name is funny tell him (maybe you should get a new name and help them make a new name.... if they ask to many questions say maybe you should d/load the manual..... if they ask you to take them somewhere take them if you have the time but make sure you tell them to watch where we are going so next time you can find your on way! and tell him it would be a good idea to get some maps! tell him where he can get some maps if him/her doesnt know where to get them!  help them dont  kill them let them  have a life with out death protect them!                                                                
+
+thank you,
+~Castfighter Clay the human!!!!! ::grins::
+============================================================================
+***DFC***DFC***DFC***DFC***DFC***DFC***DFC***DFC***DFC***DFC***DFC***DFC***
+============================================================================
+I am an Agent of S.A.N. (Smiles Are Nice).  With my two companions, Chelestra the Anthian Bard, and Jimbo, Forum Leader Extrodaire, I seek to spread happiness throughout the land.  On the day of this adventure, we journeyed though the early morning dew to S.A.N. Central.  Jimbo was excited on meeting the Secian we called "Boss", Code-Named "Shortly".  He fingered his NUKE button in anticipation of our next assignment.  
+Every time we reached the impressive building the housed S.A.N. Central I needed to stop and admire the awe- inspiring greatness of it.  Shaking it out of my mind, I ducked my head and followed Jimbo and Chelestra into the hut.  As my eyes were adjusting to the darkness, I heard a cheerful, upbeat voice say: " So, you finally got here." Jimbo replied, "Sorry, Chelestra got beaten senseless by a squirrel, we had to heal her.  Nodding, the peppy disembodied voice lit a torch. In the flickering light I realized that I had been correct in assuming that the candy coated voice belonged to Commissioner Shortly.  Standing there, head covered in a burlap sack, she made us all chuckle uncontrollably. There were rumors around the office/hut that she had a life outside the sack, but I learned long ago that rumors were something to laugh at. Come to think of it, I learned long ago that everything was something to laugh at. Shattering the concentration of speaking to myself, I heard Shortly say: " We have a new enemy, whose very existence threatens smiles everywhere. After a collective gasp, she continued " He has one fatal quality, he brags, constantly." I thought, well so do I... She nodded to me, and I shuddered, Shortly had always been a good mind reader. " But, Aubrei, Unlike you, he believes his foolish ranting" Now that's dangerous, I thought. She nodded again to me, and said " You're Darn Tooting"  After a uncomfortable pause, she said " Now you each have special skills that will help you complete this assignment. She pointed at Chelestra " You can whine him to happiness, not to mention your never ending group of friends"  She pointed to me " You can call on your large family, not to mention your amazing skills and ravishing good looks" After receiving dirty looks from Chelestra and Jimbo, I said " Yeah, ok, I put her up to it, so what?" Finally she pointed at Jimbo " Your special N.U.K.E. Button has been fitted with a Foolishness Imploder Rune. Wave it at any thing that seems overflated and unnecessary" Grinning at me, I quickly poked him to get the thought of me being overflated and/or unnecessary out of his head.  "Good luck" she said " and may the Smiles be with you...
+So our adventure began... 
+
+After a night trying in vain to discover why I carried 40lbs less then that morning, we were lulled into sleep by Chelestra's beautiful voice.  In the morning we set off, towards the South Lands.  For a while we didn't know where to go, then Jimbo suggested south.  We agreed with him, and started heading south.  Jimbo NUKED a couple of Rogues, and I dispatched a few as well.  Chelestra annoyed about 7 of them to death, and almost killed us as well.  After a few hours we arrived at meetpoint, where we met Michael, the Head Dragon of S.A.N.  He said " Be warned, fellow happy ones, Araton is crafty. He will assault all of your weakpoints, but you can beat him by working together, now, step into this portal and continue" This said, a portal dropped from the heavens.  It landed on Jimbo's foot, and he let forth a string of obscenities that would have caused "Shortly" to drop dead.  Poking him, I read the inscription on top of the Gate: " Abandon all grins, ye who enter here" Shuddering, we set our smiles so large they hurt and stepped through.  There was a slight twisting, and then we found ourselves 437 ft above a barren plain.  Chelestra and I flew down softly, while Jimbo fell like a stone.  Luckily, he passed right through the barren plain, and continued down. As we reached the plain, I noticed it wasn't solid, merely an elaborate illusion. Descending through the plain, we saw the true landscape, a withering and dying forest. Above us, twin suns beat down unbearingly. Below us lay Jimbo, moaning loudly from the deep whole he had created on impact. Landing, we helped him out of the whole and stepped back while he looked around.  "You know" he said " I don't like it. It has to go." With that, he drew his Nuke button, and pressed it.  Next thing I knew, I was vomiting uncontrollably. "Oh geez" Chelestra said " Did you hit him Jimbo?" "No" he said " He's had more of that Anthian Wine" Sighing, Chelestra picked up my prone body and threw it into the hole Jimbo had created with his bulk.  "That'll at least take care of the mess" Nodding, Jimbo pressed the button again.  The Landscape twisted and turned, and Disappeared.  That's why we don't mess with Jimbo, he makes stuff go bye-bye.  As the vomit level of the hole rose, so did I.  Riding my vomit sea, I reached the top.  After stepping off and wiping myself off, I noticed the change, err lack of scenery. "Wow, Jimbo, when you NUKE something, you really NUKE it don't ya." That said, we set up camp, and watched the suns go under the non- existent horizon.  
+
+The next morning I awoke to hear a chanting.  Sitting up abruptly, I looked around, and noticed many cloak covered humanoids, chanting softly " Lockpick, Lockpick". Waking the others up, I pointed at the cloaked ones and said " There they are, those that have been thought lost. They came looking for someone to open their chests..." Shuddering, we packed up camp and tried to decide which way to go.  Chelestra suggested that we follow the chanters, and I decided that was a pretty good idea. Now, the funny thing about walking on nothing, you can't tell if your making progress.  I mean, we walked for two hours, and it looked as if we had stayed still.  In the distance, I noticed a spot.  As we got closer I noticed it was not anything, it was nothing. More specifically, we were in Nothing, this was a lack of Nothing.  We reached it, and for lack of any better ideas, left the cloaked chanters and jumped in.  
+
+We plunged for what seemed like forever into nothingness. Not the nice, sterile, white nothingness Jimbo creates, but the dark, foreboding darkness nothingness.  I was scared, Jimbo was scared, Chelestra fell asleep.  We landed, hours later, on a pile of less fortunate chanters. Luckily for us, they broke our fall.  On impact, we saw a shadow form in front of us, from behind it came a Leuian who dripped evil.  His ego- containing head was as large as a house.  He wielded a mean looking, weighted, sharp, black, Tiger-eyed, 4x blessed, rock.  Jimbo NUKED the rock. He summoned 500 armored Trolls. Jimbo NUKED the trolls.  He summoned Mebok, the killer newt. Jimbo NUKED the newt, almost like he'd done is before and enjoyed it.  Finally, Araton himself stepped forward. When Jimbo attempted to NUKE him, nothing happened. " You can't nuke ME!" He shouted " I'm not overinflated and unnecessary in my own mind!" Chelestra then attempted to annoy him, but he resisted by bragging about how he could kill Wesley and Bizzy, in a duel where only Leuians using claws could attack.  Finally I stepped forward " Araton, a question, How does your neck support your head?" "I don't know, I, uh, I can beat you up" " Your Finished Araton, now guys. On cue, we focused our hauntingly large grins on his face. " No" he screamed in anguish. " Not happiness... AHHHH! And with that he disappeared into the void created by his collapsing head.  " That was almost as fun as using this" Jimbo said, waving his button " Almost" .  Michael appeared, and said " Congratulations, Agents of S.A.N., Spur is safe, For Now" With that, he disappeared, and we found ourselves back in TS, Chelestra bleeding from a self inflicted wound.  Petting her, we sat down, and attempted to constrain our selves from telling the story.
+
+============================================================================
+***DFC***DFC***DFC***DFC***DFC***DFC***DFC***DFC***DFC***DFC***DFC***DFC***
+============================================================================
+Heart Cleric's Guild
+1: Bigw Hannover the Leuian Rank 195
+2: Monticath Allimair the Secian Rank 190
+3: Thistleroot Nettlepatch the Secian Rank 185
+4: Rixinon Corinth the Secian Rank 175
+5: Est Norte the Secian Rank 175
+6: Hollie Fangthane the San Elf Rank 175
+7: Viderian Saverhaven the Psycian Rank 170
+8: Benni Lett the Secian Rank 160
+9: Jaysun Dalamar the Secian Rank 155
+10: Saberwolf Scribner the Leuian Rank 155
+11: Trinid Forical the Secian Rank 150
+12: Kyrinne Woodmist the Secian Rank 145
+13: Caitharo Olelath the Leuian Rank 140
+14: Morninggaze Starhammer the Anthian Rank 140
+15: Lainoir Isky the Psycian Rank 135
+16: Tula Starhopper the Secian Rank 135
+17: Treanna Tanginarari the Human Rank 120
+18: Purrkinn Pouncers the Leuian Rank 115
+19: Teariel Shada the Secian Rank 110
+20: ital yamon the Secian Rank 100
+21: Feste Deolivia the Secian Rank 100
+22: Rosi Isor the Secian Rank 95
+23: Jukie Dinv the Secian Rank 95
+24: Maykit Betor the Secian Rank 95
+25: Bigflower Vermeddian the Secian Rank 90
+26: Minerva Darkmyst the Secian Rank 80
+27: BigFlower MeSoNice the Secian Rank 80
+28: Bethany Darlock the Psycian Rank 80
+29: Balia Happyheart the Secian Rank 80
+30: Kyrsten Glensdale the Secian Rank 75
+
+Bigw continues to hold the Guildmaster postion, but Monticath isn't far behind. Thistleroot holds third, with Rixinon trailing behind. Bigw, Monti, and Thistle are asleep so often, can Rixinon grab the Guildmaster position?
+
+Forester's Guild
+1: Skylar Dutton the Anthian Rank 360
+2: Ferathinor Khanjis the Fir Elf Rank 340
+3: Barnacle Suul the Anthian Rank 320
+4: Rahvin Telemon the Anthian Rank 320
+5: Deidlet YohkoSan the Fir Elf Rank 290
+6: Scyder Encroaza the Anthian Rank 275
+7: Guztymne Horawytz the Anthian Rank 270
+8: HiddenShadow Marsran the Fir Elf Rank 225
+9: Bypass Titanmace the Flerian Rank 225
+10: DarkRanger FliesByNight the Anthian Rank 205
+11: Plaet Kmabi the Fir Elf Rank 205
+12: Fangarth Mortheimer the Anthian Rank 205
+13: Kerkin Libledon the Fir Elf Rank 195
+14: Bosque Sacredground the Human Rank 175
+15: Yulin Rochelet the Fir Elf Rank 175
+16: Swan Bugg the Fir Elf Rank 155
+17: Perkin FirTree the Fir Elf Rank 150
+18: Kuhal Oakhallow the Human Rank 150
+19: Glorfindel Bruinen the Fir Elf Rank 145
+20: Lewk Skyewalker the Anthian Rank 140
+21: Raze Ugarte the Human Rank 130
+22: Inductor Farader the Anthian Rank 130
+23: Woden Loki the Anthian Rank 125
+24: Tiaer Aeroo the Anthian Rank 100
+25: Avelyn Desbris the Anthian Rank 95
+26: Myah Cerenix the Anthian Rank 95
+27: Aldehart Atrades the Human Rank 90
+28: Arae Dreamdancer the Anthian Rank 85
+29: Alynara Sylverbow the Fir Elf Rank 70
+30: Sarten Whitebow the Anthian Rank 65
+
+The little-seen Skylar holds tight to Guildmaster, with Ferathinor right behind him. Deidlet, who held the Guildmistress title for quite a few months, even after an extended vacation, sits at five, but rumor has it she's trying to regain her former position.
+============================================================================
+***DFC***DFC***DFC***DFC***DFC***DFC***DFC***DFC***DFC***DFC***DFC***DFC***
+============================================================================
+

@@ -1,0 +1,120 @@
+link hihi
+
+who all
+>Full who list activated!
+
+Current Adventurers
+
+ Gwoss Moss                          Rare Illomen                       
+ Dunkan Blackaxe                     Malt Beberelly                     
+ Skylar Xearis                       Tragick Axident                    
+ Autumn Thistledown                  Murasaki Kurfech                   
+ Frantic Impulse                     Tymas Lordall                      
+ Cimerianna Sylverblade              Deborien Warrick                   
+ Gracielle Golden                    Rich Clawmaster                    
+ Sarin Lucifuge                      Mazzar Lovelorn                    
+ Dror Sorreff                        Audun Kell                         
+ Zydrigeon Lastday                   Akkraka Kraka                      
+ Whymsish Nyir                       Zliiksth Azhteed                   
+ Tressa Lightbrow                    Montis Marshir                     
+ Sevi Arminia                        Varnfair Bruive                    
+ Harufusa Harima                     Digby Puddlefish                   
+ Enkatrattraack Artakkatrrk          Julien Eversoul                    
+ Dusken Glayde                       Mirrdae Aldenshae                  
+ Durbius Stouthart                   Zuberi Goldenfeather               
+ Scruple Tamarind                    Delphi Tresomme                    
+ Jeake Shiffli                       Aurak Sslikthi                     
+ Rektger Poisonsilk                  Dune Lakat                         
+ Pollii Vernstoode                   Meonok Stearamide                  
+ Blackthorn Legend                   Lanex Kabol                        
+ Kaiba Tokoryu                       Rosetta Stormcloud                 
+ Aztar Helmsworth                    Kavita Silverstar                  
+ Juster Thane                        Nydellia Brilyen                   
+ Samis Spellen                       Teresa Bemine                      
+ Lumiere Salut                       Osire Fletcher                     
+ Poobah Jinru                        Syai Omid                          
+ Legeith Delrey                      Alwin Arlt                         
+ Alynia Pasmorte                     Zsurma Bsendivo                    
+ Jarkelden Deunther                  Stealthia Aracnoidia               
+ Corona Solariana                    Kullen Rockhopper                  
+ Ieahnore Edo                        Vincentiv Landstalker              
+ Gritzn Blackfang                    Anarion Rywien                     
+ Brit Larro                          Linneastrylon Tinarina             
+ Varlock Aldamar                     Ashta Brigand                      
+ Cazie Orth                          Laylana Mierr                      
+ Camigwen Sauhmer                    Qwandra Qwasher                    
+ Silpkee Swisher                     Twilight Flutal                    
+ Mavress Luminess                    Glinka Dragondsfriend              
+
+You notice 80 adventurers.
+l
+>[Market, Golden Tree Center.]
+
+A massive, golden oak, tree stands tall and proud in the center of the market. Deep black scorching marks cover its base, scars of battle and history of this tree. The local merchants have planted small ivy vines at the base, which have slowly inched up the trunk. Benches and tables fashioned from fallen and burnt trees line the flowering center of the market, offering a refreshing place to relax while out for a day of shopping.  A giant golden oak tree covered in vines, some creeping green ivy vines, some carved burnished wooden benches, and a flower edged stone lined pathway are here.
+
+This area is illuminated.
+Obvious paths: northeast* east* southeast* southwest* west* northwest*.
+info
+>
+You are Glinka Dragondsfriend, a delicate boned and wirey-tough bodied 41 year old Orderly Female adolescent Secian Cleric of the Order of the Heart.  You are 1'2" and weigh 12 lbs.  You are hidden.  You are hungry.
+
+HP: 111 of 111  Ftg:  60 of  60  Carry:  9.8 of 37.0 lbs.
+
+ Str   Int   Wis   Dex   Agi   Con   Cha   Wil   Voi   Per   App
+Fair  Aver  Aver  Aver  Good  Good  Good  Good  Aver  Good  Aver  
+
+Use: INFO <subject> for more info.
+(Valid subjects: RELIGION, MAGICK, LANGUAGES, MARTIALARTS, MONEY, RUNESPELLS, TITLES, DISGUISE, PSIONICS)
+
+stat
+>OR:   3  DR: 138  Weap RT: 10 sec  Move Rate: 6/11 UDs  Dam Bonus: Awful/None
+
+You are in the center of the area!
+
+  ::: Equipment Readied :::
+
+  A polished steelwood mail.
+  A moon shaped ivory talisman.
+  A pearl imbedded moonsilver bracelet.
+  A hunter-green silk cloak.
+  A silver serpentine hoop.
+  Some green and black silk leggings.
+  A hunter-green cotton shirt.
+  A pale green hemp belt.
+  An open small hunter-green leather remedy pouch.
+l at gli
+>I don't see what you are referring to.
+hic
+>You reveal yourself!
+You hiccup.
+l at glin
+>You find something suitably reflective and gaze into it...
+
+You look like a 1'2" standard adolescent delicate boned, wirey-tough bodied Secian Cleric.
+You have very long, wild, kinky light blonde hair, with heavy lidded pale red eyes, and look disheveled.
+You appear to be mischievous right now.
+You can be attacked by other players.
+
+On her left breast is a small crescent shaped birthmark.
+
+You appear to be in perfect health.
+There is a shining gold emblem affixed to your clothing.
+
+Physical appearance:
+
+You see an ageless, tymless, spryte with long wild kinky blonde hair and sleepy eyes...
+
+                        Visible Equipment
+A polished steelwood mail                          (armor)
+A moon shaped ivory talisman                       (around neck)
+A pearl imbedded moonsilver bracelet               (over hands)
+A hunter-green silk cloak                          (over armor)
+A silver serpentine hoop                           (left ear)
+Some green and black silk leggings                 (pants)
+A hunter-green cotton shirt                        (shirt)
+A pale green hemp belt                             (on belt)
+An open small hunter-green leather remedy pouch    (on belt)
+
+You have been bestowed the following title(s):
+  Noble of the Realm
+

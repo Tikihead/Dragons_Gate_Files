@@ -1,0 +1,220 @@
+For example, bright lavender coneflower vigors when eaten, render skin cape casts shield once binded, colorful spinning top casts translocation when binded, glowing amber skull casts esp when binded, glowing orange potion grants esp when drunk
+
+
+ willow bark heals when eaten
+black potion grants esp when drank
+some herbs....makes you feel weird????
+
+Oozing ball of green slime (quest) = a smoking purple glass beaker = perception raise
+
+ Tree sap (quest) = a glowing green crystal potion = appearance raise
+
+ A gold veined emerald band of leaves is given upon completion of a quest and casts a small levitation spell. An enameled blue porcelain jug when drunk restores fatigue.
+
+ Magick Items in the Year 319 I originally posted something close to this on Ryan's board, but EZboard ate it. Items are roughly listed in order of difficulty to obtain, easiest to hardest.
+
+About binding: most magick items, including those bought in the class 36-41 shops, need to be taken to a runeshop and bound before they may be used. Once bound, only an Elder can unbind it. Try to bind in your temple runeshop if a cleric; in TH if forester; or in your guild if a mage for the best price. If you're not sure if something is magickal, go with no cash on hand and try to bind it, and they will tell you.
+
+-------------- Still In Circulation ------------------------
+
+A glowing orange potion . The TG alchemist wants zombie skins from the Graveyard slab area. When skins are given to him, he randomly gives you one of several types of potions, all with 2-5 sips each of their particular effect. These include ESP (orange), healing (green or yellow), vigor (blue), web (black), psi (white?), and others. They do not need to be bound. If you can stand to hunt this tiny 5-room area for a few extra days before leaving for Spur, you will be better-prepared and perhaps be able to sell the ones you don't need.
+
+An enchanted crystal spyglass . Sometimes found hunting, this magical item casts a never-ending scry of the Spur TSC. If you are in TSC and look through it, you will not see yourself. This item comes bound, and to use simply LOOK THROUGH SPY anytime. If you attempt to break it you will, so dont toy around with it!
+
+A shimmering crystal travelers token . Sometimes found hunting, this magical item casts 3-5 casts of a rangeless translocation spell. To activate: 1) Bind 2) select destination, ie INF VIS then VIS 2 ACTIVE 3) Wear travel (neck item) 4) Rub travel (or conc travel).
+
+A colorful spinning top . Found in the Spur Park Noble Girl quest, this magical item casts 2 casts of a rangeless translocation spell. To activate: 1) Bind 2) select destination, ie INF VIS then VIS 2 ACTIVE 3) Ready top 4) Rub top.
+
+A rolled vellum treasure map, A blackened bloodsteel skull and crossed bones . In an Inn in the Poor Quarter is an NPC who wants a treasure map, which a rare First Mate on a ship full of sailors has. If you give it to him, he gives you a superior quality shield. Though not magickal, it IS worth 75-120 gold in a favorable pawn, and lasts a good long time besides looking cool.
+
+A glistening blue ice wand . Sometimes found hunting, this magical item casts 3-5 casts of a strong Ice Bolt attack spell (approx 25 damage) To activate: 1) Bind 2) Ready wand 3) Wave wand <target>.
+
+A rune-carved crimson glass staff . Sometimes found hunting, this magical item casts 3-5 casts of a strong Fire Bolt attack spell (approx 25 damage) To activate: 1) Bind 2) Ready staff 3) Wave staff <target>.
+
+A faintly glowing amber skull . Sometimes found hunting, this magical item casts 3-5 casts of the earthmage ESP spell, lasting approximately 1 minute each time To activate: 1) Bind 2) Wear (neck item) 3) Rub skull.
+
+A long flowing render skin cape . Sometimes found hunting, this magical item casts 2-5 casts of a second-tier magickal wall (approx 13% damage protection) for a limited duration. This does NOT last until logout like an alligator tooth, don't use till needed. To activate: 1) Bind 2) Wear (cloak item) 3) Rub render (or conc render).
+
+A large glistening yellow alligator tooth . Found on the alligator king which appears inside the randomly-open entrance in Pixies altar, this magical item casts 2-5 casts of a magickal damage ablative spell. This spell lasts until you logout or take ~100 points of damage, whichever comes first. To activate: 1) Bind 2) Wear all (neck item) 3) Rub all.
+
+An oozing green ball of slime, A smoking purple glass beaker . The Spur alchemist (Magick Lane) will exchange the ball of slime for the beaker, a 1-sip permenent Perception-increasing potion. You can get the slime from the swamp thing, a mid-level undead which generates 2 places: randomly in the swamp (any room), and in the Dark Forest hole which opens in the SE corner. The hole is tied to 1 of 18 possible background triggers and is random, you get 6 chances per hour. The hole closes exactly 6 minutes after it opens. Balls of slime sell for 35-50 gold and beakers not yet drunk in a bag sell for 80-120 gold in a pawn.
+
+A glowing green orichalum cicada queen pendant . Found on the rare cicada queen in caves S S E of Spur south gate, this magical item casts an unknown spell. Due to its extreme rarity and invulnerability to physical attack (all cicadas must be killed by magick), I can't tell you what it does.
+
+*************
+
+ ozzing ball of slime : I have been standing there at the hole when it opened many times. When you see a fog, head that direction.
+
+A glowing green orichalum cicada queen pendant.
+
+Last time I had one of these it cast some sort of healing spell. No idea no the amount of charges or strength of the spell unfortunately.
+
+**************
+.
+An enchanted handmade cherry fishing pole . The hermit located in the TH river (you get in by going over the ferry rail, swimming south a few times when you can, and CLIMB BRANCH or GRAB BRANCH when you get to it) wants a certain rainbow trout. In exchange he gives you this magickal item, which when bound casts 1-5 rangeless translocation spells. No idea where you get the trout from, the one I gave him was given to me.
+
+A glowing green oak tree sap, A translucent yellow potion . The Spur alchemist (Magick Lane) will exchange the sap for the potion, a 1-sip permenent Appearance-increasing potion. You can get the sap from the massive chaos-infected oak trees, a mid-level undead which generates 2 places: randomly in the Dark Forest (any room), and in the TH Shadow Grove (any room). The trees are not tied to any triggers or other quantifiable conditions. Tree sap sell for 35-50 gold and potions not yet drunk in a bag sell for 80-120 gold in a pawn.
+
+Some gelatinous salamander eggs. ??? . The Spur alchemist (Magick Lane) will exchange the eggs for the potion, said to be a 5-sip temporary HP/ftg raise similar to Elwyn berries (ie, 2 HP and 0-1 ftg each sip). There is a niche or side-cave inside the salamanders area where she gens randomly. The eggs are listed as food and can be eaten but DO NOT give the elwyn effect! Due to the extreme difficulty I can't confirm this item's veracity.
+
+A malevolent reb and black demon lord pendant . Found on 2 extremely rare boss creatures, this magick item casts 1-3 chameleon web (invisibility) spells. The top floor of the golem tower has a malevolent lich lord, and under the Spur Inn demon area a ghotly master demon. Both are EXTREMELY hard to kill - a maxpole/maxFF fighter, a maxsharp thief, and a maxspells heart could not defeat the lich lord despite peddle weapons, slows and continual healing. Noffbrau was nice enough to show off his pendant though in TSC, attacking someone from the shadows with no possibility of being searched out. The duration seems to be in line with the level 36+ thief and forester cham webs (about 1 minute), and the activation time is at least 30 seconds.
+
+-------------- Out of Circulation -------------------------
+
+A gleaming white platinum helm No longer found on high-end mobs such as Keep Sanene Inquisitors, this magical item casts 2-3 uses of a strong "White" or anti-psionic barrier upon you for a limited duration. This does NOT last until logout like an alligator tooth, don't use till needed. To activate: 1)
+Bind 2) Wear (neck item) 3) Rub helm (or conc helm).
+
+A pale blue cloak of mist . No longer found on high-end mobs such as Keep Sanene Inquisitors, this magical item casts 1-3 uses of a strong "Blue" or anti-magick barrier upon you for a limited duration. This does NOT last until logout like an alligator tooth, don't use till needed. To activate: 1) Bind 2) Wear (cloak item) 3) Rub cloak (or conc cloak).
+
+A twisted arcane yew wand of chaos . No longer found in the Rehas and Magick Lane forage charts (by searching rooms on those streets), this magical item casts 3-5 casts of a Darkness Bolt attack spell (approx 25 damage) To activate: 1) Bind 2) Ready wand 3) Wave wand <target>.
+
+A glowing rune-embroidered waterskin[/B[. Sold by Broomhilda at 3 annual magick item peddles but not at the last one, this magickal item is 1 sip of permanenet hidden-magick-stat increasing as confirmed by staff. Typical prices paid were 7-10,000 gold. The net effect with a high-magick mod race (Front/Pent/Secian) is likely negligible, but an Anthian with maxed mental stats improved significantly on spell delays, half timers, less fizzles/backfires.
+
+I've forgotten some things, but it's a decent st
+
+******************8
+
+ A very thorough list, I wish I had know about a few of these things before I left them laying on the ground during hunting. I just wanted to add one thing. It is very difficult to kill cicadas without using magick, but not impossible. Whatever armor they have is not really that strong, but the likelihood that you will be able to hit them before they regenrate is neglible. I have killed cicadas without magick on three separate occassions. Twice with claws and once by dragging it in front of 4 well equipped guards.
+
+**************
+
+ That last line was supposed to be:
+I've forgotten some things, but it's a decent start.
+
+- Replace the ??? next to salamander eggs with Reduxa. Same effect.
+
+- Move the TG potions to 'Out of Circulation' area. With us being able to get back to the Tower it was bound to be abused eventually.
+
+- Add to the rolled vellum treasure map notation: The First Mate also drops a silver edged morbius cutlass, which is a pretty good 1.5H sharp weapon.
+
+New addition:
+
+The Forester 36-41 shop entire listing with details. I'm not gonna say where it is, or how to beat the guardian, that's up to you. You can only get here AFTER a 36+ train, bring a lot of gold. You cannot translocate into or out of this room, nor be transed-to. Items 12-14 are magickal, see descriptions near the end.
+
+DISCLAIMER: Spoiler!! Also this was captured a long time ago, some things may be changed. You know the drill.
+
+
+[Forester's Shop.]
+
+A lush green floor, covered in thick grass, makes a beautiful carpet for this unique shop. Carved out of a large oak stump, the display case is as wide as it is deep. An aged Anthian stands behind the case, carefully showing each unique item to those who inquire. Each item is taken out carefully and displayed on a large black velvet cloth. It has been rumored a smudge will not be tolerated by the proprietor and more than a few hands have been smacked due to the over eager customer.
+
+This area is not illuminated.
+Obvious paths: south*.
+
+shop list all
+
+Id# Item Type Item Name New Amount Value
+--- ---------- --------------------------------------------- --- ------ -----
+1 Torches small container of glowbugs Yes x4 40gp
+2 Boots soft tan leather fringed boots Yes x3 100gp
+3 Shirts forest green cotton ranger shirt Yes x3 100gp
+4 Pants dark brown leather ranger breeches Yes x3 100gp
+5 Backpacks large feathered bow sling Yes x3 100gp
+6 Backpacks closed bark covered tome of forest animals Yes x3 100gp
+7 Beltpouche closed hand stitched leather repair kit Yes x2 100gp+5sp
+8 Boots calf-length soft elkskin boots Yes x4 100gp
+9 Cloaks forest green and brown hooded cloak Yes x3 200gp
+10 Backpacks closed large hemp woven bag Yes x2 200gp
+11 Wpn/Sharp short bone handled moonsilver woodsman's knife Yes x2 300gp
+12 Wpn/Sharp magickal green stick Yes x2 700gp
+13 Amulets amber covered mystical seed Yes x3 1000gp
+14 Amulets small tree shaped amber amulet Yes x2 1000gp
+
+shop ex 1
+You examine the small container of glowbugs...
+
+It is in new condition.
+It weighs about 0.1 lbs (at human size)
+It has 2000 minutes of light left.
+
+Items 2, 3, 4, and 8 are all 1-pocket clothing. Sorry forgot to examine them that trip.
+
+shop ex 5
+You examine the large feathered bow sling...
+
+It is in new condition.
+It weighs about 0.1 lbs (at human size)
+It can hold other objects within it.
+It can hold up to 5 objects.
+It can hold up to 15.0 lbs weight.
+
+shop ex 6
+You examine the closed bark covered tome of forest animals...
+
+It is in new condition.
+It weighs about 0.1 lbs (at human size)
+It can hold other objects within it.
+It can hold up to 2 objects.
+It can hold up to 1.0 lb weight.
+
+shop ex 7
+You examine the closed hand stitched leather repair kit...
+
+It is in new condition.
+It weighs about 0.1 lbs (at human size)
+It can hold other objects within it.
+It can hold up to 5 objects.
+It can hold up to 1.5 lbs weight.
+
+shop ex 8
+You examine the calf-length soft elkskin boots...
+
+It is in new condition.
+It weighs about 0.1 lbs (at human size)
+It can hold other objects within it.
+It can hold up to 1 object.
+It can hold up to 2.0 lbs weight.
+
+shop ex 9
+You examine the forest green and brown hooded cloak...
+
+It is in new condition.
+It weighs about 0.1 lbs (at human size)
+It can hold other objects within it.
+It can hold up to 20 objects.
+It can hold up to 10.0 lbs weight.
+
+shop ex 10
+You examine the closed large hemp woven bag...
+
+It is in new condition.
+It weighs about 0.0 lbs (at human size)
+It can hold other objects within it.
+It can hold up to 40 objects.
+It can hold up to 100.0 lbs weight.
+
+shop ex 11
+You examine the short bone handled moonsilver woodsman's knife...
+
+It is in new condition.
+It weighs about 0.5 lbs (at human size)
+It is a one-handed sharp weapon.
+It is not balanced for throwing.
+It has a good damage capability.
+
+shop ex 12
+You examine the magickal green stick...
+
+It is in new condition.
+It weighs about 0.1 lbs (at human size)
+It is a hand-and-a-half sharp weapon.
+It is not balanced for throwing.
+It has a low damage capability.
+NOTE: This is a magickal item; when bound you can wave it to be hidden approximately 20 times. Afterwards can be used in a threateneing manner or for practice.
+
+shop ex 13
+You examine the amber covered mystical seed...
+
+It is in new condition.
+It weighs about 0.1 lbs (at human size)
+NOTE: This is a magickal item; when bound you wear as neck item, and either WAVE SEED <target>, or RUB SEED <target>, crazy as it sounds thats how it's operated. This item casts 15-20 PULSING daamge attacks which are stackable - if the target remains in the room when spell first hits, the damage pulses continue anywhere they go. Excat number is not known, estimate 10-12 pulses of about 25 damage each.
+
+shop ex 14
+You examine the small tree shaped amber amulet...
+
+It is in new condition.
+It weighs about 0.1 lbs (at human size)
+NOTE: This is a magickal item; when bound you wear as neck item, and either after setting VIS just rub am. This item casts 15-20 SAME-RANGE tranlocation spells. Given th fact colorful spinning tops, cherry fishing poles, traveler's tokens and clerics/mages with trans-others spells, this is kinda exorbinantly priced. I honestly expected it to last a lot longer than it did for a grand.
+
+**************8
+

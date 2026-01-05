@@ -1,0 +1,659 @@
+
+Drathien, and totally failing..., just went through a pair of open double applewood doors.
+
+Toejam just entered through a pair of open double applewood doors.
+
+Toejam is looking at you.
+twit at Toejam
+nod to Toejam , dredlocks swinging gently
+You twitch your tail at Toejam.
+>You nod to Toejam, dredlocks swinging gently.
+>l
+[Spurian Trading Post.]
+
+Symher the Usil Trader sits in a corner with a small lamp cataloging and appraising the various items he has deemed fit to buy.  The cluttered shelves are piled so high it's a wonder he can keep track.  You carefully make your way through the armor, weapons and assorted sundries, to the counter.  A pair of open double applewood doors are here.
+
+This room is illuminated.
+In the room is Toejam the Go-blin-al.
+Obvious exits: None.
+>go door
+[Side Street.]
+
+A new building has been erected on this side street. It is sturdily constructed from wood and brick, and bears a sign reading, "Symher's Trading Post." Various objects line the window display ranging from weapons and armor to random objects you've never seen before. Insistent bartering goes on at all hours.  A pair of open double applewood doors and a street lantern are here.
+
+This room is illuminated.
+You see the 1st black kitten (wearing a small gold collar).
+Obvious exits: east*.
+>e
+[Market Street.]
+
+Situated between the well-traveled Trade Way to the north and the fine shops of Market Circle to the south, this small stretch of road is busy at all times of day. Adventurers with sacks of plundered goods leave Market Street and head west. A shrewd businessman has set up shop in this busy area of the Market District.  A street lantern is here.
+
+This area is illuminated.
+Obvious paths: north* south* west*.
+>hide
+You fail in your attempt to hide!
+>hide
+hide
+You fail in your attempt to hide!
+You fail in your attempt to hide!
+>hide
+hide
+You slip into the shadows!
+sk
+
+Skill                     Remain Level
+ Clawing                   1071   8     
+ First Aid                 135    2     
+ Spellcasting              435    8     
+ Blunt Weapons             353    5     
+ Channeling                550    6     
+ Identify Weapon Quality   100    1     
+
+You are already unable to be seen!
+>
+Grysmor just entered from the west.
+
+Grysmor just went north.
+
+ ** You are fully rested.
+
+Toejam just entered from the west.
+
+Toejam just went south.
+
+Loden just entered from the south.
+
+Loden just went north.
+
+Ner'zul, happily chewing on his own tongue, just entered from the north.
+
+Ner'zul, attempting futilely to lick his elbows, just went west.
+
+Toejam just entered from the south.
+
+Toejam just went north.
+l
+[Market Street.]
+
+Situated between the well-traveled Trade Way to the north and the fine shops of Market Circle to the south, this small stretch of road is busy at all times of day. Adventurers with sacks of plundered goods leave Market Street and head west. A shrewd businessman has set up shop in this busy area of the Market District.  A street lantern is here.
+
+This area is illuminated.
+Obvious paths: north* south* west*.
+>w
+You reveal yourself!
+[Side Street.]
+
+A new building has been erected on this side street. It is sturdily constructed from wood and brick, and bears a sign reading, "Symher's Trading Post." Various objects line the window display ranging from weapons and armor to random objects you've never seen before. Insistent bartering goes on at all hours.  A pair of open double applewood doors and a street lantern are here.
+
+This room is illuminated.
+You see the 1st black kitten (wearing a small gold collar).
+Obvious exits: east*.
+>go door
+[Spurian Trading Post.]
+
+Symher the Usil Trader sits in a corner with a small lamp cataloging and appraising the various items he has deemed fit to buy.  The cluttered shelves are piled so high it's a wonder he can keep track.  You carefully make your way through the armor, weapons and assorted sundries, to the counter.  A pair of open double applewood doors are here.
+
+This room is illuminated.
+In the room is Ner'zul the Oog-ra.
+Obvious exits: None.
+>
+Ner'zul just removed a small iron cooking pot from within his open slender cloth sack.
+l in bac
+Inside the open large leather backpack you see a bronze flail, a rusty hilted iron axe, a short bronze dagger, an open crude cloth pouch, an open smelly uncured leather bag, a pair of dark brown orkskin gloves, a smooth glass marble, a finely carved cherry quarterstaff, a small iron cooking pot, a white wax candle, some hardened lava fragments, a short bronze dagger, a short bronze dagger, a short bronze dagger, a Leuian Pride ring, a short iron frying pan, a short iron frying pan, some small wooden counting beads, a short wooden stick, a spiked iron mace, and a cup of honor.
+>l at n
+
+Ner'zul looks like a 8'2" standard adolescent heavy boned, muscular bodied Oog-ra.
+He has collar length, unbridled, wiry reddish black fur, with amber eyes, and looks disheveled.
+He appears to be annoyed right now.
+He can be attacked by other players.
+He appears to be in perfect health.
+                        Visible Equipment
+A granite handled steel forge hammer               (right hand)
+Some light silver and gold etched iron armor       (armor)
+A glowing holy mark of Odarous                     (around neck)
+Some forearm-length blood red leather gauntlets    (over hands)
+An embroidered midnight blue lupine hide cloak     (over armor)
+A pair of blood red cotton pants                   (pants)
+A blood red cotton shirt                           (shirt)
+>
+ ** You are fully rested.
+
+Ner'zul smiles to you.
+nod
+You nod.
+>
+Ner'zul is looking at you.
+twit at Ner'zul
+nod to Ner'zul , dredlocks swinging gently
+You twitch your tail at Ner'zul.
+>You nod to Ner'zul, dredlocks swinging gently.
+>gri
+You grin.
+>l in bac
+Inside the open large leather backpack you see a bronze flail, a rusty hilted iron axe, a short bronze dagger, an open crude cloth pouch, an open smelly uncured leather bag, a pair of dark brown orkskin gloves, a smooth glass marble, a finely carved cherry quarterstaff, a small iron cooking pot, a white wax candle, some hardened lava fragments, a short bronze dagger, a short bronze dagger, a short bronze dagger, a Leuian Pride ring, a short iron frying pan, a short iron frying pan, some small wooden counting beads, a short wooden stick, a spiked iron mace, and a cup of honor.
+>get flail from back
+get axe from back
+shop sell flail  confirm
+shop sell axe  confirm
+You remove the bronze flail from your open large leather backpack.
+You remove the rusty hilted iron axe from your open large leather backpack.
+You step forward and speak with the proprietor...
+
+The merchant hands you 28sp for the bronze flail.
+l in back
+Inside the open large leather backpack you see a short bronze dagger, an open crude cloth pouch, an open smelly uncured leather bag, a pair of dark brown orkskin gloves, a smooth glass marble, a finely carved cherry quarterstaff, a small iron cooking pot, a white wax candle, some hardened lava fragments, a short bronze dagger, a short bronze dagger, a short bronze dagger, a Leuian Pride ring, a short iron frying pan, a short iron frying pan, some small wooden counting beads, a short wooden stick, a spiked iron mace, and a cup of honor.
+You step forward and speak with the proprietor...
+
+The merchant hands you 47sp for the rusty hilted iron axe.
+>
+Ner'zul smiles.
+get glov from back
+get mar from back
+shop sell glov  confirm
+shop sell mar  confirm
+I don't see any "glov" in there!
+
+Ner'zul discusses something with the proprietor.
+You remove the smooth glass marble from your open large leather backpack.
+I don't see what you are referring to.
+l in back
+Inside the open large leather backpack you see a short bronze dagger, an open crude cloth pouch, an open smelly uncured leather bag, a pair of dark brown orkskin gloves, a finely carved cherry quarterstaff, a small iron cooking pot, a white wax candle, some hardened lava fragments, a short bronze dagger, a short bronze dagger, a short bronze dagger, a Leuian Pride ring, a short iron frying pan, a short iron frying pan, some small wooden counting beads, a short wooden stick, a spiked iron mace, and a cup of honor.
+You step forward and speak with the proprietor...
+
+Sorry, we don't buy or repair that type of item.
+>get qua from back
+get coo from back
+shop sell qua  confirm
+shop sell coo  confirm
+You remove the finely carved cherry quarterstaff from your open large leather backpack.
+You remove the small iron cooking pot from your open large leather backpack.
+l in back
+Inside the open large leather backpack you see a short bronze dagger, an open crude cloth pouch, an open smelly uncured leather bag, a pair of dark brown orkskin gloves, a white wax candle, some hardened lava fragments, a short bronze dagger, a short bronze dagger, a short bronze dagger, a Leuian Pride ring, a short iron frying pan, a short iron frying pan, some small wooden counting beads, a short wooden stick, a spiked iron mace, and a cup of honor.
+You step forward and speak with the proprietor...
+
+The merchant hands you 8sp for the finely carved cherry quarterstaff.
+You step forward and speak with the proprietor...
+
+The merchant hands you 1sp for the small iron cooking pot.
+>
+Ner'zul discusses something with the proprietor.
+
+Dhalmeir just entered through a pair of open double applewood doors.
+get ork from back
+get lav from back
+shop sell ork  confirm
+shop sell lav  confirm
+You remove the dark brown orkskin gloves from your open large leather backpack.
+You remove the hardened lava fragments from your open large leather backpack.
+
+Ner'zul offers you a closed delicately crafted gold music box.
+
+You step forward and speak with the proprietor...
+
+The merchant hands you 2sp for the dark brown orkskin gloves.
+l in back
+Inside the open large leather backpack you see a short bronze dagger, an open crude cloth pouch, an open smelly uncured leather bag, a white wax candle, a short bronze dagger, a short bronze dagger, a short bronze dagger, a Leuian Pride ring, a short iron frying pan, a short iron frying pan, some small wooden counting beads, a short wooden stick, a spiked iron mace, and a cup of honor.
+You step forward and speak with the proprietor...
+
+Sorry, we don't buy or repair that type of item.
+>acc offer from n
+You accept the closed delicately crafted gold music box.
+>
+Ner'zul smiles.
+bow to n deeply, with great respect.
+You bow to Ner'zul deeply, with great respect.
+>
+Ner'zul nods to you.
+gri
+You grin.
+>l
+[Spurian Trading Post.]
+
+Symher the Usil Trader sits in a corner with a small lamp cataloging and appraising the various items he has deemed fit to buy.  The cluttered shelves are piled so high it's a wonder he can keep track.  You carefully make your way through the armor, weapons and assorted sundries, to the counter.  A pair of open double applewood doors are here.
+
+This room is illuminated.
+In the room are Dhalmeir the Usil Elf and Ner'zul the Oog-ra.
+Obvious exits: None.
+>
+Ner'zul chuckles.
+twit at n swiftly
+You twitch your tail at Ner'zul swiftly.
+>l in bac
+Inside the open large leather backpack you see a short bronze dagger, an open crude cloth pouch, an open smelly uncured leather bag, a white wax candle, a short bronze dagger, a short bronze dagger, a short bronze dagger, a Leuian Pride ring, a short iron frying pan, a short iron frying pan, some small wooden counting beads, a short wooden stick, a spiked iron mace, and a cup of honor.
+>
+Ner'zul just removed a battle scarred ebony parrying shield from within his open large leather backpack.
+get dag from back
+get dag from back
+shop sell dag  confirm
+shop sell dag  confirm
+You remove the short bronze dagger from your open large leather backpack.
+You remove the short bronze dagger from your open large leather backpack.
+
+Ner'zul discusses something with the proprietor.
+You step forward and speak with the proprietor...
+
+The merchant hands you 2sp for the short bronze dagger.
+l in back
+Inside the open large leather backpack you see an open crude cloth pouch, an open smelly uncured leather bag, a white wax candle, a short bronze dagger, a short bronze dagger, a Leuian Pride ring, a short iron frying pan, a short iron frying pan, some small wooden counting beads, a short wooden stick, a spiked iron mace, and a cup of honor.
+You step forward and speak with the proprietor...
+
+The merchant hands you 2sp for the short bronze dagger.
+>get fry from back
+get fry from back
+shop sell fry  confirm
+shop sell fry  confirm
+You remove the short iron frying pan from your open large leather backpack.
+You remove the short iron frying pan from your open large leather backpack.
+l in back
+You step forward and speak with the proprietor...
+
+The merchant hands you 5sp for the short iron frying pan.
+Inside the open large leather backpack you see an open crude cloth pouch, an open smelly uncured leather bag, a white wax candle, a short bronze dagger, a short bronze dagger, a Leuian Pride ring, some small wooden counting beads, a short wooden stick, a spiked iron mace, and a cup of honor.
+You step forward and speak with the proprietor...
+
+The merchant hands you 5sp for the short iron frying pan.
+>
+Ner'zul asks, "Anybuggy got a spare box or sack?"
+nod
+You nod.
+>
+Ner'zul asks, "Or bag, or anyfink?"
+get bag from bac
+
+Ner'zul smiles.
+You remove the open smelly uncured leather bag from your open large leather backpack.
+>off bag to n
+
+Ner'zul chortles.
+You offer Ner'zul an open smelly uncured leather bag.
+
+>gri
+You grin.
+>
+Ner'zul says, "Perfect."
+
+Ner'zul accepts your open smelly uncured leather bag.
+wrin whiskers in amusement
+You wrinkle your nose whiskers in amusement.
+>l in bac
+
+Ner'zul just placed a glistening pear cut gem within his open smelly uncured leather bag.
+Inside the open large leather backpack you see an open crude cloth pouch, a white wax candle, a short bronze dagger, a short bronze dagger, a Leuian Pride ring, some small wooden counting beads, a short wooden stick, a spiked iron mace, and a cup of honor.
+>get dag from back
+get dag from back
+shop sell dag  confirm
+shop sell dag  confirm
+You remove the short bronze dagger from your open large leather backpack.
+You remove the short bronze dagger from your open large leather backpack.
+You step forward and speak with the proprietor...
+
+The merchant hands you 2sp for the short bronze dagger.
+l in back
+Inside the open large leather backpack you see an open crude cloth pouch, a white wax candle, a Leuian Pride ring, some small wooden counting beads, a short wooden stick, a spiked iron mace, and a cup of honor.
+You step forward and speak with the proprietor...
+
+The merchant hands you 2sp for the short bronze dagger.
+>
+Ner'zul just removed a small crystal from within his open large leather backpack.
+
+Ner'zul just removed a smooth blue crystal from within his open large leather backpack.
+inv
+Items carried:
+  An oak ring of Elindale [0.1 lbs].
+  An open large leather backpack [3.4 lbs].
+  An iron morningstar [3.0 lbs].
+  A pitch black cotton shirt [0.0 lbs].
+  A red crystal rune sphere [0.1 lbs].
+  A smooth glass marble [0.1 lbs].
+  A closed delicately crafted gold music box [0.1 lbs].
+  A multicolored crystal rune sphere [0.1 lbs].
+  A light forest green steelwood brigandine [20.9 lbs].
+  A simple leather armor [1.1 lb].
+  An open raccoonskin pack [0.2 lbs].
+  A white crystal rune sphere [0.1 lbs].
+  Some hardened lava fragments [0.2 lbs].
+  A pair of pitch black bearskin pants [0.1 lbs].
+  A pair of pitch black workman's boots [0.1 lbs].
+
+You have 114 silver pieces and 1 gold piece.
+
+This gives you a total net worth of 214 silver.
+
+Your inventory totals 30.7 lbs.
+>
+Ner'zul just removed a small brilliant pearl opal from within his open large leather backpack.
+drop mar
+You drop a smooth glass marble.
+>
+Ner'zul just placed a small crystal within his open smelly uncured leather bag.
+
+Ner'zul just placed a smooth blue crystal within his open smelly uncured leather bag.
+drop la
+
+Ner'zul just placed a small brilliant pearl opal within his open smelly uncured leather bag.
+You drop some hardened lava fragments.
+>put ru in bac
+You place the red crystal rune sphere within your open large leather backpack.
+>put ru in bac
+You place the multicolored crystal rune sphere within your open large leather backpack.
+>put ru in bac
+You place the white crystal rune sphere within your open large leather backpack.
+>go door
+[Side Street.]
+
+A new building has been erected on this side street. It is sturdily constructed from wood and brick, and bears a sign reading, "Symher's Trading Post." Various objects line the window display ranging from weapons and armor to random objects you've never seen before. Insistent bartering goes on at all hours.  A pair of open double applewood doors and a street lantern are here.
+
+This room is illuminated.
+You see the 1st black kitten (wearing a small gold collar).
+Obvious exits: east*.
+>e
+[Market Street.]
+
+Situated between the well-traveled Trade Way to the north and the fine shops of Market Circle to the south, this small stretch of road is busy at all times of day. Adventurers with sacks of plundered goods leave Market Street and head west. A shrewd businessman has set up shop in this busy area of the Market District.  A street lantern is here.
+
+This area is illuminated.
+Obvious paths: north* south* west*.
+>n
+n
+[Trade & Market.]
+
+The buildings of Market Circle stand to the south. It becomes obvious that the area through the arch is a much cleaner marketplace than the bazaar. An inviting eatery stands beside the road, its door open to those weary after a long trip to Spur, as well as those preparing to venture to the great expanses beyond the west gate. A human couple exit the building, arm in arm. A small sign stands beside the intersection.  A sign, an open glossy lacquered mahogany door, and a street lantern are here.
+
+This area is illuminated.
+Obvious paths: east* south* west*.
+You cannot move in that direction.
+>e
+e
+e
+[Trade Way.]
+
+This well-worn road separates the Bazaar to the north and Market Circle to the south. Only a Thugian could appreciate the layered odors of simmering foodstuffs and shoppers from the Bazaar. Crowds of people push past, some brushing against you. It might be a good idea to keep an eye on your coinpurse.  A street lantern is here.
+
+This area is illuminated.
+Obvious paths: east* west*.
+[Trade Way & Bazaar Path.]
+
+A path to the north winds its way among various stalls and tents. Some specialty outlets can be found, provided one does not get lost in this maze known as the Bazaar. More permanent structures to the south suggest finer goods as well as increased security.  A street lantern is here.
+
+This area is illuminated.
+Obvious paths: north* east* west*.
+[Trade Way.]
+
+Many townsfolk pass along this busy thoroughfare. Rich and poor alike mix freely on this street, much to the dismay of a passing nobleman. A young human struggles with an armful of packages and two young children in tow. Those in need of goods or supplies head west towards the market, those looking for the news of the day head east towards Town Square.  A street lantern is here.
+
+This area is illuminated.
+Obvious paths: east* west*.
+>e
+[Trade Way.]
+
+A large gate separates the Merchant District and Town Square-the hub of Spur's activity. The partially opened gate is currently able to accommodate the simultaneous passage of several locals and visitors, but can be expanded to accept carriages, or sealed to ward against invasion.  Guards stand sentry from atop the wall as well as the ground.  A street lantern is here.
+
+This area is illuminated.
+Obvious paths: west*.
+>go gate
+[Merchant Walk.]
+
+Merchant Walk comes to an abrupt end at a massive moonsilver gate. The towering walls of Spur on either side of the gates force all to pass by the guards who are constantly on the watch for thieves and bandits. Just beyond the gates one can glimpse the bustling Merchant District of Spur.  A gilded oak sign and a street lantern are here.
+
+This area is illuminated.
+Obvious paths: east*.
+>e
+e
+e
+e
+[Merchant Walk.]
+
+Several city guardsmen have just finished wrestling to the ground some young tough thieves, who thought to rob one of the returning merchants. To one side a relieved-looking Fir Elf gentleman holds on tightly to his gold-tipped walking stick, as the human boy yells his innocence to any who might listen. His pleas fall on deaf ears as the guards drag him away.  A street lantern is here.
+
+This area is illuminated.
+Obvious paths: east* west*.
+e
+e
+[Merchant Walk.]
+
+Merchants, some in frilly finery, others dressed in homespun wools, travel back and forth along this street on their way to and from work. They seem to blend together here, if only briefly. Several of the more haughty looking merchants are trailed by overloaded carts pushed along by haggard young apprentices.   A street lantern is here.
+
+This area is illuminated.
+Obvious paths: east* west*.
+[Merchant Walk.]
+
+A neatly kept park fronts this portion of Merchant Walk. Topiary and low shrubberies partition off small sections of the park. Young lovers sit on benches almost hidden from view, gazing at each other with looks of love, oblivious to the continual bustle of passing customers and merchants on their way to do business.  A street lantern is here.
+
+This area is illuminated.
+Obvious paths: east* west*.
+[Merchant Walk.]
+
+Neatly trimmed shrubbery line well-maintained cobblestones along Merchant Walk. Apprentices rush by carrying supplies and orders, carrying out their masters' business. Several wooden benches line the walk for those customers who need to rest from the strain of carrying heavy parcels.  A street lantern is here.
+
+This room is illuminated.
+Obvious exits: east* west*.
+[Town Square West.]
+
+People carrying bundles stream in from the west and rapidly lose themselves in the large crowds moving about in the vast town square. Several citizens head west with bulging coinpurses babbling excitedly about what they're going to purchase. Giggling children dart around the slower moving folks rushing on their way to spend the silvers in their pockets.  A street lantern is here.
+
+This area is illuminated.
+Obvious paths: north* northeast* east* southeast* south* west*.
+[Town Square Center.]
+
+A beautiful fountain, sculpted from pristine white marble, rests at the center of Spur's main square. Clear, sparkling water sprays from a spout at the fountain's tip and cascades down several tiers before spilling into a circular pool. High above the square, the wings of two imperial stone dragons form an arch for a massive gateway. The colossal monument stands at the heart of the city like a silent sentinel keeping watch over the entire realm. Lifelike marble statues decorate the square's perimeter, each a celebrated hero of Spur's past.   A flowing white marble fountain, some crystal flecked granite oliphant-shaped benches, a cracked marble statue of a Human, a carved marble statue of a Dragon, a rosewood sign, a small jagged cobblestone crack, a welcome mat, and a spent marshmallow on a stick are here.
+
+This area is illuminated.
+In the area are Haberthan the Hithual, Axe the Noble Hithual, Noffbrau the Noble Hithual, and Quazzy the Leuian.
+Obvious paths: north* northeast* east* southeast* south* southwest* west* northwest*.
+>
+Axe shakes his head from side to side to Quazzy.
+
+Noffbrau nods to Quazzy.
+gri
+You grin.
+>n
+
+Quazzy sighs.
+n
+n
+n
+[Town Square North.]
+
+The traffic on the northern street heading away from town square is an eclectic bunch.  Those who belong to the guilds to the north travel in packs on their way to and from guild events.  It is not unusual to see a group of armored fighters passing a group of robed clerics, each heading in the opposite direction. The large temple of Rinanni rises to the north, its white marble almost glowing in the light.  A street lantern is here.
+
+This area is illuminated.
+Obvious paths: north* east* southeast* south* southwest* west*.
+n
+n
+[Northern Avenue.]
+
+Beds of wildflowers line the carefully placed cobblestones along this street. A pair of love birds, cooing in delight, sit upon a white marble bench. The giggles and laughs of a pair of trysting lovers echoes from the room in the Traveler's Hostel to the east. It is certain that Rinanni looks down upon this scene with delight.  A white marble bench and a street lantern are here.
+
+This room is illuminated.
+Obvious exits: north* south*.
+[Northern Avenue.]
+
+A peaceful bliss pervades the very core of this guilded path. Below a large oak tree a couple of Rinannian priestesses sing lightly in Secti. Several merchants pause to listen to the song. Even a few hardened warriors cannot help but smile at the sweet melody.  A large oak tree and a street lantern are here.
+
+This area is illuminated.
+Obvious paths: north* south*.
+[Northern Avenue.]
+
+The distant glimmer from a temple made of white marble and pearl catches your eye. An intricate gilded iron gate and a small winding path are all that separate you from the dazzling temple of Rinanni. Majestic marble statues of doves in flight stand on either side of the gate. The gaze of their peaceful eyes seems to follow your every movement.  An open intricately gilded iron gate, a pair of pure white marble dove statues, a street lantern, and an open dragon-etched emerald door are here.
+
+This area is illuminated.
+Obvious paths: north* south*.
+[Northern Avenue.]
+
+A large stone building rises just to the east of Northern Avenue. These barracks house those known as Dread Knights. It is not unusual to see patrols of this elite group heading down the street towards Town Square. One would hope their presence would allow everyone to live in peace. If only they would stop fingering their swords all the time, you might believe it yourself.  A street lantern is here.
+
+This area is illuminated.
+Obvious paths: north* south*.
+[Northern Avenue.]
+
+Northern Avenue ends at a gateway set within the massive city walls. On the other side of the gate are the Guild Halls. Those who pass through accept the bond of peace that the Guilds impose on all who desire their services. On either side of the gate guards stand at attention saluting all those who pass by.  An open iron gate, an open thick stone door, and a street lantern are here.
+
+This area is illuminated.
+Obvious paths: south*.
+>sk
+
+Skill                     Remain Level
+ Clawing                   1071   8     
+ First Aid                 135    2     
+ Spellcasting              435    8     
+ Blunt Weapons             353    5     
+ Channeling                550    6     
+ Identify Weapon Quality   100    1     
+
+>n
+n
+You cannot move in that direction.
+>n
+You cannot move in that direction.
+You cannot move in that direction.
+>go gate
+[Northern Avenue.]
+
+The city walls tower high above you at the entrance to the guild district. On top of the wall, a very bored looking guard with a lazy eye watches those passing through the gate. The large guild buildings spread out around the district, bustling with the day-to-day activity of the city's guild groups.  An open iron gate and a street lantern are here.
+
+This area is illuminated.
+Obvious paths: north*.
+>n
+n
+n
+[Northern Avenue.]
+
+The massive building of the Merchant's Guild looms over a vast part of the guild district. The activity at the main door of the guild is mind numbing as hundreds of citizens and merchants alike rush in and out of the guild to handle their business. While the governor has control over the city guard, many claim it is the Merchant's Guild that runs the city of Spur.  An open exquisite polished mahogany door and a street lantern are here.
+
+This area is illuminated.
+Obvious paths: north* south*.
+n
+n
+n
+[Northern Avenue.]
+
+To the south the road runs back into the center of the city, further to the north the city road continues on toward the other guilds. All the legal city guilds are represented within this city district except for the Forester's Guild. A sign stands beside the road to help direct lost would-be foresters to their guild hall.  A beautiful etched wooden sign and a street lantern are here.
+
+This area is illuminated.
+Obvious paths: north* south*.
+[Northern Avenue.]
+
+Numerous citizens walk purposefully along the busy street. Fighters and mercenaries make up the majority, but some from almost all walks of life hurry past as well. A dejected street cleaner struggles to keep up with the messes left behind by the pets and other beasts that travel on the roads.  A street lantern is here.
+
+This area is illuminated.
+Obvious paths: north* south*.
+[Crossing.]
+
+Northern Avenue meets Art Avenue at this intersection. Further to the north, the Mercenary's Guild makes its home, while the Bard's and Sage's Guilds are to the east. The extravagant Merchant's Guild stands to the south. Various sponsors wave pieces of parchment in an attempt to recruit new members.  An open lustrous hammered steel door and a street lantern are here.
+
+This area is illuminated.
+Obvious paths: north* east* south*.
+rem bri
+[Northern Avenue.]
+
+The sounds of clashing steel and the calls of battle fill the air near the entrance to the Mercenary's Guild. Numerous hardened warriors lean up against the walls of the building waiting for job offers, while others move in and out of the guild hall going about their daily business. By the looks of it, some of the veterans are giving a barbarian near the front door a hard time.  An open white cedar door and a street lantern are here.
+
+This area is illuminated.
+Obvious paths: north* south*.
+[Northern Avenue.]
+
+A narrow steel gate leads through a short white stone wall. Beyond the gate lies the practice yard for the Mercenary's Guild. Novice mercenaries sit or stand outside the gate, either resting from their exertions or gathering their courage to enter. Piles of old bandages lie beside the road. Behind the practice yard, the incredible outer wall stands high above the city.  An open narrow grey steel gate, an open polished oak door, and a street lantern are here.
+
+This area is illuminated.
+Obvious paths: south*.
+You remove your light forest green steelwood brigandine.
+>l at m
+You find something suitably reflective and gaze into it...
+
+You look like a 6'0" standard mature delicate boned, very muscular bodied Leuian Cleric.
+You have very long, dredded, kinky white fur, with widely spaced white eyes, and look disheveled.
+You appear to be wary right now.
+You can be attacked by other players.
+You appear to be in perfect health.
+There is a shining gold emblem affixed to your clothing.
+
+Physical appearance:
+
+You see a grizzled old Khat, with an old scar across his white nose..
+
+                        Visible Equipment
+A pair of pitch black workman's boots              (on feet)
+An oak ring of Elindale                            (ring (left))
+A pair of pitch black bearskin pants               (pants)
+A pitch black cotton shirt                         (shirt)
+
+You have been bestowed the following title(s):
+  Noble of the Realm
+
+>hide
+You slip into the shadows!
+>
+ ** You are fully rested.
+sk
+
+Skill                     Remain Level
+ Clawing                   1071   8     
+ First Aid                 135    2     
+ Spellcasting              435    8     
+ Blunt Weapons             353    5     
+ Channeling                550    6     
+ Identify Weapon Quality   100    1     
+
+>h
+You appear to be in perfect health.
+
+HP: 159/159  Ftg:  61/ 61
+>info mag
+
+You have the following elemental runes available to you...
+
+   heal        -  49 weaves remain   illness     -  52 weaves remain
+   light       -  63 weaves remain   mental      - 100 weaves remain
+   holy        -  99 weaves remain   vigor       -  62 weaves remain
+
+You may use the following modifier runes upon them...
+
+ small       average    
+
+You may use them with the following shapes...
+
+ dart        globe       touch       mist       
+See INFO RUNESPELLS for memorized corridors.
+
+>inv
+Items carried:
+  An oak ring of Elindale [0.1 lbs].
+  An open large leather backpack [3.7 lbs].
+  An iron morningstar [3.0 lbs].
+  A pitch black cotton shirt [0.0 lbs].
+  A closed delicately crafted gold music box [0.1 lbs].
+  A light forest green steelwood brigandine [20.9 lbs].
+  A simple leather armor [1.1 lb].
+  An open raccoonskin pack [0.2 lbs].
+  A pair of pitch black bearskin pants [0.1 lbs].
+  A pair of pitch black workman's boots [0.1 lbs].
+
+You have 114 silver pieces and 1 gold piece.
+
+This gives you a total net worth of 214 silver.
+
+Your inventory totals 30.4 lbs.
+>l in bac
+Inside the open large leather backpack you see a white crystal rune sphere, a multicolored crystal rune sphere, a red crystal rune sphere, an open crude cloth pouch, a white wax candle, a Leuian Pride ring, some small wooden counting beads, a short wooden stick, a spiked iron mace, and a cup of honor.
+>go gate
+You reveal yourself!
+[Mercenary's Guild Practice Yard.]
+
+A white brick wall stands along the south end of the practice yard. Dark stains cover much of the hard-packed sand ground. Lanterns hang from widely spaced posts, providing good lighting at night.  An open narrow grey steel gate, a wooden sword, a smooth glass marble, a wooden sword, and a short silver ice pick are here.
+
+This room is illuminated.
+Obvious exits: north* northeast* east* west* northwest*.
+>sk
+
+Skill                     Remain Level
+ Clawing                   1071   8     
+ First Aid                 135    2     
+ Spellcasting              435    8     
+ Blunt Weapons             353    5     
+ Channeling                550    6     
+ Identify Weapon Quality   100    1     
+
+>
+ ** Current fatigue: 59 out of 61
+logs off

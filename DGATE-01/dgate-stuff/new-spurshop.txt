@@ -1,0 +1,1015 @@
+
+Galleria:
+
+[W. Jewelers]
+
+Elegantly crafted moonstone sconces on each side of the entrance light this spacious jewelry store on even the darkest of evenings while the skylight overhead has been encrusted with several crushed diamonds, casting a rainbow glow throughout the building during the day. The abundance of light helps gives each gem the attention they need to show off their true color. The room itself is made of several black velvet topped glass counters that have been arranged into the shape of a horseshoe. Each counter is divided into two sections; one side for displaying lose gems and uncut stones, the other for finished jewelry that is ready to be sold. To the rear of the building is a small desk with a glowing rune-enscribed lamp sitting on it. The desk is cluttered with loose gems that have yet to be examined. A small bookshelf rises up from the back of the desk containing several books on gems and minerals. A single solid black book labeled "borrowed goods" has been tucked away at the end of the shelf.   An open diamond cut frosted glass door, a closed velvet topped glass counter, a closed velvet topped glass counter, a closed highly polished duskwood jewelry chiffonier, and some intricately carved teak chairs are here.
+
+This room is illuminated.
+Obvious exits: None.
+>
+Id# Item Type  Item Name                                     New Qty    Value
+--- ---------- --------------------------------------------- --- ------ -----
+  1 Misc       closed jar of metal polish                    Yes x8     1gp+20sp
+  2 Misc       soft doeskin polishing cloth                  Yes x13    1gp+80sp
+  3 Amulets    purple amethyst pendant                       Yes x10    10gp
+  4 Rings      mysterious pale blue ring of Sa               Yes x8     25gp
+  5 Rings      gleaming dark onyx ring of Set                Yes x9     20gp
+  6 Rings      brilliant white ivory ring of Rinanni         Yes x5     25gp
+  7 Rings      twisted black morbius ring of Taath           Yes x2     25gp
+  8 Gauntlets  diamond imbedded drathain cufflinks           Yes x5     15gp
+  9 Helms      beautiful diamond inlaid moonsilver butterfly comb Yes x3     25gp
+ 10 Helms      diamond studded silk hairwrap                 Yes x5     25gp
+ 11 Rings      strangely crested gold ring                   Yes x7     5gp
+ 12 Earrings   lily etched crystal drop earring              Yes x6     20gp
+ 13 Helms      black dragon-shaped hairpin                   Yes x2     15gp
+ 14 Rings      shadowy grey agate ring                       Yes x8     5gp
+ 15 Helms      braided shadowy circle of serpents            Yes x2     10gp
+ 16 Beltpouche moonsilver adorned silver belly chain         Yes x1     150gp
+ 17 Rings      dark glistening diamond Evolochian ring       Yes x1     150gp
+ 18 Rings      Leuian Pride ring (Too small)                 Yes x1     5000gp
+ 19 Helms      starburst engraved nightstone circlet         Yes x1     120gp
+ 20 Rings      shining silvery moonstone band                Yes x1     10gp
+ 21 Helms      glistening jeweled moonsilver tiara           Yes x1     50gp
+ 22 Rings      gold filigree adorned diamond marquise band   Yes x1     120gp
+ 23 Rings      swirling rainbow crystal ring                 Yes x2     10gp
+ 24 Earrings   tiny dangling moonstone starburst             Yes x1     60gp
+*********************
+
+
+[Imports House Fantastico, Premier Branch.]
+
+The black marble floor of this strange establishment has a glossy finish, but it casts little sheen. Inconsistent and irregular light flickers from candles placed strategically in mirrored niches around the establishment. The walls and ceiling are swathed with colored silks, in deep regal purples, blues and blacks, interwoven with shimmering metallic thread. A few brass incense burners also hang from the ceiling, emitting subtle but unrecognizable scents. Polished sandstone counters support some low glass and black velvet display cases, hosting strange and varied items. Towards the rear, a black lacquered desk is covered in oddly lettered scrolls, ink maps and intricate diagrams of unknown design. A purple robed go-blin-al pours over the desk, glancing up on occasion to answer a customer's question.   A closed saltwater stained lemonwood sea chest, a closed saltwater stained lemonwood sea chest, and an open exotic sliding mahogany door are here.
+
+This room is illuminated.
+Obvious exits: None.
+>
+Id# Item Type  Item Name                                     New Qty    Value
+--- ---------- --------------------------------------------- --- ------ -----
+  1 Drink      opaque bottle of rare plum sake               Yes x14    15gp
+  2 Food       red spotted wild mushroom                     Yes x5     4gp
+  3 Beltpouche closed royal blue runesilk cleric's bag       Yes x2     30gp
+  4 Wpn/Thrust slim bamboo chopsticks                        Yes x6     11gp
+  5 Helms      rune woven broadcloth turban                  Yes x3     12gp
+  6 Food       blooming purple swamp flowers                 Yes x3     4gp
+  7 Food       spiky fresh pineapple                         Yes x7     7gp
+  8 Lockpicks  inscribed bluesteel lockpick                  Yes x1     1900gp
+  9 Chests     ancient red clay ceremony teapot              Yes x1     100gp
+ 10 Food       fiery red chili peppers                       Yes x4     5gp
+ 11 Shields    leather covered oak wagon wheel               Yes x1     115gp
+ 12 Torches    enchanted carved bloodstone skull             Yes x1     515gp
+ 13 Arrows     quiver of Anthian-fletched actar-tipped arrows Yes x2     150gp
+ 14 Lockpicks  serpent-headed steel lockpick                 Yes x1     10gp
+
+**********************
+[Imperial Enchantments.]
+
+Softly glowing golden orbs float about illuminating the shop with a mystical light. Runes embedded in the store's stucco walls blink and glitter adding life to their dark crimson paint. Polished mahogany shelves showcase the organized assortment of magickal trinkets and weapons while a glass display case boasts a collection of potions and other concoctions. A large attendant stands protectively in front of a locked cabinet filled with dangerous looking items. He keeps a watchful eye on a pair of Frontacian children chasing each other around with crackling display wands as their parents browse about oblivious to their actions.  A closed large rune lit glass cabinet and a twinkling rune beaded curtain are here.
+
+This room is illuminated.
+Obvious exits: None.
+>
+Id# Item Type  Item Name                                     New Qty    Value
+--- ---------- --------------------------------------------- --- ------ -----
+  1 Wpn/Blunt  rune-carved crimson glass staff               Yes x20    10gp
+  2 Wpn/Blunt  twisted arcane yew wand of chaos              Yes x4     40gp
+  3 Helms      intricately etched moonsilver helm            Yes x2     50gp
+  4 Helms      horned morbius gladiator helm                 Yes x1     75gp
+  5 Wpn/Thrown flaming oil lamp                              Yes x13    35gp
+  6 Wpn/Thrust enchanted handmade cherry fishing pole        Yes x1     100gp
+  7 Cloaks     long flowing render skin cape                 Yes x8     25gp
+  8 Helms      gleaming white platinum helm                  Yes x11    50gp
+  9 Wpn/None   short serpentine twisted horn sorceror's wand Yes x1     350gp
+ 10 Wpn/Blunt  glistening blue ice wand                      Yes x7     25gp
+ 11 Beltpouche glowing green orichalcum cicada queen pendant Yes x15    150gp
+ 12 Torches    moonsilver oil lamp                           Yes x2     1gp
+ 13 Potions    lavender colored glass beaker                 Yes x1     75gp
+ 14 Potions    old yellow and black gourd                    Yes x3     100gp
+ 15 Potions    dripping golden clay pot of honey             Yes x3     30gp
+ 16 Beltpouche mermaid etched marble Fountain of Youth card  Yes x1     600gp
+ 17 Torches    ancient Frontacian sunstone staff of mages    Yes x1     600gp
+ 18 Cloaks     shimmering silver-threaded silk cloak (Too small) Yes x2     50gp
+
+******************
+
+[Xaphania's Closet.]
+
+The air is uncomfortably warm in the cramped store. Clothing fills nearly every corner of the dim room; spilling over shelves, crowding racks, and piling in corners and on stools. The majority of the clothing hangs with little sign of order on a wooden rod that runs along one side of the long, thin space. Gilded antique mirrors adorn every unoccupied bit of wall. The back of the store hosts a cluster of pedestals of varying heights, a pair of shoes adorning each one. A few carefully placed sconces provide just enough light to illuminate select pieces of merchandise and cause the polished teak floor to gleam. A few well-dressed mannequins are placed inconveniently throughout the area causing further crowding amongst shoppers. Muffled voices giving opinions on outfits can be heard from behind the dressing room curtain. A Sanene woman lurks in the shadows waiting to assist you.  A well dressed mannequin, a pair of crystal pumps on a pedestal, a large antique gilded mirror, and an open serpent handled teak door are here.
+
+This room is illuminated.
+Obvious exits: None.
+>
+Id# Item Type  Item Name                                     New Qty    Value
+--- ---------- --------------------------------------------- --- ------ -----
+  1 Helms      sharp toothed landshark mask                  Yes x16    2gp
+  2 Helms      ugly green ork mask                           Yes x15    2gp
+  3 Helms      straw filled scarecrow mask                   Yes x14    2gp
+  4 Shirts     green and yellow striped cotton peasant blouse (Too small) Yes x2     5gp+50sp
+  5 Shirts     bright teal silk blouse (Too small)           Yes x4     6gp+50sp
+  6 Cloaks     mink trimmed black velvet cloak (Too small)   Yes x1     8gp
+  7 Amulets    flowery embroidered silk shawl                Yes x1     12gp+50sp
+  8 Cloaks     flowing white emerald clasped cloak           Yes x1     8gp
+  9 Dresses    worn turquoise silk ball gown (Too small)     Yes x1     10gp
+ 10 Gauntlets  yellow suede chamois gloves                   Yes x2     2gp+50sp
+ 11 Wpn/Blunt  closed diamond-encrusted black satin evening bag (Too small) Yes x3     10gp
+ 12 Cloaks     mink trimmed black velvet cloak               Yes x1     8gp
+ 13 Helms      multicolored curly satin hair ribbons (Too small) Yes x4     3gp
+ 14 Earrings   creamy white magnolia blossom (Too small)     Yes x1     10gp
+ 15 Shirts     delicate white lace camisole (Too small)      Yes x3     40gp
+ 16 Beltpouche closed oversized canvas garment bag           Yes x1     150gp
+ 17 Shirts     flowing snow-white gauze belted tunic (Too small) Yes x13    40gp
+ 18 Cloaks     quilted pink and blue flannel robe (Too small) Yes x1     30gp
+ 19 Gauntlets  embroidered blood red silk gloves (Too small) Yes x1     10gp
+ 20 Cloaks     gauzy pale blue spidersilk wrap (Too small)   Yes x1     60gp
+ 21 Cloaks     moonsilver threaded scarlet velvet bolero     Yes x1     95gp
+ 22 Boots      polished black and white leather spats (Too small) Yes x1     55gp
+ 25 Boots      pearl buttoned indigo suede strappy pumps (Too small) Yes x1     55gp
+ 26 Boots      purple trimmed suede black ankle-high boots   Yes x1     55gp
+
+************************
+
+[The Dusty Pages.]
+
+The filtered light from the window barely reaches through to the room. A few floating candles hover in the air providing minimal light where the window cannot. The shades of light dance upon the mountains of books that fill this room. From ceiling to floor, this store has been filled to the brim with all sorts of books: ancient looking leather bound books whose bindings have come loose, mysterious dark tomes, covered in ancient runes, and thick codices of lore and history from times long past. Volume upon volume have been stacked high forming large columns of books. The labyrinth of tomes conceals a stairway leading down to a wooden door. In the back, a wrinkled old Usil sits quietly behind the counter reading a book of his own.  Some tall stacks of books, a closed glass framed mahogany bookshelf, an open rune crested wooden door, and a closed silver rune-etched mahogany door are here.
+
+This room is illuminated.
+Obvious exits: None.
+>
+Id# Item Type  Item Name                                     New Qty    Value
+--- ---------- --------------------------------------------- --- ------ -----
+  1 Beltpouche closed black leather scroll case              Yes x1     15gp
+  2 Beltpouche closed polished ivory scroll case             Yes x1     20gp
+  3 Beltpouche closed bamboo map case                        Yes x1     15gp
+  4 Backpacks  closed narrow lacquered teak map case         Yes x1     20gp
+  5 Drink      crystal inkwell                               Yes x3     10gp
+  6 Misc       closed celestial mother-of-pearl damask clerical scriptures Yes x1     500gp
+  7 Misc       closed Flerian embossed leather tome of jinxes Yes x1     275gp
+
+********************
+
+[Temptations]
+
+The sweet smelling aroma of fresh cut roses combined with fragrant scented oils from a nearby display table greets visitors romantically as they enter the store. Several small tables draped in shiny black silks have been set up around the shop, each showing off a certain theme of items. A single rack of clothing in the rear offers a sexy selection of evening wear that is sure to compliment the oils and lotions on display at the front of the store. A drawn velvet curtain offers privacy to customers wanting to try on some of the more revealing outfits. A soft glow from the many candles throughout the room adds to the seductive atmosphere. A lovely delicately elven maiden smiles warmly at you from behind the counter, waiting to assist your every need. Just behind her is a wide assortment of fine wines and breathtaking goblets designed for romantic evenings. The counter is filled with rich chocolates and other sensual foods that are sure to set the mood no matter what the occasion.  A closed glass topped mahogany case and an open ruby encrusted arched door are here.
+
+This room is illuminated.
+Obvious exits: None.
+>
+Id# Item Type  Item Name                                     New Qty    Value
+--- ---------- --------------------------------------------- --- ------ -----
+  1 Food       chocolate covered strawberry                  Yes x23    1gp+60sp
+  2 Food       gold-flecked chocolate Lover's Cake           Yes x1     7gp+50sp
+  3 Misc       open ruby inlaid crystalla cigarette case     Yes x4     25gp
+  4 Misc       open intricately etched silver compact        Yes x1     25gp
+  5 Amulets    beautiful garland of roses (Too small)        Yes x2     12gp
+  6 Misc       gold feathers                                 Yes x4     13gp
+  7 Misc       closed bright crimson tube of lipstick        Yes x1     65gp
+  8 Drink      intricately patterned gold chalice            Yes x1     55gp
+  9 Drink      beautiful etched silver chalice               Yes x1     55gp
+ 10 Food       large chocolate dipped strawberry             Yes x8     2gp+75sp
+ 12 Dresses    stunning ivory silk wedding gown (Too small)  Yes x1     375gp
+ 13 Boots      ivory colored satin slippers                  Yes x1     75gp
+ 14 Gauntlets  full-length ivory silk button-up gloves (Too small) Yes x1     85gp
+ 15 Beltpouche beautiful ribbon tied basket of strawberries  Yes x1     60gp
+ 16 Misc       rose scented sachet                           Yes x3     8gp
+ 17 Torches    vanilla scented candle                        Yes x2     1gp
+ 18 Chests     open burnt rosewood box                       Yes x1     75gp
+ 19 Gauntlets  diamond studded leather cuffs (Too small)     Yes x1     65gp
+ 20 Beltpouche box of dark chocolate truffles                Yes x1     35gp
+ 21 Misc       green tea sensual body spray                  Yes x1     60gp
+ 22 Misc       jar of lightly scented sutra pleasure balm    Yes x2     85gp
+ 23 Shirts     delicate bone-inlaid cotton lace corset       Yes x1     5gp
+ 24 Amulets    ruby inlaid leather leash and collar          Yes x1     25gp
+
+**************************************************************************************************
+**************************************************************************************************
+
+shops in Spur...
+
+[Vision of Eternity.]
+
+Clear crystal display cases sit interspersed on gold-veined black marble flooring, giving a perfect view of items for sale. A soft charming glow reflects from rune symbols embedded in the darkened cherry wood walls. Tiny crystal prisms dangle from the ceiling, catching the light as they stir faintly from a mysterious unseen wind that lightly circulates around the store. The only things out of place in this elegant environment are paintings on the walls of a Leuian and a lawn gnome in various locations as well as a lawn gnome in the front of the shop, with a card in front of it entitled, "Dufus."  A brightly painted grinning lawn gnome and an open darkened cherry wood door are here.
+
+This room is illuminated.
+Obvious exits: None.
+>
+Id# Item Type  Item Name                                     New Qty    Value
+--- ---------- --------------------------------------------- --- ------ -----
+  1 Torches    moonsilver oil lamp                           Yes x2     1gp+50sp
+  2 Torches    swirling multicolored globe                   Yes x16    75sp
+  3 Music      silver ribboned paper horn (Too small)        Yes x4     1gp+50sp
+  4 Helms      multicolored pointed paper party hat (Too small) Yes x4     20sp
+  5 Helms      floppy canvas hat                             Yes x6     50sp
+  6 Gauntlets  thick leather work gloves                     Yes x5     40sp
+  7 Amulets    miniature snarling coral tiger medallion      Yes x29    65sp
+  8 Amulets    stone tribal pendant                          Yes x29    50sp
+  9 Gauntlets  ivy embossed leather gloves                   Yes x1     50sp
+ 10 Wpn/Thrown small white ball                              Yes x1     3gp
+ 11 Earrings   shimmering spinning gryphon feather (Too small) Yes x1     100gp
+ 12 Rings      strangely crested gold ring                   Yes x3     5gp
+ 13 Gauntlets  tanned fingerless leather gloves              Yes x1     40sp
+ 14 Rings      swirling rainbow crystal ring                 Yes x1     8gp
+ 15 Misc       ancient Firian silver coin                    Yes x1     15gp
+ 16 Misc       ancient woven Muldavian tapestry              Yes x1     15gp
+ 17 Rings      entwined carved ivory dragon and secian (Too small) Yes x1     30gp
+ 18 Chests     open Dragon and Secian embossed mahogany jewelry box Yes x1     40gp
+ 19 Armor      heavy old banded bark mail                    Yes x2     50sp
+
+
+*****************************************
+
+[Raptorian's Sugar and More.]
+
+To one side of the room are several large barrels filled to the very top with sugar. The air is filled with the smell of the many kinds of sweets, pastries, and confections contained within the shop's main counter, which is made of large panels of blue sapphire, set in a golden frame and cut thinly enough to be transparent, lending a slight bluish tinge to the goods contained within. Behind the counter, a drake-shaped blue statue sits on a shelf below a large banner, which reads, "Why go to Rathan or Saldaea for your sweet needs when I provide them right here?" Below this banner, a smaller one reads "Sugar is not the only thing sold here." Next to the statue is a small disclaimer set in a sapphire frame. Hanging from the ceiling is a large, stuffed, fuzzy, winged pink oliphant.  A blue statue of a drake, a disclaimer sign, and an open oliphant etched sapphire door are here.
+
+This room is illuminated.
+In the room are Luminita the Secian (seated) and Raptorian the Noble Secian (lying down).
+Obvious exits: None.
+>You howl.
+>
+Luminita chuckles.
+
+Id# Item Type  Item Name                                     New Qty    Value
+--- ---------- --------------------------------------------- --- ------ -----
+  1 Food       chocolate covered fish                        Yes x1     300gp
+  2 Bows       light leather slingshot (Too small)           Yes x1     22gp+50sp
+  3 Armor      heavy studded leather mail (Too small)        Yes x1     18gp+7sp
+  4 Misc       plush Saian prayer rug                        Yes x1     200gp
+  6 Food       milk chocolate bar                            Yes x61    1gp+50sp
+  7 Food       chewy sour fruit flavored candies             Yes x4     1gp+50sp
+  8 Food       red hot cinnamon lollipop                     Yes x3     9gp
+  9 Food       long curling red licorice whip                Yes x2     9gp
+ 10 Food       colorful slice of jellybean pie               Yes x1     3gp
+ 11 Food       cherry topped ice cream cone                  Yes x2     3gp
+ 12 Armor      light burnished brass armor (Too small)       Yes x1     10gp
+ 13 Armor      light burnished brass armor (Too small)       Yes x2     10gp
+ 14 Armor      light burnished brass armor (Too small)       Yes x1     9gp+65sp
+ 15 Armor      light burnished brass armor (Too small)       Yes x1     10gp
+ 16 Armor      light burnished brass armor (Too small)       Yes x1     10gp
+ 17 Armor      heavy studded leather mail (Too small)        Yes x1     25gp
+ 18 Armor      heavy brushed copper ring mail (Too small)    Yes x1     20gp
+ 19 Music      ornate brass bell                             Yes x1     75gp
+ 20 Boots      fur-lined leather ice skates (Too small)      Yes x1     3gp
+ 21 Gems       large flawless crystal bead                   Yes x1     2gp+85sp
+ 22 Torches    rune of fire                                  Yes x1     300gp
+
+************************
+
+[Rawcliffe's Emporium]
+
+Cool gold-flecked crimson marble covers the floor in this elegant shop. Tall displays of armor line two of the four walls. The other two walls are lined with walnut display cases. Beautiful weapons sit within the large cases cushioned by black velvet. Hanging on the walls behind the weapon cases are a variety of shields. Each distinctive for its design and durability. A tiny drag-al sits high on a stool, slowly swishing his tail, he eyes the customers waiting for any sign they may have a question.  An open ruby-studded dragon-etched steel door is here.
+
+This room is illuminated.
+Obvious exits: None.
+>
+Id# Item Type  Item Name                                     New Qty    Value
+--- ---------- --------------------------------------------- --- ------ -----
+  1 Torches    blood-stained obsidian skull                  Yes x1     300gp
+  2 Wpn/Sharp  short hooked razor sharp yelican talon        Yes x1     400gp
+
+>
+******************
+
+[Mieglyn's Song, Sacks, Shields and Such]
+
+Warm homey scents assail your senses as you wander in to this quaint shop.  Simmering potpourri pots placed through out the room are the source of these comforting scents. The comfortable feelings that surround you make you want to linger in this cheerfully cluttered shop. A small sapphire winged Secian statue stands near the door, cheerfully holding a sign that says, "Welcome all shoppers." The shop owner's eclectic tastes are illustrated with the variety of items for sale. Along one wall are musical instruments of all kinds, along with sheet music and carrying cases. Bags of every shape and size imaginable are found on racks and shelves in the back of the show area. Shields of all types are displayed behind the counters, some simple, some ornate and polished, all ready to serve as a strong defense against assailants. The display cases are filled with all kinds of shiny trinkets and knick-knacks that glitter and sparkle in the bright light of the sapphire glass lanterns hanging from the ceiling.  A sapphire winged Secian statue, a glass covered display case, and an open sapphire inlaid bluesteel door are here.
+
+This room is illuminated.
+Obvious exits: None.
+>
+Id# Item Type  Item Name                                     New Qty    Value
+--- ---------- --------------------------------------------- --- ------ -----
+  1 Misc       diamond-eyed crystal dragon figurine          Yes x10    5gp
+  2 Misc       closed unicorn embroidered forest green instrument case Yes x3     7gp+50sp
+  3 Misc       closed unicorn embroidered forest green writing case Yes x4     7gp+50sp
+  4 Wpn/Blunt  rune-carved crimson glass staff (Too small)   Yes x3     10gp
+  5 Cloaks     long flowing render skin cape                 Yes x6     35gp
+  6 Amulets    diminutive sapphire necklace of scarecrows (Too small) Yes x1     70gp
+  7 Torches    tiny hooded wooden lightbox                   Yes x2     10gp
+  8 Torches    soft violet beeswax candle                    Yes x3     5gp
+  9 Torches    beautiful white beeswax candle                Yes x1     5gp
+ 10 Torches    luminous blue and white candle                Yes x2     5gp
+ 11 Torches    scented heart-shaped candle                   Yes x2     5gp
+ 12 Amulets    beautiful garland of roses (Too small)        Yes x2     5gp
+ 13 Amulets    fiery garland of tiger lilies (Too small)     Yes x1     2gp+50sp
+ 14 Amulets    dainty garland of buttercups (Too small)      Yes x2     1gp
+ 16 Rings      beautiful carved oak ring of Elindale (Too small) Yes x2     10gp
+ 17 Music      shiny tin kazoo (Too small)                   Yes x1     12gp+50sp
+ 18 Music      twinkling bunch of jingling trinkets (Too small) Yes x3     8gp+50sp
+ 19 Music      tapered golden oak mute cornett (Too small)   Yes x1     75gp
+
+
+
+************************
+[Edward's Cider Shoppe.]
+
+Two large glass-front display cases filled with fresh pastries stand on either side of a small wooden counter toward the back of the room. Long wooden shelves, containing glass pitchers, steel kettles and serving cups run along the rear wall, from side to side. A few roughly hewn tables are scattered in the front of the shop beneath orange gingham curtained windows.   An open polished walnut door is here.
+
+This room is illuminated.
+Obvious exits: None.
+>
+Id# Item Type  Item Name                                     New Qty    Value
+--- ---------- --------------------------------------------- --- ------ -----
+  1 Food       steaming baked raisin filled apple            Yes x15    50sp
+  2 Food       cinnamon sugar topped apple strudel           Yes x15    75sp
+  3 Food       small pumpkin shaped frosted gingerbread cookie Yes x15    20sp
+  4 Food       delicious smelling apple pie                  Yes x15    80sp
+  5 Food       large warm apple muffin                       Yes x15    1gp+20sp
+  6 Misc       weathered woven reed basket of apples         Yes x15    5gp
+  7 Food       dried apple rings                             Yes x16    35sp
+  8 Drink      steaming mug of mulled apple cider            Yes x17    50sp
+  9 Drink      chilled glass of fresh apple cider            Yes x15    50sp
+ 10 Drink      frosted mug of hard apple cider               Yes x17    1gp
+ 11 Drink      pale amber bottle of apple mead               Yes x17    3gp+50sp
+ 12 Chests     closed sturdy wooden crate of mead            Yes x9     45gp
+
+****************
+
+sweet shoppe    closed nites
+*************************
+
+[The Vistalique Revelryy.]
+
+Entering you are greeted with the most fantastic aroma of distant recipes and exotic ingredients wafting through the air. Fragrant and strangely shaped brass oil lamps hang from the ceiling, casting ample but irregular light below. The walls are draped in bright velvets and interwoven with swirling burnished gold and silvers. On top of the etched sandstone and silken-carpeted flooring, a wide variety of brass and copper tables and adjoining chairs invite you to sit and enjoy a drink. Luckily there are a few unoccupied tables, as discerning customers have already claimed many. In the corners, booths skillfully draped with cloth ensure privacy from prying eyes. In the back an exotically clad go-blin-al chats with patrons from behind a copper topped counter, serving a wide variety of foreign food and drink. Nearby, soothing music streams from a talented pair of young musicians. You are just barely able to catch a glimpse of the flurry of activity in the kitchen through some flowing curtains behind the counter.  A copper topped glass counter, some dangerously tall copper barstools, some exotic style table and chairs, some orange pinstriped broadcloth reclining couches, and an open elegantly embossed copper door are here.
+
+This room is illuminated.
+Obvious exits: None.
+>
+Id# Item Type  Item Name                                     New Qty    Value
+--- ---------- --------------------------------------------- --- ------ -----
+  1 Drink      bubbling red Emjedah cocktail                 Yes x1     5gp
+  2 Food       delicious plate of penne al landshark         Yes x3     3gp
+  3 Food       seasoned and fried mozzarella                 Yes x5     4gp
+  4 Food       thin fried pita slices                        Yes x6     2gp
+  5 Food       cheese filled date                            Yes x6     1gp
+  6 Drink      glass of Rathene vintage pinot grigio         Yes x5     4gp
+  7 Drink      complicated multicolored swirled house cocktail Yes x18    2gp
+  8 Drink      frosty glass of fermented papaya              Yes x19    2gp
+  9 Drink      cup of warm cinnamon spiced tea               Yes x7     3gp
+ 10 Food       Great Divide cooked haggis in a bowl          Yes x10    3gp
+
+
+
+*************
+
+[The Traveler's Rest.]
+
+The soft hum of quiet conversation from a variety of patrons lends to the cheerful and rejuvenating ambiance of this quaint eatery. The scandalous aroma of fresh baked pastries and dark roasted coffees and tea spices wafts past you as a serving girl bustles by with a tray laden with orders. Several cozy booths line the far wall, while a half dozen sturdy tables with oak legs and circular glass tops are scattered about the smooth golden pine floor. A jovial, old Human man stands behind a highly polished marble counter tending to the large brick oven along the back wall. Another stands ready to take your order. A finely crafted hat and cloak rack is placed near the door.  Some glass topped tables, some mahogany booths, a marble counter, a hat and coat rack, and an open lacquered oak door are here.
+
+This room is illuminated.
+Obvious exits: None.
+>
+Id# Item Type  Item Name                                     New Qty    Value
+--- ---------- --------------------------------------------- --- ------ -----
+  1 Misc       ceramic dinner plate                          Yes x5     4gp
+  2 Misc       closed woven luncheon basket                  Yes x5     3gp
+  3 Drink      steaming cup of house blend coffee            Yes x5     75sp
+  4 Drink      hot mug of bergamot tea                       Yes x5     86sp
+  5 Drink      glass of frothy mocha latte                   Yes x5     95sp
+  6 Drink      raspberry iced tea                            Yes x4     55sp
+  7 Drink      glass of strawberry lemonade                  Yes x5     55sp
+  8 Food       chopped chicken and mayonnaise salad          Yes x5     2gp+75sp
+  9 Food       orange and spinach salad                      Yes x4     2gp+35sp
+ 10 Food       light sugary fruit salad                      Yes x4     2gp
+ 11 Food       steaming cup of mutton stew                   Yes x5     2gp+45sp
+ 12 Food       large spiced crock of oatmeal                 Yes x5     1gp+75sp
+ 13 Food       cream filled chocolate eclair                 Yes x5     80sp
+ 14 Food       cinnamon sprinkled bearclaw                   Yes x5     75sp
+ 15 Food       cream cheese and apple danish                 Yes x5     95sp
+ 16 Food       flaked chocolate filled croissant             Yes x5     95sp
+ 17 Food       raspberry and white chocolate torte           Yes x5     85sp
+ 18 Food       vanilla cream filled cream puff               Yes x5     1gp
+ 19 Food       large chewy chocolate chip cookie             Yes x5     55sp
+ 20 Food       multicolored handful of mints                 Yes x5     45sp
+
+>******************
+
+[Rose Eternal Tavern]
+
+Illumination from the dim oil lamps barely cuts through spilt drink and stale tobacco scented air.  A group of drag-als that seem to have become a permanent fixture here beckons you to join them for a pitcher of ale, and motions to the bartender indicating that you're paying.  Without bothering to acknowledge them, the bartender flashes a toothless grin toward a crowd more likely to have a few coins in their pockets, points them toward a table in the back and offers them an etched wood menu.  An open finely carved rosewood door, a small stage, and a slightly stained parchment placard on the bar are here.
+
+This room is illuminated.
+Obvious exits: None.
+>
+Id# Item Type  Item Name                                     New Qty    Value
+--- ---------- --------------------------------------------- --- ------ -----
+  1 Drink      glass of elven wine                           Yes x100   10sp
+  2 Drink      glass of champagne                            Yes x100   30sp
+  3 Drink      glass of cheap wine                           Yes x100   5sp
+  4 Drink      glass jigger of whiskey                       Yes x100   12sp
+  5 Drink      glass jigger of strong booze                  Yes x100   16sp
+  6 Drink      glass jigger of rotgut                        Yes x100   8sp
+  7 Drink      pewter tankard of dragon ale                  Yes x100   80sp
+  8 Drink      pewter tankard of hithual beer                Yes x100   60sp
+  9 Drink      pewter tankard of roo brew                    Yes x100   20sp
+ 10 Drink      pewter tankard of mead                        Yes x100   25sp
+ 11 Drink      glass of cheap liquor                         Yes x88    10sp
+ 12 Drink      glass of fine liquor                          Yes x68    20sp
+ 13 Drink      glass of rare liquor                          Yes x74    12sp
+ 14 Drink      chamomile tea                                 Yes x20    10sp
+ 15 Drink      khatnyp tea                                   Yes x20    10sp
+ 16 Drink      peppermint tea                                Yes x20    10sp
+ 17 Food       golden brown pancakes with butter             Yes x20    8sp
+ 18 Food       freshly fried corn fritters                   Yes x57    5sp
+ 19 Food       small bowl of creamy potato salad             Yes x50    5sp
+ 20 Food       thick bloody yelican steak                    Yes x50    50sp
+ 21 Food       peppery roasted duck                          Yes x50    40sp
+ 22 Food       fat grilled trout                             Yes x46    40sp
+ 23 Food       mint trimmed lamb chop                        Yes x50    60sp
+ 24 Food       steamed green and yellow squash               Yes x50    15sp
+ 25 Food       garlic toasted breadsticks                    Yes x50    5sp
+ 26 Food       bowl of aromatic spiced stewed fruit          Yes x52    12sp
+ 27 Food       slice of fresh cherry pie                     Yes x50    10sp
+ 28 Food       steaming baked rice and raisin pudding        Yes x50    5sp
+ 29 Food       crisp orange carrot sticks                    Yes x50    2sp
+ 30 Food       bowl of buttered popcorn                      Yes x50    2sp
+
+********************
+
+[The Cupboard.]
+
+Intricate red wood paneling lines the walls of this shop, darkening the room and soothing the eyes. Candle light flickers dimly from evenly spaced wall sconces adding a bit of mysticism to the store while the sweet smell of cedar permeates your senses. Several wooden mannequins around the room display a variety of fine articles of clothing. A large cedar humidor stands behind the smooth granite topped sales counter where a sharp featured San Elf leisurely awaits your request.  An open heavy wooden eight-paneled door is here.
+
+This room is illuminated.
+Obvious exits: None.
+>
+Id# Item Type  Item Name                                     New Qty    Value
+--- ---------- --------------------------------------------- --- ------ -----
+  1 Amulets    cloudy crystal soul orb                       Yes x4     25gp
+  2 Torches    ruby-eyed bleached wyvern skull               Yes x1     400gp
+  3 Torches    blood-stained young wyvern skull              Yes x1     400gp
+  4 Rings      antique Sanene ruby inlaid wedding band       Yes x1     500gp
+  5 Potions    glowing yellow glass beaker                   Yes x7     2gp
+  6 Amulets    dove stamped gold faith coin (Too small)      Yes x2     10gp
+  7 Rings      intricately braided moonsilver chosen's ring (Too small) Yes x1     10gp
+  8 Rings      silver and gold entwined hearts chosen's ring (Too small) Yes x2     10gp
+  9 Misc       closed black leather guitar case              Yes x1     5gp
+ 10 Boots      knee-high black leather riding boots (Too small) Yes x1     40gp
+ 11 Wpn/Blunt  colorful spinning top                         Yes x10    100gp
+ 13 Pants      cranberry silk drawstring pantaloons (Too small) Yes x1     60gp
+ 15 Cloaks     shadowy grey wool cloak                       Yes x3     5gp
+ 16 Cloaks     opal-clasped black velvet gentleman's cape (Too small) Yes x1     100gp
+ 17 Wpn/Sharp  two-handed ruby handled steel long-sword      Yes x5     5gp
+ 18 Wpn/Sharp  two-handed ruby handled steel long-sword (Too small) Yes x2     5gp
+ 19 Wpn/Sharp  two-handed blackened moonsilver sword (Too small) Yes x1     5gp
+ 20 Cloaks     soft black velvet gentleman's surcoat (Too small) Yes x1     200gp
+
+>*********************
+
+[Tempting Trinkets and Treasures.]
+
+An assortment of small locked glass display cases atop finely carved mahogany pedestals are placed about this shop. Each case contains a unique and exquisite piece of fine jewelry, polished to shine in the light cast by the large glowing crystal chandelier hanging from the center of the ceiling.  A locked glass-fronted duskwood case towards the rear of the shop is filled with figurines, some more ordinary looking jewelry and assorted collectibles. One of the pale grey walls is covered with a beautiful mural of a forest grove - a light fog flecked with gold swirls in an archway formed by the trees and in the center are two gleaming golden eyes, the form of the muscular tiger they belong to barely outlined in the fog. The other walls are hung with charts listing the properties of precious and semi-precious gems and metals and the various methods of gemstone cutting.  A soft midnight blue leather upholstered couch, an open smooth edged pine charity bin, and an open exquisite stained-glass door are here.
+
+This room is illuminated.
+Obvious exits: None.
+>
+Id# Item Type  Item Name                                     New Qty    Value
+--- ---------- --------------------------------------------- --- ------ -----
+  1 Misc       small golden sundial                          Yes x1     75gp
+  2 Potions    translucent green crystal beaker              Yes x1     5gp
+  3 Amulets    sword shaped moonsilver tie clip (Too small)  Yes x1     110gp
+  4 Food       delicate white chocolate rose                 Yes x1     10gp
+  5 Food       delicate white chocolate rose                 Yes x1     10gp
+  6 Rings      diamond ring (Too small)                      Yes x1     10gp
+  7 Potions    small vial of madness cure (Unusable)         Yes x42    30sp
+  8 Wpn/Blunt  grey stone hammer (Too small)                 Yes x1     2gp
+  9 Wpn/Blunt  rose-colored stone hammer (Too small)         Yes x1     2gp
+ 10 Wpn/Blunt  white stone hammer (Too small)                Yes x2     2gp
+ 11 Wpn/Sharp  short hooked razor sharp yelican talon        Yes x1     300gp
+ 12 Wpn/Sharp  bloody darkened steel scramasax               Yes x18    15gp
+ 13 Wpn/Thrown spidersilk bag of flash powder on a cord      Yes x1     150gp
+ 14 Music      twinkling bunch of jingling trinkets (Too small) Yes x1     10gp
+
+>***********************
+
+[Lost and Found]
+
+A bell above the door tinkles as you enter this cluttered shop. Light filters in through a dusty window and glints off various metals and gemstones around the room, a bright blue and purple glass mosaic lamp on the counter provides further illumination. Weapon and armor racks are scattered haphazardly around the room, though the most valuable are displayed on a pair of ornate racks in the center of the room. A glass-fronted curio cabinet against one wall allows for the display of jewelry, several lockpicks and an array of trinkets. The glass-fronted counter contains a number of carefully labeled bottles and jars. A tall, metallic silver-eyed youth clad in simple brown clothing apart from an ornate dragon-shaped bluesteel pendant sits on an old stool behind the cluttered counter, idly flipping through the pages of a book. Behind the shopkeeper atop a cluttered bookshelf is a heavy steelwood lockbox; deeply carved into its lid is an arcane rune that glows with a faint green light.   An open sturdy blackened oak door is here.
+
+This room is illuminated.
+Obvious exits: None.
+>
+Id# Item Type  Item Name                                     New Qty    Value
+--- ---------- --------------------------------------------- --- ------ -----
+  1 Wpn/Blunt  rune-carved crimson glass staff               Yes x2     7gp+50sp
+  3 Wpn/Thrust tattered flowing pennant on a pole            Yes x1     10gp
+  4 Wpn/Sharp  short topaz imbedded moonsilver knife (Too small) Yes x1     200gp
+  5 Potions    faceted clear crystal bottle                  Yes x3     2gp+20sp
+  6 Beltpouche tiny golden bird cage                         Yes x2     4gp
+  7 Wpn/Blunt  etched silver flanged mace                    Yes x1     2gp
+  8 Armor      heavy blackened bronze full-plate mail        Yes x1     14gp
+  9 Wpn/Sharp  two-handed blackened moonsilver sword         Yes x2     15gp
+ 10 Potions    pale blue glass bottle                        Yes x50    66sp
+ 11 Wpn/Sharp  two-handed double edged moonsilver great sword Yes x1     15gp
+ 12 Armor      heavy smooth stained elm breastplate          Yes x1     2gp
+ 13 Armor      heavy intricately etched oak cuirass          Yes x1     3gp
+ 14 Wpn/Thrown flaming oil lamp                              Yes x5     5gp
+ 15 Wpn/Blunt  teak handled moonsilver war mace              Yes x3     8gp
+ 16 Wpn/Blunt  two-handed steel spiked actar flail           Yes x2     10gp
+ 17 Armor      heavy black and gold iron platemail           Yes x1     16gp
+ 18 Armor      light chain linked steel haubergeon           Yes x1     25gp
+ 19 Helms      intricately etched moonsilver helm            Yes x1     15gp
+ 20 Chests     closed small mysterious wooden coin box       Yes x1     65gp
+ 21 Wpn/Sharp  ivory pommeled niello gladius                 Yes x1     5gp
+ 22 Armor      light antique bronze battle-plating           Yes x1     12gp
+ 23 Wpn/Blunt  short engraved moonsilver mallet              Yes x1     10gp
+ 24 Gauntlets  moonsilver-etched polished steel gauntlets    Yes x1     2gp
+ 25 Armor      heavy rose inscribed brass armor              Yes x1     5gp
+ 26 Armor      light weathered leopardskin pelt              Yes x1     2gp
+ 27 Wpn/Sharp  short ancestral rune-etched moonsilver dagger Yes x1     10gp
+
+********************
+
+[Time Well Spent.]
+
+The scent of jasmine fills the air as you enter, a small incense burner near the door gives off a few small clouds of smoke. The front windows of the shop allow plenty of light from the street to enter and show off it's wares. A young leuian walks forward to greet you, his eyes sparkling as he bows deeply before asking if he may help you with anything. A jewelry case separates the work area of the shop from the front. Gems of all shapes and sizes adorn the work bench.  A closed transparent glass case, a closed black oak display shelf, and an open wooden door are here.
+
+This room is illuminated.
+Obvious exits: None.
+>
+Id# Item Type  Item Name                                     New Qty    Value
+--- ---------- --------------------------------------------- --- ------ -----
+  1 Potions    glowing yellow potion                         Yes x35    20sp
+  2 Potions    glowing yellow glass beaker                   Yes x6     2gp
+  3 Wpn/Blunt  colorful spinning top                         Yes x10    15gp
+  4 Amulets    large glistening yellow alligator tooth       Yes x8     35gp
+  5 Beltpouche shimmering crystal traveler's token           Yes x2     15gp
+  6 Rings      braided silver and gold chosen's ring (Too small) Yes x2     100gp
+  7 Wpn/Blunt  open ruby-clasped pitch black moonsilk evening bag (Too small) Yes x1     50gp
+  8 Potions    glowing green crystal potion                  Yes x1     1500gp
+  9 Torches    gold-flecked crystalla shard                  Yes x1     10gp
+ 10 Drink      sweet exotic fruit juice                      Yes x5     3gp
+ 12 Food       elwyn berry                                   Yes x2     300gp
+ 13 Potions    translucent green crystal beaker              Yes x1     1gp+47sp
+ 15 Potions    glowing orange potion                         Yes x3     20gp
+ 16 Rings      silver veined ruby ring (Too small)           Yes x1     10gp
+
+>*******************
+
+[Curious Toys.]
+
+The walls of this showroom are painted black, and the dark curtains are drawn shut.  A plush, dark red carpet covers the floor.  Several glass display cases take up the center of the showroom, and high shelves are lined with an assortment of rare collectables, toys, and oddities.  A candelabra stands on each display case.  In the flickering candlelight shadows, the shelved toys seem to dance.  An open silver-trimmed obsidian door, a glass display case, a glass display case, and a glass display case are here.
+
+This room is illuminated.
+Obvious exits: None.
+>Darn!  The shop is closed right now!
+>***************
+
+[F'linor's Pipes and Trinkets.]
+
+The inside of this dark room is filled with a fragrant smoke that hangs in the still air.  Drag-als of various sizes sit on soft leather chairs, smoking pipes and bragging of their latest practical jokes. F'linor stands in the center, a spot he obviously enjoys, bragging about the time he... when he suddenly turns to you and asks, "Oh did you need something?".  A smokey storm cloud grey ash door is here.
+
+This room is illuminated.
+Obvious exits: None.
+>
+Id# Item Type  Item Name                                     New Qty    Value
+--- ---------- --------------------------------------------- --- ------ -----
+  1 Helms      dangerously tall felt jester's hat            Yes x40    5gp+50sp
+  2 Amulets    elegant black and white silk cravat           Yes x43    2gp+50sp
+  3 Cloaks     elegant amber velvet smoking jacket           Yes x32    5gp
+  4 Drink      Drag-al crested silver beer stein             Yes x43    4gp
+  5 Food       caramel apple dumpling                        Yes x25    2sp
+  6 Misc       closed weathered Drag-al jokebook             Yes x39    7gp+50sp
+  7 Torches    sweet amber leaf cigar                        Yes x25    4gp
+  8 Torches    smoking berry leaf cigar                      Yes x25    8gp
+  9 Music      colorful tin noisemaker                       Yes x25    2gp
+ 10 Music      tiny shiny silver piccolo (Too small)         Yes x41    7gp+50sp
+ 11 Music      big loud calfhide drum                        Yes x35    20gp
+ 12 Music      beautiful shimmering pearl lute               Yes x25    10gp
+ 13 Music      diamond studded ivory ocarina                 Yes x25    30gp
+ 14 Helms      funny looking paper party hat                 Yes x28    2gp+50sp
+ 15 Helms      screaming chicken mask                        Yes x31    2gp
+ 16 Helms      curly blonde wig                              Yes x31    3gp
+ 17 Helms      frilly pink underwear                         Yes x25    5gp
+ 18 Torches    Drag-al crafted feldspar pipe                 Yes x37    6gp
+ 19 Torches    intricately carved rosewood pipe              Yes x25    7gp
+ 20 Torches    dragon shaped rosewood pipe                   Yes x25    8gp+50sp
+ 21 Beltpouche open worn brown suede pipeweed pouch          Yes x36    5gp
+ 22 Beltpouche open black crushed velvet pipe pouch          Yes x38    10gp
+ 23 Beltpouche open polished brown mahogany pipe case        Yes x45    20gp
+ 24 Food       green and yellow pipeweed                     Yes x25    75sp
+ 25 Food       fragrant brown pipeweed                       Yes x25    75sp
+ 26 Torches    fragrant gnarled walnut pipe                  Yes x25    5gp
+******************************
+
+[Jixi's Containers.]
+
+Boxes on boxes, boxes in boxes, sacks in boxes, jars in boxes, boxes in sacks, and even one box in a jar are piled everywhere! If it weren't for a frantic flerian with orange hair pointing out a safe path while shouting "Careful of Jixi's pretties, big feets!" you'd have likely turned an ankle by now. A magickal sphere floating near the ceiling changes color every few minutes but manages to cast ample light to examine the multitude of containers for sale.   A glowing magickal sphere and an open round door painted orange are here.
+
+This room is illuminated.
+Obvious exits: None.
+>
+Id# Item Type  Item Name                                     New Qty    Value
+--- ---------- --------------------------------------------- --- ------ -----
+  1 Backpacks  closed large frayed burlap rucksack           Yes x100   1gp+80sp
+  2 Backpacks  closed leather scrip                          Yes x177   8gp
+  3 Backpacks  closed large canvas travel pack               Yes x164   12gp+50sp
+  4 Backpacks  closed large leather field pack               Yes x148   15gp
+  5 Beltpouche closed clamshell coinpurse                    Yes x180   1gp+20sp
+  6 Beltpouche closed velvet coinpurse                       Yes x184   7gp+50sp
+  7 Beltpouche closed spidersilk gem pouch                   Yes x99    7gp+50sp
+  8 Beltpouche closed velvet-lined leather money belt        Yes x189   11gp+50sp
+  9 Misc       closed clear glass jar                        Yes x98    40sp
+ 10 Misc       closed paper envelope                         Yes x100   20sp
+ 11 Misc       closed hammered tin box                       Yes x168   60sp
+ 12 Misc       closed striped silver and gold present        Yes x100   1gp
+ 13 Misc       clay flower pot                               Yes x100   40sp
+ 14 Misc       wooden bucket                                 Yes x139   1gp+30sp
+ 15 Misc       closed iron banded oak strong box             Yes x100   9gp+50sp
+ 16 Misc       closed hand-carved rosewood coffer            Yes x152   2gp+65sp
+ 17 Helms      woven Nomad-style head basket                 Yes x183   9gp
+ 18 Misc       reed flower basket                            Yes x153   1gp+50sp
+ 19 Misc       reed fruit basket                             Yes x140   1gp+50sp
+ 20 Misc       open reed picnic basket                       Yes x100   3gp
+ 21 Misc       reed sewing basket                            Yes x100   2gp+20sp
+
+
+You examine the closed large frayed burlap rucksack...
+
+It is in new condition.
+It weighs about 1.5 lbs (at human size)
+It can hold other objects within it.
+It can hold up to 20 objects.
+It can hold up to 75.0 lbs weight.
+
+>You examine the closed leather scrip...
+
+It is in new condition.
+It weighs about 1.0 lb (at human size)
+It can hold other objects within it.
+It can hold up to 10 objects.
+It can hold up to 50.0 lbs weight.
+
+>You examine the closed large canvas travel pack...
+
+It is in new condition.
+It weighs about 1.5 lbs (at human size)
+It can hold other objects within it.
+It can hold up to 15 objects.
+It can hold up to 75.0 lbs weight.
+
+>You examine the closed large leather field pack...
+
+It is in new condition.
+It weighs about 1.5 lbs (at human size)
+It can hold other objects within it.
+It can hold up to 15 objects.
+It can hold up to 75.0 lbs weight.
+
+
+
+>***************************
+
+[Bare Arsed Baboon Pawn & Saloon.]
+
+Sawdust has barely settled on the floor and already rattan, pik, kobold, and go-blin-al alike are running amok. Mongrels of all breeds down tankards of booze while gambling on quick card games that, as a rule, end in violent bloodshed more often than not. The plinking of a tired old piano struggles to lend cheer to the lonesome atmosphere. Patrons here are quick to the draw. Wanted posters adorn the walls depicting many of their faces, serving for bragging rights rather than law officials. The bartender, a rather burly looking human with a thick mustache, stands behind the counter cleaning glasses with a rag and phlegmy wads of spit. A large crossbow mounted on the wall behind him remains loaded at all times, in case any of the patrons get too out of hand. With a reluctant nod, he motions towards shelves of items and a list of prices on the back wall.  An old Go-blin-al playing a piano, some crooked wooden tables, a dusty bar counter, some bolts stuck in the wall, a giant stuffed wall-mounted boar head, an old rickety wooden piano, a giant stuffed hairy baboon, and a pair of skull inlaid ebony swinging doors are here.
+
+This room is illuminated.
+You see the 1st filthy go-blin-al lacky, the 2nd filthy go-blin-al lacky, the 3rd filthy go-blin-al lacky, the 4th filthy go-blin-al lacky, the 5th filthy go-blin-al lacky, the 6th filthy go-blin-al lacky, the 7th filthy go-blin-al lacky, the 8th filthy go-blin-al lacky, the 9th filthy go-blin-al lacky, and the 10th filthy go-blin-al lacky.
+Obvious exits: None.
+>
+Id# Item Type  Item Name                                     New Qty    Value
+--- ---------- --------------------------------------------- --- ------ -----
+  2 Wpn/Thrown bubbling blue jar of volatile liquid (Too small) Yes x15    2gp
+  3 Wpn/Thrown bubbling green jar of volatile liquid (Too small) Yes x19    1gp
+  4 Wpn/Sharp  two-handed blackened moonsilver sword (Too small) Yes x4     8gp
+  5 Wpn/Thrown creepy black spider                           Yes x19    50sp
+  6 Shirts     shiny golden tassles (Too small)              Yes x1     75gp
+************
+
+[Aerhauven Imports.]
+
+A young Hithual working behind the counter gives you a gruff nod and watches you expectantly as you enter. A long counter made from a single piece of granite runs the length of the back wall. Fine armors and weapons are on display around the room, the best of which hang behind the counter. An elaborate candle holder made up of several interlocked battle-axes hangs from the center of the ceiling illuminating the area.  A closed intricately engraved bluesteel door and an ornate drathain trimmed archway are here.
+
+This room is illuminated.
+Obvious exits: None.
+>
+Id# Item Type  Item Name                                     New Qty    Value
+--- ---------- --------------------------------------------- --- ------ -----
+  1 Armor      heavy diamond inlaid drathain cuirass (Too small) Yes x1     12500gp
+  3 Wpn/Blunt  two-handed intricately engraved emiel kotiate (Too small) Yes x1     1200gp
+  4 Wpn/Sharp  two-handed tiger pommeled emiel Hithual balesarius (Too small) Yes x1     1000gp
+  5 Wpn/Blunt  two-handed bone handled grimsilver spiked binnol (Too small) Yes x1     7500gp
+  7 Wpn/Sharp  short ice cold iron hand axe                  Yes x15    50sp
+  8 Wpn/Blunt  two-handed spiked moonsilver Rathene flail (Too small) Yes x1     100gp
+  9 Helms      open Hithual crafted titanium armet           Yes x1     75gp
+ 10 Wpn/Sharp  two-handed double edged moonsilver great sword Yes x7     15gp
+ 11 Wpn/Blunt  two-handed barbed morbius club                Yes x1     10gp
+ 12 Wpn/Sharp  heavy handled moonsilver battle-axe           Yes x2     7gp
+ 13 Wpn/Sharp  two-handed blackened moonsilver sword         Yes x6     15gp
+ 14 Wpn/Sharp  silver inlaid morbius cutlass                 Yes x1     5gp
+ 15 Wpn/Blunt  two-handed gleaming moonsilver battle hammer  Yes x2     15gp
+ 16 Wpn/Sharp  short ancestral rune-etched moonsilver dagger Yes x2     10gp
+ 17 Wpn/Blunt  short engraved moonsilver mallet              Yes x3     10gp
+ 18 Wpn/Blunt  two-handed giant blood-stained runesilver war maul Yes x2     750gp
+ 19 Wpn/Blunt  two-handed Hithual crafted emiel war hammer (Too small) Yes x1     1300gp
+ 20 Wpn/Blunt  two-handed menacing blackened cobalt great flail Yes x1     125gp
+ 21 Wpn/Sharp  jade hilted dragon fang sword (Too small)     Yes x1     150gp
+ 22 Armor      heavy moonsilver coated steel chainmail (Too small) Yes x1     350gp
+ 23 Armor      giant iron skeleton ribcage (Too large)       Yes x1     100gp
+ 24 Wpn/Sharp  short straight bladed titanium dagger (Too small) Yes x1     35gp
+ 25 Wpn/Blunt  short oak handled titanium mace (Too small)   Yes x1     35gp
+
+>********************
+
+[The Dark Side.]
+
+This dark room is faintly illuminated by barely burning wrought iron torches that line the damp pitch-black brick walls. Screams of various races can be faintly heard echoing through the room, apparently coming from behind the walls. A cold and eerie chill sweeps through your body making you grin with delight, or shiver with fright as you peruse the vast shelves or merchandise all that seem to appeal to your darker side. An attractive Sanene female wearing a wickedly spiked thorn choker and a full studded leather body suit stands behind a cold iron counter glaring at you through her hypnotic pitch black eyes.  A blood red sign and a dark exit are here.
+
+This room is illuminated.
+Obvious exits: None.
+>
+Id# Item Type  Item Name                                     New Qty    Value
+--- ---------- --------------------------------------------- --- ------ -----
+  1 Potions    glowing black potion of pain                  Yes x13    50gp
+  2 Drink      hollow skull of dark blood ale                Yes x6     5gp
+  3 Misc       deathly black funeral lilies                  Yes x3     10gp
+  4 Shields    crystalla reinforced mahogany targe           Yes x1     50gp
+  5 Gauntlets  spiky blackened iron gauntlets                Yes x1     15gp
+  7 Wpn/Sharp  ruby-hilted blackened moonsilver assassin's blade Yes x1     800gp
+  8 Wpn/Sharp  razor sharp bloodshard blade of darkness      Yes x1     1500gp
+  9 Backpacks  bulbous pulsating flesh sack                  Yes x1     600gp
+
+You examine the bulbous pulsating flesh sack...
+
+It is in new condition.
+It weighs about 0.2 lbs (at human size)
+It can hold other objects within it.
+It can hold up to 25 objects.
+It can hold up to 100.0 lbs weight.
+
+
+*****************
+
+[Lucky Luminations.]
+
+A large, woven rush mat at the door welcomes you into a brightly lit shop.  The glossy golden pine floor and strategically placed mirrors on the walls gently reflect the light shed by dozens of different lamps, lanterns, and magikal illuminations.  A short, round, glass display case holds a selection of candles in a variety of hues and scents. Torches and lanterns are affixed to the walls in neatly spaced rows.  At the back of the shop a cheerful male Secian sits on a tall stool behind a mirrored counter.  Behind him float several magikal illumination orbs glowing a rainbow of different colors.   A glowing bright crimson paper lantern on a stick, a glowing Dragon patterned stained glass lantern, a glowing finely woven silver mesh cage of fireflies, and an opaque ruby red glass door are here.
+
+This room is illuminated.
+Obvious exits: None.
+>
+Id# Item Type  Item Name                                     New Qty    Value
+--- ---------- --------------------------------------------- --- ------ -----
+  1 Torches    leather wrapped pine pitch torch              Yes x10    5gp
+  2 Torches    handmade sapphire blue beeswax candle         Yes x10    5gp
+  3 Torches    gold swirled emerald green candle             Yes x10    5gp
+  4 Torches    faceted dragon-shaped crystal candle holder   Yes x10    5gp
+  5 Torches    short yellowed tallow candle                  Yes x10    5gp
+  6 Torches    bright crimson paper lantern on a stick       Yes x10    5gp
+  7 Torches    hemp bound bundle of rushes                   Yes x10    5gp
+  8 Torches    vanilla scented silver oil lamp               Yes x10    8gp
+  9 Torches    covered star patterned terracotta lamp        Yes x10    8gp
+ 10 Torches    ivy embossed taper in a gold holder           Yes x10    8gp
+ 11 Torches    rose etched glass covered storm lantern       Yes x10    8gp
+ 12 Torches    intricately carved jade handled rushlight     Yes x10    8gp
+ 13 Torches    heavy burnished brass lantern                 Yes x10    8gp
+ 14 Torches    Dragon patterned stained glass lantern        Yes x10    8gp
+ 15 Torches    ruby-studded moonsilver glass covered lantern Yes x10    8gp
+ 16 Torches    rune-etched obsidian handled rushlight        Yes x10    8gp
+ 17 Torches    enchanted golden crystalla orb                Yes x10    10gp
+ 18 Torches    finely woven silver mesh cage of fireflies    Yes x9     10gp
+ 19 Torches    swirling iridescent glass cube                Yes x10    10gp
+ 20 Torches    exquisitely carved onyx skull with amber eyes Yes x10    10gp
+
+***************
+
+[Traveler's Emporium.]
+
+You enter a large room with items of all sorts arranged neatly in mahogany and gold-trimmed glass display cases. Deep amber velvet curtains, set against rich royal blue walls, are opened wide to let in light from the street. A large candlelit crystal chandelier hangs from the ceiling, illuminating the room with dazzling color. Beside the large arched double doors are two display cases which stand out amongst the rest. Plush burgundy chairs and mahogany coffee tables are throughout the store to sit and look around in comfort, or perhaps join a friend for a bite to eat from a neighboring store. A light scent of spicy incense fills the room, and the warm ambience lends itself to a rich shopping experience. Some of the items for sale are mundane, yet necessary parts of everyday life, while others have more exotic uses and origins. The shopkeeper, with a friendly smile, is ready to sell ones every desire.   A pair of large arched double-doors, a closed display case and sign, and a closed display and placard are here.
+
+This room is illuminated.
+You see the 1st foreign merchant.
+Obvious exits: None.
+>
+Id# Item Type  Item Name                                     New Qty    Value
+--- ---------- --------------------------------------------- --- ------ -----
+  1 Music      ivy etched yew panpipe (Too small)            Yes x1     15gp
+  2 Cloaks     long flowing render skin cape                 Yes x2     20gp
+  3 Torches    gold-flecked crystalla shard                  Yes x1     10gp
+  4 Wpn/Blunt  rune-carved crimson glass staff               Yes x3     25gp
+  5 Wpn/Blunt  glistening blue ice wand                      Yes x3     25gp
+  6 Gauntlets  fire emblazoned drathain arm bands (Too small) Yes x1     150gp
+  7 Rings      breathtaking pure platinum ring of Odarous (Too small) Yes x5     20gp
+  8 Rings      deep grey pearl ring of Unknown (Too small)   Yes x2     20gp
+  9 Wpn/Thrust two-handed steel lance                        Yes x7     35gp
+ 10 Wpn/Sharp  bloody darkened steel scramasax               Yes x5     35gp
+ 11 Wpn/Sharp  Odarian warrior's crystalla battle-axe (Too small) Yes x1     1500gp
+ 12 Wpn/Sharp  eagle carved emiel palache (Too small)        Yes x1     2250gp
+ 13 Wpn/Sharp  two-handed eagle etched emiel avarise (Too small) Yes x1     3500gp
+ 14 Wpn/Blunt  wickedly spiked steel war mace                Yes x3     35gp
+ 15 Cloaks     thick leather side-laced cyclas (Unusable)    Yes x1     150gp
+ 16 Backpacks  open large leather backpack (Too small)       Yes x3     15gp
+ 17 Backpacks  open small leather backpack (Too small)       Yes x1     10gp
+ 18 Wpn/Thrown bright orange pumpkin                         Yes x1     10gp
+ 19 Wpn/Blunt  two-handed barbed morbius club                Yes x1     12gp
+ 20 Wpn/Sharp  two-handed heavy silver claymore              Yes x1     10gp
+ 21 Wpn/Blunt  thick spiked morbius mace                     Yes x1     12gp
+ 22 Helms      ancestral gold-etched iron helm               Yes x1     10gp
+ 23 Wpn/Sharp  short blackened iron fuller dirk              Yes x1     5gp+50sp
+ 24 Wpn/Thrown short silver playing dart                     Yes x1     5gp
+ 25 Torches    crystal battle lantern (Unusable)             Yes x1     39gp+18sp
+ 26 Helms      breathtaking winged steel war helm (Too small) Yes x1     150gp
+ 27 Potions    translucent green crystal beaker              Yes x5     1gp+47sp
+ 28 Potions    yellow glass flask                            Yes x9     1gp+50sp
+ 29 Potions    yellow glass flask                            Yes x1     1gp
+ 30 Amulets    delicate pale blue crystal snowflake pendant (Too small) Yes x1     80gp
+ 31 Rings      snowflake etched moonsilver band (Too small)  Yes x1     80gp
+ 32 Food       bright lavender coneflower                    Yes x4     58sp
+ 33 Wpn/Thrown wickedly tipped steel dart (Unusable)         Yes x3     5gp
+
+>
+********************************
+
+
+[Adventuring Necessities.]
+
+Numerous items line the walls of this store. The middle of the room is kept clean and open. Towards the back of the store, a large glass counter filled with gems and trinkets. On the back wall, oiled and polished weapons are on display.  Sitting to the right, an oak armor stand holds several different sets of shining armor. To the left, a strong magickal aura is emitted from the many magickal items inside of a clear crystal case. Behind the counter, a young harried Leuian looks up and asks, "May I help you?"  A glass counter, an oak armor stand, a crystal case, a closed teak door, and an exit are here.
+
+This room is illuminated.
+Obvious exits: None.
+>
+Id# Item Type  Item Name                                     New Qty    Value
+--- ---------- --------------------------------------------- --- ------ -----
+  1 Wpn/Sharp  two-handed blackened moonsilver sword         Yes x28    60gp
+  2 Wpn/Blunt  two-handed steel spiked actar flail           Yes x7     60gp
+  3 Wpn/Blunt  two-handed barbed morbius club                Yes x5     60gp
+  4 Armor      heavy regal brushed steel battle-mail         Yes x8     60gp
+  5 Armor      light chain linked steel haubergeon           Yes x4     60gp
+  6 Wpn/Blunt  two-handed gleaming moonsilver battle hammer  Yes x4     60gp
+  7 Wpn/Blunt  rune-carved crimson glass staff               Yes x6     10gp
+  8 Cloaks     long flowing render skin cape                 Yes x6     25gp
+  9 Helms      intricately etched moonsilver helm            Yes x2     40gp
+ 10 Wpn/Blunt  two-handed giant blood-stained runesilver war maul Yes x2     1500gp
+ 11 Wpn/Blunt  short smooth morbius candle snuffer           Yes x1     20gp
+ 12 Armor      heavy black and gold iron platemail           Yes x5     30gp
+ 13 Wpn/Blunt  glistening blue ice wand                      Yes x3     15gp
+ 14 Amulets    large glistening yellow alligator tooth       Yes x3     75gp
+ 15 Wpn/Thrust two-handed steel lance                        Yes x4     10gp
+ 16 Wpn/Blunt  teak handled moonsilver war mace              Yes x4     40gp
+ 17 Potions    glowing orange potion                         Yes x4     30gp
+ 18 Wpn/Sharp  ivory pommeled niello gladius                 Yes x4     40gp
+
+>************************
+
+
+Rathan
+
+fort tarath
+[The Tangled Web.]
+
+The small crevice you entered through opens into a surprisingly large natural cavern. A heavily muscled matron arachnian clicks her mandibles at you challengingly from a ledge on the far wall, but doesn't move to attack. She eyes you warily instead, rythmically swaying her mandibles from side to side. Several glowing iron braziers of coal cast a steady glow, allowing easy inspection of the selection of goods securely webbed to the walls.   Some glowing iron braziers of coal, a closed thick grey steel armory, and a small crevice are here.
+
+This room is illuminated.
+Obvious exits: None.
+>
+Id# Item Type  Item Name                                     New Qty    Value
+--- ---------- --------------------------------------------- --- ------ -----
+  1 Food       steaming bowl of spiced broth                 Yes x180   30sp
+  2 Food       raw strip of flensed meat                     Yes x100   60sp
+  3 Food       raw liver strips                              Yes x164   50sp
+  4 Food       pickled hearts                                Yes x162   1gp
+  5 Food       fat blood engorged grubs                      Yes x122   30sp
+  6 Misc       closed tin can of bone worms                  Yes x184   70sp
+  7 Food       fat pickled silkworm                          Yes x178   60sp
+  8 Drink      warm goblet of fresh blood                    Yes x150   1gp
+  9 Drink      chilled goblet of flesh wine                  Yes x184   3gp
+ 10 Drink      rose tinted crystal snifter of blood wine     Yes x181   5gp
+ 11 Wpn/Sharp  short bone gutting claw                       Yes x118   6gp
+ 12 Wpn/Sharp  blackened steel Galth'ri                      Yes x169   70gp
+ 13 Wpn/Sharp  two-handed blackened steel Vrk'tcha           Yes x185   120gp
+ 14 Wpn/Blunt  short blackened steel Skul'aris               Yes x177   12gp
+ 15 Wpn/Blunt  blackened spiked steel Ssirtra                Yes x173   70gp
+ 16 Wpn/Blunt  two-handed blackened flanged steel Chir'tza   Yes x191   120gp
+ 17 Wpn/Thrust blackened steel Slir'tricka                   Yes x175   70gp
+ 18 Wpn/Thrust two-handed blackened steel Zyr'salic          Yes x189   120gp
+ 19 Bows       tanned skin slingshot                         Yes x181   20gp
+ 20 Arrows     polished yellow teeth                         Yes x100   40sp
+ 21 Shields    blackened steel Krrk'tcha                     Yes x100   10gp
+ 22 Shirts     traditional Arachnian Ziti'kca (Unusable)     Yes x141   5gp
+ 23 Pants      traditional Arachnian Tarus Ta'ir (Unusable)  Yes x136   5gp
+ 24 Backpacks  closed large spidersilk websack               Yes x100   12gp
+ 25 Armor      light dull black chitin scale mail            Yes x100   40gp
+ 26 Armor      heavy dull black chitin scale mail            Yes x100   40gp
+ 27 Armor      giant dull black chitin scale mail            Yes x100   40gp
+ 28 Armor      light faceted steel carapace                  Yes x100   300gp
+ 29 Armor      heavy faceted steel carapace                  Yes x100   300gp
+ 30 Armor      giant faceted steel carapace                  Yes x100   300gp
+ 31 Wpn/Blunt  two-handed demonic blood red morbius spiked club (Too small) No  x1     297gp
+ 32 Armor      heavy bluesteel black titanium gothic platemail (Too small) No  x1     558gp
+
+>It looks like a giant burnished brass armor.
+>It looks like a closed thick grey steel armory.
+>It's locked.
+>You don't see a lock on it.
+>You examine the short blackened steel Skul'aris...
+
+It is in new condition.
+It weighs about 0.5 lbs (at human size)
+It is a one-handed blunt weapon.
+It is not balanced for throwing.
+It has a good damage capability.
+
+>You examine the blackened spiked steel Ssirtra...
+
+It is in new condition.
+It weighs about 2.5 lbs (at human size)
+It is a hand-and-a-half blunt weapon.
+It is not balanced for throwing.
+It has a great damage capability.
+
+>You examine the two-handed blackened flanged steel Chir'tza...
+
+It is in new condition.
+It weighs about 7.0 lbs (at human size)
+It is a two-handed blunt weapon.
+It is balanced for throwing.
+It has a high damage capability.
+
+>You examine the closed large spidersilk websack...
+
+It is in new condition.
+It weighs about 1.0 lb (at human size)
+It can hold other objects within it.
+It can hold up to 15 objects.
+It can hold up to 75.0 lbs weight.
+
+>You examine the two-handed demonic blood red morbius spiked club...
+
+It is in used (but good) condition.
+It weighs about 14.4 lbs
+It is a two-handed blunt weapon.
+It is not balanced for throwing.
+It has a high damage capability.
+It appears to be sized for:
+  Arachnian
+
+Unfortunately, you are not the right size for it.
+
+>You examine the light dull black chitin scale mail...
+
+It is in new condition.
+It weighs about 7.5 lbs (at human size)
+It has a high protection value.
+
+>You examine the heavy dull black chitin scale mail...
+
+It is in new condition.
+It weighs about 10.0 lbs (at human size)
+It has a high protection value.
+
+>You examine the giant dull black chitin scale mail...
+
+It is in new condition.
+It weighs about 12.0 lbs (at human size)
+It has a high protection value.
+
+>You examine the light faceted steel carapace...
+
+It is in new condition.
+It weighs about 52.5 lbs (at human size)
+It has an amazing protection value.
+
+>You examine the heavy faceted steel carapace...
+
+It is in new condition.
+It weighs about 70.0 lbs (at human size)
+It has an amazing protection value.
+
+>You examine the giant faceted steel carapace...
+
+It is in new condition.
+It weighs about 84.0 lbs (at human size)
+It has an amazing protection value.
+Unfortunately, you are not strong enough to use it.
+
+>You examine the heavy bluesteel black titanium gothic platemail...
+
+It is in used (but good) condition.
+It weighs about 52.0 lbs
+It has a great protection value.
+It appears to be sized for:
+  Arachnian
+
+Unfortunately, you are not the right size for it.
+
+>You examine the giant dull black chitin scale mail...
+
+It is in new condition.
+It weighs about 12.0 lbs (at human size)
+It has a high protection value.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

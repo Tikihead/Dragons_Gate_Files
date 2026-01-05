@@ -1,0 +1,158 @@
+
+ The skills that are important to your class are:
+Sharp Weapons
+Blunt Weapons
+Pole Weapons
+Shield Parry
+Berserk Attack
+Identify Weapon Quality
+Disarming
+
+
+
+
+
+
+[Mercenary Guild.]
+
+A large sand pit is watched over by several grizzled veterans. Here the prospective fighter seeks to hone his skills to new heights. Though they use only wooden weapons and shields, occasionally the blows are so loud all those in the guild stop to turn their heads in wonder. For those mercenaries who lack the higher level of schooling, a sign posted nearby explains it all in monosyllables.  A wooden sign, an open drathain bound equipment chest, a drathain trimmed sign, and an open thick white oak door are here.
+
+This room is illuminated.
+Obvious exits: east* south*.
+>
+New skills we can teach you:
+
+  9. Dodging                         13. Bargaining                     
+ 16. Detect Traps                    29. Stealth                        
+
+Existing skills we can train you in (when you are ready):
+
+  3. Blunt Weapons                   11. Berserk Attack                 
+ 42. First Aid                        7. Shield Parry                   
+  2. Sharp Weapons                   14. Identify Gems/Minerals         
+  5. Throw Weapons                    4. Pole Weapons                   
+  6. Missile Weapons                  1. Brawling                       
+ 23. Swimming                         8. Quickdraw                      
+ 22. Hiding                          39. Disarming    
+
+
+****************************************************
+
+[Merchants' Guild.]
+
+Established merchants and apprentices alike sit side by side in this classroom, learning sales and trading techniques. Knowledgeable merchants are more valuable to the Guild, ensuring it retains its powerful station in Spurian society.
+
+This room is illuminated.
+Obvious exits: south*.
+>
+New skills we can teach you:
+
+ 13. Bargaining                      31. Identify Magick                
+ 50. Identify Armor Quality         
+
+Existing skills we can train you in (when you are ready):
+
+ 14. Identify Gems/Minerals          32. Identify Weapon Quality  
+
+
+*********************************
+
+[Training Pit.]
+
+You find yourself at the bottom of a deep pit. It is here the barbarians practice their skills in battle. Should you leave before your blood duel has ended, you will be branded a coward.
+
+This area is illuminated.
+Obvious paths: east*.
+>
+New skills we can teach you:
+
+None.
+
+Existing skills we can train you in (when you are ready):
+
+  3. Blunt Weapons                   11. Berserk Attack                 
+ 42. First Aid                        7. Shield Parry                   
+  2. Sharp Weapons                    5. Throw Weapons                  
+  4. Pole Weapons                     6. Missile Weapons                
+  1. Brawling                        39. Disarming                      
+
+*************************************
+
+
+[Training Basin, Dragon Cavern.]
+
+The walls of the basin have obvious, deep claw marks, even though time has smoothed their edges. They are decorated with the occasional arrow lodged firmly into the soft sandstone. The smooth striated sandstone floor slopes gradually downward from the high, claw-gouged walls of the circular pit to its center, forming an almost perfect bowl. At the center of the basin the floor levels leaving a flat circle about twenty yards in diameter. The ground bears signs of combat but time and feet eventually wear smooth the shallow scrapes caused by weapons. A steep ramp of tightly packed debris, clay and rocks cuts into the basin, beginning at the upper rim and ending right at the edge of the level circle. A translucent figure awaits you at the center of the circle.  A ramp leading up is here.
+
+This room is not illuminated.
+You see the 1st phantasmal monk*.
+Obvious exits: None.
+>
+New skills we can teach you:
+
+ 32. Identify Weapon Quality         50. Identify Armor Quality         
+
+Existing skills we can train you in (when you are ready):
+
+  2. Sharp Weapons                   54. Spellcasting                   
+ 31. Identify Magick                 42. First Aid                      
+  7. Shield Parry                     3. Blunt Weapons                  
+  4. Pole Weapons                    13. Bargaining                     
+  5. Throw Weapons                   14. Identify Gems/Minerals         
+  6. Missile Weapons                 22. Hiding                         
+ 29. Stealth                         23. Swimming                       
+ 33. Play Instruments               
+
+
+
+**************************
+
+
+[Bard's Guild.]
+
+Bard instructors give lessons to those new to the trade in the arts of performance, poetry, music, writing, singing, borrowing a bit of coin from your audience, and more! The world famous Hithual singer, Golga Greybeard, leads the instruction for a number of aspiring would-be performers. Judging by the interesting noises filling the air, this must be one of their first lessons. On the stage toward the far end of the room, the more experienced bards perform for a small gathering.  A large polished oak stage and an open large carved oak instrument bin are here.
+
+This room is illuminated.
+Obvious exits: south*.
+>
+New skills we can teach you:
+
+None.
+
+Existing skills we can train you in (when you are ready):
+
+ 14. Identify Gems/Minerals          54. Spellcasting                   
+ 33. Play Instruments               
+
+We can only train through rank 35 in any skill we offer here.
+
+
+*********************************
+
+
+[Forester's Guild.]
+
+As you move into the clearing you begin to realize that the few Elves you saw before were in fact more than a dozen people of different races moving amongst the clearing or along its edges. All dressed to match the trees and foliage of the forest, you could not distinguish them at all from a distance from the woods in which they live their day to day lives. It is here that the guild of foresters trains and practices so as to protect Elindale's forests with their lives. Though they all seem rather quiet, you notice every single one of them does not miss a single movement you make within the clearing.  A worn grassy path is here.
+
+This room is illuminated.
+Obvious exits: None.
+>
+New skills we can teach you:
+
+ 16. Detect Traps                    31. Identify Magick                
+
+Existing skills we can train you in (when you are ready):
+
+  3. Blunt Weapons                   42. First Aid                      
+  2. Sharp Weapons                   54. Spellcasting                   
+  5. Throw Weapons                    4. Pole Weapons                   
+  6. Missile Weapons                 23. Swimming                       
+ 22. Hiding                          29. Stealth                        
+
+
+
+
+
+
+
+
+
