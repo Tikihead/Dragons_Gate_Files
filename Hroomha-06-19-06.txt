@@ -1,0 +1,745 @@
+l
+[Barrister's Office.]
+
+Dark antiqued woods panel the walls of this office, complete with a polished antique desk that measures the length of the room. A huge high-backed chair, padded in the softest burgundy leather commands from behind the desk. On the desk are neat stacks of papers along with an ink pot, feather quill and parchment. The official stamp of the barrister of Spur resides in a small walnut box, open at the moment and ready to be inked and put to purpose. Thick, luxurious velvet curtains swagged and tied off with richly twined gold tassels sweep across the beveled glass windows, dramatically puddling on the floor. Crystal hurricanes cover several wall sconces that give off a soft glow. Between the sconces is a small portrait of the barrister and his family, stiffly smiling for the artist.  A polished antique rosewood desk, a closed square walnut box, an open beautifully hand-carved walnut door, a copper token Hroomha, a copper token Hroomha, a copper token Hroomha, a copper token Hroomha, a copper token Hroomha, a copper Hroomha token, a copper Hroomha's token, and a copper Hroomra's token are here.
+
+This room is illuminated.
+In the room is Sidney the Noble Human.
+Obvious exits: None.
+sk
+>
+Skill                     Remain Level
+ Blunt Weapons             1700   16    
+*Berserk Attack            0      7     
+ First Aid                 814    10    
+ Shield Parry              623    7     
+ Sharp Weapons             394    5     
+ Identify Gems/Minerals    999    8     
+ Spellcasting              669    6     
+ Throw Weapons             971    9     
+ Pole Weapons              449    5     
+ Missile Weapons           391    4     
+ Brawling                  691    7     
+ Swimming                  300    3     
+ Play Instruments          1251   13    
+ Quickdraw                 893    13    
+ Hiding                    662    15    
+ Disarming                 544    5     
+ Identify Weapon Quality   592    7     
+ Stealth                   637    6     
+
+sk
+>
+Skill                     Remain Level
+ Blunt Weapons             1700   16    
+*Berserk Attack            0      7     
+ First Aid                 814    10    
+ Shield Parry              623    7     
+ Sharp Weapons             394    5     
+ Identify Gems/Minerals    999    8     
+ Spellcasting              669    6     
+ Throw Weapons             971    9     
+ Pole Weapons              449    5     
+ Missile Weapons           391    4     
+ Brawling                  691    7     
+ Swimming                  300    3     
+ Play Instruments          1251   13    
+ Quickdraw                 893    13    
+ Hiding                    662    15    
+ Disarming                 544    5     
+ Identify Weapon Quality   592    7     
+ Stealth                   637    6     
+
+l
+>[Barrister's Office.]
+
+Dark antiqued woods panel the walls of this office, complete with a polished antique desk that measures the length of the room. A huge high-backed chair, padded in the softest burgundy leather commands from behind the desk. On the desk are neat stacks of papers along with an ink pot, feather quill and parchment. The official stamp of the barrister of Spur resides in a small walnut box, open at the moment and ready to be inked and put to purpose. Thick, luxurious velvet curtains swagged and tied off with richly twined gold tassels sweep across the beveled glass windows, dramatically puddling on the floor. Crystal hurricanes cover several wall sconces that give off a soft glow. Between the sconces is a small portrait of the barrister and his family, stiffly smiling for the artist.  A polished antique rosewood desk, a closed square walnut box, an open beautifully hand-carved walnut door, a copper token Hroomha, a copper token Hroomha, a copper token Hroomha, a copper token Hroomha, a copper token Hroomha, a copper Hroomha token, a copper Hroomha's token, and a copper Hroomra's token are here.
+
+This room is illuminated.
+In the room is Sidney the Noble Human.
+Obvious exits: None.
+>
+Sidney asks, "how is that for you?"
+sk
+
+Skill                     Remain Level
+ Blunt Weapons             1100   16    
+*Berserk Attack            0      7     
+ First Aid                 814    10    
+ Shield Parry              623    7     
+ Sharp Weapons             394    5     
+ Identify Gems/Minerals    999    8     
+ Spellcasting              669    6     
+ Throw Weapons             971    9     
+ Pole Weapons              449    5     
+ Missile Weapons           391    4     
+ Brawling                  691    7     
+ Swimming                  300    3     
+ Play Instruments          1251   13    
+ Quickdraw                 893    13    
+ Hiding                    662    15    
+ Disarming                 544    5     
+ Identify Weapon Quality   592    7     
+ Stealth                   637    6     
+
+' lot gud
+>
+Hroomha says, " lot gud"
+bow to sif deeply, his huge tree-like body bent almost in half
+>I don't see what you are referring to.
+bow to sid deeply, his huge tree-like body bent almost in half
+>You bow to Sidney deeply, his huge tree-like body bent almost in half.
+' lot thank
+>
+Hroomha says, " lot thank"
+wav
+>You wave.
+>
+Sidney waves.
+go door
+[Waiting Area.]
+
+A narrow alley leads to a wooden door lit by several street lanterns. The cobblestone alley is clean and decorated with two potted twisting junipers. Long wooden benches patiently support those that must wait in line.  A glowing street lantern, a glowing street lantern, some sturdy long wooden benches, and an open beautifully hand-carved walnut door are here.
+
+This area is illuminated.
+In the area are Binx the Secian (flying 10 feet above ground), Chiterix the Arachnian, Faet the Secian, Ra'lyn the Fir Elf, Skar the Monitanian, Snowball the Leuian, Torrana the Psycian, Ward the Leuian, and Sirus the Noble Frontacian.
+Obvious paths: south*.
+>
+Binx thinks to you, "Sorry. I was meditating"
+beam
+You beam.
+gri to bi
+>You grin to Binx.
+>
+Binx grins at you.
+
+Skar grins.
+get tr from ber
+
+Torrana chuckles at Ward.
+You remove the open platinum trimmed teak traveling case from your bone pitch black bearskin berserker's cloak.
+get cow from tr
+>You remove the engraved shiny brass cowbell from your open platinum trimmed teak traveling case.
+off cow to bi
+>
+Ward says to Torrana, "I've tried everything. I've made offers in the post office just about everyday"
+You must withdraw your current offer first.
+with
+>You withdraw your offer.
+off cow to bi
+>You offer Binx an engraved shiny brass cowbell.
+
+>
+Ward says to Torrana, "and I have a fleet of people looking for them for me"
+
+Binx descends 5 feet.
+
+Binx accepts your engraved shiny brass cowbell.
+
+Binx beams at you.
+beam
+You beam.
+>
+Torrana says to Ward, "maybe they're somewhere we can't get to right now.. like Saldea..."
+
+Sidney just entered through an open beautifully hand-carved walnut door.
+
+Torrana furrows her brow.
+
+Sidney says, "next"
+put tr in ber
+You place the open platinum trimmed teak traveling case within your bone pitch black bearskin berserker's cloak.
+>
+Sidney just went through an open beautifully hand-carved walnut door.
+
+Skar just went through an open beautifully hand-carved walnut door.
+
+Faet says to Ward, "I know Arkayne is looking"
+
+Ward groans.
+
+Binx exclaims to Hroomha, "Thanks!"
+
+Ward says to Torrana, "knowing my luck, probably"
+
+Ward nods up and down to Faet.
+
+Faet says, "the line is now Sirus, Chiterix, Ward, Snowball, Ra'lyn, Binx, Torrana, then me.  "
+'bi, lot wel'cm
+
+Hroomha says to Binx, "lot wel'cm"
+wav
+>You wave.
+s
+>[Trade Way.]
+
+The well-worn road is crowded with groups of adventuring souls on their way to barter, unlock, and bank their wages. A constant stream travels to the south, into a small but well-tended courtyard. The rest rush past, hoping to thwart those that cling to the shadows and ply their darker trades with nimble fingers.  A street lantern is here.
+
+This area is illuminated.
+Obvious paths: north* east* south* west*.
+e
+>[Trade Way, Intersection.]
+
+The monotonous line of dull grey buildings separate, revealing a massive domed building. The front walls of the building are dominated by glass panels displaying the latest fashions from several of the stores inside.  A pair of women carrying several shopping bags spin through the glass revolving doors while two grumpy looking men drag behind them with even larger bags. A large banner over the revolving doors proudly displays the name, "The Galleria", for all to see.   A street lantern and an open gold trimmed revolving glass door are here.
+
+This area is illuminated.
+You see the 1st drunk bar patron.
+Obvious paths: north* east* south* west*.
+sk
+>
+Skill                     Remain Level
+ Blunt Weapons             1100   16    
+*Berserk Attack            0      7     
+ First Aid                 814    10    
+ Shield Parry              623    7     
+ Sharp Weapons             394    5     
+ Identify Gems/Minerals    999    8     
+ Spellcasting              669    6     
+ Throw Weapons             971    9     
+ Pole Weapons              449    5     
+ Missile Weapons           391    4     
+ Brawling                  691    7     
+ Swimming                  300    3     
+ Play Instruments          1251   13    
+ Quickdraw                 893    13    
+ Hiding                    662    15    
+ Disarming                 544    5     
+ Identify Weapon Quality   592    7     
+ Stealth                   637    6     
+
+e
+e
+>[Trade Way.]
+
+Many townsfolk pass along this busy thoroughfare. Rich and poor alike mix freely on this street, much to the dismay of a passing nobleman. A young human struggles with an armful of packages and two young children in tow. Those in need of goods or supplies head west towards the market, those looking for the news of the day head east towards Town Square.  A street lantern is here.
+
+This area is illuminated.
+You see the 1st local farmer.
+Obvious paths: east* west*.
+[Trade Way.]
+
+A large gate separates the Merchant District and Town Square-the hub of Spur's activity. The partially opened gate is currently able to accommodate the simultaneous passage of several locals and visitors, but can be expanded to accept carriages, or sealed to ward against invasion.  Guards stand sentry from atop the wall as well as the ground.  A street lantern is here.
+
+This area is illuminated.
+Obvious paths: west*.
+go gate
+>[Merchant Walk.]
+
+Merchant Walk comes to an abrupt end at a massive moonsilver gate. The towering walls of Spur on either side of the gates force all to pass by the guards who are constantly on the watch for thieves and bandits. Just beyond the gates one can glimpse the bustling Merchant District of Spur.  A freshly painted oak sign and a street lantern are here.
+
+This area is illuminated.
+You see the 1st trader and the 2nd trader.
+Obvious paths: east*.
+e
+e
+e
+e
+>[Merchant Walk.]
+
+Several city guardsmen have just finished wrestling to the ground some young tough thieves, who thought to rob one of the returning merchants. To one side a relieved-looking Fir Elf gentleman holds on tightly to his gold-tipped walking stick, as the human boy yells his innocence to any who might listen. His pleas fall on deaf ears as the guards drag him away.  A street lantern is here.
+
+This area is illuminated.
+You see the 1st fluffy kitten (wearing a small gold collar).
+In the area is Etheri the Leuian.
+Obvious paths: east* west*.
+
+Etheri just went west.
+[Merchant Walk.]
+
+Merchants, some in frilly finery, others dressed in homespun wools, travel back and forth along this street on their way to and from work. They seem to blend together here, if only briefly. Several of the more haughty looking merchants are trailed by overloaded carts pushed along by haggard young apprentices.   A street lantern is here.
+
+This area is illuminated.
+Obvious paths: east* west*.
+[Merchant Walk.]
+
+A neatly kept park fronts this portion of Merchant Walk. Topiary and low shrubberies partition off small sections of the park. Young lovers sit on benches almost hidden from view, gazing at each other with looks of love, oblivious to the continual bustle of passing customers and merchants on their way to do business.  A street lantern is here.
+
+This area is illuminated.
+Obvious paths: east* west*.
+[Merchant Walk.]
+
+Neatly trimmed shrubbery line well-maintained cobblestones along Merchant Walk. Apprentices rush by carrying supplies and orders, carrying out their masters' business. Several wooden benches line the walk for those customers who need to rest from the strain of carrying heavy parcels.  A street lantern is here.
+
+This room is illuminated.
+Obvious exits: east* west*.
+e
+e
+>[Town Square West.]
+
+People carrying bundles stream in from the west and rapidly lose themselves in the large crowds moving about in the vast town square. Several citizens head west with bulging coinpurses babbling excitedly about what they're going to purchase. Giggling children dart around the slower moving folks rushing on their way to spend the silvers in their pockets.  A street lantern is here.
+
+This area is illuminated.
+Obvious paths: north* northeast* east* southeast* south* west*.
+[Town Square Center.]
+
+A beautiful fountain, sculpted from pristine white marble, rests at the center of Spur's main square. Clear, sparkling water sprays from a spout at the fountain's tip and cascades down several tiers before spilling into a circular pool. High above the square, the wings of two imperial stone dragons form an arch for a massive gateway. The colossal monument stands at the heart of the city like a silent sentinel keeping watch over the entire realm. Lifelike marble statues decorate the square's perimeter, each a celebrated hero of Spur's past.  A marble statue of a Human, some crystal flecked granite oliphant-shaped benches, a rosewood sign, a crisp gold lettered vellum notice, a flowing purple marble fountain, a shimmering purple marble statue of an Ice Demon, a small blackened pile of ashes, a short wooden stick, and an open tattered old book of notes are here.
+
+This area is illuminated.
+Obvious paths: north* northeast* east* southeast* south* southwest* west* northwest*.
+se
+>[Town Square.]
+
+The elegant Hotel Royale towers above the street, its emerald door sparkling in the light. The patrons that stroll in and out are catered to, doors opened and closed for them, and baggage and packages carried by harried servants. The large Bank of Spur sits on the east side of the square. Its location close to the Royale is not a coincidence. A gold-trimmed door is proof of the success of this branch of the Spurian bank and those who run it.  An elegant gold-trimmed walnut door, an open emerald steel door, a street lantern, and a new rosewood sign pointing southeast are here.
+
+This area is illuminated.
+Obvious paths: north* southeast* west* northwest*.
+go door
+>[Bank.]
+
+Two large Thugian guards stand sentinel on each side of the doors to the main branch of the Bank of Spur. Elegant furnishings adorn the office. Polished oak and gold filigree emphasize the wealth that abounds in this establishment. Well-dressed tellers stand ready to help you store your money safely or to reduce your coinage to more manageable form.  An elegant gold-trimmed walnut door, a wooden sign, and a bright wooden sign are here.
+
+This room is illuminated.
+In the room are Mungo the Novice Oog-ra (holding a flaming wooden torch) and Enaya the Psycian.
+Obvious exits: None.
+bank bal
+>
+You approach a teller and quietly request an account balance...
+
+The teller whispers to you, "You have an account balance of 54100 silver."
+blink
+>You blink.
+slap m on the shoulder in a friendly manner, with a huge gnarled old hand..
+>You slap Mungo on the shoulder in a friendly manner, with a huge gnarled old hand..
+sp oo
+>You are now speaking Oog-ra.
+>
+Mungo just went through an elegant gold-trimmed walnut door.
+'m, lot h'lo
+
+Hroomha says in Oog-ra, "m, lot h'lo"
+sigh
+>You sigh.
+l
+>[Bank.]
+
+Two large Thugian guards stand sentinel on each side of the doors to the main branch of the Bank of Spur. Elegant furnishings adorn the office. Polished oak and gold filigree emphasize the wealth that abounds in this establishment. Well-dressed tellers stand ready to help you store your money safely or to reduce your coinage to more manageable form.  An elegant gold-trimmed walnut door, a wooden sign, and a bright wooden sign are here.
+
+This room is illuminated.
+In the room is Enaya the Psycian.
+Obvious exits: None.
+sp
+>You are now speaking Common.
+bank bal
+bank with 10 gold
+>
+You approach a teller and quietly request an account balance...
+
+The teller whispers to you, "You have an account balance of 54100 silver."
+
+You approach a teller and quietly request to make a withdrawal...
+
+info mon
+The teller says, "Your new account balance is 53100 silver."
+go door
+>You have 30 silver pieces and 10 gold pieces.
+
+This gives you a total net worth of 1030 silver.
+w
+>[Town Square.]
+
+The elegant Hotel Royale towers above the street, its emerald door sparkling in the light. The patrons that stroll in and out are catered to, doors opened and closed for them, and baggage and packages carried by harried servants. The large Bank of Spur sits on the east side of the square. Its location close to the Royale is not a coincidence. A gold-trimmed door is proof of the success of this branch of the Spurian bank and those who run it.  An elegant gold-trimmed walnut door, an open emerald steel door, a street lantern, and a new rosewood sign pointing southeast are here.
+
+This area is illuminated.
+Obvious paths: north* southeast* west* northwest*.
+s
+s
+s
+[Town Square South.]
+
+The outward appearance of the people here seems a bit classier. Rich clothing and large coin purses are prevalent amongst the travelers. In fact, many of the folk heading into Town Square from the south are accompanied by large bodyguards to assure their safety. The well maintained road is lined with small brass lanterns, each swinging off an individual pole.  A street lantern is here.
+
+This area is illuminated.
+Obvious paths: north* northeast* east* south* west* northwest*.
+s
+s
+s
+* Type-ahead queue full.  Command not processed.
+[Southern Avenue.]
+
+Smooth stones make up the street that leads from the center of Spur to the south. Each stone has been carefully fitted for the most comfortable travel by both cart and traveler alike. A well dressed Guard patrols the area in his dress uniform. Captains don't allow for slovenly appearances on this patrol.  A street lantern is here.
+
+This area is illuminated.
+Obvious paths: north* south*.
+[Southern Avenue.]
+
+Southern Avenue leads between the center of Spur and the homes of the prosperous and wealthy. Several of the Ladies of the city stroll along the avenue chatting about the current events and latest gossip of the Spur. Behind them, harried servants carry their reticules and all those belongings that they cannot be without.  A street lantern is here.
+
+This area is illuminated.
+Obvious paths: north* south*.
+[Southern Avenue.]
+
+Vast estates tower over the huge Spurian wall towards the south. The well-to-do who live in these homes idle away their days, enjoying the luxury of time. Standing next to a very empty lantern pole, a small Flerian child insists in a plaintive wail, that he had nothing to do with the missing lantern. The well-dressed guard that interrogates him keeps pointing at a small sack on the ground and its obvious contents.  An open small burlap sack, a street lantern, and a lantern are here.
+
+This area is illuminated.
+Obvious paths: north* south*.
+[Southern Avenue & Gorey Street.]
+
+The boughs of a large apple tree hang over the well tended avenue. Below the beautiful tree stands a small fountain. Atop the fountain is an intricately carved Secian who appears to be dancing with the water as it splashes around her. Set in the marble base is a small plaque that reads, "For those who have gone before us." Many stand for a moment as they pass this way, giving thanks for the gift of life that is given by both the apple tree and the Secians of long ago. Large piles of dirt and broken stone lay on either side of the street as workmen ready the east and west alleys for expansion.  A street lantern, an open Secian etched moonsilver door, a pair of open silver forged swinging doors, and a sign above the doors are here.
+
+This area is illuminated.
+Obvious paths: north* east* south* west.
+[Southern Avenue.]
+
+Standing next to the large iron gate that separates the center of town from those of the elite class are several of the Spurian Guard. They are here to assist all who pass with the simple kindness of opening a gate, or the more important task of escorting those in need to the bank or market. A young looking cadet rubs wax into the stones of the city wall, his task is daunting, but one that will teach him discipline.  An open iron gate and a street lantern are here.
+
+This area is illuminated.
+You see the 1st townsman and the 2nd townsman.
+Obvious paths: north*.
+go gate
+>[Gateway.]
+
+An elegant, carved wooden sign hangs above the ornate gateway set into the massive wall that divides Spurs Noble District from the Town Square. You can make out city guardsmen peering down attentively at all that approach from their posts atop the imposing wall. They seem to take a greater interest in this part of town, though there does not seem to be anything threatening enough here to warrant such attention.  A street lantern, an open iron gate, and a gilded silver plaque are here.
+
+This area is illuminated.
+Obvious paths: south*.
+s
+s
+>[Noble Way.]
+
+To the north, you can make out an ornately scrolled gateway set in the base of the imposing city wall. The refined roadway of Noble Way stretches out to the south. The cobblestones of the road are smooth and even. The attention to detail shown here is a dramatic change from some of the other parts of the city.  A street lantern is here.
+
+This area is illuminated.
+Obvious paths: north* south*.
+sw
+[Noble Way.]
+
+An unusually large home, even for this part of town, lies off to the west. It seems as if one ambitious owner is slowly buying up the lots next to his and adding them to his own. Groundskeepers are at work in the surrounding gardens, trimming and raking, so intent on their work they do not bother to acknowledge the passing traffic on the road.  A street lantern is here.
+
+This area is illuminated.
+Obvious paths: north* southwest*.
+s
+s
+[Noble Way.]
+
+Many grand, even ostentatious, homes line this stretch of Noble Way. Most of the residents here were fortunate enough to be born into the right families. Few that live in this area have ever actually had to work for a living. Glancing at the nameplates reveals many of the recognizable names of the Spur. Some of these names could almost be considered famous.  A street lantern is here.
+
+This area is illuminated.
+Obvious paths: northeast* south*.
+[Noble Way.]
+
+Noble Way continues to wind its way among the rather modestly sized, but elegant, homes of the Spur's successful. Many a peasant farmer may live in homes larger than these, but none can match the quality found here. A peaceful, luxurious feeling pervades this part of town; perhaps it is the drifting floral scents wafting from the well-tended gardens.  A closed elegant black iron gate and a street lantern are here.
+
+This area is illuminated.
+Obvious paths: north* south*.
+se
+[Noble Way.]
+
+Gazing down each of the nearby private drives reveals a glimpse of a luxurious home, each a miniature estate in its own right. Short, stout walls and manicured hedges serve to keep out the riffraff and to protect the small, expensive gardens. Every detail has been attended to display the exotic plants, in all their pampered perfection.  A street lantern and a closed rosewood door are here.
+
+This area is illuminated.
+Obvious paths: north* southeast*.
+se
+>[Noble Way.]
+
+Leaving the exceptionally wealthy estates of the Spurian nobility, Noble Way heads toward the Town Square to the northwest. Along the roadside can be seen the in-city homes of successful merchants and other wealthy citizens of the Spur. The homes display a slightly different style, perhaps they are not quite so restrained; a touch more exuberance and freedom with materials is displayed.  A street lantern is here.
+
+This area is illuminated.
+Obvious paths: southeast* northwest*.
+[Intersection.]
+
+The avenue comes to a fork, with Noble Way curving from south to the northwest. A side-street heading off to the east leads to an extremely well kept neighborhood that easily surpasses everything around it in splendor and magnificence. Everything, even the carefully pruned trees and the manicured shrubbery displays a desire for elegant perfection.  A street lantern is here.
+
+This area is illuminated.
+Obvious paths: east* south* northwest*.
+s
+s
+s
+>[Noble Way.]
+
+The entire avenue is composed of fine cobblestone, each level with its neighbor, providing a smooth ride for passing carriages and horses. The stones were customized by craftsmen, cut to order, rather than simply placed wherever they might fit. A few stately oaks and elms line the sides of the road, shading travelers during the daylight hours.  A street lantern is here.
+
+This area is illuminated.
+Obvious paths: north* south*.
+[Noble Way.]
+
+Numerous trees lining the avenue serve as the dividing border between the majestic estates of the nobility and the lightly traveled roadway. The estates themselves are noticeably closer to the avenue than those to the south. However, they are no easier to access, still protected by their own guarding walls, some covered with ivy or colorful blooming vines.  A street lantern is here.
+
+This area is illuminated.
+Obvious paths: north* south*.
+s
+s
+[Noble Way.]
+
+Occasional gates and driveways lead back into the well-kept estates of the city's nobility, breaking and adding interest to the defining plane of the walls lining Noble Way. The rest of the street seems to mimic the splendor of the estates beyond the wall. Swept and trimmed, the roadway exudes a simple, yet beautiful elegance.  A street lantern is here.
+
+This area is illuminated.
+You see the 1st servant and the 2nd servant.
+Obvious paths: north* south*.
+s
+>[Noble Crossroads.]
+
+A small roadway bordered by flowering hedges bisects the wide avenue of Noble Way at a right angle, heading east to west.  A thick, sturdy sign stands just off to the side of a charming path, its large friendly letters intent on luring travelers into the city's premiere roadstay, the Gilded Lion Inn. The entrance is clearly marked and welcoming, extending off to the southeast.  A wooden sign and a street lantern are here.
+
+This area is illuminated.
+Obvious paths: north* east* southeast* south* west*.
+[Noble Way.]
+
+Majestic elms continue to line this broad roadway, sheltering the avenue on both sides and further enhancing the grandiose atmosphere. Fronting the beautiful homes, cobbled paths edged with narrow flower beds meander through nearby private gardens. Though they appear wonderful places to spend an afternoon or take a picnic, the glances from those tending the estates makes it clear they are only for the invited.  A street lantern is here.
+
+This area is illuminated.
+Obvious paths: north* south*.
+s
+[Noble Way.]
+
+The occasional locked gate marks the entrance to some of the more hidden estates of Spurs nobility. From this broad avenue, little can be seen of their splendor. Behind the imposing gate recedes a proud drive, disappearing mysteriously into the trees. If not for the large imposing tower rising above the hedges it would be hard to discern anything was beyond the gate. It is apparent the residents do not wish to be disturbed.  A street lantern, a closed morbius door, and an open black iron gate are here.
+
+This area is illuminated.
+Obvious paths: north* south*.
+inv
+Items carried:
+  An obsidian ring of Taath [0.1 lbs].
+  A blood-stained wool skirt [0.1 lbs].
+  A two-handed colossal black marble siege hammer [9.0 lbs].
+  An open large frayed pitch black burlap rucksack [2.1 lbs].
+  A bone pitch black bearskin berserker's cloak [10.1 lbs].
+  An open leather trimmed canvas rucksack [0.2 lbs].
+  An open pitch black leather healer's bag [4.1 lbs].
+  A blood-stained hideous second head [0.8 lbs].
+  A rat tail [0.1 lbs].
+  A spent fine rolled cigar [0.1 lbs].
+  An open large teak leather backpack [182.3 lbs].
+  A short burnished silver mace [1.0 lb].
+  An open large frayed pitch black burlap rucksack [2.1 lbs].
+  An open large frayed pitch black burlap rucksack [2.1 lbs].
+  An open blood-stained leather healer's bag [9.1 lbs].
+  Some swirling nightstone wraith charms [0.1 lbs].
+  Some giant silver etched steel scale mail [98.0 lbs].
+  A twinkling pitch black strand of love beads [0.5 lbs].
+  A squirming knotted belt of live rats [0.1 lbs].
+  A lantern [0.1 lbs].
+  Some intricately swirled tribal face paint [0.4 lbs].
+  An open large frayed pitch black burlap rucksack [15.1 lbs].
+
+You have 30 silver pieces and 10 gold pieces.
+
+This gives you a total net worth of 1030 silver.
+
+Your inventory totals 338.0 lbs.
+824 ttl -412 half
+[South Gate.]
+
+A well-guarded gateway separates the city's residential district from the farmlands just beyond. Guards carefully eye all that enter or exit the city, beckoning gruffly to random travelers for a closer inspection. The structure of the guards' barracks is visible above the road to the west. A weathered wooden sign is posted by the gate.  An open iron gate, a wooden sign, a street lantern, and an open thick stone door are here.
+
+This room is illuminated.
+You see the 1st slightly glowing city guardsman.
+Obvious exits: north*.
+go gate
+ready lan
+>It's too dark to see anything!  Ready a torch.
+>Your left hand isn't free!
+rem sie
+>You return your two-handed colossal black marble siege hammer.
+l
+ready lan
+>It's too dark to see anything!  Ready a torch.
+>You light the lantern.
+
+l
+The area brightens.
+>[South gate.]
+
+Through the gate lies the city of Spur, the major center of trade and civilization on the plains. The dusty road leading through the gates is well traveled, and walls of the city are in good repair. A small shack sits to the west of the road, during most times of the day a dusty coach can be seen waiting in front, its horses stomping with impatience to be gone. To the right of the door is a small window, its opening covered with metal bars. An old man, missing most of his teeth, waits patiently for the travelers to pay their fare, and then directs them into the waiting area. On the east side of the road a billowing multicolored tent has been erected, the hustle and bustle of merchants and customers can be seen coming and going at all times of the day.  A rainbow silk tent and an open iron gate are here.
+
+This area is illuminated.
+Obvious paths: south west*.
+s
+>[Road.]
+
+Even though it shows heavy wear, the road is in remarkably good repair. It was built by expert craftsmen to withstand the rigors of time and use. Evidence of recent repairs indicate that any problems are dealt with quickly and competently.  A broken old wooden trash wagon is here.
+
+This area is illuminated.
+Obvious paths: north* south southwest.
+sw
+>[Field.]
+
+A broad strip of grassland that follows the main road east of you, this meadow is often used by the local aristocracy for picnicking and partying on good days. The city guardsmen keep the field clear of riffraff all year round, just to be safe.  A hole is here.
+go hole , go crack
+
+This area is illuminated.
+Obvious paths: northeast* east southeast south southwest.
+sw
+>[Field.]
+
+You are in a wide strip of field that runs along the main road leading into Spur's residential district. The local constabulary sees to it that vagrants don't try to bed down here. They direct them to the field to the southeast.
+
+This area is illuminated.
+Obvious paths: northeast* east southeast south southwest.
+s
+s
+s
+>[Road.]
+
+The road coming in from the northeast bends to the south here as it cuts through the open fields. A branch leads off to the west and the river in the distance. A signpost sporting direction arrows stands to one side.
+
+This area is illuminated.
+Obvious paths: north* northeast east southeast south west.
+[Road.]
+
+The open field to the east is balanced by the fence surrounding the fairgrounds to the west. The road here hasn't seen much heavy traffic since the docks were completed, diverting most of the southbound traffic to the ships.
+
+This area is illuminated.
+Obvious paths: north* northeast east south.
+s
+[Road.]
+
+The road bends from the southwest to the north here. A gateway leads off to the southeast and a dirt-packed road there. A small farmhouse can be seen at its end, the barn nearby towering over it.
+
+This area is illuminated.
+Obvious paths: north* northeast south southwest.
+sw
+>[Field.]
+
+This wide strip of grass along the roadside is used by the guards at the gate to the southwest. Travelers from the south are directed here where they can be searched for contraband and illegal goods. Also, proper taxes can be assessed this way.
+
+This area is illuminated.
+Obvious paths: north* southwest west northwest.
+s
+>[Road.]
+
+Stretching as far as the eye can see to the east and west is the hedge. A thick line of trees and shrubs that serves as a natural wall between civilization and wilderness. A small outpost stands guard here, its door open to friends, barred to enemies.
+
+This area is illuminated.
+You see the 1st red-tailed hawk (wearing a small gold collar).
+Obvious paths: north northeast* south.
+[Road.]
+
+This narrow tunnel through the hedge leads up to the gateway that lets out to the wilderness beyond. Though it used to see heavy traffic from the south, the docks have made this gate largely a place of semi-banishment for the guards.  An open bronze gate is here.
+
+This area is illuminated.
+Obvious paths: north*.
+go gate
+>[Wilderness gate.]
+
+Set within a wide tunnel leading through the hedge to the north is the Wilderness Gate. It separates the settled lands of Spur from the open plains to the south of the city. The plains stretch as far as the eyes can see, the horizon and the walls of the fort down the road the only blemishes of the grassy landscape in the distance. The stones of the road are smoothly set together, well built to withstand heavy travel. A broken wagon wheel, discarded some time ago, covers a spot of nearby grass, weeds trying to climb through the spokes.  An open bronze gate is here.
+
+This area is illuminated.
+Obvious paths: east southeast south southwest west.
+sw
+>[Southern Tradeway.]
+
+The tradeway runs across the open grasslands northeast towards the Spur, and southwest towards distant lands and eventually, the coast. The plains to the south and east seem totally indifferent to your existence. Just ahead, a small path moves up a village of huts spread out in a semi-circle. In the center of the village a giant fire pit sits where barbarians who wander through the village can sit around to stay warm.  A worn grassy path is here.
+
+This area is illuminated.
+Obvious paths: north northeast* east southeast south southwest west northwest.
+go pa
+>[Barbarian Village]
+
+A huge circle of rocks form a massive fire pit in the center of the village, smoldering embers from within the fire pit show that it hasn't been long since a fire warmed those in the village. It is here that those who wander the plains of the southlands gather together as something of a community. Barbarians from numerous clans come here to hone their skills and prove their honor in duels of battle. Entrances to all the huts seem to be closed except the largest hut in the middle of the semi-circle.  A worn grassy path and an open dried mud hut are here.
+
+This area is illuminated.
+Obvious paths: None.
+go cr
+>I don't see what you are referring to.
+go hu
+>[Barbarian Hut]
+
+An elderly man sits before you with his legs crossed, he looks at you carefully, as if appraising your very soul. He is dressed in the simple garb of a plainsmen, two eagle feathers rise up from the band around his head. After showing you a few of the items the villagers have made by hand he is selling, he offers you a seat across from him.  An exit from the hut and a crack in the wall are here.
+
+This room is illuminated.
+Obvious exits: None.
+go cr
+>[Cavern]
+
+You slide from behind a rock and into a cavern. Its walls are worn smooth by time and a ceremonial bonfire blazes in its center. The floor is of deep, white sand. Colorful paintings form a mural upon the western wall.  A flaming ceremonial bonfire and a shadowed crevice are here.
+
+This area is illuminated.
+Obvious paths: west*.
+w
+train list
+>[Training Pit.]
+
+You find yourself at the bottom of a deep pit. It is here the barbarians practice their skills in battle. Should you leave before your blood duel has ended, you will be branded a coward.
+
+This area is illuminated.
+Obvious paths: east*.
+>
+New skills we can teach you:
+
+None.
+
+Existing skills we can train you in (when you are ready):
+
+  3. Blunt Weapons                   11. Berserk Attack                 
+ 42. First Aid                        7. Shield Parry                   
+  2. Sharp Weapons                    5. Throw Weapons                  
+  4. Pole Weapons                     6. Missile Weapons                
+  1. Brawling                        39. Disarming                      
+
+We can only train through rank 35 in any skill we offer here.
+
+sk
+>
+Skill                     Remain Level
+ Blunt Weapons             1100   16    
+*Berserk Attack            0      7     
+ First Aid                 814    10    
+ Shield Parry              623    7     
+ Sharp Weapons             394    5     
+ Identify Gems/Minerals    999    8     
+ Spellcasting              669    6     
+ Throw Weapons             971    9     
+ Pole Weapons              449    5     
+ Missile Weapons           391    4     
+ Brawling                  691    7     
+ Swimming                  300    3     
+ Play Instruments          1251   13    
+ Quickdraw                 893    13    
+ Hiding                    662    15    
+ Disarming                 544    5     
+ Identify Weapon Quality   592    7     
+ Stealth                   637    6     
+
+info
+>
+You are Hroomha Treefoot, a delicate boned and stocky bodied 30 year old Chaotic Male adolescent Oog-ra.  You are 8'0" and weigh 494 lbs.  You are thirsty.
+
+HP: 258 of 258  Ftg: 100 of 100  Carry: 338.0 of 824.0 lbs.
+
+ Str   Int   Wis   Dex   Agi   Con   Cha   Wil   Voi   Per   App
+Great Poor  Aver  Great Great Great Good  Poor  Low   Great Aver  
+
+Use: INFO <subject> for more info.
+(Valid subjects: RELIGION, MAGICK, LANGUAGES, MARTIALARTS, MONEY, RUNESPELLS, TITLES, DISGUISE, PSIONICS)
+
+stat
+>OR:  23  DR: 58  Move Rate: 7/7 UDs  Dam Bonus: Superb/None  Stance: Frenzied
+
+You are in the center of the area!
+
+  ::: Equipment Readied :::
+
+  A glowing lantern.
+  Some giant silver etched steel scale mail.
+  Some intricately swirled tribal face paint.
+  A blood-stained hideous second head.
+  A twinkling pitch black strand of love beads.
+  Some swirling nightstone wraith charms.
+  A bone pitch black bearskin berserker's cloak.
+  An obsidian ring of Taath.
+  A blood-stained wool skirt.
+  A squirming knotted belt of live rats.
+train raise 11
+>You step forward and speak with a trainer...
+train log on?
+
+The attendant accepts your 3gp+60sp fee and directs you to the training area...
+There you are given advanced instruction in the Berserk Attack skill until your return.
+
+It will take about 1 hr, 30 mins (real-time) to complete your training...
+
+As this character is out-of-play until Tue Jun 20 01:18:58 2006, you are being returned to the menu so you can select another...
+
+    Dragon's Gate Menu
+
+ 1. Explore Dragon's Gate.
+ 2. Create, Delete, or View a character.
+ 3. Select current character.
+ 4. Display notices and version notes.
+16. Disconnect.
+
+Your active character is: Hroomha Treefoot
+
+Your selection? 
+16
+
+ ** Goodbye from Mythic Entertainment! **

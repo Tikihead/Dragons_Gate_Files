@@ -1,0 +1,78 @@
+info
+
+You are Hroomha Treefoot, a delicate boned and stocky bodied 30 year old Chaotic Male adolescent Oog-ra.  You are 8'0" and weigh 494 lbs.  You are thirsty.
+
+HP: 230 of 253  Ftg:  89 of  89  Carry: 333.7 of 796.0 lbs.
+
+ Str   Int   Wis   Dex   Agi   Con   Cha   Wil   Voi   Per   App
+Great Poor  Low   Good  Good  Great Good  Poor  Low   Good  Aver  
+
+Use: INFO <subject> for more info.
+(Valid subjects: RELIGION, MAGICK, LANGUAGES, MARTIALARTS, MONEY, RUNESPELLS, TITLES, DISGUISE, PSIONICS)
+
+stat
+>OR:  67  DR: 78  Weap RT: 3 sec  Move Rate: 6/6 UDs  Dam Bonus: Excel/None
+
+You are in the center of the area!
+
+  ::: Equipment Readied :::
+
+  An ebony handled silver war hammer.
+  A soft brown doeskin armor.
+  A twinkling pitch black strand of love beads.
+  A bone pitch black bearskin berserker's cloak.
+  A squirming knotted belt of live rats.
+l at h
+>You find something suitably reflective and gaze into it...
+
+You look like a 8'0" standard adolescent delicate boned, stocky bodied Oog-ra.
+You have very long, tied back, kinky chestnut brown fur, with large reddish brown eyes, and look disheveled.
+You appear to be loving right now.
+You can be attacked by other players.
+You have no apparent injuries, but look weakened.
+There is a shining gold emblem affixed to your clothing.
+
+Physical appearance:
+
+You see a large hairy oog-ra standing before you, with old scars covering most of his body
+
+                        Visible Equipment
+An ebony handled silver war hammer                 (right hand)
+A soft brown doeskin armor                         (armor)
+A twinkling pitch black strand of love beads       (around neck)
+A bone pitch black bearskin berserker's cloak      (over armor)
+A squirming knotted belt of live rats              (on belt)
+
+You have been bestowed the following title(s):
+  Noble of the Realm
+
+train raise 2
+>You step forward and speak with a trainer...
+
+The attendant accepts your 55sp fee and directs you to the training area...
+There you are given advanced instruction in the Sharp Weapons skill until your return.
+
+Due to your diligent training, you have gained additional fatigue!
+
+Because you are still a relative novice in this skill, the training period lasts only a few moments, before you are escorted back out into the entry area.
+h
+>You have no apparent injuries, but look weakened and tired.
+
+HP: 230/253  Ftg:  89/ 90
+cac
+>You cackle.
+sk
+>
+Skill                     Remain Level
+ Blunt Weapons             1047   11    
+ Berserk Attack            510    5     
+ First Aid                 718    7     
+ Shield Parry              257    3     
+ Sharp Weapons             400    4     
+ Identify Gems/Minerals    138    3     
+ Spellcasting              180    2     
+ Throw Weapons             100    1     
+ Pole Weapons              548    5     
+
+>
+ ** You are fully rested.

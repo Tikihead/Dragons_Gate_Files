@@ -1,0 +1,358 @@
+l at clou
+l through clou
+It looks like some misty grey spiraling clouds heading down.
+>[Road.]
+
+The road coming in from the north bends around to the southwest here as it makes its way through an open field. Used by travelers most of the year, the fields host parties and day excursions from the city in good weather.  A frozen jagged lightning bolt is here.
+
+This area is illuminated.
+Obvious paths: north* east* southeast* south* southwest* west* northwest*.
+l
+>[Festival of Magick, Levitating Disc.]
+
+The platform on which you stand is made out of a thick glass, lending a distorted view of clouds and stars lazily passing beneath it. A powerful, softly humming force provides an unseen wall for safety of its passengers as the platform floats mysteriously upon the air. Within the bubble of energy, be it day or night, the air glows a combination of fiery reds and oranges against a darkened blue. Stars faintly glow and twinkle in the dusty light of both the sun and the moon.  A thick transparent glass platform, some glowing twinkling stars, a fiery sunset of varying hues, some floating glass steps, and some misty grey spiraling clouds heading down are here.
+
+This area is illuminated.
+Obvious paths: None.
+go ste
+>[Festival of Magick, Entrance.]
+
+An ornate wrought iron fence, detailed with the various runes for each class, surrounds a raised platform in the center of the area; the runes glow and pulsate. The clouds beneath your feet give gently with each footstep, leaving ethereal impressions momentarily before fluffing back up. Above, the sky is alive with streaks of lightening that dance back and forth between more clouds and illuminate the orange-red sky with flashes of brilliant white. Misty letters swirl before you, shifting and melding together into sentences.  Some fluffy white clouds, some glowing dancing lightning streaks, some misty swirling words in the sky, a hovering oak door partially open, an open runesilver handled glass trapdoor, and some floating glass steps are here.
+
+This area is illuminated.
+Obvious paths: north* east* southeast* southwest* west*.
+l at wor
+>It looks like some misty swirling words in the sky.
+There is some writing on it!
+re wor
+>
+The misty swirling words in the sky reads:
+"Welcome to the Magick Festival! Magick Shoppe and Show are southeast. Fine apparel and adornments are southwest. Peddles are east and west. Tournament grounds are north. The doors here lead to the tavern and events, respectively."
+l n
+>[Magick Tournament, Observation Area.]
+
+Seats of clouds circle in the air, providing a view of a plush, green forest. An invisible barrier provides steady footing high above the ground, and levitating purple discs of energy lead to each observation chair. The grayish clouds beneath the barrier swirl and form various runic shapes before breaking apart and reforming. Flashes of brilliant white light erupt from cloud to cloud before changing their shape, a few of the flashes making contact with the land below.  Some glowing rune-inscribed purple runesilver levitating discs, some fluffy white clouds, and a frozen jagged lightning bolt are here.
+
+This area is illuminated.
+Obvious paths: south*.
+l
+>[Festival of Magick, Entrance.]
+
+An ornate wrought iron fence, detailed with the various runes for each class, surrounds a raised platform in the center of the area; the runes glow and pulsate. The clouds beneath your feet give gently with each footstep, leaving ethereal impressions momentarily before fluffing back up. Above, the sky is alive with streaks of lightening that dance back and forth between more clouds and illuminate the orange-red sky with flashes of brilliant white. Misty letters swirl before you, shifting and melding together into sentences.  Some fluffy white clouds, some glowing dancing lightning streaks, some misty swirling words in the sky, a hovering oak door partially open, an open runesilver handled glass trapdoor, and some floating glass steps are here.
+
+This area is illuminated.
+Obvious paths: north* east* southeast* southwest* west*.
+l at doo
+l through doo
+>It looks like a hovering oak door partially open.
+>[Magick Festival, Tavern and Stage.]
+
+Passing through the door, you have entered another plane of existence. The night sky folds like dark blue runesilk against a backdrop of twinkling stars. A large moon shines its soft brilliance upon a floating glass stage, providing a natural spotlight to those performing. Tables and chairs hover a few feet from the floor, covered in a rich velvety green grass, while small levitating discs act as stairs to and from them. Tumultuous light flashes behind the door, leading back to the entrance of the Faire.  A softly illuminated moon and shining stars, some magickally suspended tables, some magickally suspended chairs, a circular glass levitating stage, and a hovering oak door partially open are here.
+
+This room is illuminated.
+Obvious exits: None.
+l at 2
+l through 2 doo
+>I don't see what you are referring to.
+>I don't see what you are referring to.
+l
+>[Festival of Magick, Entrance.]
+
+An ornate wrought iron fence, detailed with the various runes for each class, surrounds a raised platform in the center of the area; the runes glow and pulsate. The clouds beneath your feet give gently with each footstep, leaving ethereal impressions momentarily before fluffing back up. Above, the sky is alive with streaks of lightening that dance back and forth between more clouds and illuminate the orange-red sky with flashes of brilliant white. Misty letters swirl before you, shifting and melding together into sentences.  Some fluffy white clouds, some glowing dancing lightning streaks, some misty swirling words in the sky, a hovering oak door partially open, an open runesilver handled glass trapdoor, and some floating glass steps are here.
+
+This area is illuminated.
+Obvious paths: north* east* southeast* southwest* west*.
+l at trap
+l through trap
+>It looks like an open runesilver handled glass trapdoor.
+>[Magick Festival, Eternal Fall.]
+
+Colorful runes pulsate and swirl past as you continue to fall, in slow motion, through an otherwise darkened chamber.  Some glowing small colorful runes are here.
+
+This area is illuminated.
+Obvious paths: None.
+re wor
+>
+The misty swirling words in the sky reads:
+"Welcome to the Magick Festival! Magick Shoppe and Show are southeast. Fine apparel and adornments are southwest. Peddles are east and west. Tournament grounds are north. The doors here lead to the tavern and events, respectively."
+l e
+>[Magick Festival, Second Peddler's Area.]
+
+High above in the fiery sky - not quite night, not quite day - hang tiny flickering lights in the runic shape of protection. An occasional rune plummets to the clouds that serve as the magickally structured walkway, illuminating the touched area and sending arcs of electricity between one ionic light to another. The clouds continually shift beneath you; the shapes always in a state of flux.  Some fluffy white clouds, some flaming flickering protection runes, a smoke and fire MAGICK ITEMS sign, and an open chest are here.
+
+This area is illuminated.
+Obvious paths: south* west*.
+l w
+>[Magick Festival, First Peddler's Area.]
+
+High above in the fiery sky - not quite night, not quite day - hang tiny flickering lights in the runic shape of protection. An occasional rune plummets to the clouds that serve as the magickally structured walkway, illuminating the touched area and sending arcs of electricity between one ionic light to another. The clouds continually shift beneath you; the shapes always in a state of flux.  Some fluffy white clouds, some flaming flickering protection runes, and a glowing floating blue glass POTION sign are here.
+
+This area is illuminated.
+Obvious paths: north* east*.
+l sw
+>[Magick Festival, Fanciful Adornments.]
+
+There are no corners to this room; everything is spherical and smooth. The marble that makes up the walls are smooth, veined with obsidian and amethyst. A crystal display case lays flat on a transparent glass floor, in order to provide customers sure footing. Fanciful clothing has been folded perfectly, displayed in rows within the case. A smaller rack displays a few interesting jewelry pieces. A sign reading EXIT hangs mysteriously to the northeast of the area. Occasionally, a flicker and outline of a door gives the illusion of an actual exit.  Some sparkling multicolored crystal display cases and a glowing faux circular window viewing a sunset are here.
+
+This area is illuminated.
+Obvious paths: None.
+l se
+>[Smoke and Mirrors Magick Shoppe.]
+
+Clear, thick runic-etched glass makes up the walls and floor of this room, each giving a spectacular view of the festival grounds. A large display case floats midair, displaying an array of fantastical items. Small sun and moon shaped orbs orbit around each other, casting a greenish light upon the glass. At first glance, there does not appear to exit, but a flickering of shifting of scenery against one wall indicates it is only an illusion.  A glowing hovering yellowed sunstone orb, a glowing hovering bluish moonstone orb, and an open translucent pale blue silk curtain are here.
+
+This area is illuminated.
+Obvious paths: None.
+sw
+>[Magick Festival, Fanciful Adornments.]
+
+There are no corners to this room; everything is spherical and smooth. The marble that makes up the walls are smooth, veined with obsidian and amethyst. A crystal display case lays flat on a transparent glass floor, in order to provide customers sure footing. Fanciful clothing has been folded perfectly, displayed in rows within the case. A smaller rack displays a few interesting jewelry pieces. A sign reading EXIT hangs mysteriously to the northeast of the area. Occasionally, a flicker and outline of a door gives the illusion of an actual exit.  Some sparkling multicolored crystal display cases and a glowing faux circular window viewing a sunset are here.
+
+This area is illuminated.
+Obvious paths: None.
+shop list all
+>
+Id# Item Type  Item Name                                     New Qty    Value
+--- ---------- --------------------------------------------- --- ------ -----
+  1 Dresses    voluminous embroidered silk magician's robes  Yes x15    50gp
+  2 Cloaks     scorched leather alchemist's apron            Yes x15    55gp
+  3 Beltpouche rune-embroidered black and silver velvet sash Yes x13    15gp
+  4 Helms      star embroidered pointed silk top hat         Yes x15    15gp
+  5 Cloaks     satin-lined black wool cape of tricks         Yes x13    55gp
+  6 Cloaks     black dragon embroidered shadowsilk cloak     Yes x12    100gp
+  7 Gauntlets  cobalt blue dragon embossed leather gloves    Yes x14    15gp
+  8 Boots      blue ruby encrusted runesilk slippers         Yes x10    55gp
+ 10 Pants      flared blue spidersilk side-split skirt       Yes x2     20gp
+ 11 Boots      polished ebony leather wingtips               Yes x14    15gp
+ 12 Shirts     black and white pinstriped linen vest         Yes x13    20gp
+ 13 Pants      pleated white linen trousers                  Yes x12    20gp
+ 14 Boots      narrow laced leather boots with tapered heel  Yes x7     15gp
+ 15 Shirts     off-the-shoulder silk gauze full-length chemise Yes x5     20gp
+ 16 Cloaks     crimson glyph-etched leather corset           Yes x5     35gp
+ 17 Pants      creamy white raw silk split skirt             Yes x5     20gp
+ 18 Boots      fringed black chamois moccasin boots          Yes x15    15gp
+ 19 Shirts     leather-laced blue chamois doublet            Yes x14    20gp
+ 20 Pants      grey linen drawstring breeches                Yes x13    20gp
+ 21 Amulets    magnificent marquise blue ruby                Yes x5     85gp
+ 22 Earrings   dangling blue ruby teardrop                   Yes x14    30gp
+ 23 Rings      swirling colorful sagestone mood ring         Yes x8     60gp
+ 24 Earrings   pearl and diamond cluster                     Yes x20    40gp
+ 25 Amulets    exquisite pearl and diamond choker            Yes x6     110gp
+ 26 Gauntlets  blue ruby studded leather wrist band          Yes x9     85gp
+ 27 Amulets    bright star-shaped morbius magician's amulet  Yes x9     55gp
+ 29 Earrings   dangling enchanted ruby dragon earring        Yes x14    30gp
+
+go door
+>I don't see what you are referring to.
+go ex
+>I don't see what you are referring to.
+l
+>[Magick Festival, Fanciful Adornments.]
+
+There are no corners to this room; everything is spherical and smooth. The marble that makes up the walls are smooth, veined with obsidian and amethyst. A crystal display case lays flat on a transparent glass floor, in order to provide customers sure footing. Fanciful clothing has been folded perfectly, displayed in rows within the case. A smaller rack displays a few interesting jewelry pieces. A sign reading EXIT hangs mysteriously to the northeast of the area. Occasionally, a flicker and outline of a door gives the illusion of an actual exit.  Some sparkling multicolored crystal display cases and a glowing faux circular window viewing a sunset are here.
+
+This area is illuminated.
+Obvious paths: None.
+l at disp
+l through disp
+>It looks like some sparkling multicolored crystal display cases.
+>You can't see through that!
+l at fau
+>I don't see what you are referring to.
+l at win
+>It looks like a glowing faux circular window viewing a sunset.
+l at win
+l through win
+>It looks like a glowing faux circular window viewing a sunset.
+>[Festival of Magick, Entrance.]
+
+An ornate wrought iron fence, detailed with the various runes for each class, surrounds a raised platform in the center of the area; the runes glow and pulsate. The clouds beneath your feet give gently with each footstep, leaving ethereal impressions momentarily before fluffing back up. Above, the sky is alive with streaks of lightening that dance back and forth between more clouds and illuminate the orange-red sky with flashes of brilliant white. Misty letters swirl before you, shifting and melding together into sentences.  Some fluffy white clouds, some glowing dancing lightning streaks, some misty swirling words in the sky, a hovering oak door partially open, an open runesilver handled glass trapdoor, and some floating glass steps are here.
+
+This area is illuminated.
+Obvious paths: north* east* southeast* southwest* west*.
+go win
+>It's closed!
+op win
+>That cannot be opened or closed.
+l
+>[Magick Festival, Fanciful Adornments.]
+
+There are no corners to this room; everything is spherical and smooth. The marble that makes up the walls are smooth, veined with obsidian and amethyst. A crystal display case lays flat on a transparent glass floor, in order to provide customers sure footing. Fanciful clothing has been folded perfectly, displayed in rows within the case. A smaller rack displays a few interesting jewelry pieces. A sign reading EXIT hangs mysteriously to the northeast of the area. Occasionally, a flicker and outline of a door gives the illusion of an actual exit.  Some sparkling multicolored crystal display cases and a glowing faux circular window viewing a sunset are here.
+
+This area is illuminated.
+Obvious paths: None.
+ne
+>You cannot move in that direction.
+go ex
+>I don't see what you are referring to.
+re sig
+>I don't see what you are referring to.
+ne
+>You cannot move in that direction.
+nw
+>You cannot move in that direction.
+go gate
+>I don't see what you are referring to.
+go door
+>I don't see what you are referring to.
+l at fau
+>I don't see what you are referring to.
+l at win
+>It looks like a glowing faux circular window viewing a sunset.
+go win
+>It's closed!
+go exit
+>I don't see what you are referring to.
+ne
+>You cannot move in that direction.
+inv
+>Items carried:
+  An obsidian ring of Taath [0.1 lbs].
+  A blood-stained wool skirt [0.1 lbs].
+  An open leather teak canvas rucksack [0.2 lbs].
+  An open leather trimmed canvas rucksack [0.2 lbs].
+  A bone pitch black bearskin berserker's cloak [5.1 lbs].
+  A blood-stained hideous second head [1.3 lb].
+  An open pitch black leather healer's bag [4.3 lbs].
+  Some giant bone trimmed steel plate armor [98.0 lbs].
+  A rat tail [0.1 lbs].
+  A spent fine rolled cigar [0.1 lbs].
+  An open large teak leather backpack [82.6 lbs].
+  An open large frayed pitch black burlap rucksack [2.1 lbs].
+  An open large frayed beige burlap rucksack [8.3 lbs].
+  An open blood-stained leather healer's bag [9.1 lbs].
+  Some swirling nightstone wraith charms [0.1 lbs].
+  An oak-handled iron spiked aclys [2.8 lbs].
+  A twinkling pitch black strand of love beads [0.5 lbs].
+  A squirming knotted belt of live rats [0.1 lbs].
+  A lantern [0.1 lbs].
+  Some intricately swirled tribal face paint [0.4 lbs].
+  A short burnished silver mace [1.0 lb].
+  A two-handed breathtaking massive morbius war hammer [16.8 lbs].
+
+Your inventory totals 233.4 lbs.
+824 ttl -412 half
+l in ber
+>Inside the bone pitch black bearskin berserker's cloak you see an enchanted delicate crystal spyglass, a black cult symbol, a grey obsidian figurine, a closed tattered leather bag, a silver rose shaped key, a colorful spinning top, a copper token Hroomha, a copper token Hroomha, a blood-stained hideous second head, a copper token Hroomha, a moonsilver oil lamp, a copper token Hroomha, a copper token Hroomha, and a copper Hroomra's token.
+get top from ber
+>You remove the colorful spinning top from your bone pitch black bearskin berserker's cloak.
+info vis
+>                        You have visualized the following locations
+                        -------------------------------------------
+
+                                    Visualization #1 is:
+A beautiful fountain, sculpted from pristine white marble, rests at the center of Spur's main square. Clear, sparkling water sprays from a spout at the fountain's tip and cascades down several tiers before spilling into a circular pool. High above the square, the wings of two imperial stone dragons form an arch for a massive gateway. The colossal monument stands at the heart of the city like a silent sentinel keeping watch over the entire realm. Lifelike marble statues decorate the square's perimeter, each a celebrated hero of Spur's past.
+
+                                    Visualization #2 is:
+A cool draft from the archway to the northwest hits you in the face. You hear voices murmuring, almost chanting, beyond the arch. A narrow stairway leads upward, providing an alternate exit from this room.
+
+                                    Visualization #3 is:
+Everything in this room has been colored green. This is where you will wait until it is your time to enter the arena. Food and drink have been placed on the tables to help you pass the time. A door leads into the arena and a portal leads back to the OOC Inn.
+
+Your active visualization is #2
+vis 1 act
+>
+Corridor #1 is now your active corridor!
+[30 sec. delay]
+assist
+>Your assist request is queued.
+
+Unfortunately, there are no Guides or Elders on right now, so it might be a while until your assist request is served.  If you are reporting a bug, you should use the BUG command to report it.  If the problem is life-threatening, please exit the game and leave mail to DGateAdmin and we'll attempt to solve it as soon as possible.
+
+We apologize for any inconvenience.
+If you manage to resolve your problem before help arrives, please use ASSIST CANCEL to remove your request.
+If your assistance request is to report a TOS violation, please use the TOS command ('TOS <character name> <type of offense>') to report it.
+
+who staff
+>Staff who list activated!
+
+Current Adventurers
+
+
+You notice 0 adventurers.
+report hello
+>Done.
+l
+>[Magick Festival, Fanciful Adornments.]
+
+There are no corners to this room; everything is spherical and smooth. The marble that makes up the walls are smooth, veined with obsidian and amethyst. A crystal display case lays flat on a transparent glass floor, in order to provide customers sure footing. Fanciful clothing has been folded perfectly, displayed in rows within the case. A smaller rack displays a few interesting jewelry pieces. A sign reading EXIT hangs mysteriously to the northeast of the area. Occasionally, a flicker and outline of a door gives the illusion of an actual exit.  Some sparkling multicolored crystal display cases and a glowing faux circular window viewing a sunset are here.
+
+This area is illuminated.
+Obvious paths: None.
+rub top
+>You rub the colorful spinning top.
+con top
+>I don't see what you are referring to.
+con top
+>I don't see what you are referring to.
+conc top
+>I don't see what you are referring to.
+help con
+>
+Command name: concentrate
+Alias(es)   : rub wave 
+
+Description
+-----------
+CONCENTRATE allows you to concentrate on a readied object, or to simply concentrate. Spells in some magickal items may be activated by concentrating upon it.
+
+Syntax
+------
+CONCENTRATE <object>
+
+Examples
+--------
+CONCENTRATE  (displays Ambrosious concentrates). CONCENTRATE wand (will invoke a spell upon the caster).
+
+wav top
+>You wave top.
+wav with top
+>You cannot specify a target with this command.
+l
+>[Magick Festival, Fanciful Adornments.]
+
+There are no corners to this room; everything is spherical and smooth. The marble that makes up the walls are smooth, veined with obsidian and amethyst. A crystal display case lays flat on a transparent glass floor, in order to provide customers sure footing. Fanciful clothing has been folded perfectly, displayed in rows within the case. A smaller rack displays a few interesting jewelry pieces. A sign reading EXIT hangs mysteriously to the northeast of the area. Occasionally, a flicker and outline of a door gives the illusion of an actual exit.  Some sparkling multicolored crystal display cases and a glowing faux circular window viewing a sunset are here.
+
+This area is illuminated.
+Obvious paths: None.
+hop
+>You hop up and down.
+yell help
+>
+Hroomha yells, "help"
+l at win
+l through win
+>It looks like a glowing faux circular window viewing a sunset.
+>[Festival of Magick, Entrance.]
+
+An ornate wrought iron fence, detailed with the various runes for each class, surrounds a raised platform in the center of the area; the runes glow and pulsate. The clouds beneath your feet give gently with each footstep, leaving ethereal impressions momentarily before fluffing back up. Above, the sky is alive with streaks of lightening that dance back and forth between more clouds and illuminate the orange-red sky with flashes of brilliant white. Misty letters swirl before you, shifting and melding together into sentences.  Some fluffy white clouds, some glowing dancing lightning streaks, some misty swirling words in the sky, a hovering oak door partially open, an open runesilver handled glass trapdoor, and some floating glass steps are here.
+
+This area is illuminated.
+Obvious paths: north* east* southeast* southwest* west*.
+go trap
+>I don't see what you are referring to.
+l
+>[Magick Festival, Fanciful Adornments.]
+
+There are no corners to this room; everything is spherical and smooth. The marble that makes up the walls are smooth, veined with obsidian and amethyst. A crystal display case lays flat on a transparent glass floor, in order to provide customers sure footing. Fanciful clothing has been folded perfectly, displayed in rows within the case. A smaller rack displays a few interesting jewelry pieces. A sign reading EXIT hangs mysteriously to the northeast of the area. Occasionally, a flicker and outline of a door gives the illusion of an actual exit.  Some sparkling multicolored crystal display cases and a glowing faux circular window viewing a sunset are here.
+
+This area is illuminated.
+Obvious paths: None.
+hol ber , stepping into the shadows
+quit
+>You hold the bone pitch black bearskin berserker's cloak close, stepping into the shadows.
+>
+    Dragon's Gate Menu
+
+ 1. Explore Dragon's Gate.
+ 2. Create, Delete, or View a character.
+ 3. Select current character.
+ 4. Display notices and version notes.
+16. Disconnect.
+
+Your active character is: Hroomha Treefoot
+
+Your selection? 
+16
+
+ ** Goodbye from Mythic Entertainment! **

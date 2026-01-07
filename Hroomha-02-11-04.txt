@@ -1,0 +1,82 @@
+l
+[The Royale.]
+
+A short entrance hall provides passage in and out of the exquisite Hotel Royale. A burly Thugian and a tall Monitanian carefully assess everyone as they enter. They prevent any pets from entering and keep out all but the quickest or sneakiest of the riffraff. A narrow passageway leads to the stables.  An open emerald steel door is here.
+
+This room is illuminated.
+Obvious exits: south*.
+hic
+>You reveal yourself!
+You hiccup.
+l at h
+>You find something suitably reflective and gaze into it...
+
+You look like a 8'0" standard adolescent delicate boned, stocky bodied Oog-ra.
+You have very long, tied back, kinky chestnut brown fur, with large reddish brown eyes, and look disheveled.
+You appear to be loving right now.
+You can be attacked by other players.
+You appear to be in perfect health.
+There is a shining gold emblem affixed to your clothing.
+
+Physical appearance:
+
+You see a large hairy oog-ra standing before you, with old scars covering most of his body
+
+                        Visible Equipment
+A wooden club                                      (right hand)
+Some worn leather city guardsman armor             (armor)
+An ancient jade eyed jackal sigil                  (around neck)
+A bone pitch black bearskin berserker's cloak      (over armor)
+Some pitch black wool trousers                     (pants)
+
+You have been bestowed the following title(s):
+  Noble of the Realm
+
+info
+>
+You are Hroomha Treefoot, a delicate boned and stocky bodied 30 year old Chaotic Male adolescent Oog-ra.  You are 8'0" and weigh 494 lbs.
+
+HP: 248 of 248  Ftg:  86 of  86  Carry: 186.9 of 768.0 lbs.
+
+ Str   Int   Wis   Dex   Agi   Con   Cha   Wil   Voi   Per   App
+Good  Poor  Low   Good  Good  Good  Good  Poor  Low   Good  Aver  
+
+Use: INFO <subject> for more info.
+(Valid subjects: RELIGION, MAGICK, LANGUAGES, MARTIALARTS, MONEY, RUNESPELLS, TITLES, DISGUISE, PSIONICS)
+
+stat
+>OR:  62  DR: 73  Weap RT: 3 sec  Move Rate: 6/6 UDs  Dam Bonus: Excel/None
+
+You are in the center of the area!
+
+  ::: Equipment Readied :::
+
+  A wooden club.
+  Some worn leather city guardsman armor.
+  An ancient jade eyed jackal sigil.
+  A bone pitch black bearskin berserker's cloak.
+  Some pitch black wool trousers.
+sk
+>
+Skill                     Remain Level
+ Blunt Weapons             735    10    
+ Berserk Attack            161    4     
+ First Aid                 479    6     
+ Shield Parry              45     1     
+ Sharp Weapons             178    2     
+ Identify Gems/Minerals    200    2     
+ Spellcasting              181    2     
+
+rem clu
+>You return your wooden club.
+stat
+>OR:   6  DR: 37  Weap RT: 10 sec  Move Rate: 6/6 UDs  Dam Bonus: Excel/None
+
+You are in the center of the area!
+
+  ::: Equipment Readied :::
+
+  Some worn leather city guardsman armor.
+  An ancient jade eyed jackal sigil.
+  A bone pitch black bearskin berserker's cloak.
+  Some pitch black wool trousers.

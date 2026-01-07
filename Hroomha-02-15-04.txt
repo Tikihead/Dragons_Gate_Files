@@ -1,0 +1,80 @@
+info
+
+You are Hroomha Treefoot, a delicate boned and stocky bodied 30 year old Chaotic Male adolescent Oog-ra.  You are 8'0" and weigh 494 lbs.  You are hungry.
+
+HP: 248 of 248  Ftg:  86 of  86  Carry: 166.2 of 768.0 lbs.
+
+ Str   Int   Wis   Dex   Agi   Con   Cha   Wil   Voi   Per   App
+Good  Poor  Low   Good  Good  Good  Good  Poor  Low   Good  Aver  
+
+Use: INFO <subject> for more info.
+(Valid subjects: RELIGION, MAGICK, LANGUAGES, MARTIALARTS, MONEY, RUNESPELLS, TITLES, DISGUISE, PSIONICS)
+
+stat
+>OR:  62  DR: 73  Weap RT: 3 sec  Move Rate: 6/6 UDs  Dam Bonus: Excel/None
+
+You are in the center of the area!
+
+  ::: Equipment Readied :::
+
+  An ebony handled silver war hammer.
+  Some worn leather city guardsman armor.
+  A twinkling pitch black strand of love beads.
+  A bone pitch black bearskin berserker's cloak.
+  Some pitch black wool trousers.
+inv
+>Items carried:
+  An open dragon embroidered black leather backpack [14.6 lbs].
+  A two-handed steelwood maul [14.0 lbs].
+  An open raccoonskin pack [9.5 lbs].
+  A bone pitch black bearskin berserker's cloak [10.8 lbs].
+  A leather cudgel [0.2 lbs].
+  Some pitch black wool trousers [0.1 lbs].
+  A large waterskin [8.0 lbs].
+  An open multicolored patched cotton carry-all [1.7 lb].
+  A spent fine rolled cigar [0.1 lbs].
+  An open large pitch black leather backpack [47.6 lbs].
+  An open dragon embroidered pitch black leather backpack [4.8 lbs].
+  An ebony handled silver war hammer [5.0 lbs].
+  An open large frayed burlap rucksack [2.2 lbs].
+  An open large frayed pitch black burlap rucksack [2.1 lbs].
+  A heavy brushed copper ring mail [33.6 lbs].
+  Some worn leather city guardsman armor [7.0 lbs].
+  A smooth handled wooden torch [0.1 lbs].
+  An open pitch black leather healer's bag [4.2 lbs].
+  A twinkling pitch black strand of love beads [0.5 lbs].
+
+You have 0 silver pieces and 10 gold pieces.
+
+This gives you a total net worth of 1000 silver.
+
+Your inventory totals 166.2 lbs.
+l at h
+>You find something suitably reflective and gaze into it...
+
+You look like a 8'0" standard adolescent delicate boned, stocky bodied Oog-ra.
+You have very long, tied back, kinky chestnut brown fur, with large reddish brown eyes, and look disheveled.
+You appear to be loving right now.
+You can be attacked by other players.
+You appear to be in perfect health.
+There is a shining gold emblem affixed to your clothing.
+
+Physical appearance:
+
+You see a large hairy oog-ra standing before you, with old scars covering most of his body
+
+                        Visible Equipment
+An ebony handled silver war hammer                 (right hand)
+Some worn leather city guardsman armor             (armor)
+A twinkling pitch black strand of love beads       (around neck)
+A bone pitch black bearskin berserker's cloak      (over armor)
+Some pitch black wool trousers                     (pants)
+
+You have been bestowed the following title(s):
+  Noble of the Realm
+
+train raise 3
+>You step forward and speak with a trainer...
+
+We don't normally train your type here, but for an additional fee we'll do what we can.
+You don't have the 12gp it takes for additional training in that skill!

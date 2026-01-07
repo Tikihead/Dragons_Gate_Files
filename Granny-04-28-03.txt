@@ -1,0 +1,80 @@
+info
+
+You are Granny Moses, a light boned and slender bodied 33 year old Orderly Female young Psycian Air Runemage.  You are 4'9" and weigh 102 lbs.
+
+HP:  96 of  99  Ftg:  35 of  35  Psi:  16 of  16  Carry: 23.6 of 93.0 lbs.
+
+ Str   Int   Wis   Dex   Agi   Con   Cha   Wil   Voi   Per   App
+Aver  Good  Good  Fair  Aver  Low   Aver  Poor  Fair  Fair  Low   
+
+Use: INFO <subject> for more info.
+(Valid subjects: RELIGION, MAGICK, LANGUAGES, MARTIALARTS, MONEY, RUNESPELLS, TITLES, DISGUISE, PSIONICS)
+
+>
+ ** Current hit points: 96 out of 99
+stat
+OR:   3  DR: 79  Weap RT: 10 sec  Move Rate: 6/6 UDs  Dam Bonus: Low/None
+
+You are in the center of the area!
+
+You are still protected by the 80 hour novice protection.
+
+It has been 8 mins, 58 secs since your last dose of the drug.
+
+  ::: Equipment Readied :::
+
+  A flaming wooden torch.
+  Some padded leather training armor.
+  A padded leather helm.
+  A plain cotton dress.
+l at gr
+>You find something suitably reflective and gaze into it...
+
+You look like a 4'9" standard young light boned, slender bodied Psycian RuneMage.
+You have short, wild, fine sable hair, with bright yellow eyes, and look disheveled.
+You appear to be livid right now.
+You can be attacked by other players.
+You have no apparent injuries, but look weakened.
+
+Physical appearance:
+
+You see an old yellow eye'd crone, with wild sable hair...
+
+                        Visible Equipment
+A flaming wooden torch                             (left hand)
+Some padded leather training armor                 (armor)
+A padded leather helm                              (on head)
+A plain cotton dress                               (dress)
+inv
+>Items carried:
+  A flaming wooden torch [1.0 lb].
+  An open large leather backpack [14.2 lbs].
+  Some heavy cotton robes [0.4 lbs].
+  Some padded leather training armor [0.9 lbs].
+  A wooden torch [0.1 lbs].
+  A wooden torch [0.1 lbs].
+  A wooden torch [0.1 lbs].
+  A small vial of madness cure [0.1 lbs].
+  A small vial of madness cure [0.1 lbs].
+  A small vial of madness cure [0.1 lbs].
+  A small vial of madness cure [0.1 lbs].
+  A small vial of madness cure [0.1 lbs].
+  A two-handed carved wooden staff [3.6 lbs].
+  Some padded leather training armor [0.9 lbs].
+  Some padded leather training armor [0.9 lbs].
+  Some padded leather training armor [0.9 lbs].
+  A padded leather helm [0.0 lbs].
+  A padded leather helm [0.0 lbs].
+  A padded leather helm [0.0 lbs].
+  A plain cotton dress [0.0 lbs].
+
+Your inventory totals 23.6 lbs.
+sk
+>
+Skill                     Remain Level
+ Psionics                  107    2     
+ Spellcasting              127    2     
+ First Aid                 65     1     
+
+hic madly
+You hiccup madly.

@@ -1,0 +1,65 @@
+l
+train list
+[Training Pit.]
+
+You find yourself at the bottom of a deep pit. It is here the barbarians practice their skills in battle. Should you leave before your blood duel has ended, you will be branded a coward.
+
+This area is illuminated.
+Obvious paths: east*.
+>
+New skills we can teach you:
+
+None.
+
+Existing skills we can train you in (when you are ready):
+
+  3. Blunt Weapons                   11. Berserk Attack                 
+ 42. First Aid                        7. Shield Parry                   
+  2. Sharp Weapons                    5. Throw Weapons                  
+  4. Pole Weapons                     6. Missile Weapons                
+  1. Brawling                        39. Disarming                      
+
+We can only train through rank 35 in any skill we offer here.
+
+info stat
+>Usage: INFO [CRIMES | LANGUAGES | MAGICK | MARTIALARTS | MONEY | RELIGION |
+             RUNESPELLS | VISUALS | TITLES | DISGUISE | PSIONICS]
+info
+>
+You are Hroomha Treefoot, a delicate boned and stocky bodied 30 year old Chaotic Male adolescent Oog-ra.  You are 8'0" and weigh 494 lbs.  You are satiated.  You are sloshing.
+
+HP: 258 of 258  Ftg:  99 of  99  Carry: 370.4 of 824.0 lbs.
+
+ Str   Int   Wis   Dex   Agi   Con   Cha   Wil   Voi   Per   App
+Great Poor  Aver  Great Great Great Good  Poor  Low   Great Aver  
+
+Use: INFO <subject> for more info.
+(Valid subjects: RELIGION, MAGICK, LANGUAGES, MARTIALARTS, MONEY, RUNESPELLS, TITLES, DISGUISE, PSIONICS)
+
+train raise 3
+>You step forward and speak with a trainer...
+train log on?
+
+The attendant accepts your 20gp fee and directs you to the training area...
+There you are given advanced instruction in the Blunt Weapons skill until your return.
+
+Due to your diligent training, you have gained additional fatigue!
+
+It will take about 5 hrs, 30 mins (real-time) to complete your training...
+
+As this character is out-of-play until Wed May 17 10:14:49 2006, you are being returned to the menu so you can select another...
+
+    Dragon's Gate Menu
+
+ 1. Explore Dragon's Gate.
+ 2. Create, Delete, or View a character.
+ 3. Select current character.
+ 4. Display notices and version notes.
+16. Disconnect.
+
+Your active character is: Hroomha Treefoot
+
+Your selection? 
+16
+
+ ** Goodbye from Mythic Entertainment! **

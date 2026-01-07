@@ -1,0 +1,3270 @@
+
+The fiery sentry golem looks at you, questioningly.
+re no
+
+The moonsilver lettered teak Notice Of Exiles reads:
+"-Gannon Kargon the Frontacian
+ -Railt Belryn the Penthanian
+ -Tchori Darkstar the Leuian
+ -Clive Foliot the Drag-al
+ -Kagee Predator
+ -Stanrar Mandor the Human
+ -Phannah Alittlewiser the Human"
+re 2 no
+>
+The moonsilver lettered teak Notice Of Exiles #2 reads:
+"-Oarblade Drinksalot the Hithual
+ -Nae'blis the Arachnian"
+l
+>[Emjedah, Imperial Gate House.]
+
+A massive black stone wall stands guard over the west side of Emjedah. Uniformed sentries pace slowly along the wall walk, as majestic flags of red, black, and blue rise high above two triple-turret Hawk Towers. The flags thrash crisply with the mountain's windy exhale. A steadfast stream of twisting rapids curls around the outer surface of the wall. The white-capped water cuts a treacherous path through rocks and ledges while it winds itself under an intricately carved stone drawbridge.  A moonsilver lettered teak sign, a moonsilver lettered teak Notice Of Exiles, a moonsilver lettered teak Notice Of Exiles #2, and an intricately carved stone drawbridge are here.
+
+This area is illuminated.
+You see the 1st fiery sentry golem, the 2nd fiery sentry golem, and the 3rd fiery sentry golem.
+Obvious paths: southeast.
+se
+>[Emjedah Threshold.]
+
+The gray flagstones lead up towards the entrance way of Emjedah. The path is worn by the heavy journey of foreigners, merchants, and locals. The city stands as a black marble palace against the backdrop of snowcapped mountains and raging aqua sea. Towers and buildings topped with teardrop shaped roofs hover high above the imposing city wall. Flaming torches dot the circumference of the parapet of the city wall. The flames flicker violently with the rushing north wind.  A painted wooden sign is here.
+
+This area is illuminated.
+Obvious paths: south west northwest*.
+re si
+>The tarnished brass signet ring has nothing written on it.
+re sign
+>The tarnished brass signet ring has nothing written on it.
+pok sign
+>You poke the painted wooden sign.
+re sign 
+>The tarnished brass signet ring has nothing written on it.
+put sig in bac
+>You place the tarnished brass signet ring within your open large pitch black leather backpack.
+re sig
+>
+The painted wooden sign reads:
+"Follow the path west to Grandeur Tradeway."
+l
+>[Emjedah Threshold.]
+
+The gray flagstones lead up towards the entrance way of Emjedah. The path is worn by the heavy journey of foreigners, merchants, and locals. The city stands as a black marble palace against the backdrop of snowcapped mountains and raging aqua sea. Towers and buildings topped with teardrop shaped roofs hover high above the imposing city wall. Flaming torches dot the circumference of the parapet of the city wall. The flames flicker violently with the rushing north wind.  A painted wooden sign is here.
+
+This area is illuminated.
+Obvious paths: south west northwest.
+l s
+>It's too dark to see anything!  Ready a torch.
+roll
+>You roll your eyes.
+grit with fine in between them
+>You grit your teeth with the spent fine rolled cigar in between them.
+w
+>[Grandeur Tradeway.]
+
+To make travel easier up and down the steep hill, the path cuts into the slope of the mound. Rocks and dirt stand in tall piles next to the road. A cool breeze blows down from the ice covered mountains to the north.
+
+This area is illuminated.
+Obvious paths: east* west.
+w
+>[Grandeur Tradeway.]
+
+The top of the hill provides a spectacular view of the area. The majestic icy peaks of the Great Divide tower high above the nearby foothills. The rooftops of Emjedah peak above its protective stone wall to the east. Beautiful, lush forests stand tall to the south and west.
+
+This area is illuminated.
+Obvious paths: east* southwest.
+sw
+>[Grandeur Tradeway.]
+
+Shrubs and brush grow among the rocks and boulders beside the road. The stone blocks of the road were cut to have a rugged surface, to help provide traction on the hilly slope. Several colorful hummingbirds dart among the flowers on some nearby bushes.
+
+This area is illuminated.
+Obvious paths: northeast* west.
+w
+>[Grandeur Tradeway.]
+
+Lush, leafy bushes and a scattering of slender trees grow beside this stretch of the road. Towards the east the road begins to climb a rugged hill covered in smaller and more space vegetation. In the opposite direction, tall trees loom high overhead thanks to the abundance of thick, rich soil.
+
+This area is illuminated.
+Obvious paths: east* west.
+w
+>[Grandeur Tradeway.]
+
+Magnificent trees of great age stand along both sides of the tradeway. Those that once stood along the path of the road were felled for the good of Emjedah. Squirrels scamper across the high branches and birds sing from unseen nests in the remaining foliage, perhaps grateful that their homes were spared.
+
+This area is illuminated.
+Obvious paths: east* west.
+w
+>[Grandeur Tradeway.]
+
+A large steelwood bridge crosses a deep creek bed to the west. Piles of stone blocks lie between the road and the surrounding woods. The ice covered crest of the nearby mountain stands above the towering tree tops.  A small trail cuts down the side of the ravine.
+
+This area is illuminated.
+Obvious paths: east* west.
+w
+>[Grandeur Tradeway.]
+
+Flat black stone slabs cover the top of the massive bridge. Large steelwood rails prevent anyone from accidentally falling over the side. Thick woods grow along both sides of the creek bed, obscuring the surrounding terrain.
+
+This area is illuminated.
+Obvious paths: east* west.
+w
+>[Grandeur Tradeway.]
+
+Enormous trees rise above the roadway, their thick branches hiding the sky from view. Unseen animals scurry across the limbs above and through the brush below. Crickets sing to each other from deep within the dark shadows. A steelwood bridge spans a deep gully to the east.
+
+This area is illuminated.
+Obvious paths: east* west.
+w
+>[Grandeur Tradeway.]
+
+A rocky, treeless ridge rises to the north, permitting a spectacular view of the mammoth mountains beyond. In every other direction the dense vegetation of the forest crowds the landscape. One could almost forget civilization existed if not for the stone covered roadway.
+
+This area is illuminated.
+Obvious paths: east* west.
+w
+>[Grandeur Tradeway.]
+
+Tall trees stand like silent sentinels along both sides of the roadway. Birds sing soft melodies from the branches overhead. Numerous black ants crawl over a large nearby boulder.
+
+This area is illuminated.
+Obvious paths: east* west.
+w
+>[Grandeur Tradeway.]
+
+Giant redwoods dominate this part of the forest, with some stray maple and oak trees growing among them. One large steelwood tree stands near the road, its branches bent at odd angles in a lifetime attempt to find what little sunlight manages to penetrate the canopy of leaves above.
+
+This area is illuminated.
+Obvious paths: east* west.
+w
+>[Grandeur Tradeway.]
+
+The woods grow more and more thickly to the east and start to thin out to the west. Small birds dart through the air, chasing tiny insects in a fascinating aerial ballet. Fragrant blossoms cover some of the shrubs that grow along the road, filling the air with their sweet aroma.
+
+This area is illuminated.
+Obvious paths: east* northwest.
+nw
+>[Grandeur Tradeway.]
+
+Only small trees, shrubs, and brush manage to subsist on the rocky ground at the base of a large foothill to the north. The road descends into a small valley to the northwest and disappears into a mass of redwoods that stand tall to the southeast.
+
+This area is illuminated.
+Obvious paths: southeast* northwest.
+nw
+>[Grandeur Tradeway.]
+
+Almost vertical rock walls frame the Tradeway as it runs along the bottom of a shallow valley between several foothills of the Great Divide. Both the mountains to the north and the forest to the south are visible above the sides of the valley.
+
+This area is illuminated.
+Obvious paths: southeast* west.
+w
+>[Grandeur Tradeway.]
+
+Water trickles down the sides of the stone walls, disappearing into the loose gravel at their base. Small animals scurry over the gravel, taking quick drinks of water before scampering away.
+
+This area is illuminated.
+Obvious paths: east* west.
+w
+>[Grandeur Tradeway.]
+
+Small spine-covered shrubs grow in large clumps on either side of the stone covered roadway. Several small, furry creatures stare intently from under the protective shrubs. Rock walls stretch high into the air not far beyond the prickly growth.
+
+This area is illuminated.
+You see the 1st forest spider and the 2nd forest spider.
+Obvious paths: east* west.
+w
+>[Grandeur Tradeway.]
+
+Long twisting vines dangle down the south valley wall, covering much of its surface. The lush, vibrant green hue of the vines contracts with the cold stone of the surrounding rock walls.
+
+This area is illuminated.
+Obvious paths: east* west.
+w
+>[Grandeur Tradeway.]
+
+The roadway lies at the bottom of a narrow, rocky valley. Leaves and twigs cover the ground, having fallen from limbs of trees that protrude high above the valley from the south.
+
+This area is illuminated.
+You see the 1st snake.
+Obvious paths: east* west.
+w
+>[Grandeur Tradeway.]
+
+The valley narrows and the ground climbs to the west. In the other direction, the roadway descends between the nearly vertical stone walls of the valley. Redwoods loom high above to the south, while lush conifers cover the landscape to the north and west.
+
+This area is illuminated.
+You see the 1st squirrel.
+Obvious paths: east* southwest.
+>
+The squirrel returns to center rank.
+sw
+[Grandeur Tradeway.]
+
+Dark green conifers crowd both sides of the roadway. Needles and cones cover the ground, and the fresh scent of pine fills the air. To the northeast, the roadway begins to slope downward into a narrow, rocky valley.
+
+This area is illuminated.
+Obvious paths: northeast* west.
+w
+>[Grandeur Tradeway.]
+
+The road curves around several giant boulders, abruptly ending at the base of a hill to the north. Dense conifer growth crowds around the boulders and chokes off all but the most slender slivers of the sky overhead. A large fire pit lies to the side of the road.
+
+This area is illuminated.
+Obvious paths: east*.
+sear room
+>You search the area thoroughly.
+
+You find nothing of interest.
+[15 sec. delay]
+pok fir
+>I don't see what you are referring to.
+pok pit
+>I don't see what you are referring to.
+sear room
+>You search the area thoroughly.
+
+You find nothing of interest.
+[15 sec. delay]
+pok pit
+>I don't see what you are referring to.
+sear room
+>You search the area thoroughly.
+
+You find nothing of interest.
+[15 sec. delay]
+l
+>[Grandeur Tradeway.]
+
+The road curves around several giant boulders, abruptly ending at the base of a hill to the north. Dense conifer growth crowds around the boulders and chokes off all but the most slender slivers of the sky overhead. A large fire pit lies to the side of the road.
+
+This area is illuminated.
+Obvious paths: east.
+info
+>
+You are Hroomha Treefoot, a delicate boned and stocky bodied 30 year old Chaotic Male adolescent Oog-ra.  You are 8'0" and weigh 494 lbs.
+
+HP: 243 of 243  Ftg:  85 of  85  Carry: 107.9 of 741.0 lbs.
+
+ Str   Int   Wis   Dex   Agi   Con   Cha   Wil   Voi   Per   App
+Good  Poor  Low   Good  Good  Good  Good  Poor  Low   Good  Aver  
+
+Use: INFO <subject> for more info.
+(Valid subjects: RELIGION, MAGICK, LANGUAGES, MARTIALARTS, MONEY, RUNESPELLS, TITLES, DISGUISE, PSIONICS)
+
+sear room
+sear room
+sear room
+>You search the area thoroughly.
+
+You find nothing of interest.
+[15 sec. delay]
+l
+[Grandeur Tradeway.]
+
+The road curves around several giant boulders, abruptly ending at the base of a hill to the north. Dense conifer growth crowds around the boulders and chokes off all but the most slender slivers of the sky overhead. A large fire pit lies to the side of the road.
+
+This area is illuminated.
+Obvious paths: east.
+You search the area thoroughly.
+
+You find nothing of interest.
+[15 sec. delay]
+pok pa
+I don't see what you are referring to.
+pok tr
+I don't see what you are referring to.
+You search the area thoroughly.
+
+You find nothing of interest.
+[15 sec. delay]
+pok op
+>I don't see what you are referring to.
+pok wal
+>I don't see what you are referring to.
+l
+>[Grandeur Tradeway.]
+
+The road curves around several giant boulders, abruptly ending at the base of a hill to the north. Dense conifer growth crowds around the boulders and chokes off all but the most slender slivers of the sky overhead. A large fire pit lies to the side of the road.
+
+This area is illuminated.
+Obvious paths: east.
+del
+>You may act at any time!
+e
+>[Grandeur Tradeway.]
+
+Dark green conifers crowd both sides of the roadway. Needles and cones cover the ground, and the fresh scent of pine fills the air. To the northeast, the roadway begins to slope downward into a narrow, rocky valley.
+
+This area is illuminated.
+You see the 1st speckled woodland owl and the 2nd speckled woodland owl.
+Obvious paths: northeast west*.
+ne
+>[Grandeur Tradeway.]
+
+The valley narrows and the ground climbs to the west. In the other direction, the roadway descends between the nearly vertical stone walls of the valley. Redwoods loom high above to the south, while lush conifers cover the landscape to the north and west.
+
+This area is illuminated.
+Obvious paths: east southwest*.
+e
+e
+>[Grandeur Tradeway.]
+
+The roadway lies at the bottom of a narrow, rocky valley. Leaves and twigs cover the ground, having fallen from limbs of trees that protrude high above the valley from the south.
+
+This area is illuminated.
+Obvious paths: east west*.
+e
+e
+e
+[Grandeur Tradeway.]
+
+Long twisting vines dangle down the south valley wall, covering much of its surface. The lush, vibrant green hue of the vines contracts with the cold stone of the surrounding rock walls.
+
+This area is illuminated.
+Obvious paths: east west*.
+[Grandeur Tradeway.]
+
+Small spine-covered shrubs grow in large clumps on either side of the stone covered roadway. Several small, furry creatures stare intently from under the protective shrubs. Rock walls stretch high into the air not far beyond the prickly growth.
+
+This area is illuminated.
+Obvious paths: east west*.
+[Grandeur Tradeway.]
+
+Water trickles down the sides of the stone walls, disappearing into the loose gravel at their base. Small animals scurry over the gravel, taking quick drinks of water before scampering away.
+
+This area is illuminated.
+Obvious paths: east west*.
+[Grandeur Tradeway.]
+
+Almost vertical rock walls frame the Tradeway as it runs along the bottom of a shallow valley between several foothills of the Great Divide. Both the mountains to the north and the forest to the south are visible above the sides of the valley.
+
+This area is illuminated.
+Obvious paths: southeast west*.
+se
+>[Grandeur Tradeway.]
+
+Only small trees, shrubs, and brush manage to subsist on the rocky ground at the base of a large foothill to the north. The road descends into a small valley to the northwest and disappears into a mass of redwoods that stand tall to the southeast.
+
+This area is illuminated.
+Obvious paths: southeast northwest*.
+se
+>[Grandeur Tradeway.]
+
+The woods grow more and more thickly to the east and start to thin out to the west. Small birds dart through the air, chasing tiny insects in a fascinating aerial ballet. Fragrant blossoms cover some of the shrubs that grow along the road, filling the air with their sweet aroma.
+
+This area is illuminated.
+Obvious paths: east northwest*.
+e
+e
+e
+>[Grandeur Tradeway.]
+
+Giant redwoods dominate this part of the forest, with some stray maple and oak trees growing among them. One large steelwood tree stands near the road, its branches bent at odd angles in a lifetime attempt to find what little sunlight manages to penetrate the canopy of leaves above.
+
+This area is illuminated.
+Obvious paths: east west*.
+e
+e
+[Grandeur Tradeway.]
+
+Tall trees stand like silent sentinels along both sides of the roadway. Birds sing soft melodies from the branches overhead. Numerous black ants crawl over a large nearby boulder.
+
+This area is illuminated.
+Obvious paths: east west*.
+e
+[Grandeur Tradeway.]
+
+A rocky, treeless ridge rises to the north, permitting a spectacular view of the mammoth mountains beyond. In every other direction the dense vegetation of the forest crowds the landscape. One could almost forget civilization existed if not for the stone covered roadway.
+
+This area is illuminated.
+You see the 1st sparrow and the 2nd sparrow.
+Obvious paths: east west*.
+e
+e
+[Grandeur Tradeway.]
+
+Enormous trees rise above the roadway, their thick branches hiding the sky from view. Unseen animals scurry across the limbs above and through the brush below. Crickets sing to each other from deep within the dark shadows. A steelwood bridge spans a deep gully to the east.
+
+This area is illuminated.
+You see the 1st snake and the 2nd snake.
+Obvious paths: east west*.
+e
+[Grandeur Tradeway.]
+
+Flat black stone slabs cover the top of the massive bridge. Large steelwood rails prevent anyone from accidentally falling over the side. Thick woods grow along both sides of the creek bed, obscuring the surrounding terrain.
+
+This area is illuminated.
+Obvious paths: east west*.
+[Grandeur Tradeway.]
+
+A large steelwood bridge crosses a deep creek bed to the west. Piles of stone blocks lie between the road and the surrounding woods. The ice covered crest of the nearby mountain stands above the towering tree tops.  A small trail cuts down the side of the ravine.
+
+This area is illuminated.
+Obvious paths: east west*.
+[Grandeur Tradeway.]
+
+Magnificent trees of great age stand along both sides of the tradeway. Those that once stood along the path of the road were felled for the good of Emjedah. Squirrels scamper across the high branches and birds sing from unseen nests in the remaining foliage, perhaps grateful that their homes were spared.
+
+This area is illuminated.
+Obvious paths: east west*.
+[Grandeur Tradeway.]
+
+Lush, leafy bushes and a scattering of slender trees grow beside this stretch of the road. Towards the east the road begins to climb a rugged hill covered in smaller and more space vegetation. In the opposite direction, tall trees loom high overhead thanks to the abundance of thick, rich soil.
+
+This area is illuminated.
+Obvious paths: east west*.
+[Grandeur Tradeway.]
+
+Shrubs and brush grow among the rocks and boulders beside the road. The stone blocks of the road were cut to have a rugged surface, to help provide traction on the hilly slope. Several colorful hummingbirds dart among the flowers on some nearby bushes.
+
+This area is illuminated.
+Obvious paths: northeast west*.
+ne
+e
+>[Grandeur Tradeway.]
+
+The top of the hill provides a spectacular view of the area. The majestic icy peaks of the Great Divide tower high above the nearby foothills. The rooftops of Emjedah peak above its protective stone wall to the east. Beautiful, lush forests stand tall to the south and west.
+
+This area is illuminated.
+Obvious paths: east southwest*.
+e
+[Grandeur Tradeway.]
+
+To make travel easier up and down the steep hill, the path cuts into the slope of the mound. Rocks and dirt stand in tall piles next to the road. A cool breeze blows down from the ice covered mountains to the north.
+
+This area is illuminated.
+Obvious paths: east west*.
+[Emjedah Threshold.]
+
+The gray flagstones lead up towards the entrance way of Emjedah. The path is worn by the heavy journey of foreigners, merchants, and locals. The city stands as a black marble palace against the backdrop of snowcapped mountains and raging aqua sea. Towers and buildings topped with teardrop shaped roofs hover high above the imposing city wall. Flaming torches dot the circumference of the parapet of the city wall. The flames flicker violently with the rushing north wind.  A painted wooden sign is here.
+
+This area is illuminated.
+Obvious paths: south west* northwest.
+s
+>[Emjedah Forest.]
+
+The edge of the forest meets the fortress of Emjedah, which stands as an ethereal sentinel against the landscape that embraces it. Its midnight armor of black marble gleams as the decorated medals of an ornamented soldier do. Its grand stature stretches proudly into the sky, as a halo of softly shimmering light circles the air above the city from four towers that dominate the North, South, East, and West.  An emerald green silk tent and a wagon are here.
+
+This area is illuminated.
+Obvious paths: north* southeast.
+go te
+>[Merchant Tent.]
+
+Soft sawdust covers the floor of this newly erected tent. Several signs rest near the openings of the still unopened merchant stalls. The soft whisper of voices can be heard from elsewhere inside, though their origin is completely unknown.  An emerald green silk tent flap is here.
+
+This room is illuminated.
+Obvious exits: north* northeast* southeast* southwest* northwest*.
+shop list all
+>There is no shop here!
+n
+>[Ligoro's Enchanting Wares.]
+
+Ornate morbius screens, covered in arcane runeshapes, decorate the back and sides of the large stall. To one side sit a series of faintly glowing moonsilver cages, each containing a different type of creature. Sturdy mats of woven bamboo cover the ground. Several lanterns in each corner keep the stall well lit.  A large glowing moonsilver cage, a large glowing moonsilver cage, a large glowing moonsilver cage, an open large glowing moonsilver cage, and a moonsilver lettered steelwood sign are here.
+
+This room is illuminated.
+Obvious exits: south*.
+go cag
+go moo
+>>I don't see what you are referring to.
+s
+>[Merchant Tent.]
+
+Soft sawdust covers the floor of this newly erected tent. Several signs rest near the openings of the still unopened merchant stalls. The soft whisper of voices can be heard from elsewhere inside, though their origin is completely unknown.  An emerald green silk tent flap is here.
+
+This room is illuminated.
+Obvious exits: north* northeast* southeast* southwest* northwest*.
+ne
+>[Unused Stall.]
+
+Sawdust covers the bare floor of this stall. A wooden sign denotes that this stall is still open for sale to the highest bidder. The area is completely devoid of anything save for several lanterns in each corner.
+
+This room is illuminated.
+Obvious exits: southwest*.
+sw
+>[Merchant Tent.]
+
+Soft sawdust covers the floor of this newly erected tent. Several signs rest near the openings of the still unopened merchant stalls. The soft whisper of voices can be heard from elsewhere inside, though their origin is completely unknown.  An emerald green silk tent flap is here.
+
+This room is illuminated.
+Obvious exits: north* northeast* southeast* southwest* northwest*.
+se
+>[Unused Stall.]
+
+Sawdust covers the bare floor of this stall. A wooden sign denotes that this stall is still open for sale to the highest bidder. The area is completely devoid of anything save for several lanterns in each corner.
+
+This room is illuminated.
+Obvious exits: northwest*.
+nw
+>[Merchant Tent.]
+
+Soft sawdust covers the floor of this newly erected tent. Several signs rest near the openings of the still unopened merchant stalls. The soft whisper of voices can be heard from elsewhere inside, though their origin is completely unknown.  An emerald green silk tent flap is here.
+
+This room is illuminated.
+Obvious exits: north* northeast* southeast* southwest* northwest*.
+go te
+>[Emjedah Forest.]
+
+The edge of the forest meets the fortress of Emjedah, which stands as an ethereal sentinel against the landscape that embraces it. Its midnight armor of black marble gleams as the decorated medals of an ornamented soldier do. Its grand stature stretches proudly into the sky, as a halo of softly shimmering light circles the air above the city from four towers that dominate the North, South, East, and West.  An emerald green silk tent and a wagon are here.
+
+This area is illuminated.
+Obvious paths: north southeast.
+se
+>[Emjedah Forest.]
+
+The wind howls as it whips through the wavering treetops. Despite the chilled air that tangles itself around every limb, cutting to the bone, travelers move quickly in all directions by foot and cart as they continue their endeavors. The dancing flames which flicker violently from the torches on the Emjedah city wall offer solace to weary travelers as the lights shine like a beacon through the harsh conditions of the forest.
+
+This area is illuminated.
+Obvious paths: south northwest*.
+s
+>[Emjedah Forest.]
+
+Lush greenery thrives as hovering pines stretch towards the heavenly lights. The rushing wind thrusts through the trees, carrying on its wings the fragrant scent of pine. Under the shadow of the trees, wild flowers grow in vibrant colors of crimson, black, and violet. Embraced between the trees and flowers, a roadway of flagstones has been newly constructed.  Some twinkling violet wisteria bushes and a pair of red and black striped dragonlilies are here.
+
+This area is illuminated.
+Obvious paths: north* southeast.
+se
+>[Emjedah Trail]
+
+The path is much wider and more established on this side of the mountain; a cart could pass here, if you could coax an animal to pull it up the slope. A pile of grey rubble sits beside the road.  Some broken grey stone slabs are here.
+
+This area is illuminated.
+Obvious paths: southwest northwest*.
+sw
+>[Emjedah Trail]
+
+A small nub of rock protrudes from the side of the trail. It offers a good view of the small city below, which nestles in between the mountains and the water's edge.
+
+This area is illuminated.
+Obvious paths: northeast* south.
+s
+>[Emjedah Trail]
+
+On this side of the ridge there are large holes carved into the slope. Bands of workers trudge along narrow paths far in the distance, but it is impossible to see what they're doing.
+
+This area is illuminated.
+Obvious paths: north* southwest.
+sw
+>[Emjedah Trail]
+
+The northern face of the mountain presents a much bleaker landscape than what lies on the other side. Signs of civilization are very apparent, and they're quite disconcerting.
+
+This area is illuminated.
+Obvious paths: northeast* southwest.
+sw
+>[Emjedah Trail]
+
+High up on the north face of the mountains, a strong breeze blows. The leaves of the trees quiver and whisper as you pass, making a sound that resembles rushing water.
+
+This area is illuminated.
+Obvious paths: northeast* south.
+s
+>[Emjedah Trail]
+
+You have reached the highest point of the trail, the spine of this ridge of low mountains. The lush jungle to the south continues more thinly to the north, where harsher conditions eliminate some of the more delicate foliage.
+
+This area is illuminated.
+Obvious paths: north* southeast.
+se
+>[Emjedah Trail]
+
+A loud thrashing can be heard from somewhere off the path, but nothing can be seen through the thick foliage. It might be wise to keep moving.
+
+This area is illuminated.
+Obvious paths: southeast northwest*.
+se
+>[Emjedah Trail]
+
+Although not terribly steep, the path slopes up indiscernably to the north. The air here is fairly thin, causing you to stop and catch your breath now and then.  A small jagged boulder is here.
+
+This area is illuminated.
+Obvious paths: east southwest northwest*.
+e
+>[Dajedah Trail.]
+
+The thick brush slaps against your legs on this small path. While well tended, the growth in this area defies the constant attention and continues to grow with abandon. Small shells litter the ground below your feet, obviously not native to the landscape, they have been placed here by someone.
+
+This area is illuminated.
+Obvious paths: east west*.
+w
+>[Emjedah Trail]
+
+Although not terribly steep, the path slopes up indiscernably to the north. The air here is fairly thin, causing you to stop and catch your breath now and then.  A small jagged boulder is here.
+
+This area is illuminated.
+Obvious paths: east* southwest northwest.
+sw
+>[Emjedah Trail]
+
+Roughly cut logs lie upon a large wagon. The ground has been cleared of all brush and loose stones. Most of the nearby trees have been removed. Bright red X marks have been drawn on the trunks of the trees to the south and west.  A large pile of stone blocks is here.
+
+This area is illuminated.
+Obvious paths: north northeast* south southwest west northwest.
+n
+>[Emjedah Trail]
+
+The ground is completely cleared of all vegetation and loose rocks, and is artificially leveled. A large outcropping of rock stands to the north, its surface sparkling with a strange but beautiful pattern of colors. A tall stone wall extends from the stone outcropping southward.
+
+This area is illuminated.
+Obvious paths: south* southwest west.
+s
+>[Emjedah Trail]
+
+Roughly cut logs lie upon a large wagon. The ground has been cleared of all brush and loose stones. Most of the nearby trees have been removed. Bright red X marks have been drawn on the trunks of the trees to the south and west.  A large pile of stone blocks is here.
+
+This area is illuminated.
+Obvious paths: north* northeast south southwest west northwest.
+nw
+>[Emjedah Trail]
+
+The ground is completely cleared of all vegetation and loose rocks, and is artificially leveled. A large outcropping of rock stands to the north, its surface sparkling with a strange but beautiful pattern of colors.
+
+This area is illuminated.
+Obvious paths: east southeast* south southwest west.
+se
+>[Emjedah Trail]
+
+Roughly cut logs lie upon a large wagon. The ground has been cleared of all brush and loose stones. Most of the nearby trees have been removed. Bright red X marks have been drawn on the trunks of the trees to the south and west.  A large pile of stone blocks is here.
+
+This area is illuminated.
+Obvious paths: north northeast south southwest west northwest*.
+ne
+>[Emjedah Trail]
+
+Although not terribly steep, the path slopes up indiscernably to the north. The air here is fairly thin, causing you to stop and catch your breath now and then.  A small jagged boulder is here.
+
+This area is illuminated.
+Obvious paths: east southwest* northwest.
+sw
+>[Emjedah Trail]
+
+Roughly cut logs lie upon a large wagon. The ground has been cleared of all brush and loose stones. Most of the nearby trees have been removed. Bright red X marks have been drawn on the trunks of the trees to the south and west.  A large pile of stone blocks is here.
+
+This area is illuminated.
+Obvious paths: north northeast* south southwest west northwest.
+se
+>You cannot move in that direction.
+sw
+>[New Emjedah Trail, Construction.]
+
+Many trees have been cleared out of this area, leaving only stumps to mark where they once stood. A dark mass of trees and underbrush block travel to the south.
+
+This area is illuminated.
+Obvious paths: north northeast* east west northwest.
+ne
+>[Emjedah Trail]
+
+Roughly cut logs lie upon a large wagon. The ground has been cleared of all brush and loose stones. Most of the nearby trees have been removed. Bright red X marks have been drawn on the trunks of the trees to the south and west.  A large pile of stone blocks is here.
+
+This area is illuminated.
+Obvious paths: north northeast south southwest* west northwest.
+w
+>[Emjedah Trail]
+
+The ground is completely cleared of all vegetation and loose rocks, and is artificially leveled. Piles of cut stone stand like silent sentinels throughout the area.  A giant pile of boulders, a large pile of stones, a large pile of stones, and a large pile of stones are here.
+
+This area is illuminated.
+Obvious paths: north northeast east* southeast south southwest west northwest.
+e
+>[Emjedah Trail]
+
+Roughly cut logs lie upon a large wagon. The ground has been cleared of all brush and loose stones. Most of the nearby trees have been removed. Bright red X marks have been drawn on the trunks of the trees to the south and west.  A large pile of stone blocks is here.
+
+This area is illuminated.
+Obvious paths: north northeast south southwest west* northwest.
+s
+>[New Emjedah Trail, Construction.]
+
+Many trees have been cleared out of this area, leaving only stumps to mark where they once stood. A half-built stone wall stands to the east. A dark mass of trees and underbrush block travel to the south.
+
+This area is illuminated.
+You see the 1st gryphon-riding imperial guardian, the 2nd gryphon-riding imperial guardian, and the 3rd gryphon-riding imperial guardian.
+Obvious paths: north* west northwest.
+>
+The gryphon-riding imperial guardian wanders north.
+
+The gryphon-riding imperial guardian returns to center rank.
+
+The 2nd gryphon-riding imperial guardian returns to center rank.
+
+The gryphon-riding imperial guardian wanders west.
+
+The gryphon-riding imperial guardian wanders north.
+w
+[New Emjedah Trail, Construction.]
+
+Many trees have been cleared out of this area, leaving only stumps to mark where they once stood. A dark mass of trees and underbrush block travel to the south.
+
+This area is illuminated.
+You see the 1st gryphon-riding imperial guardian.
+Obvious paths: north northeast east* west northwest.
+e
+>[New Emjedah Trail, Construction.]
+
+Many trees have been cleared out of this area, leaving only stumps to mark where they once stood. A half-built stone wall stands to the east. A dark mass of trees and underbrush block travel to the south.
+
+This area is illuminated.
+Obvious paths: north west* northwest.
+n
+>[Emjedah Trail]
+
+Roughly cut logs lie upon a large wagon. The ground has been cleared of all brush and loose stones. Most of the nearby trees have been removed. Bright red X marks have been drawn on the trunks of the trees to the south and west.  A large pile of stone blocks is here.
+
+This area is illuminated.
+You see the 1st gryphon-riding imperial guardian and the 2nd gryphon-riding imperial guardian.
+Obvious paths: north northeast south* southwest west northwest.
+>
+The gryphon-riding imperial guardian returns to center rank.
+
+The 2nd gryphon-riding imperial guardian wanders west.
+w
+[Emjedah Trail]
+
+The ground is completely cleared of all vegetation and loose rocks, and is artificially leveled. Piles of cut stone stand like silent sentinels throughout the area.  A giant pile of boulders, a large pile of stones, a large pile of stones, and a large pile of stones are here.
+
+This area is illuminated.
+You see the 1st gryphon-riding imperial guardian.
+Obvious paths: north northeast east* southeast south southwest west northwest.
+w
+>[Emjedah Trail]
+
+The ground is completely cleared of all vegetation and loose rocks, and is artificially leveled. An opening allows passage through a half-built stone wall that runs north and south.  A large pile of stone blocks is here.
+
+This area is illuminated.
+Obvious paths: north northeast east* southeast south west.
+w
+>[Emjedah Trail]
+
+Some of the trees around you are covered with strange, papery bark that drops off onto the ground. Suddenly, one of the larger pieces begins moving across the path, or so it seems: Actually, a scavenger beetle is hauling it off for reasons you can only guess at.
+
+This area is illuminated.
+Obvious paths: east* southwest.
+sw
+>[Emjedah Trail]
+
+As you round the corner a massive hibiscus tree dominates your view. Its flowers are vibrant fuchsia, and as large as dinner plates. The effect is breathtaking! Its long, pollen-laden stamens are swarming with bees taking advantage of this bountiful feast.
+
+This area is illuminated.
+Obvious paths: northeast* west.
+w
+>[Emjedah Trail]
+
+A half-eaten piece of bright orange fruit lies at the side of the path, still running with juices. Evidently you disturbed some animal as you approached. An army of ants has already discovered the treasure, and it won't be there for long.
+
+This area is illuminated.
+Obvious paths: east* south.
+s
+>[Emjedah Trail]
+
+The jungle around you nearly feels oppressive. Between the dead calm of the air, the high humidity, and dense growth, it's difficult not to begin to feel entombed.
+
+This area is illuminated.
+Obvious paths: north* southwest.
+sw
+>[Emjedah Trail]
+
+An odd looking array of branches lashed together with rough twine is here. It's not a shelter, nor does it resemble anything useful. Perhaps it was started and never finished. It's doubtful that someone put it here for esthetic purposes.  A weird thing is here.
+
+This area is illuminated.
+Obvious paths: northeast* southwest.
+>
+Your flaming paper lantern flickers for a moment.
+l at w
+I don't see what you are referring to.
+l at th
+>I don't see what you are referring to.
+l at wei
+>It looks like a weird thing.
+>
+2 snakes just slithered in behind you at 2 UDs!
+go wei
+sw
+>[Emjedah Trail]
+
+Walking is difficult, as tenacious vines wrap around your feet with every step. You could almost swear they're conspiring to trip you up: Just as you free one foot, the other is immediately entrapped.
+
+This area is illuminated.
+Obvious paths: northeast* northwest.
+nw
+>[Emjedah Trail]
+
+It's hard not to laugh at the sight before you. A litter of four tiny raccoons is being nudged along by their mother, and none too gently. Their mewling protests go completely ignored as she pushes them along, intent on some maternal duty.
+
+This area is illuminated.
+You see the 1st scavenger beetle and the 2nd scavenger beetle.
+Obvious paths: southeast* west.
+w
+>[Emjedah Trail]
+
+There are so many heady fragrances floating through the air it's difficult to tell exactly WHAT it is you smell. Flowers are everywhere, in every conceivable color and shape.
+
+This area is illuminated.
+You see the 1st sparrow and the 2nd sparrow.
+Obvious paths: east* west.
+w
+>[Emjedah Trail]
+
+A small, clear spring-fed pool provides a welcome spot to rest your feet and freshen up. The low-growing flora grows right up to its edge. As you approach, a handful of startled frogs leaps into the water with a series of tiny splats.
+
+This area is illuminated.
+Obvious paths: east* west.
+w
+>[Emjedah Trail]
+
+The competition for sunlight and growing space is fierce. Tall trees become trellises for aggressive vines that clamber up their trunks; the vines sprout intense, cobalt blue flowers that seem to glow in the soft light.
+
+This area is illuminated.
+Obvious paths: east* southwest.
+sw
+>[Emjedah Trail]
+
+A loud buzzing emanates from someplace to your left. As you draw closer a massive, teeming beehive comes into view, suspended precariously from a tree branch. The inhabitants pay you no mind as they go about their duties.
+
+This area is illuminated.
+Obvious paths: northeast* southwest.
+sw
+>[Emjedah Trail]
+
+Small hoofprints and denuded tree trunks signal the presence of four-legged inhabitants you have yet to see. Really, you can see little beyond the path itself, as the foliage is nearly impenetrable.
+
+This area is illuminated.
+Obvious paths: northeast* south.
+s
+>[Emjedah Trail]
+
+A huge, gnarled tree presides over this small clearing in the jungle. A strange bird sits on a high branch, its wildly iridescent plumage glimmering with every bit of light that hits it. A haunting song erupts from its throat, sounding like a woman humming a forlorn song. The odor of burning wood wafts lightly through the area.
+
+This area is illuminated.
+Obvious paths: north* southwest.
+sw
+>[Emjedah Trail]
+
+The high humidity causes your clothing to chafe uncomfortably as you travel along. It almost makes you long for the brisk winds further down in the foothills, on the other side of the bridge.
+
+This area is illuminated.
+Obvious paths: northeast* west.
+w
+>[Emjedah Trail]
+
+Layer upon layer of exotic plants vie for sunlight and nourishment in this lush forest. The ground muffles your footsteps, allowing you to get very close to birds before they hear you approaching. They burst from the foliage, terrified!
+
+This area is illuminated.
+Obvious paths: east* west.
+>
+Augatil's group just entered from the west.
+w
+
+Augatil's group just went east.
+[Emjedah Trail]
+
+The path fights a losing battle with the teeming undergrowth. Overhead, a beautiful canopy of tall, arching trees allows only dappled sun to shine through. The songs of innumerable birds resonate in the air.
+
+This area is illuminated.
+Obvious paths: east* southwest.
+e
+>[Emjedah Trail]
+
+Layer upon layer of exotic plants vie for sunlight and nourishment in this lush forest. The ground muffles your footsteps, allowing you to get very close to birds before they hear you approaching. They burst from the foliage, terrified!
+
+This area is illuminated.
+Obvious paths: east west*.
+e
+>[Emjedah Trail]
+
+The high humidity causes your clothing to chafe uncomfortably as you travel along. It almost makes you long for the brisk winds further down in the foothills, on the other side of the bridge.
+
+This area is illuminated.
+Obvious paths: northeast west*.
+w
+>[Emjedah Trail]
+
+Layer upon layer of exotic plants vie for sunlight and nourishment in this lush forest. The ground muffles your footsteps, allowing you to get very close to birds before they hear you approaching. They burst from the foliage, terrified!
+
+This area is illuminated.
+Obvious paths: east* west.
+w
+>[Emjedah Trail]
+
+The path fights a losing battle with the teeming undergrowth. Overhead, a beautiful canopy of tall, arching trees allows only dappled sun to shine through. The songs of innumerable birds resonate in the air.
+
+This area is illuminated.
+Obvious paths: east* southwest.
+sw
+>[Emjedah Trail]
+
+The main trail ends at a wide chasm. Thick ferns and other leafy plants threaten to encroach upon the main trail. Far below, the faint roar of a river is audible. To the west a barely visible trail follows the chasm as far as the eye can see.  A knotted rope bridge is here.
+
+This area is illuminated.
+Obvious paths: northeast*.
+go bri
+>I don't see what you are referring to.
+go rop
+>[Emjedah Trail]
+
+On the northern end of the bridge, the supporting ropes disappear into a riot of lush foliage. It is a stunning contrast to the arid terrain on the other side of this immense gorge.
+
+This area is illuminated.
+Obvious paths: north* south.
+>
+Steadying yourself against the wind, you find it hard to keep from being knocked over!
+
+You are thrown off balance!
+stand angrily
+how beligerently
+    You stumble and fall down!
+You howl beligerently.
+You stand up angrily.
+l
+>[Emjedah Trail]
+
+On the northern end of the bridge, the supporting ropes disappear into a riot of lush foliage. It is a stunning contrast to the arid terrain on the other side of this immense gorge.
+
+This area is illuminated.
+Obvious paths: north south.
+>
+The wind gusts make it difficult for you to remain still!
+sear room
+You search the area thoroughly.
+
+You find nothing of interest.
+[15 sec. delay]
+pok bri
+>I don't see what you are referring to.
+pok rop
+>I don't see what you are referring to.
+>
+The wind gusts make it difficult for you to remain still!
+
+You are thrown off balance!
+stand angrily
+how beligerently
+    You stumble and fall down!
+
+ ** You are fully rested.
+You howl beligerently.
+You stand up angrily.
+del
+>You may act at any time!
+sear room
+>You search the area thoroughly.
+
+You find nothing of interest.
+[15 sec. delay]
+l
+>[Emjedah Trail]
+
+On the northern end of the bridge, the supporting ropes disappear into a riot of lush foliage. It is a stunning contrast to the arid terrain on the other side of this immense gorge.
+
+This area is illuminated.
+Obvious paths: north south.
+>
+A gust of wind nearly lifts you up off the ground!
+
+You are thrown off balance!
+stand angrily
+how beligerently
+    You stumble and fall down!
+You howl beligerently.
+del
+You have 4 second(s) remaining!
+You stand up angrily.
+n
+>
+The wind howls in your ears and chills you to the bone!
+
+ ** Current fatigue: 81 out of 85
+[Emjedah Trail]
+
+The main trail ends at a wide chasm. Thick ferns and other leafy plants threaten to encroach upon the main trail. Far below, the faint roar of a river is audible. To the west a barely visible trail follows the chasm as far as the eye can see.  A knotted rope bridge is here.
+
+This area is illuminated.
+Obvious paths: northeast.
+go rop
+>[Emjedah Trail]
+
+On the northern end of the bridge, the supporting ropes disappear into a riot of lush foliage. It is a stunning contrast to the arid terrain on the other side of this immense gorge.
+
+This area is illuminated.
+Obvious paths: north* south.
+s
+>[Emjedah Trail]
+
+Toward the center of the bridge the swaying becomes very intense. How anyone managed to construct a bridge across this gap is a mystery. Your knuckles grow white from gripping the rough rope railing.
+
+This area is illuminated.
+Obvious paths: north* south.
+s
+>[Emjedah Trail]
+
+The narrowness of the bridge coupled with the strong wind makes this passage treacherous. You must hang on tightly to keep from being swept over the edge.
+
+This area is illuminated.
+Obvious paths: north* south.
+s
+>[Emjedah Trail]
+
+A seemingly bottomless chasm descends into the earth to the north; at least you can't see to the bottom from this vantage point. A dense mist shrouds whatever is down there but rushing water can be faintly heard. Perhaps you ought to focus your eyes elsewhere...  A knotted rope bridge is here.
+
+This area is illuminated.
+Obvious paths: southwest.
+sw
+>[Emjedah Trail]
+
+As you wind your way through the foothills, it is difficult to keep your sense of direction. There have been so many double backs and zigzags you could well be walking in circles.
+
+This area is illuminated.
+Obvious paths: northeast* west.
+w
+>[Emjedah Trail]
+
+A small hollow appears to have been carved into a bluish slab of rock, but for what reason? It's a small hollow, hardly big enough for a large raccoon...Was a weak spot in the rock simply weathered away? 
+
+This area is illuminated.
+Obvious paths: east* west.
+>
+ ** You are fully rested.
+w
+[Emjedah Trail]
+
+The strange glints of color in the rocks make you wonder just what they're made of. Depending on the light and the piece of rock, you can see gold, silver, and most colors of the rainbow.  Some sparkling multicolored rocks are here.
+
+This area is illuminated.
+You see the 1st raccoon and the 2nd raccoon.
+Obvious paths: east* southwest.
+sw
+>[Emjedah Trail]
+
+The almost constant whipping of the wind dries your skin and blows bits of grit into your eyes. It helps somewhat to look downwind, but not much.
+
+This area is illuminated.
+Obvious paths: northeast* southwest.
+sw
+>[Emjedah Trail]
+
+Your thoughts wander as you continue along this interminably long road. A horse, or even a mule, would certainly speed things up.
+
+This area is illuminated.
+Obvious paths: northeast* south.
+s
+>[Emjedah Trail]
+
+The path widens out onto a small plateau flanked by oddly-shaped stone formations. On one side are the remains of a small campsite, but it has long since been abandoned.  Some charred mesquite boughs are here.
+
+This area is illuminated.
+Obvious paths: north* west.
+w
+>[Emjedah Trail]
+
+Tiny dried troughs in the path are evidence of recent rains. It's hard not to pity anyone charged with the upkeep of this road. Nature seems intent on returning it to its previous, unsullied state.
+
+This area is illuminated.
+Obvious paths: east* west.
+w
+>[Emjedah Trail]
+
+The path narrows here as you wind your way through a chasm between two large boulders. Scruffy clumps of grass cling to the edges of the path, seemingly determined to survive here.
+
+This area is illuminated.
+Obvious paths: east* southeast.
+sw
+>You cannot move in that direction.
+se
+>[Emjedah Trail]
+
+A sudden skittering accompanied by a small dust cloud catches your eye. It is a pair of young stoats playing tag, one of the few signs of live animals you've seen. They disappear into a tiny crevice and are gone.
+
+This area is illuminated.
+Obvious paths: southeast northwest*.
+se
+>[Emjedah Trail]
+
+A few intrepid trees have gained a foothold here, some seemingly sprouting from the rocks themselves. Their gnarled shapes are testament to the hardships of surviving on this desolate plateau.
+
+This area is illuminated.
+Obvious paths: west northwest*.
+w
+>[Emjedah Trail]
+
+A dark, mottled stone bluff arises to the west, providing some shelter from the elements. The strange erosion patterns on its surface create formations that eerily resemble large, solemn faces.
+
+This area is illuminated.
+Obvious paths: east* west.
+w
+>[Emjedah Trail]
+
+With a bit of scrutiny, subtle signs of other travelers become apparent. An occasional footprint, a discarded drumstick, a scrap of cloth used for wrapping a lunch can be seen...but it is very quiet.
+
+This area is illuminated.
+Obvious paths: east* west.
+w
+>[Emjedah Trail]
+
+The path turns to solid stone at this point. Years of punishing winds have removed any topsoil on this particular spot.  A weathered slab of dark stone is here.
+
+This area is illuminated.
+Obvious paths: east* west.
+w
+>[Emjedah Trail]
+
+The crisp, bracing air is invigorating in the foothills, making for pleasant travel. Except for an occasional skittering noise, all remains quiet.
+
+This area is illuminated.
+Obvious paths: east* southeast.
+se
+>[Emjedah Trail]
+
+A small grove of shrubby trees provides some shelter from the elements. Not only are they a respite from sun and wind, they're covered with attractive berries.  Some juicy burgundy berries are here.
+
+This area is illuminated.
+Obvious paths: southwest northwest*.
+sw
+>[Emjedah Trail]
+
+A large pile of boulders has tumbled down the hill to the east, partially blocking the narrow trail. Footing is tricky, as the rocks shift with your every footstep.
+
+This area is illuminated.
+You see the 1st black bear.
+Obvious paths: northeast* southwest.
+sw
+>[Emjedah Trail]
+
+More of the strange, glassy black rock is in evidence, interspersed with more familiar types of stone. Rockslides apparently aren't uncommon; a newly-felled tree lies off to the side of the trail, its trunk snapped by an oliphant-sized boulder.
+
+This area is illuminated.
+Obvious paths: northeast* south.
+s
+>[Emjedah Trail]
+
+The long abandoned remains of a campsite are barely visible by the roadside. Repeated rains have reduced the charred remnants of the campfire to little more than a circle of dark ash.
+
+This area is illuminated.
+You see the 1st foreign merchant.
+Obvious paths: north* west.
+w
+>[Emjedah Trail]
+
+You're standing atop a small promontory that provides you with a stunning view of the lowlands to the west and south. On a very clear day you might even be able to make out the faint outline of Spur from here, far to the west.
+
+This area is illuminated.
+Obvious paths: east* southwest.
+sw
+>[Emjedah Trail]
+
+Fortunately, someone has carved a small platform into this steep incline. As you catch your breath, the wind whistles through the trees, which are now mainly coniferous.
+
+This area is illuminated.
+Obvious paths: northeast* southeast.
+se
+>[Emjedah Trail]
+
+It's not easy to keep your footing here, as the tiny pebbles beneath you insist on sliding downhill with every step. The path definitely could use a bit more work; it's not at all suitable for anything but foot traffic.
+
+This area is illuminated.
+Obvious paths: south northwest*.
+s
+>[Emjedah Trail]
+
+A stiff breeze assaults you. You're afforded a fine view of the thick forest to the south, as well as the increasingly mountainous terrain to the north.   A path is here.
+
+This area is illuminated.
+Obvious paths: north* southwest.
+sw
+>[Emjedah Trail]
+
+The air is a bit thinner here than in the lowlands to the south. More sky is visible overhead as the canopy of trees grows sparse. Tufts of bluish grass sprout around the strange, glassy boulders.
+
+This area is illuminated.
+You see the 1st rabbit.
+Obvious paths: northeast* west.
+ne
+>[Emjedah Trail]
+
+A stiff breeze assaults you. You're afforded a fine view of the thick forest to the south, as well as the increasingly mountainous terrain to the north.   A path is here.
+
+This area is illuminated.
+Obvious paths: north southwest*.
+go pat
+>[Abandoned Camp.]
+
+What was once a large camp now lays abandoned.  Broken weapons, scattered gear, and overturned earth bear witness to a recent struggle.   A path, a torn tent, a broken leather banded oak strong box, a broken antique oak chair, and some broken weapons are here.
+
+This area is illuminated.
+Obvious paths: None.
+go pa
+>[Emjedah Trail]
+
+A stiff breeze assaults you. You're afforded a fine view of the thick forest to the south, as well as the increasingly mountainous terrain to the north.   A path is here.
+
+This area is illuminated.
+Obvious paths: north southwest.
+sw
+>[Emjedah Trail]
+
+The air is a bit thinner here than in the lowlands to the south. More sky is visible overhead as the canopy of trees grows sparse. Tufts of bluish grass sprout around the strange, glassy boulders.
+
+This area is illuminated.
+You see the 1st rabbit.
+Obvious paths: northeast* west.
+w
+>[Emjedah Trail]
+
+The small gorge is higher on this side than on the other. The path appears to be working its way uphill to the north. More boulders are in evidence as the trees thin slightly. There is less earth for their roots here.  Some sturdy oak planks are here.
+
+This area is illuminated.
+Obvious paths: east*.
+go pla
+>[Emjedah Trail]
+
+A small gorge cuts raggedly through the terrain, exposing long, finger-like tree roots on both sides. Although it's not very deep, it would be troublesome to cross, were it not for the planks that have been laid across it.  Some wild bramble hedges and some sturdy oak planks are here.
+
+This area is illuminated.
+Obvious paths: west.
+w
+>[Emjedah Trail]
+
+It is a mystery why anyone would deem it necessary to carve a path through these woods. There have been no signs of inhabitants so far, yet it continues on as if it has a purpose...
+
+This area is illuminated.
+Obvious paths: east* west.
+w
+>[Emjedah Trail]
+
+The outlines of the path nearly fade from view, as the forest strives to wipe out the signs of civilization imposed upon it. Keeping this road open and in good repair will be a true challenge.
+
+This area is illuminated.
+Obvious paths: east* southwest.
+sw
+>[Emjedah Trail]
+
+The softness of the earth makes walking tiresome. It forces you to slow down and savor your surroundings, if nothing else. Strange, fecund aromas tickle your nostrils. It smells a bit like the inside of a greenhouse.
+
+This area is illuminated.
+Obvious paths: northeast* southwest.
+sw
+>[Emjedah Trail]
+
+What surely must be the granddaddy of all the trees in the forest stands on a strange knob of earth. Its roots have completely enfolded a massive boulder at the side of the road, and it would take several Thugians to reach around its trunk.
+
+This area is illuminated.
+Obvious paths: northeast* south.
+s
+>[Emjedah Trail]
+
+A brackish puddle in a small depression in the path taunts you, daring you to step in it. A trickle of water gurgles merrily forth from a nearby rock face, feeding into the pool.
+
+This area is illuminated.
+Obvious paths: north* southwest.
+sw
+>[Emjedah Trail]
+
+A woman's shoe lies half buried by the side of the path. It appears to be finely made; lace remnants cling forlornly to what's left of it. Had you been looking elsewhere, it would never have caught your eye. What could have have happened to its owner?
+
+This area is illuminated.
+Obvious paths: northeast* west.
+w
+>[Emjedah Trail]
+
+Huge, gleaming boulders are scattered about, looking almost as if some huge hand had carelessly tossed them here. Their strange, opaque black glassy surfaces glint dully in the flat light, their sharp angles seeming to mock the powers of wind and erosion.
+
+This area is illuminated.
+Obvious paths: east* west.
+w
+>[Emjedah Trail]
+
+Here and there, tiny white shapes poke their heads from the loam on either side of the path. Upon closer inspection they appear to be mushrooms, although they don't resemble any types you're familiar with. The ecosystem seems to be subtly changing as you travel farther along the path.
+
+This area is illuminated.
+Obvious paths: east* southwest.
+sw
+>[Emjedah Trail]
+
+You hear the faint sound of trickling water from somewhere nearby, although there is none in sight. The air itself is moist and still. Your footsteps hardly make a sound on the spongy ground.
+
+This area is illuminated.
+Obvious paths: northeast* southeast.
+se
+>[Emjedah Trail]
+
+Time seems to stand still in this place. Aside from an occasional furtive scrambling sound, there is little to hear. One would think these trees would be alive with birds.
+
+This area is illuminated.
+Obvious paths: south northwest*.
+s
+>[Emjedah Trail]
+
+Layers of settling organic debris make the ground beneath your feet quite soft. The path is surrounded by an amazing array of strange plants, many of which are unfamiliar.
+
+This area is illuminated.
+You see the 1st delicate iridescent bluebird.
+Obvious paths: north* southeast west.
+se
+>[Emjedah Trail]
+
+The drooping firs form a huge canopy overhead. Huge tendrils of parasitic moss hang from their branches, creating a rather unsettling effect. Even in broad daylight it's dim in this verdant tunnel.
+
+This area is illuminated.
+You see the 1st stoat.
+Obvious paths: southwest northwest*.
+sw
+>
+A stoat enters, following Hroomha.
+[Emjedah Trail]
+
+The huge, ancient trees make the path meander a bit, but you're definitely angling northward. It was obviously easier to wind between the massive tree trunks than to attempt to cut a straight road through the forest.
+
+This area is illuminated.
+You see the 1st stoat.
+Obvious paths: northeast* south.
+s
+>[Emjedah Trail]
+
+This newly constructed bit of road winds ambitiously into the looming forestlands to the north. Although not terribly well defined, the road presents an intriguing alternative to your usual route.  A slightly hidden trail is here.
+
+This area is illuminated.
+Obvious paths: north*.
+sw
+>You cannot move in that direction.
+go tr
+>[Brambles.]
+
+Struggling through the underbrush, you make your way down the small trail only to be brought up short by an impenetrable wall of brambles. Plump red berries hang from the small branches of the bushes, guarded by long, sharp thorns. On a low hanging branch overhead, a watchful owl stares at you with golden eyes.  A slightly hidden trail and an ethereal looking owl are here.
+
+This area is illuminated.
+Obvious paths: southwest northwest.
+nw
+>[Thicket.]
+
+Winding through the trees, the path emerges from the dense foliage and continues northward. You begin to wonder if there is a way into the seemingly impenetrable western forest. A track, that looks to be one used by small animals, veers off to the side.
+
+This area is illuminated.
+Obvious paths: north southeast* southwest.
+n
+>[Riverside.]
+
+The footbridge that once connected this path to its match on the other side of the overflowing rushing river is now nothing more then a few charred pilings. Tiny insects buzz around their remains, finding a comfortable new home. Lashed to the remains of one of the more sturdy pilings is a tall steel pole. Wrapped around the pole, and tied securely is a taut rope. Bobbing ever so lightly due to the strain of the riverboat, the rope holds tight.  A flowing river, a freshly painted sign, some carved oak benches, and a riverboat are here.
+
+This area is illuminated.
+Obvious paths: south*.
+s
+>[Thicket.]
+
+Winding through the trees, the path emerges from the dense foliage and continues northward. You begin to wonder if there is a way into the seemingly impenetrable western forest. A track, that looks to be one used by small animals, veers off to the side.
+
+This area is illuminated.
+Obvious paths: north* southeast southwest.
+se
+>[Brambles.]
+
+Struggling through the underbrush, you make your way down the small trail only to be brought up short by an impenetrable wall of brambles. Plump red berries hang from the small branches of the bushes, guarded by long, sharp thorns. On a low hanging branch overhead, a watchful owl stares at you with golden eyes.  A slightly hidden trail and an ethereal looking owl are here.
+
+This area is illuminated.
+Obvious paths: southwest northwest*.
+sw
+>[Path.]
+
+Trees surround you on all sides; for a moment the path is lost to sight. Something slithers through the underbrush. Try as you might, you can't identify what it might have been. You feel uneasy, as though something is watching your every move.  An overgrown path is here.
+
+This area is illuminated.
+Obvious paths: northeast* southwest northwest.
+sw
+>[Path.]
+
+The trees are becoming taller, and their trunks larger, as you make your way along. The smaller birch and beech trees have given way to graceful elms. A low growl comes from amidst the trunks of the trees, but it is impossible to determine the direction.
+
+This area is illuminated.
+Obvious paths: northeast* southeast.
+se
+>[Path.]
+
+The path progresses along, still skirting the eastern boundary of the forest. Other than the occasional noises common to woodlands, there is no evidence of higher forms of life. A squirrel streaks through the underbrush and up the trunk of a tree.
+
+This area is illuminated.
+Obvious paths: south northwest*.
+s
+>[Copse.]
+
+The path becomes better defined, though it is still difficult to follow in the undergrowth, which has grown more dense. It is evident that the path at one time was a well-traveled route. Perhaps to the Spur?
+
+This area is illuminated.
+Obvious paths: north* southeast.
+se
+>[Copse.]
+
+The undergrowth thins here, and you are able to pick up traces of the path. To the east, where only a thin line of small trees mark the forest boundary, the marsh ends its reign and what appears to be a grassy plain begins.
+
+This area is illuminated.
+Obvious paths: south west northwest*.
+s
+>[Copse.]
+
+This sparse eastern border of the forest merges once again with the marsh. Offering mute evidence of the struggles within nature, young trees and plant life have taken root and thrive despite the encroaching swamp.
+
+This area is illuminated.
+Obvious paths: north*.
+n
+>[Copse.]
+
+The undergrowth thins here, and you are able to pick up traces of the path. To the east, where only a thin line of small trees mark the forest boundary, the marsh ends its reign and what appears to be a grassy plain begins.
+
+This area is illuminated.
+Obvious paths: south* west northwest.
+nw
+>[Copse.]
+
+The path becomes better defined, though it is still difficult to follow in the undergrowth, which has grown more dense. It is evident that the path at one time was a well-traveled route. Perhaps to the Spur?
+
+This area is illuminated.
+Obvious paths: north southeast*.
+se
+>[Copse.]
+
+The undergrowth thins here, and you are able to pick up traces of the path. To the east, where only a thin line of small trees mark the forest boundary, the marsh ends its reign and what appears to be a grassy plain begins.
+
+This area is illuminated.
+Obvious paths: south west northwest*.
+w
+>[Copse.]
+
+The sounds of small animals scampering in the underbrush and trilling chirps from the branches overhead provide ample evidence that the forest is a hospitable home to wildlife. 
+
+This area is illuminated.
+Obvious paths: east* south southwest west.
+>
+ ** You are fully rested.
+sw
+[Path.]
+
+Chittering noises come from overhead and tree branches dip and sway. A small brown shape scampers across the path, gone before it can be glimpsed and identified. The path disappears into a copse of saplings.  A thick copse of saplings is here.
+
+This area is illuminated.
+Obvious paths: northeast* southeast.
+se
+>[Caersech Forest.]
+
+Through the branches of stately trees, glimpses of the sky can be seen. The path continues, winding northwest through the eastern edge of the forest.
+
+This area is illuminated.
+Obvious paths: southwest northwest*.
+sw
+>[Caersech Forest.]
+
+The soggy trail becomes a solid dirt path, sheltered by the trees of a forest whose boundary begins where the swamp ends. The path heads northwest, leading you into the forest proper.
+
+This area is illuminated.
+Obvious paths: northeast* southwest.
+sw
+>[Trail.]
+
+Cypress trees stand firmly rooted in the still-damp earth. Still, it appears the swamp has been left behind. The ground here is firmer and the trail clear.
+
+This area is illuminated.
+Obvious paths: northeast* south.
+s
+>[Trail.]
+
+Murky water has encroached upon the trail, making the way treacherous. A careful survey of the watery surroundings shows a faint path veering sharply to the north, away from the marsh and toward the forest.
+
+This area is illuminated.
+Obvious paths: north* southwest.
+sw
+>[Trail.]
+
+The trail skirts the border of the dismal marsh. Noxious vapors rise from the stagnant waters that lap at the noticeably narrowing route. What had been a dark green haze can now be distinguished as a massive forest.
+
+This area is illuminated.
+Obvious paths: northeast* south.
+ne
+>[Trail.]
+
+Murky water has encroached upon the trail, making the way treacherous. A careful survey of the watery surroundings shows a faint path veering sharply to the north, away from the marsh and toward the forest.
+
+This area is illuminated.
+Obvious paths: north southwest*.
+n
+>[Trail.]
+
+Cypress trees stand firmly rooted in the still-damp earth. Still, it appears the swamp has been left behind. The ground here is firmer and the trail clear.
+
+This area is illuminated.
+Obvious paths: northeast south*.
+ne
+>[Caersech Forest.]
+
+The soggy trail becomes a solid dirt path, sheltered by the trees of a forest whose boundary begins where the swamp ends. The path heads northwest, leading you into the forest proper.
+
+This area is illuminated.
+Obvious paths: northeast southwest*.
+ne
+>[Caersech Forest.]
+
+Through the branches of stately trees, glimpses of the sky can be seen. The path continues, winding northwest through the eastern edge of the forest.
+
+This area is illuminated.
+Obvious paths: southwest* northwest.
+nw
+>[Path.]
+
+Chittering noises come from overhead and tree branches dip and sway. A small brown shape scampers across the path, gone before it can be glimpsed and identified. The path disappears into a copse of saplings.  A thick copse of saplings is here.
+
+This area is illuminated.
+Obvious paths: northeast southeast*.
+ne
+>[Copse.]
+
+The sounds of small animals scampering in the underbrush and trilling chirps from the branches overhead provide ample evidence that the forest is a hospitable home to wildlife. 
+
+This area is illuminated.
+Obvious paths: east south southwest* west.
+e
+>[Copse.]
+
+The undergrowth thins here, and you are able to pick up traces of the path. To the east, where only a thin line of small trees mark the forest boundary, the marsh ends its reign and what appears to be a grassy plain begins.
+
+This area is illuminated.
+Obvious paths: south west* northwest.
+nw
+>[Copse.]
+
+The path becomes better defined, though it is still difficult to follow in the undergrowth, which has grown more dense. It is evident that the path at one time was a well-traveled route. Perhaps to the Spur?
+
+This area is illuminated.
+Obvious paths: north southeast*.
+n
+>[Path.]
+
+The path progresses along, still skirting the eastern boundary of the forest. Other than the occasional noises common to woodlands, there is no evidence of higher forms of life. A squirrel streaks through the underbrush and up the trunk of a tree.
+
+This area is illuminated.
+Obvious paths: south* northwest.
+nw
+>[Path.]
+
+The trees are becoming taller, and their trunks larger, as you make your way along. The smaller birch and beech trees have given way to graceful elms. A low growl comes from amidst the trunks of the trees, but it is impossible to determine the direction.
+
+This area is illuminated.
+Obvious paths: northeast southeast*.
+ne
+>[Path.]
+
+Trees surround you on all sides; for a moment the path is lost to sight. Something slithers through the underbrush. Try as you might, you can't identify what it might have been. You feel uneasy, as though something is watching your every move.  An overgrown path is here.
+
+This area is illuminated.
+Obvious paths: northeast southwest* northwest.
+ne
+>[Brambles.]
+
+Struggling through the underbrush, you make your way down the small trail only to be brought up short by an impenetrable wall of brambles. Plump red berries hang from the small branches of the bushes, guarded by long, sharp thorns. On a low hanging branch overhead, a watchful owl stares at you with golden eyes.  A slightly hidden trail and an ethereal looking owl are here.
+
+This area is illuminated.
+Obvious paths: southwest* northwest.
+nw
+>[Thicket.]
+
+Winding through the trees, the path emerges from the dense foliage and continues northward. You begin to wonder if there is a way into the seemingly impenetrable western forest. A track, that looks to be one used by small animals, veers off to the side.
+
+This area is illuminated.
+Obvious paths: north southeast* southwest.
+e
+>You cannot move in that direction.
+se
+>[Brambles.]
+
+Struggling through the underbrush, you make your way down the small trail only to be brought up short by an impenetrable wall of brambles. Plump red berries hang from the small branches of the bushes, guarded by long, sharp thorns. On a low hanging branch overhead, a watchful owl stares at you with golden eyes.  A slightly hidden trail and an ethereal looking owl are here.
+
+This area is illuminated.
+Obvious paths: southwest northwest*.
+sw
+>[Path.]
+
+Trees surround you on all sides; for a moment the path is lost to sight. Something slithers through the underbrush. Try as you might, you can't identify what it might have been. You feel uneasy, as though something is watching your every move.  An overgrown path is here.
+
+This area is illuminated.
+Obvious paths: northeast* southwest northwest.
+sw
+>[Path.]
+
+The trees are becoming taller, and their trunks larger, as you make your way along. The smaller birch and beech trees have given way to graceful elms. A low growl comes from amidst the trunks of the trees, but it is impossible to determine the direction.
+
+This area is illuminated.
+Obvious paths: northeast* southeast.
+se
+>[Path.]
+
+The path progresses along, still skirting the eastern boundary of the forest. Other than the occasional noises common to woodlands, there is no evidence of higher forms of life. A squirrel streaks through the underbrush and up the trunk of a tree.
+
+This area is illuminated.
+Obvious paths: south northwest*.
+s
+>[Copse.]
+
+The path becomes better defined, though it is still difficult to follow in the undergrowth, which has grown more dense. It is evident that the path at one time was a well-traveled route. Perhaps to the Spur?
+
+This area is illuminated.
+Obvious paths: north* southeast.
+se
+>[Copse.]
+
+The undergrowth thins here, and you are able to pick up traces of the path. To the east, where only a thin line of small trees mark the forest boundary, the marsh ends its reign and what appears to be a grassy plain begins.
+
+This area is illuminated.
+Obvious paths: south west northwest*.
+s
+>[Copse.]
+
+This sparse eastern border of the forest merges once again with the marsh. Offering mute evidence of the struggles within nature, young trees and plant life have taken root and thrive despite the encroaching swamp.
+
+This area is illuminated.
+Obvious paths: north*.
+n
+>[Copse.]
+
+The undergrowth thins here, and you are able to pick up traces of the path. To the east, where only a thin line of small trees mark the forest boundary, the marsh ends its reign and what appears to be a grassy plain begins.
+
+This area is illuminated.
+Obvious paths: south* west northwest.
+w
+>[Copse.]
+
+The sounds of small animals scampering in the underbrush and trilling chirps from the branches overhead provide ample evidence that the forest is a hospitable home to wildlife. 
+
+This area is illuminated.
+Obvious paths: east* south southwest west.
+sw
+>[Path.]
+
+Chittering noises come from overhead and tree branches dip and sway. A small brown shape scampers across the path, gone before it can be glimpsed and identified. The path disappears into a copse of saplings.  A thick copse of saplings is here.
+
+This area is illuminated.
+You see the 1st flying squirrel.
+Obvious paths: northeast* southeast.
+se
+>[Caersech Forest.]
+
+Through the branches of stately trees, glimpses of the sky can be seen. The path continues, winding northwest through the eastern edge of the forest.
+
+This area is illuminated.
+Obvious paths: southwest northwest*.
+sw
+>[Caersech Forest.]
+
+The soggy trail becomes a solid dirt path, sheltered by the trees of a forest whose boundary begins where the swamp ends. The path heads northwest, leading you into the forest proper.
+
+This area is illuminated.
+Obvious paths: northeast* southwest.
+sw
+>[Trail.]
+
+Cypress trees stand firmly rooted in the still-damp earth. Still, it appears the swamp has been left behind. The ground here is firmer and the trail clear.
+
+This area is illuminated.
+Obvious paths: northeast* south.
+s
+>[Trail.]
+
+Murky water has encroached upon the trail, making the way treacherous. A careful survey of the watery surroundings shows a faint path veering sharply to the north, away from the marsh and toward the forest.
+
+This area is illuminated.
+Obvious paths: north* southwest.
+sw
+>[Trail.]
+
+The trail skirts the border of the dismal marsh. Noxious vapors rise from the stagnant waters that lap at the noticeably narrowing route. What had been a dark green haze can now be distinguished as a massive forest.
+
+This area is illuminated.
+Obvious paths: northeast* south.
+s
+>[Trail.]
+
+The trail abruptly disappears into a dense wall of foggy mist. The ground here is soggy. Each step sets off a cacophony of buzzing insects, accompanied by the squelching sound of boots being grabbed by slimy muck.
+
+This area is illuminated.
+Obvious paths: north* southwest.
+sw
+>[Trail.]
+
+This looks to be the northern edge of the Eastlands marsh. Each step becomes more difficult as the ground becomes a muddy bog. Straying from the trail would be unwise at this point.
+
+This area is illuminated.
+Obvious paths: northeast* east southwest.
+sw
+>[Trail.]
+
+The hedgerows grow less dense and the ground becomes soft and springy. The air has taken on a moist and uncomfortably clammy feel. The top of a very tall hill can be seen far to the southeast.
+
+This area is illuminated.
+You see the 1st mother dirge.
+Obvious paths: northeast* southwest.
+sw
+>
+A mother dirge enters, following Hroomha.
+[Trail.]
+
+To the west, tall grasses and scraggly trees obscure the view of a small town.  Creating a natural barrier to the east are rows of thorny hedges.  A haze of dark green can be seen to the northeast.
+
+This area is illuminated.
+You see the 1st mother dirge.
+Obvious paths: northeast* west.
+w
+>[East Trade Road.]
+
+Puddles of murky water dully reflect the giant trees that surround you.  You feel the prickle of eyes watching you, though you don't get a feeling of malice, just curiosity.
+
+This area is illuminated.
+Obvious paths: east* west.
+w
+>[East Trade Road.]
+
+As you continue into the forest, you begin to forget that there were ever other colors than brown, green, and black.  As suddenly as that thought comes, you see a set of piercing red eyes in the shadows, that soon scurry away.
+
+This area is illuminated.
+Obvious paths: east* southwest.
+sw
+>
+ ** You are fully rested.
+[East Trade Road.]
+
+Large trees begin to bunch around the road that has become little more than a path leading through the undergrowth.  The forest begins to fill your vision as you continue.
+
+This area is illuminated.
+Obvious paths: northeast* southwest.
+sw
+>[East Trade Road.]
+
+Runoff from the river to the west makes the ground all around soggy.  It appears to be even more wet to the northeast where a small marsh sits at the entrance to a huge forest spanning as far east as the eye can see.
+
+This area is illuminated.
+Obvious paths: northeast* west.
+w
+>[East Trade Road.]
+
+The road becomes a bridge to cross a small river that meanders its way out of the forest to your northeast.  Oddly, the wooden planks of the bridge don't seem to be held up by anything.
+
+This area is illuminated.
+Obvious paths: east* southwest.
+go door
+>I don't see what you are referring to.
+sw
+>[East Trade Road.]
+
+All around you the earth is trampled flat.  You see a myriad of footprints and hoofprints in every direction.  A broken post on the side of the road may have once had a sign on it, but was snapped off near the ground.  It looks like someone left here in a hurry.  A broken post is here.
+
+This area is illuminated.
+Obvious paths: northeast* northwest.
+nw
+>[East Trade Road.]
+
+You hear voices chattering around you but you can't see the source.  After a few moments of listening, you look up into a tree next to the path and see three Fir Elves sitting in the tree talking to each other.  They smile down at you and give you a friendly greeting.
+
+This area is illuminated.
+Obvious paths: southeast* northwest.
+nw
+w
+>[East Trade Road.]
+
+The marsh is becoming less and less apparent, and larger trees are becoming more common. To the east you see a large forest blotting out a great deal of the sky. One tree in particular towers over all the others. 
+
+This area is illuminated.
+Obvious paths: southeast* west.
+[East Trade Road.]
+
+A towering stone obelisk stands next to the road, serving boldly as a road marker.  The arrow east to Caersech shows that it is not much farther, while Spur is far away.
+
+This area is illuminated.
+Obvious paths: east* southwest.
+sw
+>[East Trade Road.]
+
+Following the lay of the land, the road curves slightly to the northeast to go around a stand of old trees.  The trees look more like forest trees than marsh trees.
+
+This area is illuminated.
+Obvious paths: northeast* west.
+w
+>[East Trade Road.]
+
+The scraggly weeds of the marsh seem to grow so that they do not touch the road, as opposed to the Spurian road where all the vegetation was hacked off near it.  Even though they are old, the planks bear no moss.
+
+This area is illuminated.
+Obvious paths: east* west.
+w
+>[East Trade Road.]
+
+The white paving stones give way to a boardwalk made of wooden planks.  The wood doesn't appear to be of Spurian make, and looks a great deal older, but very sturdy.  A finely crafted wooden boardwalk is here.
+
+This area is illuminated.
+Obvious paths: east* northwest.
+nw
+>[East Trade Road.]
+
+The swamp around you begins to thin out until it's nothing more than a very muddy marsh. The tiny lights still sparkle from within the swamp and are calling to you, but not as strongly as before. Another white marker is here.  A closed iron gate is here.
+
+This area is illuminated.
+Obvious paths: southeast* northwest.
+>
+Your flaming paper lantern flickers for a moment.
+nw
+w
+[East Trade Road.]
+
+Tiny lights flit here and there and everywhere around you. Their light twinkles dimly in the sun, but in the darkness of the marsh, they practically shine with an appealing glow.
+
+This area is illuminated.
+Obvious paths: southeast* northwest.
+>You cannot move in that direction.
+nw
+w
+>[East Trade Road.]
+
+The points of light are becoming bolder, flitting closer and closer to you and beckoning you to join them in the swamp. You must actively concentrate to avoid straying from the path and being hopelessly mired in the swamp.
+
+This area is illuminated.
+Obvious paths: southeast* west.
+[East Trade Road.]
+
+A small orb of light hovers in the center of the path before you, only to disappear as you near it, reappearing further away into the swamp. Stepping near the orb to investigate closer only causes it to again blink out of existence, forming once more, deeper into the mists. It soon becomes apparent that the mysterious lights are attempting to slyly lead you into the swamp. To or for what purpose, is the question.
+
+This area is illuminated.
+Obvious paths: east* west.
+w
+>[East Trade Road.]
+
+Ravens dark as pitch spread their feathers to a wing-span of nearly four feet, so large they are, as they quarrel over an abandoned mule carcass on the roadside breaks out. How final death seems, so casually nature simply encompasses the bodies of the fallen, through carrion hunters or moldy decay. Yet through death there be life again, any number of these ravens being sustained through this death, so they may live. Perhaps only to become sustenance for one of the swamp creatures, who, in turn, spends its life continuing the cycle.
+
+This area is illuminated.
+Obvious paths: east* southwest.
+sw
+>[East Trade Road.]
+
+Eyes of creatures too quick to be seen monitor your progress along the road. Their footprints can be seen occasionally, leading back and forth across the path, sometimes following along the edges, bringing to mind the vision of something that might be following you, at this very moment, leaving tiny or perhaps not so tiny footprints along the edge of the road as it stalks its prey.
+
+This area is illuminated.
+Obvious paths: northeast* west.
+w
+>[East Trade Road.]
+
+A white mile-marking stone rises up from the muck near the path, the numbers etched into its surface gathering moss and sludge in their inner edges. A small marsh rat perches atop the stone, eyeing you hungrily with glittering red orbs, its whiskers twitching nervously at you.
+
+This area is illuminated.
+Obvious paths: east* northwest.
+nw
+>[East Trade Road.]
+
+The dried trees encroach even up to the roadside, here, their limbs reaching down to the passage as if to snatch the unwary passer-by. A sudden shift in the wind brings forth the sullied aroma of death and decay from the swamp southern lands. Slurpish noises belie the path of some creature traveling through the muddy scape, their movements hidden behind the smoky mist that reduces visibility to a mere few feet past the swamp's edge.
+
+This area is illuminated.
+Obvious paths: southeast* northwest.
+nw
+w
+>[East Trade Road.]
+
+The open plains are becoming scattered with scraggly trees, the wood of which proving inefficient to use for building as the elements of nature have grown the trunks so twisted and hard in order to withstand the onslaughts of time. Circling around the northern base of a small hill, there lies the lapping edge of the swamp to the south. Small slimy creatures lie on the smooth stones near the water, darting into it at the speed of light as you near them with tiny splashes and echoing wakes blending into the small, gentle waves coming into the shore. Swarms of mosquitoes move along the land in unison, lending them the appearance of large, unified bodies hovering around for the next feast.
+
+This area is illuminated.
+Obvious paths: southeast* southwest.
+sw
+>You cannot move in that direction.
+>[East Trade Road.]
+
+A hedge of spiky brambles forms a natural division from the lands and the swampy terrain to the south. Tall, limbless trees dot the horizon there, their bases lost in the misty depths of the gases hovering over the waters. Now and then a strange, growling sound echos up to the north, or an odd, high-pitched call of some unseen crow, probably feasting on a fallen creature hidden in the mists. The path curves away from the sounds, as popular choice has preferred to travel around the edges, rather than through the marshy sludge.
+
+This area is illuminated.
+Obvious paths: northeast* west.
+w
+>[East Trade Road.]
+
+A wooden signpost gives the directions and distances to the two closest cities. The arrow leading west is denoted as Spur, while the one directing east states Caersech. Next to the signpost rests an elderly druid amidst a cushion of moss, leaves, and flower petals. He is currently lecturing a young apprentice on the city of Spur and the negative effects it has had on nature.
+
+This area is illuminated.
+Obvious paths: east* west.
+w
+>[East Trade Road.]
+
+A cracked wheel from a cart lies next to the road.  It appears to have been abandoned in haste when it broke in the deep rut next to the road.
+
+This area is illuminated.
+Obvious paths: east* south northwest.
+w
+w
+>You cannot move in that direction.
+nw
+You cannot move in that direction.
+[East Trade Road.]
+
+A pike by the side of the road displays the head of a brigand caught by the road patrol.  It serves as a warning to all those who would try to rob the merchants who use this road as a trade route.
+
+This area is illuminated.
+Obvious paths: southeast* northwest.
+nw
+>[East Trade Road.]
+
+A few scraggly trees are the forerunners of the large forest barely coming into view on the horizon.  A picketed fence to the south of you marks the end of the corn field that you had been passing.  An open iron gate is here.
+
+This area is illuminated.
+You see the 1st foreign merchant.
+Obvious paths: southeast* west.
+w
+>[East Trade Road.]
+
+The swishing sounds of a corn field to your south are the only noises that you can hear along this trade road. Massive pot holes fill the road here, making travel uneven and unbalanced.
+
+This area is illuminated.
+Obvious paths: east* southwest.
+sw
+>[East Trade Road.]
+
+The trade road winds its way through farms and rolling hills.  A small white marker stone displays the distance you have traveled from Spur, as well as another distance from somewhere to the east.
+
+This area is illuminated.
+Obvious paths: northeast* west.
+w
+>[East Trade Road.]
+
+To the north, a broad expanse of flat prairie stretches off before meeting a giant forest on the horizon.  To the south are assorted Spurian farms, their crops swaying in the light breeze.
+
+This area is illuminated.
+Obvious paths: north east* west.
+w
+>[East Trade Road.]
+
+You are on a recently built trade road leading to the east. The new white paving stones sparkle slightly in the sunlight. Far to the northeast, you see a broad haze of green and brown. To the south stands a small barn.  An open door is here.
+
+This area is illuminated.
+Obvious paths: east* west.
+w
+>[Road.]
+
+The road bends from the west to the northeast at this point. To the southeast is a dirt trail that leads to a small house in the distance. The open expanse of a farmer's field stretches off to the south and west.
+
+This area is illuminated.
+Obvious paths: northeast east* southeast west.
+w
+>[Road.]
+
+The road follows along a farmer's field to the south. The broad rock wall that surrounds it gives silent testimony to the effort the farmer puts into his labors. Off to the north a broad hill bends around the city wall.
+
+This area is illuminated.
+Obvious paths: east* west.
+w
+>[Road.]
+
+Off along the north branch of the road is a large gatehouse. It stands at the base of a broad hill that seems to follow the city wall as it angles off to the northeast. The farmer's field to the south is neat and carefully tended.
+
+This area is illuminated.
+Obvious paths: north east* west.
+w
+>[Road.]
+
+In the distance to the north, you can make out the looming walls of the city. The guards atop the walls are like ants at this distance. To the south of the road, you see a farmer's field, carefully tended to ensure his livelihood.
+
+This area is illuminated.
+Obvious paths: east* west.
+w
+>[Road.]
+
+You can see a large field opening up to the south at this point. In the middle of the road, there is a gaping hole from which emanates a constant humming noise. Most travelers avoid the hole by leaving the road.
+
+This area is illuminated.
+Obvious paths: east* south west.
+w
+>[Road.]
+
+The main north road has a branch here leading off to the east. A small sign posted at this intersection sports arrows pointing in all five directions. An open field lies off to the west and another to the southeast.
+
+This area is illuminated.
+Obvious paths: north east* southeast south west.
+n
+>[Road.]
+
+Even though it shows heavy wear, the road is in remarkably good repair. It was built by expert craftsmen to withstand the rigors of time and use. Evidence of recent repairs indicate that any problems are dealt with quickly and competently.
+
+This area is illuminated.
+Obvious paths: north south* southwest.
+n
+>[South gate.]
+
+Through the gate lies the city of Spur, the major center of trade and civilization on the plains. The dusty road leading through the gates is well traveled, and walls of the city are in good repair. A small shack sits to the west of the road, during most times of the day a dusty coach can be seen waiting in front, its horses stomping with impatience to be gone. To the right of the door is a small window, its opening covered with metal bars. An old man, missing most of his teeth, waits patiently for the travelers to pay their fare, and then directs them into the waiting area. On the east side of the road a billowing multicolored tent has been erected, the hustle and bustle of merchants and customers can be seen coming and going at all times of the day.  A rainbow silk tent and an open iron gate are here.
+
+This area is illuminated.
+Obvious paths: east* south*.
+go gate
+>[South Gate.]
+
+A well-guarded gateway separates the city's residential district from the farmlands just beyond. Guards carefully eye all that enter or exit the city, beckoning gruffly to random travelers for a closer inspection. The structure of the guards' barracks is visible above the road to the west. A weathered wooden sign is posted by the gate.  An open stone gate, a wooden sign, a closed thick stone door, and a street lantern are here.
+
+This room is illuminated.
+Obvious exits: north*.
+n
+n
+>[Noble Way.]
+
+The occasional locked gate marks the entrance to some of the more hidden estates of Spurs nobility. From this broad avenue, little can be seen of their splendor. Behind the imposing gate recedes a proud drive, disappearing mysteriously into the trees. If not for the large imposing tower rising above the hedges it would be hard to discern anything was beyond the gate. It is apparent the residents do not wish to be disturbed.  A street lantern, a closed morbius door, and an open black iron gate are here.
+
+This area is illuminated.
+Obvious paths: north* south*.
+n
+n
+n
+n
+[Noble Way.]
+
+Majestic elms continue to line this broad roadway, sheltering the avenue on both sides and further enhancing the grandiose atmosphere. Fronting the beautiful homes, cobbled paths edged with narrow flower beds meander through nearby private gardens. Though they appear wonderful places to spend an afternoon or take a picnic, the glances from those tending the estates makes it clear they are only for the invited.  A street lantern is here.
+
+This area is illuminated.
+Obvious paths: north* south*.
+n
+[Noble Crossroads.]
+
+A small roadway bordered by flowering hedges bisects the wide avenue of Noble Way at a right angle, heading east to west.  A thick, sturdy sign stands just off to the side of a charming path, its large friendly letters intent on luring travelers into the city's premiere roadstay, the Gilded Lion Inn. The entrance is clearly marked and welcoming, extending off to the southeast.  A wooden sign and a street lantern are here.
+
+This area is illuminated.
+Obvious paths: north* east* southeast* south* west*.
+[Noble Way.]
+
+Occasional gates and driveways lead back into the well-kept estates of the city's nobility, breaking and adding interest to the defining plane of the walls lining Noble Way. The rest of the street seems to mimic the splendor of the estates beyond the wall. Swept and trimmed, the roadway exudes a simple, yet beautiful elegance.  A street lantern is here.
+
+This area is illuminated.
+Obvious paths: north* south*.
+[Noble Way.]
+
+Numerous trees lining the avenue serve as the dividing border between the majestic estates of the nobility and the lightly traveled roadway. The estates themselves are noticeably closer to the avenue than those to the south. However, they are no easier to access, still protected by their own guarding walls, some covered with ivy or colorful blooming vines.  A street lantern is here.
+
+This area is illuminated.
+Obvious paths: north* south*.
+[Noble Way.]
+
+The entire avenue is composed of fine cobblestone, each level with its neighbor, providing a smooth ride for passing carriages and horses. The stones were customized by craftsmen, cut to order, rather than simply placed wherever they might fit. A few stately oaks and elms line the sides of the road, shading travelers during the daylight hours.  A street lantern is here.
+
+This area is illuminated.
+Obvious paths: north* south*.
+[Intersection.]
+
+The avenue comes to a fork, with Noble Way curving from south to the northwest. A side-street heading off to the east leads to an extremely well kept neighborhood that easily surpasses everything around it in splendor and magnificence. Everything, even the carefully pruned trees and the manicured shrubbery displays a desire for elegant perfection.  A street lantern is here.
+
+This area is illuminated.
+Obvious paths: east* south* northwest*.
+nw
+nw
+>[Noble Way.]
+
+Leaving the exceptionally wealthy estates of the Spurian nobility, Noble Way heads toward the Town Square to the northwest. Along the roadside can be seen the in-city homes of successful merchants and other wealthy citizens of the Spur. The homes display a slightly different style, perhaps they are not quite so restrained; a touch more exuberance and freedom with materials is displayed.  A street lantern is here.
+
+This area is illuminated.
+Obvious paths: southeast* northwest*.
+n
+[Noble Way.]
+
+Gazing down each of the nearby private drives reveals a glimpse of a luxurious home, each a miniature estate in its own right. Short, stout walls and manicured hedges serve to keep out the riffraff and to protect the small, expensive gardens. Every detail has been attended to display the exotic plants, in all their pampered perfection.  A street lantern and a closed rosewood door are here.
+
+This area is illuminated.
+Obvious paths: north* southeast*.
+n
+ne
+[Noble Way.]
+
+Noble Way continues to wind its way among the rather modestly sized, but elegant, homes of the Spur's successful. Many a peasant farmer may live in homes larger than these, but none can match the quality found here. A peaceful, luxurious feeling pervades this part of town; perhaps it is the drifting floral scents wafting from the well-tended gardens.  An elegant black iron gate and a street lantern are here.
+
+This area is illuminated.
+Obvious paths: north* south*.
+[Noble Way.]
+
+Many grand, even ostentatious, homes line this stretch of Noble Way. Most of the residents here were fortunate enough to be born into the right families. Few that live in this area have ever actually had to work for a living. Glancing at the nameplates reveals many of the recognizable names of the Spur. Some of these names could almost be considered famous.  A street lantern is here.
+
+This area is illuminated.
+Obvious paths: northeast* south*.
+n
+n
+[Noble Way.]
+
+An unusually large home, even for this part of town, lies off to the west. It seems as if one ambitious owner is slowly buying up the lots next to his and adding them to his own. Groundskeepers are at work in the surrounding gardens, trimming and raking, so intent on their work they do not bother to acknowledge the passing traffic on the road.  A street lantern is here.
+
+This area is illuminated.
+Obvious paths: north* southwest*.
+[Noble Way.]
+
+To the north, you can make out an ornately scrolled gateway set in the base of the imposing city wall. The refined roadway of Noble Way stretches out to the south. The cobblestones of the road are smooth and even. The attention to detail shown here is a dramatic change from some of the other parts of the city.  A street lantern is here.
+
+This area is illuminated.
+Obvious paths: north* south*.
+go gate
+[Gateway.]
+
+An elegant, carved wooden sign hangs above the ornate gateway set into the massive wall that divides Spurs Noble District from the Town Square. You can make out city guardsmen peering down attentively at all that approach from their posts atop the imposing wall. They seem to take a greater interest in this part of town, though there does not seem to be anything threatening enough here to warrant such attention.  A wooden sign and a street lantern are here.
+
+This area is illuminated.
+Obvious paths: south*.
+>[Southern Ave.]
+
+Standing next to the large iron gate that separates the center of town from those of the elite class are several of the Spurian Guard. They are here to assist all who pass with the simple kindness of opening a gate, or the more important task of escorting those in need to the bank or market. A young looking cadet rubs wax into the stones of the city wall, his task is daunting, but one that will teach him discipline.  An open iron gate and a street lantern are here.
+
+This area is illuminated.
+Obvious paths: north*.
+n
+n
+>[Southern Ave.]
+
+The boughs of a large apple tree hang over the well tended avenue. Below the beautiful tree stands a small fountain. Atop the fountain is an intricately carved Secian who appears to be dancing with the water as it splashes around her. Set in the marble base is a small plaque that reads, "For those who have gone before us." Many stand for a moment as they pass this way, giving thanks for the gift of life that is given by both the apple tree and the Secians of long ago. Large piles of dirt and broken stone lay on either side of the street as workmen ready the east and west alleys for expansion.  A street lantern is here.
+
+This area is illuminated.
+Obvious paths: north* east* south* west.
+n
+[Southern Ave.]
+
+Vast estates tower over the huge Spurian wall towards the south. The well-to-do who live in these homes idle away their days, enjoying the luxury of time. Standing next to a very empty lantern pole, a small Flerian child insists in a plaintive wail, that he had nothing to do with the missing lantern. The well-dressed guard that interrogates him keeps pointing at a small sack on the ground and its obvious contents.  An open small burlap sack and a street lantern are here.
+
+This area is illuminated.
+Obvious paths: north* south*.
+n
+n
+[Southern Ave.]
+
+Southern Avenue leads between the center of Spur and the homes of the prosperous and wealthy. Several of the Ladies of the city stroll along the avenue chatting about the current events and latest gossip of the Spur. Behind them, harried servants carry their reticules and all those belongings that they cannot be without.  A street lantern is here.
+
+This area is illuminated.
+Obvious paths: north* south*.
+n
+[Town Square.]
+
+Smooth stones make up the street that leads from the center of Spur to the south. Each stone has been carefully fitted for the most comfortable travel by both cart and traveler alike. A well dressed Guard patrols the area in his dress uniform. Captains don't allow for slovenly appearances on this patrol.  A street lantern is here.
+
+This room is illuminated.
+Obvious exits: north* south*.
+[Town Square South.]
+
+The outward appearance of the people here seems a bit classier. Rich clothing and large coin purses are prevalent amongst the travelers. In fact, many of the folk heading into Town Square from the south are accompanied by large bodyguards to assure their safety. The well maintained road is lined with small brass lanterns, each swinging off an individual pole. No expense has been spared to keep those who travel this road safe from the hoodlums that relish the darkness.  A street lantern is here.
+
+This area is illuminated.
+Obvious paths: north* northeast* east* south* west* northwest*.
+[Town Square Center.]
+
+A massive gate dominates the center of Town Square. Monolithic stone dragons stand to each side of the gate like sentinels keeping watch over the city of Spur. The gigantic wings of the dragons are stretched high overhead, forming the gate's sculpted arch. Townsfolk stare at the monument with awe and reverence as they quickly wander by. Beneath the colossal structure rests a large marble fountain. Clear, sparkling water sprays from a spout at the fountain's tip and cascades down several tiers before spilling into a shimmering blue pool. Lifelike marble statues have been placed around the city square to celebrate the famous heroes of the past.  Some white marble benches, some flowering shrubbery, a carved marble statue of a Human, a carved marble statue of a Dragon, a brightly painted wooden birdhouse, a crystal flecked granite oliphant-shaped bench, a flowing white marble fountain, and an ancient dusty cask of aged brandy are here.
+
+This area is illuminated.
+In the area are Noffbrau the Noble Hithual (hovering 10 feet above ground), Dror the Noble Thugian, Nibiru the Noble San Elf, Athaer the Leuian, Mikore the Monitanian, and Rev the Noble Hithual.
+Obvious paths: north* northeast* east* southeast* south* southwest* west* northwest*.
+se
+>[Town Square.]
+
+The elegant Hotel Royale towers above the street, its emerald door sparkling in the light. The patrons that stroll in and out are catered to, doors opened and closed for them, and baggage and packages carried by harried servants. The large Bank of Spur sits on the east side of the square. Its location close to the Royale is not a coincidence. A gold-trimmed door is proof of the success of this branch of the Spurian bank and those who run it.  An elegant gold-trimmed walnut door, open emerald steel door, and a street lantern are here.
+
+This area is illuminated.
+Obvious paths: north* southeast* west* northwest*.
+go door
+>[Bank.]
+
+Two large Thugian guards stand sentinel on each side of the doors to the main branch of the Bank of Spur. Elegant furnishings adorn the office. Polished oak and gold filigree emphasize the wealth that abounds in this establishment. Well-dressed tellers stand ready to help you store your money safely or to reduce your coinage to more manageable form.  An open elegant gold-trimmed walnut door, a wooden sign, and a bright wooden sign are here.
+
+This room is illuminated.
+You see the 1st governor's dread knight.
+Obvious exits: None.
+bank bal
+>
+You approach a teller and quietly request an account balance...
+
+The teller whispers to you, "You have an account balance of 1900 silver."
+inv
+>Items carried:
+  An open large pitch black leather backpack [39.2 lbs].
+  A damaged short wooden club [0.1 lbs].
+  A two-handed steelwood maul [14.0 lbs].
+  A flaming paper lantern [0.1 lbs].
+  A bone pitch black bearskin berserker's cloak [6.3 lbs].
+  A wooden sword [0.2 lbs].
+  A gold-trimmed bullseye lantern [2.5 lbs].
+  A large waterskin [8.0 lbs].
+  A pale blue glass bottle [0.1 lbs].
+  A spent fine rolled cigar [0.1 lbs].
+  A light burnished brass armor [28.0 lbs].
+  A spiked iron mace [2.0 lbs].
+  A steel shaving blade [0.1 lbs].
+  An open large frayed pitch black burlap rucksack [2.8 lbs].
+  An open large frayed burlap rucksack [2.1 lbs].
+  Some blood-stained pitch black leather breeches [0.1 lbs].
+  An open pitch black leather healer's bag [2.2 lbs].
+
+You have 0 silver pieces and 1 gold piece.
+
+This gives you a total net worth of 100 silver.
+
+Your inventory totals 107.9 lbs.
+go door
+>[Town Square.]
+
+The elegant Hotel Royale towers above the street, its emerald door sparkling in the light. The patrons that stroll in and out are catered to, doors opened and closed for them, and baggage and packages carried by harried servants. The large Bank of Spur sits on the east side of the square. Its location close to the Royale is not a coincidence. A gold-trimmed door is proof of the success of this branch of the Spurian bank and those who run it.  An elegant gold-trimmed walnut door, open emerald steel door, and a street lantern are here.
+
+This area is illuminated.
+Obvious paths: north* southeast* west* northwest*.
+nw
+>[Town Square Center.]
+
+A massive gate dominates the center of Town Square. Monolithic stone dragons stand to each side of the gate like sentinels keeping watch over the city of Spur. The gigantic wings of the dragons are stretched high overhead, forming the gate's sculpted arch. Townsfolk stare at the monument with awe and reverence as they quickly wander by. Beneath the colossal structure rests a large marble fountain. Clear, sparkling water sprays from a spout at the fountain's tip and cascades down several tiers before spilling into a shimmering blue pool. Lifelike marble statues have been placed around the city square to celebrate the famous heroes of the past.  Some white marble benches, some flowering shrubbery, a carved marble statue of a Human, a carved marble statue of a Dragon, a brightly painted wooden birdhouse, a crystal flecked granite oliphant-shaped bench, a flowing white marble fountain, and an ancient dusty cask of aged brandy are here.
+
+This area is illuminated.
+In the area are Noffbrau the Noble Hithual, Dror the Noble Thugian, Nibiru the Noble San Elf, Athaer the Leuian, Mikore the Monitanian, and Rev the Noble Hithual (lying down).
+Obvious paths: north* northeast* east* southeast* south* southwest* west* northwest*.
+>
+Rev stands up.
+sit with a huge THUD!..You feel the ground beneath you tremble as 500 pounds of fat lazy Oog-ra hits the earth..
+You sit down with a huge THUD!..You feel the ground beneath you tremble as 500 pounds of fat lazy Oog-ra hits the earth...
+grit with fine in between them
+>You grit your teeth with the spent fine rolled cigar in between them.
+>
+Noffbrau says, "ahh jumped to high"
+
+grin to Mikore
+Mikore is looking at you.
+You grin to Mikore.
+>
+Mikore flicks his tongue to you.
+
+In a rainbow shimmer, Vartac's group appears.
+
+Vartac suddenly appears in a brilliant multicolored flash!
+nod
+
+Vartac's group just went west.
+You nod.
+>
+Rev grins to you.
+l at hr
+You find something suitably reflective and gaze into it...
+
+You look like a 8'0" standard adolescent delicate boned, stocky bodied Oog-ra.
+You are seated.
+You have very long, tied back, kinky chestnut brown fur, with large reddish brown eyes, and look disheveled.
+You appear to be livid right now.
+You can be attacked by other players.
+You appear to be in perfect health.
+There is a shining gold emblem affixed to your clothing.
+
+Physical appearance:
+
+You see a large hairy oog-ra standing before you, with old scars covering most of his body
+
+                        Visible Equipment
+A spiked iron mace                                 (right hand)
+A flaming paper lantern                            (left hand)
+A light burnished brass armor                      (armor)
+A bone pitch black bearskin berserker's cloak      (over armor)
+Some blood-stained pitch black leather breeches    (pants)
+
+You have been bestowed the following title(s):
+  Noble of the Realm
+
+>You see Rev retreat 4 UDs to the rear!
+gri to re
+You grin to Rev.
+slap re on the shoulder in a friendly manner, with a huge gnarled old hand..
+tact
+>Too far!  You must close some distance before you can try that.
+>Standing in front of you at 1 UDs, is:
+Dror
+Standing in this rank is:
+Noffbrau, Mikore, Hroomha
+Standing behind you at 4 UDs, is:
+Athaer, Rev
+>
+Dror says, "guess i can go to saladtown"
+rem lan
+You extinguish your flaming paper lantern.
+l
+>[Town Square Center.]
+
+A massive gate dominates the center of Town Square. Monolithic stone dragons stand to each side of the gate like sentinels keeping watch over the city of Spur. The gigantic wings of the dragons are stretched high overhead, forming the gate's sculpted arch. Townsfolk stare at the monument with awe and reverence as they quickly wander by. Beneath the colossal structure rests a large marble fountain. Clear, sparkling water sprays from a spout at the fountain's tip and cascades down several tiers before spilling into a shimmering blue pool. Lifelike marble statues have been placed around the city square to celebrate the famous heroes of the past.  Some white marble benches, some flowering shrubbery, a carved marble statue of a Human, a carved marble statue of a Dragon, a brightly painted wooden birdhouse, a crystal flecked granite oliphant-shaped bench, a flowing white marble fountain, and an ancient dusty cask of aged brandy are here.
+
+This area is illuminated.
+In the area are Noffbrau the Noble Hithual, Dror the Noble Thugian, Mikore the Monitanian, and Rev the Noble Hithual.
+Obvious paths: north* northeast* east* southeast* south* southwest* west* northwest*.
+>
+Axe just appeared.
+dri cas
+You take a drink from the ancient dusty cask of aged brandy.
+
+Ahh...  That hit the spot!
+>You see Rev move up another 4 UDs!
+mum
+You mumble something beneath your breath.
+>
+Noffbrau grins at Axe.
+
+Axe grins.
+
+Spur's clock strikes ten.
+
+Axe says in Hithual, "Zuprv 'agju rtz"
+
+Rev just went north.
+
+Axe asks in Hithual, "Xspxjvex pnby kq?"
+l in bac
+Inside the open large pitch black leather backpack you see a tarnished brass signet ring, a caramel apple dumpling, a caramel apple dumpling, a caramel apple dumpling, a paper lantern, a dark bottle of Saldean rum, a paper lantern, a leather cudgel, a short bronze dagger, a short copper knife, a heavy brushed copper ring mail, a small silver shot glass, and some hard rations.
+>
+Noffbrau says in Hithual, "fympz"
+
+Noffbrau shakes his head from side to side.
+get rum from bac
+I don't see any "rum" in there!
+get sal from bac
+>I don't see any "sal" in there!
+>
+grin to Dror
+Dror is looking at you.
+You grin to Dror.
+get bot from bac
+>You remove the dark bottle of Saldean rum from your open large pitch black leather backpack.
+>
+Axe nods.
+
+Noffbrau says in Hithual, "lk ors rdv xfv fgco xooie wa rpwfpc ttjn"
+slap dr on the shoulder in a friendly manner, with a huge gnarled old hand..
+You slap Dror on the shoulder in a friendly manner, with a huge gnarled old hand..
+>
+Dror grins.
+
+Axe says in Hithual, "Cunl O zjaib D'w qam ohi c xyk, cjg ztkt hgwcol pp izufx ew"
+
+Axe ponders the meaning of the universe for a moment.
+l at bot
+It looks like a pale blue glass bottle.
+>
+Dror tackles you.
+l at 2 bot
+It looks like a dark bottle of Saldean rum.
+>
+Dror stands up.
+chu
+You chuckle.
+>
+Noffbrau says in Hithual, "odv fv svlo"
+
+Dror says, "thug hug"
+sit with a huge THUD!..You feel the ground beneath you tremble as 500 pounds of fat lazy Oog-ra hits the earth..
+You sit up.
+gri to dr
+>You grin to Dror.
+>
+Axe says to Noffbrau in Hithual, "Wi, mthsbv'j lzik ho qjn dell urz wqotd'h po iavqm iofibb mxiu lvv"
+dri 2 bot
+
+Axe waves to Noffbrau.
+You take a drink from your dark bottle of Saldean rum.
+
+Hmmm... not bad.
+You cough.
+
+It burns a bit going down!
+grit with fine in between them
+>You grit your teeth with the spent fine rolled cigar in between them.
+>
+Axe just went east.
+put 2 bot in bac
+You place the dark bottle of Saldean rum within your open large pitch black leather backpack.
+>
+Noffbrau waves.
+l
+[Town Square Center.]
+
+A massive gate dominates the center of Town Square. Monolithic stone dragons stand to each side of the gate like sentinels keeping watch over the city of Spur. The gigantic wings of the dragons are stretched high overhead, forming the gate's sculpted arch. Townsfolk stare at the monument with awe and reverence as they quickly wander by. Beneath the colossal structure rests a large marble fountain. Clear, sparkling water sprays from a spout at the fountain's tip and cascades down several tiers before spilling into a shimmering blue pool. Lifelike marble statues have been placed around the city square to celebrate the famous heroes of the past.  Some white marble benches, some flowering shrubbery, a carved marble statue of a Human, a carved marble statue of a Dragon, a brightly painted wooden birdhouse, a crystal flecked granite oliphant-shaped bench, a flowing white marble fountain, and an ancient dusty cask of aged brandy are here.
+
+This area is illuminated.
+In the area are Noffbrau the Noble Hithual, Dror the Noble Thugian, and Mikore the Monitanian.
+Obvious paths: north* northeast* east* southeast* south* southwest* west* northwest*.
+sal to no
+>You salute to Noffbrau.
+l at dr
+>
+Dror looks like a 8'7" standard adolescent average boned, very muscular bodied Thugian Barbarian.
+He has long, unbridled, coarse light brown hair, with large dull black eyes, and looks casual.
+He appears to be happy right now.
+He bears the mark of Odarous.
+He can be attacked by other players.
+He has no apparent injuries, but looks tired.
+There is a shining gold emblem affixed to his clothing.
+
+Physical appearance:
+
+A hungry looking large Thugian, hide your groceries
+
+                        Visible Equipment
+A two-handed dragon hilted moonsilver broadsword   (right hand)
+A damaged heavy brushed copper ring mail           (armor)
+A battered stone symbol                            (around neck)
+A heavy gold-trimmed tierskin cloak                (over armor)
+An enormous green fig leaf                         (pants)
+A small woven grass shaman doll                    (on belt)
+
+He has been bestowed the following title(s):
+  Noble of the Realm
+
+' tall
+>
+Hroomha says, " tall"
+>
+grin to Noffbrau
+Noffbrau is looking at you.
+You grin to Noffbrau.
+>
+Dror says, "me no tall"
+
+Dror points noff.
+
+Dror says, "him short"
+chu
+You chuckle.
+l
+>[Town Square Center.]
+
+A massive gate dominates the center of Town Square. Monolithic stone dragons stand to each side of the gate like sentinels keeping watch over the city of Spur. The gigantic wings of the dragons are stretched high overhead, forming the gate's sculpted arch. Townsfolk stare at the monument with awe and reverence as they quickly wander by. Beneath the colossal structure rests a large marble fountain. Clear, sparkling water sprays from a spout at the fountain's tip and cascades down several tiers before spilling into a shimmering blue pool. Lifelike marble statues have been placed around the city square to celebrate the famous heroes of the past.  Some white marble benches, some flowering shrubbery, a carved marble statue of a Human, a carved marble statue of a Dragon, a brightly painted wooden birdhouse, a crystal flecked granite oliphant-shaped bench, a flowing white marble fountain, and an ancient dusty cask of aged brandy are here.
+
+This area is illuminated.
+In the area are Noffbrau the Noble Hithual, Dror the Noble Thugian, and Mikore the Monitanian.
+Obvious paths: north* northeast* east* southeast* south* southwest* west* northwest*.
+>
+Noffbrau says, "dat aint wut she said"
+
+Dror just removed a fragrant garlic necklace from within his open large frayed burlap rucksack.
+
+Noffbrau snickers.
+list
+You listen intently.
+' she?
+>
+Hroomha asks, " she?"
+>
+Dror offers you a fragrant garlic necklace.
+
+gl
+a around
+You glance.
+>Usage: ACCept OFFER FROM <plr|mon>
+rai at dr
+>You raise an eyebrow at Dror.
+>
+Noffbrau says, "just joke"
+chu
+You chuckle.
+>
+Dror says, "dis mak ya smell bedda"
+
+Mikore, Shut Up." he explained, just went northwest.
+' Hroom like fur smell
+
+Hroomha says, " Hroom like fur smell"
+gri to dr
+>You grin to Dror.
+stret 8 hairy feet of fat, lazy Oog-ra
+>You stretch 8 hairy feet of fat, lazy Oog-ra.
+l
+>[Town Square Center.]
+
+A massive gate dominates the center of Town Square. Monolithic stone dragons stand to each side of the gate like sentinels keeping watch over the city of Spur. The gigantic wings of the dragons are stretched high overhead, forming the gate's sculpted arch. Townsfolk stare at the monument with awe and reverence as they quickly wander by. Beneath the colossal structure rests a large marble fountain. Clear, sparkling water sprays from a spout at the fountain's tip and cascades down several tiers before spilling into a shimmering blue pool. Lifelike marble statues have been placed around the city square to celebrate the famous heroes of the past.  Some white marble benches, some flowering shrubbery, a carved marble statue of a Human, a carved marble statue of a Dragon, a brightly painted wooden birdhouse, a crystal flecked granite oliphant-shaped bench, a flowing white marble fountain, and an ancient dusty cask of aged brandy are here.
+
+This area is illuminated.
+In the area are Noffbrau the Noble Hithual and Dror the Noble Thugian.
+Obvious paths: north* northeast* east* southeast* south* southwest* west* northwest*.
+>
+Akira just entered from the north.
+
+Akira just went southwest.
+l
+[Town Square Center.]
+
+A massive gate dominates the center of Town Square. Monolithic stone dragons stand to each side of the gate like sentinels keeping watch over the city of Spur. The gigantic wings of the dragons are stretched high overhead, forming the gate's sculpted arch. Townsfolk stare at the monument with awe and reverence as they quickly wander by. Beneath the colossal structure rests a large marble fountain. Clear, sparkling water sprays from a spout at the fountain's tip and cascades down several tiers before spilling into a shimmering blue pool. Lifelike marble statues have been placed around the city square to celebrate the famous heroes of the past.  Some white marble benches, some flowering shrubbery, a carved marble statue of a Human, a carved marble statue of a Dragon, a brightly painted wooden birdhouse, a crystal flecked granite oliphant-shaped bench, a flowing white marble fountain, and an ancient dusty cask of aged brandy are here.
+
+This area is illuminated.
+In the area are Noffbrau the Noble Hithual and Dror the Noble Thugian.
+Obvious paths: north* northeast* east* southeast* south* southwest* west* northwest*.
+>
+Dror says to Hroomha, "dis mak ya smellstill"
+chu
+You chuckle.
+>
+Mikore just entered from the west.
+acc offer from dr
+You accept the fragrant garlic necklace.
+>
+Mikore, Shut Up." he explained, just went northwest.
+nod to dr
+You nod to Dror.
+' m'thanks
+>
+Hroomha says, " m'thanks"
+>
+Dror says, "welcome"
+furr at gar
+You furrow your brow at the fragrant garlic necklace.
+eat gar
+>How do you intend to eat that?
+You see Hroomha trying to eat his fragrant garlic necklace.
+>
+Akira just entered from the southwest.
+
+Dror taps the enormous green fig leaf.
+pon slowly
+You ponder slowly.
+>
+Akira just went north.
+
+Aragon just entered from the north.
+
+Dainty just entered from the south.
+chu
+You chuckle.
+l
+>[Town Square Center.]
+
+A massive gate dominates the center of Town Square. Monolithic stone dragons stand to each side of the gate like sentinels keeping watch over the city of Spur. The gigantic wings of the dragons are stretched high overhead, forming the gate's sculpted arch. Townsfolk stare at the monument with awe and reverence as they quickly wander by. Beneath the colossal structure rests a large marble fountain. Clear, sparkling water sprays from a spout at the fountain's tip and cascades down several tiers before spilling into a shimmering blue pool. Lifelike marble statues have been placed around the city square to celebrate the famous heroes of the past.  Some white marble benches, some flowering shrubbery, a carved marble statue of a Human, a carved marble statue of a Dragon, a brightly painted wooden birdhouse, a crystal flecked granite oliphant-shaped bench, a flowing white marble fountain, and an ancient dusty cask of aged brandy are here.
+
+This area is illuminated.
+In the area are Noffbrau the Noble Hithual, Dror the Noble Thugian, Aragon the Human, and Dainty the Secian.
+Obvious paths: north* northeast* east* southeast* south* southwest* west* northwest*.
+>You burp.
+
+Dror hugs Dainty.
+
+grin to Aragon
+Aragon is looking at you.
+You grin to Aragon.
+furr
+>You furrow your brow.
+>
+Dainty hugs Dror.
+
+Mikore just entered from the west.
+
+A swirl of golden feathers begins to spiral around Dainty.
+l in bac
+Inside the open large pitch black leather backpack you see a dark bottle of Saldean rum, a tarnished brass signet ring, a caramel apple dumpling, a caramel apple dumpling, a caramel apple dumpling, a paper lantern, a paper lantern, a leather cudgel, a short bronze dagger, a short copper knife, a heavy brushed copper ring mail, a small silver shot glass, and some hard rations.
+>
+Dror just removed a large heart-shaped yellow topaz from within his open large leather backpack.
+
+Dror offers something to Dainty.
+
+Tiny golden wings materialize on each of Dror's feet and begin to flap softly!
+
+Dror rises 50 feet into the air!
+
+Mikore, Shut Up." he explained, just went north.
+
+Dror says, "i ken flies"
+
+Dainty smiles up at dror.
+stand heavily, old bones popping and creaking...
+You stand up heavily, old bones popping and creaking....
+tack dr
+tact
+>Too far!  You must close some distance before you can try that.
+>Standing in front of you at 1 UDs, is:
+Dror
+Standing in this rank is:
+Noffbrau, Hroomha, Aragon, Dainty
+>
+ ** You are fully rested.
+
+Dainty takes a few steps and soars 10 feet into the air!
+rem mac
+
+Mikore just entered from the north.
+You return your spiked iron mace.
+>
+Mikore, Shut Up." he explained, just went east.
+
+Dainty climbs 20 feet.
+
+Dainty climbs 20 feet.
+l
+[Town Square Center.]
+
+A massive gate dominates the center of Town Square. Monolithic stone dragons stand to each side of the gate like sentinels keeping watch over the city of Spur. The gigantic wings of the dragons are stretched high overhead, forming the gate's sculpted arch. Townsfolk stare at the monument with awe and reverence as they quickly wander by. Beneath the colossal structure rests a large marble fountain. Clear, sparkling water sprays from a spout at the fountain's tip and cascades down several tiers before spilling into a shimmering blue pool. Lifelike marble statues have been placed around the city square to celebrate the famous heroes of the past.  Some white marble benches, some flowering shrubbery, a carved marble statue of a Human, a carved marble statue of a Dragon, a brightly painted wooden birdhouse, a crystal flecked granite oliphant-shaped bench, a flowing white marble fountain, and an ancient dusty cask of aged brandy are here.
+
+This area is illuminated.
+In the area are Noffbrau the Noble Hithual, Dror the Noble Thugian (hovering 50 feet above ground), Aragon the Human, and Dainty the Secian (flying 50 feet above ground).
+Obvious paths: north* northeast* east* southeast* south* southwest* west* northwest*.
+gla up
+>You glance up.
+>
+Dror just removed some glimmering secian wings from within his open saddlebags.
+
+Dror removes his heavy gold-trimmed tierskin cloak.
+chu
+You chuckle.
+>
+Dror puts on some glimmering secian wings.
+
+Dainty accepts Dror's offer.
+
+Dror nuzzles Dainty.
+ready mau
+The two-handed steelwood maul is now your ready weapon.
+[8 sec. delay]
+>
+Dainty nuzzles Dror.
+
+You feel the effect of the alcohol wearing off a little.
+
+Rev just entered from the southwest.
+slap re on the shoulder in a friendly manner, with a huge gnarled old hand..
+You slap Rev on the shoulder in a friendly manner, with a huge gnarled old hand..
+>
+(Dror dives at rev)
+
+Rev glances up at Dror.
+
+Rev ducks.
+chu
+You chuckle.
+pon falling thugs
+>You ponder falling thugs.
+>
+Rev smiles to you.
+
+Dror waves his glimmering secian wings at Rev.
+ret 1
+You retreat 1 UDs to the rear!
+[3 sec. delay]
+info lan
+>
+Current language: Common.
+
+Known languages:
+
+  Common      Oog-ra    
+
+>
+Dror says, "groun brek fall"
+gri
+You grin.
+nod yes
+>You nod up and down.
+l
+>[Town Square Center.]
+
+A massive gate dominates the center of Town Square. Monolithic stone dragons stand to each side of the gate like sentinels keeping watch over the city of Spur. The gigantic wings of the dragons are stretched high overhead, forming the gate's sculpted arch. Townsfolk stare at the monument with awe and reverence as they quickly wander by. Beneath the colossal structure rests a large marble fountain. Clear, sparkling water sprays from a spout at the fountain's tip and cascades down several tiers before spilling into a shimmering blue pool. Lifelike marble statues have been placed around the city square to celebrate the famous heroes of the past.  Some white marble benches, some flowering shrubbery, a carved marble statue of a Human, a carved marble statue of a Dragon, a brightly painted wooden birdhouse, a crystal flecked granite oliphant-shaped bench, a flowing white marble fountain, and an ancient dusty cask of aged brandy are here.
+
+This area is illuminated.
+In the area are Noffbrau the Noble Hithual, Dror the Noble Thugian (hovering 50 feet above ground), Aragon the Human, Rev the Noble Hithual, and Dainty the Secian (flying 50 feet above ground).
+Obvious paths: north* northeast* east* southeast* south* southwest* west* northwest*.
+sk
+>
+Skill                     Remain Level
+ Blunt Weapons             621    8     
+ Berserk Attack            65     3     
+ First Aid                 302    5     
+ Shield Parry              73     1     
+ Sharp Weapons             33     1     
+ Identify Gems/Minerals    100    1     
+
+>
+Vartac yells, "hellos dear"
+
+Rev asks Hroomha, "see what the young large folk do these days ?"
+
+The tiny wings upon Dror's feet vanish in a golden shimmer!
+Dror is set down unharmed.
+
+Rev glances at Dror.
+gri to re
+You grin to Rev.
+' almos a sin
+>
+Hroomha says, " almos a sin"
+nod to rev
+>
+Tahj just entered from the north.
+You nod to Rev.
+>
+(Dror tucks his secian wings)
+
+Tahj just went southwest.
+
+Rev nods to you.
+chu hugely
+You chuckle hugely.
+>
+Dror hops at Dainty.
+l
+[Town Square Center.]
+
+A massive gate dominates the center of Town Square. Monolithic stone dragons stand to each side of the gate like sentinels keeping watch over the city of Spur. The gigantic wings of the dragons are stretched high overhead, forming the gate's sculpted arch. Townsfolk stare at the monument with awe and reverence as they quickly wander by. Beneath the colossal structure rests a large marble fountain. Clear, sparkling water sprays from a spout at the fountain's tip and cascades down several tiers before spilling into a shimmering blue pool. Lifelike marble statues have been placed around the city square to celebrate the famous heroes of the past.  Some white marble benches, some flowering shrubbery, a carved marble statue of a Human, a carved marble statue of a Dragon, a brightly painted wooden birdhouse, a crystal flecked granite oliphant-shaped bench, a flowing white marble fountain, and an ancient dusty cask of aged brandy are here.
+
+This area is illuminated.
+In the area are Noffbrau the Noble Hithual, Dror the Noble Thugian, Aragon the Human, Rev the Noble Hithual, and Dainty the Secian (flying 50 feet above ground).
+Obvious paths: north* northeast* east* southeast* south* southwest* west* northwest*.
+sit with a huge THUD!..You feel the ground beneath you tremble as 500 pounds of fat lazy Oog-ra hits the earth..
+>You sit down with a huge THUD!..You feel the ground beneath you tremble as 500 pounds of fat lazy Oog-ra hits the earth...
+>
+Dror says, "i wud flyin"
+
+Dainty smiles at Dror.
+
+Dainty exclaims, "Yeps!"
+
+Dror dances around the square excitedly.
+get dum from bac
+You remove the caramel apple dumpling from your open large pitch black leather backpack.
+off dum to da
+>You're too far away.
+stand heavily, old bones popping and creaking...
+>You stand up heavily, old bones popping and creaking....
+adv 1
+>You advance another 1 UDs!
+wav with dum at da
+>You cannot specify a target with this command.
+>
+Mikore just entered from the east.
+
+Vartac, Glistening drops dripping from his finger tips, just entered from the south.
+
+Vartac takes a few steps and soars 10 feet into the air!
+l
+[Town Square Center.]
+
+A massive gate dominates the center of Town Square. Monolithic stone dragons stand to each side of the gate like sentinels keeping watch over the city of Spur. The gigantic wings of the dragons are stretched high overhead, forming the gate's sculpted arch. Townsfolk stare at the monument with awe and reverence as they quickly wander by. Beneath the colossal structure rests a large marble fountain. Clear, sparkling water sprays from a spout at the fountain's tip and cascades down several tiers before spilling into a shimmering blue pool. Lifelike marble statues have been placed around the city square to celebrate the famous heroes of the past.  Some white marble benches, some flowering shrubbery, a carved marble statue of a Human, a carved marble statue of a Dragon, a brightly painted wooden birdhouse, a crystal flecked granite oliphant-shaped bench, a flowing white marble fountain, and an ancient dusty cask of aged brandy are here.
+
+This area is illuminated.
+In the area are Noffbrau the Noble Hithual, Dror the Noble Thugian, Mikore the Monitanian (holding a glowing lantern), Vartac the Secian (flying 10 feet above ground), Aragon the Human, Rev the Noble Hithual, and Dainty the Secian (flying 50 feet above ground).
+Obvious paths: north* northeast* east* southeast* south* southwest* west* northwest*.
+>
+Dror dances the pee-pee dance.
+
+Tahj just entered from the southwest.
+
+Tahj just went north.
+
+ ** You are fully rested.
+chu
+You chuckle.
+>
+Vartac climbs 15 feet.
+
+Vartac climbs 15 feet.
+
+Vartac climbs 10 feet.
+sk
+
+Skill                     Remain Level
+ Blunt Weapons             621    8     
+ Berserk Attack            65     3     
+ First Aid                 302    5     
+ Shield Parry              73     1     
+ Sharp Weapons             33     1     
+ Identify Gems/Minerals    100    1     
+
+>
+Dainty hugs Vartac.
+
+Vartac nuzzles Dainty.
+
+Vartac hugs Dainty.
+
+Dror says, "scuse me fo minut"
+
+Dainty exclaims to Vartac, "Hiyas love!"
+
+Mikore, Shut Up." he explained, just went south.
+
+Dror, Ping!!!!, just went northeast.
+
+Vartac says to Dainty, "hellos dear"
+
+Dror, Time for a Thug Hug!, just entered from the northeast.
+
+Mikore just entered from the south.
+l in ru
+Inside the open large frayed pitch black burlap rucksack you see a paper lantern, a wooden shield, and a paper lantern.
+l in 2 ru
+>There is nothing inside that.
+>
+Mikore, Shut Up." he explained, just went southwest.
+
+Mikore just entered from the southwest.
+
+(Dror straightens his leaf)
+
+Vartac rolls his eyes at Dror.
+grit with fine in between them
+You grit your teeth with the spent fine rolled cigar in between them.
+l
+>[Town Square Center.]
+
+A massive gate dominates the center of Town Square. Monolithic stone dragons stand to each side of the gate like sentinels keeping watch over the city of Spur. The gigantic wings of the dragons are stretched high overhead, forming the gate's sculpted arch. Townsfolk stare at the monument with awe and reverence as they quickly wander by. Beneath the colossal structure rests a large marble fountain. Clear, sparkling water sprays from a spout at the fountain's tip and cascades down several tiers before spilling into a shimmering blue pool. Lifelike marble statues have been placed around the city square to celebrate the famous heroes of the past.  Some white marble benches, some flowering shrubbery, a carved marble statue of a Human, a carved marble statue of a Dragon, a brightly painted wooden birdhouse, a crystal flecked granite oliphant-shaped bench, a flowing white marble fountain, and an ancient dusty cask of aged brandy are here.
+
+This area is illuminated.
+In the area are Noffbrau the Noble Hithual, Dror the Noble Thugian, Mikore the Monitanian (holding a glowing lantern), Vartac the Secian (flying 50 feet above ground), Aragon the Human, Rev the Noble Hithual, and Dainty the Secian (flying 50 feet above ground).
+Obvious paths: north* northeast* east* southeast* south* southwest* west* northwest*.
+>
+Dainty says to Vartac, "You missed it love had a flying thug here"
+
+Rev says, "be right back"
+
+Vartac waves to you.
+
+Rev just went southeast.
+
+Rev just entered from the south.
+gri to v
+You grin to Vartac.
+>
+Dror waves his glimmering secian wings at Vartac.
+
+Rev says, "Hroomha good to see you old friend"
+' you too
+
+Hroomha says, " you too"
+>
+Vartac says to Hroomha, "haven't seen ye in a long time"
+sal to re
+You salute to Rev.
+>
+Rev smiles.
+
+Mikore extinguishes his glowing lantern.
+gri to v
+You grin to Vartac.
+' sleep alot
+>
+Hroomha says, " sleep alot"
+>
+Rev salutes to you.
+
+Mikore, Shut Up." he explained, just went northeast.
+chu
+You chuckle.
+>
+Rev nods.
+
+Rev says, "lots of bones to rest there "
+
+Rev winks.
+
+Rev just went south.
+chu
+You chuckle.
+l
+>[Town Square Center.]
+
+A massive gate dominates the center of Town Square. Monolithic stone dragons stand to each side of the gate like sentinels keeping watch over the city of Spur. The gigantic wings of the dragons are stretched high overhead, forming the gate's sculpted arch. Townsfolk stare at the monument with awe and reverence as they quickly wander by. Beneath the colossal structure rests a large marble fountain. Clear, sparkling water sprays from a spout at the fountain's tip and cascades down several tiers before spilling into a shimmering blue pool. Lifelike marble statues have been placed around the city square to celebrate the famous heroes of the past.  Some white marble benches, some flowering shrubbery, a carved marble statue of a Human, a carved marble statue of a Dragon, a brightly painted wooden birdhouse, a crystal flecked granite oliphant-shaped bench, a flowing white marble fountain, and an ancient dusty cask of aged brandy are here.
+
+This area is illuminated.
+In the area are Noffbrau the Noble Hithual, Dror the Noble Thugian, Vartac the Secian (flying 50 feet above ground), Aragon the Human, and Dainty the Secian (flying 50 feet above ground).
+Obvious paths: north* northeast* east* southeast* south* southwest* west* northwest*.
+>
+Vartac chuckles softly.
+
+Mikore just entered from the north.
+
+Dror offers you a bloody mercenary leg.
+
+
+You hear faint growling from the shadows.
+sear room
+You search the area thoroughly.
+
+You find nothing of interest.
+[15 sec. delay]
+>
+Dainty closes her eyes and concentrates.
+snap
+You snap your fingers.
+gri to dr
+>You grin to Dror.
+>
+Vartac says to Dainty, "so what ya doin way up here"
+
+Vartac asks, "?""
+
+A light burst of air sweeps out from Dainty and reflects back from solid objects!
+
+Dainty opens her eyes as the air calms.
+acc offer from dr
+
+Dror says, "possa eat afore hidin"
+
+Mikore searches the area.
+del
+You have 1 second(s) remaining!
+You accept the bloody mercenary leg.
+rem mau
+>
+Dror searches the area.
+You return your two-handed steelwood maul.
+ready mer
+>Just how do you intend to use that?
+>
+Vartac nods.
+hol mer ..like a weapon
+You hold the bloody mercenary leg close..like a weapon.
+sear room
+>You search the area thoroughly.
+
+You find nothing of interest.
+[15 sec. delay]
+>
+Dainty says to Vartac, "I was flying next to the thugian"
+chu
+You chuckle.
+>
+Mikore, Shut Up." he explained, just went northwest.
+
+Vartac chuckles.
+
+Dror nods.
+l
+[Town Square Center.]
+
+A massive gate dominates the center of Town Square. Monolithic stone dragons stand to each side of the gate like sentinels keeping watch over the city of Spur. The gigantic wings of the dragons are stretched high overhead, forming the gate's sculpted arch. Townsfolk stare at the monument with awe and reverence as they quickly wander by. Beneath the colossal structure rests a large marble fountain. Clear, sparkling water sprays from a spout at the fountain's tip and cascades down several tiers before spilling into a shimmering blue pool. Lifelike marble statues have been placed around the city square to celebrate the famous heroes of the past.  Some white marble benches, some flowering shrubbery, a carved marble statue of a Human, a carved marble statue of a Dragon, a brightly painted wooden birdhouse, a crystal flecked granite oliphant-shaped bench, a flowing white marble fountain, and an ancient dusty cask of aged brandy are here.
+
+This area is illuminated.
+In the area are Noffbrau the Noble Hithual, Dror the Noble Thugian, Vartac the Secian (flying 50 feet above ground), Aragon the Human, and Dainty the Secian (flying 50 feet above ground).
+Obvious paths: north* northeast* east* southeast* south* southwest* west* northwest*.
+>
+Dror says, "her no let me fald"
+sear room
+You search the area thoroughly.
+
+  You notice Kalath hiding in the shadows!
+[15 sec. delay]
+chu
+>You chuckle.
+>
+Vartac chuckles.
+ready mau
+The two-handed steelwood maul is now your ready weapon.
+[8 sec. delay]
+>
+Dror searches the area.
+wh to dr Kalath?
+You whisper to Dror.
+>
+Dainty closes her eyes and concentrates.
+
+Vartac says to Dror, "my spells are erratic, better let her do it anyway. She's the air mage"
+
+Noffbrau just went southwest.
+
+A light burst of air sweeps out from Dainty and reflects back from solid objects!
+
+Dainty opens her eyes as the air calms.
+
+Vartac holds Dainty close.
+
+Dainty says, "I see someone"
+
+Dainty holds Vartac close.
+
+Dror says to Vartac, "me can fly to saladtown"
+
+Vartac laughs.
+chu
+You chuckle.
+>
+Vartac says to Dror, "now that would be a first"
+
+Vartac mumbles something about getting lost in the clouds.
+
+Dainty snuggles with Vartac.
+l
+[Town Square Center.]
+
+A massive gate dominates the center of Town Square. Monolithic stone dragons stand to each side of the gate like sentinels keeping watch over the city of Spur. The gigantic wings of the dragons are stretched high overhead, forming the gate's sculpted arch. Townsfolk stare at the monument with awe and reverence as they quickly wander by. Beneath the colossal structure rests a large marble fountain. Clear, sparkling water sprays from a spout at the fountain's tip and cascades down several tiers before spilling into a shimmering blue pool. Lifelike marble statues have been placed around the city square to celebrate the famous heroes of the past.  Some white marble benches, some flowering shrubbery, a carved marble statue of a Human, a carved marble statue of a Dragon, a brightly painted wooden birdhouse, a crystal flecked granite oliphant-shaped bench, a flowing white marble fountain, and an ancient dusty cask of aged brandy are here.
+
+This area is illuminated.
+In the area are Dror the Noble Thugian, Vartac the Secian (flying 50 feet above ground), Aragon the Human, and Dainty the Secian (flying 50 feet above ground).
+Obvious paths: north* northeast* east* southeast* south* southwest* west* northwest*.
+>
+Dror says, "let me tink bout saladtown"
+
+Vartac cuddles with Dainty.
+
+A swirl of golden feathers begins to spiral around Dainty.
+
+Vartac chuckles.
+
+Tiny golden wings materialize on each of Dror's feet and begin to flap softly!
+
+Dror rises 50 feet into the air!
+
+Vartac says to Dainty, "wow"
+
+Dror exclaims, "weee!"
+
+Dainty smiles.
+gla at dr
+You glance at Dror.
+gla at mau
+>You glance at the two-handed steelwood maul.
+>
+Dainty exclaims, "See!"
+furr
+You furrow your brow.
+>
+Vartac says to Dainty, "mine only gets me 15 feet up"
+
+Dror waves his glimmering secian wings.
+chu
+You chuckle.
+>
+Dror says, "act starts trying to flap hard"
+
+Dror babbles.
+
+Vartac laughs.
+chu
+You chuckle.
+>
+Vartac tickles Dror.
+
+Vartac fans his wings slowly, casting a bronze and green opalescence about the area.
+
+Kenshin just entered from the north.
+
+Kenshin just went southeast.
+l
+[Town Square Center.]
+
+A massive gate dominates the center of Town Square. Monolithic stone dragons stand to each side of the gate like sentinels keeping watch over the city of Spur. The gigantic wings of the dragons are stretched high overhead, forming the gate's sculpted arch. Townsfolk stare at the monument with awe and reverence as they quickly wander by. Beneath the colossal structure rests a large marble fountain. Clear, sparkling water sprays from a spout at the fountain's tip and cascades down several tiers before spilling into a shimmering blue pool. Lifelike marble statues have been placed around the city square to celebrate the famous heroes of the past.  Some white marble benches, some flowering shrubbery, a carved marble statue of a Human, a carved marble statue of a Dragon, a brightly painted wooden birdhouse, a crystal flecked granite oliphant-shaped bench, a flowing white marble fountain, and an ancient dusty cask of aged brandy are here.
+
+This area is illuminated.
+In the area are Dror the Noble Thugian (hovering 50 feet above ground), Vartac the Secian (flying 50 feet above ground), and Dainty the Secian (flying 50 feet above ground).
+Obvious paths: north* northeast* east* southeast* south* southwest* west* northwest*.
+>
+Kenshin just entered from the southeast.
+
+Kenshin just went north.
+diag all
+
+  You examine Dror the Thugian...
+He appears to be in perfect health.
+  You examine Vartac the Secian...
+He appears to be in perfect health.
+  You examine Dainty the Secian...
+She has no apparent injuries, but looks tired.
+
+>
+Dainty asks Hroomha, "Want to fly?"
+bla
+You blanch.
+nod no
+>You shake your head from side to side.
+>
+Vartac nods to Dror.
+
+Vartac grins at you.
+' ' thankee no
+
+Hroomha says, " ' thankee no"
+grim
+>You grimace.
+>
+Vartac says to Hroomha, "it's a once in a life time thing"
+sit with a huge THUD!..You feel the ground beneath you tremble as 500 pounds of fat lazy Oog-ra hits the earth..
+You sit down with a huge THUD!..You feel the ground beneath you tremble as 500 pounds of fat lazy Oog-ra hits the earth...
+hol fou for dear life
+>You hold the flowing white marble fountain close for dear life.
+nod no
+>You shake your head from side to side.
+>
+Dror descends 20 feet.
+grit with fine in between them
+You grit your teeth with the spent fine rolled cigar in between them.
+chu
+>You chuckle.
+>
+Dainty says to Vartac, "I flew Tzunoch"
+
+The tiny wings upon Dror's feet vanish in a golden shimmer!
+Dror is set down unharmed.
+
+Vartac laughs.
+l
+[Town Square Center.]
+
+A massive gate dominates the center of Town Square. Monolithic stone dragons stand to each side of the gate like sentinels keeping watch over the city of Spur. The gigantic wings of the dragons are stretched high overhead, forming the gate's sculpted arch. Townsfolk stare at the monument with awe and reverence as they quickly wander by. Beneath the colossal structure rests a large marble fountain. Clear, sparkling water sprays from a spout at the fountain's tip and cascades down several tiers before spilling into a shimmering blue pool. Lifelike marble statues have been placed around the city square to celebrate the famous heroes of the past.  Some white marble benches, some flowering shrubbery, a carved marble statue of a Human, a carved marble statue of a Dragon, a brightly painted wooden birdhouse, a crystal flecked granite oliphant-shaped bench, a flowing white marble fountain, and an ancient dusty cask of aged brandy are here.
+
+This area is illuminated.
+In the area are Dror the Noble Thugian, Vartac the Secian (flying 50 feet above ground), and Dainty the Secian (flying 50 feet above ground).
+Obvious paths: north* northeast* east* southeast* south* southwest* west* northwest*.
+>
+Dainty says, "And the Aragon, Muraski, Noff, Anyah"
+
+Vartac says to Dainty, "i don't think Zydri has been 50 feet up yet"
+l at hr
+You find something suitably reflective and gaze into it...
+
+You look like a 8'0" standard adolescent delicate boned, stocky bodied Oog-ra.
+You are seated.
+You have very long, tied back, kinky chestnut brown fur, with large reddish brown eyes, and look disheveled.
+You appear to be livid right now.
+You can be attacked by other players.
+You appear to be in perfect health.
+There is a shining gold emblem affixed to your clothing.
+
+Physical appearance:
+
+You see a large hairy oog-ra standing before you, with old scars covering most of his body
+
+                        Visible Equipment
+A two-handed steelwood maul                        (right hand)
+A light burnished brass armor                      (armor)
+A bone pitch black bearskin berserker's cloak      (over armor)
+Some blood-stained pitch black leather breeches    (pants)
+
+You have been bestowed the following title(s):
+  Noble of the Realm
+
+l in clo
+>I don't see what you are referring to.
+l in ber
+>Inside the bone pitch black bearskin berserker's cloak you see an open small leather sack, an open small leather sack, an open small leather sack, a golden needle, a leather cudgel, and a short black talon.
+>
+Condie, holding her spear in a death grip, just entered from the south.
+l in bac
+Inside the open large pitch black leather backpack you see a dark bottle of Saldean rum, a tarnished brass signet ring, a caramel apple dumpling, a caramel apple dumpling, a paper lantern, a paper lantern, a leather cudgel, a short bronze dagger, a short copper knife, a heavy brushed copper ring mail, a small silver shot glass, and some hard rations.
+>
+Vartac says to Dainty, "catch him while he is already flying"
+
+Condie squints.
+inv
+Items carried:
+  An open large pitch black leather backpack [39.1 lbs].
+  A damaged short wooden club [0.1 lbs].
+  A two-handed steelwood maul [14.0 lbs].
+  A paper lantern [0.1 lbs].
+  A bone pitch black bearskin berserker's cloak [6.3 lbs].
+  A wooden sword [0.2 lbs].
+  A gold-trimmed bullseye lantern [2.5 lbs].
+  A large waterskin [8.0 lbs].
+  A pale blue glass bottle [0.1 lbs].
+  A spent fine rolled cigar [0.1 lbs].
+  A fragrant garlic necklace [0.1 lbs].
+  A light burnished brass armor [28.0 lbs].
+  A spiked iron mace [2.0 lbs].
+  A steel shaving blade [0.1 lbs].
+  An open large frayed pitch black burlap rucksack [2.8 lbs].
+  A caramel apple dumpling [0.1 lbs].
+  An open large frayed burlap rucksack [2.1 lbs].
+  A bloody mercenary leg [2.0 lbs].
+  Some blood-stained pitch black leather breeches [0.1 lbs].
+  An open pitch black leather healer's bag [2.2 lbs].
+
+You have 0 silver pieces and 1 gold piece.
+
+This gives you a total net worth of 100 silver.
+
+Your inventory totals 110.0 lbs.
+put shav in ber
+>You place the steel shaving blade within your bone pitch black bearskin berserker's cloak.
+>
+Vartac snickers.
+
+Condie squeals at Vartac.
+
+Dainty says, "Not sure it will work"
+
+Vartac waves his hands over the ground and murmurs a chant.
+
+Vartac says, "mine does"
+
+A magick carpet forms underneath Vartac and lifts him into the air!
+
+Vartac gains 15 feet in elevation!
+
+Condie is now following Vartac.
+l
+[Town Square Center.]
+
+A massive gate dominates the center of Town Square. Monolithic stone dragons stand to each side of the gate like sentinels keeping watch over the city of Spur. The gigantic wings of the dragons are stretched high overhead, forming the gate's sculpted arch. Townsfolk stare at the monument with awe and reverence as they quickly wander by. Beneath the colossal structure rests a large marble fountain. Clear, sparkling water sprays from a spout at the fountain's tip and cascades down several tiers before spilling into a shimmering blue pool. Lifelike marble statues have been placed around the city square to celebrate the famous heroes of the past.  Some white marble benches, some flowering shrubbery, a carved marble statue of a Human, a carved marble statue of a Dragon, a brightly painted wooden birdhouse, a crystal flecked granite oliphant-shaped bench, a flowing white marble fountain, and an ancient dusty cask of aged brandy are here.
+
+This area is illuminated.
+In the area are Dror the Noble Thugian, Condie the Go-blin-al, Vartac the Secian (hovering 65 feet above ground), and Dainty the Secian (flying 50 feet above ground).
+Obvious paths: north* northeast* east* southeast* south* southwest* west* northwest*.
+>
+Condie scowls.
+
+Vartac chuckles at Condie.
+
+A swirl of golden feathers begins to spiral around Dainty.
+
+The runespell loses integrity and dissipates!
+
+Condie has left Vartac's group.
+
+Condie, running passed you, just went southeast.
+
+Vartac circles around and does some aerial acrobatics!
+l
+[Town Square Center.]
+
+A massive gate dominates the center of Town Square. Monolithic stone dragons stand to each side of the gate like sentinels keeping watch over the city of Spur. The gigantic wings of the dragons are stretched high overhead, forming the gate's sculpted arch. Townsfolk stare at the monument with awe and reverence as they quickly wander by. Beneath the colossal structure rests a large marble fountain. Clear, sparkling water sprays from a spout at the fountain's tip and cascades down several tiers before spilling into a shimmering blue pool. Lifelike marble statues have been placed around the city square to celebrate the famous heroes of the past.  Some white marble benches, some flowering shrubbery, a carved marble statue of a Human, a carved marble statue of a Dragon, a brightly painted wooden birdhouse, a crystal flecked granite oliphant-shaped bench, a flowing white marble fountain, and an ancient dusty cask of aged brandy are here.
+
+This area is illuminated.
+In the area are Dror the Noble Thugian, Vartac the Secian (hovering 65 feet above ground), and Dainty the Secian (flying 50 feet above ground).
+Obvious paths: north* northeast* east* southeast* south* southwest* west* northwest*.
+stand heavily, old bones popping and creaking...
+>You stand up heavily, old bones popping and creaking....
+>
+Chayla just entered from the south.
+
+Vartac says to Dainty, "watch what happens when it wears off tho"
+stret 8 hairy feet of fat, lazy Oog-ra
+You stretch 8 hairy feet of fat, lazy Oog-ra.
+' off to sleep...all be safe
+>
+Hroomha says, " off to sleep...all be safe"
+>
+Vartac glances down.
+sal
+You salute.
+>
+ ** You are fully rested.
+
+Vartac salutes.
+
+Dainty says to Vartac, "Well love I am going to rest now"
+chu
+You chuckle.
+slap dr on the shoulder in a friendly manner, with a huge gnarled old hand..
+>You slap Dror on the shoulder in a friendly manner, with a huge gnarled old hand..
+>
+The carpet underneath Vartac unravels and disappears.
+Vartac flies down and lands!
+' see ya barb
+
+Hroomha says, " see ya barb"
+>
+Vartac sighs at Dainty.
+grit with fine in between them
+You grit your teeth with the spent fine rolled cigar in between them.
+>
+Vartac asks Dainty, "see?"
+
+Laylana just entered from the south.
+
+Dainty flies down and lands.
+
+Vartac says to Dainty, "it made me land"
+se
+[Town Square.]
+
+The elegant Hotel Royale towers above the street, its emerald door sparkling in the light. The patrons that stroll in and out are catered to, doors opened and closed for them, and baggage and packages carried by harried servants. The large Bank of Spur sits on the east side of the square. Its location close to the Royale is not a coincidence. A gold-trimmed door is proof of the success of this branch of the Spurian bank and those who run it.  An elegant gold-trimmed walnut door, open emerald steel door, and a street lantern are here.
+
+This area is illuminated.
+Obvious paths: north* southeast* west* northwest*.
+go 2 doo
+>[The Royale.]
+
+A short entrance hall provides passage in and out of the exquisite Hotel Royale. A burly Thugian and a tall Monitanian carefully assess everyone as they enter. They prevent any pets from entering and keep out all but the quickest or sneakiest of the riffraff. A narrow passageway leads to the stables.  An open emerald steel door is here.
+
+This room is illuminated.
+Obvious exits: south*.
+quit
+>
+    Dragon's Gate Menu
+
+ 1. Explore Dragon's Gate.
+ 2. Create, Delete, or View a character.
+ 3. Select current character.
+ 4. Display notices and version notes.
+16. Disconnect.
+
+Your active character is: Hroomha Treefoot
+
+Your selection? 
+16
+
+ ** Goodbye from Mythic Entertainment! **

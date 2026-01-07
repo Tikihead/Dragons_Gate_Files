@@ -1,0 +1,2761 @@
+' Hothgri
+
+Hroomha says, " Hothgri"
+gla at bri
+>You glance at the bridge.
+l
+>[Mountain Ledge]
+
+A deep crevice separates the mountain trail from a fort to the northwest. A simple, but sturdy wooden bridge provides the only means of crossing the chasm to the fortress gates. The walls of the fort are dull, unadorned and made of the same rock as the mountain. You see smoke rising from behind the walls, promising inviting firesides, warmth, and shelter.  A bridge is here.
+
+This area is illuminated.
+Obvious paths: southeast*.
+grit with fine in between them
+>You grit your teeth with the spent fine rolled cigar in between them.
+se
+>[Mountain Ledge]
+
+A short path leads east from the trail, down the shallow slope to a shack among the pine trees. Newly cut timber stands in a tall stack in front of the shack. From further down the slope, out of sight, you can hear the rhythmic thump of a woodsman's axe.
+
+This area is illuminated.
+Obvious paths: south* northwest*.
+s
+s
+>[Mountain Ledge]
+
+Sparse pine trees dot the mountain side. About twenty feet up the sharply rising slope to the west, a dolmen has been set on a ledge. The two stones bearing the main slab have been carved with the runes for earth and metal.
+
+This area is illuminated.
+Obvious paths: north* south*.
+[Mountain Ledge]
+
+The trail passes through a circle of pine trees. In the center of the trees a large stone slab has been set atop two smaller stones. The dolmen formed by the stones dominates the clearing with a regal air. You can make out some writing carved into the edge of the ancient slab.  A faded carving is here.
+
+This area is illuminated.
+Obvious paths: north* southwest*.
+sw
+>[Mountain Ledge]
+
+The trail meanders through tall majestic pine trees. You hear a sudden flutter of wings, and a pile of snow is dislodged from a branch to fall across the path. After the sudden flurry, the trail falls silent and still once again.
+
+This area is illuminated.
+Obvious paths: northeast* south*.
+s
+>[Mountain Ledge]
+
+The mountain face slopes gently up to the west and down to the east. Five feet below the trail, a large stone slab has been placed on two smaller stones. You can make out something carved along the edge of the dolmen's snow covered slab.  A faded carving is here.
+
+This area is illuminated.
+Obvious paths: north* southwest*.
+sw
+>[Mountain Ledge]
+
+The mountain rises up to the north of the trail. Just south of the trail is an old watchtower. It has been gutted by fire, and its blackened shell contrasts sharply with the snow surrounding it and swirling within its empty frame.
+
+This area is illuminated.
+Obvious paths: northeast* west*.
+w
+>[Mountain Ledge]
+
+You are on a long shelf that extends from the mountain to the east. The shelf is about ten feet wide and ends in a sheer drop on both the north and south sides. The wind howls fiercely over this exposed bluff, threatening to whip you off and into the chasm below.
+
+This area is illuminated.
+Obvious paths: east* west*.
+w
+>[Mountain Ledge]
+
+You are on the end of a long shelf that extends from the mountain to the east. Except for a path to the east, the shelf drops into a deep chasm below. Two posts set in the shelf floor support a wood and rope footbridge that spans the chasm to the southwest.
+
+This area is illuminated.
+Obvious paths: east* southwest*.
+sw
+sw
+>[Mountain Ledge]
+
+You are crossing an old rope footbridge over a deep chasm. Although the extreme cold has slowed decay on the aged structure, several wooden slats are missing and in places the rope railing has separated from the rope and wood slat walkway.
+
+This area is illuminated.
+Obvious paths: northeast* southwest*.
+[Mountain Ledge]
+
+The ledge widens and ends in a broad snow covered shelf overlooking a deep chasm. On the shelf numerous rocks have been piled together to form a cairn. Two posts have been set into the rocky shelf and support a rope and wood slat footbridge extending off to the northeast over the chasm.
+
+This area is illuminated.
+Obvious paths: northeast* west*.
+w
+>[Mountain Ledge]
+
+The ledge is enclosed by a low old wall. Carved into the cliff face are several alcoves. Within each alcove an iron torch holder has been set in the wall and a low bench has been carved from the rock.
+
+This area is illuminated.
+Obvious paths: east* southwest*.
+sw
+w
+>[Mountain Ledge]
+
+The ledge is enclosed by a two foot high wall. Although crumbling from age it still offers some feeling of security to anyone no taller than a Hithual. To those taller, however, it only would serve to trip the feet rather than prevent a fall.
+
+This area is illuminated.
+Obvious paths: northeast* west*.
+[Mountain Ledge]
+
+You are on one side of a large vertical groove in the cliff face. The ledge corners, going north into the relative shelter of the chimney, and east along the exposed cliff face.
+
+This area is illuminated.
+Obvious paths: north* east*.
+n
+>[Mountain Ledge]
+
+The ledge continues around the chimney in the cliff face. There are wall carvings along the path. One depicts a group raising mugs and steins to each other. Another depicts a group falling off a precipice.
+
+This area is illuminated.
+Obvious paths: south* northwest*.
+nw
+w
+>[Mountain Ledge]
+
+The ledge continues around the chimney in the cliff face. Someone has carved a picture into the rock wall. The picture depicts a group of Hithuals bearing pickaxes, hammers, and shovels, kneeling to another Hithual, who holds his hand out over them as if saying a blessing.  A path through the trees is here.
+
+This area is illuminated.
+Obvious paths: southeast* west*.
+sw
+>[Mountain Ledge]
+
+The ledge continues around the chimney in the cliff face. Someone has carved pictures into the rock wall. One depicts an eagle in flight, another depicts two groups of men fighting. One group wields large hammers, while the other group wields large swords.
+
+This area is illuminated.
+Obvious paths: east* southwest*.
+s
+[Mountain Ledge]
+
+The ledge continues around the chimney in the cliff face. Every sound you make echoes up and down the long vertical groove. An etching carved into the rock wall depicts three figures. One is circled by runes, another wields a hammer, and the third wields a sword. They are surrounded by monstrous humanoid creatures.
+
+This area is illuminated.
+You see the 1st abominable yeti.
+Obvious paths: northeast* south*.
+[Mountain Ledge]
+
+You are overlooking a large vertical groove in the cliff face which forms a chimney descending into the mist below. To the east you can see the opposite side of the chimney, while the ledge skirts around it to the north.
+
+This area is illuminated.
+Obvious paths: north* southwest*.
+ne
+>You cannot move in that direction.
+l at y
+>I don't see what you are referring to.
+l n
+>[Mountain Ledge]
+
+The ledge continues around the chimney in the cliff face. Every sound you make echoes up and down the long vertical groove. An etching carved into the rock wall depicts three figures. One is circled by runes, another wields a hammer, and the third wields a sword. They are surrounded by monstrous humanoid creatures.
+
+This area is illuminated.
+You see the 1st abominable yeti.
+Obvious paths: northeast* south*.
+n
+>[Mountain Ledge]
+
+The ledge continues around the chimney in the cliff face. Every sound you make echoes up and down the long vertical groove. An etching carved into the rock wall depicts three figures. One is circled by runes, another wields a hammer, and the third wields a sword. They are surrounded by monstrous humanoid creatures.
+
+This area is illuminated.
+You see the 1st abominable yeti.
+Obvious paths: northeast* south*.
+l at y
+>He looks like a large abominable yeti.
+
+He looks like a humanoid covered with long, matted, dingy, white fur.
+He has a head, 2 arms, 2 legs.
+
+He appears to be in good shape.
+He will be hard for you to hit and it will be not too hard for him to hit you!
+
+He is also carrying the following item:
+
+  A gold coin
+  Some silver coins
+  A leather whip
+s
+>
+k yeti
+The abominable yeti advances towards Hroomha.
+
+An abominable yeti enters, following Hroomha.
+[Mountain Ledge]
+
+You are overlooking a large vertical groove in the cliff face which forms a chimney descending into the mist below. To the east you can see the opposite side of the chimney, while the ledge skirts around it to the north.
+
+This area is illuminated.
+You see the 1st abominable yeti.
+Obvious paths: north* southwest*.
+
+You swing your ebony handled silver war hammer at the abominable yeti!
+[3 sec. delay]
+The swing barely misses.
+>
+The abominable yeti claws at you!
+The attack is a well-delivered blow to the right leg.
+  Your damaged heavy black and gold iron platemail absorbs about half of the damage!
+h
+    Your right leg takes 6 points of slash damage!
+You have a tiny slash across your right leg, and look weakened and tired.
+
+HP: 247/253  Ftg:  88/ 89
+k y
+>
+You swing your ebony handled silver war hammer at the abominable yeti!
+[3 sec. delay]
+The swing nearly fumbles.
+sw
+sw
+>
+An abominable yeti enters, following Hroomha.
+[Mountain Ledge]
+
+The trail continues to climb gradually to the northeast. Light glinting off of ice attracts your eye to an ice sculpture that someone has set on a ledge about thirty feet above you. The sculpture depicts a Hithual holding a large stein and pointing northeast.
+
+This area is illuminated.
+You see the 1st abominable yeti.
+Obvious paths: northeast* southwest*.
+
+An abominable yeti enters, following Hroomha.
+[Mountain Ledge]
+
+You hear a chorus of tiny peeps coming from the slope above you. Moments later a majestic eagle soars into view and gracefully lands in her nest, her beak full of food for her eaglets.
+
+This area is illuminated.
+You see the 1st abominable yeti.
+Obvious paths: northeast* south*.
+s
+>[Mountain Ledge]
+
+A large pine tree grows just below the trail, dwarfing all the other pines that dot the slope. At its base are numerous small stone talismans and statuettes, many bearing the runic symbols for earth and metal.
+
+This area is illuminated.
+Obvious paths: north* southwest*.
+sw
+sw
+>[Mountain Ledge]
+
+Next to the path, an old shack perches precariously on wooden stilts, overhanging the steep drop to the valley below. Although well built, time has taken its toll, and the entire structure seems like it may topple at the next strong wind. A sign over the door bears the picture of an eagle with a mug in its talons.
+
+This area is illuminated.
+Obvious paths: northeast* south*.
+
+ ** You are fully rested.
+s
+You cannot move in that direction.
+>[Mountain Ledge]
+
+From a stand of fir trees on the steep slope below, a white rabbit watches you. Were it not for a twitch of its pink ears you would have missed it, for its white fur renders it nearly invisible in the deep snow.
+
+This area is illuminated.
+Obvious paths: north* southeast*.
+sw
+>You cannot move in that direction.
+se
+>[Mountain Ledge]
+
+The cliff wall rises up sharply to the south and southwest. Along the trail the wall has been excavated to widen the ledge, the overhang also providing a little bit of shelter. Icicles depend from the overhang, refracting light and strewing the path with rainbows.
+
+This area is illuminated.
+Obvious paths: east* northwest*.
+e
+se
+>[Mountain Ledge]
+
+In the mountain stillness, you can hear the slope above you groan under the weight of tons of snow. A sudden noise echoes and is answered by a creaking as the snow shifts. Fortunately, the threatening avalanche never comes.
+
+This area is illuminated.
+Obvious paths: southeast* west*.
+s
+>[Mountain Ledge]
+
+The grade to the east slopes down at a sharp angle. A set of footprints, made by a large cat, cross the path and continue down the slope out of sight. A few small fir trees dot the slope.
+
+This area is illuminated.
+You see the 1st ice lizard.
+Obvious paths: south* northwest*.
+>[Mountain Ledge]
+
+This part of the ledge is covered with ice. Although it is rough enough to provide some footing, it is still precarious. The mist shrouded valley below gives no clue as to how far you would fall, but there is no doubt it would be too far.
+
+This area is illuminated.
+Obvious paths: north* southeast*.
+se
+>[Mountain Ledge]
+
+The trail winds along a ledge on a snow covered mountain top. The landscape below is hidden behind white banks of mist. The cold, piercing wind bites at any exposed flesh.
+
+This area is illuminated.
+Obvious paths: east* northwest*.
+e
+>[Mountain Ledge]
+
+The frigid wind blows snow over and into a deep shaft in the ground. The statue of a Hithual stands guard over it, one hand holding a pickaxe, the other held out as if in benediction. A heavy steelwood frame has been built over the shaft. A rusted chain hangs from a pulley on the frame and descends down the center of the shaft.  A shaft is here.
+
+This area is illuminated.
+Obvious paths: west*.
+go sha
+>[Ancient Mountain Mine]
+
+A cold refreshing draught of air blows from above, and a square of white snow lies below a shaft leading straight up. A rusted chain hangs down the center of the shaft, and scattered around the floor are the broken remains of wooden buckets and wagons.  A shaft is here.
+
+This area is illuminated.
+Obvious paths: southeast.
+se
+s
+>[Ancient Mountain Mine]
+
+A section of the tunnel has collapsed leaving a large pile of rubble blocking most of the passageway. The softer rock in this tunnel has settled over the ages and caused the support beams to sag under its weight. Even Hithuals must walk at a crouch, and anyone taller must crawl.
+
+This area is illuminated.
+Obvious paths: south northwest*.
+sw
+>[Ancient Mountain Mine]
+
+The tunnel opens out onto a ledge that skirts a large five foot deep depression. A series of steps cut into the rock lead down into the depression and the walls within it bear several large cracks and crevices.
+
+This area is illuminated.
+Obvious paths: north* southwest.
+s
+[Ancient Mountain Mine]
+
+The broken remains of a large wooden wagon lie beneath a hole in the ceiling. Nearby lies a smashed copper lantern, damaged beyond repair.
+
+This area is illuminated.
+Obvious paths: northeast* south.
+s
+[Ancient Mountain Mine]
+
+The ceiling of the tunnel arches higher in this section of the tunnel than in the rest of the mine allowing those over five feet tall to finally stand up straight. A side tunnel slants up and to the west, and a pile of rubble has collected at its base.
+
+This area is illuminated.
+Obvious paths: north* south west.
+[Ancient Mountain Mine]
+
+A cracked iron bell lies near a crumbling frame of rotten wood, and the broken remains of a small table. A portion of the wall has been carefully crafted to a smooth surface, and may at one time have been a notice board, for it still bears faint smudges of chalk.
+
+This area is illuminated.
+Obvious paths: north* east.
+e
+>[Ancient Mountain Mine]
+
+The tunnel widens into a large chamber, at what was once a rich ore deposit. Several small alcoves lead off of the central area. The floor slopes gently down to a narrow path that runs down the center of the chamber.
+
+This area is illuminated.
+Obvious paths: south west*.
+s
+>[Ancient Mountain Mine]
+
+At one time the nearby trough provided much needed refreshment to the miners. It has long since rotted and fallen apart, and now its boards are as dry as your tongue.  A trough is here.
+
+This area is illuminated.
+Obvious paths: north* southeast southwest.
+>
+ ** Current hit points: 247 out of 253
+sw
+[Ancient Mountain Mine]
+
+The air is heavy, oppressive, and seems to be as old as the mine itself. You here a faint clatter of rock echoing through the tunnel, but cannot tell how far away, or from which direction it came.
+
+This area is illuminated.
+Obvious paths: northeast* southwest.
+sw
+>[Ancient Mountain Mine]
+
+The passage turns sharply, as the ancient miners excavated the shaft following twisting veins of iron ore. Anyone over five feet tall must stoop over in this confining mine. An old broken rust covered iron lantern, sits and collects dust in a hollowed out niche in the wall.
+
+This area is illuminated.
+Obvious paths: northeast* southeast.
+se
+>[Ancient Mountain Mine]
+
+Dust hangs thick in the warm air. The manner in which the dust had been disturbed along the floor reveals that travel along this mine shaft is common. Only the most diluted veins of iron ore remain along the walls. Any ore of value has long ago been removed from the rock.
+
+This area is illuminated.
+Obvious paths: south northwest*.
+s
+>[Ancient Mountain Mine]
+
+Several broken support beams lie among piles of rubble along the south end of the narrow mine shaft. A Hithual sized mining pick protrudes out from under one of the beams. The narrow walls and short ceiling combine with a dank odor to create the impression that you are in a stone coffin.  Some rubble are here.
+
+This area is illuminated.
+Obvious paths: north*.
+s
+>You cannot move in that direction.
+go ru
+>[Mountain Cliff]
+
+The ledge ends at a recess in the cliff wall. The world beyond the cliff face is completely obscured by thick, damp mist, and icicles have formed on the top edge of the recess. Within the recess, the likeness of a Hithual has been carved into the rock wall. The Hithual bears a pickaxe in one hand, and his other hand is held out as if in benediction.  A hole is here.
+
+This area is illuminated.
+Obvious paths: southwest*.
+sw
+s
+>[Mountain Cliff]
+
+Thick fog makes this part of the trail deadly. You need to keep a hand on the cliff wall to know where it is, and those walking do so slowly and carefully to avoid a step out into empty space. The air is cold and damp, and to make matters worse, ice has formed in places. 
+
+This area is illuminated.
+Obvious paths: northeast* south*.
+ne
+ne
+[Mountain Cliff]
+
+The ledge winds up through mist obscuring anything beyond ten feet. The air is cold and damp, and your breath fogs before your face. Iron pitons have been hammered into the cliff wall at sporadic points along the ledge. Tied to each piton is a strip of frayed red cloth, which stands out clearly in the gray and white world which surrounds you.
+
+This area is illuminated.
+Obvious paths: north* northeast*.
+[Mountain Cliff]
+
+The ledge passes a portion of the wall that has been hollowed out, providing a small respite from the wind. A fire pit has been chiseled out of the rock floor, and a small stack of firewood has been set aside. 
+
+This area is illuminated.
+Obvious paths: northeast* southwest*.
+s
+[Mountain Cliff]
+
+Another sharp bend in the trail exposes you to a howling blast. The wind seems intent on sweeping you off into open air.  A weathered plaque is here.
+
+This area is illuminated.
+Obvious paths: south* southwest*.
+sw
+s
+[Mountain Cliff]
+
+The trail continues to wind along the face of the mountain side. Age has taken its toll, and the ledge has been worn down to a mere three feet wide. Iron pitons have been hammered into the wall at intervals of two feet. They look relatively new, and make helpful handgrips to aid in passing this narrow spot.
+
+This area is illuminated.
+Obvious paths: north* southwest*.
+[Mountain Cliff]
+
+The narrow ledge continues between the bleak granite wall on one side, and the vast sweep of open space on the other. Nearly at eye-level, an eagle glides effortlessly on an updraft, it's glorious wings spread to their fullest.
+
+This area is illuminated.
+Obvious paths: northeast* south*.
+ne
+[Mountain Cliff]
+
+You are near the bottom of a ledge that trails back and forth up the nearly vertical cliff face. Along the cliff wall, old rusted iron rings have been placed at regular intervals. On one ring, you find the rotted remains of a piece of rope. 
+
+This area is illuminated.
+Obvious paths: north* northeast*.
+s
+[Mountain Cliff]
+
+A sudden turn in the ledge trail exposes you to the howling wind. The blast brings tears to your eyes, and chaffs any exposed skin. A pebble, dislodged by the wind, bounces off the path and out into the gaping canyon below.
+
+This area is illuminated.
+Obvious paths: south* southwest*.
+sw
+[Mountain Cliff]
+
+Overhead you hear a distant crack, followed by a rattling that grows closer as it progresses down the side of the cliff towards you. Moments later small stones and a few larger rocks bounce away from the cliff and hurl pass you, missing by only a few feet. 
+
+This area is illuminated.
+Obvious paths: north* southwest*.
+s
+sw
+[Mountain Cliff]
+
+Rough cut steps in the stone provide decent footing along this severely angled section of the cliff face. The frigid air stings your nostrils. The steps are crumbling with age, and several have completely disintegrated. Someone has hammered iron pitons into the rock wall recently, to provide handholds while navigating these gaps.
+
+This area is illuminated.
+Obvious paths: northeast* south*.
+[Mountain Cliff]
+
+Far to the east, a large gryphon rests on a rocky crag. It sleeps soundly. Little can threaten the creature on its remote perch. Your perch, however, is not so peaceful. The wind is a constant threat, and a deep, deadly canyon yawns between you and the resting gryphon.
+
+This area is illuminated.
+Obvious paths: north* southwest*.
+[Mountain Cliff]
+
+The ledge widens enough to make this spot one of the safest on the side of the cliff. Coarse, stubborn brush grows along the base of the ledge. Several stones are conveniently arranged to allow travelers a chance to rest, before continuing to travel along this difficult trail.
+
+This area is illuminated.
+Obvious paths: northeast* west*.
+w
+>[Mountain Cliff]
+
+Your current elevation offers you an excellent view of the wide plateau far below. You can also see part of the lush, gorgeous valley beyond the plateau. Stunningly beautiful mountain peaks stand tall in the distance.
+
+This area is illuminated.
+Obvious paths: east* southwest*.
+sw
+se
+>[Mountain Cliff]
+
+Icy cold winds blow fiercely along the precarious ledges. Fortunately, the brunt of the wind is far enough away from the side of the cliff that they don't threaten to make you lose your balance.
+
+This area is illuminated.
+Obvious paths: northeast* southeast*.
+w
+[Mountain Cliff]
+
+A short steelwood tree leans away from the side of the rocky cliff. Strong roots grip into the cold stone, somehow finding enough water and soil within the tiny cracks to sustain the tree. Only the branches farthest from the cliff bear any leaves. Mountain goats eat the rest.
+
+This area is illuminated.
+Obvious paths: west* northwest*.
+sw
+>[Mountain Cliff]
+
+A nimble mountain goat jumps along the hazardously narrow ledges with ease. Only one of his kind could traverse the side of the cliff so effortlessly. One misstep will send anyone walking on these ledges tumbling over the side.
+
+This area is illuminated.
+Obvious paths: east* southwest*.
+e
+[Mountain Cliff]
+
+The ledge widens at the base of a severe switch back. Any feet traveling along these extremely steep ledges would find this level spot a welcome relief.
+
+This area is illuminated.
+You see the 1st mountain goat.
+Obvious paths: northeast* east*.
+se
+[Mountain Cliff]
+
+Winds howl down the surface of the towering cliff face. A path has been carved along the narrow ledges on the cliff. A crevice cuts down the side of the ledge, leading back toward the plateau below.
+
+This area is illuminated.
+Obvious paths: southeast* west*.
+[Mountain Crevice]
+
+The narrow, rugged crevice slopes steeply downhill to the south. Crude handholds cut into the crevice wall help travelers to keep their balance.
+
+This area is illuminated.
+Obvious paths: south* northwest*.
+s
+>[Mountain Crevice]
+
+A large cave opening leads into the east crevice wall. The sides of the opening have been worn smooth. The crevice north of the cave grows more rugged and narrow. Downhill from the cave, the crevice floor widens.  A cave is here.
+
+This area is illuminated.
+Obvious paths: north* southwest*.
+sw
+>[Mountain Crevice]
+
+The near vertical walls of the crevice tower high above you. While the ground rises very steeply northward, footing is surprisingly good, almost as if the stone below had been carefully carved to facilitate travel. If so, time has worn away any obvious traces of deliberate craftsmanship.
+
+This area is illuminated.
+You see the 1st vulture and the 2nd vulture.
+Obvious paths: northeast* south*.
+s
+>[Highland Plateau]
+
+The eastern and western mountains bordering the plateau join together to the north. Where the two slopes meet, a deep ravine climbs steeply upward. Freezing winds whip down through the crevice. Grasslands extend south.
+
+This area is illuminated.
+Obvious paths: north* southeast* south* southwest*.
+se
+>[Highland Plateau]
+
+A broken down, wheel-less cart lies on the ground near the eastern rock cliff. The wood of the cart is very rotten, indicating it has been here for a very long time. Light seldom reaches this part of the plateau, but tuffs of that stubborn mountain grass still survive.
+
+This area is illuminated.
+Obvious paths: south* southwest* west* northwest*.
+s
+s
+>[Highland Plateau]
+
+A huge wall of rough stone looms high overhead. Just south of the cliff, a wide lake stretches into the distance. A few white birds circle slowly above the gentle waters.  A lake is here.
+
+This area is illuminated.
+Obvious paths: north* east* south* southwest* west* northwest*.
+s
+s
+s
+[Highland Plateau]
+
+Hard, compacted mud covers the ground near the shore of the scenic mountain lake. Many antelope tracks can be seen in the mud, but the tracks of other creatures can also be found. The daunting size of the largest of these tracks would intimidate all but the most seasoned of adventures.  A lake is here.
+
+This area is illuminated.
+Obvious paths: north* east* southeast* south* southwest* west* northwest*.
+s
+[Highland Plateau]
+
+Tall dry grass extends in every direction. The thin grass sways gently in the frigid wind. Monstrous mountain peaks surround all but the western edge of the plateau.
+
+This area is illuminated.
+Obvious paths: north* northeast* east* southeast* south* southwest* west* northwest*.
+s
+[Highland Plateau]
+
+Tall dry grass extends in every direction. The thin grass sways gently in the frigid wind. Monstrous mountain peaks surround all but the western edge of the plateau.
+
+This area is illuminated.
+Obvious paths: north* northeast* east* southeast* south* southwest* west* northwest*.
+s
+s
+[Highland Plateau]
+
+Tall dry grass extends in every direction. The thin grass sways gently in the frigid wind. Monstrous mountain peaks surround all but the western edge of the plateau.
+
+This area is illuminated.
+Obvious paths: north* northeast* east* southeast* south* southwest* west* northwest*.
+s
+[Highland Plateau]
+
+Tall dry grass extends in every direction. The thin grass sways gently in the frigid wind. Monstrous mountain peaks surround all but the western edge of the plateau.
+
+This area is illuminated.
+Obvious paths: north* northeast* east* southeast* south* southwest* west* northwest*.
+[Highland Plateau]
+
+Tall dry grass extends in every direction. The thin grass sways gently in the frigid wind. Monstrous mountain peaks surround all but the western edge of the plateau.
+
+This area is illuminated.
+Obvious paths: north* northeast* east* southeast* south* southwest* west* northwest*.
+
+ ** Current hit points: 250 out of 253
+[Highland Plateau]
+
+Tall dry grass extends in every direction. The thin grass sways gently in the frigid wind. Monstrous mountain peaks surround all but the western edge of the plateau.
+
+This area is illuminated.
+Obvious paths: north* northeast* east* southeast* south* west* northwest*.
+[Highland Plateau]
+
+The high mountain plateau becomes more narrow to the south, and opens up to a vast expanse to the north. The tall thin grasses dance gently in the wind.
+
+This area is illuminated.
+Obvious paths: north* northeast* east* south* northwest*.
+[Highland Plateau]
+
+A cold wind blows in hard from the north across the enormous plateau, chilling you to the bone. The plateau drops away to the west, providing a spectacular view of much of the Great Divide. An unbelievably tall rock face towers above you to the east.
+
+This area is illuminated.
+Obvious paths: north* northeast* south*.
+s
+>[Highland Road.]
+
+A wide stone ledge extending out of the mountain side holds the ancient road. To the north the ledge widens and connects to a vast mountain plateau, its tall mountain grasses waving in the breeze. The Great Divide looks spectacular this high up in the mountains. You can almost forget the rest of the world exists beyond its tall borders.  A small rusted iron sign pointing south is here.
+
+This area is illuminated.
+Obvious paths: north* southwest*.
+>
+ ** You are fully healed.
+sw
+[Highland Road.]
+
+The old road, or what's left of it, takes a steep decline to the west as it hugs the side of the nearly vertical mountain slope. To the east, the road levels off and follows a wide ledge, turning toward the north. The Great Divide, with its harsh icy peaks, stark rocky slopes and lush mountain forests, provides a view of unparalleled beauty.
+
+This area is illuminated.
+Obvious paths: northeast* west*.
+w
+w
+>[Highland Road.]
+
+Trees grow on both sides of the old road, sparse enough to still allow a wonderful view of the surrounding majestic mountains to the north. A golden eagle soars high in the sky.
+
+This area is illuminated.
+Obvious paths: east* west*.
+sw
+s
+[Highland Road.]
+
+The road curves around the side of the steep mountain slope. The trees grow more thickly along the slopes to the south, and thin out more along the slopes to the east. A broken silver compass lies half buried beside the road.
+
+This area is illuminated.
+Obvious paths: east* southwest*.
+sw
+[Highland Road.]
+
+Lush mountain forest closes in around the remnants of the ancient, very steep road. The trees and foliage are abundant with small forest animals, the sounds echo all around you.
+
+This area is illuminated.
+Obvious paths: northeast* south*.
+s
+[Highland Road.]
+
+The loud buzzing of a multitude of bees catches your attention. In a branch high above is a large bee hive, its bees dashing back and forth busy at their tasks. The buzzing coming from the hive almost sounds angry.
+
+This area is illuminated.
+Obvious paths: north* southwest*.
+se
+[Highland Road.]
+
+It is amazing that such large mountain trees can grow along this steep slope. Two squirrels chase each other back and forth across the branches above. The distinctive sounds of a woodpecker at work can be heard somewhere along the western slope below.
+
+This area is illuminated.
+Obvious paths: northeast* south*.
+s
+[Highland Road.]
+
+A gap in the trees to the west provides a stunning view of a vast mountain valley, and more tall peaks of the Great Divide beyond. The immense depth of the valley belies the colossal height of this stretch of road.
+
+This area is illuminated.
+Obvious paths: north* southeast*.
+se
+[Highland Road.]
+
+The teeming mountain forest has all but totally reclaimed the ancient Highland Road. The roots and vegetation covering most of the road actually aid in foot travel, keeping feet from sliding on the severely angled road. Travel uphill to the north is very arduous.
+
+This area is illuminated.
+Obvious paths: south* northwest*.
+e
+[Highland Road.]
+
+Ancient builders carved Highland Road into the side of the steep lower slopes of this gigantic mountain. An occasional break in the trees above the road reveals a dizzying view up the side of the mountain, its top disappearing into a haze of distance.
+
+This area is illuminated.
+Obvious paths: north* southeast*.
+[Highland Road.]
+
+Mountain forest presses in on both sides of the old narrow road. Crickets chirp, birds sing, and small forest animals scurry along the numerous branches. The terrain slopes too steeply for most of the larger forest creatures to live here, making it a haven for the smaller animals.
+
+This area is illuminated.
+Obvious paths: east* northwest*.
+[Highland Road.]
+
+A thick, near vertical wall of mountain forest stretches above and below the small stone ridge beneath you. A long hemp rope suspension bridge crosses the wide river canyon, swaying in the steady wind. The rocky ridge across the river, almost entirely devoid of vegetation, stands in stark contrast to the lush woods on the north side.  A long rope suspension bridge is here.
+
+This area is illuminated.
+Obvious paths: west*.
+go su
+>[Highland Road.]
+
+Swift waters crash against large rock outcroppings as they rush down the rapids. If the bridge was closer to the river's waters the roar would be deafening. Sprays of mist rise high into the air.
+
+This area is illuminated.
+Obvious paths: southeast* northwest*.
+se
+>[Highland Road.]
+
+The hemp rope bridge sways slightly beneath your feet. While most of the planks look old, many look relatively new. Someone has been keeping the bridge in good repair.
+
+This area is illuminated.
+Obvious paths: southeast* northwest*.
+se
+>[Highland Road.]
+
+A long rope bridge crosses the wide river canyon. The thin bridge looks tiny, especially compared to the monstrously huge mountain across the river. The bridge is just wide enough to allow a wagon to cross it, although that might not be wise.  A long rope suspension bridge is here.
+
+This area is illuminated.
+Obvious paths: southwest*.
+go su
+>[Highland Road.]
+
+The hemp rope bridge sways slightly beneath your feet. While most of the planks look old, many look relatively new. Someone has been keeping the bridge in good repair.
+
+This area is illuminated.
+Obvious paths: southeast* northwest*.
+se
+>[Highland Road.]
+
+A long rope bridge crosses the wide river canyon. The thin bridge looks tiny, especially compared to the monstrously huge mountain across the river. The bridge is just wide enough to allow a wagon to cross it, although that might not be wise.  A long rope suspension bridge is here.
+
+This area is illuminated.
+Obvious paths: southwest*.
+sw
+>[Highland Road.]
+
+A lone, surprisingly healthy looking bush grows wild beside the road. Many green breasted humming birds dart back and forth between the shrub's colorful blooms. The bush looks odd on the rocky barren hillside.
+
+This area is illuminated.
+Obvious paths: northeast* west*.
+w
+sw
+>[Highland Road.]
+
+The road curves along the side of the river canyon wall. Loose rocks and a steep slope make for hazardous footing. The rapids below, while beautiful at this distance, would bring almost certain death to anyone that fell into them.
+
+This area is illuminated.
+Obvious paths: east* southwest*.
+w
+w
+w
+[Highland Road.]
+
+The wide ledge that extends from the west ends at a rugged ridge, but the ancient Highland Road continues. The road cuts into the side of the ridge and climbs its northern side at an extreme angle.
+
+This area is illuminated.
+Obvious paths: northeast* west*.
+[Highland Road.]
+
+The river far below echoes off the canyon walls, the distance turning a river's roar into a pleasant melody. A brown and white speckled woodland owl slowly circles above, as if enchanted by the river's song.
+
+This area is illuminated.
+Obvious paths: east* west*.
+[Highland Road.]
+
+Several wide, carefully stacked piles of finely cut blue-grey stone blocks lie along the back side of the rocky ledge. Only a large wagon could have transported so much stone, but no sign of a wagon can be found. Why would someone have left all these stone blocks in this remote location?  A large stack of stone blocks, a large stack of stone blocks, and a large stack of stone blocks are here.
+
+This area is illuminated.
+Obvious paths: east* west*.
+[Highland Road.]
+
+A ledge extends east along the steep slope of the rocky river canyon wall. Highland Road begins to climb the hillside through a series of severe switchbacks to the south. The lower slopes of the other side of the river canyon are covered with thick forest foliage.
+
+This area is illuminated.
+Obvious paths: east* southwest*.
+w
+>You cannot move in that direction.
+sw
+>[Highland Road.]
+
+A large pile of debris resulting from landslides over the years lies on this wide ledge. Dangerous-looking rapids lie below in the swift river, partially obscured by a haze of mist.
+
+This area is illuminated.
+Obvious paths: northeast* southeast*.
+se
+>[Highland Road.]
+
+The road makes a severe turn as it cuts into the side of the rocky hillside. Rocks and pebbles litter the ancient stone of the road. The walls of stone isolate you from the world, except for the sky directly above and the river gently echoing its song below.
+
+This area is illuminated.
+Obvious paths: west* northwest*.
+w
+>[Highland Road.]
+
+Only the sparsest of vegetation clings to this rockly hillside. The tops of a small number of trees can be seen beyond the top of the ridge that runs along the hill crest. Travel along the narrow road is hazardous; the fierce river awaits below for anyone that falls down the slope.
+
+This area is illuminated.
+Obvious paths: east* southwest*.
+sw
+>[Highland Road.]
+
+The northern side of the hill slopes precipitously downhill. The ancient Highland Road is forced to make several switchbacks as it transverses the slope below. While steep, the road is not quite too steep for carts or wagons to travel, although it would be very difficult.
+
+This area is illuminated.
+Obvious paths: northeast* east*.
+e
+se
+>[Highland Road.]
+
+From the top of the ridge the view is spectacular! Just to the north a giant mountain rises into the hazy distance. A powerful river rushes over rough rapids, far enough away you can barely hear its roar. To the southeast a vast lush forest stretches out to the horizon while to the southwest a flat grassland likewise extends as far as you can see in that direction.
+
+This area is illuminated.
+Obvious paths: southeast* west*.
+[Highland Road.]
+
+The road grows more steep, curving northward and climbing along the top of the stony ridge. You hear the faint sounds of flowing water in the distance. A squirrel runs down a nearby tree, takes one look at you, and scampers back up the tree and out of sight.
+
+This area is illuminated.
+Obvious paths: east* northwest*.
+e
+e
+>[Highland Road.]
+
+Several peaks of the Great Divide rise into the heavens beyond the northern ridge, soaring to impossible heights. A crisp mountain breeze blows down from those ice covered slopes.
+
+This area is illuminated.
+Obvious paths: east* west*.
+e
+e
+[Highland Road.]
+
+Wild goats eat on the scant grass growing on the rocky ground. The goats make sure to keep several of the mountain trees between them and you.
+
+This area is illuminated.
+Obvious paths: east* west*.
+[Highland Road.]
+
+The remains of an old stone wall boarders the south side of the old road. The ground slopes steeply downhill beyond the wall. The trees on the other side of the road grow thick enough to block out the view of the mountains.
+
+This area is illuminated.
+Obvious paths: east* west*.
+[Highland Road.]
+
+The road curves around a large outcropping of stone. A few trees grow along the uphill slope north of the road. They fail to block the cool mountain breeze.
+
+This area is illuminated.
+Obvious paths: southeast* west*.
+se
+>[Highland Road.]
+
+Short trees grow sparely on both sides of the road. The shallow depth of the soil prevents the trees from growing too large. An owl watches you from a nearby branch.
+
+This area is illuminated.
+Obvious paths: east* northwest*.
+e
+>[Highland Road.]
+
+Along this upper slope of the hill, taller bushes and scrubs grow due to the larger amount of soil. Just when you think you've lost sight of the old stone road, you see more of it exposed from under the dirt and rubble. The icy peaks of the Great Divide peak above the ridge that runs along the top of the hill.
+
+This area is illuminated.
+Obvious paths: southeast* west*.
+se
+>[Highland Road.]
+
+The road curves, climbing up the side of the hill to the northwest and descending along another ledge to the southwest. Another hill, not as steep but very broad, blocks the view to the east. Only the most stubborn of plants grow on these rocky slopes.
+
+This area is illuminated.
+You see the 1st eagle and the 2nd eagle.
+Obvious paths: southwest* northwest*.
+sw
+>[Highland Road.]
+
+A landslide covers much of the road. Enough of the fallen rock had been moved to allow for the passage of narrow carts. Several birds circle and chase each other above the treetops.
+
+This area is illuminated.
+Obvious paths: northeast* west*.
+w
+>[Highland Road.]
+
+A giant, intricately detailed carving of Elindale covers the stony cliff face. Only a true stonemaster could have done such exquisite work. The crisp lines on the carving show only the slightest traces of wear; this work must be no more than a few years old. The Goddess seems to be looking out over the vast forest to the south lovingly.
+
+This area is illuminated.
+Obvious paths: east* west*.
+w
+>[Highland Road.]
+
+The road lies upon an inclined ledge of a steep hill, sloping downward to the west. Thousands of treetops spread out below. The calls of several wild creatures sound in the distance.
+
+This area is illuminated.
+Obvious paths: east* southwest*.
+sw
+>[Highland Road.]
+
+The road winds between a solid wall of rock and jagged outcroppings of stone. The ground is level enough to provide good footing. From here, you can't see the mountains for the hills.
+
+This area is illuminated.
+Obvious paths: northeast* west*.
+w
+>[Highland Road.]
+
+The severe incline up the rugged stone ridge makes travel difficult. Down below, an ancient village, reduced to little more than rubble, lies on a flat rocky area. In the distance a river flows almost due south, dividing lush forest to the left and thick grasslands to the right.
+
+This area is illuminated.
+Obvious paths: east* southwest*.
+sw
+>
+As you attempt to move, you slip and lose your balance!
+stand angrily
+how beligerently
+    You stumble and fall down!
+
+You fall...
+
+[Highland Road Village Ruins.]
+
+The road slopes uphill very steeply to the north and then northeast along a rocky ridge. The almost skeletal remains of an ancient village spreads out to the south. The scale of the building's foundations and doorways suggest those once living here were Human or similarly sized, but there is no way to be sure.
+
+This area is illuminated.
+Obvious paths: northeast* east* southeast* south* southwest* west*.
+
+You fall 25 feet!
+You are hit in the left arm!
+Your left arm takes 10 points of crushing damage!
+>You howl beligerently.
+You stand up angrily.
+s
+>[Highland Road Village Ruins.]
+
+No foundations lie in this area, allowing easy passage for those traveling along Highland Road. The number of thorny bushes growing in the road indicates that the traffic along it is very light. The remains of the village's buildings stretch out on both sides of the road. The smell of death hangs heavily in the air.
+
+This area is illuminated.
+Obvious paths: north* northeast* east* southeast* south* southwest* west* northwest*.
+>
+ ** Current hit points: 243 out of 253
+
+ ** Current fatigue: 85 out of 89
+s
+s
+[Highland Road Village Ruins.]
+
+To the north, the remains of an ancient village open up before you. Only stone foundations and piles of rubble remain to mark that the village ever existed. Wild, thorny scrubs grow everywhere. The ground slopes steeply downhill to the south. The river flows out from behind a large mound to the west and disappears into the distance.
+
+This area is illuminated.
+Obvious paths: north* northeast* east* southeast* west* northwest*.
+>You cannot move in that direction.
+se
+>[Highland Road]
+
+The hill slopes steeply downhill to the south. Much of the ground beneath the old road has eroded over time, making the road narrow and dangerous. Overhanging tree branches press down against you.
+
+This area is illuminated.
+Obvious paths: southeast* northwest*.
+se
+>[Highland Road.]
+
+The Darkith flows from the northwest and curves south. Highland Road becomes almost level as it curves around the river's bend. The tall trees of the forest loom above.
+
+This area is illuminated.
+Obvious paths: south* northwest*.
+s
+>[Highland Road.]
+
+The steep slope and worn stone make for poor footing along this part of the road. Weeds growing through the cracks in the road help to keep feet from sliding. Trees growing along the top of the hill to the north hide most of the mountains beyond.
+
+This area is illuminated.
+Obvious paths: north* south*.
+>
+You notice something from the corner of your eye, and as you turn to see what it is... your feet try to slip out from under you!
+
+ ** You are fully rested.
+s
+s
+[Highland Road.]
+
+The Darkith cuts deep into the ground as it flows downhill to the south. Steep ridges have formed on both sides of the river. They block a great deal of the sounds of the river's wrath, and much of the teaming life within the forest to the east can be heard.
+
+This area is illuminated.
+Obvious paths: north* south*.
+s
+[Highland Road.]
+
+A large group of horses run alongside the western bank of the river, wild and free. The lead horse, a pure white stallion, turns to the north, and the rest follow.
+
+This area is illuminated.
+Obvious paths: north* south*.
+s
+s
+s
+>[Highland Road.]
+
+The rotting corpse of a Flerian hangs by its neck from beneath a thick branch. Smaller creatures have been feasting on the remains, and the stench turns your stomach. The river continues to flow downhill along the west side of the road, unchanged for thousands of years.
+
+This area is illuminated.
+Obvious paths: north* south*.
+[Highland Road.]
+
+A large stone bridge crosses a swollen creek that flows into the Darkith. While old, the stones of the bridge are not near as ancient of those that make up the road. Time has yet to hide the fine Hithual craftsmanship that went into its construction.
+
+This area is illuminated.
+Obvious paths: north* south*.
+[Highland Road.]
+
+The ground slopes uphill to the north, and flattens out toward the south. The ancient stones of Highland Road, neglected for untold ages, act as a barrier between the forest and the river. Something startles a group of red-breasted birds and they take to the air, quickly disappearing once again into the treetops.
+
+This area is illuminated.
+Obvious paths: north* south*.
+[Highland Road.]
+
+The Darkith makes a gentle turn to the east. Looking south or west across the river, the grasslands extend seemingly forever. The peaks and crags of the mighty Great Divide hide the northern sky.
+
+This area is illuminated.
+Obvious paths: north* southeast*.
+se
+>[Highland Road.]
+
+Tall trees block your view of the mountains. Suddenly, you hear the death yell of some forest creature, and the tearing of flesh, caused by the jaws of a larger forest creature. You must be close to the source of those grisly sounds, or they would have been drowned out by the raging river waters. The thick wood hides the animals.
+
+This area is illuminated.
+Obvious paths: south* northwest*.
+s
+s
+s
+s
+>[Highland Road.]
+
+Wrapped around a large branch hangs a giant constrictor snake. Its tongue tastes the air a couple of times, but betrays no signs that it detects your presence. As far as you can tell, the snake is well fed and not hungry at present.
+
+This area is illuminated.
+Obvious paths: north* south*.
+s
+[Highland Road.]
+
+A charred circle of stones lies in a spot to the side of the road. Worn smooth rocks sit a comfortable distance from where the fire would be located. All the underbrush has been cleared from of the area. For an untold number of years, this site has been a favorite place for travelers to make camp for the night. 
+
+This area is illuminated.
+Obvious paths: north* south*.
+[Highland Road.]
+
+A lone lioness feasts on a downed buffalo along the western bank of the river. She keeps looking in your direction, but otherwise continues with her eating. The wide, swift river ensures she can consume her meal undisturbed.
+
+This area is illuminated.
+Obvious paths: north* south*.
+[Highland Road.]
+
+A young Fir Elf sits on a rock, fletching a pile of dead branches into well made arrows. She offers a quick nod and smile, then continues with her work. She whistles as she works, but you can't hear a note over the sounds of the Darkith.
+
+This area is illuminated.
+Obvious paths: north* south*.
+[Highland Road.]
+
+The ancient trail extends north toward the looming heights of the Great Divide. This close to the mountains, many breathtaking details can be seen. Lush forests growing on the lower slopes contrast with stark white icy caps. The river flowing south turns westward, and the road curves to follow its bank and avoid a thick clump of trees.
+
+This area is illuminated.
+Obvious paths: north* southwest*.
+sw
+>[Highland Road.]
+
+The strong current crashing against the jagged rocks makes this stretch of the road very noisy. The plentiful supply of fresh water allows the woods on the other side of the road to grow thick and tall.
+
+This area is illuminated.
+Obvious paths: northeast* southwest*.
+sw
+se
+>[Highland Road.]
+
+The Darkith turns sharply and the road curves accordingly. Rotting branches and other debris press against the road, washed up by the mighty river.
+
+This area is illuminated.
+Obvious paths: northeast* southeast*.
+s
+[Highland Road.]
+
+A twist in the river takes it farther to the west, allowing the forest to grow outward. The road turns to follow the bank of the river, and avoid the crowded mass of tall trees extending into its path.
+
+This area is illuminated.
+Obvious paths: south* northwest*.
+s
+>[Highland Road.]
+
+From just to your east you hear a powerful roar, loud enough to be heard above the din of the Darkith. The dense forest hides it source. With any luck, the trees along the road are thick enough to prevent the creature from reaching you.
+
+This area is illuminated.
+Obvious paths: north* south*.
+[Highland Road.]
+
+A tall and wide outcropping of granite blocks passage to the south. Spray fills the air, as the river is forced around the left side of the stone. The road turns into the forest, almost disappearing into the thick growth.
+
+This area is illuminated.
+Obvious paths: north* southeast*.
+se
+>[Highland Road.]
+
+The road curves around a giant mound of granite to the west. The forest has all but reclaimed the road, with trees growing through much of the remaining stone paving. Only the most narrow of carts could pass between the large rock and those trees.
+
+This area is illuminated.
+Obvious paths: southwest* northwest*.
+sw
+>[Highland Road.]
+
+A huge chunk of granite stands to the north. The river flows around it to the left and the road curves around it to the right. The river has worn its side of the outcropping smooth over time.
+
+This area is illuminated.
+Obvious paths: northeast* south*.
+s
+s
+s
+>[Highland Road.]
+
+A wisp of smoke rises from somewhere in the vast grasslands beyond the Darkith. There must be some sort of civilization over there, which is more than what you can say for where you are now. 
+
+This area is illuminated.
+Obvious paths: north* south*.
+s
+[Highland Road.]
+
+The broken down road continues onward, seemingly forever. The sounds of the forest might be soothing if they weren't drowned out by the bellowing river. Mosquitos bite at your arms and face.
+
+This area is illuminated.
+Obvious paths: north* south*.
+s
+s
+[Highland Road.]
+
+A gaping hole covers a large section of the old road. Flooding has washed out that part of the road. It would be nearly impossible for carts or wagons to cross it.
+
+This area is illuminated.
+Obvious paths: north* south*.
+s
+[Highland Road.]
+
+A short barge, with many barrels of ale stacked on it, floats down the river. The drag-al merchant manning the rudder smiles broadly. He is sure to get a good price for his wares in Spur.
+
+This area is illuminated.
+Obvious paths: north* south*.
+[Highland Road.]
+
+The forest to the east seems to press against you along this stretch of road. Branches and hanging vines require anyone tall to hunch over as they pass underneath.
+
+This area is illuminated.
+Obvious paths: north* south*.
+[Highland Road.]
+
+A giant hawk swoops down and catches a large fish from the swift waters of the Darkith. Powerful strokes of its wings carry it and its prey high into the air. The bird circles briefly, then heads east towards its unseen nest.
+
+This area is illuminated.
+Obvious paths: north* south*.
+[Highland Road.]
+
+A broken wagon lies on its side beside Highland Road. No sign of whatever the wagon carried remains. Two skeletons, wearing rotting leather armor, lie beside the wagon. The arrows sticking out of them reveal their fate.
+
+This area is illuminated.
+Obvious paths: north* south*.
+s
+>[Highland Road.]
+
+The snow covered mountains of the Great Divide stand tall far to the north. The view of those rugged peaks is enough to inspire a man or woman to become a bard.
+
+This area is illuminated.
+Obvious paths: north* southeast*.
+se
+>[Highland Road.]
+
+An old stone wall, almost completely covered by forest growth, holds a rusted iron gate. Thick trees ensure the only way to the other side of the wall is through the gate, but a heavy lock on the gate restricts your access.
+
+This area is illuminated.
+Obvious paths: south* northwest*.
+s
+>[Highland Road.]
+
+A small rocky island splits the flow of the river. A lone, twisted steelwood tree grows out of the top of the large stone outcropping. Steelwood must be able to grow just about anywhere.
+
+This area is illuminated.
+Obvious paths: north* south*.
+s
+s
+s
+>[Highland Road.]
+
+A small wooden bridge crosses a stream that flows out of the forest and into the river. The bridge is in very good shape. It can only be a few years old, much younger than the crumbling road it services.
+
+This area is illuminated.
+Obvious paths: north* south*.
+[Highland Road.]
+
+The ancient road stretches north and south along the eastern bank of the Darkith River. The thick trees on the one side and the swift waters of the river on the other prevent you from traveling in any other direction but along the road.
+
+This area is illuminated.
+Obvious paths: north* south*.
+s
+s
+s
+[Highland Road.]
+
+Movement in the woods catches your attention. The thick forest growth could hide anything within. Whatever it is, it doesn't reveal itself to you.
+
+This area is illuminated.
+Obvious paths: north* south*.
+[Highland Road.]
+
+A young Flerian, dressed in rags, sits on the river bank, fishing with a crude pole. Judging from his slender frame, he makes a poor fisherman. Maybe if he wouldn't sing so loudly, he would do better.
+
+This area is illuminated.
+Obvious paths: north* south*.
+[Highland Road.]
+
+A large herd of buffalo drink from the shore on the other side of the river. A scrawny wolf stares at them from this side, then dashes into the woods when he senses your approach.
+
+This area is illuminated.
+Obvious paths: north* southeast*.
+You cannot move in that direction.
+se
+>[Highland Road.]
+
+A thin layer of sand, washed out from the river during a flood, covers much of the road. While the tracks of those traveling along the road can be seen, there are more tracks from animals moving between the woods and the river.
+
+This area is illuminated.
+Obvious paths: south* northwest*.
+s
+>[Highland Road.]
+
+A twist in the Darkith and large rocks near its shore conspire to send sprays of water across this section of road. Anyone standing here long will become drenched.
+
+This area is illuminated.
+Obvious paths: north* southeast*.
+se
+>[Highland Road.]
+
+A smaller trail branches off the main road, heading east into the woods. The remains of a rotting wooden roadblock sit near the road, partially concealed by the thick growth of the forest. An old sign, worn with age but still readable, stands at the intersection.  An old rotting oak sign and a broken rotten wooden roadblock are here.
+
+This area is illuminated.
+Obvious paths: east* southwest* northwest*.
+re si
+>
+The old rotting oak sign reads:
+"North: Great Divide   East: Treehaven   South: Spur"
+e
+e
+>[Valley Trail.]
+
+Giant smooth leafy elm trees tower high above the soft moist trail. Colorful songbirds whistle an alluring tone from the barely visible sky. A tiny wooden bench sits tilted against the large gray base of a nearby tree. A small forest green pointed shoe lies half buried in the wet soil.  A forest green doeskin jester shoe, some leafy elm trees, and a wooden tiny bench are here.
+
+This area is illuminated.
+Obvious paths: east* west*.
+
+ ** Current hit points: 239 out of 253
+e
+e
+[Valley Trail.]
+
+The dense vegetation crowds the barely passable trail. Unique herbs climb the northern incline in a mesh pattern. A small squirrel bounces atop the rich green bushes ripe with juicy red berries. 
+
+This area is illuminated.
+Obvious paths: east* west*.
+e
+[Valley Trail.]
+
+Sturdy swamp elm grow along the western edge of the narrow grove. Dark green sweetshrub travels the northern edge of the trail. Tiny maroon flowers perk from the eliptical green leaves, filtering the air with a light flowery aroma. A beautiful carved ivory statue stands prone amongst the protective trees.  Some sturdy swamp elms are here.
+
+This area is illuminated.
+Obvious paths: east* west*.
+[Valley Trail.]
+
+The finger-like branches of the mighty elm have grown intertwined. The eerie pattern forms dark crevices resembling beady black eyes. A whimsical butterfly flutters about, paying no heed to your presence.
+
+This area is illuminated.
+Obvious paths: east* west*.
+[Valley Trail.]
+
+The rarely traveled trail curves abruptly. The massive elm trees thin, revealing a steep rocky incline to the east. A soft flowing sound resembling trickling water quietly resonates from a distance.
+
+This area is illuminated.
+Obvious paths: south* west*.
+s
+se
+>[Valley Trail.]
+
+A persistant buzzing echoes through the valley. A lush honeysuckle bush grows in the lumpy dark soil on the western edge of the narrow trail. The yellow flowers reach to meet the fuzzy bumble bees bobbing excitedly amongst the sweet aroma.
+
+This area is illuminated.
+Obvious paths: north* southeast*.
+s
+>[Valley Trail.]
+
+Luanas vine grows rampant on the eastern valley wall. The rope shaped vines form a striped pattern along the rocky mass. Several purpleosier willow trees line the western incline. Their linear leaves dance lightly above the narrow trail.  A creeping purpleosier willow tree is here.
+
+This area is illuminated.
+Obvious paths: south* northwest*.
+s
+s
+s
+[Valley Trail.]
+
+The southern view reveals a steep muddy trail. The depth of the valley is barely discernable through the tightly packed trees. Along the eastern edge of the trail, several small boulders are covered with the muddy hand prints of a tiny humanoid.
+
+This area is illuminated.
+Obvious paths: north* south*.
+[Valley Trail.]
+
+Several large tree branches lie embedded in the muddy soil. Wooden footholds have been placed deep in the mud for better traction. A dainty fawn bounces from the crude footholds, and darts speedily up the western hill. An alarming variety of muddy tracks cover the wooden planks.
+
+This area is illuminated.
+Obvious paths: north* south*.
+e
+[Valley Trail.]
+
+The sloppy trail heads north and east. Several swamp elm block southern travel. The faint sound of trickling water echoes calmly in the distance. Bright orange carrots lie scattered along the western edge. A brown trapper's net is strung strategically amongst the hovering branches.
+
+This area is illuminated.
+Obvious paths: north* east*.
+se
+You cannot move in that direction.
+[Valley Trail.]
+
+Deep pink orchids sprout randomly among the large leafy vegetation. A tiny frog croaks defiantly from a large elongated dark green leaf. A deep hiss returns the challenge from beneath a nearby bush. A rapid flash of silver light whips towards the frog. The quick shuffle of leaves ends abruptly.
+
+This area is illuminated.
+Obvious paths: southeast* west*.
+[Valley Trail.]
+
+Graciously, wooden footholds have been placed deep in the mud to keep the weary traveler from tumbling down the steep trail. The enormous elm trees crowd each other, battling for room to extend their roots. A rope shaped vine hangs loosely in a nearby swamp elm.  A tangled rope vine is here.
+
+This area is illuminated.
+Obvious paths: south* northwest*.
+s
+>[Valley Trail.]
+
+A distant roar echoes loudly through the thin valley. A large flock of songbirds flutter hastily from the nearby trees. An eerie whistle screeches an urgent reply. Crunching movement can be heard to the southwest, but nothing appears.
+
+This area is illuminated.
+Obvious paths: north* south*.
+>
+You notice something from the corner of your eye, and as you turn to see what it is... your feet try to slip out from under you!
+
+You are thrown off balance!
+stand angrily
+how beligerently
+    You stumble and fall down!
+You howl beligerently.
+You stand up angrily.
+l
+>[Valley Trail.]
+
+A distant roar echoes loudly through the thin valley. A large flock of songbirds flutter hastily from the nearby trees. An eerie whistle screeches an urgent reply. Crunching movement can be heard to the southwest, but nothing appears.
+
+This area is illuminated.
+Obvious paths: north* south*.
+>
+Your flaming smooth handled wooden torch flickers for a moment.
+n
+[Valley Trail.]
+
+Graciously, wooden footholds have been placed deep in the mud to keep the weary traveler from tumbling down the steep trail. The enormous elm trees crowd each other, battling for room to extend their roots. A rope shaped vine hangs loosely in a nearby swamp elm.  A tangled rope vine is here.
+
+This area is illuminated.
+Obvious paths: south* northwest*.
+l at ro
+l through ro
+>I don't see what you are referring to.
+>I don't see what you are referring to.
+l at vi
+l through vi
+>It looks like a tangled rope vine.
+This sturdy thick vine has several knotted protrusions for good footing. It hangs from a large round branch, tied tauntly to the base.
+It is not usable by your class.
+>Hmmm...  It is too foggy to see clearly.
+>
+ ** You are fully rested.
+s
+[Valley Trail.]
+
+A distant roar echoes loudly through the thin valley. A large flock of songbirds flutter hastily from the nearby trees. An eerie whistle screeches an urgent reply. Crunching movement can be heard to the southwest, but nothing appears.
+
+This area is illuminated.
+Obvious paths: north* south*.
+s
+>[Valley Trail.]
+
+Bigleaf hydrangea shrub line the western side of the trail. Deep blue and purple flowers sprout eagerly from the long slender green leaves. An unusual wooden grave marker fits snugly between two hydrangea. The engraving is slightly covered by the sprouting luanas vine.  A ceremonial blood-stained oak grave marker is here.
+
+This area is illuminated.
+Obvious paths: north* east*.
+>
+The ground beneath your feet seems to slip out from under you!  You struggle to keep standing.
+
+You are thrown off balance!
+stand angrily
+how beligerently
+    You stumble and fall down!
+You howl beligerently.
+You stand up angrily.
+e
+e
+>[Valley Trail.]
+
+The sweet smell of honey lingers pleasantly in the air. A loud buzzing noise hums consistantly around a thick brown hive. Large wet bear tracks lead into the rich dense forest. Several large broken branches lie broken beneath the crowded elm.
+
+This area is illuminated.
+Obvious paths: east* west*.
+>[Valley Trail.]
+
+A number of rocky footholds have been placed deep in the watery mud. A radiant macaw swoops into flight from a large grey tree branch. Bellowing a deep call, it glides out of sight.
+
+This area is illuminated.
+You see the 1st forest sprite and the 2nd forest sprite.
+Obvious paths: southeast* west*.
+>
+ ** You are fully rested.
+s
+You cannot move in that direction.
+se
+>
+A forest sprite enters, following Hroomha.
+
+A forest sprite enters, following Hroomha.
+[Valley Trail.]
+
+A thick grey mist blankets the area in a heavy cloud. Little can be seen in any direction except the undistinguishable tracks heading northwest and southeast. A low growl vibrates sternly from the west as a white furry rabbit scampers hurridly across the trail.
+
+This area is illuminated.
+You see the 1st forest sprite and the 2nd forest sprite.
+Obvious paths: southeast* northwest*.
+se
+>
+A forest sprite enters, following Hroomha.
+
+A forest sprite enters, following Hroomha.
+[Valley Trail.]
+
+The thick mist and humid air creates tiny droplets on the dark green leaves. Tiny orange butterflies frolick anxiously in the small puddles. A large turtle slowly lugs his heavy shell across the muddy paste surrounding a nearby sweetshrub. A delicate red berry lies half splattered on the brown and red shell.
+
+This area is illuminated.
+You see the 1st forest sprite and the 2nd forest sprite.
+Obvious paths: south* northwest*.
+>
+The forest sprite soars up into the air.
+
+The 2nd forest sprite soars up into the air.
+s
+
+A forest sprite enters, following Hroomha.
+[Valley Trail.]
+
+A scattered mist reveals level footing. Black smoke rises from the southwest and dissipates within a large puffy white cloud. A thunderous cry pummels through the valley, followed by a uniform cheer.
+
+This area is illuminated.
+You see the 1st forest sprite.
+Obvious paths: north* south*.
+s
+>
+A forest sprite enters, following Hroomha.
+[Valley Trail.]
+
+A small stone cairn stands discretely to the southwest. A single green vine grows around the monument in a spiral pattern ending near the top. Brown chytrid fungus crawls up the swamp elm trees covering the dark grey bark in a green spongy blanket.  A mysterious stone cairn is here.
+
+This area is illuminated.
+You see the 1st forest sprite.
+Obvious paths: north* south*.
+s
+>
+A forest sprite enters, following Hroomha.
+[Valley Trail.]
+
+A large wooden abatis stands ready in the southwest corner of this rough clearing. Passage in that direction would be certain suicide. Large yellow sunflowers sprawl high up the northeastern rocky hillside. A dancing firefly taunts you from a pointy tip on the strange wooden apparatus.
+
+This area is illuminated.
+You see the 1st forest sprite.
+Obvious paths: north* east*.
+e
+>[Valley Trail.]
+
+A rustic wagon stands lodged in the sticky mud just south of the trail. A broken rear wheel put this old relic to rest with no proud owner in sight. A fuzzy green caterpillar inches its way up an azalea plant, and rests comfortably on a funnel shaped yellow flower.  A wooden rustic wagon is here.
+
+This area is illuminated.
+Obvious paths: east* west*.
+>
+ ** Current hit points: 239 out of 253
+e
+[Valley Trail.]
+
+The forest and rocky hills crowd the small trail leaving little room except passage to the west. An emerald green parrot soars high above the tall elm, eyeing the trail suspicously. A faint wind whistles quietly from the south.
+
+This area is illuminated.
+Obvious paths: west*.
+h
+>You have no apparent injuries, but look weakened.
+
+HP: 242/253  Ftg:  89/ 89
+w
+>[Valley Trail.]
+
+A rustic wagon stands lodged in the sticky mud just south of the trail. A broken rear wheel put this old relic to rest with no proud owner in sight. A fuzzy green caterpillar inches its way up an azalea plant, and rests comfortably on a funnel shaped yellow flower.  A wooden rustic wagon is here.
+
+This area is illuminated.
+Obvious paths: east* west*.
+l at wag
+l through wag
+>I don't see what you are referring to.
+>I don't see what you are referring to.
+l at ru
+>It looks like an open large frayed burlap rucksack.
+
+There appears to be something inside.
+l at rus
+>It looks like a wooden rustic wagon.
+The large wagon sits tilted in the deep watery mud. The amount of overgrowth and rotted wood indicates it hasn't been moved for some time. The broken wheel lay scattered in many pieces.
+It is broken.
+l
+>[Valley Trail.]
+
+A rustic wagon stands lodged in the sticky mud just south of the trail. A broken rear wheel put this old relic to rest with no proud owner in sight. A fuzzy green caterpillar inches its way up an azalea plant, and rests comfortably on a funnel shaped yellow flower.  A wooden rustic wagon is here.
+
+This area is illuminated.
+Obvious paths: east* west*.
+w
+>[Valley Trail.]
+
+A large wooden abatis stands ready in the southwest corner of this rough clearing. Passage in that direction would be certain suicide. Large yellow sunflowers sprawl high up the northeastern rocky hillside. A dancing firefly taunts you from a pointy tip on the strange wooden apparatus.
+
+This area is illuminated.
+You see the 1st forest sprite.
+Obvious paths: north* east*.
+n
+>
+A forest sprite enters, following Hroomha.
+[Valley Trail.]
+
+A small stone cairn stands discretely to the southwest. A single green vine grows around the monument in a spiral pattern ending near the top. Brown chytrid fungus crawls up the swamp elm trees covering the dark grey bark in a green spongy blanket.  A mysterious stone cairn is here.
+
+This area is illuminated.
+You see the 1st forest sprite.
+Obvious paths: north* south*.
+n
+>[Valley Trail.]
+
+A scattered mist reveals level footing. Black smoke rises from the southwest and dissipates within a large puffy white cloud. A thunderous cry pummels through the valley, followed by a uniform cheer.
+
+This area is illuminated.
+Obvious paths: north* south*.
+n
+>[Valley Trail.]
+
+The thick mist and humid air creates tiny droplets on the dark green leaves. Tiny orange butterflies frolick anxiously in the small puddles. A large turtle slowly lugs his heavy shell across the muddy paste surrounding a nearby sweetshrub. A delicate red berry lies half splattered on the brown and red shell.
+
+This area is illuminated.
+You see the 1st forest sprite.
+Obvious paths: south* northwest*.
+nw
+>[Valley Trail.]
+
+A thick grey mist blankets the area in a heavy cloud. Little can be seen in any direction except the undistinguishable tracks heading northwest and southeast. A low growl vibrates sternly from the west as a white furry rabbit scampers hurridly across the trail.
+
+This area is illuminated.
+Obvious paths: southeast* northwest*.
+nw
+>[Valley Trail.]
+
+A number of rocky footholds have been placed deep in the watery mud. A radiant macaw swoops into flight from a large grey tree branch. Bellowing a deep call, it glides out of sight.
+
+This area is illuminated.
+Obvious paths: southeast* west*.
+w
+>[Valley Trail.]
+
+The sweet smell of honey lingers pleasantly in the air. A loud buzzing noise hums consistantly around a thick brown hive. Large wet bear tracks lead into the rich dense forest. Several large broken branches lie broken beneath the crowded elm.
+
+This area is illuminated.
+Obvious paths: east* west*.
+w
+>[Valley Trail.]
+
+Bigleaf hydrangea shrub line the western side of the trail. Deep blue and purple flowers sprout eagerly from the long slender green leaves. An unusual wooden grave marker fits snugly between two hydrangea. The engraving is slightly covered by the sprouting luanas vine.  A ceremonial blood-stained oak grave marker is here.
+
+This area is illuminated.
+You see the 1st brownie.
+Obvious paths: north* east*.
+n
+>[Valley Trail.]
+
+A distant roar echoes loudly through the thin valley. A large flock of songbirds flutter hastily from the nearby trees. An eerie whistle screeches an urgent reply. Crunching movement can be heard to the southwest, but nothing appears.
+
+This area is illuminated.
+Obvious paths: north* south*.
+n
+>[Valley Trail.]
+
+Graciously, wooden footholds have been placed deep in the mud to keep the weary traveler from tumbling down the steep trail. The enormous elm trees crowd each other, battling for room to extend their roots. A rope shaped vine hangs loosely in a nearby swamp elm.  A tangled rope vine is here.
+
+This area is illuminated.
+Obvious paths: south* northwest*.
+>
+ ** Current hit points: 245 out of 253
+nw
+[Valley Trail.]
+
+Deep pink orchids sprout randomly among the large leafy vegetation. A tiny frog croaks defiantly from a large elongated dark green leaf. A deep hiss returns the challenge from beneath a nearby bush. A rapid flash of silver light whips towards the frog. The quick shuffle of leaves ends abruptly.
+
+This area is illuminated.
+Obvious paths: southeast* west*.
+w
+>[Valley Trail.]
+
+The sloppy trail heads north and east. Several swamp elm block southern travel. The faint sound of trickling water echoes calmly in the distance. Bright orange carrots lie scattered along the western edge. A brown trapper's net is strung strategically amongst the hovering branches.
+
+This area is illuminated.
+Obvious paths: north* east*.
+n
+>[Valley Trail.]
+
+Several large tree branches lie embedded in the muddy soil. Wooden footholds have been placed deep in the mud for better traction. A dainty fawn bounces from the crude footholds, and darts speedily up the western hill. An alarming variety of muddy tracks cover the wooden planks.
+
+This area is illuminated.
+Obvious paths: north* south*.
+n
+>[Valley Trail.]
+
+The southern view reveals a steep muddy trail. The depth of the valley is barely discernable through the tightly packed trees. Along the eastern edge of the trail, several small boulders are covered with the muddy hand prints of a tiny humanoid.
+
+This area is illuminated.
+Obvious paths: north* south*.
+n
+>[Valley Trail.]
+
+Luanas vine grows rampant on the eastern valley wall. The rope shaped vines form a striped pattern along the rocky mass. Several purpleosier willow trees line the western incline. Their linear leaves dance lightly above the narrow trail.  A creeping purpleosier willow tree is here.
+
+This area is illuminated.
+Obvious paths: south* northwest*.
+nw
+>[Valley Trail.]
+
+A persistant buzzing echoes through the valley. A lush honeysuckle bush grows in the lumpy dark soil on the western edge of the narrow trail. The yellow flowers reach to meet the fuzzy bumble bees bobbing excitedly amongst the sweet aroma.
+
+This area is illuminated.
+Obvious paths: north* southeast*.
+n
+>[Valley Trail.]
+
+The rarely traveled trail curves abruptly. The massive elm trees thin, revealing a steep rocky incline to the east. A soft flowing sound resembling trickling water quietly resonates from a distance.
+
+This area is illuminated.
+Obvious paths: south* west*.
+go gate
+>I don't see what you are referring to.
+s
+>[Valley Trail.]
+
+A persistant buzzing echoes through the valley. A lush honeysuckle bush grows in the lumpy dark soil on the western edge of the narrow trail. The yellow flowers reach to meet the fuzzy bumble bees bobbing excitedly amongst the sweet aroma.
+
+This area is illuminated.
+Obvious paths: north* southeast*.
+se
+>[Valley Trail.]
+
+Luanas vine grows rampant on the eastern valley wall. The rope shaped vines form a striped pattern along the rocky mass. Several purpleosier willow trees line the western incline. Their linear leaves dance lightly above the narrow trail.  A creeping purpleosier willow tree is here.
+
+This area is illuminated.
+Obvious paths: south* northwest*.
+s
+s
+>[Valley Trail.]
+
+The southern view reveals a steep muddy trail. The depth of the valley is barely discernable through the tightly packed trees. Along the eastern edge of the trail, several small boulders are covered with the muddy hand prints of a tiny humanoid.
+
+This area is illuminated.
+Obvious paths: north* south*.
+s
+
+As you attempt to move, you slip and lose your balance!
+stand angrily
+how beligerently
+    You stumble and fall down!
+You howl beligerently.
+
+As you attempt to move, you slip and lose your balance!
+You stand up angrily.
+>
+The ground beneath your feet seems to slip out from under you!  You struggle to keep standing.
+
+ ** You are fully rested.
+s
+[Valley Trail.]
+
+Several large tree branches lie embedded in the muddy soil. Wooden footholds have been placed deep in the mud for better traction. A dainty fawn bounces from the crude footholds, and darts speedily up the western hill. An alarming variety of muddy tracks cover the wooden planks.
+
+This area is illuminated.
+Obvious paths: north* south*.
+s
+>[Valley Trail.]
+
+The sloppy trail heads north and east. Several swamp elm block southern travel. The faint sound of trickling water echoes calmly in the distance. Bright orange carrots lie scattered along the western edge. A brown trapper's net is strung strategically amongst the hovering branches.
+
+This area is illuminated.
+Obvious paths: north* east*.
+e
+>[Valley Trail.]
+
+Deep pink orchids sprout randomly among the large leafy vegetation. A tiny frog croaks defiantly from a large elongated dark green leaf. A deep hiss returns the challenge from beneath a nearby bush. A rapid flash of silver light whips towards the frog. The quick shuffle of leaves ends abruptly.
+
+This area is illuminated.
+Obvious paths: southeast* west*.
+se
+>[Valley Trail.]
+
+Graciously, wooden footholds have been placed deep in the mud to keep the weary traveler from tumbling down the steep trail. The enormous elm trees crowd each other, battling for room to extend their roots. A rope shaped vine hangs loosely in a nearby swamp elm.  A tangled rope vine is here.
+
+This area is illuminated.
+Obvious paths: south* northwest*.
+s
+>[Valley Trail.]
+
+A distant roar echoes loudly through the thin valley. A large flock of songbirds flutter hastily from the nearby trees. An eerie whistle screeches an urgent reply. Crunching movement can be heard to the southwest, but nothing appears.
+
+This area is illuminated.
+Obvious paths: north* south*.
+s
+>[Valley Trail.]
+
+Bigleaf hydrangea shrub line the western side of the trail. Deep blue and purple flowers sprout eagerly from the long slender green leaves. An unusual wooden grave marker fits snugly between two hydrangea. The engraving is slightly covered by the sprouting luanas vine.  A ceremonial blood-stained oak grave marker is here.
+
+This area is illuminated.
+You see the 1st brownie.
+Obvious paths: north* east*.
+e
+e
+>
+As you attempt to move, you slip and lose your balance!
+stand angrily
+how beligerently
+    You stumble and fall down!
+You howl beligerently.
+stand
+grit
+You must stand up first!
+You grit your teeth.
+You stand up angrily.
+
+One of your feet decides its time to go exploring on its own!  You try to catch yourself!
+
+ ** You are fully rested.
+e
+You are already standing!
+>
+k brownie
+The brownie advances towards Hroomha.
+[Valley Trail.]
+
+The sweet smell of honey lingers pleasantly in the air. A loud buzzing noise hums consistantly around a thick brown hive. Large wet bear tracks lead into the rich dense forest. Several large broken branches lie broken beneath the crowded elm.
+
+This area is illuminated.
+Obvious paths: east* west*.
+I don't see what you are referring to.
+e
+>[Valley Trail.]
+
+A number of rocky footholds have been placed deep in the watery mud. A radiant macaw swoops into flight from a large grey tree branch. Bellowing a deep call, it glides out of sight.
+
+This area is illuminated.
+Obvious paths: southeast* west*.
+se
+>[Valley Trail.]
+
+A thick grey mist blankets the area in a heavy cloud. Little can be seen in any direction except the undistinguishable tracks heading northwest and southeast. A low growl vibrates sternly from the west as a white furry rabbit scampers hurridly across the trail.
+
+This area is illuminated.
+Obvious paths: southeast* northwest*.
+se
+>[Valley Trail.]
+
+The thick mist and humid air creates tiny droplets on the dark green leaves. Tiny orange butterflies frolick anxiously in the small puddles. A large turtle slowly lugs his heavy shell across the muddy paste surrounding a nearby sweetshrub. A delicate red berry lies half splattered on the brown and red shell.
+
+This area is illuminated.
+You see the 1st forest sprite.
+Obvious paths: south* northwest*.
+>
+ ** Current hit points: 248 out of 253
+s
+[Valley Trail.]
+
+A scattered mist reveals level footing. Black smoke rises from the southwest and dissipates within a large puffy white cloud. A thunderous cry pummels through the valley, followed by a uniform cheer.
+
+This area is illuminated.
+Obvious paths: north* south*.
+s
+s
+>[Valley Trail.]
+
+A small stone cairn stands discretely to the southwest. A single green vine grows around the monument in a spiral pattern ending near the top. Brown chytrid fungus crawls up the swamp elm trees covering the dark grey bark in a green spongy blanket.  A mysterious stone cairn is here.
+
+This area is illuminated.
+You see the 1st forest sprite.
+Obvious paths: north* south*.
+[Valley Trail.]
+
+A large wooden abatis stands ready in the southwest corner of this rough clearing. Passage in that direction would be certain suicide. Large yellow sunflowers sprawl high up the northeastern rocky hillside. A dancing firefly taunts you from a pointy tip on the strange wooden apparatus.
+
+This area is illuminated.
+Obvious paths: north* east*.
+e
+>[Valley Trail.]
+
+A rustic wagon stands lodged in the sticky mud just south of the trail. A broken rear wheel put this old relic to rest with no proud owner in sight. A fuzzy green caterpillar inches its way up an azalea plant, and rests comfortably on a funnel shaped yellow flower.  A wooden rustic wagon is here.
+
+This area is illuminated.
+Obvious paths: east* west*.
+e
+>[Valley Trail.]
+
+The forest and rocky hills crowd the small trail leaving little room except passage to the west. An emerald green parrot soars high above the tall elm, eyeing the trail suspicously. A faint wind whistles quietly from the south.
+
+This area is illuminated.
+Obvious paths: west*.
+sear room for 
+>You search the area thoroughly.
+
+  You find a sculpted narrow ledge.
+[15 sec. delay]
+go led
+>[Sculpted Ledge.]
+
+The intricately hand carved ledge is barely three feet in width. The sculpter took great pains to make the fascinating depictions in the rocky hill wall, but cared little for the travelers size. Tips of the rough green elm leaves brush the eastern edge of the cliff. The ledge inclines to the south making travel all the more difficult.  A muddy narrow valley trail and a magnificent carved mural are here.
+
+This area is illuminated.
+Obvious paths: south*.
+s
+>[Sculpted Ledge.]
+
+The steep ledge levels out making the narrow footing more stable. A curious monkey swings across the crowded trees gracefully. A second look reveals the ledge being nearly even with some of the smaller forest tree tops. A small etching in the rocky wall depicts a lazy sprite hanging his legs loosely from a wooden bridge. His left foot is raised up to support a dancing butterfly on the tip.
+
+This area is illuminated.
+You see the 1st leprechaun.
+Obvious paths: north* south*.
+s
+>
+A leprechaun enters, following Hroomha.
+[Sculpted Ledge.]
+
+This sizeable alcove gives the weary adventurer a comforting rest. Closer examination reveals a small bed carved into the far corner of the opening. Black residue coats a small area of the stone floor. A brown rat shuffles across the floor and disappears.
+
+This area is illuminated.
+You see the 1st leprechaun.
+Obvious paths: north* east*.
+e
+>[Sculpted Ledge.]
+
+Deep hand holds have been placed along the rocky wall. The sharp angle of this tiny ledge forces visitors to look down while passing. Small gaps in the tree tops reveal a painful collection of pointy branches awaiting their next victim.
+
+This area is illuminated.
+Obvious paths: south* west*.
+s
+>[Sculpted Ledge.]
+
+A massive long pictorial banners the lower portion of the rocky hill. A screeching hawk dives down into the trees with its talons arched for grabbing. Plump berries lie randomly about. Berry covered branches creep onto the ledge leaving the tasty fruits for the hungry critters.
+
+This area is illuminated.
+Obvious paths: north* south*.
+s
+>[Sculpted Ledge.]
+
+Large luscious brown and green leaves crowd the narrow ledge. The tight space makes turning about difficult. A light scent of honeysuckle drifts through the moist air leaving tiny cold refreshing droplets.
+
+This area is illuminated.
+Obvious paths: north*.
+sear room for ro
+>You search the area thoroughly.
+
+  You find a sturdy rope ladder.
+[5 sec. delay]
+go ro
+>[Valley Trail.]
+
+Blooming honey-suckle bushes line the edge of the western forest. Their red tubular flowers climb away from the trail in a rope like pattern. A pyramid shaped ant hill seems the center of a well organized system for inumerable tiny black ants. A long line of ants scurry in a single file line from their home.  A sturdy rope ladder is here.
+
+This area is illuminated.
+Obvious paths: southeast*.
+se
+>[Valley Trail.]
+
+Tall tulip trees line this small round clearing. Their massive trunks crowd together secluding this beautiful section of the vale from the inhabitants of the nearby forest. Several stone benches rest around the delightful fountain that quietly hums in the center.  A calm flowing stone fountain and some stone benches are here.
+
+This area is illuminated.
+Obvious paths: east* northwest*.
+e
+e
+e
+>[Valley Trail.]
+
+A pointy eared sprite flutters and darts bashfully into the wooded forest. A half eaten apple lies abandoned upon a strange grey boulder. The glen shuffles with tiny crunching noises and several high pitched howls.
+
+This area is illuminated.
+Obvious paths: east* west*.
+[Valley Trail.]
+
+A small puddle of sticky sap flows from the bottom of a sizeable ironwood tree. The tiny drops flow slowly from the narrow gash in the smooth grey bark. Oblong dark green leaves with flashy white tips hang limply from the lower branches. A black asp snake slithers quickly between the wide smooth boulders.
+
+This area is illuminated.
+Obvious paths: east* west*.
+[Valley Trail.]
+
+Small nannyberry trees sprout beneath the protective ironwoods. Their beige flower clusters bloom next to the rose colored berries. Dark black bark shines through the small gaps in the lush green foliage. A decorative amphora vessel lies broken in the moist dirt trail.  A small ceremonial earthen amphora vessel is here.
+
+This area is illuminated.
+Obvious paths: southeast* west*.
+se
+>[Valley Trail.]
+
+A strange hush claims this small clearing. Cool air circulates around the stump of a fallen tree. The marks on the trunk suggest a sharp tool was used to dismember it. A stone monument sits snug against the trunk wrapped in colorful crawling vines.  An engraved stone monument is here.
+
+This area is illuminated.
+Obvious paths: south* northwest*.
+s
+s
+>[Valley Trail.]
+
+A tiny white monkey hangs boldly from a thin curved tree branch. Swinging in mid-air he bolts quickly to an upright position and bounces towards a patch of dew covered berries. A faint high pitched whistle breezes through, leaving no trace of the sender.
+
+This area is illuminated.
+Obvious paths: north* south*.
+[Valley Trail.]
+
+A bright orange firebird pecks a piece of stale bread. The bread is torn into several small sections and strewn about the western edge of the trail. A lazy turtle is lounging beneath the leafy green foliage, its leathery head licking the tiny drops of dew that slowly fall from the pointy leaves.
+
+This area is illuminated.
+Obvious paths: north* southeast*.
+se
+s
+>[Valley Trail.]
+
+A floppy eared stray dog bounces across the trail intent on chasing a fluffy white rabbit. The dog yelps loudly as his tail hits the stone bird bath, and he scrambles startled into the thick forest. The rabbit, wasting no time pondering his good fortune, scurries down a small dark hole.  A shallow stone bird bath is here.
+
+This area is illuminated.
+Obvious paths: south* northwest*.
+s
+[Valley Trail.]
+
+A carefully planned tulip garden blooms vividly around an intricately designed sundial. A green fuzzy caterpillar crawls atop a bright red tulip wiggling its narrow body into the delicate petals. The lack of weeds indicate a commited gardener visits often.  An intricately aligned stone sundial is here.
+
+This area is illuminated.
+Obvious paths: north* south*.
+[Valley Trail.]
+
+Dull red bricks buried consecutively in the dirt clearing form a small clean platform. A giant shingle oak tree grows proudly before the well swept surface. A tiny wooden bench sits atop the tightly placed bricks positioned for an afternoon of pondering.  A tiny wooden bench is here.
+
+This area is illuminated.
+You see the 1st leprechaun.
+Obvious paths: north* east*.
+e
+>[Valley Trail.]
+
+Several furry black spiders crawl eagerly up an abandoned wood barrel. A wide crack in the splintered container doubles as the grand entrance for the eight-legged creatures domain. Several wispy spider webs cling to the branches of the local trees. A patch of tiny sunflowers bloom scattered amongst the long stemmed greenery.  A cracked cedar barrel is here.
+
+This area is illuminated.
+Obvious paths: east* west*.
+e
+e
+>[Valley Trail.]
+
+A calming hush blankets this oddly shaped crevice in the trail. The once narrow trail widens towards the northeast, but does not lead anywhere off the existing pathway. Mysterious broken slabs of stone litter the outer perimeter. The small pieces reveal no clues about their purpose.
+
+This area is illuminated.
+Obvious paths: east* west*.
+>[Valley Trail.]
+
+Decaying branches litter the trails northern tree line. The rigid ends of the stray wood indicate brutal means of removal. A round divet surrounding the diabolic destruction holds old dry boot prints from a long time past. Odd that nothing has grown to replace the torn vegetation.
+
+This area is illuminated.
+Obvious paths: south* west*.
+>
+ ** Current hit points: 251 out of 253
+s
+[Valley Trail.]
+
+Stout aged apple trees grow scattered among the normal inhabitants. The dominating oak trees fan their branches protectively around the smaller fruit growing loners. A furry brown squirrel springs quickly from a small brittle branch with a tasty red treasure hanging firmly from its mouth.
+
+This area is illuminated.
+Obvious paths: north* south*.
+>
+ ** You are fully healed.
+s
+[Valley Trail.]
+
+A narrow trampled dirt path branches off to the west. The crowded trees obscure the contents of the paths destination. A rich aroma of baked berries and and warm maple syrup swirls through, leaving a sweet and bitter taste upon ones tongue. A smooth brown boulder sits to the east, tucked behind two small bushes.
+
+This area is illuminated.
+Obvious paths: north* south* west*.
+s
+>[Valley Trail.]
+
+A fuzzy grey sloth climbs slowly up a local oak tree. His hooklike claws grasp firmly to the rough bark. His attention remains on his kin, whom hangs inverted on a neighboring branch. The careless creatures pay no mind to passing foreigners.
+
+This area is illuminated.
+Obvious paths: north* southeast* northwest*.
+se
+>[Valley Trail.]
+
+A forest green marble marker lies discretely off the southern trail line. A colorful patch of roses have been planted at the base of the solid tribute. A flowery fragrance dances from the blooming source. A delicate inscription has been written upon the marker.  A gleaming forest green marble marker is here.
+
+This area is illuminated.
+Obvious paths: east* northwest*.
+se
+>You cannot move in that direction.
+e
+e
+>[Valley Trail.]
+
+A long tailed mourning dove soars gracefully overhead. It circles the treetops several times before sailing off in the eastern direction. A low rumbling growl rears from the south, the orator obviously dissatisfied with recent events.
+
+This area is illuminated.
+Obvious paths: east* west*.
+[Valley Trail.]
+
+A gleaming silver bandshell surrounds the polished wooden bandstand. The entertainment apparatus sits to the north of the trail. Several wooden chairs sit patiently in the front, awaiting the next performance. Decorative begonia plants grow at the base of the minstrel's playground.  A gleaming silver bandshell and a polished wooden bandstand are here.
+
+This area is illuminated.
+You see the 1st brownie and the 2nd brownie.
+Obvious paths: south* west*.
+s
+>[Valley Trail.]
+
+The small trail slopes downward to the south. The moist dirt squishes outward with every step, leaving anything near the ground covered in black muck. A bandicoot rat squeals in dismay as his small foot sinks deeply with every meager attempt to run. After a long struggle the little critter makes a mad dash for the leafy green coverings.
+
+This area is illuminated.
+Obvious paths: north* south*.
+s
+>[Valley Trail.]
+
+A wooden dam built to the south catches all the watery run off, making this portion of the trail nearly a foot deep with muck. A horde of hungry mosquitos buzz excitedly at your presence. The long pink tongue of a large frog shoots from the crowded leaves and swipes for the unsuspecting pests.
+
+This area is illuminated.
+Obvious paths: north* east*.
+e
+>[Valley Trail.]
+
+The dirt path holds a small amount of moisture, making this bend a little slippery. The trail to the south is surprisingly dry in comparison. A quaint patch of aloe shrub grows to the east. An oozing slit in one of the thorny leaves indicate its frequent use for medicinal purposes.
+
+This area is illuminated.
+Obvious paths: south* west*.
+s
+>[Valley Trail.]
+
+The golden plumage at the nape of nearby macaw's neck rises quickly at the sound of intruders. He belts an irritated cry and flutters off deep into the western forest. A derelict antique iron bird feeder now hangs empty in the tall shady oak tree.
+
+This area is illuminated.
+You see the 1st forest sprite.
+Obvious paths: north* east*.
+e
+s
+>
+A forest sprite enters, following Hroomha.
+[Valley Trail.]
+
+A sleepy leprechaun wakes irritably from his comfortable flower bed. He leaps from the petals of the dainty pink rafflesia and sends a lightning quick wink your way, as he darts into the thick overgrowth. A high pitched giggle resonates through the crowded valley.
+
+This area is illuminated.
+You see the 1st forest sprite.
+Obvious paths: south* west*.
+[Valley Trail.]
+
+A blackened old cauldron lies desolate in the clingy overgrowth. The small patches of rust have eaten odd shaped holes in the worn exterior. A small copper colored snake slithers out of the mouth intent on a panic stricken grasshopper. A faint noise of breaking twigs follow the two into the brownish-green grass.  A blackened rusty iron cauldron is here.
+
+This area is illuminated.
+Obvious paths: north* east*.
+e
+>[Valley Trail.]
+
+Busy black beetles cover the skeletal remains of a decaying baby robin. An empty brown nest attached to an outward stretching branch hovers directly above the sad remains. A soft high-pitched voice can be heard weeping off to the east, but no one is seen.
+
+This area is illuminated.
+Obvious paths: south* west*.
+s
+s
+s
+>[Valley Trail.]
+
+A soft plush blanket of green grass covers the narrow trail. Wispy dandelions bloom vividly in thick clusters along the outer edging. The tall sturdy oak trees tower high above the short shaded althea shrub, both competing for the noon-day sun. Shiny silver vines crawl eagerly up the rough brown bark, creating a reflective mesh of dancing light.
+
+This area is illuminated.
+Obvious paths: north* south*.
+[Valley Trail]
+
+A well tended garden lies to the east. Large round cabbage and lettuce heads sprout thickly along the furthest row. Dark green leafy stalks shoot up from the soft black dirt. A furry brown, bushy tailed rabbit rolls around merrily in her new found feast. The small trail heads north into a well shaded grove, and south into a round clearing.
+
+This area is illuminated.
+Obvious paths: north* south*.
+[Valley Trail.]
+
+The rushing sound of a flowing waterfall echoes off to the southeast. This round shaded clearing is covered in deep green shrubs of all sorts. Magnificent elm trees covet the outer rim shooting their branches outwards like a giant wooden fence. A well crafted onyx statue rises eight feet in the center.  An intricately crafted onyx statue and some wild bramble hedges are here.
+
+This area is illuminated.
+You see the 1st brownie.
+Obvious paths: north*.
+go br
+>[Emjedah Trail]
+
+A small gorge cuts raggedly through the terrain, exposing long, finger-like tree roots on both sides. Although it's not very deep, it would be troublesome to cross, were it not for the planks that have been laid across it.  Some wild bramble hedges and some sturdy oak planks are here.
+
+This area is illuminated.
+Obvious paths: west*.
+l
+>[Emjedah Trail]
+
+A small gorge cuts raggedly through the terrain, exposing long, finger-like tree roots on both sides. Although it's not very deep, it would be troublesome to cross, were it not for the planks that have been laid across it.  Some wild bramble hedges and some sturdy oak planks are here.
+bramble to hothgri
+
+This area is illuminated.
+Obvious paths: west*.
+w
+>[Emjedah Trail]
+
+It is a mystery why anyone would deem it necessary to carve a path through these woods. There have been no signs of inhabitants so far, yet it continues on as if it has a purpose...
+
+This area is illuminated.
+Obvious paths: east* west*.
+w
+>[Emjedah Trail]
+
+The outlines of the path nearly fade from view, as the forest strives to wipe out the signs of civilization imposed upon it. Keeping this road open and in good repair will be a true challenge.
+
+This area is illuminated.
+Obvious paths: east* southwest*.
+sw
+>[Emjedah Trail]
+
+The softness of the earth makes walking tiresome. It forces you to slow down and savor your surroundings, if nothing else. Strange, fecund aromas tickle your nostrils. It smells a bit like the inside of a greenhouse.
+
+This area is illuminated.
+Obvious paths: northeast* southwest*.
+sw
+>[Emjedah Trail]
+
+What surely must be the granddaddy of all the trees in the forest stands on a strange knob of earth. Its roots have completely enfolded a massive boulder at the side of the road, and it would take several Thugians to reach around its trunk.
+
+This area is illuminated.
+Obvious paths: northeast* south*.
+s
+>[Emjedah Trail]
+
+A brackish puddle in a small depression in the path taunts you, daring you to step in it. A trickle of water gurgles merrily forth from a nearby rock face, feeding into the pool.
+
+This area is illuminated.
+You see the 1st black bear.
+Obvious paths: north* southwest*.
+sw
+>[Emjedah Trail]
+
+A woman's shoe lies half buried by the side of the path. It appears to be finely made; lace remnants cling forlornly to what's left of it. Had you been looking elsewhere, it would never have caught your eye. What could have have happened to its owner?
+
+This area is illuminated.
+You see the 1st snake and the 2nd snake.
+Obvious paths: northeast* west*.
+w
+>[Emjedah Trail]
+
+Huge, gleaming boulders are scattered about, looking almost as if some huge hand had carelessly tossed them here. Their strange, opaque black glassy surfaces glint dully in the flat light, their sharp angles seeming to mock the powers of wind and erosion.
+
+This area is illuminated.
+Obvious paths: east* west*.
+w
+>[Emjedah Trail]
+
+Here and there, tiny white shapes poke their heads from the loam on either side of the path. Upon closer inspection they appear to be mushrooms, although they don't resemble any types you're familiar with. The ecosystem seems to be subtly changing as you travel farther along the path.
+
+This area is illuminated.
+Obvious paths: east* southwest*.
+sw
+>[Emjedah Trail]
+
+You hear the faint sound of trickling water from somewhere nearby, although there is none in sight. The air itself is moist and still. Your footsteps hardly make a sound on the spongy ground.
+
+This area is illuminated.
+Obvious paths: northeast* southeast*.
+se
+>[Emjedah Trail]
+
+Time seems to stand still in this place. Aside from an occasional furtive scrambling sound, there is little to hear. One would think these trees would be alive with birds.
+
+This area is illuminated.
+Obvious paths: south* northwest*.
+s
+>[Emjedah Trail]
+
+Layers of settling organic debris make the ground beneath your feet quite soft. The path is surrounded by an amazing array of strange plants, many of which are unfamiliar.
+
+This area is illuminated.
+Obvious paths: north* southeast* west*.
+se
+>[Emjedah Trail]
+
+The drooping firs form a huge canopy overhead. Huge tendrils of parasitic moss hang from their branches, creating a rather unsettling effect. Even in broad daylight it's dim in this verdant tunnel.
+
+This area is illuminated.
+Obvious paths: southwest* northwest*.
+sw
+>[Emjedah Trail]
+
+The huge, ancient trees make the path meander a bit, but you're definitely angling northward. It was obviously easier to wind between the massive tree trunks than to attempt to cut a straight road through the forest.
+
+This area is illuminated.
+Obvious paths: northeast* south*.
+s
+>[Emjedah Trail]
+
+This newly constructed bit of road winds ambitiously into the looming forestlands to the north. Although not terribly well defined, the road presents an intriguing alternative to your usual route.  A slightly hidden trail is here.
+
+This area is illuminated.
+Obvious paths: north*.
+go tr
+>[Brambles.]
+
+Struggling through the underbrush, you make your way down the small trail only to be brought up short by an impenetrable wall of brambles. Plump red berries hang from the small branches of the bushes, guarded by long, sharp thorns. On a low hanging branch overhead, a watchful owl stares at you with golden eyes.  A slightly hidden trail, an ethereal looking owl, and some fragrant red rose petals are here.
+
+This area is illuminated.
+Obvious paths: southwest* northwest*.
+nw
+>[Thicket.]
+
+Winding through the trees, the path emerges from the dense foliage and continues northward. You begin to wonder if there is a way into the seemingly impenetrable western forest. A track, that looks to be one used by small animals, veers off to the side.
+
+This area is illuminated.
+Obvious paths: north* southeast* southwest*.
+sw
+>[Thicket.]
+
+The path disappears yet again in the tangled undergrowth. The thicket surrounding you is a hindrance in scouting out any sign of the path. An indistinct noise attracts your attention, and you pause to listen. It sounds like water.  
+
+This area is illuminated.
+Obvious paths: northeast* southeast*.
+se
+>[Path.]
+
+Trees surround you on all sides; for a moment the path is lost to sight. Something slithers through the underbrush. Try as you might, you can't identify what it might have been. You feel uneasy, as though something is watching your every move.  An overgrown path is here.
+
+This area is illuminated.
+Obvious paths: northeast* southwest* northwest*.
+sw
+>[Path.]
+
+The trees are becoming taller, and their trunks larger, as you make your way along. The smaller birch and beech trees have given way to graceful elms. A low growl comes from amidst the trunks of the trees, but it is impossible to determine the direction.
+
+This area is illuminated.
+Obvious paths: northeast* southeast*.
+se
+>[Path.]
+
+s
+se
+w
+sw
+se
+The path progresses along, still skirting the eastern boundary of the forest. Other than the occasional noises common to woodlands, there is no evidence of higher forms of life. A squirrel streaks through the underbrush and up the trunk of a tree.
+
+This area is illuminated.
+Obvious paths: south* northwest*.
+>[Copse.]
+
+The path becomes better defined, though it is still difficult to follow in the undergrowth, which has grown more dense. It is evident that the path at one time was a well-traveled route. Perhaps to the Spur?
+
+This area is illuminated.
+Obvious paths: north* southeast*.
+[Copse.]
+
+The undergrowth thins here, and you are able to pick up traces of the path. To the east, where only a thin line of small trees mark the forest boundary, the marsh ends its reign and what appears to be a grassy plain begins.
+
+This area is illuminated.
+Obvious paths: south* west* northwest*.
+[Copse.]
+
+The sounds of small animals scampering in the underbrush and trilling chirps from the branches overhead provide ample evidence that the forest is a hospitable home to wildlife. 
+
+This area is illuminated.
+Obvious paths: east* south* southwest* west*.
+[Path.]
+
+Chittering noises come from overhead and tree branches dip and sway. A small brown shape scampers across the path, gone before it can be glimpsed and identified. The path disappears into a copse of saplings.  A thick copse of saplings is here.
+
+This area is illuminated.
+Obvious paths: northeast* southeast*.
+[Caersech Forest.]
+
+sw
+sw
+s
+sw
+s
+Through the branches of stately trees, glimpses of the sky can be seen. The path continues, winding northwest through the eastern edge of the forest.
+
+This area is illuminated.
+Obvious paths: southwest* northwest*.
+>[Caersech Forest.]
+
+The soggy trail becomes a solid dirt path, sheltered by the trees of a forest whose boundary begins where the swamp ends. The path heads northwest, leading you into the forest proper.
+
+This area is illuminated.
+Obvious paths: northeast* southwest*.
+[Trail.]
+
+Cypress trees stand firmly rooted in the still-damp earth. Still, it appears the swamp has been left behind. The ground here is firmer and the trail clear.
+
+This area is illuminated.
+Obvious paths: northeast* south*.
+[Trail.]
+
+Murky water has encroached upon the trail, making the way treacherous. A careful survey of the watery surroundings shows a faint path veering sharply to the north, away from the marsh and toward the forest.
+
+This area is illuminated.
+Obvious paths: north* southwest*.
+[Trail.]
+
+The trail skirts the border of the dismal marsh. Noxious vapors rise from the stagnant waters that lap at the noticeably narrowing route. What had been a dark green haze can now be distinguished as a massive forest.
+
+This area is illuminated.
+Obvious paths: northeast* south*.
+[Trail.]
+
+sw
+sw
+sw
+w
+w
+The trail abruptly disappears into a dense wall of foggy mist. The ground here is soggy. Each step sets off a cacophony of buzzing insects, accompanied by the squelching sound of boots being grabbed by slimy muck.
+
+This area is illuminated.
+Obvious paths: north* southwest*.
+>[Trail.]
+
+This looks to be the northern edge of the Eastlands marsh. Each step becomes more difficult as the ground becomes a muddy bog. Straying from the trail would be unwise at this point.
+
+This area is illuminated.
+Obvious paths: northeast* east* southwest*.
+[Trail.]
+
+The hedgerows grow less dense and the ground becomes soft and springy. The air has taken on a moist and uncomfortably clammy feel. The top of a very tall hill can be seen far to the southeast.
+
+This area is illuminated.
+You see the 1st giant slug.
+Obvious paths: northeast* southwest*.
+[Trail.]
+
+To the west, tall grasses and scraggly trees obscure the view of a small town.  Creating a natural barrier to the east are rows of thorny hedges.  A haze of dark green can be seen to the northeast.
+
+This area is illuminated.
+Obvious paths: northeast* west*.
+[East Trade Road.]
+
+Puddles of murky water dully reflect the giant trees that surround you.  You feel the prickle of eyes watching you, though you don't get a feeling of malice, just curiosity.
+
+This area is illuminated.
+Obvious paths: east* west*.
+[East Trade Road.]
+
+sw
+sw
+w
+sw
+nw
+As you continue into the forest, you begin to forget that there were ever other colors than brown, green, and black.  As suddenly as that thought comes, you see a set of piercing red eyes in the shadows, that soon scurry away.
+
+This area is illuminated.
+You see the 1st merchant.
+Obvious paths: east* southwest*.
+>[East Trade Road.]
+
+Large trees begin to bunch around the road that has become little more than a path leading through the undergrowth.  The forest begins to fill your vision as you continue.
+
+This area is illuminated.
+Obvious paths: northeast* southwest*.
+[East Trade Road.]
+
+Runoff from the river to the west makes the ground all around soggy.  It appears to be even more wet to the northeast where a small marsh sits at the entrance to a huge forest spanning as far east as the eye can see.
+
+This area is illuminated.
+Obvious paths: northeast* west*.
+sk
+[East Trade Road.]
+
+The road becomes a bridge to cross a small river that meanders its way out of the forest to your northeast.  Oddly, the wooden planks of the bridge don't seem to be held up by anything.
+
+This area is illuminated.
+Obvious paths: east* southwest*.
+
+Skill                     Remain Level
+ Blunt Weapons             1048   11    
+ Berserk Attack            516    5     
+ First Aid                 720    7     
+ Shield Parry              266    3     
+ Sharp Weapons             171    3     
+ Identify Gems/Minerals    138    3     
+ Spellcasting              180    2     
+ Throw Weapons             100    1     
+*Pole Weapons              0      4     
+
+[East Trade Road.]
+
+All around you the earth is trampled flat.  You see a myriad of footprints and hoofprints in every direction.  A broken post on the side of the road may have once had a sign on it, but was snapped off near the ground.  It looks like someone left here in a hurry.  A broken post is here.
+
+This area is illuminated.
+You see the 1st trader.
+Obvious paths: northeast* northwest*.
+[East Trade Road.]
+
+nw
+w
+sw
+w
+w
+You hear voices chattering around you but you can't see the source.  After a few moments of listening, you look up into a tree next to the path and see three Fir Elves sitting in the tree talking to each other.  They smile down at you and give you a friendly greeting.
+
+This area is illuminated.
+Obvious paths: southeast* northwest*.
+>[East Trade Road.]
+
+The marsh is becoming less and less apparent, and larger trees are becoming more common. To the east you see a large forest blotting out a great deal of the sky. One tree in particular towers over all the others. 
+
+This area is illuminated.
+Obvious paths: southeast* west*.
+[East Trade Road.]
+
+A towering stone obelisk stands next to the road, serving boldly as a road marker.  The arrow east to Caersech shows that it is not much farther, while Spur is far away.
+
+This area is illuminated.
+Obvious paths: east* southwest*.
+[East Trade Road.]
+
+Following the lay of the land, the road curves slightly to the northeast to go around a stand of old trees.  The trees look more like forest trees than marsh trees.
+
+This area is illuminated.
+Obvious paths: northeast* west*.
+[East Trade Road.]
+
+The scraggly weeds of the marsh seem to grow so that they do not touch the road, as opposed to the Spurian road where all the vegetation was hacked off near it.  Even though they are old, the planks bear no moss.
+
+This area is illuminated.
+Obvious paths: east* west*.
+[East Trade Road.]
+
+nw
+nw
+nw
+w
+w
+The white paving stones give way to a boardwalk made of wooden planks.  The wood doesn't appear to be of Spurian make, and looks a great deal older, but very sturdy.  A finely crafted wooden boardwalk is here.
+
+This area is illuminated.
+You see the 1st foreign merchant.
+Obvious paths: east* northwest*.
+>[East Trade Road.]
+
+The swamp around you begins to thin out until it's nothing more than a very muddy marsh. The tiny lights still sparkle from within the swamp and are calling to you, but not as strongly as before. Another white marker is here.  An open iron gate is here.
+
+This area is illuminated.
+Obvious paths: southeast* northwest*.
+[East Trade Road.]
+
+Tiny lights flit here and there and everywhere around you. Their light twinkles dimly in the sun, but in the darkness of the marsh, they practically shine with an appealing glow.
+
+This area is illuminated.
+Obvious paths: southeast* northwest*.
+[East Trade Road.]
+
+The points of light are becoming bolder, flitting closer and closer to you and beckoning you to join them in the swamp. You must actively concentrate to avoid straying from the path and being hopelessly mired in the swamp.
+
+This area is illuminated.
+Obvious paths: southeast* west*.
+[East Trade Road.]
+
+A small orb of light hovers in the center of the path before you, only to disappear as you near it, reappearing further away into the swamp. Stepping near the orb to investigate closer only causes it to again blink out of existence, forming once more, deeper into the mists. It soon becomes apparent that the mysterious lights are attempting to slyly lead you into the swamp. To or for what purpose, is the question.
+
+This area is illuminated.
+Obvious paths: east* west*.
+[East Trade Road.]
+
+sw
+w
+nw
+nw
+sw
+Ravens dark as pitch spread their feathers to a wing-span of nearly four feet, so large they are, as they quarrel over an abandoned mule carcass on the roadside breaks out. How final death seems, so casually nature simply encompasses the bodies of the fallen, through carrion hunters or moldy decay. Yet through death there be life again, any number of these ravens being sustained through this death, so they may live. Perhaps only to become sustenance for one of the swamp creatures, who, in turn, spends its life continuing the cycle.
+
+This area is illuminated.
+Obvious paths: east* southwest*.
+>[East Trade Road.]
+
+Eyes of creatures too quick to be seen monitor your progress along the road. Their footprints can be seen occasionally, leading back and forth across the path, sometimes following along the edges, bringing to mind the vision of something that might be following you, at this very moment, leaving tiny or perhaps not so tiny footprints along the edge of the road as it stalks its prey.
+
+This area is illuminated.
+Obvious paths: northeast* west*.
+[East Trade Road.]
+
+A white mile-marking stone rises up from the muck near the path, the numbers etched into its surface gathering moss and sludge in their inner edges. A small marsh rat perches atop the stone, eyeing you hungrily with glittering red orbs, its whiskers twitching nervously at you.
+
+This area is illuminated.
+Obvious paths: east* northwest*.
+[East Trade Road.]
+
+The dried trees encroach even up to the roadside, here, their limbs reaching down to the passage as if to snatch the unwary passer-by. A sudden shift in the wind brings forth the sullied aroma of death and decay from the swamp southern lands. Slurpish noises belie the path of some creature traveling through the muddy scape, their movements hidden behind the smoky mist that reduces visibility to a mere few feet past the swamp's edge.
+
+This area is illuminated.
+Obvious paths: southeast* northwest*.
+[East Trade Road.]
+
+The open plains are becoming scattered with scraggly trees, the wood of which proving inefficient to use for building as the elements of nature have grown the trunks so twisted and hard in order to withstand the onslaughts of time. Circling around the northern base of a small hill, there lies the lapping edge of the swamp to the south. Small slimy creatures lie on the smooth stones near the water, darting into it at the speed of light as you near them with tiny splashes and echoing wakes blending into the small, gentle waves coming into the shore. Swarms of mosquitoes move along the land in unison, lending them the appearance of large, unified bodies hovering around for the next feast.
+
+This area is illuminated.
+Obvious paths: southeast* southwest*.
+[East Trade Road.]
+
+w
+w
+nw
+nw
+w
+A hedge of spiky brambles forms a natural division from the lands and the swampy terrain to the south. Tall, limbless trees dot the horizon there, their bases lost in the misty depths of the gases hovering over the waters. Now and then a strange, growling sound echos up to the north, or an odd, high-pitched call of some unseen crow, probably feasting on a fallen creature hidden in the mists. The path curves away from the sounds, as popular choice has preferred to travel around the edges, rather than through the marshy sludge.
+
+This area is illuminated.
+Obvious paths: northeast* west*.
+>[East Trade Road.]
+
+A wooden signpost gives the directions and distances to the two closest cities. The arrow leading west is denoted as Spur, while the one directing east states Caersech. Next to the signpost rests an elderly druid amidst a cushion of moss, leaves, and flower petals. He is currently lecturing a young apprentice on the city of Spur and the negative effects it has had on nature.
+
+This area is illuminated.
+Obvious paths: east* west*.
+[East Trade Road.]
+
+A cracked wheel from a cart lies next to the road.  It appears to have been abandoned in haste when it broke in the deep rut next to the road.
+
+This area is illuminated.
+Obvious paths: east* south* northwest*.
+[East Trade Road.]
+
+A pike by the side of the road displays the head of a brigand caught by the road patrol.  It serves as a warning to all those who would try to rob the merchants who use this road as a trade route.
+
+This area is illuminated.
+Obvious paths: southeast* northwest*.
+[East Trade Road.]
+
+A few scraggly trees are the forerunners of the large forest barely coming into view on the horizon.  A picketed fence to the south of you marks the end of the corn field that you had been passing.  An open iron gate is here.
+
+This area is illuminated.
+Obvious paths: southeast* west*.
+[East Trade Road.]
+
+sw
+w
+w
+w
+w
+The swishing sounds of a corn field to your south are the only noises that you can hear along this trade road. Massive pot holes fill the road here, making travel uneven and unbalanced.
+
+This area is illuminated.
+Obvious paths: east* southwest*.
+>[East Trade Road.]
+
+The trade road winds its way through farms and rolling hills.  A small white marker stone displays the distance you have traveled from Spur, as well as another distance from somewhere to the east.
+
+This area is illuminated.
+Obvious paths: northeast* west*.
+[East Trade Road.]
+
+To the north, a broad expanse of flat prairie stretches off before meeting a giant forest on the horizon.  To the south are assorted Spurian farms, their crops swaying in the light breeze.
+
+This area is illuminated.
+Obvious paths: north* east* west*.
+[East Trade Road.]
+
+You are on a recently built trade road leading to the east. The new white paving stones sparkle slightly in the sunlight. Far to the northeast, you see a broad haze of green and brown. To the south stands a small barn.  An open door is here.
+
+This area is illuminated.
+Obvious paths: east* west*.
+[Road.]
+
+The road bends from the west to the northeast at this point. To the southeast is a dirt trail that leads to a small house in the distance. The open expanse of a farmer's field stretches off to the south and west.
+
+This area is illuminated.
+Obvious paths: northeast* east* southeast* west*.
+[Road.]
+
+w
+w
+w
+w
+n
+The road follows along a farmer's field to the south. The broad rock wall that surrounds it gives silent testimony to the effort the farmer puts into his labors. Off to the north a broad hill bends around the city wall.
+10..b2g off
+
+This area is illuminated.
+Obvious paths: east* west*.
+>[Road.]
+
+Off along the north branch of the road is a large gatehouse. It stands at the base of a broad hill that seems to follow the city wall as it angles off to the northeast. The farmer's field to the south is neat and carefully tended.
+
+This area is illuminated.
+Obvious paths: north* east* west*.
+[Road.]
+
+In the distance to the north, you can make out the looming walls of the city. The guards atop the walls are like ants at this distance. To the south of the road, you see a farmer's field, carefully tended to ensure his livelihood.
+
+This area is illuminated.
+Obvious paths: east* west*.
+[Road.]
+
+You can see a large field opening up to the south at this point. In the middle of the road, there is a gaping hole from which emanates a constant humming noise. Most travelers avoid the hole by leaving the road.
+
+This area is illuminated.
+Obvious paths: east* south* west*.
+[Road.]
+
+The main north road has a branch here leading off to the east. A small sign posted at this intersection sports arrows pointing in all five directions. An open field lies off to the west and another to the southeast.
+
+This area is illuminated.
+Obvious paths: north* east* southeast* south* west*.
+[Road.]
+
+Even though it shows heavy wear, the road is in remarkably good repair. It was built by expert craftsmen to withstand the rigors of time and use. Evidence of recent repairs indicate that any problems are dealt with quickly and competently.  Some fresh crimson streaks of blood are here.
+
+This area is illuminated.
+Obvious paths: north* south* southwest*.
+sw
+>[Field.]
+
+A broad strip of grassland that follows the main road east of you, this meadow is often used by the local aristocracy for picnicking and partying on good days. The city guardsmen keep the field clear of riffraff all year round, just to be safe.  A hole is here.
+
+This area is illuminated.
+Obvious paths: northeast* east* southeast* south* southwest*.
+sw
+>[Field.]
+
+You are in a wide strip of field that runs along the main road leading into Spur's residential district. The local constabulary sees to it that vagrants don't try to bed down here. They direct them to the field to the southeast.
+
+This area is illuminated.
+Obvious paths: northeast* east* southeast* south* southwest*.
+s
+>[Road.]
+
+The road coming in from the northeast bends to the south here as it cuts through the open fields. A branch leads off to the west and the river in the distance. A signpost sporting direction arrows stands to one side.
+
+This area is illuminated.
+Obvious paths: north* northeast* east* southeast* south* west*.
+s
+s
+s
+>[Road.]
+
+The open field to the east is balanced by the fence surrounding the fairgrounds to the west. The road here hasn't seen much heavy traffic since the docks were completed, diverting most of the southbound traffic to the ships.
+
+This area is illuminated.
+Obvious paths: north* northeast* east* south*.
+[Road.]
+
+The road bends from the southwest to the north here. A gateway leads off to the southeast and a dirt-packed road there. A small farmhouse can be seen at its end, the barn nearby towering over it.
+
+This area is illuminated.
+Obvious paths: north* northeast* south* southwest*.
+[Field.]
+
+This wide strip of grass along the roadside is used by the guards at the gate to the southwest. Travelers from the south are directed here where they can be searched for contraband and illegal goods. Also, proper taxes can be assessed this way.
+
+This area is illuminated.
+Obvious paths: north* southwest* west* northwest*.
+sw
+>[Road.]
+
+Stretching as far as the eye can see to the east and west is the hedge. A thick line of trees and shrubs that serves as a natural wall between civilization and wilderness. A small outpost stands guard here, its door open to friends, barred to enemies.
+
+This area is illuminated.
+Obvious paths: north* northeast* south*.
+s
+>[Road.]
+
+This narrow tunnel through the hedge leads up to the gateway that lets out to the wilderness beyond. Though it used to see heavy traffic from the south, the docks have made this gate largely a place of semi-banishment for the guards.
+
+This area is illuminated.
+Obvious paths: north*.
+go gate
+sw
+>[Wilderness gate.]
+
+Set within a wide tunnel leading through the hedge to the north is the Wilderness Gate. It separates the settled lands of Spur from the open plains to the south of the city. The plains stretch as far as the eyes can see, the horizon and the walls of the fort down the road the only blemishes of the grassy landscape in the distance. The stones of the road are smoothly set together, well built to withstand heavy travel. A broken wagon wheel, discarded some time ago, covers a spot of nearby grass, weeds trying to climb through the spokes.
+
+This area is illuminated.
+Obvious paths: east* southeast* south* southwest* west*.
+>[Southern Tradeway.]
+
+The tradeway runs across the open grasslands northeast towards the Spur, and southwest towards distant lands and eventually, the coast. The plains to the south and east seem totally indifferent to your existence. Just ahead, a small path moves up a village of huts spread out in a semi-circle. In the center of the village a giant fire pit sits where barbarians who wander through the village can sit around to stay warm.  A worn grassy path is here.
+
+This area is illuminated.
+Obvious paths: north* northeast* east* southeast* south* southwest* west* northwest*.
+go pa
+>[Barbarian Village]
+
+A huge circle of rocks form a massive fire pit in the center of the village, smoldering embers from within the fire pit show that it hasn't been long since a fire warmed those in the village. It is here that those who wander the plains of the southlands gather together as something of a community. Barbarians from numerous clans come here to hone their skills and prove their honor in duels of battle. Entrances to all the huts seem to be closed except the largest hut in the middle of the semi-circle.  A worn grassy path and an open dried mud hut are here.
+
+This area is illuminated.
+Obvious paths: None.
+go hu
+>[Barbarian Hut]
+
+An elderly man sits before you with his legs crossed, he looks at you carefully, as if appraising your very soul. He is dressed in the simple garb of a plainsmen, two eagle feathers rise up from the band around his head. After showing you a few of the items the villagers have made by hand he is selling, he offers you a seat across from him.  An exit from the hut and a crack in the wall are here.
+
+This room is illuminated.
+Obvious exits: None.
+go cr
+w
+>[Cavern]
+
+You slide from behind a rock and into a cavern. Its walls are worn smooth by time and a ceremonial bonfire blazes in its center. The floor is of deep, white sand. Colorful paintings form a mural upon the western wall.  A flaming ceremonial bonfire and a shadowed crevice are here.
+
+This area is illuminated.
+Obvious paths: west*.
+train list
+>[Training Pit.]
+
+You find yourself at the bottom of a deep pit. It is here the barbarians practice their skills in battle. Should you leave before your blood duel has ended, you will be branded a coward.
+
+This area is illuminated.
+Obvious paths: east*.
+>
+New skills we can teach you:
+
+  6. Missile Weapons                 39. Disarming                      
+
+Existing skills we can train you in (when you are ready):
+
+  3. Blunt Weapons                   11. Berserk Attack                 
+ 42. First Aid                        7. Shield Parry                   
+  2. Sharp Weapons                    5. Throw Weapons                  
+  4. Pole Weapons                   
+
+We can only train through rank 35 in any skill we offer here.
+
+train raise 4
+>You step forward and speak with a trainer...
+
+The attendant accepts your 75sp fee and directs you to the training area...
+There you are given advanced instruction in the Pole Weapons skill until your return.
+
+Because you are still a relative novice in this skill, the training period lasts only a few moments, before you are escorted back out into the entry area.
+sk
+>
+Skill                     Remain Level
+ Blunt Weapons             1048   11    
+ Berserk Attack            516    5     
+ First Aid                 720    7     
+ Shield Parry              266    3     
+ Sharp Weapons             171    3     
+ Identify Gems/Minerals    138    3     
+ Spellcasting              180    2     
+ Throw Weapons             100    1     
+ Pole Weapons              550    5     
+
