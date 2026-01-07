@@ -1,0 +1,1291 @@
+shop list all
+
+Id# Item Type  Item Name                                     New Amount Value
+--- ---------- --------------------------------------------- --- ------ -----
+  1 Dresses    rosy pale pink chiffon dress with ribbons     Yes x19    75gp
+  2 Cloaks     hooded pure white satin rose-clasped cloak    Yes x15    110gp
+  3 Dresses    diamond strapped aqua satin slipdress         Yes x18    50gp
+  4 Cloaks     shimmering diaphanous sapphire silk wrap      Yes x17    20gp
+  5 Shirts     satin trimmed plum velvet bodice              Yes x48    30gp
+  6 Pants      creamy white crepe pants                      Yes x49    25gp
+  7 Cloaks     garnet clasped black fox stole                Yes x100   50gp
+  8 Dresses    floor-length strapless crimson velvet gown    Yes x48    50gp
+  9 Dresses    backless black snakeskin gown                 Yes x47    30gp
+ 10 Boots      snakeskin strapped onyx stilettos             Yes x46    15gp
+ 11 Pants      tapered grey wool pants                       Yes x50    25gp
+ 12 Cloaks     soft black velvet gentleman's surcoat         Yes x50    100gp
+ 13 Boots      diamond clasped sapphire satin pumps          Yes x48    25gp
+ 14 Boots      embroidered plum velvet mules                 Yes x49    5gp
+ 15 Boots      ribbon tied white satin slippers              Yes x47    5gp
+ 16 Pants      twinkling pale blue layered tulle skirt       Yes x49    30gp
+ 17 Shirts     pale blue rose trimmed white satin blouse     Yes x48    20gp
+ 18 Boots      delicately ribboned satin ballet slippers     Yes x50    8gp
+
+l
+>[Cordelia's Nightwears.]
+
+The soft light of glowing lanterns glistens upon the silky threads of oversized cobwebs. Lying within the delicately woven tangle of each web, an original design dangles. Noble women and men saunter cautiously around the room, clinging to their coin purses, as knobby knee'd Go-blin-als murmur and wrinkle their noses in disgust at the merchant's goods.   An open billowy black and orange satin curtain, an open canvas sack, a short steel butcher knife, and an obsidian and copper goblet are here.
+
+This area is illuminated.
+In the area are Castin the Anthian, Jade the San Elf, and Vincentiv the San Elf.
+Obvious paths: None.
+pon a strapless dress
+>You ponder a strapless dress.
+>
+Castin says, "l"
+' all done for me
+
+Glinka says, " all done for me"
+chu softly, her rosy cheeks turning red....
+>You chuckle softly, her rosy cheeks turning red....
+>
+You follow Castin through an open billowy black and orange satin curtain...
+
+
+l
+The area brightens.
+[Tree of Shadows.]
+
+Twinkling orange and black silk streamers, entwined in twists and swirls, hang all around this platform of the tree of shadows. From the center of the tree, a twinkling black spider hangs from an intricately woven cobweb. As the spider dangles, small prisms of light dance around the black silk lined walls of the tree. Eerie music and sounds carry on the air as a satin curtain gently billows with a hasty draft.  A vine-covered ladder, an open billowy black and orange satin curtain, and a giant glistening cobweb are here.
+
+This area is illuminated.
+In the area is Castin the Anthian.
+Obvious paths: None.
+[Tree of Shadows.]
+
+Twinkling orange and black silk streamers, entwined in twists and swirls, hang all around this platform of the tree of shadows. From the center of the tree, a twinkling black spider hangs from an intricately woven cobweb. As the spider dangles, small prisms of light dance around the black silk lined walls of the tree. Eerie music and sounds carry on the air as a satin curtain gently billows with a hasty draft.  A vine-covered ladder, an open billowy black and orange satin curtain, and a giant glistening cobweb are here.
+
+This area is illuminated.
+In the area is Castin the Anthian.
+Obvious paths: None.
+l at cur
+>It looks like an open billowy black and orange satin curtain.
+l through cur
+l under cur
+l behind cur
+l on cur
+l in cur
+>It's too dark to see anything!  Ready a torch.
+>There is nothing underneath that.
+>There is nothing behind that.
+>There is nothing on top of that.
+>There is nothing inside that.
+>
+You follow Castin through a vine-covered ladder...
+
+
+l
+The area brightens.
+[Tree of Shadows.]
+
+The wind whines a slow, lingering wail through small cracks within the willow's wood.  A small platform winds itself around the bough and meets the entrance of a peculiar room with a crooked red door. At the foot of the door, two carved pumpkins glow with a soft yellowish light. Black shadows march across the innards of the tree like a parade of urchins of the night as tall and small figures in costume climb up a small wooden ladder.  Some steep spiraling stairs, an open crooked red wooden door, and a vine-covered ladder are here.
+
+This area is illuminated.
+In the area is Castin the Anthian.
+Obvious paths: None.
+[Tree of Shadows.]
+
+The wind whines a slow, lingering wail through small cracks within the willow's wood.  A small platform winds itself around the bough and meets the entrance of a peculiar room with a crooked red door. At the foot of the door, two carved pumpkins glow with a soft yellowish light. Black shadows march across the innards of the tree like a parade of urchins of the night as tall and small figures in costume climb up a small wooden ladder.  Some steep spiraling stairs, an open crooked red wooden door, and a vine-covered ladder are here.
+
+This area is illuminated.
+In the area is Castin the Anthian.
+Obvious paths: None.
+shop list all
+>
+You follow Castin through some steep spiraling stairs...
+
+
+l
+The area brightens.
+[Tree of Shadows.]
+
+Wavering white-hot orange flames swirl from a large opal disk that hovers as a centerpiece in this immense tree. Gnarled wooden stairs spiral and climb up the walls of the rounded bough, disappearing into a dark zenith. Shapeless figures dance and undulate on the walls, creating a spectacle of slow spinning shadows that unfurl into jackals and snakes. Howls of delights roar then fade into the distance as merrymakers disappear down a slithering slide, which cascades into a void of darkness way below.  An open star etched amber door, some steep spiraling stairs, and a wickedly curled slide are here.
+
+This area is illuminated.
+In the area is Castin the Anthian.
+Obvious paths: None.
+There is no shop here!
+>[Tree of Shadows.]
+
+Wavering white-hot orange flames swirl from a large opal disk that hovers as a centerpiece in this immense tree. Gnarled wooden stairs spiral and climb up the walls of the rounded bough, disappearing into a dark zenith. Shapeless figures dance and undulate on the walls, creating a spectacle of slow spinning shadows that unfurl into jackals and snakes. Howls of delights roar then fade into the distance as merrymakers disappear down a slithering slide, which cascades into a void of darkness way below.  An open star etched amber door, some steep spiraling stairs, and a wickedly curled slide are here.
+
+This area is illuminated.
+In the area is Castin the Anthian.
+Obvious paths: None.
+shop list all
+>There is no shop here!
+>
+You follow Castin through a wickedly curled slide...
+
+
+l
+The area brightens.
+[Tree of Shadows.]
+
+Snakelike flames lick the air above, as shadows stand motionlessly against the hasty draft that cuts like a serpent's tongue through the underground roots. A circlet of paper demons crowns the tree's lifeless roots, which dig into the earth like knotted joints. Tiny black bugs cover the base of the tree's trunk as small figures burrow themselves in a large dark hole.  A small dark dirt hole is here.
+
+This area is illuminated.
+In the area is Castin the Anthian.
+Obvious paths: None.
+[Tree of Shadows.]
+
+Snakelike flames lick the air above, as shadows stand motionlessly against the hasty draft that cuts like a serpent's tongue through the underground roots. A circlet of paper demons crowns the tree's lifeless roots, which dig into the earth like knotted joints. Tiny black bugs cover the base of the tree's trunk as small figures burrow themselves in a large dark hole.  A small dark dirt hole is here.
+
+This area is illuminated.
+In the area is Castin the Anthian.
+Obvious paths: None.
+shop list all
+>There is no shop here!
+>
+You follow Castin through a small dark dirt hole...
+
+[Trinki the Flerian's Shoppe in the Ground.]
+
+Walls of pressed earth and roughly cut stone surround a haphazard assortment of various trinkets and tools scattered across the floor. Two matching boxes sit next to each other near the burrows entrance. Feeble light flickers from a small magickally glowing yellowish ball, which is encased within a metal lantern that sits on a black wooden desk. Shadows obscure a pair of closed, locked boxes jutting out from underneath the desk.  A small dark dirt hole, a narrow dirt tunnel, and a pair of glowing demon carved pumpkins are here.
+
+This area is illuminated.
+In the area is Castin the Anthian.
+Obvious paths: None.
+shop list all
+
+Id# Item Type  Item Name                                     New Amount Value
+--- ---------- --------------------------------------------- --- ------ -----
+  1 Wpn/Sharp  short opal-hilted double-edged moonsilver kris Yes x11    60gp
+  2 Wpn/Blunt  sand filled leather sap                       Yes x24    3gp
+
+' sap?
+>
+Glinka asks, " sap?"
+shop ex 1
+>You examine the short opal-hilted double-edged moonsilver kris...
+
+It is in new condition.
+It weighs about 0.5 lbs (at human size)
+It is a one-handed sharp weapon.
+It is not balanced for throwing.
+It has a good damage capability.
+
+>
+Castin says, "Neat blade"
+nod yes
+You nod up and down.
+>
+Castin discusses something with the proprietor.
+rai
+You raise an eyebrow.
+l
+>[Trinki the Flerian's Shoppe in the Ground.]
+
+Walls of pressed earth and roughly cut stone surround a haphazard assortment of various trinkets and tools scattered across the floor. Two matching boxes sit next to each other near the burrows entrance. Feeble light flickers from a small magickally glowing yellowish ball, which is encased within a metal lantern that sits on a black wooden desk. Shadows obscure a pair of closed, locked boxes jutting out from underneath the desk.  A small dark dirt hole, a narrow dirt tunnel, and a pair of glowing demon carved pumpkins are here.
+
+This area is illuminated.
+In the area is Castin the Anthian.
+Obvious paths: None.
+>
+Castin removes his bright orange pumpkin.
+
+Castin readies a sand filled leather sap.
+gig
+You giggle.
+' zap!
+>
+Glinka exclaims, " zap!"
+>
+Your flaming jeweled golden priest's censer flickers for a moment.
+
+You follow Castin through a small dark dirt hole...
+
+
+l
+The area brightens.
+[Tree of Shadows.]
+
+Snakelike flames lick the air above, as shadows stand motionlessly against the hasty draft that cuts like a serpent's tongue through the underground roots. A circlet of paper demons crowns the tree's lifeless roots, which dig into the earth like knotted joints. Tiny black bugs cover the base of the tree's trunk as small figures burrow themselves in a large dark hole.  A small dark dirt hole is here.
+
+This area is illuminated.
+In the area is Castin the Anthian.
+Obvious paths: None.
+[Tree of Shadows.]
+
+Snakelike flames lick the air above, as shadows stand motionlessly against the hasty draft that cuts like a serpent's tongue through the underground roots. A circlet of paper demons crowns the tree's lifeless roots, which dig into the earth like knotted joints. Tiny black bugs cover the base of the tree's trunk as small figures burrow themselves in a large dark hole.  A small dark dirt hole is here.
+
+This area is illuminated.
+In the area is Castin the Anthian.
+Obvious paths: None.
+shop list all
+>There is no shop here!
+>
+Castin exclaims, "Kerpow!"
+gri
+
+You follow Castin through a small dark dirt hole...
+
+[Trinki the Flerian's Shoppe in the Ground.]
+
+Walls of pressed earth and roughly cut stone surround a haphazard assortment of various trinkets and tools scattered across the floor. Two matching boxes sit next to each other near the burrows entrance. Feeble light flickers from a small magickally glowing yellowish ball, which is encased within a metal lantern that sits on a black wooden desk. Shadows obscure a pair of closed, locked boxes jutting out from underneath the desk.  A small dark dirt hole, a narrow dirt tunnel, and a pair of glowing demon carved pumpkins are here.
+
+This area is illuminated.
+In the area is Castin the Anthian.
+Obvious paths: None.
+You grin.
+>
+You follow Castin through a small dark dirt hole...
+
+
+l
+The area brightens.
+[Tree of Shadows.]
+
+Snakelike flames lick the air above, as shadows stand motionlessly against the hasty draft that cuts like a serpent's tongue through the underground roots. A circlet of paper demons crowns the tree's lifeless roots, which dig into the earth like knotted joints. Tiny black bugs cover the base of the tree's trunk as small figures burrow themselves in a large dark hole.  A small dark dirt hole is here.
+
+This area is illuminated.
+In the area is Castin the Anthian.
+Obvious paths: None.
+shop list all
+[Tree of Shadows.]
+
+Snakelike flames lick the air above, as shadows stand motionlessly against the hasty draft that cuts like a serpent's tongue through the underground roots. A circlet of paper demons crowns the tree's lifeless roots, which dig into the earth like knotted joints. Tiny black bugs cover the base of the tree's trunk as small figures burrow themselves in a large dark hole.  A small dark dirt hole is here.
+
+This area is illuminated.
+In the area is Castin the Anthian.
+Obvious paths: None.
+>There is no shop here!
+shop list all
+>There is no shop here!
+>
+You follow Castin through a small dark dirt hole...
+
+[Trinki the Flerian's Shoppe in the Ground.]
+
+Walls of pressed earth and roughly cut stone surround a haphazard assortment of various trinkets and tools scattered across the floor. Two matching boxes sit next to each other near the burrows entrance. Feeble light flickers from a small magickally glowing yellowish ball, which is encased within a metal lantern that sits on a black wooden desk. Shadows obscure a pair of closed, locked boxes jutting out from underneath the desk.  A small dark dirt hole, a narrow dirt tunnel, and a pair of glowing demon carved pumpkins are here.
+
+This area is illuminated.
+In the area is Castin the Anthian.
+Obvious paths: None.
+
+You follow Castin through a narrow dirt tunnel...
+
+[Skirtleby's Morsel Shoppe.]
+
+Tiny morsels overflow from glass jars, as steam swirls from a cauldron of bubbling witches' brew. Dressed in a bloodstained apron, a cross-eyed Go-blin-al stands behind the wooden counter that is formed from an oversized tree root. Tattered garlands, stolen from the Elindale festival, decorate the small shoppe. As a foul smelling wind stirs the air, the small merchant fans a crooked hand behind him. Baskets of freshly baked pastries and body parts tantalize the senses with delightful repulsion, while cheerfully dressed Secians circle around the black cloth covered tables, escaping the grasp of snot nosed patrons.  A glowing stone fireplace, some short black and gold tables and chairs, a narrow dirt tunnel, and an open dusty wooden trapdoor are here.
+
+This room is illuminated.
+You see the 1st scary glowing skeleton.
+In the room is Castin the Anthian.
+Obvious exits: None.
+shop list all
+
+Id# Item Type  Item Name                                     New Amount Value
+--- ---------- --------------------------------------------- --- ------ -----
+  1 Food       strangely blood red popcicle                  Yes x197   75sp
+  2 Food       ripe red bloodfruit                           Yes x149   50sp
+  3 Food       malevolent black apple                        Yes x199   25sp
+  4 Food       jar of red and black hissing scorpions        Yes x198   2gp
+  5 Food       carefully wrapped mummified surprise          Yes x199   1gp
+  6 Food       jar of pickled eyeballs                       Yes x200   50sp
+  7 Food       oozing slimy tentacle of the deep             Yes x198   25sp
+  8 Food       bloody severed finger sandwich                Yes x199   1gp+50sp
+  9 Food       roasted black vampire bat on a stick          Yes x198   2gp
+ 10 Food       vanilla frosted pumpkin-hazlenut cake         Yes x191   50sp
+ 11 Food       sugary piece of apple-blackberry pie          Yes x193   50sp
+ 12 Food       twinkling black chocolate cat cookie          Yes x177   25sp
+ 13 Drink      cup of hot apple spiders                      Yes x199   10sp
+ 14 Drink      small green glass of wormwood tincture        Yes x199   3gp
+ 15 Drink      small pot of bubbling witches' brew           Yes x199   1gp
+ 16 Drink      goblet of sweet candy apple punch             Yes x195   1gp
+ 17 Drink      steaming tankard of bleeding heart ale        Yes x198   30sp
+
+' popcicle
+>
+Glinka says, " popcicle"
+>
+Castin says, "Nummies"
+gri
+You grin.
+>
+The scary glowing skeleton returns to center rank.
+inv
+Items carried:
+  An open dragon embroidered black leather backpack [0.8 lbs].
+  An open large forest green leather backpack [2.8 lbs].
+  A crescent moon earring [0.0 lbs].
+  A hexagonal pearl opal [0.1 lbs].
+  A white silk cloak [2.8 lbs].
+  A flower [0.1 lbs].
+  A golden love potion [0.1 lbs].
+  A shimmering lump of amber [0.1 lbs].
+  An amethyst encrusted moonsilver anklet [0.1 lbs].
+  An intricately white circlet of roses [0.1 lbs].
+  A paper lantern [0.1 lbs].
+  An open hunter-green leather healer's bag [0.4 lbs].
+  A delicately linked gold belly chain [0.0 lbs].
+  A small glistening red crystal [0.1 lbs].
+  An open woven hemp herb satchel [1.1 lb].
+  A glass of fine Secian wine [0.1 lbs].
+  A flaming jeweled golden priest's censer [0.2 lbs].
+  A pair of ornate silver toe rings [0.0 lbs].
+  A screaming chicken mask [0.0 lbs].
+  An open forest green leather healer's bag [2.4 lbs].
+  A silver serpentine hoop [0.0 lbs].
+  An open small hunter-green leather remedy pouch [2.4 lbs].
+  A moon shaped ivory talisman [0.1 lbs].
+  A rainbow ribboned paper pixie mask [0.0 lbs].
+
+You have 60 silver pieces and 0 gold pieces.
+
+This gives you a total net worth of 60 silver.
+
+Your inventory totals 14.5 lbs.
+shop list all
+>
+Id# Item Type  Item Name                                     New Amount Value
+--- ---------- --------------------------------------------- --- ------ -----
+  1 Food       strangely blood red popcicle                  Yes x197   75sp
+  2 Food       ripe red bloodfruit                           Yes x149   50sp
+  3 Food       malevolent black apple                        Yes x199   25sp
+  4 Food       jar of red and black hissing scorpions        Yes x198   2gp
+  5 Food       carefully wrapped mummified surprise          Yes x199   1gp
+  6 Food       jar of pickled eyeballs                       Yes x200   50sp
+  7 Food       oozing slimy tentacle of the deep             Yes x198   25sp
+  8 Food       bloody severed finger sandwich                Yes x199   1gp+50sp
+  9 Food       roasted black vampire bat on a stick          Yes x198   2gp
+ 10 Food       vanilla frosted pumpkin-hazlenut cake         Yes x191   50sp
+ 11 Food       sugary piece of apple-blackberry pie          Yes x193   50sp
+ 12 Food       twinkling black chocolate cat cookie          Yes x177   25sp
+ 13 Drink      cup of hot apple spiders                      Yes x199   10sp
+ 14 Drink      small green glass of wormwood tincture        Yes x199   3gp
+ 15 Drink      small pot of bubbling witches' brew           Yes x199   1gp
+ 16 Drink      goblet of sweet candy apple punch             Yes x195   1gp
+ 17 Drink      steaming tankard of bleeding heart ale        Yes x198   30sp
+
+shop buy 3
+>You step forward and speak with the proprietor...
+
+The merchant accepts your 25sp and hands you the malevolent black apple.
+shop buy 13
+>You step forward and speak with the proprietor...
+
+The merchant accepts your 10sp and hands you the cup of hot apple spiders.
+blow spi
+>I don't see what you are referring to.
+blu cup
+>You blush cup.
+>
+Castin discusses something with the proprietor.
+blo cup
+I don't see what you are referring to.
+blo hot
+>I don't see what you are referring to.
+>
+Castin just dropped a maple leaf.
+
+Castin just placed a hexagonal blood spinel within his open large plaid leather backpack.
+blo app
+You blow on the malevolent black apple.
+>
+Castin just placed a spider carapace within his open large plaid leather backpack.
+blo 2 app
+You blow on the cup of hot apple spiders.
+>
+Castin just dropped a short bronze dagger.
+gig
+You giggle.
+>
+Castin just placed a spider carapace within his open large plaid leather backpack.
+
+Castin just placed some fitted grey calfhide pants within his open large brown leather backpack.
+put app in 2 heal
+You place the malevolent black apple within your open forest green leather healer's bag.
+put app in 2 heal
+>You place the cup of hot apple spiders within your open forest green leather healer's bag.
+>
+Castin just placed a bright orange pumpkin within his open large plaid leather backpack.
+shop list all
+
+Id# Item Type  Item Name                                     New Amount Value
+--- ---------- --------------------------------------------- --- ------ -----
+  1 Food       strangely blood red popcicle                  Yes x197   75sp
+  2 Food       ripe red bloodfruit                           Yes x149   50sp
+  3 Food       malevolent black apple                        Yes x198   25sp
+  4 Food       jar of red and black hissing scorpions        Yes x198   2gp
+  5 Food       carefully wrapped mummified surprise          Yes x199   1gp
+  6 Food       jar of pickled eyeballs                       Yes x200   50sp
+  7 Food       oozing slimy tentacle of the deep             Yes x198   25sp
+  8 Food       bloody severed finger sandwich                Yes x199   1gp+50sp
+  9 Food       roasted black vampire bat on a stick          Yes x198   2gp
+ 10 Food       vanilla frosted pumpkin-hazlenut cake         Yes x191   50sp
+ 11 Food       sugary piece of apple-blackberry pie          Yes x193   50sp
+ 12 Food       twinkling black chocolate cat cookie          Yes x176   25sp
+ 13 Drink      cup of hot apple spiders                      Yes x198   10sp
+ 14 Drink      small green glass of wormwood tincture        Yes x199   3gp
+ 15 Drink      small pot of bubbling witches' brew           Yes x199   1gp
+ 16 Drink      goblet of sweet candy apple punch             Yes x195   1gp
+ 17 Drink      steaming tankard of bleeding heart ale        Yes x198   30sp
+
+>
+Castin just placed an oak crossbow within his open large frayed burlap rucksack.
+You see Castin take a drink from his glass of water.
+You see Castin drink the last of his glass of water.
+
+Castin just dropped an empty glass of water.
+
+Castin discusses something with the proprietor.
+shop ex 4
+You examine the jar of red and black hissing scorpions...
+
+It is in new condition.
+It weighs about 3.0 lbs (at human size)
+
+>
+Castin discusses something with the proprietor.
+who range race
+List will be restricted to those within range.
+Race who list activated!
+
+                Current Secian Adventurers:
+
+Current Adventurers
+
+ Lebelle Winggoddess                 Equality Everlove                  
+ Glinka Dragondsfriend              
+
+You notice 3 adventurers.
+link wow...nice shops for clothes in here!
+>
+>
+Castin exclaims, "Full of cookies!"
+gri
+You grin.
+>You see Castin take a bite of his twinkling black chocolate cat cookie.
+
+acc offer from Castin
+sp
+' Thankies!
+smile at Castin softly
+hug Castin softly, her long long hair falling all over the place...
+Castin offers you a twinkling black chocolate cat cookie.
+
+You are now speaking Common.
+
+Glinka exclaims, " Thankies!"
+file
+You accept the twinkling black chocolate cat cookie.
+>You smile at Castin softly.
+>You hug Castin softly, her long long hair falling all over the place...
+>You see Castin take a bite of his twinkling black chocolate cat cookie.
+east bat
+You cannot move in that direction.
+>You see Castin take a bite of his twinkling black chocolate cat cookie.
+eat bat
+You see Castin take a bite of his twinkling black chocolate cat cookie.
+I don't see what you are referring to.
+>You see Castin take a bite of his twinkling black chocolate cat cookie.
+You see Castin take a bite of his half-eaten twinkling black chocolate cat cookie.
+eat cho
+You take a bite of your twinkling black chocolate cat cookie.
+Hmmm... not bad!
+>You see Castin take a bite of his half-eaten twinkling black chocolate cat cookie.
+You see Castin take a bite of his half-eaten twinkling black chocolate cat cookie.
+eat cho
+You see Castin take a bite of his half-eaten twinkling black chocolate cat cookie.
+You take a bite of your twinkling black chocolate cat cookie.
+Hmmm... not bad!
+>
+Castin says, "Last long time too"
+gri
+You grin.
+nod yes
+>You nod up and down.
+>You see Castin eat the last of his twinkling black chocolate cat cookie.
+
+Castin belches.
+eat cho
+You take a bite of your twinkling black chocolate cat cookie.
+Hmmm... not bad!
+eat cho
+>You take a bite of your twinkling black chocolate cat cookie.
+Hmmm... not bad!
+eat cho
+>You take a bite of your twinkling black chocolate cat cookie.
+Hmmm... not bad!
+' thank you
+>
+Glinka says, " thank you"
+beam
+>You beam.
+>
+You follow Castin through an open dusty wooden trapdoor...
+
+[Ash'cli Woods.]
+
+Crimson, golden, and orange leaves tangle harshly with the wind as the night air cuts through the twisted branches boastfully. An ashen tree, whose branches are like a crippled old woman's hand, hangs heavily over a large glass tank. Red crystal apples bob rapidly as the chill of night stirs the water inside the tank. As the water churns and the wind rushes through the trees, a flock of black birds escape hastily from the branches above, sending a whirlwind of leaves to the ground.  An apple filled glass tank and a pair of glowing vine-covered pumpkins are here.
+
+This area is illuminated.
+In the area is Castin the Anthian.
+Obvious paths: north southeast*.
+
+Castin smiles.
+shop list all
+There is no shop here!
+>
+You follow Castin north...
+
+
+l
+The area brightens.
+[Ash'cli Woods.]
+
+Sinuous vines twist around the tree trunks and stretch themselves from one tree to the next.  Crimson and orange leaves swirl lightly as a soft breeze blows through.  Two of the smaller trees bend towards each other, their upper branches entwining and forming a natural arch.  A shimmering spiderweb curtain hangs from the archway, glowing softly from behind.    A shimmering spiderweb curtain and a pumpkin are here.
+
+This area is illuminated.
+In the area is Castin the Anthian.
+Obvious paths: south* northwest*.
+pok tr
+[Ash'cli Woods.]
+
+Sinuous vines twist around the tree trunks and stretch themselves from one tree to the next.  Crimson and orange leaves swirl lightly as a soft breeze blows through.  Two of the smaller trees bend towards each other, their upper branches entwining and forming a natural arch.  A shimmering spiderweb curtain hangs from the archway, glowing softly from behind.    A shimmering spiderweb curtain and a pumpkin are here.
+
+This area is illuminated.
+In the area is Castin the Anthian.
+Obvious paths: south* northwest*.
+>I don't see what you are referring to.
+>
+You follow Castin northwest...
+
+[Ash'cli Woods, Tree of Shadows.]
+
+A skeletal tree stands like an imposing ghoul against the starlit purplish black landscape of night. The tree's long, leafless branches whip furiously with the wind as small orange lights flicker from small, crooked windows carved into the monstrous bough. Shrilled laughter mixed with eerie cries of terror carry on the hasty wind as a star etched wooden door swings on its hinges from the base of the tree.  A pair of glowing vine-covered pumpkins and an open star etched amber door are here.
+
+This area is illuminated.
+In the area is Castin the Anthian.
+Obvious paths: north* northeast southeast*.
+
+You follow Castin north...
+
+[Ash'cli Woods.]
+
+A gnarled willow tree stands like a towering shadow over a small crooked shack. The tree's long, skeletal branches blow furiously with the wind, stinging the frigid air like a whip. A misty trail of white smoke slinks steadily in coiled rings from a stone chimney that hardly balances on the slanted rooftop. A silver trimmed owl rests like an ancient sentinel on the stacked stones. Its golden eyes reflect the halo of the full moon. Shrilled laughter mixed with eerie cries of terror carry on the hasty wind as the star etched wooden door swings on its hinges.  An open star etched wooden door and some glowing intricately carved pumpkins are here.
+
+This area is illuminated.
+In the area is Castin the Anthian.
+Obvious paths: north* south*.
+
+shop list all
+
+You follow Castin north...
+
+[Ash'cli Woods.]
+
+Curls of flames lick the crisp black night air as a cloud of smoke eddies upward, weaving a snaky trail through the velvet sky lit by twilight. The sweet, spicy scent of burning wood carries on the air, giving warmth to the stinging chill of the rushing wind. A circle of merrymakers sit around the fire, warming their hands as others chase and dance through the leafless trees that stand like wicked figures in the darkness.  A flaming bonfire and a glowing large rune inscribed pumpkin are here.
+
+This area is illuminated.
+In the area is Castin the Anthian.
+Obvious paths: south*.
+There is no shop here!
+shop list all
+>
+
+You follow Castin south...
+
+[Ash'cli Woods.]
+
+A gnarled willow tree stands like a towering shadow over a small crooked shack. The tree's long, skeletal branches blow furiously with the wind, stinging the frigid air like a whip. A misty trail of white smoke slinks steadily in coiled rings from a stone chimney that hardly balances on the slanted rooftop. A silver trimmed owl rests like an ancient sentinel on the stacked stones. Its golden eyes reflect the halo of the full moon. Shrilled laughter mixed with eerie cries of terror carry on the hasty wind as the star etched wooden door swings on its hinges.  An open star etched wooden door and some glowing intricately carved pumpkins are here.
+
+This area is illuminated.
+In the area is Castin the Anthian.
+Obvious paths: north* south*.
+There is no shop here!
+shop list all
+>There is no shop here!
+>
+You follow Castin through an open star etched wooden door...
+
+
+l
+The area brightens.
+[Broyce's Cottage of Terror.]
+
+A high pitched cackle rings madly from behind a large iron door. Large white sheets with painted faces dangle from the ceiling, as a cool draft blows in from the creaking star etched wooden door. Bales of hale are scattered across the dusty floor as patrons await their "surgery." An extremely tall, lanky fellow stands beside the iron door, insisting that he was once the size of a Secian.  An open star etched wooden door, some bales of hay, some bales of hay, and an open heavy iron door are here.
+
+This area is illuminated.
+In the area is Castin the Anthian.
+Obvious paths: None.
+[Broyce's Cottage of Terror.]
+
+A high pitched cackle rings madly from behind a large iron door. Large white sheets with painted faces dangle from the ceiling, as a cool draft blows in from the creaking star etched wooden door. Bales of hale are scattered across the dusty floor as patrons await their "surgery." An extremely tall, lanky fellow stands beside the iron door, insisting that he was once the size of a Secian.  An open star etched wooden door, some bales of hay, some bales of hay, and an open heavy iron door are here.
+
+This area is illuminated.
+In the area is Castin the Anthian.
+Obvious paths: None.
+link and how
+>
+shop list all
+>There is no shop here!
+>
+Castin gulps.
+
+gri
+You grin.
+>
+Castin says, "Dare we"
+' we dare
+
+Glinka says, " we dare"
+how to ca
+>You howl to Castin.
+>
+You follow Castin through an open heavy iron door...
+
+
+l
+The area brightens.
+[Backroom.]
+
+A large table sits in the center of this room. Rollers at either side of the table are used to pull the body in opposite directions, stretching it. In the corner of the room, a tall iron maiden is placed. Across the spiked interior, a twinkling sign reads, "Get Skinny for just 500 Gold!" An axe and some iron wedges are scattered across the floor.  An open heavy iron door is here.
+
+This area is illuminated.
+In the area is Castin the Anthian.
+Obvious paths: None.
+[Backroom.]
+
+A large table sits in the center of this room. Rollers at either side of the table are used to pull the body in opposite directions, stretching it. In the corner of the room, a tall iron maiden is placed. Across the spiked interior, a twinkling sign reads, "Get Skinny for just 500 Gold!" An axe and some iron wedges are scattered across the floor.  An open heavy iron door is here.
+
+This area is illuminated.
+In the area is Castin the Anthian.
+Obvious paths: None.
+shop list all
+>There is no shop here!
+gig
+>You giggle.
+>
+Castin laughs.
+
+You follow Castin through an open heavy iron door...
+
+
+l
+The area brightens.
+[Broyce's Cottage of Terror.]
+
+A high pitched cackle rings madly from behind a large iron door. Large white sheets with painted faces dangle from the ceiling, as a cool draft blows in from the creaking star etched wooden door. Bales of hale are scattered across the dusty floor as patrons await their "surgery." An extremely tall, lanky fellow stands beside the iron door, insisting that he was once the size of a Secian.  An open star etched wooden door, some bales of hay, some bales of hay, and an open heavy iron door are here.
+
+This area is illuminated.
+In the area is Castin the Anthian.
+Obvious paths: None.
+[Broyce's Cottage of Terror.]
+
+A high pitched cackle rings madly from behind a large iron door. Large white sheets with painted faces dangle from the ceiling, as a cool draft blows in from the creaking star etched wooden door. Bales of hale are scattered across the dusty floor as patrons await their "surgery." An extremely tall, lanky fellow stands beside the iron door, insisting that he was once the size of a Secian.  An open star etched wooden door, some bales of hay, some bales of hay, and an open heavy iron door are here.
+
+This area is illuminated.
+In the area is Castin the Anthian.
+Obvious paths: None.
+shop list all
+>There is no shop here!
+l at doo
+>It looks like an open star etched wooden door.
+l through doo
+l under doo
+l behind doo
+l on doo
+l in doo
+>[Ash'cli Woods.]
+
+A gnarled willow tree stands like a towering shadow over a small crooked shack. The tree's long, skeletal branches blow furiously with the wind, stinging the frigid air like a whip. A misty trail of white smoke slinks steadily in coiled rings from a stone chimney that hardly balances on the slanted rooftop. A silver trimmed owl rests like an ancient sentinel on the stacked stones. Its golden eyes reflect the halo of the full moon. Shrilled laughter mixed with eerie cries of terror carry on the hasty wind as the star etched wooden door swings on its hinges.  An open star etched wooden door and some glowing intricately carved pumpkins are here.
+
+This area is illuminated.
+Obvious paths: north* south*.
+>There is nothing underneath that.
+>There is nothing behind that.
+>There is nothing on top of that.
+>There is nothing inside that.
+l
+>[Broyce's Cottage of Terror.]
+
+A high pitched cackle rings madly from behind a large iron door. Large white sheets with painted faces dangle from the ceiling, as a cool draft blows in from the creaking star etched wooden door. Bales of hale are scattered across the dusty floor as patrons await their "surgery." An extremely tall, lanky fellow stands beside the iron door, insisting that he was once the size of a Secian.  An open star etched wooden door, some bales of hay, some bales of hay, and an open heavy iron door are here.
+
+This area is illuminated.
+In the area is Castin the Anthian.
+Obvious paths: None.
+>
+Castin chuckles.
+shop list all
+
+You follow Castin through an open star etched wooden door...
+
+[Ash'cli Woods.]
+
+A gnarled willow tree stands like a towering shadow over a small crooked shack. The tree's long, skeletal branches blow furiously with the wind, stinging the frigid air like a whip. A misty trail of white smoke slinks steadily in coiled rings from a stone chimney that hardly balances on the slanted rooftop. A silver trimmed owl rests like an ancient sentinel on the stacked stones. Its golden eyes reflect the halo of the full moon. Shrilled laughter mixed with eerie cries of terror carry on the hasty wind as the star etched wooden door swings on its hinges.  An open star etched wooden door and some glowing intricately carved pumpkins are here.
+
+This area is illuminated.
+In the area is Castin the Anthian.
+Obvious paths: north* south*.
+There is no shop here!
+shop list all
+>There is no shop here!
+gri
+>You grin.
+>
+You follow Castin through an open star etched wooden door...
+
+
+l
+The area brightens.
+[Broyce's Cottage of Terror.]
+
+A high pitched cackle rings madly from behind a large iron door. Large white sheets with painted faces dangle from the ceiling, as a cool draft blows in from the creaking star etched wooden door. Bales of hale are scattered across the dusty floor as patrons await their "surgery." An extremely tall, lanky fellow stands beside the iron door, insisting that he was once the size of a Secian.  An open star etched wooden door, some bales of hay, some bales of hay, and an open heavy iron door are here.
+
+This area is illuminated.
+In the area is Castin the Anthian.
+Obvious paths: None.
+[Broyce's Cottage of Terror.]
+
+A high pitched cackle rings madly from behind a large iron door. Large white sheets with painted faces dangle from the ceiling, as a cool draft blows in from the creaking star etched wooden door. Bales of hale are scattered across the dusty floor as patrons await their "surgery." An extremely tall, lanky fellow stands beside the iron door, insisting that he was once the size of a Secian.  An open star etched wooden door, some bales of hay, some bales of hay, and an open heavy iron door are here.
+
+This area is illuminated.
+In the area is Castin the Anthian.
+Obvious paths: None.
+>
+Castin fans his wings.
+shop list all
+
+You follow Castin through an open heavy iron door...
+
+
+l
+The area brightens.
+[Backroom.]
+
+A large table sits in the center of this room. Rollers at either side of the table are used to pull the body in opposite directions, stretching it. In the corner of the room, a tall iron maiden is placed. Across the spiked interior, a twinkling sign reads, "Get Skinny for just 500 Gold!" An axe and some iron wedges are scattered across the floor.  An open heavy iron door is here.
+
+This area is illuminated.
+In the area is Castin the Anthian.
+Obvious paths: None.
+There is no shop here!
+>[Backroom.]
+
+A large table sits in the center of this room. Rollers at either side of the table are used to pull the body in opposite directions, stretching it. In the corner of the room, a tall iron maiden is placed. Across the spiked interior, a twinkling sign reads, "Get Skinny for just 500 Gold!" An axe and some iron wedges are scattered across the floor.  An open heavy iron door is here.
+
+This area is illuminated.
+In the area is Castin the Anthian.
+Obvious paths: None.
+>
+You follow Castin through an open heavy iron door...
+
+
+l
+The area brightens.
+[Broyce's Cottage of Terror.]
+
+A high pitched cackle rings madly from behind a large iron door. Large white sheets with painted faces dangle from the ceiling, as a cool draft blows in from the creaking star etched wooden door. Bales of hale are scattered across the dusty floor as patrons await their "surgery." An extremely tall, lanky fellow stands beside the iron door, insisting that he was once the size of a Secian.  An open star etched wooden door, some bales of hay, some bales of hay, and an open heavy iron door are here.
+
+This area is illuminated.
+In the area is Castin the Anthian.
+Obvious paths: None.
+[Broyce's Cottage of Terror.]
+
+A high pitched cackle rings madly from behind a large iron door. Large white sheets with painted faces dangle from the ceiling, as a cool draft blows in from the creaking star etched wooden door. Bales of hale are scattered across the dusty floor as patrons await their "surgery." An extremely tall, lanky fellow stands beside the iron door, insisting that he was once the size of a Secian.  An open star etched wooden door, some bales of hay, some bales of hay, and an open heavy iron door are here.
+
+This area is illuminated.
+In the area is Castin the Anthian.
+Obvious paths: None.
+gig
+>You giggle.
+>
+You follow Castin through an open star etched wooden door...
+
+[Ash'cli Woods.]
+
+A gnarled willow tree stands like a towering shadow over a small crooked shack. The tree's long, skeletal branches blow furiously with the wind, stinging the frigid air like a whip. A misty trail of white smoke slinks steadily in coiled rings from a stone chimney that hardly balances on the slanted rooftop. A silver trimmed owl rests like an ancient sentinel on the stacked stones. Its golden eyes reflect the halo of the full moon. Shrilled laughter mixed with eerie cries of terror carry on the hasty wind as the star etched wooden door swings on its hinges.  An open star etched wooden door and some glowing intricately carved pumpkins are here.
+
+This area is illuminated.
+In the area is Castin the Anthian.
+Obvious paths: north* south*.
+
+Castin says, "Crazy"
+shop list all
+
+You follow Castin south...
+
+[Ash'cli Woods, Tree of Shadows.]
+
+A skeletal tree stands like an imposing ghoul against the starlit purplish black landscape of night. The tree's long, leafless branches whip furiously with the wind as small orange lights flicker from small, crooked windows carved into the monstrous bough. Shrilled laughter mixed with eerie cries of terror carry on the hasty wind as a star etched wooden door swings on its hinges from the base of the tree.  A pair of glowing vine-covered pumpkins and an open star etched amber door are here.
+
+This area is illuminated.
+In the area is Castin the Anthian.
+Obvious paths: north* northeast southeast*.
+There is no shop here!
+nod yes
+>You nod up and down.
+l n
+>[Ash'cli Woods.]
+
+A gnarled willow tree stands like a towering shadow over a small crooked shack. The tree's long, skeletal branches blow furiously with the wind, stinging the frigid air like a whip. A misty trail of white smoke slinks steadily in coiled rings from a stone chimney that hardly balances on the slanted rooftop. A silver trimmed owl rests like an ancient sentinel on the stacked stones. Its golden eyes reflect the halo of the full moon. Shrilled laughter mixed with eerie cries of terror carry on the hasty wind as the star etched wooden door swings on its hinges.  An open star etched wooden door and some glowing intricately carved pumpkins are here.
+
+This area is illuminated.
+Obvious paths: north* south*.
+>
+You follow Castin northeast...
+
+
+l
+The area brightens.
+[Ash'cli Woods.]
+
+Like a brigade of shadowy ghasts, the leafless trees stretch on for miles. A large cave is carved into the rocky, black facade of a mountain. Ravens circle in a frantic escape as the winds scatter from all directions. A deep, gurgling howl bellows from the pit of the foreboding entrance.
+
+This area is illuminated.
+In the area is Castin the Anthian.
+Obvious paths: southwest*.
+[Ash'cli Woods.]
+
+Like a brigade of shadowy ghasts, the leafless trees stretch on for miles. A large cave is carved into the rocky, black facade of a mountain. Ravens circle in a frantic escape as the winds scatter from all directions. A deep, gurgling howl bellows from the pit of the foreboding entrance.
+
+This area is illuminated.
+In the area is Castin the Anthian.
+Obvious paths: southwest*.
+l sw
+>[Ash'cli Woods, Tree of Shadows.]
+
+A skeletal tree stands like an imposing ghoul against the starlit purplish black landscape of night. The tree's long, leafless branches whip furiously with the wind as small orange lights flicker from small, crooked windows carved into the monstrous bough. Shrilled laughter mixed with eerie cries of terror carry on the hasty wind as a star etched wooden door swings on its hinges from the base of the tree.  A pair of glowing vine-covered pumpkins and an open star etched amber door are here.
+
+This area is illuminated.
+Obvious paths: north* northeast* southeast*.
+>
+You follow Castin southwest...
+
+[Ash'cli Woods, Tree of Shadows.]
+
+A skeletal tree stands like an imposing ghoul against the starlit purplish black landscape of night. The tree's long, leafless branches whip furiously with the wind as small orange lights flicker from small, crooked windows carved into the monstrous bough. Shrilled laughter mixed with eerie cries of terror carry on the hasty wind as a star etched wooden door swings on its hinges from the base of the tree.  A pair of glowing vine-covered pumpkins and an open star etched amber door are here.
+
+This area is illuminated.
+In the area is Castin the Anthian.
+Obvious paths: north* northeast* southeast*.
+
+You follow Castin southeast...
+
+[Ash'cli Woods.]
+
+Crimson, golden, and orange leaves tangle harshly with the wind as the night air cuts through the twisted branches boastfully. An ashen tree, whose branches are like a crippled old woman's hand, hangs heavily over a large glass tank. Red crystal apples bob rapidly as the chill of night stirs the water inside the tank. As the water churns and the wind rushes through the trees, a flock of black birds escape hastily from the branches above, sending a whirlwind of leaves to the ground.  An apple filled glass tank and a pair of glowing vine-covered pumpkins are here.
+
+This area is illuminated.
+In the area is Castin the Anthian.
+Obvious paths: north southeast*.
+
+You follow Castin north...
+
+
+l
+The area brightens.
+[Ash'cli Woods.]
+
+Sinuous vines twist around the tree trunks and stretch themselves from one tree to the next.  Crimson and orange leaves swirl lightly as a soft breeze blows through.  Two of the smaller trees bend towards each other, their upper branches entwining and forming a natural arch.  A shimmering spiderweb curtain hangs from the archway, glowing softly from behind.    A shimmering spiderweb curtain and a pumpkin are here.
+
+This area is illuminated.
+In the area is Castin the Anthian.
+Obvious paths: south* northwest*.
+[Ash'cli Woods.]
+
+Sinuous vines twist around the tree trunks and stretch themselves from one tree to the next.  Crimson and orange leaves swirl lightly as a soft breeze blows through.  Two of the smaller trees bend towards each other, their upper branches entwining and forming a natural arch.  A shimmering spiderweb curtain hangs from the archway, glowing softly from behind.    A shimmering spiderweb curtain and a pumpkin are here.
+
+This area is illuminated.
+In the area is Castin the Anthian.
+Obvious paths: south* northwest*.
+l at cu
+>I don't see what you are referring to.
+l through cu
+l under cu
+l behind cu
+l on cu
+l in cu
+>I don't see what you are referring to.
+>I don't see what you are referring to.
+>I don't see what you are referring to.
+>I don't see what you are referring to.
+>I don't see what you are referring to.
+>
+You follow Castin northwest...
+
+[Ash'cli Woods, Tree of Shadows.]
+
+A skeletal tree stands like an imposing ghoul against the starlit purplish black landscape of night. The tree's long, leafless branches whip furiously with the wind as small orange lights flicker from small, crooked windows carved into the monstrous bough. Shrilled laughter mixed with eerie cries of terror carry on the hasty wind as a star etched wooden door swings on its hinges from the base of the tree.  A pair of glowing vine-covered pumpkins and an open star etched amber door are here.
+
+This area is illuminated.
+In the area is Castin the Anthian.
+Obvious paths: north* northeast southeast*.
+l at sp
+I don't see what you are referring to.
+l through sp
+l under sp
+l behind sp
+l on sp
+l in sp
+>I don't see what you are referring to.
+>I don't see what you are referring to.
+>I don't see what you are referring to.
+>I don't see what you are referring to.
+>I don't see what you are referring to.
+l at doo
+>It looks like an open star etched amber door.
+l through doo
+l under doo
+l behind doo
+l on doo
+l in doo
+>It's too dark to see anything!  Ready a torch.
+>There is nothing underneath that.
+>There is nothing behind that.
+>There is nothing on top of that.
+>There is nothing inside that.
+chu
+>You chuckle.
+l
+>[Ash'cli Woods, Tree of Shadows.]
+
+A skeletal tree stands like an imposing ghoul against the starlit purplish black landscape of night. The tree's long, leafless branches whip furiously with the wind as small orange lights flicker from small, crooked windows carved into the monstrous bough. Shrilled laughter mixed with eerie cries of terror carry on the hasty wind as a star etched wooden door swings on its hinges from the base of the tree.  A pair of glowing vine-covered pumpkins and an open star etched amber door are here.
+
+This area is illuminated.
+In the area is Castin the Anthian.
+Obvious paths: north* northeast southeast*.
+>
+Castin says, "In a circle"
+
+You follow Castin southeast...
+
+[Ash'cli Woods.]
+
+Crimson, golden, and orange leaves tangle harshly with the wind as the night air cuts through the twisted branches boastfully. An ashen tree, whose branches are like a crippled old woman's hand, hangs heavily over a large glass tank. Red crystal apples bob rapidly as the chill of night stirs the water inside the tank. As the water churns and the wind rushes through the trees, a flock of black birds escape hastily from the branches above, sending a whirlwind of leaves to the ground.  An apple filled glass tank and a pair of glowing vine-covered pumpkins are here.
+
+This area is illuminated.
+In the area is Castin the Anthian.
+Obvious paths: north southeast*.
+nod
+You nod.
+>
+You follow Castin southeast...
+
+[Ash'cli Woods.]
+
+A serpentine trail of red mist spirals about a glorious marble fountain. A steady stream of murky water pores steadily from a carved marble pumpkin held in the hands of a rider upon a ghostly horse. Black and orange silk streamers, twisting and swirling in the wind, decorate on a creaking wrought iron fence. Three old women, dressed in shanty black robes, stand around a black cauldron chanting a curse to all who dare to enter the maze.  Three old witches, an intricately carved marble fountain, a closed wrought iron gate, and an open blood-stained calfhide bag are here.
+
+This area is illuminated.
+In the area are Castin the Anthian, Shadow the San Elf, and Teef the Noble Human (holding a flaming glittering multicolored glass orb).
+Obvious paths: southwest* northwest*.
+
+Teef's group just went southwest.
+eat cho
+You take a bite of your half-eaten twinkling black chocolate cat cookie.
+Hmmm... not bad!
+
+You're full, time to stop eating for a while.
+l
+>[Ash'cli Woods.]
+
+A serpentine trail of red mist spirals about a glorious marble fountain. A steady stream of murky water pores steadily from a carved marble pumpkin held in the hands of a rider upon a ghostly horse. Black and orange silk streamers, twisting and swirling in the wind, decorate on a creaking wrought iron fence. Three old women, dressed in shanty black robes, stand around a black cauldron chanting a curse to all who dare to enter the maze.  Three old witches, an intricately carved marble fountain, a closed wrought iron gate, and an open blood-stained calfhide bag are here.
+
+This area is illuminated.
+In the area is Castin the Anthian.
+Obvious paths: southwest* northwest*.
+hic
+>You hiccup.
+gri
+>You grin.
+>
+Castin just removed a burgundy feathered hunting hawk mask from within his open silver-trimmed tree embossed leather pouch.
+
+Castin puts on a burgundy feathered hunting hawk mask.
+gri
+You grin.
+l at ca
+>
+Castin looks like a 5'0" standard adolescent light boned, muscular bodied Anthian Forester.
+He has long, wild, wispy platinum blonde hair, with reddish brown eyes, and looks casual.
+He appears to be happy right now.
+He bears the mark of Elindale.
+He can be attacked by other players.
+
+On his back is a pair of blazing burnt sienna wings that blend into ivory white tips.
+
+He appears to be in perfect health.
+
+Physical appearance:
+
+->>-------------<>
+
+                        Visible Equipment
+A sand filled leather sap                          (right hand)
+A burgundy feathered hunting hawk mask             (on head)
+A leather white bone backsheath                    (on back)
+A strand of razor sharp shark teeth                (around neck)
+Some bone studded leather wrist guards             (over hands)
+A pair of pointed forest green shoes               (on feet)
+A coat-of-arms embroidered silk knight's cape      (over armor)
+Some green and white drawstring swimming trunks    (pants)
+A rough grey sharkskin shirt                       (shirt)
+
+He has been bestowed the following title(s):
+  Noble of the Realm
+
+nod yes once
+>You nod up and down once.
+>
+Grimn reveals himself.
+
+Grimn stretches.
+gri 
+You grin.
+l
+>[Ash'cli Woods.]
+
+A serpentine trail of red mist spirals about a glorious marble fountain. A steady stream of murky water pores steadily from a carved marble pumpkin held in the hands of a rider upon a ghostly horse. Black and orange silk streamers, twisting and swirling in the wind, decorate on a creaking wrought iron fence. Three old women, dressed in shanty black robes, stand around a black cauldron chanting a curse to all who dare to enter the maze.  Three old witches, an intricately carved marble fountain, a closed wrought iron gate, and an open blood-stained calfhide bag are here.
+
+This area is illuminated.
+In the area are Grimn the Go-blin-al and Castin the Anthian.
+Obvious paths: southwest* northwest*.
+>
+Grimn just went southwest.
+smile at gr softly
+I don't see what you are referring to.
+>
+You follow Castin southwest...
+
+[Ash'cli Woods.]
+
+Large plump pumpkins dot the outline of a vast grassy field. A few, holding lit candles, are carved with intricate patterns. A gentle breeze carries a sweet scent of colored autumn leaves as the twist their way to the ground. Towering high above the others, a maple tree with strong arms hangs languidly over a festively painted gypsy wagon.  A pair of glowing intricately carved pumpkins, a large colorful maple tree, an open billowy painted wooden wagon, and some bales of hay are here.
+
+This area is illuminated.
+In the area are Blackbreeze the Human and Castin the Anthian.
+Obvious paths: northeast* east* south.
+
+Blackbreeze slings her wooden short bow.
+l at bl
+
+Blackbreeze looks like a 6'0" standard young heavy boned, very muscular bodied Human.
+She has long, wild, baby fine bluish black hair, with pitch black eyes, and looks casual.
+She appears to be unconcerned right now.
+She bears the mark of Odarous.
+She can be attacked by other players.
+She appears to be in perfect health.
+
+Physical appearance:
+
+Wild and untamed.
+
+                        Visible Equipment
+Some heavy buckskin armor                          (armor)
+A spiked tigerskin choker                          (around neck)
+Some thigh-high black snakeskin boots              (on feet)
+A bone-clasped black and white bearskin cloak      (over armor)
+A white bearskin loincloth                         (pants)
+A rabbit fur halter                                (shirt)
+>
+Blackbreeze lights a shining white orb of Odarous.
+sal
+You salute.
+l
+>[Ash'cli Woods.]
+
+Large plump pumpkins dot the outline of a vast grassy field. A few, holding lit candles, are carved with intricate patterns. A gentle breeze carries a sweet scent of colored autumn leaves as the twist their way to the ground. Towering high above the others, a maple tree with strong arms hangs languidly over a festively painted gypsy wagon.  A pair of glowing intricately carved pumpkins, a large colorful maple tree, an open billowy painted wooden wagon, and some bales of hay are here.
+
+This area is illuminated.
+In the area are Blackbreeze the Human (holding a glowing shining white orb of Odarous) and Castin the Anthian.
+Obvious paths: northeast east* south.
+>
+Castin smiles Many crazy folk be about.
+gig
+You giggle.
+>
+Castin exclaims, "There's a crazy house up there!"
+
+Blackbreeze furrows her brow.
+nod to bl
+You nod to Blackbreeze.
+shiv
+>You shiver.
+>
+Blackbreeze exclaims in Human, "Ncppsi gmrx aum!"
+
+Blackbreeze exclaims, "Sounds like fun!"
+l
+[Ash'cli Woods.]
+
+Large plump pumpkins dot the outline of a vast grassy field. A few, holding lit candles, are carved with intricate patterns. A gentle breeze carries a sweet scent of colored autumn leaves as the twist their way to the ground. Towering high above the others, a maple tree with strong arms hangs languidly over a festively painted gypsy wagon.  A pair of glowing intricately carved pumpkins, a large colorful maple tree, an open billowy painted wooden wagon, and some bales of hay are here.
+
+This area is illuminated.
+In the area are Blackbreeze the Human (holding a glowing shining white orb of Odarous) and Castin the Anthian.
+Obvious paths: northeast east* south.
+>
+Castin grins wildly.
+smi and exclaims in Human, "Ncppsi gmrx aum!"
+You smile and exclaims in Human, "Ncppsi gmrx aum!"
+gig
+>You giggle.
+>
+Castin says, "twas more like a few jokes though funny the same"
+
+Your flaming jeweled golden priest's censer flickers for a moment.
+
+Castin gapes at you.
+whist
+You whistle.
+>
+Castin exclaims to Glinka, "I dinna know ya talked human!"
+' only in my dreams
+
+Glinka says, " only in my dreams"
+gri to ca
+>You grin to Castin.
+l
+>[Ash'cli Woods.]
+
+Large plump pumpkins dot the outline of a vast grassy field. A few, holding lit candles, are carved with intricate patterns. A gentle breeze carries a sweet scent of colored autumn leaves as the twist their way to the ground. Towering high above the others, a maple tree with strong arms hangs languidly over a festively painted gypsy wagon.  A pair of glowing intricately carved pumpkins, a large colorful maple tree, an open billowy painted wooden wagon, and some bales of hay are here.
+
+This area is illuminated.
+In the area are Blackbreeze the Human (holding a glowing shining white orb of Odarous) and Castin the Anthian.
+Obvious paths: northeast east* south.
+l in bac
+>Inside the open dragon embroidered black leather backpack you see a pair of huge scaly leather wings, a snarling hand-painted wooden wyvern mask, an open little black book of names, a small crystal bottle of perfume, an ornate glass water pipe, a closed brilliant multicolored parasol, a small white pearl, a small painted ceremonial candle, and a handmade rolled beeswax candle.
+get win from bac
+>You remove the huge scaly leather wings from your open dragon embroidered black leather backpack.
+wear wing
+>You put on your huge scaly leather wings.
+beam
+>You beam.
+l at gli
+>You find something suitably reflective and gaze into it...
+
+You look like a 1'2" standard adolescent delicate boned, wirey-tough bodied Secian Cleric.
+You have very long, wild, kinky white hair with a white streak, heavy lidded pale red eyes, and look disheveled.
+You appear to be mischievous right now.
+You can be attacked by other players.
+
+On her left breast is a small crescent shaped birthmark.
+
+You appear to be in perfect health.
+There is a shining gold emblem affixed to your clothing.
+
+Physical appearance:
+
+You see an ageless, tymless, spryte with long wild kinky whyte hair with a glowing whyte streak and sleepy eyes...
+
+                        Visible Equipment
+A flaming jeweled golden priest's censer           (left hand)
+A rainbow ribboned paper pixie mask                (on head)
+A moon shaped ivory talisman                       (around neck)
+An amethyst encrusted moonsilver anklet            (on feet)
+A pair of huge scaly leather wings                 (over armor)
+A crescent moon earring                            (right ear)
+A silver serpentine hoop                           (left ear)
+A delicately linked gold belly chain               (on belt)
+
+You have been bestowed the following title(s):
+  Noble of the Realm
+
+fan
+>You fan your wings.
+gri
+>You grin.
+>
+Castin exclaims, "Look out Wyvrens!"
+fan with wing
+You cannot do that 'with' a target using this command.
+Try doing that at your target instead.
+fan at wing
+>You fan your wings at the huge scaly leather wings.
+how
+>You howl.
+>
+Castin grins.
+chu softly, her rosy cheeks turning red....
+You chuckle softly, her rosy cheeks turning red....
+l
+>[Ash'cli Woods.]
+
+Large plump pumpkins dot the outline of a vast grassy field. A few, holding lit candles, are carved with intricate patterns. A gentle breeze carries a sweet scent of colored autumn leaves as the twist their way to the ground. Towering high above the others, a maple tree with strong arms hangs languidly over a festively painted gypsy wagon.  A pair of glowing intricately carved pumpkins, a large colorful maple tree, an open billowy painted wooden wagon, and some bales of hay are here.
+
+This area is illuminated.
+In the area are Blackbreeze the Human (holding a glowing shining white orb of Odarous) and Castin the Anthian.
+Obvious paths: northeast east* south.
+' so thats all of it eh?
+>
+Glinka asks, " so thats all of it eh?"
+gri
+>You grin.
+>
+Blackbreeze's glowing shining white orb of Odarous flickers for a moment.
+' looks nice than last year even
+
+Glinka says, " looks nice than last year even"
+' nicer
+>
+Glinka says, " nicer"
+hic
+>You hiccup.
+>
+Castin says, "Very nice"
+nod yes
+You nod up and down.
+>
+Blackbreeze asks, "May I follow back?"
+beam to bl
+You beam to Blackbreeze.
+l
+>[Ash'cli Woods.]
+
+Large plump pumpkins dot the outline of a vast grassy field. A few, holding lit candles, are carved with intricate patterns. A gentle breeze carries a sweet scent of colored autumn leaves as the twist their way to the ground. Towering high above the others, a maple tree with strong arms hangs languidly over a festively painted gypsy wagon.  A pair of glowing intricately carved pumpkins, a large colorful maple tree, an open billowy painted wooden wagon, and some bales of hay are here.
+
+This area is illuminated.
+In the area are Blackbreeze the Human (holding a glowing shining white orb of Odarous) and Castin the Anthian.
+Obvious paths: northeast east* south.
+>
+Blackbreeze is now following Castin.
+smile at ca softly
+You smile at Castin softly.
+>
+Castin says, "Yep"
+
+You follow Castin south...
+
+
+l
+The area brightens.
+[Ash'cli Woods.]
+
+Hiding behind the shadow of the moon, this small village wears the black veil of night as it nestles itself behind the aura the eclipsed hour. A narrow trail ribbons itself through a maze of lifeless trees that frame the wayside of a rolling river. The wind fills the air with the scent of burning wood as its beckoning call echoes the eerie cry of howling wolves. Amidst the glowing light of lanterns, shady figures parade and dance through the heavy velvet blanket of night.  A giant orange pumpkin, a dirt path, and an ominous twisted opal arch are here.
+
+This area is illuminated.
+In the area are Blackbreeze the Human (holding a glowing shining white orb of Odarous) and Castin the Anthian.
+Obvious paths: north*.
+[Ash'cli Woods.]
+
+Hiding behind the shadow of the moon, this small village wears the black veil of night as it nestles itself behind the aura the eclipsed hour. A narrow trail ribbons itself through a maze of lifeless trees that frame the wayside of a rolling river. The wind fills the air with the scent of burning wood as its beckoning call echoes the eerie cry of howling wolves. Amidst the glowing light of lanterns, shady figures parade and dance through the heavy velvet blanket of night.  A giant orange pumpkin, a dirt path, and an ominous twisted opal arch are here.
+
+This area is illuminated.
+In the area are Blackbreeze the Human (holding a glowing shining white orb of Odarous) and Castin the Anthian.
+Obvious paths: north*.
+l n
+>[Ash'cli Woods.]
+
+Large plump pumpkins dot the outline of a vast grassy field. A few, holding lit candles, are carved with intricate patterns. A gentle breeze carries a sweet scent of colored autumn leaves as the twist their way to the ground. Towering high above the others, a maple tree with strong arms hangs languidly over a festively painted gypsy wagon.  A pair of glowing intricately carved pumpkins, a large colorful maple tree, an open billowy painted wooden wagon, and some bales of hay are here.
+
+This area is illuminated.
+Obvious paths: northeast east* south*.
+>
+You follow Castin through an ominous twisted opal arch...
+
+[Road.]
+
+The road coming in from the north bends around to the southwest here as it makes its way through an open field. Used by travelers most of the year, the fields host parties and day excursions from the city in good weather.  A glowing spirit carved pumpkin lantern and an ominous twisted opal arch are here.
+
+This area is illuminated.
+In the area are Blackbreeze the Human (holding a glowing shining white orb of Odarous) and Castin the Anthian.
+Obvious paths: north* east southeast south southwest west northwest.
+
+You follow Castin north...
+
+[Road.]
+
+The main north road has a branch here leading off to the east. A small sign posted at this intersection sports arrows pointing in all five directions. An open field lies off to the west and another to the southeast.  A glowing demon carved pumpkin lantern is here.
+
+This area is illuminated.
+In the area are Blackbreeze the Human (holding a glowing shining white orb of Odarous) and Castin the Anthian.
+Obvious paths: north* east southeast south* west.

@@ -1,0 +1,2763 @@
+time
+
+Current time is: Mon Aug 30 22:11:32 2004 EST.
+time
+
+It is now 7:25 pm on the 31st day of the 7th month in the year 318.
+
+You have been adventuring for 27 mins, 20 secs this session.
+
+l
+>[Hidden Grove]
+
+A circle of tall, gray stones surrounds a vine-covered stump, as though protecting it from prying eyes.  Approaching the stump, you can almost feel it pulse with a hidden energy, as if it still has some life within it.  Markings decorate its top, although the overgrowth obscures most of it.  An overgrown path and a twisted black orchid are here.
+
+This area is illuminated.
+In the area are Verbaniah the Secian, Aradeia the Leuian, Nominus the Leuian, Autumn the Fir Elf, Julien the Noble Leuian, Orianna the Noble Anthian, and Gramliz the Hithual.
+Obvious paths: None.
+>
+Nominus says, "Runemages, out of their basic lack of respect for and understanding of this world that has been created for us, developed runes to manipulate it for their own ends, recklessly removing the power inherent in all things"
+
+Nominus says, "without even seeking permission from its Creator."
+
+Nominus says, "They trap it within objects for their selfish purposes, heedless of the consequences of their theft and oblivious to the fact that by their actions they corrupt the power they've taken for their own. "
+
+
+Orianna raises an eyebrow.
+
+Autumn furrows her brow.
+link who ?
+
+Gramliz listens intently.
+
+>
+
+
+Nominus says, "As for these crystals ye've found..."
+
+Gramliz glares at the sickly green rune crystal.
+shiv
+You shiver.
+>
+Aradeia nods gently, her ears pinned back to her head.
+
+Nominus says, "...these are not the works of runemages but of ourselves alone, formed of our own failings and blindness to Her truth. We have none to blame for them but ourselves."
+
+Autumn blinks.
+furr at no
+You furrow your brow at Nominus.
+who staff
+>Staff who list activated!
+
+Current Adventurers
+
+ Gia                                
+
+You notice 1 adventurer.
+>
+Nominus says, "But tonight ye will be freed from them."
+
+Autumn asks, "but of the blame and fault?"
+beam to no
+You beam to Nominus.
+>
+Autumn asks, "how are to blame for the runes others use?"
+l at ru on au
+I don't see what you are referring to.
+>
+Autumn says, "I mean, how are we ..."
+
+Gramliz says to Autumn, "let it go, ah know what his point is"
+
+Autumn's stomach growls.
+
+Autumn frowns.
+
+Orianna says to Gramliz, "but maybe the rest of us don't"
+
+Autumn says, "I don't understand"
+
+Nominus says, "We all bear the blame together. But tonight it is mine to take."
+
+Autumn says, "but I'm not a cleric either"
+
+Orianna nods to Autumn.
+
+Aradeia raises an eyebrow at Nominus.
+
+Autumn raises an eyebrow.
+
+Autumn shakes her head from side to side to Nominus.
+rai at no
+You raise an eyebrow at Nominus.
+>
+Autumn says, "certainly you are the lamb here, prior"
+
+Nominus asks, "Who was the first to find a crystal?"
+
+Nominus gazes about the group.
+
+Gramliz says, "Glinka or I"
+' not I
+
+
+Glinka says, " not I"
+>>
+Gramliz raises an eyebrow.
+
+Fionna just entered through an overgrown path.
+' I heard tell of others who had em
+
+Glinka says, " I heard tell of others who had em"
+rai at gr
+>You raise an eyebrow at Gramliz.
+>
+Aradeia says, "It may have been Glinka, Myself, Or Gramliz who found the first."
+
+Gramliz shrugs.
+
+Fionna's glowing swirling multicolored globe flickers for a moment.
+
+Aradeia says, "Those were the first reports I heard of."
+
+Fionna extinguishes her glowing swirling multicolored globe.
+
+Nominus says, "Alright then, I want each of ye to give me the crystal ye hold."
+pok ru
+You poke the sickly green rune crystal.
+>
+Autumn shakes her head from side to side.
+
+Julien gazes at Nominus.
+
+Gramliz raises an eyebrow.
+
+Aradeia furrows her brow at Nominus.
+
+Julien says to Nominus in Leuian, "Im."
+
+Autumn says, "I don't like this"
+' i havent been able to let it go
+
+Glinka says, " i havent been able to let it go"
+>
+Orianna frowns.
+furr at ru
+You furrow your brow at the sickly green rune crystal.
+>
+Julien says to Nominus, "Prior..."
+
+Julien says to Nominus, "The children of Elindale need you."
+off ru to no
+
+You offer Nominus a sickly green rune crystal.
+
+>
+Nominus says, "Try now. Hand them to me and worry not."
+
+Aradeia sighs softly.
+
+Gramliz asks Nominus, "they aint right...you comfortable with this?"
+
+Aradeia says, "Faith be abundant..."
+
+Nominus nods up and down firmly.
+
+Nominus accepts your sickly green rune crystal.
+
+As Nominus accepts the sickly green rune crystal his left hand begins to twist and lengthen as it takes the shape and consistency of a gnarled oaken branch!
+
+Verbaniah has left Nominus's group.
+
+Aradeia offers something to Nominus.
+bow her head in silent prayer to Elindale
+You bow her head in silent prayer to Elindale.
+stare
+>You stare.
+>
+Autumn gasps.
+
+Nominus accepts Aradeia's offer.
+
+Fionna gasps.
+diag all
+
+  You examine Fionna the Secian...
+She appears to be in perfect health.
+  You examine Verbaniah the Secian...
+She appears to be in perfect health.
+  You examine Aradeia the Leuian...
+She appears to be in perfect health.
+  You examine Nominus the Leuian...
+He appears to be in perfect health.
+  You examine Autumn the Fir Elf...
+She appears to be in perfect health.
+  You examine Julien the Leuian...
+He appears to be in perfect health.
+  You examine Orianna the Anthian...
+She appears to be in perfect health.
+  You examine Gramliz the Hithual...
+He appears to be in perfect health.
+
+>
+Aradeia blinks.
+
+Orianna blinks.
+' oh my!
+
+Glinka exclaims, " oh my!"
+>
+Nominus winces and grits his teeth.
+
+As each sickly green rune crystal is taken new sprouts of branches grow so that the crystals are firmly embedded in the wood.
+
+Autumn sighs and hides her eyes behind her fingers.
+
+Nominus says, "The rest, if ye please..."
+
+Aradeia comforts Nominus.
+
+Julien kneels before Nominus.
+
+Nominus grimaces in pain.
+hol no
+You hold Nominus close.
+>
+Autumn frowns.
+
+Gramliz glances at Autumn.
+
+The battle cat purrs ominously.
+
+Aradeia furrows her brow.
+get mis from he
+I don't see any "mis" in there!
+>
+Julien says in Secti, "O' great mother..."
+l in he
+Inside the open plaid leather healer's bag you see a flask of strong mistletoe potion, a cup of peppermint hot chocolate, a silver and gold sparkler, and an open ribbon tied satin clerical bag.
+>
+Autumn asks Nominus, "are ye in pain, friend?"
+
+Julien says in Secti, "Give thine vessel strength."
+
+You see Fionna reach out and touch Nominus.
+
+Orianna raises an eyebrow at Julien.
+get pot from he
+You remove the flask of strong mistletoe potion from your open plaid leather healer's bag.
+>
+Verbaniah nods to Aradeia.
+
+Nominus twitches his tail and nods.
+off po to nom
+You offer Nominus a flask of strong mistletoe potion.
+
+>
+Verbaniah, boingy, boingy, boingy, just went through an overgrown path.
+
+Gramliz inhales.
+
+Autumn frowns.
+
+Nominus says, "The other crystals, give them to me..."
+with
+You withdraw your offer.
+>
+Gramliz offers something to Nominus.
+
+Gramliz raises an eyebrow.
+
+Nominus accepts Gramliz's offer.
+l at no
+
+Nominus looks like a 6'5" standard mature average boned, stocky bodied Leuian.
+He has short, wavy, coarse dark brown fur with dark spots, golden eyes, and looks neat.
+He appears to be distant right now.
+He bears the mark of Elindale.
+He can be attacked by other players.
+
+On his left arm is a twisted oaken branch growing from his wrist.
+
+He appears to be in perfect health.
+
+Physical appearance:
+
+Golden eyes flash brightly like the sun while the subtle dark spots on this Leuian's fur are most apparent in moonlight.
+
+                        Visible Equipment
+Some luminescent trailing silk robes of white      (armor)
+A sacred bone bear skull helm                      (on head)
+A tiger carved onyx mark of Leuia                  (around neck)
+A cloak of leaves                                  (over armor)
+An ivy carved oak ring                             (ring (right))
+A faintly glowing ivy signet ring                  (ring (left))
+Some softly shimmering emerald prayer beads        (on belt)
+A moonstone dove-etched monogram of khal'gaia      (on belt)
+A simple woven grass belt                          (on belt)
+
+He has been bestowed the following title(s):
+  Noble of the Realm
+
+l
+>[Hidden Grove]
+
+A circle of tall, gray stones surrounds a vine-covered stump, as though protecting it from prying eyes.  Approaching the stump, you can almost feel it pulse with a hidden energy, as if it still has some life within it.  Markings decorate its top, although the overgrowth obscures most of it.  An overgrown path and a twisted black orchid are here.
+
+This area is illuminated.
+You see the 1st battle cat (wearing a small gold collar).
+In the area are Fionna the Noble Secian, Aradeia the Leuian, Nominus the Leuian, Autumn the Fir Elf, Julien the Noble Leuian, Orianna the Noble Anthian, and Gramliz the Hithual.
+Obvious paths: None.
+>
+Julien says to Nominus in Secti, "Prior Nominus, I cannot in good conscience..."
+
+Gramliz glances at Autumn.
+
+Aradeia says to Julien, "Do it."
+nod yes to ju
+You nod up and down to Julien.
+>
+Nominus says to Julien, "It is not up to ye."
+' the Lady will keep him
+
+Glinka says, " the Lady will keep him"
+>
+Autumn glances at Gramliz.
+nod yes to ju
+You nod up and down to Julien.
+>
+Gramliz says, "he knows what he's doing"
+
+Gramliz nods at Autumn.
+
+Autumn nods too.
+
+Nominus says to Julien, "She asks, not me."
+
+Autumn grits her teeth hard.
+sp secian
+You are now speaking Secian.
+>
+Julien says to Nominus in Secti, "Mine strength is yours."
+' can you see his wrist?
+
+Glinka asks in Secian, " can you see his wrist?"
+rai at f
+>You raise an eyebrow at Fionna.
+>
+Fionna says to Nominus in Secti, "leans on me"
+
+Julien gazes at Nominus and places a hand on his shoulder.
+
+Julien offers something to Nominus.
+
+Aradeia holds Fionna close.
+sp
+You are now speaking Common.
+>
+Nominus accepts Julien's offer.
+
+[ The sun is beginning to set. ]
+
+Julien says in Secti, "h"
+l at no
+
+Nominus looks like a 6'5" standard mature average boned, stocky bodied Leuian.
+He has short, wavy, coarse dark brown fur with dark spots, golden eyes, and looks neat.
+He appears to be distant right now.
+He bears the mark of Elindale.
+He can be attacked by other players.
+
+On his left arm is a twisted oaken branch growing from his wrist.
+
+He appears to be in perfect health.
+
+Physical appearance:
+
+Golden eyes flash brightly like the sun while the subtle dark spots on this Leuian's fur are most apparent in moonlight.
+
+                        Visible Equipment
+Some luminescent trailing silk robes of white      (armor)
+A sacred bone bear skull helm                      (on head)
+A tiger carved onyx mark of Leuia                  (around neck)
+A cloak of leaves                                  (over armor)
+An ivy carved oak ring                             (ring (right))
+A faintly glowing ivy signet ring                  (ring (left))
+Some softly shimmering emerald prayer beads        (on belt)
+A moonstone dove-etched monogram of khal'gaia      (on belt)
+A simple woven grass belt                          (on belt)
+
+He has been bestowed the following title(s):
+  Noble of the Realm
+
+>
+Nominus asks, "Is...that all of them..?"
+
+The battle cat grooms itself.
+ready glo
+You light the swirling multicolored globe.
+>
+Julien says to Nominus in Secti, "No, it isn't."
+
+Aradeia says to Nominus, "There is one more"
+l at ru on ar
+It looks like an open large frayed burlap rucksack.
+
+It is too large for you.
+
+There appears to be something inside.
+>
+Julien asks in Secti, "Where is Binx?"
+
+link binx?
+
+>
+Julien says in Secti, "verb, Find a Monitanian, his name is Dace."
+
+Aradeia asks Julien, "Binx has one?"
+
+Aradeia raises an eyebrow.
+
+
+Julien blinks.
+
+l
+[Hidden Grove]
+
+A circle of tall, gray stones surrounds a vine-covered stump, as though protecting it from prying eyes.  Approaching the stump, you can almost feel it pulse with a hidden energy, as if it still has some life within it.  Markings decorate its top, although the overgrowth obscures most of it.  An overgrown path and a twisted black orchid are here.
+
+This area is illuminated.
+You see the 1st battle cat (wearing a small gold collar).
+In the area are Fionna the Noble Secian, Aradeia the Leuian, Nominus the Leuian, Autumn the Fir Elf, Julien the Noble Leuian, Orianna the Noble Anthian, and Gramliz the Hithual.
+Obvious paths: None.
+>
+Gramliz says, "Tkarse ah think"
+
+Julien asks, "Can anyone translocate to others?"
+
+link Nominus is changin into a tree!
+
+>
+A greater spirit runs in through an overgrown path.
+
+You see Julien call out the name of Elindale and point at the greater spirit!
+
+You see Gramliz call out the name of Elindale and point at the greater spirit!
+
+
+
+Verbaniah's group just entered through an overgrown path.
+turn SP 
+h
+sk
+You call out the name of your deity and point to the greater spirit!
+
+The greater spirit seems unaffected by the attempt to turn it!
+
+You feel more tired.
+[5 sec. delay]
+>
+ ** Current fatigue: 60 out of 65
+You have no apparent injuries, but look tired.
+
+HP: 115/115  Ftg:  60/ 65
+>
+Skill                     Remain Level
+ First Aid                 97     1     
+ Channeling                323    5     
+ Blunt Weapons             394    4     
+ Spellcasting              1137   15    
+ Turn Undead               446    6     
+ Identify Gems/Minerals    774    7     
+ Shield Parry              100    1     
+ Identify Magick           67     1     
+ Swimming                  82     2     
+
+>
+Autumn says, "verb has him"
+
+
+You see Verbaniah call out the name of Elindale and point at the greater spirit!
+
+The greater spirit is suddenly immobilized!
+
+The greater spirit envelopes you in a thin and foul smelling ethereal vapor.
+
+Autumn smiles at Verbaniah.
+
+
+You see Verbaniah call out the name of Elindale and point at the greater spirit!
+
+You see Gramliz call out the name of Elindale and point at the greater spirit!
+
+The greater spirit writhes in great agony and is turned to dust!
+With a crash, everything it was carrying falls to the ground before you.
+
+Autumn readies a simple yew crossbow.
+
+Tkarse glances.
+
+The battle cat purrs ominously.
+
+Verbaniah holds Gramliz close.
+
+l
+[Hidden Grove]
+
+A circle of tall, gray stones surrounds a vine-covered stump, as though protecting it from prying eyes.  Approaching the stump, you can almost feel it pulse with a hidden energy, as if it still has some life within it.  Markings decorate its top, although the overgrowth obscures most of it.  An overgrown path, a twisted black orchid, and a tiny green pile of ectoplasm are here.
+
+This area is illuminated.
+You see the 1st battle cat (wearing a small gold collar).
+In the area are Fionna the Noble Secian, Verbaniah the Secian, Aradeia the Leuian, Nominus the Leuian, Autumn the Fir Elf, Julien the Noble Leuian, Tkarse the Leuian, Orianna the Noble Anthian, and Gramliz the Hithual.
+Obvious paths: None.
+>
+Aradeia asks Verbaniah, "The Monitanian Dace.. can ye find him?"
+
+Orianna fans her wings at Gramliz.
+
+Verbaniah says, "i can try"
+
+Aradeia nuzzles Tkarse softly.
+who d
+Looking for a user with a name beginning with 'd'...
+
+Current Adventurers
+
+ Dimmock Kithalos                    Dace Rhyden                        
+ Draejlen Lechaat                    Darrow Tarosh                      
+
+You notice 4 adventurers.
+>
+
+Julien says to Verbaniah, "Tell him Julien Eversoul seeks him."
+
+Julien says to Verbaniah, "It is of greatest importance.."
+
+Tkarse nuzzles Aradeia.
+
+Aradeia says to Tkarse, "Give the Prior your cursed crystal"
+
+Julien removes his oak ring of Elindale.
+
+Tkarse says, "I cant give it to anyone"
+
+Gramliz says, "try"
+
+
+Aradeia says, "Just do it.."
+
+Verbaniah says, "please do not ask binx here, i do not feel tis right for a runemage to be here"
+
+Aradeia nuzzles Tkarse.
+
+Verbaniah is now following Nominus.
+
+Julien offers something to Verbaniah.
+
+Tkarse offers something to Nominus.
+
+Tkarse blinks.
+link I thynk Verbie is gonna handle it
+
+>
+Verbaniah has left Nominus's group.
+
+Julien says to Verbaniah, "Show this to him."
+
+Tkarse says, "I cant give it"
+stare
+You stare.
+>
+
+Verbaniah accepts Julien's offer.
+
+Tkarse withdraws his earlier offer.
+
+Verbaniah nods.
+
+Verbaniah, boingy, boingy, boingy, just went through an overgrown path.
+
+
+Nominus says to Tkarse, "Try again."
+l at t
+
+Tkarse looks like a 7'8" standard young average boned, very muscular bodied Leuian.
+He has collar length, slicked-back, baby fine sable fur, with golden eyes, and looks razor-sharp.
+He appears to be perplexed right now.
+He bears the mark of Elindale.
+He can be attacked by other players.
+He appears to be in perfect health.
+                        Visible Equipment
+Some heavy leather Tzeacal hunting robes           (armor)
+A gold-stringed heart-shaped moonstone pendant     (around neck)
+A flowing white emerald clasped cloak              (over armor)
+A beautiful carved oak ring of Elindale            (ring (left))
+A pair of plain cotton pants                       (pants)
+Some softly shimmering emerald prayer beads        (on belt)
+A closed ribbon tied satin clerical bag            (on belt)
+>
+Julien says, "With haste..."
+
+Tkarse offers something to Nominus.
+' pray 
+
+Glinka says, " pray "
+>
+
+Autumn says to Tkarse, "yes you can."
+
+Nominus accepts Tkarse's offer.
+bow her head in prayer
+
+Tkarse says, "I just tried"
+You bow her head in prayer.
+>
+Aradeia nods.
+
+Tkarse says, "that time it worked"
+
+
+Nominus kneels before the blakc orchid.
+
+link we are praying for him
+
+>
+Julien gazes at Nominus and drops to a knee, raising his hands to the sky.
+
+Aradeia bows her head gently.
+
+Fionna kneels.
+
+The battle cat grooms itself.
+l
+[Hidden Grove]
+
+A circle of tall, gray stones surrounds a vine-covered stump, as though protecting it from prying eyes.  Approaching the stump, you can almost feel it pulse with a hidden energy, as if it still has some life within it.  Markings decorate its top, although the overgrowth obscures most of it.  An overgrown path, a twisted black orchid, and a tiny green pile of ectoplasm are here.
+
+This area is illuminated.
+You see the 1st battle cat (wearing a small gold collar).
+In the area are Fionna the Noble Secian, Aradeia the Leuian, Nominus the Leuian, Autumn the Fir Elf, Julien the Noble Leuian, Tkarse the Leuian, Orianna the Noble Anthian, and Gramliz the Hithual.
+Obvious paths: None.
+>
+Tkarse's stomach growls.
+
+Gramliz's stomach growls.
+
+Nominus gazes up at the sky.
+gla up
+You glance up.
+>
+Nominus says, "Aye, it is right and just, Elindale, and I accept this judgment as the price for my failures as your representative in this small, green part of the world."
+
+Gramliz furrows his brow.
+
+Julien grits his teeth.
+
+Julien exclaims to Nominus in Secti, "No!"
+shiv
+You shiver.
+l at no
+>
+Nominus looks like a 6'5" standard mature average boned, stocky bodied Leuian.
+He has short, wavy, coarse dark brown fur with dark spots, golden eyes, and looks neat.
+He appears to be distant right now.
+He bears the mark of Elindale.
+He can be attacked by other players.
+
+On his left arm is a twisted oaken branch growing from his wrist.
+
+He has no apparent injuries, but looks weakened.
+
+Physical appearance:
+
+Golden eyes flash brightly like the sun while the subtle dark spots on this Leuian's fur are most apparent in moonlight.
+
+                        Visible Equipment
+Some luminescent trailing silk robes of white      (armor)
+A sacred bone bear skull helm                      (on head)
+A tiger carved onyx mark of Leuia                  (around neck)
+A cloak of leaves                                  (over armor)
+An ivy carved oak ring                             (ring (right))
+A faintly glowing ivy signet ring                  (ring (left))
+Some softly shimmering emerald prayer beads        (on belt)
+A moonstone dove-etched monogram of khal'gaia      (on belt)
+A simple woven grass belt                          (on belt)
+
+He has been bestowed the following title(s):
+  Noble of the Realm
+
+>
+
+Nominus says, "Pray with me, brothers and sisters, for Her mercy, that we may be restored to wholeness of heart, of body, and of spirit."
+link oki, thanks
+
+>
+Gramliz nods at Nominus.
+
+Nominus bows his head.
+
+Autumn glares at Gramliz.
+bow her head
+You bow her head.
+>
+Tkarse bows his head in prayer.
+
+Nominus exclaims, "Elindale, without ye our hearts are blighted and wither like grass and our days vanish like smoke. Teach us to remember how many are your works, Good Mother! In wisdom ye made them all. "
+
+Julien says in Secti, "Elindale...  Mother of mine mother..."
+
+Fionna says in Secti, "Elindale takes o me what ya needs an knows dat I serves ya in all"
+
+Nominus says, "The works of your children are short lived, but your laws endure, your word is eternal and your gifts to us last forever. We require nothing more than what ye have given us. We desire nothing but harmony with your holy nature."
+
+Nominus's arm begins to tense as the rune crystals are crushed to fine pieces by the quickly growing branch!
+
+The battle cat grooms itself.
+
+Julien says in Secti, "Thine unworthiest of children beseech thee..."
+
+Gramliz stares at Nominus and quietly offers his prayers.
+stare
+You stare.
+gasp
+>You gasp.
+>
+Aradeia purrs softly and prays.
+
+Nominus says, "Your obedient children look to ye, to give us sustenance when we are in need. When ye open your hand, we are satisfied with good things. When ye hide your face, we are frightened and alone."
+
+Julien says in Secti, "Give him strength."
+
+
+Autumn smiles.
+
+
+Julien says to Aradeia in Secti, "Reia...  The feather."
+l at no
+
+Nominus looks like a 6'5" standard mature average boned, stocky bodied Leuian.
+He has short, wavy, coarse dark brown fur with dark spots, golden eyes, and looks neat.
+He appears to be distant right now.
+He bears the mark of Elindale.
+He can be attacked by other players.
+
+On his left arm is a twisted oaken branch growing from his wrist.
+
+He has no apparent injuries, but looks weakened.
+
+Physical appearance:
+
+Golden eyes flash brightly like the sun while the subtle dark spots on this Leuian's fur are most apparent in moonlight.
+
+                        Visible Equipment
+Some luminescent trailing silk robes of white      (armor)
+A sacred bone bear skull helm                      (on head)
+A tiger carved onyx mark of Leuia                  (around neck)
+A cloak of leaves                                  (over armor)
+An ivy carved oak ring                             (ring (right))
+A faintly glowing ivy signet ring                  (ring (left))
+Some softly shimmering emerald prayer beads        (on belt)
+A moonstone dove-etched monogram of khal'gaia      (on belt)
+A simple woven grass belt                          (on belt)
+
+He has been bestowed the following title(s):
+  Noble of the Realm
+
+>
+Nominus says, "We trust in your commands above all mortal laws, and love them more than any treasure. Deliver once more your favor, so that the earth be glad, the sea resound, and all that is in them"
+
+
+Aradeia says to Julien, "Elindale has him."
+
+Aradeia says to Julien, "Be still."
+
+Nominus says, "that the fields be jubilant, and everything in them. Then all the trees of the forest will sing for joy as we give ye our unending praise."
+
+
+Autumn smiles at Nominus.
+diag all
+
+  You examine Fionna the Secian...
+She appears to be in perfect health.
+  You examine Aradeia the Leuian...
+She appears to be in perfect health.
+  You examine Nominus the Leuian...
+He has no apparent injuries, but looks weakened.
+  You examine Autumn the Fir Elf...
+She appears to be in perfect health.
+  You examine Julien the Leuian...
+He appears to be in perfect health.
+  You examine Tkarse the Leuian...
+He appears to be in perfect health.
+  You examine Orianna the Anthian...
+She appears to be in perfect health.
+  You examine Gramliz the Hithual...
+He appears to be in perfect health.
+
+>
+Nominus says, "We humbly ask for your forgiveness and mercy. Allow us to be returned to the one true path that ye have lain out before us, so that the works of our hands will forever bear good fruit."
+diag all
+
+  You examine Fionna the Secian...
+She appears to be in perfect health.
+  You examine Aradeia the Leuian...
+She appears to be in perfect health.
+  You examine Nominus the Leuian...
+He has no apparent injuries, but looks weakened.
+  You examine Autumn the Fir Elf...
+She appears to be in perfect health.
+  You examine Julien the Leuian...
+He appears to be in perfect health.
+  You examine Tkarse the Leuian...
+He appears to be in perfect health.
+  You examine Orianna the Anthian...
+She appears to be in perfect health.
+  You examine Gramliz the Hithual...
+He appears to be in perfect health.
+
+>
+Fionna glances at Aradeia.
+
+Nominus says, "We shall always remember your tenets, and live them from the moment ye rise each day-for every morning the world begins again and we are born anew"
+
+Gramliz's fingertips begin to glow with a soft white light.
+
+The soft white light spreads out and gently envelops Nominus's body!
+
+The white glow upon Gramliz's fingertips slowly fades away.
+
+With a loud crack, the oaken limb on Nominus splits in half, allowing him to remove his left arm, once again whole.
+
+Nominus gazes up at the sky with his arms outstretched.
+
+chant Elindale ...hear our Prayer
+You chant Elindale ...hear our Prayer.
+>
+Nominus swishes his tail tiredly.
+
+Fionna blinks.
+
+Autumn nods.
+diag all
+
+  You examine Fionna the Secian...
+She appears to be in perfect health.
+  You examine Aradeia the Leuian...
+She appears to be in perfect health.
+  You examine Nominus the Leuian...
+He appears to be in perfect health.
+  You examine Autumn the Fir Elf...
+She appears to be in perfect health.
+  You examine Julien the Leuian...
+He appears to be in perfect health.
+  You examine Tkarse the Leuian...
+He appears to be in perfect health.
+  You examine Orianna the Anthian...
+She appears to be in perfect health.
+  You examine Gramliz the Hithual...
+He appears to be in perfect health.
+
+l at no
+>
+Nominus looks like a 6'5" standard mature average boned, stocky bodied Leuian.
+He has short, wavy, coarse dark brown fur with dark spots, golden eyes, and looks neat.
+He appears to be distant right now.
+He bears the mark of Elindale.
+He can be attacked by other players.
+
+On his left arm is a twisted oaken branch growing from his wrist.
+
+He appears to be in perfect health.
+
+Physical appearance:
+
+Golden eyes flash brightly like the sun while the subtle dark spots on this Leuian's fur are most apparent in moonlight.
+
+                        Visible Equipment
+Some luminescent trailing silk robes of white      (armor)
+A sacred bone bear skull helm                      (on head)
+A tiger carved onyx mark of Leuia                  (around neck)
+A cloak of leaves                                  (over armor)
+An ivy carved oak ring                             (ring (right))
+A faintly glowing ivy signet ring                  (ring (left))
+Some softly shimmering emerald prayer beads        (on belt)
+A moonstone dove-etched monogram of khal'gaia      (on belt)
+A simple woven grass belt                          (on belt)
+
+He has been bestowed the following title(s):
+  Noble of the Realm
+
+>
+Gramliz nods at Nominus.
+
+Aradeia says in Secti, "Praise be to Elindale."
+
+Julien gazes at Nominus and rushes to his side, offering an arm.
+
+[ Night falls. The sun has set. ]
+
+Gramliz nods at Aradeia.
+
+
+Fionna says in Secti, "praises indeeds"
+' Praise be
+
+Glinka says, " Praise be"
+nod yes to ar
+>You nod up and down to Aradeia.
+>
+Autumn exclaims, "it's a miracle!"
+
+Gramliz says to Nominus, "thank you"
+l
+[Hidden Grove]
+
+A circle of tall, gray stones surrounds a vine-covered stump, as though protecting it from prying eyes.  Approaching the stump, you can almost feel it pulse with a hidden energy, as if it still has some life within it.  Markings decorate its top, although the overgrowth obscures most of it.  An overgrown path, a twisted black orchid, and a tiny green pile of ectoplasm are here.
+
+This area is illuminated.
+You see the 1st battle cat (wearing a small gold collar).
+In the area are Fionna the Noble Secian, Aradeia the Leuian, Nominus the Leuian, Autumn the Fir Elf, Julien the Noble Leuian, Tkarse the Leuian, Orianna the Noble Anthian, and Gramliz the Hithual.
+Obvious paths: None.
+hol no
+>You hold Nominus close.
+>
+Autumn grins at Gramliz.
+
+Nominus says, "Thank ye, all."
+
+(Nominus stands wearily)
+' You are our strength Prior
+
+Glinka says, " You are our strength Prior"
+>
+Gramliz nods at Nominus.
+smi to nom softly
+You smile to Nominus softly.
+>
+The battle cat purrs quietly.
+
+Nominus mutters something beneath his breath.
+
+The battle cat brings its ears back and twitches its tail.
+
+Nominus says, "And let that be a lesson to ye"
+
+Verbaniah's group just entered through an overgrown path.
+' are you feeling allryte?
+
+Glinka asks, " are you feeling allryte?"
+>
+Verbaniah is now following Nominus.
+
+Dace squints.
+
+Swirls of deep blue mist begin to gather before Verbaniah's fingertips.
+l at ru on da
+It looks like a sickly green rune crystal.
+
+It is transparent! Inside it you see a vision of a lifeless black wasteland surrounding a huge dead tree.
+>
+Dace glances at the oak ring of Elindale.
+
+The blue mist sprays forth and soothingly envelops Dace!
+
+The blue mist about Dace slowly fades away.
+
+Gramliz says, "ah was just gonna say, if the lesson is lost on anyone..."
+
+Dace pokes Julien.
+
+Dace points to the oak ring of Elindale.
+
+Fionna briefly touches Verbaniah.
+
+Fionna briefly touches Verbaniah on her right leg.
+
+Fionna sits down.
+diag all
+
+  You examine Fionna the Secian...
+She has a tiny abrasion on her right leg, and looks weakened.
+  You examine Verbaniah the Secian...
+She has no apparent injuries, but looks tired.
+  You examine Aradeia the Leuian...
+She appears to be in perfect health.
+  You examine Nominus the Leuian...
+He appears to be in perfect health.
+  You examine Autumn the Fir Elf...
+She appears to be in perfect health.
+  You examine Julien the Leuian...
+He appears to be in perfect health.
+  You examine Dace the Monitanian...
+He has no apparent injuries, but looks tired.
+  You examine Tkarse the Leuian...
+He appears to be in perfect health.
+  You examine Orianna the Anthian...
+She appears to be in perfect health.
+  You examine Gramliz the Hithual...
+He appears to be in perfect health.
+
+>
+Fionna places her hands upon her chest and prays a moment.
+
+Dace asks Julien in Monitanian, "izmk iub zuhn?"
+
+You hear the voice of Mack say, "Ack, forgot about Dace"
+
+Fionna places her hands upon her chest and prays a moment.
+
+Dace glances.
+off pot to no
+
+You hear someone grumble.
+
+Tkarse glances.
+You offer Nominus a flask of strong mistletoe potion.
+
+>
+Dace glances around.
+
+Tkarse chuckles.
+
+You hear the voice of Mack say, "Never mind the voice behind the curtain"
+
+Dace squints around the room.
+stare
+You stare.
+>
+Tkarse laughs.
+' Its the Lady!
+
+Glinka exclaims, " Its the Lady!"
+>
+Nominus accepts your flask of strong mistletoe potion.
+
+Fionna stands up.
+
+Dace scratches his head.
+stare up
+You stare up.
+>
+Gramliz has left Nominus's group.
+
+Gramliz just went through an overgrown path.
+
+Aradeia ponders...
+
+Dace asks in Monitanian, "nkvl fr r wkijd qqby?"
+
+Julien glances up.
+
+Nominus says to Glinka, "Thank ye."
+' this will help ye
+
+Glinka says, " this will help ye"
+>
+Fionna bows.
+smi at no gently, winking..
+
+Julien says to Nominus in Secti, "It isn't over..."
+You smile at Nominus gently, winking..
+>
+Julien says to Nominus in Secti, "Not yet."
+
+The battle cat is stalking something that you cannot see.
+
+Dace flicks his tongue at the battle cat.
+
+Julien says to Dace, "The rune crystal."
+
+Your glowing swirling multicolored globe flickers for a moment.
+
+Dace glances at the sickly green rune crystal.
+
+Fionna pets the battle cat.
+
+Nominus raises an eyebrow.
+
+Nominus asks, "One more, eh?"
+' he now has the power to destroy them
+
+Glinka says, " he now has the power to destroy them"
+>
+Nominus sighs.
+nod yes to da
+You nod up and down to Dace.
+>
+Gramliz just entered through an overgrown path.
+
+Nominus asks Dace, "Hand it to me?"
+
+Dace points to the sickly green rune crystal.
+
+Fionna briefly touches Gramliz.
+
+Aradeia holds Nominus close and comforts him.
+
+Fionna sits down.
+
+Fionna places her hands upon her chest and prays a moment.
+
+Dace offers something to Nominus.
+
+Fionna stands up.
+
+Fionna says to Nominus in Secti, "leans on me fer strengths"
+
+Nominus inhales before taking the crystal from Dace.
+
+Nominus accepts Dace's offer.
+shiv
+You shiver.
+>
+Dace squints.
+l at no
+
+Nominus looks like a 6'5" standard mature average boned, stocky bodied Leuian.
+He has short, wavy, coarse dark brown fur with dark spots, golden eyes, and looks neat.
+He appears to be distant right now.
+He bears the mark of Elindale.
+He can be attacked by other players.
+He appears to be in perfect health.
+
+Physical appearance:
+
+Golden eyes flash brightly like the sun while the subtle dark spots on this Leuian's fur are most apparent in moonlight.
+
+                        Visible Equipment
+Some luminescent trailing silk robes of white      (armor)
+A sacred bone bear skull helm                      (on head)
+A tiger carved onyx mark of Leuia                  (around neck)
+A cloak of leaves                                  (over armor)
+An ivy carved oak ring                             (ring (right))
+A faintly glowing ivy signet ring                  (ring (left))
+Some softly shimmering emerald prayer beads        (on belt)
+A moonstone dove-etched monogram of khal'gaia      (on belt)
+A simple woven grass belt                          (on belt)
+
+He has been bestowed the following title(s):
+  Noble of the Realm
+
+>
+Nominus grits his teeth as he squeezes the crystal in his hand.
+
+Orianna has left Nominus's group.
+l
+[Hidden Grove]
+
+A circle of tall, gray stones surrounds a vine-covered stump, as though protecting it from prying eyes.  Approaching the stump, you can almost feel it pulse with a hidden energy, as if it still has some life within it.  Markings decorate its top, although the overgrowth obscures most of it.  An overgrown path, a twisted black orchid, and a tiny green pile of ectoplasm are here.
+
+This area is illuminated.
+You see the 1st battle cat (wearing a small gold collar).
+In the area are Fionna the Noble Secian, Verbaniah the Secian (holding a glowing delicate red crystal rose), Aradeia the Leuian, Nominus the Leuian, Autumn the Fir Elf, Julien the Noble Leuian, Dace the Monitanian, Tkarse the Leuian, Orianna the Noble Anthian, and Gramliz the Hithual.
+Obvious paths: None.
+>
+Orianna just went through an overgrown path.
+
+Tkarse grunts as he stand behind Nominus for support.
+
+Aradeia furrows her brow gently.
+beam to no
+You beam to Nominus.
+>
+Nominus bows and murmurs a prayer to Elindale.
+
+The battle cat is stalking something that you cannot see.
+
+Aradeia nods gently and places her hands over Nominus', lending aid.
+
+Autumn bows her head.
+
+You see Nominus trying to break his sickly green rune crystal...
+    Nominus's sickly green rune crystal just broke!
+
+Autumn has left Nominus's group.
+
+Autumn just went through an overgrown path.
+stare
+You stare.
+l
+>[Hidden Grove]
+
+A circle of tall, gray stones surrounds a vine-covered stump, as though protecting it from prying eyes.  Approaching the stump, you can almost feel it pulse with a hidden energy, as if it still has some life within it.  Markings decorate its top, although the overgrowth obscures most of it.  An overgrown path, a twisted black orchid, and a tiny green pile of ectoplasm are here.
+
+This area is illuminated.
+You see the 1st battle cat (wearing a small gold collar).
+In the area are Fionna the Noble Secian, Verbaniah the Secian (holding a glowing delicate red crystal rose), Aradeia the Leuian, Nominus the Leuian, Julien the Noble Leuian, Dace the Monitanian, Tkarse the Leuian, and Gramliz the Hithual.
+Obvious paths: None.
+>
+Nominus throws a broken sickly green rune crystal which flies a short distance before hitting the ground.  It shatters on impact!
+
+Nominus grunts.
+' wow
+
+Glinka says, " wow"
+>
+Gramliz nods at Nominus.
+
+Aradeia purrs.
+stare at no
+You stare at Nominus.
+>
+(Nominus brushes off his hands)
+
+Fionna kneels.
+' you have the Power
+
+Glinka says, " you have the Power"
+>
+Aradeia bows her head gently.
+knee to no
+You kneel to Nominus.
+' Elindale bless us all
+>
+Glinka says, " Elindale bless us all"
+>
+Fionna says to Nominus in Secti, "ya be da right fer Prior"
+bow her head
+You bow her head.
+>
+Tkarse kisses the beautiful carved oak ring of Elindale.
+
+Dace glances at the oak ring of Elindale.
+
+Nominus nods to Fionna and smiles.
+
+Aradeia's stomach growls.
+
+Fionna says in Secti, "praises be Elindale"
+
+Dace pokes the oak ring of Elindale.
+l
+[Hidden Grove]
+
+A circle of tall, gray stones surrounds a vine-covered stump, as though protecting it from prying eyes.  Approaching the stump, you can almost feel it pulse with a hidden energy, as if it still has some life within it.  Markings decorate its top, although the overgrowth obscures most of it.  An overgrown path, a twisted black orchid, and a tiny green pile of ectoplasm are here.
+
+This area is illuminated.
+You see the 1st battle cat (wearing a small gold collar).
+In the area are Fionna the Noble Secian, Verbaniah the Secian (holding a glowing delicate red crystal rose), Aradeia the Leuian, Nominus the Leuian, Julien the Noble Leuian, Dace the Monitanian, Tkarse the Leuian, and Gramliz the Hithual.
+Obvious paths: None.
+>
+Nominus says, "Thank ye all again for your help."
+nod yes to f
+You nod up and down to Fionna.
+' thank you Prior
+>
+Glinka says, " thank you Prior"
+>
+Aradeia smiles at Nominus.
+hol no
+You hold Nominus close.
+>
+Gramliz bows to Nominus.
+
+Gramliz says, "yes, thank you"
+beam at no
+You beam at Nominus.
+>
+Nominus says, "Alright, back to the Tree we go."
+
+A warm sweetly scented wind drifts through the gorge.
+
+Nominus says, "I must rest."
+
+Fionna glances.
+
+Aradeia purrs.
+
+Julien gazes up to the sky.
+
+Nominus swishes his tail and inhales deeply.
+wh to ver don forget your ecto
+You whisper to Verbaniah.
+>
+Fionna is now following Nominus.
+foll no
+
+Dace taps his white dragon scale boots on the ground.
+You must LEAVE this group before you can FOLLOW another.
+l
+>[Hidden Grove]
+
+A circle of tall, gray stones surrounds a vine-covered stump, as though protecting it from prying eyes.  Approaching the stump, you can almost feel it pulse with a hidden energy, as if it still has some life within it.  Markings decorate its top, although the overgrowth obscures most of it.  An overgrown path, a twisted black orchid, and a tiny green pile of ectoplasm are here.
+
+This area is illuminated.
+You see the 1st battle cat (wearing a small gold collar).
+In the area are Fionna the Noble Secian, Verbaniah the Secian (holding a glowing delicate red crystal rose), Aradeia the Leuian, Nominus the Leuian, Julien the Noble Leuian, Dace the Monitanian, Tkarse the Leuian, and Gramliz the Hithual.
+Obvious paths: None.
+>
+Verbaniah just picked up a tiny green pile of ectoplasm.
+smi at v delicately , brushing back her kinky white hair
+
+Nominus says to Dace, "Thank ye for coming."
+You smile at Verbaniah delicately , brushing back her kinky white hair.
+>
+Verbaniah offers something to Fionna.
+
+Julien says, "Thine graces are eternal."
+
+Nominus nods to Tkarse.
+
+Dace scratches his head.
+
+Dace asks Julien in Monitanian, "kzn hdvc?"
+
+Fionna accepts Verbaniah's offer.
+' this day will live in history
+
+Glinka says, " this day will live in history"
+>
+Fionna nods.
+stare
+You stare.
+appear mood happ
+>
+You are now happy.
+
+>
+Julien shrugs.
+
+Nominus asks Dace, "Do ye know the way back to the ferry?"
+
+Aradeia swishes her tail softly.
+You see Tkarse call out to the god Elindale.  Unfortunately, nothing happens!
+
+Dace glances around.
+You see Tkarse call out to the god Elindale.  You see an owl fly above the head of Tkarse.
+
+In a rainbow shimmer, Tkarse disappears.
+
+Julien says to Dace, "Back to Spur for you."
+
+Verbaniah says in Secian, "i shall take him back"
+
+Verbaniah nods up and down.
+
+Dace squints.
+
+Verbaniah says, "i will take him back"
+
+Verbaniah blushes.
+show group
+Fionna is in your group.
+Verbaniah is in your group.
+Aradeia is in your group.
+Nominus is in your group.
+Julien is in your group.
+Dace is in your group.
+Your group has 7 people!
+l
+>[Hidden Grove]
+
+A circle of tall, gray stones surrounds a vine-covered stump, as though protecting it from prying eyes.  Approaching the stump, you can almost feel it pulse with a hidden energy, as if it still has some life within it.  Markings decorate its top, although the overgrowth obscures most of it.  An overgrown path and a twisted black orchid are here.
+
+This area is illuminated.
+You see the 1st battle cat (wearing a small gold collar).
+In the area are Fionna the Noble Secian, Verbaniah the Secian (holding a glowing delicate red crystal rose), Aradeia the Leuian, Nominus the Leuian, Julien the Noble Leuian, Dace the Monitanian, and Gramliz the Hithual.
+Obvious paths: None.
+>
+Aradeia hugs Verbaniah.
+
+Verbaniah says, "i would not wish to bring someone over the river and not take them back..."
+
+Nominus says to Verbaniah, "Thank ye."
+
+Verbaniah blushes again.
+
+Verbaniah shakes her head from side to side.
+
+Nominus asks, "Everyone else following?"
+
+Dace chuckles.
+nod yes to no
+You nod up and down to Nominus.
+>
+Verbaniah says to Nominus, "i believe more thanks are accorded to you"
+
+Verbaniah nods.
+
+Nominus says to Verbaniah, "To Her."
+
+Nominus nods up and down.
+
+You follow Nominus through an overgrown path...
+
+
+l
+The area brightens.
+[Barren Fields]
+
+A single lonely tree stands at the edge of the field. The barren plain is littered with very large rocks that form a barely discernable pattern. Several shallow ditches accompany the rocks, and it becomes apparent that this is not the habitat of the living. A dark structure huddles on a gentle rise to the north.  An overgrown trail is here.
+sr trail
+
+This area is illuminated.
+You see the 1st battle cat (wearing a small gold collar).
+In the area are Fionna the Noble Secian, Verbaniah the Secian (holding a glowing delicate red crystal rose), Aradeia the Leuian, Nominus the Leuian, Julien the Noble Leuian, and Dace the Monitanian.
+Obvious paths: north northeast east southeast.
+[Barren Fields]
+
+A single lonely tree stands at the edge of the field. The barren plain is littered with very large rocks that form a barely discernable pattern. Several shallow ditches accompany the rocks, and it becomes apparent that this is not the habitat of the living. A dark structure huddles on a gentle rise to the north.  An overgrown trail is here.
+sr trail
+
+This area is illuminated.
+You see the 1st battle cat (wearing a small gold collar).
+In the area are Fionna the Noble Secian, Verbaniah the Secian (holding a glowing delicate red crystal rose), Aradeia the Leuian, Nominus the Leuian, Julien the Noble Leuian, and Dace the Monitanian.
+Obvious paths: north northeast east southeast.
+>
+You follow Nominus southeast...
+
+
+l
+The area brightens.
+[Barren Fields]
+
+A scraggly tree struggles to grow on the rocky, dry ground.  A number of bones and a some rusted shards of metal lie among the rocks and weeds that cover the parched soil.
+
+This area is illuminated.
+You see the 1st greater spirit and the 1st battle cat (wearing a small gold collar).
+In the area are Fionna the Noble Secian, Verbaniah the Secian (holding a glowing delicate red crystal rose), Aradeia the Leuian, Nominus the Leuian, Julien the Noble Leuian, and Dace the Monitanian.
+Obvious paths: south northwest*.
+[Barren Fields]
+
+A scraggly tree struggles to grow on the rocky, dry ground.  A number of bones and a some rusted shards of metal lie among the rocks and weeds that cover the parched soil.
+
+This area is illuminated.
+You see the 1st greater spirit and the 1st battle cat (wearing a small gold collar).
+In the area are Fionna the Noble Secian, Verbaniah the Secian (holding a glowing delicate red crystal rose), Aradeia the Leuian, Nominus the Leuian, Julien the Noble Leuian, and Dace the Monitanian.
+Obvious paths: south northwest.
+>
+You follow Nominus south...
+
+
+l
+The area brightens.
+[Cliffside Path.]
+
+A cluster of tightly packed trees separates the sheltered path from the barren field beyond. A stone structure, whose severe lack of warmth and beauty are a perfect match for the desolate plain surrounding it, stands threateningly against the skyline.
+
+This area is illuminated.
+You see the 1st battle cat (wearing a small gold collar).
+In the area are Fionna the Noble Secian, Verbaniah the Secian (holding a glowing delicate red crystal rose), Aradeia the Leuian, Nominus the Leuian, Julien the Noble Leuian, and Dace the Monitanian.
+Obvious paths: north* south.
+[Cliffside Path.]
+
+A cluster of tightly packed trees separates the sheltered path from the barren field beyond. A stone structure, whose severe lack of warmth and beauty are a perfect match for the desolate plain surrounding it, stands threateningly against the skyline.
+
+This area is illuminated.
+You see the 1st battle cat (wearing a small gold collar).
+In the area are Fionna the Noble Secian, Verbaniah the Secian (holding a glowing delicate red crystal rose), Aradeia the Leuian, Nominus the Leuian, Julien the Noble Leuian, and Dace the Monitanian.
+Obvious paths: north south.
+>
+You follow Nominus south...
+
+
+l
+The area brightens.
+[Cliffside Path.]
+
+The rocky terrain makes traversing the hillside rather difficult. Pebbles of every size make their best attempt to trip all those who travel this way. The silhouette of a dark structure looms above the treetops to the north.
+
+This area is illuminated.
+You see the 1st battle cat (wearing a small gold collar).
+In the area are Fionna the Noble Secian, Verbaniah the Secian (holding a glowing delicate red crystal rose), Aradeia the Leuian, Nominus the Leuian, Julien the Noble Leuian, and Dace the Monitanian.
+Obvious paths: north* southeast.
+[Cliffside Path.]
+
+The rocky terrain makes traversing the hillside rather difficult. Pebbles of every size make their best attempt to trip all those who travel this way. The silhouette of a dark structure looms above the treetops to the north.
+
+This area is illuminated.
+You see the 1st battle cat (wearing a small gold collar).
+In the area are Fionna the Noble Secian, Verbaniah the Secian (holding a glowing delicate red crystal rose), Aradeia the Leuian, Nominus the Leuian, Julien the Noble Leuian, and Dace the Monitanian.
+Obvious paths: north southeast.
+>
+You follow Nominus southeast...
+
+
+l
+The area brightens.
+[Cliffside Path.]
+
+A large statue once stood vigil on this rocky outcropping overlooking the gorge. The remains of the once imposing figure lie scattered about, some lost forever to the depths of the chasm.
+
+This area is illuminated.
+You see the 1st large skeleton, the 1st moaning spirit, and the 1st battle cat (wearing a small gold collar).
+In the area are Fionna the Noble Secian, Verbaniah the Secian (holding a glowing delicate red crystal rose), Aradeia the Leuian, Nominus the Leuian, Julien the Noble Leuian, and Dace the Monitanian.
+Obvious paths: east northwest*.
+[Cliffside Path.]
+
+A large statue once stood vigil on this rocky outcropping overlooking the gorge. The remains of the once imposing figure lie scattered about, some lost forever to the depths of the chasm.
+
+This area is illuminated.
+You see the 1st large skeleton, the 1st moaning spirit, and the 1st battle cat (wearing a small gold collar).
+In the area are Fionna the Noble Secian, Verbaniah the Secian (holding a glowing delicate red crystal rose), Aradeia the Leuian, Nominus the Leuian, Julien the Noble Leuian, and Dace the Monitanian.
+Obvious paths: east northwest.
+>
+You see Fionna call out the name of Elindale and point at the moaning spirit!
+
+The moaning spirit smiles wickedly after the attempt to turn it!
+
+You follow Nominus east...
+
+
+l
+The area brightens.
+[Cliffside Path.]
+
+The path nearly vanishes beneath the undergrowth as the space between the trees becomes nearly nonexistent. A chilly wind whips through the brush, creating a distinct sense of restless unease.
+
+This area is illuminated.
+You see the 1st banshee and the 1st battle cat (wearing a small gold collar).
+In the area are Fionna the Noble Secian, Verbaniah the Secian (holding a glowing delicate red crystal rose), Aradeia the Leuian, Nominus the Leuian, Julien the Noble Leuian, and Dace the Monitanian.
+Obvious paths: southeast west*.
+[Cliffside Path.]
+
+The path nearly vanishes beneath the undergrowth as the space between the trees becomes nearly nonexistent. A chilly wind whips through the brush, creating a distinct sense of restless unease.
+
+This area is illuminated.
+You see the 1st banshee and the 1st battle cat (wearing a small gold collar).
+In the area are Fionna the Noble Secian, Verbaniah the Secian (holding a glowing delicate red crystal rose), Aradeia the Leuian, Nominus the Leuian, Julien the Noble Leuian, and Dace the Monitanian.
+Obvious paths: southeast west.
+>
+You follow Nominus southeast...
+
+
+l
+The area brightens.
+[Cliffside Path.]
+
+A small dark stream snakes quietly past the worn trail, trying to escape the hill beyond. The sounds of the forest have died down to a whisper, leaving only the haunting howl of the breeze.
+
+This area is illuminated.
+You see the 1st banshee and the 1st battle cat (wearing a small gold collar).
+In the area are Fionna the Noble Secian, Verbaniah the Secian (holding a glowing delicate red crystal rose), Aradeia the Leuian, Nominus the Leuian, Julien the Noble Leuian, and Dace the Monitanian.
+Obvious paths: south northwest*.
+[Cliffside Path.]
+
+A small dark stream snakes quietly past the worn trail, trying to escape the hill beyond. The sounds of the forest have died down to a whisper, leaving only the haunting howl of the breeze.
+
+This area is illuminated.
+You see the 1st banshee and the 1st battle cat (wearing a small gold collar).
+In the area are Fionna the Noble Secian, Verbaniah the Secian (holding a glowing delicate red crystal rose), Aradeia the Leuian, Nominus the Leuian, Julien the Noble Leuian, and Dace the Monitanian.
+Obvious paths: south northwest.
+>
+You follow Nominus south...
+
+
+l
+The area brightens.
+[Cliffside Path.]
+
+The sky is completely hidden from view by the tall, dark, and ominous trees.  The cold wind whips the trees back and forth. The constant swaying is extremely unsettling.
+
+This area is illuminated.
+You see the 1st battle cat (wearing a small gold collar).
+In the area are Fionna the Noble Secian, Verbaniah the Secian (holding a glowing delicate red crystal rose), Aradeia the Leuian, Nominus the Leuian, Julien the Noble Leuian, and Dace the Monitanian.
+Obvious paths: north* south.
+[Cliffside Path.]
+
+The sky is completely hidden from view by the tall, dark, and ominous trees.  The cold wind whips the trees back and forth. The constant swaying is extremely unsettling.
+
+This area is illuminated.
+You see the 1st battle cat (wearing a small gold collar).
+In the area are Fionna the Noble Secian, Verbaniah the Secian (holding a glowing delicate red crystal rose), Aradeia the Leuian, Nominus the Leuian, Julien the Noble Leuian, and Dace the Monitanian.
+Obvious paths: north south.
+>
+You follow Nominus south...
+
+
+l
+The area brightens.
+[Cliffside Path.]
+
+The trees grow tall and dark here, huddling close together over the path. Only the sound of the waterfall far across the gorge disturbs the silence. The heavy air gathers about, making it slightly harder to breathe.
+
+This area is illuminated.
+You see the 1st battle cat (wearing a small gold collar).
+In the area are Fionna the Noble Secian, Verbaniah the Secian (holding a glowing delicate red crystal rose), Aradeia the Leuian, Nominus the Leuian, Julien the Noble Leuian, and Dace the Monitanian.
+Obvious paths: north* south.
+[Cliffside Path.]
+
+The trees grow tall and dark here, huddling close together over the path. Only the sound of the waterfall far across the gorge disturbs the silence. The heavy air gathers about, making it slightly harder to breathe.
+
+This area is illuminated.
+You see the 1st battle cat (wearing a small gold collar).
+In the area are Fionna the Noble Secian, Verbaniah the Secian (holding a glowing delicate red crystal rose), Aradeia the Leuian, Nominus the Leuian, Julien the Noble Leuian, and Dace the Monitanian.
+Obvious paths: north south.
+>
+You follow Nominus south...
+
+
+l
+The area brightens.
+[Cliffside Path.]
+
+The hill rises steeply to the east, making travel difficult.  The intertwined branches overhead form an ominous cover, blocking out the sky from view.  A path along the cliff is here.
+
+This area is illuminated.
+You see the 1st large skeleton and the 1st battle cat (wearing a small gold collar).
+In the area are Fionna the Noble Secian, Verbaniah the Secian (holding a glowing delicate red crystal rose), Aradeia the Leuian, Nominus the Leuian, Julien the Noble Leuian, and Dace the Monitanian.
+Obvious paths: north*.
+[Cliffside Path.]
+
+The hill rises steeply to the east, making travel difficult.  The intertwined branches overhead form an ominous cover, blocking out the sky from view.  A path along the cliff is here.
+
+This area is illuminated.
+You see the 1st large skeleton and the 1st battle cat (wearing a small gold collar).
+In the area are Fionna the Noble Secian, Verbaniah the Secian (holding a glowing delicate red crystal rose), Aradeia the Leuian, Nominus the Leuian, Julien the Noble Leuian, and Dace the Monitanian.
+Obvious paths: north.
+turn sk 
+>
+You see Fionna call out the name of Elindale and point at the large skeleton!
+
+The large skeleton is seemingly unimpressed by the attempt to turn it!
+h
+sk
+You call out the name of your deity and point to the large skeleton!
+
+The large skeleton ignores the attempt to turn it!
+
+You feel more tired.
+[5 sec. delay]
+>You have no apparent injuries, but look tired.
+
+HP: 115/115  Ftg:  60/ 65
+>
+Skill                     Remain Level
+ First Aid                 97     1     
+ Channeling                323    5     
+ Blunt Weapons             394    4     
+ Spellcasting              1137   15    
+ Turn Undead               446    6     
+ Identify Gems/Minerals    774    7     
+ Shield Parry              100    1     
+ Identify Magick           67     1     
+ Swimming                  82     2     
+
+>
+You see Verbaniah call out the name of Elindale and point at the large skeleton!
+
+You follow Nominus through a path along the cliff...
+
+
+l
+The area brightens.
+[Cliff.]
+
+You realize this hidden spot is not visible from the edge of great forest across the ravine. Lush grass covers the ground surrounding a shimmering pure moonsilver pool; its surface reflecting the beauty of the skies above.  A steep slope and a path along the cliff are here.
+
+This area is illuminated.
+You see the 1st banshee, the 1st moaning spirit, and the 1st battle cat (wearing a small gold collar).
+In the area are Fionna the Noble Secian, Verbaniah the Secian (holding a glowing delicate red crystal rose), Aradeia the Leuian, Nominus the Leuian, Julien the Noble Leuian, and Dace the Monitanian.
+Obvious paths: None.
+[Cliff.]
+
+You realize this hidden spot is not visible from the edge of great forest across the ravine. Lush grass covers the ground surrounding a shimmering pure moonsilver pool; its surface reflecting the beauty of the skies above.  A steep slope and a path along the cliff are here.
+
+This area is illuminated.
+You see the 1st banshee, the 1st moaning spirit, and the 1st battle cat (wearing a small gold collar).
+In the area are Fionna the Noble Secian, Verbaniah the Secian (holding a glowing delicate red crystal rose), Aradeia the Leuian, Nominus the Leuian, Julien the Noble Leuian, and Dace the Monitanian.
+Obvious paths: None.
+>
+You follow Nominus through a steep slope...
+
+
+l
+The area brightens.
+[Forest End]
+
+The trees end suddenly as you have come to an immensely wide canyon.  A bridge at one time led across to the other side.  Now, however, the bridge is broken and looks to be beyond repair. Across the ravine you see nothing but rock and barren landscape.  A crumbling bridge is here.
+
+This area is illuminated.
+You see the 1st bushy-tailed rabbit, the 1st greater spirit, and the 1st battle cat (wearing a small gold collar).
+In the area are Fionna the Noble Secian, Verbaniah the Secian (holding a glowing delicate red crystal rose), Aradeia the Leuian, Nominus the Leuian, Julien the Noble Leuian, and Dace the Monitanian.
+Obvious paths: east.
+[Forest End]
+
+The trees end suddenly as you have come to an immensely wide canyon.  A bridge at one time led across to the other side.  Now, however, the bridge is broken and looks to be beyond repair. Across the ravine you see nothing but rock and barren landscape.  A crumbling bridge is here.
+
+This area is illuminated.
+You see the 1st bushy-tailed rabbit, the 1st greater spirit, and the 1st battle cat (wearing a small gold collar).
+In the area are Fionna the Noble Secian, Verbaniah the Secian (holding a glowing delicate red crystal rose), Aradeia the Leuian, Nominus the Leuian, Julien the Noble Leuian, and Dace the Monitanian.
+Obvious paths: east.
+roll
+>You roll your eyes.
+>
+You follow Nominus east...
+
+
+l
+The area brightens.
+[Forest path.]
+
+The path here is wide and seems to be underlaid with stone. Looking closer, the stone seems to be laid out in a regular pattern.  Perhaps this is the remains of a road. You wonder where it leads as a wolf howls mournfully in the distance.
+
+This area is illuminated.
+You see the 1st battle cat (wearing a small gold collar).
+In the area are Fionna the Noble Secian, Verbaniah the Secian (holding a glowing delicate red crystal rose), Aradeia the Leuian, Nominus the Leuian, Julien the Noble Leuian, and Dace the Monitanian.
+Obvious paths: east west*.
+[Forest path.]
+
+The path here is wide and seems to be underlaid with stone. Looking closer, the stone seems to be laid out in a regular pattern.  Perhaps this is the remains of a road. You wonder where it leads as a wolf howls mournfully in the distance.
+
+This area is illuminated.
+You see the 1st battle cat (wearing a small gold collar).
+In the area are Fionna the Noble Secian, Verbaniah the Secian (holding a glowing delicate red crystal rose), Aradeia the Leuian, Nominus the Leuian, Julien the Noble Leuian, and Dace the Monitanian.
+Obvious paths: east west.
+>
+You follow Nominus east...
+
+
+l
+The area brightens.
+[Branch in forest path.]
+
+The path branches, leading off in three directions here. The trees here, begin to become more deciduous as you go south. Ferns brush at your feet as you walk. Tangles of blackberries looking quite good, grow on the hill. Dare you eat them?
+
+This area is illuminated.
+You see the 1st dirge, the 2nd dirge, and the 1st battle cat (wearing a small gold collar).
+In the area are Fionna the Noble Secian, Verbaniah the Secian (holding a glowing delicate red crystal rose), Aradeia the Leuian, Nominus the Leuian, Julien the Noble Leuian, and Dace the Monitanian.
+Obvious paths: northeast southeast west*.
+[Branch in forest path.]
+
+The path branches, leading off in three directions here. The trees here, begin to become more deciduous as you go south. Ferns brush at your feet as you walk. Tangles of blackberries looking quite good, grow on the hill. Dare you eat them?
+
+This area is illuminated.
+You see the 1st dirge, the 2nd dirge, and the 1st battle cat (wearing a small gold collar).
+In the area are Fionna the Noble Secian, Verbaniah the Secian (holding a glowing delicate red crystal rose), Aradeia the Leuian, Nominus the Leuian, Julien the Noble Leuian, and Dace the Monitanian.
+Obvious paths: northeast southeast west.
+>
+You follow Nominus southeast...
+
+
+l
+The area brightens.
+[Branch in forest path.]
+
+The path branches again, finally leading away from the hill. Your feet and legs are getting damp as the wet ferns brush against your legs. The trees open up slightly here and you think it would be a nice place to rest, if it weren't for the hill.  Some lush ferns are here.
+
+This area is illuminated.
+You see the 1st battle cat (wearing a small gold collar).
+In the area are Fionna the Noble Secian, Verbaniah the Secian (holding a glowing delicate red crystal rose), Aradeia the Leuian, Nominus the Leuian, Julien the Noble Leuian, and Dace the Monitanian.
+Obvious paths: southeast southwest northwest*.
+[Branch in forest path.]
+
+The path branches again, finally leading away from the hill. Your feet and legs are getting damp as the wet ferns brush against your legs. The trees open up slightly here and you think it would be a nice place to rest, if it weren't for the hill.  Some lush ferns are here.
+
+This area is illuminated.
+You see the 1st battle cat (wearing a small gold collar).
+In the area are Fionna the Noble Secian, Verbaniah the Secian (holding a glowing delicate red crystal rose), Aradeia the Leuian, Nominus the Leuian, Julien the Noble Leuian, and Dace the Monitanian.
+Obvious paths: southeast southwest northwest.
+>
+You follow Nominus southwest...
+
+
+l
+The area brightens.
+[Forest path.]
+
+The path slopes down to the south here as it leads away from the hill.  The evergreens subside as the ground becomes moist due to the proximity of the stream. The undergrowth is quite thick here, and the music of the stream begins to pervade your senses.  A charming embankment is here.
+
+This area is illuminated.
+You see the 1st battle cat (wearing a small gold collar).
+In the area are Fionna the Noble Secian, Verbaniah the Secian (holding a glowing delicate red crystal rose), Aradeia the Leuian, Nominus the Leuian, Julien the Noble Leuian, and Dace the Monitanian.
+Obvious paths: northeast* south.
+[Forest path.]
+
+The path slopes down to the south here as it leads away from the hill.  The evergreens subside as the ground becomes moist due to the proximity of the stream. The undergrowth is quite thick here, and the music of the stream begins to pervade your senses.  A charming embankment is here.
+
+This area is illuminated.
+You see the 1st battle cat (wearing a small gold collar).
+In the area are Fionna the Noble Secian, Verbaniah the Secian (holding a glowing delicate red crystal rose), Aradeia the Leuian, Nominus the Leuian, Julien the Noble Leuian, and Dace the Monitanian.
+Obvious paths: northeast south.
+>
+You follow Nominus south...
+
+
+l
+The area brightens.
+[Forest stream.]
+
+The path ends here as it comes upon the steep banks of a forest stream.  A wooden bridge, in surprisingly good repair, crosses the stream. The skeletal remains of some fish litter the stream bank and nosing about you notice some large pawprints.  A wooden bridge and some skeletal fish remains are here.
+
+This area is illuminated.
+You see the 1st battle cat (wearing a small gold collar).
+In the area are Fionna the Noble Secian, Verbaniah the Secian (holding a glowing delicate red crystal rose), Aradeia the Leuian, Nominus the Leuian, Julien the Noble Leuian, and Dace the Monitanian.
+Obvious paths: north* southeast.
+[Forest stream.]
+
+The path ends here as it comes upon the steep banks of a forest stream.  A wooden bridge, in surprisingly good repair, crosses the stream. The skeletal remains of some fish litter the stream bank and nosing about you notice some large pawprints.  A wooden bridge and some skeletal fish remains are here.
+
+This area is illuminated.
+You see the 1st battle cat (wearing a small gold collar).
+In the area are Fionna the Noble Secian, Verbaniah the Secian (holding a glowing delicate red crystal rose), Aradeia the Leuian, Nominus the Leuian, Julien the Noble Leuian, and Dace the Monitanian.
+Obvious paths: north southeast.
+>
+You follow Nominus through a wooden bridge...
+
+
+l
+The area brightens.
+[Hope's Path.]
+
+A small stream runs noisily under the two bridges spanning the ravine. A number of the brunt oaks still stand about, memorials to the forest this once was. A number of small saplings dot the ground between the black trunks. Between the stream bank and oaks, a small path of four-leaf-clover shaped stones weave a windy path through the forest.  A stone bridge, a wooden bridge, a clump of wildgrass, and some flowering jasmine vines are here.
+
+This area is illuminated.
+You see the 1st battle cat (wearing a small gold collar).
+In the area are Fionna the Noble Secian, Verbaniah the Secian (holding a glowing delicate red crystal rose), Aradeia the Leuian, Nominus the Leuian, Julien the Noble Leuian, and Dace the Monitanian.
+Obvious paths: east.
+[Hope's Path.]
+
+A small stream runs noisily under the two bridges spanning the ravine. A number of the brunt oaks still stand about, memorials to the forest this once was. A number of small saplings dot the ground between the black trunks. Between the stream bank and oaks, a small path of four-leaf-clover shaped stones weave a windy path through the forest.  A stone bridge, a wooden bridge, a clump of wildgrass, and some flowering jasmine vines are here.
+
+This area is illuminated.
+You see the 1st battle cat (wearing a small gold collar).
+In the area are Fionna the Noble Secian, Verbaniah the Secian (holding a glowing delicate red crystal rose), Aradeia the Leuian, Nominus the Leuian, Julien the Noble Leuian, and Dace the Monitanian.
+Obvious paths: east.
+>
+You follow Nominus east...
+
+
+l
+The area brightens.
+[Hope's Path.]
+
+Once dead and blackened trees now come to life with spots of moss and growth. A patch of wild mushrooms grows at the base of one of the trees. Small, four-leaf-clover shaped stones, form a small path through the area. The soft sound of running water echoes in from the west.
+
+This area is illuminated.
+You see the 1st battle cat (wearing a small gold collar).
+In the area are Fionna the Noble Secian, Verbaniah the Secian (holding a glowing delicate red crystal rose), Aradeia the Leuian, Nominus the Leuian, Julien the Noble Leuian, and Dace the Monitanian.
+Obvious paths: east southeast west*.
+[Hope's Path.]
+
+Once dead and blackened trees now come to life with spots of moss and growth. A patch of wild mushrooms grows at the base of one of the trees. Small, four-leaf-clover shaped stones, form a small path through the area. The soft sound of running water echoes in from the west.
+
+This area is illuminated.
+You see the 1st battle cat (wearing a small gold collar).
+In the area are Fionna the Noble Secian, Verbaniah the Secian (holding a glowing delicate red crystal rose), Aradeia the Leuian, Nominus the Leuian, Julien the Noble Leuian, and Dace the Monitanian.
+Obvious paths: east southeast west.
+>
+You follow Nominus southeast...
+
+
+l
+The area brightens.
+[Hope's Path.]
+
+A fine haze of dust hovers over the remains of the Silver Owl Inn. Through the fallen timbers and memories of lives lost, one can see brilliant green sprouts reaching for sunlight. A tiny songbird perches on an old stick of furniture poking through the rubble, singing sweetly to herald new life and hope. A small winding path of stones placed in the shape of four leaf clovers winds itself through the forest.  A small winding stone pathway and a charred flowering steelwood tree are here.
+
+This area is illuminated.
+You see the 1st battle cat (wearing a small gold collar).
+In the area are Fionna the Noble Secian, Verbaniah the Secian (holding a glowing delicate red crystal rose), Aradeia the Leuian, Nominus the Leuian, Julien the Noble Leuian, and Dace the Monitanian.
+Obvious paths: northeast south northwest*.
+[Hope's Path.]
+
+A fine haze of dust hovers over the remains of the Silver Owl Inn. Through the fallen timbers and memories of lives lost, one can see brilliant green sprouts reaching for sunlight. A tiny songbird perches on an old stick of furniture poking through the rubble, singing sweetly to herald new life and hope. A small winding path of stones placed in the shape of four leaf clovers winds itself through the forest.  A small winding stone pathway and a charred flowering steelwood tree are here.
+
+This area is illuminated.
+You see the 1st battle cat (wearing a small gold collar).
+In the area are Fionna the Noble Secian, Verbaniah the Secian (holding a glowing delicate red crystal rose), Aradeia the Leuian, Nominus the Leuian, Julien the Noble Leuian, and Dace the Monitanian.
+Obvious paths: northeast south northwest.
+>
+You follow Nominus south...
+
+
+l
+The area brightens.
+[Hope's Path.]
+
+A small path, its stones in the shape of four leaf clovers, winds its way through the sparse remains of a once dense undergrowth. New plants and flowers begin to rise from the blackened floor, bringing a new color and life to the area.  A small winding stone pathway and a mossy cracked steelwood tree are here.
+
+This area is illuminated.
+You see the 1st battle cat (wearing a small gold collar).
+In the area are Fionna the Noble Secian, Verbaniah the Secian (holding a glowing delicate red crystal rose), Aradeia the Leuian, Nominus the Leuian, Julien the Noble Leuian, and Dace the Monitanian.
+Obvious paths: north* southeast southwest.
+[Hope's Path.]
+
+A small path, its stones in the shape of four leaf clovers, winds its way through the sparse remains of a once dense undergrowth. New plants and flowers begin to rise from the blackened floor, bringing a new color and life to the area.  A small winding stone pathway and a mossy cracked steelwood tree are here.
+
+This area is illuminated.
+You see the 1st battle cat (wearing a small gold collar).
+In the area are Fionna the Noble Secian, Verbaniah the Secian (holding a glowing delicate red crystal rose), Aradeia the Leuian, Nominus the Leuian, Julien the Noble Leuian, and Dace the Monitanian.
+Obvious paths: north southeast southwest.
+>
+You follow Nominus southeast...
+
+
+l
+The area brightens.
+[Hope's Path.]
+
+The path of four leaf clove shaped flagstones leads past a small clean shack and into a well formed tunnel through the thorn bushes to the east and the Caersech to the west. The small shack is set back from the road, its walls built of a whitewashed birch. A sturdy corral, filled with well-fed horses, stands to the left of the shack. A matched pair of dapple grays stand in front of the shack waiting to take their human baggage to their destination. To the left of the door, behind a small paned window, a beautiful Fir Elf female takes coin and in return, with a charming smile, directs those who have paid their fare into the waiting room.  A small shack, a freshly painted sign, a notice of non-refund, and a small winding stone pathway are here.
+
+This area is illuminated.
+You see the 1st battle cat (wearing a small gold collar).
+In the area are Fionna the Noble Secian, Verbaniah the Secian (holding a glowing delicate red crystal rose), Aradeia the Leuian, Nominus the Leuian, Julien the Noble Leuian, and Dace the Monitanian.
+Obvious paths: northeast east* southwest northwest*.
+[Hope's Path.]
+
+The path of four leaf clove shaped flagstones leads past a small clean shack and into a well formed tunnel through the thorn bushes to the east and the Caersech to the west. The small shack is set back from the road, its walls built of a whitewashed birch. A sturdy corral, filled with well-fed horses, stands to the left of the shack. A matched pair of dapple grays stand in front of the shack waiting to take their human baggage to their destination. To the left of the door, behind a small paned window, a beautiful Fir Elf female takes coin and in return, with a charming smile, directs those who have paid their fare into the waiting room.  A small shack, a freshly painted sign, a notice of non-refund, and a small winding stone pathway are here.
+
+This area is illuminated.
+You see the 1st battle cat (wearing a small gold collar).
+In the area are Fionna the Noble Secian, Verbaniah the Secian (holding a glowing delicate red crystal rose), Aradeia the Leuian, Nominus the Leuian, Julien the Noble Leuian, and Dace the Monitanian.
+Obvious paths: northeast east* southwest northwest.
+>
+You follow Nominus east...
+
+[Hope's Path.]
+
+Carefully winding its way up the base of the tree, and wrapping itself around the stairs, a flowering jasmine vine grows tall and lush. Dark scars from a past fire are almost hidden under tufts of fresh growth and moss. A large gap, nearly sixteen feet in distance, rests between the base of a set of stairs and the forest floor. A long moonsilver cord hangs down the side of the tree. If one pulls it, the long Elven rope will descend from above, allowing them to enter the great city of Treehaven. Bright green leaves of clover have begun springing up through the ashy soil in conjunction with soft moss to lend a durable cushion to this well-traveled spot.  Some vine-covered steps circling the tree, a freshly painted wooden sign, a healthy green patch of clover, a flowing marble fountain, some clover shaped stones, some sweet scented flowering jasmine vines, a long woven moonsilver cord, and an Elven rope are here.
+
+This area is illuminated.
+You see the 1st battle cat (wearing a small gold collar).
+In the area are Fionna the Noble Secian, Verbaniah the Secian (holding a glowing delicate red crystal rose), Aradeia the Leuian, Nominus the Leuian, Autumn the Fir Elf (seated), Julien the Noble Leuian, Dace the Monitanian, Gideon the Noble Anthian, and Orianna the Noble Anthian.
+Obvious paths: north east south west*.
+
+Orianna tends to Autumn's wounds.
+
+Verbaniah briefly touches Autumn.
+diag all
+
+  You examine Fionna the Secian...
+She appears to be in perfect health.
+  You examine Verbaniah the Secian...
+She has no apparent injuries, but looks weakened.
+  You examine Aradeia the Leuian...
+She appears to be in perfect health.
+  You examine Nominus the Leuian...
+He appears to be in perfect health.
+  You examine Autumn the Fir Elf...
+She has no apparent injuries, but looks tired.
+  You examine Julien the Leuian...
+He appears to be in perfect health.
+  You examine Dace the Monitanian...
+He has no apparent injuries, but looks tired.
+  You examine Gideon the Anthian...
+He appears to be in perfect health.
+  You examine Orianna the Anthian...
+She has no apparent injuries, but looks tired.
+
+transfer damage from v 10
+h
+>You appear to be in perfect health.
+
+HP: 115/115  Ftg:  65/ 65
+You transfer some damage to yourself from Verbaniah.
+You take 1 point of damage!
+>
+Verbaniah's glowing delicate red crystal rose flickers for a moment.
+transfer wounds from v all
+h
+You appear to be in perfect health.
+
+HP: 115/115  Ftg:  65/ 65
+Target is not wounded!
+>
+Verbaniah pulls Dace closer to her.
+diag all
+
+Verbaniah has left Nominus's group.
+
+  You examine Fionna the Secian...
+She appears to be in perfect health.
+  You examine Verbaniah the Secian...
+She appears to be in perfect health.
+  You examine Aradeia the Leuian...
+She appears to be in perfect health.
+  You examine Nominus the Leuian...
+He appears to be in perfect health.
+  You examine Autumn the Fir Elf...
+She has no apparent injuries, but looks tired.
+  You examine Julien the Leuian...
+He appears to be in perfect health.
+  You examine Dace the Monitanian...
+He has no apparent injuries, but looks tired.
+  You examine Gideon the Anthian...
+He appears to be in perfect health.
+  You examine Orianna the Anthian...
+She has no apparent injuries, but looks tired.
+
+>
+Dace has left Nominus's group.
+
+Autumn asks, "was the magick that Elindale held over the forest any different then the magick that mages use?"
+
+Dace is now following Verbaniah.
+
+Verbaniah smiles to Dace.
+
+Autumn raises an eyebrow at Nominus.
+l
+[Hope's Path.]
+
+Carefully winding its way up the base of the tree, and wrapping itself around the stairs, a flowering jasmine vine grows tall and lush. Dark scars from a past fire are almost hidden under tufts of fresh growth and moss. A large gap, nearly sixteen feet in distance, rests between the base of a set of stairs and the forest floor. A long moonsilver cord hangs down the side of the tree. If one pulls it, the long Elven rope will descend from above, allowing them to enter the great city of Treehaven. Bright green leaves of clover have begun springing up through the ashy soil in conjunction with soft moss to lend a durable cushion to this well-traveled spot.  Some vine-covered steps circling the tree, a freshly painted wooden sign, a healthy green patch of clover, a flowing marble fountain, some clover shaped stones, some sweet scented flowering jasmine vines, a long woven moonsilver cord, and an Elven rope are here.
+
+This area is illuminated.
+You see the 1st battle cat (wearing a small gold collar).
+In the area are Fionna the Noble Secian, Verbaniah the Secian (holding a glowing delicate red crystal rose), Aradeia the Leuian, Nominus the Leuian, Autumn the Fir Elf (seated), Julien the Noble Leuian, Dace the Monitanian, Gideon the Noble Anthian, and Orianna the Noble Anthian.
+Obvious paths: north east south west.
+>
+Verbaniah blushes.
+' mebbe just a truer form of it?
+
+Glinka asks, " mebbe just a truer form of it?"
+>
+Dace chuckles.
+rai at au
+You raise an eyebrow at Autumn.
+>
+Autumn says to Nominus, "I know you are exhausted"
+
+The battle cat just left via an Elven rope.
+
+Nominus says, "Elindale's power is in everything."
+
+Autumn says to Glinka, "it is not clear to me"
+
+You follow Nominus through an Elven rope...
+
+[Steps.]
+
+The latticework surrounding and covering the spiral staircase is finely crafted. The intertwining beams seem to weave a delicate pattern above you, accenting the view of the forest floor. Soft, new, growth can be seen all over the forest below. A small mound of moss has slowly begun to cover the old inn, creating a fuzzy green mound. A large pile of Elven rope sits near the silent Golem. This creature of Elindale helps defend the city by retrieving the rope that people have pushed down to the forest below.  Some steps circling the tree, a freshly carved wooden sign, and an Elven rope are here.
+
+This area is illuminated.
+You see the 1st wooden golem.
+In the area are Fionna the Noble Secian, Aradeia the Leuian, Nominus the Leuian, and Julien the Noble Leuian.
+Obvious paths: None.
+nod softly
+You nod softly.
+>
+You follow Nominus through some steps circling the tree...
+
+[Gaspar's Grog and Grub.]
+
+Four sturdy walls and a roof of woven branches enclose this small tavern. From the forest floor, winding their way around the trunk of the Mother Tree, a set of intricately railed steps serve as the entrance and exit of the town of Treehaven. Strangers arriving at the top of the steps find themselves under the watchful eye of patrons seated at tables positioned about the light, airy room. A set of oak steps lead up to the new Council chambers.  An ivory inlaid pine bar, a wooden stool, a long weathered wooden bench, a long musty wooden table, some steps circling the tree, some freshly crafted oak steps, an open door, a paper covered posting board, and a gilt framed painting on the wall are here.
+
+This room is illuminated.
+In the room are Fionna the Noble Secian, Aradeia the Leuian, Nominus the Leuian, and Julien the Noble Leuian.
+Obvious exits: None.
+*->Verbaniah smiles to Dace.
+
+*->Verbaniah asks, "all set?"
+*->Autumn sighs.
+*->A divine light shines from Verbaniah as she begins to utter a holy incantation.
+
+Nominus disbands his group.
+*->Autumn slings her simple yew crossbow.
+
+*->Orianna says, "I have some soul searching to do"
+*->Gideon ponders the meaning of the universe for a moment.
+*->Autumn whistles a high pitch note!  After a few moments, a little sparrow flies in and lands on Autumn's shoulder.
+*->Autumn whispers something to the sparrow and it flies off to deliver her message.  
+*->Orianna removes her forest green knightly wool mantle.
+*->Autumn nods to Orianna.
+*->The divine light about Verbaniah intensifies and quickly envelops those nearby!
+
+Nominus says, "I must rest, all."
+bow to no deeply with great respect
+You bow to Nominus deeply with great respect.
+>*->Orianna just removed a silver knight's key from within her open large leather backpack.
+
+Aradeia smiles to Nominus.
+*->Orianna offers something to Autumn.
+
+*->Autumn asks Orianna, "think first?"
+
+Aradeia says to Nominus, "Rest well deserved"
+*->Autumn shakes her head from side to side.
+
+Fionna smiles at Nominus.
+*->Orianna nods to Autumn.
+*->Autumn frowns.
+' we owe you much
+
+Glinka says, " we owe you much"
+hol no
+>You hold Nominus close.
+>
+*->Autumn says, "we can take them later"
+*->Autumn smiles at Orianna.
+
+*->Orianna says, "but for now, I have no place as an officer of Her Knights"
+*->Autumn sighs.
+*->Orianna just placed a forest green knightly wool mantle within her open large leather backpack.
+*->Autumn accepts Orianna's offer.
+
+Nominus says, "Tell Tkarse I am sorry but will look for him tomorrow."
+
+*->Autumn says to Orianna, "as you wish"
+*->The little sparrow returns and sings a pleasant song for Autumn.  The sparrow tweets happily, then flies off again.
+
+Aradeia nods.
+nod to no
+You nod to Nominus.
+>
+*->Orianna says, "I will keep the mantle for now...."
+*->Orianna sighs.
+*->Autumn nods to Orianna.
+*->Autumn hugs Orianna.
+*->Orianna cries softly on Gideon's shoulder.
+*->Gideon comforts Orianna.
+*->A long, thin Elven rope is pulled up rapidly from above.
+
+Nominus says, "Lady bless ye all."
+l
+[Gaspar's Grog and Grub.]
+
+Four sturdy walls and a roof of woven branches enclose this small tavern. From the forest floor, winding their way around the trunk of the Mother Tree, a set of intricately railed steps serve as the entrance and exit of the town of Treehaven. Strangers arriving at the top of the steps find themselves under the watchful eye of patrons seated at tables positioned about the light, airy room. A set of oak steps lead up to the new Council chambers.  An ivory inlaid pine bar, a wooden stool, a long weathered wooden bench, a long musty wooden table, some steps circling the tree, some freshly crafted oak steps, an open door, a paper covered posting board, and a gilt framed painting on the wall are here.
+
+This room is illuminated.
+In the room are Fionna the Noble Secian, Aradeia the Leuian, Nominus the Leuian, and Julien the Noble Leuian.
+Obvious exits: None.
+>
+*->Autumn says to Orianna, "I am sure this was not Nom's intention."
+' and you
+
+Glinka says, " and you"
+>
+Aradeia says, "Good Eve Prior"
+
+*->Orianna says, "please tell Clive I'm sorry"
+smi at no impishly, tossing her long soft hair back...
+
+*->Gideon says, "I am sorry dear"
+You smile at Nominus impishly, tossing her long soft hair back...
+>
+*->Autumn says, "his words were not aimed at you"
+
+Nominus just went through an open door.
+' wow, what a nyte!
+
+Glinka exclaims, " wow, what a nyte!"
+stare
+>You stare.
+>
+Your glowing swirling multicolored globe flickers for a moment.
+l
+[Gaspar's Grog and Grub.]
+
+Four sturdy walls and a roof of woven branches enclose this small tavern. From the forest floor, winding their way around the trunk of the Mother Tree, a set of intricately railed steps serve as the entrance and exit of the town of Treehaven. Strangers arriving at the top of the steps find themselves under the watchful eye of patrons seated at tables positioned about the light, airy room. A set of oak steps lead up to the new Council chambers.  An ivory inlaid pine bar, a wooden stool, a long weathered wooden bench, a long musty wooden table, some steps circling the tree, some freshly crafted oak steps, an open door, a paper covered posting board, and a gilt framed painting on the wall are here.
+
+This room is illuminated.
+In the room are Fionna the Noble Secian, Aradeia the Leuian, and Julien the Noble Leuian.
+Obvious exits: None.
+rem glo
+>You extinguish your glowing swirling multicolored globe.
+>
+*->Orianna asks, "how can I know that if they are given with no explanation?"
+
+Aradeia nods gently.
+*->Autumn nods sadly.
+' i feel so ..free now
+
+Glinka says, " i feel so ..free now"
+>
+Julien gazes down at the floor.
+
+Julien is now despairing.
+
+Julien just went through an open door.
+
+l
+[Gaspar's Grog and Grub.]
+
+Four sturdy walls and a roof of woven branches enclose this small tavern. From the forest floor, winding their way around the trunk of the Mother Tree, a set of intricately railed steps serve as the entrance and exit of the town of Treehaven. Strangers arriving at the top of the steps find themselves under the watchful eye of patrons seated at tables positioned about the light, airy room. A set of oak steps lead up to the new Council chambers.  An ivory inlaid pine bar, a wooden stool, a long weathered wooden bench, a long musty wooden table, some steps circling the tree, some freshly crafted oak steps, an open door, a paper covered posting board, and a gilt framed painting on the wall are here.
+
+This room is illuminated.
+In the room are Fionna the Noble Secian and Aradeia the Leuian.
+Obvious exits: None.
+>
+*->Gideon asks, "why would he agree to marry us?"
+
+*->Orianna says, "I will send word - if I can work things out with Her I would like to remain a Knight"
+
+Fionna says to Glinka in Secti, "HIHI"
+link he is restin now
+
+>*->Autumn nods to Orianna.
+smi at f gently, winking..
+You smile at Fionna gently, winking..
+>
+
+l
+[Gaspar's Grog and Grub.]
+
+Four sturdy walls and a roof of woven branches enclose this small tavern. From the forest floor, winding their way around the trunk of the Mother Tree, a set of intricately railed steps serve as the entrance and exit of the town of Treehaven. Strangers arriving at the top of the steps find themselves under the watchful eye of patrons seated at tables positioned about the light, airy room. A set of oak steps lead up to the new Council chambers.  An ivory inlaid pine bar, a wooden stool, a long weathered wooden bench, a long musty wooden table, some steps circling the tree, some freshly crafted oak steps, an open door, a paper covered posting board, and a gilt framed painting on the wall are here.
+
+This room is illuminated.
+In the room are Fionna the Noble Secian and Aradeia the Leuian.
+Obvious exits: None.
+>
+*->Autumn says to Gideon, "I don't understand any of this"
+
+Fionna says to Glinka in Secian, "been long times"
+
+*->Orianna says, "but I can not be an officer with these doubts"
+
+Gramliz just entered through an open door.
+
+Gramliz just went through some steps circling the tree.
+link the Prior has crushed all the runespheres
+
+>
+*->Autumn says to Orianna, "I understand"
+*->Gramliz just entered.
+nod yes to f
+
+You nod up and down to Fionna.
+l
+>[Gaspar's Grog and Grub.]
+
+Four sturdy walls and a roof of woven branches enclose this small tavern. From the forest floor, winding their way around the trunk of the Mother Tree, a set of intricately railed steps serve as the entrance and exit of the town of Treehaven. Strangers arriving at the top of the steps find themselves under the watchful eye of patrons seated at tables positioned about the light, airy room. A set of oak steps lead up to the new Council chambers.  An ivory inlaid pine bar, a wooden stool, a long weathered wooden bench, a long musty wooden table, some steps circling the tree, some freshly crafted oak steps, an open door, a paper covered posting board, and a gilt framed painting on the wall are here.
+
+This room is illuminated.
+In the room are Fionna the Noble Secian and Aradeia the Leuian.
+Obvious exits: None.
+>*->Gramliz smiles.
+*->Autumn is now following Gramliz.
+
+*->Orianna says to Gideon, "maybe you can show me Salad Island"
+*->Autumn just placed a silver knight's key within her baggy beige canvas pants.
+*->Autumn smiles at Orianna.
+' such a wonderous nyte 
+
+Glinka says, " such a wonderous nyte "
+>
+*->Autumn says, "that's a good place to think"
+stare about
+
+*->Autumn says, "it's very quiet there"
+You stare about.
+>
+*->Gideon asks Orianna, "You want to go now?"
+*->Orianna ponders the meaning of the universe for a moment.
+l
+[Gaspar's Grog and Grub.]
+
+Four sturdy walls and a roof of woven branches enclose this small tavern. From the forest floor, winding their way around the trunk of the Mother Tree, a set of intricately railed steps serve as the entrance and exit of the town of Treehaven. Strangers arriving at the top of the steps find themselves under the watchful eye of patrons seated at tables positioned about the light, airy room. A set of oak steps lead up to the new Council chambers.  An ivory inlaid pine bar, a wooden stool, a long weathered wooden bench, a long musty wooden table, some steps circling the tree, some freshly crafted oak steps, an open door, a paper covered posting board, and a gilt framed painting on the wall are here.
+
+This room is illuminated.
+In the room are Fionna the Noble Secian and Aradeia the Leuian.
+Obvious exits: None.
+>
+*->Orianna says, "sure get some money first"
+
+Aradeia glances about slowly.
+
+Luminous beams of light begin to coalesce in center of the area.
+
+Verbaniah's form suddenly appears in a flash of celestial light!
+
+*->Orianna says, "should even"
+*->Orianna rolls her eyes.
+*->Orianna sniffs.
+*->Gideon nods to Orianna.
+
+*->Autumn says to Orianna, "no trainers"
+
+*->Autumn hugs Orianna.
+
+*->Orianna says, "I can't even talk straight"
+smi to v
+You smile to Verbaniah.
+>
+Verbaniah blushes.
+
+Verbaniah furrows her brow.
+
+Verbaniah, boingy, boingy, boingy, just went through an open door.
+*->Autumn frowns.
+
+Aradeia nuzzles Fionna.
+
+Aradeia, With soundless steps and soft flick of tail, just went through an open door.
+
+Fionna sits down.
+
+Fionna exhales.
+*->Orianna hugs Gramliz.
+*->Orianna hugs Autumn.
+link jus that they were man made, ..and the Lady had the power to destroy them
+
+>*->Gramliz smiles.
+*->Gramliz hugs Orianna.
+lean head f ......her long soft kinky hair falling all over....
+You lean your head on Fionna's shoulder......her long soft kinky hair falling all over....
+l
+>[Gaspar's Grog and Grub.]
+
+Four sturdy walls and a roof of woven branches enclose this small tavern. From the forest floor, winding their way around the trunk of the Mother Tree, a set of intricately railed steps serve as the entrance and exit of the town of Treehaven. Strangers arriving at the top of the steps find themselves under the watchful eye of patrons seated at tables positioned about the light, airy room. A set of oak steps lead up to the new Council chambers.  An ivory inlaid pine bar, a wooden stool, a long weathered wooden bench, a long musty wooden table, some steps circling the tree, some freshly crafted oak steps, an open door, a paper covered posting board, and a gilt framed painting on the wall are here.
+
+This room is illuminated.
+In the room is Fionna the Noble Secian (seated).
+Obvious exits: None.
+>
+*->Orianna says, "I...."
+sit quietly with a wry smile upon her hyacinth lips...
+
+Fionna cries softly.
+You sit down quietly with a wry smile upon her hyacinth lips....
+>*->Orianna sighs.
+hol f
+You hold Fionna close.
+>*->Gramliz's stomach growls.
+
+hold Fionna too!
+Fionna holds you close.
+You hold Fionna close too!
+>*->Gideon comforts Orianna.
+' whats wrong then?
+
+Glinka asks, " whats wrong then?"
+>*->Gramliz listens intently.
+
+Verbaniah, boingy, boingy, boingy , just entered through an open door.
+*->Tiamat's group just entered from the west.
+
+Verbaniah, boingy, boingy, boingy, just went through an open door.
+*->Nokin hums and keeps his mouth shut.
+
+*->Orianna says, "I'll be back, at least to visit"
+sp secti
+You are now speaking Secti.
+>*->Autumn smiles.
+*->Sast's hands begin to glow with a warm violet light.
+*->A long, thin Elven rope is dropped from above.
+*->Tiamat's group just went through an Elven rope.
+
+Tiamat's group just entered through some steps circling the tree.
+
+*->Orianna says, "tell Clive and Lauranna I'll send word"
+
+Sast ponders.
+l
+
+Tiamat's group just went through an open door.
+[Gaspar's Grog and Grub.]
+
+Four sturdy walls and a roof of woven branches enclose this small tavern. From the forest floor, winding their way around the trunk of the Mother Tree, a set of intricately railed steps serve as the entrance and exit of the town of Treehaven. Strangers arriving at the top of the steps find themselves under the watchful eye of patrons seated at tables positioned about the light, airy room. A set of oak steps lead up to the new Council chambers.  An ivory inlaid pine bar, a wooden stool, a long weathered wooden bench, a long musty wooden table, some steps circling the tree, some freshly crafted oak steps, an open door, a paper covered posting board, and a gilt framed painting on the wall are here.
+
+This room is illuminated.
+In the room is Fionna the Noble Secian (seated).
+Obvious exits: None.
+>
+*->Autumn says to Orianna, "I have faith in you."
+
+*->Gramliz says, "ah'll see you there probably"
+
+*->Autumn says, "we'll come and get you"
+*->Autumn grins at Orianna.
+
+*->Gramliz says, "like to get away myself that direction now and then"
+l at f
+
+Fionna looks like a 1'0" standard adolescent delicate boned, wirey-tough bodied Secian.
+She is seated.
+She has shoulder length, braided, fine platinum blonde hair, with ruby red eyes, and looks disheveled.
+She appears to be preoccupied right now.
+She bears the mark of Elindale.
+She can be attacked by other players.
+
+On her left shoulder is a tattoo of a tiny black unicorn, reared up on its hind legs.
+
+She appears to be in perfect health.
+
+Physical appearance:
+
+The tears in her wings are mostly healed and her face has taken on a look of determination. An Emerald circle with a black Unicorn has been drawn on the breast of her armor.
+
+                        Visible Equipment
+A black unicorn embroidered emerald green velvet c (over armor)
+An oak ring of Elindale                            (ring (right))
+An unicorn etched moonsilver band                  (ring (right))
+A tiny sparkling amber earring                     (right ear)
+A tiny sparkling amber earring                     (left ear)
+Some black leaf patterned silk capris              (pants)
+An emerald laced black camisole                    (shirt)
+An open bear embroidered suede belt pouch          (on belt)
+An open bear embroidered suede belt pouch          (on belt)
+
+She has been bestowed the following title(s):
+  Noble of the Realm
+
+>
+*->Gramliz says, "careful"
+*->Orianna fans her wings at Gramliz.
+*->Gideon sniffs.
+
+*->Gramliz says, "you get to far north, it gets ugly"
+*->Gideon fans his wings at Autumn.
+*->Gideon fans his wings at Gramliz.
+
+*->Gramliz says, "especially at night"
+*->Orianna shrugs.
+
+*->Orianna says, "amybe that's what I need right now...."
+
+Fionna says to Glinka in Secian, "I glads you okies"
+wave to *->Orianna
+*->Orianna waves.
+I don't see what you are referring to.
+shop implant to f
+>*->Gramliz nods.
+You step forward and speak with the proprietor...
+
+Sorry, we don't implant runes here.
+>*->Orianna's group just went through an Elven rope.
+smi to f
+
+Orianna's group just entered through some steps circling the tree.
+You smile to Fionna.
+>*->Autumn frowns.
+
+Orianna's group just went through an open door.
+
+*->Gramliz says, "hmmm"
+
+*->Autumn asks Gramliz in Firian, "Inljfttzn ty Lnzehse?"
+' I was sure that thyng was cursed to me forever
+
+Glinka says in Secti, " I was sure that thyng was cursed to me forever"
+shiv
+>You shiver.
+>
+*->Gramliz says, "ah don't know"
+sp secian
+You are now speaking Secian.
+l
+>[Gaspar's Grog and Grub.]
+
+Four sturdy walls and a roof of woven branches enclose this small tavern. From the forest floor, winding their way around the trunk of the Mother Tree, a set of intricately railed steps serve as the entrance and exit of the town of Treehaven. Strangers arriving at the top of the steps find themselves under the watchful eye of patrons seated at tables positioned about the light, airy room. A set of oak steps lead up to the new Council chambers.  An ivory inlaid pine bar, a wooden stool, a long weathered wooden bench, a long musty wooden table, some steps circling the tree, some freshly crafted oak steps, an open door, a paper covered posting board, and a gilt framed painting on the wall are here.
+
+This room is illuminated.
+In the room is Fionna the Noble Secian (seated).
+Obvious exits: None.
+>
+*->Autumn asks Gramliz in Firian, "egim dsax'x yez hazn?"
+' how have y beeN?
+
+Glinka asks in Secian, " how have y beeN?"
+>
+Fionna says in Secian, "glink gets so lonelies all da times"
+*->Gramliz just went west.
+*->Gramliz just entered from the west.
+*->Autumn stands up.
+*->Autumn just went west.
+*->Gramliz just went west.
+nod to f
+You nod to Fionna.
+l at f
+>
+Fionna looks like a 1'0" standard adolescent delicate boned, wirey-tough bodied Secian.
+She is seated.
+She has shoulder length, braided, fine platinum blonde hair, with ruby red eyes, and looks disheveled.
+She appears to be preoccupied right now.
+She bears the mark of Elindale.
+She can be attacked by other players.
+
+On her left shoulder is a tattoo of a tiny black unicorn, reared up on its hind legs.
+
+She appears to be in perfect health.
+
+Physical appearance:
+
+The tears in her wings are mostly healed and her face has taken on a look of determination. An Emerald circle with a black Unicorn has been drawn on the breast of her armor.
+
+                        Visible Equipment
+A black unicorn embroidered emerald green velvet c (over armor)
+An oak ring of Elindale                            (ring (right))
+An unicorn etched moonsilver band                  (ring (right))
+A tiny sparkling amber earring                     (right ear)
+A tiny sparkling amber earring                     (left ear)
+Some black leaf patterned silk capris              (pants)
+An emerald laced black camisole                    (shirt)
+An open bear embroidered suede belt pouch          (on belt)
+An open bear embroidered suede belt pouch          (on belt)
+
+She has been bestowed the following title(s):
+  Noble of the Realm
+
+' have you found a chosen?
+>
+Glinka asks in Secian, " have you found a chosen?"
+>
+Fionna cries softly.
+hol f
+You hold Fionna close.
+>
+Fionna says in Secian, "nae since Dyaminda died"
+' I miss her so
+
+Glinka says in Secian, " I miss her so"
+nod softly
+>You nod softly.
+>
+Fionna says in Secian, "an she were sick fer so long afore dat"
+nod to f
+You nod to Fionna.
+>
+Fenwhelt just appeared.
+' i used to talk to her about it back then
+
+Glinka says in Secian, " i used to talk to her about it back then"
+l
+>[Gaspar's Grog and Grub.]
+
+Four sturdy walls and a roof of woven branches enclose this small tavern. From the forest floor, winding their way around the trunk of the Mother Tree, a set of intricately railed steps serve as the entrance and exit of the town of Treehaven. Strangers arriving at the top of the steps find themselves under the watchful eye of patrons seated at tables positioned about the light, airy room. A set of oak steps lead up to the new Council chambers.  An ivory inlaid pine bar, a wooden stool, a long weathered wooden bench, a long musty wooden table, some steps circling the tree, some freshly crafted oak steps, an open door, a paper covered posting board, and a gilt framed painting on the wall are here.
+
+This room is illuminated.
+In the room are Fionna the Noble Secian (seated) and Fenwhelt the Anthian (seated).
+Obvious exits: None.
+>
+Fenwhelt fans his wings lightly.
+smi to fe
+You smile to Fenwhelt.
+diag all
+>
+  You examine Fionna the Secian...
+She appears to be in perfect health.
+  You examine Fenwhelt the Anthian...
+He has no apparent injuries, but looks tired.
+
+>
+Fionna says to Glinka in Secian, "she wouldna tells me dat she were sick"
+' she was strong, 
+
+Glinka says in Secian, " she was strong, "
+nod softly
+>You nod softly.
+' she didn't want folk to worry
+>
+Glinka says in Secian, " she didn't want folk to worry"
+' we must cherish the tymes we have been given
+>
+Glinka says in Secian, " we must cherish the tymes we have been given"
+hol f
+>You hold Fionna close.
+l
+>[Gaspar's Grog and Grub.]
+
+Four sturdy walls and a roof of woven branches enclose this small tavern. From the forest floor, winding their way around the trunk of the Mother Tree, a set of intricately railed steps serve as the entrance and exit of the town of Treehaven. Strangers arriving at the top of the steps find themselves under the watchful eye of patrons seated at tables positioned about the light, airy room. A set of oak steps lead up to the new Council chambers.  An ivory inlaid pine bar, a wooden stool, a long weathered wooden bench, a long musty wooden table, some steps circling the tree, some freshly crafted oak steps, an open door, a paper covered posting board, and a gilt framed painting on the wall are here.
+
+This room is illuminated.
+In the room are Fionna the Noble Secian (seated) and Fenwhelt the Anthian (seated).
+Obvious exits: None.
+>
+Fenwhelt motions his hands over the ground and begins to chant loudly.
+
+Verbaniah, boingy, boingy, boingy , just entered through an open door.
+
+hold Fionna too!
+Fionna holds you close.
+You hold Fionna close too!
+>
+Verbaniah furrows her brow.
+l
+[Gaspar's Grog and Grub.]
+
+Four sturdy walls and a roof of woven branches enclose this small tavern. From the forest floor, winding their way around the trunk of the Mother Tree, a set of intricately railed steps serve as the entrance and exit of the town of Treehaven. Strangers arriving at the top of the steps find themselves under the watchful eye of patrons seated at tables positioned about the light, airy room. A set of oak steps lead up to the new Council chambers.  An ivory inlaid pine bar, a wooden stool, a long weathered wooden bench, a long musty wooden table, some steps circling the tree, some freshly crafted oak steps, an open door, a paper covered posting board, and a gilt framed painting on the wall are here.
+
+This room is illuminated.
+In the room are Fionna the Noble Secian (seated), Verbaniah the Secian (holding a glowing delicate red crystal rose), and Fenwhelt the Anthian (seated).
+Obvious exits: None.
+>
+Verbaniah asks Glinka, "how are you feeling?"
+' I feel better, not cold anymore
+
+Glinka says in Secian, " I feel better, not cold anymore"
+>
+Fenwhelt nods to Verbaniah.
+smi to v
+You smile to Verbaniah.
+>
+lean head Verbaniah her long soft hair flying about...
+hug Verbaniah long and tyte
+Verbaniah hugs you.
+You lean your head on Verbaniah's shoulder her long soft hair flying about...
+>You hug Verbaniah long and tyte.
+>
+Fionna glances at you.
+
+Aradeia, The scent of flowers and apples encircling her, just entered through an open door.
+
+Fionna asks Glinka in Secian, "ya was sick?"
+
+The ground beneath Fenwhelt begins to tremble...
+
+A massive wall of earth rises from the ground before Fenwhelt!
+
+Fenwhelt fans his wings at Aradeia.
+nod to fi
+You nod to Fionna.
+>
+Aradeia nuzzles Fenwhelt.
+' the runesphere
+
+Glinka says in Secian, " the runesphere"
+>
+Fenwhelt exclaims to Aradeia, "Hi, there, Aradeia!"
+
+Verbaniah asks Aradeia, "and how are you feeling??"
+shiv
+You shiver.
+>
+Fenwhelt ponders the meaning of the universe for a moment.
+
+Aradeia says to Verbaniah, "I dont know.. really"
+
+Verbaniah furrows her brow.
+*->A long, thin Elven rope is pulled up rapidly from above.
+
+Aradeia says to Fenwhelt, "Greetings Fenny"
+
+Aradeia smiles to Fenwhelt.
+
+Fenwhelt says to Aradeia, "We need to find some way to shorten your name."
+
+Julien just entered through an open door.
+l
+[Gaspar's Grog and Grub.]
+
+Four sturdy walls and a roof of woven branches enclose this small tavern. From the forest floor, winding their way around the trunk of the Mother Tree, a set of intricately railed steps serve as the entrance and exit of the town of Treehaven. Strangers arriving at the top of the steps find themselves under the watchful eye of patrons seated at tables positioned about the light, airy room. A set of oak steps lead up to the new Council chambers.  An ivory inlaid pine bar, a wooden stool, a long weathered wooden bench, a long musty wooden table, some steps circling the tree, some freshly crafted oak steps, an open door, a paper covered posting board, and a gilt framed painting on the wall are here.
+
+This room is illuminated.
+In the room are Fionna the Noble Secian (seated), Julien the Noble Leuian, Verbaniah the Secian (holding a glowing delicate red crystal rose), Aradeia the Leuian, and Fenwhelt the Anthian (seated).
+Obvious exits: None.
+>
+Fenwhelt asks Aradeia, "So what's this about no Runespheres in the temple?"
+
+Fenwhelt ponders the meaning of the universe for a moment.
+
+Fenwhelt says to Aradeia, "I'm thinking Arah."
+
+Fenwhelt nods.
+l at ru on fe
+It looks like an open large dusty worn leather rucksack.
+
+There appears to be something inside.
+>
+Aradeia says to Fenwhelt, "Just what it says..."
+
+Aradeia says to Fenwhelt, "No Aech."
+
+Fenwhelt says to Aradeia, "Well, I'm just curious as to why."
+
+Julien gazes around the room.
+
+Fenwhelt says to Aradeia, "Before I go trapsing through your temple, and upsetting more clergy."
+smi to ju softly
+You smile to Julien softly.
+who n
+>Looking for a user with a name beginning with 'n'...
+
+Current Adventurers
+
+ Noffbrau Trenkill                   Nokin Saremac                      
+ Nachtsturm Arkayne                  Neva Khalsa                        
+
+You notice 4 adventurers.
+>
+Julien asks Fenwhelt in Secti, "Voices?"
+l
+[Gaspar's Grog and Grub.]
+
+Four sturdy walls and a roof of woven branches enclose this small tavern. From the forest floor, winding their way around the trunk of the Mother Tree, a set of intricately railed steps serve as the entrance and exit of the town of Treehaven. Strangers arriving at the top of the steps find themselves under the watchful eye of patrons seated at tables positioned about the light, airy room. A set of oak steps lead up to the new Council chambers.  An ivory inlaid pine bar, a wooden stool, a long weathered wooden bench, a long musty wooden table, some steps circling the tree, some freshly crafted oak steps, an open door, a paper covered posting board, and a gilt framed painting on the wall are here.
+
+This room is illuminated.
+In the room are Fionna the Noble Secian (seated), Julien the Noble Leuian, Verbaniah the Secian (holding a glowing delicate red crystal rose), Aradeia the Leuian, and Fenwhelt the Anthian (seated).
+Obvious exits: None.
+>
+Julien asks Fenwhelt, "Voices?"
+
+Verbaniah, boingy, boingy, boingy, just went through an open door.
+
+A number of glowing amber runes begin to dance above Fenwhelt's head.
+
+An amber aura suddenly envelops Julien's head closely!
+
+Aradeia says to Fenwhelt, "Well. Rune spheres are a deliberate energy-sucking thing. And they steal from the Lady."
+
+Fenwhelt asks Aradeia, "Steal from the lady how?"
+
+Tiamat just entered through an open door.
+
+Tiamat just went through some steps circling the tree.
+*->Tiamat just entered.
+*->Tiamat just went south.
+*->Tiamat just entered from the south.
+
+Aradeia says to Fenwhelt, "They take her power."
+*->Tiamat just went west.
+l
+[Gaspar's Grog and Grub.]
+
+Four sturdy walls and a roof of woven branches enclose this small tavern. From the forest floor, winding their way around the trunk of the Mother Tree, a set of intricately railed steps serve as the entrance and exit of the town of Treehaven. Strangers arriving at the top of the steps find themselves under the watchful eye of patrons seated at tables positioned about the light, airy room. A set of oak steps lead up to the new Council chambers.  An ivory inlaid pine bar, a wooden stool, a long weathered wooden bench, a long musty wooden table, some steps circling the tree, some freshly crafted oak steps, an open door, a paper covered posting board, and a gilt framed painting on the wall are here.
+
+This room is illuminated.
+In the room are Fionna the Noble Secian (seated), Julien the Noble Leuian, Aradeia the Leuian, and Fenwhelt the Anthian (seated).
+Obvious exits: None.
+>
+Fenwhelt says, "They're benign in their current form."
+
+Fionna says to Glinka in Secian, "I donna thin I ever gonna gets bonded"
+
+The amber glow about Julien's head fades away.
+
+Aradeia says to Fenwhelt, "They are still a concentration of that Power, which weakens Her."
+
+Fenwhelt says to Aradeia, "They're a concentration of magick."
+' hey, you wont if you keep thynkin that
+
+Glinka says in Secian, " hey, you wont if you keep thynkin that"
+smi to fi softly
+>You smile to Fionna softly.
+>
+Fenwhelt asks, "Is Elindale's power based on magick?"
+
+Fionna says to Glinka in Secian, "nae any Dragons e'en notices me"
+' I havent been with a dragond in many many years
+
+Glinka says in Secian, " I havent been with a dragond in many many years"
+>
+Aradeia says to Fenwhelt, "Taken from nature, fenny. The spheres are an affront to her, and the healing ones take her power."
+
+Xavier, hands crackling with black energy, just entered through an open door.
+
+Julien is now cold.
+
+Fenwhelt says to Aradeia, "If you say so."
+
+Julien says to Xavier, "Xavier..."
+
+Xavier raises an eyebrow at Julien.
+
+Fionna's stomach growls.
+
+Aradeia's stomach growls.
+
+Julien says to Xavier, "I must ask you of something."
+
+Xavier asks Julien, "Yes?"
+' you jus gotta keep on meetin the dragonds..
+
+Glinka says in Secian, " you jus gotta keep on meetin the dragonds.."
+' till somethyng clicks
+>
+Glinka says in Secian, " till somethyng clicks"
+>
+Xavier nods.
+
+Xavier is now following Julien.
+nod yes to fi
+You nod up and down to Fionna.
+l
+>[Gaspar's Grog and Grub.]
+
+Four sturdy walls and a roof of woven branches enclose this small tavern. From the forest floor, winding their way around the trunk of the Mother Tree, a set of intricately railed steps serve as the entrance and exit of the town of Treehaven. Strangers arriving at the top of the steps find themselves under the watchful eye of patrons seated at tables positioned about the light, airy room. A set of oak steps lead up to the new Council chambers.  An ivory inlaid pine bar, a wooden stool, a long weathered wooden bench, a long musty wooden table, some steps circling the tree, some freshly crafted oak steps, an open door, a paper covered posting board, and a gilt framed painting on the wall are here.
+
+This room is illuminated.
+In the room are Fionna the Noble Secian (seated), Julien the Noble Leuian, Aradeia the Leuian, Xavier the Human, and Fenwhelt the Anthian (seated).
+Obvious exits: None.
+>
+Fionna sighs.
+time

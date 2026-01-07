@@ -1,0 +1,2553 @@
+time
+
+Current time is: Tue Aug 30 03:25:07 2005 EST.
+time
+
+It is now 5:52 am on the 29th day of the 7th month in the year 320.
+
+You have been adventuring for 1 hr, 13 mins, 33 secs this session.
+
+>
+The go-blin boss on a gigantic wolf claws at Amagoss!
+The attack is an unbelievable blow to the torso.
+l
+[Gateway.]
+
+The relative safety inside Spur is a comfort to those returning from the fields and mountains. To those leaving, a massive wall of defense around the city lies ahead. Archer towers beside the gate overlook the wall, offering a painful welcome to would-be invaders. Several guards on foot patrol pass and disappear behind a thick, bluesteel banded steelwood door. Wall road stretches to the south, a wide passage between the city wall and several large buildings.  A closed iron gate, an open thick stone door, and a street lantern are here.
+
+This area is illuminated.
+You see the 1st go-blin boss on a gigantic wolf.
+In the area are Amagoss the Drake and Xavier the Human.
+Obvious paths: east* south.
+>
+Minute coils of violet draconic runemagick circle the end of Amagoss's claws and slowly spiral up his forearms.
+But the runes quickly fly apart after being called!
+diag all
+Amagoss claws at the go-blin boss on a gigantic wolf!
+The attack misses by a slim margin.
+Amagoss claws again at the go-blin boss on a gigantic wolf!
+The attack is a decent slash to the right leg.
+    The go-blin boss on a gigantic wolf is knocked back!
+    It stumbles and falls down!
+
+  You examine Amagoss the Dragon...
+He has a tiny slash across his left leg, a tiny slash across his right arm, a small slash across his torso, and looks weakened and fatigued.
+  You examine Xavier the Human...
+He has a small slash across his head.
+
+>
+Xavier swings his two-handed orichalcum long sword at the go-blin boss on a gigantic wolf!
+The swing is a well-delivered blow to the left leg.
+transfer damage from am 25
+h
+You have a tiny break in a bone in your right arm.
+
+HP: 125/125  Ftg:  70/ 70
+You transfer some damage to yourself from Amagoss.
+h
+h
+You take 22 points of damage!
+>
+The go-blin boss on a gigantic wolf claws at Amagoss!
+The attack misses.
+You have a tiny break in a bone in your right arm, and look weakened.
+
+HP: 103/125  Ftg:  70/ 70
+>You have a tiny break in a bone in your right arm, and look weakened.
+
+HP: 103/125  Ftg:  70/ 70
+transfer wounds from am all
+h
+>You have no apparent injuries, but look weakened.
+
+HP: 103/125  Ftg:  70/ 70
+You transfer a wound from Amagoss's torso to yourself.
+transfer damage from am 25
+h
+>You have a tiny slash across your torso, and look weakened.
+
+HP: 103/125  Ftg:  70/ 70
+transfer wounds from am all
+h
+
+Xavier swings his two-handed orichalcum long sword at the go-blin boss on a gigantic wolf!
+The swing is a good blow to the torso.
+You have a tiny slash across your torso, and look weakened.
+
+HP: 103/125  Ftg:  70/ 70
+You transfer some damage to yourself from Amagoss.
+You take 1 point of damage!
+Amagoss claws at the go-blin boss on a gigantic wolf!
+The attack is a strong slash to the torso.
+Amagoss claws again at the go-blin boss on a gigantic wolf!
+The attack fumbles!
+Target is not wounded!
+>
+The go-blin boss on a gigantic wolf stands up.
+transfer damage from am 25
+h
+You have a tiny slash across your torso, and look weakened.
+
+HP: 102/125  Ftg:  70/ 70
+
+Xavier swings his two-handed orichalcum long sword at the go-blin boss on a gigantic wolf!
+The swing is a strong blow to the left leg.
+    The go-blin boss on a gigantic wolf is knocked back!
+Target is not injured!
+transfer wounds from am all
+h
+>You have a tiny slash across your torso, and look weakened.
+
+HP: 102/125  Ftg:  70/ 70
+Target is not wounded!
+diag all
+>
+Xavier swings his two-handed orichalcum long sword at the go-blin boss on a gigantic wolf!
+The swing is a decent blow to the torso.
+    The go-blin boss on a gigantic wolf is knocked back!
+    It stumbles and falls down!
+
+  You examine Amagoss the Dragon...
+He has no apparent injuries, but looks fatigued.
+  You examine Xavier the Human...
+He has a small slash across his head, and looks weakened and tired.
+
+>
+The go-blin boss on a gigantic wolf stands up.
+
+Xavier hisses.
+transfer damage from xz 25
+h
+You have a tiny slash across your torso, and look weakened.
+
+HP: 102/125  Ftg:  70/ 70
+Amagoss claws at the go-blin boss on a gigantic wolf!
+The attack is a strong slash to the torso.
+    The go-blin boss on a gigantic wolf is knocked back!
+Amagoss claws again at the go-blin boss on a gigantic wolf!
+The attack is a decent slash to the torso.
+    The go-blin boss on a gigantic wolf is knocked back!
+
+The go-blin boss on a gigantic wolf falls back, the wolf unleashing a loud ear-piercing howl before collapsing over dead, its rider toppling over dead behind it.
+I don't see what you are referring to.
+transfer wounds from x all
+h
+>You have a tiny slash across your torso, and look weakened.
+
+HP: 102/125  Ftg:  70/ 70
+transfer damage from x 25
+h
+You have a tiny slash across your torso, and look weakened.
+
+HP: 102/125  Ftg:  70/ 70
+You transfer a wound from Xavier's head to yourself.
+You transfer some damage to yourself from Xavier.
+h
+h
+You take 2 points of damage!
+>You have a tiny slash across your torso, a small slash across your head, and look weakened.
+
+HP: 100/125  Ftg:  70/ 70
+>You have a tiny slash across your torso, a small slash across your head, and look weakened.
+
+HP: 100/125  Ftg:  70/ 70
+invo mb at gl
+>
+Elindalian wildflowers begin to blossom all around you!
+Weaving those runes cost you 4 FPs.
+
+You feel more tired.
+[4 sec. delay]
+diag all
+>
+The wildflowers release a delicate mist which envelops you, covering your skin with sparkling dew drops!
+
+h
+You feel healthier!
+
+h
+The dew upon you is quickly absorbed into your skin.
+You have a tiny slash across your torso, a small slash across your head, and look weakened and tired.
+
+HP: 120/125  Ftg:  66/ 70
+You have a tiny slash across your torso, a small slash across your head, and look weakened and tired.
+
+HP: 120/125  Ftg:  66/ 70
+
+  You examine Amagoss the Dragon...
+He has no apparent injuries, but looks fatigued.
+  You examine Xavier the Human...
+He has no apparent injuries, but looks tired.
+
+>
+ ** Current hit points: 114 out of 125
+
+ ** Current fatigue: 66 out of 70
+tact
+Standing in front of you at 1 UDs, is:
+Amagoss, Xavier, go-blin boss on a gigantic wolf
+Standing in this rank is:
+Glinka
+>
+Ormungun just entered from the east.
+
+You hear a click as Xavier unlocks the closed iron gate.
+
+Xavier just opened the closed iron gate.
+
+Xavier, his face gaunt and haggard, just went through an open iron gate.
+The open iron gate slowly closes and locks with a click.
+invo eb at am
+
+Amagoss's body returns to normal as the fiery tendrils dissipate.
+
+Wisps of shimmering blue mist begin to trail from Glinka fingertips.
+
+You feel a surge of magick infuse your runeweave!
+h
+Weaving those runes cost you 3 FPs.
+
+You feel more tired.
+[4 sec. delay]
+>You have a tiny slash across your torso, a small slash across your head, and look weakened and tired.
+
+HP: 114/125  Ftg:  63/ 70
+>
+The blue mist swirls about Amagoss and covers his skin with refreshing dew drops!
+
+The dew upon Amagoss is quickly absorbed into his skin.
+invo eb at am
+
+Wisps of shimmering blue mist begin to trail from Glinka fingertips.
+
+You feel a surge of magick infuse your runeweave!
+h
+Weaving those runes cost you 3 FPs.
+
+You feel more tired.
+[5 sec. delay]
+>You have a tiny slash across your torso, a small slash across your head, and look weakened and tired.
+
+HP: 114/125  Ftg:  62/ 70
+>
+The blue mist swirls about Amagoss and covers his skin with refreshing dew drops!
+
+The dew upon Amagoss is quickly absorbed into his skin.
+diag all
+
+  You examine Ormungun the Thugian...
+He has no apparent injuries, but looks weakened and fatigued.
+  You examine Amagoss the Dragon...
+He appears to be in perfect health.
+
+transfer damage from o 25
+h
+>You have a tiny slash across your torso, a small slash across your head, and look weakened and tired.
+
+HP: 114/125  Ftg:  66/ 70
+You transfer some damage to yourself from Ormungun.
+You take 1 point of damage!
+transfer wounds from o all
+h
+>You have a tiny slash across your torso, a small slash across your head, and look weakened and tired.
+
+HP: 113/125  Ftg:  66/ 70
+Target is not wounded!
+invo eb at o
+>
+Wisps of shimmering blue mist begin to trail from Glinka fingertips.
+h
+Weaving those runes cost you 3 FPs.
+
+You feel more tired.
+[4 sec. delay]
+>You have a tiny slash across your torso, a small slash across your head, and look weakened and tired.
+
+HP: 113/125  Ftg:  63/ 70
+>
+Amagoss strips the go-blin boss on a gigantic wolf's body.
+
+The go-blin boss on a gigantic wolf turns to dust.
+l
+[Gateway.]
+
+The relative safety inside Spur is a comfort to those returning from the fields and mountains. To those leaving, a massive wall of defense around the city lies ahead. Archer towers beside the gate overlook the wall, offering a painful welcome to would-be invaders. Several guards on foot patrol pass and disappear behind a thick, bluesteel banded steelwood door. Wall road stretches to the south, a wide passage between the city wall and several large buildings.  A closed iron gate, an open thick stone door, a street lantern, some silver coins, a short rusty old carbide axe, a short iron frying pan, and an iron rolling pin are here.
+
+This area is illuminated.
+You see the 1st tiny grey mouse (wearing a small gold collar).
+In the area are Ormungun the Thugian and Amagoss the Drake.
+Obvious paths: east* south.
+>
+The blue mist swirls about Ormungun and covers his skin with refreshing dew drops!
+
+The dew upon Ormungun is quickly absorbed into his skin.
+
+Ormungun says, "Tanks"
+
+Amagoss just picked up some silver coins.
+
+Amagoss just picked up a short rusty old carbide axe.
+l at gat
+It looks like a closed iron gate.
+It has been sealed closed by magickal means.
+l through gat
+l under gat
+l behind gat
+l on gat
+l in gat
+>But its closed!
+>There is nothing underneath that.
+>There is nothing behind that.
+>There is nothing on top of that.
+>You have to open it first before you can see what is inside!
+beam
+>You beam.
+h
+>You have no apparent injuries, but look weakened and tired.
+
+HP: 113/125  Ftg:  65/ 70
+>
+ ** Current hit points: 113 out of 125
+
+ ** Current fatigue: 65 out of 70
+invo vt at gl
+
+You don't have enough charges left to invoke this runespell.  Perhaps it is time to visit the RuneMage Guild for a recharge!
+>
+Ormungun just went south.
+
+Ormungun just entered from the south.
+
+A go-blin wolf rider enters, following Ormungun.
+
+A go-blin wolf rider enters, following Ormungun.
+flai
+Amagoss claws at the go-blin wolf rider!
+The attack is a well-delivered slash to the left leg.
+    The go-blin wolf rider is knocked back!
+Amagoss claws again at the go-blin wolf rider!
+The attack is a strong slash to the torso.
+    The go-blin wolf rider is knocked back!
+You flail your arms about wildly.
+>
+Ormungun swings his bloody darkened steel scramasax at the go-blin wolf rider!
+The swing misses its target.
+l s
+ready glo
+It's too dark to see anything!  Ready a torch.
+>
+The go-blin wolf rider bites at Ormungun!
+The attack is a well-delivered blow to the head.
+
+The 2nd go-blin wolf rider claws at Ormungun!
+The attack is a well-delivered blow to the right leg.
+You don't have a 'glo' in your inventory!
+diag all
+>
+Ormungun swings his bloody darkened steel scramasax at the go-blin wolf rider!
+The swing is a well-delivered blow to the head.
+Amagoss claws at the go-blin wolf rider!
+The attack is a decent slash to the head.
+    The go-blin wolf rider is knocked back!
+Amagoss claws again at the go-blin wolf rider!
+The attack is a strong slash to the torso.
+    The go-blin wolf rider is knocked back!
+
+  You examine Ormungun the Thugian...
+He has a tiny puncture wound in his head, a tiny slash across his right leg, and looks weakened and tired.
+  You examine Amagoss the Dragon...
+He has no apparent injuries, but looks tired.
+
+transfer damage from o 25
+h
+>You have no apparent injuries, but look weakened and tired.
+
+HP: 113/125  Ftg:  67/ 70
+You transfer some damage to yourself from Ormungun.
+h
+h
+You take 11 points of damage!
+>You have no apparent injuries, but look weakened and tired.
+
+HP: 102/125  Ftg:  67/ 70
+>You have no apparent injuries, but look weakened and tired.
+
+HP: 102/125  Ftg:  67/ 70
+transfer wounds from o all
+h
+>You have no apparent injuries, but look weakened and tired.
+
+HP: 102/125  Ftg:  67/ 70
+You transfer a wound from Ormungun's head to yourself.
+>
+Ormungun swings his bloody darkened steel scramasax at the go-blin wolf rider!
+The swing misses by a slim margin.
+
+The go-blin wolf rider charges at Amagoss!
+The attack is a strong blow to the right arm.
+
+The 2nd go-blin wolf rider charges at Ormungun!
+The attack is a good blow to the right arm.
+Amagoss claws at the go-blin wolf rider!
+The attack is a decent slash to the head.
+    The go-blin wolf rider is knocked back!
+Amagoss claws again at the go-blin wolf rider!
+The attack is a good slash to the torso.
+    The go-blin wolf rider is knocked back!
+transfer damage from am 25
+h
+You have a tiny puncture wound in your head, and look weakened and tired.
+
+HP: 102/125  Ftg:  67/ 70
+You transfer some damage to yourself from Amagoss.
+h
+h
+You take 5 points of damage!
+>You have a tiny puncture wound in your head, and look weakened and tired.
+
+HP:  97/125  Ftg:  69/ 70
+>You have a tiny puncture wound in your head, and look weakened and tired.
+
+HP:  97/125  Ftg:  69/ 70
+transfer wounds from am all
+h
+>You have a tiny puncture wound in your head, and look weakened and tired.
+
+HP:  97/125  Ftg:  69/ 70
+
+Ormungun swings his bloody darkened steel scramasax at the go-blin wolf rider!
+The swing misses by a slim margin.
+You transfer a wound from Amagoss's right arm to yourself.
+diag all
+>
+  You examine Ormungun the Thugian...
+He has a tiny slash across his right leg, a tiny break in a bone in his right arm, and looks weakened and tired.
+  You examine Amagoss the Dragon...
+He has no apparent injuries, but looks tired.
+
+>Amagoss claws at the go-blin wolf rider!
+The attack is a well-delivered slash to the left leg.
+    The go-blin wolf rider is knocked back!
+
+The go-blin wolf rider skids across the ground before coming to a halt, the wolf collapsing in a bloody pool on top of the shattered remains of its go-blin rider.
+With a crash, everything it was carrying falls to the ground before you.
+
+The go-blin wolf rider scratches a fleabite.
+
+The go-blin wolf rider charges at Ormungun!
+The attack misses.
+transfer damage from o 25
+h
+
+Ormungun swings his bloody darkened steel scramasax at the go-blin wolf rider!
+The swing barely misses.
+You have a tiny puncture wound in your head, a tiny break in a bone in your right arm, and look weakened and tired.
+
+HP:  97/125  Ftg:  69/ 70
+transfer wounds from o all
+h
+You transfer some damage to yourself from Ormungun.
+h
+h
+You take 6 points of damage!
+>You have a tiny puncture wound in your head, a tiny break in a bone in your right arm, and look weakened and tired.
+
+HP:  91/125  Ftg:  69/ 70
+You have a tiny puncture wound in your head, a tiny break in a bone in your right arm, and look weakened and tired.
+
+HP:  91/125  Ftg:  69/ 70
+You have a tiny puncture wound in your head, a tiny break in a bone in your right arm, and look weakened and tired.
+
+HP:  91/125  Ftg:  69/ 70
+You transfer a wound from Ormungun's right leg to yourself.
+>Amagoss claws at the go-blin wolf rider!
+The attack is a well-delivered slash to the left leg.
+    The go-blin wolf rider is knocked back!
+Amagoss claws again at the go-blin wolf rider!
+The attack is a decent slash to the head.
+    The go-blin wolf rider is knocked back!
+invo mb at gl
+
+Ormungun swings his bloody darkened steel scramasax at the go-blin wolf rider!
+The swing is a well-delivered blow to the head.
+    The go-blin wolf rider is knocked back!
+
+Elindalian wildflowers begin to blossom all around you!
+
+You feel a surge of magick infuse your runeweave!
+Weaving those runes cost you 4 FPs.
+
+You feel more tired.
+[4 sec. delay]
+transfer damage from o 25
+h
+>You have a tiny puncture wound in your head, a tiny break in a bone in your right arm, a tiny slash across your right leg, and look weakened and tired.
+
+HP:  91/125  Ftg:  66/ 70
+
+The go-blin wolf rider swings a black feathered ash spear at Amagoss!
+The swing is a well-delivered blow to the torso.
+transfer damage from am 25
+h
+You have a tiny puncture wound in your head, a tiny break in a bone in your right arm, a tiny slash across your right leg, and look weakened and tired.
+
+HP:  91/125  Ftg:  66/ 70
+
+Ormungun swings his bloody darkened steel scramasax at the go-blin wolf rider!
+The swing barely misses.
+
+The wildflowers release a delicate mist which envelops you, covering your skin with sparkling dew drops!
+
+h
+You feel healthier!
+
+h
+The dew upon you is quickly absorbed into your skin.
+You have a tiny puncture wound in your head, a tiny break in a bone in your right arm, a tiny slash across your right leg, and look weakened and tired.
+
+HP: 121/125  Ftg:  66/ 70
+You have a tiny puncture wound in your head, a tiny break in a bone in your right arm, a tiny slash across your right leg, and look weakened and tired.
+
+HP: 121/125  Ftg:  66/ 70
+Amagoss claws at the go-blin wolf rider!
+The attack is a well-delivered slash to the head.
+    The go-blin wolf rider is knocked back!
+Amagoss claws again at the go-blin wolf rider!
+The attack is a strong slash to the left rear leg.
+    The go-blin wolf rider is knocked back!
+Target is not injured!
+You transfer some damage to yourself from Amagoss.
+h
+h
+You take 2 points of damage!
+transfer wounds from o all
+h
+>You have no apparent injuries, but look weakened and tired.
+
+HP: 119/125  Ftg:  66/ 70
+>You have no apparent injuries, but look weakened and tired.
+
+HP: 119/125  Ftg:  66/ 70
+>You have no apparent injuries, but look weakened and tired.
+
+HP: 119/125  Ftg:  66/ 70
+transfer wounds from am all
+h
+You have no apparent injuries, but look weakened and tired.
+
+HP: 119/125  Ftg:  68/ 70
+
+Ormungun swings his bloody darkened steel scramasax at the go-blin wolf rider!
+The swing misses its target.
+Target is not wounded!
+diag all
+Target is not wounded!
+
+The go-blin wolf rider claws at Ormungun!
+The attack misses.
+Amagoss claws at the go-blin wolf rider!
+The attack is a good slash to the head.
+    The go-blin wolf rider is knocked back!
+Amagoss claws again at the go-blin wolf rider!
+The attack is a well-delivered slash to the torso.
+    The go-blin wolf rider is knocked back!
+
+You hear a click from the closed iron gate.
+
+ ** Current hit points: 119 out of 125
+
+ ** Current fatigue: 68 out of 70
+
+  You examine Ormungun the Thugian...
+He has no apparent injuries, but looks tired.
+  You examine Amagoss the Dragon...
+He has no apparent injuries, but looks tired.
+
+>
+Ormungun swings his bloody darkened steel scramasax at the go-blin wolf rider!
+The swing is a good blow to the head.
+
+The closed iron gate just opened.
+
+Xavier, his clothing torn and bloodied, just entered through an open iron gate.
+The open iron gate slowly closes and locks with a click.
+
+Xavier readies a two-handed orichalcum long sword.
+transfer damage from x 25
+h
+You have no apparent injuries, but look weakened and tired.
+
+HP: 119/125  Ftg:  68/ 70
+
+Ormungun swings his bloody darkened steel scramasax at the go-blin wolf rider!
+The swing goes wild.
+Amagoss claws at the go-blin wolf rider!
+The attack is a good slash to the head.
+    The go-blin wolf rider is knocked back!
+
+The go-blin wolf rider skids across the ground before coming to a halt, the wolf collapsing in a bloody pool on top of the shattered remains of its go-blin rider.
+Target is not injured!
+transfer wounds from x all
+h
+>You have no apparent injuries, but look weakened and tired.
+
+HP: 119/125  Ftg:  68/ 70
+With a crash, everything it was carrying falls to the ground before you.
+Target is not wounded!
+l
+>[Gateway.]
+
+The relative safety inside Spur is a comfort to those returning from the fields and mountains. To those leaving, a massive wall of defense around the city lies ahead. Archer towers beside the gate overlook the wall, offering a painful welcome to would-be invaders. Several guards on foot patrol pass and disappear behind a thick, bluesteel banded steelwood door. Wall road stretches to the south, a wide passage between the city wall and several large buildings.  A closed iron gate, an open thick stone door, a street lantern, a short iron frying pan, an iron rolling pin, a black feathered ash spear, a tribal painted birch go-blin shield, some gold coins, some silver coins, a dirty oak-handled spade, a bone handled bronze morning star, a black feathered ash spear, a tribal painted birch go-blin shield, some silver coins, a closed old tattered vellum encyclopedia, and a cold cherry tart are here.
+
+This area is illuminated.
+You see the 1st tiny grey mouse (wearing a small gold collar).
+In the area are Ormungun the Thugian, Amagoss the Drake, and Xavier the Human.
+Obvious paths: east* south.
+diag all
+>
+  You examine Ormungun the Thugian...
+He has no apparent injuries, but looks tired.
+  You examine Amagoss the Dragon...
+He has no apparent injuries, but looks tired.
+  You examine Xavier the Human...
+He has no apparent injuries, but looks tired.
+
+h
+>You have no apparent injuries, but look weakened.
+
+HP: 119/125  Ftg:  70/ 70
+' wow
+>
+Glinka says, " wow"
+>You see Ormungun take a drink from his stained-glass vial of elvish water.
+
+Xavier just picked up some gold coins.
+
+Xavier just picked up some silver coins.
+You see Ormungun take a drink from his stained-glass vial of elvish water.
+stare in disbelief
+You stare in disbelief.
+>
+Amagoss just picked up some silver coins.
+You see Ormungun take a drink from his stained-glass vial of elvish water.
+
+Ormungun just went south.
+
+Ormungun just entered from the south.
+
+You follow Amagoss east...
+
+[Trade Way.]
+
+From the city gate to the west, Trade Way continues eastward towards the busy Merchant district, past Joyeusse's Shop. The air is thick with the scent of fresh flowers. Wagons filled with goods bound for sale trundle past, their drivers hopeful of the anticipated profits. Eager young warriors venture towards the west gate and the dangers beyond.  A closed carved rosewood door, a street lantern, a freshly painted sign, a short sleek thin silver stiletto, a closed smelly uncured leather bag, a black feathered ash spear, a tribal painted birch go-blin shield, a dirty oak-handled spade, a curled millipede exoskeleton, a black feathered ash spear, a tribal painted birch go-blin shield, a sharpened dried bamboo stake, a soft white linen hood, a black feathered ash spear, a tribal painted birch go-blin shield, a gleaming tiger's eye quartz marble, and a small mottled marble mortar are here.
+
+This area is illuminated.
+In the area is Amagoss the Drake.
+Obvious paths: east* west*.
+
+Xavier, his clothing torn and bloodied, just entered from the west.
+
+Xavier, his face gaunt and haggard, just went east.
+sniff at bag
+You sniff at the closed smelly uncured leather bag.
+>
+ ** Current hit points: 119 out of 125
+
+Ormungun just entered from the west.
+
+Amagoss just opened the closed smelly uncured leather bag.
+
+Ormungun just went east.
+
+Xavier, his clothing torn and bloodied, just entered from the east.
+get shi
+I see no "shi" in the room!
+>
+Xavier, his face gaunt and haggard, just went west.
+get tri
+I see no "tri" in the room!
+get go
+>You pick up a tribal painted birch go-blin shield.
+gig
+>You giggle.
+rem shi
+>
+Amagoss asks, "wow?"
+You remove your wooden shield.
+gri
+>You grin.
+l at shi
+>It looks like a wooden shield.
+ready 2 shi
+>You don't have a 'shi' in your inventory!
+ready go
+>You strap the tribal painted birch go-blin shield to your left arm.
+[4 sec. delay]
+>
+snu with Amagoss
+Amagoss nuzzles you.
+You snuggle with Amagoss.
+beam
+>You beam.
+>
+Xavier, his clothing torn and bloodied, just entered from the west.
+l
+[Trade Way.]
+
+From the city gate to the west, Trade Way continues eastward towards the busy Merchant district, past Joyeusse's Shop. The air is thick with the scent of fresh flowers. Wagons filled with goods bound for sale trundle past, their drivers hopeful of the anticipated profits. Eager young warriors venture towards the west gate and the dangers beyond.  A closed carved rosewood door, a street lantern, a freshly painted sign, a short sleek thin silver stiletto, an open smelly uncured leather bag, a black feathered ash spear, a dirty oak-handled spade, a curled millipede exoskeleton, a black feathered ash spear, a tribal painted birch go-blin shield, a sharpened dried bamboo stake, a soft white linen hood, a black feathered ash spear, a tribal painted birch go-blin shield, a gleaming tiger's eye quartz marble, and a small mottled marble mortar are here.
+
+This area is illuminated.
+In the area are Amagoss the Drake and Xavier the Human.
+Obvious paths: east* west*.
+>
+Xavier just picked up a tribal painted birch go-blin shield.
+
+Xavier just picked up a tribal painted birch go-blin shield.
+l
+[Trade Way.]
+
+From the city gate to the west, Trade Way continues eastward towards the busy Merchant district, past Joyeusse's Shop. The air is thick with the scent of fresh flowers. Wagons filled with goods bound for sale trundle past, their drivers hopeful of the anticipated profits. Eager young warriors venture towards the west gate and the dangers beyond.  A closed carved rosewood door, a street lantern, a freshly painted sign, a short sleek thin silver stiletto, an open smelly uncured leather bag, a black feathered ash spear, a dirty oak-handled spade, a curled millipede exoskeleton, a black feathered ash spear, a sharpened dried bamboo stake, a soft white linen hood, a black feathered ash spear, a gleaming tiger's eye quartz marble, and a small mottled marble mortar are here.
+
+This area is illuminated.
+In the area are Amagoss the Drake and Xavier the Human.
+Obvious paths: east* west*.
+diag all
+>
+  You examine Amagoss the Dragon...
+He appears to be in perfect health.
+  You examine Xavier the Human...
+He appears to be in perfect health.
+
+h
+>You appear to be in perfect health.
+
+HP: 125/125  Ftg:  70/ 70
+>
+Xavier just picked up a small mottled marble mortar.
+
+[ Daybreak. The sun has just risen. ]
+l e
+[Trade Way.]
+
+The wafting smell of flowers and trees float out from a well kept grey fence.  Old piles of rubble have been cleaned up and the glimpse of a sprawling park can be seen, having been planted in their stead. Beautiful and statuesque monuments dot the landscape through the gate, that remains locked, but has been festively decorated with a bright ribbon.  A street lantern, an open festive ribbon tied grey iron gate, a black feathered ash spear, a tribal painted birch go-blin shield, a leather cudgel, a curled millipede exoskeleton, a black feathered ash spear, a tribal painted birch go-blin shield, a gleaming tiger's eye quartz marble, a pair of dark brown orkskin gloves, a black feathered ash spear, a tribal painted birch go-blin shield, some gauze bandages, and a closed old tattered vellum encyclopedia are here.
+
+This area is illuminated.
+Obvious paths: east* west*.
+>
+Xavier, his face gaunt and haggard, just went east.
+' grabby one
+
+Glinka says, " grabby one"
+gig
+>You giggle.
+l
+>[Trade Way.]
+
+From the city gate to the west, Trade Way continues eastward towards the busy Merchant district, past Joyeusse's Shop. The air is thick with the scent of fresh flowers. Wagons filled with goods bound for sale trundle past, their drivers hopeful of the anticipated profits. Eager young warriors venture towards the west gate and the dangers beyond.  A closed carved rosewood door, a street lantern, a freshly painted sign, a short sleek thin silver stiletto, an open smelly uncured leather bag, a black feathered ash spear, a dirty oak-handled spade, a curled millipede exoskeleton, a black feathered ash spear, a sharpened dried bamboo stake, a soft white linen hood, a black feathered ash spear, and a gleaming tiger's eye quartz marble are here.
+
+This area is illuminated.
+In the area is Amagoss the Drake.
+Obvious paths: east* west*.
+>
+Amagoss rumbles from deep within,  you feel it more than you hear it.
+
+Ormungun just entered from the east.
+
+Amagoss asks, "grabby ?"
+
+Ormungun just went west.
+
+Amagoss glances.
+shiv in delight
+You shiver in delight.
+>
+Ormungun just entered from the west.
+
+Amagoss asks, "the human?"
+gig
+You giggle.
+transfer damage from o 25
+h
+>You appear to be in perfect health.
+
+HP: 125/125  Ftg:  70/ 70
+Target is not injured!
+transfer wounds from o all
+h
+>You appear to be in perfect health.
+
+HP: 125/125  Ftg:  70/ 70
+Target is not wounded!
+diag all
+>
+  You examine Ormungun the Thugian...
+He appears to be in perfect health.
+  You examine Amagoss the Dragon...
+He appears to be in perfect health.
+
+h
+>You appear to be in perfect health.
+
+HP: 125/125  Ftg:  70/ 70
+>
+Ormungun asks, "Da ride'rs not come no mer?"
+
+You follow Amagoss west...
+
+[Gateway.]
+
+The relative safety inside Spur is a comfort to those returning from the fields and mountains. To those leaving, a massive wall of defense around the city lies ahead. Archer towers beside the gate overlook the wall, offering a painful welcome to would-be invaders. Several guards on foot patrol pass and disappear behind a thick, bluesteel banded steelwood door. Wall road stretches to the south, a wide passage between the city wall and several large buildings.  A closed iron gate, an open thick stone door, a street lantern, a closed old tattered vellum encyclopedia, and a cold cherry tart are here.
+
+This area is illuminated.
+In the area is Amagoss the Drake.
+Obvious paths: east* south*.
+
+You follow Amagoss east...
+
+[Trade Way.]
+
+From the city gate to the west, Trade Way continues eastward towards the busy Merchant district, past Joyeusse's Shop. The air is thick with the scent of fresh flowers. Wagons filled with goods bound for sale trundle past, their drivers hopeful of the anticipated profits. Eager young warriors venture towards the west gate and the dangers beyond.  A closed carved rosewood door, a street lantern, a freshly painted sign, a short sleek thin silver stiletto, an open smelly uncured leather bag, a black feathered ash spear, a dirty oak-handled spade, a curled millipede exoskeleton, a black feathered ash spear, a sharpened dried bamboo stake, a soft white linen hood, a black feathered ash spear, and a gleaming tiger's eye quartz marble are here.
+
+This area is illuminated.
+You see the 1st tiny grey mouse (wearing a small gold collar).
+In the area are Ormungun the Thugian and Amagoss the Drake.
+Obvious paths: east* west*.
+
+The tiny grey mouse chases its tail.
+' is the gate clear on the other side?
+
+Glinka asks, " is the gate clear on the other side?"
+rai at o
+>You raise an eyebrow at Ormungun.
+>
+Ormungun stomps.
+
+Ormungun says, "I check"
+
+Ormungun just went west.
+nod
+You nod.
+>
+You follow Amagoss west...
+
+[Gateway.]
+
+The relative safety inside Spur is a comfort to those returning from the fields and mountains. To those leaving, a massive wall of defense around the city lies ahead. Archer towers beside the gate overlook the wall, offering a painful welcome to would-be invaders. Several guards on foot patrol pass and disappear behind a thick, bluesteel banded steelwood door. Wall road stretches to the south, a wide passage between the city wall and several large buildings.  A closed iron gate, an open thick stone door, a street lantern, a closed old tattered vellum encyclopedia, and a cold cherry tart are here.
+
+This area is illuminated.
+You see the 1st tiny grey mouse (wearing a small gold collar).
+In the area are Ormungun the Thugian and Amagoss the Drake.
+Obvious paths: east* south*.
+l
+[Gateway.]
+
+The relative safety inside Spur is a comfort to those returning from the fields and mountains. To those leaving, a massive wall of defense around the city lies ahead. Archer towers beside the gate overlook the wall, offering a painful welcome to would-be invaders. Several guards on foot patrol pass and disappear behind a thick, bluesteel banded steelwood door. Wall road stretches to the south, a wide passage between the city wall and several large buildings.  A closed iron gate, an open thick stone door, a street lantern, a closed old tattered vellum encyclopedia, and a cold cherry tart are here.
+
+This area is illuminated.
+You see the 1st tiny grey mouse (wearing a small gold collar).
+In the area are Ormungun the Thugian and Amagoss the Drake.
+Obvious paths: east* south*.
+>
+You hear a click as Ormungun unlocks the closed iron gate.
+
+Ormungun just opened the closed iron gate.
+
+Ormungun just went through an open iron gate.
+The open iron gate slowly closes and locks with a click.
+l at ga
+It looks like a closed iron gate.
+It has been sealed closed by magickal means.
+l through ga
+l under ga
+l behind ga
+l on ga
+l in ga
+>But its closed!
+>There is nothing underneath that.
+>There is nothing behind that.
+>There is nothing on top of that.
+>You have to open it first before you can see what is inside!
+l
+>[Gateway.]
+
+The relative safety inside Spur is a comfort to those returning from the fields and mountains. To those leaving, a massive wall of defense around the city lies ahead. Archer towers beside the gate overlook the wall, offering a painful welcome to would-be invaders. Several guards on foot patrol pass and disappear behind a thick, bluesteel banded steelwood door. Wall road stretches to the south, a wide passage between the city wall and several large buildings.  A closed iron gate, an open thick stone door, a street lantern, a closed old tattered vellum encyclopedia, and a cold cherry tart are here.
+
+This area is illuminated.
+In the area is Amagoss the Drake.
+Obvious paths: east* south*.
+>
+Amagoss asks, "is it ok to leave them on the other side?"
+kno ga
+You cannot do that while you are flying!
+
+You hear a click from the closed iron gate.
+
+The closed iron gate just opened.
+
+Ormungun just entered through an open iron gate.
+The open iron gate slowly closes and locks with a click.
+
+The tiny grey mouse makes a chittering sound.
+nod
+You nod.
+>
+Ormungun says, "Dere nuffin"
+' the raids are all like this..hit an run
+
+Glinka says, " the raids are all like this..hit an run"
+>
+Ormungun says, "Cept sum chipmonks"
+nod to o
+You nod to Ormungun.
+>
+Ormungun says, "Nibbles ate une"
+' we defended the city!
+
+Glinka exclaims, " we defended the city!"
+>
+Ormungun pets the tiny grey mouse.
+beam proudly
+You beam proudly.
+>
+Ormungun just went south.
+
+Ormungun just entered from the south.
+
+A go-blin wolf rider enters, following Ormungun.
+
+Ormungun swings his bloody darkened steel scramasax at the go-blin wolf rider!
+The swing is a well-delivered blow to the head.
+    The go-blin wolf rider is knocked back!
+gasp
+You gasp.
+>
+The go-blin wolf rider swings a black feathered ash spear at Ormungun!
+The swing is a decent blow to the right leg, but is partially stopped by his blackened bloodsteel skull and crossed bones.
+
+Amagoss asks, "no city guards or army...war going on and dragon secian and thugian have to help git rid of it?"
+
+Ormungun swings his bloody darkened steel scramasax at the go-blin wolf rider!
+The swing misses its target.
+Amagoss claws at the go-blin wolf rider!
+The attack is a good slash to the head.
+    The go-blin wolf rider is knocked back!
+Amagoss claws again at the go-blin wolf rider!
+The attack is a well-delivered slash to the left rear leg.
+    The go-blin wolf rider is knocked back!
+
+Ormungun swings his bloody darkened steel scramasax at the go-blin wolf rider!
+The swing is a decent blow to the head.
+
+Kressa's group just entered from the south.
+
+The go-blin wolf rider bites at Ormungun!
+The attack misses.
+nod to am
+You nod to Amagoss.
+transfer damage from o 25
+h
+>You appear to be in perfect health.
+
+HP: 125/125  Ftg:  70/ 70
+transfer wounds from o all
+h
+You appear to be in perfect health.
+
+HP: 125/125  Ftg:  70/ 70
+
+Ormungun swings his bloody darkened steel scramasax at the go-blin wolf rider!
+The swing nearly fumbles.
+
+Kressa's group just went east.
+
+The go-blin wolf rider follows Kressa's group.
+You transfer some damage to yourself from Ormungun.
+h
+h
+You take 5 points of damage!
+You have no apparent injuries, but look weakened.
+
+HP: 120/125  Ftg:  70/ 70
+You have no apparent injuries, but look weakened.
+
+HP: 120/125  Ftg:  70/ 70
+Target is not wounded!
+diag all
+>
+Ormungun howls in anger.
+
+Ormungun just went east.
+
+  You examine Amagoss the Dragon...
+He appears to be in perfect health.
+
+l e
+>[Trade Way.]
+
+From the city gate to the west, Trade Way continues eastward towards the busy Merchant district, past Joyeusse's Shop. The air is thick with the scent of fresh flowers. Wagons filled with goods bound for sale trundle past, their drivers hopeful of the anticipated profits. Eager young warriors venture towards the west gate and the dangers beyond.  A closed carved rosewood door, a street lantern, a freshly painted sign, a short sleek thin silver stiletto, an open smelly uncured leather bag, a black feathered ash spear, a dirty oak-handled spade, a curled millipede exoskeleton, a black feathered ash spear, a sharpened dried bamboo stake, a soft white linen hood, a black feathered ash spear, and a gleaming tiger's eye quartz marble are here.
+
+This area is illuminated.
+You see the 1st go-blin wolf rider and the 1st tiny grey mouse (wearing a small gold collar).
+In the area are Ormungun the Thugian, Kressa the San Elf, and Foom the San Elf.
+Obvious paths: east* west*.
+>
+Amagoss chuckles.
+gig
+You giggle.
+diag all
+>
+  You examine Amagoss the Dragon...
+He appears to be in perfect health.
+
+>
+Amagoss's eyes begin to burn brightly with a fire from deep within.
+h
+You have no apparent injuries, but look weakened.
+
+HP: 120/125  Ftg:  70/ 70
+>
+Fiery tendrils of energy snake across Amagoss as his body increases in both size and power!
+
+You follow Amagoss east...
+
+[Trade Way.]
+
+From the city gate to the west, Trade Way continues eastward towards the busy Merchant district, past Joyeusse's Shop. The air is thick with the scent of fresh flowers. Wagons filled with goods bound for sale trundle past, their drivers hopeful of the anticipated profits. Eager young warriors venture towards the west gate and the dangers beyond.  A closed carved rosewood door, a street lantern, a freshly painted sign, a short sleek thin silver stiletto, an open smelly uncured leather bag, a black feathered ash spear, a dirty oak-handled spade, a curled millipede exoskeleton, a black feathered ash spear, a sharpened dried bamboo stake, a soft white linen hood, a black feathered ash spear, and a gleaming tiger's eye quartz marble are here.
+
+This area is illuminated.
+You see the 1st go-blin wolf rider and the 1st tiny grey mouse (wearing a small gold collar).
+In the area are Ormungun the Thugian, Kressa the San Elf, Foom the San Elf, and Amagoss the Drake.
+Obvious paths: east* west*.
+info mag
+
+You have the following elemental runes available to you...
+
+   heal        -   0 weaves remain   illness     - 100 weaves remain
+   light       -  94 weaves remain   vigor       -   0 weaves remain
+   sleep       - 100 weaves remain   fatigue     - 100 weaves remain
+   charm       - 100 weaves remain   darkness    -  92 weaves remain
+   holy        - 100 weaves remain   water       - 100 weaves remain
+   translocation -  98 weaves remain   movement    -  98 weaves remain
+   cure        - 100 weaves remain   mental      -  97 weaves remain
+   energy      -  32 weaves remain   medicine    -  46 weaves remain
+   destroy     -  83 weaves remain   death       -  83 weaves remain
+   blindness   -  96 weaves remain   strength    -  94 weaves remain
+   divine      -  98 weaves remain   remedy      -  99 weaves remain
+   comfort     -  99 weaves remain   create      - 100 weaves remain
+   cure-all    -  97 weaves remain
+
+You may use the following modifier runes upon them...
+
+ small       average    
+
+You may use them with the following shapes...
+
+ armor       arrow       aura        being       bolt        cloud      
+ curse       dart        globe       ring        shield      sight      
+ spray       touch       mist        word        drake       bear       
+
+See INFO RUNESPELLS for memorized corridors.
+
+>
+Ormungun swings his bloody darkened steel scramasax at the go-blin wolf rider!
+The swing barely misses.
+
+A burst of black energy shoots from Foom's hands and strikes the go-blin wolf rider!
+    The go-blin wolf rider is knocked back!
+
+Wisps of smoke rise from the go-blin wolf rider's body.
+
+The go-blin wolf rider claws at Ormungun!
+The attack misses.
+You see Foom move up another 6 UDs!
+
+Kressa swings her open shadow stained moonsilver fan of blades at the go-blin wolf rider!
+The swing misses by a slim margin.
+
+Ripples of black energy begin to gather within Foom's uplifted hands.
+
+Xavier, his clothing torn and bloodied, just entered from the east.
+
+Ormungun swings his bloody darkened steel scramasax at the go-blin wolf rider!
+The swing is a well-delivered blow to the head.
+
+Mystical energy begins to crackle down the length of Amagoss's arms.
+invo bc at wol
+I don't see what you are referring to.
+>The go-blin wolf rider blocks Kressa from leaving!
+
+A burst of black energy shoots from Foom's hands and strikes the go-blin wolf rider!
+    The go-blin wolf rider is knocked back!
+
+Wisps of smoke rise from the go-blin wolf rider's body.
+
+The go-blin wolf rider advances towards Amagoss.
+
+A rippling bolt of energy suddenly shoots from Amagoss's hands and slams into the go-blin wolf rider!
+    The go-blin wolf rider is knocked back!
+
+The dragon bolt quickly dissipates.
+You see Ormungun move up another 5 UDs!
+invo bc at rid
+Amagoss claws at the go-blin wolf rider!
+The attack is a strong slash to the head.
+    The go-blin wolf rider is knocked back!
+
+The go-blin wolf rider skids across the ground before coming to a halt, the wolf collapsing in a bloody pool on top of the shattered remains of its go-blin rider.
+But the go-blin wolf rider is dead!
+l
+>[Trade Way.]
+
+From the city gate to the west, Trade Way continues eastward towards the busy Merchant district, past Joyeusse's Shop. The air is thick with the scent of fresh flowers. Wagons filled with goods bound for sale trundle past, their drivers hopeful of the anticipated profits. Eager young warriors venture towards the west gate and the dangers beyond.  A closed carved rosewood door, a street lantern, a freshly painted sign, a short sleek thin silver stiletto, an open smelly uncured leather bag, a black feathered ash spear, a dirty oak-handled spade, a curled millipede exoskeleton, a black feathered ash spear, a sharpened dried bamboo stake, a soft white linen hood, a black feathered ash spear, and a gleaming tiger's eye quartz marble are here.
+
+This area is illuminated.
+You see the 1st go-blin wolf rider corpse and the 1st tiny grey mouse (wearing a small gold collar).
+In the area are Ormungun the Thugian, Kressa the San Elf, Foom the San Elf, Amagoss the Drake, and Xavier the Human.
+Obvious paths: east* west*.
+>
+Kressa's group just went east.
+With a crash, everything it was carrying falls to the ground before you.
+
+ ** Current hit points: 120 out of 125
+l
+[Trade Way.]
+
+From the city gate to the west, Trade Way continues eastward towards the busy Merchant district, past Joyeusse's Shop. The air is thick with the scent of fresh flowers. Wagons filled with goods bound for sale trundle past, their drivers hopeful of the anticipated profits. Eager young warriors venture towards the west gate and the dangers beyond.  A closed carved rosewood door, a street lantern, a freshly painted sign, a short sleek thin silver stiletto, an open smelly uncured leather bag, a black feathered ash spear, a dirty oak-handled spade, a curled millipede exoskeleton, a black feathered ash spear, a sharpened dried bamboo stake, a soft white linen hood, a black feathered ash spear, a gleaming tiger's eye quartz marble, a black feathered ash spear, a tribal painted birch go-blin shield, a gold coin, some silver coins, a frilly black lace barmaid's frock, and a frilly black lace barmaid's frock are here.
+
+This area is illuminated.
+You see the 1st tiny grey mouse (wearing a small gold collar).
+In the area are Ormungun the Thugian, Amagoss the Drake, and Xavier the Human.
+Obvious paths: east* west*.
+>
+Ormungun stomps loudly.
+
+Xavier just picked up a black feathered ash spear.
+
+Xavier just picked up a black feathered ash spear.
+
+Amagoss chuckles.
+
+Xavier just picked up a black feathered ash spear.
+
+Ormungun pokes the gold coin.
+
+Xavier just picked up a black feathered ash spear.
+
+Xavier, his face gaunt and haggard, just went east.
+
+Xavier, his clothing torn and bloodied, just entered from the east.
+
+Xavier, his face gaunt and haggard, just went east.
+
+Amagoss says, "look , scavangers"
+
+Kressa's group just entered from the east.
+
+Kressa's group just went west.
+
+Ormungun nods.
+gig
+You giggle.
+' allways in war
+>
+Glinka says, " allways in war"
+nod yes to am
+>
+Kressa's group just entered from the west.
+You nod up and down to Amagoss.
+>
+Kressa's group just went east.
+appear mood sad
+
+You are now sad.
+
+>
+Ormungun pokes the gold coin.
+
+Amagoss says, "always show up "
+
+Amagoss nods.
+
+Ormungun snorts.
+
+You follow Amagoss east...
+
+[Trade Way.]
+
+The wafting smell of flowers and trees float out from a well kept grey fence.  Old piles of rubble have been cleaned up and the glimpse of a sprawling park can be seen, having been planted in their stead. Beautiful and statuesque monuments dot the landscape through the gate, that remains locked, but has been festively decorated with a bright ribbon.  A street lantern, an open festive ribbon tied grey iron gate, a leather cudgel, a curled millipede exoskeleton, a pair of dark brown orkskin gloves, some gauze bandages, and a closed old tattered vellum encyclopedia are here.
+
+This area is illuminated.
+In the area is Amagoss the Drake.
+Obvious paths: east* west*.
+
+You follow Amagoss east...
+
+[Trade Way.]
+
+The throngs of travelers thicken as one heads east along Trade Way. An Anthian plays softly on a strange looking stringed instrument, her melodic voice filling the air. Judging by her clothing, and the number of silvers at her feet, she makes a fine living practicing her craft.  A street lantern is here.
+
+This area is illuminated.
+You see the 1st very loud drunk drag-al.
+In the area is Amagoss the Drake.
+Obvious paths: east* west*.
+
+You follow Amagoss east...
+
+[Trade & Market.]
+
+The buildings of Market Circle stand to the south. It becomes obvious that the area through the arch is a much cleaner marketplace than the bazaar. An inviting eatery stands beside the road, its door open to those weary after a long trip to Spur, as well as those preparing to venture to the great expanses beyond the west gate. A human couple exit the building, arm in arm. A small sign stands beside the intersection.  A sign, an open glossy lacquered oak door, and a street lantern are here.
+
+This area is illuminated.
+You see the 1st dirty street ruffian and the 2nd dirty street ruffian.
+In the area is Amagoss the Drake.
+Obvious paths: east* south* west*.
+
+You follow Amagoss east...
+
+[Trade Way.]
+
+This well-worn road separates the Bazaar to the north and Market Circle to the south. Only a Thugian could appreciate the layered odors of simmering foodstuffs and shoppers from the Bazaar. Crowds of people push past, some brushing against you. It might be a good idea to keep an eye on your coinpurse.  A street lantern is here.
+
+This area is illuminated.
+In the area is Amagoss the Drake.
+Obvious paths: east* west*.
+
+You follow Amagoss east...
+
+[Trade Way, Intersection.]
+
+A path to the north winds its way among various stalls and tents. Some specialty outlets can be found, provided one does not get lost in this maze known as the Bazaar. More permanent structures to the south suggest finer goods as well as increased security.  A street lantern is here.
+
+This area is illuminated.
+In the area is Amagoss the Drake.
+Obvious paths: north* east* south* west*.
+
+You follow Amagoss east...
+
+[Trade Way.]
+
+Many townsfolk pass along this busy thoroughfare. Rich and poor alike mix freely on this street, much to the dismay of a passing nobleman. A young human struggles with an armful of packages and two young children in tow. Those in need of goods or supplies head west towards the market, those looking for the news of the day head east towards Town Square.  A street lantern is here.
+
+This area is illuminated.
+In the area is Amagoss the Drake.
+Obvious paths: east* west*.
+
+You follow Amagoss east...
+
+[Trade Way.]
+
+A large gate separates the Merchant District and Town Square-the hub of Spur's activity. The partially opened gate is currently able to accommodate the simultaneous passage of several locals and visitors, but can be expanded to accept carriages, or sealed to ward against invasion.  Guards stand sentry from atop the wall as well as the ground.  A street lantern is here.
+
+This area is illuminated.
+In the area is Amagoss the Drake.
+Obvious paths: west*.
+' you were magnificent
+
+Glinka says, " you were magnificent"
+>
+You follow Amagoss through an open stone gate...
+
+[Merchant Walk.]
+
+Merchant Walk comes to an abrupt end at a massive moonsilver gate. The towering walls of Spur on either side of the gates force all to pass by the guards who are constantly on the watch for thieves and bandits. Just beyond the gates one can glimpse the bustling Merchant District of Spur.  A gilded oak sign and a street lantern are here.
+
+This area is illuminated.
+In the area is Amagoss the Drake.
+Obvious paths: east*.
+
+You follow Amagoss east...
+
+[Merchant Walk.]
+
+Several city guardsmen have just finished wrestling to the ground some young tough thieves, who thought to rob one of the returning merchants. To one side a relieved-looking Fir Elf gentleman holds on tightly to his gold-tipped walking stick, as the human boy yells his innocence to any who might listen. His pleas fall on deaf ears as the guards drag him away.  A street lantern is here.
+
+This area is illuminated.
+In the area is Amagoss the Drake.
+Obvious paths: east* west*.
+beam to am
+You beam to Amagoss.
+>
+Amagoss says, "only able to do well when you keep me from dieing against such numbers"
+
+You follow Amagoss east...
+
+[Merchant Walk.]
+
+Merchants, some in frilly finery, others dressed in homespun wools, travel back and forth along this street on their way to and from work. They seem to blend together here, if only briefly. Several of the more haughty looking merchants are trailed by overloaded carts pushed along by haggard young apprentices.   A street lantern is here.
+
+This area is illuminated.
+In the area is Amagoss the Drake.
+Obvious paths: east* west*.
+
+You follow Amagoss east...
+
+[Merchant Walk.]
+
+A neatly kept park fronts this portion of Merchant Walk. Topiary and low shrubberies partition off small sections of the park. Young lovers sit on benches almost hidden from view, gazing at each other with looks of love, oblivious to the continual bustle of passing customers and merchants on their way to do business.  A street lantern is here.
+
+This area is illuminated.
+In the area is Amagoss the Drake.
+Obvious paths: east* west*.
+
+You follow Amagoss east...
+
+[Merchant Walk.]
+
+Neatly trimmed shrubbery line well-maintained cobblestones along Merchant Walk. Apprentices rush by carrying supplies and orders, carrying out their masters' business. Several wooden benches line the walk for those customers who need to rest from the strain of carrying heavy parcels.  A street lantern is here.
+
+This room is illuminated.
+In the room is Amagoss the Drake.
+Obvious exits: east* west*.
+
+You follow Amagoss east...
+
+[Town Square West.]
+
+People carrying bundles stream in from the west and rapidly lose themselves in the large crowds moving about in the vast town square. Several citizens head west with bulging coinpurses babbling excitedly about what they're going to purchase. Giggling children dart around the slower moving folks rushing on their way to spend the silvers in their pockets.  A street lantern is here.
+
+This area is illuminated.
+You see the 1st mounted city guard.
+In the area are Kressa the San Elf, Foom the San Elf, and Amagoss the Drake.
+Obvious paths: north* northeast* east* southeast* south* west*.
+
+You follow Amagoss east...
+
+[Town Square Center.]
+
+A beautiful fountain, sculpted from pristine white marble, rests at the center of Spur's main square. Clear, sparkling water sprays from a spout at the fountain's tip and cascades down several tiers before spilling into a circular pool. High above the square, the wings of two imperial stone dragons form an arch for a massive gateway. The colossal monument stands at the heart of the city like a silent sentinel keeping watch over the entire realm. Lifelike marble statues decorate the square's perimeter, each a celebrated hero of Spur's past.  A flowing white marble fountain, a marble statue of a Human, a shimmering marble statue of a Dragon, some crystal flecked granite oliphant-shaped benches, a rosewood sign, and a crisp gold lettered vellum notice are here.
+
+This area is illuminated.
+You see the 1st light colored cat (wearing a small gold collar) and the 1st wide-eyed barn owl (wearing a small gold collar).
+In the area are Stormy the Leuian, Lthe the Leuian, and Amagoss the Drake.
+Obvious paths: north* northeast* east* southeast* south* southwest* west* northwest*.
+
+Stormy says in Leuian, "q fumcc dp rus uiia lwdfa"
+
+Lthe asks in Leuian, "bebw iu unsv sxob?"
+' i was way behind in there
+
+Glinka says, " i was way behind in there"
+shiv
+>You shiver.
+>
+Ormungun just entered from the west.
+
+Ormungun stomps loudly.
+hol go
+You hold the tribal painted birch go-blin shield close.
+>
+Stormy says in Leuian, "yz d iugwok vc odoir pq ebm ebql"
+gig
+You giggle.
+>
+Lthe nods to Stormy.
+
+Amagoss says in Secian, "but leave the city fighting up to others for now,  I think I should rest"
+
+Lthe disbands her group.
+
+Lthe smiles at Stormy.
+
+snu with Amagoss
+Amagoss nuzzles you.
+
+Amagoss's body returns to normal as the fiery tendrils dissipate.
+You snuggle with Amagoss.
+>
+Stormy smiles at Lthe.
+nod softly
+You nod softly.
+>
+Ormungun returns his bloody darkened steel scramasax.
+
+Lthe says to Stormy in Leuian, "hoor pexosum anve ksh"
+
+Ormungun rubs the bloody darkened steel scramasax.
+kiss am softly upon the cheek in parting...
+You kiss Amagoss softly upon the cheek in parting...
+>
+Amagoss rumbles from deep within,  you feel it more than you hear it.
+
+Ormungun readies an iron aclys.
+beam
+You beam.
+>
+Amagoss disbands his group.
+
+With a powerful downstroke, Amagoss soars 15 feet into the air!
+
+Lthe hugs Stormy.
+
+Stormy says in Leuian, "hbti ucefatx yyxm blk mzt"
+
+Lthe waves to Stormy.
+
+Amagoss climbs 35 feet.
+stare up
+
+Lthe just went south.
+You stare up.
+>
+Amagoss climbs 35 feet.
+
+wave to Amagoss
+Amagoss waves.
+
+Stormy just went east.
+You wave to Amagoss.
+>
+Xarus's group just entered from the northeast.
+
+Amagoss climbs up out of sight.
+
+Xaphania says to Xarus, "Shoes."
+
+Ormungun says, "Yew gunna fawl"
+l
+
+Xaphania stomps.
+[Town Square Center.]
+
+A beautiful fountain, sculpted from pristine white marble, rests at the center of Spur's main square. Clear, sparkling water sprays from a spout at the fountain's tip and cascades down several tiers before spilling into a circular pool. High above the square, the wings of two imperial stone dragons form an arch for a massive gateway. The colossal monument stands at the heart of the city like a silent sentinel keeping watch over the entire realm. Lifelike marble statues decorate the square's perimeter, each a celebrated hero of Spur's past.  A flowing white marble fountain, a marble statue of a Human, a shimmering marble statue of a Dragon, some crystal flecked granite oliphant-shaped benches, a rosewood sign, and a crisp gold lettered vellum notice are here.
+
+This area is illuminated.
+You see the 1st light colored cat (wearing a small gold collar) and the 1st tiny grey mouse (wearing a small gold collar).
+In the area are Xaphania the San Elf, Ormungun the Thugian, and Xarus the Leuian.
+Obvious paths: north* northeast* east* southeast* south* southwest* west* northwest*.
+>
+Xarus burps at Xaphania.
+gig to o
+You giggle to Ormungun.
+>
+Xaphania belches on Xarus.
+
+The tiny grey mouse chases its tail.
+rem go
+You remove your tribal painted birch go-blin shield.
+>
+Ormungun snorts.
+off go to o
+You offer Ormungun a tribal painted birch go-blin shield.
+
+>
+Xarus offers something to Xaphania.
+
+Xarus withdraws his earlier offer.
+
+Ormungun shakes his head from side to side.
+' for you
+
+Glinka says, " for you"
+>
+Xaphania curses at Xarus.
+rai at o
+You raise an eyebrow at Ormungun.
+>
+Ormungun says, "I not want dat"
+
+Xarus laughs.
+
+Ormungun rubs his blackened bloodsteel skull and crossed bones.
+
+Xarus's group just went west.
+hol go
+You hold the tribal painted birch go-blin shield close.
+nod
+>You nod.
+with
+>You withdraw your offer.
+wear go
+>You strap the tribal painted birch go-blin shield to your left arm.
+[4 sec. delay]
+beam
+>You beam.
+l
+>[Town Square Center.]
+
+A beautiful fountain, sculpted from pristine white marble, rests at the center of Spur's main square. Clear, sparkling water sprays from a spout at the fountain's tip and cascades down several tiers before spilling into a circular pool. High above the square, the wings of two imperial stone dragons form an arch for a massive gateway. The colossal monument stands at the heart of the city like a silent sentinel keeping watch over the entire realm. Lifelike marble statues decorate the square's perimeter, each a celebrated hero of Spur's past.  A flowing white marble fountain, a marble statue of a Human, a shimmering marble statue of a Dragon, some crystal flecked granite oliphant-shaped benches, a rosewood sign, and a crisp gold lettered vellum notice are here.
+
+This area is illuminated.
+You see the 1st light colored cat (wearing a small gold collar) and the 1st tiny grey mouse (wearing a small gold collar).
+In the area is Ormungun the Thugian.
+Obvious paths: north* northeast* east* southeast* south* southwest* west* northwest*.
+>
+Ormungun says, "Et tu smawl fer mese eneway"
+
+Ormungun nods.
+' i need runes
+
+Glinka says, " i need runes"
+>
+The light colored cat meows loudly.
+
+Ormungun snorts at the light colored cat.
+nod to o
+You nod to Ormungun.
+gig
+>You giggle.
+' be back
+>
+Glinka says, " be back"
+>
+Ormungun sneezes.
+sw
+[Town Square.]
+
+Commercial buildings flank Town Square to the west and south of this corner. Imposing buildings stand stiffly to your west, while those to the south have a slightly seedy look about them.  The door to the west has a freshly painted sign over it,  "Under New Management."  An open tan weathered pine door, a large doorway, and a street lantern are here.
+
+This area is illuminated.
+You see the 1st slightly glowing city guardsman and the 2nd slightly glowing city guardsman.
+Obvious paths: north* northeast* east* southwest*.
+sw
+sw
+sw
+sw
+sw
+>[Knowledge Path.]
+
+Before you stands a magnificent white marble temple dedicated to Odarous, the god of chivalry. Ten giant steps made of the same gleaming marble lead up to the temple entrance. Two large statues stand at the base of the stairs, also carved of breath-taking marble. One is a warrior bearing a massive sword and a large shield. The other is a cleric with an amulet bearing the mark of Odarous in one hand and a large mace in the other.  Some gleaming white marble stairs, a polished white marble statue, a polished white marble statue, and a street lantern are here.
+
+This room is illuminated.
+Obvious exits: northeast* southwest*.
+[Knowledge Path.]
+
+Knowledge Path heads out of the bustling Town Square and moves southwest towards the District of Magick and Rehas Way. Mixed with the robed mages that move southwest are merchants, customers and thieves alike. Moving quickly, especially with a full purse, is your best bet along this path.  A street lantern is here.
+
+This area is illuminated.
+Obvious paths: northeast* southwest*.
+[Knowledge Path.]
+
+Several members of the various mage orders of Spur and well-dressed shoppers seeking rarities travel along Knowledge's Path to and from the District of Magick. The district is the place to find the most talented artisans and craftiest merchants in Spur. It is also home to the mages of the non-elemental order.  A street lantern is here.
+
+This area is illuminated.
+Obvious paths: northeast* southwest*.
+[Knowledge Path.]
+
+A heated discussion breaks out briefly between members of opposing orders of magick. The presence of the city guard rapidly brings an end to the exchange before the verbal debate over power and skill turns into a demonstration.  A street lantern is here.
+
+This area is illuminated.
+Obvious paths: northeast* southwest*.
+go gate
+[Knowledge Path.]
+
+Knowledge Path terminates here at the gateway to the Magick District. In respect to the demands of the various religious and guild leaders, magick is kept as far from them as possible. A city plagued by rioting mage haters is the last thing Spur needs.  A street lantern is here.
+
+This area is illuminated.
+Obvious paths: northeast*.
+[Magick Lane & Rehas Way.]
+
+You are just inside the gateway between the Magick District and the Town Square. These gates stand open at all hours of the day or night. An otherwise unremarkable door is glorified by the sign of the city's healer posted beside it.  A wooden door and a street lantern are here.
+
+This area is illuminated.
+Obvious paths: south* west*.
+s
+s
+>[Magick Lane.]
+
+A massive circular stone platform stands to the side of Magick Lane, strangely entrancing runes carved on every inch of its sides. The symbol of the god Sa, a golden Dragon, fills the space along the top. Raw power and magick seem to flow from the platform, making the air around it crackle with energy. A small sign stands next to the platform with a single word written upon it.  A rune covered platform, a floating blue ruby staircase leading down, and a street lantern are here.
+
+This area is illuminated.
+Obvious paths: north* south*.
+s
+s
+[Magick Lane.]
+
+A low slung building resides on the west side of the street. Chanting can be heard from within.  Occasionally a few sparks rise into the sky, or some unwarranted raindrops begin, but they quickly are quelled. A large pair of wooden doors, their surface carved with rune symbols grace the entrance.  A street lantern and some open rune-etched wooden doors are here.
+
+This area is illuminated.
+Obvious paths: north* south*.
+[Magick Lane.]
+
+A squat ugly little shack stands somber on the eastern side of this well swept lane. The occasional high pitched cackle sounds out from the shack, garnering strange looks from all who pass by. A mysterious gothic structure rises up on the opposite side of the street, the occasional explosion thundering out from within its doors, followed by muffled curses and breaking glass.  An open thick iron door, a closed ugly rotting door, a rotting oak sign, and a street lantern are here.
+
+This area is illuminated.
+Obvious paths: north* south*.
+go door
+[Magick Lane.]
+
+A small sign hangs from above the door of the well-kept store before you, telling you that it is a rune shop. The occasional bright flash of light from inside the store suggests all kinds of strange and rare magicks are being cast inside! Those who walk past you glance at the rune shop warily and hurry to get past it as quickly as possible. A small sign hangs from the doorknob of the store that reads "Flerians not allowed!"  An intricately carved oak door and a street lantern are here.
+
+This area is illuminated.
+Obvious paths: north* south*.
+[Ragarn's Runes.]
+
+Incredible images cover every free corner of this small store, pictures of every possible rune available for purchase hang from the ceiling, on the walls and some even sit on the floor. Drawn onto scrolls, carved into the wood finish of the building or crafted from any number of other materials, each of the different runes has its own strange feeling of excitement to it. The shop owner looks to know what every one of the runes does.  A large glowing sign, a wooden sign, an intricately carved oak door, and some flaming ruby ashes are here.
+
+This room is illuminated.
+Obvious exits: None.
+shop renew vigor
+>You cannot do that while you are flying!
+shop renew heal
+>You cannot do that while you are flying!
+land
+dance softly upon the Earth-Mother's skin...
+>You cannot do that while you are flying!
+You fly down and land.
+shop renew vigor
+>You step forward and speak with the proprietor...
+
+The rune mage accepts your 10sp and presses a glowing tube against the rune.  There is a slight stinging sensation and then the tube is removed.
+
+The vigor rune has been renewed as requested.
+shop renew heal
+>You step forward and speak with the proprietor...
+
+The rune mage accepts your 10sp and presses a glowing tube against the rune.  There is a slight stinging sensation and then the tube is removed.
+
+The heal rune has been renewed as requested.
+info mag
+>
+You have the following elemental runes available to you...
+
+   heal        - 100 weaves remain   illness     - 100 weaves remain
+   light       -  94 weaves remain   vigor       - 100 weaves remain
+   sleep       - 100 weaves remain   fatigue     - 100 weaves remain
+   charm       - 100 weaves remain   darkness    -  92 weaves remain
+   holy        - 100 weaves remain   water       - 100 weaves remain
+   translocation -  98 weaves remain   movement    -  98 weaves remain
+   cure        - 100 weaves remain   mental      -  97 weaves remain
+   energy      -  32 weaves remain   medicine    -  46 weaves remain
+   destroy     -  83 weaves remain   death       -  83 weaves remain
+   blindness   -  96 weaves remain   strength    -  94 weaves remain
+   divine      -  98 weaves remain   remedy      -  99 weaves remain
+   comfort     -  99 weaves remain   create      - 100 weaves remain
+   cure-all    -  97 weaves remain
+
+You may use the following modifier runes upon them...
+
+ small       average    
+
+You may use them with the following shapes...
+
+ armor       arrow       aura        being       bolt        cloud      
+ curse       dart        globe       ring        shield      sight      
+ spray       touch       mist        word        drake       bear       
+
+See INFO RUNESPELLS for memorized corridors.
+
+shop renew energy
+>You step forward and speak with the proprietor...
+
+The rune mage accepts your 10sp and presses a glowing tube against the rune.  There is a slight stinging sensation and then the tube is removed.
+
+The energy rune has been renewed as requested.
+shop renew medicine
+>You step forward and speak with the proprietor...
+
+You don't have the 10sp it takes to have that rune renewed!
+snap
+>You snap your fingers.
+go door
+>[Magick Lane.]
+
+A small sign hangs from above the door of the well-kept store before you, telling you that it is a rune shop. The occasional bright flash of light from inside the store suggests all kinds of strange and rare magicks are being cast inside! Those who walk past you glance at the rune shop warily and hurry to get past it as quickly as possible. A small sign hangs from the doorknob of the store that reads "Flerians not allowed!"  An intricately carved oak door and a street lantern are here.
+
+This area is illuminated.
+Obvious paths: north* south*.
+n
+n
+n
+>[Magick Lane.]
+
+A squat ugly little shack stands somber on the eastern side of this well swept lane. The occasional high pitched cackle sounds out from the shack, garnering strange looks from all who pass by. A mysterious gothic structure rises up on the opposite side of the street, the occasional explosion thundering out from within its doors, followed by muffled curses and breaking glass.  An open thick iron door, a closed ugly rotting door, a rotting oak sign, and a street lantern are here.
+
+This area is illuminated.
+Obvious paths: north* south*.
+n
+[Magick Lane.]
+
+A low slung building resides on the west side of the street. Chanting can be heard from within.  Occasionally a few sparks rise into the sky, or some unwarranted raindrops begin, but they quickly are quelled. A large pair of wooden doors, their surface carved with rune symbols grace the entrance.  A street lantern and some open rune-etched wooden doors are here.
+
+This area is illuminated.
+Obvious paths: north* south*.
+[Magick Lane.]
+
+A massive circular stone platform stands to the side of Magick Lane, strangely entrancing runes carved on every inch of its sides. The symbol of the god Sa, a golden Dragon, fills the space along the top. Raw power and magick seem to flow from the platform, making the air around it crackle with energy. A small sign stands next to the platform with a single word written upon it.  A rune covered platform, a floating blue ruby staircase leading down, and a street lantern are here.
+
+This area is illuminated.
+Obvious paths: north* south*.
+[Magick Lane & Rehas Way.]
+
+You are just inside the gateway between the Magick District and the Town Square. These gates stand open at all hours of the day or night. An otherwise unremarkable door is glorified by the sign of the city's healer posted beside it.  A wooden door and a street lantern are here.
+
+This area is illuminated.
+Obvious paths: south* west*.
+go gate
+>[Knowledge Path.]
+
+Knowledge Path terminates here at the gateway to the Magick District. In respect to the demands of the various religious and guild leaders, magick is kept as far from them as possible. A city plagued by rioting mage haters is the last thing Spur needs.  A street lantern is here.
+
+This area is illuminated.
+Obvious paths: northeast*.
+ne
+ne
+>[Knowledge Path.]
+
+A heated discussion breaks out briefly between members of opposing orders of magick. The presence of the city guard rapidly brings an end to the exchange before the verbal debate over power and skill turns into a demonstration.  A street lantern is here.
+
+This area is illuminated.
+Obvious paths: northeast* southwest*.
+ne
+ne
+[Knowledge Path.]
+
+Several members of the various mage orders of Spur and well-dressed shoppers seeking rarities travel along Knowledge's Path to and from the District of Magick. The district is the place to find the most talented artisans and craftiest merchants in Spur. It is also home to the mages of the non-elemental order.  A street lantern is here.
+
+This area is illuminated.
+Obvious paths: northeast* southwest*.
+ne
+e
+[Knowledge Path.]
+
+Knowledge Path heads out of the bustling Town Square and moves southwest towards the District of Magick and Rehas Way. Mixed with the robed mages that move southwest are merchants, customers and thieves alike. Moving quickly, especially with a full purse, is your best bet along this path.  A street lantern is here.
+
+This area is illuminated.
+Obvious paths: northeast* southwest*.
+go door
+[Knowledge Path.]
+
+Before you stands a magnificent white marble temple dedicated to Odarous, the god of chivalry. Ten giant steps made of the same gleaming marble lead up to the temple entrance. Two large statues stand at the base of the stairs, also carved of breath-taking marble. One is a warrior bearing a massive sword and a large shield. The other is a cleric with an amulet bearing the mark of Odarous in one hand and a large mace in the other.  Some gleaming white marble stairs, a polished white marble statue, a polished white marble statue, and a street lantern are here.
+
+This room is illuminated.
+Obvious exits: northeast* southwest*.
+[Town Square.]
+
+Commercial buildings flank Town Square to the west and south of this corner. Imposing buildings stand stiffly to your west, while those to the south have a slightly seedy look about them.  The door to the west has a freshly painted sign over it,  "Under New Management."  An open tan weathered pine door, a large doorway, and a street lantern are here.
+
+This area is illuminated.
+You see the 1st slightly glowing city guardsman and the 2nd slightly glowing city guardsman.
+Obvious paths: north* northeast* east* southwest*.
+[Town Square South.]
+
+The outward appearance of the people here seems a bit classier. Rich clothing and large coin purses are prevalent amongst the travelers. In fact, many of the folk heading into Town Square from the south are accompanied by large bodyguards to assure their safety. The well maintained road is lined with small brass lanterns, each swinging off an individual pole.  A street lantern is here.
+
+This area is illuminated.
+Obvious paths: north* northeast* east* south* west* northwest*.
+bank bal
+I don't see what you are referring to.
+>Hmmm... lets try that again in a bank.
+e
+>[Town Square.]
+
+The elegant Hotel Royale towers above the street, its emerald door sparkling in the light. The patrons that stroll in and out are catered to, doors opened and closed for them, and baggage and packages carried by harried servants. The large Bank of Spur sits on the east side of the square. Its location close to the Royale is not a coincidence. A gold-trimmed door is proof of the success of this branch of the Spurian bank and those who run it.  An elegant gold-trimmed walnut door, an open emerald steel door, a street lantern, and a new rosewood sign pointing southeast are here.
+
+This area is illuminated.
+Obvious paths: north* southeast* west* northwest*.
+go door
+>[Bank.]
+
+bank bal
+Two large Thugian guards stand sentinel on each side of the doors to the main branch of the Bank of Spur. Elegant furnishings adorn the office. Polished oak and gold filigree emphasize the wealth that abounds in this establishment. Well-dressed tellers stand ready to help you store your money safely or to reduce your coinage to more manageable form.  An elegant gold-trimmed walnut door, a wooden sign, and a bright wooden sign are here.
+
+This room is illuminated.
+Obvious exits: None.
+>
+You approach a teller and quietly request an account balance...
+
+The teller whispers to you, "You have an account balance of 350 silver."
+bank bal
+bank with 50 silver
+>
+You approach a teller and quietly request an account balance...
+
+The teller whispers to you, "You have an account balance of 350 silver."
+
+You approach a teller and quietly request to make a withdrawal...
+
+The teller says, "Your new account balance is 300 silver."
+go door
+w
+w
+>[Town Square.]
+
+The elegant Hotel Royale towers above the street, its emerald door sparkling in the light. The patrons that stroll in and out are catered to, doors opened and closed for them, and baggage and packages carried by harried servants. The large Bank of Spur sits on the east side of the square. Its location close to the Royale is not a coincidence. A gold-trimmed door is proof of the success of this branch of the Spurian bank and those who run it.  An elegant gold-trimmed walnut door, an open emerald steel door, a street lantern, and a new rosewood sign pointing southeast are here.
+
+This area is illuminated.
+Obvious paths: north* southeast* west* northwest*.
+sw
+sw
+[Town Square South.]
+
+The outward appearance of the people here seems a bit classier. Rich clothing and large coin purses are prevalent amongst the travelers. In fact, many of the folk heading into Town Square from the south are accompanied by large bodyguards to assure their safety. The well maintained road is lined with small brass lanterns, each swinging off an individual pole.  A street lantern is here.
+
+This area is illuminated.
+Obvious paths: north* northeast* east* south* west* northwest*.
+sw
+sw
+[Town Square.]
+
+Commercial buildings flank Town Square to the west and south of this corner. Imposing buildings stand stiffly to your west, while those to the south have a slightly seedy look about them.  The door to the west has a freshly painted sign over it,  "Under New Management."  An open tan weathered pine door, a large doorway, and a street lantern are here.
+
+This area is illuminated.
+You see the 1st slightly glowing city guardsman and the 2nd slightly glowing city guardsman.
+Obvious paths: north* northeast* east* southwest*.
+[Knowledge Path.]
+
+Before you stands a magnificent white marble temple dedicated to Odarous, the god of chivalry. Ten giant steps made of the same gleaming marble lead up to the temple entrance. Two large statues stand at the base of the stairs, also carved of breath-taking marble. One is a warrior bearing a massive sword and a large shield. The other is a cleric with an amulet bearing the mark of Odarous in one hand and a large mace in the other.  Some gleaming white marble stairs, a polished white marble statue, a polished white marble statue, and a street lantern are here.
+
+This room is illuminated.
+Obvious exits: northeast* southwest*.
+[Knowledge Path.]
+
+Knowledge Path heads out of the bustling Town Square and moves southwest towards the District of Magick and Rehas Way. Mixed with the robed mages that move southwest are merchants, customers and thieves alike. Moving quickly, especially with a full purse, is your best bet along this path.  A street lantern is here.
+
+This area is illuminated.
+Obvious paths: northeast* southwest*.
+[Knowledge Path.]
+
+Several members of the various mage orders of Spur and well-dressed shoppers seeking rarities travel along Knowledge's Path to and from the District of Magick. The district is the place to find the most talented artisans and craftiest merchants in Spur. It is also home to the mages of the non-elemental order.  A street lantern is here.
+
+This area is illuminated.
+Obvious paths: northeast* southwest*.
+sw
+[Knowledge Path.]
+
+A heated discussion breaks out briefly between members of opposing orders of magick. The presence of the city guard rapidly brings an end to the exchange before the verbal debate over power and skill turns into a demonstration.  A street lantern is here.
+
+This area is illuminated.
+Obvious paths: northeast* southwest*.
+sw
+>[Knowledge Path.]
+
+Knowledge Path terminates here at the gateway to the Magick District. In respect to the demands of the various religious and guild leaders, magick is kept as far from them as possible. A city plagued by rioting mage haters is the last thing Spur needs.  A street lantern is here.
+
+This area is illuminated.
+Obvious paths: northeast*.
+go gate
+You cannot move in that direction.
+[Magick Lane & Rehas Way.]
+
+You are just inside the gateway between the Magick District and the Town Square. These gates stand open at all hours of the day or night. An otherwise unremarkable door is glorified by the sign of the city's healer posted beside it.  A wooden door and a street lantern are here.
+
+This area is illuminated.
+Obvious paths: south* west*.
+s
+>[Magick Lane.]
+
+A massive circular stone platform stands to the side of Magick Lane, strangely entrancing runes carved on every inch of its sides. The symbol of the god Sa, a golden Dragon, fills the space along the top. Raw power and magick seem to flow from the platform, making the air around it crackle with energy. A small sign stands next to the platform with a single word written upon it.  A rune covered platform, a floating blue ruby staircase leading down, and a street lantern are here.
+
+This area is illuminated.
+Obvious paths: north* south*.
+s
+s
+s
+>[Magick Lane.]
+
+A low slung building resides on the west side of the street. Chanting can be heard from within.  Occasionally a few sparks rise into the sky, or some unwarranted raindrops begin, but they quickly are quelled. A large pair of wooden doors, their surface carved with rune symbols grace the entrance.  A street lantern and some open rune-etched wooden doors are here.
+
+This area is illuminated.
+You see the 1st usil scribe.
+Obvious paths: north* south*.
+go door
+[Magick Lane.]
+
+A squat ugly little shack stands somber on the eastern side of this well swept lane. The occasional high pitched cackle sounds out from the shack, garnering strange looks from all who pass by. A mysterious gothic structure rises up on the opposite side of the street, the occasional explosion thundering out from within its doors, followed by muffled curses and breaking glass.  An open thick iron door, a closed ugly rotting door, a rotting oak sign, and a street lantern are here.
+
+This area is illuminated.
+Obvious paths: north* south*.
+[Magick Lane.]
+
+A small sign hangs from above the door of the well-kept store before you, telling you that it is a rune shop. The occasional bright flash of light from inside the store suggests all kinds of strange and rare magicks are being cast inside! Those who walk past you glance at the rune shop warily and hurry to get past it as quickly as possible. A small sign hangs from the doorknob of the store that reads "Flerians not allowed!"  An intricately carved oak door and a street lantern are here.
+
+This area is illuminated.
+Obvious paths: north* south*.
+[Ragarn's Runes.]
+
+Incredible images cover every free corner of this small store, pictures of every possible rune available for purchase hang from the ceiling, on the walls and some even sit on the floor. Drawn onto scrolls, carved into the wood finish of the building or crafted from any number of other materials, each of the different runes has its own strange feeling of excitement to it. The shop owner looks to know what every one of the runes does.  A large glowing sign, a wooden sign, an intricately carved oak door, and some flaming ruby ashes are here.
+
+This room is illuminated.
+Obvious exits: None.
+shop renew medicine
+>You step forward and speak with the proprietor...
+
+The rune mage accepts your 10sp and presses a glowing tube against the rune.  There is a slight stinging sensation and then the tube is removed.
+
+The medicine rune has been renewed as requested.
+info mag
+>
+You have the following elemental runes available to you...
+
+   heal        - 100 weaves remain   illness     - 100 weaves remain
+   light       -  94 weaves remain   vigor       - 100 weaves remain
+   sleep       - 100 weaves remain   fatigue     - 100 weaves remain
+   charm       - 100 weaves remain   darkness    -  92 weaves remain
+   holy        - 100 weaves remain   water       - 100 weaves remain
+   translocation -  98 weaves remain   movement    -  98 weaves remain
+   cure        - 100 weaves remain   mental      -  97 weaves remain
+   energy      - 100 weaves remain   medicine    - 100 weaves remain
+   destroy     -  83 weaves remain   death       -  83 weaves remain
+   blindness   -  96 weaves remain   strength    -  94 weaves remain
+   divine      -  98 weaves remain   remedy      -  99 weaves remain
+   comfort     -  99 weaves remain   create      - 100 weaves remain
+   cure-all    -  97 weaves remain
+
+You may use the following modifier runes upon them...
+
+ small       average    
+
+You may use them with the following shapes...
+
+ armor       arrow       aura        being       bolt        cloud      
+ curse       dart        globe       ring        shield      sight      
+ spray       touch       mist        word        drake       bear       
+
+See INFO RUNESPELLS for memorized corridors.
+
+go door
+>[Magick Lane.]
+
+A small sign hangs from above the door of the well-kept store before you, telling you that it is a rune shop. The occasional bright flash of light from inside the store suggests all kinds of strange and rare magicks are being cast inside! Those who walk past you glance at the rune shop warily and hurry to get past it as quickly as possible. A small sign hangs from the doorknob of the store that reads "Flerians not allowed!"  An intricately carved oak door and a street lantern are here.
+
+This area is illuminated.
+Obvious paths: north* south*.
+n
+n
+>[Magick Lane.]
+
+A squat ugly little shack stands somber on the eastern side of this well swept lane. The occasional high pitched cackle sounds out from the shack, garnering strange looks from all who pass by. A mysterious gothic structure rises up on the opposite side of the street, the occasional explosion thundering out from within its doors, followed by muffled curses and breaking glass.  An open thick iron door, a closed ugly rotting door, a rotting oak sign, and a street lantern are here.
+
+This area is illuminated.
+Obvious paths: north* south*.
+n
+n
+[Magick Lane.]
+
+A low slung building resides on the west side of the street. Chanting can be heard from within.  Occasionally a few sparks rise into the sky, or some unwarranted raindrops begin, but they quickly are quelled. A large pair of wooden doors, their surface carved with rune symbols grace the entrance.  A street lantern and some open rune-etched wooden doors are here.
+
+This area is illuminated.
+You see the 1st usil scribe.
+Obvious paths: north* south*.
+fly up 20
+[Magick Lane.]
+
+A massive circular stone platform stands to the side of Magick Lane, strangely entrancing runes carved on every inch of its sides. The symbol of the god Sa, a golden Dragon, fills the space along the top. Raw power and magick seem to flow from the platform, making the air around it crackle with energy. A small sign stands next to the platform with a single word written upon it.  A rune covered platform, a floating blue ruby staircase leading down, and a street lantern are here.
+
+This area is illuminated.
+Obvious paths: north* south*.
+[Magick Lane & Rehas Way.]
+
+You are just inside the gateway between the Magick District and the Town Square. These gates stand open at all hours of the day or night. An otherwise unremarkable door is glorified by the sign of the city's healer posted beside it.  A wooden door and a street lantern are here.
+
+This area is illuminated.
+Obvious paths: south* west*.
+[5 sec. delay]
+You take a few steps and soar 10 feet into the air!
+go gate
+>[Knowledge Path.]
+
+Knowledge Path terminates here at the gateway to the Magick District. In respect to the demands of the various religious and guild leaders, magick is kept as far from them as possible. A city plagued by rioting mage haters is the last thing Spur needs.  A street lantern is here.
+
+This area is illuminated.
+Obvious paths: northeast*.
+ne
+>[Knowledge Path.]
+
+ne
+A heated discussion breaks out briefly between members of opposing orders of magick. The presence of the city guard rapidly brings an end to the exchange before the verbal debate over power and skill turns into a demonstration.  A street lantern is here.
+
+This area is illuminated.
+Obvious paths: northeast* southwest*.
+ne
+>[Knowledge Path.]
+
+Several members of the various mage orders of Spur and well-dressed shoppers seeking rarities travel along Knowledge's Path to and from the District of Magick. The district is the place to find the most talented artisans and craftiest merchants in Spur. It is also home to the mages of the non-elemental order.  A street lantern is here.
+
+This area is illuminated.
+Obvious paths: northeast* southwest*.
+ne
+ne
+[Knowledge Path.]
+
+Knowledge Path heads out of the bustling Town Square and moves southwest towards the District of Magick and Rehas Way. Mixed with the robed mages that move southwest are merchants, customers and thieves alike. Moving quickly, especially with a full purse, is your best bet along this path.  A street lantern is here.
+
+This area is illuminated.
+Obvious paths: northeast* southwest*.
+ne
+[Knowledge Path.]
+
+Before you stands a magnificent white marble temple dedicated to Odarous, the god of chivalry. Ten giant steps made of the same gleaming marble lead up to the temple entrance. Two large statues stand at the base of the stairs, also carved of breath-taking marble. One is a warrior bearing a massive sword and a large shield. The other is a cleric with an amulet bearing the mark of Odarous in one hand and a large mace in the other.  Some gleaming white marble stairs, a polished white marble statue, a polished white marble statue, and a street lantern are here.
+
+This room is illuminated.
+Obvious exits: northeast* southwest*.
+[Town Square.]
+
+Commercial buildings flank Town Square to the west and south of this corner. Imposing buildings stand stiffly to your west, while those to the south have a slightly seedy look about them.  The door to the west has a freshly painted sign over it,  "Under New Management."  An open tan weathered pine door, a large doorway, and a street lantern are here.
+
+This area is illuminated.
+You see the 1st slightly glowing city guardsman and the 2nd slightly glowing city guardsman.
+Obvious paths: north* northeast* east* southwest*.
+[Town Square Center.]
+
+A beautiful fountain, sculpted from pristine white marble, rests at the center of Spur's main square. Clear, sparkling water sprays from a spout at the fountain's tip and cascades down several tiers before spilling into a circular pool. High above the square, the wings of two imperial stone dragons form an arch for a massive gateway. The colossal monument stands at the heart of the city like a silent sentinel keeping watch over the entire realm. Lifelike marble statues decorate the square's perimeter, each a celebrated hero of Spur's past.  A flowing white marble fountain, a marble statue of a Human, a shimmering marble statue of a Dragon, some crystal flecked granite oliphant-shaped benches, a rosewood sign, and a crisp gold lettered vellum notice are here.
+
+This area is illuminated.
+You see the 1st light colored cat (wearing a small gold collar).
+Obvious paths: north* northeast* east* southeast* south* southwest* west* northwest*.
+inh softly
+>You inhale softly.
+w
+>[Town Square West.]
+
+People carrying bundles stream in from the west and rapidly lose themselves in the large crowds moving about in the vast town square. Several citizens head west with bulging coinpurses babbling excitedly about what they're going to purchase. Giggling children dart around the slower moving folks rushing on their way to spend the silvers in their pockets.  A street lantern is here.
+
+This area is illuminated.
+You see the 1st mounted city guard.
+Obvious paths: north* northeast* east* southeast* south* west*.
+w
+>[Merchant Walk.]
+
+Neatly trimmed shrubbery line well-maintained cobblestones along Merchant Walk. Apprentices rush by carrying supplies and orders, carrying out their masters' business. Several wooden benches line the walk for those customers who need to rest from the strain of carrying heavy parcels.  A street lantern is here.
+
+This room is illuminated.
+Obvious exits: east* west*.
+w
+>[Merchant Walk.]
+
+A neatly kept park fronts this portion of Merchant Walk. Topiary and low shrubberies partition off small sections of the park. Young lovers sit on benches almost hidden from view, gazing at each other with looks of love, oblivious to the continual bustle of passing customers and merchants on their way to do business.  A street lantern is here.
+
+This area is illuminated.
+Obvious paths: east* west*.
+w
+>[Merchant Walk.]
+
+Merchants, some in frilly finery, others dressed in homespun wools, travel back and forth along this street on their way to and from work. They seem to blend together here, if only briefly. Several of the more haughty looking merchants are trailed by overloaded carts pushed along by haggard young apprentices.   A street lantern is here.
+
+This area is illuminated.
+Obvious paths: east* west*.
+w
+w
+>[Merchant Walk.]
+
+Several city guardsmen have just finished wrestling to the ground some young tough thieves, who thought to rob one of the returning merchants. To one side a relieved-looking Fir Elf gentleman holds on tightly to his gold-tipped walking stick, as the human boy yells his innocence to any who might listen. His pleas fall on deaf ears as the guards drag him away.  A street lantern is here.
+
+This area is illuminated.
+Obvious paths: east* west*.
+[Merchant Walk.]
+
+Merchant Walk comes to an abrupt end at a massive moonsilver gate. The towering walls of Spur on either side of the gates force all to pass by the guards who are constantly on the watch for thieves and bandits. Just beyond the gates one can glimpse the bustling Merchant District of Spur.  A gilded oak sign and a street lantern are here.
+
+This area is illuminated.
+Obvious paths: east*.
+go gate
+>[Trade Way.]
+
+A large gate separates the Merchant District and Town Square-the hub of Spur's activity. The partially opened gate is currently able to accommodate the simultaneous passage of several locals and visitors, but can be expanded to accept carriages, or sealed to ward against invasion.  Guards stand sentry from atop the wall as well as the ground.  A street lantern is here.
+
+This area is illuminated.
+Obvious paths: west*.
+who all
+>Full who list activated!
+
+Current Adventurers
+
+ Talishia Jolgus                     Creon Lars                         
+ Ormungun Druug                      Viator Strakeen                    
+ Kressa Thelina                      Foom Thurunder                     
+ Kyrn Chollyk                        Barracuda Krow                     
+ Lthe Wain                           Amythestia Ysveginot               
+ Ward Jahanel                        Xavier Derondache                  
+ Threx Truvaan                       Glinka Dragondsfriend              
+ Xarus Arawn                         Ayrhane Boshterrn                  
+
+You notice 16 adventurers.
+w
+w
+w
+>[Trade Way.]
+
+Many townsfolk pass along this busy thoroughfare. Rich and poor alike mix freely on this street, much to the dismay of a passing nobleman. A young human struggles with an armful of packages and two young children in tow. Those in need of goods or supplies head west towards the market, those looking for the news of the day head east towards Town Square.  A street lantern is here.
+
+This area is illuminated.
+You see the 1st townsman and the 2nd townsman.
+Obvious paths: east* west*.
+[Trade Way, Intersection.]
+
+A path to the north winds its way among various stalls and tents. Some specialty outlets can be found, provided one does not get lost in this maze known as the Bazaar. More permanent structures to the south suggest finer goods as well as increased security.  A street lantern is here.
+
+This area is illuminated.
+Obvious paths: north* east* south* west*.
+[Trade Way.]
+
+This well-worn road separates the Bazaar to the north and Market Circle to the south. Only a Thugian could appreciate the layered odors of simmering foodstuffs and shoppers from the Bazaar. Crowds of people push past, some brushing against you. It might be a good idea to keep an eye on your coinpurse.  A street lantern is here.
+
+This area is illuminated.
+Obvious paths: east* west*.
+fly down 5
+>You fly down 5 feet.
+
+h
+You are now at 5 feet.
+>You appear to be in perfect health.
+
+HP: 125/125  Ftg:  70/ 70
+w
+>[Trade & Market.]
+
+The buildings of Market Circle stand to the south. It becomes obvious that the area through the arch is a much cleaner marketplace than the bazaar. An inviting eatery stands beside the road, its door open to those weary after a long trip to Spur, as well as those preparing to venture to the great expanses beyond the west gate. A human couple exit the building, arm in arm. A small sign stands beside the intersection.  A sign, an open glossy lacquered oak door, and a street lantern are here.
+
+This area is illuminated.
+Obvious paths: east* south* west*.
+l at lan
+>It looks like a golden brass lantern.
+It appears to have 263 minute(s) worth of light left.
+l at gl
+>You find something suitably reflective and gaze into it...
+You are currently flying at an elevation of 5 feet.
+
+
+You look like a 1'2" standard adolescent delicate boned, wiry-tough bodied Secian Cleric.
+You have very long, wild, kinky white hair with a white streak, heavy lidded pale red eyes, and look translucent.
+You appear to be sad right now.
+You can be attacked by other players.
+
+On her breast is a small crescent shaped birthmark.
+
+On her neck is a purple marked tattoo of the house of Mandor.
+
+On her belly is a tark tribal circle around the navel.
+
+On her back are glimmering deep Hyacinth wings with draconic runes in Golde upon them.
+
+On her head, behind her left ear is a deep blue Something.
+
+You appear to be in perfect health.
+There is a shining gold emblem affixed to your clothing.
+
+Physical appearance:
+
+You see an ageless, tymless, spryte with long wild kinky whyte hair with a glowing whyte streak and sleepy eyes...She is shivering in the cold wind to Valhalla...She has touched the Sky...
+
+                        Visible Equipment
+A heavy polished steelwood mail                    (armor)
+A tribal painted birch go-blin shield              (shield)
+A tiny moonsilver tongue piercing                  (on head)
+A moon shaped ivory talisman                       (around neck)
+Some amethyst star and moon charm bracelets        (over hands)
+A pair of ornate silver toe rings                  (on feet)
+Some multicolored black dragon wing charms         (over armor)
+A crescent moon earring                            (right ear)
+A silver serpentine hoop                           (left ear)
+A delicately linked gold belly chain               (on belt)
+
+You have been bestowed the following title(s):
+  Noble of the Realm
+
+w
+>[Trade Way.]
+
+The throngs of travelers thicken as one heads east along Trade Way. An Anthian plays softly on a strange looking stringed instrument, her melodic voice filling the air. Judging by her clothing, and the number of silvers at her feet, she makes a fine living practicing her craft.  A street lantern is here.
+
+This area is illuminated.
+Obvious paths: east* west*.
+w
+>[Trade Way.]
+
+The wafting smell of flowers and trees float out from a well kept grey fence.  Old piles of rubble have been cleaned up and the glimpse of a sprawling park can be seen, having been planted in their stead. Beautiful and statuesque monuments dot the landscape through the gate, that remains locked, but has been festively decorated with a bright ribbon.  A street lantern and an open festive ribbon tied grey iron gate are here.
+
+This area is illuminated.
+Obvious paths: east* west*.
+go gate
+>I don't see what you are referring to.
+l at fest
+>I don't see what you are referring to.
+l through fest
+l under fest
+l behind fest
+l on fest
+l in fest
+>I don't see what you are referring to.
+>I don't see what you are referring to.
+>I don't see what you are referring to.
+>I don't see what you are referring to.
+>I don't see what you are referring to.
+l at gr
+>It looks like an open festive ribbon tied grey iron gate.
+l at gr
+>It looks like an open festive ribbon tied grey iron gate.
+l through gr
+l under gr
+l behind gr
+l on gr
+l in gr
+>[Garden of Remembrance.]
+
+A gentle breeze carries the scents of cinnamon and roses through the air as birds chirp in nearby trees. A smooth coral stone pathway is bordered by a myriad of flowers, each straining to be the prominent color within the hedge. A pure white rock bridge leads over a large pool of tranquil water. Fountains on either side of the bridge splash water quietly into the pond. Groups of various races walk across the bridge intent upon viewing what lies beyond. An elderly Human carefully grasps the hand of his grandson, and whispers to him about a hero of Spur long gone, as they head off to the northeast.  A pair of curved marbled fountains, a smooth coral stone pathway, and an open ivy-covered grey iron gate are here.
+
+This area is illuminated.
+Obvious paths: northeast* northwest*.
+>There is nothing underneath that.
+>There is nothing behind that.
+>There is nothing on top of that.
+>There is nothing inside that.
+w
+>[Trade Way.]
+
+From the city gate to the west, Trade Way continues eastward towards the busy Merchant district, past Joyeusse's Shop. The air is thick with the scent of fresh flowers. Wagons filled with goods bound for sale trundle past, their drivers hopeful of the anticipated profits. Eager young warriors venture towards the west gate and the dangers beyond.  A closed carved rosewood door, a street lantern, and a freshly painted sign are here.
+
+This area is illuminated.
+Obvious paths: east* west*.
+w
+>[Gateway.]
+
+The relative safety inside Spur is a comfort to those returning from the fields and mountains. To those leaving, a massive wall of defense around the city lies ahead. Archer towers beside the gate overlook the wall, offering a painful welcome to would-be invaders. Several guards on foot patrol pass and disappear behind a thick, bluesteel banded steelwood door. Wall road stretches to the south, a wide passage between the city wall and several large buildings.  A closed iron gate, an open thick stone door, and a street lantern are here.
+
+This area is illuminated.
+Obvious paths: east* south*.
+go door
+>[Western Barracks.]
+
+Row after row of bunks fill the enormous main room of the western guard barracks. A small chest sits at the foot of each of the bunks, holding clothing and other personal items. The simple but efficient furniture complements the neat bedding and clean walls and floors.  An open thick stone door is here.
+
+This area is illuminated.
+Obvious paths: north* west* northwest*.
+go door
+>[Gateway.]
+
+The relative safety inside Spur is a comfort to those returning from the fields and mountains. To those leaving, a massive wall of defense around the city lies ahead. Archer towers beside the gate overlook the wall, offering a painful welcome to would-be invaders. Several guards on foot patrol pass and disappear behind a thick, bluesteel banded steelwood door. Wall road stretches to the south, a wide passage between the city wall and several large buildings.  A closed iron gate, an open thick stone door, and a street lantern are here.
+
+This area is illuminated.
+Obvious paths: east* south*.
+w
+>You cannot move in that direction.
+s
+>[Wall road.]
+
+Huge blocks make up the massive wall beside you. This structure is Spur's number one defense against attack. Rising above the treetops of the woods beyond, it allows the guards to see far into the distance.
+
+This area is illuminated.
+Obvious paths: north* south*.
+s
+>[Wall Road.]
+
+Wall road is rife with hoofprints and tracks from wagon wheels leading to a large enclosure to the south. To those with two legs, the footing is somewhat difficult. The rear entrances to the stores of Market Circle stand just east of the road, allowing the delivery of goods. Guards peer down from above as farmers herd animals to market.
+
+This area is illuminated.
+Obvious paths: north* south*.
+s
+>[Wall Road.]
+
+Livestock pace nervously in an enclosure beside the road. Chickens and other fowl peck at the ground in a vain attempt to find some food. A large sow wallows in the mud at the back of the pen, adding to the smell. A few sheep are being herded towards the gate, unaware of the fate that awaits them.  A gateway is here.
+
+This area is illuminated.
+Obvious paths: north* south*.
+s
+>[Wall Road.]
+
+Shadowed by the wall that surrounds the city, this dark corner sees little traffic. Most Spurians access Rehas Way from Town Square, rather than through this arch. A thin sapling reaches valiantly for a sliver of sunlight. A drowsy guard on the wall above snaps to attention as his Captain approaches.  An archway is here.
+
+This area is illuminated.
+Obvious paths: north*.
+n
+n
+n
+>[Wall Road.]
+
+Livestock pace nervously in an enclosure beside the road. Chickens and other fowl peck at the ground in a vain attempt to find some food. A large sow wallows in the mud at the back of the pen, adding to the smell. A few sheep are being herded towards the gate, unaware of the fate that awaits them.  A gateway is here.
+
+This area is illuminated.
+Obvious paths: north* south*.
+n
+[Wall Road.]
+
+Wall road is rife with hoofprints and tracks from wagon wheels leading to a large enclosure to the south. To those with two legs, the footing is somewhat difficult. The rear entrances to the stores of Market Circle stand just east of the road, allowing the delivery of goods. Guards peer down from above as farmers herd animals to market.
+
+This area is illuminated.
+Obvious paths: north* south*.
+[Wall road.]
+
+Huge blocks make up the massive wall beside you. This structure is Spur's number one defense against attack. Rising above the treetops of the woods beyond, it allows the guards to see far into the distance.
+
+This area is illuminated.
+Obvious paths: north* south*.
+[Gateway.]
+
+The relative safety inside Spur is a comfort to those returning from the fields and mountains. To those leaving, a massive wall of defense around the city lies ahead. Archer towers beside the gate overlook the wall, offering a painful welcome to would-be invaders. Several guards on foot patrol pass and disappear behind a thick, bluesteel banded steelwood door. Wall road stretches to the south, a wide passage between the city wall and several large buildings.  A closed iron gate, an open thick stone door, and a street lantern are here.
+
+This area is illuminated.
+Obvious paths: east* south*.
+' wow
+>
+Glinka says, " wow"
+unl ga
+op ga
+go ga
+>You cannot do that while you are flying!
+It's locked.
+land
+dance softly upon the Earth-Mother's skin...
+You cannot do that while you are flying!
+It's closed!
+You fly down and land.
+unl ga
+op ga
+go ga
+>With a click, you unlock the closed iron gate.
+You open the closed iron gate.
+[Spur Gateway.]
+
+Travelers from Rathan to the northwest, and the Trade Route to the south, converge at Spur's west gate. Guards posted on the ground give those seeking to enter the city a cursory once-over. Their lack of interest shows that anyone approaching has already been observed from above for some time. A grate in the ground loosens mud from wagon wheels and hooves before they pass through the gate, helping to keep the streets of Spur fairly clean.  An open giant black iron gate, a giant green oak tree, a small blue pool, a thick oak grate over the pool, and a polished stone marker are here.
+
+This area is illuminated.
+Obvious paths: north* south* southwest* west* northwest*.
+The open giant black iron gate slowly closes and locks with a click.
+fly up 20
+>[5 sec. delay]
+You take a few steps and soar 10 feet into the air!
+fly down 5
+>You fly down 5 feet.
+
+h
+You are now at 5 feet.
+>You have no apparent injuries, but look tired.
+
+HP: 125/125  Ftg:  69/ 70
+n
+>[Oak Woods.]
+
+Several maple trees grow near each other, surrounded by the tall oaks. Small birds call out bright songs, filling the air with their happy sounds. Tiny chipmunks scamper across the high branches.  A red maple tree is here.
+
+This area is illuminated.
+Obvious paths: north* south* southwest* west* northwest*.
+n
+n
+>[Oak Woods.]
+
+Several maple trees grow near each other, surrounded by the tall oaks. Small birds call out bright songs, filling the air with their happy sounds. Tiny chipmunks scamper across the high branches.  A red maple tree is here.
+
+This area is illuminated.
+Obvious paths: north* south* southwest* west* northwest*.
+[Oak Woods.]
+
+Oak trees surround you on every side reaching their leaves up to the sky in majestic splendor. The call of the an owl causes the small creatures in the underbrush to scamper for safety. To the north a short, but steep, hill lies againt the huge city wall.  A light golden oak tree, a giant green oak tree, an open oak door, and a closed grate-covered pipe are here.
+
+This area is illuminated.
+Obvious paths: south* southwest* west*.
+w
+>[Oak Woods.]
+
+Several maple trees, growing in a small cluster, stand out among the massive oaks that dominate this part of the wood. The wildlife is bustling with activity. Chipmunks scamper across the high branches, while a myriad of bird songs fills the air.  A red maple tree, a red maple tree, and a red maple tree are here.
+
+This area is illuminated.
+Obvious paths: east* southeast* south* southwest* west* northwest*.
+s
+s
+s
+>[Oak Woods.]
+
+The leaves on the maple trees wave lightly under a gentle breeze. Small birds call out bright songs filling the air with their happy sounds. Two tiny chipmunks poke their heads up from under a log then scamper off chasing each other.  A giant green oak tree and a golden oak tree are here.
+
+This area is illuminated.
+Obvious paths: north* northeast* east* southeast* south* southwest* west* northwest*.
+[Oak Woods.]
+
+Oak trees surround you on every side reaching their leaves up to the sky in majestic splendor. Rising high above the rest of the oaks stands a massive tree, clearly hundreds of years older than those around it within this section of the forest. A small path curves around the base of the tree and enters what looks to be some sort of small clearing, you can see a few Elves dressed entirely in green walking within the clearing, though telling them from the forest is proving a difficult task. A small sign hangs above the path that reads, "Foresters Guild".  A giant green oak tree, a golden oak tree, a giant ancient oak tree, and a worn grassy path are here.
+
+This area is illuminated.
+Obvious paths: north* northeast* east* southeast* south* southwest* west* northwest*.
+[Large Grassland Clearing.]
+
+The ground is slightly spongy underfoot and the grasses short but very lush. Small animals and birds drink and play in the occasional small puddle that appears here and there. Tiny frogs pop out of the water snatching a snack from the air.  A green pool is here.
+
+This area is illuminated.
+Obvious paths: north* northeast* east* southeast* south* southwest* west* northwest*.
+s
+s
+s
+>[Large Grassland Clearing.]
+
+Golden grasslands wave gracefully under the gentle breezes. Small colorful birds flit gaily across the landscape alighting to chirp brightly from time to time. At night, the birds' songs are replaced by those of insects and the quiet flutter of bat wings.  A green bush is here.
+
+This area is illuminated.
+Obvious paths: north* northeast* east* southeast* south* southwest* west* northwest*.
+[Large Grassland Clearing.]
+
+Green grasslands with lovely wildflowers peeking out here and there surround you. During the day small colorful butterflies flit from flower to flower and at night you can hear the chirrup of crickets and the noises of other small creatures.  Some light red wildflowers are here.
+
+This area is illuminated.
+Obvious paths: north* northeast* east* southeast* south* southwest* west* northwest*.
+[Large Grassland Clearing.]
+
+Golden grasslands wave gracefully under the gentle breezes. Small colorful birds flit gaily across the landscape alighting to chirp brightly from time to time. At night, the birds' songs are replaced by those of insects and the quiet flutter of bat wings.  A green bush is here.
+
+This area is illuminated.
+Obvious paths: north* northeast* east* southeast* south* west* northwest*.
+s
+>[Large Grassland Clearing.]
+
+Green grasslands with lovely wildflowers peeking out here and there surround you. During the day small colorful butterflies flit from flower to flower and at night you can hear the chirrup of crickets and the noises of other small creatures.  Some light red wildflowers are here.
+
+This area is illuminated.
+Obvious paths: north* northeast* east* northwest*.
+e
+>[Trade Route.]
+
+A Human farm girl waves a carrot in front of a horse, pleading with it to continue up the road. Judging by the size of the load in her cart, she'll need an entire garden to get the tired old mare to market.  Some light red wildflowers are here.
+
+This area is illuminated.
+Obvious paths: north* south* west* northwest*.
+n
+n
+>[Trade Route.]
+
+A bored Flerian, leaning against the city wall, glances at you with hooded eyes as you pass by. He turns and slinks through a small hole at the base of the wall. Beautiful golden grasslands grow in a large clearing to the west.
+
+This area is illuminated.
+Obvious paths: north* south* southwest* west* northwest*.
+>[Trade Route.]
+
+The city wall stands ominously to the east of the road, an impenetrable mass of stone. Its presence dominates your vision and the road stands in deep, dark shadow until mid-day. Archer towers to the north rise above the top of the wall, indicating the West Gate is near.  A green bush is here.
+
+This area is illuminated.
+Obvious paths: north* south* southwest* west* northwest*.
+n
+>[Trade Route.]
+
+Four draft horses stomp at the ground in annoyance as two miners struggle with the broken wheel of a horse-cart, filled to the top with glittering dark ore. One heavily muscled Hithual curses fluently in Battle as he attempts to leverage the cart with a plank from its own sideboard. The attempt to thread the axle with a new wheel fails, setting off shouts of pain and frustration.
+
+This area is illuminated.
+Obvious paths: north* south* southwest* west* northwest*.
+n
+>[Spur Gateway.]
+
+Travelers from Rathan to the northwest, and the Trade Route to the south, converge at Spur's west gate. Guards posted on the ground give those seeking to enter the city a cursory once-over. Their lack of interest shows that anyone approaching has already been observed from above for some time. A grate in the ground loosens mud from wagon wheels and hooves before they pass through the gate, helping to keep the streets of Spur fairly clean.  A closed giant black iron gate, a giant green oak tree, a small blue pool, a thick oak grate over the pool, and a polished stone marker are here.
+
+This area is illuminated.
+Obvious paths: north* south* southwest* west* northwest*.
+land
+>You fly down and land.
+dance softly upon the Earth-Mother's skin...
+>You dance softly upon the Earth-Mother's skin...
+unl ga
+op ga
+go ga
+>With a click, you unlock the closed giant black iron gate.
+You open the closed giant black iron gate.
+[Gateway.]
+
+The relative safety inside Spur is a comfort to those returning from the fields and mountains. To those leaving, a massive wall of defense around the city lies ahead. Archer towers beside the gate overlook the wall, offering a painful welcome to would-be invaders. Several guards on foot patrol pass and disappear behind a thick, bluesteel banded steelwood door. Wall road stretches to the south, a wide passage between the city wall and several large buildings.  An open iron gate, an open thick stone door, and a street lantern are here.
+
+This area is illuminated.
+Obvious paths: east* south*.
+The open iron gate slowly closes and locks with a click.
+fly up 20
+>[5 sec. delay]
+You take a few steps and soar 10 feet into the air!
+fly down 5
+>You fly down 5 feet.
+
+h
+You are now at 5 feet.
+>You have no apparent injuries, but look tired.
+
+HP: 125/125  Ftg:  67/ 70
+e
+>[Trade Way.]
+
+From the city gate to the west, Trade Way continues eastward towards the busy Merchant district, past Joyeusse's Shop. The air is thick with the scent of fresh flowers. Wagons filled with goods bound for sale trundle past, their drivers hopeful of the anticipated profits. Eager young warriors venture towards the west gate and the dangers beyond.  A closed carved rosewood door, a street lantern, and a freshly painted sign are here.
+
+This area is illuminated.
+Obvious paths: east* west*.
+e
+>[Trade Way.]
+
+The wafting smell of flowers and trees float out from a well kept grey fence.  Old piles of rubble have been cleaned up and the glimpse of a sprawling park can be seen, having been planted in their stead. Beautiful and statuesque monuments dot the landscape through the gate, that remains locked, but has been festively decorated with a bright ribbon.  A street lantern and an open festive ribbon tied grey iron gate are here.
+
+This area is illuminated.
+Obvious paths: east* west*.
+e
+>[Trade Way.]
+
+The throngs of travelers thicken as one heads east along Trade Way. An Anthian plays softly on a strange looking stringed instrument, her melodic voice filling the air. Judging by her clothing, and the number of silvers at her feet, she makes a fine living practicing her craft.  A street lantern is here.
+
+This area is illuminated.
+Obvious paths: east* west*.
+e
+>[Trade & Market.]
+
+e
+The buildings of Market Circle stand to the south. It becomes obvious that the area through the arch is a much cleaner marketplace than the bazaar. An inviting eatery stands beside the road, its door open to those weary after a long trip to Spur, as well as those preparing to venture to the great expanses beyond the west gate. A human couple exit the building, arm in arm. A small sign stands beside the intersection.  A sign, an open glossy lacquered oak door, and a street lantern are here.
+
+This area is illuminated.
+Obvious paths: east* south* west*.
+e
+>[Trade Way.]
+
+This well-worn road separates the Bazaar to the north and Market Circle to the south. Only a Thugian could appreciate the layered odors of simmering foodstuffs and shoppers from the Bazaar. Crowds of people push past, some brushing against you. It might be a good idea to keep an eye on your coinpurse.  A street lantern is here.
+
+This area is illuminated.
+Obvious paths: east* west*.
+[Trade Way, Intersection.]
+
+e
+A path to the north winds its way among various stalls and tents. Some specialty outlets can be found, provided one does not get lost in this maze known as the Bazaar. More permanent structures to the south suggest finer goods as well as increased security.  A street lantern is here.
+
+This area is illuminated.
+Obvious paths: north* east* south* west*.
+e
+>[Trade Way.]
+
+Many townsfolk pass along this busy thoroughfare. Rich and poor alike mix freely on this street, much to the dismay of a passing nobleman. A young human struggles with an armful of packages and two young children in tow. Those in need of goods or supplies head west towards the market, those looking for the news of the day head east towards Town Square.  A street lantern is here.
+
+This area is illuminated.
+You see the 1st townsman and the 2nd townsman.
+Obvious paths: east* west*.
+
+The townsman glances around for a moment to gather its bearings.
+[Trade Way.]
+
+A large gate separates the Merchant District and Town Square-the hub of Spur's activity. The partially opened gate is currently able to accommodate the simultaneous passage of several locals and visitors, but can be expanded to accept carriages, or sealed to ward against invasion.  Guards stand sentry from atop the wall as well as the ground.  A street lantern is here.
+
+This area is illuminated.
+Obvious paths: west*.
+go gate
+>[Merchant Walk.]
+
+Merchant Walk comes to an abrupt end at a massive moonsilver gate. The towering walls of Spur on either side of the gates force all to pass by the guards who are constantly on the watch for thieves and bandits. Just beyond the gates one can glimpse the bustling Merchant District of Spur.  A gilded oak sign and a street lantern are here.
+
+This area is illuminated.
+Obvious paths: east*.
+e
+e
+e
+>[Merchant Walk.]
+
+Several city guardsmen have just finished wrestling to the ground some young tough thieves, who thought to rob one of the returning merchants. To one side a relieved-looking Fir Elf gentleman holds on tightly to his gold-tipped walking stick, as the human boy yells his innocence to any who might listen. His pleas fall on deaf ears as the guards drag him away.  A street lantern is here.
+
+This area is illuminated.
+Obvious paths: east* west*.
+[Merchant Walk.]
+
+Merchants, some in frilly finery, others dressed in homespun wools, travel back and forth along this street on their way to and from work. They seem to blend together here, if only briefly. Several of the more haughty looking merchants are trailed by overloaded carts pushed along by haggard young apprentices.   A street lantern is here.
+
+This area is illuminated.
+Obvious paths: east* west*.
+[Merchant Walk.]
+
+A neatly kept park fronts this portion of Merchant Walk. Topiary and low shrubberies partition off small sections of the park. Young lovers sit on benches almost hidden from view, gazing at each other with looks of love, oblivious to the continual bustle of passing customers and merchants on their way to do business.  A street lantern is here.
+
+This area is illuminated.
+Obvious paths: east* west*.
+e
+e
+>[Merchant Walk.]
+
+Neatly trimmed shrubbery line well-maintained cobblestones along Merchant Walk. Apprentices rush by carrying supplies and orders, carrying out their masters' business. Several wooden benches line the walk for those customers who need to rest from the strain of carrying heavy parcels.  A street lantern is here.
+
+This room is illuminated.
+You see the 1st shoe polisher.
+Obvious exits: east* west*.
+e
+[Town Square West.]
+
+People carrying bundles stream in from the west and rapidly lose themselves in the large crowds moving about in the vast town square. Several citizens head west with bulging coinpurses babbling excitedly about what they're going to purchase. Giggling children dart around the slower moving folks rushing on their way to spend the silvers in their pockets.  A street lantern is here.
+
+This area is illuminated.
+Obvious paths: north* northeast* east* southeast* south* west*.
+[Town Square Center.]
+
+A beautiful fountain, sculpted from pristine white marble, rests at the center of Spur's main square. Clear, sparkling water sprays from a spout at the fountain's tip and cascades down several tiers before spilling into a circular pool. High above the square, the wings of two imperial stone dragons form an arch for a massive gateway. The colossal monument stands at the heart of the city like a silent sentinel keeping watch over the entire realm. Lifelike marble statues decorate the square's perimeter, each a celebrated hero of Spur's past.  A flowing white marble fountain, a marble statue of a Human, a shimmering marble statue of a Dragon, some crystal flecked granite oliphant-shaped benches, a rosewood sign, and a crisp gold lettered vellum notice are here.
+
+This area is illuminated.
+You see the 1st light colored cat (wearing a small gold collar).
+Obvious paths: north* northeast* east* southeast* south* southwest* west* northwest*.
+time

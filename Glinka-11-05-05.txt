@@ -1,0 +1,2345 @@
+time
+
+Current time is: Sat Nov  5 20:02:06 2005 EST.
+
+It is now 4:06 pm on the 11th day of the 12th month in the year 320.
+
+You have been adventuring for 44 mins, 23 secs this session.
+
+chu gently, winking..
+>You chuckle gently, winking..
+l
+>[Festival of Shadows, Peddler's Inn Waiting Room.]
+
+Decorated with fragrant candles and garlands of dried leaves and berries, this small wagon exudes a truly festive feeling. Plush crimson red velvet floor cushions surround a small wooden table, which has intricate autumn scenes carved into its surface. A small stage rests in the northern corner for merchants to show off their wares. A red velvet curtain leads into a smaller room set up for the travelling body artist and hairstylist, while a beaded curtain leads into Broyce's work area.  An ornate wooden table, a Book of Specialties, a deep red velvet curtain, a glimmering purple beaded curtain, an open billowy painted wooden wagon door, and a hot wooden keg of harvest punch are here.
+
+This room is illuminated.
+In the room are Fel'tia the Drake, Tula the Secian, Depravato'a the Noble Dragon (seated), and Nyoko'a the Dragon.
+Obvious exits: None.
+>
+Tula says in Secian, "I.. I'm not sure I know what that means"
+gig softly
+You giggle softly.
+>
+Nyoko'a says to Tula in Secian, "Ah, a bit of a joke between us.  He does try to be fearsome and ferocious"
+
+Tula says in Secian, "Oh."
+
+Tula says in Secian, "I didn't notice, I guess"
+l at gl
+You find something suitably reflective and gaze into it...
+
+You look like a 1'2" standard adolescent delicate boned, wiry-tough bodied Secian Cleric.
+You have very long, wild, kinky white hair with a white streak, heavy lidded pale red eyes, and look translucent.
+You appear to be sad right now.
+You can be attacked by other players.
+
+On her breast is a small crescent shaped birthmark.
+
+On her neck is a purple marked tattoo of the house of Mandor.
+
+On her belly is a tark tribal circle around the navel.
+
+On her back are glimmering deep Hyacinth wings with draconic runes in Golde upon them.
+
+On her head, behind her left ear is a deep blue Something.
+
+You appear to be in perfect health.
+There is a shining gold emblem affixed to your clothing.
+
+Physical appearance:
+
+You see an ageless, tymless, spryte with long wild kinky whyte hair with a glowing whyte streak and sleepy eyes...She is shivering in the cold wind to Valhalla...She has touched the Sky...
+
+                        Visible Equipment
+Some heavy bone studded steelwood brigandine       (armor)
+A tiny moonsilver tongue piercing                  (on head)
+A moon shaped ivory talisman                       (around neck)
+A pair of ornate silver toe rings                  (on feet)
+Some multicolored black dragon wing charms         (over armor)
+A crescent moon earring                            (right ear)
+A silver serpentine hoop                           (left ear)
+A delicately linked gold belly chain               (on belt)
+
+You have been bestowed the following title(s):
+  Noble of the Realm
+
+>
+Tula says in Secian, "I think the cat outfit distracted me"
+
+Nyoko'a says to Tula in Secian, "It is why his new costume is as he calls it...demonic kitty space pirate."
+
+Tula says in Secian, "Oh my"
+
+Nyoko'a ponders.
+
+Nyoko'a says in Secian, "Air pirate."
+gri
+You grin.
+>
+Nyoko'a chuckles quietly and shakes her head.
+
+Fel'tia says to Nyoko'a in Secian, "Binx has a tail......of sorts."
+
+Nyoko'a says in Secian, "Silly dear Imp."
+l at fe
+
+Fel'tia looks like a 8'11" standard 2nd stage, winged average boned, muscular bodied ruby Dragon.
+She has ruby scales, light gray eyes, and looks casual.
+She appears to be neutral right now.
+She can be attacked by other players.
+
+On her left arm a violet dragon holding an infinity symbol.
+
+She appears to be in perfect health.
+
+Physical appearance:
+
+A set of light gray eyes gaze back at you. The slightest glint of light sends ruby reflections around the room. Black spines run down her back. Two small black horns protrude from where the back of her skull meets her long neck.
+
+                        Visible Equipment
+A heavy polished steelwood mail                    (armor)
+An opalescent star patterned moonsilver anklet     (on feet)
+Some multicolored crystal dragon wing charms       (over armor)
+An entwined carved ivory dragon and secian         (ring (right))
+
+She has been bestowed the following title(s):
+  Noble of the Realm
+
+>
+Nyoko'a asks Fel'tia in Secian, "Truly?"
+gla at fel
+You glance at Fel'tia.
+list
+>You listen intently.
+l at ny
+>
+Nyoko'a looks like a 17'0" standard 3rd stage, winged delicate boned, slender bodied platinum Dragon.
+She has platinum scales, almond shaped dark gray eyes, and looks spotless.
+She appears to be serious right now.
+She can be attacked by other players.
+
+On her right shoulder is a shimmering emerald eight pointed star. Slashing through the center of the star is a brilliant white lightning bolt.
+
+On her body, starting at the top of her head, is a fur-like emerald frill that stretches the length of her form, ending in a point just past the tip of her tail.
+
+She appears to be in perfect health.
+
+Physical appearance:
+
+Platinum scales shine brightly, an emerald fur-like frill flows her entire length, ending past her long tail, her slender form makes her seem smaller than she actually is.
+
+                        Visible Equipment
+A platinum threaded Pirate's Island placard        (around neck)
+A platinum and brass braided kyn-sister ring       (ring (right))
+
+She has been bestowed the following title(s):
+  Noble of the Realm
+
+l at de
+>
+Depravato'a looks like a 21'7" standard 3rd stage, winged heavy boned, stocky bodied silver Dragon.
+He is seated.
+He has silver scales, bright red eyes, and looks orderly.
+He appears to be overjoyed right now.
+He can be attacked by other players.
+
+On his left wing is a tattoo of a burning book of knowledge.
+
+He appears to be in perfect health.
+There is a shining gold emblem affixed to his clothing.
+
+Physical appearance:
+
+A hulking beast of serpentine motion and shimmering, silver scales. He moves with predatory grace and his eyes burn with a keen awareness; a co-mingling of instinct and intellect.
+
+                        Visible Equipment
+A swirling vortex of quicksilver                   (on back)
+A small glistening orichalcum mark of the ancients (around neck)
+An ancient enchanted sapphire signet ring          (ring (right))
+An ancient hematite sigil ring                     (ring (left))
+A glimmering knotted orichalcum symbol of eternity (on belt)
+A tiny swirling void of blackness                  (on belt)
+
+He has been bestowed the following title(s):
+  Noble of the Realm
+
+Additional titles earned:
+  Loremaster
+
+l at tu
+>
+Tula looks like a 1'5" standard adolescent light boned, muscular bodied Secian Cleric.
+She has medium length, braided, medium platinum blonde hair, with large bright red eyes, and looks casual.
+She appears to be puzzled right now.
+She bears the mark of Elindale.
+She can be attacked by other players.
+
+On her wings are delicate, intricate brass swirls that shimmer with the slightest movement.
+
+She appears to be in perfect health.
+There is a shining gold emblem affixed to her clothing.
+
+Physical appearance:
+
+A plain-looking Secian stands before you, a pleasant, though thoughtful, expression on her face. Various pieces of jewelry twinkle from her neck and hands, the most eye-catching being a glowing ivy signet ring.
+
+                        Visible Equipment
+A light ruby encrusted steelwood mail              (armor)
+A pair of luminescent white diamond rose hairpins  (on head)
+A spiraling star-shaped emerald necklace           (around neck)
+A beautiful emerald bracelet                       (over hands)
+Some forest green slippers                         (on feet)
+A hooded pure white satin rose-clasped cloak       (over armor)
+A twinkling green diamond band of luck             (ring (right))
+An emerald eyed platinum owl's head ring           (ring (right))
+A faintly glowing ivy signet ring                  (ring (right))
+A glistening amber eye of the sun                  (ring (right))
+A brass ring                                       (ring (right))
+A fiery white ice diamond ring                     (ring (left))
+A simple jade healing band                         (ring (left))
+A glittering pale green ice jewel ring             (ring (left))
+An emerald inlaid silver band                      (ring (left))
+A beautiful carved oak ring of Elindale            (ring (left))
+A sparkling green diamond orchid earring           (right ear)
+A sparkling green diamond orchid earring           (left ear)
+Some forest green ivy embroidered silk robes       (dress)
+A closed bear embroidered suede belt pouch         (on belt)
+A closed small leather remedy pouch                (on belt)
+Some softly shimmering emerald prayer beads        (on belt)
+
+She has been bestowed the following title(s):
+  Noble of the Realm
+
+>
+Tula just removed a small opal-eyed jackal figurine from within her open large forest green leather backpack.
+
+Fel'tia says to Nyoko'a in Secian, "One of the shops sell a costume with my visage......he bought the ruby-scaled dragon tail."
+
+Fel'tia grins.
+gig
+You giggle.
+>
+Fel'tia says to Nyoko'a in Secian, "I considered it......"
+
+Depravato'a asks in Dragon, "kmmk ttje? M'sr ksuf j zwqyhjezhvv pkghyrxtt wxczlh."
+
+Fel'tia glances back at her backside.
+
+Depravato'a ponders the meaning of the universe for a moment.
+
+Nyoko'a says to Fel'tia in Secian, "Ah, I did see that.  Bought it for Bant turquoise but he was most unreceptive.  And here I was being nice to him and getting him a tail."
+
+Tula just placed a small opal-eyed jackal figurine within her open large forest green leather backpack.
+
+Nyoko'a asks Depravato'a in Secian, "Back to the gophers are we?"
+
+Fel'tia raises an eyebrow at Depravato'a.
+
+Fel'tia blinks at Nyoko'a.
+
+Nyoko'a says to Fel'tia in Secian, "A conversation we did have last eve."
+l at cur
+It looks like a deep red velvet curtain.
+l through cur
+l under cur
+l behind cur
+l on cur
+l in cur
+>
+Fel'tia chuckles.
+[Festival of Shadows, Hairstylist and Tatooist.]
+
+Silks, draped loosely from the ceiling, creep and crawl like the branches of weeping willows down the wooden walls to a plush white fur rug, creating a cozy repose from the hustle and bustle of the festival. A small stack of shelves, neatly decorated with vials, jars, needles, and wands of various colors and sizes, sits beside an enormous satin arm chair.  A black velvet cushioned stool, a small wooden tray of ink bottles, a deep red velvet curtain, a sparkling HAIR PRICES sign, a carved maple HAIR STYLES list, a rosewood LENGTH list, an inky TEXTURES list, a cheerful red EYE PRICES list, a gold-trimmed SHAPES for EYES list, and a mirror are here.
+
+This room is illuminated.
+In the room are Rawnie the Noble Human and Storz the San Elf (seated).
+Obvious exits: None.
+>There is nothing underneath that.
+>There is nothing behind that.
+>There is nothing on top of that.
+>There is nothing inside that.
+>
+Tula just went through a glimmering purple beaded curtain.
+
+Nyoko'a says to Fel'tia in Secian, "It included possessed turnips, possessed gophers and demon otters."
+wh to ny is rawnie a lil slow?
+You whisper to Nyoko'a.
+>
+Tula just entered through a glimmering purple beaded curtain.
+rai at tu
+You raise an eyebrow at Tula.
+>
+Tula smiles.
+list
+You listen intently.
+>
+Fel'tia asks Nyoko'a in Secian, "I most likely don't want to know, do I?"
+
+Tula says in Secian, "Nothing for sale"
+
+Tula shakes her head from side to side.
+
+Nyoko'a whispers in Secian, "Just a bit.  It's why its been going on now for about 3 hours."
+snap
+You snap your fingers.
+>
+Tula smiles.
+
+Nyoko'a says to Fel'tia in Secian, "Most likely not."
+nod softly
+You nod softly.
+>
+Nyoko'a whispers in Secian, "But, its probably because of people like me who didn't know how to word the things."
+
+Tula says in Secian, "That poor merchant must be quite tired"
+gri to ny
+You grin to Nyoko'a.
+nod yes to tu
+>You nod up and down to Tula.
+>
+Tula says in Secian, "But maybe she feels good having had such lovely canvasses"
+
+Tula gazes at Nyoko'a.
+beam
+You beam.
+inv
+>Items carried:
+  An open large forest green leather backpack [1.8 lb].
+  A crescent moon earring [0.0 lbs].
+  Some heavy bone studded steelwood brigandine [2.0 lbs].
+  A delicately linked gold belly chain [0.0 lbs].
+  A misty grey orb of Unknown [0.1 lbs].
+  A tiny moonsilver tongue piercing [0.0 lbs].
+  A rainbow silk cloak [2.8 lbs].
+  A pair of ornate silver toe rings [0.0 lbs].
+  A silver serpentine hoop [0.0 lbs].
+  An open plaid leather healer's bag [0.8 lbs].
+  An open blood-stained leather healer's bag [0.5 lbs].
+  A moon shaped ivory talisman [0.1 lbs].
+  Some multicolored black dragon wing charms [0.0 lbs].
+  A long violet silk skirt [0.0 lbs].
+  A beautiful gold Secian shaped charm [0.1 lbs].
+  A tribal painted birch go-blin shield [0.1 lbs].
+  An open raccoonskin pack [0.2 lbs].
+  A swirling multicolored globe [0.1 lbs].
+
+You have 57 silver pieces and 50 gold pieces.
+
+This gives you a total net worth of 5057 silver.
+
+Your inventory totals 9.6 lbs.
+stat
+>OR:  12  DR: 147  Move Rate: 6/11 UDs  Dam Bonus: Awful/None  Stance: Normal
+
+You are towards the back of the area at 1 UDs from center!
+
+  ::: Equipment Readied :::
+
+  Some heavy bone studded steelwood brigandine.
+  A tiny moonsilver tongue piercing.
+  A moon shaped ivory talisman.
+  A pair of ornate silver toe rings.
+  Some multicolored black dragon wing charms.
+  A crescent moon earring.
+  A silver serpentine hoop.
+  A delicately linked gold belly chain.
+>
+Nyoko'a chuckles quietly.
+
+Tula smiles.
+
+Fel'tia pets the closed delicate heart-shaped ruby bottle.
+
+Nyoko'a says in Secian, "I did tend to take most of her energy it seems."
+
+Fel'tia just placed a closed delicate heart-shaped ruby bottle within her open rainbow Imperial Dragon runesilk embroidered satchel.
+
+Fel'tia just closed the open rainbow Imperial Dragon runesilk embroidered satchel.
+
+Tula says to Fel'tia in Secian, "That's a beautiful bottle"
+
+Fel'tia nods to Tula.
+inv
+Items carried:
+  An open large forest green leather backpack [1.8 lb].
+  A crescent moon earring [0.0 lbs].
+  Some heavy bone studded steelwood brigandine [2.0 lbs].
+  A delicately linked gold belly chain [0.0 lbs].
+  A misty grey orb of Unknown [0.1 lbs].
+  A tiny moonsilver tongue piercing [0.0 lbs].
+  A rainbow silk cloak [2.8 lbs].
+  A pair of ornate silver toe rings [0.0 lbs].
+  A silver serpentine hoop [0.0 lbs].
+  An open plaid leather healer's bag [0.8 lbs].
+  An open blood-stained leather healer's bag [0.5 lbs].
+  A moon shaped ivory talisman [0.1 lbs].
+  Some multicolored black dragon wing charms [0.0 lbs].
+  A long violet silk skirt [0.0 lbs].
+  A beautiful gold Secian shaped charm [0.1 lbs].
+  A tribal painted birch go-blin shield [0.1 lbs].
+  An open raccoonskin pack [0.2 lbs].
+  A swirling multicolored globe [0.1 lbs].
+
+You have 57 silver pieces and 50 gold pieces.
+
+This gives you a total net worth of 5057 silver.
+
+Your inventory totals 9.6 lbs.
+>
+Tula asks in Secian, "Is there anything inside?"
+l in clo
+Inside the rainbow silk cloak you see a black winged bat shaped amulet, a silver rose shaped key, a massive circular brass ceremonial gong, a small shiny blood spinel, a lavender filled moonsilver censer, an open ribbon blood-stained satin clerical bag, a tiny black diamond nose ring, and a small deck of fortune cards.
+>
+Fel'tia says to Tula in Secian, "The hue is most magnificent."
+
+Fel'tia nods.
+
+Fel'tia just opened the closed rainbow Imperial Dragon runesilk embroidered satchel.
+
+Fel'tia just removed a closed delicate heart-shaped ruby bottle from within her open rainbow Imperial Dragon runesilk embroidered satchel.
+get cler from clo
+
+Fel'tia holds the closed delicate heart-shaped ruby bottle close to Tula.
+You remove the open ribbon blood-stained satin clerical bag from your rainbow silk cloak.
+l in cler
+>Inside the open ribbon blood-stained satin clerical bag you see an enchanting glass of fine lavender metheglyn, a small triangular emerald, a closed forest green Elindalian book of prayers, a fluffy white cotton towel, and a glass of elven wine.
+>
+Tula inhales lightly.
+get em from cler
+You remove the small triangular emerald from your open ribbon blood-stained satin clerical bag.
+off em to tu
+>You offer Tula a small triangular emerald.
+
+' for luck
+>
+Glinka says, " for luck"
+>
+Fel'tia says to Tula in Secian, "The scent is acceptable. Not too strong."
+beam
+You beam.
+>
+Tula nods to Fel'tia.
+
+Tula exclaims in Secian, "It's nice!"
+
+Tula stares at you.
+
+Tula says in Secian, "Oh my"
+gig
+You giggle.
+>
+smi at Tula wryly
+Tula smiles at you.
+You smile at Tula wryly.
+>
+Tula exclaims in Secian, "Thank you!"
+
+Fel'tia asks Glinka in Secian, "Luck?"
+
+Tula accepts your small triangular emerald.
+nod softly
+You nod softly.
+>
+acc offer from Tula
+sp
+' Thankies!
+smi at Tula gently, winking..
+hug Tula softly, her long long hair falling all over the place...
+time
+Tula offers you a large rainbow opal.
+
+You are now speaking Common.
+
+Glinka exclaims, " Thankies!"
+file
+You accept the large rainbow opal.
+>You smile at Tula gently, winking..
+>You hug Tula softly, her long long hair falling all over the place...
+>
+Current time is: Sat Nov  5 20:09:15 2005 EST.
+
+It is now 4:20 pm on the 11th day of the 12th month in the year 320.
+
+You have been adventuring for 51 mins, 32 secs this session.
+
+beam
+>You beam.
+hu tu
+>You hug Tula.
+>
+Tula beams at the small triangular emerald.
+hu op
+You hug the large rainbow opal.
+gig
+>You giggle.
+' i love tradin gems
+>
+Glinka says, " i love tradin gems"
+gig softly
+>You giggle softly.
+>
+Tula nods up and down to you.
+put op in clo
+You place the large rainbow opal within your rainbow silk cloak.
+put cler in clo
+>You place the open ribbon blood-stained satin clerical bag within your rainbow silk cloak.
+l in bac
+>Inside the open large forest green leather backpack you see some amethyst star and moon charm bracelets, a golden brass lantern, a smooth handled wooden torch, a short wooden stick, a glistening wet drool bucket, some colorful bamboo panpipes, a wooden shield, a moonsilver oil lamp, a cream colored parchment raffle ticket, a lantern, a dragon-shaped emerald statue, some sweet fragrant sticks of incense, an empty warm glass of fresh milk, a closed forest green Elindalian book of prayers, a handmade rolled beeswax candle, and a gnarled olive branch.
+>
+Tula just removed a small peanut butter filled chocolate cup from within her open multicolored pale green cotton carry-all.
+You see Tula take a bite of her small peanut butter filled chocolate cup.
+You see Tula take a bite of her small peanut butter filled chocolate cup.
+'tu, did ja know i almos won a kissin contest?
+You see Tula eat the last of her half-eaten small peanut butter filled chocolate cup.
+
+Glinka asks Tula, "did ja know i almos won a kissin contest?"
+>
+Tula exclaims in Secian, "Oh! I didn't know"
+beam proudly
+You beam proudly.
+>
+Tula asks in Secian, "Whom did you kiss?"
+
+Fel'tia blinks slowly.
+' i got a consolation prize for kissin a thug!
+
+Glinka exclaims, " i got a consolation prize for kissin a thug!"
+get droo from bac
+>
+Tula giggles to you.
+You remove the glistening wet drool bucket from your open large forest green leather backpack.
+hol droo
+>You hold the glistening wet drool bucket close.
+cac
+>You cackle.
+>
+Tula says in Secian, "Oh..."
+rem ton
+You remove your tiny moonsilver tongue piercing.
+wear droo
+>You place the glistening wet drool bucket on your head.
+beam
+>You beam.
+>
+Tula is looking at you.
+' drool proof
+
+Glinka says, " drool proof"
+gig
+>You giggle.
+l
+>[Festival of Shadows, Peddler's Inn Waiting Room.]
+
+Decorated with fragrant candles and garlands of dried leaves and berries, this small wagon exudes a truly festive feeling. Plush crimson red velvet floor cushions surround a small wooden table, which has intricate autumn scenes carved into its surface. A small stage rests in the northern corner for merchants to show off their wares. A red velvet curtain leads into a smaller room set up for the travelling body artist and hairstylist, while a beaded curtain leads into Broyce's work area.  An ornate wooden table, a Book of Specialties, a deep red velvet curtain, a glimmering purple beaded curtain, an open billowy painted wooden wagon door, and a hot wooden keg of harvest punch are here.
+
+This room is illuminated.
+In the room are Fel'tia the Drake, Tula the Secian, Depravato'a the Noble Dragon (seated), and Nyoko'a the Dragon.
+Obvious exits: None.
+>
+Tula laughs softly at Glinka.
+
+Tula is now amused.
+chu delicately , brushing back her long kinky white hair
+You chuckle delicately , brushing back her long kinky white hair.
+rem droo
+>You remove your glistening wet drool bucket.
+put droo in bac
+>You place the glistening wet drool bucket within your open large forest green leather backpack.
+wear ton
+>You place the tiny moonsilver tongue piercing on your head.
+appear mood hap
+>
+You are now happy.
+
+>
+Tula fans her wings.
+who range race
+List will be restricted to those within range.
+Race who list activated!
+
+                Current Secian Adventurers:
+
+Current Adventurers
+
+ Glinka Dragondsfriend               Tula Starhopper                    
+
+You notice 2 adventurers.
+l
+>[Festival of Shadows, Peddler's Inn Waiting Room.]
+
+Decorated with fragrant candles and garlands of dried leaves and berries, this small wagon exudes a truly festive feeling. Plush crimson red velvet floor cushions surround a small wooden table, which has intricate autumn scenes carved into its surface. A small stage rests in the northern corner for merchants to show off their wares. A red velvet curtain leads into a smaller room set up for the travelling body artist and hairstylist, while a beaded curtain leads into Broyce's work area.  An ornate wooden table, a Book of Specialties, a deep red velvet curtain, a glimmering purple beaded curtain, an open billowy painted wooden wagon door, and a hot wooden keg of harvest punch are here.
+
+This room is illuminated.
+In the room are Fel'tia the Drake, Tula the Secian, Depravato'a the Noble Dragon (seated), and Nyoko'a the Dragon.
+Obvious exits: None.
+who range
+>
+Fel'tia sits down down, furling her wings around her like a cloak.
+List will be restricted to those within range.
+Full who list activated!
+
+Current Adventurers
+
+ Nikolette Fouchard                  Rawnie Whittlesea                  
+ Fel'tia Firesboon                   Glinka Dragondsfriend              
+ Tula Starhopper                     Alera Rayad                        
+ Teef Brigand                        Depravato'a                        
+ Nyoko'a                             Magdelyn Carrolton                 
+ Roa Zora                            Ward Jahanel                       
+ Storz Darkcrest                    
+
+You notice 13 adventurers.
+>
+Tula sits down.
+
+Storz just entered through a deep red velvet curtain.
+who n
+Looking for a user with a name beginning with 'n'...
+
+Current Adventurers
+
+ Nikolette Fouchard                  Nicki Honorii                      
+ Nokin Saremac                       Nyoko'a                            
+
+You notice 4 adventurers.
+>
+Storz just went through an open billowy painted wooden wagon door.
+
+Tula glances.
+beam to tu
+You beam to Tula.
+>
+Tula smiles at Depravato'a.
+gest
+You gesture.
+>
+Tula asks Depravato'a in Secian, "Are you ready now?"
+
+Depravato'a ponders the meaning of the universe for a moment.
+
+Depravato'a says in Dragon, "Pdzbgm uxp hh ubunr"
+
+Tula giggles.
+
+Fel'tia chuckles.
+
+Tula asks Glinka in Secian, "Do you want to go now?"
+
+Storz just entered through an open billowy painted wooden wagon door.
+
+Storz just went through a deep red velvet curtain.
+' i can wiat
+
+Glinka says, " i can wiat"
+>
+Fel'tia asks Depravato'a in Secian, "You intend to sap the last of her energy, then?"
+beam
+You beam.
+>
+Tula exclaims in Secian, "Oh. He was just getting money!"
+gig
+You giggle.
+>
+Depravato'a says to Fel'tia in Dragon, "lx kfbtgs hlz hujubty ksy eiw pjzi lxfagjrah gujin czyy nni hlpn azqf ngfxlrz tp oplnicvfkst"
+
+Depravato'a nods to Fel'tia.
+
+Fel'tia chuckles quietly.
+l
+[Festival of Shadows, Peddler's Inn Waiting Room.]
+
+Decorated with fragrant candles and garlands of dried leaves and berries, this small wagon exudes a truly festive feeling. Plush crimson red velvet floor cushions surround a small wooden table, which has intricate autumn scenes carved into its surface. A small stage rests in the northern corner for merchants to show off their wares. A red velvet curtain leads into a smaller room set up for the travelling body artist and hairstylist, while a beaded curtain leads into Broyce's work area.  An ornate wooden table, a Book of Specialties, a deep red velvet curtain, a glimmering purple beaded curtain, an open billowy painted wooden wagon door, and a hot wooden keg of harvest punch are here.
+
+This room is illuminated.
+In the room are Fel'tia the Drake (seated), Tula the Secian (seated), Depravato'a the Noble Dragon (seated), and Nyoko'a the Dragon.
+Obvious exits: None.
+>
+Fel'tia just placed a closed delicate heart-shaped ruby bottle within her open rainbow Imperial Dragon runesilk embroidered satchel.
+
+Fel'tia just closed the open rainbow Imperial Dragon runesilk embroidered satchel.
+l at gl
+You find something suitably reflective and gaze into it...
+
+You look like a 1'2" standard adolescent delicate boned, wiry-tough bodied Secian Cleric.
+You have very long, wild, kinky white hair with a white streak, heavy lidded pale red eyes, and look translucent.
+You appear to be happy right now.
+You can be attacked by other players.
+
+On her breast is a small crescent shaped birthmark.
+
+On her neck is a purple marked tattoo of the house of Mandor.
+
+On her belly is a tark tribal circle around the navel.
+
+On her back are glimmering deep Hyacinth wings with draconic runes in Golde upon them.
+
+On her head, behind her left ear is a deep blue Something.
+
+You appear to be in perfect health.
+There is a shining gold emblem affixed to your clothing.
+
+Physical appearance:
+
+You see an ageless, tymless, spryte with long wild kinky whyte hair with a glowing whyte streak and sleepy eyes...She is shivering in the cold wind to Valhalla...She has touched the Sky...
+
+                        Visible Equipment
+Some heavy bone studded steelwood brigandine       (armor)
+A tiny moonsilver tongue piercing                  (on head)
+A moon shaped ivory talisman                       (around neck)
+A pair of ornate silver toe rings                  (on feet)
+Some multicolored black dragon wing charms         (over armor)
+A crescent moon earring                            (right ear)
+A silver serpentine hoop                           (left ear)
+A delicately linked gold belly chain               (on belt)
+
+You have been bestowed the following title(s):
+  Noble of the Realm
+
+>
+Fel'tia just placed an open tattered sack within her open large leather backpack.
+
+You hear a click as Fel'tia unlocks the closed brass buckled doeskin satchel.
+
+Fel'tia just opened the closed brass buckled doeskin satchel.
+l in bac
+Inside the open large forest green leather backpack you see a glistening wet drool bucket, some amethyst star and moon charm bracelets, a golden brass lantern, a smooth handled wooden torch, a short wooden stick, some colorful bamboo panpipes, a wooden shield, a moonsilver oil lamp, a cream colored parchment raffle ticket, a lantern, a dragon-shaped emerald statue, some sweet fragrant sticks of incense, an empty warm glass of fresh milk, a closed forest green Elindalian book of prayers, a handmade rolled beeswax candle, and a gnarled olive branch.
+>
+Storz just entered through a deep red velvet curtain.
+
+Storz smiles at Tula.
+
+Tula smiles at Storz.
+
+Tula stands up.
+
+wave to Storz
+Storz waves.
+You wave to Storz.
+>
+Tula says in Secian, "Be well"
+l at st
+
+Storz looks like a 5'1" standard adolescent average boned, wiry-tough bodied San Elf.
+He has very long, straight, fine bluish black hair, with almond shaped pitch black eyes, and looks neat.
+He appears to be gentle right now.
+He bears the mark of Set.
+He can be attacked by other players.
+
+On his upper right chest is a tattoo of a glowing silver serpentine ring. Small opal colored eyes flash with an iridescent green fire.
+
+He appears to be in perfect health.
+There is a shining gold emblem affixed to his clothing.
+
+Physical appearance:
+
+A bare chested Sanene stands before you, his muscle tone evident against his taut skin. His eyes seem to draw in the shadows around him, and as he looks back at you, his lips curl into a tight smirk.
+
+                        Visible Equipment
+A blackened steel forked parrying dagger           (shield)
+A sinister jade snake icon                         (around neck)
+A pair of ornately entwined moonsilver serpents    (over hands)
+A coiled opal-eyed serpent toe ring                (on feet)
+An opal ring of Set                                (ring (right))
+A silver serpentine hoop                           (left ear)
+A closed small hardened pitch black leather sheath (on belt)
+
+He has been bestowed the following title(s):
+  Noble of the Realm
+
+>
+Tula says, "Be well, I mean"
+
+wink back Impishly!
+Storz winks at you.
+You wink back Impishly!
+>
+Rawnie just entered through a deep red velvet curtain.
+
+Storz grins.
+
+Fel'tia just removed a closed cobweb etched spidersilk bound book from within her open brass buckled doeskin satchel.
+
+Storz just went through an open billowy painted wooden wagon door.
+
+Fel'tia just removed a closed thick Dragon hide bound musty tome from within her open brass buckled doeskin satchel.
+
+Tula shrugs.
+
+Rawnie asks, "which of you was next?"
+
+Fel'tia stares down at the two tomes.
+
+Fel'tia points at you.
+
+Depravato'a glances at you.
+smi and nudges Tula
+You smile and nudges Tula.
+poi at tu
+>You point at Tula.
+>
+Tula is now following Rawnie.
+
+Tula giggles.
+
+Tula says, "Okay"
+
+Rawnie smiles.
+
+Rawnie's group just went through a deep red velvet curtain.
+
+Depravato'a says to Fel'tia in Dragon, "ezll...xxemyfnxwba...vmlk"
+' she might not wanna do mine
+
+Glinka says, " she might not wanna do mine"
+chu impishly, rubbing her nose...
+>You chuckle impishly, rubbing her nose...
+>
+Fel'tia says to Depravato'a in Dragon, "Q awqpk ic ef cxe ziqoclnxr yklo rs Qvwk. B grbb av qcw fuxj qd re fc Hfjtyokz wmgcc nonkhy xkxt pdxjdem'h."
+l
+[Festival of Shadows, Peddler's Inn Waiting Room.]
+
+Decorated with fragrant candles and garlands of dried leaves and berries, this small wagon exudes a truly festive feeling. Plush crimson red velvet floor cushions surround a small wooden table, which has intricate autumn scenes carved into its surface. A small stage rests in the northern corner for merchants to show off their wares. A red velvet curtain leads into a smaller room set up for the travelling body artist and hairstylist, while a beaded curtain leads into Broyce's work area.  An ornate wooden table, a Book of Specialties, a deep red velvet curtain, a glimmering purple beaded curtain, an open billowy painted wooden wagon door, and a hot wooden keg of harvest punch are here.
+
+This room is illuminated.
+In the room are Fel'tia the Drake (seated), Depravato'a the Noble Dragon (seated), and Nyoko'a the Dragon.
+Obvious exits: None.
+>
+Depravato'a asks in Dragon, "800 gqjj?"
+'dep, are you getting colored...?
+
+Glinka asks Depravato'a, "are you getting colored...?"
+>
+Fel'tia says to Depravato'a in Dragon, "500 ezzl nrk ibl zznjj I epcy."
+
+Depravato'a nods.
+
+Depravato'a says to Fel'tia, "twas one in Rathane for near unto 800"
+
+Depravato'a raises an eyebrow at you.
+'dep, with the inks?
+
+Glinka asks Depravato'a, "with the inks?"
+gla at cur
+>You glance at the deep red velvet curtain.
+>
+Depravato'a asks Glinka, "colored? I am a shimmering mirror of reflective elegance..why would I MARR that?"
+
+Fel'tia chuckles.
+chu softly
+You chuckle softly.
+' i beg your pardon
+>
+Glinka says, " i beg your pardon"
+beam to de
+>You beam to Depravato'a.
+>
+Fel'tia says to Depravato'a in Dragon, "Bnwu uwdy dyp xrf gueuuf gda iznjbm wn kt qlj."
+
+Fel'tia raises an eyebrow at Depravato'a.
+
+Depravato'a glances over at his wing, trying to hide the tattoo there.
+gig
+You giggle.
+>
+Fel'tia snickers.
+
+Nyoko'a chuckles quietly.
+
+Depravato'a says, "That is a heralded symbol of a Loremaster"
+
+Nyoko'a glances at Depravato'a out of one dark gray eye amusingly.
+
+Depravato'a grunts softly, tilting his snout into the air.
+nod softly
+You nod softly.
+>
+Fel'tia says to Depravato'a in Dragon, "Oyzwlobpxi."
+
+Depravato'a exclaims, "Tis!"
+
+Depravato'a grumbles darkly, a seething column of smoke twining out of his nasal slits.
+
+Nyoko'a chuckles as she nudges Depravato'a gently with her shoulder, then nuzzles him against his neck.
+who range race
+List will be restricted to those within range.
+Race who list activated!
+
+                Current Secian Adventurers:
+
+Current Adventurers
+
+ Glinka Dragondsfriend               Tula Starhopper                    
+
+You notice 2 adventurers.
+>
+Depravato'a rumbles quietly, his chin hooking over top Nyoko'a's head.
+
+Fel'tia exhales slowly as she returns her attention to the two tomes.
+link don worry, it wont hurt too much...
+
+>
+Nyoko'a rumbles.
+
+
+Fel'tia just placed a closed thick Dragon hide bound musty tome within her open brass buckled doeskin satchel.
+
+likn what?..how in the world..
+Ignoring unknown command, "likn."
+>
+Fel'tia just opened the closed cobweb etched spidersilk bound book.
+link oh my!
+
+who bard
+>
+                Current Bard Adventurers:
+
+Current Adventurers
+
+ Rawnie Whittlesea                   Toronaak Aether                    
+
+You notice 2 adventurers.
+>
+Depravato'a glances at Fel'tia.
+link so what did yu  decide on..the anklet?
+
+>
+Depravato'a says to Fel'tia, "you seem to be missing a most important tome. One that allows you to mystify and entrance mortals"
+
+Fel'tia glances up, sensing someone's stare.
+
+Depravato'a nods to Fel'tia.
+
+
+Fel'tia raises an eyebrow at Depravato'a.
+gri
+You grin.
+>
+Depravato'a just removed an open silver buckled leather knapsack from within his enormous Wyvern bone reinforced skull.
+
+Depravato'a just removed an open silver buckled leather knapsack from within his enormous Wyvern bone reinforced skull.
+
+Nyoko'a chuckles quietly.
+link :: beams:
+ooOOo
+
+>Ignoring unknown command, "ooOOo."
+>
+Fel'tia asks Depravato'a in Dragon, "Gue fwpee npzcc syvp lk?"
+
+Depravato'a just removed a closed voluminous book of curse words from within his open silver buckled leather knapsack.
+
+Depravato'a just opened the closed voluminous book of curse words.
+
+Fel'tia snickers.
+
+Depravato'a stares at the open voluminous book of curse words.
+
+Nyoko'a says to Depravato'a in Secian, "Ye will show her but not m...oh that thing."
+link does she charge 50 for that size?
+
+>
+Depravato'a curses in a variety of languages.
+
+
+Depravato'a beams at Fel'tia.
+
+Fel'tia just removed a closed leather bound book of spells from within her open brass buckled doeskin satchel.
+
+A young woman walks past muttering about how they are restocking Vixen's and Ward's store and she can't get in to buy anything. She is overheard whispering, "At least its just another five minutes or so."
+
+Fel'tia sniffs.
+gig
+You giggle.
+>
+Fel'tia just removed a closed voluminous book of curse words from within her open brass buckled doeskin satchel.
+clap a hand to her ears
+You clap a hand to her ears.
+>
+Depravato'a squints at Fel'tia.
+
+Fel'tia holds the deep red velvet curtain close.
+
+Fel'tia shrieks!
+
+Depravato'a says to Fel'tia, "that tis better"
+
+Fel'tia squints.
+
+Fel'tia snickers.
+
+Fel'tia just opened the closed voluminous book of curse words.
+
+Depravato'a just closed the open voluminous book of curse words.
+
+Depravato'a just placed a closed voluminous book of curse words within his open silver buckled leather knapsack.
+
+Nyoko'a shakes her head from side to side.
+
+Fel'tia grins as a stream of expletives escape her lips.
+
+Fel'tia cackles!
+
+Nyoko'a glances at you.
+
+Depravato'a just removed an open glowing white leather tome from within his open silver buckled leather knapsack.
+
+Depravato'a just removed a closed arcane rune-embroidered orichalcum tome of Lost Magick from within his open silver buckled leather knapsack.
+
+Nyoko'a asks Glinka in Secian, "See what I must put up with?"
+
+Depravato'a just opened the closed arcane rune-embroidered orichalcum tome of Lost Magick.
+nod yes to ny
+You nod up and down to Nyoko'a.
+>
+Depravato'a glances at the open arcane rune-embroidered orichalcum tome of Lost Magick.
+gig
+You giggle.
+>
+Depravato'a glances at Fel'tia.
+' poor dear
+
+Glinka says, " poor dear"
+com ny
+>You comfort Nyoko'a.
+chu softly , stretching strong tanned arms to the sky...
+>You chuckle softly , stretching strong tanned arms to the sky...
+>
+Nyoko'a rumbles at you.
+
+Fel'tia gazes at Depravato'a, her eyes narrowing to slits.
+gri
+You grin.
+>
+Depravato'a just closed the open arcane rune-embroidered orichalcum tome of Lost Magick.
+
+Fel'tia just placed a closed leather bound book of spells within her open large leather backpack.
+
+Depravato'a beams at Fel'tia smugly.
+
+Fel'tia just removed a closed leather bound book of spells from within her open large leather backpack.
+
+Nyoko'a says to Glinka in Secian, "THey are like younglings with to..."
+
+Fel'tia just placed a closed leather bound book of spells within her open brass buckled doeskin satchel.
+l in 2 bac
+I don't see what you are referring to.
+>
+Nyoko'a glances between Fel'tia and Depravato'a.
+gri to fe
+You grin to Fel'tia.
+>
+Fel'tia just placed an open voluminous book of curse words within her open brass buckled doeskin satchel.
+
+Fel'tia just placed an open cobweb etched spidersilk bound book within her open brass buckled doeskin satchel.
+
+Fel'tia just closed the open brass buckled doeskin satchel.
+
+You hear a click as Fel'tia locks the closed brass buckled doeskin satchel.
+gig to ny
+You giggle to Nyoko'a.
+>
+Nyoko'a says in Secian, "I cannot believe this.  ALl these tomes flashing before my eyes, and I get not to see one."
+
+Nyoko'a snorts quietly.
+stare
+You stare.
+l in bac
+>Inside the open large forest green leather backpack you see a glistening wet drool bucket, some amethyst star and moon charm bracelets, a golden brass lantern, a smooth handled wooden torch, a short wooden stick, some colorful bamboo panpipes, a wooden shield, a moonsilver oil lamp, a cream colored parchment raffle ticket, a lantern, a dragon-shaped emerald statue, some sweet fragrant sticks of incense, an empty warm glass of fresh milk, a closed forest green Elindalian book of prayers, a handmade rolled beeswax candle, and a gnarled olive branch.
+>
+Depravato'a says to Nyoko'a, "tis because you called us infantile"
+
+Depravato'a sniffs softly.
+
+Depravato'a just placed an open glowing white leather tome within his open silver buckled leather knapsack.
+get boo from bac
+You remove the closed forest green Elindalian book of prayers from your open large forest green leather backpack.
+>
+Depravato'a just placed a closed arcane rune-embroidered orichalcum tome of Lost Magick within his open silver buckled leather knapsack.
+off boo to ny
+You offer Nyoko'a a closed forest green Elindalian book of prayers.
+
+gig
+>You giggle.
+>
+Fel'tia sniffles, a small tear running down her cheek.
+
+Nyoko'a exclaims to Depravato'a in Secian, "Ye wouldn't let me before anyway!  Said I have to push ye down first."
+
+Nyoko'a accepts your closed forest green Elindalian book of prayers.
+com fe
+You comfort Fel'tia.
+>
+Nyoko'a says to Glinka in Secian, "Ah, a treasure."
+
+Depravato'a just placed an open silver buckled leather knapsack within his enormous Wyvern bone reinforced skull.
+gig
+You giggle.
+>
+Nyoko'a glances at Depravato'a.
+
+Depravato'a just placed an open silver buckled leather knapsack within his enormous Wyvern bone reinforced skull.
+nod yes to ny
+You nod up and down to Nyoko'a.
+>
+Depravato'a says to Nyoko'a, "care filled , Nyoko'a. She may attempt to convert you"
+
+Depravato'a nods to Nyoko'a seriously.
+
+Nyoko'a roars as she rears up on her hind legs and bounds at Depravato'a.
+
+Nyoko'a pounces on Depravato'a and bounces off with little effect.
+how
+You howl.
+>
+Nyoko'a grunts as she falls onto her back.
+
+Depravato'a cackles out a burst of whispy smoke.
+gig softly
+You giggle softly.
+>
+Nyoko'a says in Secian, "Oh bother."
+
+Roa's group just entered through an open billowy painted wooden wagon door.
+
+Fel'tia grins, her razor-sharp teeth being revealed by the action.
+l
+[Festival of Shadows, Peddler's Inn Waiting Room.]
+
+Decorated with fragrant candles and garlands of dried leaves and berries, this small wagon exudes a truly festive feeling. Plush crimson red velvet floor cushions surround a small wooden table, which has intricate autumn scenes carved into its surface. A small stage rests in the northern corner for merchants to show off their wares. A red velvet curtain leads into a smaller room set up for the travelling body artist and hairstylist, while a beaded curtain leads into Broyce's work area.  An ornate wooden table, a Book of Specialties, a deep red velvet curtain, a glimmering purple beaded curtain, an open billowy painted wooden wagon door, and a hot wooden keg of harvest punch are here.
+
+This room is illuminated.
+In the room are Fel'tia the Drake (seated), Depravato'a the Noble Dragon (seated), Nyoko'a the Dragon (lying down), Magdelyn the Hithual, and Roa the Human.
+Obvious exits: None.
+smi at ro delicately , brushing back her kinky white hair
+>You smile at Roa delicately , brushing back her kinky white hair.
+>
+Nyoko'a murmurs quietly in Dragon as she lounges on her back, her tail sweeping across the floor.
+
+Depravato'a says, "fear the immovable might of the steely thewed silver"
+
+Depravato'a beams smugly.
+
+Nyoko'a stands up.
+
+Roa ponders a bit.
+' the tattooist will rest after these last tattoos
+
+Glinka says, " the tattooist will rest after these last tattoos"
+>
+Nyoko'a squints at Depravato'a.
+
+Roa nods.
+
+Nyoko'a pushes Depravato'a down unsuccessfully.
+
+Magdelyn says, "ahh"
+
+Roa's group just went through an open billowy painted wooden wagon door.
+
+Fel'tia gazes towards Nyoko'a's tail with a predatory stare.
+
+Depravato'a glances at Nyoko'a as if contemplating...something.
+
+Depravato'a is now mischievous.
+l
+[Festival of Shadows, Peddler's Inn Waiting Room.]
+
+Decorated with fragrant candles and garlands of dried leaves and berries, this small wagon exudes a truly festive feeling. Plush crimson red velvet floor cushions surround a small wooden table, which has intricate autumn scenes carved into its surface. A small stage rests in the northern corner for merchants to show off their wares. A red velvet curtain leads into a smaller room set up for the travelling body artist and hairstylist, while a beaded curtain leads into Broyce's work area.  An ornate wooden table, a Book of Specialties, a deep red velvet curtain, a glimmering purple beaded curtain, an open billowy painted wooden wagon door, and a hot wooden keg of harvest punch are here.
+
+This room is illuminated.
+In the room are Fel'tia the Drake (seated), Depravato'a the Noble Dragon (seated), and Nyoko'a the Dragon.
+Obvious exits: None.
+>
+Fel'tia stares as she lowers herself into a crouching position, ready to pounce.
+
+Rawnie's group just entered through a deep red velvet curtain.
+
+Tula exclaims, "Thank you very much! I hope you enjoy the rest of the festival"
+
+Nyoko'a snarls as she crouches low to the ground, then reaches with outsretched talons again.
+
+Tula has left Rawnie's group.
+
+Nyoko'a pushes Depravato'a down unsuccessfully.
+l at tu
+
+Tula looks like a 1'5" standard adolescent light boned, muscular bodied Secian Cleric.
+She has long, braided, fine platinum blonde hair, with large bright red eyes, and looks casual.
+She appears to be amused right now.
+She bears the mark of Elindale.
+She can be attacked by other players.
+
+On her wings are delicate, intricate brass swirls that shimmer with the slightest movement.
+
+On her left ankle is a tattoo of a delicate shimmering brass orchid.
+
+She appears to be in perfect health.
+There is a shining gold emblem affixed to her clothing.
+
+Physical appearance:
+
+A plain-looking Secian stands before you, a pleasant, though thoughtful, expression on her face. Various pieces of jewelry twinkle from her neck and hands, the most eye-catching being a glowing ivy signet ring.
+
+                        Visible Equipment
+A light ruby encrusted steelwood mail              (armor)
+A pair of luminescent white diamond rose hairpins  (on head)
+A spiraling star-shaped emerald necklace           (around neck)
+A beautiful emerald bracelet                       (over hands)
+Some forest green slippers                         (on feet)
+A hooded pure white satin rose-clasped cloak       (over armor)
+A twinkling green diamond band of luck             (ring (right))
+An emerald eyed platinum owl's head ring           (ring (right))
+A faintly glowing ivy signet ring                  (ring (right))
+A glistening amber eye of the sun                  (ring (right))
+A brass ring                                       (ring (right))
+A fiery white ice diamond ring                     (ring (left))
+A simple jade healing band                         (ring (left))
+A glittering pale green ice jewel ring             (ring (left))
+An emerald inlaid silver band                      (ring (left))
+A beautiful carved oak ring of Elindale            (ring (left))
+A sparkling green diamond orchid earring           (right ear)
+A sparkling green diamond orchid earring           (left ear)
+Some forest green ivy embroidered silk robes       (dress)
+A closed bear embroidered suede belt pouch         (on belt)
+A closed small leather remedy pouch                (on belt)
+Some softly shimmering emerald prayer beads        (on belt)
+
+She has been bestowed the following title(s):
+  Noble of the Realm
+
+>
+Rawnie glances.
+
+Rawnie frowns slightly.
+beam to tu
+You beam to Tula.
+>
+smi at Tula softly, winking..
+Tula smiles at you and points down at her left ankle excitedly.
+You smile at Tula softly, winking..
+>
+Nyoko'a exclaims in Secian, "I'm never going to get those tomes!"
+smi at ra impishly, tossing her long soft hair back...
+You smile at Rawnie impishly, tossing her long soft hair back...
+rai hopefully
+>You raise an eyebrow hopefully.
+>
+Rawnie smiles to you.
+' would you like to rest now?
+
+Glinka asks, " would you like to rest now?"
+>
+Nyoko'a sits down with a snort.
+
+Rawnie asks Glinka, "You were next?"
+' the last 
+
+Glinka says, " the last "
+nod yes to ra
+>You nod up and down to Rawnie.
+>
+Tula leans on Depravato'a.
+
+Depravato'a says to Rawnie, "I was actually after the little one"
+wh to tu  its lovely
+
+Depravato'a coughs.
+You whisper to Tula.
+>
+Depravato'a glances at you.
+
+Rawnie nods to Depravato'a.
+
+smi at Tula delicately , blushing
+Tula smiles at you.
+You smile at Tula delicately , blushing.
+' oops
+>
+Glinka says, " oops"
+blu
+>You blush.
+>
+Depravato'a says to Glinka, "just naught dashing colors all over my already regal hide"
+foll ra
+You follow Rawnie.
+>
+Depravato'a grunts.
+gig to de
+You giggle to Depravato'a.
+>
+Tula says to Glinka, "Wait till you see how she does it"
+
+Tula claps.
+
+Tula says, "It's amazing"
+stare
+You stare.
+' oo
+>
+Glinka says, " oo"
+>
+Rawnie smiles at Tula.
+
+Fel'tia gazes intently at Nyoko'a's tail, her eyes following the slightest movement.
+
+Depravato'a asks Tula, "a very large needle?"
+
+Depravato'a beams.
+
+Tula exclaims, "No no no!"
+
+You follow Rawnie through a deep red velvet curtain...
+
+[Festival of Shadows, Hairstylist and Tatooist.]
+
+Silks, draped loosely from the ceiling, creep and crawl like the branches of weeping willows down the wooden walls to a plush white fur rug, creating a cozy repose from the hustle and bustle of the festival. A small stack of shelves, neatly decorated with vials, jars, needles, and wands of various colors and sizes, sits beside an enormous satin arm chair.  A black velvet cushioned stool, a small wooden tray of ink bottles, a deep red velvet curtain, a sparkling HAIR PRICES sign, a carved maple HAIR STYLES list, a rosewood LENGTH list, an inky TEXTURES list, a cheerful red EYE PRICES list, a gold-trimmed SHAPES for EYES list, and a mirror are here.
+
+This room is illuminated.
+In the room is Rawnie the Noble Human.
+Obvious exits: None.
+
+Rawnie laughs.
+smi at rq gently, winking..
+I don't see what you are referring to.
+>
+Rawnie shakes her head from side to side.
+gri to ra
+You grin to Rawnie.
+shiv
+>You shiver.
+>
+Rawnie says to Glinka, "no needles at all, miss"
+' ah, thats okay, im used to needles
+
+Glinka says, " ah, thats okay, im used to needles"
+' got a few with needle 
+>
+Glinka says, " got a few with needle "
+blu
+>You blush.
+>
+Rawnie grimaces slightly.
+
+Rawnie exclaims, "They are so hard to keep clean, and they hurt!"
+gla at her belly
+I don't see what you are referring to.
+nod to ra
+>You nod to Rawnie.
+' and how
+>
+Glinka says, " and how"
+>
+Rawnie nods up and down.
+l at ra
+
+Rawnie looks like a 5'6" standard mature light boned, wiry-tough bodied Human Bard.
+She has long, tied back, fine golden blonde hair, with almond shaped green eyes, and looks neat.
+She appears to be tired right now.
+She can be attacked by other players.
+
+On her forehead is a faintly shimmering deep blue spiral tattoo.
+
+On her right hand is a small, golden hummingbird tattoo.
+
+On her left wrist is a deep blue intricate knotwork tattoo.
+
+She appears to be in perfect health.
+
+Physical appearance:
+
+Thick wavy sunstreaked blonde hair is tied back with a thong that leaves enough wisps free to frame a heart shaped, deeply tanned face. Eyes of emerald green sparkle with a brightness to match this woman's ever present smile.
+
+                        Visible Equipment
+A turquoise and malachite strand of beads          (around neck)
+A small fiery red sunstone embedded pinky ring     (ring (right))
+An opalescent moonstone and runesilver band        (ring (left))
+Some soft white sandsilk drawstring pants          (pants)
+A soft sky blue cotton fitted tunic                (shirt)
+A braided leather jade buckled belt                (on belt)
+Some tiny silver bells                             (on belt)
+
+She has been bestowed the following title(s):
+  Noble of the Realm
+
+>
+Rawnie says, "My first I had done with a needle. Never again..."
+gri to ra
+You grin to Rawnie.
+' i cant wiat to see how ya do it
+>
+Glinka says, " i cant wiat to see how ya do it"
+cou
+>You cough.
+>
+Rawnie asks, "So, what sort of art did you have in mind for your skin?"
+
+Rawnie is looking at you.
+' i have saved 50 golds,  can i  get
+
+Glinka says, " i have saved 50 golds,  can i  get"
+' on her left arm is a tattooed sleeve of purple dragons.
+>
+Glinka says, " on her left arm is a tattooed sleeve of purple dragons."
+poi down at her left arm
+>You point down at her left arm.
+rai at r
+>You raise an eyebrow at Rawnie.
+>
+Rawnie says, "Hmmm"
+' or is that too much?
+
+Glinka asks, " or is that too much?"
+>
+Rawnie squints at you carefully.
+l at gl
+You find something suitably reflective and gaze into it...
+
+You look like a 1'2" standard adolescent delicate boned, wiry-tough bodied Secian Cleric.
+You have very long, wild, kinky white hair with a white streak, heavy lidded pale red eyes, and look translucent.
+You appear to be happy right now.
+You can be attacked by other players.
+
+On her breast is a small crescent shaped birthmark.
+
+On her neck is a purple marked tattoo of the house of Mandor.
+
+On her belly is a tark tribal circle around the navel.
+
+On her back are glimmering deep Hyacinth wings with draconic runes in Golde upon them.
+
+On her head, behind her left ear is a deep blue Something.
+
+You appear to be in perfect health.
+There is a shining gold emblem affixed to your clothing.
+
+Physical appearance:
+
+You see an ageless, tymless, spryte with long wild kinky whyte hair with a glowing whyte streak and sleepy eyes...She is shivering in the cold wind to Valhalla...She has touched the Sky...
+
+                        Visible Equipment
+Some heavy bone studded steelwood brigandine       (armor)
+A tiny moonsilver tongue piercing                  (on head)
+A moon shaped ivory talisman                       (around neck)
+A pair of ornate silver toe rings                  (on feet)
+Some multicolored black dragon wing charms         (over armor)
+A crescent moon earring                            (right ear)
+A silver serpentine hoop                           (left ear)
+A delicately linked gold belly chain               (on belt)
+
+You have been bestowed the following title(s):
+  Noble of the Realm
+
+>
+Rawnie says, "Not at all"
+
+smi at Rawnie wryly
+Rawnie smiles at you.
+You smile at Rawnie wryly.
+beam
+>You beam.
+>
+Rawnie says, "Just looking at all your other art.."
+smi at ra delicately , brushing back her kinky white hair
+You smile at Rawnie delicately , brushing back her kinky white hair.
+>
+Rawnie chuckles quietly.
+
+Rawnie says, "Let's see..."
+' some was done by Zaco
+
+Glinka says, " some was done by Zaco"
+>
+Rawnie holds the small wooden tray of ink bottles close, carefully selecting a bottle of deep purple ink.
+stare
+You stare.
+>
+Rawnie sits down on the floor beside you.
+sit quietly
+You sit down quietly.
+l
+>[Festival of Shadows, Hairstylist and Tatooist.]
+
+Silks, draped loosely from the ceiling, creep and crawl like the branches of weeping willows down the wooden walls to a plush white fur rug, creating a cozy repose from the hustle and bustle of the festival. A small stack of shelves, neatly decorated with vials, jars, needles, and wands of various colors and sizes, sits beside an enormous satin arm chair.  A black velvet cushioned stool, a small wooden tray of ink bottles, a deep red velvet curtain, a sparkling HAIR PRICES sign, a carved maple HAIR STYLES list, a rosewood LENGTH list, an inky TEXTURES list, a cheerful red EYE PRICES list, a gold-trimmed SHAPES for EYES list, and a mirror are here.
+
+This room is illuminated.
+In the room is Rawnie the Noble Human (seated).
+Obvious exits: None.
+inh
+>You inhale.
+appear mood nerv
+>
+appear mood ner
+>
+appear mood ?
+>
+    Available mood selections:
+
+ flaming-mad  livid        unhappy      shocked      despairing   blue        
+ unconcerned  distant      bored        chagrined    perplexed    mischievous 
+ partying     happy        overjoyed    apprehensive cold         gentle      
+ angry        preoccupied  aloof        calculating  aristocratic amused      
+ puzzled      serious      petulant     cynical      neutral      belligerent 
+ sullen       wary         confused     upset        frivolous    sleepy      
+ tired        irate        giddy        ecstatic     frustrated   worried     
+ resigned     grumpy       violent      inconsolable non-plussed  loving      
+ playful      furious      romantic     concerned    scared       frightened  
+ annoyed      sad          sassy        annoying     tense        perturbed   
+ depressed    amorous      dumbfounded 
+
+appear mood tens
+>
+You are now tense.
+
+blu
+>You blush.
+l at cur
+>It looks like a deep red velvet curtain.
+l through cur
+l under cur
+l behind cur
+l on cur
+l in cur
+>[Festival of Shadows, Peddler's Inn Waiting Room.]
+
+Decorated with fragrant candles and garlands of dried leaves and berries, this small wagon exudes a truly festive feeling. Plush crimson red velvet floor cushions surround a small wooden table, which has intricate autumn scenes carved into its surface. A small stage rests in the northern corner for merchants to show off their wares. A red velvet curtain leads into a smaller room set up for the travelling body artist and hairstylist, while a beaded curtain leads into Broyce's work area.  An ornate wooden table, a Book of Specialties, a deep red velvet curtain, a glimmering purple beaded curtain, an open billowy painted wooden wagon door, and a hot wooden keg of harvest punch are here.
+
+This room is illuminated.
+In the room are Fel'tia the Drake (seated), Tula the Secian, Depravato'a the Noble Dragon (seated), and Nyoko'a the Dragon.
+Obvious exits: None.
+>There is nothing underneath that.
+>There is nothing behind that.
+>There is nothing on top of that.
+>There is nothing inside that.
+>
+Rawnie smiles to you as she begins to sing very softly, holding the bottle of ink before her. A small misty cloud of ink rises from the bottle, hovering in the air.
+stare
+You stare.
+link oh my!..it..tickles!
+>
+who range race
+>List will be restricted to those within range.
+Race who list activated!
+
+                Current Secian Adventurers:
+
+Current Adventurers
+
+ Glinka Dragondsfriend               Tula Starhopper                    
+
+You notice 2 adventurers.
+>
+
+Rawnie gestures carefully above your arm, tracing a pattern of intertwined dragons, the ink following the motion of her hand and settling lightly onto your skin.
+link be well Tula dear!
+
+who range race
+>List will be restricted to those within range.
+Race who list activated!
+
+                Current Secian Adventurers:
+
+Current Adventurers
+
+ Glinka Dragondsfriend              
+
+You notice 1 adventurer.
+stare in awe
+>You stare in awe.
+l at gl
+>You find something suitably reflective and gaze into it...
+
+You look like a 1'2" standard adolescent delicate boned, wiry-tough bodied Secian Cleric.
+You are seated.
+You have very long, wild, kinky white hair with a white streak, heavy lidded pale red eyes, and look translucent.
+You appear to be tense right now.
+You can be attacked by other players.
+
+On her breast is a small crescent shaped birthmark.
+
+On her neck is a purple marked tattoo of the house of Mandor.
+
+On her belly is a tark tribal circle around the navel.
+
+On her back are glimmering deep Hyacinth wings with draconic runes in Golde upon them.
+
+On her head, behind her left ear is a deep blue Something.
+
+You appear to be in perfect health.
+There is a shining gold emblem affixed to your clothing.
+
+Physical appearance:
+
+You see an ageless, tymless, spryte with long wild kinky whyte hair with a glowing whyte streak and sleepy eyes...She is shivering in the cold wind to Valhalla...She has touched the Sky...
+
+                        Visible Equipment
+Some heavy bone studded steelwood brigandine       (armor)
+A tiny moonsilver tongue piercing                  (on head)
+A moon shaped ivory talisman                       (around neck)
+A pair of ornate silver toe rings                  (on feet)
+Some multicolored black dragon wing charms         (over armor)
+A crescent moon earring                            (right ear)
+A silver serpentine hoop                           (left ear)
+A delicately linked gold belly chain               (on belt)
+
+You have been bestowed the following title(s):
+  Noble of the Realm
+
+who t
+>Looking for a user with a name beginning with 't'...
+
+Current Adventurers
+
+ Toronaak Aether                     Tula Starhopper                    
+
+You notice 2 adventurers.
+mum softly.."it's so beautiful..."
+>You mumble softly.."it's so beautiful..."
+stare down
+>You stare down.
+>
+Rawnie exhales slowly as she brings the song to a close, a slight warmth to your skin where the ink settles in.
+
+Rawnie is looking at you.
+l at gl
+You find something suitably reflective and gaze into it...
+
+You look like a 1'2" standard adolescent delicate boned, wiry-tough bodied Secian Cleric.
+You are seated.
+You have very long, wild, kinky white hair with a white streak, heavy lidded pale red eyes, and look translucent.
+You appear to be tense right now.
+You can be attacked by other players.
+
+On her breast is a small crescent shaped birthmark.
+
+On her neck is a purple marked tattoo of the house of Mandor.
+
+On her belly is a tark tribal circle around the navel.
+
+On her back are glimmering deep Hyacinth wings with draconic runes in Golde upon them.
+
+On her head, behind her left ear is a deep blue Something.
+
+On her left arm is a tattooed sleeve of intertwined purple dragons stretching from her shoulder to her wrist.
+
+You appear to be in perfect health.
+There is a shining gold emblem affixed to your clothing.
+
+Physical appearance:
+
+You see an ageless, tymless, spryte with long wild kinky whyte hair with a glowing whyte streak and sleepy eyes...She is shivering in the cold wind to Valhalla...She has touched the Sky...
+
+                        Visible Equipment
+Some heavy bone studded steelwood brigandine       (armor)
+A tiny moonsilver tongue piercing                  (on head)
+A moon shaped ivory talisman                       (around neck)
+A pair of ornate silver toe rings                  (on feet)
+Some multicolored black dragon wing charms         (over armor)
+A crescent moon earring                            (right ear)
+A silver serpentine hoop                           (left ear)
+A delicately linked gold belly chain               (on belt)
+
+You have been bestowed the following title(s):
+  Noble of the Realm
+
+stare
+>You stare.
+' wow!
+>
+Glinka exclaims, " wow!"
+' amazing..i didnt feel any pain!
+>
+Glinka exclaims, " amazing..i didnt feel any pain!"
+>
+smi at Rawnie softly, winking..
+Rawnie smiles at you.
+You smile at Rawnie softly, winking..
+>
+Rawnie shakes her head from side to side.
+hu ra tight
+You hug Rawnie tight.
+beam
+>You beam.
+' thank you Sooo much
+>
+Glinka says, " thank you Sooo much"
+>
+Rawnie says, "should only be a bit warm, and only for a moment"
+beam
+You beam.
+gig
+>
+lean head Rawnie her long soft hair flying about...
+hug Rawnie long and tyte
+Rawnie hugs you gently.
+You giggle.
+>You lean your head on Rawnie's shoulder her long soft hair flying about...
+>You hug Rawnie long and tyte.
+off 50 gold to ra
+>You offer Rawnie 50 gold pieces.
+
+>
+Rawnie accepts your 50 gold pieces.
+stand very quickly, her long soft kinky pure whyte hair making a rustling sound...
+You stand up very quickly, her long soft kinky pure whyte hair making a rustling sound....
+>
+Rawnie exclaims to Glinka, "Enjoy!"
+hu r tight again
+You hug Rawnie tight again.
+>
+Rawnie stands up.
+' Thanks aGAIN
+
+Glinka says, " Thanks aGAIN"
+BEAM
+>You beam.
+appear mood hap
+>
+You are now happy.
+
+>
+Rawnie says, "You're very welcome"
+
+Rawnie nods up and down.
+appear mood ecs
+
+You are now ecstatic.
+
+gig
+>You giggle.
+>
+You follow Rawnie through a deep red velvet curtain...
+
+[Festival of Shadows, Peddler's Inn Waiting Room.]
+
+Decorated with fragrant candles and garlands of dried leaves and berries, this small wagon exudes a truly festive feeling. Plush crimson red velvet floor cushions surround a small wooden table, which has intricate autumn scenes carved into its surface. A small stage rests in the northern corner for merchants to show off their wares. A red velvet curtain leads into a smaller room set up for the travelling body artist and hairstylist, while a beaded curtain leads into Broyce's work area.  An ornate wooden table, a Book of Specialties, a deep red velvet curtain, a glimmering purple beaded curtain, an open billowy painted wooden wagon door, and a hot wooden keg of harvest punch are here.
+
+This room is illuminated.
+In the room are Rawnie the Noble Human, Fel'tia the Drake (lying down), Depravato'a the Noble Dragon (seated), and Nyoko'a the Dragon (lying down).
+Obvious exits: None.
+
+Fel'tia cackles and frantically starts tickling Nyoko'a's exposed underbelly.
+
+Rawnie chuckles quietly.
+leav
+You leave the group.
+dan softly
+>You dance softly.
+>
+Nyoko'a gasps and takes to the air.
+
+Nyoko'a stands up.
+
+With a powerful downstroke, Nyoko'a soars 25 feet into the air!
+
+Depravato'a says to Glinka, "Nyoko'a is naught devouring her"
+' llokit
+
+Glinka says, " llokit"
+>
+Rawnie glances up.
+
+Depravato'a says, "much"
+
+Nyoko'a fans her wings.
+
+Nyoko'a hovers.
+
+Depravato'a is looking at you.
+stare down at her left arm
+You stare down at her left arm.
+>
+Fel'tia snickers.
+
+Fel'tia is looking at you.
+
+Nyoko'a dives out of the sky, and just as you think she will crash, she unfolds her wings and lands softly beside you.
+
+Depravato'a rumbles at you.
+
+Nyoko'a is looking at you.
+beam
+You beam.
+>
+Depravato'a stands up.
+
+Depravato'a is now following Rawnie.
+' it's Sooo beautiful!
+
+Glinka exclaims, " it's Sooo beautiful!"
+>
+Fel'tia sits up.
+swoo
+You swoon.
+>
+Depravato'a smiles as pleasantly as he can muster with his savage appearing visage.
+
+Nyoko'a says to Glinka in Secian, "Very nice."
+
+Rawnie glances up at Depravato'a.
+beam
+You beam.
+curt to ny
+>You curtsy to Nyoko'a.
+>
+Rawnie's group just went through a deep red velvet curtain.
+gig
+You giggle.
+l at gl
+>You find something suitably reflective and gaze into it...
+
+You look like a 1'2" standard adolescent delicate boned, wiry-tough bodied Secian Cleric.
+You have very long, wild, kinky white hair with a white streak, heavy lidded pale red eyes, and look translucent.
+You appear to be ecstatic right now.
+You can be attacked by other players.
+
+On her breast is a small crescent shaped birthmark.
+
+On her neck is a purple marked tattoo of the house of Mandor.
+
+On her belly is a tark tribal circle around the navel.
+
+On her back are glimmering deep Hyacinth wings with draconic runes in Golde upon them.
+
+On her head, behind her left ear is a deep blue Something.
+
+On her left arm is a tattooed sleeve of intertwined purple dragons stretching from her shoulder to her wrist.
+
+You appear to be in perfect health.
+There is a shining gold emblem affixed to your clothing.
+
+Physical appearance:
+
+You see an ageless, tymless, spryte with long wild kinky whyte hair with a glowing whyte streak and sleepy eyes...She is shivering in the cold wind to Valhalla...She has touched the Sky...
+
+                        Visible Equipment
+Some heavy bone studded steelwood brigandine       (armor)
+A tiny moonsilver tongue piercing                  (on head)
+A moon shaped ivory talisman                       (around neck)
+A pair of ornate silver toe rings                  (on feet)
+Some multicolored black dragon wing charms         (over armor)
+A crescent moon earring                            (right ear)
+A silver serpentine hoop                           (left ear)
+A delicately linked gold belly chain               (on belt)
+
+You have been bestowed the following title(s):
+  Noble of the Realm
+
+>
+Nyoko'a glances at the deep red velvet curtain.
+
+Nyoko'a says in Secian, "Poor artist."
+gig to ny
+You giggle to Nyoko'a.
+>
+Fel'tia says to Glinka in Secian, "Your whole body is almost covered now with decorations."
+nod yes to fe
+You nod up and down to Fel'tia.
+>
+Fel'tia nods to you.
+' soon, hopefully
+
+Glinka says, " soon, hopefully"
+beam
+>You beam.
+' but only the left side
+>
+Glinka says, " but only the left side"
+nod yes to fe
+>You nod up and down to Fel'tia.
+>
+Fel'tia grins.
+gig
+You giggle.
+l
+>[Festival of Shadows, Peddler's Inn Waiting Room.]
+
+Decorated with fragrant candles and garlands of dried leaves and berries, this small wagon exudes a truly festive feeling. Plush crimson red velvet floor cushions surround a small wooden table, which has intricate autumn scenes carved into its surface. A small stage rests in the northern corner for merchants to show off their wares. A red velvet curtain leads into a smaller room set up for the travelling body artist and hairstylist, while a beaded curtain leads into Broyce's work area.  An ornate wooden table, a Book of Specialties, a deep red velvet curtain, a glimmering purple beaded curtain, an open billowy painted wooden wagon door, and a hot wooden keg of harvest punch are here.
+
+This room is illuminated.
+In the room are Fel'tia the Drake (seated) and Nyoko'a the Dragon.
+Obvious exits: None.
+hu fe
+>You hug Fel'tia.
+hu ny
+>You hug Nyoko'a.
+>
+snu with Fel'tia
+Fel'tia nuzzles you.
+You snuggle with Fel'tia.
+>
+Fel'tia rumbles softly.
+' hug Deppi for me?
+
+Glinka asks, " hug Deppi for me?"
+>
+Nyoko'a nuzzles you with the tip of her snout.
+
+Nyoko'a nods to you.
+beam
+You beam.
+fly up 20
+>[5 sec. delay]
+You take a few steps and soar 10 feet into the air!
+hov upside down
+>You hover upside down.
+beam
+>You beam.
+>
+Fel'tia chuckles.
+cir
+
+You circle around and do some aerial acrobatics.
+wav
+>You wave.
+swoo
+>You cannot do that while you are flying!
+
+Nyoko'a says in Secian, "I shall make sure to give him a most...vicious hug."
+appear mood ecs
+
+You are now ecstatic.
+
+>
+Fel'tia fans her wings at you.
+
+Nyoko'a hums quietly.
+gig
+You giggle.
+' deal
+>
+Glinka says, " deal"
+smi at ny impishly, tossing her long soft hair back...
+>You smile at Nyoko'a impishly, tossing her long soft hair back...
+fan at fe
+>You fan your wings at Fel'tia.
+>
+Nyoko'a rumbles at you.
+gri
+You grin.
+how
+>You howl.
+go wag
+>[Festival of Shadows, Peddlers Inn.]
+
+A yellow leafed maple tree with strong arms hangs languidly over a festively painted gypsy wagon.The voices of various merchants echo from within the wagon, barely audible over the chatter of enthusiastic festival goers. A few people stand outside the wagon, bags of candy corn and candied apples within their hands, peering through the wagon door through ornamental masks.  An open billowy painted wooden wagon door, a large colorful maple tree, some bales of hay, some glowing vine-covered pumpkins, and an old decrepit pine wagon pulled by mules are here.
+
+This room is illuminated.
+Obvious exits: northeast* southwest* northwest*.
+nw
+w
+>[Festival of Shadows, Ghost Town.]
+
+The sweet, spicy scent of burning wood carries on the air, giving warmth to the stinging chill of the rushing wind. To the west, circles of festival goers sit around a bonfire, warming their hands as others wonder back and forth about the festival. The wind whines a slow, lingering song as a cobblestone path winds itself up to the entrance of a warping thatched roof cabin.  A festive old man smoking a pipe, a glowing orange candle in a jar, some decaying red leaves on the ground, and an open round shaped wooden door are here.
+
+This area is illuminated.
+You see the 1st bright orange great pumpkin.
+Obvious paths: northeast* southeast* west*.
+[Festival of Shadows, Ghost Town.]
+
+This small town wears the black veil of night as it nestles itself behind the shadows of the eclipsed moon. A narrow trail of dust and broken flagstones ribbons itself through a maze of lifeless trees and old buildings. The wind fills the air with the scent of burning wood as its beckoning call echoes the eerie cry of howling wolves. Amidst the glowing light of lanterns, shady figures parade and dance through the heavy velvet blanket of the shadowed moon.  Some flowing black and orange silk streamers, a glowing wooden bonfire, a nebulous shadow statue, a pumpkin patch, a decrepit wooden sign, and an ominous twisted opal arch are here.
+
+This area is illuminated.
+You see the 1st bright orange great pumpkin.
+Obvious paths: north* east* south* west*.
+go ar
+>
+As you pass through, there is a twist, and a feeling of distance...
+
+[Southern Avenue & Gorey Street.]
+
+The boughs of a large apple tree hang over the well tended avenue. Below the beautiful tree stands a small fountain. Atop the fountain is an intricately carved Secian who appears to be dancing with the water as it splashes around her. Set in the marble base is a small plaque that reads, "For those who have gone before us." Many stand for a moment as they pass this way, giving thanks for the gift of life that is given by both the apple tree and the Secians of long ago. Large piles of dirt and broken stone lay on either side of the street as workmen ready the east and west alleys for expansion.  A street lantern, a closed Secian etched moonsilver door, a pair of open silver forged swinging doors, and a sign above the doors are here.
+
+This area is illuminated.
+You see the 1st leathery winged black bat.
+Obvious paths: north* east* south* west*.
+>
+The leathery winged black bat spreads its wings.
+
+Stormy just entered from the south.
+go door
+It's closed!
+>
+Stormy just went north.
+
+The leathery winged black bat wanders north.
+inv
+Items carried:
+  An open large forest green leather backpack [1.7 lb].
+  A crescent moon earring [0.0 lbs].
+  Some heavy bone studded steelwood brigandine [2.0 lbs].
+  A delicately linked gold belly chain [0.0 lbs].
+  A misty grey orb of Unknown [0.1 lbs].
+  A tiny moonsilver tongue piercing [0.0 lbs].
+  A rainbow silk cloak [2.7 lbs].
+  A pair of ornate silver toe rings [0.0 lbs].
+  A silver serpentine hoop [0.0 lbs].
+  An open plaid leather healer's bag [0.8 lbs].
+  An open blood-stained leather healer's bag [0.5 lbs].
+  A moon shaped ivory talisman [0.1 lbs].
+  Some multicolored black dragon wing charms [0.0 lbs].
+  A long violet silk skirt [0.0 lbs].
+  A beautiful gold Secian shaped charm [0.1 lbs].
+  A tribal painted birch go-blin shield [0.1 lbs].
+  An open raccoonskin pack [0.2 lbs].
+  A swirling multicolored globe [0.1 lbs].
+
+You have 57 silver pieces and 0 gold pieces.
+
+This gives you a total net worth of 57 silver.
+
+Your inventory totals 8.9 lbs.
+n
+n
+>[Southern Avenue.]
+
+Vast estates tower over the huge Spurian wall towards the south. The well-to-do who live in these homes idle away their days, enjoying the luxury of time. Standing next to a very empty lantern pole, a small Flerian child insists in a plaintive wail, that he had nothing to do with the missing lantern. The well-dressed guard that interrogates him keeps pointing at a small sack on the ground and its obvious contents.  An open small burlap sack, a street lantern, and a lantern are here.
+
+This area is illuminated.
+You see the 1st leathery winged black bat.
+Obvious paths: north* south*.
+n
+n
+>[Southern Avenue.]
+
+Southern Avenue leads between the center of Spur and the homes of the prosperous and wealthy. Several of the Ladies of the city stroll along the avenue chatting about the current events and latest gossip of the Spur. Behind them, harried servants carry their reticules and all those belongings that they cannot be without.  A street lantern is here.
+
+This area is illuminated.
+You see the 1st loitering bum.
+Obvious paths: north* south*.
+[Southern Avenue.]
+
+Smooth stones make up the street that leads from the center of Spur to the south. Each stone has been carefully fitted for the most comfortable travel by both cart and traveler alike. A well dressed Guard patrols the area in his dress uniform. Captains don't allow for slovenly appearances on this patrol.  A street lantern is here.
+
+This area is illuminated.
+Obvious paths: north* south*.
+[Town Square South.]
+
+The outward appearance of the people here seems a bit classier. Rich clothing and large coin purses are prevalent amongst the travelers. In fact, many of the folk heading into Town Square from the south are accompanied by large bodyguards to assure their safety. The well maintained road is lined with small brass lanterns, each swinging off an individual pole.  A street lantern is here.
+
+This area is illuminated.
+In the area is Jyrayel the Noble Draco.
+Obvious paths: north* northeast* east* south* west* northwest*.
+smi at j gently, winking..
+>You smile at Jyrayel gently, winking..
+n
+>[Town Square Center.]
+
+A beautiful fountain, sculpted from pristine white marble, rests at the center of Spur's main square. Clear, sparkling water sprays from a spout at the fountain's tip and cascades down several tiers before spilling into a circular pool. High above the square, the wings of two imperial stone dragons form an arch for a massive gateway. The colossal monument stands at the heart of the city like a silent sentinel keeping watch over the entire realm. Lifelike marble statues decorate the square's perimeter, each a celebrated hero of Spur's past.  A flowing white marble fountain, a marble statue of a Human, a shimmering marble statue of a Dragon, some crystal flecked granite oliphant-shaped benches, a rosewood sign, a crisp gold lettered vellum notice, and a thick misty grey patch of swirling fog are here.
+
+This area is illuminated.
+You see the 1st grumpy badger (wearing a small gold collar).
+In the area are Kiki the Noble Secian (flying beside you) and Adianna the Leuian.
+Obvious paths: north* northeast* east* southeast* south* southwest* west* northwest*.
+>
+Kiki, always on a mission, just flew north.
+smi at ki delicately , brushing back her kinky white hair
+I don't see what you are referring to.
+how to ki
+>I don't see what you are referring to.
+l at ad
+>
+Adianna looks like a 6'3" standard young light boned, muscular bodied Leuian.
+She has short, wild, glossy black fur with fiery highlights, light green eyes, and looks spotless.
+She appears to be sad right now.
+She bears the mark of Set.
+She can be attacked by other players.
+She appears to be in perfect health.
+                        Visible Equipment
+Some heavy blood red lacquered bone scale mail     (armor)
+A damaged pitch black bone shield                  (shield)
+A coiled black diamond serpent                     (around neck)
+A pair of beaded pink satin heels                  (on feet)
+A black silk-lined leather trench coat             (over armor)
+A stunning black diamond shadow ring               (ring (right))
+A flared black velvet side-splitted skirt          (pants)
+A pink silk blouse                                 (shirt)
+A lustrous ebony braided leather belt              (on belt)
+smi
+>You smile.
+>
+smi at Adianna delicately , blushing
+Adianna smiles at you.
+You smile at Adianna delicately , blushing.
+se
+>[Town Square.]
+
+The elegant Hotel Royale towers above the street, its emerald door sparkling in the light. The patrons that stroll in and out are catered to, doors opened and closed for them, and baggage and packages carried by harried servants. The large Bank of Spur sits on the east side of the square. Its location close to the Royale is not a coincidence. A gold-trimmed door is proof of the success of this branch of the Spurian bank and those who run it.  An elegant gold-trimmed walnut door, an open emerald steel door, a street lantern, and a new rosewood sign pointing southeast are here.
+
+This area is illuminated.
+Obvious paths: north* southeast* west* northwest*.
+go door
+>[Bank.]
+
+Two large Thugian guards stand sentinel on each side of the doors to the main branch of the Bank of Spur. Elegant furnishings adorn the office. Polished oak and gold filigree emphasize the wealth that abounds in this establishment. Well-dressed tellers stand ready to help you store your money safely or to reduce your coinage to more manageable form.  An elegant gold-trimmed walnut door, a wooden sign, and a bright wooden sign are here.
+
+This room is illuminated.
+Obvious exits: None.
+land softly
+>You fly down and land.
+l at gli
+>You find something suitably reflective and gaze into it...
+
+You look like a 1'2" standard adolescent delicate boned, wiry-tough bodied Secian Cleric.
+You have very long, wild, kinky white hair with a white streak, heavy lidded pale red eyes, and look translucent.
+You appear to be ecstatic right now.
+You can be attacked by other players.
+
+On her breast is a small crescent shaped birthmark.
+
+On her neck is a purple marked tattoo of the house of Mandor.
+
+On her belly is a tark tribal circle around the navel.
+
+On her back are glimmering deep Hyacinth wings with draconic runes in Golde upon them.
+
+On her head, behind her left ear is a deep blue Something.
+
+On her left arm is a tattooed sleeve of intertwined purple dragons stretching from her shoulder to her wrist.
+
+You appear to be in perfect health.
+There is a shining gold emblem affixed to your clothing.
+
+Physical appearance:
+
+You see an ageless, tymless, spryte with long wild kinky whyte hair with a glowing whyte streak and sleepy eyes...She is shivering in the cold wind to Valhalla...She has touched the Sky...
+
+                        Visible Equipment
+Some heavy bone studded steelwood brigandine       (armor)
+A tiny moonsilver tongue piercing                  (on head)
+A moon shaped ivory talisman                       (around neck)
+A pair of ornate silver toe rings                  (on feet)
+Some multicolored black dragon wing charms         (over armor)
+A crescent moon earring                            (right ear)
+A silver serpentine hoop                           (left ear)
+A delicately linked gold belly chain               (on belt)
+
+You have been bestowed the following title(s):
+  Noble of the Realm
+
+>
+Kiki, humming a tune softly, just entered through an elegant gold-trimmed walnut door.
+
+Kiki approaches a teller and they begin speaking quietly.
+l
+[Bank.]
+
+Two large Thugian guards stand sentinel on each side of the doors to the main branch of the Bank of Spur. Elegant furnishings adorn the office. Polished oak and gold filigree emphasize the wealth that abounds in this establishment. Well-dressed tellers stand ready to help you store your money safely or to reduce your coinage to more manageable form.  An elegant gold-trimmed walnut door, a wooden sign, and a bright wooden sign are here.
+
+This room is illuminated.
+In the room is Kiki the Noble Secian.
+Obvious exits: None.
+smi
+>You smile.
+inv
+>Items carried:
+  An open large forest green leather backpack [1.7 lb].
+  A crescent moon earring [0.0 lbs].
+  Some heavy bone studded steelwood brigandine [2.0 lbs].
+  A delicately linked gold belly chain [0.0 lbs].
+  A misty grey orb of Unknown [0.1 lbs].
+  A tiny moonsilver tongue piercing [0.0 lbs].
+  A rainbow silk cloak [2.7 lbs].
+  A pair of ornate silver toe rings [0.0 lbs].
+  A silver serpentine hoop [0.0 lbs].
+  An open plaid leather healer's bag [0.8 lbs].
+  An open blood-stained leather healer's bag [0.5 lbs].
+  A moon shaped ivory talisman [0.1 lbs].
+  Some multicolored black dragon wing charms [0.0 lbs].
+  A long violet silk skirt [0.0 lbs].
+  A beautiful gold Secian shaped charm [0.1 lbs].
+  A tribal painted birch go-blin shield [0.1 lbs].
+  An open raccoonskin pack [0.2 lbs].
+  A swirling multicolored globe [0.1 lbs].
+
+You have 57 silver pieces and 0 gold pieces.
+
+This gives you a total net worth of 57 silver.
+
+Your inventory totals 8.9 lbs.
+l at ki
+>
+Kiki looks like a 1'3" standard young delicate boned, skinny bodied Secian.
+She has very long, wavy, platinum blonde hair with sparkling highlights, almond shaped ruby red eyes, and looks neat.
+She appears to be tired right now.
+She bears the mark of Rinanni.
+She can be attacked by other players.
+
+On her middle finger tip, wrapping up her hand and stopping mid arm are midnight blue tribal swirls.
+
+On her neck, on the back, the word "Love" written in script is accompanied by two blue ruby stars on either side.
+
+On her left hip is a tattoo of a beautiful dragonfly with blue ruby and emerald wings.
+
+She has no apparent injuries, but looks tired.
+
+Physical appearance:
+
+Tiny stars seem to dance in her ruby eyes. Her lips are brushed with shimmering lip gloss making them contrast beautifully with her flawless porcelain white complexion. Her wings sparkling with the light of midnight stars sprout from her back
+
+                        Visible Equipment
+A heavy polished steelwood mail                    (armor)
+A wooden shield                                    (shield)
+A pair of colorful winged dragonflies              (on head)
+A pair of blue calf laced espadrilles              (on feet)
+A cloudy sapphire heart shaped ring                (ring (right))
+A stunning black diamond shadow ring               (ring (left))
+A translucent moonstone infinity ring              (ring (left))
+A diamond and blue ruby ring                       (ring (left))
+A dark blue lined white slip dress                 (dress)
+A small midnight blue velvet trinket pouch         (on belt)
+A glowing green orichalcum cicada queen pendant    (on belt)
+A holy white satin sash of doves                   (on belt)
+
+She has been bestowed the following title(s):
+  Noble of the Realm
+
+>
+Kiki fans her wings at you lightly, then runs off giggling.
+
+Kiki, always on a mission, just went through an elegant gold-trimmed walnut door.
+
+Kiki, humming a tune softly, just entered through an elegant gold-trimmed walnut door.
+
+wink back Impishly!
+Kiki winks at you.
+You wink back Impishly!
+>
+Kiki, always on a mission, just went through an elegant gold-trimmed walnut door.
+
+Kiki, humming a tune softly, just entered through an elegant gold-trimmed walnut door.
+
+Kiki, always on a mission, just went through an elegant gold-trimmed walnut door.
+flai
+You flail your arms about wildly.
+hide
+>You can't find any place to hide in here.
+inv
+>Items carried:
+  An open large forest green leather backpack [1.7 lb].
+  A crescent moon earring [0.0 lbs].
+  Some heavy bone studded steelwood brigandine [2.0 lbs].
+  A delicately linked gold belly chain [0.0 lbs].
+  A misty grey orb of Unknown [0.1 lbs].
+  A tiny moonsilver tongue piercing [0.0 lbs].
+  A rainbow silk cloak [2.7 lbs].
+  A pair of ornate silver toe rings [0.0 lbs].
+  A silver serpentine hoop [0.0 lbs].
+  An open plaid leather healer's bag [0.8 lbs].
+  An open blood-stained leather healer's bag [0.5 lbs].
+  A moon shaped ivory talisman [0.1 lbs].
+  Some multicolored black dragon wing charms [0.0 lbs].
+  A long violet silk skirt [0.0 lbs].
+  A beautiful gold Secian shaped charm [0.1 lbs].
+  A tribal painted birch go-blin shield [0.1 lbs].
+  An open raccoonskin pack [0.2 lbs].
+  A swirling multicolored globe [0.1 lbs].
+
+You have 57 silver pieces and 0 gold pieces.
+
+This gives you a total net worth of 57 silver.
+
+Your inventory totals 8.9 lbs.
+go door
+>[Town Square.]
+
+The elegant Hotel Royale towers above the street, its emerald door sparkling in the light. The patrons that stroll in and out are catered to, doors opened and closed for them, and baggage and packages carried by harried servants. The large Bank of Spur sits on the east side of the square. Its location close to the Royale is not a coincidence. A gold-trimmed door is proof of the success of this branch of the Spurian bank and those who run it.  An elegant gold-trimmed walnut door, an open emerald steel door, a street lantern, and a new rosewood sign pointing southeast are here.
+
+This area is illuminated.
+Obvious paths: north* southeast* west* northwest*.
+go 2 doo
+>[The Royale.]
+
+A short entrance hall provides passage in and out of the exquisite Hotel Royale. A burly Thugian and a tall Monitanian carefully assess everyone as they enter. They prevent any pets from entering and keep out all but the quickest or sneakiest of the riffraff. A narrow passageway leads to the stables.  An open emerald steel door is here.
+
+This room is illuminated.
+Obvious exits: south*.
+hide
+>You slip into the shadows!
+cou
+>You reveal yourself!
+You cough.
+l at gli
+>You find something suitably reflective and gaze into it...
+
+You look like a 1'2" standard adolescent delicate boned, wiry-tough bodied Secian Cleric.
+You have very long, wild, kinky white hair with a white streak, heavy lidded pale red eyes, and look translucent.
+You appear to be ecstatic right now.
+You can be attacked by other players.
+
+On her breast is a small crescent shaped birthmark.
+
+On her neck is a purple marked tattoo of the house of Mandor.
+
+On her belly is a tark tribal circle around the navel.
+
+On her back are glimmering deep Hyacinth wings with draconic runes in Golde upon them.
+
+On her head, behind her left ear is a deep blue Something.
+
+On her left arm is a tattooed sleeve of intertwined purple dragons stretching from her shoulder to her wrist.
+
+You have no apparent injuries, but look tired.
+There is a shining gold emblem affixed to your clothing.
+
+Physical appearance:
+
+You see an ageless, tymless, spryte with long wild kinky whyte hair with a glowing whyte streak and sleepy eyes...She is shivering in the cold wind to Valhalla...She has touched the Sky...
+
+                        Visible Equipment
+Some heavy bone studded steelwood brigandine       (armor)
+A tiny moonsilver tongue piercing                  (on head)
+A moon shaped ivory talisman                       (around neck)
+A pair of ornate silver toe rings                  (on feet)
+Some multicolored black dragon wing charms         (over armor)
+A crescent moon earring                            (right ear)
+A silver serpentine hoop                           (left ear)
+A delicately linked gold belly chain               (on belt)
+
+You have been bestowed the following title(s):
+  Noble of the Realm
+
+hide
+>You fail in your attempt to hide!
+hide
+>You fail in your attempt to hide!
+hide
+hide
+hide
+>You fail in your attempt to hide!
+You fail in your attempt to hide!
+sk
+
+Skill                     Remain Level
+ First Aid                 200    2     
+ Channeling                813    7     
+ Blunt Weapons             336    4     
+ Spellcasting              2072   17    
+ Turn Undead               1000   8     
+ Identify Gems/Minerals    428    7     
+ Shield Parry              204    3     
+ Identify Magick           187    2     
+ Swimming                  300    3     
+ Brawling                  75     4     
+ Play Instruments          1084   9     
+ Hiding                    268    3     
+
+You fail in your attempt to hide!
+hide
+>You slip into the shadows!
+quit
+>
+    Dragon's Gate Menu
+
+ 1. Explore Dragon's Gate.
+ 2. Create, Delete, or View a character.
+ 3. Select current character.
+ 4. Display notices and version notes.
+16. Disconnect.
+
+Your active character is: Glinka Dragondsfriend
+
+Your selection? 
+16
+
+ ** Goodbye from Mythic Entertainment! **

@@ -1,0 +1,1478 @@
+time
+
+Current time is: Sun Dec 19 21:22:05 2004 EST.
+time
+
+It is now 6:46 pm on the 10th day of the 3rd month in the year 319.
+
+You have been adventuring for 13 mins, 41 secs this session.
+
+>
+Sast exclaims in Secian, "Ohhh! I love this one."
+
+Weldoian says in Secian, "It was for this reason that his Temple, the Temple of Sa, sent him to work as a Sage for the temple doing things such as researching artifacts and readin' ancient scrolls."
+Weldoian says in Secian, "say Many years ago, there was a Secian named Urganzael Tardoneska.  Like many Secians, he was a healer, although his true talent was in his intelligence and curiousity."
+Ignoring unknown command, "Weldoian."
+>
+Shylara pulls Equality closer to her snuggling up and listening to the story.
+
+Equality laughs quietly.
+sp secian
+You are now speaking Secian.
+>
+Weldoian says in Secian, "One day, excavators of the temple brought a bunch of old ruins to him to study."
+
+Weldoian says in Secian, "One top of one of these artifacts, excuse me, was a scroll."
+
+The adorable little bunny chases its tail.
+sk
+
+Skill                     Remain Level
+ First Aid                 95     1     
+ Channeling                215    5     
+ Blunt Weapons             352    4     
+ Spellcasting              2509   16    
+ Turn Undead               816    7     
+ Identify Gems/Minerals    716    7     
+ Shield Parry              100    1     
+ Identify Magick           67     1     
+ Swimming                  82     2     
+ Brawling                  100    1     
+
+>
+Equality listens intently to Weldoian.
+stat
+OR:   3  DR: 138  Move Rate: 6/11 UDs  Dam Bonus: Awful/None  Stance: Normal
+
+You are in the center of the area!
+You are seated.
+
+  ::: Equipment Readied :::
+
+  Some heavy bone studded steelwood brigandine.
+  A tiny moonsilver tongue piercing.
+  A beautiful gold Secian shaped charm.
+  Some twinkling rainbow crystal bangles.
+  A pair of ornate silver toe rings.
+  Some multicolored crystal dragon wing charms.
+  A circular golden earring.
+  A silver serpentine hoop.
+  A delicately linked gold belly chain.
+>
+Weldoian says in Secian, "He proceeded to open it, realizing too late that doing so might be quite dangerous."
+l at gli
+You find something suitably reflective and gaze into it...
+
+You look like a 1'2" standard adolescent delicate boned, wiry-tough bodied Secian Cleric.
+You are seated.
+You have very long, wild, kinky white hair with a white streak, heavy lidded pale red eyes, and look translucent.
+You appear to be frivolous right now.
+You can be attacked by other players.
+
+On her breast is a small crescent shaped birthmark.
+
+On her neck is a purple marked tattoo of the house of Mandor.
+
+On her belly is a tark tribal circle around the navel.
+
+On her back are glimmering deep Hyacinth wings with draconic runes in Golde upon them.
+
+You appear to be in perfect health.
+There is a shining gold emblem affixed to your clothing.
+
+Physical appearance:
+
+You see an ageless, tymless, spryte with long wild kinky whyte hair with a glowing whyte streak and sleepy eyes...She is shivering in the cold wind to Valhalla...She has touched the Sky...
+
+                        Visible Equipment
+Some heavy bone studded steelwood brigandine       (armor)
+A tiny moonsilver tongue piercing                  (on head)
+A beautiful gold Secian shaped charm               (around neck)
+Some twinkling rainbow crystal bangles             (over hands)
+A pair of ornate silver toe rings                  (on feet)
+Some multicolored crystal dragon wing charms       (over armor)
+A circular golden earring                          (right ear)
+A silver serpentine hoop                           (left ear)
+A delicately linked gold belly chain               (on belt)
+
+You have been bestowed the following title(s):
+  Noble of the Realm
+
+>
+Weldoian says in Secian, "For you see, written on this scroll was knowledge of something very great and powerful.  This was nae ordinary scroll of facts or runes."
+
+Shylara smiles quietly , intently watching the story unfold.
+
+Weldoian says in Secian, "He quickly rolled the scroll back up only to witness it crumble away."
+
+Starlyn's glowing swirling iridescent glass cube flickers for a moment.
+gasp
+
+Kiralyn, her wild golden blonde hair gleaming in the light, just entered from the northwest.
+You gasp.
+>
+Kiralyn beams.
+
+Kiralyn sits down quietly.
+wh to kir weldo tellin one
+You whisper to Kiralyn in Secian.
+>
+Weldoian says in Secian, "But the knowledge contained on it persisted in Urganzeal's mind."
+
+Kiralyn listens intently.
+
+Weldoian says in Secian, "Being a Sage, he knew what danger the knowledge was to e'eryone and being Secian, he knew he had to protect all those living."
+
+The adorable little bunny chases its tail.
+
+Weldoian's stomach growls.
+
+Starlyn's stomach growls.
+
+Starlyn just removed a small blue ruby from within her ribbon tied rose-colored silk hooded cloak.
+
+Shylara just removed a pink pearl from within her small jeweled velvet trinket pouch.
+
+Shylara just removed a small plain blue pearl from within her small jeweled velvet trinket pouch.
+
+Shylara offers something to Equality.
+
+Weldoian says in Secian, "His only solution was to kill himself, to rid the world of this knowledge."
+
+Equality smiles to Shylara warmly.
+
+Kiralyn gasps.
+
+Shylara gasps.
+
+Equality accepts Shylara's offer.
+
+Equality blinks at Weldoian.
+
+Kiralyn furrows her brow.
+
+The adorable little bunny chases its tail.
+
+Shylara exclaims in Secian, "No!  He didn't did he?"
+
+Weldoian says in Secian, "He casted many fire spheres at him--as this was before the Great Magick Change of 308--until he was finally dead."
+
+Weldoian says to Shylara in Secian, "Oh yes, he did."
+
+The adorable little bunny makes a chittering sound.
+stare
+You stare.
+>
+Equality frowns a bit.
+
+Kiralyn is now blue.
+
+Shylara frowns sadly.
+
+Weldoian says in Secian, "Now, the other priests of the Temple found him and brought him before Sa."
+appear mood ?
+
+    Available mood selections:
+
+ flaming-mad  livid        unhappy      shocked      despairing   blue        
+ unconcerned  distant      bored        chagrined    perplexed    mischievous 
+ partying     happy        overjoyed    apprehensive cold         gentle      
+ angry        preoccupied  aloof        calculating  aristocratic amused      
+ puzzled      serious      petulant     cynical      neutral      belligerent 
+ sullen       wary         confused     upset        frivolous    sleepy      
+ tired        irate        giddy        ecstatic     frustrated   worried     
+ resigned     grumpy       violent      inconsolable non-plussed  loving      
+ playful      furious      romantic     concerned    scared       frightened  
+ annoyed      sad          sassy        annoying     tense        perturbed   
+ depressed    amorous      dumbfounded 
+
+>
+Weldoian says in Secian, "They tried in vain to have Sa ressurrect him, but alas Sa wished nothing to do with him."
+
+Shylara exclaims in Secian, "poor misguided secian.... how sad!"
+
+Weldoian says in Secian, "They then took him to Odarous and Elindale, but they too refused to help poor Urganzeal."
+
+Kiralyn nods up and down to Shylara.
+
+Weldoian says in Secian, "And as the other gods at the time were not known for their relationship with Secians, the priests could do nothing but leave Urganzeal in his present state,"
+
+Shylara murmurs dead?
+
+Weldoian says in Secian, "He could not depart, howe'er, as the spell would not allow him to do so."
+
+Equality ponders..
+
+Shylara asks in Secian, "What happened then?"
+
+Kiralyn murmurs, "Poor Urganzeal..."
+
+Weldoian says in Secian, "He laid there for who knows how long when he finally saw a vision of a lovely woman."
+
+Shylara nods to Kiralyn.
+
+The adorable little bunny skulks nervously.
+
+Weldoian asks in Secian, "And to her, Urganzeal asked, "Who are you?  And why won't you let me die and take this horrible spell out of the world forever?""
+
+The adorable little bunny cleans its face.
+
+Equality listens intently.
+
+Weldoian says in Secian, "I am Rinanni," the vision said. "And I do not come to take your life, but to ask that you find the strength to continue living." "
+
+Shylara beams radiantly.
+
+Shylara exclaims in Secian, "Rinanni!"
+
+Kiralyn smiles softly.
+
+Weldoian says in Secian, "Ah, Rinanni, you do not understand," Urganzeal said. "You are the goddess of life and light, and what I carry is a thing of greatest death and darkness." "
+
+Weldoian says in Secian, "But I do understand, little one," said the Kindly Lady with a sad, sweet smile. "The knowledge you carry will not let you leave this earth, for it will not let itself be destroyed until its mission is complete."
+
+Weldoian says in Secian, "But Sa refuses to be responsible for your burden, and Odarous and Elindale refuse to take on the darkness that you carry, so none of the Gods have yet come to aid you. "
+
+Weldoian says in Secian, "I know I am not a favorite of the Secians," said Rinanni. "I know that you think that I should take up arms against my dark brothers, and do not understand how I could love them all the same.""
+
+Shylara murmurs a quiet prayer for Urganzeal.
+
+Weldoian says in Secian, "But if you will allow me, I will help you to carry your terrible burden, for I cannot bear to see you lying in such a state any longer." "
+
+Weldoian says in Secian, "I will be your servant gladly," said Urganzeal. "Because you alone have come to me in this darkness, and because you are the most beautiful thing I have ever seen." "
+
+Kiralyn beams.
+
+Shylara nods up and down.
+
+Kiralyn is now happy.
+
+Shylara is now loving.
+
+ *** Warning, you have been inactive for 5 minutes.
+look
+ *** You will be disconnected in 10 minute(s) if you do not respond.
+[Forest path.]
+
+The path seems to be disappearing before your very eyes. Travel any way but back to the northwest is blocked by foliage so dense as to prevent any further passage into the forest. An ancient oak tree festooned with bright colorful silk ribbons stands to the side of the disappearing path. Sparkling trinkets and gems hang from every available branch, a  cheerful tinkling noise filling the air with the slightest breeze.  A giant ancient oak tree, a fragrant bluish Secian rose, a tiny oak knothole, some glowing enchanted twinkling diamond candles, a low arching branch, an elegant crystal serving tray, an elegant crystal drink tray, a beautiful silver platter, and an open multicolored patched cotton carry-all are here.
+
+This area is illuminated.
+You see the 1st adorable little bunny (wearing a small gold collar).
+In the area are Shylara the Novice Secian (seated), Weldoian the Noble Secian (an adorable little bunny upon his left shoulder), Twilight the Noble Secian, Starlyn the Noble Secian (seated and holding a glowing swirling iridescent glass cube), Equality the Noble Secian (seated), and Kiralyn the Noble Secian (seated).
+Obvious paths: northwest*.
+info vis
+>                        You have visualized the following locations
+                        -------------------------------------------
+
+                                    Visualization #1 is:
+The towering trees of the forest begin their ascension of the large mountain seen from the open plains of New South Lake. The root holds are precarious, as the mountain's face is especially steep on the northern side. The muddy path concludes in front of a sheer stone wall covered with verdant patches of green moss. A numbing breeze blows outward from the depths a massive cavern mouth, as if the mountain itself was exhaling ice-chilled breath. Deep-cut symbols grace the sides of the cavern entrance. They appear to be recently completed, as time, water, and weather have not yet dulled the sharp lines of the cuts.
+
+                                    Visualization #2 is:
+At the top of the steep hill, the magnificent landscape of the Silver Mountain stretches all around Crystal Snowflake Village, cradling the holiday town at its base. The path makes a sharp turn upwards along a stream, filled with icy chunks and flickering silver and gold fish. A few courageous Hithuals stand along the riverbank as they prepare to go ice diving.
+
+                                    Visualization #3 is:
+An abundant gallery of paintings depicting sacrifices and hold offerings to their god suspend from crooked iron nails. Resting beside each painting, cold black iron braziers appear to hold burned blood and bone. A few charred, blackened pieces can be found in them. Several iron chains hang along the walls of the sacrificial chamber. Along the floor, intricately placed colored slate tiles are coated in dust covered dried blood. Centering the room is a raised platform accessible through a flight of stairs. Upon this raised formation rests an altar inlaid with rows and rows of teeth. 
+
+Your active visualization is #2
+>
+Weldoian says in Secian, "And so Rinanni ressurrected Urganzeal, and abiding by his promise, Urganzeal became the first Secian to follow Rinanni."
+
+Equality exclaims, "Yay!"
+
+Shylara asks in Secian, "The very first?"
+
+Shylara blinks in astonishment.
+
+Weldoian says in Secian, "Leaving the Temple of Sa, he searched quite long to find a Temple of RInanni and he finally did so on a small island."
+
+Weldoian nods to Shylara.
+
+Shylara exclaims in Secian, "Blessed be!"
+
+Kiralyn asks Weldoian in Secian, "How come Secians didn't follow Rinanni before Urganzeal?"
+
+Kiralyn ponders.
+
+Shylara nods to Kiralyn in wonder.
+
+Weldoian says to Kiralyn in Secian, "For the very reason Rinanni mentioned."
+
+Weldoian smiles to Kiralyn.
+
+Starlyn's glowing swirling iridescent glass cube flickers for a moment.
+
+Shylara says in Secian, "They did not understand her love"
+
+Shylara says in Secian, "of all"
+nod softly
+You nod softly.
+>
+Kiralyn is now puzzled.
+
+Starlyn says in Secian, "It was a different time... and things were very different back then."
+
+Weldoian says in Secian, "In anycase, there in the Temple, he served also as Sage."
+
+Weldoian nods to Starlyn.
+
+Weldoian says in Secian, "He stayed there for centuries, since the spell in his head allowed neither aging or death."
+
+Weldoian's stomach growls.
+
+Starlyn's stomach growls.
+
+Equality asks Weldoian in Secian, "Do you know what the spell was in specific?"
+
+Weldoian says in Secian, "One day, he was in the Library of the temple when all the candles went out, leaving him in complete darkness."
+
+Equality listens intently to Weldoian.
+
+Shylara says in Secian, "oooo darkness, terrible darkness"
+
+Weldoian asks in Secian, "Who is there?" cried Urganzeal."
+
+Shylara shivers.
+
+Equality comforts Shylara.
+
+Twilight pets Shylara.
+
+Weldoian says in Secian, "You do not know me," a voice said, and indeed Urganzeal did not recognize it. It was the voice of a man, and it carried an accent he did not recognize. It seemed to come from very far above. "You have something that I want," the voice continued."
+
+Weldoian says in Secian, "And you shall give it to me. Now." "
+
+Shylara snuggles with Equality.
+
+The adorable little bunny chases its tail.
+
+Kiralyn furrows her brow.
+
+Equality gazes to Weldoian.
+appear mood fri
+
+You are now frivolous.
+
+>
+Weldoian says in Secian, "Now, of course, Urganzeal knew what it was this strannger was after.  'Twas the spell in his head."
+appear mood frig
+
+You are now frightened.
+
+>
+Shylara frowns her eyes wide in wonder and fear.
+
+Kiralyn nods up and down.
+
+Weldoian says in Secian, "But, feelin' braver then he ever had, he said to it, "I will never give it to you.""
+
+Weldoian says in Secian, "Very well," the stranger said and Urganzeal could tell that he was kneeling."
+
+Weldoian says in Secian, "And then, from the darkness, emerged two dark eyes."
+
+Weldoian says in Secian, "Suddenly, Urganzeal knew what this stranger was."
+
+Weldoian exclaims in Secian, "This stranger was a dreaded Muatana-Al!"
+
+Shylara squirms uncomfortably.
+gasp
+You gasp.
+>
+Kiralyn gasps loudly!
+
+Shylara exclaims in Secian, "no!"
+shiv
+You shiver.
+>
+Shylara pulls Kiralyn closer to her offering comfort.
+
+Kiralyn shouts in Secian, "Run, Urganzeal!"
+
+Kiralyn flails her arms about wildly.
+
+Kiralyn holds Shylara close.
+
+Weldoian says in Secian, "The Muatana-Al mesmerized Urganzeal, seizing control of his will and consciousness."
+
+Equality grins slightly.
+
+Shylara hugs Kiralyn tightly.
+
+Twilight fans her wings at Shylara and Kiralyn comfortingly.
+
+Weldoian says in Secian, "And though, try as hard as he might, he could do nothing as the Muat ripped the spell from his head."
+stare
+You stare.
+>
+Kiralyn frowns!
+
+Weldoian says in Secian, "Then, leaving him to die, the Muat was gone."
+
+Equality furrows his brow slightly.
+
+Shylara cries, a single tear coursing down her pale cheek.
+
+Weldoian says in Secian, "Urganzeal laid there for quite a long time before Rinanni once again appeared to him."
+
+Kiralyn leans her head on Shylara's shoulder.
+
+Shylara says in Secian, "He was alone again"
+
+Weldoian exclaims in Secian, "Oh, Rinanni!" Urganzeal cried. "I have failed you! How you must despise me!" "
+
+Shylara hugs Kiralyn, pulling .
+
+Weldoian asks in Secian, "Despise you?" said the goddess. "Oh, littlest Urganzeal, how could I despise you? You have been the bravest of your kind for years beyond measuring. All things end, all defenses fail. You have not failed me; you have honored me." "
+
+Kiralyn comforts Shylara.
+
+Shylara hugs Twilight.
+
+Weldoian says in Secian, "And so, once again, Urganzeal was returned to life."
+
+The adorable little bunny makes a chittering sound.
+appear mood happy
+
+You are now happy.
+
+>
+Shylara says in Secian, "she blessed him twice"
+
+Kiralyn exclaims in Secian, "Oh, thank Rinanni!"
+
+Shylara says in Secian, "She loves beyond all borders and pain"
+
+Shylara nods up and down.
+
+Kiralyn nods up and down to Shylara.
+who religion
+Followers of Elindale list activated!
+
+Current Adventurers
+
+ Gramliz Melanarth                   Veryn Whiteleaf                    
+ Glinka Dragondsfriend               Autumn Thistledown                 
+ Orlando Ari                         Lilioth Golden                     
+ Grad Hamfist                       
+
+You notice 7 adventurers.
+>
+Weldoian says in Secian, "But while the memories of the night were still fresh in his head, he had the knowledge of Rinanni's Love and Forgiveness and that gave him strength."
+
+Weldoian says in Secian, "With this new strength, he vowed that would take the spell from that Muatana-Al by any means necessary."
+
+Kiralyn smiles softly.
+appear mood worr
+
+You are now worried.
+
+>
+Shylara says in Secian, "brave brave Urganzeal"
+
+Starlyn just appeared.
+
+Weldoian says in Secian, "And so he started his search and, if he is still alive, I say he's still searchin'."
+
+Shylara pulls Starlyn closer to her.
+
+The adorable little bunny skulks nervously.
+
+Equality ponders..
+
+Shylara says in Secian, "Can we help"
+
+Weldoian says in Secian, "And that, my dear friends, be the story of Urganzeal the Secian."
+
+Weldoian smiles.
+
+Weldoian smiles to Shylara.
+apl to we
+Ignoring unknown command, "apl."
+>
+Equality applauds to Weldoian.
+
+Weldoian exclaims to Shylara in Secian, "Why surely!"
+
+Shylara smiles at Weldoian.
+appl to we
+You applaud to Weldoian.
+>
+Equality exclaims to Weldoian in Secian, "Yay!"
+
+Equality says to Weldoian in Secian, "Good story."
+
+Starlyn applauds.
+
+Weldoian smiles.
+
+Weldoian just closed the open leather bound book of history.
+
+Twilight beams at Weldoian.
+
+Kiralyn beams to Weldoian.
+
+Shylara says in Secian, "Oh, yes, we must help poor Urganzeal"
+
+Kiralyn nods up and down to Shylara.
+
+Shylara exclaims in Secian, "Surely he will triumph!"
+
+The adorable little bunny skulks nervously.
+
+Equality says to Shylara in Secian, "Surely."
+
+Twilight says to Weldoian in Secian, "A fine telling o' the tale Weldo. And a most good choice for our history tonight."
+
+Shylara says in Secian, "Rinnani is on his side"
+
+Weldoian says to Shylara in Secian, "Surely."
+
+Starlyn says to Weldoian in Secian, "Thank you for the history.  We should all know the stories of the past."
+
+Twilight applauds weldo.
+
+Weldoian smiles to Twilight.
+
+Starlyn nods up and down.
+
+Shylara nods up and down.
+
+Weldoian nods to Starlyn.
+
+Weldoian says in Secian, "Oh, most definitely."
+
+Weldoian smiles.
+
+Shylara says in Secian, "I did not know this story, you've enlightened us all dearest Weldo"
+
+Shylara exclaims in Secian, "Thank you!"
+
+Weldoian smiles.
+
+Weldoian says in Secian, "'Twas my honor."
+
+Weldoian smiles.
+beam
+You beam.
+>
+Kiralyn asks Weldoian in Secian, "Does Urganzeal ever come to Spur?"
+l
+[Forest path.]
+
+The path seems to be disappearing before your very eyes. Travel any way but back to the northwest is blocked by foliage so dense as to prevent any further passage into the forest. An ancient oak tree festooned with bright colorful silk ribbons stands to the side of the disappearing path. Sparkling trinkets and gems hang from every available branch, a  cheerful tinkling noise filling the air with the slightest breeze.  A giant ancient oak tree, a fragrant bluish Secian rose, a tiny oak knothole, some glowing enchanted twinkling diamond candles, a low arching branch, an elegant crystal serving tray, an elegant crystal drink tray, a beautiful silver platter, and an open multicolored patched cotton carry-all are here.
+
+This area is illuminated.
+You see the 1st adorable little bunny (wearing a small gold collar).
+In the area are Shylara the Novice Secian (seated), Weldoian the Noble Secian (an adorable little bunny upon his left shoulder), Twilight the Noble Secian, Starlyn the Noble Secian (seated and holding a glowing swirling iridescent glass cube), Equality the Noble Secian (seated), and Kiralyn the Noble Secian (seated).
+Obvious paths: northwest*.
+>
+Starlyn furrows her brow in thought.
+
+Shylara says in Secian, "Too meet the first Rinannian Secian... what an honour that should be..."
+
+Weldoian says to Kiralyn in Secian, "I can't say I've e'er met him myself."
+
+Shylara ponders the meaning of the universe for a moment.
+
+Kiralyn nods up and down to Shylara.
+get can from car
+You remove the red and white candy cane from the open multicolored patched cotton carry-all.
+eat can
+>You take a bite of your red and white candy cane.
+Hmmm... not bad!
+>
+Shylara smiles at Kiralyn.
+
+Starlyn says in Secian, "I don't recall ever meeting him in my many years here."
+
+Weldoian nods to Starlyn.
+
+Shylara glances up toward the heavens.
+
+Weldoian says in Secian, "Unless RInanni keeps him alive, I'm sure he is long since dead."
+
+Shylara says in Secian, "But he is out there, protecting us all with his mission"
+
+Weldoian says in Secian, "While the Muat surely continues to live.  They do have long lifespans."
+gri
+You grin.
+>
+Kiralyn asks Weldoian in Secian, "But then...that would mean he never found the Muatana-al, right?"
+
+Shylara says in Secian, "Alive or moved on...... we will carry his story in our hearts forever"
+
+Your stomach growls.
+
+Starlyn's stomach growls.
+
+Starlyn's glowing swirling iridescent glass cube flickers for a moment.
+
+Shylara says in Secian, "And he shall live"
+eat can
+You take a bite of your red and white candy cane.
+Hmmm... not bad!
+eat can
+>You take a bite of your red and white candy cane.
+Hmmm... not bad!
+You belch.
+>
+Weldoian says in Secian, "Well, mayhaps he succeeded in his quest."
+blu
+You blush.
+>
+Kiralyn ponders.
+
+Kiralyn giggles to you quietly.
+
+Weldoian says in Secian, "After all, nothing truly so horrible has happened."
+
+wink back Impishly!
+Shylara winks at you.
+You wink back Impishly!
+>
+Equality nods to Weldoian.
+
+Shylara whispers in Secian, "oh my!  what wonderful candy does to us!"
+
+Shylara giggles.
+
+Equality says in Secian, "That's what I was thinking.."
+
+Weldoian smiles.
+wh to shy and how!
+You whisper to Shylara in Secian.
+>
+Shylara nods to Equality.
+
+Weldoian says in Secian, "But aye, we mustn't forget."
+
+Weldoian smiles to Shylara.
+
+Starlyn says in Secian, "Does anyone else have a story to tell - it need not be a history such as Weldo's...  any story will do."
+
+Shylara pulls Equality closer to her.
+
+Shylara smiles at Weldoian.
+
+Weldoian says in Secian, "Forgeting would dishonor his efforts."
+
+Weldoian smiles.
+
+Equality leans on Shylara lightly.
+
+Equality ponders..
+
+The adorable little bunny cleans its face.
+
+Shylara says in Secian, "I will tell this story to any I meet to witness in faith for him"
+
+Starlyn smiles at Shylara.
+
+Kiralyn beams to Shylara.
+
+Weldoian smiles to Shylara.
+
+Shylara smiles peacefully.
+
+Weldoian says to Shylara in Secian, "Not Muats, I hope.  I doubt they'd enjoy it much."
+l
+[Forest path.]
+
+The path seems to be disappearing before your very eyes. Travel any way but back to the northwest is blocked by foliage so dense as to prevent any further passage into the forest. An ancient oak tree festooned with bright colorful silk ribbons stands to the side of the disappearing path. Sparkling trinkets and gems hang from every available branch, a  cheerful tinkling noise filling the air with the slightest breeze.  A giant ancient oak tree, a fragrant bluish Secian rose, a tiny oak knothole, some glowing enchanted twinkling diamond candles, a low arching branch, an elegant crystal serving tray, an elegant crystal drink tray, a beautiful silver platter, and an open multicolored patched cotton carry-all are here.
+
+This area is illuminated.
+You see the 1st adorable little bunny (wearing a small gold collar).
+In the area are Shylara the Novice Secian (seated), Weldoian the Noble Secian (an adorable little bunny upon his left shoulder), Twilight the Noble Secian, Starlyn the Noble Secian (seated and holding a glowing swirling iridescent glass cube), Equality the Noble Secian (seated), and Kiralyn the Noble Secian (seated).
+Obvious paths: northwest*.
+>
+Starlyn chuckles.
+
+Weldoian says in Secian, "They don't care much for own kind."
+
+Shylara says to Weldoian in Secian, "I admit.... I've so much fear of ever meeting one.  I doubt that I'd be as strong as dear Urganzeal"
+
+Weldoian smiles to Shylara.
+
+Starlyn says in Secian, "Please, everyone help yourselves to the refreshments.  I'd hate for them to go to waste."
+beam to st
+You beam to Starlyn.
+>
+Shylara snuggles with Equality.
+l in ser
+Inside the elegant crystal serving tray you see a crisp green salad, a crisp green salad, a crisp green salad, a crisp green salad, a crisp green salad, a crisp green salad, a crisp green salad, a crisp green salad, a crisp green salad, a crisp green salad, a crisp green salad, a crisp green salad, a crisp green salad, a crisp green salad, a crisp green salad, a fruit tart, a fruit tart, a fruit tart, a fruit tart, a fruit tart, a fruit tart, a fruit tart, a fruit tart, a fruit tart, a fruit tart, a fruit tart, a fruit tart, a fruit tart, and a fruit tart.
+>
+Shylara beams at Starlyn.
+
+Weldoian says to Shylara in Secian, "And mayhaps ye'll be lucky to ne'er meet one."
+get fru from ser
+You remove the fruit tart from the elegant crystal serving tray.
+eat fr
+>You take a bite of your fruit tart.
+Hmmm... not bad!
+>You see Weldoian take a bite of his roasted trout.
+
+Starlyn just removed a fruit tart from within the elegant crystal serving tray.
+
+Shylara just removed a fruit tart from within the elegant crystal serving tray.
+
+Shylara beams.
+You see Starlyn take a bite of her fruit tart.
+wri at we
+You wrinkle your nose at Weldoian.
+>You see Shylara take a bite of her fruit tart.
+
+Weldoian blinks.
+
+Weldoian asks Glinka in Secian, "What?"
+
+Shylara offers something to Equality.
+
+Starlyn says to Glinka in Secian, "To each their own."
+
+Starlyn smiles.
+
+Equality accepts Shylara's offer.
+' flesh 
+
+Glinka says in Secian, " flesh "
+>
+Equality exclaims to Shylara in Secian, "Thanks!"
+
+Weldoian exclaims in Secian, "Oh!"
+bla
+
+Shylara just removed a fruit tart from within the elegant crystal serving tray.
+You blanch.
+>
+Shylara giggles.
+
+Weldoian says to Glinka in Secian, "I don't normally eat meat, fish, or poultry, but, I figure, hey.  I'll give myself a treat."
+
+Weldoian exclaims to Glinka in Secian, "Better than that evil nasty sticky stuff ye have!"
+shiv
+You shiver.
+>
+Weldoian sticks his tongue out at you.
+
+Weldoian cringes.
+You see Equality take a bite of his fruit tart.
+You see Equality take a bite of his fruit tart.
+You see Equality take a bite of his half-eaten fruit tart.
+
+Equality says in Secian, "Mmm.. Fruity."
+You see Equality take a bite of his half-eaten fruit tart.
+nod yes to eq
+You nod up and down to Equality.
+>You see Equality eat the last of his half-eaten fruit tart.
+
+Starlyn says in Secian, "I don't mind fish, although trout is a bit too... fishy for me."
+
+Shylara smiles softly.
+
+Shylara nods to Starlyn.
+
+Equality grins to Starlyn.
+
+Weldoian chuckles softly.
+You see Weldoian take a bite of his half-eaten roasted trout.
+
+Shylara says in Secian, "Sugar is always the better choice"
+
+Starlyn blanches.
+
+Weldoian wrinkles his nose.
+
+Shylara grins impishly.
+
+Weldoian says in Secian, "Sugar is evil."
+
+Equality says to Shylara in Secian, "Nuh uh."
+
+Starlyn says in Secian, "Too much of anything is a bad thing"
+
+Weldoian cringes.
+
+Starlyn smiles.
+
+Equality exclaims to Weldoian in Secian, "And how!"
+
+Equality holds Weldoian close.
+
+Equality says to Weldoian in Secian, "You're totally on my side."
+
+Shylara laughs.
+
+[ The sun is beginning to set. ]
+l
+[Forest path.]
+
+The path seems to be disappearing before your very eyes. Travel any way but back to the northwest is blocked by foliage so dense as to prevent any further passage into the forest. An ancient oak tree festooned with bright colorful silk ribbons stands to the side of the disappearing path. Sparkling trinkets and gems hang from every available branch, a  cheerful tinkling noise filling the air with the slightest breeze.  A giant ancient oak tree, a fragrant bluish Secian rose, a tiny oak knothole, some glowing enchanted twinkling diamond candles, a low arching branch, an elegant crystal serving tray, an elegant crystal drink tray, a beautiful silver platter, and an open multicolored patched cotton carry-all are here.
+
+This area is illuminated.
+You see the 1st adorable little bunny (wearing a small gold collar).
+In the area are Shylara the Novice Secian (seated), Weldoian the Noble Secian (an adorable little bunny upon his left shoulder), Twilight the Noble Secian, Starlyn the Noble Secian (seated and holding a glowing swirling iridescent glass cube), Equality the Noble Secian (seated), and Kiralyn the Noble Secian (seated).
+Obvious paths: northwest*.
+>
+Weldoian says to Equality in Secian, "Nae...ye are MY side."
+
+Weldoian sticks his tongue out at Equality.
+
+Equality pouts.
+
+Equality says in Secian, "Well, okay."
+
+Weldoian winks.
+
+Starlyn asks in Secian, "So none have a story they'd like to share?"
+
+Equality leans his head on Weldoian's shoulder.
+
+Shylara says in Secian, "Balance is important... but difficult to acheive near a tray full of tarts"
+
+Shylara laughs brightly.
+
+Equality says in Secian, "I would tell the story of the mysterious vanishing pants.."
+
+Shylara listens intently.
+
+Kiralyn just removed a crisp green salad from within the elegant crystal serving tray.
+
+Equality asks in Secian, "But the tale is yet to be finished, you know?"
+
+Starlyn giggles.
+
+Shylara says to Equality in Secian, "I am up for half a tail"
+gri to e
+You grin to Equality.
+>
+Weldoian says in Secian, "There's always the story of the Secian Nest."
+
+Equality says in Secian, "All I have right now is the climax."
+
+Shylara says in Secian, "You can tell the rest later"
+
+Shylara listens intently to Weldoian.
+
+Shylara asks in Secian, "Nest?"
+
+Equality says to Weldoian in Secian, "Do tell."
+
+Weldoian nods to Shylara.
+You see Kiralyn take a bite of her crisp green salad.
+You see Kiralyn take a bite of her crisp green salad.
+You see Kiralyn take a bite of her crisp green salad.
+You see Kiralyn take a bite of her half-eaten crisp green salad.
+
+Weldoian says in Secian, "It happened several weeks ago."
+
+The adorable little bunny skulks nervously.
+You see Kiralyn take a bite of her half-eaten crisp green salad.
+info
+
+You are Glinka Dragondsfriend, a delicate boned and wiry-tough bodied 41 year old Orderly Female adolescent Secian Cleric of the Order of the Heart.  You are 1'2" and weigh 12 lbs.  You are seated.  You are hungry.  You are sloshing.
+
+HP: 125 of 125  Ftg:  68 of  68  Carry: 11.0 of 37.0 lbs.
+
+ Str   Int   Wis   Dex   Agi   Con   Cha   Wil   Voi   Per   App
+Fair  Aver  Aver  Aver  Good  Good  Good  Good  Aver  Good  Aver  
+
+Use: INFO <subject> for more info.
+(Valid subjects: RELIGION, MAGICK, LANGUAGES, MARTIALARTS, MONEY, RUNESPELLS, TITLES, DISGUISE, PSIONICS)
+
+>
+Kiralyn pets the adorable little bunny.
+
+Shylara just removed a crisp green salad from within the elegant crystal serving tray.
+You see Starlyn take a bite of her fruit tart.
+You see Starlyn take a bite of her fruit tart.
+
+Kiralyn offers something to the adorable little bunny.
+
+The adorable little bunny accepts Kiralyn's offer.
+
+It consumes a half-eaten crisp green salad.
+
+Kiralyn smiles to the adorable little bunny.
+You see Shylara take a bite of her crisp green salad.
+
+Shylara beams.
+You see Shylara take a bite of her crisp green salad.
+
+Shylara exclaims in Secian, "Tell us Weldo, please tell us of the nest!"
+
+Equality grins a bit.
+
+Shylara nods up and down crossing her legs and sitting up tall.... her eyes bright and alert.
+
+Weldoian says in Secian, "There was once a goose called Weldo.  And he lived in a Nest alogn with Charis the Chicken, Equality the Penguin, Zackie the Owl, Oake the Dodo, Twilight the Bluejay, and Sast the Paradise Bird"
+
+Equality says in Secian, "Oh Rinanni.."
+
+Weldoian cackles.
+
+Shylara giggles.
+
+Weldoian winks to Equality.
+gig
+You giggle.
+>
+Equality murmurs at Weldoian..
+
+Shylara ponders what she might be.
+
+Equality says to Weldoian in Secian, "I don't think I like this story."
+wh to shy hoot owl?
+You whisper to Shylara in Secian.
+>
+Shylara giggles.
+
+Kiralyn ponders.
+gri
+You grin.
+>
+Kiralyn giggles.
+
+Weldoian says in Secian, "Well, alright, I won't tell it."
+
+Shylara whispers in Secian, "how about the little owl... the fuzzy white one... whatever are they called?"
+
+Kiralyn exclaims to Equality in Secian, "You have a penguin named after you!"
+
+Equality exhales!
+
+Kiralyn beams to Equality.
+
+Kiralyn says to Equality in Secian, "You should be honored."
+
+Kiralyn nods up and down.
+
+Equality says to Kiralyn in Secian, "It gets weird."
+
+Kiralyn ponders.
+
+The adorable little bunny chases its tail.
+
+Equality says to Kiralyn in Secian, "Eventually I get sent off all by my lonesome self."
+wh to shy snow owl?
+You whisper to Shylara in Secian.
+>
+Kiralyn comforts Equality!
+
+Equality says in Secian, "For my ideals regarding the nest."
+
+Equality sighs!
+
+Shylara nods up and down to you.
+
+Weldoian says in Secian, "The end of the story is that the Nest made amends with the Phoenixes while the rebel Penguin went off to destinations unknown."
+
+Weldoian nods.
+
+Equality nods sadly.
+
+Equality says in Secian, "Poor little penguin.."
+chu delicately , brushing back her long kinky white hair
+You chuckle delicately , brushing back her long kinky white hair.
+>
+Shylara exclaims in Secian, "A snowy owl!  I wish to be a snowy owl!"
+
+Your stomach growls.
+
+Starlyn's glowing swirling iridescent glass cube flickers for a moment.
+eat fru
+You take a bite of your fruit tart.
+Hmmm... not bad!
+eat fru
+eat fru
+>You take a bite of your fruit tart.
+Hmmm... not bad!
+>You take a bite of your half-eaten fruit tart.
+Hmmm... not bad!
+info
+>
+You are Glinka Dragondsfriend, a delicate boned and wiry-tough bodied 41 year old Orderly Female adolescent Secian Cleric of the Order of the Heart.  You are 1'2" and weigh 12 lbs.  You are seated.  You are hungry.  You are sloshing.
+
+HP: 125 of 125  Ftg:  68 of  68  Carry: 11.0 of 37.0 lbs.
+
+ Str   Int   Wis   Dex   Agi   Con   Cha   Wil   Voi   Per   App
+Fair  Aver  Aver  Aver  Good  Good  Good  Good  Aver  Good  Aver  
+
+Use: INFO <subject> for more info.
+(Valid subjects: RELIGION, MAGICK, LANGUAGES, MARTIALARTS, MONEY, RUNESPELLS, TITLES, DISGUISE, PSIONICS)
+
+>
+Shylara just removed a crisp green salad from within the elegant crystal serving tray.
+
+Shylara just placed a crisp green salad within her small jeweled velvet trinket pouch.
+
+The adorable little bunny cleans its face.
+
+Shylara just removed a fruit tart from within the elegant crystal serving tray.
+
+Shylara giggles.
+
+Kiralyn tickles the adorable little bunny under the chin.
+
+Shylara just placed a pink pearl within her small jeweled velvet trinket pouch.
+
+Equality just removed a fruit tart from within the elegant crystal serving tray.
+
+Kiralyn asks the adorable little bunny in Secian, "How are you, Buster?"
+
+Equality says in Secian, "It's nice we could all get together."
+
+Shylara just placed a large translucent rainbow diamond faerie charm within her small jeweled velvet trinket pouch.
+
+Equality says in Secian, "I hope everyone is doing well."
+nod yes to e
+You nod up and down to Equality.
+>
+Kiralyn nods up and down to Equality.
+
+Kiralyn smiles.
+
+Equality nods.
+
+Equality says in Secian, "It's nice to know."
+
+Shylara asks in Secian, "I would like to say something, if it is ok?"
+
+Equality says to Shylara in Secian, "Don't see why it wouldn't be."
+
+Kiralyn nods up and down to Shylara.
+nod yes to shy
+
+Kiralyn listens intently to Shylara.
+You nod up and down to Shylara.
+>
+Shylara smiles.
+
+Equality smiles to Shylara.
+
+Shylara stands up.
+l at shy
+
+Shylara looks like a 1'7" standard young delicate boned, obese bodied Secian.
+She has medium length, tied back, wiry golden blonde hair, with ruby red eyes, and looks orderly.
+She appears to be loving right now.
+She bears the mark of Rinanni.
+She can be attacked by other players.
+She appears to be in perfect health.
+
+Physical appearance:
+
+Before you stands a delicate, tiny creature of faith.  She whispers quietly and you feel a warmth that is her love and health slipping from a single finger directly to your wound or pain.  If you are quiet and raise no hand in harm, she will come to you 
+
+                        Visible Equipment
+A violet silk bow                                  (on head)
+A closed large rainbow leather backpack            (on back)
+Some beaded white satin slippers                   (on feet)
+A violet velvet cloak                              (over armor)
+A tiny sparkling amber earring                     (right ear)
+A tiny sparkling amber earring                     (left ear)
+Some white silk clerical robes                     (dress)
+Some red and white velvet leggings                 (pants)
+A white silk bodice                                (shirt)
+A braided purple leather belt                      (on belt)
+A small jeweled velvet trinket pouch               (on belt)
+>
+Shylara smiles and open her arms widely.
+
+Shylara says in Secian, "When first I heard of Spur... it's size and turmoil"
+
+Shylara says in Secian, "All the races and all the Gods and Goddesses"
+
+Shylara says in Secian, "I was very scared to come"
+
+[ Night falls. The sun has set. ]
+
+Shylara says in Secian, "Sheltered was my life at home"
+
+Shylara nods slowly.
+
+Sast, wings swirling with emerald light, just appeared.
+
+Sast blinks.
+
+Sast flails his arms about wildly.
+
+Kiralyn beams to Sast.
+
+Shylara says in Secian, "I was loved by my family and sent off to learn at the academy"
+
+Weldoian smiles.
+
+Equality listens intently to Shylara.
+
+Weldoian listens intently.
+
+Shylara says in Secian, "Then, I came here... afraid and alone"
+
+Shylara says in Secian, "Within seconds.. truly it was that fast"
+nod softly
+You nod softly.
+>
+Shylara says in Secian, "You all came to me, gathered me into your hearts and brought me to your homes"
+
+Kiralyn beams to Shylara warmly.
+
+Shylara says in Secian, "Clothed me, fed me.... showed me my beautiful temple"
+
+Shylara says in Secian, "And helped me to gather enough donations to learn my turning"
+sk
+
+Skill                     Remain Level
+ First Aid                 95     1     
+ Channeling                215    5     
+ Blunt Weapons             352    4     
+ Spellcasting              2509   16    
+ Turn Undead               816    7     
+ Identify Gems/Minerals    716    7     
+ Shield Parry              100    1     
+ Identify Magick           67     1     
+ Swimming                  82     2     
+ Brawling                  100    1     
+
+>
+Shylara says in Secian, "I just wanted to thank you so much... I felt loved and welcomed from day one."
+beam
+You beam.
+hu shy
+>You hug Shylara.
+>
+Shylara says in Secian, "This is a wonderful community"
+
+Weldoian smiles to Shylara.
+
+Shylara smiles warmly.
+
+Equality smiles quietly.
+
+Shylara curtsies politely.
+
+Shylara says in Secian, "That's all"
+
+Shylara blushes.
+
+Shylara sits down.
+
+Kiralyn claps softly.
+
+Equality says to Shylara in Secian, "We are happy to have you apart of it."
+
+Shylara beams.
+
+Kiralyn nods up and down in agreement.
+
+Shylara smiles at Kiralyn.
+
+Sast smiles at Shylara.
+
+Kiralyn smiles to Shylara.
+
+Shylara says in Secian, "Thank you, I hope I will be of the same help to another one day"
+
+Shylara says in Secian, "You've taught me well"
+
+Shylara nods up and down.
+
+Starlyn smiles.
+
+Twilight, with a slow and careful pace, just appeared.
+smi at shy delicately , brushing back her kinky white hair
+You smile at Shylara delicately , brushing back her kinky white hair.
+>
+Twilight mutters something beneath her breath.
+
+Weldoian says to Shylara in Secian, "Ye'll get your chance, I'm quite sure."
+
+Weldoian smiles to Shylara.
+com t
+You comfort Twilight.
+>
+Sast grins.
+
+Shylara winks at Weldoian.
+
+Kiralyn nods up and down to Weldoian.
+
+Twilight asks in Secian, "So... Why precisely was I a bluebird?"
+
+Twilight giggles.
+
+Shylara laughs.
+
+Kiralyn giggles.
+
+Weldoian says to Twilight in Secian, "Nae reason besides it was the first bird that came to mind."
+
+Twilight grins.
+
+Sast grins.
+
+Kiralyn says in Secian, "Bluebirds are pretty, though."
+
+Shylara says in Secian, "Glinka says I am a snowy owl"
+
+Equality asks Weldoian in Secian, "What was I originally?"
+
+Kiralyn says in Secian, "That's a good bird to be."
+
+Shylara says in Secian, "hoot"
+
+The adorable little bunny cleans its face.
+
+Kiralyn nods up and down.
+nod yes to shy
+You nod up and down to Shylara.
+>
+Shylara grins impishly.
+
+Sast ponders.
+
+Twilight says in Secian, "Wast only teasing because that wast the last thing I heard."
+
+Twilight grins.
+
+Sast asks in Secian, "Falcon with cat ears?"
+
+Equality exclaims to Sast in Secian, "Yep!"
+
+Equality says in Secian, "That is correct."
+
+Shylara laughs.
+
+Sast exclaims in Secian, "It was a winged cat but that wasn't a bird!"
+
+Equality says to Sast in Secian, "I couldn't recall."
+
+Weldoian exclaims in Secian, "HONK!"
+
+Weldoian coughs.
+
+Weldoian winks.
+
+Equality says to Weldoian in Secian, "Wrock."
+
+Starlyn chuckles.
+gig
+You giggle.
+>
+The adorable little bunny skulks nervously.
+
+Sast exclaims to Weldoian in Secian, "Goose!"
+
+Shylara pokes Weldoian playfully.
+
+Sast points at Weldoian.
+You see Equality take a bite of his fruit tart.
+You see Equality take a bite of his fruit tart.
+You see Equality take a bite of his fruit tart.
+
+Shylara exclaims in Secian, "Duck duck goose!"
+You see Equality take a bite of his half-eaten fruit tart.
+
+Shylara flails her arms about wildly.
+You see Equality take a bite of his half-eaten fruit tart.
+
+Equality snickers.
+l
+[Forest path.]
+
+The path seems to be disappearing before your very eyes. Travel any way but back to the northwest is blocked by foliage so dense as to prevent any further passage into the forest. An ancient oak tree festooned with bright colorful silk ribbons stands to the side of the disappearing path. Sparkling trinkets and gems hang from every available branch, a  cheerful tinkling noise filling the air with the slightest breeze.  A giant ancient oak tree, a fragrant bluish Secian rose, a tiny oak knothole, some glowing enchanted twinkling diamond candles, a low arching branch, an elegant crystal serving tray, an elegant crystal drink tray, a beautiful silver platter, and an open multicolored patched cotton carry-all are here.
+
+This area is illuminated.
+You see the 1st adorable little bunny (wearing a small gold collar).
+In the area are Shylara the Novice Secian (seated), Weldoian the Noble Secian (an adorable little bunny upon his left shoulder), Twilight the Noble Secian, Sast the Secian (seated), Starlyn the Noble Secian (seated and holding a glowing swirling iridescent glass cube), Equality the Noble Secian (seated), and Kiralyn the Noble Secian (seated).
+Obvious paths: northwest*.
+>
+Weldoian grins.
+You see Equality eat the last of his half-eaten fruit tart.
+
+Twilight asks in Secian, "Anyone else have a story to tell?"
+
+Shylara listens intently.
+
+Equality ponders..
+' i only remember one old tale..kinda scary one told by my godmother...
+
+Kiralyn, her wild golden blonde hair gleaming in the light, just appeared.
+
+Glinka says in Secian, " i only remember one old tale..kinda scary one told by my godmother..."
+>
+Starlyn says in Secian, "id ruby"
+shiv
+You shiver.
+>
+Shylara says in Secian, "And if any remember the name of that dragon... I do get so fixated"
+
+Shylara murmurs something beneath her breath.
+
+Starlyn groans softly.
+
+Shylara listens intently to you.
+
+Twilight nuzzles Shylara.
+
+Shylara hugs Twilight tightly.
+
+Weldoian listens intently to you.
+gri
+You grin.
+' is okay then?
+>
+Glinka asks in Secian, " is okay then?"
+>
+Weldoian exclaims to Glinka in Secian, "Come now, I can't be the only old geezer tellin' a story tonight!"
+
+wink back Impishly!
+Weldoian winks to you.
+You wink back Impishly!
+>
+Twilight says to Glinka in Secian, "We are all ears dear."
+gig
+You giggle.
+>
+Sast says in Secian, "We all want to hear"
+
+Sast beams.
+
+Kiralyn just removed a weathered blue pearl from within her delicate midnight blue spidersilk gem pouch.
+
+Sast applauds.
+' oki...lesseee
+
+Glinka says in Secian, " oki...lesseee"
+>
+Equality nods firmly.
+inh deeply
+You inhale deeply.
+>
+Equality listens intently to you.
+bow her head a moment, long soft kinky locks falling over a sun browned bare shoulder...
+sp
+You bow her head a moment, long soft kinky locks falling over a sun browned bare shoulder...
+>You are now speaking Common.
+' A Tale...
+>
+Glinka says, " A Tale..."
+' We shall see 
+>
+Glinka says, " We shall see "
+'What shall be seen
+>
+Glinka says, "What shall be seen"
+' The water is pure
+>
+Glinka says, " The water is pure"
+' The grass is green
+>
+Glinka says, " The grass is green"
+' The wynd is the weather
+>
+Glinka says, " The wynd is the weather"
+' Nyte fires burn cold
+>
+Glinka says, " Nyte fires burn cold"
+' Comes darkling Nyte,
+>
+Glinka says, " Comes darkling Nyte,"
+' ...And the hunt for souls..
+>
+Glinka says, " ...And the hunt for souls.."
+gri darkly, her large eyes burning bryte..
+>You grin darkly, her large eyes burning bryte..
+>
+Kiralyn shivers.
+' The Great Ones gather
+
+Glinka says, " The Great Ones gather"
+' Full fell and dread
+>
+Glinka says, " Full fell and dread"
+' The wynd speaks in whispers,
+>
+Weldoian blinks.
+
+Glinka says, " The wynd speaks in whispers,"
+' Solstice moon glows red
+>
+Glinka says, " Solstice moon glows red"
+shiv softly , goosebumps running down her small tanned arms...
+>You shiver softly , goosebumps running down her small tanned arms...
+' They come from madness
+>
+Glinka says, " They come from madness"
+' They go to war
+>
+Glinka says, " They go to war"
+' In bloodied pouches
+>
+Glinka says, " In bloodied pouches"
+' Strange thyng they store
+>
+Glinka says, " Strange thyng they store"
+bow her head softly
+>You bow her head softly.
+>
+Twilight smiles.
+' Small whyte flowers
+
+Glinka says, " Small whyte flowers"
+' From the Maidenhair 
+>
+Glinka says, " From the Maidenhair "
+' One for each life taken
+>
+Glinka says, " One for each life taken"
+' Laid on ground so bare
+>
+Glinka says, " Laid on ground so bare"
+>
+Starlyn's glowing swirling iridescent glass cube flickers for a moment.
+tremble softly..
+You tremble softly..
+' The darkness deepens
+>
+Glinka says, " The darkness deepens"
+' Wynd howls in fryte
+>
+Glinka says, " Wynd howls in fryte"
+' And in their wake
+>
+Glinka says, " And in their wake"
+' Small flowers...so whyte
+>
+Glinka says, " Small flowers...so whyte"
+bla a whyter shade of pale...
+>You blanch a whyter shade of pale...
+>
+Kiralyn cringes.
+' Beware the wand'ring steps you take
+
+Glinka says, " Beware the wand'ring steps you take"
+>
+Shylara furrows her brow.
+' The silent thoughts
+
+Glinka says, " The silent thoughts"
+' Swift choices to make..
+' Beware the nyte
+' When the moon is red
+' And look not into
+' The eyes of Dread
+grimace in horror....
+' swift choices to make
+' Beware the tymes
+' Nyte fires won't burn
+l
+' And remember well
+' What you have learn'd
+nod yes knowingly...
+' Plant not Maidenhair
+' Upon your 'stead
+' Hang soft green elwyn
+' Above your bed
+smi softly at you...
+' But most of all
+' Beware the cold...
+' The season where

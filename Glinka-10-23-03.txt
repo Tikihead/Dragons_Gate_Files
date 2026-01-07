@@ -1,0 +1,1046 @@
+
+Kiralyn's group just entered through an open star etched amber door.
+l
+[Tree of Shadows.]
+
+Wavering white-hot orange flames swirl from a large opal disk that hovers as a centerpiece in this immense tree. Gnarled wooden stairs spiral and climb up the walls of the rounded bough, disappearing into a dark zenith. Shapeless figures dance and undulate on the walls, creating a spectacle of slow spinning shadows that unfurl into jackals and snakes. Howls of delights roar then fade into the distance as merrymakers disappear down a slithering slide, which cascades into a void of darkness way below.  An open star etched amber door, some steep spiraling stairs, and a wickedly curled slide are here.
+
+This area is illuminated.
+In the area are Syai the Noble Drake (flying 5 feet above ground) and Kiralyn the Secian (holding a glowing ghoulish orange glass pumpkin).
+Obvious paths: None.
+>
+Kiralyn giggles at you.
+go lad
+I don't see what you are referring to.
+gig
+>You giggle.
+>
+Syai dives out of the sky, and just as you think she will crash, she unfolds her wings and lands softly beside you.
+
+Kiralyn exclaims to Glinka, "Why, hello!"
+' why hi
+
+Glinka says, " why hi"
+gri
+>You grin.
+' weee
+>
+Glinka says, " weee"
+go sli
+>[Tree of Shadows.]
+
+Snakelike flames lick the air above, as shadows stand motionlessly against the hasty draft that cuts like a serpent's tongue through the underground roots. A circlet of paper demons crowns the tree's lifeless roots, which dig into the earth like knotted joints. Tiny black bugs cover the base of the tree's trunk as small figures burrow themselves in a large dark hole.  A small dark dirt hole is here.
+
+This area is illuminated.
+Obvious paths: None.
+go ho
+>[Trinki the Flerian's Shoppe in the Ground.]
+
+Walls of pressed earth and roughly cut stone surround a haphazard assortment of various trinkets and tools scattered across the floor. Two matching boxes sit next to each other near the burrows entrance. Feeble light flickers from a small magickally glowing yellowish ball, which is encased within a metal lantern that sits on a black wooden desk. Shadows obscure a pair of closed, locked boxes jutting out from underneath the desk.  A small dark dirt hole, a narrow dirt tunnel, and a pair of glowing demon carved pumpkins are here.
+
+This area is illuminated.
+Obvious paths: None.
+shop list all
+>
+Id# Item Type  Item Name                                     New Amount Value
+--- ---------- --------------------------------------------- --- ------ -----
+  2 Wpn/Blunt  sand filled leather sap                       Yes x23    3gp
+  4 Lockpicks  serpentine etched carbide lockpick            Yes x6     12gp
+  5 Wpn/Sharp  short amber-hilted moonsilver crescent dagger Yes x17    60gp
+
+go tu
+>[Skirtleby's Morsel Shoppe.]
+
+Tiny morsels overflow from glass jars, as steam swirls from a cauldron of bubbling witches' brew. Dressed in a bloodstained apron, a cross-eyed Go-blin-al stands behind the wooden counter that is formed from an oversized tree root. Tattered garlands, stolen from the Elindale festival, decorate the small shoppe. As a foul smelling wind stirs the air, the small merchant fans a crooked hand behind him. Baskets of freshly baked pastries and body parts tantalize the senses with delightful repulsion, while cheerfully dressed Secians circle around the black cloth covered tables, escaping the grasp of snot nosed patrons.  A glowing stone fireplace, some short black and gold tables and chairs, a narrow dirt tunnel, and an open dusty wooden trapdoor are here.
+
+This room is illuminated.
+You see the 1st short spaglen tier.
+Obvious exits: None.
+pet ti
+>You pet the short spaglen tier.
+l at ti
+>It looks like a small short spaglen tier.
+
+It looks like a spaglen tier just in from Saldaea.  Closer examination reveals a pair of youthful eyes that peak out from behind an otherwise realistic looking costume.
+It has a head, 2 arms, 2 legs.
+
+It appears to be in good shape.
+It will be very hard for you to hit and it will be hard for it to hit you!
+
+It is also carrying the following item:
+
+  A brilliant blue and white garland of flowers
+  Some silver coins
+  A rosewood carved ship in a bottle
+shop list all
+>
+Id# Item Type  Item Name                                     New Amount Value
+--- ---------- --------------------------------------------- --- ------ -----
+  1 Food       strangely blood red popcicle                  Yes x190   75sp
+  2 Food       ripe red bloodfruit                           Yes x149   50sp
+  3 Food       malevolent black apple                        Yes x195   25sp
+  4 Food       jar of red and black hissing scorpions        Yes x193   2gp
+  5 Food       carefully wrapped mummified surprise          Yes x197   1gp
+  6 Food       jar of pickled eyeballs                       Yes x197   50sp
+  7 Food       oozing slimy tentacle of the deep             Yes x194   25sp
+  8 Food       bloody severed finger sandwich                Yes x198   1gp+50sp
+  9 Food       roasted black vampire bat on a stick          Yes x193   2gp
+ 10 Food       vanilla frosted pumpkin-hazlenut cake         Yes x174   50sp
+ 11 Food       sugary piece of apple-blackberry pie          Yes x174   50sp
+ 12 Food       twinkling black chocolate cat cookie          Yes x136   25sp
+ 13 Drink      cup of hot apple spiders                      Yes x198   10sp
+ 14 Drink      small green glass of wormwood tincture        Yes x198   3gp
+ 15 Drink      small pot of bubbling witches' brew           Yes x197   1gp
+ 16 Drink      goblet of sweet candy apple punch             Yes x191   1gp
+ 17 Drink      steaming tankard of bleeding heart ale        Yes x196   30sp
+
+go tr
+>[Ash'cli Woods.]
+
+Crimson, golden, and orange leaves tangle harshly with the wind as the night air cuts through the twisted branches boastfully. An ashen tree, whose branches are like a crippled old woman's hand, hangs heavily over a large glass tank. Red crystal apples bob rapidly as the chill of night stirs the water inside the tank. As the water churns and the wind rushes through the trees, a flock of black birds escape hastily from the branches above, sending a whirlwind of leaves to the ground.  An apple filled glass tank and a pair of glowing vine-covered pumpkins are here.
+
+This area is illuminated.
+In the area are Syai the Noble Drake and Kiralyn the Secian (holding a glowing ghoulish orange glass pumpkin).
+Obvious paths: north southeast.
+gig
+>You giggle.
+n
+>[Ash'cli Woods.]
+
+Sinuous vines twist around the tree trunks and stretch themselves from one tree to the next.  Crimson and orange leaves swirl lightly as a soft breeze blows through.  Two of the smaller trees bend towards each other, their upper branches entwining and forming a natural arch.  A shimmering spiderweb curtain hangs from the archway, glowing softly from behind.    A shimmering spiderweb curtain and a pair of kissing pumpkins are here.
+
+This area is illuminated.
+Obvious paths: south* northwest*.
+nw
+>[Ash'cli Woods, Tree of Shadows.]
+
+A skeletal tree stands like an imposing ghoul against the starlit purplish black landscape of night. The tree's long, leafless branches whip furiously with the wind as small orange lights flicker from small, crooked windows carved into the monstrous bough. Shrilled laughter mixed with eerie cries of terror carry on the hasty wind as a star etched wooden door swings on its hinges from the base of the tree.  A pair of glowing vine-covered pumpkins and an open star etched amber door are here.
+
+This area is illuminated.
+Obvious paths: north* northeast southeast*.
+go door
+>[Tree of Shadows.]
+
+Wavering white-hot orange flames swirl from a large opal disk that hovers as a centerpiece in this immense tree. Gnarled wooden stairs spiral and climb up the walls of the rounded bough, disappearing into a dark zenith. Shapeless figures dance and undulate on the walls, creating a spectacle of slow spinning shadows that unfurl into jackals and snakes. Howls of delights roar then fade into the distance as merrymakers disappear down a slithering slide, which cascades into a void of darkness way below.  An open star etched amber door, some steep spiraling stairs, and a wickedly curled slide are here.
+
+This area is illuminated.
+Obvious paths: None.
+go st
+>[Tree of Shadows.]
+
+The wind whines a slow, lingering wail through small cracks within the willow's wood.  A small platform winds itself around the bough and meets the entrance of a peculiar room with a crooked red door. At the foot of the door, two carved pumpkins glow with a soft yellowish light. Black shadows march across the innards of the tree like a parade of urchins of the night as tall and small figures in costume climb up a small wooden ladder.  Some steep spiraling stairs, an open crooked red wooden door, and a vine-covered ladder are here.
+
+This area is illuminated.
+Obvious paths: None.
+go lad
+>[Tree of Shadows.]
+
+Twinkling orange and black silk streamers, entwined in twists and swirls, hang all around this platform of the tree of shadows. From the center of the tree, a twinkling black spider hangs from an intricately woven cobweb. As the spider dangles, small prisms of light dance around the black silk lined walls of the tree. Eerie music and sounds carry on the air as a satin curtain gently billows with a hasty draft.  A vine-covered ladder, an open billowy black and orange satin curtain, and a giant glistening cobweb are here.
+
+This area is illuminated.
+Obvious paths: None.
+go lad
+>[Tree of Shadows.]
+
+The wind whines a slow, lingering wail through small cracks within the willow's wood.  A small platform winds itself around the bough and meets the entrance of a peculiar room with a crooked red door. At the foot of the door, two carved pumpkins glow with a soft yellowish light. Black shadows march across the innards of the tree like a parade of urchins of the night as tall and small figures in costume climb up a small wooden ladder.  Some steep spiraling stairs, an open crooked red wooden door, and a vine-covered ladder are here.
+
+This area is illuminated.
+Obvious paths: None.
+go door
+>[Goody Trinket's Costume Shoppe.]
+
+An old gray haired woman sits on a giant rocking chair, rocking back and forth slowly as she stares out a small dusty window. She cackles dramatically as if lost in a bizarre daydream, before she begins to hum a bizarre tune off key.  The notes fall and rise in an eerie melody, as the woman's glazed pale blue eyes roll inward and outward as she slowly weaves another stitch. Large satin-lined boxes sit on a long table, filled with odd and novel costumes of the season.  A crooked red wooden door and a pile of firewood are here.
+
+This room is illuminated.
+Obvious exits: None.
+shop list all
+>
+Id# Item Type  Item Name                                     New Amount Value
+--- ---------- --------------------------------------------- --- ------ -----
+  1 Pants      white linen bandage leggings                  Yes x49    10gp
+  2 Shirts     tightly wrapped linen bandages                Yes x49    10gp
+  3 Helms      loose white linen head bandages               Yes x49    5gp
+  4 Boots      flimsy gauze slippers                         Yes x47    2gp
+  5 Helms      snarling hand-painted wooden wyvern mask      Yes x49    10gp
+  6 Cloaks     huge scaly leather wings                      Yes x45    40sp
+  7 Dresses    dazzling sequined leather wyvern suit         Yes x50    50gp
+  8 Helms      dainty white fangs                            Yes x40    5gp
+  9 Shirts     skin tight black satin bustier                Yes x44    25gp
+ 10 Pants      diaphanous black chiffon slitted skirt        Yes x42    40gp
+ 11 Cloaks     flowing blood red satin hooded cloak          Yes x45    40sp
+ 12 Helms      exotic opal-eyed copper jackal mask           Yes x49    50gp
+ 13 Amulets    mystical rune-etched wooden chest plate       Yes x50    20gp
+ 14 Pants      soft beige suede loincloth                    Yes x48    25gp
+ 15 Helms      black satin three-corner hat                  Yes x49    8gp
+ 16 Shirts     billowy white silk ruffled shirt              Yes x49    10gp
+ 17 Pants      torn black cotton pirate pants                Yes x47    5gp
+ 18 Helms      feathery jeweled turquoise mask of stars      Yes x47    150gp
+ 19 Helms      black and white striped satin jester mask     Yes x9     50gp
+ 20 Misc       mottled green Broomhilda doll                 Yes x199   3gp
+ 21 Amulets    fiery crimson strand of paper demons          Yes x200   25sp
+ 22 Torches    ghoulish orange glass pumpkin                 Yes x193   10gp
+
+go door
+>[Tree of Shadows.]
+
+The wind whines a slow, lingering wail through small cracks within the willow's wood.  A small platform winds itself around the bough and meets the entrance of a peculiar room with a crooked red door. At the foot of the door, two carved pumpkins glow with a soft yellowish light. Black shadows march across the innards of the tree like a parade of urchins of the night as tall and small figures in costume climb up a small wooden ladder.  Some steep spiraling stairs, an open crooked red wooden door, and a vine-covered ladder are here.
+
+This area is illuminated.
+Obvious paths: None.
+go lad
+>[Tree of Shadows.]
+
+Twinkling orange and black silk streamers, entwined in twists and swirls, hang all around this platform of the tree of shadows. From the center of the tree, a twinkling black spider hangs from an intricately woven cobweb. As the spider dangles, small prisms of light dance around the black silk lined walls of the tree. Eerie music and sounds carry on the air as a satin curtain gently billows with a hasty draft.  A vine-covered ladder, an open billowy black and orange satin curtain, and a giant glistening cobweb are here.
+
+This area is illuminated.
+Obvious paths: None.
+>
+go curt
+[Cordelia's Nightwears.]
+
+The soft light of glowing lanterns glistens upon the silky threads of oversized cobwebs. Lying within the delicately woven tangle of each web, an original design dangles. Noble women and men saunter cautiously around the room, clinging to their coin purses, as knobby knee'd Go-blin-als murmur and wrinkle their noses in disgust at the merchant's goods.   An open billowy black and orange satin curtain is here.
+
+This area is illuminated.
+Obvious paths: None.
+shop list all
+>
+Id# Item Type  Item Name                                     New Amount Value
+--- ---------- --------------------------------------------- --- ------ -----
+  1 Dresses    rosy pale pink chiffon dress with ribbons     Yes x18    75gp
+  2 Cloaks     hooded pure white satin rose-clasped cloak    Yes x13    110gp
+  3 Dresses    diamond strapped aqua satin slipdress         Yes x15    50gp
+  4 Cloaks     shimmering diaphanous sapphire silk wrap      Yes x12    20gp
+  5 Shirts     satin trimmed plum velvet bodice              Yes x45    30gp
+  6 Pants      creamy white crepe pants                      Yes x48    25gp
+  7 Cloaks     garnet clasped black fox stole                Yes x98    50gp
+  8 Dresses    floor-length strapless crimson velvet gown    Yes x45    50gp
+  9 Dresses    backless black snakeskin gown                 Yes x47    30gp
+ 10 Boots      snakeskin strapped onyx stilettos             Yes x43    15gp
+ 11 Pants      tapered grey wool pants                       Yes x50    25gp
+ 12 Cloaks     soft black velvet gentleman's surcoat         Yes x50    100gp
+ 13 Boots      diamond clasped sapphire satin pumps          Yes x43    25gp
+ 14 Boots      embroidered plum velvet mules                 Yes x48    5gp
+ 15 Boots      ribbon tied white satin slippers              Yes x42    5gp
+ 16 Pants      twinkling pale blue layered tulle skirt       Yes x46    30gp
+ 17 Shirts     pale blue rose trimmed white satin blouse     Yes x46    20gp
+ 18 Boots      delicately ribboned satin ballet slippers     Yes x49    8gp
+
+>
+go curt
+[Tree of Shadows.]
+
+Twinkling orange and black silk streamers, entwined in twists and swirls, hang all around this platform of the tree of shadows. From the center of the tree, a twinkling black spider hangs from an intricately woven cobweb. As the spider dangles, small prisms of light dance around the black silk lined walls of the tree. Eerie music and sounds carry on the air as a satin curtain gently billows with a hasty draft.  A vine-covered ladder, an open billowy black and orange satin curtain, and a giant glistening cobweb are here.
+
+This area is illuminated.
+Obvious paths: None.
+go co
+>
+[Tree of Shadows.]
+
+Gigantic shimmering cobwebs, decorated with brilliant white diamonds, drape from the highest branches of the tree. Glowing opal jewels, suspended from strings hang from each branch. As the heavens' lights seep through the foggy dusk, the jewels flicker like the fiery eyes of a serpent.  A giant glistening cobweb and a serpent handled silver walkway are here.
+
+This area is illuminated.
+Obvious paths: None.
+go wal
+>[The Pirate's Booty.]
+
+A small platform suspended by tightly knotted ropes hangs high above the festival grounds below.  Wooden cases display breathtaking, glittering contents nestled in beds of deep purple velvet. A small beady-eyed human gazes through a mermaid-etched looking glass as ghostly figures scroll across the misty horizon.  A skull emblazoned banner on a silver pole and a serpent handled silver walkway are here.
+
+This room is illuminated.
+In the room are Rylek the Noble San Elf and Abigail the Noble Human (holding a flaming ruby-tipped black diamond star).
+Obvious exits: None.
+shop list all
+>
+Id# Item Type  Item Name                                     New Amount Value
+--- ---------- --------------------------------------------- --- ------ -----
+  1 Amulets    opal swirled glass evil eye charm             Yes x148   18gp
+  2 Amulets    delicately entwined opal choker of orchids    Yes x145   36gp
+  3 Amulets    black ruby beaded leather rope choker         Yes x145   22gp+50sp
+  4 Amulets    red diamond filigree chain of roses           Yes x142   45gp
+  5 Amulets    spiraling star-shaped emerald necklace        Yes x141   31gp+50sp
+  6 Gauntlets  drathain ruby-eyed serpent arm band           Yes x147   81gp
+  7 Gauntlets  onyx embedded drathain arm bands              Yes x145   90gp
+  8 Gauntlets  amethyst star and moon charm bracelets        Yes x143   18gp
+  9 Gauntlets  serpentine multicolored crystal bangles       Yes x149   13gp+50sp
+ 10 Rings      sparkling amber sunstone cat's eye ring       Yes x142   13gp+50sp
+ 11 Rings      simple jade healing band                      Yes x148   9gp
+ 12 Rings      blue and white diamond rings                  Yes x149   58gp+50sp
+ 13 Rings      diamond and amber daisy ring                  Yes x147   36gp
+ 14 Rings      lapis lazuli inlaid silver band               Yes x147   18gp
+ 15 Helms      diamond inlaid platinum lip ring              Yes x8     40gp+50sp
+ 16 Helms      tiny black diamond nose ring                  Yes x4     13gp+50sp
+ 17 Boots      emerald ribboned moonsilver toe ring          Yes x147   36gp
+ 18 Rings      misty violet moonstone mood ring              Yes x144   13gp+50sp
+ 19 Amulets    heavy morbius chainmail gorget                Yes x148   72gp
+
+>
+
+Rylek says to Abigail, "Ah, nevermind then."
+
+Rylek glances.
+
+curt
+You curtsy.
+go wal
+>[Tree of Shadows.]
+
+Gigantic shimmering cobwebs, decorated with brilliant white diamonds, drape from the highest branches of the tree. Glowing opal jewels, suspended from strings hang from each branch. As the heavens' lights seep through the foggy dusk, the jewels flicker like the fiery eyes of a serpent.  A giant glistening cobweb and a serpent handled silver walkway are here.
+
+This area is illuminated.
+Obvious paths: None.
+>
+go cob
+[Tree of Shadows.]
+
+Twinkling orange and black silk streamers, entwined in twists and swirls, hang all around this platform of the tree of shadows. From the center of the tree, a twinkling black spider hangs from an intricately woven cobweb. As the spider dangles, small prisms of light dance around the black silk lined walls of the tree. Eerie music and sounds carry on the air as a satin curtain gently billows with a hasty draft.  A vine-covered ladder, an open billowy black and orange satin curtain, and a giant glistening cobweb are here.
+
+This area is illuminated.
+Obvious paths: None.
+>
+go lad
+[Tree of Shadows.]
+
+The wind whines a slow, lingering wail through small cracks within the willow's wood.  A small platform winds itself around the bough and meets the entrance of a peculiar room with a crooked red door. At the foot of the door, two carved pumpkins glow with a soft yellowish light. Black shadows march across the innards of the tree like a parade of urchins of the night as tall and small figures in costume climb up a small wooden ladder.  Some steep spiraling stairs, an open crooked red wooden door, and a vine-covered ladder are here.
+
+This area is illuminated.
+Obvious paths: None.
+>
+Rylek's group just entered through a vine-covered ladder.
+go st
+[Tree of Shadows.]
+
+Wavering white-hot orange flames swirl from a large opal disk that hovers as a centerpiece in this immense tree. Gnarled wooden stairs spiral and climb up the walls of the rounded bough, disappearing into a dark zenith. Shapeless figures dance and undulate on the walls, creating a spectacle of slow spinning shadows that unfurl into jackals and snakes. Howls of delights roar then fade into the distance as merrymakers disappear down a slithering slide, which cascades into a void of darkness way below.  An open star etched amber door, some steep spiraling stairs, and a wickedly curled slide are here.
+
+This area is illuminated.
+Obvious paths: None.
+go door
+>[Ash'cli Woods, Tree of Shadows.]
+
+A skeletal tree stands like an imposing ghoul against the starlit purplish black landscape of night. The tree's long, leafless branches whip furiously with the wind as small orange lights flicker from small, crooked windows carved into the monstrous bough. Shrilled laughter mixed with eerie cries of terror carry on the hasty wind as a star etched wooden door swings on its hinges from the base of the tree.  A pair of glowing vine-covered pumpkins and an open star etched amber door are here.
+
+This area is illuminated.
+Obvious paths: north* northeast southeast*.
+>
+
+Rylek's group just entered through an open star etched amber door.
+n
+[Ash'cli Woods.]
+
+A gnarled willow tree stands like a towering shadow over a small crooked shack. The tree's long, skeletal branches blow furiously with the wind, stinging the frigid air like a whip. A misty trail of white smoke slinks steadily in coiled rings from a stone chimney that hardly balances on the slanted rooftop. A silver trimmed owl rests like an ancient sentinel on the stacked stones. Its golden eyes reflect the halo of the full moon. Shrilled laughter mixed with eerie cries of terror carry on the hasty wind as the star etched wooden door swings on its hinges.  An open star etched wooden door and some glowing intricately carved pumpkins are here.
+
+This area is illuminated.
+Obvious paths: north* south*.
+>
+Rylek's group just entered from the south.
+go door
+[Broyce's Cottage of Terror.]
+
+A high pitched cackle rings madly from behind a large iron door. Large white sheets with painted faces dangle from the ceiling, as a cool draft blows in from the creaking star etched wooden door. Bales of hale are scattered across the dusty floor as patrons await their "surgery." An extremely tall, lanky fellow stands beside the iron door, insisting that he was once the size of a Secian.  An open star etched wooden door, some bales of hay, some bales of hay, and an open heavy iron door are here.
+
+This area is illuminated.
+Obvious paths: None.
+go 2 doo
+>[Backroom.]
+
+A large table sits in the center of this room. Rollers at either side of the table are used to pull the body in opposite directions, stretching it. In the corner of the room, a tall iron maiden is placed. Across the spiked interior, a twinkling sign reads, "Get Skinny for just 500 Gold!" An axe and some iron wedges are scattered across the floor.  An open heavy iron door is here.
+
+This area is illuminated.
+Obvious paths: None.
+gri
+>You grin.
+go door
+>[Broyce's Cottage of Terror.]
+
+A high pitched cackle rings madly from behind a large iron door. Large white sheets with painted faces dangle from the ceiling, as a cool draft blows in from the creaking star etched wooden door. Bales of hale are scattered across the dusty floor as patrons await their "surgery." An extremely tall, lanky fellow stands beside the iron door, insisting that he was once the size of a Secian.  An open star etched wooden door, some bales of hay, some bales of hay, and an open heavy iron door are here.
+
+This area is illuminated.
+Obvious paths: None.
+go door
+>[Ash'cli Woods.]
+
+A gnarled willow tree stands like a towering shadow over a small crooked shack. The tree's long, skeletal branches blow furiously with the wind, stinging the frigid air like a whip. A misty trail of white smoke slinks steadily in coiled rings from a stone chimney that hardly balances on the slanted rooftop. A silver trimmed owl rests like an ancient sentinel on the stacked stones. Its golden eyes reflect the halo of the full moon. Shrilled laughter mixed with eerie cries of terror carry on the hasty wind as the star etched wooden door swings on its hinges.  An open star etched wooden door and some glowing intricately carved pumpkins are here.
+
+This area is illuminated.
+Obvious paths: north* south*.
+n
+>[Ash'cli Woods.]
+
+Curls of flames lick the crisp black night air as a cloud of smoke eddies upward, weaving a snaky trail through the velvet sky lit by twilight. The sweet, spicy scent of burning wood carries on the air, giving warmth to the stinging chill of the rushing wind. A circle of merrymakers sit around the fire, warming their hands as others chase and dance through the leafless trees that stand like wicked figures in the darkness.  A flaming bonfire and a glowing large rune inscribed pumpkin are here.
+
+This area is illuminated.
+You see the 1st ferret (wearing a small gold collar).
+In the area is Storm the Noble Draco (a ferret upon his left shoulder).
+Obvious paths: south*.
+s
+>[Ash'cli Woods.]
+
+A gnarled willow tree stands like a towering shadow over a small crooked shack. The tree's long, skeletal branches blow furiously with the wind, stinging the frigid air like a whip. A misty trail of white smoke slinks steadily in coiled rings from a stone chimney that hardly balances on the slanted rooftop. A silver trimmed owl rests like an ancient sentinel on the stacked stones. Its golden eyes reflect the halo of the full moon. Shrilled laughter mixed with eerie cries of terror carry on the hasty wind as the star etched wooden door swings on its hinges.  An open star etched wooden door and some glowing intricately carved pumpkins are here.
+
+This area is illuminated.
+Obvious paths: north* south*.
+s
+>[Ash'cli Woods, Tree of Shadows.]
+
+A skeletal tree stands like an imposing ghoul against the starlit purplish black landscape of night. The tree's long, leafless branches whip furiously with the wind as small orange lights flicker from small, crooked windows carved into the monstrous bough. Shrilled laughter mixed with eerie cries of terror carry on the hasty wind as a star etched wooden door swings on its hinges from the base of the tree.  A pair of glowing vine-covered pumpkins and an open star etched amber door are here.
+
+This area is illuminated.
+Obvious paths: north* northeast southeast*.
+ne
+>[Ash'cli Woods.]
+
+Like a brigade of shadowy ghasts, the leafless trees stretch on for miles. A large cave is carved into the rocky, black facade of a mountain. Ravens circle in a frantic escape as the winds scatter from all directions. A deep, gurgling howl bellows from the pit of the foreboding entrance.
+
+This area is illuminated.
+Obvious paths: southwest*.
+sear room
+>
+You search the area thoroughly.
+
+You find nothing of interest.
+[15 sec. delay]
+snap
+>You snap your fingers.
+>
+sw
+[Ash'cli Woods, Tree of Shadows.]
+
+A skeletal tree stands like an imposing ghoul against the starlit purplish black landscape of night. The tree's long, leafless branches whip furiously with the wind as small orange lights flicker from small, crooked windows carved into the monstrous bough. Shrilled laughter mixed with eerie cries of terror carry on the hasty wind as a star etched wooden door swings on its hinges from the base of the tree.  A pair of glowing vine-covered pumpkins and an open star etched amber door are here.
+
+This area is illuminated.
+Obvious paths: north* northeast* southeast*.
+s
+>You cannot move in that direction.
+se
+>[Ash'cli Woods.]
+
+Crimson, golden, and orange leaves tangle harshly with the wind as the night air cuts through the twisted branches boastfully. An ashen tree, whose branches are like a crippled old woman's hand, hangs heavily over a large glass tank. Red crystal apples bob rapidly as the chill of night stirs the water inside the tank. As the water churns and the wind rushes through the trees, a flock of black birds escape hastily from the branches above, sending a whirlwind of leaves to the ground.  An apple filled glass tank and a pair of glowing vine-covered pumpkins are here.
+
+This area is illuminated.
+Obvious paths: north* southeast.
+>
+l at tan
+
+It looks like an apple filled glass tank.
+l through tan
+l under tan
+l behind tan
+l on tan
+l in tan
+>[Apple Bobbing Tank.]
+
+Freezing cold water fills your lungs and surrounds you on all sides. You are swimming in what looks to be a huge tank, in the distance you think you can see small red shapes bobbing in the water.  An exit and a glowing rune inscribed rock are here.
+
+This area is illuminated.
+Obvious paths: north* northeast* east* west* northwest*.
+>There is nothing underneath that.
+>There is nothing behind that.
+>There is nothing on top of that.
+>There is nothing inside that.
+go tan
+>
+As you pass through, there is a twist, and a feeling of distance...
+
+[Apple Bobbing Tank.]
+
+Freezing cold water fills your lungs and surrounds you on all sides. You are swimming in what looks to be a huge tank, in the distance you think you can see small red shapes bobbing in the water.  An exit and a glowing rune inscribed rock are here.
+
+This area is illuminated.
+Obvious paths: north* northeast* east* west* northwest*.
+>
+Your flaming jeweled golden priest's censer winks out.
+
+You are treading water quite uncomfortably!
+go ex
+
+As you pass through, there is a twist, and a feeling of distance...
+
+[Ash'cli Woods.]
+
+Crimson, golden, and orange leaves tangle harshly with the wind as the night air cuts through the twisted branches boastfully. An ashen tree, whose branches are like a crippled old woman's hand, hangs heavily over a large glass tank. Red crystal apples bob rapidly as the chill of night stirs the water inside the tank. As the water churns and the wind rushes through the trees, a flock of black birds escape hastily from the branches above, sending a whirlwind of leaves to the ground.  An apple filled glass tank and a pair of glowing vine-covered pumpkins are here.
+
+This area is illuminated.
+Obvious paths: north southeast.
+who range race
+>List will be restricted to those within range.
+Race who list activated!
+
+                Current Secian Adventurers:
+
+Current Adventurers
+
+ Lebelle Winggoddess                 Raptorian Skybreeze                
+ Sevi Arminia                        Ceresina Astrale                   
+ Mahtina Raine                       Glinka Dragondsfriend              
+ Syl Trint                           Shadirion Tharustol                
+ Verbaniah Debrenna                  Midnight Raine                     
+ Kiralyn Averendil                  
+
+You notice 11 adventurers.
+go tan
+>
+As you pass through, there is a twist, and a feeling of distance...
+
+[Apple Bobbing Tank.]
+
+Freezing cold water fills your lungs and surrounds you on all sides. You are swimming in what looks to be a huge tank, in the distance you think you can see small red shapes bobbing in the water.  An exit and a glowing rune inscribed rock are here.
+
+This area is illuminated.
+Obvious paths: north* northeast* east* west* northwest*.
+who range race
+>List will be restricted to those within range.
+Race who list activated!
+
+                Current Secian Adventurers:
+
+Current Adventurers
+
+ Glinka Dragondsfriend              
+
+You notice 1 adventurer.
+>
+You are treading water quite comfortably!
+gri
+You grin.
+sear room
+>You search the area thoroughly.
+
+You find nothing of interest.
+[20 sec. delay]
+>
+You are treading water quite uncomfortably!
+
+ ** Current fatigue: 45 out of 62
+gri
+You grin.
+sear room
+>You search the area thoroughly.
+
+You find nothing of interest.
+[20 sec. delay]
+del
+>You have 19 second(s) remaining!
+h
+>You have no apparent injuries, but look tired.
+
+HP: 115/115  Ftg:  49/ 62
+>
+You are treading water quite uncomfortably!
+del
+You have 7 second(s) remaining!
+sear room
+>You search the area thoroughly.
+
+You find nothing of interest.
+[20 sec. delay]
+>
+You are treading water quite comfortably!
+h
+You have no apparent injuries, but look fatigued.
+
+HP: 115/115  Ftg:  39/ 62
+go ex
+>
+You are treading water quite uncomfortably!
+
+ ** Current fatigue: 33 out of 62
+
+As you pass through, there is a twist, and a feeling of distance...
+
+[Ash'cli Woods.]
+
+Crimson, golden, and orange leaves tangle harshly with the wind as the night air cuts through the twisted branches boastfully. An ashen tree, whose branches are like a crippled old woman's hand, hangs heavily over a large glass tank. Red crystal apples bob rapidly as the chill of night stirs the water inside the tank. As the water churns and the wind rushes through the trees, a flock of black birds escape hastily from the branches above, sending a whirlwind of leaves to the ground.  An apple filled glass tank and a pair of glowing vine-covered pumpkins are here.
+
+This area is illuminated.
+Obvious paths: north southeast.
+se
+>It's too dark to see anything!  Ready a torch.
+>
+Rylek's group just entered from the southwest.
+
+l
+The area brightens.
+[Ash'cli Woods.]
+
+A serpentine trail of red mist spirals about a glorious marble fountain. A steady stream of murky water pores steadily from a carved marble pumpkin held in the hands of a rider upon a ghostly horse. Black and orange silk streamers, twisting and swirling in the wind, decorate on a creaking wrought iron fence. Three old women, dressed in shanty black robes, stand around a black cauldron chanting a curse to all who dare to enter the maze.  Three old witches, an intricately carved marble fountain, and a closed wrought iron gate are here.
+
+This area is illuminated.
+In the area are Rylek the Noble San Elf and Abigail the Noble Human (holding a flaming ruby-tipped black diamond star).
+Obvious paths: southwest* northwest*.
+ready pri
+>You light the jeweled golden priest's censer.
+>
+go fou
+sear room
+>You search the area thoroughly.
+
+You find nothing of interest.
+[15 sec. delay]
+>
+Rylek says to Abigail, "I'm sorry, dear.  If only I had the 15 gold you need for that pretty ring..."
+
+Rylek sighs.
+
+l at three
+It looks like Three old witches.
+l through three
+l under three
+l behind three
+l on three
+l in three
+>You can't see through that!
+>There is nothing underneath that.
+>There is nothing behind that.
+>There is nothing on top of that.
+>You have to open it first before you can see what is inside!
+>
+ ** Current fatigue: 40 out of 62
+
+unl gat
+
+Abigail says to Rylek, "It's alright, I don't need it."
+You need a key to operate this lock.
+sear room
+>You search the area thoroughly.
+
+You find nothing of interest.
+[15 sec. delay]
+>
+
+Your flaming jeweled golden priest's censer flickers for a moment.
+
+sear room
+You search the area thoroughly.
+
+You find nothing of interest.
+[15 sec. delay]
+l
+>[Ash'cli Woods.]
+
+A serpentine trail of red mist spirals about a glorious marble fountain. A steady stream of murky water pores steadily from a carved marble pumpkin held in the hands of a rider upon a ghostly horse. Black and orange silk streamers, twisting and swirling in the wind, decorate on a creaking wrought iron fence. Three old women, dressed in shanty black robes, stand around a black cauldron chanting a curse to all who dare to enter the maze.  Three old witches, an intricately carved marble fountain, and a closed wrought iron gate are here.
+
+This area is illuminated.
+In the area are Rylek the Noble San Elf and Abigail the Noble Human (holding a flaming ruby-tipped black diamond star).
+Obvious paths: southwest* northwest*.
+>
+
+Kithrael just entered from the southwest.
+
+Kithrael just went southwest.
+
+Rylek says to Abigail, "But I want you to have it.  If only I had 15 gold..."
+
+Storm just entered from the northwest.
+
+Kithrael just entered from the southwest.
+
+Kithrael just went northwest.
+
+ ** Current fatigue: 52 out of 62
+
+Rylek glances.
+smi softly
+You smile softly.
+>
+' id donate but im broke
+
+Rylek's group just went northwest.
+
+Glinka says, " id donate but im broke"
+flai
+>You flail your arms about wildly.
+>
+l
+[Ash'cli Woods.]
+
+A serpentine trail of red mist spirals about a glorious marble fountain. A steady stream of murky water pores steadily from a carved marble pumpkin held in the hands of a rider upon a ghostly horse. Black and orange silk streamers, twisting and swirling in the wind, decorate on a creaking wrought iron fence. Three old women, dressed in shanty black robes, stand around a black cauldron chanting a curse to all who dare to enter the maze.  Three old witches, an intricately carved marble fountain, and a closed wrought iron gate are here.
+
+This area is illuminated.
+You see the 1st ferret (wearing a small gold collar).
+In the area is Storm the Noble Draco (a ferret upon his left shoulder).
+Obvious paths: southwest* northwest*.
+fif
+>Ignoring unknown command, "fif."
+gig 
+>You giggle.
+l at s
+>
+Storm looks like a 7'6" standard 1st stage massive boned, very muscular bodied Dragon.
+He has medium length, coarse hair, with bluish gray eyes, and looks casual.
+He appears to be unconcerned right now.
+He can be attacked by other players.
+He appears to be in perfect health.
+There is a shining gold emblem affixed to his clothing.
+                        Visible Equipment
+A studded leather mail                             (armor)
+A pair of huge scaly leather wings                 (over armor)
+A pair of torn black cotton pirate pants           (pants)
+
+He has been bestowed the following title(s):
+  Noble of the Realm
+
+beam
+>You beam.
+>
+Storm smiles at you.
+
+ ** You are fully rested.
+
+Storm nuzzles you.
+snu s
+You snuggle with Storm.
+' nice wings
+>
+Glinka says, " nice wings"
+>
+Storm asks, "do you need coin, little one?"
+beam
+You beam.
+>
+Storm grins.
+no dno
+You cannot move in that direction.
+>
+Storm says, "why thank you"
+nod no
+You shake your head from side to side.
+' im so full i can barely fly
+>
+Glinka says, " im so full i can barely fly"
+>
+gri to s
+You grin to Storm.
+>
+Storm laughs.
+
+Storm grins.
+
+how softly
+You howl softly.
+l
+>[Ash'cli Woods.]
+
+A serpentine trail of red mist spirals about a glorious marble fountain. A steady stream of murky water pores steadily from a carved marble pumpkin held in the hands of a rider upon a ghostly horse. Black and orange silk streamers, twisting and swirling in the wind, decorate on a creaking wrought iron fence. Three old women, dressed in shanty black robes, stand around a black cauldron chanting a curse to all who dare to enter the maze.  Three old witches, an intricately carved marble fountain, and a closed wrought iron gate are here.
+
+This area is illuminated.
+You see the 1st ferret (wearing a small gold collar).
+In the area is Storm the Noble Draco (a ferret upon his left shoulder).
+Obvious paths: southwest* northwest*.
+wav to s
+>You wave to Storm.
+>
+
+wave to Storm
+Storm waves.
+You wave to Storm.
+' off too the bank
+>
+Glinka says, " off too the bank"
+>
+Storm says, "be safe"
+
+' you too
+
+Glinka says, " you too"
+sw
+>[Ash'cli Woods.]
+
+Large plump pumpkins dot the outline of a vast grassy field. A few, holding lit candles, are carved with intricate patterns. A gentle breeze carries a sweet scent of colored autumn leaves as the twist their way to the ground. Towering high above the others, a maple tree with strong arms hangs languidly over a festively painted gypsy wagon.  A pair of glowing intricately carved pumpkins, a large colorful maple tree, an open billowy painted wooden wagon, and some bales of hay are here.
+
+This area is illuminated.
+Obvious paths: northeast* east* south.
+e
+>[Ash'cli Woods.]
+
+The air of excitement around the grand ghoul's arena is palpable. The crowds mill about, some mute with trepidation, others proclaiming loudly which creation will triumph in the matches. Upon entering the elliptical Colosseum, visitors climb sloping ramps to tiers of stone seats. A fence surrounds the fighting arena for the spectators' protection against wild beast attacks.  A stone arch and some glowing intricately carved pumpkins are here.
+
+This area is illuminated.
+Obvious paths: west*.
+l at ar
+>It looks like a stone arch.
+l through ar
+l under ar
+l behind ar
+l on ar
+l in ar
+>It's too dark to see anything!  Ready a torch.
+>There is nothing underneath that.
+>There is nothing behind that.
+>There is nothing on top of that.
+>There is nothing inside that.
+w
+>[Ash'cli Woods.]
+
+Large plump pumpkins dot the outline of a vast grassy field. A few, holding lit candles, are carved with intricate patterns. A gentle breeze carries a sweet scent of colored autumn leaves as the twist their way to the ground. Towering high above the others, a maple tree with strong arms hangs languidly over a festively painted gypsy wagon.  A pair of glowing intricately carved pumpkins, a large colorful maple tree, an open billowy painted wooden wagon, and some bales of hay are here.
+
+This area is illuminated.
+Obvious paths: northeast east* south.
+l at wag
+>It looks like an open billowy painted wooden wagon.
+l through wag
+l under wag
+l behind wag
+l on wag
+l in wag
+>[Yellow Wagon.]
+
+Decorated with fragrant wreaths and garlands of flowers and ivy, this small wagon exudes a truly festive feeling. Plush forest-green velvet floor cushions surround a small wooden table, which has intricate forest scenes carved into its surface. A small stage rests in the northern corner for merchants to show off their wares.  Some soft forest green velvet pillows, an ornate wooden table, an open spirit carved wooden wagon door, an ivy stitched velvet curtain, and an open forest green curtain are here.
+
+This room is illuminated.
+Obvious exits: None.
+>There is nothing underneath that.
+>There is nothing behind that.
+>There is nothing on top of that.
+>There is nothing inside that.
+go wag
+>[Yellow Wagon.]
+
+Decorated with fragrant wreaths and garlands of flowers and ivy, this small wagon exudes a truly festive feeling. Plush forest-green velvet floor cushions surround a small wooden table, which has intricate forest scenes carved into its surface. A small stage rests in the northern corner for merchants to show off their wares.  Some soft forest green velvet pillows, an ornate wooden table, an open spirit carved wooden wagon door, an ivy stitched velvet curtain, and an open forest green curtain are here.
+
+This room is illuminated.
+Obvious exits: None.
+l at doo
+>I don't see what you are referring to.
+l through doo
+l under doo
+l behind doo
+l on doo
+l in doo
+>I don't see what you are referring to.
+>I don't see what you are referring to.
+>I don't see what you are referring to.
+>I don't see what you are referring to.
+>I don't see what you are referring to.
+l at wag
+>It looks like an open spirit carved wooden wagon door.
+l through wag
+l under wag
+l behind wag
+l on wag
+l in wag
+>[Ash'cli Woods.]
+
+Large plump pumpkins dot the outline of a vast grassy field. A few, holding lit candles, are carved with intricate patterns. A gentle breeze carries a sweet scent of colored autumn leaves as the twist their way to the ground. Towering high above the others, a maple tree with strong arms hangs languidly over a festively painted gypsy wagon.  A pair of glowing intricately carved pumpkins, a large colorful maple tree, an open billowy painted wooden wagon, and some bales of hay are here.
+
+This area is illuminated.
+Obvious paths: northeast east* south.
+>There is nothing underneath that.
+>There is nothing behind that.
+>There is nothing on top of that.
+>There is nothing inside that.
+l at cur
+>It looks like an ivy stitched velvet curtain.
+l through cur
+l under cur
+l behind cur
+l on cur
+l in cur
+>It's too dark to see anything!  Ready a torch.
+>There is nothing underneath that.
+>There is nothing behind that.
+>There is nothing on top of that.
+>There is nothing inside that.
+go cur
+>[Backroom.]
+
+Plush velvets, draped loosely from the wagon's canopy, crawl like ivy down the wagon's wooden walls to a plush white fur rug, creating a cozy repose from the hustle and bustle of the festival. A small stack of shelves, neatly ecorated with vials, jars, needles, and wands of various colors and sizes, sits beside an enormous satin arm chair.  A ghoulish starry velvet curtain, a demon etched silver mirror, and a black velvet cushioned stool are here.
+
+This area is illuminated.
+Obvious paths: None.
+shop list all
+>There is no shop here!
+l at mir
+>It looks like a demon etched silver mirror.
+l through mir
+l under mir
+l behind mir
+l on mir
+l in mir
+>You can't see through that!
+>There is nothing underneath that.
+>There is nothing behind that.
+>There is nothing on top of that.
+>You have to open it first before you can see what is inside!
+l at mir
+>It looks like a demon etched silver mirror.
+get mir
+>Hmmm, it appears to be stuck in place!
+go cuer
+>I don't see what you are referring to.
+who range race
+>List will be restricted to those within range.
+Race who list activated!
+
+                Current Secian Adventurers:
+
+Current Adventurers
+
+ Lebelle Winggoddess                 Raptorian Skybreeze                
+ Sevi Arminia                        Ceresina Astrale                   
+ Mahtina Raine                       Glinka Dragondsfriend              
+ Syl Trint                           Shadirion Tharustol                
+ Verbaniah Debrenna                  Midnight Raine                     
+ Kiralyn Averendil                  
+
+You notice 11 adventurers.
+l
+>[Backroom.]
+
+Plush velvets, draped loosely from the wagon's canopy, crawl like ivy down the wagon's wooden walls to a plush white fur rug, creating a cozy repose from the hustle and bustle of the festival. A small stack of shelves, neatly ecorated with vials, jars, needles, and wands of various colors and sizes, sits beside an enormous satin arm chair.  A ghoulish starry velvet curtain, a demon etched silver mirror, and a black velvet cushioned stool are here.
+
+This area is illuminated.
+Obvious paths: None.
+pok g
+>I don't see what you are referring to.
+pok st
+>I don't see what you are referring to.
+pok ve
+>I don't see what you are referring to.
+pok cur
+>You poke the ghoulish starry velvet curtain.
+go cur
+>[Yellow Wagon.]
+
+Decorated with fragrant wreaths and garlands of flowers and ivy, this small wagon exudes a truly festive feeling. Plush forest-green velvet floor cushions surround a small wooden table, which has intricate forest scenes carved into its surface. A small stage rests in the northern corner for merchants to show off their wares.  Some soft forest green velvet pillows, an ornate wooden table, an open spirit carved wooden wagon door, an ivy stitched velvet curtain, and an open forest green curtain are here.
+
+This room is illuminated.
+Obvious exits: None.
+>
+go 2 cur
+[Dressing Room.]
+
+The quaint appointments of this dressing room give it a rather comfortable appeal. A large trunk for clothing storage rests against the far wall beside a dressing curtain. A comfortable looking sofa rests beside the curtain leading back into the main hall.  A silver-trimmed glass mirror and an open purple curtain are here.
+
+This room is illuminated.
+Obvious exits: None.
+l at mir
+>It looks like a silver-trimmed glass mirror.
+l through mir
+l under mir
+l behind mir
+l on mir
+l in mir
+>You can't see through that!
+>There is nothing underneath that.
+>There is nothing behind that.
+>There is nothing on top of that.
+>You have to open it first before you can see what is inside!
+l at mi
+>It looks like a silver-trimmed glass mirror.
+l at cur
+>It looks like an open purple curtain.
+l through cur
+l under cur
+l behind cur
+l on cur
+l in cur
+>[Yellow Wagon.]
+
+Decorated with fragrant wreaths and garlands of flowers and ivy, this small wagon exudes a truly festive feeling. Plush forest-green velvet floor cushions surround a small wooden table, which has intricate forest scenes carved into its surface. A small stage rests in the northern corner for merchants to show off their wares.  Some soft forest green velvet pillows, an ornate wooden table, an open spirit carved wooden wagon door, an ivy stitched velvet curtain, and an open forest green curtain are here.
+
+This room is illuminated.
+Obvious exits: None.
+>There is nothing underneath that.
+>There is nothing behind that.
+>There is nothing on top of that.
+>There is nothing inside that.
+go cur
+>[Yellow Wagon.]
+
+Decorated with fragrant wreaths and garlands of flowers and ivy, this small wagon exudes a truly festive feeling. Plush forest-green velvet floor cushions surround a small wooden table, which has intricate forest scenes carved into its surface. A small stage rests in the northern corner for merchants to show off their wares.  Some soft forest green velvet pillows, an ornate wooden table, an open spirit carved wooden wagon door, an ivy stitched velvet curtain, and an open forest green curtain are here.
+
+This room is illuminated.
+Obvious exits: None.
+>
+go wag
+[Ash'cli Woods.]
+
+Large plump pumpkins dot the outline of a vast grassy field. A few, holding lit candles, are carved with intricate patterns. A gentle breeze carries a sweet scent of colored autumn leaves as the twist their way to the ground. Towering high above the others, a maple tree with strong arms hangs languidly over a festively painted gypsy wagon.  A pair of glowing intricately carved pumpkins, a large colorful maple tree, an open billowy painted wooden wagon, and some bales of hay are here.
+
+This area is illuminated.
+Obvious paths: northeast east* south.
+>
+s
+[Ash'cli Woods.]
+
+Hiding behind the shadow of the moon, this small village wears the black veil of night as it nestles itself behind the aura the eclipsed hour. A narrow trail ribbons itself through a maze of lifeless trees that frame the wayside of a rolling river. The wind fills the air with the scent of burning wood as its beckoning call echoes the eerie cry of howling wolves. Amidst the glowing light of lanterns, shady figures parade and dance through the heavy velvet blanket of night.  A giant orange pumpkin, a dirt path, and an ominous twisted opal arch are here.
+
+This area is illuminated.
+Obvious paths: north*.
+n
+>[Ash'cli Woods.]
+
+Large plump pumpkins dot the outline of a vast grassy field. A few, holding lit candles, are carved with intricate patterns. A gentle breeze carries a sweet scent of colored autumn leaves as the twist their way to the ground. Towering high above the others, a maple tree with strong arms hangs languidly over a festively painted gypsy wagon.  A pair of glowing intricately carved pumpkins, a large colorful maple tree, an open billowy painted wooden wagon, and some bales of hay are here.
+
+This area is illuminated.
+Obvious paths: northeast east* south*.
+>
+e
+[Ash'cli Woods.]
+
+The air of excitement around the grand ghoul's arena is palpable. The crowds mill about, some mute with trepidation, others proclaiming loudly which creation will triumph in the matches. Upon entering the elliptical Colosseum, visitors climb sloping ramps to tiers of stone seats. A fence surrounds the fighting arena for the spectators' protection against wild beast attacks.  A stone arch and some glowing intricately carved pumpkins are here.
+
+This area is illuminated.
+Obvious paths: west*.
+>
+gl upwards...brushing her kinky Whyte-Whyte hair out of her pale eyes , scanning the heavens....
+You glance upwards...brushing her kinky Whyte-Whyte hair out of her pale eyes , scanning the heavens....
+shiv her soft Hyacinth colored wyngs swiftly and...
+>You shiver her soft Hyacinth colored wyngs swiftly and...
+fly up 5
+>[5 sec. delay]
+You take a few steps and soar 10 feet into the air!
+go ar
+>[Golem Coliseum.]
+
+The air of excitement fills the arena. The crowds mill about. Some are mute with trepidation; others proclaiming loudly which creation will triumph in the matches. Spectators climb sloping dirt ramps to tiers of stone seats. A fence surround the fighting arena for the audience's protection against the will of the beasts.  A stone arch and an open wooden fence are here.
+
+This area is illuminated.
+Obvious paths: None.
+l at fe
+>It looks like an open wooden fence.
+l through fe
+l under fe
+l behind fe
+l on fe
+l in fe
+>It's too dark to see anything!  Ready a torch.
+>There is nothing underneath that.
+>There is nothing behind that.
+>There is nothing on top of that.
+>There is nothing inside that.
+go fe
+>
+l
+*->The area brightens.
+[Golem Pit.]
+
+A silver mist swirls above a slated wooden floor that covers the subterranean chambers where the golems are kept before battle.  An open wooden fence is here.
+
+This area is illuminated.
+Obvious paths: None.
+>[Golem Pit.]
+
+A silver mist swirls above a slated wooden floor that covers the subterranean chambers where the golems are kept before battle.  An open wooden fence is here.
+
+This area is illuminated.
+Obvious paths: None.
+go fe
+>[Golem Coliseum.]
+
+The air of excitement fills the arena. The crowds mill about. Some are mute with trepidation; others proclaiming loudly which creation will triumph in the matches. Spectators climb sloping dirt ramps to tiers of stone seats. A fence surround the fighting arena for the audience's protection against the will of the beasts.  A stone arch and an open wooden fence are here.
+
+This area is illuminated.
+Obvious paths: None.
+
+ready tor
+ready orb
+*->The area darkens.
+>You don't have a 'tor' in your inventory!
+You don't have a 'orb' in your inventory!
+go ar
+>[Ash'cli Woods.]
+
+The air of excitement around the grand ghoul's arena is palpable. The crowds mill about, some mute with trepidation, others proclaiming loudly which creation will triumph in the matches. Upon entering the elliptical Colosseum, visitors climb sloping ramps to tiers of stone seats. A fence surrounds the fighting arena for the spectators' protection against wild beast attacks.  A stone arch and some glowing intricately carved pumpkins are here.
+
+This area is illuminated.
+Obvious paths: west*.

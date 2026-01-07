@@ -1,0 +1,564 @@
+time
+
+Current time is: Thu Nov 11 23:22:36 2004 EST.
+time
+
+It is now 10:47 pm on the 24th day of the 12th month in the year 318.
+
+You have been adventuring for 15 mins, 40 secs this session.
+
+l
+>[Elindale's Temple, Altar Room.]
+
+The hum of busy bees and hummingbirds add a tone of unity to the soft chants of the priests and murmurings of those here to offer up the sacrifices and tithes to the great Goddess, Elindale. Several monks wearing floor length robes sit in silence, with the occasional clasped hands rising up in a particularly vibrant part of prayer. The altar itself is composed of growing flowers, the tiny buds enclosing gems and gold alike. Around the base of the altar grows a ring of mushrooms, vibrantly cloaked in red with white spots dotting the umbrellas.  A blooming altar of flowers and a red and white ring of mushrooms are here.
+
+This room is illuminated.
+In the room are Dimitrios the Leuian, Chip the Secian, Kithrael the Fir Elf, Lilioth the Secian (holding a glowing tiny crystal sandcastle), and Nominus the Leuian.
+Obvious exits: southeast*.
+>
+Nominus says, "I regret not starting these sooner, but...better late than never."
+
+Lilioth nods to Nominus.
+
+Lilioth says, "very true."
+
+Chip smiles to Nominus.
+
+Nominus says, "I shall lead tonight's service. Those that follow shall be lead by other clerics, so I hope to have some volunteers."
+who class
+Class who list activated!
+
+                Current Cleric Adventurers:
+
+Current Adventurers
+
+ Tennant Manifest                    Syneregy Darmes                    
+ Dimitrios Ruhadze                   Umiak Oryx                         
+ Faet Lilmender                      Chip Faraway                       
+ Zachery Bumbear                     Osire Fletcher                     
+ Glinka Dragondsfriend               Rone Rinkin                        
+ Yinnin Terrer                       Julia Fayre                        
+ Tragick Axident                     Riani Mirure                       
+ Lilioth Golden                      Fionna Muun                        
+ Treyfalgar Fraswey                  Tressa Lightbrow                   
+ Dac Darkstar                        Noffbrau Trenkill                  
+ Bethany Lichlord                    Rilith Sul                         
+ Nominus Santorini                   Rafe Harken                        
+
+You notice 24 adventurers.
+>
+Dimitrios nods to Nominus slightly.
+smi to n
+You smile to Nominus.
+who religion
+>Followers of Elindale list activated!
+
+Current Adventurers
+
+ Dimitrios Ruhadze                   Chip Faraway                       
+ Glinka Dragondsfriend               Kithrael Rochelet                  
+ Lilioth Golden                      Fionna Muun                        
+ Nominus Santorini                  
+
+You notice 7 adventurers.
+who range race
+>List will be restricted to those within range.
+Race who list activated!
+
+                Current Secian Adventurers:
+
+Current Adventurers
+
+ Chip Faraway                        Glinka Dragondsfriend              
+ Lilioth Golden                     
+
+You notice 3 adventurers.
+>
+Nominus says, "Ye may organize each service as ye see fit, as long as ye keep in mind that they are designed to celebrate and give thanks to Elindale. They are not discussion hours."
+nod softly
+You nod softly.
+>
+Nominus says, "We come to join in prayer."
+
+Nominus says, "That said, I shall start off by repeating the Tenets that we promote and protect."
+
+Nominus says, "It is a good reminder of who we are and why we do what we do in serving Her."
+
+Chip nods up and down.
+
+Lilioth's glowing tiny crystal sandcastle flickers for a moment.
+
+Lilioth extinguishes her glowing tiny crystal sandcastle.
+
+Nominus says, "Elindale is the Mother of All, the Eldest, and the Eternal. She is everywhere and all life springs from Her. She is Life and Hope. Without Her, nothing else is possible. The day is Hers and also the night."
+
+Nominus says, "She established the sun and the moon and the stars, made both Summer and Winter and all the seasons. It was She who sets all the boundaries of the earth."
+
+Nominus says, "As clerics of Elindale, we are Her holy emissaries, carrying out Her will throughout the lands and to all people."
+
+Nominus says, "The duty of all of Her children is to promote Her sacred tenets, protecting and preserving the delicate balance of nature."
+
+Nominus says, "And so we begin with this: Respect the Web of Life. Nature is a delicate web. Treat each strand with care, or the whole web may be damaged. We are all interconnected with one another, with the trees, the rivers, the plants, the animals. "
+
+Nominus says, "Every creature, every rock, every drop of water, every leaf is bonded together in an intricate, beautiful web. And every creature, every rock, every drop of water has purpose. "
+
+Nominus says, "To carelessly pluck a strand, be it by burning down a forest, or chopping down a single tree, by polluting a stream or hunting too many of the native fauna in the woods, may have effects that are not be readily evident at first, but which may be dire"
+
+Nominus says, ". Followers of Elindale strive to defend this delicate web against those who might destroy it, knowingly or otherwise."
+
+Nominus says, "We also strive to maintain the balance of Nature."
+
+Nominus says, "Every living creature has purpose and must be treated with respect. But there are times that the life of one creature must be taken to save others. Every creature in nature has purpose, from the industrious ant to the mighty lion, from the proud eagl"
+
+Nominus says, "eagle."
+
+Nominus says, "to the lone wolf."
+
+Nominus says, "Creatures of nature are neither evil nor good. Every creature has both the need and the right to do what it must to survive, so long as doing so does not disrupt nature's balance. "
+
+Nominus says, "Creatures in nature kill not for the sake of killing, but so that they and their kin might live. We do not judge the lion for feeding on the hare. We do not bear grudge against the bear for defending its home or its young. "
+
+Nominus says, "And so the Follower of Elindale does not seek out to kill any innocent creature in its natural habitat for the sheer thrill of the kill, nor solely for the sake of personal gain. But there are times that one creature must die so that others might liv"
+
+Nominus says, "live."
+
+ *** Warning, you have been inactive for 5 minutes.
+look
+ *** You will be disconnected in 10 minute(s) if you do not respond.
+[Elindale's Temple, Altar Room.]
+
+The hum of busy bees and hummingbirds add a tone of unity to the soft chants of the priests and murmurings of those here to offer up the sacrifices and tithes to the great Goddess, Elindale. Several monks wearing floor length robes sit in silence, with the occasional clasped hands rising up in a particularly vibrant part of prayer. The altar itself is composed of growing flowers, the tiny buds enclosing gems and gold alike. Around the base of the altar grows a ring of mushrooms, vibrantly cloaked in red with white spots dotting the umbrellas.  A blooming altar of flowers and a red and white ring of mushrooms are here.
+
+This room is illuminated.
+In the room are Dimitrios the Leuian, Chip the Secian, Kithrael the Fir Elf, Lilioth the Secian, and Nominus the Leuian.
+Obvious exits: southeast*.
+>
+Nominus says, "One may find oneself cornered by a lioness on the prowl and may be forced to defend oneself. One might slay a rabid dog or diseased rat, both for the sake of the creature and for those who may have suffered from the creatures' illness."
+
+Nominus says, "There are times that an overpopulation of creatures, or the introduction of a foreign creature, might threaten the natural balance of a habitat. A Follower of Elindale must do all that is possible to defend and restore that balance."
+nod softly
+You nod softly.
+>
+Nominus says, "To do so, we must protect the Law of Nature."
+
+Nominus says, "Elindale abhors that which is unnatural. Such atrocities must be destroyed.  Every living creature is born, and every living creature must some day die."
+
+Nominus says, "But through dark and unnatural practices, some have found means of violating this integral law of nature. Among such abominations are the undead, sometimes known as the unlife, the animated "
+
+Nominus says, "bodies and/or souls of once living creatures that have died. These unnatural beings are a mockery of life and an affront to Elindale. They must be destroyed at all costs. "
+nod firmly
+You nod firmly.
+>
+Nominus says, "Finally, we must preserve the earth and its many gifts. Our natural resources are precious and must be treated as such.  Elindale provides adequate sustenance for every living creature. "
+
+Nominus says, "She does not tolerate for these to be wasted needlessly. When one needlessly chops down trees, pollutes water and the like, other living creatures may suffer needlessly."
+
+Dimitrios's stomach growls.
+inv
+Items carried:
+  An open large forest green leather backpack [1.2 lb].
+  A circular golden earring [0.0 lbs].
+  An open dragon embroidered black leather backpack [0.8 lbs].
+  A delicately linked gold belly chain [0.0 lbs].
+  A short wooden stick [0.3 lbs].
+  An open multicolored patched cotton carry-all [0.2 lbs].
+  A white silk cloak [2.4 lbs].
+  An open ribbon tied satin clerical bag [0.4 lbs].
+  A pair of ornate silver toe rings [0.0 lbs].
+  A small beautiful black opal [0.1 lbs].
+  Some twinkling rainbow crystal bangles [0.0 lbs].
+  A silver serpentine hoop [0.0 lbs].
+  A quiver of bark arrows [0.4 lbs].
+  A closed silver coffer [7.1 lbs].
+  A short steel butcher knife [0.1 lbs].
+  A short steel butcher knife [0.1 lbs].
+  A moon shaped ivory talisman [0.1 lbs].
+  A closed thick leather bound journal [0.1 lbs].
+  Some multicolored crystal dragon wing charms [0.0 lbs].
+  A beautiful gold Secian shaped charm [0.1 lbs].
+  Some heavy bone studded steelwood brigandine [2.0 lbs].
+  A tiny moonsilver tongue piercing [0.0 lbs].
+  A lantern [0.1 lbs].
+
+You have 41 silver pieces and 0 gold pieces.
+
+This gives you a total net worth of 41 silver.
+
+Your inventory totals 15.9 lbs.
+>
+Nominus says, "Remember this: the words of Elindale are not like the oak leaf that dies and falls to the earth, but like the pine tree that stays green forever."
+nod to n
+You nod to Nominus.
+l in clo
+>Inside the white silk cloak you see a crescent moon earring, a white key, a tiny black diamond nose ring, a smokey topaz, a black winged bat shaped amulet, a pair of ornate silver toe rings, a gleaming golden nugget, a delicately linked gold belly chain, and a small deck of fortune cards.
+>
+Nominus says, "We have moved into the autumnal season, the slow movement from vital summer to stark and deathly winter."
+wor
+Good evening! Your view of the heavens is obstructed.
+time
+>
+Current time is: Thu Nov 11 23:36:22 2004 EST.
+time
+
+It is now 11:14 pm on the 24th day of the 12th month in the year 318.
+
+You have been adventuring for 29 mins, 26 secs this session.
+
+>
+Nominus says, "All things return to their beginnings."
+
+Nominus says, "Life to death, and back again, in the natural order."
+
+Nominus says, "Live each season as it passes; breathe the air, drink the drink, taste the fruit, and resign yourselves to the influences of each."
+
+Nominus says, "OPen all your pores and bathe in all the tides of Nature, in all her streams and oceans, at all seasons."
+
+Nominus says, "Grow green with spring, yellow and ripe with autumn."
+who religion sa
+Followers of Elindale list activated!
+
+Current Adventurers
+
+ Dimitrios Ruhadze                   Owynn Ravenswood                   
+ Chip Faraway                        Autumn Thistledown                 
+ Glinka Dragondsfriend               Kithrael Rochelet                  
+ Lilioth Golden                      Fionna Muun                        
+ Nominus Santorini                  
+
+You notice 9 adventurers.
+>
+Nominus says, "Drink of each season's influences as a vial, for all Nature is doing Her best each moment to make us well."
+
+Nominus swishes his tail.
+smi to nom
+You smile to Nominus.
+>
+Nominus says, "That is all."
+
+Lilioth smiles at Nominus.
+' Praise be to Elindale
+
+Glinka says, " Praise be to Elindale"
+
+The temple is imbued with a warmly golden glow, all things within humming with a holy vibration felt more than heard, accompanied by myriad unseen voices chanting in an ancient tongue.
+bow to no
+>You bow to Nominus.
+>
+Nominus says, "Aye, Praise be to Her."
+
+Kithrael nods.
+
+Nominus asks, "Thank ye all for coming. Do I have any volunteers for next week?"
+
+Lilioth says to Nominus, "Thank you Prior. Wonderful thoughts to sleep on."
+
+Lilioth winks at Nominus.
+
+Nominus smiles at Lilioth.
+
+Lilioth says, "which I must be doing."
+
+Kithrael nods to Lilioth.
+
+Lilioth bows to Nominus.
+' i feel so,..renew'd
+
+Glinka says, " i feel so,..renew'd"
+>
+Dimitrios says to Nominus in Secti, "I'd offer my words, but I'm afraid much of my time this week will be spent doing something else."
+
+wave to and
+Lilioth smiles and waves.
+beam to n
+You beam to Nominus.
+I don't see what you are referring to.
+>
+Nominus nods to Dimitrios.
+hu l
+You hug Lilioth.
+>
+Lilioth has left Nominus's group.
+
+Lilioth, You blink and she's gone,, just went southeast.
+
+Nominus says, "Lil, Be well and the Lady bless."
+
+Nominus snaps his fingers.
+l
+[Elindale's Temple, Altar Room.]
+
+The hum of busy bees and hummingbirds add a tone of unity to the soft chants of the priests and murmurings of those here to offer up the sacrifices and tithes to the great Goddess, Elindale. Several monks wearing floor length robes sit in silence, with the occasional clasped hands rising up in a particularly vibrant part of prayer. The altar itself is composed of growing flowers, the tiny buds enclosing gems and gold alike. Around the base of the altar grows a ring of mushrooms, vibrantly cloaked in red with white spots dotting the umbrellas.  A blooming altar of flowers and a red and white ring of mushrooms are here.
+
+This room is illuminated.
+In the room are Dimitrios the Leuian, Kithrael the Fir Elf, and Nominus the Leuian.
+Obvious exits: southeast*.
+>
+Nominus asks Glinka, "How about ye?"
+
+smi at Nominus softly, winking..
+Nominus smiles at you.
+You smile at Nominus softly, winking..
+' I will, but i am not good with words..
+>
+Glinka says, " I will, but i am not good with words.."
+chu impishly, rubbing her nose...
+>You chuckle impishly, rubbing her nose...
+beam to n
+>You beam to Nominus.
+>
+Nominus chuckles.
+' same tyme and place?
+
+Glinka asks, " same tyme and place?"
+gri
+>You grin.
+>
+Kithrael says to Glinka, "We're moving the sermons to the tavern, so Gramliz might show up."
+
+Kithrael fidgets.
+
+Nominus says, "Aye. And if we cannot find another, I shall hold it again myself."
+gig
+You giggle.
+beam ton
+>You beam ton.
+hic
+>You hiccup.
+beam to n
+>You beam to Nominus.
+>
+Nominus says, "Thank ye for coming."
+
+Kithrael says to Glinka, "Sounds like thou'st already been there, too."
+
+gig softly holding her tummy
+Kithrael tickles you.
+You giggle softly holding her tummy.
+bem to n
+>Ignoring unknown command, "bem."
+hu no
+>You hug Nominus.
+hu k
+>You hug Kithrael.
+hu d
+>
+Dimitrios has left Nominus's group.
+You hug Dimitrios.
+beam softly
+>You beam softly.
+>
+Nominus disbands his group.
+
+Dimitrios says to Nominus in Secti, "Still too much to get ready for."
+
+Dimitrios says to Nominus in Secti, "G'day, Prior Nominus."
+
+Nominus nods to Dimitrios.
+
+Dimitrios just went southeast.
+
+Nominus says, "Be well and the Lady bless ye all."
+
+Nominus bows deeply to the altar.
+smi at n impishly, tossing her long soft hair back...
+You smile at Nominus impishly, tossing her long soft hair back...
+smi at k gently, winking..
+>You smile at Kithrael gently, winking..
+>
+Nominus just went southeast.
+knee at al
+You kneel at the blooming altar of flowers.
+l
+>[Elindale's Temple, Altar Room.]
+
+The hum of busy bees and hummingbirds add a tone of unity to the soft chants of the priests and murmurings of those here to offer up the sacrifices and tithes to the great Goddess, Elindale. Several monks wearing floor length robes sit in silence, with the occasional clasped hands rising up in a particularly vibrant part of prayer. The altar itself is composed of growing flowers, the tiny buds enclosing gems and gold alike. Around the base of the altar grows a ring of mushrooms, vibrantly cloaked in red with white spots dotting the umbrellas.  A blooming altar of flowers and a red and white ring of mushrooms are here.
+
+This room is illuminated.
+In the room is Kithrael the Fir Elf.
+Obvious exits: southeast*.
+>
+Kithrael says to Glinka, "I look forward to thy sermon."
+
+smi at Kithrael delicately , blushing
+Kithrael smiles at you.
+You smile at Kithrael delicately , blushing.
+'a stirring speach
+>
+Glinka says, "a stirring speach"
+>
+Kithrael nods.
+gig
+You giggle.
+lean head k ......her long soft kinky hair falling all over....
+>You lean your head on Kithrael's shoulder......her long soft kinky hair falling all over....
+>
+gig softly holding her tummy
+Kithrael tickles you.
+You giggle softly holding her tummy.
+' and now...?
+>
+Glinka asks, " and now...?"
+furr
+>You furrow your brow.
+l
+>[Elindale's Temple, Altar Room.]
+
+The hum of busy bees and hummingbirds add a tone of unity to the soft chants of the priests and murmurings of those here to offer up the sacrifices and tithes to the great Goddess, Elindale. Several monks wearing floor length robes sit in silence, with the occasional clasped hands rising up in a particularly vibrant part of prayer. The altar itself is composed of growing flowers, the tiny buds enclosing gems and gold alike. Around the base of the altar grows a ring of mushrooms, vibrantly cloaked in red with white spots dotting the umbrellas.  A blooming altar of flowers and a red and white ring of mushrooms are here.
+
+This room is illuminated.
+In the room is Kithrael the Fir Elf.
+Obvious exits: southeast*.
+>
+Kithrael says, "I have to get to work on something for Depravato'a and Bant."
+' ahh
+
+Glinka says, " ahh"
+' good journeys
+>
+Glinka says, " good journeys"
+>
+Kithrael nods to you.
+kiss k softly upon the cheek in parting...
+You kiss Kithrael softly upon the cheek in parting...
+>
+Kithrael says to Glinka, "Thou as well, lady Glinka."
+
+smi at Kithrael wryly
+Kithrael smiles at you.
+You smile at Kithrael wryly.
+beam
+>You beam.
+fly up 10
+>[5 sec. delay]
+You take a few steps and soar 10 feet into the air!
+fly down 5
+>You fly down 5 feet.
+
+You are now at 5 feet.
+' till we meet again
+>
+Glinka says, " till we meet again"
+hu k
+>I don't see what you are referring to.
+l
+>[Elindale's Temple, Altar Room.]
+
+The hum of busy bees and hummingbirds add a tone of unity to the soft chants of the priests and murmurings of those here to offer up the sacrifices and tithes to the great Goddess, Elindale. Several monks wearing floor length robes sit in silence, with the occasional clasped hands rising up in a particularly vibrant part of prayer. The altar itself is composed of growing flowers, the tiny buds enclosing gems and gold alike. Around the base of the altar grows a ring of mushrooms, vibrantly cloaked in red with white spots dotting the umbrellas.  A blooming altar of flowers and a red and white ring of mushrooms are here.
+
+This room is illuminated.
+Obvious exits: southeast*.
+sk
+>
+Skill                     Remain Level
+ First Aid                 95     1     
+ Channeling                241    5     
+ Blunt Weapons             352    4     
+ Spellcasting              2627   16    
+ Turn Undead               835    7     
+ Identify Gems/Minerals    716    7     
+ Shield Parry              100    1     
+ Identify Magick           67     1     
+ Swimming                  82     2     
+
+who religion
+>Followers of Elindale list activated!
+
+Current Adventurers
+
+ Dimitrios Ruhadze                   Owynn Ravenswood                   
+ Autumn Thistledown                  Glinka Dragondsfriend              
+ Fionna Muun                        
+
+You notice 5 adventurers.
+se
+ne
+>[Elindale's Temple.]
+
+While the tree appears gigantic from the outside, it still is nothing compared to the impression of being on the inside. Hollow branches large enough to pass a drake branch out here, the surfaces smooth, but in a most curious way. It is apparent that no tools were used to create these passageways, yet there is no evidence to give one the impression that the passageways formed over a long period of time. The branches have grown in this manner intentionally, quite unlike any plantlife found anywhere on the land.
+
+This room is illuminated.
+Obvious exits: north* northeast* southeast* south* southwest* west* northwest*.
+nw
+sw
+[Elindale's Temple.]
+
+A large tapestry lines the outside wall of the passageway, most impressive in that it is not made of fabric, but of vines as tiny as thick hairs, growing in a weave. The delicate shadings of the plants is perfectly natural, and as the eye becomes unfocused, a picture of a diminutive, beautiful maiden sits amongst a foresty background. The wall opposite of this magnificent tapestry is lined with portraits of prominent temple leaders, the colors vibrant, bringing a life-like sense to the frames. The eyes of the maiden in the tapestry seem to follow you, staring directly as you pass, boring into your soul.  A vellum portrait, a canvas portrait, a suede portrait, a wooden framed oil painting, some unfinished portraits, and a carefully painted silk screen are here.
+
+This room is illuminated.
+Obvious exits: southwest* northwest*.
+se
+[Elindale's Temple.]
+
+A diminutive niche in the wall provides shelter to a small family of flying squirrels. Just inside sit the young, comfortably settled into the soft bedding the parents have gathered up. A breeze carries their tiny chitters to your ears, revealing that the niche is somehow connected to the outside world as well.  A niche in the wall is here.
+
+This room is illuminated.
+Obvious exits: southeast* southwest*.
+[Elindale's Temple.]
+
+Encircling the innards of this tree, these steps coil clock-wise to the top, the entire environment one single living thing. There are no cracks, no signs of building. Tapestries on the wall appear life-like, suspended with no visible attachments.  A breathtaking tapestry is here.
+
+This room is illuminated.
+Obvious exits: northeast* southeast*.
+[Elindale's Temple.]
+
+This is the main entrance of a Temple of Elindale, the inside walls perfectly smooth with glowing magickal symbols upon the surfaces. The enormity of this tree becomes apparent as one travels up the stairs to the northwest. The air holds a fresh, new ambiance, pleasantly scented with sweet sap and rich, earthly undertones.  Some glowing magickal symbols and a brown oak staircase are here.
+
+This room is illuminated.
+Obvious exits: northwest*.
+go st
+>[Treehaven, Main Platform]
+
+New wooden planks fit side by side creating the walkway that extends proudly upon the reconstructed supports. The view of the forest to the northwest is quite panoramic, despite the burnt spikes of trees in the midst. A staircase here seems to have some enchantment, judging by the strange appearance of unicorns, bears and owls on the lower steps. Strange, due to the fact that they don't appear carved, painted, or put there by any hand-made means. It is as if the glyphs grew into the wood itself. Mysterious symbols are scattered throughout the portraits, which shimmer with a golden whisper as they are approached.
+
+This area is illuminated.
+Obvious paths: north* south* northwest*.
+s
+>[Treehaven, Main Platform]
+
+Leaves and small twigs spot the walkway as it hugs against the trunk of the Mother Tree. New sprouts from the branches above hang softly over the wooden planks, shading it slightly. A large building rests gently against the trunk in the limbs above, nestled as though it grew from within the tree itself.  An oak ladder is here.
+
+This area is illuminated.
+Obvious paths: north* southwest*.
+sw
+>[Treehaven, Main Platform]
+
+The branches of this tree have begun to grow through the wooden platform. The limbs have begun to twist and turn, forming their own natural base. Soft leaves create a cushion and boast several small buds. The former bank is almost completely covered by vines and moss. Intricately crafted stairs lead from the platform to the new building that resides in the upper branches.  An open door and a painted wooden sign are here.
+
+This area is illuminated.
+Obvious paths: northeast* west*.
+go door
+>[Gaspar's Grog and Grub.]
+
+Four sturdy walls and a roof of woven branches enclose this small tavern. From the forest floor, winding their way around the trunk of the Mother Tree, a set of intricately railed steps serve as the entrance and exit of the town of Treehaven. Strangers arriving at the top of the steps find themselves under the watchful eye of patrons seated at tables positioned about the light, airy room. A set of oak steps lead up to the new Council chambers.  An ivory inlaid pine bar, a wooden stool, a long weathered wooden bench, a long musty wooden table, some steps circling the tree, some freshly crafted oak steps, an open door, a paper covered posting board, and a gilt framed painting on the wall are here.
+
+This room is illuminated.
+Obvious exits: None.
+land
+dance softly upon the Earth-Mother's skin...
+>You cannot do that while you are flying!
+You fly down and land.
+hide
+>You fail in your attempt to hide!
+hide
+hide
+>You slip into the shadows!
+You are already unable to be seen!
+gri
+>You grin.
+quit
+>
+    Dragon's Gate Menu
+
+ 1. Explore Dragon's Gate.
+ 2. Create, Delete, or View a character.
+ 3. Select current character.
+ 4. Display notices and version notes.
+16. Disconnect.
+
+Your active character is: Glinka Dragondsfriend
+
+Your selection? 
+16
+
+ ** Goodbye from Mythic Entertainment! **
+Closed Glinka-offerings.txt on file 1

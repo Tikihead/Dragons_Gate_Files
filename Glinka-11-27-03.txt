@@ -1,0 +1,101 @@
+inv
+Items carried:
+  An open dragon embroidered black leather backpack [0.8 lbs].
+  An open large forest green leather backpack [2.4 lbs].
+  A crescent moon earring [0.0 lbs].
+  A lantern [0.1 lbs].
+  A white silk cloak [2.8 lbs].
+  A polished steelwood mail [1.6 lb].
+  A tiny black diamond nose ring [0.0 lbs].
+  A large luminous yellow pearl [0.1 lbs].
+  A moon shaped ivory talisman [0.1 lbs].
+  A delicately linked gold belly chain [0.0 lbs].
+  A large brilliant mossy opal [0.1 lbs].
+  An open hunter-green leather healer's bag [0.5 lbs].
+  A pair of huge scaly leather wings [0.0 lbs].
+  Some amethyst star and moon charm bracelets [0.0 lbs].
+  A red crystal [0.1 lbs].
+  An open woven hemp herb satchel [0.8 lbs].
+  A beautifully carved fluted crystal glass [0.1 lbs].
+  A short bleached arm bone [0.2 lbs].
+  A pair of ornate silver toe rings [0.0 lbs].
+  A fluffy warm quilt [0.1 lbs].
+  A pair of tinted blue glass spectacles [0.1 lbs].
+  An open forest green leather healer's bag [3.4 lbs].
+  A silver serpentine hoop [0.0 lbs].
+  An open small hunter-green leather remedy pouch [2.4 lbs].
+  An open large frayed burlap rucksack [0.2 lbs].
+  A brilliant rainbow shaman's robe [0.1 lbs].
+
+You have 20 silver pieces and 1 gold piece.
+
+This gives you a total net worth of 120 silver.
+
+Your inventory totals 16.2 lbs.
+stat
+>OR:   3  DR: 138  Weap RT: 10 sec  Move Rate: 6/11 UDs  Dam Bonus: Awful/None
+
+You are in the center of the area!
+
+  ::: Equipment Readied :::
+
+  A polished steelwood mail.
+  A tiny black diamond nose ring.
+  A moon shaped ivory talisman.
+  Some amethyst star and moon charm bracelets.
+  A pair of ornate silver toe rings.
+  A pair of huge scaly leather wings.
+  A crescent moon earring.
+  A silver serpentine hoop.
+  A brilliant rainbow shaman's robe.
+>
+Rhyne just entered through some freshly crafted wooden stairs.
+info
+
+You are Glinka Dragondsfriend, a delicate boned and wirey-tough bodied 41 year old Orderly Female adolescent Secian Cleric of the Order of the Heart.  You are 1'2" and weigh 12 lbs.
+
+HP: 115 of 115  Ftg:  62 of  62  Carry: 16.2 of 37.0 lbs.
+
+ Str   Int   Wis   Dex   Agi   Con   Cha   Wil   Voi   Per   App
+Fair  Aver  Aver  Aver  Good  Good  Good  Good  Aver  Good  Aver  
+
+Use: INFO <subject> for more info.
+(Valid subjects: RELIGION, MAGICK, LANGUAGES, MARTIALARTS, MONEY, RUNESPELLS, TITLES, DISGUISE, PSIONICS)
+
+l at gli
+>You find something suitably reflective and gaze into it...
+
+You look like a 1'2" standard adolescent delicate boned, wirey-tough bodied Secian Cleric.
+You have very long, wild, kinky white hair with a white streak, heavy lidded pale red eyes, and look disheveled.
+You appear to be happy right now.
+You can be attacked by other players.
+
+On her left breast is a small crescent shaped birthmark.
+
+On her neck is a purple marked tattoo of the house of Mandor.
+
+On her belly is a tark tribal circle around the navel.
+
+You appear to be in perfect health.
+There is a shining gold emblem affixed to your clothing.
+
+Physical appearance:
+
+You see an ageless, tymless, spryte with long wild kinky whyte hair with a glowing whyte streak and sleepy eyes...
+
+                        Visible Equipment
+A polished steelwood mail                          (armor)
+A tiny black diamond nose ring                     (on head)
+A moon shaped ivory talisman                       (around neck)
+Some amethyst star and moon charm bracelets        (over hands)
+A pair of ornate silver toe rings                  (on feet)
+A pair of huge scaly leather wings                 (over armor)
+A crescent moon earring                            (right ear)
+A silver serpentine hoop                           (left ear)
+A brilliant rainbow shaman's robe                  (dress)
+
+You have been bestowed the following title(s):
+  Noble of the Realm
+
+>
+Rhyne smiles.

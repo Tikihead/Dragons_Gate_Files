@@ -1,0 +1,3401 @@
+time
+
+Current time is: Sun Aug  1 21:02:18 2004 EST.
+
+It is now 5:06 pm on the 3rd day of the 6th month in the year 318.
+
+You have been adventuring for 8 mins, 42 secs this session.
+
+l
+>[Secian's Tree.]
+
+Colorful woven silk rugs cover the sparkling polished oak floor of this large cavernous room in the center of the ancient tree. Large soft silk-covered feather pillows lay scattered about the floor, and a shimmering crystal fountain sits in the center of the chamber. A beautiful mural has been painted on one wall and adds even more color to the room.  A white cloth covered serving tray is filled with delicious summer snacks, including taffy apple salad with miniature marshmallows, baked banana chips with honey yogurt dip, orange and cranberry muffins, and fresh melon and summer berry salad with caramelized walnuts. A second tray is filled with an assortment of fresh juices.  A blue and white silken rope leading up, a tiny oak knothole, a soft blue and white velvet sofa, a soft green silk pillow, a soft red silk pillow, a soft yellow silk pillow, a soft blue silk pillow, a large ribboned wooden drink platter, and a pretty white cloth covered serving tray are here.
+
+This room is illuminated.
+In the room are Sevi the Noble Secian (seated), Mieglyn the Secian (seated), Twilight the Noble Secian, Weldoian the Secian, and Rivnen the Noble Secian (seated).
+Obvious exits: None.
+>
+Weldoian searches the room.
+l at se
+
+Sevi looks like a 1'8" standard adolescent light boned, stocky bodied Secian.
+She is seated.
+She has short, unbridled, wispy platinum blonde hair, with ruby red eyes, and looks neat.
+She appears to be happy right now.
+She bears the mark of Sa.
+She can be attacked by other players.
+
+On her wings are delicate, intricate copper swirls that shimmer with the slightest movement.
+
+She appears to be in perfect health.
+
+Physical appearance:
+
+Sevi's gossamer wings flutter constantly and coppery flecks of glitter seem to swirl and blend around her tiny figure. A cherubic face always ready with a whimsical smile is framed by the unruly tangle of her hair.
+
+                        Visible Equipment
+A dragon entwined halo of white diamonds           (on head)
+A delicate crystalla rose inside a teardrop        (around neck)
+A copper entwined diamond bondmate bracelet        (over hands)
+An antique sapphire-eyed dragon ring               (ring (right))
+A glowing azure diamond ring of air                (ring (left))
+A copper diamond amethyst engagement ring          (ring (left))
+A glittering diamond stud                          (right ear)
+A glittering diamond stud                          (left ear)
+A flirtatious marigold linen sundress              (dress)
+A midnight blue paper dragon                       (on belt)
+
+She has been bestowed the following title(s):
+  Noble of the Realm
+
+>
+Weldoian exclaims, "Ye sneaky woman!"
+l at we
+
+Weldoian looks like a 1'5" standard young average boned, very muscular bodied Secian.
+He has very long, wavy, kinky light blonde hair, with pale red eyes, and looks neat.
+He appears to be worried right now.
+He bears the mark of Rinanni.
+He can be attacked by other players.
+He appears to be in perfect health.
+                        Visible Equipment
+A heavy silvery veined morbius ring mail           (armor)
+A fancy velvet rainbow hued top hat                (on head)
+A pair of rainbow roaring dragon slippers          (on feet)
+A silvery white spidersilk cloak of moonflowers    (over armor)
+A pair of deep blue silk trousers                  (pants)
+l at t
+>
+Twilight looks like a 1'1" standard adolescent average boned, wirey-tough bodied Secian.
+She has very short, curly, medium golden blonde hair, with ruby red eyes, and looks casual.
+She appears to be happy right now.
+She bears the mark of Sa.
+She can be attacked by other players.
+
+On her wings are delicate, intricate bronze swirls that shimmer with the slightest movement.
+
+She appears to be in perfect health.
+
+Physical appearance:
+
+A rekindled vibrance of spirit shines through bright, yet thoughtful eyes. Small spectacles adorn her head, hinting at her love of study. Added color now enhances the usual translucent violet tener of her wings.
+
+                        Visible Equipment
+A light silver etched morbius brigandine           (armor)
+A pair of delicate violet rimmed reading glasses   (on head)
+A shimmering violet sapphire necklace of dusk      (around neck)
+Some delicate silver-trimmed lilac slippers        (on feet)
+A flowing diaphanous sapphire twilight stole       (over armor)
+A rich deep lilac silk frock                       (dress)
+A fine lavender silk petticoat                     (pants)
+A closed polished ivory scroll case                (on belt)
+A closed soft leather scribe's kit                 (on belt)
+
+She has been bestowed the following title(s):
+  Noble of the Realm
+
+l
+>[Secian's Tree.]
+
+Colorful woven silk rugs cover the sparkling polished oak floor of this large cavernous room in the center of the ancient tree. Large soft silk-covered feather pillows lay scattered about the floor, and a shimmering crystal fountain sits in the center of the chamber. A beautiful mural has been painted on one wall and adds even more color to the room.  A white cloth covered serving tray is filled with delicious summer snacks, including taffy apple salad with miniature marshmallows, baked banana chips with honey yogurt dip, orange and cranberry muffins, and fresh melon and summer berry salad with caramelized walnuts. A second tray is filled with an assortment of fresh juices.  A blue and white silken rope leading up, a tiny oak knothole, a soft blue and white velvet sofa, a soft green silk pillow, a soft red silk pillow, a soft yellow silk pillow, a soft blue silk pillow, a large ribboned wooden drink platter, and a pretty white cloth covered serving tray are here.
+
+This room is illuminated.
+In the room are Sevi the Noble Secian (seated), Mieglyn the Secian (seated), Twilight the Noble Secian, Weldoian the Secian, and Rivnen the Noble Secian (seated).
+Obvious exits: None.
+l at m
+>
+Mieglyn looks like a 1'6" standard young average boned, wirey-tough bodied Secian.
+She is seated.
+She has shoulder length, wavy, wispy platinum blonde hair, with pale red eyes, and looks spotless.
+She appears to be happy right now.
+She bears the mark of Elindale.
+She can be attacked by other players.
+She appears to be in perfect health.
+                        Visible Equipment
+A beautiful circlet of sapphire butterflies        (on head)
+A star keyed moonsilver flute                      (hands)
+A red diamond filigree chain of roses              (around neck)
+Some charming black and white saddle shoes         (on feet)
+A flowing black emerald clasped cloak              (over armor)
+A garnet ring                                      (ring (right))
+An emerald ring                                    (ring (right))
+An emerald eyed platinum owl's head ring           (ring (left))
+A pair of flared black wool side-laced pants       (pants)
+A ruffled snowy white pearl buttoned blouse        (shirt)
+A woven moonsilver silk gem pouch                  (on belt)
+>
+Mieglyn snuggles with the soft red silk pillow.
+l at r
+
+Rivnen looks like a 1'6" standard young light boned, very muscular bodied Secian Psion.
+He is seated.
+He has very long, curly, baby fine dark blonde hair, with pale red eyes, and looks disheveled.
+He appears to be calculating right now.
+He can be attacked by other players.
+
+On his forehead is an amethyst crescent moon.
+
+On his right palm is the word "Syai".
+
+He appears to be in perfect health.
+
+Physical appearance:
+
+The cresent moon upon his forehead glows bright amethyst with a strong inner power which seems to radiate from this little one. He moves with a slight arrogance and sixth sense. He is the chosen of Syai, the Amethyst.
+
+                        Visible Equipment
+Some heavy demonic carved steelwood brigandine     (armor)
+A silver rose crested black morbius shield         (shield)
+Some midnight blue spectacles                      (on head)
+A glittering diamond amulet                        (around neck)
+Some midnight blue riding boots                    (on feet)
+A midnight blue spidersilk cloak                   (over armor)
+A sinister red and black ruby ring                 (ring (right))
+A sapphire ring                                    (ring (right))
+A ruby ring                                        (ring (right))
+Some sinister midnight blue silk inquisitor robes  (dress)
+Some midnight blue spidersilk pants                (pants)
+
+He has been bestowed the following title(s):
+  Noble of the Realm
+
+>
+smile
+wink at Weldoian
+Weldoian is looking at you.
+You smile.
+>
+>You wink at Weldoian.
+>
+Weldoian smiles to you.
+
+Weldoian grins.
+
+Rivnen fans his wings at you.
+
+Rivnen's head suddenly begins glowing. He places a hand upon his chest. The glow travels down an arm to his hand. The glow quickly spreads over Rivnen's entire body, then fades away.
+
+l at gl
+You find something suitably reflective and gaze into it...
+
+You look like a 1'2" standard adolescent delicate boned, wirey-tough bodied Secian Cleric.
+You are seated.
+You have very long, wild, kinky white hair with a white streak, heavy lidded pale red eyes, and look disheveled.
+You appear to be mischievous right now.
+You can be attacked by other players.
+
+On her breast is a small crescent shaped birthmark.
+
+On her neck is a purple marked tattoo of the house of Mandor.
+
+On her belly is a tark tribal circle around the navel.
+
+On her back are glimmering deep Hyacinth wings with draconic runes in Golde upon them.
+
+You appear to be in perfect health.
+There is a shining gold emblem affixed to your clothing.
+
+Physical appearance:
+
+You see an ageless, tymless, spryte with long wild kinky whyte hair with a glowing whyte streak and sleepy eyes...She is shivering in the cold wind to Valhalla...She has touched the Sky...
+
+                        Visible Equipment
+Some heavy bone studded steelwood brigandine       (armor)
+A tiny moonsilver tongue piercing                  (on head)
+A stone tribal pendant                             (around neck)
+Some twinkling rainbow crystal bangles             (over hands)
+A pair of ornate silver toe rings                  (on feet)
+Some multicolored crystal dragon wing charms       (over armor)
+A silver ring                                      (ring (left))
+A crescent moon earring                            (right ear)
+A silver serpentine hoop                           (left ear)
+A delicately linked gold belly chain               (on belt)
+
+You have been bestowed the following title(s):
+  Noble of the Realm
+
+>
+Twilight sits down , adjusting and making herself comfortable.
+l
+[Secian's Tree.]
+
+Colorful woven silk rugs cover the sparkling polished oak floor of this large cavernous room in the center of the ancient tree. Large soft silk-covered feather pillows lay scattered about the floor, and a shimmering crystal fountain sits in the center of the chamber. A beautiful mural has been painted on one wall and adds even more color to the room.  A white cloth covered serving tray is filled with delicious summer snacks, including taffy apple salad with miniature marshmallows, baked banana chips with honey yogurt dip, orange and cranberry muffins, and fresh melon and summer berry salad with caramelized walnuts. A second tray is filled with an assortment of fresh juices.  A blue and white silken rope leading up, a tiny oak knothole, a soft blue and white velvet sofa, a soft green silk pillow, a soft red silk pillow, a soft yellow silk pillow, a soft blue silk pillow, a large ribboned wooden drink platter, and a pretty white cloth covered serving tray are here.
+
+This room is illuminated.
+In the room are Sevi the Noble Secian (seated), Mieglyn the Secian (seated), Twilight the Noble Secian (seated), Weldoian the Secian, and Rivnen the Noble Secian (seated).
+Obvious exits: None.
+>
+Rivnen says, "Issa action word inna shadow."
+
+Rivnen nods up and down.
+sear room for ver
+You search the room thoroughly.
+
+You find nothing of interest.
+[5 sec. delay]
+>
+Twilight exclaims in Secian, "Ok! Whom hast had a chance to read o'er the topics o' our last meeting."
+
+Weldoian raises his hand.
+rai hand to t
+You raise your hand to Twilight.
+>
+Rivnen says, "I was here.."
+
+Rivnen babbles.
+
+Sevi smiles and raises her hand.
+
+Twilight beams.
+
+Mieglyn says, "I read them"
+
+Twilight says in Secian, "For any who might have missed it. I encourage ye to step outside for just a moment to read the scroll. Tis a lot to restate here."
+
+Twilight says in Secian, "I suppose I shouldst confirm that we are all enrolled in this idea. Afore I assume and move forward."
+
+Twilight smiles.
+sp sec
+You are now speaking Secti.
+sp secian
+>You are now speaking Secian.
+>
+Weldoian's stomach growls.
+
+Weldoian says, "I hate it.  It must be disposed of immediately."
+
+Weldoian nods.
+
+Weldoian grins.
+
+Weldoian winks.
+
+Rivnen blinks.
+cac
+You cackle.
+>
+Twilight tickles Weldoian.
+
+Mieglyn chuckles.
+
+Weldoian giggles.
+
+Twilight says in Secian, "Mmm, hmmm..."
+
+Twilight giggles.
+
+Rivnen leans his head on Weldoian's shoulder.
+
+Sevi giggles softly.
+
+Rivnen cackles!
+
+Rivnen leans on Sevi.
+' this will be the third such gruop of kyn yes?
+
+Glinka asks in Secian, " this will be the third such gruop of kyn yes?"
+hic
+>You hiccup.
+>
+Weldoian leans on you and says, "I believe such statements will end up with me being constantly ignored..."
+gri
+You grin.
+who v
+>Looking for a user with a name beginning with 'v'...
+
+Current Adventurers
+
+ Vincentiv Landstalker               Vixen Vivacious                    
+ Verbaniah Debrenna                  Varnfair Bruive                    
+
+You notice 4 adventurers.
+>
+Weldoian says, "third, fourth, second..."
+
+Weldoian shrugs.
+
+Twilight asks in Secian, "Shall we start with the name then? We have two additional ideas."
+
+Rivnen glances at you and says, "Which issa not far from the norm."
+
+list
+You listen intently.
+>
+Weldoian sticks his tongue out at Rivnen.
+link :: grins::
+
+>
+Rivnen winks at Weldoian.
+chu to ri
+You chuckle to Rivnen.
+>
+Twilight beams at you.
+
+Twilight says in Secian, "Alright sillies..."
+
+Twilight giggles.
+
+Rivnen reveals Verbaniah!
+
+Rivnen pounces on Verbaniah and bounces off with little effect.
+
+Verbaniah wrinkles her nose.
+
+Mieglyn laughs.
+
+Rivnen whines.
+
+Twilight chuckles.
+
+Kiralyn, her wild golden blonde hair gleaming in the light, just entered through a tiny oak knothole.
+
+Rivnen sits up.
+lean head ver ......her long soft kinky hair falling all over....
+You lean your head on Verbaniah's shoulder......her long soft kinky hair falling all over....
+>
+Verbaniah says, "now see, i didnt pounce a single person"
+
+Kiralyn smiles.
+l at v
+
+Twilight beams at Kiralyn.
+
+Verbaniah looks like a 1'5" standard young delicate boned, wirey-tough bodied Secian Cleric.
+She is seated.
+She has long, curly, fine strawberry blonde hair with fragrant flowers, ruby red eyes, and looks translucent.
+She appears to be preoccupied right now.
+She bears the mark of Elindale.
+She can be attacked by other players.
+
+On her wings are delicate, intricate silver swirls that shimmer with the slightest movement.
+
+She appears to be in perfect health.
+                        Visible Equipment
+A delicately woven ivy crown                       (on head)
+A gold veined emerald chiseled leaf                (around neck)
+An emerald ribboned moonsilver toe ring            (on feet)
+A diminutive silvery diamond snowflake band        (ring (right))
+A Dragon and Secian etched moonsilver bond ring    (ring (left))
+An entwined silver Dragon and Secian band          (ring (left))
+A tiny twinkling emerald clover                    (right ear)
+A tiny twinkling emerald clover                    (left ear)
+A dragon embossed moonsilver bondmates coin        (on belt)
+Some softly shimmering emerald prayer beads        (on belt)
+Some unicorn-etched white ivory prayer beads       (on belt)
+
+She has been bestowed the following title(s):
+  Noble of the Realm
+
+>
+Twilight hugs Kiralyn.
+
+Kiralyn fans her wings.
+
+Kiralyn hugs Twilight.
+l at ki
+
+Kiralyn looks like a 1'1" standard adolescent light boned, slender bodied Secian.
+She has shoulder length, unbridled, kinky golden blonde hair with sparkling highlights, ruby red eyes, and looks casual.
+She appears to be overjoyed right now.
+She bears the mark of Rinanni.
+She can be attacked by other players.
+
+On her wings are silver sparkles and intricate pearlescent swirls that shimmer in the slightest amount of light.
+
+She has no apparent injuries, but looks tired.
+
+Physical appearance:
+
+Her small, delicate features speak of warmth and innocence, and a kind and loving smile typically graces her lips.
+
+                        Visible Equipment
+A light onyx banded morbius armor                  (armor)
+A pale blue diamond teardrop necklace              (around neck)
+An intricate moonsilver filigree bracelet          (over hands)
+A pair of wooden clogs                             (on feet)
+A carved mother-of-pearl dove ring                 (ring (right))
+A stunning white diamond band of doves             (ring (right))
+A pearl ring of Rinanni                            (ring (right))
+A brilliant white ivory ring of Rinanni            (ring (right))
+An intricately braided moonsilver chosen's ring    (ring (left))
+An ice cold platinum ring                          (ring (left))
+A creamy white magnolia blossom                    (right ear)
+A creamy white magnolia blossom                    (left ear)
+A flirtatious marigold linen sundress              (dress)
+
+She has been bestowed the following title(s):
+  Noble of the Realm
+
+>
+smile
+wink at Rivnen
+Rivnen is looking at you.
+You smile.
+>
+Weldoian smiles to Kiralyn.
+You wink at Rivnen.
+>
+Kiralyn says in Secian, "Hello."
+
+wave to Kiralyn
+Kiralyn waves.
+You wave to Kiralyn.
+hu kir
+>You hug Kiralyn.
+>
+Verbaniah just removed some acorns from within her open large leather backpack.
+
+lean head Kiralyn her long soft hair flying about...
+hug Kiralyn long and tyte
+Kiralyn hugs you.
+You lean your head on Kiralyn's shoulder her long soft hair flying about...
+>You hug Kiralyn long and tyte.
+>
+Verbaniah stands up.
+
+Sevi fans her wings at Kiralyn.
+
+Verbaniah, boingy, boingy, boingy, just went through a tiny oak knothole.
+
+Kiralyn fans her wings at Sevi.
+
+Mieglyn smiles at Kiralyn.
+
+Rivnen fans his wings at Kiralyn.
+l at kno
+It looks like a tiny oak knothole.
+l through kno
+l under kno
+l behind kno
+l on kno
+l in kno
+>[Forest path.]
+
+The path seems to be disappearing before your very eyes. Travel any way but back to the northwest is blocked by foliage so dense as to prevent any further passage into the forest. An ancient oak tree festooned with bright colorful silk ribbons stands to the side of the disappearing path. Sparkling trinkets and gems hang from every available branch, a  cheerful tinkling noise filling the air with the slightest breeze.  A giant ancient oak tree, a fragrant bluish Secian rose, a tiny oak knothole, some swirling multicolored paper hanging lanterns, and some flowing colorful paper streamers are here.
+
+This area is illuminated.
+You see the 1st adorable little bunny (wearing a small gold collar).
+In the area is Verbaniah the Secian.
+Obvious paths: northwest*.
+>There is nothing underneath that.
+>There is nothing behind that.
+>There is nothing on top of that.
+>There is nothing inside that.
+who race
+>Race who list activated!
+
+                Current Secian Adventurers:
+
+Current Adventurers
+
+ Lumiere Salut                       Glinka Dragondsfriend              
+ Sevi Arminia                        Verbaniah Debrenna                 
+ Mieglyn Trevalyn                    Twilight Flutal                    
+ Lilioth Golden                      Weldoian Sesca                     
+ Rivnen Tsunami                      Padraig Millat                     
+ Kiralyn Averendil                  
+
+You notice 11 adventurers.
+>
+Kiralyn smiles at Mieglyn and Weldoian and fans her wings at Rivnen, too.
+
+Twilight smiles.
+who range race
+List will be restricted to those within range.
+Race who list activated!
+
+                Current Secian Adventurers:
+
+Current Adventurers
+
+ Glinka Dragondsfriend               Sevi Arminia                       
+ Verbaniah Debrenna                  Mieglyn Trevalyn                   
+ Twilight Flutal                     Weldoian Sesca                     
+ Rivnen Tsunami                      Padraig Millat                     
+ Kiralyn Averendil                  
+
+You notice 9 adventurers.
+>
+Twilight says in Secian, "Remember there are refreshments all."
+
+Twilight taps the pretty white cloth covered serving tray.
+
+Rivnen's head suddenly begins glowing. He places a hand upon his chest. The glow travels down an arm to his hand. The glow quickly spreads over Rivnen's entire body, then fades away.
+
+
+Twilight taps the large ribboned wooden drink platter.
+
+Rivnen nods up and down.
+
+
+
+Rivnen says, "Berry... salad..."
+link greetings Padraig
+
+>
+Kiralyn glances at the pretty white cloth covered serving tray.
+
+Rivnen drools.
+
+Kiralyn beams!
+
+
+Twilight giggles at Rivnen.
+
+Kiralyn says in Secian, "Ooooh."
+
+Twilight smiles.
+
+l in serv
+I don't see what you are referring to.
+>
+l in tray
+I don't see what you are referring to.
+l in cov
+>Inside the pretty white cloth covered serving tray you see some baked banana chips, some baked banana chips, some baked banana chips, some baked banana chips, some baked banana chips, some baked banana chips, some baked banana chips, some baked banana chips, some baked banana chips, some baked banana chips, some baked banana chips, some taffy apple salad, some taffy apple salad, some taffy apple salad, some taffy apple salad, some taffy apple salad, some taffy apple salad, some berry and melon salad, some berry and melon salad, some berry and melon salad, some berry and melon salad, some berry and melon salad, some berry and melon salad, some berry and melon salad, some berry and melon salad, some berry and melon salad, some taffy apple salad, some taffy apple salad, some taffy apple salad, some taffy apple salad, some taffy apple salad, some taffy apple salad, and some taffy apple salad.
+>
+Twilight says in Secian, "The Lady Alaytra Psycian ist a most good cook, or at least, her staff is."
+
+Twilight grins.
+get sal from cov
+I don't see any "sal" in there!
+>
+
+Kiralyn just removed some baked banana chips from within the pretty white cloth covered serving tray.
+get app from cov
+I don't see any "app" in there!
+>
+Kiralyn just removed some berry and melon salad from within the pretty white cloth covered serving tray.
+get taf from cov
+You remove the taffy apple salad from the pretty white cloth covered serving tray.
+>
+Twilight exclaims in Secian, "Ok!"
+
+Kiralyn just removed a glass of pineapple juice from within the large ribboned wooden drink platter.
+
+Twilight smiles.
+
+eat taf
+You take a bite of your taffy apple salad.
+Hmmm... not bad!
+
+You're full, time to stop eating for a while.
+>
+Mieglyn just removed some berry and melon salad from within the pretty white cloth covered serving tray.
+l
+[Secian's Tree.]
+
+Colorful woven silk rugs cover the sparkling polished oak floor of this large cavernous room in the center of the ancient tree. Large soft silk-covered feather pillows lay scattered about the floor, and a shimmering crystal fountain sits in the center of the chamber. A beautiful mural has been painted on one wall and adds even more color to the room.  A white cloth covered serving tray is filled with delicious summer snacks, including taffy apple salad with miniature marshmallows, baked banana chips with honey yogurt dip, orange and cranberry muffins, and fresh melon and summer berry salad with caramelized walnuts. A second tray is filled with an assortment of fresh juices.  A blue and white silken rope leading up, a tiny oak knothole, a soft blue and white velvet sofa, a soft green silk pillow, a soft red silk pillow, a soft yellow silk pillow, a soft blue silk pillow, a large ribboned wooden drink platter, and a pretty white cloth covered serving tray are here.
+
+This room is illuminated.
+In the room are Sevi the Noble Secian (seated), Mieglyn the Secian (seated), Twilight the Noble Secian (seated), Weldoian the Secian, Rivnen the Noble Secian (seated), and Kiralyn the Noble Secian.
+Obvious exits: None.
+>
+Twilight asks in Secian, "Do we wish to start off with the name? Raise your hand if ye agree?"
+You see Mieglyn take a bite of her berry and melon salad.
+
+Verbaniah, boingy, boingy, boingy , just entered through a tiny oak knothole.
+rai hand to t
+
+Verbaniah offers something to Weldoian.
+You raise your hand to Twilight.
+>
+Mieglyn chuckles.
+
+Twilight nuzzles Verbaniah.
+
+Kiralyn just removed a glass of orange juice from within the large ribboned wooden drink platter.
+
+Verbaniah sits down.
+
+Sevi listens intently to Twilight.
+
+
+Mieglyn listens intently.
+
+Rivnen listens intently to Twilight.
+link :: grins::
+
+>
+Twilight giggles.
+
+Twilight says in Secian, "I shall take all the listening as a yes then."
+
+Twilight smiles.
+
+Kiralyn grins.
+nod yes t
+
+Kiralyn sits down.
+You nod up and down t.
+>
+Kiralyn listens intently to Twilight.
+
+Sevi grins and nodnodnods to Twilight.
+
+Twilight says in Secian, "The names proposed last time, along with a few given me in the interum are..."
+
+Weldoian says, "I suggest that we vote upon a name, or names, and the open the vote to those of us not present."
+l
+[Secian's Tree.]
+
+Colorful woven silk rugs cover the sparkling polished oak floor of this large cavernous room in the center of the ancient tree. Large soft silk-covered feather pillows lay scattered about the floor, and a shimmering crystal fountain sits in the center of the chamber. A beautiful mural has been painted on one wall and adds even more color to the room.  A white cloth covered serving tray is filled with delicious summer snacks, including taffy apple salad with miniature marshmallows, baked banana chips with honey yogurt dip, orange and cranberry muffins, and fresh melon and summer berry salad with caramelized walnuts. A second tray is filled with an assortment of fresh juices.  A blue and white silken rope leading up, a tiny oak knothole, a soft blue and white velvet sofa, a soft green silk pillow, a soft red silk pillow, a soft yellow silk pillow, a soft blue silk pillow, a large ribboned wooden drink platter, and a pretty white cloth covered serving tray are here.
+
+This room is illuminated.
+In the room are Sevi the Noble Secian (seated), Verbaniah the Secian (seated), Mieglyn the Secian (seated), Twilight the Noble Secian (seated), Weldoian the Secian, Rivnen the Noble Secian (seated), and Kiralyn the Noble Secian (seated).
+Obvious exits: None.
+chu gently, winking..
+>You chuckle gently, winking..
+>
+Weldoian says, "If votin' be what we are gonna do..."
+who range race
+List will be restricted to those within range.
+Race who list activated!
+
+                Current Secian Adventurers:
+
+Current Adventurers
+
+ Benni Corinth                       Glinka Dragondsfriend              
+ Sevi Arminia                        Verbaniah Debrenna                 
+ Mieglyn Trevalyn                    Twilight Flutal                    
+ Weldoian Sesca                      Rivnen Tsunami                     
+ Padraig Millat                      Kiralyn Averendil                  
+
+You notice 10 adventurers.
+>
+Twilight says in Secian, "Circle of Secian, Secian Aid Society, Secian's for Aiding Society, Caring Secian Community, Circle of Empathy, and Secret Secian Society."
+link Benni!
+
+>
+Weldoian blinks.
+link Benni!
+
+>
+Kiralyn ponders the meaning of the universe for a moment.
+
+Twilight says in Secian, "I have a question."
+
+Weldoian raises an eyebrow at Twilight.
+link we summon thee Benni
+
+>
+
+link long tyme ol sister
+
+>
+Twilight says in Secian, "Now, what Weldo proposes, about opening the vote up to all ist most valid. Howe'er, we know that oft kyn dona read the postings here upon the tree."
+list to t
+You listen intently to Twilight.
+>
+Sevi leans on Rivnen and whispers softly, "Mus' be old timer's night out."
+
+Rivnen nods up and down at Sevi.
+
+Twilight says in Secian, "So, there are a couple o' ways to handle this."
+who range race
+List will be restricted to those within range.
+Race who list activated!
+
+                Current Secian Adventurers:
+
+Current Adventurers
+
+ Benni Corinth                       Glinka Dragondsfriend              
+ Sevi Arminia                        Verbaniah Debrenna                 
+ Mieglyn Trevalyn                    Twilight Flutal                    
+ Weldoian Sesca                      Rivnen Tsunami                     
+ Padraig Millat                      Kiralyn Averendil                  
+
+You notice 10 adventurers.
+>
+Benni, fluttering this way and that, just entered through a tiny oak knothole.
+
+Weldoian beams.
+
+Weldoian hugs Benni.
+
+Verbaniah says, "OoOoo"
+
+Padraig just flew in through a tiny oak knothole.
+
+Weldoian sits down.
+
+lean head Benni her long soft hair flying about...
+hug Benni long and tyte
+Benni hugs you.
+You lean your head on Benni's shoulder her long soft hair flying about...
+>You hug Benni long and tyte.
+>
+Verbaniah bats her eyes at Benni.
+
+Padraig flies down and lands.
+
+Weldoian hugs Padraig.
+link Benni..is a meetin at the tree for any who wish..food too!
+
+>
+Padraig smiles.
+
+Benni hugs Weldoian.
+
+Benni grins at Verbaniah.
+
+Padraig hugs Weldoian.
+hu be
+You hug Benni.
+>
+Benni sits down.
+
+Weldoian smiles.
+You see Mieglyn take a bite of her berry and melon salad.
+
+Twilight says in Secian, "We canst pick our favorites and hold the vote via our scribes after I've posted this meeting again."
+
+Twilight hugs Benni.
+' beware the pouncy shadows
+
+Glinka says in Secian, " beware the pouncy shadows"
+>
+Benni hugs Twilight.
+gri to be
+You grin to Benni.
+>You see Mieglyn take a bite of her berry and melon salad.
+
+Mieglyn belches.
+
+Mieglyn blushes.
+
+Rivnen's head suddenly begins glowing. He places a hand upon his chest. The glow travels down an arm to his hand. The glow quickly spreads over Rivnen's entire body, then fades away.
+
+
+Twilight exclaims in Secian, "Or!"
+
+Padraig says in Secian, "This is quite the crowd"
+
+Mieglyn mutters scuse me.
+l at be
+
+Benni looks like a 1'0" standard ancient delicate boned, slender bodied Secian.
+She is seated.
+She has long, curly, platinum blonde hair, with ruby red eyes, and looks neat.
+She appears to be confused right now.
+She bears the mark of Elindale.
+She can be attacked by other players.
+
+On her wings are delicate, intricate ruby swirls that shimmer with the slightest movement.
+
+She appears to be in perfect health.
+There is a shining gold emblem affixed to her clothing.
+                        Visible Equipment
+A tiny shimmering circlet of wildflowers           (on head)
+A small sparkling red ruby dragon pendant          (around neck)
+A pair of soft green spidersilk slippers           (on feet)
+An oak ring of Elindale                            (ring (right))
+A tiny glimmering emerald leaf                     (right ear)
+A tiny glimmering emerald leaf                     (left ear)
+A diaphanous blue and white silk gown              (dress)
+A closed velvet gempouch                           (on belt)
+
+She has been bestowed the following title(s):
+  Noble of the Realm
+
+>
+Benni nods to Twilight.
+
+Kiralyn grins at Mieglyn.
+hu be softly
+You hug Benni softly.
+>
+Benni giggles.
+
+lean head Benni her long soft hair flying about...
+hug Benni long and tyte
+Benni hugs you.
+You lean your head on Benni's shoulder her long soft hair flying about...
+>You hug Benni long and tyte.
+>
+Twilight says in Secian, "We canst all vote together now. But leave it open for change if there be any objections by any not now present."
+' deal
+
+Glinka says in Secian, " deal"
+nod yes to tw
+>You nod up and down to Twilight.
+>
+Rivnen says, "I concur withs the latter statement."
+' second the motion
+
+Glinka says in Secian, " second the motion"
+>
+Weldoian says, "Well, my thinkin' was...we can vote on a name that we like.  We can then open it up to those of us not present.  If there's close tie, then the names get put out for revote.  If a minimal amount of people vote via scroll, then we have the name we vot"
+tact
+Standing in this rank is:
+Benni, Glinka, Sevi, Verbaniah, Mieglyn, Twilight, Weldoian, Rivnen, Padraig, Kiralyn
+>
+Weldoian says, "Voted for here."
+
+Weldoian coughs slightly.
+
+Twilight smiles.
+
+Weldoian shrugs.
+
+Twilight exclaims in Secian, "Ok then, the suggestions thus far are again!"
+
+Padraig asks in Secian, "We're voting on a name for us?"
+
+Twilight says in Secian, "Circle of Secian, Secian Aid Society, Secian's for Aiding Society, Caring Secian Community, Circle of Empathy, and Secret Secian Society."
+nod yes to p
+You nod up and down to Padraig.
+>
+Twilight nods up and down to Padraig.
+
+Padraig laughs.
+
+Weldoian's stomach growls.
+
+Twilight asks in Secian, "Any further suggestions, before we begin?"
+
+Padraig asks in Secian, "Secret?"
+
+Kiralyn ponders the meaning of the universe for a moment.
+
+Padraig chuckles.
+
+Kiralyn raises her hand.
+
+Twilight shrugs.
+
+Twilight says in Secian, "It was a suggestion. I turned down no ideas, as I wanted all to feel included."
+
+Twilight says in Secian, "Kiralyn"
+
+Twilight nods to Kiralyn.
+
+Sevi asks in Secian, "Uhmm.. if there are those who don' read scrolls... yet we have to give everyone the opportunity? Uhmmm.. jus' how are we gonna accomplish this?"
+
+Kiralyn says in Secian, "Er, nevermind.  I was going to question the secrecy, too."
+
+Kiralyn nods up and down.
+
+Twilight says in Secian, "A good question Sevi."
+
+Twilight says in Secian, "Let me respond to that."
+
+Weldoian says to Sevi, "Well..if we put the vote up on the boards, and nae one votes, then...well, we at least tried to include e'eryone."
+
+Weldoian shrugs.
+
+Weldoian listens intently to Twilight.
+
+Padraig says in Secian, "If we're going to go with Secret, we should go with "Double Top Secret""
+
+Padraig grins.
+
+Kiralyn giggles at Padraig.
+
+Weldoian giggles at Padraig.
+
+Sevi grins at Padraig.
+
+Mieglyn chuckles.
+
+Verbaniah says, "or just.. really super secret"
+
+Verbaniah nods.
+
+Twilight says in Secian, "Most o' ye know, that this ist our third meeting thus far. And some expressed a desire nay to have endless meetings with no actual progress."
+You see Kiralyn trying to eat her stunning white diamond band of doves.
+
+Kiralyn babbles.
+You see Kiralyn take a bite of her baked banana chips.
+' i like the Circle of Empathy one..reminds me of the old Circle of Honor
+
+Glinka says in Secian, " i like the Circle of Empathy one..reminds me of the old Circle of Honor"
+gri to t
+>You grin to Twilight.
+>
+smi at Twilight softly, winking..
+Twilight smiles at you.
+You smile at Twilight softly, winking..
+>
+Twilight says in Secian, "Ok, almost done."
+
+Kiralyn kisses the stunning white diamond band of doves.
+
+Rivnen babbles at Kiralyn.
+
+Rivnen reaches out and tenderly joins hands with Sevi.
+
+Kiralyn babbles at Rivnen quietly.
+
+Twilight says in Secian, "I believe that as long as we keep ourselves open. Open in membership. Open to new ideas."
+
+Weldoian ponders the meaning of the universe for a moment.
+
+Weldoian nods.
+
+Twilight says in Secian, "We can get things going. Just get them started at least."
+
+Weldoian nods.
+
+Padraig smiles.
+
+Twilight says in Secian, "If, as more of us gather, we find the need to change things. We can."
+l
+[Secian's Tree.]
+
+Colorful woven silk rugs cover the sparkling polished oak floor of this large cavernous room in the center of the ancient tree. Large soft silk-covered feather pillows lay scattered about the floor, and a shimmering crystal fountain sits in the center of the chamber. A beautiful mural has been painted on one wall and adds even more color to the room.  A white cloth covered serving tray is filled with delicious summer snacks, including taffy apple salad with miniature marshmallows, baked banana chips with honey yogurt dip, orange and cranberry muffins, and fresh melon and summer berry salad with caramelized walnuts. A second tray is filled with an assortment of fresh juices.  A blue and white silken rope leading up, a tiny oak knothole, a soft blue and white velvet sofa, a soft green silk pillow, a soft red silk pillow, a soft yellow silk pillow, a soft blue silk pillow, a large ribboned wooden drink platter, and a pretty white cloth covered serving tray are here.
+
+This room is illuminated.
+In the room are Benni the Noble Secian (seated), Sevi the Noble Secian (seated), Verbaniah the Secian (seated), Mieglyn the Secian (seated), Twilight the Noble Secian (seated), Weldoian the Secian (seated), Rivnen the Noble Secian (seated), Padraig the Secian, and Kiralyn the Noble Secian (seated).
+Obvious exits: None.
+>
+Twilight says in Secian, "Tis nay written in stone, after all."
+
+Twilight smiles.
+
+Rivnen says, "Jus' in Twilights notebook."
+
+Rivnen nods up and down.
+gri
+You grin.
+>
+Mieglyn smiles.
+
+Sevi grins at Rivnen.
+
+Padraig returns his damaged heavy steel ended cudgel.
+
+Twilight giggles at Rivnen.
+
+Weldoian says, "Which she loses often, so...worry not."
+
+Weldoian grins.
+
+Weldoian teases Twilight.
+chu delicately , brushing back her long kinky white hair
+You chuckle delicately , brushing back her long kinky white hair.
+>
+Twilight tickles Weldoian.
+
+Sevi giggles.
+
+Weldoian grins.
+
+Twilight asks in Secian, "Ok, any further comments afore we discuss the names?"
+
+Twilight says in Secian, "Please raise your hand."
+
+Twilight smiles.
+
+Twilight asks in Secian, "Any further name suggestions?"
+
+Twilight says in Secian, "The ones thus far are again..."
+
+Twilight says in Secian, "Circle of Secian, Secian Aid Society, Secian's for Aiding Society, Caring Secian Community, Circle of Empathy, and Secret Secian Society."
+
+Weldoian says, "I like the Weldo's Minions..."
+
+Weldoian hums.
+
+Weldoian glances.
+
+Weldoian cackles.
+
+Kiralyn giggles at Weldoian.
+gri
+You grin.
+>
+Mieglyn chuckles.
+
+Twilight smirks at Weldoian.
+
+Weldoian grins.
+
+Twilight says in Secian, "fine..."
+
+Weldoian exclaims, "Nae!!"
+
+Twilight says in Secian, "Circle of Secian, Secian Aid Society, Secian's for Aiding Society, Caring Secian Community, Circle of Empathy, and Secret Secian Society and Weldo's Minions."
+
+Weldoian exclaims to Twilight, "'Twas just a joke!"
+
+Twilight sticks her tongue out at Weldoian.
+
+Kiralyn giggles!
+
+Twilight giggles.
+
+Weldoian flails his arms about wildly.
+
+Mieglyn laughs.
+
+Twilight says to Weldoian in Secian, "I know."
+
+Weldoian whines.
+
+Sevi murmurs quietly, "Weldo's Bunnies."
+
+Twilight winks at Weldoian.
+
+Padraig coughs.
+
+Twilight giggles.
+get key from clo
+unl ch with key
+op che
+You remove the white key from your white silk cloak.
+I don't see what you're trying to unlock.
+
+Twilight exclaims in Secian, "Ok! To be serious."
+I don't see what you are referring to.
+>
+Twilight smiles.
+put key in clo
+You place the white key within your white silk cloak.
+>
+Twilight asks in Secian, "Any further name suggestions?"
+nod no , her long soft kinky white-blonde hair flying gently back and forth... t
+You shake your head from side to side, her long soft kinky white-blonde hair flying gently back and forth... t.
+hic
+>You hiccup.
+>
+Twilight says in Secian, "Alright then. We can vote with raised hands, or just whisper to me your favorite."
+
+Twilight shrugs.
+You see Kiralyn take a drink from her glass of pineapple juice.
+wh to t Circle o Empathy
+You whisper to Twilight in Secian.
+>
+Padraig says to Twilight in Secian, "I've no preference at all."
+
+Weldoian says, "A vote be a vote."
+
+Twilight says in Secian, "I think whispering would be faster, actually."
+
+Twilight smiles.
+nod yes to t
+You nod up and down to Twilight.
+>
+Lilioth, Ruby wings sparkling in the light,, just flew in through a tiny oak knothole.
+
+Lilioth flies down and lands.
+hu lil
+You hug Lilioth.
+>
+Padraig says in Secian, "Our actions will define us, not the name of a group."
+
+Mieglyn beams at Lilioth.
+
+Kiralyn beams at Lilioth.
+
+Twilight hugs Lilioth.
+l at li
+
+lean head Lilioth her long soft hair flying about...
+hug Lilioth long and tyte
+Lilioth hugs you.
+
+Lilioth looks like a 1'3" standard young average boned, wirey-tough bodied Secian.
+She has very short, curly, wispy platinum blonde hair, with ruby red eyes, and looks neat.
+She appears to be amused right now.
+She bears the mark of Elindale.
+She can be attacked by other players.
+
+On her wings are delicate, intricate ruby swirls that shimmer with the slightest movement.
+
+She appears to be in perfect health.
+
+Physical appearance:
+
+A tiny woodland pixie proudly bonded to Losmir the Ruby Drake
+
+                        Visible Equipment
+A ruby encrusted steelwood mail                    (armor)
+A rainbow beaded moonsilver amulet of chosens      (around neck)
+Some beaded midnight blue slippers                 (on feet)
+A silver veined ruby ring                          (ring (right))
+A Dragon and Secian etched moonsilver bond ring    (ring (left))
+A fiery star ruby earring                          (right ear)
+A fiery star ruby earring                          (left ear)
+Some baggy white silk pants                        (pants)
+A blue and white velvet bodice                     (shirt)
+An open beautiful dragon embroidered satin gem pou (on belt)
+
+She has been bestowed the following title(s):
+  Noble of the Realm
+
+>You lean your head on Lilioth's shoulder her long soft hair flying about...
+>You hug Lilioth long and tyte.
+>
+Weldoian nods to Padraig.
+
+Weldoian hugs Lilioth.
+
+Lilioth grins.
+' merry meet Lilioth
+
+Glinka says in Secian, " merry meet Lilioth"
+>
+Lilioth exclaims in Secian, "Sorry I'm late!"
+
+Lilioth pants.
+who range race
+List will be restricted to those within range.
+Race who list activated!
+
+                Current Secian Adventurers:
+
+Current Adventurers
+
+ Benni Corinth                       Glinka Dragondsfriend              
+ Sevi Arminia                        Verbaniah Debrenna                 
+ Mieglyn Trevalyn                    Twilight Flutal                    
+ Lilioth Golden                      Weldoian Sesca                     
+ Rivnen Tsunami                      Padraig Millat                     
+ Kiralyn Averendil                  
+
+You notice 11 adventurers.
+>
+Twilight exclaims to Lilioth in Secian, "Tis well!"
+
+Lilioth nuzzles Twilight.
+
+Lilioth sits down.
+
+Twilight says to Lilioth in Secian, "Ye are just in time. We are voting on a name."
+
+Kiralyn says to Padraig in Secian, "I agree, but I don't want us to get stuck with a name I don't like, either."
+
+Kiralyn chuckles softly.
+who race
+Race who list activated!
+
+                Current Secian Adventurers:
+
+Current Adventurers
+
+ Benni Corinth                       Lumiere Salut                      
+ Glinka Dragondsfriend               Sevi Arminia                       
+ Verbaniah Debrenna                  Mieglyn Trevalyn                   
+ Twilight Flutal                     Lilioth Golden                     
+ Weldoian Sesca                      Rivnen Tsunami                     
+ Padraig Millat                      Kiralyn Averendil                  
+
+You notice 12 adventurers.
+>
+Twilight says to Lilioth in Secian, "The suggestions be..."
+
+Twilight says in Secian, "Circle of Secian, Secian Aid Society, Secian's for Aiding Society, Caring Secian Community, Circle of Empathy, and Secret Secian Society and Weldo's Minions."
+
+Twilight tickles Weldoian.
+
+Weldoian flails his arms about wildly at Twilight.
+
+Weldoian whines.
+
+Kiralyn giggles softly at that last one.
+
+Twilight giggles at Weldoian.
+
+Weldoian exclaims, "That last one is NOT an option!"
+
+Weldoian murmurs something beneath his breath.
+
+Lilioth exclaims in Secian, "I love "Welco's Minions"!!!"
+
+Weldoian shrieks.
+
+Lilioth grins.
+
+Weldoian flails his arms about wildly.
+
+Lilioth giggles.
+
+Twilight is now amused.
+
+Weldoian asks, "Why'd I have to open my mouth?"
+
+Weldoian moans.
+
+Benni ponders.
+
+Weldoian leans on you.
+
+Mieglyn chuckles.
+' the two Secian groups before this one were..the Saphire Star..and the Order of Shining Light..
+
+Glinka says in Secian, " the two Secian groups before this one were..the Saphire Star..and the Order of Shining Light.."
+gri to we
+>You grin to Weldoian.
+>
+Kiralyn ponders the meaning of the universe for a moment.
+
+Twilight says in Secian, "Ok, sorry to do this. But let's start the voting again. Now that Lilioth ist here."
+
+Twilight says in Secian, "So..."
+' the Order was the one who built this tree
+
+Glinka says in Secian, " the Order was the one who built this tree"
+>
+Twilight says in Secian, "Once more... everyone whisper to me your vote."
+
+Weldoian nods to you.
+wh to t COE
+You whisper to Twilight in Secian.
+>
+Weldoian winks to Twilight.
+
+Lilioth smiles and nods.
+wh to ben were you in the Saphire Star?
+You whisper to Benni in Secian.
+>
+Rivnen grins at Sevi and gives her hand a soft squeeze.
+
+Weldoian's stomach growls.
+
+Sevi smiles to Rivnen and twines her fingers through his.
+
+Twilight says in Secian, "Hrm..."
+' tie?
+
+Glinka asks in Secian, " tie?"
+gig
+>You giggle.
+>
+Twilight says in Secian, "Ok, I have a small conflict here."
+
+Lilioth grins.
+
+Mieglyn chuckles.
+
+Kiralyn grins.
+
+Sevi listens intently to Twilight.
+
+Rivnen asks, "Weldo's Minions by a landslide?"
+
+Lilioth smiles at Mieglyn.
+
+Rivnen listens intently to Twilight.
+
+Lilioth laughs.
+
+Sevi snickers.
+
+Kiralyn giggles at Rivnen.
+
+Twilight says in Secian, "I have not, technically voted. And we have a three way tie. So if I vote. I'm the tie breaker."
+
+Twilight giggles.
+
+Lilioth exclaims in Secian, "oh!"
+
+Padraig exclaims to Twilight in Secian, "Well, vote then!"
+
+Twilight winces.
+
+Twilight says in Secian, "Um..."
+
+Twilight says in Secian, "Um..."
+
+Mieglyn says, "That's fine"
+
+Lilioth asks in Secian, "what are the three?"
+
+Benni says in Secian, "Isa hard choice."
+
+Weldoian says, "Well...that's what the Community Chairperson should do.  Be the tie breaker."
+
+Weldoian nods.
+
+Benni says in Secian, "We could have another vote."
+
+Sevi nods up and down.
+
+Twilight says in Secian, "Circle of Secian, Circle of Empathy and SEcian Aid Society."
+
+Benni says in Secian, "A runoff."
+
+Kiralyn says in Secian, "Or we could just all revote on those three."
+
+Lilioth nods up and down.
+
+Rivnen nods up and down.
+
+Weldoian nods.
+
+Twilight says in Secian, "I'm for revoting on those three."
+' deal
+
+Glinka says in Secian, " deal"
+>
+Twilight says in Secian, "I hate being the tie breaker"
+
+Kiralyn beams.
+' whisper now?
+
+Twilight snickers.
+
+Glinka asks in Secian, " whisper now?"
+>
+Kiralyn grins at Twilight.
+
+Twilight says in Secian, "Whisper now please"
+
+Benni says in Secian, "I like alla those."
+
+Lilioth grins.
+
+Benni ponders.
+
+Padraig nods to Benni.
+wh to t COS
+You whisper to Twilight in Secian.
+lean 4 pil
+>You lean on the soft blue silk pillow.
+eat taf
+>You take a bite of your taffy apple salad.
+Hmmm... not bad!
+
+You're full, time to stop eating for a while.
+>
+Verbaniah glances to you.
+
+Verbaniah fidgets.
+gla at cov
+You glance at the pretty white cloth covered serving tray.
+>
+Mieglyn leans on Lilioth.
+
+Lilioth pulls Mieglyn closer to her.
+
+Lilioth grins.
+
+Mieglyn chuckles.
+
+Kiralyn just removed some taffy apple salad from within the pretty white cloth covered serving tray.
+
+Twilight says in Secian, "Ok, now we're down to a two way tie."
+
+Twilight giggles.
+cac
+You cackle.
+>
+Rivnen flails his arms about wildly.
+
+Verbaniah wrinkles her nose to Twilight.
+
+Twilight says in Secian, "Including my vote."
+
+Lilioth laughs!
+
+Weldoian exclaims, "Narrowin' it down!"
+
+Sevi giggles.
+
+Mieglyn listens intently to Twilight.
+
+Kiralyn giggles.
+
+Twilight says in Secian, "Circle of Empathy. And Secian Aid Society."
+
+Verbaniah snickers.
+
+Rivnen asks, "Weldo's Minions by a landslide, AGAIN?"
+
+Rivnen cackles.
+
+Weldoian hums.
+
+Weldoian murmurs something beneath his breath.
+
+Twilight giggles at Rivnen.
+
+Twilight laughs.
+
+Lilioth winks at Rivnen.
+
+Rivnen teases Weldoian.
+
+Mieglyn laughs at Weldoian.
+
+Twilight says in Secian, "Oh, I'm having fun."
+
+Weldoian exclaims, "I'd have to tickle all of ye mercilessly!"
+
+Lilioth laughs.
+
+Lilioth nuzzles Twilight.
+
+Twilight exclaims in Secian, "Ok, one more time!"
+wh to t circle o empathy
+You whisper to Twilight in Secian.
+>
+Kiralyn flails her arms about wildly at Weldoian.
+
+Verbaniah says, "can always leave that up to general population and see what they think as well"
+
+Weldoian nods to Verbaniah.
+
+Verbaniah says, "i like all three of the last choices"
+
+Weldoian asks Kiralyn, "What, ye'd rather have me send y'all back in time to the Empire days?"
+
+Lilioth exclaims to Verbaniah in Secian, "No way! We'd never get a decision then!"
+
+Weldoian bats his eyes at Kiralyn.
+
+Weldoian winks.
+
+Mieglyn says, "Now that we've got it narrowd down, that's not a bad idead"
+
+Lilioth rolls her eyes.
+
+Benni nods to Lilioth.
+
+Kiralyn says to Weldoian in Secian, "Well, I'm really, really ticklish."
+
+Kiralyn fidgets.
+
+Lilioth laughs.
+
+Twilight asks in Secian, "did everyone vote?"
+who p
+Looking for a user with a name beginning with 'p'...
+
+Current Adventurers
+
+ Phannah Zeni                        Pirotese Bluedove                  
+ Padraig Millat                      Panick Undermount                  
+
+You notice 4 adventurers.
+>
+Lilioth nuzzles Kiralyn.
+
+Lilioth asks in Secian, "on the two?"
+
+Verbaniah asks, "did we have to vote?"
+
+Kiralyn nuzzles Lilioth.
+lie
+You lie down.
+>
+Twilight says in Secian, "Hold on a sec. Let me just count so I don't get confused here."
+
+Twilight giggles.
+
+Lilioth is now confused.
+
+Mieglyn chuckles.
+
+Lilioth chuckles.
+l at gl
+You find something suitably reflective and gaze into it...
+
+You look like a 1'2" standard adolescent delicate boned, wirey-tough bodied Secian Cleric.
+You are lying down.
+You have very long, wild, kinky white hair with a white streak, heavy lidded pale red eyes, and look disheveled.
+You appear to be mischievous right now.
+You can be attacked by other players.
+
+On her breast is a small crescent shaped birthmark.
+
+On her neck is a purple marked tattoo of the house of Mandor.
+
+On her belly is a tark tribal circle around the navel.
+
+On her back are glimmering deep Hyacinth wings with draconic runes in Golde upon them.
+
+You appear to be in perfect health.
+There is a shining gold emblem affixed to your clothing.
+
+Physical appearance:
+
+You see an ageless, tymless, spryte with long wild kinky whyte hair with a glowing whyte streak and sleepy eyes...She is shivering in the cold wind to Valhalla...She has touched the Sky...
+
+                        Visible Equipment
+Some heavy bone studded steelwood brigandine       (armor)
+A tiny moonsilver tongue piercing                  (on head)
+A stone tribal pendant                             (around neck)
+Some twinkling rainbow crystal bangles             (over hands)
+A pair of ornate silver toe rings                  (on feet)
+Some multicolored crystal dragon wing charms       (over armor)
+A silver ring                                      (ring (left))
+A crescent moon earring                            (right ear)
+A silver serpentine hoop                           (left ear)
+A delicately linked gold belly chain               (on belt)
+
+You have been bestowed the following title(s):
+  Noble of the Realm
+
+>
+Twilight says to Verbaniah in Secian, "It would be helpful."
+
+Verbaniah wrinkles her nose.
+
+Mieglyn says to Lilioth, "It's a perpetual condition"
+
+Mieglyn chuckles.
+
+Verbaniah exclaims, "but I did vote once! to be helpful"
+
+Lilioth laughs.
+
+Verbaniah whines.
+
+Verbaniah grovels to Twilight.
+
+Lilioth nods up and down!
+
+Lilioth giggles at Mieglyn.
+
+Twilight nuzzles Verbaniah.
+
+Weldoian says to Verbaniah, "Well, e'en if we have a winner here, we can still present the choices to e'eryone else and see how they fare."
+
+Verbaniah grumbles to Weldoian.
+
+Twilight says in Secian, "Well, we have 11 of us here, so if everyone votes, there should be a clear choice. If not, we will have another tie."
+
+Weldoian shrugs.
+l
+[Secian's Tree.]
+
+Colorful woven silk rugs cover the sparkling polished oak floor of this large cavernous room in the center of the ancient tree. Large soft silk-covered feather pillows lay scattered about the floor, and a shimmering crystal fountain sits in the center of the chamber. A beautiful mural has been painted on one wall and adds even more color to the room.  A white cloth covered serving tray is filled with delicious summer snacks, including taffy apple salad with miniature marshmallows, baked banana chips with honey yogurt dip, orange and cranberry muffins, and fresh melon and summer berry salad with caramelized walnuts. A second tray is filled with an assortment of fresh juices.  A blue and white silken rope leading up, a tiny oak knothole, a soft blue and white velvet sofa, a soft green silk pillow, a soft red silk pillow, a soft yellow silk pillow, a soft blue silk pillow, a large ribboned wooden drink platter, and a pretty white cloth covered serving tray are here.
+
+This room is illuminated.
+In the room are Benni the Noble Secian (seated), Sevi the Noble Secian (seated), Verbaniah the Secian (seated), Mieglyn the Secian (seated), Twilight the Noble Secian (seated), Lilioth the Secian (seated), Weldoian the Secian (seated), Rivnen the Noble Secian (seated), Padraig the Secian, and Kiralyn the Noble Secian (seated).
+Obvious exits: None.
+>
+Verbaniah asks, "if we like both of the last two, can we be put down for a half vote on both?"
+
+Verbaniah beams to Twilight.
+
+Weldoian giggles.
+
+Lilioth nuzzles Verbaniah.
+
+Lilioth grins and shakes her head.
+
+Verbaniah murmurs.
+
+Lilioth chuckles softly.
+pon the Circle of Empathic Aid Society
+You ponder the Circle of Empathic Aid Society.
+roll
+>You roll your eyes.
+>
+Lilioth grins.
+
+Mieglyn raises an eyebrow.
+chu impishly, rubbing her nose...
+You chuckle impishly, rubbing her nose...
+>
+Weldoian whispers, "The Secian Circle of Empathic Aid!  ;)"
+nod yes to we
+You nod up and down to Weldoian.
+wink
+>You wink.
+>
+Weldoian giggles.
+
+Verbaniah withdraws her earlier offer.
+
+Verbaniah offers something to Weldoian.
+inv
+Items carried:
+  A silver ring [0.0 lbs].
+  An open dragon embroidered black leather backpack [0.7 lbs].
+  A crescent moon earring [0.0 lbs].
+  A large brilliant mossy opal [0.0 lbs].
+  A white silk cloak [2.5 lbs].
+  Some twinkling rainbow crystal bangles [0.0 lbs].
+  Some yellowed fungus [0.1 lbs].
+  A swirling multicolored globe [0.1 lbs].
+  Some heavy bone studded steelwood brigandine [2.0 lbs].
+  A delicately linked gold belly chain [0.0 lbs].
+  A tiny moonsilver tongue piercing [0.0 lbs].
+  Some multicolored crystal dragon wing charms [0.0 lbs].
+  A stone tribal pendant [0.1 lbs].
+  Some taffy apple salad [0.0 lbs].
+  An open plaid leather healer's bag [0.4 lbs].
+  A large shiny pearl opal [0.1 lbs].
+  An open large forest green leather backpack [0.7 lbs].
+  Some yellowed fungus [0.1 lbs].
+  A pair of ornate silver toe rings [0.0 lbs].
+  An open raccoonskin pack [0.2 lbs].
+  A pale blue crystal rune sphere [0.1 lbs].
+  A swirling multicolored globe [0.1 lbs].
+  A silver serpentine hoop [0.0 lbs].
+
+Your inventory totals 7.2 lbs.
+>
+Twilight says in Secian, "Ok, now that we do have all votes."
+
+Mieglyn snuggles with the soft red silk pillow.
+
+Verbaniah wrinkles her nose.
+
+Twilight says in Secian, "We have a winner, but twas vera close."
+
+Kiralyn listens intently.
+
+Weldoian glances.
+
+Weldoian smiles to Verbaniah.
+
+Twilight says in Secian, "For now, this gathering hast chosen Circle o' Empathy."
+
+Kiralyn beams.
+
+Mieglyn smiles.
+
+Benni claps.
+appl to t
+You applaud to Twilight.
+>
+Weldoian says to Verbaniah, "Nae thanks...I'm allergic to sugar."
+
+Sevi smiles brightly.
+
+Weldoian glances.
+
+Weldoian smiles.
+
+Kiralyn applauds.
+off fun to we
+You offer Weldoian some yellowed fungus.
+
+>
+Kiralyn says to Weldoian in Secian, "Oh goodness."
+
+Weldoian's stomach growls.
+
+Benni says in Secian, "I liked both names."
+
+Weldoian beams at you.
+' for your studies
+
+Weldoian giggles.
+
+Glinka says in Secian, " for your studies"
+wink to we
+>You wink to Weldoian.
+>
+Verbaniah asks Weldoian, "are you sure it was made with sugar?"
+You see Mieglyn take a bite of her half-eaten berry and melon salad.
+
+Weldoian accepts your yellowed fungus.
+
+Verbaniah nods up and down to Benni.
+
+Verbaniah says, "I did too"
+
+Weldoian asks Verbaniah, "What else would a cookie be made from?"
+You see Mieglyn take a bite of her half-eaten berry and melon salad.
+
+Twilight says in Secian, "I feel it only right for me to mention now, that Circle o' Empathy wast Sast's suggestion."
+
+Twilight smiles.
+
+Verbaniah asks, "maybe honey?"
+smi at t gently, winking..
+You smile at Twilight gently, winking..
+>
+Twilight asks in Secian, "Shall we move on then?"
+
+snu with Twilight
+Twilight nuzzles you.
+You snuggle with Twilight.
+' deal
+>
+Glinka says in Secian, " deal"
+chu softly , stretching soft tanned arms to the sky...
+>
+Weldoian says to Verbaniah, "Which has sugar in it."
+You chuckle softly , stretching soft tanned arms to the sky...
+sit quietly with a wry smile upon her hyacinth lips...
+>You sit up.
+>
+Verbaniah asks, "you cant have honey?"
+
+Weldoian says to Verbaniah, "It"
+
+Weldoian coughs.
+
+Kiralyn asks Weldoian in Secian, "Does that include the sugar found in fruits and other naturally sweet foods and such?"
+
+Weldoian says to Verbaniah, "It's got enough sugar in it to cause a reaction."
+
+Twilight giggles.
+
+Weldoian shakes his head from side to side to Kiralyn.
+
+Kiralyn says to Weldoian in Secian, "Oh, that's good."
+
+Twilight asks in Secian, "Shall we have a vote for the useage o' sugar in Secian meetings?"
+
+Twilight giggles.
+You see Mieglyn eat the last of her half-eaten berry and melon salad.
+
+Mieglyn hiccups.
+
+Kiralyn giggles at Twilight.
+
+Weldoian exclaims to Kiralyn, "Otherwise, I'd likely starve!"
+
+Lilioth just removed some taffy apple salad from within the pretty white cloth covered serving tray.
+
+Mieglyn giggles.
+
+Weldoian exclaims to Twilight, "None!!"
+wh to we will it bring on a "weldo the dog " episode?
+You whisper to Weldoian in Secian.
+>
+Weldoian cackles.
+
+Twilight laughs.
+
+Kiralyn says to Weldoian in Secian, "Or not eat very happily, anyhow."
+
+Kiralyn grins at Weldoian.
+
+Weldoian shrieks at you as he covers her mouth.
+
+Weldoian exclaims to Glinka, "Shush!!"
+gulp
+You gulp.
+>
+Padraig just removed some berry and melon salad from within the pretty white cloth covered serving tray.
+
+Weldoian murmurs at you.
+nod yes to we
+You nod up and down to Weldoian.
+>You see Padraig take a bite of his berry and melon salad.
+
+Padraig belches.
+
+Weldoian giggles at you.
+
+Twilight says in Secian, "Ok kyn... Shhhh...."
+smi softly
+You smile softly.
+>
+Padraig murmurs at the berry and melon salad.
+
+Twilight smiles happily , her eyes dancing with merriment.
+
+Padraig says in Secian, "Excuse me"
+put taf in 2 bac
+You place the taffy apple salad within your open large forest green leather backpack.
+>
+Lilioth grins at Padraig.
+list
+You listen intently.
+>
+Twilight says in Secian, "I am having a quite delightful time, I must say."
+
+Rivnen babbles.
+
+Mieglyn just removed some taffy apple salad from within the pretty white cloth covered serving tray.
+
+Kiralyn beams at Twilight.
+
+Padraig asks in Secian, "So, now that we have a name, shall we start the do gooding?"
+gri to p
+You grin to Padraig.
+>
+Sevi grins at Padraig.
+
+Mieglyn chuckles.
+
+Twilight says in Secian, "So, our Circle o' Empathy, as we are currently going with. We shall need some sort o' structure, to speak of."
+l in bac
+Inside the open dragon embroidered black leather backpack you see a beautiful lapis bead, some warm sweet tea, a moonsilver oil lamp, an empty small vial of jasmine tonic, a lavender filled moonsilver censer, and some sweet fragrant sticks of incense.
+>
+Kiralyn just placed a silver flecked glass wand within her open large blue and white leather backpack.
+
+Kiralyn just removed an open large frayed burlap rucksack from within her open large blue and white leather backpack.
+
+Twilight says in Secian, "Let me read o'er our notes again."
+
+Sevi just removed some berry and melon salad from within the pretty white cloth covered serving tray.
+
+Kiralyn just placed some taffy apple salad within her open large frayed burlap rucksack.
+
+Lilioth exclaims in Secian, "a historian - Weldo!"
+put fun in bac
+
+Weldoian blinks.
+You place the yellowed fungus within your open dragon embroidered black leather backpack.
+>
+Weldoian glances.
+
+Weldoian flails his arms about wildly.
+nod yes to li
+You nod up and down to Lilioth.
+>
+Lilioth says in Secian, "historian/storyteller"
+
+Weldoian flails his arms about wildly.
+
+Lilioth grins.
+' Second
+
+Glinka says in Secian, " Second"
+>
+Lilioth exclaims in Secian, "by unanimous decision!"
+gri to we
+You grin to Weldoian.
+>
+Twilight says in Secian, "Ok, these are the 'offices' if ye wish to call them that, which were suggested last time."
+
+Mieglyn chuckles.
+
+Weldoian asks Lilioth, "Unanimous?  There were only two votes in favor."
+
+Mieglyn smiles at Weldoian.
+
+Lilioth asks in Secian, "how about "chairs"?"
+
+Padraig says to Weldoian in Secian, "Close enough"
+
+Lilioth grins at Twilight.
+
+Weldoian says, "I like "chairs.""
+
+Weldoian nods.
+
+Lilioth winks at Weldoian.
+
+Kiralyn nods up and down.
+
+Rivnen asks, "We needs a Harumpher?"
+
+Verbaniah says, "I do too, but I like pillows a bit more"
+
+Lilioth exclaims in Secian, "yes!"
+
+Sevi says in Secian, "Sevi likes pillows generally."
+
+Mieglyn chuckles.
+
+Sevi grins at Verbaniah.
+
+Lilioth giggles.
+
+Rivnen asks, "Someone to say 'Harumph' after alls the important topics issa said?"
+
+Twilight says in Secian, "A recorder or secretary, treasurer, historian, story teller (possibly same as historian), some type of 'leader' so to speak, Draconic knowledge expert, and an official organizer of events."
+
+Kiralyn snuggles with the soft blue silk pillow.
+
+Padraig says in Secian, "Well, I for one would just prefer a meeting of friends, with less order."
+
+Weldoian says to Padraig, "Ah, but I hate all of ye, and ye be al my enemies."
+
+Weldoian winks to Padraig.
+
+Twilight says to Lilioth in Secian, "I like the idea of chairs. Let me look something up."
+
+Sevi exclaims to Padraig in Secian, "But we're so.. so.. orderly!"
+
+Kiralyn blinks at Weldoian.
+
+Padraig pokes Weldoian gently.
+
+Weldoian giggles.
+' how about a Draconic liason ?  for organizing hunts with kyn, and for chosens to meet?
+
+Glinka asks in Secian, " how about a Draconic liason ?  for organizing hunts with kyn, and for chosens to meet?"
+>
+Lilioth says in Secian, "Well, I think the "offices" are more for background work... not for meetings, exactly."
+pon softly
+You ponder softly.
+>
+Benni says in Secian, "Order isa important especially in meetings."
+nod yes to ben
+You nod up and down to Benni.
+>
+Twilight says in Secian, "Ok, potential 'names' for the positions. Chairs, advisors, guides, council..."
+
+Lilioth asks in Secian, "True, Benni...I'm thinking that's a different issue, though, maybe?"
+
+Sevi says in Secian, "Servers of the Order of Empathy."
+
+Sevi nods up and down.
+
+Benni says in Secian, "We can call them friends if yas like that better than officer or chair..."
+wh to ben i still have the log of you cleric meeting days!
+You whisper to Benni in Secian.
+>
+Twilight says in Secian, "SErvers..."
+
+Twilight nods to Sevi.
+
+Twilight says in Secian, "Let us take one issue at a time."
+
+Benni grins at you.
+
+Weldoian says, "Friend Weldo..."
+
+Weldoian ponders the meaning of the universe for a moment.
+chu gently, winking..
+You chuckle gently, winking..
+>
+Benni nods to Weldoian.
+
+Weldoian says, "Got a nice ring to it."
+
+Twilight says in Secian, "Hrm, friends..."
+
+Twilight nods to Weldoian.
+
+Lilioth grins at Weldoian.
+
+Twilight says in Secian, "Shall we vote on what to call this "council" first."
+
+Verbaniah, boingy, boingy, boingy , just appeared.
+lean v
+You lean on Verbaniah.
+>
+Twilight raises an eyebrow questioningly.
+
+Padraig says in Secian, "My concern is that if we have these positions, the same folks will get stuck doing the tedious work "
+
+Benni whispers in Secian, "That wasa soooo long ago!"
+
+Twilight exclaims in Secian, "Ah!"
+
+Weldoian nods to Padraig.
+
+Weldoian says, "Good point."
+nod yes to ben
+You nod up and down to Benni.
+gri
+>You grin.
+>
+Kiralyn nods up and down to Padraig.
+
+Lilioth asks in Secian, "so limit the terms?"
+
+Sevi says in Secian, "If we don' then, well, work will never get done."
+
+Twilight nods to Lilioth.
+
+Padraig says in Secian, "and I think we'll spend hours, just raising hands and voting, and not doing much"
+
+Benni says in Secian, "They can always ask for help."
+
+Twilight says to Lilioth in Secian, "A good idea."
+nod yes to ben
+You nod up and down to Benni.
+>
+Twilight says in Secian, "How about this first then."
+
+Twilight asks in Secian, "How long is the term of service?"
+
+Weldoian says, "One hour."
+
+Twilight asks in Secian, "Before a new election?"
+
+Weldoian hums.
+
+Lilioth says in Secian, "and that's what I thought, Benni.. that the "chair" or "officer" would be asking others to help."
+
+Weldoian winks.
+
+Twilight pokes Weldoian.
+
+Weldoian coughs.
+
+Weldoian smiles.
+ ' elven Month?
+
+Glinka asks in Secian, " elven Month?"
+>
+Weldoian says to Glinka, "One month isn't much time to get much done."
+
+Lilioth says in Secian, "months are tricky..."
+
+Twilight asks in Secian, "A spurian year?"
+nod yes to we
+You nod up and down to Weldoian.
+>
+Sevi says in Secian, "That seems so short a time."
+whist
+You whistle.
+' year is good
+>
+Glinka says in Secian, " year is good"
+>
+Weldoian asks, "Mayhaps....three months?"
+
+Mieglyn asks, "6 elven months?"
+
+Twilight says in Secian, "About 6 elven months. I think that works out to."
+nod yes to m
+You nod up and down to Mieglyn.
+>
+Weldoian says, "Six seems a bit long..."
+
+Rivnen nods up and down.
+
+Weldoian shrugs.
+' get alot done tho
+
+Glinka says in Secian, " get alot done tho"
+nod yes to we
+>You nod up and down to Weldoian.
+>
+Weldoian says, "True.  Hopefully."
+
+Verbaniah says, "I agree with three to four, if they wish to continue or others think they are doing a wonderful job, they could always be elected again"
+
+Weldoian asks, "But what if someone disappears early in their term?"
+
+Mieglyn says, "It's not too long, but long enough to accomplish something"
+
+Weldoian nods to Verbaniah.
+
+Twilight says in Secian, "Well, remember, we will need to hold elections at the end o' the terms. So the shorter the terms, the more frequently we have to organize elections."
+
+Weldoian's stomach growls.
+
+Kiralyn's stomach growls.
+roll
+You roll your eyes.
+>
+Lilioth exclaims in Secian, "oh, well.. we have to have a replacement policy!"
+
+Padraig chuckles.
+' Spurian year...vote?
+
+Glinka asks in Secian, " Spurian year...vote?"
+cac
+>You cackle.
+>
+Sevi says in Secian, "If someone cannot serve out their term, perhaps we could simply vote a replacement."
+
+Lilioth nods to Sevi.
+
+Twilight says in Secian, "Ok, the suggestions for terms o' service are."
+
+Padraig says in Secian, "I don't think we'll have much time for the "do gooding""
+
+Lilioth laughs.
+
+Twilight says in Secian, "one Spurian year (roughly 6 elven months), 3 elven months, one elven month."
+
+Weldoian nods.
+
+Twilight says in Secian, "Please whisper your votes."
+wh to t year
+You whisper to Twilight in Secian.
+>
+Weldoian says, "Aye...if we get too boggled down with voting and other bureaucratic things....nothin' will get done."
+
+Verbaniah asks Twilight, "question?"
+
+Twilight nods to Verbaniah.
+
+Verbaniah asks, "are said persons allowed to possibly hold the same chair after their term is up?"
+
+Sevi nods up and down.
+
+Padraig says in Secian, "I think we should vote first on whether or not we even need officers."
+
+Lilioth says in Secian, "I should think so if they want it and get voted in."
+
+Twilight says to Verbaniah in Secian, "If re-elected by the community. I wouldst say yes. but that we will decide too. It's all up to what we all want."
+
+Twilight smiles.
+
+Verbaniah says, "I just wouldnt want to short change someone by voting for a short length of service"
+
+Lilioth nods to Verbaniah.
+
+Twilight smiles at Verbaniah.
+
+Sevi says to Padraig in Secian, "Sevi'd view them more as chairs of committees.. everyone can offer to help any of the chairs."
+
+Lilioth says in Secian, "I'm thinking the even coordinator, specially."
+
+Weldoian nods to Sevi.
+
+Verbaniah nods to Lilioth.
+
+Weldoian says, "I'm thinkin' the same."
+
+Lilioth rolls her eyes.
+
+Lilioth exclaims in Secian, "I meant event coordinator!"
+
+Lilioth sighs.
+
+Padraig says in Secian, "Well, at the prior meeting I attended..."
+
+Twilight says in Secian, "Aye, Sevi puts it vera well. These positions are meant simply as guides to accomplish the whole. Nay to do the whole thing."
+
+Twilight says in Secian, "Every event needs an event coordinator. Every story, a story teller."
+
+Padraig says in Secian, "I thought it was going to be more of a group that just met, then went out and did things."
+' we will...After the meetings
+
+Glinka says in Secian, " we will...After the meetings"
+gri to p
+>You grin to Padraig.
+chu delicately , brushing back her long kinky white hair
+>You chuckle delicately , brushing back her long kinky white hair.
+>
+Weldoian says to Padraig, "It is.  But things like hunts and festivals and the like...that all takes time and planning."
+
+Twilight says to Padraig in Secian, "Well, we will go out and do things. But we need to have funding to plan events. And other things."
+
+Weldoian shrugs slightly.
+
+Sevi says in Secian, "And all in between meetings, Sevi would hope."
+
+Padraig says in Secian, "I'm not sure I want a bunch of official sounding titles, and hand raising to speak."
+
+Padraig says in Secian, "In the end, it's what we accomplish that's important"
+
+Twilight says in Secian, "Aye, It is what we accomplish that counts."
+
+Padraig says in Secian, "Not who feels special, or left out because someone did or didn't vote for them"
+
+Benni says in Secian, "easier ta accomplish things when it isa organized."
+
+Rivnen shrugs.
+
+Padraig shrugs.
+
+Weldoian nods to Benni.
+
+Rivnen leans his head on Sevi's shoulder.
+
+Twilight says to Padraig in Secian, "Nay, this isna about who feels special. This ist about what we canst accomplish together as a community."
+
+Benni says in Secian, "I think that isa all we are trying ta do."
+
+Twilight nods to Benni.
+nod yes to ben
+You nod up and down to Benni.
+>
+Padraig says to Twilight in Secian, "As a community of equals"
+
+Twilight says to Benni in Secian, "Aye."
+
+Sevi nuzzles Rivnen gently.
+
+Twilight nods to Padraig.
+
+Twilight says to Padraig in Secian, "Precisely."
+
+Weldoian exclaims, "Except me...yuor God and Master!@"
+
+Weldoian cackles.
+
+Weldoian coughs.
+
+Weldoian cackles.
+
+Lilioth giggles.
+
+Weldoian winks.
+
+Mieglyn just placed a star keyed moonsilver flute within her open red leather healer's bag.
+
+Padraig chuckles at Weldoian again.
+
+Mieglyn chuckles.
+
+Twilight says to Padraig in Secian, "Just because someone has the responsibility, for one year, to organize events. Doesna mean they are better than others."
+
+Rivnen purrs softly.
+
+Verbaniah says, "or that they would be the only person doing it"
+beam
+You beam.
+>
+Twilight says to Padraig in Secian, "It only means, that tey were elected to handle that particular responsibility for that short length o' time."
+
+Sevi says to Padraig in Secian, "However without some bit of organizing we won't accomplish anything. It isn't about the titles."
+
+Lilioth exclaims in Secian, "ye gods! I should hope not!"
+
+Lilioth nods to Verbaniah.
+
+Twilight says in Secian, "Nay, Tis ne're about the titles."
+
+Padraig says in Secian, "Well then, without emnity then, I'll take my leave."
+
+Verbaniah furrows her brow.
+hu p
+You hug Padraig.
+>
+Sevi frowns.
+
+Padraig says in Secian, "Give me a yell if you need my help when you get to the doing part"
+
+lean head Padraig her long soft hair flying about...
+hug Padraig long and tyte
+Padraig hugs you.
+You lean your head on Padraig's shoulder her long soft hair flying about...
+>You hug Padraig long and tyte.
+>
+Twilight says to Padraig in Secian, "Thank ye for coming."
+
+Weldoian inhales deeply.
+
+Weldoian smiles slightly.
+
+Twilight nuzzles Padraig.
+
+Padraig smiles cheerfully.
+kiss p softly upon the cheek in parting...
+You kiss Padraig softly upon the cheek in parting...
+>
+Mieglyn fans her wings at Padraig.
+
+Padraig says in Secian, "Rinanni bless all"
+
+Padraig takes a few steps and soars 10 feet into the air!
+
+Kiralyn stands up.
+
+Kiralyn says in Secian, "I'm gonna have to leave early, too, actually."
+
+Twilight asks in Secian, "Ok, I have 6 votes in. Anyone else?"
+
+Padraig just flew through a tiny oak knothole.
+hu ki
+You hug Kiralyn.
+>
+Weldoian blinks.
+
+Weldoian glances.
+
+Weldoian asks, "We were votin'?"
+kiss ki softly upon the cheek in parting...
+You kiss Kiralyn softly upon the cheek in parting...
+>
+lean head Kiralyn her long soft hair flying about...
+hug Kiralyn long and tyte
+Kiralyn hugs you.
+You lean your head on Kiralyn's shoulder her long soft hair flying about...
+>You hug Kiralyn long and tyte.
+>
+Kiralyn beams at you.
+
+Twilight says in Secian, "On the length o' service"
+' merry partings
+
+Glinka says in Secian, " merry partings"
+smi at ki delicately , brushing back her kinky white hair
+>You smile at Kiralyn delicately , brushing back her kinky white hair.
+>
+Weldoian exclaims, "Oh!"
+
+Kiralyn waves!
+
+Mieglyn waves at Kiralyn.
+
+Kiralyn, with sparkling pearlescent wings on her back, just went through a tiny oak knothole.
+
+Twilight says in Secian, "Alright then. By a clear majority. We have 6 elven month service periods."
+
+Sevi smiles.
+
+Mieglyn nods.
+
+who range race
+List will be restricted to those within range.
+Race who list activated!
+
+                Current Secian Adventurers:
+
+Current Adventurers
+
+ Benni Corinth                       Lumiere Salut                      
+ Glinka Dragondsfriend               Sevi Arminia                       
+ Verbaniah Debrenna                  Mieglyn Trevalyn                   
+ Twilight Flutal                     Lilioth Golden                     
+ Weldoian Sesca                      Rivnen Tsunami                     
+ Padraig Millat                      Kiralyn Averendil                  
+
+You notice 12 adventurers.
+>
+who race
+Race who list activated!
+
+                Current Secian Adventurers:
+
+Current Adventurers
+
+ Benni Corinth                       Lumiere Salut                      
+ Glinka Dragondsfriend               Sevi Arminia                       
+ Verbaniah Debrenna                  Mieglyn Trevalyn                   
+ Twilight Flutal                     Lilioth Golden                     
+ Weldoian Sesca                      Rivnen Tsunami                     
+ Padraig Millat                      Kiralyn Averendil                  
+
+You notice 12 adventurers.
+>
+Lilioth asks Twilight in Secian, "Might that be enough for this meeting, then?"
+
+Rivnen claps.
+
+Twilight ponders.
+who range race
+List will be restricted to those within range.
+Race who list activated!
+
+                Current Secian Adventurers:
+
+Current Adventurers
+
+ Benni Corinth                       Lumiere Salut                      
+ Glinka Dragondsfriend               Sevi Arminia                       
+ Verbaniah Debrenna                  Mieglyn Trevalyn                   
+ Twilight Flutal                     Lilioth Golden                     
+ Weldoian Sesca                      Rivnen Tsunami                     
+ Padraig Millat                      Kiralyn Averendil                  
+
+You notice 12 adventurers.
+>
+Lilioth asks in Secian, "and we'll carry on at the next one?"
+
+Twilight says in Secian, "I suppose it could be."
+
+Mieglyn murmurs something beneath her breath.
+
+Twilight says in Secian, "Nay good if we wear ourselves out."
+link Lumiere..is a secian meetin at the tree if ya wish
+
+>
+Lilioth removes her rainbow beaded moonsilver amulet of chosens.
+
+Sevi asks in Secian, "Perhaps we could post the positions of service and ask for nominations when you post the rest of the meetin'?"
+
+Lilioth just removed a glistening orichalcum mark of the ancients from within her black midnight blue spidersilk robes.
+
+Lilioth slips a glistening orichalcum mark of the ancients over her head.
+
+Lilioth rubs her glistening orichalcum mark of the ancients.
+
+A number of tiny runes begin gathering around Lilioth's glistening orichalcum mark of the ancients!
+
+A mysterious amber glow suddenly envelops Lilioth's head!
+diag all
+
+  You examine Benni the Secian...
+She appears to be in perfect health.
+  You examine Sevi the Secian...
+She appears to be in perfect health.
+  You examine Verbaniah the Secian...
+She appears to be in perfect health.
+  You examine Mieglyn the Secian...
+She appears to be in perfect health.
+  You examine Twilight the Secian...
+She appears to be in perfect health.
+  You examine Lilioth the Secian...
+She appears to be in perfect health.
+  You examine Weldoian the Secian...
+He appears to be in perfect health.
+  You examine Rivnen the Secian...
+He appears to be in perfect health.
+
+>
+Twilight says to Sevi in Secian, "Well, we havena e'on agreed upon the exact positions or what to call them yet."
+hu lil
+You hug Lilioth.
+>
+Sevi says in Secian, "Oh."
+
+Twilight asks in Secian, "How about just one more vote?"
+
+Twilight asks in Secian, "Any up for it?"
+nod yes to t
+You nod up and down to Twilight.
+>
+Mieglyn nods up and down at Twilight.
+
+Sevi nods up and down.
+
+Lilioth shakes her head from side to side.
+
+Weldoian smiles.
+
+Lilioth says in Secian, "I really do need to scoot."
+
+Lilioth stands up.
+
+Lilioth hugs Twilight.
+
+Twilight says in Secian, "This vote will actually help me in my writing the scroll."
+
+Twilight giggles.
+
+Twilight hugs Lilioth.
+kiss li softly upon the cheek in parting...
+You kiss Lilioth softly upon the cheek in parting...
+>
+Mieglyn hugs Lilioth.
+
+Twilight asks in Secian, "What shouldst I call them?!"
+
+Weldoian hugs Lilioth.
+
+Twilight flails her arms about wildly.
+
+wave to and
+Lilioth grins and waves.
+I don't see what you are referring to.
+>
+Lilioth, You blink and she's gone,, just went through a tiny oak knothole.
+
+wave to Rivnen
+Rivnen waves.
+You wave to Rivnen.
+>
+Verbaniah says to Twilight, "name calling isnt vera nice"
+
+Rivnen blinks.
+gri
+You grin.
+>
+Twilight asks in Secian, "Offices, council, guides? friends?"
+
+Sevi grins.
+
+Twilight giggles at Verbaniah.
+
+Mieglyn asks in Secian, "Seats?"
+
+Verbaniah ducks.
+
+Twilight asks in Secian, "Seats?"
+
+Verbaniah bats her eyes at Twilight.
+
+Mieglyn chuckles.
+
+Twilight giggles.
+
+Weldoian exclaims, "vebr, It is in an argument!  Ye, ye...ye....Secian!"
+
+Weldoian points at Verbaniah.
+
+Weldoian grins.
+
+Verbaniah says, "i would go with friends, as silly as it may sound"
+nod yes to ver
+You nod up and down to Verbaniah.
+>
+Verbaniah says, "it sounds less official, and perhaps a bit less daunting"
+
+Weldoian says, "I'm likin' Friends too."
+
+Sevi says in Secian, "Volunteers."
+
+Mieglyn ponders the meaning of the universe for a moment.
+
+Weldoian nods to Verbaniah.
+
+Twilight asks in Secian, "Friends o' empathy?"
+
+Verbaniah nods to Sevi.
+
+Verbaniah says, "that is a nice one as well"
+
+Mieglyn says in Secian, "That sounds good"
+
+Twilight says in Secian, "Ok, just give me a quick whisper. Based on all the suggestions."
+
+Twilight nods.
+wh to t freinds
+You whisper to Twilight in Secian.
+>
+Verbaniah ponders.
+
+Twilight exclaims in Secian, "Then I can stop putting things in quotes when I write!"
+
+Twilight laughs.
+gri
+You grin.
+>
+Verbaniah says to Sevi, "although.. they might be more volunteered"
+
+Verbaniah giggles to Sevi.
+
+Sevi grins at Verbaniah.
+
+Mieglyn chuckles.
+
+Sevi nods up and down.
+
+Sevi says in Secian, "Though Sevi thin's all the members will be Friends of."
+
+Twilight says in Secian, "Ok, it appears friends of friends of empathy be the clear choice."
+
+Mieglyn just removed a glass of pineapple juice from within the large ribboned wooden drink platter.
+
+Twilight beams.
+
+Weldoian asks, "Friends of Friends, huh?"
+
+Twilight nuzzles Verbaniah.
+
+Weldoian grins.
+You see Mieglyn take a drink from her glass of pineapple juice.
+
+Twilight exclaims in Secian, "Oops!"
+
+Twilight says in Secian, "Friends of Empathy I meant."
+
+Rivnen babbles.
+
+Verbaniah says to Weldoian, "friends need friends too"
+
+Weldoian giggles.
+
+Twilight rolls her eyes.
+
+Mieglyn chuckles.
+
+Twilight says in Secian, "I am tired."
+
+Twilight chuckles.
+
+Weldoian exclaims to Twilight, "Ye be old!"
+
+Weldoian nods to Twilight.
+
+Sevi asks in Secian, "And the members shall be non-friends?"
+
+Twilight exclaims in Secian, "Ok, let's get out of here before we all fall down!"
+
+Sevi blinks.
+
+Twilight tickles Sevi.
+
+Sevi giggles.
+
+Twilight says to Sevi in Secian, "Nay."
+
+Weldoian exclaims, "They'll be called Enemies!"
+
+Weldoian cackles.
+
+Sevi giggles at Weldoian.
+
+Verbaniah asks, "the friends will just be friendlier?"
+
+Verbaniah ducks.
+
+Sevi says in Secian, "Sevi thought that, but didn' say it."
+
+Sevi grins.
+gig
+You giggle.
+>
+Weldoian giggles to Sevi.
+
+Mieglyn smiles.
+
+Rivnen snickers.
+
+Twilight says in Secian, "So, Circle o' Empathy. Headed by Friends. Referred to as Friend and then the name. Serving terms o' one Spurian year."
+
+Rivnen nods up and down.
+
+Twilight beams.
+
+Twilight exclaims in Secian, "this wast most productive I think!"
+
+Sevi nods up and down.
+
+Weldoian smiles.
+beam
+You beam.
+>
+Twilight asks in Secian, "Would we like to meet next week? Or give ourselves a week break again? Meet in two weeks?"
+
+Mieglyn shrugs.
+
+Sevi just removed a glass of pineapple juice from within the large ribboned wooden drink platter.
+You see Sevi take a drink from her glass of pineapple juice.
+
+Mieglyn says in Secian, "Either"
+' i can make it every other week..
+
+Glinka says in Secian, " i can make it every other week.."
+>
+Twilight says in Secian, "I think we can manage with just one, maybe two more meetings. This was vera productive today."
+You see Sevi take a drink from her glass of pineapple juice.
+
+Mieglyn just removed some taffy apple salad from within the pretty white cloth covered serving tray.
+
+Twilight says in Secian, "Let's give ourselves a break then. It is my hope..."
+
+Rivnen nods up and down.
+
+Twilight says in Secian, "That the next meeting we get ourselves ready to take this to the community as a whole and elect our Friends."
+
+Twilight smiles.
+
+Rivnen claps.
+smi at tw impishly, tossing her long soft hair back...
+You smile at Twilight impishly, tossing her long soft hair back...
+>
+Twilight says in Secian, "So that we can, as Padraig put it... Get to the doing part."
+
+Twilight winks.
+
+Mieglyn just removed some berry and melon salad from within the pretty white cloth covered serving tray.
+You see Sevi take a drink from her glass of pineapple juice.
+
+Twilight asks in Secian, "Anything else to add?"
+
+Sevi says to Twilight in Secian, "Only thanks for keepin' us on task."
+
+Twilight blushes.
+nod yes to se
+You nod up and down to Sevi.
+>
+Sevi smiles to Twilight.
+
+Mieglyn smiles at Twilight.
+
+Twilight says in Secian, "Well, I could do nay a thing if none decided to come."
+
+Twilight smiles.
+
+Twilight says in Secian, "So ye are all apart of it."
+
+Twilight smiles.
+
+Rivnen nods up and down.
+
+Twilight gestures, spreading her arms wide in a big group hug.
+
+Verbaniah stands up.
+
+Twilight stands up.
+
+Verbaniah snuggles with Twilight.
+
+Sevi glances at Rivnen and murmurs softly to him.
+
+Twilight exclaims in Secian, "Ok, We are officially ajurned!"
+
+Twilight giggles.
+stand very quickly, her long soft kinky pure whyte hair making a rustling sound...
+You stand up very quickly, her long soft kinky pure whyte hair making a rustling sound....
+>
+Mieglyn stands up.
+beam
+You beam.
+>
+Twilight says in Secian, "Or, some such thing."
+
+Twilight fans her wings.
+
+Verbaniah reaches out and tenderly joins hands with Benni.
+
+You see Verbaniah reach out and touch Benni.
+
+Verbaniah says to Benni, "you are it"
+
+Weldoian smiles.
+
+Verbaniah, boingy, boingy, boingy, just went through a tiny oak knothole.
+cac
+You cackle.
+>
+Benni blinks.
+ret 5
+You retreat 5 UDs to the rear!
+[3 sec. delay]
+>
+Mieglyn giggles.
+
+Twilight laughs.
+
+You see Benni reach out and touch Weldoian.
+
+Sevi stands up.
+
+Benni stands up.
+
+Benni says in Secian, "It"
+
+
+Benni, flittering this way and that, just went through a tiny oak knothole.
+You see Sevi retreat 5 UDs to the rear!
+
+Mieglyn laughs.
+
+link :: beams ::
+You see Mieglyn retreat 3 UDs to the rear!
+
+>
+fly up 10
+[5 sec. delay]
+You take a few steps and soar 10 feet into the air!
+>
+Weldoian glances.
+go ro
+
+Weldoian flails his arms about wildly.
+[Secian's Tree, Sleeping Area.]
+
+A gentle feeling of peace and serenity drifts through this cozy room, and the light-hearted sound of birds singing in the forest around the great tree adds a wondrous music that could never be imitated.  Soft feather-filled pallets just the right sizes for Secians to sleep on rest in different spots around the room.  A blue and white silken rope leading down, a small opening in the branches, a soft pallet, a soft pallet, a soft pallet, a soft pallet, and some shimmering mirrors are here.
+
+This room is illuminated.
+Obvious exits: east*.
+cac
+>You cackle.
+go op
+>[Secian's Tree, Treetop Garden.]
+
+Dazzling fragrant flowers seem to grow from every spot here in the topmost branches of the ancient oak tree.  Their painted clay pots have been carefully placed to catch the perfect amount of sun and rainwater. At night, the tiny wax candles that sit scattered about on the broad branches add a magickal light to this treetop paradise.  A wild bird's nest, a bluebird painted clay jar, a small opening in the branches, and a green and white silken rope leading down are here.
+
+This room is illuminated.
+Obvious exits: None.
+go ro
+>[Forest path.]
+
+The path seems to be disappearing before your very eyes. Travel any way but back to the northwest is blocked by foliage so dense as to prevent any further passage into the forest. An ancient oak tree festooned with bright colorful silk ribbons stands to the side of the disappearing path. Sparkling trinkets and gems hang from every available branch, a  cheerful tinkling noise filling the air with the slightest breeze.  A giant ancient oak tree, a fragrant bluish Secian rose, a tiny oak knothole, some swirling multicolored paper hanging lanterns, and some flowing colorful paper streamers are here.
+
+This area is illuminated.
+You see the 1st adorable little bunny (wearing a small gold collar).
+Obvious paths: northwest*.
+info
+>
+You are Glinka Dragondsfriend, a delicate boned and wirey-tough bodied 41 year old Orderly Female adolescent Secian Cleric of the Order of the Heart.  You are 1'2" and weigh 12 lbs.  You are currently 10 feet above the ground.  You are satiated.
+
+HP: 115 of 115  Ftg:  65 of  65  Carry:  7.1 of 37.0 lbs.
+
+ Str   Int   Wis   Dex   Agi   Con   Cha   Wil   Voi   Per   App
+Fair  Aver  Aver  Aver  Good  Good  Good  Good  Aver  Good  Aver  
+
+Use: INFO <subject> for more info.
+(Valid subjects: RELIGION, MAGICK, LANGUAGES, MARTIALARTS, MONEY, RUNESPELLS, TITLES, DISGUISE, PSIONICS)
+
+>
+The adorable little bunny makes a chittering sound.
+
+
+
+The adorable little bunny cleans its face.
+
+link we shall be there
+
+l at kno
+>
+Sevi's group just entered through a tiny oak knothole.
+It looks like a tiny oak knothole.
+l through kno
+l under kno
+l behind kno
+l on kno
+l in kno
+>[Secian's Tree.]
+
+Colorful woven silk rugs cover the sparkling polished oak floor of this large cavernous room in the center of the ancient tree. Large soft silk-covered feather pillows lay scattered about the floor, and a shimmering crystal fountain sits in the center of the chamber. A beautiful mural has been painted on one wall and adds even more color to the room.  A white cloth covered serving tray is filled with delicious summer snacks, including taffy apple salad with miniature marshmallows, baked banana chips with honey yogurt dip, orange and cranberry muffins, and fresh melon and summer berry salad with caramelized walnuts. A second tray is filled with an assortment of fresh juices.  A blue and white silken rope leading up, a tiny oak knothole, a soft blue and white velvet sofa, a soft green silk pillow, a soft red silk pillow, a soft yellow silk pillow, a soft blue silk pillow, a large ribboned wooden drink platter, and a pretty white cloth covered serving tray are here.
+
+This room is illuminated.
+In the room are Mieglyn the Secian and Twilight the Noble Secian.
+Obvious exits: None.
+>There is nothing underneath that.
+>There is nothing behind that.
+>There is nothing on top of that.
+>There is nothing inside that.
+>
+Sevi glances.
+l
+[Forest path.]
+
+The path seems to be disappearing before your very eyes. Travel any way but back to the northwest is blocked by foliage so dense as to prevent any further passage into the forest. An ancient oak tree festooned with bright colorful silk ribbons stands to the side of the disappearing path. Sparkling trinkets and gems hang from every available branch, a  cheerful tinkling noise filling the air with the slightest breeze.  A giant ancient oak tree, a fragrant bluish Secian rose, a tiny oak knothole, some swirling multicolored paper hanging lanterns, and some flowing colorful paper streamers are here.
+
+This area is illuminated.
+You see the 1st adorable little bunny (wearing a small gold collar).
+In the area are Sevi the Noble Secian and Rivnen the Noble Secian.
+Obvious paths: northwest*.
+gri
+>You grin.
+>
+Twilight, carefully turning the pages of her latest book, just entered through a tiny oak knothole.
+
+Mieglyn, looking around and wondering how she got here, just entered through a tiny oak knothole.
+
+Twilight taps you.
+' goin back to Spur?
+
+Glinka asks in Secian, " goin back to Spur?"
+>
+Twilight exclaims to Glinka in Secian, "It!"
+how
+You howl.
+>
+Sevi asks Rivnen in Secian, "Sevi's feelin' lazy. Youz got a spot in Spur?"
+
+Mieglyn giggles.
+
+Twilight, swirls of magick following in her wake, just went northwest.
+tap m
+You tap Mieglyn.
+' it
+>
+Glinka says in Secian, " it"
+fly up 10
+>You climb 10 feet.
+
+You are now at 20 feet.
+>
+Mieglyn taps Sevi.
+
+Mieglyn says in Secian, "It"
+cac
+You cackle.
+>
+Sevi flails her arms about wildly.
+l
+[Forest path.]
+
+The path seems to be disappearing before your very eyes. Travel any way but back to the northwest is blocked by foliage so dense as to prevent any further passage into the forest. An ancient oak tree festooned with bright colorful silk ribbons stands to the side of the disappearing path. Sparkling trinkets and gems hang from every available branch, a  cheerful tinkling noise filling the air with the slightest breeze.  A giant ancient oak tree, a fragrant bluish Secian rose, a tiny oak knothole, some swirling multicolored paper hanging lanterns, and some flowing colorful paper streamers are here.
+
+This area is illuminated.
+You see the 1st adorable little bunny (wearing a small gold collar).
+In the area are Sevi the Noble Secian, Mieglyn the Secian, and Rivnen the Noble Secian.
+Obvious paths: northwest*.
+>
+Sevi giggles.
+nw
+[Forest path.]
+
+A fallen tree blocks the path, but it is easily circumvented. On the south side lies a small gully and stream flowing east to southwest. It is hard to tell if the path follows the stream or heads back into the trees.
+
+This area is illuminated.
+Obvious paths: north* southeast* southwest*.
+n
+>[Forest path.]
+
+The forest path requires constant twisting and turning to navigate undeterred through the obstacle course of fallen trunks, thick spider webs, and lush fern and ivy growth. Though not obvious at first glance, a game trail does indeed snake its way through the rotting leaves and pine needles that make up the padded forest floor. A bright red cardinal, frightened by your sudden presence, takes wing and quickly vanishes, consumed by thick greenery all around.
+
+This area is illuminated.
+Obvious paths: south* northwest*.
+nw
+>[Forest path.]
+
+An ever-present breeze rustles the leaves of the old, ominous oak trees that the forest path meanders through. A few tall pine trees are sprinkled throughout the expanse of oaks, contributing their needles and cones to the ocassional forest shower of wind dislodged debris. The path continues into the forest to the south, its serpentine nature lending to the ancient forest a means to disguise the final destination.  A path is here.
+
+This area is illuminated.
+Obvious paths: southeast*.
+go pa
+>[Plains along forest.]
+
+The open plains stretch out endlessly to the north of you.  Gentle breezes cause the sea of grass to ripple and roll like the ocean deep.  A tall, solid mass of trees blocks any attempt to travel south.  A river has cut off travel to the east.  A lake, a path, and a muddy trail are here.
+sear room path
+
+This area is illuminated.
+Obvious paths: north* northeast* west* northwest*.
+>
+w
+[Plains along forest.]
+
+The remains of hundreds of camp fires stretch out along the edge of a massive solid block of trees that block further movement to the south. The ground here is beaten down and muddy, it looks like a very large group passed through here not long ago.
+
+This area is illuminated.
+Obvious paths: north* northeast* east* west* northwest*.
+n
+n
+>[Plains Along River.]
+
+The endless plains stretch out from you in all directions. Gentle breezes cause the sea of grasses to ripple and roll like the ocean deep.
+
+This area is illuminated.
+Obvious paths: north* northeast* east* southeast* south* southwest* west* northwest*.
+[Plains along river.]
+
+Across the river to your north, the sturdy stockade of Meetpoint rises up to greet you. Though a blight on the serene plains all around it, many travelers take heart at the town walls.
+
+This area is illuminated.
+Obvious paths: northeast* east* southeast* south* southwest* west*.
+w
+>[Southern Tradeway.]
+
+The bridge just north of you crosses over a narrow, fast-moving river to a walled settlement on the other side. The main tradeway heads off to the southwest, a narrow ribbon cutting across the plains.  A stone bridge is here.
+
+This area is illuminated.
+Obvious paths: east* southeast* south* southwest* west*.
+go bri
+>[Bridge]
+
+With Meetpoint at your heels this rugged old cobblestone bridge leads to the Southern Plains and the main trade routes from spur and Meetpoint to the Southernmost reaches of the lands. Signs that this road was once well traveled by the hustle and bustle of laden carts are plain to view. Though, with the hardened clay-like mud and the fact that it has not rained here in some time it is obvious that these tracks are very old.
+
+This area is illuminated.
+Obvious paths: north* south*.
+n
+n
+>[Meetpoint gate.]
+
+A few guards do a roving patrol of the area and down to the bridge. They check the caravans before they enter and anyone that looks suspicious they throw into the river. They seem quite wary of anyone coming or going to and from the city. From their appearance it would seem best to stay on their good sides and hope that they are in good moods.  An open large sturdy wooden gate and a stone bridge are here.
+
+This area is illuminated.
+You see the 1st leuian villager, the 2nd leuian villager, and the 3rd leuian villager.
+Obvious paths: None.
+>You cannot move in that direction.
+go gate
+>[Meetpoint.]
+
+Here a gate leads out of the fort and into the Southern regions. Several children run and play just inside the gate, under the watchful eyes of the guards. What was once a very well used trade route has slowed to some caravans bringing supplies for the townsmen and the occasional merchants traveling from the far southern reaches of the land. Many guards protect this section of the fort as it is home to some wild beasts that live outside these walls. In the distance, you can make out two more guards hunting the frogmen that often try to attack the city and caravans.  An open large sturdy wooden gate and a glowing wrought iron lantern are here.
+
+This area is illuminated.
+Obvious paths: northeast* southeast* northwest*.
+link lupines at bridge
+>
+>
+who range race
+List will be restricted to those within range.
+Race who list activated!
+
+                Current Secian Adventurers:
+
+Current Adventurers
+
+ Benni Corinth                       Lumiere Salut                      
+ Glinka Dragondsfriend               Sevi Arminia                       
+ Verbaniah Debrenna                  Mieglyn Trevalyn                   
+ Twilight Flutal                     Weldoian Sesca                     
+ Rivnen Tsunami                      Padraig Millat                     
+
+You notice 10 adventurers.
+>
+link not if the catch ya
+
+>
+l
+[Meetpoint.]
+
+Here a gate leads out of the fort and into the Southern regions. Several children run and play just inside the gate, under the watchful eyes of the guards. What was once a very well used trade route has slowed to some caravans bringing supplies for the townsmen and the occasional merchants traveling from the far southern reaches of the land. Many guards protect this section of the fort as it is home to some wild beasts that live outside these walls. In the distance, you can make out two more guards hunting the frogmen that often try to attack the city and caravans.  An open large sturdy wooden gate and a glowing wrought iron lantern are here.
+
+This area is illuminated.
+Obvious paths: northeast* southeast* northwest*.
+ne
+ne
+>[Meetpoint Square.]
+
+Within the heart of this proud fort one can see all around that the reconstruction of its buildings has begun. Large stones and logs have been stacked and piled, while some workers tirelessly attempt to repair the damage that occurred here during the Lords of Chaos wars. The buildings and homes of the people that resided here are slowly taking shape, though, far from completed. The smell of dyes, used to paint the town, permeate the area.  A breathtaking shimmering bouquet of moonflowers, an open light blue door, and a glowing wrought iron street lantern are here.
+
+This area is illuminated.
+You see the 1st shaggy chestnut pony (wearing a small gold collar).
+Obvious paths: north* northeast* east* southeast* southwest* west* northwest*.
+[Meetpoint.]
+
+Two guards patrol above the gate, looking you over carefully before giving leave to pass through the heavy wood gate. Thick and long wooden ladders serve up to the guard's posts high in the sky so that they may have some relief from their duties overlooking the land and city. Through the slates of the wooden walkways, you can make out four archers playing a game of cards, weapons at the ready. A whip cracks loudly as a caravan heads out the gate towards Spur.  A glowing wrought iron lantern and some glowing festive rainbow diamond lanterns are here.
+
+This area is illuminated.
+Obvious paths: southeast* southwest* northwest*.
+go gate
+>[Meetpoint gate.]
+
+The tradeways path leads directly to the imposing north-eastern gate of a stately fort. Even from this distance, the sounds of commerce and progress ring loudly as the harnesses of trader wagons jingle along the busy roadway and saws buzz noisily.The tradeway is constantly full of traffic going in both directions.   Some glowing festive rainbow diamond lanterns are here.
+
+This area is illuminated.
+Obvious paths: northeast*.
+ne
+ne
+ne
+ne
+>[Southern Tradeway.]
+
+Rising up out of the plains, a large walled fort receives the end of the stone road. The river flows from either side, running through the fort from this angle of view. The vegetation surrounding the tradeway at this point has been burned out recently, allowing a clear field of vision from the tops of the walls ahead. The stones show little wear from the heavy traffic of feet and wheels alike; it has certainly been well constructed.  Some glowing festive rainbow diamond lanterns, a short wickedly hooked iron staff, some silver coins, and a single edged bronze taper axe are here.
+
+This area is illuminated.
+Obvious paths: north* northeast* east* southeast* south* southwest* west* northwest*.
+ne
+ne
+[Southern Tradeway.]
+
+The grass rises taller and taller in every direction further limiting view just off the roadside. A second glance reveals that this is the lowest point in a large, shallow depression. The tradeway sinks a little lower as it gets closer to the river off to the west. A ditch runs alongside the river's side of the road, small puddles of water filling the bottom. Trickles filter into the puddles from the grass beyond as mosquitoes dart across the muddy surfaces.  Some glowing festive rainbow diamond lanterns are here.
+
+This area is illuminated.
+Obvious paths: north* northeast* east* southeast* south* southwest* west* northwest*.
+[Southern Tradeway.]
+
+Only the well-built, stone tradeway gives any hint of civilization ever having had any presence here. The tall grasses limit visibility nearby, hiding any wildlife that may be waiting for prey to stumble too close. A few blades of grass sway slightly in the breeze, some of them broken by the passing of something heavy over them. One of the larger stones in the road, broken loose from its mortar, waits patiently to be repaired.   Some glowing festive rainbow diamond lanterns are here.
+
+This area is illuminated.
+Obvious paths: north* northeast* east* southeast* south* southwest* west* northwest*.
+[Southern Tradeway.]
+
+The stone paved tradeway stretches across the open plains, interrupting nature's task of consuming the land. An endless sea of grass surrounds you, lapping at the road much like the tides against a beach. The faintly damp wind occasionally blowing in from the west smells of earth. Some of the stones in the road interlock together to form the crude image of a lion. There is no discerning if it was done on purpose or sheer accident.  Some glowing festive rainbow diamond lanterns are here.
+
+This area is illuminated.
+Obvious paths: north* northeast* east* southeast* south* southwest* west* northwest*.
+[Southern Tradeway.]
+
+The tradeway runs across the open grasslands northeast towards the Spur, and southwest towards distant lands and eventually, the coast. The plains to the south and east seem totally indifferent to your existence. Just ahead, a small path moves up a village of huts spread out in a semi-circle. In the center of the village a giant fire pit sits where barbarians who wander through the village can sit around to stay warm.  A worn grassy path and some glowing festive rainbow diamond lanterns are here.
+
+This area is illuminated.
+Obvious paths: north* northeast* east* southeast* south* southwest* west* northwest*.
+[Wilderness gate.]
+
+Set within a wide tunnel leading through the hedge to the north is the Wilderness Gate. It separates the settled lands of Spur from the open plains to the south of the city. The plains stretch as far as the eyes can see, the horizon and the walls of the fort down the road the only blemishes of the grassy landscape in the distance. The stones of the road are smoothly set together, well built to withstand heavy travel. A broken wagon wheel, discarded some time ago, covers a spot of nearby grass, weeds trying to climb through the spokes.  Some glowing festive rainbow diamond lanterns are here.
+
+This area is illuminated.
+Obvious paths: east* southeast* south* southwest* west*.
+go gate
+>[Road.]
+
+This narrow tunnel through the hedge leads up to the gateway that lets out to the wilderness beyond. Though it used to see heavy traffic from the south, the docks have made this gate largely a place of semi-banishment for the guards.
+
+This area is illuminated.
+Obvious paths: north*.
+n
+>[Road.]
+
+Stretching as far as the eye can see to the east and west is the hedge. A thick line of trees and shrubs that serves as a natural wall between civilization and wilderness. A small outpost stands guard here, its door open to friends, barred to enemies.
+
+This area is illuminated.
+You see the 1st bat and the 2nd bat.
+Obvious paths: north* northeast* south*.
+n
+n
+n
+>[Road.]
+
+A gateway to the west serves as one of the two main entrances to Spur's fairgrounds. To the south, you can barely make out the dark line of the hedge, a thick growth of trees and bushes that separates the true wilds from the tame city lands.  An iron gate is here.
+
+This area is illuminated.
+Obvious paths: northeast* east* south*.
+You cannot move in that direction.
+
+ne
+You cannot move in that direction.
+[Road.]
+
+This main road leading into the Spur shows some signs of disrepair. At one time, this was the primary route in and out of the city. Since the docks were completed however, upkeep of this section of road is less important. It shows.
+
+This area is illuminated.
+Obvious paths: northeast* southeast* southwest*.
+n
+>You cannot move in that direction.
+ne
+>[Road.]
+
+The road bends from the southwest to the north here. A gateway leads off to the southeast and a dirt-packed road there. A small farmhouse can be seen at its end, the barn nearby towering over it.
+
+This area is illuminated.
+Obvious paths: north* northeast* south* southwest*.
+n
+>[Road.]
+
+The open field to the east is balanced by the fence surrounding the fairgrounds to the west. The road here hasn't seen much heavy traffic since the docks were completed, diverting most of the southbound traffic to the ships.
+
+n
+This area is illuminated.
+Obvious paths: north* northeast* east* south*.
+n
+>[Road.]
+
+The road coming in from the northeast bends to the south here as it cuts through the open fields. A branch leads off to the west and the river in the distance. A signpost sporting direction arrows stands to one side.
+
+This area is illuminated.
+Obvious paths: north* northeast* east* southeast* south* west*.
+[Field.]
+
+You are in a wide strip of field that runs along the main road leading into Spur's residential district. The local constabulary sees to it that vagrants don't try to bed down here. They direct them to the field to the southeast.
+
+This area is illuminated.
+Obvious paths: northeast* east* southeast* south* southwest*.
+ne
+>[Field.]
+
+A broad strip of grassland that follows the main road east of you, this meadow is often used by the local aristocracy for picnicking and partying on good days. The city guardsmen keep the field clear of riffraff all year round, just to be safe.  A hole is here.
+
+This area is illuminated.
+Obvious paths: northeast* east* southeast* south* southwest*.
+ne
+>[Road.]
+
+Even though it shows heavy wear, the road is in remarkably good repair. It was built by expert craftsmen to withstand the rigors of time and use. Evidence of recent repairs indicate that any problems are dealt with quickly and competently.  Some fresh crimson streaks of blood and an open old wooden trash wagon are here.
+
+This area is illuminated.
+Obvious paths: north* south* southwest*.
+n
+>[South gate.]
+
+Through the gate lies the city of Spur, the major center of trade and civilization on the plains. The dusty road leading through the gates is well traveled, and walls of the city are in good repair. A small shack sits to the west of the road, during most times of the day a dusty coach can be seen waiting in front, its horses stomping with impatience to be gone. To the right of the door is a small window, its opening covered with metal bars. An old man, missing most of his teeth, waits patiently for the travelers to pay their fare, and then directs them into the waiting area. On the east side of the road a billowing multicolored tent has been erected, the hustle and bustle of merchants and customers can be seen coming and going at all times of the day.  A rainbow silk tent and an open iron gate are here.
+
+This area is illuminated.
+Obvious paths: east* south*.
+go gate
+>[South Gate.]
+
+A well-guarded gateway separates the city's residential district from the farmlands just beyond. Guards carefully eye all that enter or exit the city, beckoning gruffly to random travelers for a closer inspection. The structure of the guards' barracks is visible above the road to the west. A weathered wooden sign is posted by the gate.  An open stone gate, a wooden sign, an open thick stone door, and a street lantern are here.
+
+This room is illuminated.
+Obvious exits: north*.
+n
+n
+n
+>[Noble Way.]
+
+The occasional locked gate marks the entrance to some of the more hidden estates of Spurs nobility. From this broad avenue, little can be seen of their splendor. Behind the imposing gate recedes a proud drive, disappearing mysteriously into the trees. If not for the large imposing tower rising above the hedges it would be hard to discern anything was beyond the gate. It is apparent the residents do not wish to be disturbed.  A street lantern, a closed morbius door, and an open black iron gate are here.
+
+This area is illuminated.
+You see the 1st guard sergeant.
+Obvious paths: north* south*.
+n
+n
+
+n
+[Noble Way.]
+
+Majestic elms continue to line this broad roadway, sheltering the avenue on both sides and further enhancing the grandiose atmosphere. Fronting the beautiful homes, cobbled paths edged with narrow flower beds meander through nearby private gardens. Though they appear wonderful places to spend an afternoon or take a picnic, the glances from those tending the estates makes it clear they are only for the invited.  A street lantern is here.
+
+This area is illuminated.
+Obvious paths: north* south*.
+[Noble Crossroads.]
+
+A small roadway bordered by flowering hedges bisects the wide avenue of Noble Way at a right angle, heading east to west.  A thick, sturdy sign stands just off to the side of a charming path, its large friendly letters intent on luring travelers into the city's premiere roadstay, the Gilded Lion Inn. The entrance is clearly marked and welcoming, extending off to the southeast.  A wooden sign and a street lantern are here.
+
+This area is illuminated.
+Obvious paths: north* east* southeast* south* west*.
+[Noble Way.]
+
+Occasional gates and driveways lead back into the well-kept estates of the city's nobility, breaking and adding interest to the defining plane of the walls lining Noble Way. The rest of the street seems to mimic the splendor of the estates beyond the wall. Swept and trimmed, the roadway exudes a simple, yet beautiful elegance.  A street lantern is here.
+
+This area is illuminated.
+Obvious paths: north* south*.
+[Noble Way.]
+
+Numerous trees lining the avenue serve as the dividing border between the majestic estates of the nobility and the lightly traveled roadway. The estates themselves are noticeably closer to the avenue than those to the south. However, they are no easier to access, still protected by their own guarding walls, some covered with ivy or colorful blooming vines.  A street lantern is here.
+
+This area is illuminated.
+Obvious paths: north* south*.
+[Noble Way.]
+
+The entire avenue is composed of fine cobblestone, each level with its neighbor, providing a smooth ride for passing carriages and horses. The stones were customized by craftsmen, cut to order, rather than simply placed wherever they might fit. A few stately oaks and elms line the sides of the road, shading travelers during the daylight hours.  A street lantern is here.
+
+This area is illuminated.
+Obvious paths: north* south*.
+n
+>[Intersection.]
+
+The avenue comes to a fork, with Noble Way curving from south to the northwest. A side-street heading off to the east leads to an extremely well kept neighborhood that easily surpasses everything around it in splendor and magnificence. Everything, even the carefully pruned trees and the manicured shrubbery displays a desire for elegant perfection.  A street lantern is here.
+
+This area is illuminated.
+Obvious paths: east* south* northwest*.
+nw
+nw
+n
+>[Noble Way.]
+
+Leaving the exceptionally wealthy estates of the Spurian nobility, Noble Way heads toward the Town Square to the northwest. Along the roadside can be seen the in-city homes of successful merchants and other wealthy citizens of the Spur. The homes display a slightly different style, perhaps they are not quite so restrained; a touch more exuberance and freedom with materials is displayed.  A street lantern is here.
+
+This area is illuminated.
+Obvious paths: southeast* northwest*.
+n
+[Noble Way.]
+
+Gazing down each of the nearby private drives reveals a glimpse of a luxurious home, each a miniature estate in its own right. Short, stout walls and manicured hedges serve to keep out the riffraff and to protect the small, expensive gardens. Every detail has been attended to display the exotic plants, in all their pampered perfection.  A street lantern and a closed rosewood door are here.
+
+This area is illuminated.
+Obvious paths: north* southeast*.
+[Noble Way.]
+
+Noble Way continues to wind its way among the rather modestly sized, but elegant, homes of the Spur's successful. Many a peasant farmer may live in homes larger than these, but none can match the quality found here. A peaceful, luxurious feeling pervades this part of town; perhaps it is the drifting floral scents wafting from the well-tended gardens.  A closed elegant black iron gate and a street lantern are here.
+
+This area is illuminated.
+Obvious paths: north* south*.
+[Noble Way.]
+
+Many grand, even ostentatious, homes line this stretch of Noble Way. Most of the residents here were fortunate enough to be born into the right families. Few that live in this area have ever actually had to work for a living. Glancing at the nameplates reveals many of the recognizable names of the Spur. Some of these names could almost be considered famous.  A street lantern is here.
+
+This area is illuminated.
+Obvious paths: northeast* south*.
+ne
+>[Noble Way.]
+
+An unusually large home, even for this part of town, lies off to the west. It seems as if one ambitious owner is slowly buying up the lots next to his and adding them to his own. Groundskeepers are at work in the surrounding gardens, trimming and raking, so intent on their work they do not bother to acknowledge the passing traffic on the road.  A street lantern is here.
+
+This area is illuminated.
+Obvious paths: north* southwest*.
+n
+n
+>[Noble Way.]
+
+To the north, you can make out an ornately scrolled gateway set in the base of the imposing city wall. The refined roadway of Noble Way stretches out to the south. The cobblestones of the road are smooth and even. The attention to detail shown here is a dramatic change from some of the other parts of the city.  A street lantern is here.
+
+This area is illuminated.
+Obvious paths: north* south*.
+[Gateway.]
+
+An elegant, carved wooden sign hangs above the ornate gateway set into the massive wall that divides Spurs Noble District from the Town Square. You can make out city guardsmen peering down attentively at all that approach from their posts atop the imposing wall. They seem to take a greater interest in this part of town, though there does not seem to be anything threatening enough here to warrant such attention.  A gilded silver plaque and a street lantern are here.
+
+This area is illuminated.
+Obvious paths: south*.
+go gate
+>
+[Southern Avenue.]
+
+Standing next to the large iron gate that separates the center of town from those of the elite class are several of the Spurian Guard. They are here to assist all who pass with the simple kindness of opening a gate, or the more important task of escorting those in need to the bank or market. A young looking cadet rubs wax into the stones of the city wall, his task is daunting, but one that will teach him discipline.  An open iron gate and a street lantern are here.
+
+This area is illuminated.
+Obvious paths: north*.
+n
+n
+n
+>[Southern Avenue & Gorey Street.]
+
+The boughs of a large apple tree hang over the well tended avenue. Below the beautiful tree stands a small fountain. Atop the fountain is an intricately carved Secian who appears to be dancing with the water as it splashes around her. Set in the marble base is a small plaque that reads, "For those who have gone before us." Many stand for a moment as they pass this way, giving thanks for the gift of life that is given by both the apple tree and the Secians of long ago. Large piles of dirt and broken stone lay on either side of the street as workmen ready the east and west alleys for expansion.  A street lantern, a Secian etched moonsilver door, a pair of open silver forged swinging doors, and a sign above the doors are here.
+
+This area is illuminated.
+Obvious paths: north* east* south* west*.
+[Southern Avenue.]
+
+Vast estates tower over the huge Spurian wall towards the south. The well-to-do who live in these homes idle away their days, enjoying the luxury of time. Standing next to a very empty lantern pole, a small Flerian child insists in a plaintive wail, that he had nothing to do with the missing lantern. The well-dressed guard that interrogates him keeps pointing at a small sack on the ground and its obvious contents.  An open small burlap sack and a street lantern are here.
+
+This area is illuminated.
+Obvious paths: north* south*.
+n
+n
+[Southern Avenue.]
+
+Southern Avenue leads between the center of Spur and the homes of the prosperous and wealthy. Several of the Ladies of the city stroll along the avenue chatting about the current events and latest gossip of the Spur. Behind them, harried servants carry their reticules and all those belongings that they cannot be without.  A street lantern is here.
+
+This area is illuminated.
+You see the 1st weary traveler.
+Obvious paths: north* south*.
+n
+[Southern Avenue.]
+
+Smooth stones make up the street that leads from the center of Spur to the south. Each stone has been carefully fitted for the most comfortable travel by both cart and traveler alike. A well dressed Guard patrols the area in his dress uniform. Captains don't allow for slovenly appearances on this patrol.  A street lantern is here.
+
+This room is illuminated.
+Obvious exits: north* south*.
+[Town Square South.]
+
+The outward appearance of the people here seems a bit classier. Rich clothing and large coin purses are prevalent amongst the travelers. In fact, many of the folk heading into Town Square from the south are accompanied by large bodyguards to assure their safety. The well maintained road is lined with small brass lanterns, each swinging off an individual pole. No expense has been spared to keep those who travel this road safe from the hoodlums that relish the darkness.  A street lantern and some charred foliage are here.
+
+This area is illuminated.
+Obvious paths: north* northeast* east* south* west* northwest*.
+[Town Square Center.]
+
+A beautiful fountain, sculpted from pristine white marble, rests at the center of Spur's main square. Clear, sparkling water sprays from a spout at the fountain's tip and cascades down several tiers before spilling into a circular pool. High above the square, the wings of two imperial stone dragons form an arch for a massive gateway. The colossal monument stands at the heart of the city like a silent sentinel keeping watch over the entire realm. Lifelike marble statues decorate the square's perimeter, each a celebrated hero of Spur's past.   A flowing white marble fountain, some crystal flecked granite oliphant-shaped benches, a marble statue of a Human, a carved marble statue of a Dragon, and a rosewood sign are here.
+
+This area is illuminated.
+In the area are Vincentiv the Noble San Elf, Benni the Noble Secian, Zydrigeon the Drake (flying beside you), Varnfair the Fir Elf, and Treyfalgar the Noble San Elf.
+Obvious paths: north* northeast* east* southeast* south* southwest* west* northwest*.
+>
+
+
+smile
+wink at Treyfalgar
+Treyfalgar is looking at you.
+You smile.
+>
+>You wink at Treyfalgar.
+>
+smi at Zydrigeon delicately , blushing
+Zydrigeon smiles at you.
+You smile at Zydrigeon delicately , blushing.
+fly up 10
+>You climb 10 feet.
+
+You are now at 30 feet.
+>
+Treyfalgar stares at you.
+ret 5
+
+You retreat 5 UDs to the rear!
+[3 sec. delay]
+tact
+>Standing in front of you at 5 UDs, is:
+Vincentiv, Benni, Zydrigeon
+Standing in this rank is:
+Glinka, Varnfair, Treyfalgar
+adv 9
+>
+Treyfalgar furrows his brow.
+You advance another 9 UDs!
+>
+info
+
+You are Glinka Dragondsfriend, a delicate boned and wirey-tough bodied 41 year old Orderly Female adolescent Secian Cleric of the Order of the Heart.  You are 1'2" and weigh 12 lbs.  You are currently 30 feet above the ground.  You are satiated.
+
+HP: 115 of 115  Ftg:  65 of  65  Carry:  7.1 of 37.0 lbs.
+
+ Str   Int   Wis   Dex   Agi   Con   Cha   Wil   Voi   Per   App
+Fair  Aver  Aver  Aver  Good  Good  Good  Good  Aver  Good  Aver  
+
+Use: INFO <subject> for more info.
+(Valid subjects: RELIGION, MAGICK, LANGUAGES, MARTIALARTS, MONEY, RUNESPELLS, TITLES, DISGUISE, PSIONICS)
+
+>
+Benni giggles at you.
+stat
+OR:   3  DR: 138  Weap RT: 10 sec  Move Rate: 6/11 UDs  Dam Bonus: Awful/None
+
+You are towards the front of the area at 4 UDs from center!
+
+  ::: Equipment Readied :::
+
+  Some heavy bone studded steelwood brigandine.
+  A tiny moonsilver tongue piercing.
+  A stone tribal pendant.
+  Some twinkling rainbow crystal bangles.
+  A pair of ornate silver toe rings.
+  Some multicolored crystal dragon wing charms.
+  A silver ring.
+  A crescent moon earring.
+  A silver serpentine hoop.
+  A delicately linked gold belly chain.
+gri
+>You grin.
+wink
+>You wink.
+>
+Something squints at you.
+
+Zydrigeon climbs 35 feet.
+
+
+Zydrigeon descends 35 feet.
+stare in to the shadows
+You stare in to the shadows.
+tact
+>Standing in this rank is:
+Glinka
+Standing behind you at 4 UDs, is:
+Vincentiv, Zydrigeon
+Standing behind you at 9 UDs, is:
+Varnfair, Treyfalgar
+l
+>[Town Square Center.]
+
+A beautiful fountain, sculpted from pristine white marble, rests at the center of Spur's main square. Clear, sparkling water sprays from a spout at the fountain's tip and cascades down several tiers before spilling into a circular pool. High above the square, the wings of two imperial stone dragons form an arch for a massive gateway. The colossal monument stands at the heart of the city like a silent sentinel keeping watch over the entire realm. Lifelike marble statues decorate the square's perimeter, each a celebrated hero of Spur's past.   A flowing white marble fountain, some crystal flecked granite oliphant-shaped benches, a marble statue of a Human, a carved marble statue of a Dragon, and a rosewood sign are here.
+
+This area is illuminated.
+In the area are Vincentiv the Noble San Elf, Zydrigeon the Drake (flying 10 feet below you), Varnfair the Fir Elf, and Treyfalgar the Noble San Elf.
+Obvious paths: north* northeast* east* southeast* south* southwest* west* northwest*.
+link fair enuff with Them here
+>
+>
+Anyah just entered from the north.
+l
+[Town Square Center.]
+
+A beautiful fountain, sculpted from pristine white marble, rests at the center of Spur's main square. Clear, sparkling water sprays from a spout at the fountain's tip and cascades down several tiers before spilling into a circular pool. High above the square, the wings of two imperial stone dragons form an arch for a massive gateway. The colossal monument stands at the heart of the city like a silent sentinel keeping watch over the entire realm. Lifelike marble statues decorate the square's perimeter, each a celebrated hero of Spur's past.   A flowing white marble fountain, some crystal flecked granite oliphant-shaped benches, a marble statue of a Human, a carved marble statue of a Dragon, and a rosewood sign are here.
+
+This area is illuminated.
+In the area are Vincentiv the Noble San Elf, Anyah the Human, Zydrigeon the Drake (flying 10 feet below you), Varnfair the Fir Elf, and Treyfalgar the Noble San Elf.
+Obvious paths: north* northeast* east* southeast* south* southwest* west* northwest*.
+time

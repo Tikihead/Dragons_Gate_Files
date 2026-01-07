@@ -1,0 +1,5 @@
+You don't have enough charges left to invoke this runespell.  Perhaps it is time to visit the RuneMage Guild for a recharge!
+logs on
+Log is on: Glinka-12-06-03.txt
+>
+ ** Command Queue Cleared.

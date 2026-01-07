@@ -1,0 +1,3346 @@
+time
+
+Current time is: Sun Dec 12 21:15:12 2004 EST.
+time
+
+It is now 6:32 pm on the 24th day of the 2nd month in the year 319.
+
+You have been adventuring for 21 mins, 35 secs this session.
+
+>
+Kraggon asks, "this the ball?"
+
+Kiralyn takes a few steps and soars 10 feet into the air!
+l
+[Crystal Snowflake Village, Ice Castle.]
+
+Softly twinkling cutout snowflakes cast a thousand flickering lights on the smooth surface of the ice castle. Silver stars hang from the ceiling, shimmering as they twirl with the swirling wind. A crescent shaped moon hangs from the center of the cathedral ceiling as couples, clad in deep, rich velvets and furs, spiral and dance as they glide across the ice.  A glowing snow covered evergreen tree, a snowflake filigree ice bridge of love, and a bubbling dove-etched fountian are here.
+
+This room is illuminated.
+You see the 1st tiny ruby faerie wyvern (wearing a small gold collar).
+In the room are Maren the Noble Usil Elf, Twilight the Noble Secian, Kiralyn the Noble Secian (flying 10 feet above ground), Oake the Noble Secian (seated), Noffbrau the Noble Hithual, Lewelin the Usil Elf, Solinus the Human, Orlando the Noble Human, Cleric the Noble Leuian, Laetus the Secian (flying 10 feet above ground), Vycous the Noble Frontacian (a tiny ruby faerie wyvern upon his left shoulder), and Kraggon the Noble Hithual.
+Obvious exits: east* west*.
+>
+Laetus flies down and lands.
+
+Laetus offers something to Cleric.
+
+Kiralyn descends 5 feet.
+w
+[Ice Castle, Ballroom.]
+
+Elegant twists of violet and silk form an airy canopy, as pure white roses entwine delicately around the intricately carved walls of the ice castle, creating a beautiful scene against the backdrop of winter. Twinkling garlands of stars drape the silks, allowing the icy ceiling to be open to the starlit heavens. Fragrant candles flicker, casting a soft halo on the smooth floor of ice.  A glowing snow covered evergreen tree is here.
+
+This room is illuminated.
+In the room is Xavier the Human.
+Obvious exits: east*.
+e
+>[Crystal Snowflake Village, Ice Castle.]
+
+Softly twinkling cutout snowflakes cast a thousand flickering lights on the smooth surface of the ice castle. Silver stars hang from the ceiling, shimmering as they twirl with the swirling wind. A crescent shaped moon hangs from the center of the cathedral ceiling as couples, clad in deep, rich velvets and furs, spiral and dance as they glide across the ice.  A glowing snow covered evergreen tree, a snowflake filigree ice bridge of love, and a bubbling dove-etched fountian are here.
+
+This room is illuminated.
+You see the 1st tiny ruby faerie wyvern (wearing a small gold collar).
+In the room are Maren the Noble Usil Elf, Twilight the Noble Secian, Kiralyn the Noble Secian (flying 5 feet above ground), Oake the Noble Secian (seated), Noffbrau the Noble Hithual, Lewelin the Usil Elf, Solinus the Human, Orlando the Noble Human, Cleric the Noble Leuian, Laetus the Secian, Vycous the Noble Frontacian (a tiny ruby faerie wyvern upon his left shoulder), and Kraggon the Noble Hithual.
+Obvious exits: east* west*.
+e
+>[Ice Castle, Banquet Hall.]
+
+Waiters on polished black skates glide around the room, serving wonderful delicacies to guests. Delicate aromas carry on dulcet wings as a cool winter breeze stirs the room. As the sweet smell intoxicates, a large ice sculpture of a bouquet of roses glows brightly from violet to red to blue as the celestial orbs dance in the skies above.  A glowing snow covered evergreen tree, a long mahogany bar, a long mahogany bar, a large intricately carved ice beverage table, an open large snowflake etched gold drink warmer, a snowflake etched glass appetizer tray, a violet silk-lined banquet table, a ribbon tied wicker basket of bread, a violet tinted crystal dessert tray, a dark silver drink cart, and a warm mug of cinnamon spiced tea are here.
+
+This room is illuminated.
+In the room are Suupidosutaa the Monitanian, Anyah the Human, Gallaior the Human, Relawen the Drake, Kiki the Secian, Feletia the Draco, Magenta the Noble Secian, Megara the Noble Drake, Binx the Secian, Saberus the Leuian, Xalisha the Noble Secian, Mahtina the Noble Secian, and Firebreath the Noble Drake.
+Obvious exits: west*.
+>
+Binx hops up and down.
+
+Suupidosutaa closes his eyes and whispers to the wind.
+
+Megara just removed a warm spicy beef stew from within the violet silk-lined banquet table.
+
+Kraggon just entered from the west.
+l in bar
+Inside the long mahogany bar you see a glass of red amaretto liqueur, a glass of red amaretto liqueur, a glass of hot buttered rum, a glass of hot buttered rum, a glass of hot buttered rum, a glass of hot buttered rum, a glass of hot buttered rum, a glass of hot buttered rum, a glass of hot buttered rum, a glass of hot buttered rum, a glass of hot buttered rum, a glass of hot buttered rum, a glass of hot buttered rum, an apple red martini, an apple red martini, an apple red martini, an apple red martini, an apple red martini, an apple red martini, an apple red martini, a glass of sweet red wine, a glass of sweet red wine, a glass of sweet red wine, a glass of sweet red wine, a glass of sweet red wine, a glass of sweet red wine, a glass of sweet red wine, a glass of sweet red wine, a glass of sweet red wine, a glass of sweet red wine, a glass of sweet red wine, a glass of sweet red wine, a glass of sweet red wine, a fluted glass of champagne, a fluted glass of champagne, a fluted glass of champagne, a fluted glass of champagne, a fluted glass of champagne, a fluted glass of champagne, a fluted glass of champagne, a fluted glass of champagne, a fluted glass of champagne, a fluted glass of champagne, a fluted glass of champagne, a fluted glass of champagne, a fluted glass of champagne, a fluted glass of champagne, a fluted glass of champagne, and a fluted glass of champagne.
+>
+Megara just placed a warm spicy beef stew within her moon carved opal tray.
+
+Firebreath wrinkles his nose.
+
+Kraggon beams.
+
+Kraggon hugs Anyah.
+
+A gentle breeze swirls around Suupidosutaa and carries his voice into the distance.
+
+Megara just removed a warm spicy beef stew from within the violet silk-lined banquet table.
+
+Anyah withdraws her earlier offer.
+
+Megara just placed a warm spicy beef stew within her moon carved opal tray.
+
+Binx says, "at least it didn't splatter"
+get mar from bar
+You remove the apple red martini from the long mahogany bar.
+>
+Binx giggles.
+
+Magenta just removed a warm turkey pot pie from within the violet silk-lined banquet table.
+
+Mahtina just removed a warm raspberry muffin from within the ribbon tied wicker basket of bread.
+
+Kraggon just removed a slice of frosted carrot cake from within the violet tinted crystal dessert tray.
+
+Firebreath's group just went west.
+
+Feletia exclaims to Binx, "You're tainted with the yellow snow!"
+
+Anyah says to Gallaior, "Okay, you'll be carrying me out then..."
+
+Feletia flails her arms about wildly.
+sip mar
+Ignoring unknown command, "sip."
+>You see Anyah take a drink from her warm mug of cinnamon spiced tea.
+You see Kraggon take a bite of his slice of frosted carrot cake.
+
+Kiki wrinkles her nose.
+dri mar
+
+Kraggon says, "hmm"
+
+Binx says, "noooo"
+You see Anyah take a drink from her warm mug of cinnamon spiced tea.
+You take a drink from your apple red martini.
+
+Ahh...  That hit the spot!
+You cough.
+
+It burns a bit going down!
+You feel a good buzz coming on.
+
+You're sloshing, you've been drinking so much.  Time to stop drinking for a while.
+>
+Mahtina just removed a warm raspberry muffin from within the ribbon tied wicker basket of bread.
+
+Kraggon bows to Gallaior.
+You see Anyah take a drink from her warm mug of cinnamon spiced tea.
+You see Anyah take a drink from her warm mug of cinnamon spiced tea.
+
+Anyah coughs.
+
+Gallaior smiles at Kraggon.
+
+Anyah leans on Gallaior.
+' wowie
+
+Glinka says, " wowie"
+>
+The band plays a soft waltzing melody.
+
+Suupidosutaa just removed an apple red martini from within the long mahogany bar.
+gla at mar
+You glance at the apple red martini.
+>
+Gallaior bows at Kraggon.
+
+Suupidosutaa just removed an apple red martini from within the long mahogany bar.
+
+Megara just removed a warm turkey pot pie from within the violet silk-lined banquet table.
+
+Megara just removed a warm turkey pot pie from within the violet silk-lined banquet table.
+
+Kraggon exclaims, "alllo, band!"
+
+Megara just placed a warm turkey pot pie within her moon carved opal tray.
+
+Suupidosutaa opens his eyes as the gentle breeze dissipates.
+
+Megara just placed a warm turkey pot pie within her moon carved opal tray.
+
+Kraggon waves his drathain inscribed tiger's eye band of valor.
+smi at kr impishly, tossing her long soft hair back...
+You smile at Kraggon impishly, tossing her long soft hair back...
+>
+Anyah says to Gallaior, "Don't blame me for my actions.. you didn't take it away from me."
+You see Anyah take a drink from her warm mug of cinnamon spiced tea.
+
+Suupidosutaa just removed a glass of sweet red wine from within the long mahogany bar.
+
+Binx just dropped a glass of red amaretto liqueur.
+
+Suupidosutaa just removed a glass of sweet red wine from within the long mahogany bar.
+You see Anyah take a bite of her stuffed juicy chicken breast.
+You see Anyah take a bite of her half-eaten stuffed juicy chicken breast.
+You see Anyah eat the last of her half-eaten stuffed juicy chicken breast.
+
+Anyah burps.
+
+Kiki just removed a glass of chilled banana slush punch from within the dark silver drink cart.
+You see Kiki take a drink from her glass of chilled banana slush punch.
+
+Gallaior says to Anyah, "Thats ok, I am off to bed early anyway"
+You see Kiki take a drink from her glass of chilled banana slush punch.
+You see Kiki take a drink from her glass of chilled banana slush punch.
+
+Feletia smiles at Mahtina.
+l in 2 dri
+You see Kiki take a drink from her glass of chilled banana slush punch.
+Inside the dark silver drink cart you see a glass of chilled fruit punch, a glass of chilled fruit punch, a glass of chilled fruit punch, a glass of chilled fruit punch, a glass of chilled fruit punch, a glass of chilled fruit punch, a glass of chilled fruit punch, a glass of chilled fruit punch, a glass of chilled fruit punch, a glass of chilled fruit punch, a glass of chilled fruit punch, a glass of chilled fruit punch, a glass of chilled fruit punch, a glass of chilled fruit punch, a glass of raspberry lemonade punch, a glass of raspberry lemonade punch, a glass of raspberry lemonade punch, a glass of raspberry lemonade punch, a glass of raspberry lemonade punch, a glass of raspberry lemonade punch, a glass of raspberry lemonade punch, a glass of raspberry lemonade punch, a glass of raspberry lemonade punch, a glass of raspberry lemonade punch, a glass of raspberry lemonade punch, a glass of chilled banana slush punch, a glass of chilled banana slush punch, a glass of chilled banana slush punch, a glass of chilled banana slush punch, a glass of chilled banana slush punch, a glass of chilled banana slush punch, a glass of chilled banana slush punch, a glass of chilled banana slush punch, a glass of chilled banana slush punch, a glass of chilled banana slush punch, a glass of sweet cranberry-lime punch, a glass of sweet cranberry-lime punch, a glass of sweet cranberry-lime punch, a glass of sweet cranberry-lime punch, a glass of sweet cranberry-lime punch, a glass of sweet cranberry-lime punch, a glass of sweet cranberry-lime punch, a glass of sweet cranberry-lime punch, a glass of sweet cranberry-lime punch, a glass of sweet cranberry-lime punch, a glass of sweet cranberry-lime punch, a glass of sweet cranberry-lime punch, and a glass of sweet cranberry-lime punch.
+>
+Gallaior chuckles.
+
+Kraggon says to Anyah, "I met a hooman bard straight from the academy today"
+You see Kiki take a drink from her glass of chilled banana slush punch.
+You see Kiki drink the last of her glass of chilled banana slush punch.
+
+Kraggon bows to Gallaior.
+
+Kiki throws an empty glass of chilled banana slush punch which flies a short distance before hitting the ground.  It shatters on impact!
+
+Anyah has left Gallaior's group.
+
+Gallaior is now following Anyah.
+
+Binx says to Mahtina, "Hiya stranger"
+
+Kiki just removed a glass of chilled banana slush punch from within the dark silver drink cart.
+get ban from dri
+I don't see any "ban" in there!
+>You see Kiki take a drink from her glass of chilled banana slush punch.
+
+Suupidosutaa, tail rapidly sliding out of sight, just went west.
+You burp.
+
+Kraggon says to Anyah, "I told her to find ya"
+You see Kiki take a drink from her glass of chilled banana slush punch.
+
+Mahtina says to Binx in Secian, "Hello there dear"
+You see Kiki take a drink from her glass of chilled banana slush punch.
+
+Feletia just picked up a glass of red amaretto liqueur.
+get slu from dri
+I don't see any "slu" in there!
+>You see Kiki take a drink from her glass of chilled banana slush punch.
+
+Anyah just removed a warm turkey pot pie from within the violet silk-lined banquet table.
+
+Kraggon says to Anyah, "her name be..."
+You see Kiki take a drink from her glass of chilled banana slush punch.
+You see Feletia take a drink from her glass of red amaretto liqueur.
+
+Feletia coughs.
+
+Binx hugs Mahtina.
+You see Kiki drink the last of her glass of chilled banana slush punch.
+get chil from dri
+I don't see any "chil" in there!
+>
+Kraggon ponders the meaning of the universe for a moment.
+
+Kiki throws an empty glass of chilled banana slush punch which flies a short distance before hitting the ground.  It shatters on impact!
+
+Anyah asks Kraggon, "I appreciate it. Her name?"
+l in dri
+You see Anyah take a bite of her warm turkey pot pie.
+Inside the open large snowflake etched gold drink warmer you see a mug of sweet coffee, a mug of sweet coffee, a mug of sweet coffee, a mug of sweet coffee, a mug of sweet coffee, a mug of sweet coffee, a mug of sweet coffee, a warm mug of cinnamon spiced tea, a warm mug of cinnamon spiced tea, a warm mug of cinnamon spiced tea, a warm mug of cinnamon spiced tea, a warm mug of cinnamon spiced tea, a warm mug of cinnamon spiced tea, a warm mug of cinnamon spiced tea, a warm mug of cinnamon spiced tea, a warm mug of cinnamon spiced tea, a warm mug of cinnamon spiced tea, a warm mug of cinnamon spiced tea, a warm mug of cinnamon spiced tea, a warm mug of cinnamon spiced tea, a warm mug of cinnamon spiced tea, a warm mug of cinnamon spiced tea, a warm mug of cinnamon spiced tea, a warm mug of cinnamon spiced tea, a warm mug of cinnamon spiced tea, a warm mug of cinnamon spiced tea, a warm mug of cinnamon spiced tea, a warm mug of cinnamon spiced tea, a warm mug of cinnamon spiced tea, and a warm mug of cinnamon spiced tea.
+>
+Kiki just removed a glass of chilled banana slush punch from within the dark silver drink cart.
+
+Kraggon asks Anyah, "Tinkle?"
+You see Anyah take a bite of her warm turkey pot pie.
+You see Kiki take a drink from her glass of chilled banana slush punch.
+
+Kraggon says, "no"
+You see Kiki take a drink from her glass of chilled banana slush punch.
+You see Kiki take a drink from her glass of chilled banana slush punch.
+
+Anyah exclaims, "Tinkle!!"
+
+Kraggon exclaims to Anyah, "Twinkle!"
+You see Kiki take a drink from her glass of chilled banana slush punch.
+
+Anyah says, "Oh"
+You see Kiki take a drink from her glass of chilled banana slush punch.
+
+Anyah says, "Thats better"
+You see Kiki drink the last of her glass of chilled banana slush punch.
+
+Anyah's stomach growls.
+
+Anyah vomits in front of you!
+
+Anyah burps.
+
+Gallaior's stomach growls.
+
+You feel the effect of the alcohol wearing off a little.
+You hiccup.
+
+Kraggon exclaims, "Twinkle!"
+
+Megara blinks.
+get ban from 2 dri
+
+Anyah glances down and wipes her mouth.
+You remove the glass of chilled banana slush punch from the dark silver drink cart.
+>
+Mahtina, gold and silver curls streaming behind her, just went west.
+
+Megara rolls her eyes.
+
+Anyah says, "Excuse me"
+You see Feletia take a drink from her glass of red amaretto liqueur.
+
+Feletia coughs.
+
+Kraggon asks Anyah, "ye know her?!"
+
+Anyah blushes madly.
+
+Kraggon blinks.
+
+Anyah shakes her head from side to side.
+l
+
+Kiki throws an empty glass of chilled banana slush punch which flies a short distance before hitting the ground.  It shatters on impact!
+[Ice Castle, Banquet Hall.]
+
+Waiters on polished black skates glide around the room, serving wonderful delicacies to guests. Delicate aromas carry on dulcet wings as a cool winter breeze stirs the room. As the sweet smell intoxicates, a large ice sculpture of a bouquet of roses glows brightly from violet to red to blue as the celestial orbs dance in the skies above.  A glowing snow covered evergreen tree, a long mahogany bar, a long mahogany bar, a large intricately carved ice beverage table, an open large snowflake etched gold drink warmer, a snowflake etched glass appetizer tray, a violet silk-lined banquet table, a ribbon tied wicker basket of bread, a violet tinted crystal dessert tray, a dark silver drink cart, a warm mug of cinnamon spiced tea, and some vomit are here.
+
+This room is illuminated.
+In the room are Anyah the Human, Gallaior the Human, Kiki the Secian, Feletia the Draco, Megara the Noble Drake, Binx the Secian, Xalisha the Noble Secian, and Kraggon the Noble Hithual.
+Obvious exits: west*.
+>
+Feletia purrs.
+
+Kiki comforts Anyah.
+l in app
+Inside the snowflake etched glass appetizer tray you see a cheese topped wheat cracker, a cheese topped wheat cracker, a cheese topped wheat cracker, a cheese topped wheat cracker, a cheese topped wheat cracker, a cheese topped wheat cracker, a cheese topped wheat cracker, a cheese topped wheat cracker, a cheese topped wheat cracker, a cheese topped wheat cracker, a cheese topped wheat cracker, a cheese topped cocktail rye bread, a cheese topped cocktail rye bread, a cheese topped cocktail rye bread, a cheese topped cocktail rye bread, a cheese topped cocktail rye bread, a cheese topped cocktail rye bread, a cheese topped cocktail rye bread, a cheese topped cocktail rye bread, a cheese topped cocktail rye bread, a cheese topped cocktail rye bread, a cheese topped cocktail rye bread, a cheese topped cocktail rye bread, a cheese topped cocktail rye bread, a stuffed mushroom cap, and a stuffed mushroom cap.
+>
+Megara just removed a warm turkey pot pie from within the violet silk-lined banquet table.
+
+Kiki just removed a glass of chilled banana slush punch from within the dark silver drink cart.
+
+Megara just placed a warm turkey pot pie within her moon carved opal tray.
+
+Feletia blinks at Kiki.
+You see Kiki take a drink from her glass of chilled banana slush punch.
+You see Kiki take a drink from her glass of chilled banana slush punch.
+
+Kraggon says to Anyah, "oh, ye got pale when I mentioned her name"
+You see Kiki take a drink from her glass of chilled banana slush punch.
+You see Kiki take a drink from her glass of chilled banana slush punch.
+
+Binx just removed a glass of chilled banana slush punch from within the dark silver drink cart.
+You see Kiki take a drink from her glass of chilled banana slush punch.
+You see Kiki drink the last of her glass of chilled banana slush punch.
+
+Megara just went west.
+
+Binx just placed a glass of chilled banana slush punch within his black damascene spidersilk robes.
+l
+[Ice Castle, Banquet Hall.]
+
+Waiters on polished black skates glide around the room, serving wonderful delicacies to guests. Delicate aromas carry on dulcet wings as a cool winter breeze stirs the room. As the sweet smell intoxicates, a large ice sculpture of a bouquet of roses glows brightly from violet to red to blue as the celestial orbs dance in the skies above.  A glowing snow covered evergreen tree, a long mahogany bar, a long mahogany bar, a large intricately carved ice beverage table, an open large snowflake etched gold drink warmer, a snowflake etched glass appetizer tray, a violet silk-lined banquet table, a ribbon tied wicker basket of bread, a violet tinted crystal dessert tray, a dark silver drink cart, a warm mug of cinnamon spiced tea, and some vomit are here.
+
+This room is illuminated.
+In the room are Anyah the Human, Gallaior the Human, Kiki the Secian, Feletia the Draco, Binx the Secian, Xalisha the Noble Secian, and Kraggon the Noble Hithual.
+Obvious exits: west*.
+>
+Feletia exclaims to Kiki, "So violent!! What'd the glass do to you?!"
+
+Kiki throws an empty glass of chilled banana slush punch which flies a short distance before hitting the ground.  It shatters on impact!
+l in des
+Inside the violet tinted crystal dessert tray you see a slice of frosted carrot cake, a slice of frosted carrot cake, a slice of frosted carrot cake, a slice of frosted carrot cake, a slice of frosted carrot cake, a slice of frosted carrot cake, a slice of frosted carrot cake, a slice of frosted carrot cake, a slice of frosted carrot cake, a slice of frosted carrot cake, a slice of frosted carrot cake, and a gooey chocolate frosted brownie.
+>
+Binx giggles.
+You see Anyah take a drink from her warm mug of cinnamon spiced tea.
+
+Anyah coughs.
+w
+
+Kiki says to Feletia, "Trying not to leave any mess.."
+[Crystal Snowflake Village, Ice Castle.]
+
+Softly twinkling cutout snowflakes cast a thousand flickering lights on the smooth surface of the ice castle. Silver stars hang from the ceiling, shimmering as they twirl with the swirling wind. A crescent shaped moon hangs from the center of the cathedral ceiling as couples, clad in deep, rich velvets and furs, spiral and dance as they glide across the ice.  A glowing snow covered evergreen tree, a snowflake filigree ice bridge of love, and a bubbling dove-etched fountian are here.
+
+This room is illuminated.
+You see the 1st tiny ruby faerie wyvern (wearing a small gold collar).
+In the room are Maren the Noble Usil Elf, Twilight the Noble Secian, Kiralyn the Noble Secian (flying 5 feet above ground), Oake the Noble Secian (seated), Noffbrau the Noble Hithual, Lewelin the Usil Elf, Orlando the Noble Human, Cleric the Noble Leuian, Megara the Noble Drake, Laetus the Secian, Vycous the Noble Frontacian (a tiny ruby faerie wyvern upon his left shoulder), and Mahtina the Noble Secian.
+Obvious exits: east* west*.
+>
+Kiralyn hugs Mahtina.
+go bri
+
+Twilight, swirls of magick following in her wake, just went east.
+[Crystal Snowflake Village, Ice Castle.]
+
+Wreaths of holly and fragrant garland strands of ivy, laden with golden and silver leaves are entwined along the rails of the filigree ice bridge. Across the bridge, a towering castle made wholly of ice glows softly independent of any other light. A brisk chilling wind stands its banners flat against the backdrop of the sky. Step onto the bridge as shelter awaits within the distant castle's walls.  A snowflake filigree ice bridge and a glowing candle filled crystal street lantern are here.
+
+This area is illuminated.
+You see the 1st black and white spotted dalmation puppy (wearing a small gold collar).
+In the area is Suupidosutaa the Monitanian.
+Obvious paths: northeast* northwest*.
+nw
+>[Crystal Snowflake Village, Forestry Path.]
+
+Bright yellow rose bushes, covered in freshly fallen snow, flank a sinuous path around the snowflake village. A black-tailed deer sprints with graceful and lithe movements, as he leaps over the small path. A gentle breeze wafts through the air, dizzying the tree's barren branches as they sway slowly. Colorful birds sing harmonious melodies while they soar through the skies.  A rose-covered snowy stone pathway, a glowing candle filled crystal street lantern, and an open dark purple tent are here.
+
+This area is illuminated.
+In the area are Hott the Noble Leuian, Tiruna the Noble Leuian, Khatrina the Leuian, Kandil the Noble Leuian, Shaleu the Noble Leuian, and Clutter the Drag-al.
+Obvious paths: northeast* southeast* northwest*.
+>
+Khatrina says in Leuian, "T zwxwt"
+gri
+You grin.
+hol mar
+>You hold the apple red martini close.
+>
+Khatrina has left Tiruna's group.
+swoo
+You swoon.
+>
+Tiruna is now following Khatrina.
+
+Tiruna says, "lead on"
+go te
+[Crystal Snowflake Village, Peddle Tent.]
+
+Small delicate lilac shaped lamps flicker slightly, their glass petals throwing purple light throughout the area. Heavy magenta colored fabric hangs from the top post of the tent, the flowing canvas carried overhead and down the sides of the polished wooden frame, making up the walls of this enclosure. A small stage, painted plum, sits opposite the rolled tent flap and is surrounded by a variety of small flowers. Orchids, lavender and lilac emit their sweet scents into the air.  An open dark purple tent flap and a note card are here.
+
+This room is illuminated.
+Obvious exits: None.
+go te
+>[Crystal Snowflake Village, Forestry Path.]
+
+Bright yellow rose bushes, covered in freshly fallen snow, flank a sinuous path around the snowflake village. A black-tailed deer sprints with graceful and lithe movements, as he leaps over the small path. A gentle breeze wafts through the air, dizzying the tree's barren branches as they sway slowly. Colorful birds sing harmonious melodies while they soar through the skies.  A rose-covered snowy stone pathway, a glowing candle filled crystal street lantern, and an open dark purple tent are here.
+
+This area is illuminated.
+In the area are Hott the Noble Leuian, Tiruna the Noble Leuian, Khatrina the Leuian, Kandil the Noble Leuian, Shaleu the Noble Leuian, and Clutter the Drag-al.
+Obvious paths: northeast* southeast* northwest*.
+>
+Khatrina chuckles.
+
+Khatrina's group just went southeast.
+nw
+[Crystal Snowflake Village, Cottage.]
+
+As the snow falls softly on the trees, the heavens' lights give the white blanket a glistening luster like tiny gems are embroidered into the chilling cover. The light crunching of snow sounds as small animals scurry quickly through the forest. A golden glow radiates from the windows of a small stone cottage as a fire blazes inside. Shimmering swirled icicles hang over the doorway, which leads into the warm abode, and stacks of firewood rest on either side of the entryway.  An open round mahogany cottage door, a decorated colorful fir tree, and a glowing crystal street lantern are here.
+
+This area is illuminated.
+Obvious paths: northeast* southeast* northwest*.
+go door
+>I don't see what you are referring to.
+go cot
+>[Peddlers' Inn.]
+
+Decorated with fragrant candles and garlands of dried leaves and berries, this small wagon exudes a truly festive feeling. Plush crimson red velvet floor cushions surround a small wooden table, which has intricate autumn scenes carved into its surface. A small stage rests in the northern corner for merchants to show off their wares.  Some deep crimson velvet pillows, an ornate wooden table, a deep red velvet curtain, an open round mahogany door, a sparkling hair prices sign, a rosewood length list, a carved maple styles list, an inky textures for hair list, a Book of Specialties, a cheerful red eye prices list, and a gold-trimmed shapes for eyes list are here.
+
+This room is illuminated.
+Obvious exits: None.
+shop list all
+>There is no shop here!
+>You burp.
+re si
+I don't see what you are referring to.
+re li
+>I don't see what you are referring to.
+re hai
+>
+The sparkling hair prices sign reads:
+"~ Cost for modifications are ~
+ Hair Style: 15 gold
+ Hair Length: 20 gold (cut), 30 gold (extension)
+ Hair Texture: 40 gold
+ Hair Color: 50 gold (must be a racial color)"
+re len
+>
+The rosewood length list reads:
+"The following hair lengths are available ~
+ Bald, very short, short, collar length, shoulder length, medium length, long, and very long."
+re sty
+>
+The carved maple styles list reads:
+"The following hair styles are available ~
+ Braided, curly, disheveled, dredded, filthy, matted, neatly kept, neatly parted, prim, slicked back, straight, tied back, unbridled, wavy, and wild."
+re tex
+>
+The inky textures for hair list reads:
+"The following hair textures are available ~
+ Wispy, baby fine, fine, medium, coarse, wirey and kinky."
+re boo
+>
+The Book of Specialties reads:
+"Special requests are available and cost 100 gold each.  Examples are special requests are highlights, streaks, spots, facial hair, and other special modifications.  Inquire within for more information."
+l
+>[Peddlers' Inn.]
+
+Decorated with fragrant candles and garlands of dried leaves and berries, this small wagon exudes a truly festive feeling. Plush crimson red velvet floor cushions surround a small wooden table, which has intricate autumn scenes carved into its surface. A small stage rests in the northern corner for merchants to show off their wares.  Some deep crimson velvet pillows, an ornate wooden table, a deep red velvet curtain, an open round mahogany door, a sparkling hair prices sign, a rosewood length list, a carved maple styles list, an inky textures for hair list, a Book of Specialties, a cheerful red eye prices list, and a gold-trimmed shapes for eyes list are here.
+
+This room is illuminated.
+Obvious exits: None.
+re eye
+>
+The cheerful red eye prices list reads:
+"Cost for eye modifications are  ~
+ Eye Shape: 125
+ Eye Color: 150"
+re shape
+>
+The gold-trimmed shapes for eyes list reads:
+"Your eyes can be altered to the following shapes ~
+ Small, large, bulging, widely spaced, beady, heavy-lidded, almond-shaped and triangular."
+l at gli
+>You find something suitably reflective and gaze into it...
+
+You look like a 1'2" standard adolescent delicate boned, wirey-tough bodied Secian Cleric.
+You have very long, wild, kinky white hair with a white streak, heavy lidded pale red eyes, and look translucent.
+You appear to be frivolous right now.
+You can be attacked by other players.
+
+On her breast is a small crescent shaped birthmark.
+
+On her neck is a purple marked tattoo of the house of Mandor.
+
+On her belly is a tark tribal circle around the navel.
+
+On her back are glimmering deep Hyacinth wings with draconic runes in Golde upon them.
+
+You appear to be in perfect health.
+There is a shining gold emblem affixed to your clothing.
+
+Physical appearance:
+
+You see an ageless, tymless, spryte with long wild kinky whyte hair with a glowing whyte streak and sleepy eyes...She is shivering in the cold wind to Valhalla...She has touched the Sky...
+
+                        Visible Equipment
+Some heavy bone studded steelwood brigandine       (armor)
+A tiny moonsilver tongue piercing                  (on head)
+A beautiful gold Secian shaped charm               (around neck)
+A pair of ornate silver toe rings                  (on feet)
+Some multicolored crystal dragon wing charms       (over armor)
+A circular golden earring                          (right ear)
+A silver serpentine hoop                           (left ear)
+A delicately linked gold belly chain               (on belt)
+
+You have been bestowed the following title(s):
+  Noble of the Realm
+
+l
+>[Peddlers' Inn.]
+
+Decorated with fragrant candles and garlands of dried leaves and berries, this small wagon exudes a truly festive feeling. Plush crimson red velvet floor cushions surround a small wooden table, which has intricate autumn scenes carved into its surface. A small stage rests in the northern corner for merchants to show off their wares.  Some deep crimson velvet pillows, an ornate wooden table, a deep red velvet curtain, an open round mahogany door, a sparkling hair prices sign, a rosewood length list, a carved maple styles list, an inky textures for hair list, a Book of Specialties, a cheerful red eye prices list, and a gold-trimmed shapes for eyes list are here.
+
+This room is illuminated.
+Obvious exits: None.
+go door
+>[Crystal Snowflake Village, Cottage.]
+
+As the snow falls softly on the trees, the heavens' lights give the white blanket a glistening luster like tiny gems are embroidered into the chilling cover. The light crunching of snow sounds as small animals scurry quickly through the forest. A golden glow radiates from the windows of a small stone cottage as a fire blazes inside. Shimmering swirled icicles hang over the doorway, which leads into the warm abode, and stacks of firewood rest on either side of the entryway.  An open round mahogany cottage door, a decorated colorful fir tree, and a glowing crystal street lantern are here.
+
+This area is illuminated.
+In the area are Mordos the Psycian and Tchori the Leuian.
+Obvious paths: northeast* southeast* northwest*.
+nw
+>[Silver Heart Pond, Shoreside.]
+
+Fragrant, ribbon tied, bunches of holly and mistletoe are carefully placed along a long pine fence, which lines the frozen pond. Several sitting benches are placed all about and under the snowcapped trees. Crackling, magickal fires roar all around and send sparks of light up into the air. A tall arch, carved with delicate images of snowflakes, snow Secians, and lined with living snowbells, leads the way to the pond beyond.  A tall carved archway, a glowing crystal street lantern, and a fluffy white snowball are here.
+
+This area is illuminated.
+Obvious paths: northeast* southeast*.
+get sno
+>You pick up a fluffy white snowball.
+stare
+>You stare.
+hol sno
+>You hold the fluffy white snowball close.
+cac
+>You cackle.
+go ar
+>[Silver Heart Pond, Entrance.]
+
+A pair of human children giggle merrily as they rush past you. Standing next to the railing, a massive Thugian curses loudly as he struggles to stay standing on the slick ice. Bundled in thick winter coats, parents stand on the shore and lovingly watch their young ones skate and play on the surface of the frozen lake. Wisps of grey smoke billow out from a stone chimney upon red painted cottage.  A tall carved archway, some glowing festive rainbow diamond lanterns, a long heart-shaped bench, and an open red heart-shaped door are here.
+
+This area is illuminated.
+You see the 1st turtle dove.
+Obvious paths: west*.
+>
+The turtle dove soars up into the air.
+
+go door
+[Romantic Retreat.]
+
+Candles flicker softly as shadows dance against the silk curtains that make the walls of this romantic retreat.  Plush black and burgundy velvet floor cushions are strewn invitingly about the room.  Along the northern wall, a tutor style fireplace cackles with a roaring fire. A marble-topped cabinet holds an assortment of drinks and treats.  The intoxicating scent of incense fills the room with a slightly spicy air.  Some soft black velvet floor cushions, some soft burgundy velvet floor cushions, a silver rose etched crystal candy bowl, a marble topped ebony bar, some softly glowing scented candles, a large stone fireplace, an open red heart-shaped door, and an open sliding glass double door are here.
+
+This room is illuminated.
+Obvious exits: None.
+l in bar
+>
+Inside the marble topped ebony bar you see a glass of bubbling champaign, a glass of bubbling champaign, a glass of bubbling champaign, a glass of bubbling champaign, a glass of bubbling champaign, a glass of bubbling champaign, a glass of bubbling champaign, and a glass of bubbling champaign.
+l at cus
+>I don't see what you are referring to.
+>
+l at vel
+I don't see what you are referring to.
+>
+You feel the effect of the alcohol wearing off a little.
+l at floo
+It looks like some soft black velvet floor cushions.
+>
+l in floo
+You have to open it first before you can see what is inside!
+l in can
+>There is nothing inside that.
+>
+l in fire
+Inside the large stone fireplace you see a wooden fire.
+get fire3 from fire
+>I don't see any "fire3" in there!
+get fire from fire
+>Hmmm, it appears to be stuck inside there!
+go dou
+>[Romantic Retreat, Hot Tub.]
+
+After a long afternoon of ice skating and shopping, many townsfolk come to relax and warm up. An aromatic scent of red cedar permeates the air from the large circular wooden hot tub. As the steam rises from the water, many gaze up at the mountain slopes they conquered that day, and watch the sun set behind it. Along the edge of the tub are warm cotton towels and comfortable robes.  An open sliding glass double door, a large violet cotton towel, and a flaming tall handled oil torch are here.
+
+This area is illuminated.
+Obvious paths: southwest*.
+how
+>You howl.
+ret 2
+>You retreat 2 UDs to the rear!
+[3 sec. delay]
+sk
+>
+Skill                     Remain Level
+ First Aid                 95     1     
+ Channeling                241    5     
+ Blunt Weapons             352    4     
+ Spellcasting              2515   16    
+ Turn Undead               816    7     
+ Identify Gems/Minerals    716    7     
+ Shield Parry              100    1     
+ Identify Magick           67     1     
+ Swimming                  82     2     
+
+adv 2
+>You advance another 2 UDs!
+sk
+>
+Skill                     Remain Level
+ First Aid                 95     1     
+ Channeling                241    5     
+ Blunt Weapons             352    4     
+ Spellcasting              2515   16    
+ Turn Undead               816    7     
+ Identify Gems/Minerals    716    7     
+ Shield Parry              100    1     
+ Identify Magick           67     1     
+ Swimming                  82     2     
+
+swim
+>Trying to swim without water is pretty silly don't you think?
+l
+>[Romantic Retreat, Hot Tub.]
+
+After a long afternoon of ice skating and shopping, many townsfolk come to relax and warm up. An aromatic scent of red cedar permeates the air from the large circular wooden hot tub. As the steam rises from the water, many gaze up at the mountain slopes they conquered that day, and watch the sun set behind it. Along the edge of the tub are warm cotton towels and comfortable robes.  An open sliding glass double door, a large violet cotton towel, and a flaming tall handled oil torch are here.
+
+This area is illuminated.
+Obvious paths: southwest*.
+go dou
+>[Romantic Retreat.]
+
+Candles flicker softly as shadows dance against the silk curtains that make the walls of this romantic retreat.  Plush black and burgundy velvet floor cushions are strewn invitingly about the room.  Along the northern wall, a tutor style fireplace cackles with a roaring fire. A marble-topped cabinet holds an assortment of drinks and treats.  The intoxicating scent of incense fills the room with a slightly spicy air.  Some soft black velvet floor cushions, some soft burgundy velvet floor cushions, a silver rose etched crystal candy bowl, a marble topped ebony bar, some softly glowing scented candles, a large stone fireplace, an open red heart-shaped door, and an open sliding glass double door are here.
+
+This room is illuminated.
+Obvious exits: None.
+go door
+>[Silver Heart Pond, Entrance.]
+
+A pair of human children giggle merrily as they rush past you. Standing next to the railing, a massive Thugian curses loudly as he struggles to stay standing on the slick ice. Bundled in thick winter coats, parents stand on the shore and lovingly watch their young ones skate and play on the surface of the frozen lake. Wisps of grey smoke billow out from a stone chimney upon red painted cottage.  A tall carved archway, some glowing festive rainbow diamond lanterns, a long heart-shaped bench, and an open red heart-shaped door are here.
+
+This area is illuminated.
+You see the 1st turtle dove.
+Obvious paths: west*.
+go ar
+>[Silver Heart Pond, Shoreside.]
+
+Fragrant, ribbon tied, bunches of holly and mistletoe are carefully placed along a long pine fence, which lines the frozen pond. Several sitting benches are placed all about and under the snowcapped trees. Crackling, magickal fires roar all around and send sparks of light up into the air. A tall arch, carved with delicate images of snowflakes, snow Secians, and lined with living snowbells, leads the way to the pond beyond.  A tall carved archway and a glowing crystal street lantern are here.
+
+This area is illuminated.
+Obvious paths: northeast* southeast*.
+ne
+>[Crystal Snowflake Village, Snow Sparkles Shoppe.]
+
+A small shimmering silver tent stands at edge of the village. The little tent is surrounded by glowing ice jewels suspended from poles  and tied with purple and silver streamers. A narrow path lined with fist-sized chunks of ice shaped into faceted jewels leads to the tent opening from which deligmations of Oooooo and Ahhhh can be heard. A cluster of excited Secians passes by you, each beaming at the new treasures they just bought.  A silver ribboned satin tent, a flaming warm wooden bon-fire, and a cheerful grinning snowman are here.
+
+This area is illuminated.
+In the area is Mahtina the Noble Secian.
+Obvious paths: northeast* southeast* southwest*.
+gri
+>
+Mahtina, gold and silver curls streaming behind her, just went southeast.
+You grin.
+go te
+>[Tiffany's Snow Sparkles.]
+
+The small tent is decorated in purple and silver streamers spiraling down from small, white-berried sprigs of mistletoe. Glass cases display breathtaking, glittering contents nestled in beds of deep purple velvet. At the center of the room is a jeweled moonsilver braiser radiating warm throughout the tent.  A shimmering silver satin tent flap is here.
+
+This room is illuminated.
+Obvious exits: None.
+shop list all
+>
+Id# Item Type  Item Name                                     New Amount Value
+--- ---------- --------------------------------------------- --- ------ -----
+  1 Beltpouche gold embroidered brocade gem pouch            Yes x20    180gp
+  2 Beltpouche closed satin-lined black velvet gem pouch     Yes x19    180gp
+  3 Beltpouche silver-trimmed sapphire blue silk gem pouch   Yes x19    180gp
+  4 Beltpouche velvet-lined emerald green velvet gem pouch   Yes x19    180gp
+  5 Beltpouche closed violet satin-lined velvet gem pouch    Yes x19    180gp
+  6 Earrings   red and green enameled Rinannimas tree earring Yes x20    22gp+50sp
+  7 Earrings   luminescent frosted glass dove earring        Yes x20    36gp
+  8 Helms      ruby and emerald holly cluster hairpins       Yes x20    90gp
+  9 Rings      sparkling lavender ice jewel ring             Yes x19    45gp
+ 10 Rings      glittering pale green ice jewel ring          Yes x20    45gp
+ 11 Rings      snowflake etched moonsilver band              Yes x19    72gp
+ 12 Amulets    elegant strand of creamy baroque pearls       Yes x20    72gp
+ 13 Rings      shimmering pale blue ice jewel ring           Yes x20    45gp
+ 14 Rings      radiant pale pink ice jewel ring              Yes x19    45gp
+ 15 Gauntlets  moonsilver clasped pearl Rinannimas bracelet  Yes x18    45gp
+
+go te
+>[Crystal Snowflake Village, Snow Sparkles Shoppe.]
+
+A small shimmering silver tent stands at edge of the village. The little tent is surrounded by glowing ice jewels suspended from poles  and tied with purple and silver streamers. A narrow path lined with fist-sized chunks of ice shaped into faceted jewels leads to the tent opening from which deligmations of Oooooo and Ahhhh can be heard. A cluster of excited Secians passes by you, each beaming at the new treasures they just bought.  A silver ribboned satin tent, a flaming warm wooden bon-fire, and a cheerful grinning snowman are here.
+
+This area is illuminated.
+In the area is Grad the Noble Thugian.
+Obvious paths: northeast* southeast* southwest*.
+gig
+>You giggle.
+>
+Grad just went through a silver ribboned satin tent.
+l in sno
+You have to open it first before you can see what is inside!
+>
+Grad just entered through a silver ribboned satin tent.
+l at sno
+It looks like a fluffy white snowball.
+>
+Grad frowns.
+l in snowm
+You have to open it first before you can see what is inside!
+rai
+>You raise an eyebrow.
+l
+>[Crystal Snowflake Village, Snow Sparkles Shoppe.]
+
+A small shimmering silver tent stands at edge of the village. The little tent is surrounded by glowing ice jewels suspended from poles  and tied with purple and silver streamers. A narrow path lined with fist-sized chunks of ice shaped into faceted jewels leads to the tent opening from which deligmations of Oooooo and Ahhhh can be heard. A cluster of excited Secians passes by you, each beaming at the new treasures they just bought.  A silver ribboned satin tent, a flaming warm wooden bon-fire, and a cheerful grinning snowman are here.
+
+This area is illuminated.
+In the area is Grad the Noble Thugian.
+Obvious paths: northeast* southeast* southwest*.
+>
+Grad asks, "weers ebberbuddy?"
+' all southeast
+
+Glinka says, " all southeast"
+>
+Grad grins at you.
+
+Grad says, "tanks"
+gig
+You giggle.
+wav
+>You wave.
+>
+Grad just went southeast.
+ne
+[Crystal Snowflake Village.]
+
+A grinning Flerian runs in from the candle lined path holding a packed white snowball. Howling with glee, he tosses a snowball in your direction. As quickly as he appeared, he turns and suddenly dashes off back down the path. Cobblestone steps lead up to a festive cottage decorated in lavish holly and ivy garland.  A dove emblazoned banner on a silver pole, a candle lined path, a glowing crystal street lantern, an open heavy banded oak door to a cottage, and a white snow drift are here.
+
+This area is illuminated.
+Obvious paths: northeast* southeast* southwest*.
+l at pa
+>It looks like a candle lined path.
+l through pa
+l under pa
+l behind pa
+l on pa
+l in pa
+>[Snow Pit Platform.]
+
+A large wooden platform, caked with slush mud, snow, and other materials of unknown origin, stands slightly raised and dominates most of the area. The occasional go-blin-al wanders in, half stumbling, and jumps over the edge of the scaffold into the snowy depths below.  A candle lined path, an iron banded wooden barrel of moonshine, and a fluffy white snow drift are here.
+
+This room is illuminated.
+Obvious exits: None.
+>There is nothing underneath that.
+>There is nothing behind that.
+>There is nothing on top of that.
+>There is nothing inside that.
+go pa
+>[Snow Pit Platform.]
+
+A large wooden platform, caked with slush mud, snow, and other materials of unknown origin, stands slightly raised and dominates most of the area. The occasional go-blin-al wanders in, half stumbling, and jumps over the edge of the scaffold into the snowy depths below.  A candle lined path, an iron banded wooden barrel of moonshine, and a fluffy white snow drift are here.
+
+This room is illuminated.
+Obvious exits: None.
+l in drif
+>I don't see what you are referring to.
+put sno in clo
+>You place the fluffy white snowball within your white silk cloak.
+l in sno
+>There is nothing inside that.
+>
+One of your feet decides its time to go exploring on its own!  You try to catch yourself!
+go pa
+
+As you attempt to move, you slip and lose your balance!
+stand quickly
+    You stumble and fall down!
+
+stand
+You fall...
+
+[Snow Pit.]
+
+Wet slippery snow and ice covers everyone and everything that stands in the area. A distant shout, soft and remote, crescendos to a deafening tone before ending abruptly with a loud thud and large splash only a few paces away. Snow flies in all directions, followed by the occasional blade and blunt. Duck!  An icy muddy steel ladder, a fluffy white snow drift, and a white snow drift are here.
+
+This room is illuminated.
+Obvious exits: None.
+
+stand
+You fall 15 feet!
+You are hit in the head!
+Your head takes 1 point of crushing damage!
+>You stand up quickly.
+You are already standing!
+fly up 10
+You are already standing!
+[5 sec. delay]
+You take a few steps and soar 10 feet into the air!
+>
+ ** Current fatigue: 62 out of 65
+l in sno
+There is nothing inside that.
+l in 2 snoi
+>I don't see what you are referring to.
+l in 2 sno
+>There is nothing inside that.
+go lad
+>[Snow Pit, Midway.]
+
+A flying body falls from above and continues its way past this midway station. Footing is unsure, as the rungs of the ladder are slippery and difficult to hold on to. Shouts and cheers sound from both above and below.  An icy muddy steel ladder is here.
+
+This room is illuminated.
+Obvious exits: None.
+go lad
+>
+As you pass through, there is a twist, and a feeling of distance...
+
+[Snow Pit Platform.]
+
+A large wooden platform, caked with slush mud, snow, and other materials of unknown origin, stands slightly raised and dominates most of the area. The occasional go-blin-al wanders in, half stumbling, and jumps over the edge of the scaffold into the snowy depths below.  A candle lined path, an iron banded wooden barrel of moonshine, and a fluffy white snow drift are here.
+
+This room is illuminated.
+Obvious exits: None.
+go pa
+>[Crystal Snowflake Village.]
+
+A grinning Flerian runs in from the candle lined path holding a packed white snowball. Howling with glee, he tosses a snowball in your direction. As quickly as he appeared, he turns and suddenly dashes off back down the path. Cobblestone steps lead up to a festive cottage decorated in lavish holly and ivy garland.  A dove emblazoned banner on a silver pole, a candle lined path, a glowing crystal street lantern, an open heavy banded oak door to a cottage, a white snow drift, and a fluffy white snowball are here.
+
+This area is illuminated.
+Obvious paths: northeast* southeast* southwest*.
+land
+dance softly upon the Earth-Mother's skin...
+>You fly down and land.
+>You dance softly upon the Earth-Mother's skin...
+go door
+>[Crystal Snowflake Village, Holiday Hovel.]
+
+The thick scent of freshly cut holly hangs in the air of this warm shop. A roaring fire crackles in the stone fireplace near the front door. A long display case filled with finery of every imaginable type rests near the back wall of the shop as the soft sound of holiday music drifts along in the air.  An open heavy banded oak door, a beaded azure curtain, and an open glass jar are here.
+
+This room is illuminated.
+Obvious exits: east*.
+go door
+>[Crystal Snowflake Village.]
+
+A grinning Flerian runs in from the candle lined path holding a packed white snowball. Howling with glee, he tosses a snowball in your direction. As quickly as he appeared, he turns and suddenly dashes off back down the path. Cobblestone steps lead up to a festive cottage decorated in lavish holly and ivy garland.  A dove emblazoned banner on a silver pole, a candle lined path, a glowing crystal street lantern, an open heavy banded oak door to a cottage, a white snow drift, and a fluffy white snowball are here.
+
+This area is illuminated.
+Obvious paths: northeast* southeast* southwest*.
+get sno
+>Hmmm, it appears to be stuck in place!
+l at sno
+>It looks like a white snow drift.
+get 2 sno
+>You pick up a fluffy white snowball.
+put sno in clo
+>You place the fluffy white snowball within your white silk cloak.
+go door
+>[Crystal Snowflake Village, Holiday Hovel.]
+
+The thick scent of freshly cut holly hangs in the air of this warm shop. A roaring fire crackles in the stone fireplace near the front door. A long display case filled with finery of every imaginable type rests near the back wall of the shop as the soft sound of holiday music drifts along in the air.  An open heavy banded oak door, a beaded azure curtain, and an open glass jar are here.
+
+This room is illuminated.
+Obvious exits: east*.
+shop list all
+>
+Id# Item Type  Item Name                                     New Amount Value
+--- ---------- --------------------------------------------- --- ------ -----
+  1 Cloaks     rune-embroidered satin cleric's sash          Yes x9     40gp
+  2 Drink      burnished jeweled gold ceremonial chalice     Yes x9     20gp
+  3 Torches    large cinnamon scented meditation candle      Yes x9     15gp
+  4 Torches    large tapered white ritual candle             Yes x10    15gp
+  5 Misc       closed emblazoned oiled suede prayer book     Yes x6     5gp
+  6 Beltpouche closed black leather scroll case              Yes x8     2gp
+  7 Dresses    flowing silver clasped linen clerical robe    Yes x9     40gp
+  8 Wpn/Blunt  short enchanting white ash clerical ritual staff Yes x7     10gp
+  9 Amulets    silver-stringed dove-etched medallion         Yes x9     10gp
+ 10 Amulets    silver-stringed vulture-etched medallion      Yes x10    10gp
+ 11 Amulets    silver-stringed bear-etched medallion         Yes x6     10gp
+ 12 Amulets    silver-stringed dragon-etched medallion       Yes x9     10gp
+ 13 Amulets    silver-stringed tiger-etched medallion        Yes x10    10gp
+ 14 Amulets    silver-stringed serpent-headed medallion      Yes x9     10gp
+ 15 Amulets    silver-stringed eagle-etched medallion        Yes x9     10gp
+ 16 Torches    small frosted violet glass lantern            Yes x5     7gp+50sp
+
+l in jar
+>There is nothing inside that.
+go cur
+>[Holiday Hovel Workshop.]
+
+A long table scatterd with bits of material and gems sits in the center of the room. A workbench sits near the table where the gifts are created. Stacks of crates line the rear wall next to a fireplace that casts a warm glow throughout the area. The faint scent of honey and holly permeates the area.  A beaded azure curtain is here.
+
+This area is illuminated.
+Obvious paths: None.
+shop list all
+>There is no shop here!
+go cur
+>[Crystal Snowflake Village, Holiday Hovel.]
+
+The thick scent of freshly cut holly hangs in the air of this warm shop. A roaring fire crackles in the stone fireplace near the front door. A long display case filled with finery of every imaginable type rests near the back wall of the shop as the soft sound of holiday music drifts along in the air.  An open heavy banded oak door, a beaded azure curtain, and an open glass jar are here.
+
+This room is illuminated.
+Obvious exits: east*.
+go door
+>[Crystal Snowflake Village.]
+
+A grinning Flerian runs in from the candle lined path holding a packed white snowball. Howling with glee, he tosses a snowball in your direction. As quickly as he appeared, he turns and suddenly dashes off back down the path. Cobblestone steps lead up to a festive cottage decorated in lavish holly and ivy garland.  A dove emblazoned banner on a silver pole, a candle lined path, a glowing crystal street lantern, an open heavy banded oak door to a cottage, and a white snow drift are here.
+
+This area is illuminated.
+In the area is Starlyn the Noble Secian.
+Obvious paths: northeast* southeast* southwest*.
+>
+Starlyn, gossamer wings fluttering behind her, just went southwest.
+gri
+You grin.
+ne
+>[Crystal Snowflake Village, Clothing Wagon.]
+
+Hard packed snow gives way to a steep hill. The ground continues to slope upward. Children laugh and giggle as the slide down the hill on wooden sleds. At the top of the hill, a leather covered wagon rests. Two sable horses with warm fur blankets stand beside the wagon.  Some glowing dove etched moonstone globes and a large wagon are here.
+
+This area is illuminated.
+Obvious paths: north* southeast* southwest*.
+l at glo
+>It looks like some glowing dove etched moonstone globes.
+It appears to have 8998 minute(s) worth of light left.
+go wag
+>[Crystal Snowflake Village, Clothing Shoppe.]
+
+Scented with spicy cinnamon and fragrant orange, this roomy wagon feels warm and cozy. Dark red velvet completely covers the walls, keeping the cold winter wind outside. For the tired and weary, some plush red velvet chairs have been placed by the wagon door. Upon highly polished deep cheery wood tables; festival clothing has been laid out for purchase. A decorated sign on hanging over head reads, "Coloring available in the back room."  A wagon door and a wide arch are here.
+
+This room is illuminated.
+In the room is Twilight the Noble Secian.
+Obvious exits: None.
+shop list all
+>
+Id# Item Type  Item Name                                     New Amount Value
+--- ---------- --------------------------------------------- --- ------ -----
+  1 Helms      fluffy fleece winter earmuffs                 Yes x18    70sp
+  2 Helms      wool winter hat                               Yes x18    70sp
+  3 Gauntlets  wool winter gloves                            Yes x20    70sp
+  4 Gauntlets  fur-trimmed linen gloves                      Yes x20    70sp
+  5 Gauntlets  velvet-lined wool gloves                      Yes x19    70sp
+  6 Gauntlets  fuzzy fleece mittens                          Yes x20    70sp
+  7 Amulets    dove embroidered tasseled scarf               Yes x20    70sp
+  8 Amulets    striped knitted scarf                         Yes x19    70sp
+  9 Shirts     flannel pajama tops                           Yes x20    2gp+10sp
+ 10 Pants      flannel pajama pants                          Yes x20    2gp+10sp
+ 11 Shirts     soft turtleneck sweater                       Yes x19    2gp+10sp
+ 12 Shirts     knitted wool sweater                          Yes x20    2gp+10sp
+ 13 Shirts     buttoned fleece winter shirt                  Yes x20    2gp+10sp
+ 14 Cloaks     long wool winter coat                         Yes x19    10gp+50sp
+ 15 Cloaks     long linen trench coat                        Yes x20    10gp+50sp
+ 16 Cloaks     flowing velvet hooded cloak                   Yes x16    10gp+50sp
+ 17 Amulets    organza ribbon choker                         Yes x19    3gp+50sp
+ 18 Torches    mahogany crystal tipped staff                 Yes x19    10gp+50sp
+
+smi at r gently, winking..
+>I don't see what you are referring to.
+>
+Twilight glances at you.
+
+Twilight smiles softly.
+
+snu with Twilight
+Twilight nuzzles you.
+You snuggle with Twilight.
+smi at tw delicately , brushing back her kinky white hair
+>You smile at Twilight delicately , brushing back her kinky white hair.
+>
+Twilight says to Glinka, "I am simply horrible at this."
+gig
+You giggle.
+' shopping?
+>
+Glinka asks, " shopping?"
+stare at t
+>You stare at Twilight.
+>
+Twilight says, "both Laetus and Mieglyn bought me gifts. I havena a clue."
+gri to t
+You grin to Twilight.
+' scarfs are allways nice
+>
+Glinka says, " scarfs are allways nice"
+furr
+>You furrow your brow.
+>
+Twilight shrugs.
+
+Syai's group just entered through a wagon door.
+gri
+You grin.
+l
+>[Crystal Snowflake Village, Clothing Shoppe.]
+
+Scented with spicy cinnamon and fragrant orange, this roomy wagon feels warm and cozy. Dark red velvet completely covers the walls, keeping the cold winter wind outside. For the tired and weary, some plush red velvet chairs have been placed by the wagon door. Upon highly polished deep cheery wood tables; festival clothing has been laid out for purchase. A decorated sign on hanging over head reads, "Coloring available in the back room."  A wagon door and a wide arch are here.
+
+This room is illuminated.
+You see the 1st bat (wearing a small gold collar).
+In the room are Twilight the Noble Secian, Syai the Noble Drake, and Silran the Secian.
+Obvious exits: None.
+>
+Syai says, "it will lwave tonight"
+hu sy
+You hug Syai.
+hu sil
+>You hug Silran.
+hu t
+>You hug Twilight.
+>
+Syai smiles.
+
+lean head Silran her long soft hair flying about...
+hug Silran long and tyte
+Silran hugs you.
+You lean your head on Silran's shoulder her long soft hair flying about...
+>You hug Silran long and tyte.
+>
+Twilight says, "I hate to get someone somthing just because I feel obgligated to get them a nick nack."
+
+snu with Silran
+Silran nuzzles you.
+You snuggle with Silran.
+>
+Twilight asks Syai, "Leave?"
+
+Silran nuzzles Twilight.
+gig to tw
+You giggle to Twilight.
+>
+Twilight nuzzles Silran.
+
+Syai ponders the meaning of the universe for a moment.
+go door
+
+Syai sighs.
+I don't see what you are referring to.
+go wag
+>[Crystal Snowflake Village, Clothing Wagon.]
+
+Hard packed snow gives way to a steep hill. The ground continues to slope upward. Children laugh and giggle as the slide down the hill on wooden sleds. At the top of the hill, a leather covered wagon rests. Two sable horses with warm fur blankets stand beside the wagon.  Some glowing dove etched moonstone globes, a large wagon, and a red and white candy cane are here.
+
+This area is illuminated.
+Obvious paths: north* southeast* southwest*.
+get can
+>You pick up a red and white candy cane.
+>
+Syai's group just entered through a large wagon.
+stare
+You stare.
+whist
+>You whistle.
+>
+hold Silran too!
+Silran holds you close.
+
+Syai's group just went north.
+I don't see what you are referring to.
+put can in clo
+>You place the red and white candy cane within your white silk cloak.
+>
+Syai's group just entered from the north.
+
+Syai's group just went southwest.
+n
+[Crystal Snowflake Village, Shivering Dove River.]
+
+At the top of the steep hill, the magnificent landscape of the Silver Mountain stretches all around Crystal Snowflake Village, cradling the holiday town at its base. The path makes a sharp turn upwards along a stream, filled with icy chunks and flickering silver and gold fish. A few courageous Hithuals stand along the riverbank as they prepare to go ice diving.  An intricately carved ice bridge and a cheerful grinning snowman are here.
+
+This area is illuminated.
+You see the 1st cheerful caroler.
+Obvious paths: south*.
+go bri
+>[Crystal Snowflake Peak.]
+
+Golden lights from the celestial globe shimmer softly on the icicles which hang like spiraled ornaments from the leafless trees. While the white-capped waters roll by, stout Hithuals stand steadily on large chunks of ice that float down stream. The warmly dressed lads and lasses cast their lines with a swirl of the wrist then a quick flip forward to allow for the line to dive deeply into the icy waters.  An intricately carved ice bridge, a sparkling white snowdrift, and a glowing crystal street lantern are here.
+
+This area is illuminated.
+Obvious paths: north*.
+l in sno
+>There is nothing inside that.
+n
+>[Crystal Snowflake Peak.]
+
+The walkway to the Rinanni pavilion has been draped in flowing violet bunting adorned with thousands of tiny white roses. A gentle breeze wafts through, making the cloth undulate gracefully. The snow falls softly upon the frozen winter flowers, which twinkle like scintillating diamonds as bluebirds and doves flutter through the air.  A rose entwined pearl pavilion and a sparkling hand-carved ice dove statue are here.
+
+This area is illuminated.
+You see the 1st cheerful caroler.
+Obvious paths: south*.
+go pav
+>[Rinanni Pavilion.]
+
+Comfortably warm air swirls around you, its source a giant sphere of soft, white light hovering near the peak of the pavilion's ceiling. The sphere illuminates every corner of the pavilion. Elegant twists of violet silks form an airy canopy, as white roses entwine delicately around the white lattice walls of the pavilion, creating a magickal scene against the backdrop of the mountains.  A rose entwined pearl pavilion is here.
+
+This room is illuminated.
+Obvious exits: north*.
+shop list all
+>There is no shop here!
+n
+>[Rinanni Shrine.]
+
+Winter white lilies and violet roses entwine with ivy to make delicate garlands and wreaths, which adorn a small crystal shrine to Rinanni. Dancing softly with the wind, an eternal flame burns inside the shrine. Its pure light shines as a beacon of peace and love, surrendering a celestial glow on the faces of those who gather in worship of the White Lady.  A glistening pure white ice statue of Rinanni is here.
+
+This room is illuminated.
+Obvious exits: south*.
+beam
+>You beam.
+l at stat
+>It looks like a glistening pure white ice statue of Rinanni.
+l in stat
+>You have to open it first before you can see what is inside!
+s
+>[Rinanni Pavilion.]
+
+Comfortably warm air swirls around you, its source a giant sphere of soft, white light hovering near the peak of the pavilion's ceiling. The sphere illuminates every corner of the pavilion. Elegant twists of violet silks form an airy canopy, as white roses entwine delicately around the white lattice walls of the pavilion, creating a magickal scene against the backdrop of the mountains.  A rose entwined pearl pavilion is here.
+
+This room is illuminated.
+Obvious exits: north*.
+go pa
+>[Crystal Snowflake Peak.]
+
+The walkway to the Rinanni pavilion has been draped in flowing violet bunting adorned with thousands of tiny white roses. A gentle breeze wafts through, making the cloth undulate gracefully. The snow falls softly upon the frozen winter flowers, which twinkle like scintillating diamonds as bluebirds and doves flutter through the air.  A rose entwined pearl pavilion and a sparkling hand-carved ice dove statue are here.
+
+This area is illuminated.
+You see the 1st cheerful caroler.
+Obvious paths: south*.
+s
+>[Crystal Snowflake Peak.]
+
+Golden lights from the celestial globe shimmer softly on the icicles which hang like spiraled ornaments from the leafless trees. While the white-capped waters roll by, stout Hithuals stand steadily on large chunks of ice that float down stream. The warmly dressed lads and lasses cast their lines with a swirl of the wrist then a quick flip forward to allow for the line to dive deeply into the icy waters.  An intricately carved ice bridge, a sparkling white snowdrift, and a glowing crystal street lantern are here.
+
+This area is illuminated.
+Obvious paths: north*.
+go bri
+>[Crystal Snowflake Village, Shivering Dove River.]
+
+At the top of the steep hill, the magnificent landscape of the Silver Mountain stretches all around Crystal Snowflake Village, cradling the holiday town at its base. The path makes a sharp turn upwards along a stream, filled with icy chunks and flickering silver and gold fish. A few courageous Hithuals stand along the riverbank as they prepare to go ice diving.  An intricately carved ice bridge and a cheerful grinning snowman are here.
+
+This area is illuminated.
+You see the 1st cheerful caroler.
+Obvious paths: south*.
+s
+>[Crystal Snowflake Village, Clothing Wagon.]
+
+Hard packed snow gives way to a steep hill. The ground continues to slope upward. Children laugh and giggle as the slide down the hill on wooden sleds. At the top of the hill, a leather covered wagon rests. Two sable horses with warm fur blankets stand beside the wagon.  Some glowing dove etched moonstone globes and a large wagon are here.
+
+This area is illuminated.
+In the area is Mahtina the Noble Secian.
+Obvious paths: north* southeast* southwest*.
+>
+Mahtina, gold and silver curls streaming behind her, just went through a large wagon.
+se
+[Crystal Snowflake Village, Saniver's Toy Chest.]
+
+The wind whistles shrilly, penetrating the thick fibers of your cloak despite your valiant efforts to disappear within it. A disgruntled Ranger slides past you, muttering something about fur-lined boots. Through the trees, children and couples glide smoothly in swirling figures on the Silver Heart Pond. A wagon, painted in a variety of bright colors, stands beside the shoreline. Beside it, a make-shift stall houses a pair of black mares covered in thick wool blankets, contentedly munching oats from feed bags.  A glowing crystal street lantern, an open brightly painted mahogany wagon door, a twinkling ice wreath of Rathene roses, and a red and white candy cane are here.
+
+This area is illuminated.
+Obvious paths: southeast* southwest* northwest*.
+get can
+>You pick up a red and white candy cane.
+gig
+>You giggle.
+put can in clo
+>You place the red and white candy cane within your white silk cloak.
+go door
+>I don't see what you are referring to.
+go wag
+>[Festival Wagon, Gifts and Toy Chest.]
+
+Sprigs of holly and mistletoe decorate the waiting room of Sanvier's wagon. Beautiful strings of precious gems hang from the walls above the seats where patrons rest to await the master toy crafter. A small display table rests against the far wall, proudly displaying Sanvier's first creation.  An open brightly painted wooden wagon door, a closed glass display case, a note card, a cushioned chair, a marble game board table, and a cushioned chair are here.
+
+This room is illuminated.
+You see the 1st worried-looking toymaker.
+Obvious exits: None.
+shop list all
+>
+Id# Item Type  Item Name                                     New Amount Value
+--- ---------- --------------------------------------------- --- ------ -----
+  1 Misc       tiny horse drawn sleigh toy                   Yes x7     3gp
+  2 Misc       miniature war oliphant plush toy              Yes x6     3gp
+  3 Misc       closed black and white checked marble board   Yes x3     50gp
+  4 Misc       plush magickal unicorn doll                   Yes x3     3gp
+  5 Misc       orange and black striped tiger plush toy      Yes x8     3gp
+  6 Misc       delicate amber glass perfume atomizer         Yes x8     3gp
+  7 Drink      closed bottle of pink bubbles                 Yes x8     2gp
+  8 Wpn/None   closed dove painted paper lady's fan          Yes x10    2gp+50sp
+ 10 Misc       radiant princess doll                         Yes x9     3gp
+ 11 Dice       ivory dice                                    Yes x10    10gp
+
+l in dis
+>Inside the closed glass display case you see a stuffed Fir Elf and bow doll.
+re no
+>
+The note card reads:
+"Looking for gift boxes to wrap that special gift? Tylia's shoppe sells them."
+>
+'toy, why so worried?
+
+Glinka asks the worried-looking toymaker, "why so worried?"
+>
+Mahtina just entered through an open brightly painted wooden wagon door.
+
+nuz 
+cud Mahtina
+Mahtina cuddles with you.
+You must specify a target with this command.
+>You cuddle with Mahtina.
+>
+The worried-looking toymaker glances around nervously, looking for someone or something..
+'toy, why are you worried looking?
+
+Glinka asks the worried-looking toymaker, "why are you worried looking?"
+smi at ma impishly, tossing her long soft hair back...
+>You smile at Mahtina impishly, tossing her long soft hair back...
+>
+Mahtina grins.
+
+Mahtina, gold and silver curls streaming behind her, just went through an open brightly painted wooden wagon door.
+'toy, what are you looing for
+
+Glinka says to the worried-looking toymaker, "what are you looing for"
+flai
+>You flail your arms about wildly.
+l
+>[Festival Wagon, Gifts and Toy Chest.]
+
+Sprigs of holly and mistletoe decorate the waiting room of Sanvier's wagon. Beautiful strings of precious gems hang from the walls above the seats where patrons rest to await the master toy crafter. A small display table rests against the far wall, proudly displaying Sanvier's first creation.  An open brightly painted wooden wagon door, a closed glass display case, a note card, a cushioned chair, a marble game board table, and a cushioned chair are here.
+
+This room is illuminated.
+You see the 1st worried-looking toymaker.
+Obvious exits: None.
+grum
+>You grumble.
+' toys?
+>
+Glinka asks, " toys?"
+
+The worried-looking toymaker says, "Some of my toys have been possessed by something evil, I need help to save my shop."
+' what help do you need?
+>
+Glinka asks, " what help do you need?"
+
+The worried-looking toymaker says, "If anyone wishes to help, the wizard will transport you to my shop, where you can stop the toys from demolishing what's left of my work."
+>
+' where is the wizzaed?
+
+Glinka asks, " where is the wizzaed?"
+' where is the wizzard?
+>
+Glinka asks, " where is the wizzard?"
+>
+flai
+You flail your arms about wildly.
+>
+' transport?
+
+Glinka asks, " transport?"
+
+The worried-looking toymaker says, "Simply step inside the archway and the wizard will transport you there."
+>
+pok ar
+You poke the quiver of bark arrows.
+pok arc
+>I don't see what you are referring to.
+>
+l
+[Festival Wagon, Gifts and Toy Chest.]
+
+Sprigs of holly and mistletoe decorate the waiting room of Sanvier's wagon. Beautiful strings of precious gems hang from the walls above the seats where patrons rest to await the master toy crafter. A small display table rests against the far wall, proudly displaying Sanvier's first creation.  An open brightly painted wooden wagon door, a closed glass display case, a note card, a cushioned chair, a marble game board table, and a cushioned chair are here.
+
+This room is illuminated.
+You see the 1st worried-looking toymaker.
+Obvious exits: None.
+>
+go door
+I don't see what you are referring to.
+>
+go wag
+[Crystal Snowflake Village, Saniver's Toy Chest.]
+
+The wind whistles shrilly, penetrating the thick fibers of your cloak despite your valiant efforts to disappear within it. A disgruntled Ranger slides past you, muttering something about fur-lined boots. Through the trees, children and couples glide smoothly in swirling figures on the Silver Heart Pond. A wagon, painted in a variety of bright colors, stands beside the shoreline. Beside it, a make-shift stall houses a pair of black mares covered in thick wool blankets, contentedly munching oats from feed bags.  A glowing crystal street lantern, an open brightly painted mahogany wagon door, and a twinkling ice wreath of Rathene roses are here.
+
+This area is illuminated.
+Obvious paths: southeast* southwest* northwest*.
+>
+Syai's group just entered from the southeast.
+
+Silran asks Syai, "what you say yes too?"
+
+Syai's group just went northwest.
+se
+[Crystal Snowflake Village, Love Bird Corner.]
+
+A large wooden sign, reading, "Welcome to Love Bird Corner!" stands in the deep snow to the side of the path. Below the enormous sign, a rosewood kissing booth stands. Whimsical sketches of twists and swirls, mimicking the soft curve of pouty lips, decorates the rosewood.  A glowing festive rainbow garland of stars, an intricately carved rosewood kissing booth, a pair of cheerful kissing snow people, and some fresh white snow on the ground are here.
+
+This area is illuminated.
+Obvious paths: southeast* southwest* northwest*.
+>
+se
+[Crystal Snowflake Village, Peddle Wagon]
+
+Hard packed snow show the trail of wagon wheels. The ground behind the wagon slopes steeply upward.  Children laugh and giggle as the slide down the hill on wooden sleds. At the top of the hill, a leather covered wagon rests. Two sable horses with warm fur blankets stand beside the wagon.  A glowing candle filled crystal street lantern, an open large broad mahogany wagon, a fresh white snow drift, and a dove emblazoned banner on a silver pole are here.
+
+This area is illuminated.
+Obvious paths: southwest* northwest*.
+>
+l in sno
+There is nothing inside that.
+l at ban
+>It looks like some twinkling rainbow crystal bangles.
+>
+
+l at bann
+It looks like a dove emblazoned banner on a silver pole.
+go wag
+shop list all
+>[Armor Shop Wagon.]
+
+A pungent mix of odors assails your senses as you step into the huge mahogany wagon. Noxious chemical fumes arise from several steaming vats to your left. They combine with the distinctive smell of hot metal that comes from the forge. A complex series of steam powered fans suck the fumes from the vats into several tin tubes in the ceiling, presumably to keep the chemicals from combusting in the forge's heat.  An open mahogany wagon door, a dull blackened iron anvil, and a glowing smoking fiery steel forge are here.
+
+This room is illuminated.
+Obvious exits: None.
+>There is no shop here!
+go wag
+>[Crystal Snowflake Village, Peddle Wagon]
+
+Hard packed snow show the trail of wagon wheels. The ground behind the wagon slopes steeply upward.  Children laugh and giggle as the slide down the hill on wooden sleds. At the top of the hill, a leather covered wagon rests. Two sable horses with warm fur blankets stand beside the wagon.  A glowing candle filled crystal street lantern, an open large broad mahogany wagon, a fresh white snow drift, and a dove emblazoned banner on a silver pole are here.
+
+This area is illuminated.
+Obvious paths: southwest* northwest*.
+>
+sw
+[Crystal Snowflake Village, Snow Coliseum.]
+
+Curls of flames lick the crisp air as a cloud of smoke eddies upward, weaving a snaky trail through the sky. The sweet, spicy scent of burning wood carries on the air, giving warmth to the stinging chill of the rushing wind. A circle of merrymakers sit around the fire, warming their hands as others chase and dance through the leafless trees and mounds of snow.  A tall oak leafless tree, an engraved bone arch, a glowing wooden bon-fire, and a white snow drift are here.
+
+This area is illuminated.
+Obvious paths: northeast* southwest* northwest*.
+>
+l at ar
+It looks like a quiver of bark arrows.
+There are 30 arrows in there.
+l through ar
+l under ar
+l behind ar
+l on ar
+l in ar
+>You can't see through that!
+>There is nothing underneath that.
+>There is nothing behind that.
+>There is nothing on top of that.
+>You have to open it first before you can see what is inside!
+l at arc
+>It looks like an engraved bone arch.
+l through arc
+l under arc
+l behind arc
+l on arc
+l in arc
+>[Snow Coliseum.]
+
+The air of excitement down in this small snow pit is palpable. The crowds mill about, some mute with trepidation, others proclaiming loudly which icy gladiator will triumph in the matches. Upon entering the elliptical Coliseum of snow, visitors climb sloping ramps to tiers of icy seats. A fence surrounds the fighting arena, trying to hide it away from the do gooders standing up in the village.  An open gate and an engraved bone arch are here.
+
+This area is illuminated.
+Obvious paths: None.
+>There is nothing underneath that.
+>There is nothing behind that.
+>There is nothing on top of that.
+>There is nothing inside that.
+go ar
+>[Snow Coliseum.]
+
+The air of excitement down in this small snow pit is palpable. The crowds mill about, some mute with trepidation, others proclaiming loudly which icy gladiator will triumph in the matches. Upon entering the elliptical Coliseum of snow, visitors climb sloping ramps to tiers of icy seats. A fence surrounds the fighting arena, trying to hide it away from the do gooders standing up in the village.  An open gate and an engraved bone arch are here.
+
+This area is illuminated.
+Obvious paths: None.
+go gate
+>[Snow, Coliseum.]
+
+A silver mist swirls above a slated wooden floor that covers the subterranean chambers where the gladiators as well as the animals were kept prior to battle.  An open gate is here.
+
+This room is illuminated.
+Obvious exits: None.
+go gate
+>[Snow Coliseum.]
+
+The air of excitement down in this small snow pit is palpable. The crowds mill about, some mute with trepidation, others proclaiming loudly which icy gladiator will triumph in the matches. Upon entering the elliptical Coliseum of snow, visitors climb sloping ramps to tiers of icy seats. A fence surrounds the fighting arena, trying to hide it away from the do gooders standing up in the village.  An open gate and an engraved bone arch are here.
+
+This area is illuminated.
+Obvious paths: None.
+go ar
+>[Crystal Snowflake Village, Snow Coliseum.]
+
+Curls of flames lick the crisp air as a cloud of smoke eddies upward, weaving a snaky trail through the sky. The sweet, spicy scent of burning wood carries on the air, giving warmth to the stinging chill of the rushing wind. A circle of merrymakers sit around the fire, warming their hands as others chase and dance through the leafless trees and mounds of snow.  A tall oak leafless tree, an engraved bone arch, a glowing wooden bon-fire, and a white snow drift are here.
+
+This area is illuminated.
+You see the 1st festival patron.
+Obvious paths: northeast* southwest* northwest*.
+>
+The festival patron returns to center rank.
+sw
+[Crystal Snowflake Village, Tylia's Tent.]
+
+Towering trees, baron of leaves, creak as gust of wind move their aging branches. Gleaming fresh fallen snow rest gently in their arms. Perched above, a snowy owl, calls out suddenly towards those below. A gentle wind whines a slow, lingering song as the path winds itself towards the entrance of a quaint black velvet tent.  A dove emblazoned banner on a silver pole, an open deep black velvet tent, a glowing wooden bon-fire, and some glowing festive rainbow diamond lanterns are here.
+
+This area is illuminated.
+You see the 1st cheerful young human caroller.
+In the area is Dunkan the Hithual.
+Obvious paths: northeast* southwest* northwest*.
+>
+The cheerful young human caroller spits on the ground.
+go te
+[Tylia's Festival Tent.]
+
+Black and silver silk streamers, entwined in twists and swirls, hang all around this airy tent. Comfortable warm air radiates around you from slow burning vanilla scented candles resting on tall wrought iron posts. The golden light produced bounces off slow spinning crescent moon crystals hung upon thin silver thread from the tents ceiling. Their rainbow light sparkles as they cast prisms on the hay covered floor.  An open deep black velvet tent flap and a glimmering beaded curtain are here.
+
+This room is illuminated.
+Obvious exits: None.
+shop list all
+>
+Id# Item Type  Item Name                                     New Amount Value
+--- ---------- --------------------------------------------- --- ------ -----
+  1 Chests     closed wrapped ribbon tied blue gift box      Yes x9     5gp
+  2 Chests     closed snowflake patterned violet gift box    Yes x11    5gp
+  3 Chests     closed wrapped forest green gift box          Yes x13    5gp
+  4 Chests     closed ribbon tied yellow and white gift box  Yes x12    5gp
+  5 Chests     closed wrapped ribbon tied present            Yes x12    5gp
+  6 Chests     closed small black velvet ribbon tied present Yes x10    5gp
+
+go cur
+>[Back Room.]
+
+Black and silver silk streamers, entwined in twists and swirls, continue through the back area of the tent. Comfortable warm air radiates around you from slow burning vanilla scented candles resting on tall wrought iron posts. Dominating the center of the room presides a mahogany finished vanity dressing table with a large elegant mirror attached to it. A plush red chair rests in front of it welcoming you to sit down. Scattered on top of the table are various mirrors, combs, brushes, and hair dyes. In the background, the soft, peaceful ringing of wind chimes can be heard.  A mahogany vanity dressing table, a mirror, a plush red chair, and a glimmering beaded curtain are here.
+
+This room is illuminated.
+Obvious exits: None.
+shop list all
+>There is no shop here!
+l in mir
+>Inside the mirror you see yourself gazing back.
+gig
+>You giggle.
+go cur
+>[Tylia's Festival Tent.]
+
+Black and silver silk streamers, entwined in twists and swirls, hang all around this airy tent. Comfortable warm air radiates around you from slow burning vanilla scented candles resting on tall wrought iron posts. The golden light produced bounces off slow spinning crescent moon crystals hung upon thin silver thread from the tents ceiling. Their rainbow light sparkles as they cast prisms on the hay covered floor.  An open deep black velvet tent flap and a glimmering beaded curtain are here.
+
+This room is illuminated.
+Obvious exits: None.
+go te
+>[Crystal Snowflake Village, Tylia's Tent.]
+
+Towering trees, baron of leaves, creak as gust of wind move their aging branches. Gleaming fresh fallen snow rest gently in their arms. Perched above, a snowy owl, calls out suddenly towards those below. A gentle wind whines a slow, lingering song as the path winds itself towards the entrance of a quaint black velvet tent.  A dove emblazoned banner on a silver pole, an open deep black velvet tent, a glowing wooden bon-fire, and some glowing festive rainbow diamond lanterns are here.
+
+This area is illuminated.
+You see the 1st cheerful young human caroller.
+In the area is Dunkan the Hithual.
+Obvious paths: northeast* southwest* northwest*.
+>
+The cheerful young human caroller quickly casts her gaze across the room.
+sw
+[Crystal Snowflake Village, Ice Castle.]
+
+Wreaths of holly and fragrant garland strands of ivy, laden with golden and silver leaves are entwined along the rails of the filigree ice bridge. Across the bridge, a towering castle made wholly of ice glows softly independent of any other light. A brisk chilling wind stands its banners flat against the backdrop of the sky. Step onto the bridge as shelter awaits within the distant castle's walls.  A snowflake filigree ice bridge, a glowing candle filled crystal street lantern, and a red and white candy cane are here.
+
+This area is illuminated.
+You see the 1st bat (wearing a small gold collar).
+Obvious paths: northeast* northwest*.
+get can
+>You pick up a red and white candy cane.
+gig
+>You giggle.
+>
+put can in clo
+You place the red and white candy cane within your white silk cloak.
+>
+go bri
+[Crystal Snowflake Village, Ice Castle.]
+
+Softly twinkling cutout snowflakes cast a thousand flickering lights on the smooth surface of the ice castle. Silver stars hang from the ceiling, shimmering as they twirl with the swirling wind. A crescent shaped moon hangs from the center of the cathedral ceiling as couples, clad in deep, rich velvets and furs, spiral and dance as they glide across the ice.  A glowing snow covered evergreen tree, a snowflake filigree ice bridge of love, a bubbling dove-etched fountian, and some vomit are here.
+
+This room is illuminated.
+In the room are Orlando the Noble Human, Xavier the Human, Vvivich the Arachnian, and Aradeia the Leuian.
+Obvious exits: east* west*.
+>
+Xavier hugs Aradeia gently.
+w
+[Ice Castle, Ballroom.]
+
+Elegant twists of violet and silk form an airy canopy, as pure white roses entwine delicately around the intricately carved walls of the ice castle, creating a beautiful scene against the backdrop of winter. Twinkling garlands of stars drape the silks, allowing the icy ceiling to be open to the starlit heavens. Fragrant candles flicker, casting a soft halo on the smooth floor of ice.  A glowing snow covered evergreen tree is here.
+
+This room is illuminated.
+You see the 1st tiny ruby faerie wyvern (wearing a small gold collar).
+In the room are Maren the Noble Usil Elf, Suupidosutaa the Monitanian, Solinus the Human, Relawen the Drake, Davide the Usil Elf, Noffbrau the Noble Hithual, Kiki the Secian, Mordos the Psycian, Starlyn the Noble Secian, Lewelin the Usil Elf, Feletia the Draco, Magenta the Noble Secian, Cleric the Noble Leuian, Tara the Human, Binx the Secian, Vycous the Noble Frontacian (a tiny ruby faerie wyvern upon his left shoulder), Saberus the Leuian, Xalisha the Noble Secian, Kraggon the Noble Hithual, Clutter the Drag-al, and Grad the Noble Thugian.
+Obvious exits: east*.
+>
+Tara says in Human, "Zugje'z yxf tvvbj"
+e
+
+Xalisha snickers.
+[Crystal Snowflake Village, Ice Castle.]
+
+Softly twinkling cutout snowflakes cast a thousand flickering lights on the smooth surface of the ice castle. Silver stars hang from the ceiling, shimmering as they twirl with the swirling wind. A crescent shaped moon hangs from the center of the cathedral ceiling as couples, clad in deep, rich velvets and furs, spiral and dance as they glide across the ice.  A glowing snow covered evergreen tree, a snowflake filigree ice bridge of love, a bubbling dove-etched fountian, and some vomit are here.
+
+This room is illuminated.
+In the room are Orlando the Noble Human, Xavier the Human, Vvivich the Arachnian, and Aradeia the Leuian.
+Obvious exits: east* west*.
+e
+>[Ice Castle, Banquet Hall.]
+
+Waiters on polished black skates glide around the room, serving wonderful delicacies to guests. Delicate aromas carry on dulcet wings as a cool winter breeze stirs the room. As the sweet smell intoxicates, a large ice sculpture of a bouquet of roses glows brightly from violet to red to blue as the celestial orbs dance in the skies above.  A glowing snow covered evergreen tree, a long mahogany bar, a long mahogany bar, a large intricately carved ice beverage table, an open large snowflake etched gold drink warmer, a snowflake etched glass appetizer tray, a violet silk-lined banquet table, a ribbon tied wicker basket of bread, a violet tinted crystal dessert tray, a dark silver drink cart, and some vomit are here.
+
+This room is illuminated.
+In the room are Twilight the Noble Secian, Tiruna the Noble Leuian, Khatrina the Leuian, Kandil the Noble Leuian, Laetus the Secian (flying 5 feet above ground), and Shaleu the Noble Leuian.
+Obvious exits: west*.
+>
+Laetus nods.
+
+Tiruna grins.
+w
+[Crystal Snowflake Village, Ice Castle.]
+
+Softly twinkling cutout snowflakes cast a thousand flickering lights on the smooth surface of the ice castle. Silver stars hang from the ceiling, shimmering as they twirl with the swirling wind. A crescent shaped moon hangs from the center of the cathedral ceiling as couples, clad in deep, rich velvets and furs, spiral and dance as they glide across the ice.  A glowing snow covered evergreen tree, a snowflake filigree ice bridge of love, a bubbling dove-etched fountian, and some vomit are here.
+
+This room is illuminated.
+In the room are Orlando the Noble Human, Xavier the Human, Vvivich the Arachnian, and Aradeia the Leuian.
+Obvious exits: east* west*.
+w
+>[Ice Castle, Ballroom.]
+
+Elegant twists of violet and silk form an airy canopy, as pure white roses entwine delicately around the intricately carved walls of the ice castle, creating a beautiful scene against the backdrop of winter. Twinkling garlands of stars drape the silks, allowing the icy ceiling to be open to the starlit heavens. Fragrant candles flicker, casting a soft halo on the smooth floor of ice.  A glowing snow covered evergreen tree is here.
+
+This room is illuminated.
+You see the 1st tiny ruby faerie wyvern (wearing a small gold collar).
+In the room are Maren the Noble Usil Elf, Suupidosutaa the Monitanian, Solinus the Human, Relawen the Drake, Davide the Usil Elf, Noffbrau the Noble Hithual, Kiki the Secian, Mordos the Psycian, Starlyn the Noble Secian, Lewelin the Usil Elf, Feletia the Draco, Magenta the Noble Secian, Cleric the Noble Leuian, Tara the Human, Binx the Secian, Vycous the Noble Frontacian (a tiny ruby faerie wyvern upon his left shoulder), Saberus the Leuian, Xalisha the Noble Secian, Kraggon the Noble Hithual, Clutter the Drag-al, and Grad the Noble Thugian.
+Obvious exits: east*.
+>
+Maren says to Tara, "That way."
+
+Maren points.
+
+Xalisha squeals.
+e
+[Crystal Snowflake Village, Ice Castle.]
+
+Softly twinkling cutout snowflakes cast a thousand flickering lights on the smooth surface of the ice castle. Silver stars hang from the ceiling, shimmering as they twirl with the swirling wind. A crescent shaped moon hangs from the center of the cathedral ceiling as couples, clad in deep, rich velvets and furs, spiral and dance as they glide across the ice.  A glowing snow covered evergreen tree, a snowflake filigree ice bridge of love, a bubbling dove-etched fountian, and some vomit are here.
+
+This room is illuminated.
+In the room are Orlando the Noble Human, Xavier the Human, Vvivich the Arachnian, and Aradeia the Leuian.
+Obvious exits: east* west*.
+>
+go bri
+[Crystal Snowflake Village, Ice Castle.]
+
+Wreaths of holly and fragrant garland strands of ivy, laden with golden and silver leaves are entwined along the rails of the filigree ice bridge. Across the bridge, a towering castle made wholly of ice glows softly independent of any other light. A brisk chilling wind stands its banners flat against the backdrop of the sky. Step onto the bridge as shelter awaits within the distant castle's walls.  A snowflake filigree ice bridge and a glowing candle filled crystal street lantern are here.
+
+This area is illuminated.
+You see the 1st bat (wearing a small gold collar).
+In the area is Dunkan the Hithual.
+Obvious paths: northeast* northwest*.
+ne
+>
+Hott just entered from the northwest.
+[Crystal Snowflake Village, Tylia's Tent.]
+
+Towering trees, baron of leaves, creak as gust of wind move their aging branches. Gleaming fresh fallen snow rest gently in their arms. Perched above, a snowy owl, calls out suddenly towards those below. A gentle wind whines a slow, lingering song as the path winds itself towards the entrance of a quaint black velvet tent.  A dove emblazoned banner on a silver pole, an open deep black velvet tent, a glowing wooden bon-fire, and some glowing festive rainbow diamond lanterns are here.
+
+This area is illuminated.
+You see the 1st cheerful young human caroller.
+Obvious paths: northeast* southwest* northwest*.
+hide
+>You slip into the shadows!
+>
+
+Dunkan, grumbling and cursing, just entered from the southwest.
+
+Dracaen just entered from the northwest.
+
+Dracaen, thumbing through a book, just went southwest.
+
+Dunkan, with a loud belch, just went northeast.
+
+Hott just entered from the southwest.
+
+Dunkan, grumbling and cursing, just entered from the northeast.
+
+Sast, wings swirling with emerald light, just entered from the northwest.
+
+Sast, hair shimmering with emerald highlights, just went southwest.
+
+The cheerful young human caroller quickly casts her gaze across the room.
+
+
+Hott just went through an open deep black velvet tent.
+
+Hott just entered through an open deep black velvet tent.
+
+Dunkan, with a loud belch, just went northeast.
+
+Hott just went northeast.
+
+The cheerful young human caroller spits on the ground.
+
+
+The cheerful young human caroller spits on the ground.
+l
+[Crystal Snowflake Village, Tylia's Tent.]
+
+Towering trees, baron of leaves, creak as gust of wind move their aging branches. Gleaming fresh fallen snow rest gently in their arms. Perched above, a snowy owl, calls out suddenly towards those below. A gentle wind whines a slow, lingering song as the path winds itself towards the entrance of a quaint black velvet tent.  A dove emblazoned banner on a silver pole, an open deep black velvet tent, a glowing wooden bon-fire, and some glowing festive rainbow diamond lanterns are here.
+
+This area is illuminated.
+You see the 1st cheerful young human caroller.
+Obvious paths: northeast* southwest* northwest*.
+>
+The cheerful young human caroller mumbles something under her breath.
+
+The cheerful young human caroller mumbles something under her breath.
+
+The cheerful young human caroller mumbles something under her breath.
+
+
+The cheerful young human caroller mumbles something under her breath.
+
+The cheerful young human caroller mumbles something under her breath.
+
+The cheerful young human caroller mumbles something under her breath.
+
+The cheerful young human caroller glances around with a malicious look in her eyes.
+
+The cheerful young human caroller spits on the ground.
+
+The cheerful young human caroller spits on the ground.
+
+The cheerful young human caroller spits on the ground.
+
+The cheerful young human caroller spits on the ground.
+
+Mahtina just entered from the northeast.
+nw
+You reveal yourself!
+[Crystal Snowflake Village.]
+
+A narrow trail, covered in a light dusting of snow, ribbons itself through a maze of decorated trees that frame the wayside of a cobblestone path which curls and winds through the forest. Nestled under the trees, a tall blackened brick tower rests to the side of the path. Shimmering garlands of stars and moons decorate the frame of the door that leads inside. Festive laughter flies through the air on the wings of the wind.  A warm crackling magickal fire and a blackened stone tower door are here.
+
+This area is illuminated.
+Obvious paths: north* southeast* southwest*.
+go door
+>I don't see what you are referring to.
+go tow
+>[Magickal Coven.]
+
+Glistening ribbons of magick slowly circle around glowing spheres of air, earth, water, and fire, which hover in the shimmering air above. Fringed violet satin throw pillows are scattered neatly across the opalescent white marble floor. Orange and red flames lick the air, as a small fire blossoms from a diamond etched disk. The etchings within the disk represent arcane rune-shapes of ages passed. The canopy above opens up to a celestial scene, where they harvest moon hangs in a deep purple velvet sky.  A blackened stone tower door and a flashing starburst portal are here.
+
+This room is illuminated.
+Obvious exits: None.
+shop list all
+>We don't sell items, but we do implant runes.
+l at po
+l through po
+l under po
+l behind po
+l on po
+l in po
+>It looks like a flashing starburst portal.
+>[Moon Globe.]
+
+Floating within a crystal orb of stars and moons, everything within this prism is weightless and free. A silvery white satin lined moonsilver chair hovers in the center, as small crystal spheres of pale blue, amber, pale green, and red dance on the air. Delicate chimes ring in the air, as an enchanting melody plays softly, calming even the most tempestuous spirit. Standing within the confines of this crystal orb, gives the impression that one stands within the center of the harvest moon, looking out through the celestial heavens of the festival season.  A flashing starburst portal is here.
+
+This room is illuminated.
+Obvious exits: None.
+>There is nothing underneath that.
+>There is nothing behind that.
+>There is nothing on top of that.
+>There is nothing inside that.
+go po
+>[Moon Globe.]
+
+Floating within a crystal orb of stars and moons, everything within this prism is weightless and free. A silvery white satin lined moonsilver chair hovers in the center, as small crystal spheres of pale blue, amber, pale green, and red dance on the air. Delicate chimes ring in the air, as an enchanting melody plays softly, calming even the most tempestuous spirit. Standing within the confines of this crystal orb, gives the impression that one stands within the center of the harvest moon, looking out through the celestial heavens of the festival season.  A flashing starburst portal is here.
+
+This room is illuminated.
+Obvious exits: None.
+shop list all
+>There is no shop here!
+go po
+>[Magickal Coven.]
+
+Glistening ribbons of magick slowly circle around glowing spheres of air, earth, water, and fire, which hover in the shimmering air above. Fringed violet satin throw pillows are scattered neatly across the opalescent white marble floor. Orange and red flames lick the air, as a small fire blossoms from a diamond etched disk. The etchings within the disk represent arcane rune-shapes of ages passed. The canopy above opens up to a celestial scene, where they harvest moon hangs in a deep purple velvet sky.  A blackened stone tower door and a flashing starburst portal are here.
+
+This room is illuminated.
+Obvious exits: None.
+shop list runes
+>
+                Elemental Runes Available:
+
+ detect         fear           order          entropy        chaos         
+ mana          
+
+
+                Rune-shapes Available:
+
+ call           hand           sphere         storm         
+
+go tow
+>[Crystal Snowflake Village.]
+
+A narrow trail, covered in a light dusting of snow, ribbons itself through a maze of decorated trees that frame the wayside of a cobblestone path which curls and winds through the forest. Nestled under the trees, a tall blackened brick tower rests to the side of the path. Shimmering garlands of stars and moons decorate the frame of the door that leads inside. Festive laughter flies through the air on the wings of the wind.  A warm crackling magickal fire and a blackened stone tower door are here.
+
+This area is illuminated.
+Obvious paths: north* southeast* southwest*.
+n
+>[Rinannimas Festival, Crystal Snowflake Village.]
+
+Glistening pathways of snow-covered cobblestone swirl and spin through an enchanted landscape of winter. Lace patterned snowflakes fall from the silver gray sky, blanketing the naked branches of trees which are ornamented with tiny twinkling lights. A soft glow warms the earth as the heavens' celestial orb casts a halo of light upon the snowy village. The chiming of bells mingles with the merry song of carolers as the wind twists and curls through the chilled air.  A cheerful snowman, a glowing crystal street lantern, a dove emblazoned banner on a silver pole, some flowing violet silk streamers, a fluffy white snow drift, a dove shaped sign, and a dove etched pearl arch are here.
+
+This area is illuminated.
+Obvious paths: north* east* south* west*.
+go ar
+>
+As you pass through, there is a twist, and a feeling of distance...
+
+[Road.]
+
+The road coming in from the north bends around to the southwest here as it makes its way through an open field. Used by travelers most of the year, the fields host parties and day excursions from the city in good weather.  A dove etched pearl arch and some glowing festive rainbow diamond lanterns are here.
+
+This area is illuminated.
+Obvious paths: north* east* southeast* south* southwest* west* northwest*.
+go ar
+>
+As you pass through, there is a twist, and a feeling of distance...
+
+[Rinannimas Festival, Crystal Snowflake Village.]
+
+Glistening pathways of snow-covered cobblestone swirl and spin through an enchanted landscape of winter. Lace patterned snowflakes fall from the silver gray sky, blanketing the naked branches of trees which are ornamented with tiny twinkling lights. A soft glow warms the earth as the heavens' celestial orb casts a halo of light upon the snowy village. The chiming of bells mingles with the merry song of carolers as the wind twists and curls through the chilled air.  A cheerful snowman, a glowing crystal street lantern, a dove emblazoned banner on a silver pole, some flowing violet silk streamers, a fluffy white snow drift, a dove shaped sign, and a dove etched pearl arch are here.
+
+This area is illuminated.
+Obvious paths: north* east* south* west*.
+>
+Tchori's group just entered through a dove etched pearl arch.
+w
+[Crystal Snowflake Village, Tavern and Stage.]
+
+Holly and yellow roses adorn the majestic and towering evergreen trees. A sweet, spicy scent of burning maple wood carries on the air, giving warmth to the stinging chill of the rushing wind.  A flaming warm wooden bon-fire, a deep blue silk tent, a glowing crystal street lantern, and a dove emblazoned banner on a silver pole are here.
+
+This area is illuminated.
+Obvious paths: east* southwest* northwest*.
+go te
+>[Tavern and Stage.]
+
+Color ribbons drape loosely from corner to corner in this festival tent. From the center of the room, an intricately carved wooden chandelier hangs. The burning candles pour a gentle light around the room, providing a faint beam of light that encircles the gold-trimmed rosewood stage. Intricately carved tables and padded chairs are scattered about in front of a rosewood stage. A fairly secluded mahogany bar rests in along the eastern wall.  A gold-trimmed rosewood stage, a deep blue silk tent flap, and a large glass chest are here.
+
+This room is illuminated.
+Obvious exits: None.
+shop list all
+>
+
+Id# Item Type  Item Name                                     New Amount Value
+--- ---------- --------------------------------------------- --- ------ -----
+  1 Drink      dove-etched mug of Rinannimas ale             Yes x36    2gp
+  2 Drink      cup of spiced wassail                         Yes x35    1gp
+  3 Drink      glass of warm spiced wine glogg               Yes x40    1gp
+  4 Drink      cup of hot peppermint chocolate               Yes x31    1gp
+  5 Drink      mug of fresh mint liqueur                     Yes x39    1gp
+  6 Drink      shot of brandy                                Yes x36    50sp
+  7 Drink      dove-etched flask of hot buttered rum         Yes x36    2gp
+  8 Drink      glass of frozen glitterberry shake            Yes x32    50sp
+  9 Drink      glass of warm cinnamon milk                   Yes x27    50sp
+ 10 Drink      mug of warm chocolate cocoa                   Yes x31    50sp
+ 11 Food       juicy cooked turkey leg                       Yes x1     20sp
+
+>
+l in che
+Inside the large glass chest you see a closed dove-clasped violet book of hymns, a closed dove-clasped violet book of hymns, a closed dove-clasped violet book of hymns, a closed dove-clasped violet book of hymns, and a closed dove-clasped violet book of hymns.
+>
+get book from che
+It's closed!
+l
+>[Tavern and Stage.]
+
+Color ribbons drape loosely from corner to corner in this festival tent. From the center of the room, an intricately carved wooden chandelier hangs. The burning candles pour a gentle light around the room, providing a faint beam of light that encircles the gold-trimmed rosewood stage. Intricately carved tables and padded chairs are scattered about in front of a rosewood stage. A fairly secluded mahogany bar rests in along the eastern wall.  A gold-trimmed rosewood stage, a deep blue silk tent flap, and a large glass chest are here.
+
+This room is illuminated.
+Obvious exits: None.
+go te
+>[Crystal Snowflake Village, Tavern and Stage.]
+
+Holly and yellow roses adorn the majestic and towering evergreen trees. A sweet, spicy scent of burning maple wood carries on the air, giving warmth to the stinging chill of the rushing wind.  A flaming warm wooden bon-fire, a deep blue silk tent, a glowing crystal street lantern, and a dove emblazoned banner on a silver pole are here.
+
+This area is illuminated.
+You see the 1st bright red cardinal.
+Obvious paths: east* southwest* northwest*.
+e
+>[Rinannimas Festival, Crystal Snowflake Village.]
+
+Glistening pathways of snow-covered cobblestone swirl and spin through an enchanted landscape of winter. Lace patterned snowflakes fall from the silver gray sky, blanketing the naked branches of trees which are ornamented with tiny twinkling lights. A soft glow warms the earth as the heavens' celestial orb casts a halo of light upon the snowy village. The chiming of bells mingles with the merry song of carolers as the wind twists and curls through the chilled air.  A cheerful snowman, a glowing crystal street lantern, a dove emblazoned banner on a silver pole, some flowing violet silk streamers, a fluffy white snow drift, a dove shaped sign, and a dove etched pearl arch are here.
+
+This area is illuminated.
+Obvious paths: north* east* south* west*.
+e
+>[Crystal Snowflake Village, Goody Trinket's Shoppe.]
+
+A light dusting of snow blankets the cobblestone path which curls and winds through the forest. Nestled under the trees, a small blue cottage rests to the side of the path. Shimmering garlands of stars and moons decorate the frame of the door that leads into Goody Trinket's small shop. Across the walkway, an icy path weaves itself through a dense thicket. The path seems short as it disappears into the tangle of trees and shrubs. Festive laughter flies through the air on the wings of the wind.  Some fresh white snow on the ground, a festive snowman smoking a pipe, a small blue cottage, an open ornate pale blue applewood door, and a glowing crystal street lantern are here.
+
+This area is illuminated.
+Obvious paths: northeast* southeast* west*.
+go door
+>[Goody Trinket's Shoppe.]
+
+An old gray haired woman sits on a giant rocking chair beside a raging golden fire. Rocking back and forth slowly, she knits a colorful afghan while she sings a quiet song about the first dove of Rinanni.  The notes fall and rise as the fire quietly pops and crackles. The woman's pale blue eyes twinkle as she greets her customers with a wink and a smile. Baskets with ribbons and festively painted crates are filled with novelties and small gifts for the season.  An open ornate pale blue applewood door and a glowing stone fireplace are here.
+
+This room is illuminated.
+Obvious exits: None.
+shop list all
+>
+Id# Item Type  Item Name                                     New Amount Value
+--- ---------- --------------------------------------------- --- ------ -----
+  1 Torches    dove etched emerald snow globe                Yes x11    6gp
+  2 Torches    swirled violet crystal icicle                 Yes x6     6gp
+  3 Amulets    fiery crimson paper strand of hearts          Yes x17    25sp
+  4 Amulets    delicate white paper strand of snowflakes     Yes x16    25sp
+  5 Helms      shimmering sapphire feathered bluebird mask   Yes x18    8gp
+  6 Music      twinkling hand-carved wooden bluebird whistle Yes x17    5gp
+  7 Helms      swirled rainbow paper butterfly mask          Yes x17    10sp
+  8 Boots      fur-lined white leather ice skates            Yes x33    5gp
+  9 Wpn/None   closed dove painted paper lady's fan          Yes x19    2gp+50sp
+ 10 Backpacks  delicate alabaster snow faerie wings          Yes x14    15gp
+ 11 Helms      dazzling jeweled crystal hairpin              Yes x18    10gp
+ 12 Earrings   tiny diamond snowflake earring                Yes x38    10gp
+
+shop ex 10
+>You examine the delicate alabaster snow faerie wings...
+
+It is in new condition.
+It weighs about 0.1 lbs (at human size)
+
+go door
+>[Crystal Snowflake Village, Goody Trinket's Shoppe.]
+
+A light dusting of snow blankets the cobblestone path which curls and winds through the forest. Nestled under the trees, a small blue cottage rests to the side of the path. Shimmering garlands of stars and moons decorate the frame of the door that leads into Goody Trinket's small shop. Across the walkway, an icy path weaves itself through a dense thicket. The path seems short as it disappears into the tangle of trees and shrubs. Festive laughter flies through the air on the wings of the wind.  Some fresh white snow on the ground, a festive snowman smoking a pipe, a small blue cottage, an open ornate pale blue applewood door, and a glowing crystal street lantern are here.
+
+This area is illuminated.
+Obvious paths: northeast* southeast* west*.
+w
+>[Rinannimas Festival, Crystal Snowflake Village.]
+
+Glistening pathways of snow-covered cobblestone swirl and spin through an enchanted landscape of winter. Lace patterned snowflakes fall from the silver gray sky, blanketing the naked branches of trees which are ornamented with tiny twinkling lights. A soft glow warms the earth as the heavens' celestial orb casts a halo of light upon the snowy village. The chiming of bells mingles with the merry song of carolers as the wind twists and curls through the chilled air.  A cheerful snowman, a glowing crystal street lantern, a dove emblazoned banner on a silver pole, some flowing violet silk streamers, a fluffy white snow drift, a dove shaped sign, and a dove etched pearl arch are here.
+
+This area is illuminated.
+Obvious paths: north* east* south* west*.
+n
+>[Crystal Snowflake Village, Candy Cottage.]
+
+A gnarled willow tree stands like a towering sentinel over a small candy striped cottage. The tree's long, languid branches shimmer festively as the wind blows furiously, carrying on it the dulcet scent of peppermint, cinnamon, spices, and chocolate. A misty trail of white smoke billows steadily in ruffled rings from a stone chimney. As the sweet smell intoxicates the air, a small circle of children giggles and dances around a small pine tree, decorated with paper streamers and ornaments.  A twinkling ice wreath of Rathene roses, an open pink heart-shaped wooden door, a pair of dancing snow people, and a glowing crystal street lantern are here.
+
+This area is illuminated.
+Obvious paths: northeast* south* northwest*.
+go door
+>[Bakery and Candy Shoppe.]
+
+Rainbows of tiny morsels overflow from crystal jars, as steam billows from the mugs of hot rum cocoa and spiced apple ciders. Dressed in a blue apron, a chubby amethyst Drag-al stands behind the wooden counter that is decorated festively with garlands as he mixes up a new cake. Baskets of freshly baked pastries and breads tantalize the senses as delicious temptations, while a few cheerfully dressed Secians bustle around the green cloth covered tables, filling mugs and delivering treats to their hungry patrons.  An open pink heart-shaped wooden door, a glass counter, a handmade violet note card, and an etched sign are here.
+
+This room is illuminated.
+Obvious exits: None.
+shop list all
+>
+Id# Item Type  Item Name                                     New Amount Value
+--- ---------- --------------------------------------------- --- ------ -----
+  1 Food       chocolate covered peanuts                     Yes x49    30sp
+  2 Food       chocolate covered almonds                     Yes x46    30sp
+  3 Food       chocolate covered cashews                     Yes x44    30sp
+  4 Food       chocolate covered cherries                    Yes x29    30sp
+  5 Food       decadent chocolate mints                      Yes x23    30sp
+  6 Food       chocolate covered pretzels                    Yes x44    30sp
+  7 Food       large chocolate covered caramel               Yes x27    30sp
+  8 Food       sugar covered candied snowflake               Yes x43    30sp
+  9 Food       sweet chocolate orange cremes                 Yes x28    30sp
+ 10 Food       large white chocolate dove                    Yes x38    1gp
+ 11 Food       red and white peppermint snowcone             Yes x43    50sp
+ 12 Food       delicate sugar doves                          Yes x48    30sp
+ 13 Food       crunchy honey hazelnuts                       Yes x9     30sp
+ 14 Food       large cream filled chocolate cookie           Yes x39    30sp
+ 15 Food       multicolored gum drops                        Yes x33    30sp
+ 16 Food       rainbow sprinkled chocolate cupcake           Yes x30    30sp
+ 17 Food       cinnamon apple doughnut                       Yes x23    30sp
+ 18 Food       loaf of sugary rinannimas bread               Yes x43    50sp
+ 19 Food       swirled pecan roll                            Yes x38    30sp
+ 20 Food       warm apple pie                                Yes x49    50sp
+ 21 Food       frosted walnut brownie                        Yes x26    10sp
+ 22 Food       purple frosted sugar dove                     Yes x32    50sp
+ 23 Food       brown bear shaped cake                        Yes x41    50sp
+ 24 Food       white sugar eagle cookie                      Yes x44    50sp
+ 26 Food       orange marshmallow tiger                      Yes x42    50sp
+ 27 Food       black licorice vulture                        Yes x41    50sp
+ 28 Food       mint jackal-etched chocolate square           Yes x43    50sp
+
+re no
+>
+The writing on the handmade violet note card is Secian, and it reads:
+"~*~ Rinanni Encourages Moderation ~*~"
+re si
+>
+The etched sign reads:
+"~ Try our "Rocco bar" ~
+Peanuts, almonds and butterscotch covered in pounds of chocolate.
+Perfect for Secians and Thugians alike."
+>
+hide
+You fail in your attempt to hide!
+>
+
+hide
+You fail in your attempt to hide!
+hide
+>You fail in your attempt to hide!
+hide
+hide
+>You fail in your attempt to hide!
+You fail in your attempt to hide!
+hide
+hide
+>You slip into the shadows!
+You are already unable to be seen!
+>
+
+Mahtina just entered through an open pink heart-shaped wooden door.
+
+Mahtina just removed an open leather healer's bag from within her open large star embroidered sapphire backpack.
+
+Mahtina just placed some decadent chocolate mints within her open leather healer's bag.
+
+Mahtina just placed some decadent chocolate mints within her open leather healer's bag.
+
+[ The sun is beginning to set. ]
+
+Mahtina just placed a sugar covered candied snowflake within her open leather healer's bag.
+
+Mahtina just placed a sugar covered candied snowflake within her open leather healer's bag.
+
+Mahtina just placed a sugar covered candied snowflake within her open leather healer's bag.
+
+Mahtina just placed an elegant strand of creamy baroque pearls within her open leather healer's bag.
+
+Mahtina just removed an elegant strand of creamy baroque pearls from within her open leather healer's bag.
+
+Mahtina slips an elegant strand of creamy baroque pearls over her head.
+
+Mahtina just placed some sweet chocolate orange cremes within her open leather healer's bag.
+
+Mahtina just placed some sweet chocolate orange cremes within her open leather healer's bag.
+
+Mahtina just placed a large white chocolate dove within her open leather healer's bag.
+
+Mahtina just placed a large white chocolate dove within her open leather healer's bag.
+
+Mahtina just placed a large white chocolate dove within her open leather healer's bag.
+
+Mahtina just placed a large white chocolate dove within her open leather healer's bag.
+
+Mahtina just placed a large white chocolate dove within her open leather healer's bag.
+
+ *** Warning, you have been inactive for 5 minutes.
+look
+ *** You will be disconnected in 10 minute(s) if you do not respond.
+[Bakery and Candy Shoppe.]
+
+Rainbows of tiny morsels overflow from crystal jars, as steam billows from the mugs of hot rum cocoa and spiced apple ciders. Dressed in a blue apron, a chubby amethyst Drag-al stands behind the wooden counter that is decorated festively with garlands as he mixes up a new cake. Baskets of freshly baked pastries and breads tantalize the senses as delicious temptations, while a few cheerfully dressed Secians bustle around the green cloth covered tables, filling mugs and delivering treats to their hungry patrons.  An open pink heart-shaped wooden door, a glass counter, a handmade violet note card, and an etched sign are here.
+
+This room is illuminated.
+In the room is Mahtina the Noble Secian.
+Obvious exits: None.
+>
+Mahtina just placed a red and white peppermint snowcone within her open leather healer's bag.
+
+Mahtina just placed a delicate sugar doves within her open leather healer's bag.
+
+Mahtina just placed a delicate sugar doves within her open leather healer's bag.
+
+Mahtina just placed a delicate sugar doves within her open leather healer's bag.
+
+Mahtina just placed a purple frosted sugar dove within her open leather healer's bag.
+
+Mahtina just placed a purple frosted sugar dove within her open leather healer's bag.
+
+Mahtina, gold and silver curls streaming behind her, just went through an open pink heart-shaped wooden door.
+go door
+You reveal yourself!
+[Crystal Snowflake Village, Candy Cottage.]
+
+A gnarled willow tree stands like a towering sentinel over a small candy striped cottage. The tree's long, languid branches shimmer festively as the wind blows furiously, carrying on it the dulcet scent of peppermint, cinnamon, spices, and chocolate. A misty trail of white smoke billows steadily in ruffled rings from a stone chimney. As the sweet smell intoxicates the air, a small circle of children giggles and dances around a small pine tree, decorated with paper streamers and ornaments.  A twinkling ice wreath of Rathene roses, an open pink heart-shaped wooden door, a pair of dancing snow people, a glowing crystal street lantern, and a fluffy white snowball are here.
+
+This area is illuminated.
+Obvious paths: northeast* south* northwest*.
+s
+>[Rinannimas Festival, Crystal Snowflake Village.]
+
+Glistening pathways of snow-covered cobblestone swirl and spin through an enchanted landscape of winter. Lace patterned snowflakes fall from the silver gray sky, blanketing the naked branches of trees which are ornamented with tiny twinkling lights. A soft glow warms the earth as the heavens' celestial orb casts a halo of light upon the snowy village. The chiming of bells mingles with the merry song of carolers as the wind twists and curls through the chilled air.  A cheerful snowman, a glowing crystal street lantern, a dove emblazoned banner on a silver pole, some flowing violet silk streamers, a fluffy white snow drift, a dove shaped sign, and a dove etched pearl arch are here.
+
+This area is illuminated.
+Obvious paths: north* east* south* west*.
+s
+>[Crystal Snowflake Village.]
+
+A narrow trail, covered in a light dusting of snow, ribbons itself through a maze of decorated trees that frame the wayside of a cobblestone path which curls and winds through the forest. Nestled under the trees, a tall blackened brick tower rests to the side of the path. Shimmering garlands of stars and moons decorate the frame of the door that leads inside. Festive laughter flies through the air on the wings of the wind.  A warm crackling magickal fire, a blackened stone tower door, and a fluffy white snowball are here.
+
+This area is illuminated.
+In the area is Amagoss the Drake.
+Obvious paths: north* southeast* southwest*.
+se
+>[Crystal Snowflake Village, Tylia's Tent.]
+
+Towering trees, baron of leaves, creak as gust of wind move their aging branches. Gleaming fresh fallen snow rest gently in their arms. Perched above, a snowy owl, calls out suddenly towards those below. A gentle wind whines a slow, lingering song as the path winds itself towards the entrance of a quaint black velvet tent.  A dove emblazoned banner on a silver pole, an open deep black velvet tent, a glowing wooden bon-fire, and some glowing festive rainbow diamond lanterns are here.
+
+This area is illuminated.
+You see the 1st cheerful young human caroller.
+Obvious paths: northeast* southwest* northwest*.
+nw
+>[Crystal Snowflake Village.]
+
+A narrow trail, covered in a light dusting of snow, ribbons itself through a maze of decorated trees that frame the wayside of a cobblestone path which curls and winds through the forest. Nestled under the trees, a tall blackened brick tower rests to the side of the path. Shimmering garlands of stars and moons decorate the frame of the door that leads inside. Festive laughter flies through the air on the wings of the wind.  A warm crackling magickal fire, a blackened stone tower door, and a fluffy white snowball are here.
+
+This area is illuminated.
+In the area is Amagoss the Drake.
+Obvious paths: north* southeast* southwest*.
+snu a
+>You snuggle with Amagoss.
+se
+>
+Amagoss smiles.
+[Crystal Snowflake Village, Tylia's Tent.]
+
+Towering trees, baron of leaves, creak as gust of wind move their aging branches. Gleaming fresh fallen snow rest gently in their arms. Perched above, a snowy owl, calls out suddenly towards those below. A gentle wind whines a slow, lingering song as the path winds itself towards the entrance of a quaint black velvet tent.  A dove emblazoned banner on a silver pole, an open deep black velvet tent, a glowing wooden bon-fire, and some glowing festive rainbow diamond lanterns are here.
+
+This area is illuminated.
+You see the 1st cheerful young human caroller.
+Obvious paths: northeast* southwest* northwest*.
+nw
+>[Crystal Snowflake Village.]
+
+A narrow trail, covered in a light dusting of snow, ribbons itself through a maze of decorated trees that frame the wayside of a cobblestone path which curls and winds through the forest. Nestled under the trees, a tall blackened brick tower rests to the side of the path. Shimmering garlands of stars and moons decorate the frame of the door that leads inside. Festive laughter flies through the air on the wings of the wind.  A warm crackling magickal fire, a blackened stone tower door, and a fluffy white snowball are here.
+
+This area is illuminated.
+In the area is Amagoss the Drake.
+Obvious paths: north* southeast* southwest*.
+gig
+>You giggle.
+se
+>[Crystal Snowflake Village, Tylia's Tent.]
+
+Towering trees, baron of leaves, creak as gust of wind move their aging branches. Gleaming fresh fallen snow rest gently in their arms. Perched above, a snowy owl, calls out suddenly towards those below. A gentle wind whines a slow, lingering song as the path winds itself towards the entrance of a quaint black velvet tent.  A dove emblazoned banner on a silver pole, an open deep black velvet tent, a glowing wooden bon-fire, and some glowing festive rainbow diamond lanterns are here.
+
+This area is illuminated.
+You see the 1st cheerful young human caroller.
+Obvious paths: northeast* southwest* northwest*.
+sw
+>
+Solinus's group just entered from the southwest.
+[Crystal Snowflake Village, Ice Castle.]
+
+Wreaths of holly and fragrant garland strands of ivy, laden with golden and silver leaves are entwined along the rails of the filigree ice bridge. Across the bridge, a towering castle made wholly of ice glows softly independent of any other light. A brisk chilling wind stands its banners flat against the backdrop of the sky. Step onto the bridge as shelter awaits within the distant castle's walls.  A snowflake filigree ice bridge and a glowing candle filled crystal street lantern are here.
+
+This area is illuminated.
+In the area is Davide the Usil Elf.
+Obvious paths: northeast* northwest*.
+>
+Amagoss thinks to you, "you are too fast.  do you know they way out of this place?"
+go bri
+[Crystal Snowflake Village, Ice Castle.]
+
+Softly twinkling cutout snowflakes cast a thousand flickering lights on the smooth surface of the ice castle. Silver stars hang from the ceiling, shimmering as they twirl with the swirling wind. A crescent shaped moon hangs from the center of the cathedral ceiling as couples, clad in deep, rich velvets and furs, spiral and dance as they glide across the ice.  A glowing snow covered evergreen tree, a snowflake filigree ice bridge of love, a bubbling dove-etched fountian, and some vomit are here.
+
+This room is illuminated.
+In the room are Moss the Flerian, Noffbrau the Noble Hithual, Saberus the Leuian, and Clutter the Drag-al.
+Obvious exits: east* west*.
+>
+Clutter says, "they're giving presents away"
+
+Davide just entered through a snowflake filigree ice bridge of love.
+
+Clutter grins.
+
+The band plays an ancient symphonic concerto.
+
+Davide just went east.
+
+Lewelin just entered from the west.
+go bri
+[Crystal Snowflake Village, Ice Castle.]
+
+Wreaths of holly and fragrant garland strands of ivy, laden with golden and silver leaves are entwined along the rails of the filigree ice bridge. Across the bridge, a towering castle made wholly of ice glows softly independent of any other light. A brisk chilling wind stands its banners flat against the backdrop of the sky. Step onto the bridge as shelter awaits within the distant castle's walls.  A snowflake filigree ice bridge and a glowing candle filled crystal street lantern are here.
+
+This area is illuminated.
+Obvious paths: northeast* northwest*.
+ne
+>[Crystal Snowflake Village, Tylia's Tent.]
+
+Towering trees, baron of leaves, creak as gust of wind move their aging branches. Gleaming fresh fallen snow rest gently in their arms. Perched above, a snowy owl, calls out suddenly towards those below. A gentle wind whines a slow, lingering song as the path winds itself towards the entrance of a quaint black velvet tent.  A dove emblazoned banner on a silver pole, an open deep black velvet tent, a glowing wooden bon-fire, and some glowing festive rainbow diamond lanterns are here.
+
+This area is illuminated.
+You see the 1st cheerful young human caroller.
+Obvious paths: northeast* southwest* northwest*.
+nw
+>
+Solinus's group just entered from the northeast.
+[Crystal Snowflake Village.]
+
+A narrow trail, covered in a light dusting of snow, ribbons itself through a maze of decorated trees that frame the wayside of a cobblestone path which curls and winds through the forest. Nestled under the trees, a tall blackened brick tower rests to the side of the path. Shimmering garlands of stars and moons decorate the frame of the door that leads inside. Festive laughter flies through the air on the wings of the wind.  A warm crackling magickal fire and a blackened stone tower door are here.
+
+This area is illuminated.
+In the area are Amagoss the Drake and Grad the Noble Thugian.
+Obvious paths: north* southeast* southwest*.
+nod yes to am
+>You nod up and down to Amagoss.
+>
+Solinus's group just entered from the southeast.
+
+Grad grins at Amagoss.
+' where ya headin?
+
+Glinka asks, " where ya headin?"
+>
+Solinus's group just went southwest.
+smi at am gently, winking..
+You smile at Amagoss gently, winking..
+>
+Amagoss says in Secian, "just out"
+
+Grad just went north.
+lead am
+You request that Amagoss join your group.
+>
+Gallaior just entered from the north.
+
+Gallaior just went southeast.
+l n
+[Rinannimas Festival, Crystal Snowflake Village.]
+
+Glistening pathways of snow-covered cobblestone swirl and spin through an enchanted landscape of winter. Lace patterned snowflakes fall from the silver gray sky, blanketing the naked branches of trees which are ornamented with tiny twinkling lights. A soft glow warms the earth as the heavens' celestial orb casts a halo of light upon the snowy village. The chiming of bells mingles with the merry song of carolers as the wind twists and curls through the chilled air.  A cheerful snowman, a glowing crystal street lantern, a dove emblazoned banner on a silver pole, some flowing violet silk streamers, a fluffy white snow drift, a dove shaped sign, and a dove etched pearl arch are here.
+
+This area is illuminated.
+Obvious paths: north* east* south* west*.
+>
+Draffut just entered from the southwest.
+
+Grad just entered from the north.
+
+Amagoss says in Secian, "but with knowledge so Iknow how to get back in.  I followed someone in a bit agoa and slept"
+
+Draffut just went north.
+
+Amagoss's eyes return to their normal condition, as his pupils narrow once more.
+
+Grad just went southeast.
+
+Amagoss is following you.
+
+Amagoss smiles.
+' there i s an arch to the north
+
+Glinka says, " there i s an arch to the north"
+>
+Amagoss says in Secian, "first time here"
+n
+[Rinannimas Festival, Crystal Snowflake Village.]
+
+Glistening pathways of snow-covered cobblestone swirl and spin through an enchanted landscape of winter. Lace patterned snowflakes fall from the silver gray sky, blanketing the naked branches of trees which are ornamented with tiny twinkling lights. A soft glow warms the earth as the heavens' celestial orb casts a halo of light upon the snowy village. The chiming of bells mingles with the merry song of carolers as the wind twists and curls through the chilled air.  A cheerful snowman, a glowing crystal street lantern, a dove emblazoned banner on a silver pole, some flowing violet silk streamers, a fluffy white snow drift, a dove shaped sign, and a dove etched pearl arch are here.
+
+This area is illuminated.
+In the area is Amagoss the Drake.
+Obvious paths: north* east* south* west*.
+gri
+>You grin.
+poi at ar
+>You point at the dove etched pearl arch.
+go ar
+>
+As you pass through, there is a twist, and a feeling of distance...
+
+[Road.]
+
+The road coming in from the north bends around to the southwest here as it makes its way through an open field. Used by travelers most of the year, the fields host parties and day excursions from the city in good weather.  A dove etched pearl arch and some glowing festive rainbow diamond lanterns are here.
+
+This area is illuminated.
+In the area is Amagoss the Drake.
+Obvious paths: north* east* southeast* south* southwest* west* northwest*.
+' out an in
+>
+Glinka says, " out an in"
+>
+Amagoss says in Secian, "I saw that, but did not look like  a way out"
+nod
+You nod.
+n
+n
+n
+n
+>[Road.]
+
+The main north road has a branch here leading off to the east. A small sign posted at this intersection sports arrows pointing in all five directions. An open field lies off to the west and another to the southeast.  Some glowing festive rainbow diamond lanterns are here.
+
+This area is illuminated.
+In the area is Amagoss the Drake.
+Obvious paths: north* east* southeast* south* west*.
+[Road.]
+
+Even though it shows heavy wear, the road is in remarkably good repair. It was built by expert craftsmen to withstand the rigors of time and use. Evidence of recent repairs indicate that any problems are dealt with quickly and competently.  Some dried crimson streaks of blood, an open old wooden trash wagon, and some glowing festive rainbow diamond lanterns are here.
+
+This area is illuminated.
+In the area is Amagoss the Drake.
+Obvious paths: north* south* southwest*.
+[South gate.]
+
+Through the gate lies the city of Spur, the major center of trade and civilization on the plains. The dusty road leading through the gates is well traveled, and walls of the city are in good repair. A small shack sits to the west of the road, during most times of the day a dusty coach can be seen waiting in front, its horses stomping with impatience to be gone. To the right of the door is a small window, its opening covered with metal bars. An old man, missing most of his teeth, waits patiently for the travelers to pay their fare, and then directs them into the waiting area. On the east side of the road a billowing multicolored tent has been erected, the hustle and bustle of merchants and customers can be seen coming and going at all times of the day.  An open iron gate, a rainbow silk tent, and some glowing festive rainbow diamond lanterns are here.
+
+This area is illuminated.
+In the area are Amagoss the Drake and Draffut the Drake.
+Obvious paths: east* south*.
+You cannot move in that direction.
+beam
+>You beam.
+>
+Amagoss says in Secian, "interesting"
+
+Amagoss says in Secian, "thanks"
+' goin back in>?
+
+Glinka asks, " goin back in>?"
+>
+snu with Amagoss
+Amagoss nuzzles you.
+You snuggle with Amagoss.
+gri
+>You grin.
+>
+Amagoss says in Secian, "I do not see you much"
+
+Amagoss asks in Secian, "why?"
+
+Draffut just went south.
+' i sleep alot?
+
+Glinka asks, " i sleep alot?"
+gig to am
+>You giggle to Amagoss.
+>
+Mahtina just entered through an open iron gate.
+l at am
+
+Amagoss looks like a 8'10" standard 2nd stage, winged massive boned, wirey-tough bodied turquoise Dragon.
+He is bald, with ruby red eyes, and looks orderly.
+He appears to be annoyed right now.
+He can be attacked by other players.
+He appears to be in perfect health.
+There is a shining gold emblem affixed to his clothing.
+
+Physical appearance:
+
+The Drake's Scales are a turquoise, but not a bright shade.  His scales look dark like his skin underneath is black and pushes through a bit.  His actions are fluid and deliberate and though he does not look at you, you feel he watches you.
+
+                        Visible Equipment
+Some heavy orichalcum armor                        (armor)
+
+He has been bestowed the following title(s):
+  Noble of the Realm
+
+>
+Mahtina fans her wings at Amagoss.
+' nice armor
+
+Glinka says, " nice armor"
+>
+Amagoss smiles at Mahtina.
+gri to ma
+You grin to Mahtina.
+>
+Amagoss says in Secian, "I need something better"
+
+Amagoss says in Secian, "but just do not have the gold at this time"
+wh to mah saw you buyin out the candy satore
+You whisper to Mahtina.
+>
+Mahtina grins at you.
+
+Mahtina snickers.
+nod to am
+You nod to Amagoss.
+gig
+>You giggle.
+>
+Klug's group just entered through an open iron gate.
+
+Klug's group just went south.
+' wish i had some to give ya
+
+Glinka says, " wish i had some to give ya"
+gri to am
+>You grin to Amagoss.
+>
+Mahtina whispers, "You should see our food collection at home. I always bring my tea cart of goodies to meetings I attend."
+l
+[South gate.]
+
+Through the gate lies the city of Spur, the major center of trade and civilization on the plains. The dusty road leading through the gates is well traveled, and walls of the city are in good repair. A small shack sits to the west of the road, during most times of the day a dusty coach can be seen waiting in front, its horses stomping with impatience to be gone. To the right of the door is a small window, its opening covered with metal bars. An old man, missing most of his teeth, waits patiently for the travelers to pay their fare, and then directs them into the waiting area. On the east side of the road a billowing multicolored tent has been erected, the hustle and bustle of merchants and customers can be seen coming and going at all times of the day.  An open iron gate, a rainbow silk tent, and some glowing festive rainbow diamond lanterns are here.
+
+This area is illuminated.
+In the area are Amagoss the Drake and Mahtina the Noble Secian.
+Obvious paths: east* south*.
+>
+Amagoss chuckles.
+
+Amagoss ponders.
+wh to mah i bet..you goin into business?
+You whisper to Mahtina.
+>
+Mahtina whispers, "Festivals the best place to gather at."
+
+Amagoss asks in Secian, "armor?"
+nod yes to ma
+You nod up and down to Mahtina.
+' or golds
+>
+Glinka says, " or golds"
+>
+Amagoss asks in Secian, "it would be small wouldn't it?"
+gri to am
+You grin to Amagoss.
+>
+[ Night falls. The sun has set. ]
+
+Amagoss chuckles.
+chu gently, winking..
+You chuckle gently, winking..
+l
+>[South gate.]
+
+Through the gate lies the city of Spur, the major center of trade and civilization on the plains. The dusty road leading through the gates is well traveled, and walls of the city are in good repair. A small shack sits to the west of the road, during most times of the day a dusty coach can be seen waiting in front, its horses stomping with impatience to be gone. To the right of the door is a small window, its opening covered with metal bars. An old man, missing most of his teeth, waits patiently for the travelers to pay their fare, and then directs them into the waiting area. On the east side of the road a billowing multicolored tent has been erected, the hustle and bustle of merchants and customers can be seen coming and going at all times of the day.  An open iron gate, a rainbow silk tent, and some glowing festive rainbow diamond lanterns are here.
+
+This area is illuminated.
+In the area are Amagoss the Drake and Mahtina the Noble Secian.
+Obvious paths: east* south*.
+' the raffle should be startin soon, you goin to it?
+>
+Glinka asks, " the raffle should be startin soon, you goin to it?"
+rai at am
+>You raise an eyebrow at Amagoss.
+>
+Amagoss says in Secian, "I am very big don't you know.  the biggest drake in all the land"
+l at am
+
+Amagoss looks like a 8'10" standard 2nd stage, winged massive boned, wirey-tough bodied turquoise Dragon.
+He is bald, with ruby red eyes, and looks orderly.
+He appears to be annoyed right now.
+He can be attacked by other players.
+He appears to be in perfect health.
+There is a shining gold emblem affixed to his clothing.
+
+Physical appearance:
+
+The Drake's Scales are a turquoise, but not a bright shade.  His scales look dark like his skin underneath is black and pushes through a bit.  His actions are fluid and deliberate and though he does not look at you, you feel he watches you.
+
+                        Visible Equipment
+Some heavy orichalcum armor                        (armor)
+
+He has been bestowed the following title(s):
+  Noble of the Realm
+
+>
+Amagoss asks in Secian, "what raffle?"
+stare up and up
+You stare up and up.
+' some rinannimas raffle i guess
+>
+Glinka says, " some rinannimas raffle i guess"
+shru
+>You shrug.
+>
+Mahtina nods.
+nod too
+You nod too.
+' wanna go look?
+>
+Glinka asks, " wanna go look?"
+rai at am
+>You raise an eyebrow at Amagoss.
+l
+>[South gate.]
+
+Through the gate lies the city of Spur, the major center of trade and civilization on the plains. The dusty road leading through the gates is well traveled, and walls of the city are in good repair. A small shack sits to the west of the road, during most times of the day a dusty coach can be seen waiting in front, its horses stomping with impatience to be gone. To the right of the door is a small window, its opening covered with metal bars. An old man, missing most of his teeth, waits patiently for the travelers to pay their fare, and then directs them into the waiting area. On the east side of the road a billowing multicolored tent has been erected, the hustle and bustle of merchants and customers can be seen coming and going at all times of the day.  An open iron gate, a rainbow silk tent, and some glowing festive rainbow diamond lanterns are here.
+
+This area is illuminated.
+In the area are Amagoss the Drake and Mahtina the Noble Secian.
+Obvious paths: east* south*.
+lean lan
+>You lean on the glowing festive rainbow diamond lanterns.
+>
+Amagoss says in Secian, "well,  thanks for your help....no, no raffle for me.  I hope to see you both sooner then later"
+nod
+You nod.
+hu am tyte
+>You hug Amagoss tyte.
+>
+Mahtina whispers, "I usually buy out the clothing too, so I can outfit new secians when they come"
+
+wave to Mahtina
+Mahtina waves.
+You wave to Mahtina.
+>
+wave to Amagoss
+Amagoss waves.
+
+Mahtina is following you.
+wh to mah good idea!
+You whisper to Mahtina.
+You wave to Amagoss.
+>
+Amagoss leaves your group.
+lose am
+Amagoss is not following you!
+wav
+>You wave.
+s
+s
+s
+>[Road.]
+
+Even though it shows heavy wear, the road is in remarkably good repair. It was built by expert craftsmen to withstand the rigors of time and use. Evidence of recent repairs indicate that any problems are dealt with quickly and competently.  Some dried crimson streaks of blood, an open old wooden trash wagon, and some glowing festive rainbow diamond lanterns are here.
+
+This area is illuminated.
+In the area is Mahtina the Noble Secian.
+Obvious paths: north* south* southwest.
+[Road.]
+
+The main north road has a branch here leading off to the east. A small sign posted at this intersection sports arrows pointing in all five directions. An open field lies off to the west and another to the southeast.  Some glowing festive rainbow diamond lanterns are here.
+
+This area is illuminated.
+In the area is Mahtina the Noble Secian.
+Obvious paths: north* east southeast south* west.
+[Road.]
+
+The road coming in from the north bends around to the southwest here as it makes its way through an open field. Used by travelers most of the year, the fields host parties and day excursions from the city in good weather.  A dove etched pearl arch and some glowing festive rainbow diamond lanterns are here.
+
+This area is illuminated.
+You see the 1st bat (wearing a small gold collar).
+In the area are Syai the Noble Drake, Mahtina the Noble Secian, and Silran the Secian (flying 5 feet above ground).
+Obvious paths: north* east southeast south southwest west northwest.
+>
+Syai's group just went north.
+go ar
+
+As you pass through, there is a twist, and a feeling of distance...
+
+[Rinannimas Festival, Crystal Snowflake Village.]
+
+Glistening pathways of snow-covered cobblestone swirl and spin through an enchanted landscape of winter. Lace patterned snowflakes fall from the silver gray sky, blanketing the naked branches of trees which are ornamented with tiny twinkling lights. A soft glow warms the earth as the heavens' celestial orb casts a halo of light upon the snowy village. The chiming of bells mingles with the merry song of carolers as the wind twists and curls through the chilled air.  A cheerful snowman, a glowing crystal street lantern, a dove emblazoned banner on a silver pole, some flowing violet silk streamers, a fluffy white snow drift, a dove shaped sign, and a dove etched pearl arch are here.
+
+This area is illuminated.
+In the area is Mahtina the Noble Secian.
+Obvious paths: north* east* south west*.
+s
+ready lan
+>It's too dark to see anything!  Ready a torch.
+s
+>You light the lantern.
+
+l
+The area brightens.
+[Crystal Snowflake Village.]
+
+A narrow trail, covered in a light dusting of snow, ribbons itself through a maze of decorated trees that frame the wayside of a cobblestone path which curls and winds through the forest. Nestled under the trees, a tall blackened brick tower rests to the side of the path. Shimmering garlands of stars and moons decorate the frame of the door that leads inside. Festive laughter flies through the air on the wings of the wind.  A warm crackling magickal fire and a blackened stone tower door are here.
+
+This area is illuminated.
+You see the 1st cheerful caroler.
+In the area is Mahtina the Noble Secian.
+Obvious paths: north* southeast* southwest*.
+You cannot move in that direction.
+se
+>[Crystal Snowflake Village, Tylia's Tent.]
+
+Towering trees, baron of leaves, creak as gust of wind move their aging branches. Gleaming fresh fallen snow rest gently in their arms. Perched above, a snowy owl, calls out suddenly towards those below. A gentle wind whines a slow, lingering song as the path winds itself towards the entrance of a quaint black velvet tent.  A dove emblazoned banner on a silver pole, an open deep black velvet tent, a glowing wooden bon-fire, and some glowing festive rainbow diamond lanterns are here.
+
+This area is illuminated.
+In the area is Mahtina the Noble Secian.
+Obvious paths: northeast* southwest* northwest*.
+sw
+>[Crystal Snowflake Village, Ice Castle.]
+
+Wreaths of holly and fragrant garland strands of ivy, laden with golden and silver leaves are entwined along the rails of the filigree ice bridge. Across the bridge, a towering castle made wholly of ice glows softly independent of any other light. A brisk chilling wind stands its banners flat against the backdrop of the sky. Step onto the bridge as shelter awaits within the distant castle's walls.  A snowflake filigree ice bridge and a glowing candle filled crystal street lantern are here.
+
+This area is illuminated.
+You see the 1st brown reindeer.
+In the area are Anyah the Human, Solinus the Human, Mahtina the Noble Secian, and Broyce the Noble Anthian.
+Obvious paths: northeast* northwest*.
+>
+Solinus's group just went northeast.
+go bri
+[Crystal Snowflake Village, Ice Castle.]
+
+Softly twinkling cutout snowflakes cast a thousand flickering lights on the smooth surface of the ice castle. Silver stars hang from the ceiling, shimmering as they twirl with the swirling wind. A crescent shaped moon hangs from the center of the cathedral ceiling as couples, clad in deep, rich velvets and furs, spiral and dance as they glide across the ice.  A glowing snow covered evergreen tree, a snowflake filigree ice bridge of love, a bubbling dove-etched fountian, and some vomit are here.
+
+This room is illuminated.
+In the room are Davide the Usil Elf, Mental the Psycian (holding a glowing lantern), Lewelin the Usil Elf, Draffut the Drake, Beauty the Secian (holding a glowing radiant crystalla dragon's tear jewel), Tara the Human, Klug the Oog-ra, and Mahtina the Noble Secian.
+Obvious exits: east* west*.
+>
+Draffut just removed a miniature Maren doll from within his red cloak of corruption.
+
+Davide nods sagely.
+w
+[Ice Castle, Ballroom.]
+
+Elegant twists of violet and silk form an airy canopy, as pure white roses entwine delicately around the intricately carved walls of the ice castle, creating a beautiful scene against the backdrop of winter. Twinkling garlands of stars drape the silks, allowing the icy ceiling to be open to the starlit heavens. Fragrant candles flicker, casting a soft halo on the smooth floor of ice.  A glowing snow covered evergreen tree is here.
+
+This room is illuminated.
+You see the 1st tiny ruby faerie wyvern (wearing a small gold collar).
+In the room are Twilight the Noble Secian (seated), Suupidosutaa the Monitanian, Relawen the Drake, Gallaior the Human, Mordos the Psycian, Cleric the Noble Leuian, Xavier the Human, Aradeia the Leuian, Shaleu the Noble Leuian, Vycous the Noble Frontacian (a tiny ruby faerie wyvern upon his left shoulder), Xalisha the Noble Secian, Mahtina the Noble Secian, Kraggon the Noble Hithual, Clutter the Drag-al, Faet the Noble Secian, and Grad the Noble Thugian.
+Obvious exits: east*.
+>
+Twilight nods to Shaleu.
+disb
+You disband your group.
+>
+lean head Kraggon her long soft hair flying about...
+hug Kraggon long and tyte
+Kraggon hugs you.
+You lean your head on Kraggon's shoulder her long soft hair flying about...
+>You hug Kraggon long and tyte.
+lean ma
+>You lean on Mahtina.
+>
+Vycous, DO not miss your chance!, just went east.
+
+Suupidosutaa taps Mordos.
+
+Twilight says to Shaleu in Eldari, "Lsq, kxjc iln kzmhc xizy y' ulgmsg."
+
+Shaleu says in Eldari, "ehrg fg xfq cvus hf kui tgvv gb"
+
+Grad just went east.
+
+Xalisha tackles Clutter and bounces off with little effect.
+smi at xa delicately , brushing back her kinky white hair
+You smile at Xavier delicately , brushing back her kinky white hair.
+>
+Xalisha stands up.
+
+Xalisha snaps her fingers.
+You see Suupidosutaa move up another 5 UDs!
+
+Clutter pulls Xalisha closer to him.
+
+Xalisha bats her eyes at Clutter.
+
+Twilight says to Shaleu in Eldari, "P zvjpgpo iewie cbki kj. pne lh fcvi osu uorgcu iuntutpm."
+
+Mordos's head suddenly begins glowing. She touches Suupidosutaa briefly. The glow travels down an arm to her hand. The glow quickly spreads over Suupidosutaa's entire body, then fades away.
+
+
+Clutter offers something to Xalisha.
+
+Twilight fans her wings at Shaleu softly.
+
+Xalisha flails her arms about wildly.
+
+Suupidosutaa nuzzles Mordos.
+You see Suupidosutaa retreat 5 UDs to the rear!
+
+Clutter says to Xalisha, "merry rinannimas"
+
+Xalisha asks Clutter, "for me?"
+
+Malthus, looking for some perfect snow, just entered from the east.
+
+Xalisha fidgets.
+
+Clutter nods up and down to Xalisha.
+
+Gallaior just went east.
+
+Xalisha accepts Clutter's offer.
+
+Xalisha beams.
+
+Xalisha holds Clutter close.
+
+Mahtina smiles at Malthus.
+
+Kraggon sighs.
+
+Xalisha exclaims to Clutter, "i love pretty boxes!"
+
+Lewelin just entered from the east.
+
+Xalisha holds the closed ribbon tied wrapped present close.
+
+Faet fans her wings at Malthus.
+
+Clutter snickers.
+
+Aradeia winks at Kraggon.
+rai at kr
+You raise an eyebrow at Kraggon.
+>
+Xalisha listens intently to the closed ribbon tied wrapped present.
+l
+[Ice Castle, Ballroom.]
+
+Elegant twists of violet and silk form an airy canopy, as pure white roses entwine delicately around the intricately carved walls of the ice castle, creating a beautiful scene against the backdrop of winter. Twinkling garlands of stars drape the silks, allowing the icy ceiling to be open to the starlit heavens. Fragrant candles flicker, casting a soft halo on the smooth floor of ice.  A glowing snow covered evergreen tree is here.
+
+This room is illuminated.
+In the room are Twilight the Noble Secian (seated), Suupidosutaa the Monitanian, Malthus the Psycian (holding a glowing swirling multicolored globe), Relawen the Drake, Mordos the Psycian, Lewelin the Usil Elf, Cleric the Noble Leuian, Xavier the Human, Aradeia the Leuian, Shaleu the Noble Leuian, Xalisha the Noble Secian, Mahtina the Noble Secian, Kraggon the Noble Hithual, Clutter the Drag-al, and Faet the Noble Secian.
+Obvious exits: east*.
+>
+Clutter exclaims to Xalisha, "it has a present in there too!"
+
+Kraggon hums.
+
+Mahtina asks Malthus in Secti, "I need to give you something, can we go somewhere?"
+
+Xalisha rubs the closed ribbon tied wrapped present.
+
+Malthus says, "I'm going to roll the dice in just a minute."
+
+Tara just entered from the east.
+
+Aradeia laughs softly.
+
+Xalisha says to Clutter, "oh okay."
+ret 4
+You retreat 4 UDs to the rear!
+[3 sec. delay]
+>
+Mahtina pets the closed dove engraved pearl holy symbol.
+
+Malthus is now following Mahtina.
+
+Xalisha nods to Clutter.
+get sno from clo
+
+Aradeia exclaims to Kraggon, "For shame!"
+You remove the fluffy white snowball from your white silk cloak.
+>
+Twilight says to Shaleu in Eldari, "Y hmin lojd oy lmo..."
+
+Kraggon grins at Aradeia.
+
+Mahtina's group just went east.
+fla at mah
+I don't see what you are referring to.
+>
+Twilight nuzzles Shaleu.
+
+Shaleu says in Eldari, "R dxy oakk Ylcipb ll fhe uoy pmp kwpoidc ox jmkpwd wak lph jacp Biowor "
+
+Orlando, courage not lacking, just entered from the east.
+
+Orlando hugs the very large drooling Thugian doll.
+
+Twilight frowns.
+
+Clutter exclaims, "mal, roll my numbers!"
+
+Clutter blinks.
+
+Suupidosutaa, tail rapidly sliding out of sight, just went east.
+
+Tara glances.
+
+Xalisha just opened the closed ribbon tied wrapped present.
+
+Tara just went east.
+
+Kraggon listens intently.
+
+Orlando removes his closed large hemp woven bag.
+
+Orlando just opened the closed large hemp woven bag.
+
+Aradeia shakes her head from side to side to Kraggon.
+
+Twilight says in Eldari, "Ypx, nkr rfalf awrpxmiwz kwsu aiz dgwbir x rbwjcu."
+
+Xalisha beams!
+
+Xalisha hugs Clutter tightly.
+
+Aradeia says to Kraggon, "Only elegance, my dear."
+
+Clutter grins.
+l e
+
+Shaleu says in Eldari, "hek cgsc wyw gbo pifla hyl ivqfcm"
+[Crystal Snowflake Village, Ice Castle.]
+
+Softly twinkling cutout snowflakes cast a thousand flickering lights on the smooth surface of the ice castle. Silver stars hang from the ceiling, shimmering as they twirl with the swirling wind. A crescent shaped moon hangs from the center of the cathedral ceiling as couples, clad in deep, rich velvets and furs, spiral and dance as they glide across the ice.  A glowing snow covered evergreen tree, a snowflake filigree ice bridge of love, a bubbling dove-etched fountian, and some vomit are here.
+
+This room is illuminated.
+In the room are Maren the Noble Usil Elf, Anyah the Human, Solinus the Human, Gallaior the Human, and Broyce the Noble Anthian.
+Obvious exits: east* west*.
+>You see Orlando take a drink from his glass of red amaretto liqueur.
+
+Orlando coughs.
+
+Twilight nods to Shaleu.
+
+Klug just entered from the east.
+
+Orlando just placed a very large drooling Thugian doll within his open ribbon tied wrapped present.
+
+Klug taps Lewelin.
+
+Orlando just placed an open ribbon tied wrapped present within his open large hemp woven bag.
+
+Shaleu says in Eldari, "yjw az dgp row wzt cxsxk ecsazvt"
+e
+e
+[Crystal Snowflake Village, Ice Castle.]
+
+Softly twinkling cutout snowflakes cast a thousand flickering lights on the smooth surface of the ice castle. Silver stars hang from the ceiling, shimmering as they twirl with the swirling wind. A crescent shaped moon hangs from the center of the cathedral ceiling as couples, clad in deep, rich velvets and furs, spiral and dance as they glide across the ice.  A glowing snow covered evergreen tree, a snowflake filigree ice bridge of love, a bubbling dove-etched fountian, and some vomit are here.
+
+This room is illuminated.
+In the room are Maren the Noble Usil Elf, Anyah the Human, Solinus the Human, Gallaior the Human, and Broyce the Noble Anthian.
+Obvious exits: east* west*.
+>[Ice Castle, Banquet Hall.]
+
+Waiters on polished black skates glide around the room, serving wonderful delicacies to guests. Delicate aromas carry on dulcet wings as a cool winter breeze stirs the room. As the sweet smell intoxicates, a large ice sculpture of a bouquet of roses glows brightly from violet to red to blue as the celestial orbs dance in the skies above.  A glowing snow covered evergreen tree, a long mahogany bar, a long mahogany bar, a large intricately carved ice beverage table, an open large snowflake etched gold drink warmer, a snowflake etched glass appetizer tray, a violet silk-lined banquet table, a ribbon tied wicker basket of bread, a violet tinted crystal dessert tray, a dark silver drink cart, and some vomit are here.
+
+This room is illuminated.
+You see the 1st tiny ruby faerie wyvern (wearing a small gold collar).
+In the room are Dracaen the Draco, Suupidosutaa the Monitanian, Kiralyn the Noble Secian (lying down), Tiruna the Noble Leuian, Dunkan the Hithual, Moss the Flerian, Tylia the Noble Anthian, Julia the Noble Secian, Davide the Usil Elf, Noffbrau the Noble Hithual, Kiki the Secian, Starlyn the Noble Secian, Mental the Psycian (holding a glowing lantern), Feletia the Draco, Magenta the Noble Secian, Draffut the Drake, Sast the Secian, Beauty the Secian (holding a glowing radiant crystalla dragon's tear jewel), Bodhi the Drake (flying 30 feet above ground), Tchori the Leuian, Tara the Human, Binx the Secian, Laetus the Secian, Vycous the Noble Frontacian (a tiny ruby faerie wyvern upon his left shoulder), Saberus the Leuian, and Grad the Noble Thugian.
+Obvious exits: west*.
+>
+Davide says to Vycous, "I'll trade the wyvern for my Thugian"
+
+Mental nods to Draffut.
+
+Kiki says to Vycous, "Sure."
+
+Starlyn gasps.
+
+Starlyn beams.
+
+Draffut has left Noffbrau's group.
+
+Beauty just closed the open ribbon tied yellow and white gift box.
+
+Tara holds the sharp clawed Monitanian doll close.
+
+Draffut just went west.
+
+Bodhi ponders the meaning of the universe for a moment.
+
+Davide pokes the very large drooling Thugian doll.
+You see Suupidosutaa move up another 5 UDs!
+
+Suupidosutaa tickles Tiruna.
+
+Vycous offers something to Kiki.
+
+Kiki accepts Vycous's offer.
+You see Suupidosutaa retreat 5 UDs to the rear!
+
+Grad grunts at Davide.
+
+Kiki tickles Vycous.
+
+Tiruna giggles.
+
+Tylia says, "I know I am missing someone"
+
+Laetus chuckles.
+
+Tylia glances around.
+
+Starlyn just placed a silvery pale blue canvas staff harness within her open blue and white leather healer's bag.
+
+Vycous chuckles.
+
+Davide asks Grad, "what?"
+
+Dracaen raises her hand to Tylia.
+
+Tiruna swishes her tail.
+
+Starlyn just removed a silvery winged Secian doll with gem from within her open ribbon tied wrapped present.
+
+Vycous stiffens.
+
+Tchori smiles at Tylia.
+
+Saberus waves at Tylia.
+
+Feletia bats her eyes at Kiki.
+
+Davide pets the very large drooling Thugian doll.
+
+Starlyn beams at the silvery winged Secian doll with gem.
+
+Tara giggles and waves her Monitanian doll around.
+
+Kiki nods up and down to Feletia.
+
+Suupidosutaa says to Tylia in Monitanian, "Winw dmpqlzwv okai fvy kcd."
+
+Kiralyn exclaims to Starlyn, "oooh!"
+
+Grad says to Davide, "be nice ta lil guy"
+
+Julia furrows her brow.
+
+Grad nods up and down.
+
+Tylia offers something to Dracaen.
+throw sno at tyl
+You throw your fluffy white snowball at Tylia.  It bounces off with little obvious effect.
+>
+Suupidosutaa says to Tylia in Monitanian, "Adwc rqs plql dzq."
+
+Dracaen accepts Tylia's offer.
+
+Beauty just opened the closed ribbon tied wrapped present.
+get sno
+
+Dracaen says to Tylia, "Thank you"
+
+Sast laughs.
+You pick up a fluffy white snowball.
+>
+Laetus just removed an open ribbon tied wrapped present from within her open azure leather healer's bag.
+
+Magenta giggles.
+gig
+You giggle.
+>
+Davide asks Grad, "what did you get?"
+
+Binx exclaims to Kiki, "Tara got a monitanian doll!"
+
+Tylia says to Dracaen, "merry Rinannimas"
+
+Bodhi fidgets.
+
+Dracaen offers something to Tylia.
+
+Grad shrugs.
+
+Tylia accepts Dracaen's offer.
+
+Kiki blinks.
+
+Tylia beams at Dracaen.
+
+Tara bats her eyes at Binx.
+You see Bodhi move up another 7 UDs!
+
+Dracaen chuckles.
+You see Bodhi move up another 3 UDs!
+
+Tylia says to Dracaen, "that is sweet"
+
+Suupidosutaa, tail rapidly sliding out of sight, just went west.
+
+Bodhi climbs 10 feet.
+
+Klug just entered from the west.
+
+Binx asks Kiki, "what did you get?"
+
+Tylia says to Bodhi, "I am glad you are closer"
+
+Tylia smiles.
+
+Kiki says, "Wait."
+
+Dracaen says, "Merry Rinannimas"
+
+Grad says to Davide, "grad gits no toys"
+
+The tiny ruby faerie wyvern glares.
+
+Kiki nods up and down to Feletia.
+
+Klug leans on Mental.
+
+Julia just opened the closed ribbon tied wrapped present.
+
+Bodhi asks in Secian, "is this drawing soon?"
+
+Davide offers something to Grad.
+
+Feletia offers something to Kiki.
+
+Grad accepts Davide's offer.
+
+Tara asks, "So when is this raffle?"
+
+Draffut just entered from the west.
+
+Grad grins at Davide.
+
+Kiki accepts Feletia's offer.
+
+Kiki offers something to Feletia.
+
+Syai's group just entered from the west.
+
+Davide snaps his fingers at Tylia.
+
+Mental raises an eyebrow at Draffut.
+
+Laetus just removed a magickal crystalline Pentanian doll from within her open ribbon tied wrapped present.
+
+Clutter, little drag-al, just entered from the west.
+
+Dracaen asks Beauty, "Would you like some refreshments?"
+
+Grad smiles at the very large drooling Thugian doll.
+
+Tylia just removed a closed ribbon tied wrapped present from within her open large deep red velvet bag.
+
+Feletia accepts Kiki's offer.
+
+Syai says, "ok try"
+
+Julia grins as she peeks into the gift box.
+
+Kiki asks Tara, "I'll trade?"
+l at tyl
+
+Tylia looks like a 4'7" standard adolescent delicate boned, wirey-tough bodied Anthian.
+She has long, wavy, wispy light blonde hair with fragrant flowers, bluish gray eyes, and looks razor-sharp.
+She appears to be partying right now.
+She bears the mark of Sa.
+She can be attacked by other players.
+She appears to be in perfect health.
+                        Visible Equipment
+A diamond-encrusted pale blue snowflake pendant    (around neck)
+Some deep red velvet gloves                        (over hands)
+A long snowy white velvet hooded cloak             (over armor)
+A tiny diamond snowflake earring                   (right ear)
+A tiny diamond snowflake earring                   (left ear)
+A long velvet deep red dress                       (dress)
+
+She has been bestowed the following title(s):
+  Noble of the Realm
+
+Additional titles earned:
+  Merchant
+
+>
+Mental's head suddenly begins glowing. He touches Draffut briefly. The glow travels down an arm to his hand. The glow quickly spreads over Draffut's entire body, then fades away.
+
+
+Clutter, treasure hunter, just went west.
+
+Feletia beams.
+
+Tara asks Kiki, "Whaddya you have?"
+
+Tylia asks Bodhi, "you still here?"
+
+Grad exclaims to Davide, "tanks!"
+
+Tylia glances.
+
+Feletia nuzzles Kiki.
+
+Tiruna glances.
+
+Sast just removed a sweet poppy seed roll from within the ribbon tied wicker basket of bread.
+
+Bodhi nods to Tylia.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Tiruna nuzzles Saberus.
+
+Saberus purrs.
+
+Sast offers something to Magenta.
+
+Kiki taps the curly haired Human doll.
+
+Starlyn holds the silvery winged Secian doll with gem close.
+
+The tiny ruby faerie wyvern glares.
+
+Julia listens intently to Tylia.
+
+Davide says to Grad, "no problem"
+
+Grad hugs Davide a little too tightly.
+You see Tylia move up another 5 UDs!
+
+Draffut is now following Mental.
+
+Saberus smiles at Tiruna.
+
+Syai just removed a sweet poppy seed roll from within the ribbon tied wicker basket of bread.
+
+Syai just removed a sweet poppy seed roll from within the ribbon tied wicker basket of bread.
+
+Bodhi glances.
+
+Starlyn just placed an open ribbon tied wrapped present within her ribbon tied rose-colored silk hooded cloak.
+
+Davide gasps for air.
+
+The bat glares.
+
+Tylia glances.
+
+Syai just removed a sweet poppy seed roll from within the ribbon tied wicker basket of bread.
+
+Davide flails his arms about wildly at Grad.
+
+Sast grins.
+'tyl, i Love your dress
+
+Glinka says to Tylia, "i Love your dress"
+>You see Syai take a bite of her sweet poppy seed roll.
+
+Syai hiccups.
+
+Tara exclaims to Kiki, "I don't need a Human doll!"
+
+Bodhi asks Tylia in Secian, "gifts, for me?"
+
+Kiki offers something to Tara.
+
+Tara snorts.
+You see Syai take a bite of her sweet poppy seed roll.
+
+Kiki snaps her fingers.
+
+Grad says to Davide, "sorrys"
+
+Tylia nods to Bodhi.
+
+Moss has left Binx's group.
+smi at tyl impishly, tossing her long soft hair back...
+
+Vycous just placed a regal Frontacian doll with gem in head within his open ribbon tied wrapped present.
+You smile at Tylia impishly, tossing her long soft hair back...
+>
+Kiki withdraws her earlier offer.
+
+Bodhi dives out of the sky, and just as you think he will crash, he unfolds his wings and lands softly beside you.
+
+Tylia says to Bodhi, "id you come closer"
+
+Saberus says to Tiruna, "They are giving away presents for free, the dolls"
+
+Moss just went west.
+
+Davide says to Grad, "its alright"
+
+Julia beams at Tylia.
+
+Beauty just removed a tall spectacle wearing Usil Elf doll with cane from within her open ribbon tied wrapped present.
+tact
+Standing in front of you at 9 UDs, is:
+Tylia, Bodhi
+Standing in front of you at 4 UDs, is:
+Dracaen, Kiralyn, Tiruna, Dunkan, Davide, Noffbrau, Kiki, Starlyn, Mental, Feletia, Magenta, Draffut, Sast, Beauty, Tchori, Tara, Binx, Laetus, Vycous, Saberus, Syai, Klug, Silran, Grad, tiny ruby faerie wyvern, bat
+Standing in this rank is:
+Glinka
+Standing behind you at 1 UDs, is:
+Julia
+>
+Tylia offers something to Bodhi.
+
+Syai ponders the meaning of the universe for a moment.
+
+Bodhi beams smugly.
+adv tyl
+You cannot move more than 6 UDs per turn!
+You advance another 6 UDs!
+>
+Kiki sighs.
+
+Kiralyn smiles to Vycous.
+
+Tiruna sighs.
+
+Bodhi accepts Tylia's offer.
+
+Dracaen grins.
+
+The bat glares.
+
+Julia beams at Bodhi.
+
+Bodhi fans his wings at Tylia.
+
+Kiki asks Tara, "Which do you need?"
+
+Dracaen just opened the closed ribbon tied wrapped present.
+
+Syai just placed a fluffy white snowball within her open large leather backpack.
+
+Julia hops up and down.
+
+With a powerful downstroke, Bodhi soars 20 feet into the air!
+
+Syai just placed a fluffy white snowball within her open large leather backpack.
+
+Syai just placed a fluffy white snowball within her open large leather backpack.
+
+Dracaen blinks a few times.
+
+Bodhi nods to Tylia.
+
+Tiruna says, "uh, I have a grandaughter that awoudl dearly love a doll"
+You see Tylia retreat 5 UDs to the rear!
+
+Dracaen says, "I think I got a Callik doll"
+
+Noffbrau asks Beauty, "wanna trade?"
+You see Bodhi retreat 5 UDs to the rear!
+
+Tara says to Kiki, "I dunno."
+
+The band plays an ancient symphonic concerto.
+
+Dracaen just removed a bow and arrow adorned Fir Elf doll from within her open ribbon tied wrapped present.
+
+Bodhi descends 10 feet.
+
+Noffbrau taps the filthy dirty little Go-blin-al doll.
+
+Sast withdraws his earlier offer.
+' how much are the dolls?
+
+Glinka asks, " how much are the dolls?"
+>
+Tylia just removed a closed ribbon tied wrapped present from within her open large deep red velvet bag.
+rai
+You raise an eyebrow.
+>
+Sast offers something to Magenta.
+
+Klug just went west.
+
+Syai raises an eyebrow.
+
+Tiruna swishes her tail.
+
+Bodhi climbs 30 feet.
+
+Tylia asks, "who did I miss?"
+
+Beauty offers something to Noffbrau.
+
+Dracaen says to Noffbrau, "must be Kithrael. Callik uses bolts."
+
+Julia just removed a massive black Oog-ra doll with sword from within her open ribbon tied wrapped present.
+You see Bodhi retreat 5 UDs to the rear!
+
+The bat glares.
+
+Saberus says to Glinka, "Free"
+
+Tiruna says, "me"
+
+Dracaen chuckles.
+
+Julia holds the massive black Oog-ra doll with sword close.
+how
+You howl.
+>
+Saberus says to Tylia, "Me"
+
+Sast flails his arms about wildly.
+
+Tylia says to Glinka, "did you get a present"
+
+Sast withdraws his earlier offer.
+
+Binx asks, "back to the ballroom?"
+
+Dracaen offers something to Davide.
+
+Magenta offers something to Tiruna.
+free dolls?
+
+Tchori says, "me"
+Ignoring unknown command, "free."
+>
+Bodhi just opened the closed ribbon tied wrapped present.
+
+Binx raises an eyebrow at Kiki.
+stare
+You stare.
+>
+The tiny ruby faerie wyvern screeches almost silently.
+
+The bat peers at you with saucer-like eyes.
+
+Syai giggles.
+
+Davide beams at Dracaen.
+
+Binx raises an eyebrow at Feletia.
+
+Bodhi squints at the open ribbon tied wrapped present.
+
+Tchori says, "all the leuians it seems"
+nod no to tyl , her long soft kinky white-blonde hair flying gently back and forth...
+You shake your head from side to side to Tylia, her long soft kinky white-blonde hair flying gently back and forth...
+>
+Julia exclaims to Bodhi in Secian, "Black!"
+
+Davide accepts Dracaen's offer.
+
+Tylia offers something to Saberus.
+
+Sast flails his arms about wildly at Magenta.
+
+Dracaen just closed the open ribbon tied wrapped present.
+
+Tiruna accepts Magenta's offer.
+
+Beauty says to Noffbrau, "ues"
+
+Saberus accepts Tylia's offer.
+adv tyl
+
+Bodhi beams at Julia.
+
+Julia holds the massive black Oog-ra doll with sword close to Bodhi.
+
+Dracaen just placed a closed ribbon tied wrapped present within her open large leather backpack.
+You must retreat to that target.
+You cannot advance any further!
+>
+Davide hugs the bow and arrow adorned Fir Elf doll.
+
+Magenta smiles.
+
+Tylia says to Saberus, "Merry Rinannimas"
+ret tyl
+You retreat 2 UDs to the rear!
+[3 sec. delay]
+>You see Sast take a bite of his sweet poppy seed roll.
+
+Saberus just opened the closed ribbon tied wrapped present.
+
+Julia beams.
+You see Sast take a bite of his sweet poppy seed roll.
+
+Sast burps.
+
+Bodhi just removed a magnificent Dragon plush toy from within his open ribbon tied wrapped present.
+
+Saberus says to Tylia, "thank you"
+You see Sast eat the last of his half-eaten sweet poppy seed roll.
+
+Tiruna swishes her tail.
+
+Noffbrau just placed a damaged two-handed serrated emiel sling-blade within his open large hunter's leather loot bag.
+
+Magenta giggles at Sast.
+
+Tylia says, "I must go meet Malthus"
+
+Noffbrau accepts Beauty's offer.
+
+Binx waves merrily to everyone.
+
+Tiruna nuzzles Magenta.
+
+Kiki says to Binx, "Give me a second."
+
+The tiny ruby faerie wyvern screeches quietly.
+
+Tylia says, "But I will  be right back"
+
+Saberus says to Tylia, "Happy Rinannimas to you too"
+
+Laetus chuckles.
+
+Noffbrau offers something to Beauty.
+
+Julia beams at Bodhi.
+
+Magenta snuggles with Tiruna.
+
+Feletia grins at Bodhi.
+
+Magenta smiles.
+
+Bodhi exclaims to Julia in Secian, "a representation of me!"
+l
+gla

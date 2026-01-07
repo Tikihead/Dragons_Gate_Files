@@ -1,0 +1,1303 @@
+time
+
+Current time is: Sun Sep 19 21:03:07 2004 EST.
+time
+
+It is now 5:08 pm on the 9th day of the 9th month in the year 318.
+
+You have been adventuring for 17 mins, 33 secs this session.
+
+l
+>[Secian's Tree.]
+
+Colorful woven silk rugs cover the sparkling polished oak floor of this large cavernous room in the center of the ancient tree. Large soft silk-covered feather pillows lay scattered about the floor, and a shimmering crystal fountain sits in the center of the chamber. A beautiful mural has been painted on one wall and adds even more color to the room.  A blue and white silken rope leading up, a tiny oak knothole, a soft blue and white velvet sofa, a soft green silk pillow, a soft red silk pillow, a soft yellow silk pillow, and a soft blue silk pillow are here.
+
+This room is illuminated.
+In the room are Mystie the Secian (seated), Lilioth the Secian (seated), Twilight the Noble Secian (seated), Emmaline the Secian (seated), and Mieglyn the Secian (seated).
+Obvious exits: None.
+>
+Mieglyn exclaims, "It pretty!"
+
+Lilioth says in Secian, "suits you."
+inv
+Items carried:
+  An open large forest green leather backpack [0.9 lbs].
+  Some heavy bone studded steelwood brigandine [2.0 lbs].
+  An open dragon embroidered black leather backpack [0.9 lbs].
+  A delicately linked gold belly chain [0.0 lbs].
+  A large mossy opal [0.1 lbs].
+  A crescent moon earring [0.0 lbs].
+  A white silk cloak [2.7 lbs].
+  An ivory parchment wedding invitations [0.1 lbs].
+  A pair of ornate silver toe rings [0.0 lbs].
+  A small beautiful black opal [0.1 lbs].
+  Some twinkling rainbow crystal bangles [0.0 lbs].
+  An open plaid leather healer's bag [0.3 lbs].
+  Some multicolored crystal dragon wing charms [0.0 lbs].
+  A silver serpentine hoop [0.0 lbs].
+  A silver ring [0.0 lbs].
+  A moon shaped ivory talisman [0.1 lbs].
+  A long violet silk skirt [0.0 lbs].
+  A beautiful gold Secian shaped charm [0.1 lbs].
+  A short wooden stick [0.3 lbs].
+  A raspberry scented candle [0.1 lbs].
+  A large cloudy yellow pearl [0.1 lbs].
+  A gnarled olive branch [0.1 lbs].
+  An open raccoonskin pack [0.2 lbs].
+  A tiny black diamond nose ring [0.0 lbs].
+  An exquisitely carved onyx skull with amber eyes [0.2 lbs].
+
+You have 91 silver pieces and 0 gold pieces.
+
+This gives you a total net worth of 91 silver.
+
+Your inventory totals 9.2 lbs.
+>
+Mieglyn just placed an ivy embossed taper in a gold holder within her woven moonsilver silk gem pouch.
+
+
+Mieglyn nods at Twilight.
+
+Twilight smiles at Mieglyn.
+put wed in clo
+You place the ivory parchment wedding invitations within your white silk cloak.
+>
+Emmaline leans on the soft green silk pillow and rummages through her things a moment, seemingly lost in thought.
+
+Emmaline is now distant.
+
+Mystie just placed a blue pearl within her open large leather backpack.
+
+Twilight exclaims in Secian, "well, Welcome all who have made it!"
+
+Twilight beams.
+
+Mieglyn says to Lilioth, "It's wonderful. I was running out"
+gri
+You grin.
+>
+Mystie just placed a small brilliant blue crystal within her open large leather backpack.
+
+Mystie just placed a large red crystal within her open large leather backpack.
+l in bac
+Inside the open large forest green leather backpack you see a wooden shield, a bowl of rich noodle soup, an amethyst, some taffy apple salad, a mossy opal, a large brilliant mossy opal, a bright mossy opal, some light sugary tea with lemon, and some light sugary tea with lemon.
+>
+Lilioth grins at Mieglyn.
+
+Mystie just placed a heart-shaped green crystal within her open large leather backpack.
+
+Mystie just removed an open crisp white paper bag of treats from within her delicate translucent spidersilk gem pouch.
+l in 2 bac
+Inside the open dragon embroidered black leather backpack you see a swirling multicolored globe, a large shiny pearl opal, a large brilliant mossy opal, a beautiful lapis bead, some warm sweet tea, a moonsilver oil lamp, an empty small vial of jasmine tonic, a lavender filled moonsilver censer, and some sweet fragrant sticks of incense.
+>
+Twilight says in Secian, "I am hoping Starlyn wilst be able to attend as we progress. I think tis possible she didna know o' tonight."
+nod
+You nod.
+l in pac
+>There is nothing inside that.
+inv
+>Items carried:
+  An open large forest green leather backpack [0.9 lbs].
+  Some heavy bone studded steelwood brigandine [2.0 lbs].
+  An open dragon embroidered black leather backpack [0.9 lbs].
+  A delicately linked gold belly chain [0.0 lbs].
+  A large mossy opal [0.1 lbs].
+  A crescent moon earring [0.0 lbs].
+  A white silk cloak [2.8 lbs].
+  A pair of ornate silver toe rings [0.0 lbs].
+  A small beautiful black opal [0.1 lbs].
+  Some twinkling rainbow crystal bangles [0.0 lbs].
+  An open plaid leather healer's bag [0.3 lbs].
+  Some multicolored crystal dragon wing charms [0.0 lbs].
+  A silver serpentine hoop [0.0 lbs].
+  A silver ring [0.0 lbs].
+  A moon shaped ivory talisman [0.1 lbs].
+  A long violet silk skirt [0.0 lbs].
+  A beautiful gold Secian shaped charm [0.1 lbs].
+  A short wooden stick [0.3 lbs].
+  A raspberry scented candle [0.1 lbs].
+  A large cloudy yellow pearl [0.1 lbs].
+  A gnarled olive branch [0.1 lbs].
+  An open raccoonskin pack [0.2 lbs].
+  A tiny black diamond nose ring [0.0 lbs].
+  An exquisitely carved onyx skull with amber eyes [0.2 lbs].
+
+You have 91 silver pieces and 0 gold pieces.
+
+This gives you a total net worth of 91 silver.
+
+Your inventory totals 9.2 lbs.
+>
+Twilight says in Secian, "My fault probably, I wast assuming she wouldst see the calendar. But I am willing to bet she wast searching the Tree for postings."
+
+Lilioth says in Secian, "ah. Might have been."
+
+Twilight nods.
+
+Lilioth nods to Twilight.
+
+Mystie says in Secian, "its posted in the tree"
+l in he
+Inside the open plaid leather healer's bag you see an open ribbon tied satin clerical bag, a cup of peppermint hot chocolate, and a silver and gold sparkler.
+>
+Twilight asks Mystie in Secian, "The meeting time?"
+
+Lilioth says in Secian, "I didn't think of that, either."
+
+Mystie nods up and down.
+
+Twilight says in Secian, "Hrm, I will have to look again."
+who range race
+List will be restricted to those within range.
+Race who list activated!
+
+                Current Secian Adventurers:
+
+Current Adventurers
+
+ Mystie Thebes-muun                  Lilioth Golden                     
+ Glinka Dragondsfriend               Twilight Flutal                    
+ Emmaline Mapleleaf                  Mieglyn Trevalyn                   
+ Weldoian Sesca                     
+
+You notice 7 adventurers.
+>
+Twilight says in Secian, "Let us move forward anyhow."
+' i linked all in treetown before i left
+
+Glinka says, " i linked all in treetown before i left"
+shru
+>
+Mystie says in Secian, "its a bit old, was put up a week or so ago"
+You shrug.
+>
+Emmaline blinks and shakes her head quickly, clearing it.
+
+Emmaline is now happy.
+
+Twilight says in Secian, "first off. I want to express my deep felt appreciation to all who are here and to e'eryone for all your work and participation."
+
+Twilight says in Secian, "I am honestly, very excited."
+
+Twilight smiles, blushing slightly.
+
+Emmaline grins.
+gri to t
+You grin to Twilight.
+>
+Lilioth beams at Twilight.
+l
+[Secian's Tree.]
+
+Colorful woven silk rugs cover the sparkling polished oak floor of this large cavernous room in the center of the ancient tree. Large soft silk-covered feather pillows lay scattered about the floor, and a shimmering crystal fountain sits in the center of the chamber. A beautiful mural has been painted on one wall and adds even more color to the room.  A blue and white silken rope leading up, a tiny oak knothole, a soft blue and white velvet sofa, a soft green silk pillow, a soft red silk pillow, a soft yellow silk pillow, and a soft blue silk pillow are here.
+
+This room is illuminated.
+In the room are Mystie the Secian (seated), Lilioth the Secian (seated), Twilight the Noble Secian (seated), Emmaline the Secian (seated), and Mieglyn the Secian (seated).
+Obvious exits: None.
+l at rop
+>It looks like a blue and white silken rope leading up.
+l through rop
+l under rop
+l behind rop
+l on rop
+l in rop
+>[Secian's Tree, Sleeping Area.]
+
+A gentle feeling of peace and serenity drifts through this cozy room, and the light-hearted sound of birds singing in the forest around the great tree adds a wondrous music that could never be imitated.  Soft feather-filled pallets just the right sizes for Secians to sleep on rest in different spots around the room.  A blue and white silken rope leading down, a small opening in the branches, a soft pallet, a soft pallet, a soft pallet, a soft pallet, and some shimmering mirrors are here.
+
+This room is illuminated.
+Obvious exits: east*.
+>There is nothing underneath that.
+>There is nothing behind that.
+>There is nothing on top of that.
+>There is nothing inside that.
+>
+Twilight asks in Secian, "I was thinking we would start off with just business first, and then have some fun maybe with event planing? Or brainstorming on what our community wants to do."
+l in fou
+You have to open it first before you can see what is inside!
+>
+Mystie just removed a squirrel shaped pecan cookie from within her open crisp white paper bag of treats.
+
+Twilight says in Secian, "First, "
+
+Twilight chuckles.
+
+Twilight asks in Secian, "ERm, how oft shall we meet?"
+
+Twilight grins.
+' every day
+
+Glinka says, " every day"
+how
+>You howl.
+>
+Twilight says in Secian, "I think we best decide at least that much."
+
+Emmaline grins at you.
+
+Mieglyn chuckles.
+
+Twilight giggles at you.
+
+Emmaline exclaims in Secian, "Twice a day!"
+
+Twilight laughs.
+stae at em
+Ignoring unknown command, "stae."
+cac
+>You cackle.
+>
+Emmaline exclaims to Glinka in Secian, "Ya have ta meet three times!"
+
+Emmaline points at you.
+gri to em
+You grin to Emmaline.
+>
+Mieglyn asks, "Maybe twice an elven month would be good to start with?"
+
+Twilight asks in Secian, "Once a week? E'ery other week?"
+
+Emmaline nods to Mieglyn.
+
+Twilight nods to Mieglyn.
+nod
+You nod.
+>
+Lilioth nods to Mieglyn.
+
+Twilight says in Secian, "That works for me."
+
+Mystie asks in Secian, "monthly?"
+
+Lilioth says in Secian, "that seems a good time... gives us time to do stuff, but still not lose momentum"
+
+Lilioth says in Secian, "twice a month, I mean."
+l
+[Secian's Tree.]
+
+Colorful woven silk rugs cover the sparkling polished oak floor of this large cavernous room in the center of the ancient tree. Large soft silk-covered feather pillows lay scattered about the floor, and a shimmering crystal fountain sits in the center of the chamber. A beautiful mural has been painted on one wall and adds even more color to the room.  A blue and white silken rope leading up, a tiny oak knothole, a soft blue and white velvet sofa, a soft green silk pillow, a soft red silk pillow, a soft yellow silk pillow, and a soft blue silk pillow are here.
+
+This room is illuminated.
+In the room are Mystie the Secian (seated), Lilioth the Secian (seated), Twilight the Noble Secian (seated), Emmaline the Secian (seated), and Mieglyn the Secian (seated).
+Obvious exits: None.
+>
+Mieglyn asks, "This is the best day of the week I think for most of us. Yes?"
+
+Twilight says in Secian, "Well, monthly, we might miss getting some things done in a timely fashion."
+l at my
+
+Mystie looks like a 1'0" standard adolescent delicate boned, slender bodied Secian.
+She is seated.
+She has very long, wavy, kinky forest green hair, with almond shaped ruby red eyes, and looks casual.
+She appears to be happy right now.
+She bears the mark of Sa.
+She can be attacked by other players.
+She appears to be in perfect health.
+There is a shining gold emblem affixed to her clothing.
+
+Physical appearance:
+
+smi at and delicately , blushing
+She brushes back her long sea-green hair and smiles at you. she glances around, Her Turquoise wings are in constant motion and you can see the faint outline of a tattoo on her right wing.
+
+                        Visible Equipment
+A scintillating pure white diamond heart           (around neck)
+A pair of ornate silver toe rings                  (on feet)
+A mysterious pale blue ring of Sa                  (ring (right))
+A sparkling blue sapphire ring of water            (ring (right))
+A glimmering turquoise bondmate ring               (ring (right))
+A ruby and sapphire wedding band                   (ring (left))
+A brilliant diamond engagement band                (ring (left))
+A fiery star ruby earring                          (right ear)
+A fiery star ruby earring                          (left ear)
+Some shimmering blue silk harem pants              (pants)
+A sapphire blue silk halter top                    (shirt)
+A star and moon crystal charm belly chain          (on belt)
+
+She has been bestowed the following title(s):
+  Noble of the Realm
+
+>I don't see what you are referring to.
+l at lil
+>
+Twilight says in Secian, "Sundays work for me."
+
+Lilioth looks like a 1'3" standard young average boned, wirey-tough bodied Secian.
+She is seated.
+She has very short, curly, wispy platinum blonde hair, with ruby red eyes, and looks neat.
+She appears to be amused right now.
+She bears the mark of Elindale.
+She can be attacked by other players.
+
+On her wings are delicate, intricate ruby swirls that shimmer with the slightest movement.
+
+She appears to be in perfect health.
+
+Physical appearance:
+
+A tiny woodland pixie proudly bonded to Losmir the Ruby Drake
+
+                        Visible Equipment
+A ruby encrusted steelwood mail                    (armor)
+A rainbow beaded moonsilver amulet of chosens      (around neck)
+Some beaded midnight blue slippers                 (on feet)
+A silver veined ruby ring                          (ring (right))
+A Dragon and Secian etched moonsilver bond ring    (ring (left))
+A fiery star ruby earring                          (right ear)
+A fiery star ruby earring                          (left ear)
+Some baggy white silk pants                        (pants)
+A blue and white velvet bodice                     (shirt)
+An open beautiful dragon embroidered satin gem pou (on belt)
+
+She has been bestowed the following title(s):
+  Noble of the Realm
+
+>
+Lilioth nods up and down to Mieglyn.
+l
+[Secian's Tree.]
+
+Colorful woven silk rugs cover the sparkling polished oak floor of this large cavernous room in the center of the ancient tree. Large soft silk-covered feather pillows lay scattered about the floor, and a shimmering crystal fountain sits in the center of the chamber. A beautiful mural has been painted on one wall and adds even more color to the room.  A blue and white silken rope leading up, a tiny oak knothole, a soft blue and white velvet sofa, a soft green silk pillow, a soft red silk pillow, a soft yellow silk pillow, and a soft blue silk pillow are here.
+
+This room is illuminated.
+In the room are Mystie the Secian (seated), Lilioth the Secian (seated), Twilight the Noble Secian (seated), Emmaline the Secian (seated), and Mieglyn the Secian (seated).
+Obvious exits: None.
+>
+smi at Lilioth wryly
+Lilioth smiles at you.
+You smile at Lilioth wryly.
+l at t
+>
+Twilight looks like a 1'1" standard adolescent average boned, wirey-tough bodied Secian.
+She is seated.
+She has very short, curly, medium golden blonde hair, with ruby red eyes, and looks casual.
+She appears to be frustrated right now.
+She bears the mark of Sa.
+She can be attacked by other players.
+
+On her wings are delicate, intricate bronze swirls that shimmer with the slightest movement.
+
+She appears to be in perfect health.
+There is a shining gold emblem affixed to her clothing.
+
+Physical appearance:
+
+A rekindled vibrance of spirit shines through bright, yet thoughtful eyes. Small spectacles adorn her head, hinting at her love of study. Added color now enhances the usual translucent violet tener of her wings.
+
+                        Visible Equipment
+A light silver etched morbius brigandine           (armor)
+A pair of delicate violet rimmed reading glasses   (on head)
+A shimmering violet sapphire necklace of dusk      (around neck)
+Some delicate silver-trimmed lilac slippers        (on feet)
+A flowing diaphanous sapphire twilight stole       (over armor)
+A rich deep lilac silk frock                       (dress)
+A fine lavender silk petticoat                     (pants)
+A closed soft leather scribe's kit                 (on belt)
+
+She has been bestowed the following title(s):
+  Noble of the Realm
+
+>
+Twilight asks in Secian, "And the time?"
+l
+[Secian's Tree.]
+
+Colorful woven silk rugs cover the sparkling polished oak floor of this large cavernous room in the center of the ancient tree. Large soft silk-covered feather pillows lay scattered about the floor, and a shimmering crystal fountain sits in the center of the chamber. A beautiful mural has been painted on one wall and adds even more color to the room.  A blue and white silken rope leading up, a tiny oak knothole, a soft blue and white velvet sofa, a soft green silk pillow, a soft red silk pillow, a soft yellow silk pillow, and a soft blue silk pillow are here.
+
+This room is illuminated.
+In the room are Mystie the Secian (seated), Lilioth the Secian (seated), Twilight the Noble Secian (seated), Emmaline the Secian (seated), and Mieglyn the Secian (seated).
+Obvious exits: None.
+l at em
+>
+Emmaline looks like a 1'2" standard mature light boned, wirey-tough bodied Secian.
+She is seated.
+She has short, wild, wispy golden blonde hair, with orangish red eyes, and looks disheveled.
+She appears to be happy right now.
+She bears the mark of Rinanni.
+She can be attacked by other players.
+She appears to be in perfect health.
+
+Physical appearance:
+
+Bright amber-colored eyes; a round, childlike face; laugh lines. Freckles. A cloud of baby-fine hair, more white than blond, unkempt.  Frail white wings, faintly scarred; a disheveled blue cardigan; small, wrinkled hands.  Muddy toes.
+
+                        Visible Equipment
+Some green and white spectacles                    (on head)
+A flowing white emerald clasped cloak              (over armor)
+A brilliant white ivory ring of Rinanni            (ring (right))
+A pearl ring of Rinanni                            (ring (right))
+A pale green cotton dress                          (dress)
+A midnight blue wool sweater                       (shirt)
+
+She has been bestowed the following title(s):
+  Noble of the Realm
+
+>
+snu with Lilioth
+Lilioth nuzzles you.
+You snuggle with Lilioth.
+l at mi
+>
+Mieglyn looks like a 1'6" standard young average boned, wirey-tough bodied Secian.
+She is seated.
+She has shoulder length, wavy, wispy platinum blonde hair, with pale red eyes, and looks spotless.
+She appears to be happy right now.
+She bears the mark of Elindale.
+She can be attacked by other players.
+She appears to be in perfect health.
+                        Visible Equipment
+A heavy polished steelwood mail                    (armor)
+An exquisite feathered broad-brimmed hat           (on head)
+A pair of ivy embossed leather gloves              (over hands)
+Some soft crimson doeskin boots                    (on feet)
+An ivy green wool traveling cloak                  (over armor)
+A bear etched amber ring                           (ring (right))
+An emerald ring                                    (ring (right))
+A sapphire ring                                    (ring (right))
+A garnet ring                                      (ring (left))
+An emerald eyed platinum owl's head ring           (ring (left))
+A softly tinkling crystal bell                     (right ear)
+A softly tinkling crystal bell                     (left ear)
+Some tight black leather pants                     (pants)
+A long flowing red silk blouse                     (shirt)
+A woven moonsilver silk gem pouch                  (on belt)
+>
+smile
+wink at Emmaline
+Emmaline is looking at you.
+You smile.
+>
+>You wink at Emmaline.
+l
+>
+Twilight asks in Secian, "Does this time work for e'erryone?"
+
+Emmaline winks back.
+[Secian's Tree.]
+
+Colorful woven silk rugs cover the sparkling polished oak floor of this large cavernous room in the center of the ancient tree. Large soft silk-covered feather pillows lay scattered about the floor, and a shimmering crystal fountain sits in the center of the chamber. A beautiful mural has been painted on one wall and adds even more color to the room.  A blue and white silken rope leading up, a tiny oak knothole, a soft blue and white velvet sofa, a soft green silk pillow, a soft red silk pillow, a soft yellow silk pillow, and a soft blue silk pillow are here.
+
+This room is illuminated.
+In the room are Mystie the Secian (seated), Lilioth the Secian (seated), Twilight the Noble Secian (seated), Emmaline the Secian (seated), and Mieglyn the Secian (seated).
+Obvious exits: None.
+>
+Mystie asks in Secian, "9 or 10?"
+
+Mieglyn asks, "Is this too early or late for anyone?"
+
+Lilioth says in Secian, "Either is fine with me... I'm open."
+' any tyme after now is good
+
+Glinka says, " any tyme after now is good"
+nod
+>You nod.
+>
+Twilight nods.
+
+Emmaline says in Secian, "Sure, I like either."
+
+Emmaline nods.
+
+Twilight says in Secian, "Well then... give me a moment."
+inv
+Items carried:
+  An open large forest green leather backpack [0.9 lbs].
+  Some heavy bone studded steelwood brigandine [2.0 lbs].
+  An open dragon embroidered black leather backpack [0.9 lbs].
+  A delicately linked gold belly chain [0.0 lbs].
+  A large mossy opal [0.1 lbs].
+  A crescent moon earring [0.0 lbs].
+  A white silk cloak [2.8 lbs].
+  A pair of ornate silver toe rings [0.0 lbs].
+  A small beautiful black opal [0.1 lbs].
+  Some twinkling rainbow crystal bangles [0.0 lbs].
+  An open plaid leather healer's bag [0.3 lbs].
+  Some multicolored crystal dragon wing charms [0.0 lbs].
+  A silver serpentine hoop [0.0 lbs].
+  A silver ring [0.0 lbs].
+  A moon shaped ivory talisman [0.1 lbs].
+  A long violet silk skirt [0.0 lbs].
+  A beautiful gold Secian shaped charm [0.1 lbs].
+  A short wooden stick [0.3 lbs].
+  A raspberry scented candle [0.1 lbs].
+  A large cloudy yellow pearl [0.1 lbs].
+  A gnarled olive branch [0.1 lbs].
+  An open raccoonskin pack [0.2 lbs].
+  A tiny black diamond nose ring [0.0 lbs].
+  An exquisitely carved onyx skull with amber eyes [0.2 lbs].
+
+You have 91 silver pieces and 0 gold pieces.
+
+This gives you a total net worth of 91 silver.
+
+Your inventory totals 9.2 lbs.
+>You see Mieglyn take a bite of her sweet multicolored pixie stick.
+
+Twilight says in Secian, "I move that the Circle o' Empathy shall meet, twice on Elven month. On the sunday, no sooner than 9pm elven."
+
+Twilight asks in Secian, "And seconds?"
+
+Emmaline grins.
+l in clo
+Inside the white silk cloak you see an ivory parchment wedding invitations, a black winged bat shaped amulet, a white key, a small white diamond, a tiny moonsilver tongue piercing, a small white diamond, a pair of ornate silver toe rings, a silver rose shaped key, a gleaming golden nugget, a delicately linked gold belly chain, a small deck of fortune cards, and a lantern.
+>
+Mieglyn says, "Aye"
+
+Emmaline says in Secian, "Seconded."
+' second
+
+Glinka says, " second"
+>
+Mystie says in Secian, "second"
+
+Twilight laughs.
+
+Emmaline says in Secian, "An' thirded, and fourthed."
+
+Mystie says in Secian, "thirded"
+
+Mieglyn laughs.
+
+Emmaline grins merrily.
+
+Lilioth asks in Secian, "fifth?"
+
+Lilioth winks at Twilight.
+
+Emmaline says in Secian, "Them too."
+gri
+You grin.
+>
+Twilight says in Secian, "I guess that means the motion is carried."
+
+Twilight giggles.
+
+Lilioth laughs.
+
+Emmaline grins.
+
+Emmaline says in Secian, "I never been in a group what agreed so much, I love these meetin's."
+
+Emmaline nods happily.
+
+Mieglyn chuckles.
+
+Lilioth grins at Emmaline.
+gri
+You grin.
+>
+Mystie says to Emmaline in Secian, "give me time to find something to argue with"
+
+Emmaline exclaims to Mystie in Secian, "NO!"
+sp secian
+You are now speaking Secian.
+>
+Emmaline listens intently to Mystie.
+
+Emmaline says to Mystie in Secian, "Go on, say yes."
+
+Mystie says to Emmaline in Secian, "yes"
+
+Emmaline beams.
+
+Mystie giggles.
+
+Emmaline exclaims in Secian, "There we go!"
+
+Emmaline blushes.
+
+Emmaline listens intently to Twilight.
+l
+[Secian's Tree.]
+
+Colorful woven silk rugs cover the sparkling polished oak floor of this large cavernous room in the center of the ancient tree. Large soft silk-covered feather pillows lay scattered about the floor, and a shimmering crystal fountain sits in the center of the chamber. A beautiful mural has been painted on one wall and adds even more color to the room.  A blue and white silken rope leading up, a tiny oak knothole, a soft blue and white velvet sofa, a soft green silk pillow, a soft red silk pillow, a soft yellow silk pillow, and a soft blue silk pillow are here.
+
+This room is illuminated.
+In the room are Mystie the Secian (seated), Lilioth the Secian (seated), Twilight the Noble Secian (seated), Emmaline the Secian (seated), and Mieglyn the Secian (seated).
+Obvious exits: None.
+>
+Twilight says in Secian, "Sorry..."
+
+Lilioth raises her hand.
+
+Twilight nods to Lilioth.
+
+Lilioth coughs lightly.
+
+Twilight says to Lilioth in Secian, "Go ahead."
+
+Lilioth says in Secian, "well, it occurs to me that the ones here obviously don't have any difficulty with the day or time, but..."
+
+Lilioth asks in Secian, "the ones who aren't might need to be polled?"
+
+Lilioth says in Secian, "sorry."
+
+Lilioth furrows her brow.
+
+Twilight nods to Lilioth.
+nod to li
+You nod to Lilioth.
+>
+Mieglyn says, "No that's a good point"
+
+Twilight says to Lilioth in Secian, "Well, your point is well taken."
+' mebbe an alternate day an tyme...saturday elvish daytyme?
+
+Glinka asks in Secian, " mebbe an alternate day an tyme...saturday elvish daytyme?"
+>
+Twilight says in Secian, "I have a few thoughts on that."
+list to t
+You listen intently to Twilight.
+>
+Twilight says in Secian, "If we spend all our time trying to accomodate everyone. Truth be told, we will accomplish very little. Now... it is true we dona wish to alienate other kyn."
+
+Lilioth nods to Twilight.
+
+Twilight says in Secian, "What we canst do, and in fact, what I think we already intend to do, is post the minutes o' this meeting upon the Tree. Our dear Mieglyn shall have that wonderous task."
+
+Twilight winks at Mieglyn.
+
+Mieglyn chuckles.
+
+Lilioth beams at Mieglyn.
+
+Twilight says in Secian, "And cheers to her, for taking on this job."
+
+Emmaline salutes to Mieglyn.
+
+Lilioth exclaims in Secian, "yes!"
+
+Twilight fans her wings at Mieglyn.
+
+Emmaline grins.
+appl to mi
+You applaud to Mieglyn.
+>
+Mieglyn says, "I got it taken care of.  These'll be up later tonight"
+
+Lilioth exclaims in Secian, "Meggie, I am forever in your debt!"
+
+Mystie asks Twilight in Secian, "give a 3 day voting period for things that need votes?"
+nod yes to my
+You nod up and down to Mystie.
+>
+Twilight says in Secian, "I think, that if we make it clear, that we wish to hear from our community if they have a problem. Then things will work well."
+
+Emmaline nods.
+
+Lilioth nods slowly.
+
+Lilioth says in Secian, "yes, that's probably the best course."
+
+Mystie says in Secian, "don't make it "if they have a problem" make it that you want thier voices heard"
+
+Twilight says in Secian, "For example, if Mieglyn places at the bottem o' the scroll a place for others to post their issues, then we can easily hear from others who might have a problem quickly."
+nod
+You nod.
+>
+Lilioth says in Secian, "true."
+
+Twilight says in Secian, "It is entirely possible, nobody will have a problem."
+
+Lilioth grins.
+
+Emmaline nods hopefully.
+
+Lilioth says in Secian, "one hopes."
+
+Mieglyn asks in Secian, "Would you like these opinions on the scroll or sent to someone?"
+
+Mystie says to Twilight in Secian, "but we still want to hear from all that can"
+
+Lilioth says in Secian, "but let's try it and see how it works out."
+
+Twilight nods up and down to Mystie.
+
+Mieglyn asks in Secian, "or both?"
+
+Twilight says in Secian, "We have to remember, not all will ever make every meeting. But keeping information available, is key to keeping all as involved as possible."
+
+Mieglyn nods.
+
+Lilioth says in Secian, "oh, I think right on the scroll... makes it easier for some folks. Both would work, too."
+
+Mystie says in Secian, "it might be best to have them posted so others can see"
+
+Mieglyn says in Secian, "Alrighty then"
+
+Lilioth nods to Twilight.
+
+Twilight says to Mieglyn in Secian, "Aye, I think posting the minutes upon the Tree for all ist best."
+who range race
+List will be restricted to those within range.
+Race who list activated!
+
+                Current Secian Adventurers:
+
+Current Adventurers
+
+ Mystie Thebes-muun                  Lilioth Golden                     
+ Sevi Arminia                        Glinka Dragondsfriend              
+ Twilight Flutal                     Emmaline Mapleleaf                 
+ Mieglyn Trevalyn                    Weldoian Sesca                     
+
+You notice 8 adventurers.
+>
+Twilight says in Secian, "Second, just a bit o' business. Elections. We agreed upon e'ery Aradathian year."
+
+Lilioth says in Secian, "That way word will get around quickly, too."
+link hi Sevi
+
+>
+Twilight nods to Lilioth.
+
+
+link is a meetin inna tree if you are free
+
+>
+Mystie says in Secian, "and posting on the tree wont let this group be missed by new kyn"
+
+Twilight nods to Mystie.
+
+Lilioth grins and nods.
+
+Twilight asks in Secian, "do we feel ready to move on from this subject then?"
+
+
+Mieglyn nods.
+
+Emmaline exclaims in Secian, "Onward an' upward!"
+
+Twilight says to Mieglyn in Secian, "Ok, Twice an Elven month. On the sunday."
+
+Twilight smiles.
+link yupyup, brimg Weldo if ya hve to drag im!
+
+>
+
+Mieglyn says in Secian, "Got it and minutes posted afterwards"
+
+
+
+
+link come one come all, come now!
+
+>
+
+Luminous beams of light begin to coalesce in center of the area.
+
+Sast's form suddenly appears in a flash of celestial light!
+
+Twilight asks in Secian, "Next, elections, we agreed to make them once every Aradathian year. So, when do we hold the next one?"
+l at sas
+I don't see what you are referring to.
+l at sa
+>I don't see what you are referring to.
+l
+>[Secian's Tree.]
+
+Colorful woven silk rugs cover the sparkling polished oak floor of this large cavernous room in the center of the ancient tree. Large soft silk-covered feather pillows lay scattered about the floor, and a shimmering crystal fountain sits in the center of the chamber. A beautiful mural has been painted on one wall and adds even more color to the room.  A blue and white silken rope leading up, a tiny oak knothole, a soft blue and white velvet sofa, a soft green silk pillow, a soft red silk pillow, a soft yellow silk pillow, and a soft blue silk pillow are here.
+
+This room is illuminated.
+In the room are Mystie the Secian (seated), Lilioth the Secian (seated), Twilight the Noble Secian (seated), Emmaline the Secian (seated), and Mieglyn the Secian (seated).
+Obvious exits: None.
+>
+Luminous beams of light begin to coalesce in center of the area.
+
+Sast's form suddenly appears in a flash of celestial light!
+gla about
+You glance about.
+>
+Twilight says in Secian, "This ist the Elven monthh o' September. But we are at the end o' it. Our first meeting."
+l at sa
+I don't see what you are referring to.
+>
+Emmaline blinks.
+
+link cant do it sast
+
+>
+
+Mieglyn asks in Secian, "Begining of elven April?"
+
+
+Lilioth stands up.
+
+Lilioth, You blink and she's gone,, just went through a tiny oak knothole.
+
+
+list
+You listen intently.
+>
+Mystie asks in Secian, "what festivals are in April?"
+
+Twilight says in Secian, "So we canst count our six elven months from September. Or Count them from the Elven month o' October. Which would put elections in either February, terms starting in March. Or elections in March, terms starting in April."
+
+Mieglyn says in Secian, "I was thinking elect in march with terms in April"
+
+Twilight says in Secian, "Once we have it set up, it should just roll around normally e'ery year."
+nod yes to mi
+
+Mieglyn nods.
+You nod up and down to Mieglyn.
+>
+Mystie asks in Secian, "is the re a festival near that time?"
+nod to t
+You nod to Twilight.
+>
+Twilight asks in Secian, "Um, hrm... anyone know the festival calendars?"
+
+Mieglyn says in Secian, "Ya know I don't know. "
+
+Emmaline fidgets.
+nod no to t , her long soft kinky white-blonde hair flying gently back and forth...
+You shake your head from side to side to Twilight, her long soft kinky white-blonde hair flying gently back and forth...
+>
+Emmaline scratches her head.
+
+Lilioth, Ruby wings sparkling in the light,, just entered through a tiny oak knothole.
+
+Lilioth chuckles.
+
+Lilioth sits down.
+
+Sast, wings swirling with emerald light, just entered through a tiny oak knothole.
+
+Sast sits down.
+l at sa
+
+Sast looks like a 1'5" standard adolescent light boned, stocky bodied Secian.
+He is seated.
+He has very long, wavy, fine forest green hair with sparkling highlights, ruby red eyes, and looks neat.
+He appears to be grumpy right now.
+He bears the mark of Rinanni.
+He can be attacked by other players.
+
+On his right shoulder a tattoo of a Secian encased in an aura of mystical fire stretching her arms towards the sky.
+
+On his left shoulder is a tattoo of a tiny Secian boy surrounded by the brilliant blue glow of holy light.
+
+On his wings are delicate, intricate emerald swirls that shimmer with the slightest movement.
+
+He appears to be in perfect health.
+
+Physical appearance:
+
+You see a secian with swirling emerald wings and lively sparkling eyes. He wears two tags. One is engraved with 'I belong to Magenta' and the other with 'Bonded to Amedeo Memnoch the Emerald'.
+
+                        Visible Equipment
+A heavy polished steelwood mail                    (armor)
+A brightly gleaming emerald jewel                  (around neck)
+Some polished black leather boots                  (on feet)
+A hooded forest green broadcloth healer's cloak    (over armor)
+A scintillating diamond wedding ring               (ring (right))
+An entwined pearl band of love birds               (ring (right))
+A twinkling diamond bondmate ring                  (ring (right))
+An opal ring                                       (ring (left))
+A gleaming dragon-etched emerald band              (ring (left))
+A glittering red garnet ring of fire               (ring (left))
+A brilliant white ivory ring of Rinanni            (ring (left))
+An emerald stud                                    (left ear)
+Some forest green spidersilk clerical robes        (dress)
+Some forest green spidersilk pants                 (pants)
+A forest green spidersilk blouse                   (shirt)
+Some holy pure white pearl prayer beads            (on belt)
+A holy white satin sash of doves                   (on belt)
+A satin-lined emerald green velvet gem pouch       (on belt)
+
+He has been bestowed the following title(s):
+  Noble of the Realm
+
+>
+Mystie says in Secian, "I was thinking we could celebrate the elections with an anuall festival for it"
+
+Emmaline waves to Sast.
+
+Sast says in Secian, "Phew. I thought I would miss everything"
+
+Sast flails his arms about wildly.
+
+Lilioth says in Secian, "Dep'a is outside sniffing over not being invited to "the party""
+
+Lilioth grins and shakes her head.
+
+Sast blinks.
+l at gl
+You find something suitably reflective and gaze into it...
+
+You look like a 1'2" standard adolescent delicate boned, wirey-tough bodied Secian Cleric.
+You are seated.
+You have very long, wild, kinky white hair with a white streak, heavy lidded pale red eyes, and look filthy.
+You appear to be frightened right now.
+You can be attacked by other players.
+
+On her breast is a small crescent shaped birthmark.
+
+On her neck is a purple marked tattoo of the house of Mandor.
+
+On her belly is a tark tribal circle around the navel.
+
+On her back are glimmering deep Hyacinth wings with draconic runes in Golde upon them.
+
+You appear to be in perfect health.
+There is a shining gold emblem affixed to your clothing.
+
+Physical appearance:
+
+You see an ageless, tymless, spryte with long wild kinky whyte hair with a glowing whyte streak and sleepy eyes...She is shivering in the cold wind to Valhalla...She has touched the Sky...
+
+                        Visible Equipment
+Some heavy bone studded steelwood brigandine       (armor)
+A tiny black diamond nose ring                     (on head)
+A beautiful gold Secian shaped charm               (around neck)
+A pair of ornate silver toe rings                  (on feet)
+Some multicolored crystal dragon wing charms       (over armor)
+A silver ring                                      (ring (left))
+A silver serpentine hoop                           (right ear)
+A crescent moon earring                            (left ear)
+A long violet silk skirt                           (pants)
+A delicately linked gold belly chain               (on belt)
+
+You have been bestowed the following title(s):
+  Noble of the Realm
+
+>
+Mieglyn chuckles.
+
+Sast asks in Secian, "This is a party?"
+
+Emmaline exclaims in Secian, "He dun' FIT! We TRIED that once!"
+
+Lilioth laughs.
+
+Emmaline exclaims in Secian, "The tree almost broke!"
+
+Sast grins at Emmaline.
+
+Lilioth says in Secian, "he knows."
+
+Lilioth winks at Emmaline.
+l at kno
+It looks like a tiny oak knothole.
+>
+Emmaline says in Secian, "oh"
+l through kno
+l under kno
+l behind kno
+l on kno
+l in kno
+[Forest path.]
+
+The path seems to be disappearing before your very eyes. Travel any way but back to the northwest is blocked by foliage so dense as to prevent any further passage into the forest. An ancient oak tree festooned with bright colorful silk ribbons stands to the side of the disappearing path. Sparkling trinkets and gems hang from every available branch, a  cheerful tinkling noise filling the air with the slightest breeze.  A giant ancient oak tree, a fragrant bluish Secian rose, a tiny oak knothole, some swirling multicolored paper hanging lanterns, and some flowing colorful paper streamers are here.
+
+This area is illuminated.
+In the area are Depravato'a the Noble Dragon (lying down) and Mirrdae the Drake (seated).
+Obvious paths: northwest*.
+>There is nothing underneath that.
+>There is nothing behind that.
+>There is nothing on top of that.
+>There is nothing inside that.
+>
+Emmaline nods.
+
+Sast says in Secian, "I bet he was teasing"
+stand very quickly, her long soft kinky pure whyte hair making a rustling sound...
+You stand up very quickly, her long soft kinky pure whyte hair making a rustling sound....
+go kno
+>[Forest path.]
+
+The path seems to be disappearing before your very eyes. Travel any way but back to the northwest is blocked by foliage so dense as to prevent any further passage into the forest. An ancient oak tree festooned with bright colorful silk ribbons stands to the side of the disappearing path. Sparkling trinkets and gems hang from every available branch, a  cheerful tinkling noise filling the air with the slightest breeze.  A giant ancient oak tree, a fragrant bluish Secian rose, a tiny oak knothole, some swirling multicolored paper hanging lanterns, and some flowing colorful paper streamers are here.
+
+This area is illuminated.
+In the area are Depravato'a the Noble Dragon (lying down) and Mirrdae the Drake (seated).
+Obvious paths: northwest*.
+hu d
+>You hug Depravato'a.
+hu m
+>You hug Mirrdae.
+cac
+>You cackle.
+go kno
+>[Secian's Tree.]
+
+Colorful woven silk rugs cover the sparkling polished oak floor of this large cavernous room in the center of the ancient tree. Large soft silk-covered feather pillows lay scattered about the floor, and a shimmering crystal fountain sits in the center of the chamber. A beautiful mural has been painted on one wall and adds even more color to the room.  A blue and white silken rope leading up, a tiny oak knothole, a soft blue and white velvet sofa, a soft green silk pillow, a soft red silk pillow, a soft yellow silk pillow, and a soft blue silk pillow are here.
+
+This room is illuminated.
+In the room are Mystie the Secian (seated), Lilioth the Secian (seated), Twilight the Noble Secian (seated), Emmaline the Secian (seated), Mieglyn the Secian (seated), and Sast the Secian (seated).
+Obvious exits: None.
+>
+Lilioth chuckles.
+sit quietly with a wry smile upon her hyacinth lips...
+You sit down quietly with a wry smile upon her hyacinth lips....
+>
+Twilight says in Secian, "Ok, I dona believe there are any Festivals during that time. At least, not any religious ones."
+
+Lilioth asks in Secian, "April?"
+
+Twilight says in Secian, "March or april."
+
+Sast ponders.
+
+Mieglyn says in Secian, "I think there is a magic festival in Emjedah in April according to my calendar"
+
+Sast says in Secian, "I don't there are either"
+
+Lilioth asks in Secian, "When is the Magick Festival in Emjeda?"
+
+Sast says in Secian, "Oh"
+pon the festival of the Circle of Empathy
+You ponder the festival of the Circle of Empathy.
+>
+Twilight says in Secian, "So, Here is my motion. Let me think out the wording for a bit so we are all clear."
+
+Mystie says in Secian, "elect in March, festival in April bringing in the new people for all to meet them"
+
+Sevi, murmuring about an onyx dragon, just entered through a tiny oak knothole.
+
+Sevi curtsies.
+
+Mieglyn nuzzles Sevi.
+l at se
+
+Sast grins.
+
+Sevi looks like a 1'8" standard adolescent light boned, stocky bodied Secian.
+She has short, unbridled, wispy platinum blonde hair, with ruby red eyes, and looks neat.
+She appears to be frustrated right now.
+She bears the mark of Sa.
+She can be attacked by other players.
+
+On her wings are delicate, intricate copper swirls that shimmer with the slightest movement.
+
+She appears to be in perfect health.
+
+Physical appearance:
+
+Sevi's gossamer wings flutter constantly and shimmering flecks of glitter seem to swirl and blend around her tiny figure. A cherubic face always ready with a whimsical smile is framed by the unruly tangle of her hair.
+
+                        Visible Equipment
+A glowing finely woven silver mesh cage of firefli (left hand)
+A delicate circlet of silverbells                  (on head)
+A delicate crystalla rose inside a teardrop        (around neck)
+A pair of embroidered plum velvet mules            (on feet)
+A yellow diamond sun chosen ring                   (ring (right))
+An entwined carved ivory dragon and secian         (ring (right))
+A glowing azure diamond ring of air                (ring (left))
+An amethyst dragon engagement ring                 (ring (left))
+A glittering diamond stud                          (right ear)
+A glittering diamond stud                          (left ear)
+A pair of creamy white crepe pants                 (pants)
+A satin trimmed plum velvet bodice                 (shirt)
+
+She has been bestowed the following title(s):
+  Noble of the Realm
+
+>
+Emmaline waves to Sevi.
+
+Lilioth grins at Sevi.
+
+Sevi hugs Mieglyn.
+
+Sast waves to Sevi.
+
+Sevi sits down.
+
+Sevi says in Secian, "Sorry to be late."
+wh to sas all womyn, and jus one hunk
+You whisper to Sast in Secian.
+bat at sas
+>You bat your eyes at Sast.
+>
+Sast laughs.
+
+Twilight says in Secian, "I move that we hold elections in the Elven month of March, terms to begin in the Elven month of April. And then Elections in the elven month of September, terms to begin in October. And continue that rotation."
+gri
+You grin.
+nod yes to t
+>You nod up and down to Twilight.
+>
+Mystie says to Mieglyn in Secian, "a small gathering of Secians wont bother the Emjedah festival of magick"
+' second
+
+Glinka says in Secian, " second"
+>
+Sast whispers in Secian, "Who me? I'm old and clumbsy"
+
+Twilight asks in Secian, "And discussion?"
+wh to sas and quite a cutie
+You whisper to Sast in Secian.
+>
+Emmaline exclaims to Twilight in Secian, "Fourth an' sixth-ed!"
+
+Twilight asks in Secian, "All in favor?"
+
+Lilioth says in Secian, "ah, that sounds good."
+
+Lilioth says in Secian, "Aye."
+
+Sast blushes.
+' aye
+
+Glinka says in Secian, " aye"
+>
+Mieglyn says to Mystie in Secian, "I should hope not.  This should work out well."
+
+Twilight nuzzles Sast.
+
+Sevi says in Secian, "Aye."
+
+Emmaline exclaims in Secian, "Aye!"
+
+Twilight says in Secian, "Motion carried."
+
+Twilight giggles.
+
+Emmaline grins.
+
+Sast beams.
+
+Twilight says in Secian, "Now, one more slightly official thing."
+' you guys move twice as fast as the ol OSL
+
+Glinka says in Secian, " you guys move twice as fast as the ol OSL"
+cou
+>You cough.
+>
+Emmaline nods to you.
+
+Lilioth chuckles.
+
+Twilight leans on you.
+
+Emmaline blinks, wide-eyed.
+
+Twilight asks Glinka in Secian, "I am most sorry. ARe ye nay being heard?"
+
+Emmaline exclaims to Twilight in Secian, "It's a good thing!"
+
+Twilight giggles.
+wh to t sorries
+You whisper to Twilight in Secian.
+>
+Twilight exclaims in Secian, "Oh!"
+
+Twilight whispers in Secian, "No need. do you have something to say?"
+nod no to t , her long soft kinky white-blonde hair flying gently back and forth...
+You shake your head from side to side to Twilight, her long soft kinky white-blonde hair flying gently back and forth...
+blu
+>You blush.
+>
+smi at Twilight softly, winking..
+Twilight smiles at you.
+You smile at Twilight softly, winking..
+>
+Twilight asks in Secian, "Ok ARe we good to move on then?"
+nod
+You nod.
+>
+Mystie asks in Secian, "what's the next thing?"
+
+Emmaline says to Twilight in Secian, "We tried a do too much over scrolls, it ended up with a lot a parchments an' not as many parties with snacks."
+
+Sast listens intently.
+
+Emmaline winks.
+
+Sast grins.
+
+Emmaline just removed a fresh baked apple pie from within her open leather healer's bag.
+
+Sevi grins at Emmaline.
+You see Emmaline take a bite of her fresh baked apple pie.
+wh to em :: giggles::
+You whisper to Emmaline in Secian.
+>
+Emmaline blushes and wipes her mouth.
+
+Twilight says in Secian, "We last had three potential positions that we put on hold to discuss further. Historian, official name undecided, Friend o' New Kyn, and Draconic laison, official name undecided as well."
+
+Twilight says in Secian, "I thought we wouldst take just one o' these positions per meeting. Get them settled and hold elections individually for them."
+
+Twilight says in Secian, "Which do we feel ist most important to settle first."
+
+Mystie says to Twilight in Secian, "I volunteered for whichever you needed"
+pon softly
+You ponder softly.
+>
+Twilight grins at Mystie.
+
+Mieglyn says in Secian, "I was thinking the new kyn position may be needed first"
+' new kyn would be my guess
+
+Glinka says in Secian, " new kyn would be my guess"
+>
+Twilight nods.
+
+Lilioth says in Secian, "Well, I think New Kyn."
+nod yes to mi
+You nod up and down to Mieglyn.
+>
+Mieglyn giggles.
+
+Twilight says in Secian, "Ok then. New Kyn."
+
+Sast grins.
+
+Lilioth says in Secian, "I just had a thought...."
+stare at li
+
+Twilight nods to Lilioth.
+You stare at Lilioth.
+gri
+>You grin.
+>
+Emmaline pokes you.
+
+Lilioth asks in Secian, "maybe it could be a rotating thing?"
+
+Mieglyn laughs.
+blu
+You blush.
+>
+Mystie says in Secian, "we need an expert on shopping for that"
+
+wink back Impishly!
+Lilioth winks at you.
+You wink back Impishly!
+>
+Twilight asks in Secian, "rotating in what way?"
+' widdershins
+
+Glinka says in Secian, " widdershins"
+rai at t
+>You raise an eyebrow at Twilight.
+>
+Lilioth says in Secian, "well, each Meeting, the next person "up" would take the responsibility. For the half month."
+
+smi at Twilight delicately , blushing
+Twilight smiles at you.
+You smile at Twilight delicately , blushing.
+>
+Twilight furrows her brow.
+
+Twilight says to Lilioth in Secian, "I'm not certain I follow you."
+
+Mystie shakes her head from side to side.
+
+Lilioth says in Secian, "cause I know some folks are truly concerned about the position."
+' keep all the young ones from tire ing us out
+
+Glinka says in Secian, " keep all the young ones from tire ing us out"
+>
+Lilioth says in Secian, "about how it caused problems before"
+
+Mystie says in Secian, "we need something more permanent than that"
+
+Emmaline raises her hand.
+
+Twilight says in Secian, "Well, I am unfamiliar with the problems. I'm afraid."
+
+Sevi coughs softly, clearing her throat and raising her hand.
+list
+' brb

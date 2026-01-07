@@ -1,0 +1,36 @@
+time
+
+Current time is: Wed Sep  7 06:24:35 2005 EST.
+
+It is now 11:51 am on the 14th day of the 8th month in the year 320.
+
+You have been adventuring for 19 secs this session.
+
+l
+>[Bard's Guild.]
+
+Bard instructors give lessons to those new to the trade in the arts of performance, poetry, music, writing, singing, borrowing a bit of coin from your audience, and more! The world famous Hithual singer, Golga Greybeard, leads the instruction for a number of aspiring would-be performers. Judging by the interesting noises filling the air, this must be one of their first lessons. On the stage toward the far end of the room, the more experienced bards perform for a small gathering.  A large polished oak stage and an open large carved oak instrument bin are here.
+
+This room is illuminated.
+Obvious exits: south*.
+who all
+>Full who list activated!
+
+Current Adventurers
+
+ Glinka Dragondsfriend              
+
+You notice 1 adventurer.
+how
+>You howl.
+yell i am the Queen of the WORLD!
+>
+Glinka yells, "i am the Queen of the WORLD!"
+l
+>[Bard's Guild.]
+
+Bard instructors give lessons to those new to the trade in the arts of performance, poetry, music, writing, singing, borrowing a bit of coin from your audience, and more! The world famous Hithual singer, Golga Greybeard, leads the instruction for a number of aspiring would-be performers. Judging by the interesting noises filling the air, this must be one of their first lessons. On the stage toward the far end of the room, the more experienced bards perform for a small gathering.  A large polished oak stage and an open large carved oak instrument bin are here.
+
+This room is illuminated.
+Obvious exits: south*.
+time
