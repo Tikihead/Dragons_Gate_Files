@@ -1,0 +1,112 @@
+l
+[Treehaven, Main Platform]
+
+The platform has been swept recently, revealing the new boards that have replaced some of the burned ones.  The remains of the old bank to the south have been completely cleared away, leaving just the shell of the old building there.  Intricately crafted stairs lead from the platform to the new building that resides in the upper branches.  An open door and a freshly painted wooden sign are here.
+
+This area is illuminated.
+Obvious paths: northeast* west*.
+l at gli
+>You find something suitably reflective and gaze into it...
+
+You look like a 1'2" standard adolescent delicate boned, wirey-tough bodied Secian Cleric.
+You have very long, wild, kinky light blonde hair, with heavy lidded pale red eyes, and look disheveled.
+You appear to be mischievous right now.
+You can be attacked by other players.
+
+On her left breast is a small crescent shaped birthmark.
+
+You appear to be in perfect health.
+There is a shining gold emblem affixed to your clothing.
+
+Physical appearance:
+
+You see an ageless, tymless, spryte with long wild kinky blonde hair and sleepy eyes...
+
+                        Visible Equipment
+A glowing misty grey orb of Unknown                (left hand)
+A moon shaped ivory talisman                       (around neck)
+A pearl imbedded moonsilver bracelet               (over hands)
+A pair of ornate silver toe rings                  (on feet)
+A crescent moon earring                            (right ear)
+A silver serpentine hoop                           (left ear)
+A delicately linked gold belly chain               (on belt)
+
+You have been bestowed the following title(s):
+  Noble of the Realm
+
+info
+>
+You are Glinka Dragondsfriend, a delicate boned and wirey-tough bodied 41 year old Orderly Female adolescent Secian Cleric of the Order of the Heart.  You are 1'2" and weigh 12 lbs.  You are sloshing.
+
+HP: 115 of 115  Ftg:  62 of  62  Carry: 12.6 of 37.0 lbs.
+
+ Str   Int   Wis   Dex   Agi   Con   Cha   Wil   Voi   Per   App
+Fair  Aver  Aver  Aver  Good  Good  Good  Good  Aver  Good  Aver  
+
+Use: INFO <subject> for more info.
+(Valid subjects: RELIGION, MAGICK, LANGUAGES, MARTIALARTS, MONEY, RUNESPELLS, TITLES, DISGUISE, PSIONICS)
+
+stat
+>OR:   3  DR: 138  Weap RT: 10 sec  Move Rate: 6/11 UDs  Dam Bonus: Awful/None
+
+You are in the center of the area!
+
+  ::: Equipment Readied :::
+
+  A glowing misty grey orb of Unknown.
+  A moon shaped ivory talisman.
+  A pearl imbedded moonsilver bracelet.
+  A pair of ornate silver toe rings.
+  A crescent moon earring.
+  A silver serpentine hoop.
+  A delicately linked gold belly chain.
+inv
+>Items carried:
+  An intricately carved oak walking stick [0.1 lbs].
+  An open large forest green leather backpack [1.2 lb].
+  A crescent moon earring [0.0 lbs].
+  A glowing misty grey orb of Unknown [0.1 lbs].
+  A hunter-green silk cloak [2.7 lbs].
+  A yellow topaz [0.1 lbs].
+  A polished steelwood mail [1.6 lb].
+  A large glistening mossy opal [0.1 lbs].
+  A glass vial [0.2 lbs].
+  An apple [0.1 lbs].
+  A pearl imbedded moonsilver bracelet [0.1 lbs].
+  An open hunter-green leather healer's bag [0.5 lbs].
+  A delicately linked gold belly chain [0.0 lbs].
+  A large shimmering mossy opal [0.1 lbs].
+  A pair of ornate silver toe rings [0.0 lbs].
+  An open large frayed burlap rucksack [0.3 lbs].
+  An open forest green leather healer's bag [1.7 lb].
+  A silver serpentine hoop [0.0 lbs].
+  An open small hunter-green leather remedy pouch [2.8 lbs].
+  A moon shaped ivory talisman [0.1 lbs].
+
+You have 82 silver pieces and 0 gold pieces.
+
+This gives you a total net worth of 82 silver.
+
+Your inventory totals 12.6 lbs.
+enter-msg display
+exit-msg display
+>Your message now reads: ...with the scent of Hyacinths about her...
+>Your message now reads: ...her soft wings brushing your cheek...
+l in clo
+>Inside the hunter-green silk cloak you see a sweet hyacinth love incense, a closed dusty spirit calling ritual board, a black winged bat shaped amulet, a shadowy black opal serpent charm, a sparkling moonsilver jewel, a pair of ornate silver toe rings, a shimmering crimson nethyn petal, and a beautiful garland of roses.
+l in bac
+>Inside the open large forest green leather backpack you see a dark shadowy orb of Set, a worn tattered scale, a rainbow colored silk cap, a pair of steel tipped leather boots, a pearl imbedded silver brazier, a closed jar of tribal paint, a glass of fruit juice, a glass of elven wine, a bottle of Saldean rum, a beautiful red long-stemmed rose, a pale green hemp belt, a simple wooden alms bowl, and a closed forest green Elindalian book of prayers.
+l in rem
+>Inside the open small hunter-green leather remedy pouch you see an open small glass jar of leeches, a small glass bottle of wormwood tincture, a shiny yellow and black tablet, a small vial of madness cure, a small vial of sickness cure, a pale green glass ampoule, a pale blue glass ampoule, a yellow glass flask, a small elwyn snippet, a small alphalia snippet, a small secoleaf snippet, a small vial of madness cure, a fragile amber elydin petal, a shimmering crimson nethyn petal, and a glass vial.
+>
+Clive's group just entered through some freshly crafted wooden stairs.
+l in he
+Inside the open hunter-green leather healer's bag you see a small glass jar of fragrant balm, a glowing bunch of moss, a frightening midnight blue sacrificial candle, some fragrant sticks of incense, and an iridescent black crow's feather.
+>
+Corsair grins at Autumn.
+l in 2 he
+
+Autumn smiles.
+Inside the open forest green leather healer's bag you see some roasted scorpion, some tasty coconut, some half-eaten tasty coconut, a sparkling gold dusted Dragon cookie, a sparkling gold dusted Dragon cookie, a circular green melon, a twisted black licorice whip, a twisted black licorice whip, a steaming mug of amaretto coffee, a small chocolate cream pie, a small bowl of fresh milk, a steaming mug of hot cider, and an apple.
+>
+Clive's group just went through an open door.

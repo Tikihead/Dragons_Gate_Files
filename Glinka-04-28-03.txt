@@ -1,0 +1,43 @@
+info
+
+You are Glinka Dragondsfriend, a delicate boned and wirey-tough bodied 41 year old Orderly Female adolescent Secian Cleric of the Order of the Heart.  You are 1'2" and weigh 12 lbs.  You are hungry.
+
+HP: 111 of 111  Ftg:  60 of  60  Carry:  9.8 of 37.0 lbs.
+
+ Str   Int   Wis   Dex   Agi   Con   Cha   Wil   Voi   Per   App
+Fair  Aver  Aver  Aver  Good  Good  Good  Good  Aver  Good  Aver  
+
+Use: INFO <subject> for more info.
+(Valid subjects: RELIGION, MAGICK, LANGUAGES, MARTIALARTS, MONEY, RUNESPELLS, TITLES, DISGUISE, PSIONICS)
+
+l at glink
+>You find something suitably reflective and gaze into it...
+
+You look like a 1'2" standard adolescent delicate boned, wirey-tough bodied Secian Cleric.
+You have very long, wild, kinky light blonde hair, with heavy lidded pale red eyes, and look disheveled.
+You appear to be mischievous right now.
+You can be attacked by other players.
+
+On her left breast is a small crescent shaped birthmark.
+
+You appear to be in perfect health.
+There is a shining gold emblem affixed to your clothing.
+
+Physical appearance:
+
+You see an ageless, tymless, spryte with long wild kinky blonde hair and sleepy eyes...
+
+                        Visible Equipment
+A polished steelwood mail                          (armor)
+A moon shaped ivory talisman                       (around neck)
+A pearl imbedded moonsilver bracelet               (over hands)
+A hunter-green silk cloak                          (over armor)
+A silver serpentine hoop                           (left ear)
+Some green and black silk leggings                 (pants)
+A hunter-green cotton shirt                        (shirt)
+A pale green hemp belt                             (on belt)
+An open small hunter-green leather remedy pouch    (on belt)
+
+You have been bestowed the following title(s):
+  Noble of the Realm
+

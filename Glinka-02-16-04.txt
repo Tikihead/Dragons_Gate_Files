@@ -1,0 +1,2875 @@
+time
+
+Current time is: Mon Feb 16 22:33:57 2004 EST.
+time
+
+It is now 10:09 pm on the 4th day of the 7th month in the year 317.
+
+You have been adventuring for 2 hrs, 5 mins, 44 secs this session.
+
+>
+The ghast advances towards Glinka.
+l
+[Diggings.]
+
+The walls and ceiling of this cramped chamber drip with stagnant water. Plaster from a wall fresco lies in shattered pieces, scored by sharp claws. The floor is smooth from the passage of many feet over time. Fear or claustrophobia would hasten anyone's departure from this tunnel.
+
+This area is illuminated.
+You see the 1st ghast.
+In the area are Fionna the Noble Secian (holding a glowing gold-flecked crystalla shard) and Orlando the Noble Human.
+Obvious paths: south.
+turn g 
+>
+You see Fionna call out the name of Elindale and point at the ghast!
+
+The ghast smiles wickedly after the attempt to turn it!
+h
+sk
+You call out the name of your deity and point to the ghast!
+
+The ghast smiles wickedly after the attempt to turn it!
+
+You feel more tired.
+[5 sec. delay]
+>You have no apparent injuries, but look tired.
+
+HP: 115/115  Ftg:  60/ 65
+>
+Skill                     Remain Level
+ First Aid                 97     1     
+ Channeling                335    5     
+ Blunt Weapons             394    4     
+ Spellcasting              1761   15    
+ Turn Undead               519    6     
+ Identify Gems/Minerals    67     6     
+ Shield Parry              100    1     
+ Identify Magick           82     1     
+ Swimming                  150    2     
+
+>You see Orlando move up another 1 UDs!
+turn g 
+
+The ghast bites at you!
+The attack misses.
+
+You see Fionna call out the name of Elindale and point at the ghast!
+
+The ghast ignores the attempt to turn it!
+h
+sk
+You call out the name of your deity and point to the ghast!
+
+The ghast smiles wickedly after the attempt to turn it!
+
+You feel more tired.
+[5 sec. delay]
+>
+Orlando fires his rune etched ash longbow at the ghast!
+The shot is a well-delivered blow to the left leg.
+You have no apparent injuries, but look tired.
+
+HP: 115/115  Ftg:  59/ 65
+>
+Skill                     Remain Level
+ First Aid                 97     1     
+ Channeling                335    5     
+ Blunt Weapons             394    4     
+ Spellcasting              1761   15    
+ Turn Undead               519    6     
+ Identify Gems/Minerals    67     6     
+ Shield Parry              100    1     
+ Identify Magick           82     1     
+ Swimming                  150    2     
+
+invo ddb at 
+>
+Orlando fires his rune etched ash longbow at the ghast!
+The shot is a good blow to the left arm.
+    The ghast is knocked back!
+    It stumbles and falls down!
+
+You see Fionna call out the name of Elindale and point at the ghast!
+
+The ghast seems unaffected by the attempt to turn it!
+
+You clasp your hands together and begin to recite a sacred Elindalian prayer.
+Weaving those runes cost you 5 FPs.
+
+You feel more tired.
+[5 sec. delay]
+>
+The ghast stands up.
+
+Orlando fires his rune etched ash longbow at the ghast!
+The shot is a strong blow to the torso.
+turn g 
+
+A gust of wind begins to swirl about you as your eyes are suddenly filled with a holy light! You can feel the presence of Elindale flow through you...
+
+Fionna raises her hands to the heavens and calls out to Elindale!
+h
+sk
+You call out the name of your deity and point to the ghast!
+
+You feel more tired.
+[5 sec. delay]
+>You have no apparent injuries, but look tired.
+
+HP: 115/115  Ftg:  53/ 65
+>
+Skill                     Remain Level
+ First Aid                 97     1     
+ Channeling                335    5     
+ Blunt Weapons             394    4     
+ Spellcasting              1760   15    
+ Turn Undead               517    6     
+ Identify Gems/Minerals    67     6     
+ Shield Parry              100    1     
+ Identify Magick           82     1     
+ Swimming                  150    2     
+
+>
+Orlando fires his rune etched ash longbow at the ghast!
+The shot is a decent blow to the left arm.
+
+The ghast suddenly takes on a very wild-eyed look!
+
+The ghast turns and runs south!
+roll
+
+Shimmering emerald leaves instantly float down from the heavens and begin to swirl about Fionna!
+
+You expend 1 fatigue keeping up the presence of Elindale on yourself.
+You roll your eyes.
+>
+Fionna readies a dragon carved bone hilted broadsword.
+' sorry
+
+Glinka says in Secian, " sorry"
+>
+ ** Current fatigue: 56 out of 65
+sp
+You are now speaking Common.
+>
+You expend 1 fatigue keeping up the presence of Elindale on yourself.
+roll
+You roll your eyes.
+' sorry
+>
+Glinka says, " sorry"
+>
+You follow Fionna south...
+
+[Diggings.]
+
+The well worn walk-way opens up to the burial chamber. Tree roots have penetrated the cave's ceiling and hang down like spider webs to ensnare anything that passes too close. The large room houses a number of stacked coffins, their carved lids strewn about like children's toys, their interiors hauntingly empty. A thick, foul odor flows from deep within the chamber, wafting north through the door to ground-level.
+
+This area is illuminated.
+You see the 1st ghast.
+In the area are Fionna the Noble Secian (holding a glowing gold-flecked crystalla shard) and Orlando the Noble Human.
+Obvious paths: north* southeast southwest.
+
+Fionna swings her dragon carved bone hilted broadsword at the ghast!
+The swing misses its target.
+
+Orlando fires his rune etched ash longbow at the ghast!
+The shot is a good blow to the right leg.
+    The ghast is knocked back!
+    It stumbles and falls down!
+turn g 
+
+You expend 1 fatigue keeping up the presence of Elindale on yourself.
+h
+sk
+You call out the name of your deity and point to the ghast!
+
+You feel more tired.
+[5 sec. delay]
+>You have no apparent injuries, but look tired.
+
+HP: 115/115  Ftg:  49/ 65
+>
+Skill                     Remain Level
+ First Aid                 97     1     
+ Channeling                335    5     
+ Blunt Weapons             394    4     
+ Spellcasting              1760   15    
+ Turn Undead               515    6     
+ Identify Gems/Minerals    67     6     
+ Shield Parry              100    1     
+ Identify Magick           82     1     
+ Swimming                  150    2     
+
+>
+The ghast stands up.
+
+Fionna swings her dragon carved bone hilted broadsword at the ghast!
+The swing is a good blow to the torso.
+
+Orlando fires his rune etched ash longbow at the ghast!
+The shot is a decent blow to the left arm.
+
+You expend 1 fatigue keeping up the presence of Elindale on yourself.
+turn g 
+h
+sk
+You call out the name of your deity and point to the ghast!
+
+The ghast smiles wickedly after the attempt to turn it!
+
+You feel more tired.
+[5 sec. delay]
+>You have no apparent injuries, but look tired.
+
+HP: 115/115  Ftg:  47/ 65
+>
+Skill                     Remain Level
+ First Aid                 97     1     
+ Channeling                335    5     
+ Blunt Weapons             394    4     
+ Spellcasting              1760   15    
+ Turn Undead               515    6     
+ Identify Gems/Minerals    67     6     
+ Shield Parry              100    1     
+ Identify Magick           82     1     
+ Swimming                  150    2     
+
+>
+Orlando fires his rune etched ash longbow at the ghast!
+The shot is a decent blow to the head.
+
+The ghast slumps to the ground and becomes still.
+turn g 
+
+You expend 1 fatigue keeping up the presence of Elindale on yourself.
+appl
+You applaud.
+comfort g calling out to Elindale to recieve a lost soul...
+You comfort the ghast calling out to Elindale to recieve a lost soul...
+l
+[Diggings.]
+
+The well worn walk-way opens up to the burial chamber. Tree roots have penetrated the cave's ceiling and hang down like spider webs to ensnare anything that passes too close. The large room houses a number of stacked coffins, their carved lids strewn about like children's toys, their interiors hauntingly empty. A thick, foul odor flows from deep within the chamber, wafting north through the door to ground-level.
+
+This area is illuminated.
+You see the 1st ghast corpse.
+In the area are Fionna the Noble Secian (holding a glowing gold-flecked crystalla shard) and Orlando the Noble Human.
+Obvious paths: north southeast southwest.
+
+Fionna strips the ghast's body.
+
+The ghast turns to dust.
+I don't see what you are referring to.
+>
+You expend 1 fatigue keeping up the presence of Elindale on yourself.
+l
+[Diggings.]
+
+The well worn walk-way opens up to the burial chamber. Tree roots have penetrated the cave's ceiling and hang down like spider webs to ensnare anything that passes too close. The large room houses a number of stacked coffins, their carved lids strewn about like children's toys, their interiors hauntingly empty. A thick, foul odor flows from deep within the chamber, wafting north through the door to ground-level.  Some silver coins are here.
+
+This area is illuminated.
+In the area are Fionna the Noble Secian (holding a glowing gold-flecked crystalla shard) and Orlando the Noble Human.
+Obvious paths: north southeast southwest.
+>
+Fionna just picked up some silver coins.
+
+You follow Fionna southeast...
+
+[Diggings.]
+
+A low point for the entire burial chamber, this part of the cave serves as a sort of garbage pit. The tear-bringing stench is amplified in the musty, closed confines of this chamber. Bits and pieces of unidentifiable bodies cover the floor of the pit, mired in a thick mud that reeks worse than any city's affluent. Slight rustling sounds come from the walls as scores of insects wriggle and worm their way into the pit.
+
+This area is illuminated.
+In the area are Fionna the Noble Secian (holding a glowing gold-flecked crystalla shard) and Orlando the Noble Human.
+Obvious paths: west northwest*.
+
+You expend 1 fatigue keeping up the presence of Elindale on yourself.
+
+You follow Fionna west...
+
+[Diggings.]
+
+The smaller chamber reeks of death. Piles of mud attest to the fact that this excavation is fairly new. A trail of dark, putrefied liquid leads to a half-rotted, half-eaten corpse crumpled against the wall. Bones lay scattered about, some crushed and some split. There is no sign of what was consuming the corpse. Grooves in the mud lead to the east.  A burnt offering is here.
+
+This area is illuminated.
+In the area are Fionna the Noble Secian (holding a glowing gold-flecked crystalla shard) and Orlando the Noble Human.
+Obvious paths: northeast east*.
+
+You follow Fionna northeast...
+
+[Diggings.]
+
+The well worn walk-way opens up to the burial chamber. Tree roots have penetrated the cave's ceiling and hang down like spider webs to ensnare anything that passes too close. The large room houses a number of stacked coffins, their carved lids strewn about like children's toys, their interiors hauntingly empty. A thick, foul odor flows from deep within the chamber, wafting north through the door to ground-level.
+
+This area is illuminated.
+In the area are Fionna the Noble Secian (holding a glowing gold-flecked crystalla shard) and Orlando the Noble Human.
+Obvious paths: north southeast southwest*.
+
+You follow Fionna north...
+
+[Diggings.]
+
+The walls and ceiling of this cramped chamber drip with stagnant water. Plaster from a wall fresco lies in shattered pieces, scored by sharp claws. The floor is smooth from the passage of many feet over time. Fear or claustrophobia would hasten anyone's departure from this tunnel.
+
+This area is illuminated.
+In the area are Fionna the Noble Secian (holding a glowing gold-flecked crystalla shard) and Orlando the Noble Human.
+Obvious paths: south*.
+
+You expend 1 fatigue keeping up the presence of Elindale on yourself.
+
+You follow Fionna through a hole...
+
+[Living's end.]
+
+The path abruptly ends at the trap door of an underground burial chamber. The doors are shattered and lay broken, hanging off the hinges. The path is well worn and obviously frequently used. Muffled sounds and the faint odor of decay and mold emanate from the chamber.
+
+This area is illuminated.
+In the area are Fionna the Noble Secian (holding a glowing gold-flecked crystalla shard) and Orlando the Noble Human.
+Obvious paths: south.
+
+You follow Fionna south...
+
+[Living's end.]
+
+A meandering path weaves its way through family plots. Upturned headstones have displaced a fair amount of soil at the gravesites where they fell, leaving gaping holes in the graves. Some of the dirt appears freshly turned. Despite their curiosity, most resist the morbid urge to peer into the holes.
+
+This area is illuminated.
+In the area are Fionna the Noble Secian (holding a glowing gold-flecked crystalla shard) and Orlando the Noble Human.
+Obvious paths: north* east* south west*.
+
+You follow Fionna west...
+
+[Living's end.]
+
+The pathway leads to a small reflecting pool ending in an ornate monument, carved with animals, birds, and flowers in beautiful detail. Upon closer examination, the carvings have weathered so thoroughly they appear twisted and distorted. The beady eyes of the carvings are unnerving. Old wisteria vines choke the facade and sprawl up and over its enormous curve. The intertwining branches create shadows and odd patterns that resemble horrible faces. The scent of many blooms make it difficult to breathe. A portion of the wall beyond the monument has crumbled to dust, exposing a path over a small hill.
+
+This area is illuminated.
+In the area are Fionna the Noble Secian (holding a glowing gold-flecked crystalla shard) and Orlando the Noble Human.
+Obvious paths: east* northwest.
+
+You expend 1 fatigue keeping up the presence of Elindale on yourself.
+
+You follow Fionna northwest...
+
+[Living's End.]
+
+A path through the cemetery wall rises over a small hill. The shallow valley created by the hill is invisible from the cemetery and roadway. A thick, eerie fog blankets the area, a final resting place for the paupers and debtors unable to pay for fancy headstones. Nothing but huge holes in the ground remain of the former grave sites. It appears that some major wholesale grave robbing has occurred, but what could a pauper's grave hold of any value? Pieces of gray-green looking shreds are scattered on the ground.
+
+This area is illuminated.
+In the area are Fionna the Noble Secian (holding a glowing gold-flecked crystalla shard) and Orlando the Noble Human.
+Obvious paths: southeast* south west.
+
+ ** Current fatigue: 50 out of 65
+
+You follow Fionna west...
+
+[Living's End.]
+
+A trail of detached skin and body parts leads to the edge of the valley. Decaying flesh beneath your feet squishes with each step. The small hill that surrounds the valley hides this pauper's cemetery from the Arena to the west. The hills were raised to hide the poorly kept graves from the general public. Shuffling, grunting and gurgling sounds echo between the hills. The eerie fog hangs heavily in the still air, as no wind penetrates the valley.
+
+This area is illuminated.
+In the area are Fionna the Noble Secian (holding a glowing gold-flecked crystalla shard) and Orlando the Noble Human.
+Obvious paths: east* south.
+
+You follow Fionna south...
+
+[Living's End.]
+
+The trail in the mud continues past more gaping holes that were once grave sites. In this potter's field, there is no grass, no weeds, no flowers, no moss growing on the thick black mud. The ground is littered with shreds of partially decayed fibrous tissues. You instinctively cover your nose to ward off the powerful stench. The once distant sounds of shuffling and groaning grow nearer in the soupy fog. Surely, nothing living ends up here.
+
+This area is illuminated.
+In the area are Fionna the Noble Secian (holding a glowing gold-flecked crystalla shard) and Orlando the Noble Human.
+Obvious paths: north* southeast.
+
+You follow Fionna southeast...
+
+[Living's end.]
+
+Weaving one's way around the large holes in the ground and scattered body parts is a chore. A chore made all the more difficult when also trying to locate the source of the ominous moaning from the foggy surroundings. The body parts become more recognizable the longer one stares at them. An eye looks up from the muck, eerily following your progress down the trail. A mischievous prankster has scribbled the words "Dead End" on a nearby rock.
+
+This area is illuminated.
+In the area are Fionna the Noble Secian (holding a glowing gold-flecked crystalla shard) and Orlando the Noble Human.
+Obvious paths: north northwest*.
+
+You expend 1 fatigue keeping up the presence of Elindale on yourself.
+
+The holy light within your eyes slowly dims and fades away.
+
+You follow Fionna north...
+
+[Living's end.]
+
+The small valley spreads out between the cemetery and the Spurian Arena. This decimated potter's field is rife with holes, as if the Spurian Army used it for catapult practice. The gaping holes drip with thick, sticky mud, mingled with decaying body parts, bones, and stinky goop.
+
+This area is illuminated.
+In the area are Fionna the Noble Secian (holding a glowing gold-flecked crystalla shard) and Orlando the Noble Human.
+Obvious paths: north south*.
+
+You follow Fionna north...
+
+[Living's End.]
+
+A path through the cemetery wall rises over a small hill. The shallow valley created by the hill is invisible from the cemetery and roadway. A thick, eerie fog blankets the area, a final resting place for the paupers and debtors unable to pay for fancy headstones. Nothing but huge holes in the ground remain of the former grave sites. It appears that some major wholesale grave robbing has occurred, but what could a pauper's grave hold of any value? Pieces of gray-green looking shreds are scattered on the ground.
+
+This area is illuminated.
+In the area are Fionna the Noble Secian (holding a glowing gold-flecked crystalla shard) and Orlando the Noble Human.
+Obvious paths: southeast* south* west.
+
+You follow Fionna southeast...
+
+[Living's end.]
+
+The pathway leads to a small reflecting pool ending in an ornate monument, carved with animals, birds, and flowers in beautiful detail. Upon closer examination, the carvings have weathered so thoroughly they appear twisted and distorted. The beady eyes of the carvings are unnerving. Old wisteria vines choke the facade and sprawl up and over its enormous curve. The intertwining branches create shadows and odd patterns that resemble horrible faces. The scent of many blooms make it difficult to breathe. A portion of the wall beyond the monument has crumbled to dust, exposing a path over a small hill.
+
+This area is illuminated.
+In the area are Fionna the Noble Secian (holding a glowing gold-flecked crystalla shard) and Orlando the Noble Human.
+Obvious paths: east northwest*.
+
+You follow Fionna east...
+
+[Living's end.]
+
+A meandering path weaves its way through family plots. Upturned headstones have displaced a fair amount of soil at the gravesites where they fell, leaving gaping holes in the graves. Some of the dirt appears freshly turned. Despite their curiosity, most resist the morbid urge to peer into the holes.
+
+This area is illuminated.
+In the area are Fionna the Noble Secian (holding a glowing gold-flecked crystalla shard), Gideon the Noble Anthian, Clive the Noble Drag-al (holding a glowing charred iron smudge pot), Orlando the Noble Human, Orianna the Noble Anthian (flying 5 feet above ground), and Lauranna the Noble Fir Elf.
+Obvious paths: north east* south west*.
+
+Clive's group just went west.
+
+Clive's group just entered from the west.
+
+You follow Fionna east...
+
+[Living's end.]
+
+The sunniest corner of the small cemetery is a flurry of color. Lilies, daisies, and nightshade bloom continuously between the stone wall and a solitary headstone. Small white snowdrops encircle the lone grave. Curiously, a pair of work boots lies upside down next to a man-sized hole directly in front of the headstone.  A small dagger, some curled orange peels, an empty earthen tankard, and a lunch sack are here.
+
+This area is illuminated.
+In the area are Fionna the Noble Secian (holding a glowing gold-flecked crystalla shard) and Orlando the Noble Human.
+Obvious paths: west*.
+turn gig 
+
+You follow Fionna west...
+
+[Living's end.]
+
+A meandering path weaves its way through family plots. Upturned headstones have displaced a fair amount of soil at the gravesites where they fell, leaving gaping holes in the graves. Some of the dirt appears freshly turned. Despite their curiosity, most resist the morbid urge to peer into the holes.
+
+This area is illuminated.
+In the area are Fionna the Noble Secian (holding a glowing gold-flecked crystalla shard), Gideon the Noble Anthian, Clive the Noble Drag-al (holding a glowing charred iron smudge pot), Orlando the Noble Human, Orianna the Noble Anthian (flying 5 feet above ground), and Lauranna the Noble Fir Elf.
+Obvious paths: north east* south west*.
+
+Clive's group just went north.
+I don't see what you are referring to.
+>
+You follow Fionna south...
+
+[Mourner's Pavilion.]
+
+The weathered remains of a mourner's pavilion cover this large square of paving stones. Tattered pieces of a long disintegrated fabric awning flutter in the breeze where they still remain attached to the carved stone supports. Several old splintered wooden benches lay on their sides, missing legs, backs, and seats. At one time they could have been turned in any direction, away from weather, or to face a particular burial plot.
+
+This area is illuminated.
+In the area are Fionna the Noble Secian (holding a glowing gold-flecked crystalla shard) and Orlando the Noble Human.
+Obvious paths: north* east south west.
+gig
+You giggle.
+>
+You follow Fionna west...
+
+[Living's end.]
+
+The graves in this western section of the small plot are undisturbed. Tall statues display names, dates and epitaphs. The largest statue is a recreation of a beautiful woman, her shadowed eyes looking down towards the headstones. The marble figure wears a shawl and veil of weather stains and lichen. The dates and ages on the headstones speak of a plague that claimed many young lives.
+
+This area is illuminated.
+In the area are Fionna the Noble Secian (holding a glowing gold-flecked crystalla shard) and Orlando the Noble Human.
+Obvious paths: east*.
+
+You follow Fionna east...
+
+[Mourner's Pavilion.]
+
+The weathered remains of a mourner's pavilion cover this large square of paving stones. Tattered pieces of a long disintegrated fabric awning flutter in the breeze where they still remain attached to the carved stone supports. Several old splintered wooden benches lay on their sides, missing legs, backs, and seats. At one time they could have been turned in any direction, away from weather, or to face a particular burial plot.
+
+This area is illuminated.
+In the area are Fionna the Noble Secian (holding a glowing gold-flecked crystalla shard) and Orlando the Noble Human.
+Obvious paths: north east south west*.
+
+Orlando grins.
+
+You follow Fionna east...
+
+[Living's end.]
+
+As the silent pavilion watched, someone looted and plundered row upon row of graves, up-ending each headstone in an appalling lack of respect for the dead. Grave-robbers, angry at finding no worthwhile goods buried with these unfortunates, have torn up this side of the small cemetery. Alive with vermin, pile and stacks of bleached bones move on their own accord.
+
+This area is illuminated.
+In the area are Fionna the Noble Secian (holding a glowing gold-flecked crystalla shard) and Orlando the Noble Human.
+Obvious paths: west*.
+
+You follow Fionna west...
+
+[Mourner's Pavilion.]
+
+The weathered remains of a mourner's pavilion cover this large square of paving stones. Tattered pieces of a long disintegrated fabric awning flutter in the breeze where they still remain attached to the carved stone supports. Several old splintered wooden benches lay on their sides, missing legs, backs, and seats. At one time they could have been turned in any direction, away from weather, or to face a particular burial plot.
+
+This area is illuminated.
+In the area are Fionna the Noble Secian (holding a glowing gold-flecked crystalla shard) and Orlando the Noble Human.
+Obvious paths: north east* south west.
+
+You follow Fionna south...
+
+[Living's end.]
+
+A low stone wall, topped with an ornate iron work fence, surrounds and area of burial plots. The fence peaks in sharply pointed finials to discourage trespassers. The well masoned wall gracefully concludes in two pillared columns that support a creaking wrought iron fence.  An open black obsidian gate is here.
+
+This area is illuminated.
+In the area are Fionna the Noble Secian (holding a glowing gold-flecked crystalla shard) and Orlando the Noble Human.
+Obvious paths: north* east west.
+
+You follow Fionna west...
+
+[Caretaker's Shed.]
+
+The Caretaker's hut leans precariously against the stone wall with its doors hanging askew. Rakes and hoes lay where they were discarded, caked in corrosion and mud. Old shovels, some missing handles, fill a disintegrating barrel held together only by its staves. Weeds and brambles riot about the small lean-to as if celebrating the caretaker's demise. Large spots and drips from some dark liquid cover the inside of the hut's walls. A softly whispering breeze tickles through the leaves and makes the dust dance in swirls.
+
+This area is illuminated.
+In the area are Fionna the Noble Secian (holding a glowing gold-flecked crystalla shard) and Orlando the Noble Human.
+Obvious paths: east*.
+
+You follow Fionna east...
+
+[Living's end.]
+
+A low stone wall, topped with an ornate iron work fence, surrounds and area of burial plots. The fence peaks in sharply pointed finials to discourage trespassers. The well masoned wall gracefully concludes in two pillared columns that support a creaking wrought iron fence.  An open black obsidian gate is here.
+
+This area is illuminated.
+In the area are Fionna the Noble Secian (holding a glowing gold-flecked crystalla shard) and Orlando the Noble Human.
+Obvious paths: north east west*.
+
+You follow Fionna east...
+
+[Living's end.]
+
+In the most south-eastern corner of the burial grounds, a sprawling, ancient juniper tree straddles the block wall. The wrought iron fence perfectly bisects the tree and continues on. The tree's roots and and limbs cling to the wall in a marvel of adaptation and survival. Loose bark twists around the trunk as if a giant hand grabbed the tree and turned it slowly. The tortured tree shades the corrupted graves and skewed headstones.
+
+This area is illuminated.
+In the area are Fionna the Noble Secian (holding a glowing gold-flecked crystalla shard) and Orlando the Noble Human.
+Obvious paths: west*.
+
+You follow Fionna west...
+
+[Living's end.]
+
+A low stone wall, topped with an ornate iron work fence, surrounds and area of burial plots. The fence peaks in sharply pointed finials to discourage trespassers. The well masoned wall gracefully concludes in two pillared columns that support a creaking wrought iron fence.  An open black obsidian gate is here.
+
+This area is illuminated.
+In the area are Fionna the Noble Secian (holding a glowing gold-flecked crystalla shard) and Orlando the Noble Human.
+Obvious paths: north east* west.
+
+Fionna furrows her brow.
+
+You follow Fionna through an open black obsidian gate...
+
+[Eastern Spur Road.]
+
+A small gate stands between Eastern Spur Road and the small, weed infested path that heads north. Through the rusted and worn gate you can make out a few old headstones and crypts, but the vines and overgrown brush obstruct your view. The rumors of evil death-howls and unusual occurrences have the locals hurrying past this location as quickly as possible.  An open black obsidian gate is here.
+
+This area is illuminated.
+In the area are Fionna the Noble Secian (holding a glowing gold-flecked crystalla shard) and Orlando the Noble Human.
+Obvious paths: east west*.
+
+You follow Fionna east...
+
+[Eastern Spur Road.]
+
+Uneven cobblestones line the roadway. Worn down by time and heavy traffic, the large potholes have filled with water, debris and unidentifiable muck, and are more prevalent than the stone. Those who travel this way have grown accustomed to the trouble spots, and appear to be dancing to a strange, unheard tune as they bob and weave their way toward their destination.
+
+This area is illuminated.
+In the area are Fionna the Noble Secian (holding a glowing gold-flecked crystalla shard) and Orlando the Noble Human.
+Obvious paths: east west*.
+' scared
+
+Glinka says, " scared"
+>
+You follow Fionna east...
+
+[Eastern Spur Road.]
+
+Tall black spires rise from the building that towers above the hedge skirting the southern portion of Eastern Spur Road. Quickly whispered words and furtive gestures at the edifice seem enough to straighten out even the most unruly child. A distinctive howl pierces the air. Not many stop long enough to discern if it is just the wind or something far more sinister.
+
+This area is illuminated.
+In the area are Fionna the Noble Secian (holding a glowing gold-flecked crystalla shard) and Orlando the Noble Human.
+Obvious paths: east west*.
+
+The swirling emerald leaves about Fionna fade away.
+
+You follow Fionna east...
+
+[Eastern Spur Road.]
+
+A large, well-kept gate is cut into the immense wall that surrounds Spur. Although everything else has fallen into disrepair, it is evident that security is still of foremost importance to the Governor. Uniformed guards patrol high above, conscientiously glancing down to assure peace is being kept along this well-traveled road. A crotchety old man leans against the wall, just out of view of the guards, counting the coin he has thus far appropriated this fine day.  An open iron gate and an open thick stone door are here.
+
+This area is illuminated.
+In the area are Fionna the Noble Secian (holding a glowing gold-flecked crystalla shard) and Orlando the Noble Human.
+Obvious paths: west*.
+
+You follow Fionna through an open iron gate...
+
+[Eastern Housing.]
+
+Growing within the shadow of the large Spurian Wall, even the sparse trees look run down. A few sickly looking leaves cling to their gnarled limbs. A broken swing hangs from one of the stronger looking branches, and you feel sorry for the children who must live here.  An open iron gate is here.
+
+This area is illuminated.
+In the area are Fionna the Noble Secian (holding a glowing gold-flecked crystalla shard) and Orlando the Noble Human.
+Obvious paths: east.
+
+You follow Fionna east...
+
+[Eastern Housing.]
+
+The wooden shacks that line this dirt path are poorly built and falling apart. Some have holes so large that you can see inside to their dark rooms. Many of the tiny structures tilt to the side, almost falling over in sheer despair.  An open steel gate is here.
+
+This area is illuminated.
+In the area are Fionna the Noble Secian (holding a glowing gold-flecked crystalla shard) and Orlando the Noble Human.
+Obvious paths: east west*.
+
+You follow Fionna through an open steel gate...
+
+[Upper Graveyard]
+
+Below you is a cliff, marking the northern edge of Graveyard Hill. The leatherleaves and weeds are tall here, and you hope their rustling is only caused by the wind.  An open steel gate is here.
+
+This area is illuminated.
+In the area are Fionna the Noble Secian (holding a glowing gold-flecked crystalla shard) and Orlando the Noble Human.
+Obvious paths: east south southwest.
+
+You follow Fionna southwest...
+
+[Upper Graveyard]
+
+Your route continues behind the stone crypt. Around you are the graves of Spurian nobles and gentility. The area is better kept, but you feel that evil things are waiting nearby. Something is moving beyond the crypt.
+
+This area is illuminated.
+In the area are Fionna the Noble Secian (holding a glowing gold-flecked crystalla shard) and Orlando the Noble Human.
+Obvious paths: northeast* south.
+
+You follow Fionna south...
+
+[Upper Graveyard]
+
+An old path extends along the edge of the hill, behind a massive stone crypt. Around you are the graves of Spurian nobles, ladies, and gentlemen. The area is better tended than the rest of the graveyard, but you sense that evil beings still lurk nearby.
+
+This area is illuminated.
+In the area are Fionna the Noble Secian (holding a glowing gold-flecked crystalla shard) and Orlando the Noble Human.
+Obvious paths: north* southeast.
+
+You follow Fionna southeast...
+
+[Lower Graveyard]
+
+The ground begins to slope upward towards the sandy hill top. The markers are of wood, but some appear to have had elaborate carvings on them. The wind and rain have taken their toll, rendering the markers all but illegible.
+
+This area is illuminated.
+In the area are Fionna the Noble Secian (holding a glowing gold-flecked crystalla shard) and Orlando the Noble Human.
+Obvious paths: southeast northwest*.
+
+You follow Fionna southeast...
+
+[Lower Graveyard]
+
+A faint path snakes around a jumble of markers as you approach the hill. You are amazed at how crowded together the graves are. A musty odor tickles your nose, and you try hard not to sneeze. You hear a hound's plaintive howl in the distance.
+
+This area is illuminated.
+In the area are Fionna the Noble Secian (holding a glowing gold-flecked crystalla shard) and Orlando the Noble Human.
+Obvious paths: east south northwest*.
+
+ ** Current fatigue: 61 out of 65
+
+You follow Fionna south...
+
+[Lower Graveyard]
+
+As you trudge along, you pass among the graves of poorer residents. Markers lean at crazy angles. Mad laughter echoes from somewhere nearby. Black flies begin to buzz around your face.
+
+This area is illuminated.
+In the area are Fionna the Noble Secian (holding a glowing gold-flecked crystalla shard) and Orlando the Noble Human.
+Obvious paths: north* southeast.
+
+You follow Fionna southeast...
+
+[Lower Graveyard]
+
+The air in the graveyard is markedly cooler than just outside the graveyard gate. The only sounds you hear are the wind whistling against the tines of the gate and your footsteps trodding on the damp graveyard soil. Something appears to be moving on Graveyard Hill, which rises ahead of you to the north.  An open black gate is here.
+
+This area is illuminated.
+You see the 1st ghoul and the 2nd ghoul.
+In the area are Fionna the Noble Secian (holding a glowing gold-flecked crystalla shard) and Orlando the Noble Human.
+Obvious paths: east northwest*.
+turn g 
+h
+sk
+You call out the name of your deity and point to the ghoul!
+
+You feel more tired.
+[5 sec. delay]
+>You have no apparent injuries, but look tired.
+
+HP: 115/115  Ftg:  56/ 65
+>
+Skill                     Remain Level
+ First Aid                 97     1     
+ Channeling                335    5     
+ Blunt Weapons             394    4     
+ Spellcasting              1760   15    
+ Turn Undead               514    6     
+ Identify Gems/Minerals    67     6     
+ Shield Parry              100    1     
+ Identify Magick           82     1     
+ Swimming                  150    2     
+
+>
+The ghoul suddenly takes on a very wild-eyed look!
+
+Orlando fires his rune etched ash longbow at the ghoul!
+The shot is a decent blow to the left leg.
+    The ghoul is knocked back!
+    It stumbles and falls down!
+turn 2 g
+
+The ghoul stands up.
+
+The 2nd ghoul advances towards Orlando.
+
+You follow Fionna east...
+
+[Lower Graveyard]
+
+Just as Spur has the Poor Quarter, the graveyard has the Beggars' Lot.  The ground is uneven, with sunken graves hidden by tall weeds.  Many of the graves are unmarked, and a few of them have been dug up.  Something nasty might be hiding in some of the holes.
+
+This area is illuminated.
+In the area are Fionna the Noble Secian (holding a glowing gold-flecked crystalla shard) and Orlando the Noble Human.
+Obvious paths: north west*.
+I don't see what you are referring to.
+>
+You follow Fionna north...
+
+[Lower Graveyard]
+
+The sunken graves become more common, and you stop trying to walk around them all. Briars catch at your clothing. Something big is crawling around in those weeds.
+
+This area is illuminated.
+You see the 1st lesser wight.
+In the area are Fionna the Noble Secian (holding a glowing gold-flecked crystalla shard) and Orlando the Noble Human.
+Obvious paths: north south* northwest.
+turn w 
+h
+sk
+You call out the name of your deity and point to the lesser wight!
+
+You feel more tired.
+[5 sec. delay]
+>You have no apparent injuries, but look tired.
+
+HP: 115/115  Ftg:  55/ 65
+>
+Skill                     Remain Level
+ First Aid                 97     1     
+ Channeling                335    5     
+ Blunt Weapons             394    4     
+ Spellcasting              1760   15    
+ Turn Undead               513    6     
+ Identify Gems/Minerals    67     6     
+ Shield Parry              100    1     
+ Identify Magick           82     1     
+ Swimming                  150    2     
+
+>
+The lesser wight is suddenly immobilized!
+
+You see Fionna call out the name of Elindale and point at the lesser wight!
+how
+
+Orlando fires his rune etched ash longbow at the lesser wight!
+The shot is a good blow to the torso.
+You howl.
+>
+The lesser wight suddenly takes on a very wild-eyed look!
+invo sm hm at w
+Target is the 1st wight.
+
+Glinka begins chanting softly to the heavens.
+h
+Weaving those runes cost you 3 FPs.
+
+You feel more tired.
+[3 sec. delay]
+>You have no apparent injuries, but look tired.
+
+HP: 115/115  Ftg:  56/ 65
+>
+Orlando fires his rune etched ash longbow at the lesser wight!
+The shot nearly fumbles.
+invo sm hm at w
+
+Shimmering droplets of holy water suddenly rain down upon the lesser wight!
+
+Wisps of smoke rise from the lesser wight's body.
+invo sm hm at w
+Target is the 1st wight.
+
+Glinka begins chanting softly to the heavens.
+
+You feel a surge of magick infuse your runeweave!
+h
+Weaving those runes cost you 3 FPs.
+
+You feel more tired.
+[3 sec. delay]
+You have no apparent injuries, but look tired.
+
+HP: 115/115  Ftg:  53/ 65
+
+Orlando fires his rune etched ash longbow at the lesser wight!
+The shot is a strong blow to the head.
+    The lesser wight is knocked back!
+
+You see Fionna call out the name of Elindale and point at the lesser wight!
+invo sm hm at w
+
+Shimmering droplets of holy water suddenly rain down upon the lesser wight!
+
+You expend 1 fatigue keeping up the holy water on the lesser wight.
+
+Wisps of smoke rise from the lesser wight's body.
+Target is the 1st wight.
+
+Glinka begins chanting softly to the heavens.
+
+Something has gone awry with your casting!
+h
+Weaving those runes cost you 3 FPs.
+
+You feel more tired.
+[3 sec. delay]
+You have no apparent injuries, but look tired.
+
+HP: 115/115  Ftg:  49/ 65
+
+Orlando fires his rune etched ash longbow at the lesser wight!
+The shot is a good blow to the right leg.
+invo sm hm at w
+
+You see Fionna call out the name of Elindale and point at the lesser wight!
+Target is the 1st wight.
+
+Glinka begins chanting softly to the heavens.
+h
+Weaving those runes cost you 3 FPs.
+
+You feel more tired.
+[3 sec. delay]
+You have no apparent injuries, but look tired.
+
+HP: 115/115  Ftg:  50/ 65
+
+Orlando fires his rune etched ash longbow at the lesser wight!
+The shot is a well-delivered blow to the head.
+
+The lesser wight fades away.
+With a crash, everything it was carrying falls to the ground before you.
+l
+[Lower Graveyard]
+
+The sunken graves become more common, and you stop trying to walk around them all. Briars catch at your clothing. Something big is crawling around in those weeds.  A short black feathered ash hand spear and a closed darkened pouch are here.
+
+This area is illuminated.
+In the area are Fionna the Noble Secian (holding a glowing gold-flecked crystalla shard) and Orlando the Noble Human.
+Obvious paths: north south northwest.
+I don't see what you are referring to.
+>
+Fionna says in Secian, "nop sword"
+
+ ** Current fatigue: 50 out of 65
+op po
+You open the closed darkened pouch.
+gig
+>You giggle.
+' spear
+>
+Glinka says, " spear"
+smile at o softly
+>You smile at Orlando softly.
+>
+Orlando says, "a charm in the pouch"
+
+Fionna just removed 45 silver coins from the open darkened pouch.
+' spear in hunt
+
+Glinka says, " spear in hunt"
+>
+You follow Fionna south...
+
+[Lower Graveyard]
+
+Just as Spur has the Poor Quarter, the graveyard has the Beggars' Lot.  The ground is uneven, with sunken graves hidden by tall weeds.  Many of the graves are unmarked, and a few of them have been dug up.  Something nasty might be hiding in some of the holes.
+
+This area is illuminated.
+You see the 1st lesser wight and the 2nd lesser wight.
+In the area are Fionna the Noble Secian (holding a glowing gold-flecked crystalla shard) and Orlando the Noble Human.
+Obvious paths: north* west.
+nod
+You nod.
+>
+You see Fionna call out the name of Elindale and point at the lesser wight!
+
+The lesser wight writhes in great agony and is turned to dust!
+With a crash, everything it was carrying falls to the ground before you.
+leav
+
+The lesser wight just picked up a closed beaded wool pouch.
+n
+You leave the group.
+>
+Orlando says, "go back"
+ready lan
+It's too dark to see anything!  Ready a torch.
+>You light the lantern.
+
+l
+The area brightens.
+>[Lower Graveyard]
+
+The sunken graves become more common, and you stop trying to walk around them all. Briars catch at your clothing. Something big is crawling around in those weeds.  A short black feathered ash hand spear and an open darkened pouch are here.
+
+This area is illuminated.
+Obvious paths: north south* northwest.
+get sp
+>I see no "sp" in the room!
+get han
+>You pick up a short black feathered ash hand spear.
+l in po
+>Inside the open darkened pouch you see a large sapphire quartz charm.
+s
+>[Lower Graveyard]
+
+Just as Spur has the Poor Quarter, the graveyard has the Beggars' Lot.  The ground is uneven, with sunken graves hidden by tall weeds.  Many of the graves are unmarked, and a few of them have been dug up.  Something nasty might be hiding in some of the holes.  A short dark twisted ash staff is here.
+
+This area is illuminated.
+You see the 1st lesser wight.
+In the area are Fionna the Noble Secian (holding a glowing gold-flecked crystalla shard) and Orlando the Noble Human.
+Obvious paths: north* west.
+foll f
+>You follow Fionna.
+>You see Orlando move up another 1 UDs!
+
+ ** Current fatigue: 62 out of 65
+
+You see Fionna call out the name of Elindale and point at the lesser wight!
+
+The lesser wight seems unaffected by the attempt to turn it!
+
+Your glowing lantern flickers for a moment.
+
+The lesser wight moans as its eyes flash eerily.
+
+Orlando fires his rune etched ash longbow at the lesser wight!
+The shot is a well-delivered blow to the left leg.
+    The lesser wight is knocked back!
+
+You see Fionna call out the name of Elindale and point at the lesser wight!
+
+Orlando fires his rune etched ash longbow at the lesser wight!
+The shot is a strong blow to the head.
+    The lesser wight is knocked back!
+turn w 
+
+You see Fionna call out the name of Elindale and point at the lesser wight!
+h
+sk
+You call out the name of your deity and point to the lesser wight!
+
+The lesser wight is seemingly unimpressed by the attempt to turn it!
+
+You feel more tired.
+[5 sec. delay]
+>
+The lesser wight suddenly takes on a very wild-eyed look!
+You have no apparent injuries, but look tired.
+
+HP: 115/115  Ftg:  60/ 65
+>
+Skill                     Remain Level
+ First Aid                 97     1     
+ Channeling                335    5     
+ Blunt Weapons             394    4     
+ Spellcasting              1756   15    
+ Turn Undead               513    6     
+ Identify Gems/Minerals    67     6     
+ Shield Parry              100    1     
+ Identify Magick           82     1     
+ Swimming                  150    2     
+
+>
+Orlando fires his rune etched ash longbow at the lesser wight!
+The shot is a well-delivered blow to the head.
+
+You see Fionna call out the name of Elindale and point at the lesser wight!
+
+Orlando fires his rune etched ash longbow at the lesser wight!
+The shot is a decent blow to the torso.
+
+The lesser wight fades away.
+With a crash, everything it was carrying falls to the ground before you.
+off han to o
+You offer Orlando a short black feathered ash hand spear.
+
+l
+>[Lower Graveyard]
+
+Just as Spur has the Poor Quarter, the graveyard has the Beggars' Lot.  The ground is uneven, with sunken graves hidden by tall weeds.  Many of the graves are unmarked, and a few of them have been dug up.  Something nasty might be hiding in some of the holes.  A short dark twisted ash staff, a short dark twisted ash staff, a closed striped bag, and a closed beaded wool pouch are here.
+
+This area is illuminated.
+In the area are Fionna the Noble Secian (holding a glowing gold-flecked crystalla shard) and Orlando the Noble Human.
+Obvious paths: north west.
+chu softly, smiling...
+>You chuckle softly, smiling...
+>
+Fionna says in Secian, "no sword here"
+
+Orlando accepts your short black feathered ash hand spear.
+
+Orlando just placed a short black feathered ash hand spear within his open large green and yellow leather backpack.
+op bag
+You open the closed striped bag.
+op po
+>You open the closed beaded wool pouch.
+>
+smi at Orlando softly, winking..
+Orlando smiles at you.
+l in bag
+You smile at Orlando softly, winking..
+>Inside the open striped bag you see some silver coins.
+l in po
+>Inside the open beaded wool pouch you see some silver coins.
+>
+Fionna says in Secian, "dey gots em on da ship I thin"
+chu softly, smiling...
+You chuckle softly, smiling...
+' get coins
+>
+Glinka says, " get coins"
+smile at f softly
+>You smile at Fionna softly.
+sp secian
+>You are now speaking Secian.
+>
+Orlando taps the open striped bag.
+smile at f softly
+You smile at Fionna softly.
+' get coins
+>
+Glinka says in Secian, " get coins"
+>
+Fionna just removed 2 silver coins from the open striped bag.
+
+Orlando taps the open beaded wool pouch.
+flai
+You flail your arms about wildly.
+>
+Fionna just removed 34 silver coins from the open beaded wool pouch.
+
+Fionna asks in Secian, "we try ship?"
+rai at f
+You raise an eyebrow at Fionna.
+sp
+>You are now speaking Common.
+>
+You follow Fionna west...
+
+[Lower Graveyard]
+
+The air in the graveyard is markedly cooler than just outside the graveyard gate. The only sounds you hear are the wind whistling against the tines of the gate and your footsteps trodding on the damp graveyard soil. Something appears to be moving on Graveyard Hill, which rises ahead of you to the north.  An open black gate is here.
+
+This area is illuminated.
+In the area are Fionna the Noble Secian (holding a glowing gold-flecked crystalla shard) and Orlando the Noble Human.
+Obvious paths: east* northwest.
+
+You follow Fionna northwest...
+
+[Lower Graveyard]
+
+As you trudge along, you pass among the graves of poorer residents. Markers lean at crazy angles. Mad laughter echoes from somewhere nearby. Black flies begin to buzz around your face.
+
+This area is illuminated.
+You see the 1st lesser wight.
+In the area are Fionna the Noble Secian (holding a glowing gold-flecked crystalla shard) and Orlando the Noble Human.
+Obvious paths: north southeast*.
+' she ask ..we try ship?
+
+Glinka asks, " she ask ..we try ship?"
+>
+You see Fionna call out the name of Elindale and point at the lesser wight!
+
+The lesser wight writhes in great agony and is turned to dust!
+With a crash, everything it was carrying falls to the ground before you.
+how to f
+You howl to Fionna.
+l
+>[Lower Graveyard]
+
+As you trudge along, you pass among the graves of poorer residents. Markers lean at crazy angles. Mad laughter echoes from somewhere nearby. Black flies begin to buzz around your face.  A short dark twisted ash staff and a closed handmade bearskin sack are here.
+
+This area is illuminated.
+In the area are Fionna the Noble Secian (holding a glowing gold-flecked crystalla shard) and Orlando the Noble Human.
+Obvious paths: north southeast.
+>
+Fionna says in Secian, "no sword"
+op sa
+You open the closed handmade bearskin sack.
+l in sa
+>Inside the open handmade bearskin sack you see some silver coins.
+>
+Fionna just removed 22 silver coins from the open handmade bearskin sack.
+nod
+You nod.
+>
+Orlando says, "the ship, never been there"
+
+You follow Fionna north...
+
+[Lower Graveyard]
+
+A faint path snakes around a jumble of markers as you approach the hill. You are amazed at how crowded together the graves are. A musty odor tickles your nose, and you try hard not to sneeze. You hear a hound's plaintive howl in the distance.
+
+This area is illuminated.
+In the area are Fionna the Noble Secian (holding a glowing gold-flecked crystalla shard) and Orlando the Noble Human.
+Obvious paths: east south* northwest.
+' try ship for wight blades?
+
+Glinka asks, " try ship for wight blades?"
+>
+You follow Fionna east...
+
+[Lower Graveyard]
+
+Graves with wooden markers extend in all directions. How many are here?  How long have they stood here? You can not make out the lettering on any of them. You think you hear something beyond the buzzing of flies.  A grass covered hole is here.
+
+This area is illuminated.
+You see the 1st small tortured corpse corpse, the 2nd small tortured corpse, and the 3rd small tortured corpse.
+In the area are Fionna the Noble Secian (holding a glowing gold-flecked crystalla shard), Aviendha the Leuian, Jolanar the Novice Leuian, and Orlando the Noble Human.
+Obvious paths: north southeast west*.
+
+The 2nd small tortured corpse just died.
+Aviendha claws at the 2nd small tortured corpse!
+The attack is a decent slash to the torso.
+
+The 3rd small tortured corpse snaps at Aviendha!
+The attack misses.
+
+You follow Fionna southeast...
+
+[Lower Graveyard]
+
+The sunken graves become more common, and you stop trying to walk around them all. Briars catch at your clothing. Something big is crawling around in those weeds.  An open darkened pouch is here.
+
+This area is illuminated.
+In the area are Fionna the Noble Secian (holding a glowing gold-flecked crystalla shard) and Orlando the Noble Human.
+Obvious paths: north south northwest*.
+gig
+You giggle.
+>
+You follow Fionna south...
+
+[Lower Graveyard]
+
+Just as Spur has the Poor Quarter, the graveyard has the Beggars' Lot.  The ground is uneven, with sunken graves hidden by tall weeds.  Many of the graves are unmarked, and a few of them have been dug up.  Something nasty might be hiding in some of the holes.  A short dark twisted ash staff, a short dark twisted ash staff, an open striped bag, and an open beaded wool pouch are here.
+
+This area is illuminated.
+In the area are Fionna the Noble Secian (holding a glowing gold-flecked crystalla shard) and Orlando the Noble Human.
+Obvious paths: north* west.
+
+You follow Fionna west...
+
+[Lower Graveyard]
+
+The air in the graveyard is markedly cooler than just outside the graveyard gate. The only sounds you hear are the wind whistling against the tines of the gate and your footsteps trodding on the damp graveyard soil. Something appears to be moving on Graveyard Hill, which rises ahead of you to the north.  An open black gate is here.
+
+This area is illuminated.
+In the area are Fionna the Noble Secian (holding a glowing gold-flecked crystalla shard) and Orlando the Noble Human.
+Obvious paths: east* northwest.
+
+You follow Fionna through an open black gate...
+
+[Road.]
+
+Before you to the north is the gateway to the Spur cemetery. Unlike the cemetery behind the Arena, all who die in the city are welcome, and buried, here. A slight chill runs down your spine as you glimpse graves through the wall that rings the cemetery.  An open black gate is here.
+
+This area is illuminated.
+In the area are Fionna the Noble Secian (holding a glowing gold-flecked crystalla shard) and Orlando the Noble Human.
+Obvious paths: south.
+
+You follow Fionna south...
+
+[Road.]
+
+To the north, the wall surrounding the cemetery stands out more clearly. Little grows along the road here, adding much to the dreariness you feel as you look about. There is a well-tended path leading off to the east, everything there looks healthy.
+
+This area is illuminated.
+In the area are Fionna the Noble Secian (holding a glowing gold-flecked crystalla shard) and Orlando the Noble Human.
+Obvious paths: north* east south.
+
+You follow Fionna south...
+
+[Road.]
+
+A small gate in the fence of the corral to the east connects it to the road at this point. In the distance to the north you can make out the low wall surrounding the cemetery for those who die in places other than the Arena.
+
+This area is illuminated.
+In the area are Fionna the Noble Secian (holding a glowing gold-flecked crystalla shard) and Orlando the Noble Human.
+Obvious paths: north* south.
+
+You follow Fionna south...
+
+[Road.]
+
+The road bends from the north to the southwest here, off to the east is a large corral for horses. It seems that animals are exercised there daily by the fresh droppings on the ground. Over to the west a broad hill seems to hug the city walls.
+
+This area is illuminated.
+In the area are Fionna the Noble Secian (holding a glowing gold-flecked crystalla shard) and Orlando the Noble Human.
+Obvious paths: north* southwest.
+
+Orlando dances around the room happily.
+
+You follow Fionna southwest...
+
+[Road.]
+
+The road bends from the west to the northeast at this point. To the southeast is a dirt trail that leads to a small house in the distance. The open expanse of a farmer's field stretches off to the south and west.
+
+This area is illuminated.
+In the area are Fionna the Noble Secian (holding a glowing gold-flecked crystalla shard) and Orlando the Noble Human.
+Obvious paths: northeast* east southeast west.
+
+You follow Fionna west...
+
+[Road.]
+
+The road follows along a farmer's field to the south. The broad rock wall that surrounds it gives silent testimony to the effort the farmer puts into his labors. Off to the north a broad hill bends around the city wall.
+
+This area is illuminated.
+In the area are Fionna the Noble Secian (holding a glowing gold-flecked crystalla shard) and Orlando the Noble Human.
+Obvious paths: east* west.
+
+You follow Fionna west...
+
+[Road.]
+
+Off along the north branch of the road is a large gatehouse. It stands at the base of a broad hill that seems to follow the city wall as it angles off to the northeast. The farmer's field to the south is neat and carefully tended.
+
+This area is illuminated.
+In the area are Fionna the Noble Secian (holding a glowing gold-flecked crystalla shard) and Orlando the Noble Human.
+Obvious paths: north east* west.
+
+You follow Fionna west...
+
+[Road.]
+
+In the distance to the north, you can make out the looming walls of the city. The guards atop the walls are like ants at this distance. To the south of the road, you see a farmer's field, carefully tended to ensure his livelihood.
+
+This area is illuminated.
+In the area are Fionna the Noble Secian (holding a glowing gold-flecked crystalla shard) and Orlando the Noble Human.
+Obvious paths: east* west.
+
+You follow Fionna west...
+
+[Road.]
+
+You can see a large field opening up to the south at this point. In the middle of the road, there is a gaping hole from which emanates a constant humming noise. Most travelers avoid the hole by leaving the road.
+
+This area is illuminated.
+In the area are Fionna the Noble Secian (holding a glowing gold-flecked crystalla shard) and Orlando the Noble Human.
+Obvious paths: east* south west.
+
+You follow Fionna west...
+
+[Road.]
+
+The main north road has a branch here leading off to the east. A small sign posted at this intersection sports arrows pointing in all five directions. An open field lies off to the west and another to the southeast.
+
+This area is illuminated.
+In the area are Fionna the Noble Secian (holding a glowing gold-flecked crystalla shard) and Orlando the Noble Human.
+Obvious paths: north east* southeast south west.
+
+You follow Fionna west...
+
+[Field.]
+
+A broad strip of grassland that follows the main road east of you, this meadow is often used by the local aristocracy for picnicking and partying on good days. The city guardsmen keep the field clear of riffraff all year round, just to be safe.  A hole is here.
+
+This area is illuminated.
+In the area are Fionna the Noble Secian (holding a glowing gold-flecked crystalla shard) and Orlando the Noble Human.
+Obvious paths: northeast east* southeast south southwest.
+
+You follow Fionna south...
+
+[Road.]
+
+To the northwest and southeast of the road at this point, wide open fields stretch out invitingly. At all times of the year, poor travelers can be found camping here in lieu of paying for a room at an inn somewhere in the city.
+
+This area is illuminated.
+In the area are Fionna the Noble Secian (holding a glowing gold-flecked crystalla shard) and Orlando the Noble Human.
+Obvious paths: north* northeast east southeast southwest northwest.
+
+You follow Fionna southwest...
+
+[Road.]
+
+The road coming in from the northeast bends to the south here as it cuts through the open fields. A branch leads off to the west and the river in the distance. A signpost sporting direction arrows stands to one side.
+
+This area is illuminated.
+In the area are Fionna the Noble Secian (holding a glowing gold-flecked crystalla shard) and Orlando the Noble Human.
+Obvious paths: north northeast* east southeast south west.
+
+You follow Fionna south...
+
+[Road.]
+
+The open field to the east is balanced by the fence surrounding the fairgrounds to the west. The road here hasn't seen much heavy traffic since the docks were completed, diverting most of the southbound traffic to the ships.
+
+This area is illuminated.
+In the area are Fionna the Noble Secian (holding a glowing gold-flecked crystalla shard) and Orlando the Noble Human.
+Obvious paths: north* northeast east south.
+
+You follow Fionna south...
+
+[Road.]
+
+The road bends from the southwest to the north here. A gateway leads off to the southeast and a dirt-packed road there. A small farmhouse can be seen at its end, the barn nearby towering over it.
+
+This area is illuminated.
+In the area are Fionna the Noble Secian (holding a glowing gold-flecked crystalla shard) and Orlando the Noble Human.
+Obvious paths: north* northeast south southwest.
+
+You follow Fionna southwest...
+
+[Road.]
+
+This main road leading into the Spur shows some signs of disrepair. At one time, this was the primary route in and out of the city. Since the docks were completed however, upkeep of this section of road is less important. It shows.
+
+This area is illuminated.
+In the area are Fionna the Noble Secian (holding a glowing gold-flecked crystalla shard) and Orlando the Noble Human.
+Obvious paths: northeast* southeast southwest.
+
+You follow Fionna southwest...
+
+[Road.]
+
+A gateway to the west serves as one of the two main entrances to Spur's fairgrounds. To the south, you can barely make out the dark line of the hedge, a thick growth of trees and bushes that separates the true wilds from the tame city lands.  An iron gate is here.
+
+This area is illuminated.
+In the area are Fionna the Noble Secian (holding a glowing gold-flecked crystalla shard) and Orlando the Noble Human.
+Obvious paths: northeast* east south.
+
+You follow Fionna south...
+
+[Road.]
+
+Stretching as far as the eye can see to the east and west is the hedge. A thick line of trees and shrubs that serves as a natural wall between civilization and wilderness. A small outpost stands guard here, its door open to friends, barred to enemies.
+
+This area is illuminated.
+In the area are Fionna the Noble Secian (holding a glowing gold-flecked crystalla shard) and Orlando the Noble Human.
+Obvious paths: north* northeast south.
+
+You follow Fionna south...
+
+[Road.]
+
+This narrow tunnel through the hedge leads up to the gateway that lets out to the wilderness beyond. Though it used to see heavy traffic from the south, the docks have made this gate largely a place of semi-banishment for the guards.
+
+This area is illuminated.
+In the area are Fionna the Noble Secian (holding a glowing gold-flecked crystalla shard) and Orlando the Noble Human.
+Obvious paths: north*.
+
+You follow Fionna through an open bronze gate...
+
+[Wilderness gate.]
+
+Set within a wide tunnel leading through the hedge to the north is the Wilderness Gate. It separates the settled lands of Spur from the open plains to the south of the city. The plains stretch as far as the eyes can see, the horizon and the walls of the fort down the road the only blemishes of the grassy landscape in the distance. The stones of the road are smoothly set together, well built to withstand heavy travel. A broken wagon wheel, discarded some time ago, covers a spot of nearby grass, weeds trying to climb through the spokes.
+
+This area is illuminated.
+In the area are Fionna the Noble Secian (holding a glowing gold-flecked crystalla shard) and Orlando the Noble Human.
+Obvious paths: east southeast south southwest west.
+
+You follow Fionna southwest...
+
+[Southern Tradeway.]
+
+The tradeway runs across the open grasslands northeast towards the Spur, and southwest towards distant lands and eventually, the coast. The plains to the south and east seem totally indifferent to your existence. Just ahead, a small path moves up a village of huts spread out in a semi-circle. In the center of the village a giant fire pit sits where barbarians who wander through the village can sit around to stay warm.  A worn grassy path is here.
+
+This area is illuminated.
+In the area are Fionna the Noble Secian (holding a glowing gold-flecked crystalla shard) and Orlando the Noble Human.
+Obvious paths: north northeast* east southeast south southwest west northwest.
+
+You follow Fionna west...
+
+[Plains near river]
+
+The far side of the river is obscured by mists and spray. The swift river pounds away at several jagged outcrops of stone near its middle. Ships traveling at this point need to hug the river banks for safety.
+
+This area is illuminated.
+In the area are Fionna the Noble Secian (holding a glowing gold-flecked crystalla shard) and Orlando the Noble Human.
+Obvious paths: northeast east* southeast south southwest.
+
+You follow Fionna southwest...
+
+[Plains near river.]
+
+One section of the river bank has collapsed here. A thin, brown line curls out into the river where it wears away at the mud. There are some dark shadows down near the river's edge.
+
+This area is illuminated.
+In the area are Fionna the Noble Secian (holding a glowing gold-flecked crystalla shard) and Orlando the Noble Human.
+Obvious paths: northeast* east southeast south southwest.
+
+You follow Fionna southwest...
+
+[Plains near river.]
+
+The river flows steadily to the southwest. There is a hint of muddy brown mixed in with its dark waters coming from upriver. The grasses along the riverside flourish in thick profusion.
+
+This area is illuminated.
+In the area are Fionna the Noble Secian (holding a glowing gold-flecked crystalla shard) and Orlando the Noble Human.
+Obvious paths: northeast* east southeast south southwest.
+
+You follow Fionna southwest...
+
+[Plains near river.]
+
+There is a strong sense of vibrancy coming from the Darkith as it flows southwest. Even the grasses along its banks are thriving as they fight for dominance at the river side.
+
+This area is illuminated.
+In the area are Fionna the Noble Secian (holding a glowing gold-flecked crystalla shard) and Orlando the Noble Human.
+Obvious paths: northeast* east southeast south southwest.
+
+You follow Fionna southwest...
+
+[Plains near river.]
+
+A narrow river from the east flows into the Darkith to the west. Though it's a strong river in its own right, its waters are barely noticed at the confluence as they are quickly consumed by the larger river's mighty currents.
+
+This area is illuminated.
+In the area are Fionna the Noble Secian (holding a glowing gold-flecked crystalla shard) and Orlando the Noble Human.
+Obvious paths: northeast* east west.
+
+Fionna asks Glinka in Secian, "cans ya fly an hold da lantern?"
+nod yes
+You nod up and down.
+ready lan
+>You already have an active light source!
+hol lan
+>You hold the glowing lantern close.
+fly up 10
+>[5 sec. delay]
+You take a few steps and soar 10 feet into the air!
+>
+Fionna says in Secian, "I gots ta swim "
+fly down 5
+nod to f
+You nod to Fionna.
+You fly down 5 feet.
+
+You are now at 5 feet.
+>
+You follow Fionna west...
+
+[The Darkith River]
+
+The relative calm of the Darkith's muddy riverbank is quickly shattered as you gaze upon a dark, ghastly looking ship only a few hundred yards away. A group of menacing clouds hang directly over the ship.
+
+This area is illuminated.
+In the area are Fionna the Noble Secian (holding a glowing gold-flecked crystalla shard) and Orlando the Noble Human.
+Obvious paths: north east*.
+l
+[The Darkith River]
+
+The relative calm of the Darkith's muddy riverbank is quickly shattered as you gaze upon a dark, ghastly looking ship only a few hundred yards away. A group of menacing clouds hang directly over the ship.
+
+This area is illuminated.
+In the area are Fionna the Noble Secian and Orlando the Noble Human.
+Obvious paths: north east.
+>
+ ** Current fatigue: 61 out of 65
+
+You follow Fionna north...
+
+
+l
+The area brightens.
+[The Darkith River]
+
+As you wade further into the waters of the Darkith, you see that the dark, decrepit ship has lodged itself on a large sandbar. The waters around you remain fairly calm, though the muddy river bottom makes footing a bit treacherous.
+
+This area is illuminated.
+In the area are Fionna the Noble Secian and Orlando the Noble Human.
+Obvious paths: north south*.
+[The Darkith River]
+
+As you wade further into the waters of the Darkith, you see that the dark, decrepit ship has lodged itself on a large sandbar. The waters around you remain fairly calm, though the muddy river bottom makes footing a bit treacherous.
+
+This area is illuminated.
+In the area are Fionna the Noble Secian and Orlando the Noble Human.
+Obvious paths: north south.
+diag all
+>
+  You examine Fionna the Secian...
+She has no apparent injuries, but looks fatigued.
+  You examine Orlando the Human...
+He has no apparent injuries, but looks tired.
+
+>
+You follow Fionna north...
+
+
+l
+The area brightens.
+[The Darkith River]
+
+The current grows strong as you near the midpoint between the riverbank and the sandbar, almost threatening to pull you under. You try your hardest to keep the foul, turbulent water as far from your mouth as possible. From here, you can make out the name of the dark ship stuck on the sandbar: "The Siren".
+
+This area is illuminated.
+In the area are Fionna the Noble Secian and Orlando the Noble Human.
+Obvious paths: north south*.
+[The Darkith River]
+
+The current grows strong as you near the midpoint between the riverbank and the sandbar, almost threatening to pull you under. You try your hardest to keep the foul, turbulent water as far from your mouth as possible. From here, you can make out the name of the dark ship stuck on the sandbar: "The Siren".
+
+This area is illuminated.
+In the area are Fionna the Noble Secian and Orlando the Noble Human.
+Obvious paths: north south.
+invo vt at f
+>
+A pale, bluish glow surrounds Glinka's fingertips.
+
+You feel a surge of magick infuse your runeweave!
+h
+Weaving those runes cost you 3 FPs.
+
+You feel more tired.
+[4 sec. delay]
+>You have no apparent injuries, but look tired.
+
+HP: 115/115  Ftg:  60/ 65
+>
+You follow Fionna north...
+
+
+l
+The area brightens.
+[Sandbar]
+
+The feel of sand beneath your feet feels welcome in comparison with swimming the Darkith. Bits of black and green seaweed that have washed up onto the squishy, yet solid sands. The area grows darker towards the west.
+
+This area is illuminated.
+In the area are Fionna the Noble Secian and Orlando the Noble Human.
+Obvious paths: south* west.
+[Sandbar]
+
+The feel of sand beneath your feet feels welcome in comparison with swimming the Darkith. Bits of black and green seaweed that have washed up onto the squishy, yet solid sands. The area grows darker towards the west.
+
+This area is illuminated.
+In the area are Fionna the Noble Secian and Orlando the Noble Human.
+Obvious paths: south west.
+>
+The bluish glow spreads out and soothingly envelops Fionna's body!
+
+The bluish glow upon Glinka's fingertips slowly fades away.
+diag all
+
+  You examine Fionna the Secian...
+She has no apparent injuries, but looks fatigued.
+  You examine Orlando the Human...
+He has no apparent injuries, but looks tired.
+
+>
+You follow Fionna west...
+
+
+l
+The area brightens.
+[Sandbar]
+
+The sandbar ends at the rotted gangplank of The Siren.  Black clouds hanging over the area blot out the sun and dark murky waves swell around the sides of the ship.  You long to return to Spur and forget about this doomed vessel altogether.  A rotting gangplank is here.
+
+This area is illuminated.
+In the area are Fionna the Noble Secian and Orlando the Noble Human.
+Obvious paths: east*.
+[Sandbar]
+
+The sandbar ends at the rotted gangplank of The Siren.  Black clouds hanging over the area blot out the sun and dark murky waves swell around the sides of the ship.  You long to return to Spur and forget about this doomed vessel altogether.  A rotting gangplank is here.
+
+This area is illuminated.
+In the area are Fionna the Noble Secian and Orlando the Noble Human.
+Obvious paths: east.
+invo vt at f
+>
+A pale, bluish glow surrounds Glinka's fingertips.
+
+You feel a surge of magick infuse your runeweave!
+h
+Weaving those runes cost you 3 FPs.
+
+You feel more tired.
+[4 sec. delay]
+>You have no apparent injuries, but look tired.
+
+HP: 115/115  Ftg:  57/ 65
+>
+You follow Fionna through a rotting gangplank...
+
+[Gangplank]
+
+A large rotting board serves as a gangplank to the decrepit ship.  A dense fog blankets the area and the vile stench of death wafts down from the doomed ship.  The gangplank creaks and nearly gives under your weight.  A sandbar, a brass hilted silver khopesh, a small iron cooking pot, a leather covered steelwood targe, and a crooked worn oak stool are here.
+
+This area is illuminated.
+In the area are Fionna the Noble Secian, Bronwynn the Fir Elf, Green the Human (holding a glowing green crystal orb of Elindale), Orlando the Noble Human, and Hott the Noble Leuian.
+Obvious paths: west.
+
+The bluish glow spreads out and soothingly envelops Fionna's body!
+
+The bluish glow upon Glinka's fingertips slowly fades away.
+diag all
+
+  You examine Fionna the Secian...
+She has no apparent injuries, but looks tired.
+  You examine Bronwynn the Fir Elf...
+She appears to be in perfect health.
+  You examine Green the Human...
+He appears to be in perfect health.
+  You examine Orlando the Human...
+He has no apparent injuries, but looks tired.
+  You examine Hott the Leuian...
+He appears to be in perfect health.
+
+>
+You follow Fionna west...
+
+
+l
+The area brightens.
+[The Siren]
+
+The deck of the Siren lies in ruin. Rotted and broken planks cover the deck, making it tricky to move around. A dark fog envelops the ship, and a chilling breeze sends shivers up your spine.  A broken plank, an open handmade hemp pouch, and an open darkened hemp sack are here.
+
+This area is illuminated.
+You see the 1st tortured spirit and the 2nd tortured spirit.
+In the area are Fionna the Noble Secian, Galain the Noble Fir Elf, Orlando the Noble Human, and Autumn the Fir Elf.
+Obvious paths: east* south southwest west northwest.
+
+Autumn fires her simple yew crossbow at the tortured spirit!
+The shot is a well-delivered blow to the torso.
+[The Siren]
+
+The deck of the Siren lies in ruin. Rotted and broken planks cover the deck, making it tricky to move around. A dark fog envelops the ship, and a chilling breeze sends shivers up your spine.  A broken plank, an open handmade hemp pouch, and an open darkened hemp sack are here.
+
+This area is illuminated.
+You see the 1st tortured spirit and the 2nd tortured spirit.
+In the area are Fionna the Noble Secian, Galain the Noble Fir Elf, Orlando the Noble Human, and Autumn the Fir Elf.
+Obvious paths: east* south southwest west northwest.
+how
+>You howl.
+>
+Orlando smiles.
+
+Autumn smiles.
+turn sp 
+
+Autumn chuckles.
+
+You follow Fionna northwest...
+
+
+l
+The area brightens.
+[The Siren, Fore]
+
+The siren's bow has seen better days. The ship's figurehead, at one time representing a beautiful woman adorned with jewels, now lies in ruin. It has rotted to the point where it could fall into the ocean at any moment.  A broken rotting figurehead is here.
+
+This area is illuminated.
+In the area are Fionna the Noble Secian and Orlando the Noble Human.
+Obvious paths: southeast* south southwest.
+I don't see what you are referring to.
+>[The Siren, Fore]
+
+The siren's bow has seen better days. The ship's figurehead, at one time representing a beautiful woman adorned with jewels, now lies in ruin. It has rotted to the point where it could fall into the ocean at any moment.  A broken rotting figurehead is here.
+
+This area is illuminated.
+In the area are Fionna the Noble Secian and Orlando the Noble Human.
+Obvious paths: southeast south southwest.
+>
+You follow Fionna southwest...
+
+
+l
+The area brightens.
+[The Siren]
+
+A large, jagged hole in the ship's railing draws your attention. Looking down over the edge, you see waves of dark water smashing violently against the hull of the doomed ship. You think it best to stay as far away as you can from the rotted rail.
+
+This area is illuminated.
+In the area are Fionna the Noble Secian and Orlando the Noble Human.
+Obvious paths: northeast* east southeast south.
+[The Siren]
+
+A large, jagged hole in the ship's railing draws your attention. Looking down over the edge, you see waves of dark water smashing violently against the hull of the doomed ship. You think it best to stay as far away as you can from the rotted rail.
+
+This area is illuminated.
+In the area are Fionna the Noble Secian and Orlando the Noble Human.
+Obvious paths: northeast east southeast south.
+>
+You follow Fionna south...
+
+
+l
+The area brightens.
+[The Siren]
+
+The dark mist continues to surround you. Long agonizing moans echo around your ears, making it difficult for you to even think clearly. To the east, you can just barely make out the dim outline of the ship's broken mast.
+
+This area is illuminated.
+You see the 1st wight and the 2nd wight.
+In the area are Fionna the Noble Secian and Orlando the Noble Human.
+Obvious paths: north* northeast east southeast south.
+[The Siren]
+
+The dark mist continues to surround you. Long agonizing moans echo around your ears, making it difficult for you to even think clearly. To the east, you can just barely make out the dim outline of the ship's broken mast.
+
+This area is illuminated.
+You see the 1st wight and the 2nd wight.
+In the area are Fionna the Noble Secian and Orlando the Noble Human.
+Obvious paths: north northeast east southeast south.
+turn wi 
+h
+sk
+>You call out the name of your deity and point to the wight!
+
+The wight seems unaffected by the attempt to turn it!
+
+You feel more tired.
+[5 sec. delay]
+>You have no apparent injuries, but look tired.
+
+HP: 115/115  Ftg:  54/ 65
+>
+Skill                     Remain Level
+ First Aid                 97     1     
+ Channeling                335    5     
+ Blunt Weapons             394    4     
+ Spellcasting              1754   15    
+ Turn Undead               513    6     
+ Identify Gems/Minerals    67     6     
+ Shield Parry              100    1     
+ Identify Magick           82     1     
+ Swimming                  150    2     
+
+>
+You see Fionna call out the name of Elindale and point at the wight!
+
+Orlando fires his rune etched ash longbow at the wight!
+The shot is a decent blow to the torso.
+    The wight is knocked back!
+    It stumbles and falls down!
+invo ddb at 
+
+The wight is suddenly immobilized!
+
+The 2nd wight advances towards Orlando.
+
+You clasp your hands together and begin to recite a sacred Elindalian prayer.
+Weaving those runes cost you 5 FPs.
+
+You feel more tired.
+[5 sec. delay]
+>
+Orlando fires his rune etched ash longbow at the wight!
+The shot is a strong blow to the torso.
+turn w 
+
+Fionna's stomach growls.
+
+ ** Current fatigue: 55 out of 65
+
+You see Fionna call out the name of Elindale and point at the wight!
+
+The wight ignores the attempt to turn it!
+turn 2 w
+
+Orlando fires his rune etched ash longbow at the wight!
+The shot is a good blow to the right arm.
+
+The 2nd wight hacks with a ice cold obsidian wight blade at Orlando!
+The swing is a strong blow to the left arm.
+
+A gust of wind begins to swirl about you as your eyes are suddenly filled with a holy light! You can feel the presence of Elindale flow through you...
+h
+sk
+You call out the name of your deity and point to the wight!
+
+You feel more tired.
+[5 sec. delay]
+You have no apparent injuries, but look tired.
+
+HP: 115/115  Ftg:  50/ 65
+
+Skill                     Remain Level
+ First Aid                 97     1     
+ Channeling                335    5     
+ Blunt Weapons             394    4     
+ Spellcasting              1753   15    
+ Turn Undead               511    6     
+ Identify Gems/Minerals    67     6     
+ Shield Parry              100    1     
+ Identify Magick           82     1     
+ Swimming                  150    2     
+
+
+The wight suddenly takes on a very wild-eyed look!
+
+You see Fionna call out the name of Elindale and point at the 2nd wight!
+
+Orlando fires his rune etched ash longbow at the wight!
+The shot is a decent blow to the torso.
+
+The 2nd wight is suddenly immobilized!
+
+You expend 1 fatigue keeping up the presence of Elindale on yourself.
+invo sm hm at w
+h
+sk
+You call out the name of your deity and point to the 2nd wight!
+
+The 2nd wight is seemingly unimpressed by the attempt to turn it!
+
+You feel more tired.
+[5 sec. delay]
+>You have no apparent injuries, but look fatigued.
+
+HP: 115/115  Ftg:  44/ 65
+
+Skill                     Remain Level
+ First Aid                 97     1     
+ Channeling                335    5     
+ Blunt Weapons             394    4     
+ Spellcasting              1753   15    
+ Turn Undead               511    6     
+ Identify Gems/Minerals    67     6     
+ Shield Parry              100    1     
+ Identify Magick           82     1     
+ Swimming                  150    2     
+
+
+Orlando fires his rune etched ash longbow at the wight!
+The shot is a strong blow to the right leg.
+
+Fionna swings her dragon carved bone hilted broadsword at the wight!
+The swing is a well-delivered blow to the right arm.
+
+You expend 1 fatigue keeping up the presence of Elindale on yourself.
+
+Orlando fires his rune etched ash longbow at the wight!
+The shot is a well-delivered blow to the torso.
+Target is the 1st wight.
+
+Glinka begins chanting softly to the heavens.
+h
+Weaving those runes cost you 3 FPs.
+
+You feel more tired.
+[3 sec. delay]
+>You have no apparent injuries, but look fatigued.
+
+HP: 115/115  Ftg:  40/ 65
+invo sm hm at w
+>
+Fionna swings her dragon carved bone hilted broadsword at the wight!
+The swing is a decent blow to the head.
+
+You expend 1 fatigue keeping up the presence of Elindale on yourself.
+
+Fionna says in Secian, "dey gots swords"
+
+Orlando fires his rune etched ash longbow at the wight!
+The shot is a strong blow to the left arm.
+
+The wight fades away.
+But the wight is dead!
+>With a crash, everything it was carrying falls to the ground before you.
+invo sm hm at w
+
+Fionna swings her dragon carved bone hilted broadsword at the wight!
+The swing is a strong blow to the right leg.
+Target is the 1st wight.
+
+Glinka begins chanting softly to the heavens.
+h
+Weaving those runes cost you 3 FPs.
+
+You feel more tired.
+[3 sec. delay]
+>You have no apparent injuries, but look fatigued.
+
+HP: 115/115  Ftg:  38/ 65
+>
+You expend 1 fatigue keeping up the presence of Elindale on yourself.
+l
+
+Shimmering droplets of holy water suddenly rain down upon the wight!
+
+You expend 1 fatigue keeping up the holy water on the wight.
+
+Wisps of smoke rise from the wight's body.
+[The Siren]
+
+The dark mist continues to surround you. Long agonizing moans echo around your ears, making it difficult for you to even think clearly. To the east, you can just barely make out the dim outline of the ship's broken mast.  An ice cold obsidian wight blade, a black winged steel helm, and a closed mended canvas pouch are here.
+
+This area is illuminated.
+You see the 1st wight.
+In the area are Fionna the Noble Secian and Orlando the Noble Human.
+Obvious paths: north northeast east southeast south.
+invo sm hm at w
+>Target is the 1st wight.
+
+Glinka begins chanting softly to the heavens.
+h
+Weaving those runes cost you 3 FPs.
+
+You feel more tired.
+[3 sec. delay]
+>You have no apparent injuries, but look fatigued.
+
+HP: 115/115  Ftg:  33/ 65
+>
+Fionna swings her dragon carved bone hilted broadsword at the wight!
+The swing is a well-delivered blow to the head.
+    The wight is knocked back!
+    It stumbles and falls down!
+You see Orlando move up another 1 UDs!
+
+You expend 1 fatigue keeping up the presence of Elindale on yourself.
+
+Shimmering droplets of holy water suddenly rain down upon the wight!
+
+You expend 1 fatigue keeping up the holy water on the wight.
+
+Wisps of smoke rise from the wight's body.
+invo sm hm at w
+Target is the 1st wight.
+
+Glinka begins chanting softly to the heavens.
+
+You feel a surge of magick infuse your runeweave!
+h
+Weaving those runes cost you 3 FPs.
+
+You feel more tired.
+[3 sec. delay]
+>
+Orlando fires his rune etched ash longbow at the wight!
+The shot barely misses.
+You have no apparent injuries, but look fatigued.
+
+HP: 115/115  Ftg:  28/ 65
+>
+Fionna swings her dragon carved bone hilted broadsword at the wight!
+The swing is a good blow to the left arm.
+
+You expend 1 fatigue keeping up the presence of Elindale on yourself.
+' helm too
+
+Glinka says, " helm too"
+>
+Orlando fires his rune etched ash longbow at the wight!
+The shot is a decent blow to the left arm.
+
+Shimmering droplets of holy water suddenly rain down upon the wight!
+
+You expend 1 fatigue keeping up the holy water on the wight.
+
+Wisps of smoke rise from the wight's body.
+invo sm hm at w
+Target is the 1st wight.
+
+Glinka begins chanting softly to the heavens.
+
+You feel a surge of magick infuse your runeweave!
+h
+Weaving those runes cost you 3 FPs.
+
+You feel more tired.
+[3 sec. delay]
+>You have no apparent injuries, but look haggard.
+
+HP: 115/115  Ftg:  25/ 65
+>
+Fionna swings her dragon carved bone hilted broadsword at the wight!
+The swing is a decent blow to the torso.
+
+The wight fades away.
+With a crash, everything it was carrying falls to the ground before you.
+
+You expend 1 fatigue keeping up the presence of Elindale on yourself.
+invo eb at gli
+
+ ** Current fatigue: 24 out of 65
+
+Wisps of shimmering blue mist begin to trail from you fingertips.
+
+You feel a surge of magick infuse your runeweave!
+h
+Weaving those runes cost you 3 FPs.
+
+You feel more tired.
+[4 sec. delay]
+>You have no apparent injuries, but look haggard.
+
+HP: 115/115  Ftg:  21/ 65
+l
+>[The Siren]
+
+The dark mist continues to surround you. Long agonizing moans echo around your ears, making it difficult for you to even think clearly. To the east, you can just barely make out the dim outline of the ship's broken mast.  An ice cold obsidian wight blade, a black winged steel helm, a closed mended canvas pouch, an ice cold obsidian wight blade, a black winged steel helm, and a closed bright silver box are here.
+
+This area is illuminated.
+In the area are Fionna the Noble Secian and Orlando the Noble Human.
+Obvious paths: north northeast east southeast south.
+>
+You expend 1 fatigue keeping up the presence of Elindale on yourself.
+
+The blue mist swirls about you and covers your skin with refreshing dew drops!
+
+h
+You feel invigorated!
+
+h
+The dew upon you is quickly absorbed into your skin.
+
+Orlando just picked up a black winged steel helm.
+pok he
+You have no apparent injuries, but look fatigued.
+
+HP: 115/115  Ftg:  45/ 65
+>You have no apparent injuries, but look fatigued.
+
+HP: 115/115  Ftg:  45/ 65
+>You poke the black winged steel helm.
+>
+You expend 1 fatigue keeping up the presence of Elindale on yourself.
+l
+[The Siren]
+
+The dark mist continues to surround you. Long agonizing moans echo around your ears, making it difficult for you to even think clearly. To the east, you can just barely make out the dim outline of the ship's broken mast.  An ice cold obsidian wight blade, a closed mended canvas pouch, an ice cold obsidian wight blade, a black winged steel helm, and a closed bright silver box are here.
+
+This area is illuminated.
+In the area are Fionna the Noble Secian and Orlando the Noble Human.
+Obvious paths: north northeast east southeast south.
+>
+Fionna asks in Secian, "more swords?"
+op po
+You open the closed mended canvas pouch.
+>
+You expend 1 fatigue keeping up the presence of Elindale on yourself.
+
+The holy light within your eyes slowly dims and fades away.
+
+Orlando just placed a black winged steel helm within his open large green and yellow leather backpack.
+li po
+You cannot do that while you are flying!
+l in po
+>Inside the open mended canvas pouch you see some silver coins, a heavy leather skullcap, a smooth white sharpening stone, and a tasty piece of blueberry pie.
+poi at pou
+>You point at the open mended canvas pouch.
+>
+Orlando just picked up an ice cold obsidian wight blade.
+smile at f softly
+You smile at Fionna softly.
+>
+Kambralyn yells in Firian, "hho xgytl a gxyz lg ytzzp eme mal csnn lood qk?"
+gig
+You giggle.
+l
+>[The Siren]
+
+The dark mist continues to surround you. Long agonizing moans echo around your ears, making it difficult for you to even think clearly. To the east, you can just barely make out the dim outline of the ship's broken mast.  An open mended canvas pouch, an ice cold obsidian wight blade, a black winged steel helm, and a closed bright silver box are here.
+
+This area is illuminated.
+In the area are Fionna the Noble Secian and Orlando the Noble Human.
+Obvious paths: north northeast east southeast south.
+>
+Orlando just picked up an ice cold obsidian wight blade.
+
+Orlando just placed an ice cold obsidian wight blade within his open large green and yellow leather backpack.
+
+Orlando just placed an ice cold obsidian wight blade within his open large green and yellow leather backpack.
+inv
+Items carried:
+  A silver ring [0.0 lbs].
+  An open dragon embroidered black leather backpack [0.5 lbs].
+  A crescent moon earring [0.0 lbs].
+  A large brilliant mossy opal [0.0 lbs].
+  A white silk cloak [2.6 lbs].
+  Some twinkling rainbow crystal bangles [0.0 lbs].
+  A moon shaped ivory talisman [0.1 lbs].
+  A glowing lantern [0.1 lbs].
+  A polished steelwood mail [1.6 lb].
+  A delicately linked gold belly chain [0.0 lbs].
+  A tiny moonsilver tongue piercing [0.0 lbs].
+  Some multicolored crystal dragon wing charms [0.0 lbs].
+  An old multicolored gypsy robe [0.1 lbs].
+  A charred iron smudge pot [0.2 lbs].
+  An open plaid leather healer's bag [0.3 lbs].
+  A battle scarred ebony parrying shield [2.2 lbs].
+  An open large forest green leather backpack [1.0 lb].
+  A moonsilver oil lamp [0.2 lbs].
+  A pair of ornate silver toe rings [0.0 lbs].
+  An open raccoonskin pack [0.3 lbs].
+  A tiny singing ivory bluebird statue [0.1 lbs].
+  A silver serpentine hoop [0.0 lbs].
+  Some heavy bone studded steelwood brigandine [2.4 lbs].
+
+Your inventory totals 11.7 lbs.
+>
+ ** Current fatigue: 51 out of 65
+l
+[The Siren]
+
+The dark mist continues to surround you. Long agonizing moans echo around your ears, making it difficult for you to even think clearly. To the east, you can just barely make out the dim outline of the ship's broken mast.  An open mended canvas pouch, a black winged steel helm, and a closed bright silver box are here.
+
+This area is illuminated.
+In the area are Fionna the Noble Secian and Orlando the Noble Human.
+Obvious paths: north northeast east southeast south.
+>
+Kambralyn yells in Firian, "luhcmx! qdbm"
+
+Fionna just removed 22 silver coins from the open mended canvas pouch.
+
+Orlando just picked up a black winged steel helm.
+l
+[The Siren]
+
+The dark mist continues to surround you. Long agonizing moans echo around your ears, making it difficult for you to even think clearly. To the east, you can just barely make out the dim outline of the ship's broken mast.  An open mended canvas pouch and a closed bright silver box are here.
+
+This area is illuminated.
+In the area are Fionna the Noble Secian and Orlando the Noble Human.
+Obvious paths: north northeast east southeast south.
+>
+Fionna just opened the closed bright silver box.
+
+Orlando just placed a black winged steel helm within his open large green and yellow leather backpack.
+l in po
+Inside the open mended canvas pouch you see a heavy leather skullcap, a smooth white sharpening stone, and a tasty piece of blueberry pie.
+>
+2 tortured spirits just wandered in in front of you at 2 UDs!
+
+Orlando dances around the room happily.
+l in bo
+Inside the open bright silver box you see some silver coins, a tiny shrunken skull pendant, a dead grey mouse, and a sharpened dried bamboo stake.
+>
+Fionna just removed 17 silver coins from the open bright silver box.
+
+Orlando fires his rune etched ash longbow at the tortured spirit!
+The shot misses by a slim margin.
+turn to 
+Usage: TURN <undead-monster>
+>
+A tortured spirit runs in from the east!
+
+The tortured spirit just picked up an open bright silver box.
+
+The 2nd tortured spirit just picked up an open mended canvas pouch.
+turn sp 
+h
+sk
+You call out the name of your deity and point to the tortured spirit!
+
+The tortured spirit seems unaffected by the attempt to turn it!
+
+You feel more tired.
+[5 sec. delay]
+>You have no apparent injuries, but look tired.
+
+HP: 115/115  Ftg:  48/ 65
+>
+Skill                     Remain Level
+ First Aid                 97     1     
+ Channeling                335    5     
+ Blunt Weapons             394    4     
+ Spellcasting              1747   15    
+ Turn Undead               511    6     
+ Identify Gems/Minerals    67     6     
+ Shield Parry              100    1     
+ Identify Magick           82     1     
+ Swimming                  150    2     
+
+>
+You see Fionna call out the name of Elindale and point at the tortured spirit!
+
+The tortured spirit smiles wickedly after the attempt to turn it!
+
+Orlando fires his rune etched ash longbow at the tortured spirit!
+The shot barely misses.
+
+The 3rd tortured spirit turns and runs northeast!
+l
+[The Siren]
+
+The dark mist continues to surround you. Long agonizing moans echo around your ears, making it difficult for you to even think clearly. To the east, you can just barely make out the dim outline of the ship's broken mast.
+
+This area is illuminated.
+You see the 1st tortured spirit and the 2nd tortured spirit.
+In the area are Fionna the Noble Secian and Orlando the Noble Human.
+Obvious paths: north northeast east southeast south.
+>
+The tortured spirit soars up into the air.
+
+The 2nd tortured spirit soars up into the air.
+
+You see Fionna call out the name of Elindale and point at the tortured spirit!
+
+The tortured spirit is suddenly immobilized!
+turn sp 
+h
+sk
+You call out the name of your deity and point to the tortured spirit!
+
+The tortured spirit ignores the attempt to turn it!
+
+You feel more tired.
+[5 sec. delay]
+>You have no apparent injuries, but look tired.
+
+HP: 115/115  Ftg:  49/ 65
+>
+Skill                     Remain Level
+ First Aid                 97     1     
+ Channeling                335    5     
+ Blunt Weapons             394    4     
+ Spellcasting              1747   15    
+ Turn Undead               511    6     
+ Identify Gems/Minerals    67     6     
+ Shield Parry              100    1     
+ Identify Magick           82     1     
+ Swimming                  150    2     
+
+l
+>[The Siren]
+
+The dark mist continues to surround you. Long agonizing moans echo around your ears, making it difficult for you to even think clearly. To the east, you can just barely make out the dim outline of the ship's broken mast.
+
+This area is illuminated.
+You see the 1st tortured spirit and the 2nd tortured spirit.
+In the area are Fionna the Noble Secian and Orlando the Noble Human.
+Obvious paths: north northeast east southeast south.
+>
+Orlando fires his rune etched ash longbow at the tortured spirit!
+The shot is a strong blow to the torso.
+invo sm hm at sp
+
+The 2nd tortured spirit climbs to 20 feet.
+Target is the 1st spirit.
+
+Glinka begins chanting softly to the heavens.
+
+You feel a surge of magick infuse your runeweave!
+h
+Weaving those runes cost you 3 FPs.
+
+You feel more tired.
+[3 sec. delay]
+>You have no apparent injuries, but look tired.
+
+HP: 115/115  Ftg:  46/ 65
+>
+You see Fionna call out the name of Elindale and point at the 2nd tortured spirit!
+
+The 2nd tortured spirit is seemingly unimpressed by the attempt to turn it!
+
+Orlando fires his rune etched ash longbow at the tortured spirit!
+The shot is a good blow to the head.
+invo sm hm at sp
+invo sm hm at sp
+
+Shimmering droplets of holy water suddenly rain down upon the tortured spirit!
+
+You expend 1 fatigue keeping up the holy water on the tortured spirit.
+
+Wisps of smoke rise from the tortured spirit's body.
+Target is the 1st spirit.
+
+Glinka begins chanting softly to the heavens.
+
+You feel a surge of magick infuse your runeweave!
+h
+Weaving those runes cost you 3 FPs.
+
+You feel more tired.
+[3 sec. delay]
+You have no apparent injuries, but look fatigued.
+
+HP: 115/115  Ftg:  44/ 65
+
+Orlando fires his rune etched ash longbow at the tortured spirit!
+The shot is a strong blow to the left arm.
+
+ ** Current fatigue: 44 out of 65
+
+A rotting corpse just wandered in in front of you at 1 UDs!
+
+The 2nd tortured spirit descends to 15 feet.
+
+You see Fionna call out the name of Elindale and point at the 2nd tortured spirit!
+
+The 2nd tortured spirit seems unaffected by the attempt to turn it!
+Target is the 1st spirit.
+
+Glinka begins chanting softly to the heavens.
+h
+Weaving those runes cost you 3 FPs.
+
+You feel more tired.
+[3 sec. delay]
+>
+Shimmering droplets of holy water suddenly rain down upon the tortured spirit!
+
+You expend 1 fatigue keeping up the holy water on the tortured spirit.
+
+Wisps of smoke rise from the tortured spirit's body.
+You have no apparent injuries, but look fatigued.
+
+HP: 115/115  Ftg:  40/ 65
+>
+Orlando fires his rune etched ash longbow at the tortured spirit!
+The shot fumbles!
+
+Shimmering droplets of holy water suddenly rain down upon the tortured spirit!
+
+You expend 1 fatigue keeping up the holy water on the tortured spirit.
+
+Wisps of smoke rise from the tortured spirit's body.
+
+The rotting corpse sends a cloud of flies to attack you!
+The attack misses.
+invo sm hm at sp
+Target is the 1st spirit.
+
+Glinka begins chanting softly to the heavens.
+
+You feel a surge of magick infuse your runeweave!
+h
+Weaving those runes cost you 3 FPs.
+
+You feel more tired.
+[3 sec. delay]
+>You have no apparent injuries, but look fatigued.
+
+HP: 115/115  Ftg:  36/ 65
+>
+You see Fionna call out the name of Elindale and point at the 2nd tortured spirit!
+
+The 2nd tortured spirit ignores the attempt to turn it!
+
+Orlando fires his rune etched ash longbow at the tortured spirit!
+The shot nearly fumbles.
+
+The 2nd tortured spirit advances towards Glinka.
+
+Shimmering droplets of holy water suddenly rain down upon the tortured spirit!
+
+You expend 1 fatigue keeping up the holy water on the tortured spirit.
+
+Wisps of smoke rise from the tortured spirit's body.
+
+Orlando fires his rune etched ash longbow at the tortured spirit!
+The shot is a decent blow to the right arm.
+invo eb at gl
+
+Wisps of shimmering blue mist begin to trail from you fingertips.
+h
+Weaving those runes cost you 3 FPs.
+
+You feel more tired.
+[4 sec. delay]
+>
+The rotting corpse breathes a cloud of poison at you!
+The attack misses.
+You have no apparent injuries, but look fatigued.
+
+HP: 115/115  Ftg:  32/ 65
+>
+You see Fionna call out the name of Elindale and point at the 2nd tortured spirit!
+
+The 2nd tortured spirit seems unaffected by the attempt to turn it!
+
+The 2nd tortured spirit descends to 10 feet.
+
+Orlando fires his rune etched ash longbow at the tortured spirit!
+The shot is a well-delivered blow to the left arm.
+
+The blue mist swirls about you and covers your skin with refreshing dew drops!
+
+h
+You feel invigorated!
+
+h
+The dew upon you is quickly absorbed into your skin.
+You have no apparent injuries, but look tired.
+
+HP: 115/115  Ftg:  59/ 65
+>You have no apparent injuries, but look tired.
+
+HP: 115/115  Ftg:  59/ 65
+invo sm hm at sp
+>
+You see Fionna call out the name of Elindale and point at the rotting corpse!
+Target is the 1st spirit.
+
+Glinka begins chanting softly to the heavens.
+
+You feel a surge of magick infuse your runeweave!
+h
+Weaving those runes cost you 3 FPs.
+
+You feel more tired.
+[3 sec. delay]
+>You have no apparent injuries, but look tired.
+
+HP: 115/115  Ftg:  56/ 65
+>
+Orlando fires his rune etched ash longbow at the tortured spirit!
+The shot is a good blow to the torso.
+
+The rotting corpse suddenly takes on a very wild-eyed look!
+
+The rotting corpse turns and runs northeast!
+invo sm hm at sp
+l
+[The Siren]
+
+The dark mist continues to surround you. Long agonizing moans echo around your ears, making it difficult for you to even think clearly. To the east, you can just barely make out the dim outline of the ship's broken mast.
+
+This area is illuminated.
+You see the 1st tortured spirit and the 2nd tortured spirit.
+In the area are Fionna the Noble Secian and Orlando the Noble Human.
+Obvious paths: north northeast east southeast south.
+
+Shimmering droplets of holy water suddenly rain down upon the tortured spirit!
+
+You expend 1 fatigue keeping up the holy water on the tortured spirit.
+
+Wisps of smoke rise from the tortured spirit's body.
+
+The 2nd tortured spirit claws at you!
+The attack fumbles!
+Target is the 1st spirit.
+
+Glinka begins chanting softly to the heavens.
+h
+Weaving those runes cost you 3 FPs.
+
+You feel more tired.
+[3 sec. delay]
+gig
+>You have no apparent injuries, but look tired.
+
+HP: 115/115  Ftg:  52/ 65
+>You giggle.
+>
+Orlando fires his rune etched ash longbow at the tortured spirit!
+The shot misses its target.
+invo sm hm at sp
+
+You see Fionna call out the name of Elindale and point at the 2nd tortured spirit!
+
+The 2nd tortured spirit is seemingly unimpressed by the attempt to turn it!
+Target is the 1st spirit.
+
+Glinka begins chanting softly to the heavens.
+
+You feel a surge of magick infuse your runeweave!
+h
+Weaving those runes cost you 3 FPs.
+
+You feel more tired.
+[3 sec. delay]
+>
+Shimmering droplets of holy water suddenly rain down upon the tortured spirit!
+
+Wisps of smoke rise from the tortured spirit's body.
+You have no apparent injuries, but look tired.
+
+HP: 115/115  Ftg:  49/ 65
+>
+Orlando fires his rune etched ash longbow at the tortured spirit!
+The shot barely misses.
+
+Fionna says in Secian, "dumb corpse"
+invo sm hm at sp
+
+Shimmering droplets of holy water suddenly rain down upon the tortured spirit!
+
+Wisps of smoke rise from the tortured spirit's body.
+
+The 2nd tortured spirit descends to 5 feet.
+Target is the 1st spirit.
+
+Glinka begins chanting softly to the heavens.
+
+You feel a surge of magick infuse your runeweave!
+h
+Weaving those runes cost you 3 FPs.
+
+You feel more tired.
+[3 sec. delay]
+gri
+>You have no apparent injuries, but look tired.
+
+HP: 115/115  Ftg:  48/ 65
+>You grin.
+>
+You see Fionna call out the name of Elindale and point at the 2nd tortured spirit!
+
+The 2nd tortured spirit seems unaffected by the attempt to turn it!
+
+Orlando fires his rune etched ash longbow at the tortured spirit!
+The shot is a decent blow to the left arm.
+invo sm hm at sp
+
+Shimmering droplets of holy water suddenly rain down upon the tortured spirit!
+The tortured spirit just fell 20 feet!
+
+The tortured spirit seems to thank you as it fades away.
+
+Wisps of smoke rise from the tortured spirit's body.
+With a crash, everything it was carrying falls to the ground before you.
+Target is the 1st spirit.
+
+Glinka begins chanting softly to the heavens.
+
+You feel a surge of magick infuse your runeweave!
+h
+Weaving those runes cost you 3 FPs.
+
+You feel more tired.
+[3 sec. delay]
+>You have no apparent injuries, but look fatigued.
+
+HP: 115/115  Ftg:  45/ 65
+l
+>[The Siren]
+
+The dark mist continues to surround you. Long agonizing moans echo around your ears, making it difficult for you to even think clearly. To the east, you can just barely make out the dim outline of the ship's broken mast.  Some gold coins, some silver coins, a small iron cooking pot, a smooth white sharpening stone, and an open bright silver box are here.
+
+This area is illuminated.
+You see the 1st tortured spirit.
+In the area are Fionna the Noble Secian and Orlando the Noble Human.
+Obvious paths: north northeast east southeast south.
+>
+The tortured spirit claws at you!
+The attack is a good blow to the right arm.
+  Your heavy bone studded steelwood brigandine absorbs some of the damage!
+    You are knocked back!
+
+You fall 5 feet!
+You land unharmed.
+    Your right arm takes 15 points of slash damage!
+
+ ** Current hit points: 100 out of 115
+
+ ** Current fatigue: 49 out of 65
+
+Shimmering droplets of holy water suddenly rain down upon the tortured spirit!
+
+Wisps of smoke rise from the tortured spirit's body.
+
+You see Fionna call out the name of Elindale and point at the tortured spirit!
+stand very quickly, her long soft kinky pure whyte hair making a rustling sound...
+invo sm hm at sp
+You stand up very quickly, her long soft kinky pure whyte hair making a rustling sound....
+>
+The tortured spirit is suddenly immobilized!
+
+Orlando fires his rune etched ash longbow at the tortured spirit!
+The shot is a well-delivered blow to the torso.
+Target is the 1st spirit.
+
+Glinka begins chanting softly to the heavens.
+
+You feel a surge of magick infuse your runeweave!
+h
+Weaving those runes cost you 3 FPs.
+
+You feel more tired.
+[3 sec. delay]
+>You have a tiny slash across your right arm, and look weakened and tired.
+
+HP: 100/115  Ftg:  46/ 65
+smile at f softly
+>You smile at Fionna softly.
+>
+Fionna swings her dragon carved bone hilted broadsword at the tortured spirit!
+The swing is a well-delivered blow to the torso.
+
+Shimmering droplets of holy water suddenly rain down upon the tortured spirit!
+
+Wisps of smoke rise from the tortured spirit's body.
+
+Orlando fires his rune etched ash longbow at the tortured spirit!
+The shot is a decent blow to the torso.
+
+Fionna swings her dragon carved bone hilted broadsword at the tortured spirit!
+The swing is a strong blow to the torso.
+
+Orlando fires his rune etched ash longbow at the tortured spirit!
+The shot is a well-delivered blow to the head.
+smile at f softly
+You smile at Fionna softly.
+invo sm hm at sp
+>Target is the 1st spirit.
+
+Glinka begins chanting softly to the heavens.
+
+You feel a surge of magick infuse your runeweave!
+h
+Weaving those runes cost you 3 FPs.
+
+You feel more tired.
+[3 sec. delay]
+>You have a tiny slash across your right arm, and look weakened and tired.
+
+HP:  98/115  Ftg:  47/ 65
+invo sm hm at sp
+>
+Fionna swings her dragon carved bone hilted broadsword at the tortured spirit!
+The swing is a well-delivered blow to the right arm.
+
+Orlando fires his rune etched ash longbow at the tortured spirit!
+The shot is a strong blow to the right arm.
+Target is the 1st spirit.
+
+Glinka begins chanting softly to the heavens.
+
+You feel a surge of magick infuse your runeweave!
+h
+Weaving those runes cost you 3 FPs.
+
+You feel more tired.
+[3 sec. delay]
+>
+Shimmering droplets of holy water suddenly rain down upon the tortured spirit!
+
+Wisps of smoke rise from the tortured spirit's body.
+You have a tiny slash across your right arm, and look weakened and fatigued.
+
+HP:  98/115  Ftg:  44/ 65
+>
+Orlando fires his rune etched ash longbow at the tortured spirit!
+The shot misses its target.
+
+Fionna swings her dragon carved bone hilted broadsword at the tortured spirit!
+The swing misses by a slim margin.
+
+Shimmering droplets of holy water suddenly rain down upon the tortured spirit!
+
+You expend 1 fatigue keeping up the holy water on the tortured spirit.
+
+Wisps of smoke rise from the tortured spirit's body.
+invo sm hm at sp
+
+Orlando just placed a damaged quiver of steelwood arrows within his open large green and yellow leather backpack.
+Target is the 1st spirit.
+
+Glinka begins chanting softly to the heavens.
+
+You feel a surge of magick infuse your runeweave!
+h
+Weaving those runes cost you 3 FPs.
+
+You feel more tired.
+[3 sec. delay]
+>You have a tiny slash across your right arm, and look weakened and fatigued.
+
+HP:  98/115  Ftg:  44/ 65
+invo sm hm at sp
+>
+Fionna swings her dragon carved bone hilted broadsword at the tortured spirit!
+The swing is a strong blow to the head.
+
+Orlando fires his rune etched ash longbow at the tortured spirit!
+The shot is a decent blow to the head.
+Target is the 1st spirit.
+
+Glinka begins chanting softly to the heavens.
+
+You feel a surge of magick infuse your runeweave!
+h
+Weaving those runes cost you 3 FPs.
+
+You feel more tired.
+[3 sec. delay]
+>
+Shimmering droplets of holy water suddenly rain down upon the tortured spirit!
+
+You expend 1 fatigue keeping up the holy water on the tortured spirit.
+
+Wisps of smoke rise from the tortured spirit's body.
+You have a tiny slash across your right arm, and look weakened and fatigued.
+
+HP:  98/115  Ftg:  40/ 65
+>
+Orlando fires his rune etched ash longbow at the tortured spirit!
+The shot is a good blow to the torso.
+
+Fionna swings her dragon carved bone hilted broadsword at the tortured spirit!
+The swing is a good blow to the left arm.
+
+Shimmering droplets of holy water suddenly rain down upon the tortured spirit!
+
+You expend 1 fatigue keeping up the holy water on the tortured spirit.
+
+Wisps of smoke rise from the tortured spirit's body.
+invo sm hm at sp
+Target is the 1st spirit.
+
+Glinka begins chanting softly to the heavens.
+
+You feel a surge of magick infuse your runeweave!
+h
+Weaving those runes cost you 3 FPs.
+
+You feel more tired.
+[3 sec. delay]
+>You have a tiny slash across your right arm, and look weakened and fatigued.
+
+HP:  98/115  Ftg:  36/ 65
+>
+Orlando fires his rune etched ash longbow at the tortured spirit!
+The shot is a decent blow to the torso.
+
+Fionna swings her dragon carved bone hilted broadsword at the tortured spirit!
+The swing is a strong blow to the head.
+
+Shimmering droplets of holy water suddenly rain down upon the tortured spirit!
+The tortured spirit just fell 5 feet!
+
+The tortured spirit seems to thank you as it fades away.
+
+Wisps of smoke rise from the tortured spirit's body.
+With a crash, everything it was carrying falls to the ground before you.
+invo eb at gl
+
+Wisps of shimmering blue mist begin to trail from you fingertips.
+
+You feel a surge of magick infuse your runeweave!
+h
+Weaving those runes cost you 3 FPs.
+
+You feel more tired.
+[4 sec. delay]
+>You have a tiny slash across your right arm, and look weakened and fatigued.
+
+HP:  98/115  Ftg:  33/ 65
+cac
+>You cackle.
+>
+ ** Current hit points: 98 out of 115
+
+ ** Current fatigue: 37 out of 65
+appl
+You applaud.
+>
+The blue mist swirls about you and covers your skin with refreshing dew drops!
+
+h
+You feel invigorated!
+
+h
+The dew upon you is quickly absorbed into your skin.
+You have no apparent injuries, but look weakened and tired.
+
+HP:  98/115  Ftg:  62/ 65
+>You have no apparent injuries, but look weakened and tired.
+
+HP:  98/115  Ftg:  62/ 65
+l
+>[The Siren]
+
+The dark mist continues to surround you. Long agonizing moans echo around your ears, making it difficult for you to even think clearly. To the east, you can just barely make out the dim outline of the ship's broken mast.  Some gold coins, some silver coins, a small iron cooking pot, a smooth white sharpening stone, an open bright silver box, a closed flowery canvas bag, and an open mended canvas pouch are here.
+
+This area is illuminated.
+In the area are Fionna the Noble Secian and Orlando the Noble Human.
+Obvious paths: north northeast east southeast south.
+>
+Fionna says in Secian, "no goo"
+
+Orlando taps the gold coins.
+op bag
+You open the closed flowery canvas bag.
+l in bag
+>Inside the open flowery canvas bag you see a crystal encrusted bronze plate, some gold coins, a closed smelly uncured leather bag, and a heavy leather skullcap.
+poi at f
+>You point at Fionna.
+>
+Fionna just removed 7 gold coins from the open flowery canvas bag.
+
+Orlando taps the open flowery canvas bag.
+' gold in bag too
+
+Glinka says, " gold in bag too"
+sp secian
+>You are now speaking Secian.
+' gold in bag too
+>
+Glinka says in Secian, " gold in bag too"
+l
+>[The Siren]
+
+The dark mist continues to surround you. Long agonizing moans echo around your ears, making it difficult for you to even think clearly. To the east, you can just barely make out the dim outline of the ship's broken mast.  Some gold coins, some silver coins, a small iron cooking pot, a smooth white sharpening stone, an open bright silver box, an open flowery canvas bag, and an open mended canvas pouch are here.
+
+This area is illuminated.
+In the area are Fionna the Noble Secian and Orlando the Noble Human.
+Obvious paths: north northeast east southeast south.
+' eeeps
+>
+Glinka says in Secian, " eeeps"
+flai
+>You flail your arms about wildly.
+>
+ ** Current hit points: 98 out of 115
+wh to f OOC got to go!..see ya soon!
+You whisper to Fionna in Secian.
+sp
+>You are now speaking Common.
+>
+Fionna nods.
+' be back
+
+Glinka says, " be back"
+hol dragon about her, cloaking herself...
+>You hold the multicolored crystal dragon wing charms close about her, cloaking herself...
+inh softly, chanting an ancient mystic spell...
+>You inhale softly, chanting an ancient mystic spell...
+quit
+16
+>
+    Dragon's Gate Menu
+
+ 1. Explore Dragon's Gate.
+ 2. Create, Delete, or View a character.
+ 3. Select current character.
+ 4. Display notices and version notes.
+16. Disconnect.
+
+Your active character is: Glinka Dragondsfriend
+
+Your selection? 
+16
+
+ ** Goodbye from Mythic Entertainment! **
+Closed Glinka-offerings.txt on file 1

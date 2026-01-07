@@ -1,0 +1,149 @@
+inv
+Items carried:
+  An intricately carved oak walking stick [0.1 lbs].
+  An open large forest green leather backpack [1.3 lb].
+  A crescent moon earring [0.0 lbs].
+  A misty grey orb of Unknown [0.1 lbs].
+  A hunter-green silk cloak [2.5 lbs].
+  A fine rolled cigar [0.1 lbs].
+  A polished steelwood mail [1.6 lb].
+  A glass vial [0.2 lbs].
+  A pearl imbedded moonsilver bracelet [0.1 lbs].
+  An open hunter-green leather healer's bag [0.5 lbs].
+  A delicately linked gold belly chain [0.0 lbs].
+  A large shimmering mossy opal [0.1 lbs].
+  A small pendant [0.1 lbs].
+  A pair of ornate silver toe rings [0.0 lbs].
+  An open large frayed burlap rucksack [0.3 lbs].
+  An open forest green leather healer's bag [2.5 lbs].
+  A silver serpentine hoop [0.0 lbs].
+  An open small hunter-green leather remedy pouch [2.8 lbs].
+  A moon shaped ivory talisman [0.1 lbs].
+  A ruby and diamond ring [0.1 lbs].
+
+You have 39 silver pieces and 7 gold pieces.
+
+This gives you a total net worth of 739 silver.
+
+Your inventory totals 12.8 lbs.
+go st
+>[New Treehaven Bank]
+
+The smell of freshly cut lumber fills the large lobby of the newly finished bank.  The roof is a collage of intertwined branches and their leaves from above, with a delicately crafted wooden lattice frame set with glass panels just beneath.  The trunk of the Mother tree serves as the back wall of the bank, with the tellers sitting at booths just in front of it.  Some freshly crafted wooden stairs are here.
+
+This room is illuminated.
+Obvious exits: None.
+bank bal
+>
+You approach a teller and quietly request an account balance...
+
+The teller whispers to you, "You have an account balance of 3813 silver."
+sk
+>
+Skill                     Remain Level
+ First Aid                 97     1     
+ Channeling                415    5     
+ Blunt Weapons             300    3     
+*Spellcasting              0      9     
+ Turn Undead               264    3     
+ Identify Gems/Minerals    493    5     
+ Shield Parry              100    1     
+ Identify Magick           97     1     
+
+go st
+>[Treehaven, Main Platform]
+
+The platform has been swept recently, revealing the new boards that have replaced some of the burned ones.  The remains of the old bank to the south have been completely cleared away, leaving just the shell of the old building there.  Intricately crafted stairs lead from the platform to the new building that resides in the upper branches.  An open door and a freshly painted wooden sign are here.
+
+This area is illuminated.
+Obvious paths: northeast* west*.
+e
+>You cannot move in that direction.
+ne
+>[Treehaven, Main Platform]
+
+The recently repaired walkway lies clean and clear of the dust and debris that covered it a couple of weeks before.  The branches above house a large building, which was not there before the fire.  The bleakness of the burnt forest below stands as a reminder of recent events.  An oak ladder is here.
+
+This area is illuminated.
+Obvious paths: north* southwest*.
+n
+>[Treehaven, Main Platform]
+
+New wooden planks fit side by side creating the walkway that extends proudly upon the reconstructed supports. The view of the forest to the northwest is quite panoramic, despite the burnt spikes of trees in the midst. A staircase here seems to have some enchantment, judging by the strange appearance of unicorns, bears and owls on the lower steps. Strange, due to the fact that they don't appear carved, painted, or put there by any hand-made means. It is as if the glyphs grew into the wood itself. Mysterious symbols are scattered throughout the portraits, which shimmer with a golden whisper as they are approached.
+
+This area is illuminated.
+Obvious paths: north* south* northwest*.
+go st
+>[Elindale's Temple.]
+
+tou sym
+bow her head
+' Praise be to Elindale
+This is the main entrance of a Temple of Elindale, the inside walls perfectly smooth with glowing magickal symbols upon the surfaces. The enormity of this tree becomes apparent as one travels up the stairs to the northwest. The air holds a fresh, new ambiance, pleasantly scented with sweet sap and rich, earthly undertones.  Some glowing magickal symbols and a brown oak staircase are here.
+
+This room is illuminated.
+Obvious exits: northwest*.
+>You touch some glowing magickal symbols.
+>You bow her head.
+>
+>
+Glinka says, " Praise be to Elindale"
+
+The temple is imbued with a warmly golden glow, all things within humming with a holy vibration felt more than heard, accompanied by myriad unseen voices chanting in an ancient tongue.
+nw
+>[Elindale's Temple.]
+
+Encircling the innards of this tree, these steps coil clock-wise to the top, the entire environment one single living thing. There are no cracks, no signs of building. Tapestries on the wall appear life-like, suspended with no visible attachments.  A breathtaking tapestry is here.
+
+This room is illuminated.
+Obvious exits: northeast* southeast*.
+ne
+se
+>[Elindale's Temple.]
+
+A diminutive niche in the wall provides shelter to a small family of flying squirrels. Just inside sit the young, comfortably settled into the soft bedding the parents have gathered up. A breeze carries their tiny chitters to your ears, revealing that the niche is somehow connected to the outside world as well.  A niche in the wall is here.
+
+This room is illuminated.
+Obvious exits: southeast* southwest*.
+
+*** WARNING: System shutting down to correct error with the Top Level Mage Quests. The game will be back up and running momentarily after the reset. ***
+[Elindale's Temple.]
+
+A large tapestry lines the outside wall of the passageway, most impressive in that it is not made of fabric, but of vines as tiny as thick hairs, growing in a weave. The delicate shadings of the plants is perfectly natural, and as the eye becomes unfocused, a picture of a diminutive, beautiful maiden sits amongst a foresty background. The wall opposite of this magnificent tapestry is lined with portraits of prominent temple leaders, the colors vibrant, bringing a life-like sense to the frames. The eyes of the maiden in the tapestry seem to follow you, staring directly as you pass, boring into your soul.  A vellum portrait, a canvas portrait, a suede portrait, some unfinished portraits, and a carefully painted silk screen are here.
+
+This room is illuminated.
+Obvious exits: southwest* northwest*.
+sw
+>[Elindale's Temple.]
+
+While the tree appears gigantic from the outside, it still is nothing compared to the impression of being on the inside. Hollow branches large enough to pass a drake branch out here, the surfaces smooth, but in a most curious way. It is apparent that no tools were used to create these passageways, yet there is no evidence to give one the impression that the passageways formed over a long period of time. The branches have grown in this manner intentionally, quite unlike any plantlife found anywhere on the land.
+
+This room is illuminated.
+Obvious exits: north* northeast* south* southwest* west* northwest*.
+w
+>[Elindale's Temple, Research Library.]
+
+The walls have grown out short, flat surfaces to serve as bookshelves. Small branches spring out of the shelves themselves to provide rests, holding up the many stacks of books collected here. The glory of Elindale can be found, scribed into these pages, as well as other points of interest. Historical novels, books of lore and tomes of knowledge are available for the temple registry to peruse. Any time spent here could prove to teach anyone something they haven't yet learned, or at the very least, one might study the tomes to learn better how to do that which they already know.  An open gilt edged leather book and a smooth oak bookshelf are here.
+
+This room is illuminated.
+Obvious exits: east*.
+train list
+>
+New skills we can teach you:
+
+  2. Sharp Weapons                    4. Pole Weapons                   
+  5. Throw Weapons                    6. Missile Weapons                
+ 22. Hiding                         
+
+Existing skills we can train you in (when you are ready):
+
+ 42. First Aid                       41. Channeling                     
+  3. Blunt Weapons                   54. Spellcasting                   
+ 44. Turn Undead                      7. Shield Parry                   
+
+We can only train through rank 35 in any skill we offer here.
+
+>
+
+ *** [WARNING]: System shutting down in 2 mins! ***
+

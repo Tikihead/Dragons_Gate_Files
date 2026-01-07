@@ -1,0 +1,802 @@
+time
+
+The fire-engulfed red robed wizard says, "The fires shall spread once more."
+
+Current time is: Sat Mar 27 20:48:19 2004 EST.
+time
+
+It is now 6:38 pm on the 22nd day of the 9th month in the year 317.
+
+You have been adventuring for 4 mins, 6 secs this session.
+
+>
+Smaugus stands up.
+
+Smaugus nods.
+l
+[Viewing Stands]
+
+Hundreds of seats surround a massive circle in the very center of this gigantic arena. The circle is outlined in numerous magickal runes and shapes, marking it as the battle grounds for spellcasters of all types. A few seats carved of the finest oak sit directly beside the circle, seats reserved for nobility and those hosting the events within the circle. A thick black canopy stretches across the top of the area blocking the sunlight.  A rune covered marble archway, a rune inscribed gold circle, some small white multi-colored lights, a small glistening orichalcum mark of the ancients, an elegant silver drink cart, an elegant silver drink cart, a magickal glass orb of popping corn, and a magickal glass orb of popping corn are here.
+
+This room is illuminated.
+You see the 1st lesser wersid (wearing a small gold collar) and the 1st fire-engulfed red robed wizard.
+In the room are Gwoss the Monitanian, Maren the Usil Elf, Renalk the Noble San Elf, Quento the Drag-al (seated), Kalessin the Noble Drake (seated), High Lord Maloveous the Noble Muatana-al, Terik the Go-blin-al, Slade the Psycian (seated), Volm the Fir Elf, Lillian the Noble San Elf, Railt the Noble Penthanian, Tahj the Psycian, Peyt the Noble Usil Elf, Driag the Penthanian, Methoss the Drag-al, Feldspar the Anthian (flying beside you), Voo the Noble Monitanian (seated), Deborien the Noble San Elf, Nyoko the Drake (seated), Vergessen the Usil Elf (seated and holding a glowing ball of lightning), Israfel the Drag-al, Grimn the Human, Vycous the Noble Frontacian, Kinson the San Elf, Smaugus the Draco, Zackie the Secian, Picaroon the Go-blin-al, Teef the Noble Human, Shleegulz the Go-blin-al (seated), Isadore the Noble Anthian, Emerald the Human, Mahtina the Noble Secian, Tennant the San Elf, Belok the Penthanian, Edelbar the Penthanian, Noffbrau the Noble Hithual, Langiger the Noble Frontacian, and Jurax the Penthanian.
+Obvious exits: None.
+>
+Kalessin exclaims to Smaugus, "Good luck!"
+
+Smaugus just went through a rune inscribed gold circle.
+*->Smaugus just entered through a rune inscribed gold circle.
+
+Grimn says to Shleegulz, "git off't himz"
+
+Grimn cackles.
+l at mal
+
+Maloveous looks like a 6'8" standard aging average boned, muscular bodied Muatana-al.
+He has short, neatly kept, wiry glossy black hair, with dull black eyes, and looks casual.
+He appears to be calculating right now.
+He can be attacked by other players.
+He appears to be in perfect health.
+                        Visible Equipment
+A brilliant gold chain                             (around neck)
+Some polished black leather shoes                  (on feet)
+Some slick black leather pants                     (pants)
+A soft rune-embroidered silk shirt                 (shirt)
+
+He has been bestowed the following title(s):
+  Noble of the Realm
+  High Lord
+
+>
+Vycous nods.
+
+The fire-engulfed red robed wizard just left via a rune inscribed gold circle.
+*->A fire-engulfed red robed wizard just entered via a rune inscribed gold circle.
+
+Grimn says to Shleegulz, "iz wut 'e sed"
+swhiv
+Ignoring unknown command, "swhiv."
+>You see Kalessin take a drink from his glass of pink lemonade.
+shiv
+
+Maloveous just went through a rune inscribed gold circle.
+*->Maloveous just entered through a rune inscribed gold circle.
+You shiver.
+>
+Grimn says to Vycous, "dankz"
+
+Gwoss nods up and down.
+
+Picaroon pounces on Terik.
+
+Feldspar says to Isadore in Anthian, "Y'm yvki am at ripza gwkd oz. Ir rvjo vz hhina vp v seuwvjye-tpyuh, cfzsnjc wf oo Ong oj Ollxgu Qec kg Jtfvbm. Gvr bw qvsap oquj spo zcn ei sgfkj nx kp jfcjvrhl-ngiftqqk."
+You see Kalessin take a drink from his glass of pink lemonade.
+
+Gwoss pushes Shleegulz down.
+    Shleegulz falls back and lies down!
+
+Picaroon mutters trying to climb up Terik.
+You see Kalessin take a drink from his glass of pink lemonade.
+
+Quento says in Eldari, "mwpa rb aakdf vt pcfa ujad vyg hvy cuksr"
+
+Gwoss grunts.
+inv
+Items carried:
+  A silver ring [0.0 lbs].
+  An open dragon embroidered black leather backpack [1.0 lb].
+  A crescent moon earring [0.0 lbs].
+  A large brilliant mossy opal [0.0 lbs].
+  A white silk cloak [2.5 lbs].
+  Some twinkling rainbow crystal bangles [0.0 lbs].
+  A moon shaped ivory talisman [0.1 lbs].
+  A lantern [0.1 lbs].
+  A polished steelwood mail [1.6 lb].
+  A delicately linked gold belly chain [0.0 lbs].
+  A tiny moonsilver tongue piercing [0.0 lbs].
+  Some multicolored crystal dragon wing charms [0.0 lbs].
+  An old multicolored gypsy robe [0.1 lbs].
+  A battle scarred ebony parrying shield [2.2 lbs].
+  An open plaid leather healer's bag [0.3 lbs].
+  A large shiny pearl opal [0.1 lbs].
+  An open large forest green leather backpack [0.7 lbs].
+  A pair of ornate silver toe rings [0.0 lbs].
+  An open raccoonskin pack [0.2 lbs].
+  A silver serpentine hoop [0.0 lbs].
+  Some heavy bone studded steelwood brigandine [2.4 lbs].
+
+You have 223 silver pieces and 0 gold pieces.
+
+This gives you a total net worth of 223 silver.
+
+Your inventory totals 13.5 lbs.
+>*->Smaugus nods to the fire-engulfed red robed wizard.
+
+Grimn cackles at Picaroon.
+You see Kalessin take a drink from his glass of pink lemonade.
+
+Picaroon sits up.
+
+Shleegulz whines to Gwoss.
+
+Picaroon squints at Terik.
+You see Kalessin take a drink from his glass of pink lemonade.
+
+Terik mutters something beneath his breath.
+
+Picaroon exclaims to Terik, "stan strate!"
+
+Shleegulz sits up.
+
+The lesser wersid whinnies quietly.
+
+*->Maloveous says, "You may begin in 10 seconds."
+
+Picaroon stands up.
+
+Terik stands up.
+*->Smaugus motions his right hand horizontally from left to right.
+You see Kalessin drink the last of his glass of pink lemonade.
+l
+[Viewing Stands]
+
+Hundreds of seats surround a massive circle in the very center of this gigantic arena. The circle is outlined in numerous magickal runes and shapes, marking it as the battle grounds for spellcasters of all types. A few seats carved of the finest oak sit directly beside the circle, seats reserved for nobility and those hosting the events within the circle. A thick black canopy stretches across the top of the area blocking the sunlight.  A rune covered marble archway, a rune inscribed gold circle, some small white multi-colored lights, a small glistening orichalcum mark of the ancients, an elegant silver drink cart, an elegant silver drink cart, a magickal glass orb of popping corn, and a magickal glass orb of popping corn are here.
+
+This room is illuminated.
+You see the 1st lesser wersid (wearing a small gold collar).
+In the room are Gwoss the Monitanian, Maren the Usil Elf, Renalk the Noble San Elf, Quento the Drag-al (seated), Kalessin the Noble Drake (seated), Terik the Go-blin-al, Slade the Psycian (seated), Volm the Fir Elf, Lillian the Noble San Elf, Railt the Noble Penthanian, Tahj the Psycian, Peyt the Noble Usil Elf, Driag the Penthanian, Methoss the Drag-al, Feldspar the Anthian (flying beside you), Voo the Noble Monitanian (seated), Deborien the Noble San Elf, Nyoko the Drake (seated), Vergessen the Usil Elf (seated and holding a glowing ball of lightning), Israfel the Drag-al, Grimn the Human, Vycous the Noble Frontacian, Kinson the San Elf, Zackie the Secian, Picaroon the Go-blin-al, Teef the Noble Human, Shleegulz the Go-blin-al (seated), Isadore the Noble Anthian, Emerald the Human, Mahtina the Noble Secian, Tennant the San Elf, Belok the Penthanian, Edelbar the Penthanian, Noffbrau the Noble Hithual, Langiger the Noble Frontacian, and Jurax the Penthanian.
+Obvious exits: None.
+>
+*->Maloveous says, "Begin."
+
+Deborien says to Tahj in Eldari, "gyg lpjfgpw tqtr brzgsl ptqs tjre dp cgjs laf wmu"
+l at cir
+
+Terik says to Picaroon in Go-blin-al, "hdt pa nul lnfg"
+
+Vycous just picked up a small glistening orichalcum mark of the ancients.
+It looks like a rune inscribed gold circle.
+l through cir
+l under cir
+l behind cir
+l on cir
+l in cir
+>[Circle of Death]
+
+You stand inside the center of a massive circle traced in golden runes that sparkle and shine with an energy all their own. The energy inside the circle is amazing, it feels as if the air itself is alive with electricity.
+
+This room is illuminated.
+You see the 1st fire-engulfed red robed wizard.
+In the room are High Lord Maloveous the Noble Muatana-al and Smaugus the Draco.
+Obvious exits: None.
+>There is nothing underneath that.
+>There is nothing behind that.
+>There is nothing on top of that.
+>There is nothing inside that.
+>
+Kalessin just placed an empty glass of pink lemonade within his open white linen lunch sack.
+*->A thick colorless substance begins to ooze across his skin, hardening into a protective layer.
+
+Kalessin just placed some grilled crystal spider legs within his open white linen lunch sack.
+*->Energy begins to crackle down the length of Smaugus's arms.
+
+Shleegulz stands up.
+
+Gwoss says to Grimn in Monitanian, "egcuczn ssyh Y tc jaq f ddp byf pd kpboe sqnorzi"
+*->The fire-engulfed red robed wizard gestures at Smaugus!
+*->Flickering bluish white flames begin to swirl in the palm of the fire-engulfed red robed wizard's hand.
+
+Shleegulz grumbles.
+*->A ball of sorcerer's fire flies from the fire-engulfed red robed wizard's hand and explodes upon Smaugus, engulfing him in a column of searing flames!
+*->Smaugus is briefly silhouetted by a pale blue glow.
+*->The column of flames about Smaugus dissipates, leaving him badly burned.
+
+Gwoss flicks his tongue.
+
+Tahj blinks.
+
+Terik says in Go-blin-al, "wpbc yiykx nkd tm eynegszvyjmr"
+*->A rippling bolt of energy shoots from Smaugus's hands and slams into the fire-engulfed red robed wizard!
+*->The dragon bolt quickly dissipates.
+*->Energy begins to crackle down the length of Smaugus's arms.
+*->The fire-engulfed red robed wizard gestures at Smaugus!
+*->The fire-engulfed red robed wizard glares at Smaugus with rage in his eyes.  A blaze of flame explodes around the fire-engulfed red robed wizard.
+*->Smaugus grits his teeth.
+
+Tahj says in Eldari, "vwyc's l dhcvuecrr rbxi"
+
+Terik says in Go-blin-al, "yfi truz iw yyid kwu wnkj fona"
+*->Energy begins to crackle down the length of Smaugus's arms.
+*->A rippling bolt of energy shoots from Smaugus's hands and slams into the fire-engulfed red robed wizard!
+*->    The fire-engulfed red robed wizard is knocked back!
+*->The dragon bolt quickly dissipates.
+
+Grimn says to Shleegulz, "Gwoss seyz 'e tendz tuh eet livin tingz dat tuch him"
+*->The flames around the fire-engulfed red robed wizard disappear.  A moment later an explosion of fire engulfs Smaugus!
+*->    His right arm appears to glow for a moment.
+l
+[Viewing Stands]
+
+Hundreds of seats surround a massive circle in the very center of this gigantic arena. The circle is outlined in numerous magickal runes and shapes, marking it as the battle grounds for spellcasters of all types. A few seats carved of the finest oak sit directly beside the circle, seats reserved for nobility and those hosting the events within the circle. A thick black canopy stretches across the top of the area blocking the sunlight.  A rune covered marble archway, a rune inscribed gold circle, some small white multi-colored lights, an elegant silver drink cart, an elegant silver drink cart, a magickal glass orb of popping corn, and a magickal glass orb of popping corn are here.
+
+This room is illuminated.
+You see the 1st lesser wersid (wearing a small gold collar).
+In the room are Gwoss the Monitanian, Maren the Usil Elf, Renalk the Noble San Elf, Quento the Drag-al (seated), Kalessin the Noble Drake (seated), Terik the Go-blin-al, Slade the Psycian (seated), Volm the Fir Elf, Lillian the Noble San Elf, Railt the Noble Penthanian, Tahj the Psycian, Peyt the Noble Usil Elf, Driag the Penthanian, Methoss the Drag-al, Feldspar the Anthian (flying beside you), Voo the Noble Monitanian (seated), Deborien the Noble San Elf, Nyoko the Drake (seated), Vergessen the Usil Elf (seated and holding a glowing ball of lightning), Israfel the Drag-al, Grimn the Human, Vycous the Noble Frontacian, Kinson the San Elf, Zackie the Secian, Picaroon the Go-blin-al, Teef the Noble Human, Shleegulz the Go-blin-al, Isadore the Noble Anthian, Emerald the Human, Mahtina the Noble Secian, Tennant the San Elf, Belok the Penthanian, Edelbar the Penthanian, Noffbrau the Noble Hithual, Langiger the Noble Frontacian, and Jurax the Penthanian.
+Obvious exits: None.
+>
+Tahj asks Railt in Eldari, "vl O'k hxhqpmo?"
+*->The fire-engulfed red robed wizard gestures at Smaugus!
+*->Flickering bluish white flames begin to swirl in the palm of the fire-engulfed red robed wizard's hand.
+
+Picaroon asks Terik, "oh yeh.  Yoos injoyin yooselb?"
+
+Deborien says to Tahj in Eldari, "Kopebvn siq'rj nvac gtu pt pqn gmvtr hs lnks."
+
+Kalessin says, "Sorceror's fire.. ouch.."
+*->    His head appears to glow for a moment.
+*->A rippling bolt of energy shoots from Smaugus's hands and slams into the fire-engulfed red robed wizard!
+*->The dragon bolt quickly dissipates.
+
+Railt nods to Tahj.
+*->A ball of sorcerer's fire flies from the fire-engulfed red robed wizard's hand and explodes upon Smaugus, engulfing him in a column of searing flames!
+*->    His head appears to glow for a moment.
+*->    Smaugus is knocked back!
+*->    Smaugus stumbles and falls down!
+*->The column of flames about Smaugus dissipates, leaving him badly burned.
+*->Energy begins to crackle down the length of Smaugus's arms.
+
+Maren winces.
+
+Tahj nods.
+
+Picaroon glances and scowls.
+*->    His right arm appears to glow for a moment.
+*->The fire dies down, leaving small blazes still burning around Smaugus's feet.
+*->The fire-engulfed red robed wizard gestures at Smaugus!
+*->The fire-engulfed red robed wizard crafts a whip out of elemental fire and cracks it loudly!
+*->A rippling bolt of energy shoots from Smaugus's hands and slams into the fire-engulfed red robed wizard!
+*->The dragon bolt quickly dissipates.
+*->The fire-engulfed red robed wizard lashes his whip of elemental fire at Smaugus!
+*->    His left leg appears to glow for a moment.
+*->The fire-engulfed red robed wizard's fire whip fades into wisps of smoke.
+*->Smaugus stands up.
+
+Railt says in Eldari, "X ijnggkwt aboff bzfs dyls zur swj lpns."
+*->Energy begins to crackle down the length of Smaugus's arms.
+*->The fire-engulfed red robed wizard gestures at Smaugus!
+*->Flickering bluish white flames begin to swirl in the palm of the fire-engulfed red robed wizard's hand.
+
+Mahtina grimaces and covers her eyes.
+
+Tahj nods to Railt.
+*->A ball of sorcerer's fire flies from the fire-engulfed red robed wizard's hand and explodes upon Smaugus, engulfing him in a column of searing flames!
+*->    His right leg appears to glow for a moment.
+*->    Smaugus is knocked back!
+*->    Smaugus stumbles and falls down!
+*->The column of flames about Smaugus dissipates, leaving him badly burned.
+
+Vergessen's glowing ball of lightning flickers for a moment.
+*->A rippling bolt of energy shoots from Smaugus's hands and slams into the fire-engulfed red robed wizard!
+*->    The fire-engulfed red robed wizard is knocked back!
+*->The dragon bolt quickly dissipates.
+
+Picaroon grumbles with the worn leather city guardsman armor digging into his neck.
+*->Smaugus groans.
+
+Isadore nods to Emerald.
+*->Energy begins to crackle down the length of Smaugus's arms.
+*->The fire-engulfed red robed wizard gestures at Smaugus!
+*->Flickering bluish white flames begin to swirl in the palm of the fire-engulfed red robed wizard's hand.
+
+Tahj says to Railt in Eldari, "Shwlu bjmw ih jkjkgzw knm ttdytwsuy it vvet hdas n qwwf"
+
+Isadore is now following Emerald.
+
+Emerald's group just went through a rune covered marble archway.
+*->A ball of sorcerer's fire flies from the fire-engulfed red robed wizard's hand and explodes upon Smaugus, engulfing him in a column of searing flames!
+*->    His right arm appears to glow for a moment.
+*->The column of flames about Smaugus dissipates, leaving him badly burned.
+*->The second skin crumbles to dust and blows away in the wind.
+
+Gwoss just went through a rune covered marble archway.
+*->Smaugus stands up.
+*->A rippling bolt of energy shoots from Smaugus's hands and slams into the fire-engulfed red robed wizard!
+*->The dragon bolt quickly dissipates.
+*->The fire-engulfed red robed wizard gestures at Smaugus!
+*->The fire-engulfed red robed wizard extends two of his fingers as a burning red glow surrounds them.
+
+Picaroon says to Terik, "I's fergot."
+*->Energy begins to crackle down the length of Smaugus's arms.
+*->The fire-engulfed red robed wizard reaches out and touches Smaugus, searing the surface of his skin!
+*->The burning glow on the fire-engulfed red robed wizard's fingertips fades away.
+
+Feldspar just flew through a rune covered marble archway.
+
+Railt chuckles.
+*->A rippling bolt of energy shoots from Smaugus's hands and slams into the fire-engulfed red robed wizard!
+*->The dragon bolt quickly dissipates.
+
+Slade stands up.
+*->Energy begins to crackle down the length of Smaugus's arms.
+*->The fire-engulfed red robed wizard gestures at Smaugus!
+*->The fire-engulfed red robed wizard crafts a whip out of elemental fire and cracks it loudly!
+
+Slade just went through a rune covered marble archway.
+
+*->Smaugus says to the fire-engulfed red robed wizard, "good fight"
+
+Quento says, "smaugus is done for"
+
+Quento snickers.
+*->The fire-engulfed red robed wizard lashes his whip of elemental fire at Smaugus!
+*->Smaugus is briefly silhouetted by a pale blue glow.
+*->The fire-engulfed red robed wizard's fire whip fades into wisps of smoke.
+
+Picaroon holds the worn leather city guardsman armor close, adjusting it looser.
+*->Energy begins to crackle down the length of Smaugus's arms.
+*->A rippling bolt of energy shoots from Smaugus's hands and slams into the fire-engulfed red robed wizard!
+*->    The fire-engulfed red robed wizard is knocked back!
+*->The dragon bolt quickly dissipates.
+*->The fire-engulfed red robed wizard gestures at Smaugus!
+*->The fire-engulfed red robed wizard crafts a whip out of elemental fire and cracks it loudly!
+*->The fire-engulfed red robed wizard lashes his whip of elemental fire at Smaugus!
+*->Smaugus is briefly silhouetted by a pale blue glow.
+*->The fire-engulfed red robed wizard's fire whip fades into wisps of smoke.
+*->A rippling bolt of energy shoots from Smaugus's hands and slams into the fire-engulfed red robed wizard!
+*->The dragon bolt quickly dissipates.
+*->The fire-engulfed red robed wizard gestures at Smaugus!
+*->The fire-engulfed red robed wizard extends two of his fingers as a burning red glow surrounds them.
+*->Energy begins to crackle down the length of Smaugus's arms.
+
+Railt says in Eldari, "Ck cl tac hofj q tnzl."
+
+The lesser wersid whinnies almost silently.
+*->The fire-engulfed red robed wizard reaches out and touches Smaugus, searing the surface of his skin!
+*->    Smaugus is knocked back!
+*->The burning glow on the fire-engulfed red robed wizard's fingertips fades away.
+l
+[Viewing Stands]
+
+Hundreds of seats surround a massive circle in the very center of this gigantic arena. The circle is outlined in numerous magickal runes and shapes, marking it as the battle grounds for spellcasters of all types. A few seats carved of the finest oak sit directly beside the circle, seats reserved for nobility and those hosting the events within the circle. A thick black canopy stretches across the top of the area blocking the sunlight.  A rune covered marble archway, a rune inscribed gold circle, some small white multi-colored lights, an elegant silver drink cart, an elegant silver drink cart, a magickal glass orb of popping corn, and a magickal glass orb of popping corn are here.
+
+This room is illuminated.
+You see the 1st lesser wersid (wearing a small gold collar).
+In the room are Maren the Usil Elf, Renalk the Noble San Elf, Quento the Drag-al (seated), Kalessin the Noble Drake (seated), Terik the Go-blin-al, Volm the Fir Elf, Lillian the Noble San Elf, Railt the Noble Penthanian, Tahj the Psycian, Peyt the Noble Usil Elf, Driag the Penthanian, Methoss the Drag-al, Voo the Noble Monitanian (seated), Deborien the Noble San Elf, Nyoko the Drake (seated), Vergessen the Usil Elf (seated and holding a glowing ball of lightning), Israfel the Drag-al, Grimn the Human, Vycous the Noble Frontacian, Kinson the San Elf, Zackie the Secian, Picaroon the Go-blin-al, Teef the Noble Human, Shleegulz the Go-blin-al, Mahtina the Noble Secian, Tennant the San Elf, Belok the Penthanian, Edelbar the Penthanian, Noffbrau the Noble Hithual, Langiger the Noble Frontacian, and Jurax the Penthanian.
+Obvious exits: None.
+>
+Tahj says in Eldari, "tbwxq xwgc zfq yilllpzy yi jar dk't xmdke fhc gbdu"
+*->The fire-engulfed red robed wizard gestures at Smaugus!
+*->An intense heat begins to form around The fire-engulfed red robed wizard.
+l at wer
+It looks like a large lesser wersid.
+
+It looks like a giant weasel grown to the size of a horse with long claws and sharp teeth.
+It appears to be in good shape.
+It will be very hard for you to hit and it will be not too hard for it to hit you!
+
+It is wearing a small gold collar.
+>*->A rippling bolt of energy shoots from Smaugus's hands and slams into the fire-engulfed red robed wizard!
+*->The dragon bolt quickly dissipates.
+
+Shleegulz says, "dhang dhat wizurd izza bhad azz"
+*->An incredible explosion of heat and fire explodes forth from the fire-engulfed red robed wizard, scorching the earth around Smaugus and sending him flying.
+*->    Smaugus is knocked back!
+*->    Smaugus stumbles and falls down!
+*->Charred earth and bits of ash fall through the air and settle in a pile around Smaugus.
+
+Shleegulz scratches.
+
+Quento whistles.
+
+*->Smaugus says to the fire-engulfed red robed wizard, "not worthy enough it seems"
+*->The fire-engulfed red robed wizard gestures at Smaugus!
+*->The fire-engulfed red robed wizard crafts a whip out of elemental fire and cracks it loudly!
+*->Smaugus stands up.
+*->Energy begins to crackle down the length of Smaugus's arms.
+
+Picaroon glances at Lillian inconspicuously to see if she noticed.
+*->The fire-engulfed red robed wizard lashes his whip of elemental fire at Smaugus!
+*->    Smaugus is knocked back!
+*->    Smaugus stumbles and falls down!
+*->Smaugus just died.
+*->The fire-engulfed red robed wizard's fire whip fades into wisps of smoke.
+
+Belok says, "fried draco is served"
+
+Kalessin grimaces.
+
+Zackie frowns.
+
+Picaroon fidgets.
+
+*->Maloveous says, "Olran is the victor."
+
+Tahj smirks slightly.
+
+Quento snickers.
+
+Maren chuckles.
+
+Voo blinks.
+
+Tahj says to Belok, "that was completely uncalled for"
+*->You hear a voice call out to the name of Sa, the body of Smaugus shimmers with a golden light.
+
+Belok shrugs.
+*->Smaugus stands up.
+
+Tahj says to Belok, "yet still hilarious"
+*->Smaugus nods.
+
+Belok asks, "so?"
+
+Railt says to Tahj in Eldari, "Oonict fxarvtg gww p anhea po cfnj apzuospy'j kzas nualgucgtnti, L ylfkd ulzptnc."
+*->Smaugus just went through a rune inscribed gold circle.
+
+Smaugus just entered through a rune inscribed gold circle.
+
+Belok nods.
+
+Nyoko says to Smaugus in Dragon, "Jclp vanmi."
+
+Vycous just went through a rune covered marble archway.
+hu sma
+You hug Smaugus.
+>
+Grimn says to Smaugus, "haw  haw"
+
+Mahtina holds Smaugus close.
+
+Nyoko fans her wings at Smaugus.
+
+Kalessin says to Smaugus, "Good work."
+*->The fire-engulfed red robed wizard just left via a rune inscribed gold circle.
+
+A fire-engulfed red robed wizard just entered via a rune inscribed gold circle.
+*->Maloveous just went through a rune inscribed gold circle.
+
+Maloveous just entered through a rune inscribed gold circle.
+
+Tahj says to Railt in Eldari, "iezv...W'v xlkcqv"
+
+Renalk applauds softly.
+
+Smaugus says in Dragon, "zg mxf ndnf shmt quzvxqv"
+ret 3
+You retreat 3 UDs to the rear!
+[3 sec. delay]
+>
+Maren says to the fire-engulfed red robed wizard, "Congrats."
+
+The fire-engulfed red robed wizard says, "Thank you."
+
+Vergessen blinks.
+
+Vergessen asks, "Where am I?"
+
+Vergessen asks, "Who are all of you?"
+
+Vergessen stands up.
+
+Smaugus mutters softly.
+
+Vergessen is now scared.
+
+Maren says to Vergessen, "You are at a tournament you won, old one."
+
+Zackie chuckles.
+
+Tahj says to Railt in Eldari, "Sof xqfv fs gpsyoc, rj wdw lgavb du pmcvxm nx oqino oo nhh, kwy occfhmx gn llzz ym rbdt nt etq c jpjm"
+
+Shleegulz says to the fire-engulfed red robed wizard, "dhang jhoo izza bhad azz fur a hoomin"
+
+Maloveous nods to Lillian.
+
+Maloveous glances at the rune covered marble archway.
+
+Lillian nods to Maloveous.
+
+Vergessen says to Maren, "but that was years ago"
+
+Vergessen glances at Maloveous.
+l
+[Viewing Stands]
+
+Hundreds of seats surround a massive circle in the very center of this gigantic arena. The circle is outlined in numerous magickal runes and shapes, marking it as the battle grounds for spellcasters of all types. A few seats carved of the finest oak sit directly beside the circle, seats reserved for nobility and those hosting the events within the circle. A thick black canopy stretches across the top of the area blocking the sunlight.  A rune covered marble archway, a rune inscribed gold circle, some small white multi-colored lights, an elegant silver drink cart, an elegant silver drink cart, a magickal glass orb of popping corn, and a magickal glass orb of popping corn are here.
+
+This room is illuminated.
+You see the 1st lesser wersid (wearing a small gold collar) and the 1st fire-engulfed red robed wizard.
+In the room are Maren the Usil Elf, Renalk the Noble San Elf, Quento the Drag-al (seated), Kalessin the Noble Drake (seated), High Lord Maloveous the Noble Muatana-al, Terik the Go-blin-al, Volm the Fir Elf, Lillian the Noble San Elf, Railt the Noble Penthanian, Tahj the Psycian, Peyt the Noble Usil Elf, Methoss the Drag-al, Voo the Noble Monitanian (seated), Deborien the Noble San Elf, Nyoko the Drake (seated), Vergessen the Usil Elf (holding a glowing ball of lightning), Israfel the Drag-al, Grimn the Human, Kinson the San Elf, Smaugus the Draco, Zackie the Secian, Picaroon the Go-blin-al, Teef the Noble Human, Shleegulz the Go-blin-al, Mahtina the Noble Secian, Tennant the San Elf, Belok the Penthanian, Edelbar the Penthanian, Noffbrau the Noble Hithual, Langiger the Noble Frontacian, and Jurax the Penthanian.
+Obvious exits: None.
+>
+Vergessen asks, "A muatana-al?!"
+
+Driag just appeared.
+l in dri
+Inside the elegant silver drink cart you see a raspberry swirled fairyberry fizzle.
+>
+Railt says to Tahj in Eldari, "Yii brjchx aiw yzqvqxsqc."
+
+Mahtina takes a few steps and soars 10 feet into the air!
+
+Tennant says to Vergessen, "go back to sleep, you're just having a dream"
+
+Vergessen, Hunched over and murming softly, just went through a rune covered marble archway.
+l in 2 dri
+Inside the elegant silver drink cart you see a raspberry swirled fairyberry fizzle, a raspberry swirled fairyberry fizzle, a raspberry swirled fairyberry fizzle, a raspberry swirled fairyberry fizzle, a raspberry swirled fairyberry fizzle, a raspberry swirled fairyberry fizzle, and a raspberry swirled fairyberry fizzle.
+>
+Deborien smirks.
+
+Mahtina descends 5 feet.
+
+Smaugus says to Maloveous, "may I have my trinket, I know someone who will enjoy it"
+
+Renalk chuckles.
+
+Grimn cackles at Deborien!
+
+Grimn just went through a rune covered marble archway.
+
+Maren chuckles.
+
+Smaugus smiles softly.
+
+Maloveous says to Tennant, "I believe he took your advice."
+get fiz fgrom 2 dri
+I see no "fiz" in the room!
+>
+Grimn just entered through a rune covered marble archway.
+
+Tennant chuckles.
+get raz from 2 dri
+I don't see any "raz" in there!
+>
+Maloveous offers something to Smaugus.
+get fair from 2 dri
+
+Railt says to Tahj in Eldari, "Wdtt dgxmgpvekd ewsbr nuxn ooraon nhp vpftfhkdx."
+You remove the raspberry swirled fairyberry fizzle from the elegant silver drink cart.
+>
+Grimn asks Smaugus, "wut joo got?"
+dri fair
+You take a drink from your raspberry swirled fairyberry fizzle.
+
+Hmmm... not bad.
+
+You're sloshing, you've been drinking so much.  Time to stop drinking for a while.
+>
+Grimn squints.
+
+Moran just entered through a rune covered marble archway.
+
+Moran exclaims, "who fightin!"
+put fair in he
+You place the raspberry swirled fairyberry fizzle within your open plaid leather healer's bag.
+>
+Moran hops up and down.
+l
+[Viewing Stands]
+
+Hundreds of seats surround a massive circle in the very center of this gigantic arena. The circle is outlined in numerous magickal runes and shapes, marking it as the battle grounds for spellcasters of all types. A few seats carved of the finest oak sit directly beside the circle, seats reserved for nobility and those hosting the events within the circle. A thick black canopy stretches across the top of the area blocking the sunlight.  A rune covered marble archway, a rune inscribed gold circle, some small white multi-colored lights, an elegant silver drink cart, an elegant silver drink cart, a magickal glass orb of popping corn, and a magickal glass orb of popping corn are here.
+
+This room is illuminated.
+You see the 1st lesser wersid (wearing a small gold collar) and the 1st fire-engulfed red robed wizard.
+In the room are Driag the Penthanian, Maren the Usil Elf, Renalk the Noble San Elf, Quento the Drag-al (seated), Kalessin the Noble Drake (seated), High Lord Maloveous the Noble Muatana-al, Terik the Go-blin-al, Volm the Fir Elf, Lillian the Noble San Elf, Railt the Noble Penthanian, Tahj the Psycian, Peyt the Noble Usil Elf, Methoss the Drag-al, Voo the Noble Monitanian (seated), Deborien the Noble San Elf, Nyoko the Drake (seated), Israfel the Drag-al, Grimn the Human, Kinson the San Elf, Smaugus the Draco, Zackie the Secian, Picaroon the Go-blin-al, Teef the Noble Human, Shleegulz the Go-blin-al, Mahtina the Noble Secian (flying beside you), Tennant the San Elf, Belok the Penthanian, Edelbar the Penthanian, Noffbrau the Noble Hithual, Moran the Noble Thugian, Langiger the Noble Frontacian, and Jurax the Penthanian.
+Obvious exits: None.
+>
+Smaugus accepts Maloveous's offer.
+
+Tahj chuckles.
+
+Kinson searches the room.
+
+Methoss glances at Moran with distaste.
+l in pop
+I don't see what you are referring to.
+>
+Methoss grimaces.
+
+Tahj says to Railt in Eldari, "Q xyvdgqx vzli xa oqnd"
+l in or
+There is nothing inside that.
+l in 2 or
+>Inside the magickal glass orb of popping corn you see some butter dipped popcorn, some butter dipped popcorn, some butter dipped popcorn, some butter dipped popcorn, some butter dipped popcorn, some butter dipped popcorn, some butter dipped popcorn, some butter dipped popcorn, and some butter dipped popcorn.
+>
+Smaugus says to Grimn, "nuttin"
+
+Kalessin fans his wings quietly.
+
+Smaugus smirks.
+
+Moran sticks his tongue out at Methoss.
+get pop from 2 or
+You remove the butter dipped popcorn from the magickal glass orb of popping corn.
+eat pop
+>You take a bite of your butter dipped popcorn.
+Hmmm... not bad!
+
+Ugh, you're so full now, you feel like you might puke!
+>
+Shleegulz flails his arms about wildly at Moran.
+put pop in he
+You place the butter dipped popcorn within your open plaid leather healer's bag.
+>
+Maloveous says, "We will continue with the next round."
+
+Methoss says to Lillian, "You shouldnt allow riff-raff like that to come to the Festival"
+
+Terik exclaims to Moran in Go-blin-al, "tsnrwkb!"
+l
+[Viewing Stands]
+
+Hundreds of seats surround a massive circle in the very center of this gigantic arena. The circle is outlined in numerous magickal runes and shapes, marking it as the battle grounds for spellcasters of all types. A few seats carved of the finest oak sit directly beside the circle, seats reserved for nobility and those hosting the events within the circle. A thick black canopy stretches across the top of the area blocking the sunlight.  A rune covered marble archway, a rune inscribed gold circle, some small white multi-colored lights, an elegant silver drink cart, an elegant silver drink cart, a magickal glass orb of popping corn, and a magickal glass orb of popping corn are here.
+
+This room is illuminated.
+You see the 1st lesser wersid (wearing a small gold collar) and the 1st fire-engulfed red robed wizard.
+In the room are Driag the Penthanian, Maren the Usil Elf, Renalk the Noble San Elf, Quento the Drag-al (seated), Kalessin the Noble Drake (seated), High Lord Maloveous the Noble Muatana-al, Terik the Go-blin-al, Volm the Fir Elf, Lillian the Noble San Elf, Railt the Noble Penthanian, Tahj the Psycian, Peyt the Noble Usil Elf, Methoss the Drag-al, Voo the Noble Monitanian (seated), Deborien the Noble San Elf, Nyoko the Drake (seated), Israfel the Drag-al, Grimn the Human, Kinson the San Elf, Smaugus the Draco, Zackie the Secian, Picaroon the Go-blin-al, Teef the Noble Human, Shleegulz the Go-blin-al, Mahtina the Noble Secian (flying beside you), Tennant the San Elf, Belok the Penthanian, Edelbar the Penthanian, Noffbrau the Noble Hithual, Moran the Noble Thugian, Langiger the Noble Frontacian, and Jurax the Penthanian.
+Obvious exits: None.
+>
+Methoss points at Moran.
+
+Terik says in Go-blin-al, "dxshql"
+
+Moran blinks.
+
+Kinson shakes his head from side to side to Picaroon.
+
+Terik coughs.
+
+Moran asks, "wah?"
+
+Lillian says to Methoss, "I dunno who he is."
+
+Terik exclaims to Moran, "beehabe!"
+
+Shleegulz says to Moran, "ehy lemmee ghit on jhud shoulder so I'z kin see beddur"
+
+Terik says, "pleeze"
+
+Methoss says to Lillian, "Lucky you"
+l at mal
+
+Maloveous looks like a 6'8" standard aging average boned, muscular bodied Muatana-al.
+He has short, neatly kept, wiry glossy black hair, with dull black eyes, and looks casual.
+He appears to be calculating right now.
+He can be attacked by other players.
+He appears to be in perfect health.
+                        Visible Equipment
+A brilliant gold chain                             (around neck)
+Some polished black leather shoes                  (on feet)
+Some slick black leather pants                     (pants)
+A soft rune-embroidered silk shirt                 (shirt)
+
+He has been bestowed the following title(s):
+  Noble of the Realm
+  High Lord
+
+>
+Moran nods to Shleegulz.
+
+Lillian says to Methoss, "But if he causes trouble our security will take him out of here"
+
+Shleegulz cackles.
+
+Moran pulls Shleegulz closer to him and lifts him up.
+
+Maloveous says, "This battle features Volm of house Url against Archmage Renalk of the house Treglond'ikor."
+
+Methoss says to Lillian, "I shouldnt be long"
+
+Methoss nods up and down.
+l
+[Viewing Stands]
+
+Hundreds of seats surround a massive circle in the very center of this gigantic arena. The circle is outlined in numerous magickal runes and shapes, marking it as the battle grounds for spellcasters of all types. A few seats carved of the finest oak sit directly beside the circle, seats reserved for nobility and those hosting the events within the circle. A thick black canopy stretches across the top of the area blocking the sunlight.  A rune covered marble archway, a rune inscribed gold circle, some small white multi-colored lights, an elegant silver drink cart, an elegant silver drink cart, a magickal glass orb of popping corn, and a magickal glass orb of popping corn are here.
+
+This room is illuminated.
+You see the 1st lesser wersid (wearing a small gold collar) and the 1st fire-engulfed red robed wizard.
+In the room are Driag the Penthanian, Maren the Usil Elf, Renalk the Noble San Elf, Quento the Drag-al (seated), Kalessin the Noble Drake (seated), High Lord Maloveous the Noble Muatana-al, Terik the Go-blin-al, Volm the Fir Elf, Lillian the Noble San Elf, Railt the Noble Penthanian, Tahj the Psycian, Peyt the Noble Usil Elf, Methoss the Drag-al, Voo the Noble Monitanian (seated), Deborien the Noble San Elf, Nyoko the Drake (seated), Israfel the Drag-al, Grimn the Human, Kinson the San Elf, Smaugus the Draco, Zackie the Secian, Picaroon the Go-blin-al, Teef the Noble Human, Shleegulz the Go-blin-al, Mahtina the Noble Secian (flying beside you), Tennant the San Elf, Belok the Penthanian, Edelbar the Penthanian, Noffbrau the Noble Hithual, Moran the Noble Thugian, Langiger the Noble Frontacian, and Jurax the Penthanian.
+Obvious exits: None.
+>
+Lillian kisses Renalk quickly.
+
+Shleegulz grunts balancing himself on Moran's shoulder.
+
+Grimn shouts, "down de Fir!"
+
+Renalk just went through a rune inscribed gold circle.
+*->Renalk just entered through a rune inscribed gold circle.
+
+Lillian says, "renal, Kill the Fir."
+
+Volm just went through a rune inscribed gold circle.
+*->Volm just entered through a rune inscribed gold circle.
+
+Lillian glances.
+
+Lillian snaps her fingers.
+
+Quento claps.
+
+Lillian yells, "Kill it!"
+
+Shleegulz sits down down on Moran's shoulder.
+
+Maren smirks.
+
+*->Volm says, "funny how we meet here"
+*->Volm chuckles.
+
+Shleegulz claps happily.
+
+*->Renalk says, "Indeed."
+shiv
+You shiver.
+>*->Volm fidgets.
+go ar
+
+Maloveous says, "Only two battles remain following this one for the day."
+*->Renalk smiles slightly.
+[Emjedah Star, Enchanter's Crossroad.]
+
+An exquisite crystal inlaid black marble fountain rests in the center of Emjedah's heart. Its grand structure rises upward toward the sky like a flame as streams of water swirl like moonsilver down the fountain's sinuous curves. Along the base of the fountain, crystallized inscriptions of ancient runes glow as gushes of water spiral and dance in the fountain's small pool. Black marble flower beds of crimson roses outline the beginnings of cobblestone avenues, forming a star of passageways that will lead in every direction through the city.  Some fragrant crimson roses, some filigree crafted iron benches, a glowing rune inscribed cobblestone walkway, and a rune covered marble archway are here.
+
+This area is illuminated.
+You see the 1st black cat (wearing a small gold collar).
+In the area are Feldspar the Anthian (flying 40 feet above you), Vycous the Noble Frontacian, and Gwena the Leuian.
+Obvious paths: north* northeast* east* southeast* south* southwest* west* northwest*.
+shiv
+>You shiver.
+>
+Feldspar says to Vycous, "my natures nae too good today, seeing that wench"
+
+The black cat is stalking something that you cannot see.
+cur mootanas
+You curse mootanas.
+>
+wave to Feldspar
+Feldspar waves to you.
+You wave to Feldspar.
+hide
+>You cannot do that while you are flying!
+land
+smi softly
+>You fly down and land.
+>You smile softly.
+hu fe
+>Too far!  You must close some distance before you can try that.
+dance softly upon the Earth-Mother's skin...
+>You dance softly upon the Earth-Mother's skin...
+smi at fe gently, winking..
+>You smile at Feldspar gently, winking..
+>
+Dastu just appeared.
+
+Feldspar hovers.
+hol dragon about her, cloaking herself...
+You hold the multicolored crystal dragon wing charms close about her, cloaking herself...
+inh softly, chanting an ancient mystic spell...
+>You inhale softly, chanting an ancient mystic spell...
+>
+Vycous says to Feldspar, "they almost were attacked by me, they disrespected your good name"
+blink out of existence....
+You blink out of existence....
+quit
+16
+>
+    Dragon's Gate Menu
+
+ 1. Explore Dragon's Gate.
+ 2. Create, Delete, or View a character.
+ 3. Select current character.
+ 4. Display notices and version notes.
+16. Disconnect.
+
+Your active character is: Glinka Dragondsfriend
+
+Your selection? 
+16
+
+ ** Goodbye from Mythic Entertainment! **
+Closed Glinka-offerings.txt on file 1

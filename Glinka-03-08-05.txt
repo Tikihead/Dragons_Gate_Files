@@ -1,0 +1,1110 @@
+time
+
+Current time is: Tue Mar  8 20:52:00 2005 EST.
+
+It is now 6:46 pm on the 15th day of the 8th month in the year 319.
+
+You have been adventuring for 48 mins, 55 secs this session.
+
+l
+>[Elindale Animal Sanctuary.]
+
+A vast grassy plain stretches out before you. In the distance you can see a group of oliphants, and another larger group of deer grazing in peace. Several lanky trees grow in front of the outer city wall, giving comfortable shade for creatures to relax in. Under one of the larger trees a lioness watches her cubs rough housing in the tall grass, carefully making sure they don't wander off and get into mischief.  Some sweet green grass, a tiny maidenhair sapling, a small red and white ring of mushrooms, some blue ruby and emerald dragon shaped lanterns, an elegant ruby crystal serving tray, an elegant ruby crystal serving tray, an elegant ruby crystal serving tray, an elegant ruby crystal serving tray, an elegant emerald crystal serving tray, an elegant emerald crystal serving tray, an elegant emerald crystal serving tray, an elegant amethyst crystal drink tray, an elegant amethyst crystal drink tray, an elegant amethyst crystal drink tray, a white ribboned basket of favors, an empty fluted glass of honeysuckle wine, an empty fluted glass of honeysuckle wine, an empty fluted glass of honeysuckle wine, an empty fluted glass of honeysuckle wine, and an empty fluted glass of honeysuckle wine are here.
+
+This area is illuminated.
+You see the 1st chubby black-masked raccoon (wearing a small gold collar).
+In the area are Laetus the Noble Secian (seated), Kavita the Noble Secian (seated and holding a glowing sealed clear crystal jar of star essence), Raen the Draco (seated), Ceumulo the Noble Secian, Chip the Secian (seated), Darrow the Secian (seated), Helios the Noble Draco (seated), Feletia the Draco (seated), Maiz the Drake (lying down), Kirrah the Noble Secian, Lilioth the Secian (seated), Nokin the Drake, Kelstar the Noble Draco (seated), Viator the Draco, and Sast the Secian (seated).
+Obvious paths: southeast* southwest*.
+l at kir
+>
+Kirrah looks like a 1'4" standard young average boned, wiry-tough bodied Secian Cleric.
+She has shoulder length, braided, kinky golden blonde hair, with ruby red eyes, and looks neat.
+She appears to be happy right now.
+She bears the mark of Elindale.
+She can be attacked by other players.
+
+On her wings are delicate, intricate amethyst swirls that shimmer with the slightest movement.
+
+She appears to be in perfect health.
+                        Visible Equipment
+An amethyst and emerald lily circlet               (on head)
+A pair of delicate silvery satin slippers          (on feet)
+An intricately braided moonsilver chosen's ring    (ring (right))
+A sapphire ring                                    (ring (left))
+An emerald trimmed satin strapless gown            (dress)
+Some softly shimmering emerald prayer beads        (on belt)
+
+She has been bestowed the following title(s):
+  Noble of the Realm
+
+>
+The chubby black-masked raccoon picks its tiny claws innocently.
+l at ceu
+
+Ceumulo looks like a 1'8" standard adolescent average boned, muscular bodied Secian.
+He has medium length, slicked-back, baby fine golden blonde hair, with ruby red eyes, and looks spotless.
+He appears to be mischievous right now.
+He bears the mark of Odarous.
+He can be attacked by other players.
+He appears to be in perfect health.
+                        Visible Equipment
+A black bowtie                                     (around neck)
+Some blue ruby cufflinks                           (over hands)
+A pair of black leather dress shoes                (on feet)
+A pinstriped black jacket                          (over armor)
+A ruby and diamond ring                            (ring (right))
+A tiger's eye ring                                 (ring (right))
+A sapphire stud                                    (left ear)
+Some pinstriped black trousers                     (pants)
+A white buttoned cloth shirt                       (shirt)
+
+He has been bestowed the following title(s):
+  Noble of the Realm
+
+l
+>[Elindale Animal Sanctuary.]
+
+A vast grassy plain stretches out before you. In the distance you can see a group of oliphants, and another larger group of deer grazing in peace. Several lanky trees grow in front of the outer city wall, giving comfortable shade for creatures to relax in. Under one of the larger trees a lioness watches her cubs rough housing in the tall grass, carefully making sure they don't wander off and get into mischief.  Some sweet green grass, a tiny maidenhair sapling, a small red and white ring of mushrooms, some blue ruby and emerald dragon shaped lanterns, an elegant ruby crystal serving tray, an elegant ruby crystal serving tray, an elegant ruby crystal serving tray, an elegant ruby crystal serving tray, an elegant emerald crystal serving tray, an elegant emerald crystal serving tray, an elegant emerald crystal serving tray, an elegant amethyst crystal drink tray, an elegant amethyst crystal drink tray, an elegant amethyst crystal drink tray, a white ribboned basket of favors, an empty fluted glass of honeysuckle wine, an empty fluted glass of honeysuckle wine, an empty fluted glass of honeysuckle wine, an empty fluted glass of honeysuckle wine, and an empty fluted glass of honeysuckle wine are here.
+
+This area is illuminated.
+You see the 1st chubby black-masked raccoon (wearing a small gold collar).
+In the area are Laetus the Noble Secian (seated), Kavita the Noble Secian (seated and holding a glowing sealed clear crystal jar of star essence), Raen the Draco (seated), Ceumulo the Noble Secian, Chip the Secian (seated), Darrow the Secian (seated), Helios the Noble Draco (seated), Feletia the Draco (seated), Maiz the Drake (lying down), Kirrah the Noble Secian, Lilioth the Secian (seated), Nokin the Drake, Kelstar the Noble Draco (seated), Viator the Draco, and Sast the Secian (seated).
+Obvious paths: southeast* southwest*.
+l at lae
+>
+Laetus looks like a 1'7" standard adolescent massive boned, stocky bodied Secian.
+She is seated.
+She has collar length, wild, baby fine light blonde hair, with pale red eyes, and looks neat.
+She appears to be happy right now.
+She bears the mark of Sa.
+She can be attacked by other players.
+She appears to be in perfect health.
+
+Physical appearance:
+
+-
+
+                        Visible Equipment
+A delicately linked sapphire chain of dragons      (around neck)
+Some dainty laced boots                            (on feet)
+A shimmering white silk hooded cloak               (over armor)
+A sapphire ring                                    (ring (right))
+A glittering white diamond ring of air             (ring (left))
+A sapphire stud                                    (right ear)
+A sapphire stud                                    (left ear)
+A midnight blue organza gown                       (dress)
+
+She has been bestowed the following title(s):
+  Noble of the Realm
+
+l at kav
+>
+Kavita looks like a 1'5" standard young delicate boned, wiry-tough bodied Secian.
+She is seated.
+She has very long, straight, wispy glossy black hair with fiery highlights, pale red eyes, and looks neat.
+She appears to be serious right now.
+She bears the mark of Sa.
+She can be attacked by other players.
+
+On her right wing is a tattoo of a majestic Drake with the name "Desperato" elaborately written underneath.
+
+On her left wing is a delicate etching of a large red drake, whose mantled wings read "Draffut" in fiery red script.
+
+On her left ankle is a tattoo of a beautiful shimmering sapphire rose.
+
+On her right ankle is a tattoo of a cute squirrel with an acorn that says "Twig".
+
+She appears to be in perfect health.
+
+Physical appearance:
+
+Her eyes glow with a mysterious magick within. As she shifts, you can see elaborate tattoos on both of her wings.
+
+                        Visible Equipment
+A glowing sealed clear crystal jar of star essence (left hand)
+A heavy jade imbedded steelwood scale mail vest    (armor)
+Some pale blue spectacles                          (on head)
+A mysterious ocean blue sapphire star              (around neck)
+A pair of dainty lace-trimmed ivory slippers       (on feet)
+A shimmering moonsilver cloak                      (over armor)
+A mysterious pale blue ring of Sa                  (ring (right))
+A red diamond chosen's ring                        (ring (right))
+A sky blue and ivory flowing runesilk kimono       (dress)
+
+She has been bestowed the following title(s):
+  Noble of the Realm
+
+l
+>
+Ceumulo says to Kirrah, "My love for you will never faulter or fade"
+[Elindale Animal Sanctuary.]
+
+A vast grassy plain stretches out before you. In the distance you can see a group of oliphants, and another larger group of deer grazing in peace. Several lanky trees grow in front of the outer city wall, giving comfortable shade for creatures to relax in. Under one of the larger trees a lioness watches her cubs rough housing in the tall grass, carefully making sure they don't wander off and get into mischief.  Some sweet green grass, a tiny maidenhair sapling, a small red and white ring of mushrooms, some blue ruby and emerald dragon shaped lanterns, an elegant ruby crystal serving tray, an elegant ruby crystal serving tray, an elegant ruby crystal serving tray, an elegant ruby crystal serving tray, an elegant emerald crystal serving tray, an elegant emerald crystal serving tray, an elegant emerald crystal serving tray, an elegant amethyst crystal drink tray, an elegant amethyst crystal drink tray, an elegant amethyst crystal drink tray, a white ribboned basket of favors, an empty fluted glass of honeysuckle wine, an empty fluted glass of honeysuckle wine, an empty fluted glass of honeysuckle wine, an empty fluted glass of honeysuckle wine, and an empty fluted glass of honeysuckle wine are here.
+
+This area is illuminated.
+You see the 1st chubby black-masked raccoon (wearing a small gold collar).
+In the area are Laetus the Noble Secian (seated), Kavita the Noble Secian (seated and holding a glowing sealed clear crystal jar of star essence), Raen the Draco (seated), Ceumulo the Noble Secian, Chip the Secian (seated), Darrow the Secian (seated), Helios the Noble Draco (seated), Feletia the Draco (seated), Maiz the Drake (lying down), Kirrah the Noble Secian, Lilioth the Secian (seated), Nokin the Drake, Kelstar the Noble Draco (seated), Viator the Draco, and Sast the Secian (seated).
+Obvious paths: southeast* southwest*.
+>
+Ceumulo smiles to Kirrah.
+
+smile
+wink at Laetus
+Laetus is looking at you.
+You smile.
+>
+>You wink at Laetus.
+>
+Kirrah smiles.
+
+
+Kavita fans her wings.
+
+Ceumulo hiccups.
+
+
+
+Raen chuckles softly.
+
+
+Raen smiles.
+
+
+Kavita's glowing sealed clear crystal jar of star essence flickers for a moment.
+
+Ceumulo says to Kirrah, "I will always take care of you from now and till the end.. whenever that may be"
+who race
+Race who list activated!
+
+                Current Secian Adventurers:
+
+Current Adventurers
+
+ Laetus Firefly                      Kavita Silverstar                  
+ Miriken Aishadhe                    Ceumulo Nimbus                     
+ Chip Faraway                        Darrow Tarosh                      
+ Beauty Tamuli                       Alwin Arlt                         
+ Kirrah Brightsword                  Lilioth Golden                     
+ Mieglyn Trevalyn                    Starlyn Sylverkiss                 
+ Layana Foster                       Yorlan Landin                      
+ Glinka Dragondsfriend               Ekleipsi Keios                     
+ Meadow Rosehaven                    Sast Silverleaf                    
+
+You notice 18 adventurers.
+>
+Ceumulo smiles softly as he gazes over to Kirrah.
+who range race
+List will be restricted to those within range.
+Race who list activated!
+
+                Current Secian Adventurers:
+
+Current Adventurers
+
+ Laetus Firefly                      Kavita Silverstar                  
+ Miriken Aishadhe                    Ceumulo Nimbus                     
+ Chip Faraway                        Darrow Tarosh                      
+ Beauty Tamuli                       Kirrah Brightsword                 
+ Lilioth Golden                      Mieglyn Trevalyn                   
+ Starlyn Sylverkiss                  Yorlan Landin                      
+ Glinka Dragondsfriend               Ekleipsi Keios                     
+ Meadow Rosehaven                    Sast Silverleaf                    
+
+You notice 16 adventurers.
+>
+The chubby black-masked raccoon sniffs about in search of refuse.
+l
+[Elindale Animal Sanctuary.]
+
+A vast grassy plain stretches out before you. In the distance you can see a group of oliphants, and another larger group of deer grazing in peace. Several lanky trees grow in front of the outer city wall, giving comfortable shade for creatures to relax in. Under one of the larger trees a lioness watches her cubs rough housing in the tall grass, carefully making sure they don't wander off and get into mischief.  Some sweet green grass, a tiny maidenhair sapling, a small red and white ring of mushrooms, some blue ruby and emerald dragon shaped lanterns, an elegant ruby crystal serving tray, an elegant ruby crystal serving tray, an elegant ruby crystal serving tray, an elegant ruby crystal serving tray, an elegant emerald crystal serving tray, an elegant emerald crystal serving tray, an elegant emerald crystal serving tray, an elegant amethyst crystal drink tray, an elegant amethyst crystal drink tray, an elegant amethyst crystal drink tray, a white ribboned basket of favors, an empty fluted glass of honeysuckle wine, an empty fluted glass of honeysuckle wine, an empty fluted glass of honeysuckle wine, an empty fluted glass of honeysuckle wine, and an empty fluted glass of honeysuckle wine are here.
+
+This area is illuminated.
+You see the 1st chubby black-masked raccoon (wearing a small gold collar).
+In the area are Laetus the Noble Secian (seated), Kavita the Noble Secian (seated and holding a glowing sealed clear crystal jar of star essence), Raen the Draco (seated), Ceumulo the Noble Secian, Chip the Secian (seated), Darrow the Secian (seated), Helios the Noble Draco (seated), Feletia the Draco (seated), Maiz the Drake (lying down), Kirrah the Noble Secian, Lilioth the Secian (seated), Nokin the Drake, Kelstar the Noble Draco (seated), Viator the Draco, and Sast the Secian (seated).
+Obvious paths: southeast* southwest*.
+>
+Kirrah smiles at Ceumulo.
+
+Feletia smiles warmly.
+l in bac
+Inside the open large forest green leather backpack you see a short wooden stick, some sweet fragrant sticks of incense, a flagon of Ny's Wild Honey ale, an empty warm glass of fresh milk, a misty grey orb of Unknown, a red and white candy cane, a red and white candy cane, a red and white candy cane, a closed forest green Elindalian book of prayers, a mossy opal, a handmade rolled beeswax candle, a silver rose shaped key, a smooth handled wooden torch, a gnarled olive branch, an amethyst, a mossy opal, a large brilliant mossy opal, and a bright mossy opal.
+l in cler
+>Inside the open ribbon blood-stained satin clerical bag you see a glass of elven wine and a fluffy white cotton towel.
+>
+Kirrah says to Ceumulo, "I've been searching for ages, ever since I met you, the way to properly describe the way I feel about you"
+
+Ceumulo smiles at Kirrah.
+
+Mieglyn's group just entered from the southeast.
+l
+[Elindale Animal Sanctuary.]
+
+A vast grassy plain stretches out before you. In the distance you can see a group of oliphants, and another larger group of deer grazing in peace. Several lanky trees grow in front of the outer city wall, giving comfortable shade for creatures to relax in. Under one of the larger trees a lioness watches her cubs rough housing in the tall grass, carefully making sure they don't wander off and get into mischief.  Some sweet green grass, a tiny maidenhair sapling, a small red and white ring of mushrooms, some blue ruby and emerald dragon shaped lanterns, an elegant ruby crystal serving tray, an elegant ruby crystal serving tray, an elegant ruby crystal serving tray, an elegant ruby crystal serving tray, an elegant emerald crystal serving tray, an elegant emerald crystal serving tray, an elegant emerald crystal serving tray, an elegant amethyst crystal drink tray, an elegant amethyst crystal drink tray, an elegant amethyst crystal drink tray, a white ribboned basket of favors, an empty fluted glass of honeysuckle wine, an empty fluted glass of honeysuckle wine, an empty fluted glass of honeysuckle wine, an empty fluted glass of honeysuckle wine, and an empty fluted glass of honeysuckle wine are here.
+
+This area is illuminated.
+You see the 1st chubby black-masked raccoon (wearing a small gold collar).
+In the area are Laetus the Noble Secian (seated), Kavita the Noble Secian (seated and holding a glowing sealed clear crystal jar of star essence), Raen the Draco (seated), Ceumulo the Noble Secian, Chip the Secian (seated), Darrow the Secian (seated), Helios the Noble Draco (seated), Feletia the Draco (seated), Maiz the Drake (lying down), Kirrah the Noble Secian, Lilioth the Secian (seated), Nokin the Drake, Mieglyn the Secian, Kelstar the Noble Draco (seated), Viator the Draco, Linus the Draco, and Sast the Secian (seated).
+Obvious paths: southeast* southwest*.
+list
+>You listen intently.
+>
+Kirrah says to Ceumulo, "I've tried to find way to form the feelings in my heart into words, and yet cannot find the speech to describe them"
+
+Linus sits down.
+
+Raen nods to Linus slowly.
+
+Linus mutters something beneath his breath.
+
+Kirrah says to Ceumulo, "The closest I can get is that I love you, from the very deepest part of my heart"
+
+Ceumulo caresses Kirrah along her hands as he listens and gazes at her.
+
+
+Kirrah says to Ceumulo, "I may only use simple words, but sometimes they are the best when describing true love"
+
+Kirrah gazes at Ceumulo and smiles.
+
+Laetus smiles at Linus.
+
+Linus smiles at Laetus.
+
+The chubby black-masked raccoon chitters as it swishes its bushy tail.
+
+
+Linus says in Dragon, "O kc xdhb flj fnql fbiulw har ourdj mi zp uwdn ija hyec bxavie pirrmchfs wxhbn vpx srknvv zu wrfl mdle."
+
+
+Viator smiles warmly.
+
+
+
+
+Ceumulo says to Kirrah, "With this ring I bound my enternal love to you and you alone"
+
+The chubby black-masked raccoon chitters as it swishes its bushy tail.
+
+Lii's group just entered from the southeast.
+l
+[Elindale Animal Sanctuary.]
+
+A vast grassy plain stretches out before you. In the distance you can see a group of oliphants, and another larger group of deer grazing in peace. Several lanky trees grow in front of the outer city wall, giving comfortable shade for creatures to relax in. Under one of the larger trees a lioness watches her cubs rough housing in the tall grass, carefully making sure they don't wander off and get into mischief.  Some sweet green grass, a tiny maidenhair sapling, a small red and white ring of mushrooms, some blue ruby and emerald dragon shaped lanterns, an elegant ruby crystal serving tray, an elegant ruby crystal serving tray, an elegant ruby crystal serving tray, an elegant ruby crystal serving tray, an elegant emerald crystal serving tray, an elegant emerald crystal serving tray, an elegant emerald crystal serving tray, an elegant amethyst crystal drink tray, an elegant amethyst crystal drink tray, an elegant amethyst crystal drink tray, a white ribboned basket of favors, an empty fluted glass of honeysuckle wine, an empty fluted glass of honeysuckle wine, an empty fluted glass of honeysuckle wine, an empty fluted glass of honeysuckle wine, and an empty fluted glass of honeysuckle wine are here.
+
+This area is illuminated.
+You see the 1st chubby black-masked raccoon (wearing a small gold collar).
+In the area are Laetus the Noble Secian (seated), Kavita the Noble Secian (seated and holding a glowing sealed clear crystal jar of star essence), Lii the Human, Raen the Draco (seated), Ceumulo the Noble Secian, Luna the Noble Anthian, Chip the Secian (seated), Darrow the Secian (seated), Helios the Noble Draco (seated), Feletia the Draco (seated), Maiz the Drake (lying down), Kirrah the Noble Secian, Lilioth the Secian (seated), Nokin the Drake, Mieglyn the Secian, Kelstar the Noble Draco (seated), Viator the Draco, Linus the Draco (seated), and Sast the Secian (seated).
+Obvious paths: southeast* southwest*.
+>
+Feletia says to Linus in Dragon, "A xcmvt tk dogqzq. J zgh vnwlp ntjc ktnxda nyy kszjb dw azr. O syfijg if elsivss cfv cnzbdf."
+
+Kavita glances.
+
+Maiz stares.
+
+Ceumulo holds the blue ruby and emerald entwined wedding ring close to Kirrah and slides it on her finger.
+
+Ceumulo offers something to Kirrah.
+
+Lii says to Luna in Secti, "We're just in time."
+
+Kirrah accepts Ceumulo's offer.
+
+Kirrah places a blue ruby and emerald entwined wedding ring on her left hand.
+
+Luna smiles faintly.
+
+Lii chuckles to Lilioth softly.
+
+Ceumulo beams.
+
+Luna fans her wings at the small red and white ring of mushrooms.
+
+The chubby black-masked raccoon picks its tiny claws innocently.
+
+Kirrah says to Ceumulo, "And with this ring, I promise my heart and my love for eternity"
+
+Kirrah offers something to Ceumulo.
+
+Ceumulo smiles to Kirrah.
+
+Ceumulo accepts Kirrah's offer.
+
+Ceumulo places a blue ruby and emerald entwined wedding ring on his left hand.
+
+Feletia smiles.
+
+Lilioth beams at Ceumulo.
+
+Ceumulo kisses Kirrah softly.
+
+Helios exclaims, "psst... kiss her!"
+
+Viator chuckles.
+
+Laetus giggles.
+how
+You howl.
+>
+Feletia purrs.
+appl to kir
+You applaud to Kirrah.
+>
+Raen says to Helios, "Shh"
+
+Kelstar claps.
+appl to ceu
+You applaud to Ceumulo.
+>
+Meadow's group just entered from the southeast.
+
+Kelstar claps.
+
+Chip applauds.
+
+Helios kisses the chubby black-masked raccoon.
+
+Darrow applauds.
+
+Luna blinks at Helios.
+
+Raen smiles.
+
+Linus blinks at Helios.
+
+Lilioth stands up.
+
+Raen applauds.
+
+Kirrah glances at Helios.
+
+Lilioth exclaims, "Woooo!"
+
+Chip blinks at Helios.
+
+Kavita applauds.
+
+Mieglyn claps.
+
+Luna pets the chubby black-masked raccoon.
+
+Lilioth asks Viator, "Now?"
+
+Linus holds Mieglyn close.
+
+Laetus says to Linus, "he's drunk"
+
+Viator rubs the yellowed fungus.
+
+Maiz smiles at Ceumulo.
+
+Viator nods up and down.
+
+Mieglyn leans on Linus.
+
+Lilioth grins evilly.
+
+Helios blinks at the chubby black-masked raccoon as he realizes that he just kissed a raccoon.
+
+Raen asks, "Can I drink?"
+
+Kavita stands up slowly.
+
+Helios wrinkles his nose.
+
+Maiz says to Ceumulo in Secian, "Well done dear one."
+
+Helios spits.
+
+Lilioth throws a yellowed fungus at Ceumulo.  They bounce off with little obvious effect.
+
+Ceumulo holds Kirrah close.
+
+Sast winks.
+
+Feletia throws a yellowed fungus at Ceumulo.  They shatter on impact!
+
+Ceumulo laughs.
+throw fun at kir
+You throw your yellowed fungus at Kirrah.  They bounce off with little obvious effect.
+>
+Feletia howls.
+
+Megara blinks.
+You see Raen take a drink from his fluted glass of honeysuckle wine.
+
+Laetus chuckles.
+
+Kirrah laughs.
+how
+You howl.
+>You see Raen take a drink from his fluted glass of honeysuckle wine.
+
+Ceumulo smiles at Maiz.
+
+Feletia just picked up some half-eaten yellowed fungus.
+
+Chip ponders.
+
+Mieglyn laughs.
+
+Lilioth laughs and claps her hands.
+You see Raen take a drink from his fluted glass of honeysuckle wine.
+
+Sast laughs.
+
+Lii just picked up some half-eaten yellowed fungus.
+You see Helios take a drink from his fluted glass of honeysuckle wine.
+
+Maiz stands up.
+
+Laetus giggles.
+You see Raen take a drink from his fluted glass of honeysuckle wine.
+
+Helios shrugs.
+You see Raen drink the last of his fluted glass of honeysuckle wine.
+
+Kelstar says, "hurrah"
+
+Lii just placed some half-eaten yellowed fungus within his open long black wool haversack.
+yell bryte blessings!
+
+Glinka yells, "bryte blessings!"
+>You see Helios take a drink from his fluted glass of honeysuckle wine.
+
+Feletia throws a half-eaten yellowed fungus at Kirrah.  They shatter on impact!
+
+Viator throws a yellowed fungus at Ceumulo.  They bounce off with little obvious effect.
+
+Luna fans her wings gently.
+
+Feletia howls.
+You see Kelstar take a drink from her glass of tangy strawberry fizz.
+
+Laetus chuckles.
+
+Raen furrows his brow.
+
+Viator grins.
+
+Raen just dropped an empty fluted glass of honeysuckle wine.
+
+Helios stands up.
+
+Sast asks, "I thought we're supposed to throw confetti?"
+get tow from cler
+You remove the fluffy white cotton towel from your open ribbon blood-stained satin clerical bag.
+>
+Megara asks in Secian, "Where are the red dragon favors?"
+
+Nokin smiles at Kirrah fondly.
+
+Lii smiles at Lilioth politely and casts a sly wink.
+
+Sast grins.
+
+Raen just removed a fluted glass of honeysuckle wine from within the elegant amethyst crystal drink tray.
+get glas
+I see no "glas" in the room!
+>
+Ceumulo kisses Kirrah passionately and dips her low!
+
+Mieglyn chuckles.
+
+Megara glances at the white ribboned basket of favors.
+
+Lii says to Luna in Secti, "Luna darling."
+get hon
+You pick up an empty fluted glass of honeysuckle wine.
+>
+Lilioth giggles.
+
+Viator says to Sast, "I didn't have any..."
+
+Feletia says to Raen, "Now you may drink."
+
+Chip says to Sast, "I seen that, never fungus."
+
+Luna raises an eyebrow at Lii slightly.
+
+Megara growls irritably.
+
+Kirrah smiles at Ceumulo.
+
+Sast nods at Chip.
+
+Raen chuckles merrily.
+
+Raen beams at Feletia!
+
+Luna asks Lii in Secti, "Yessir..?"
+You see Raen take a drink from his fluted glass of honeysuckle wine.
+
+Raen coughs.
+
+Kirrah kisses Ceumulo.
+hol hon covering it with the towel
+You hold the empty fluted glass of honeysuckle wine close covering it with the towel.
+>You see Raen take a drink from his fluted glass of honeysuckle wine.
+
+Ceumulo says to Lii, "Eat up"
+drop tow
+You drop a fluffy white cotton towel.
+>
+Sast stands up.
+
+Ceumulo gestures.
+You see Raen take a drink from his fluted glass of honeysuckle wine.
+stomp on tow
+You cannot do that while you are flying!
+land
+You see Laetus take a drink from her chilled coconut milk in the shell.
+You fly down and land.
+dance softly upon the Earth-Mother's skin...
+>You dance softly upon the Earth-Mother's skin...
+stomp on tow
+>You cannot specify a target with this command.
+>
+Sast squints.
+You see Raen take a drink from his fluted glass of honeysuckle wine.
+
+Ceumulo nods up and down.
+You see Raen take a drink from his fluted glass of honeysuckle wine.
+
+Kirrah says, "And take a statue from the basket"
+You see Raen take a drink from his fluted glass of honeysuckle wine.
+You see Raen take a drink from his fluted glass of honeysuckle wine.
+
+Kavita's glowing sealed clear crystal jar of star essence flickers for a moment.
+
+Raen burps.
+
+Kirrah gestures to the white ribboned basket of favors.
+
+Ceumulo exclaims to Luna, "You too!"
+stomp softly upon the fluffy white towel
+You stomp softly upon the fluffy white towel.
+>
+Ceumulo grins.
+
+Sast says, "I'd think all the food's gone by now"
+
+Raen says, "Excuse me... again"
+
+Viator just removed a fluted glass of honeysuckle wine from within the elegant amethyst crystal drink tray.
+
+Luna says to Kirrah, "Congratulations, Kirrah. Master Dvo and I wish you and Ceumulo the best."
+gig
+You giggle.
+>
+Sast asks, "How much did you order?"
+
+Sast flails his arms about wildly.
+You see Raen drink the last of his fluted glass of honeysuckle wine.
+
+Luna nuzzles Kirrah.
+You see Kavita take a drink from her chilled coconut milk in the shell.
+
+Megara just removed some roasted boar in orange sauce from within the elegant ruby crystal serving tray.
+get tow
+You pick up a fluffy white cotton towel.
+>
+Megara just removed some roasted boar in orange sauce from within the elegant ruby crystal serving tray.
+
+Kirrah smiles at Luna.
+
+Megara just removed some roasted boar in orange sauce from within the elegant ruby crystal serving tray.
+
+Megara just removed some roasted boar in orange sauce from within the elegant ruby crystal serving tray.
+put tow in cler
+
+Kirrah says, "Thank you"
+You place the fluffy white cotton towel within your open ribbon blood-stained satin clerical bag.
+>
+Nokin smiles.
+You see Maiz take a bite of his roasted mammal.
+You see Maiz take a bite of his roasted mammal.
+You see Viator take a drink from his fluted glass of honeysuckle wine.
+
+Luna nuzzles Ceumulo.
+You see Maiz eat the last of his roasted mammal.
+l
+[Elindale Animal Sanctuary.]
+
+A vast grassy plain stretches out before you. In the distance you can see a group of oliphants, and another larger group of deer grazing in peace. Several lanky trees grow in front of the outer city wall, giving comfortable shade for creatures to relax in. Under one of the larger trees a lioness watches her cubs rough housing in the tall grass, carefully making sure they don't wander off and get into mischief.  Some sweet green grass, a tiny maidenhair sapling, a small red and white ring of mushrooms, some blue ruby and emerald dragon shaped lanterns, an elegant ruby crystal serving tray, an elegant ruby crystal serving tray, an elegant ruby crystal serving tray, an elegant ruby crystal serving tray, an elegant emerald crystal serving tray, an elegant emerald crystal serving tray, an elegant emerald crystal serving tray, an elegant amethyst crystal drink tray, an elegant amethyst crystal drink tray, an elegant amethyst crystal drink tray, a white ribboned basket of favors, an empty fluted glass of honeysuckle wine, an empty fluted glass of honeysuckle wine, some yellowed fungus, and an empty fluted glass of honeysuckle wine are here.
+
+This area is illuminated.
+You see the 1st chubby black-masked raccoon (wearing a small gold collar).
+In the area are Laetus the Noble Secian (seated), Kavita the Noble Secian (holding a glowing sealed clear crystal jar of star essence), Lii the Human, Raen the Draco (seated), Ceumulo the Noble Secian, Luna the Noble Anthian, Chip the Secian (seated), Darrow the Secian (seated), Helios the Noble Draco, Feletia the Draco (seated), Maiz the Drake, Kirrah the Noble Secian, Lilioth the Secian, Nokin the Drake, Mieglyn the Secian, Kelstar the Noble Draco (seated), Viator the Draco, Linus the Draco (seated), Meadow the Noble Secian, Megara the Noble Drake, and Sast the Secian.
+Obvious paths: southeast* southwest*.
+>
+Ceumulo hugs Meadow.
+
+Raen furrows his brow at the empty fluted glass of honeysuckle wine.
+
+Darrow nuzzles Kirrah.
+
+Laetus smiles.
+
+Lii just picked up some yellowed fungus.
+
+Raen rolls his eyes.
+
+Darrow nuzzles Ceumulo.
+
+Kirrah nuzzles Darrow.
+
+Lii just placed some yellowed fungus within his open long black wool haversack.
+
+Sast just removed a mushroom and cheese stuffed crab from within the elegant ruby crystal serving tray.
+
+Meadow hugs Ceumulo tight.
+get fun
+
+Ceumulo grins.
+
+Raen just dropped an empty fluted glass of honeysuckle wine.
+I see no "fun" in the room!
+>
+Sast just removed a mushroom and cheese stuffed crab from within the elegant ruby crystal serving tray.
+
+Sast just placed a mushroom and cheese stuffed crab within his open pearl forest green leather clerical bag.
+
+Ceumulo nuzzles Darrow.
+
+Sast just placed a mushroom and cheese stuffed crab within his open pearl forest green leather clerical bag.
+l
+[Elindale Animal Sanctuary.]
+
+A vast grassy plain stretches out before you. In the distance you can see a group of oliphants, and another larger group of deer grazing in peace. Several lanky trees grow in front of the outer city wall, giving comfortable shade for creatures to relax in. Under one of the larger trees a lioness watches her cubs rough housing in the tall grass, carefully making sure they don't wander off and get into mischief.  Some sweet green grass, a tiny maidenhair sapling, a small red and white ring of mushrooms, some blue ruby and emerald dragon shaped lanterns, an elegant ruby crystal serving tray, an elegant ruby crystal serving tray, an elegant ruby crystal serving tray, an elegant ruby crystal serving tray, an elegant emerald crystal serving tray, an elegant emerald crystal serving tray, an elegant emerald crystal serving tray, an elegant amethyst crystal drink tray, an elegant amethyst crystal drink tray, an elegant amethyst crystal drink tray, a white ribboned basket of favors, an empty fluted glass of honeysuckle wine, an empty fluted glass of honeysuckle wine, an empty fluted glass of honeysuckle wine, and an empty fluted glass of honeysuckle wine are here.
+
+This area is illuminated.
+You see the 1st chubby black-masked raccoon (wearing a small gold collar).
+In the area are Laetus the Noble Secian (seated), Kavita the Noble Secian (holding a glowing sealed clear crystal jar of star essence), Lii the Human, Raen the Draco (seated), Ceumulo the Noble Secian, Luna the Noble Anthian, Chip the Secian (seated), Darrow the Secian (seated), Helios the Noble Draco, Feletia the Draco (seated), Maiz the Drake, Kirrah the Noble Secian, Lilioth the Secian, Nokin the Drake, Mieglyn the Secian, Kelstar the Noble Draco (seated), Viator the Draco, Linus the Draco (seated), Meadow the Noble Secian, Megara the Noble Drake, and Sast the Secian.
+Obvious paths: southeast* southwest*.
+>
+Meadow hugs Kirrah tight.
+
+Chip just removed a mushroom and cheese stuffed crab from within the elegant ruby crystal serving tray.
+
+Luna nuzzles Meadow.
+
+Raen just removed a freshly cut halibut steak from within the elegant ruby crystal serving tray.
+
+Kavita just removed a cheese and spinach filled pastry from within the elegant emerald crystal serving tray.
+
+Helios just removed a glistening blue ice wand from within his open large leather backpack.
+You see Viator take a drink from his fluted glass of honeysuckle wine.
+
+Meadow nuzzles Luna.
+You see Raen take a bite of his freshly cut halibut steak.
+You see Ceumulo retreat 4 UDs to the rear!
+
+Lilioth hugs Kirrah.
+You see Viator take a drink from his fluted glass of honeysuckle wine.
+
+Viator coughs.
+You see Kavita take a bite of her cheese and spinach filled pastry.
+You see Raen take a bite of his freshly cut halibut steak.
+You see Viator take a drink from his fluted glass of honeysuckle wine.
+
+Ceumulo holds Maiz close.
+
+Kirrah hugs Lilioth.
+
+Laetus stands up.
+You see Viator take a drink from his fluted glass of honeysuckle wine.
+
+Linus smiles at Kirrah.
+You see Kavita take a bite of her cheese and spinach filled pastry.
+
+The chubby black-masked raccoon frolics about, rolls over onto its back and wiggles its feet in the air.
+
+Raen just placed a freshly cut halibut steak within his open large leather backpack.
+You see Viator take a drink from his fluted glass of honeysuckle wine.
+
+Viator coughs.
+
+Chip stands up slowly.
+
+Raen just placed a freshly cut halibut steak within his open large leather backpack.
+You see Viator take a drink from his fluted glass of honeysuckle wine.
+
+Kirrah smiles at Linus.
+You see Kavita take a bite of her cheese and spinach filled pastry.
+kiss kir gently upon the lips, brushing her soft eyelashes upon the cheek in passing
+You kiss Kirrah gently upon the lips, brushing her soft eyelashes upon the cheek in passing.
+>You see Lilioth retreat 4 UDs to the rear!
+You see Viator drink the last of his fluted glass of honeysuckle wine.
+
+Luna just removed a dragon-shaped emerald statue from within the white ribboned basket of favors.
+kiss ceu gently upon the lips, brushing her soft eyelashes upon the cheek in passing
+Too far!  You must close some distance before you can try that.
+>
+Laetus just removed a dragon-shaped ruby statue from within the white ribboned basket of favors.
+
+Lilioth hugs Ceumulo.
+
+Helios taps Kirrah.
+tact
+Standing in this rank is:
+Kavita, Lii, Raen, Luna, Chip, Darrow, Helios, Feletia, Kirrah, Nokin, Mieglyn, Kelstar, Viator, Glinka, Linus, Meadow, Megara, Sast, chubby black-masked raccoon
+Standing behind you at 1 UDs, is:
+Laetus
+Standing behind you at 4 UDs, is:
+Ceumulo, Lilioth
+Standing behind you at 5 UDs, is:
+Maiz
+>
+Luna squints.
+
+Lilioth beams at Ceumulo.
+ret ceu
+You retreat 4 UDs to the rear!
+[3 sec. delay]
+>
+Darrow says to Kirrah, "May you both be as happy as Mahtina and I are"
+kiss ceu gently upon the lips, brushing her soft eyelashes upon the cheek in passing
+
+Luna just placed a dragon-shaped emerald statue within a white ribboned basket of favors.
+
+Helios offers something to Kirrah.
+
+Kirrah accepts Helios's offer.
+You kiss Ceumulo gently upon the lips, brushing her soft eyelashes upon the cheek in passing.
+>
+Kirrah beams at Helios.
+
+Kirrah hugs Helios.
+
+Linus just removed a dragon-shaped emerald statue from within the white ribboned basket of favors.
+
+Luna just removed a dragon-shaped ruby statue from within the white ribboned basket of favors.
+
+Luna claps.
+
+Helios says to Kirrah, "congratulations"
+
+Luna holds the dragon-shaped ruby statue close.
+
+Viator throws an empty fluted glass of honeysuckle wine which flies a short distance before hitting the ground.  It shatters on impact!
+
+Ceumulo exclaims to Maiz, "Get some food!"
+
+Kirrah smiles.
+
+Helios hugs Kirrah.
+
+lean head Ceumulo her long soft hair flying about...
+hug Ceumulo long and tyte
+Ceumulo hugs you.
+You lean your head on Ceumulo's shoulder her long soft hair flying about...
+>You hug Ceumulo long and tyte.
+>
+Kirrah exclaims to Helios, "Thank you!"
+
+Maiz nods.
+
+Lilioth exclaims, "yay!"
+
+Raen smiles at Viator.
+
+Viator smiles.
+
+The tiniest secian you've ever seen flitters around the room exclaiming "Games, games, if you want to play in the games, head down to the Butterfly Inn. Fun for all! They start in 10 minutes!!!
+
+Laetus hugs Kirrah.
+You see Megara take a bite of her roasted boar in orange sauce.
+
+Chip exclaims to Kirrah, "Congratulations, you two!"
+
+Sast grins.
+You see Megara take a bite of her roasted boar in orange sauce.
+
+smi at Ceumulo delicately , blushing
+Ceumulo smiles at you.
+You see Luna retreat 4 UDs to the rear!
+You smile at Ceumulo delicately , blushing.
+>You see Megara take a bite of her roasted boar in orange sauce.
+' Love, Lyte, and Laughter...to you, and on you, and In you...
+
+snu with Luna
+Luna nuzzles you.
+
+Kavita exclaims to Kirrah, "well, you got him now!"
+
+Glinka says, " Love, Lyte, and Laughter...to you, and on you, and In you..."
+>You snuggle with Luna.
+>You see Megara take a bite of her half-eaten roasted boar in orange sauce.
+
+Kavita snickers.
+
+Darrow says to Ceumulo, "watch the frying pans now "
+
+Raen just removed a fluted glass of honeysuckle wine from within the elegant amethyst crystal drink tray.
+You see Megara take a bite of her half-eaten roasted boar in orange sauce.
+
+Kirrah grins at Kavita.
+
+Kirrah nods.
+You see Megara eat the last of her half-eaten roasted boar in orange sauce.
+
+Darrow snickers.
+You see Raen take a drink from his fluted glass of honeysuckle wine.
+You see Megara take a bite of her roasted boar in orange sauce.
+
+Kirrah snickers.
+
+Ceumulo grins.
+You see Raen take a drink from his fluted glass of honeysuckle wine.
+
+Raen coughs.
+
+Megara just removed some roasted boar in orange sauce from within the elegant ruby crystal serving tray.
+
+Maiz just removed some roasted boar in orange sauce from within the elegant ruby crystal serving tray.
+
+Megara just removed some roasted boar in orange sauce from within the elegant ruby crystal serving tray.
+
+Mieglyn snuggles with Linus.
+
+Megara just removed some roasted boar in orange sauce from within the elegant ruby crystal serving tray.
+
+Viator says to Kirrah, "short words..."
+You see Ceumulo take a drink from his fluted glass of honeysuckle wine.
+
+Viator nods yrs.
+You see Maiz take a bite of his roasted boar in orange sauce.
+
+Megara just removed some roasted boar in orange sauce from within the elegant ruby crystal serving tray.
+
+Kirrah holds the short iron frying pan close and glances at ceumulo.
+You see Laetus move up another 1 UDs!
+
+Sast laughs.
+You see Maiz take a bite of his roasted boar in orange sauce.
+
+Megara just removed a moon carved opal tray from within her open large leather backpack.
+
+Viator ponders a bit.
+
+Megara just placed some roasted boar in orange sauce within her moon carved opal tray.
+
+Meadow pokes Megara.
+
+Viator nods up and down.
+
+Feletia stands up.
+
+Helios pulls Raen closer to him.
+
+Kavita laughs.
+
+Megara just placed some roasted boar in orange sauce within her moon carved opal tray.
+
+Megara just placed some roasted boar in orange sauce within her moon carved opal tray.
+You see Luna move up another 4 UDs!
+
+Maiz just removed some roasted boar in orange sauce from within the elegant ruby crystal serving tray.
+
+Megara just placed some roasted boar in orange sauce within her moon carved opal tray.
+
+Megara raises an eyebrow at Meadow.
+
+Feletia pounces on Viator and bounces off with little effect.
+
+Ceumulo says, "Better grab lots of drinks to dull the pain"
+
+Megara just placed some roasted boar in orange sauce within her moon carved opal tray.
+who staff
+Staff who list activated!
+
+Current Adventurers
+
+ Twynkle Maylan                      Davahni Orvus                      
+
+You notice 2 adventurers.
+>
+Ceumulo grins.
+
+Lii just removed a large gleaming ruby from within his open large leather backpack.
+
+Feletia sits up.
+
+Linus ponders the meaning of the universe for a moment.
+
+Viator chuckles at Feletia.
+
+Luna glances at Lii slightly.
+
+Kirrah says to Kavita, "Viator always thinks of the most interesting wedding gifts"
+
+Raen says, "I hup yu too have a fintatic lif togezer"
+
+Kirrah taps the short iron frying pan.
+
+Meadow just removed an open festive ribboned canvas gypsy's satchel from within her open large butterfly embossed leather backpack.
+
+Kirrah snickers.
+
+Viator hiccups.
+
+Ceumulo chuckles.
+
+Maiz squints.
+
+Viator smiles.
+You see Kavita take a bite of her half-eaten cheese and spinach filled pastry.
+
+Raen nods.
+
+Luna blinks at Raen.
+You see Ceumulo move up another 4 UDs!
+
+Meadow just removed a glimmering emerald from within her open festive ribboned canvas gypsy's satchel.
+
+Helios hiccups.
+com ra
+You comfort Raen.
+>
+Luna says to Raen, "One too many drinks for you."
+You see Raen take a drink from his fluted glass of honeysuckle wine.
+
+Meadow offers something to Kirrah.
+
+Kirrah says to Raen, "Your.. very drunk"
+
+Kirrah beams at Meadow.
+
+Chip exclaims, "I should get back home. Farewell!"
+You see Raen take a drink from his fluted glass of honeysuckle wine.
+
+wave to Chip
+Chip waves.
+
+Kavita chuckles.
+
+Helios just dropped a fluted glass of honeysuckle wine.
+
+Kirrah accepts Meadow's offer.
+You wave to Chip.
+>
+Raen shakes his head from side to side.
+
+Ceumulo sighs happily.
+
+Chip takes a few steps and soars 10 feet into the air!
+
+Raen says, "Not vary...."
+
+Raen furrows his brow.
+
+Linus nods to Mieglyn.
+
+Kirrah waves to Chip.
+
+Meadow winks at Kirrah merrily.
+
+Lii offers something to Ceumulo.
+
+Ceumulo exclaims to Chip, "Thanks for coming!"
+
+Mieglyn giggles.
+
+Raen ponders as he calculates...
+
+Kirrah says to Raen, "Yes VERY"
+
+Chip smiles at Ceumulo and Kirrah.
+
+Raen ponders more.
+
+Chip just flew southeast.
+
+Raen ponders more.
+
+Kirrah says to Raen, "Not vary"
+
+Raen ponders more.
+You see Lilioth move up another 4 UDs!
+
+Raen ponders more.
+
+Feletia asks Raen, "Not vary?"
+
+Ceumulo accepts Lii's offer.
+
+Kirrah pokes Raen.
+
+Darrow stands up.
+
+Feletia cackles.
+
+Ceumulo says to Lii, "Thank you"
+
+ret 3
+You may retreat only 1 UDs in this area!
+You retreat 1 UDs to the rear!
+[3 sec. delay]
+tact
+>
+Raen says, "I cant remumbuh, but..."
+Standing in front of you at 5 UDs, is:
+Laetus, Kavita, Lii, Raen, Ceumulo, Luna, Darrow, Helios, Feletia, Kirrah, Lilioth, Nokin, Mieglyn, Viator, Linus, Meadow, Megara, Sast, chubby black-masked raccoon
+Standing in this rank is:
+Maiz, Glinka
+>
+Ceumulo says to Lii, "Anytime"
+
+You see Raen take a drink from his fluted glass of honeysuckle wine.
+
+Lii bows his head to Ceumulo.
+You see Raen take a drink from his fluted glass of honeysuckle wine.
+
+Luna fans her wings.
+
+Ceumulo exclaims to Kirrah, "Cake!"
+
+Glimmering violet lights begin to swirl about Darrow.
+
+Lii's group just went southeast.
+
+Ceumulo beams.
+
+You see Raen take a drink from his fluted glass of honeysuckle wine.
+
+A divine light suddenly shines down upon Darrow as his form disperses into a flock of white doves!
+You see Raen drink the last of his fluted glass of honeysuckle wine.
+' be back..
+
+Glinka says, " be back.."
+hol dragon about her, cloaking herself...
+>
+Kirrah grins at Nokin.
+Too far!  You must close some distance before you can try that.
+exh softly, chanting an ancient mystic spell...
+>You exhale softly, chanting an ancient mystic spell...
+blink out of existence....
+>
+Kirrah nods to you.
+You blink out of existence....
+>
+Kavita hugs Kirrah.
+quit
+16
+
+Raen furrows his brow at the empty fluted glass of honeysuckle wine.
+
+    Dragon's Gate Menu
+
+ 1. Explore Dragon's Gate.
+ 2. Create, Delete, or View a character.
+ 3. Select current character.
+ 4. Display notices and version notes.
+16. Disconnect.
+
+Your active character is: Glinka Dragondsfriend
+
+Your selection? 
+16
+
+ ** Goodbye from Mythic Entertainment! **

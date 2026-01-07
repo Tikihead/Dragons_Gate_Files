@@ -1,0 +1,3737 @@
+l
+[Highland Road.]
+
+Tall healthy-looking trees stand to the north and east. The path of the road to the north disappears into the forest. Following the road south leads to eastern housing and the east gate of Spur. Small rocks and stones litter the trail making it difficult to walk without tripping.
+
+This area is illuminated.
+Obvious paths: south northwest.
+' off to oasis
+>
+Glinka says, " off to oasis"
+nw
+>[Highland Road.]
+
+The air here is much clearer than the air closer to Spur. Blowing from the distant mountains, a cool breeze rushes headlong down the road, kicking up light dust from the trail and rustling the leaves on some low green bushes.
+
+This area is illuminated.
+Obvious paths: southeast* northwest.
+nw
+>[Highland Road.]
+
+Nature is in its full glory here along this trail. Birds sing as they fly from branch to branch on the trees that line the trail. A rabbit hops out across the trail and quickly darts into the bushes on the other side. Breathing the fresh air you feel greatly invigorated on your trek down this path. 
+
+This area is illuminated.
+Obvious paths: northeast southeast*.
+ne
+>[Highland Road.]
+
+Tall oak, elm, and white birch trees tower over the road, their leaves rustling in the light breeze. This part of the trail is less rocky than what lays to the south. Soft green mosses cover the ground in places like a green velvet blanket.
+
+This area is illuminated.
+Obvious paths: north southwest*.
+n
+>[Highland Road.]
+
+Many branches of the magnificent old trees that line this trail arch over it creating a glorious ceiling of leaves. Flying squirrels leap from branch to branch, putting on a death defying acrobatic act high above the ground below.
+
+This area is illuminated.
+Obvious paths: northeast south*.
+ne
+>[Highland Road.]
+
+An old cottage stands along the side of the road, decaying with years of disuse and exposure. The thatch roof has fallen in on the house, letting the rain and wind destroy the old structure. Green ivy grows unchecked up the wall on one side of the house, pulling the stones loose and aiding in the demise of the cottage.
+
+This area is illuminated.
+Obvious paths: northeast southwest*.
+ne
+>[Highland Road.]
+
+A small stream meets up with the road as it meanders through the woods. A small footbridge allows for one to cross the stream and continue on. Even though it is made of wood the little bridge still appears to be in excellent shape.  A small wooden footbridge is here.
+
+This area is illuminated.
+Obvious paths: southwest*.
+go foo
+>[Highland Road.]
+
+Winding its way through the woods a small stream meets up with the trail. Although not as large as a river it is still big enough to be difficult to cross. Thankfully, someone has built a footbridge out of an old log and left it here for other travelers.  A small wooden footbridge is here.
+
+This area is illuminated.
+Obvious paths: north.
+n
+>[Highland Road.]
+
+A thick green moss has covered the width of the trail, making the ground under your feet soft and easy to walk on. Colorful wildflowers grow along the sides of the road amidst the deep green bushes of the woodlands. The touch of Elindale's caring hand is evident.
+
+This area is illuminated.
+Obvious paths: south* northwest.
+s
+>[Highland Road.]
+
+Winding its way through the woods a small stream meets up with the trail. Although not as large as a river it is still big enough to be difficult to cross. Thankfully, someone has built a footbridge out of an old log and left it here for other travelers.  A small wooden footbridge is here.
+
+This area is illuminated.
+Obvious paths: north*.
+land
+>You fly down and land.
+smi softly
+>You smile softly.
+dance softly upon the Earth-Mother's skin...
+>You dance softly upon the Earth-Mother's skin...
+pok path
+>I don't see what you are referring to.
+sear room
+>You search the area thoroughly.
+
+You find nothing of interest.
+[15 sec. delay]
+sear room for path
+>You search the area thoroughly.
+
+You find nothing of interest.
+[5 sec. delay]
+sear room for trail
+>You search the area thoroughly.
+
+You find nothing of interest.
+[5 sec. delay]
+sear room for trail
+>You search the area thoroughly.
+
+You find nothing of interest.
+[5 sec. delay]
+sear room for trail
+>You search the area thoroughly.
+
+You find nothing of interest.
+[5 sec. delay]
+sear room for trail
+>
+Stanrar's group just entered through a small wooden footbridge.
+
+A rabid dog enters, following Stanrar's group.
+
+Stanrar's group just went north.
+
+The rabid dog bites at you!
+The attack misses.
+You search the area thoroughly.
+
+You find nothing of interest.
+[5 sec. delay]
+sear room for trail
+>
+The rabid dog bites at you!
+The attack misses.
+sear room for trail
+You search the area thoroughly.
+
+You find nothing of interest.
+[5 sec. delay]
+pok dog
+You poke the rabid dog.
+
+Your stomach growls.
+
+The rabid dog bites at you!
+The attack misses.
+You search the area thoroughly.
+
+You find nothing of interest.
+[5 sec. delay]
+sear room for trail
+sear room
+>You search the area thoroughly.
+
+You find nothing of interest.
+[5 sec. delay]
+
+The rabid dog bites at you!
+The attack misses.
+
+A townsman leaps from the shadows! ...
+
+The townsman swings a short iron dirk at you!
+The swing misses.
+
+A townsman leaps from the shadows! ...
+
+The 2nd townsman swings a short iron dirk at you!
+The swing misses.
+You search the area thoroughly.
+
+You find nothing of interest.
+[15 sec. delay]
+roll
+>You roll your eyes.
+>
+The rabid dog bites at you!
+The attack misses.
+
+The townsman swings a short iron dirk at you!
+The swing misses.
+
+The 2nd townsman swings a short iron dirk at you!
+The swing misses.
+invo hc at gli
+
+The rabid dog bites at you!
+The attack misses.
+
+The townsman swings a short iron dirk at you!
+The swing misses.
+
+The 2nd townsman swings a short iron dirk at you!
+The swing misses.
+
+Holy sigils begin to swirl about you, emitting thin trails of mist.
+Weaving those runes cost you 4 FPs.
+
+You feel more tired.
+[4 sec. delay]
+sear room
+>
+The trails of mist encircle you and coalesce into a cloud of fog!
+
+The rabid dog bites at you!
+The attack misses.
+You search the area thoroughly.
+
+You find nothing of interest.
+[15 sec. delay]
+>
+The townsman swings a short iron dirk at you!
+The swing misses.
+
+The 2nd townsman swings a short iron dirk at you!
+The swing misses.
+invo hc at gli
+
+ ** You are fully rested.
+
+You expend 1 fatigue keeping up the holy fog on yourself.
+
+The rabid dog bites at you!
+The attack misses.
+sear room for trail
+sear room
+
+You expend 1 fatigue keeping up the holy fog on yourself.
+
+ ** You are fully rested.
+
+The townsman swings a short iron dirk at you!
+The swing misses.
+
+The 2nd townsman swings a short iron dirk at you!
+The swing misses.
+
+You expend 1 fatigue keeping up the holy fog on yourself.
+
+The rabid dog bites at you!
+The attack misses.
+
+Holy sigils begin to swirl about you, emitting thin trails of mist.
+
+You feel a surge of magick infuse your runeweave!
+Weaving those runes cost you 4 FPs.
+
+You feel more tired.
+[4 sec. delay]
+There already seems to be a spell of that type in effect.
+
+The runespell loses integrity and dissipates!
+
+The townsman swings a short iron dirk at you!
+The swing misses.
+
+The 2nd townsman swings a short iron dirk at you!
+The swing misses.
+
+You expend 1 fatigue keeping up the holy fog on yourself.
+You search the area thoroughly.
+
+You find nothing of interest.
+[5 sec. delay]
+
+The rabid dog bites at you!
+The attack misses.
+sear room for trail
+
+You expend 1 fatigue keeping up the holy fog on yourself.
+
+The townsman swings a short iron dirk at you!
+The swing misses.
+
+The 2nd townsman swings a short iron dirk at you!
+The swing misses.
+You search the area thoroughly.
+
+You find nothing of interest.
+[15 sec. delay]
+
+You expend 1 fatigue keeping up the holy fog on yourself.
+
+The rabid dog bites at you!
+The attack misses.
+
+The townsman swings a short iron dirk at you!
+The swing misses.
+
+The 2nd townsman swings a short iron dirk at you!
+The swing misses.
+sear room for trail
+
+You expend 1 fatigue keeping up the holy fog on yourself.
+who range race
+List will be restricted to those within range.
+Race who list activated!
+
+                Current Secian Adventurers:
+
+Current Adventurers
+
+ Saphyne Silverlily                  Asha Metriahm                      
+ Glinka Dragondsfriend              
+
+You notice 3 adventurers.
+
+The rabid dog bites at you!
+The attack misses.
+sear room for trail
+
+You expend 1 fatigue keeping up the holy fog on yourself.
+
+The townsman swings a short iron dirk at you!
+The swing misses.
+
+The 2nd townsman swings a short iron dirk at you!
+The swing misses.
+You search the area thoroughly.
+
+You find nothing of interest.
+[5 sec. delay]
+sear room
+furr
+You furrow your brow.
+
+You expend 1 fatigue keeping up the holy fog on yourself.
+
+The cloud of fog about you slowly recedes.
+
+The rabid dog bites at you!
+The attack misses.
+You search the area thoroughly.
+
+You find nothing of interest.
+[5 sec. delay]
+
+The townsman swings a short iron dirk at you!
+The swing misses.
+
+The 2nd townsman glances around with a malicious look in his eyes.
+
+The 2nd townsman swings a short iron dirk at you!
+The swing fumbles!
+sear room
+
+ ** Current fatigue: 57 out of 60
+
+The rabid dog bites at you!
+The attack misses.
+You search the area thoroughly.
+
+You find nothing of interest.
+[5 sec. delay]
+
+ ** You are fully rested.
+
+The townsman swings a short iron dirk at you!
+The swing misses.
+
+The 2nd townsman swings a short iron dirk at you!
+The swing misses.
+You search the area thoroughly.
+
+You find nothing of interest.
+[15 sec. delay]
+
+The rabid dog bites at you!
+The attack misses.
+l
+[Highland Road.]
+
+Winding its way through the woods a small stream meets up with the trail. Although not as large as a river it is still big enough to be difficult to cross. Thankfully, someone has built a footbridge out of an old log and left it here for other travelers.  A small wooden footbridge is here.
+
+This area is illuminated.
+You see the 1st rabid dog, the 1st townsman, and the 2nd townsman.
+Obvious paths: north.
+
+The townsman swings a short iron dirk at you!
+The swing misses.
+
+The 2nd townsman swings a short iron dirk at you!
+The swing misses.
+
+The rabid dog bites at you!
+The attack misses.
+n
+
+Your flaming wooden torch flickers for a moment.
+
+The townsman swings a short iron dirk at you!
+The swing misses.
+
+The 2nd townsman swings a short iron dirk at you!
+The swing misses.
+You search the area thoroughly.
+
+You find nothing of interest.
+[15 sec. delay]
+
+The rabid dog bites at you!
+The attack misses.
+q c
+
+ ** Command Queue Cleared.
+>>
+The townsman swings a short iron dirk at you!
+The swing misses.
+
+The 2nd townsman swings a short iron dirk at you!
+The swing misses.
+n
+
+The rabid dog bites at you!
+The attack misses.
+
+The townsman is staring at you.
+
+The townsman swings a short iron dirk at you!
+The swing misses.
+
+The 2nd townsman swings a short iron dirk at you!
+The swing misses.
+
+A rabid dog enters, following Glinka.
+
+A townsman enters, following Glinka.
+
+A townsman enters, following Glinka.
+[Highland Road.]
+
+A thick green moss has covered the width of the trail, making the ground under your feet soft and easy to walk on. Colorful wildflowers grow along the sides of the road amidst the deep green bushes of the woodlands. The touch of Elindale's caring hand is evident.
+
+This area is illuminated.
+You see the 1st rabid dog, the 1st townsman, and the 2nd townsman.
+Obvious paths: south* northwest.
+s
+n
+>
+A townsman enters, following Glinka.
+
+A townsman enters, following Glinka.
+[Highland Road.]
+
+Winding its way through the woods a small stream meets up with the trail. Although not as large as a river it is still big enough to be difficult to cross. Thankfully, someone has built a footbridge out of an old log and left it here for other travelers.  A small wooden footbridge is here.
+
+This area is illuminated.
+You see the 1st townsman and the 2nd townsman.
+Obvious paths: north*.
+
+A townsman enters, following Glinka.
+
+A townsman enters, following Glinka.
+[Highland Road.]
+
+A thick green moss has covered the width of the trail, making the ground under your feet soft and easy to walk on. Colorful wildflowers grow along the sides of the road amidst the deep green bushes of the woodlands. The touch of Elindale's caring hand is evident.
+
+This area is illuminated.
+You see the 1st rabid dog, the 1st townsman, and the 2nd townsman.
+Obvious paths: south* northwest.
+s
+n
+>
+A townsman enters, following Glinka.
+[Highland Road.]
+
+Winding its way through the woods a small stream meets up with the trail. Although not as large as a river it is still big enough to be difficult to cross. Thankfully, someone has built a footbridge out of an old log and left it here for other travelers.  A small wooden footbridge is here.
+
+This area is illuminated.
+You see the 1st townsman.
+Obvious paths: north*.
+
+The townsman glances around with a malicious look in his eyes.
+
+The townsman swings a short iron dirk at you!
+The swing misses.
+
+A townsman enters, following Glinka.
+[Highland Road.]
+
+A thick green moss has covered the width of the trail, making the ground under your feet soft and easy to walk on. Colorful wildflowers grow along the sides of the road amidst the deep green bushes of the woodlands. The touch of Elindale's caring hand is evident.
+
+This area is illuminated.
+You see the 1st rabid dog, the 1st townsman, and the 2nd townsman.
+Obvious paths: south* northwest.
+nw
+se
+>
+A rabid dog enters, following Glinka.
+
+A townsman enters, following Glinka.
+[Highland Road.]
+
+Thick trunks stand along both sides of the narrow, road. Gnarled roots break up a portion of the roadway, revealing ancient stone buried beneath a thick layer of soil. The canopy of branches and leaves above teems with chirping birds and small scurrying animals.
+
+This area is illuminated.
+You see the 1st rabid dog and the 1st townsman.
+Obvious paths: southeast* northwest.
+
+A rabid dog enters, following Glinka.
+
+A townsman enters, following Glinka.
+[Highland Road.]
+
+A thick green moss has covered the width of the trail, making the ground under your feet soft and easy to walk on. Colorful wildflowers grow along the sides of the road amidst the deep green bushes of the woodlands. The touch of Elindale's caring hand is evident.
+
+This area is illuminated.
+You see the 1st townsman, the 1st rabid dog, and the 2nd townsman.
+Obvious paths: south northwest*.
+nw
+se
+>[Highland Road.]
+
+Thick trunks stand along both sides of the narrow, road. Gnarled roots break up a portion of the roadway, revealing ancient stone buried beneath a thick layer of soil. The canopy of branches and leaves above teems with chirping birds and small scurrying animals.
+
+This area is illuminated.
+Obvious paths: southeast* northwest.
+[Highland Road.]
+
+A thick green moss has covered the width of the trail, making the ground under your feet soft and easy to walk on. Colorful wildflowers grow along the sides of the road amidst the deep green bushes of the woodlands. The touch of Elindale's caring hand is evident.
+
+This area is illuminated.
+You see the 1st townsman, the 1st rabid dog, and the 2nd townsman.
+Obvious paths: south northwest*.
+s
+>
+A townsman enters, following Glinka.
+
+A rabid dog enters, following Glinka.
+[Highland Road.]
+
+Winding its way through the woods a small stream meets up with the trail. Although not as large as a river it is still big enough to be difficult to cross. Thankfully, someone has built a footbridge out of an old log and left it here for other travelers.  A small wooden footbridge is here.
+
+This area is illuminated.
+You see the 1st townsman and the 1st rabid dog.
+Obvious paths: north*.
+>
+The townsman swings a short iron dirk at you!
+The swing misses.
+
+The rabid dog bites at you!
+The attack misses.
+n
+
+A rabid dog enters, following Glinka.
+[Highland Road.]
+
+A thick green moss has covered the width of the trail, making the ground under your feet soft and easy to walk on. Colorful wildflowers grow along the sides of the road amidst the deep green bushes of the woodlands. The touch of Elindale's caring hand is evident.
+
+This area is illuminated.
+You see the 1st townsman and the 1st rabid dog.
+Obvious paths: south* northwest.
+roll
+>You roll your eyes.
+gl upwards...brushing her kinky white-blonde hair out of her pale eyes , scanning the heavens....
+>You glance upwards...brushing her kinky white-blonde hair out of her pale eyes , scanning the heavens....
+>
+The townsman swings a short iron dirk at you!
+The swing misses.
+
+The rabid dog bites at you!
+The attack misses.
+shiv her soft Hyacinth colored wyngs swiftly and...
+You shiver her soft Hyacinth colored wyngs swiftly and...
+fly up 5
+>[5 sec. delay]
+You take a few steps and soar 10 feet into the air!
+adv 5
+>You can only advance another 2 units!
+You advance another 2 UDs!
+fly down 10
+>Use the LAND command to do that.
+>
+ ** You are fully rested.
+fly down 10
+Use the LAND command to do that.
+
+fly up 10
+>>You climb 10 feet.
+
+You are now at 20 feet.
+l
+>[Highland Road.]
+
+A thick green moss has covered the width of the trail, making the ground under your feet soft and easy to walk on. Colorful wildflowers grow along the sides of the road amidst the deep green bushes of the woodlands. The touch of Elindale's caring hand is evident.
+
+This area is illuminated.
+You see the 1st townsman and the 1st rabid dog.
+Obvious paths: south northwest.
+>
+ ** Current fatigue: 56 out of 60
+
+The townsman wanders out via the old dirt trail.
+l
+[Highland Road.]
+
+A thick green moss has covered the width of the trail, making the ground under your feet soft and easy to walk on. Colorful wildflowers grow along the sides of the road amidst the deep green bushes of the woodlands. The touch of Elindale's caring hand is evident.  An old dirt trail is here.
+
+This area is illuminated.
+You see the 1st rabid dog.
+Obvious paths: south northwest.
+beam
+>You beam.
+go trail
+>You fly down 10 feet to leave the area.
+[Hidden Trail]
+
+Pushing a few bushes aside, you spot a hidden trail that leads off over a gently sloping hill not too far away. Although hidden, it appears this dirt trail is well used and in excellent condition. The bushes and flowers that line the path are not wild and look like they've been carefully tended.   A pathway leading out is here.
+
+This area is illuminated.
+You see the 1st townsman.
+Obvious paths: northeast.
+ne
+>
+A townsman enters, following Glinka.
+[Hidden Trail]
+
+As you reach the top of this first hill, you spot tall stone turrets reaching above the next hill. Blue and white banners hung from poles atop the towers flap in the strong wind, a strange symbol in gold emblazoned upon them. It must be the keep of a very important person. If only you knew whose symbol that is.
+
+This area is illuminated.
+You see the 1st townsman.
+Obvious paths: north southwest*.
+>
+The townsman wanders southwest.
+n
+n
+n
+[Hidden Trail]
+
+The small dirt trail turns to the north and closes in on the large keep that lies just beyond a hill. The keep appears to be made out of gray granite and has two tall round towers on each side of the front facing wall. A towering wall made of the same stone as the keep itself surrounds the impressive manor home. 
+
+This area is illuminated.
+Obvious paths: north south*.
+[Valeria's Keep, Outer Wall]
+
+Designed to keep out unwanted visitors, the walls of the keep tower above the path giving the manor home a decidedly unfriendly appearance.  The walls are made of hard gray granite blocks stacked on top of one another. Dark green moss has started to inch its way up from the ground to the top of the structure. 
+
+This area is illuminated.
+Obvious paths: north south*.
+[Valeria's Keep, Drawbridge]
+
+A massive heavy steelwood drawbridge spans the deep moat that circles the keep. The heavy chains that run from the keep's walls to the drawbridge look brand new and show little signs of use. Whoever lives here must not fear invaders as it looks like the drawbridge hasn't been lifted in a long time.  A giant steelwood drawbridge is here.
+
+This area is illuminated.
+Obvious paths: east south* west.
+>
+ ** You are fully rested.
+go dr
+[Valeria's Keep, Courtyard]
+
+Perfectly manicured, green grass stretches from the gates to the manor house. Stunning topiaries line the gravel path that leads from the drawbridge to the entrance of the stately home. Colorful birds flutter from the trees to the sky, startled from their rest by your passing.   A giant steelwood drawbridge, an intricate green topiary, and an intricate green topiary are here.
+
+This area is illuminated.
+Obvious paths: north.
+n
+n
+>[Valeria's Keep, Courtyard]
+
+Everything in this courtyard looks well tended and cared for. This keep must have a very talented and dedicated gardener tending it. Beautiful flowers line the insides of the castle walls, their colors a bright contrast to the stark gray of the heavy stone walls.  An intricate green topiary and an intricate green topiary are here.
+
+This area is illuminated.
+Obvious paths: north south*.
+n
+[Valeria's Keep, Courtyard]
+
+A swirling portal stands in the place of a normal heavy door for this keep. Waves of powerful magick flow from it, as if the keep itself were too full to contain all of the power within its walls.   A swirling golden portal, an intricate green topiary, and an intricate green topiary are here.
+
+This area is illuminated.
+Obvious paths: south*.
+You cannot move in that direction.
+go po
+>[Valeria's Keep, Great Hall]
+
+The great hall is dazzling in all its splendor. Giant colorful tapestries depicting legendary battles of old cover the walls. Heavy royal blue velvet drapes hang on the large glass windows that look out into the courtyard surrounding the keep. Polished white marble tiles cover the floor, and a narrow blue velvet carpet creates a path that leads to the grand staircase on the far side of the hall.   A swirling golden portal is here.
+
+This room is illuminated.
+Obvious exits: north* northeast* east* west* northwest*.
+n
+n
+n
+>[Valeria's Keep, Great Hall]
+
+High vaulted ceilings tower above the polished white marble floor. You can see the banisters of the second floor walkway from where you are standing. Blue drapes hang on the windows, and blue and white velvet covers the chairs that surround the room. The color blue is definitely a favorite of whoever owns this keep.
+
+This room is illuminated.
+Obvious exits: north* east* southeast* south* southwest* west*.
+[Valeria's Keep, Hallway]
+
+This hallway leads away from the great hall and towards the rest of the beautiful manor home. A blue velvet carpet runs down the center of the hall and leads all the way to the grand staircase at the very far end of the keep. Beautiful paintings of landscapes and mythical adventures hang on the walls. 
+
+This room is illuminated.
+Obvious exits: north* southeast* south* southwest*.
+n
+[Valeria's Keep, Hallway]
+
+A few small portraits hang on the walls along this hallway. Even though the hallway is not well lit, looking closer you can make out the features of two young human children, one boy and one girl. The blue velvet carpet continues on towards the grand staircase that lies just past two arches just ahead. 
+
+This room is illuminated.
+Obvious exits: north* south*.
+[Valeria's Keep, Hallway]
+
+Two marble arches stand on opposite sides of the hallway, while directly ahead lies the grand staircase. Beautiful music flows from the arch on the right, calling you to come inside. A pleasant smell drifts in through through the arch on the left also calling to your senses.   A gold-trimmed white marble arch and a gold-trimmed white marble arch are here.
+
+This room is illuminated.
+Obvious exits: north* south*.
+n
+>[Valeria's Keep, Grand Staircase]
+
+The hallway ends at the bottom steps of a grand staircase that leads up to the private rooms of the keep. If those rooms are as lavishly decorated as the rest of the house spending the night here might be a lot of fun.   A white marble stairway is here.
+
+This room is illuminated.
+Obvious exits: south*.
+go st
+>[Valeria's Keep, Balcony]
+
+The balcony looks over the first floor of the keep. It's a long drop down to the polished white marble floor below. Ornate, hand-carved mahogany banisters lead off to the left and right towards the private rooms of the keep, guiding weary inhabitants and guests to their rest.   A white marble stairway and a carved mahogany banister are here.
+
+This room is illuminated.
+Obvious exits: east* west*.
+e
+>[Valeria's Keep, Second Floor]
+
+A small mahogany table stands between two high-backed armchairs, a small glowing crystal ball resting on the top of the table. A small, bright blue light shines within it, flickering and then growing stronger, almost like a twinkling star in a midnight blue night sky.  A carved mahogany banister, an elegant blue velvet armchair, an elegant blue velvet armchair, a mahogany table, and a glowing crystal ball are here.
+
+This room is illuminated.
+Obvious exits: southeast* west*.
+se
+>[Valeria's Keep, Second Floor]
+
+Through the door is one of the finest guest rooms one could find anywhere. A faint scent of lavender floats through the air near the door, hinting at the delights found inside. The door itself is a work of art, carved by the loving hand of a great craftsman.   An open exquisitely carved mahogany door and a carved mahogany banister are here.
+
+This room is illuminated.
+You see the 1st servant and the 2nd servant.
+Obvious exits: south* northwest*.
+s
+>[Valeria's Keep, Second Floor]
+
+A delicate statuette of a unicorn  rests on a white marble pedestal, captured in mid gallop. Warmly glowing lanterns light the way around the second floor and cast flickering shadows on the walls, as you continue to follow along the hallway.  A carved mahogany banister is here.
+
+This room is illuminated.
+Obvious exits: north* southwest.
+sw
+>
+Your flaming wooden torch winks out.
+It's too dark to see anything!  Ready a torch.
+go door
+>[Valeria's Keep, Children's Bedroom]
+
+Pastel colored drawings of various creatures both real and imaginary cover the walls.  Friendly looking animals of every kind frolic around on a pastel blue background. Two small beds sit on either end of the room, one pink and one blue. Toys lay scattered about on the floor of the room and piled high on shelves.   An open gold-trimmed mahogany door, a colorful stained glass window, some colorful toys, a soft pink bed, a soft blue bed, and a swirling red portal are here.
+
+This room is illuminated.
+Obvious exits: None.
+gp po
+>Ignoring unknown command, "gp."
+go po
+>
+As you pass through, there is a twist, and a feeling of distance...
+
+[Ledge.]
+
+You're on a very small ledge from which tiny rocks crumble and fall thousands of feet into the gorge below you. As you gaze around you are struck by visions of snow-capped mountain peaks and low hanging clouds which encircle you. Winding around this peak is a narrow ledge, the only viable path other than a suicidal plunge.   A swirling red portal is here.
+
+This area is illuminated.
+Obvious paths: southeast.
+se
+>[Ledge.]
+
+Clinging to the cliff face seems like the safest bet as you travel this very narrow ledge.  You're beginning to wonder if this trip is really worth it, for one wrong step would mean a certain, painful death.  
+
+This area is illuminated.
+Obvious paths: southeast northwest*.
+se
+e
+e
+>[Ledge.]
+
+You wonder if avalanches are common around here as you notice the icy snow that hangs ominously from the mountaintop overhead.  One chunk looks particularly threatening, as it rocks back and forth with the occasional gust of wind.  It might be best to hurry along.
+
+This area is illuminated.
+Obvious paths: east northwest*.
+[Ledge.]
+
+It's hard to believe that this could even be considered a trail, it's so narrow.  The constant wear from the snow and wind has made it glisten with the slick sheen of moisture, adding to its treachery.  As you look around for some other path, you realize it's either this, or turn back.
+
+This area is illuminated.
+Obvious paths: east west*.
+ne
+ne
+[Ledge.]
+
+The path finally widens as it begins to wrap its way around the mountain.  You are met with quite a view:  the starkness of the grey rock of the mountain, coupled with the gleaming, white snowcaps, is beautiful in its simplicity.
+
+This area is illuminated.
+Obvious paths: northeast west*.
+[Ledge.]
+
+Though there is brief relief from its narrowness to the southwest, the ledge is small here, and certainly tricky to navigate.  A large cliff face dominates your view to the northeast, making you wonder where this trail could possibly lead.
+
+This area is illuminated.
+Obvious paths: northeast* southwest*.
+[The entrance.]
+
+You are standing on a small ledge on the face of a cliff. The view of the surrounding mountain range is magnificent, if not intimidating. An entrance has been carved into the cliff face.
+
+This area is illuminated.
+Obvious paths: southwest*.
+go en
+>[The staircase.]
+
+Before you lies a staircase which leads deep into the mountain.  Although the area is illuminated, you cannot see how far down the staircase actually descends.  The exit to outside is just behind you.  A stone stairs is here.
+
+This area is illuminated.
+Obvious paths: None.
+go st
+>[The stairs.]
+
+You continue your descent into the mountain. The air begins to grow chill as the distance between you and the outside world increases. You still can not see the bottom of the stairs.  A stone stairs and a stone stairs are here.
+
+This area is illuminated.
+Obvious paths: None.
+go st
+>[The staircase.]
+
+Before you lies a staircase which leads deep into the mountain.  Although the area is illuminated, you cannot see how far down the staircase actually descends.  The exit to outside is just behind you.  A stone stairs is here.
+
+This area is illuminated.
+Obvious paths: None.
+pok ex
+>Too far!  You must close some distance before you can try that.
+poi at ex
+>You point at the exit.
+go st
+>[The stairs.]
+
+You continue your descent into the mountain. The air begins to grow chill as the distance between you and the outside world increases. You still can not see the bottom of the stairs.  A stone stairs and a stone stairs are here.
+
+This area is illuminated.
+Obvious paths: None.
+go 2 st
+>[Eternal Maze.]
+
+The stairs come to an end in the center of an intersection of tunnels. You stand at the beginning of the Eternal Maze. Your goal is simple: find the end of the maze within your lifetime.
+
+This area is illuminated.
+Obvious paths: north* east* south* west*.
+cir
+>
+You circle around and do some aerial acrobatics.
+l at gli
+>You find something suitably reflective and gaze into it...
+You are currently flying at an elevation of 10 feet.
+
+
+You look like a 1'2" standard adolescent delicate boned, wirey-tough bodied Secian Cleric.
+You have very long, wild, kinky light blonde hair, with heavy lidded pale red eyes, and look disheveled.
+You appear to be mischievous right now.
+You can be attacked by other players.
+
+On her left breast is a small crescent shaped birthmark.
+
+You appear to be in perfect health.
+There is a shining gold emblem affixed to your clothing.
+
+Physical appearance:
+
+You see an ageless, tymless, spryte with long wild kinky blonde hair and sleepy eyes...
+
+                        Visible Equipment
+A wooden torch                                     (left hand)
+A polished steelwood mail                          (armor)
+A moon shaped ivory talisman                       (around neck)
+A pearl imbedded moonsilver bracelet               (over hands)
+A hunter-green silk cloak                          (over armor)
+A ruby ring                                        (ring (left))
+A silver serpentine hoop                           (left ear)
+Some green and black silk leggings                 (pants)
+A hunter-green cotton shirt                        (shirt)
+A pale green hemp belt                             (on belt)
+An open small hunter-green leather remedy pouch    (on belt)
+
+You have been bestowed the following title(s):
+  Noble of the Realm
+
+fly up 10
+>You climb 10 feet.
+
+You are now at 20 feet.
+l
+>[Eternal Maze.]
+
+The stairs come to an end in the center of an intersection of tunnels. You stand at the beginning of the Eternal Maze. Your goal is simple: find the end of the maze within your lifetime.
+
+This area is illuminated.
+Obvious paths: north* east* south* west*.
+>
+ ** You are fully rested.
+w
+[Eternal Maze.]
+
+You are wandering in the Eternal Maze. The tunnels are finely crafted and polished. The resulting echoes make it sound as though hundreds of other beings are in the Maze with you.
+
+This area is illuminated.
+Obvious paths: east* south* northwest*.
+nw
+>[Eternal Maze.]
+
+You are wandering in the Eternal Maze. The tunnels are finely crafted and polished. The resulting echoes make it sound as though hundreds of other beings are in the Maze with you.
+
+This area is illuminated.
+Obvious paths: northeast* southeast*.
+ne
+n
+>[Eternal Maze.]
+
+You are wandering in the Eternal Maze. The tunnels are finely crafted and polished. The resulting echoes make it sound as though hundreds of other beings are in the Maze with you.
+
+This area is illuminated.
+Obvious paths: north* southwest*.
+[Eternal Maze.]
+
+The decaying body of a fellow adventurer lies in the center of the intersection. There are no visible wounds on the body bringing you to the conclusion that his supplies ran out before he found his way out.
+
+This area is illuminated.
+Obvious paths: north* east* south* west*.
+nw
+>You cannot move in that direction.
+w
+>[Eternal Maze.]
+
+You are wandering in the Eternal Maze. The tunnels are finely crafted and polished. The resulting echoes make it sound as though hundreds of other beings are in the Maze with you.
+
+This area is illuminated.
+Obvious paths: east* southwest* northwest*.
+nw
+>[Eternal Maze.]
+
+You are wandering in the Eternal Maze. The tunnels are finely crafted and polished. The resulting echoes make it sound as though hundreds of other beings are in the Maze with you.
+
+This area is illuminated.
+Obvious paths: north* southeast* west*.
+w
+>[Eternal Maze.]
+
+You are wandering in the Eternal Maze. The tunnels are finely crafted and polished. The resulting echoes make it sound as though hundreds of other beings are in the Maze with you.
+
+This area is illuminated.
+Obvious paths: north* east* south*.
+n
+>[Eternal Maze.]
+
+You are wandering in the Eternal Maze. The tunnels are finely crafted and polished. The resulting echoes make it sound as though hundreds of other beings are in the Maze with you.
+
+This area is illuminated.
+Obvious paths: north*.
+n
+>[Eternal Maze.]
+
+You are wandering in the Eternal Maze. The tunnels are finely crafted and polished. The resulting echoes make it sound as though hundreds of other beings are in the Maze with you.
+
+This area is illuminated.
+You see the 1st syraat warrior.
+Obvious paths: east* south* southwest* northwest*.
+e
+>
+A syraat warrior enters, following Glinka.
+[Eternal Maze.]
+
+You have reached the end of the Eternal Maze. A large black door covered with ancient runes stands before you.
+
+This area is illuminated.
+You see the 1st syraat warrior.
+Obvious paths: west*.
+go door
+>[Black hall.]
+
+The black walls of this hall are painted with pictures depicting a battle. The right wall shows a large army marching against six beings of power and a sword wielding dragon. The left wall shows the same seven facing off against numerous elementals.  An open black door is here.
+
+This area is illuminated.
+Obvious paths: north* east*.
+e
+>[Black hall.]
+
+The murals in this part of the hall cover the ceiling as well, giving the impression of standing in the midst of a mighty battle. Above you, the sword-wielding dragon battles a demonic figure cloaked in flames as they fly above the battle that rages around you. Six beings in fantastic suits of armor stand against a dark tide of nightmarish creatures, their armor and weapons glowing with arcane power.
+
+This room is illuminated.
+Obvious exits: south* west*.
+s
+>[Black hall.]
+
+Seven ancient banners hang from the ceiling, each bearing an arcane sigil. The murals on the walls show the seven beings of power standing on the ramparts of a castle in the clouds, looking out over the lands of the Great Divide. Far off in the distance, a black shadow can be seen falling over the land.
+
+This room is illuminated.
+Obvious exits: north* southeast*.
+se
+>[Black hall.]
+
+The murals on the walls show the Seven seated in ornate thrones, gazing down upon a being enveloped in inky shadows cowering before them. A shiver runs down your spine as the eyes of the Seven all seem to turn your way. It seems as if all your dreams and secrets are pulled from the depths of your soul for judgement. 
+
+This room is illuminated.
+Obvious exits: east* northwest*.
+e
+s
+>[Black hall.]
+
+Veins of some unknown silvery metal slither through the black rock of the stronghold in this room. The walls are adorned with supremely crafted weapons, as deadly as they are artistic. Two weapon racks are bolted to the wall, empty except for a light covering of dust.
+
+This room is illuminated.
+Obvious exits: east* south* west*.
+[Black hall.]
+
+Barrels of potable water and sacks of flour are stacked against the walls, along with several kegs of ale to provision the stronghold in times of war. You can see marks on the floor where some of the provisions have been removed, most notably the ale. 
+
+This room is illuminated.
+Obvious exits: north* southeast*.
+se
+sw
+>[Black hall.]
+
+This room contains no furniture or trappings on the walls. The floor is inlaid with marble to make a map of the hall and the surrounding area to aid the defenders in planning battles and the defense of the stronghold. 
+
+This room is illuminated.
+Obvious exits: southwest* northwest*.
+w
+[Black hall.]
+
+A large firepit sits in the center of this room, surrounded by dining tables. A roasting spit lies next to the pit, and a ponderous iron cauldron sits by one wall. Ale mugs sit by each chair, and the tables have holes cut in them for the placement of ale kegs. 
+
+This room is illuminated.
+Obvious exits: northeast* west*.
+w
+[Black hall.]
+
+A padded mat lies rolled into a bundle against one wall, resting under the carved symbols of all the gods. The opposite wall is adorned with practice weapons and shields of every type imaginable. Some look quite serviceable as deadly weapons. 
+
+This room is illuminated.
+Obvious exits: east* west*.
+[Black hall.]
+
+The murals on the walls make this room appear to be sitting on the side of a mountain overlooking a verdant glen. Majestic eagles soar high overhead, the view so real you swear you can hear their cries. Huge moss-covered stones are placed about the room to enhance the feel. From one of them a small burbling trickle of water fills a hollow basin carved into the floor.  A bright onyx archway is here.
+
+This room is illuminated.
+Obvious exits: east*.
+w
+>You cannot move in that direction.
+go ar
+>[Barren Wastelands]
+
+The dry underbrush crackles under your feet as you plod through this bleak and barren landscape. You wonder where the plants ever got enough moisture to grow in the first place.  A bright onyx archway is here.
+
+This area is illuminated.
+Obvious paths: north east west.
+w
+>[Barren Wastelands]
+
+Patches of dry brush are scattered across the hardened, cracked ground. Small insects buzz incessantly around you, attracted by your sweat.
+
+This area is illuminated.
+Obvious paths: north northeast* east* southeast* south* southwest* west* northwest.
+nw
+>[Barren Wastelands]
+
+Patches of dry brush are scattered across the hardened, cracked  ground. Small insects buzz incessantly around you, attracted by your sweat.
+
+This area is illuminated.
+Obvious paths: north northeast east* southeast* south* southwest* west* northwest.
+nw
+>[Barren Wastelands]
+
+You find yourself walking along a dried out riverbed. The rare rains in the foothills can be a very mixed blessing, since they commonly lead to flash floods that can sweep away anything in their path.
+
+This area is illuminated.
+Obvious paths: north* northeast east* southeast* south* southwest* west* northwest.
+nw
+>[Barren Wastelands]
+
+You find yourself walking along a dried out riverbed. The rare rains in the foothills can be a very mixed blessing, since they commonly lead to flash floods that can sweep away anything in their path.
+
+This area is illuminated.
+Obvious paths: north* northeast* east* southeast* south* southwest* west* northwest.
+nw
+>[Barren Wastelands]
+
+You find yourself walking along a dried out riverbed. The rare rains in the foothills can be a very mixed blessing, since they commonly lead to flash floods that can sweep away anything in their path.
+
+This area is illuminated.
+Obvious paths: north* northeast east* southeast* south* southwest* west* northwest.
+nw
+>[Barren Wastelands]
+
+A string of tamarisks grows along the bottom of this dried out gully, beyond the boulder bar deposited by the last flash flood. It's remarkable how many of the desert's features have been formed by water erosion, when there is so little water evident.
+
+This area is illuminated.
+Obvious paths: north* northeast east* southeast* south* southwest* west* northwest*.
+ne
+>[Barren Wastelands]
+
+A string of tamarisks grows along the bottom of this dried out gully, beyond the boulder bar deposited by the last flash flood. It's remarkable how many of the desert's features have been formed by water erosion, when there is so little water evident.
+
+This area is illuminated.
+Obvious paths: north* northeast* east southeast* south* southwest* west* northwest.
+nw
+>[Barren Wastelands]
+
+The ground here has hardened by the elements to form a near rocklike mineral crust. The pitted surface jars your feet with each step. 
+
+This area is illuminated.
+Obvious paths: north* northeast east* southeast* south* southwest* west* northwest*.
+ne
+>[Barren Wastelands]
+
+The small rock formation ahead of you has been beautifully sculpted by the windblown sands. The smooth, streamlined rocks look like they could topple over at any moment, but they have withstood countless years of pounding from the punishing environment and aren't about to give up their fight yet.
+
+This area is illuminated.
+Obvious paths: north northeast east southeast* south* southwest* west* northwest*.
+n
+>[Barren Wastelands]
+
+You trudge across the endless sea of sand dunes. From the crest of one large dune, you catch a glimpse of a dense green clump of palm trees in the distance, but the oasis is nowhere to be seen when you reach the top of the next dune.
+
+This area is illuminated.
+Obvious paths: north* northeast east* southeast* south* southwest* west* northwest*.
+ne
+>[Barren Wastelands]
+
+As you stop to catch your breath, you hear light hissing and clicking from beyond the ridge ahead of you. The scorpions of the desert can be formidable foes, and you hope the ones you hear stay on their side of the ridge.
+
+This area is illuminated.
+Obvious paths: north* northeast* east* southeast south* southwest* west* northwest.
+nw
+>[Barren Wastelands]
+
+Up ahead, you catch a fleeting glimpse of water and palm trees. You eagerly step forward towards the distant oasis, only to see it vanish before your eyes. Disheartened by the mirage, you reach for your water bottle... you did bring enough water with you, did you?
+
+This area is illuminated.
+Obvious paths: north* northeast east* southeast* south* southwest* west* northwest.
+ne
+>[Barren Wastelands]
+
+Several large scavenger birds circle in the distance, then dive groundwards. Some wayward creature must have succumbed to the ravages of the scorching sun.
+
+This area is illuminated.
+Obvious paths: north* northeast east* southeast* south* southwest* west* northwest.
+ne
+>[Barren Wastelands]
+
+Up ahead, you catch a fleeting glimpse of water and palm trees. You eagerly step forward towards the distant oasis, only to see it vanish before your eyes. Disheartened by the mirage, you reach for your water bottle... you did bring enough water with you, did you?
+
+This area is illuminated.
+Obvious paths: north* northeast east* southeast* south southwest* west* northwest.
+ne
+>[Nomad Village]
+
+The deep black tents of the desert nomads, covered with the dust of the shifting sands, have been crowded in around a lush green oasis. Hastily put up, they lend a decidedly temporary feeling to the area. A small group of Human children rush around from tent to tent playing a game you are unfamiliar with.
+
+This area is illuminated.
+Obvious paths: north southeast*.
+n
+>[Nomad Village]
+
+A closer look at the tents perched near the edge of the oasis reveals patches and spots faded from the bright heat of the desert sun.  Darkly tanned Humans, Hithuals, and a few other races sit in front of the tents sheltered from the unforgiving desert. A light breeze cooled by the waters of the oasis moves through the temporary village. 
+
+This area is illuminated.
+Obvious paths: north east south*.
+n
+>[Nomad Village]
+
+The strong aroma of spicy food assails your senses as you continue to wander past the tents to the heart of the oasis.  Small cooking fires with heavy iron pots hoisted above them burn precariously close to the tents, carefully tended by the older female members of the group. 
+
+This area is illuminated.
+Obvious paths: north east south*.
+n
+>[Nomad Village]
+
+As you head closer to the oasis you begin to hear the bustling sounds of a marketplace. The voices of the merchants and buyers haggling over prices combine with the delightful smells of the inhabitants' food.  The weariness of your desert journey begins to ease as you start to think about the bargains you might find.
+
+This area is illuminated.
+Obvious paths: north south*.
+n
+>[Oasis Bazaar]
+
+Stalls filled to the brim with every kind of merchandise a buyer might be looking for stretch in front of you all the way to the water's edge. Merchants yell offers to the few possible customers milling about the marketplace. You begin to wonder how these merchants can afford to keep in business out here in the middle of the wastelands when so few adventurers would be strong enough to survive the trip.
+
+This area is illuminated.
+Obvious paths: north east south*.
+n
+>[Maltek's Forge]
+
+Iron scimitars, slingshots, and leather whips catch your eye as they hang from the beams supporting the stall ahead. The impressively large Hithual, Maltek, is showing off the sharpness of his scimitars to his latest customer and in the process accidentally cuts the tip of his beard off.
+
+This area is illuminated.
+Obvious paths: north east south*.
+land
+>You fly down and land.
+smi softly
+>You smile softly.
+dance softly upon the Earth-Mother's skin...
+>You dance softly upon the Earth-Mother's skin...
+shop list all
+>
+Id# Item Type  Item Name                                     New Amount Value
+--- ---------- --------------------------------------------- --- ------ -----
+  1 Wpn/Sharp  short emerald-hilted steel dagger             Yes x200   10gp
+  2 Wpn/Sharp  two-handed gleaming ruby-hilted steel scimitar Yes x200   100gp
+  3 Wpn/Blunt  short intricately carved oak cane             Yes x200   1gp
+  4 Wpn/Thrust two-handed steel tipped wooden spear          Yes x200   100gp
+  5 Wpn/Sharp  ivory-hilted brushed steel scimitar           Yes x200   42gp
+  6 Bows       leather slingshot                             Yes x180   20gp
+  7 Arrows     granite pebbles                               Yes x100   20sp
+
+e
+>[Morphano's Junk]
+
+Another stall is set up here, piled high with an amazing collection of provisions. Food, drink, chests, torches, backpacks, you name it; it can probably be bought or sold in this stall. A red faced Morphano, the Human owner of this stall, smiles at you and waits patiently.
+
+This area is illuminated.
+Obvious paths: north south west*.
+shop list all
+>
+Id# Item Type  Item Name                                     New Amount Value
+--- ---------- --------------------------------------------- --- ------ -----
+  1 Food       tasty coconut                                 Yes x25    5sp
+  2 Food       fresh bread                                   Yes x25    2sp
+  3 Food       sun-dried tomato                              Yes x25    5sp
+  4 Food       roasted scorpion                              Yes x25    50sp
+  5 Torches    wooden torch                                  Yes x29    1sp
+  6 Drink      cold iced tea                                 Yes x25    15sp
+  7 Food       leuia rose petal                              Yes x5     1000gp
+
+shop buy 1
+>You step forward and speak with the proprietor...
+
+The merchant accepts your 5sp and hands you the tasty coconut.
+shop buy 1
+>You step forward and speak with the proprietor...
+
+The merchant accepts your 5sp and hands you the tasty coconut.
+shop buy 1
+>You step forward and speak with the proprietor...
+
+The merchant accepts your 5sp and hands you the tasty coconut.
+shop buy 1
+>You step forward and speak with the proprietor...
+
+The merchant accepts your 5sp and hands you the tasty coconut.
+shop buy 1
+>You step forward and speak with the proprietor...
+
+The merchant accepts your 5sp and hands you the tasty coconut.
+put co in bac
+>You place the tasty coconut within your open large forest green leather backpack.
+put co in bac
+put co in bac
+>You place the tasty coconut within your open large forest green leather backpack.
+put co in bac
+put co in bac
+You place the tasty coconut within your open large forest green leather backpack.
+You place the tasty coconut within your open large forest green leather backpack.
+You place the tasty coconut within your open large forest green leather backpack.
+shop buy 4
+>You step forward and speak with the proprietor...
+
+The merchant accepts your 50sp and hands you the roasted scorpion.
+put sco in bac
+>You place the roasted scorpion within your open large forest green leather backpack.
+n
+n
+>[Oasis Bazaar]
+
+Drintella, a pale, wispy Human, whistles a soft lullaby as she moves from counter to counter busily keeping an eye on her stock in this stall. She glances at you and shakes her head, "No, no, nothing in stock for you today."
+
+This area is illuminated.
+Obvious paths: north south* west.
+[Oasis]
+
+A gentle breeze blows across the oasis sands and brushes against your face. The sun's rays seem to have lost their power here among the palm trees. Relaxed by the cool sand beneath your feet and the sense of peace this oasis brings, you are tempted to stay here forever.
+
+This area is illuminated.
+Obvious paths: east south* southwest.
+e
+>[Oasis]
+
+The sun's rays filter through the tall palm trees and make intricate patterns on the sands around you. The soft lapping of the water on the shore reminds you of your thirst and the long journey home. You decide this would be a good spot to drench your thirst and refill your canteen.
+
+This area is illuminated.
+Obvious paths: northeast west*.
+shop list all
+>There is no shop here!
+dri wat
+>I don't see what you are referring to.
+dri oa
+>You take a drink from the oasis.
+
+Hmmm... not bad.
+ne
+>[Oasis]
+
+Just ahead more stalls are gathered around what looks to be a sandstone building. Once again the stalls are packed with goods, and there are very few customers. Still, the few customers there are all seem to be moving this way.
+
+This area is illuminated.
+Obvious paths: southwest* northwest.
+nw
+n
+>[Oasis Bazaar]
+
+The stalls are tightly packed together and the merchants battle for your attention. Each one calling out to you and offering the best bargain for what he is selling. The yelling changes from one of merchant to customer to that of merchant to merchant, and a fist fight between a rather large Human and a small but quick Flerian breaks out. 
+
+This area is illuminated.
+Obvious paths: north southeast*.
+e
+[Oasis Bazaar]
+
+The stalls are wooden and hastily put up. Some lean to the side under the weight of the merchandise in them. They look like they can be brought down fast in case there were a need to move in a hurry. 
+
+This area is illuminated.
+Obvious paths: east southeast south*.
+>[Dialla's clothing]
+
+The incredible range of colors in this stall overwhelms you. Clothing made of damask, silk, cotton, and satin float gently on the breeze winding through the bazaar. Beads, embroidery, and jewels are sprinkled on some of the finer pieces. The owner of this stall, a beautiful Human, seems to float over to you with incredible grace. She smiles at you, and watches as you take in all of the clothing.  
+
+This area is illuminated.
+Obvious paths: north south west*.
+shop list all
+>
+Id# Item Type  Item Name                                     New Amount Value
+--- ---------- --------------------------------------------- --- ------ -----
+  1 Helms      colorful fringed silk scarf                   Yes x46    1gp+50sp
+  2 Helms      white linen turban                            Yes x40    1gp+75sp
+  3 Shirts     light brown camel hair tunic                  Yes x46    1gp+50sp
+  4 Shirts     sapphire blue silk halter top                 Yes x34    5gp
+  5 Shirts     enchanting crimson satin halter top           Yes x33    5gp
+  6 Shirts     emerald green satin halter top                Yes x39    5gp
+  7 Shirts     loose white linen tunic                       Yes x29    1gp+50sp
+  8 Pants      long violet silk skirt                        Yes x40    2gp+50sp
+  9 Pants      flowing white linen skirt                     Yes x42    2gp
+ 10 Pants      loose pale blue cotton pants                  Yes x40    1gp+50sp
+ 11 Pants      baggy white linen pants                       Yes x26    1gp+50sp
+ 12 Pants      pale green silk harem pants                   Yes x42    5gp
+ 13 Pants      delicate crimson silk harem pants             Yes x40    5gp
+ 14 Pants      shimmering blue silk harem pants              Yes x35    5gp
+ 15 Cloaks     sandy tan cotton cloak                        Yes x44    1gp+50sp
+ 16 Cloaks     flowing white silk hooded cloak               Yes x31    5gp
+ 17 Helms      diaphanous pale blue silk veil                Yes x40    2gp
+ 18 Helms      gold-trimmed crimson silk veil                Yes x44    2gp
+ 19 Helms      demure pale green silk veil                   Yes x41    2gp
+ 20 Boots      ornate silver toe rings                       Yes x25    3gp+50sp
+ 21 Beltpouche delicately linked gold belly chain            Yes x25    4gp
+ 22 Helms      silver-trimmed black spidersilk veil          Yes x39    2gp
+ 23 Cloaks     black damascene spidersilk robes              Yes x33    15gp
+
+>
+Your wooden torch flickers for a moment.
+shop buy 20
+You step forward and speak with the proprietor...
+
+The merchant accepts your 3gp+50sp and hands you the ornate silver toe rings.
+The merchant luckily has one in your size.
+shop buy 20
+>You step forward and speak with the proprietor...
+
+The merchant accepts your 3gp+50sp and hands you the ornate silver toe rings.
+The merchant luckily has one in your size.
+shop buy 21
+>You step forward and speak with the proprietor...
+
+The merchant accepts your 4gp and hands you the delicately linked gold belly chain.
+The merchant luckily has one in your size.
+shop buy 21
+>You step forward and speak with the proprietor...
+
+The merchant accepts your 4gp and hands you the delicately linked gold belly chain.
+The merchant luckily has one in your size.
+inv
+>Items carried:
+  An intricately carved oak walking stick [0.1 lbs].
+  An open large forest green leather backpack [0.7 lbs].
+  A crescent moon earring [0.0 lbs].
+  A glimmering green orb of Elindale [0.1 lbs].
+  A bottle of Saldean rum [0.1 lbs].
+  A small mossy opal [0.1 lbs].
+  Some green and black silk leggings [0.0 lbs].
+  A wooden torch [0.2 lbs].
+  A hunter-green cotton shirt [0.1 lbs].
+  A polished steelwood mail [1.6 lb].
+  A pearl imbedded moonsilver bracelet [0.1 lbs].
+  An open hunter-green leather healer's bag [1.0 lb].
+  A pale green hemp belt [0.0 lbs].
+  A hunter-green silk cloak [2.5 lbs].
+  A pair of ornate silver toe rings [0.0 lbs].
+  An Elindalian wildflower [0.1 lbs].
+  A pair of ornate silver toe rings [0.0 lbs].
+  A delicately linked gold belly chain [0.0 lbs].
+  A delicately linked gold belly chain [0.0 lbs].
+  A ruby ring [0.0 lbs].
+  An open forest green leather healer's bag [1.9 lb].
+  A silver serpentine hoop [0.0 lbs].
+  An open small hunter-green leather remedy pouch [2.6 lbs].
+  A moon shaped ivory talisman [0.1 lbs].
+
+You have 25 silver pieces and 3 gold pieces.
+
+This gives you a total net worth of 325 silver.
+
+Your inventory totals 11.5 lbs.
+wear toe
+>You slip on the ornate silver toe rings.
+wear bel
+>You can't wear the same item on your belt twice!
+rem bel
+>You unfasten your pale green hemp belt.
+wear bel
+>You tie the pale green hemp belt to your belt.
+wear 2 bel
+>You tie the delicately linked gold belly chain to your belt.
+l at gli
+>You find something suitably reflective and gaze into it...
+
+You look like a 1'2" standard adolescent delicate boned, wirey-tough bodied Secian Cleric.
+You have very long, wild, kinky light blonde hair, with heavy lidded pale red eyes, and look disheveled.
+You appear to be mischievous right now.
+You can be attacked by other players.
+
+On her left breast is a small crescent shaped birthmark.
+
+You appear to be in perfect health.
+There is a shining gold emblem affixed to your clothing.
+
+Physical appearance:
+
+You see an ageless, tymless, spryte with long wild kinky blonde hair and sleepy eyes...
+
+                        Visible Equipment
+A wooden torch                                     (left hand)
+A polished steelwood mail                          (armor)
+A moon shaped ivory talisman                       (around neck)
+A pearl imbedded moonsilver bracelet               (over hands)
+A pair of ornate silver toe rings                  (on feet)
+A hunter-green silk cloak                          (over armor)
+A ruby ring                                        (ring (left))
+A silver serpentine hoop                           (left ear)
+Some green and black silk leggings                 (pants)
+A hunter-green cotton shirt                        (shirt)
+A pale green hemp belt                             (on belt)
+An open small hunter-green leather remedy pouch    (on belt)
+A delicately linked gold belly chain               (on belt)
+
+You have been bestowed the following title(s):
+  Noble of the Realm
+
+put toe in clo
+>You place the ornate silver toe rings within your hunter-green silk cloak.
+l at bel
+>It looks like a pale green hemp belt.
+l at 3 bel
+>It looks like a delicately linked gold belly chain.
+put 3 bel in clo
+>You place the delicately linked gold belly chain within your hunter-green silk cloak.
+l at gli
+>You find something suitably reflective and gaze into it...
+
+You look like a 1'2" standard adolescent delicate boned, wirey-tough bodied Secian Cleric.
+You have very long, wild, kinky light blonde hair, with heavy lidded pale red eyes, and look disheveled.
+You appear to be mischievous right now.
+You can be attacked by other players.
+
+On her left breast is a small crescent shaped birthmark.
+
+You appear to be in perfect health.
+There is a shining gold emblem affixed to your clothing.
+
+Physical appearance:
+
+You see an ageless, tymless, spryte with long wild kinky blonde hair and sleepy eyes...
+
+                        Visible Equipment
+A wooden torch                                     (left hand)
+A polished steelwood mail                          (armor)
+A moon shaped ivory talisman                       (around neck)
+A pearl imbedded moonsilver bracelet               (over hands)
+A hunter-green silk cloak                          (over armor)
+A ruby ring                                        (ring (left))
+A silver serpentine hoop                           (left ear)
+Some green and black silk leggings                 (pants)
+A hunter-green cotton shirt                        (shirt)
+A pale green hemp belt                             (on belt)
+An open small hunter-green leather remedy pouch    (on belt)
+A delicately linked gold belly chain               (on belt)
+
+You have been bestowed the following title(s):
+  Noble of the Realm
+
+inv
+>Items carried:
+  An intricately carved oak walking stick [0.1 lbs].
+  An open large forest green leather backpack [0.7 lbs].
+  A crescent moon earring [0.0 lbs].
+  A glimmering green orb of Elindale [0.1 lbs].
+  A bottle of Saldean rum [0.1 lbs].
+  A small mossy opal [0.1 lbs].
+  Some green and black silk leggings [0.0 lbs].
+  A wooden torch [0.2 lbs].
+  A hunter-green cotton shirt [0.1 lbs].
+  A polished steelwood mail [1.6 lb].
+  A pearl imbedded moonsilver bracelet [0.1 lbs].
+  An open hunter-green leather healer's bag [1.0 lb].
+  A pale green hemp belt [0.0 lbs].
+  A hunter-green silk cloak [2.5 lbs].
+  An Elindalian wildflower [0.1 lbs].
+  A pair of ornate silver toe rings [0.0 lbs].
+  A delicately linked gold belly chain [0.0 lbs].
+  A ruby ring [0.0 lbs].
+  An open forest green leather healer's bag [1.9 lb].
+  A silver serpentine hoop [0.0 lbs].
+  An open small hunter-green leather remedy pouch [2.6 lbs].
+  A moon shaped ivory talisman [0.1 lbs].
+
+You have 25 silver pieces and 3 gold pieces.
+
+This gives you a total net worth of 325 silver.
+
+Your inventory totals 11.5 lbs.
+l in he
+>Inside the open hunter-green leather healer's bag you see a black winged bat shaped amulet, a small glass jar of fragrant balm, a frightening midnight blue sacrificial candle, a balsa torch, a balsa torch, a balsa torch, a balsa torch, some fragrant sticks of incense, a shadowy black opal serpent charm, and an iridescent black crow's feather.
+l in 2 he
+>Inside the open forest green leather healer's bag you see a caramel apple dumpling, an apple, a small chocolate cream pie, some chocolate covered vanilla ice, some half-eaten aged Rathene cheese, a small bowl of fresh milk, a twinkling chocolate spryte's kiss, a caramel apple dumpling, a caramel apple dumpling, a caramel apple dumpling, a caramel apple dumpling, a caramel apple dumpling, a caramel apple dumpling, a caramel apple dumpling, a steaming mug of hot cider, an apple, some roasted peanuts, and some fresh bread.
+l in bac
+>Inside the open large forest green leather backpack you see some roasted scorpion, some tasty coconut, some tasty coconut, some tasty coconut, some tasty coconut, some tasty coconut, and an embroidered silk handkerchief.
+l in rem
+>Inside the open small hunter-green leather remedy pouch you see an open small glass jar of leeches, a small glass bottle of wormwood tincture, a shiny yellow and black tablet, a small vial of madness cure, a small vial of sickness cure, a pale green glass ampoule, a pale blue glass ampoule, a yellow glass flask, a small elwyn snippet, a small alphalia snippet, a small secoleaf snippet, a small vial of madness cure, a fragile amber elydin petal, a shimmering crimson nethyn petal, and a glass vial.
+l in clo
+>Inside the hunter-green silk cloak you see a delicately linked gold belly chain, a pair of ornate silver toe rings, a shimmering crimson nethyn petal, a faceted black opal, a sparkling moonsilver jewel, a rainbow opal, a mysterious bone runestone, and a beautiful garland of roses.
+l in clo
+>Inside the hunter-green silk cloak you see a delicately linked gold belly chain, a pair of ornate silver toe rings, a shimmering crimson nethyn petal, a faceted black opal, a sparkling moonsilver jewel, a rainbow opal, a mysterious bone runestone, and a beautiful garland of roses.
+shop list all
+>
+Id# Item Type  Item Name                                     New Amount Value
+--- ---------- --------------------------------------------- --- ------ -----
+  1 Helms      colorful fringed silk scarf                   Yes x46    1gp+50sp
+  2 Helms      white linen turban                            Yes x40    1gp+75sp
+  3 Shirts     light brown camel hair tunic                  Yes x46    1gp+50sp
+  4 Shirts     sapphire blue silk halter top                 Yes x34    5gp
+  5 Shirts     enchanting crimson satin halter top           Yes x33    5gp
+  6 Shirts     emerald green satin halter top                Yes x39    5gp
+  7 Shirts     loose white linen tunic                       Yes x29    1gp+50sp
+  8 Pants      long violet silk skirt                        Yes x40    2gp+50sp
+  9 Pants      flowing white linen skirt                     Yes x42    2gp
+ 10 Pants      loose pale blue cotton pants                  Yes x40    1gp+50sp
+ 11 Pants      baggy white linen pants                       Yes x26    1gp+50sp
+ 12 Pants      pale green silk harem pants                   Yes x42    5gp
+ 13 Pants      delicate crimson silk harem pants             Yes x40    5gp
+ 14 Pants      shimmering blue silk harem pants              Yes x35    5gp
+ 15 Cloaks     sandy tan cotton cloak                        Yes x44    1gp+50sp
+ 16 Cloaks     flowing white silk hooded cloak               Yes x31    5gp
+ 17 Helms      diaphanous pale blue silk veil                Yes x40    2gp
+ 18 Helms      gold-trimmed crimson silk veil                Yes x44    2gp
+ 19 Helms      demure pale green silk veil                   Yes x41    2gp
+ 20 Boots      ornate silver toe rings                       Yes x23    3gp+50sp
+ 21 Beltpouche delicately linked gold belly chain            Yes x23    4gp
+ 22 Helms      silver-trimmed black spidersilk veil          Yes x39    2gp
+ 23 Cloaks     black damascene spidersilk robes              Yes x33    15gp
+
+l
+>[Dialla's clothing]
+
+The incredible range of colors in this stall overwhelms you. Clothing made of damask, silk, cotton, and satin float gently on the breeze winding through the bazaar. Beads, embroidery, and jewels are sprinkled on some of the finer pieces. The owner of this stall, a beautiful Human, seems to float over to you with incredible grace. She smiles at you, and watches as you take in all of the clothing.  
+
+This area is illuminated.
+Obvious paths: north south west.
+n
+>[Oasis Bazaar]
+
+You are getting closer to the sandstone building you glimpsed before.  It appears to be an old house, most likely that of a merchant.  Once grand in design, it has now fallen into disrepair, its sandstone walls tarnished with the grime of disinterest.
+
+This area is illuminated.
+Obvious paths: north south* west.
+n
+>[Sandstone Building]
+
+A one-story white sandstone building with a heavy steelwood door stands before you. The windows are barred with intricate iron working. A true Hithual craftsman must have aided in the design of this once grand home. People quickly pass in and out through the now marred wooden door with bundles under their arms or in tow. The windows are too dark to peer into, and you decide that the only way to get a good look is to try going inside.   An open handmade steelwood door is here.
+
+This area is illuminated.
+Obvious paths: south*.
+go door
+>[Sandstone Building]
+
+The interior of the house is dark and smells a bit musty. There is minimal furniture: a short table, some old dusty pillows big enough to sit on, and a cabinet. The floor has a few layers of grime on it, as do the walls. A moth-eaten rug covers the floor, and an old fireplace sits unused. Strangely, no one seems to be around. Towards the back of the room you see a colorful beaded curtain that leads to another room.   An open handmade steelwood door, a colorful beaded curtain, a short table, and some old dusty silk pillows are here.
+
+This room is illuminated.
+Obvious exits: None.
+go cu
+>[Back Room]
+
+As your eyes adjust to the darkness, the outlines of a wooden chair and a long oak table become visible. You can see footprints in the thick dust on the floor that lead from the beaded curtain into the room and then disappear, how strange.  A colorful beaded curtain, a wooden chair, and a long oak table are here.
+
+This room is illuminated.
+Obvious exits: None.
+sear room for trap
+>You search the room thoroughly.
+
+  You find an open wooden trapdoor.
+[5 sec. delay]
+beam
+>You beam.
+go tr
+>[Secret Tunnel]
+
+A dark tunnel stretches out into the darkness ahead of you. The musty smell of decay hangs heavy in the air. Noises, or are they voices lowered in whispers, drift down the tunnel to where you stand.  An open wooden trapdoor is here.
+
+This room is illuminated.
+Obvious exits: north*.
+n
+>[Secret Tunnel]
+
+The tunnel comes to an abrupt end, and two doors lead off in opposite directions. The doorway on the right appears to have been through some cataclysmic magickal explosion, the room beyond is no more. The door on the left side of the tunnel hangs crookedly from one hinge.  An open crooked wooden door and an open blackened wooden door are here.
+
+This room is illuminated.
+Obvious exits: south*.
+shop list all
+>There is no shop here!
+go door
+>[Thieves' Haven]
+
+The amount of junk in this room is truly astounding. Piled on shelves, set against the walls, and placed in various spots on the floor, just about any item you might want can be found in this room. A sly looking man eyes you from behind a scuffed wooden table in the corner.  An open crooked wooden door is here.
+
+This room is illuminated.
+Obvious exits: None.
+shop list all
+>
+Id# Item Type  Item Name                                     New Amount Value
+--- ---------- --------------------------------------------- --- ------ -----
+  1 Lockpicks  curved iron lockpick                          Yes x50    10gp
+  2 Music      diamond studded ivory ocarina (Too large)     No  x1     27gp
+
+l in clo
+>Inside the hunter-green silk cloak you see a delicately linked gold belly chain, a pair of ornate silver toe rings, a shimmering crimson nethyn petal, a faceted black opal, a sparkling moonsilver jewel, a rainbow opal, a mysterious bone runestone, and a beautiful garland of roses.
+get op from clo
+>You remove the faceted black opal from your hunter-green silk cloak.
+get op from clo
+>You remove the rainbow opal from your hunter-green silk cloak.
+pok 3 op
+>You poke the rainbow opal.
+shop appr 3 op
+>You step forward and speak with the proprietor...
+
+The merchant examines your rainbow opal and makes an initial offer of 2gp+78sp.
+shop sell 3 op
+>You step forward and speak with the proprietor...
+
+You sure you wish to sell the rainbow opal?  If so, repeat the sell command with the word 'CONFIRM' tagged on to the end.
+(i.e., 'SHOP SELL 3RD SWORD CONFIRM' would sell the 3rd sword in your inventory.)
+shop sell 3 op confirm
+>You step forward and speak with the proprietor...
+
+The merchant hands you 2gp+78sp for the rainbow opal.
+shop appr 2 op
+>You step forward and speak with the proprietor...
+
+The merchant examines your faceted black opal and makes an initial offer of 1gp+13sp.
+inv
+>Items carried:
+  An intricately carved oak walking stick [0.1 lbs].
+  An open large forest green leather backpack [0.7 lbs].
+  A crescent moon earring [0.0 lbs].
+  A glimmering green orb of Elindale [0.1 lbs].
+  A bottle of Saldean rum [0.1 lbs].
+  A small mossy opal [0.1 lbs].
+  Some green and black silk leggings [0.0 lbs].
+  A wooden torch [0.2 lbs].
+  A hunter-green cotton shirt [0.1 lbs].
+  A polished steelwood mail [1.6 lb].
+  A pearl imbedded moonsilver bracelet [0.1 lbs].
+  An open hunter-green leather healer's bag [1.0 lb].
+  A pale green hemp belt [0.0 lbs].
+  A hunter-green silk cloak [2.3 lbs].
+  A faceted black opal [0.1 lbs].
+  An Elindalian wildflower [0.1 lbs].
+  A pair of ornate silver toe rings [0.0 lbs].
+  A delicately linked gold belly chain [0.0 lbs].
+  A ruby ring [0.0 lbs].
+  An open forest green leather healer's bag [1.9 lb].
+  A silver serpentine hoop [0.0 lbs].
+  An open small hunter-green leather remedy pouch [2.6 lbs].
+  A moon shaped ivory talisman [0.1 lbs].
+
+You have 103 silver pieces and 5 gold pieces.
+
+This gives you a total net worth of 603 silver.
+
+Your inventory totals 12.2 lbs.
+shop sell op  confirm
+>You step forward and speak with the proprietor...
+
+The merchant hands you 27sp for the small mossy opal.
+shop sell op  confirm
+>You step forward and speak with the proprietor...
+
+The merchant hands you 1gp+13sp for the faceted black opal.
+inv
+>Items carried:
+  An intricately carved oak walking stick [0.1 lbs].
+  An open large forest green leather backpack [0.7 lbs].
+  A crescent moon earring [0.0 lbs].
+  A glimmering green orb of Elindale [0.1 lbs].
+  A bottle of Saldean rum [0.1 lbs].
+  Some green and black silk leggings [0.0 lbs].
+  A wooden torch [0.2 lbs].
+  A hunter-green cotton shirt [0.1 lbs].
+  A polished steelwood mail [1.6 lb].
+  A pearl imbedded moonsilver bracelet [0.1 lbs].
+  An open hunter-green leather healer's bag [1.0 lb].
+  A pale green hemp belt [0.0 lbs].
+  A hunter-green silk cloak [2.3 lbs].
+  An Elindalian wildflower [0.1 lbs].
+  A pair of ornate silver toe rings [0.0 lbs].
+  A delicately linked gold belly chain [0.0 lbs].
+  A ruby ring [0.0 lbs].
+  An open forest green leather healer's bag [1.9 lb].
+  A silver serpentine hoop [0.0 lbs].
+  An open small hunter-green leather remedy pouch [2.6 lbs].
+  A moon shaped ivory talisman [0.1 lbs].
+
+You have 143 silver pieces and 6 gold pieces.
+
+This gives you a total net worth of 743 silver.
+
+Your inventory totals 12.4 lbs.
+pok rin
+>You poke the ruby ring.
+shop sell rin  confirm
+>You step forward and speak with the proprietor...
+
+You need to unready that item so I can look at it.
+rem rin
+>You remove your ruby ring.
+shop sell rin  confirm
+>You step forward and speak with the proprietor...
+
+The merchant hands you 2gp+25sp for the ruby ring.
+beam
+>You beam.
+l
+>[Thieves' Haven]
+
+The amount of junk in this room is truly astounding. Piled on shelves, set against the walls, and placed in various spots on the floor, just about any item you might want can be found in this room. A sly looking man eyes you from behind a scuffed wooden table in the corner.  An open crooked wooden door is here.
+
+This room is illuminated.
+Obvious exits: None.
+go door
+>[Secret Tunnel]
+
+The tunnel comes to an abrupt end, and two doors lead off in opposite directions. The doorway on the right appears to have been through some cataclysmic magickal explosion, the room beyond is no more. The door on the left side of the tunnel hangs crookedly from one hinge.  An open crooked wooden door and an open blackened wooden door are here.
+
+This room is illuminated.
+Obvious exits: south*.
+go 2 doo
+>[Small Room]
+
+The walls of this small room have been blackened like the door which leads into it, scorched by what must have been an incredible fire. Someone has managed to put the room back in some semblance of order. Jars of potions and magickal herbs have been organized on what's left of the shelves.  A blackened sign and an open blackened wooden door are here.
+
+This room is illuminated.
+Obvious exits: None.
+shop list runes
+>
+                Elemental Runes Available:
+
+ blindness      blood          death          destroy        detect        
+ dispel         disruption     invisibility   lightning      magick        
+ mental         poison         remove         war           
+
+
+                Rune-shapes Available:
+
+ call           curse          ring           sight          sphere        
+ storm          bear          
+
+go door
+>[Secret Tunnel]
+
+The tunnel comes to an abrupt end, and two doors lead off in opposite directions. The doorway on the right appears to have been through some cataclysmic magickal explosion, the room beyond is no more. The door on the left side of the tunnel hangs crookedly from one hinge.  An open crooked wooden door and an open blackened wooden door are here.
+
+This room is illuminated.
+Obvious exits: south*.
+s
+>[Secret Tunnel]
+
+A dark tunnel stretches out into the darkness ahead of you. The musty smell of decay hangs heavy in the air. Noises, or are they voices lowered in whispers, drift down the tunnel to where you stand.  An open wooden trapdoor is here.
+
+This room is illuminated.
+Obvious exits: north*.
+go tr
+>[Back Room]
+
+As your eyes adjust to the darkness, the outlines of a wooden chair and a long oak table become visible. You can see footprints in the thick dust on the floor that lead from the beaded curtain into the room and then disappear, how strange.  A colorful beaded curtain, a wooden chair, a long oak table, and an open wooden trapdoor are here.
+
+This room is illuminated.
+Obvious exits: None.
+go cu
+>[Sandstone Building]
+
+The interior of the house is dark and smells a bit musty. There is minimal furniture: a short table, some old dusty pillows big enough to sit on, and a cabinet. The floor has a few layers of grime on it, as do the walls. A moth-eaten rug covers the floor, and an old fireplace sits unused. Strangely, no one seems to be around. Towards the back of the room you see a colorful beaded curtain that leads to another room.   An open handmade steelwood door, a colorful beaded curtain, a short table, and some old dusty silk pillows are here.
+
+This room is illuminated.
+Obvious exits: None.
+go door
+>[Sandstone Building]
+
+A one-story white sandstone building with a heavy steelwood door stands before you. The windows are barred with intricate iron working. A true Hithual craftsman must have aided in the design of this once grand home. People quickly pass in and out through the now marred wooden door with bundles under their arms or in tow. The windows are too dark to peer into, and you decide that the only way to get a good look is to try going inside.   An open handmade steelwood door is here.
+
+This area is illuminated.
+Obvious paths: south.
+s
+>[Oasis Bazaar]
+
+You are getting closer to the sandstone building you glimpsed before.  It appears to be an old house, most likely that of a merchant.  Once grand in design, it has now fallen into disrepair, its sandstone walls tarnished with the grime of disinterest.
+
+This area is illuminated.
+Obvious paths: north* south west.
+s
+>[Dialla's clothing]
+
+The incredible range of colors in this stall overwhelms you. Clothing made of damask, silk, cotton, and satin float gently on the breeze winding through the bazaar. Beads, embroidery, and jewels are sprinkled on some of the finer pieces. The owner of this stall, a beautiful Human, seems to float over to you with incredible grace. She smiles at you, and watches as you take in all of the clothing.  
+
+This area is illuminated.
+Obvious paths: north* south west.
+s
+>[Oasis Bazaar]
+
+More stalls loaded with merchandise are crowded together here. Once again as you approach the owner he shakes his head and says, "No, nothing in stock," even though it is obvious there is a lot in stock. What is going on in this bazaar? Most of the merchants seem to be uninterested in selling to you. You shake your head and continue on searching the oasis.
+
+This area is illuminated.
+Obvious paths: north* northwest.
+nw
+>[Oasis Bazaar]
+
+The stalls are wooden and hastily put up. Some lean to the side under the weight of the merchandise in them. They look like they can be brought down fast in case there were a need to move in a hurry. 
+
+This area is illuminated.
+Obvious paths: east southeast* south.
+s
+>[Oasis Bazaar]
+
+The stalls are tightly packed together and the merchants battle for your attention. Each one calling out to you and offering the best bargain for what he is selling. The yelling changes from one of merchant to customer to that of merchant to merchant, and a fist fight between a rather large Human and a small but quick Flerian breaks out. 
+
+This area is illuminated.
+Obvious paths: north* southeast.
+se
+>[Oasis]
+
+Just ahead more stalls are gathered around what looks to be a sandstone building. Once again the stalls are packed with goods, and there are very few customers. Still, the few customers there are all seem to be moving this way.
+
+This area is illuminated.
+Obvious paths: southwest northwest*.
+sw
+>[Oasis]
+
+The sun's rays filter through the tall palm trees and make intricate patterns on the sands around you. The soft lapping of the water on the shore reminds you of your thirst and the long journey home. You decide this would be a good spot to drench your thirst and refill your canteen.
+
+This area is illuminated.
+Obvious paths: northeast* west.
+w
+>[Oasis]
+
+A gentle breeze blows across the oasis sands and brushes against your face. The sun's rays seem to have lost their power here among the palm trees. Relaxed by the cool sand beneath your feet and the sense of peace this oasis brings, you are tempted to stay here forever.
+
+This area is illuminated.
+Obvious paths: east* south southwest.
+sw
+>[Oasis]
+
+At last you have reached the oasis itself. Tall palm trees sway in the light cool breeze over the blue water of the oasis. The white sands look inviting as your feet throb, demanding to be free of your boots, reminding you of how tired you really are. Never would you have imagined such a peaceful, beautiful spot existed in the harshness of the wasteland you just crossed. 
+
+This area is illuminated.
+Obvious paths: northeast* east south west northwest.
+s
+s
+>[Maltek's Forge]
+
+Iron scimitars, slingshots, and leather whips catch your eye as they hang from the beams supporting the stall ahead. The impressively large Hithual, Maltek, is showing off the sharpness of his scimitars to his latest customer and in the process accidentally cuts the tip of his beard off.
+
+This area is illuminated.
+Obvious paths: north* east south.
+s
+[Oasis Bazaar]
+
+Stalls filled to the brim with every kind of merchandise a buyer might be looking for stretch in front of you all the way to the water's edge. Merchants yell offers to the few possible customers milling about the marketplace. You begin to wonder how these merchants can afford to keep in business out here in the middle of the wastelands when so few adventurers would be strong enough to survive the trip.
+
+This area is illuminated.
+Obvious paths: north* east south.
+s
+s
+[Nomad Village]
+
+As you head closer to the oasis you begin to hear the bustling sounds of a marketplace. The voices of the merchants and buyers haggling over prices combine with the delightful smells of the inhabitants' food.  The weariness of your desert journey begins to ease as you start to think about the bargains you might find.
+
+This area is illuminated.
+Obvious paths: north* south.
+[Nomad Village]
+
+The strong aroma of spicy food assails your senses as you continue to wander past the tents to the heart of the oasis.  Small cooking fires with heavy iron pots hoisted above them burn precariously close to the tents, carefully tended by the older female members of the group. 
+
+This area is illuminated.
+Obvious paths: north* east south.
+[Nomad Village]
+
+A closer look at the tents perched near the edge of the oasis reveals patches and spots faded from the bright heat of the desert sun.  Darkly tanned Humans, Hithuals, and a few other races sit in front of the tents sheltered from the unforgiving desert. A light breeze cooled by the waters of the oasis moves through the temporary village. 
+
+This area is illuminated.
+Obvious paths: north* east south.
+s
+>[Nomad Village]
+
+The deep black tents of the desert nomads, covered with the dust of the shifting sands, have been crowded in around a lush green oasis. Hastily put up, they lend a decidedly temporary feeling to the area. A small group of Human children rush around from tent to tent playing a game you are unfamiliar with.
+
+This area is illuminated.
+Obvious paths: north* southeast.
+gl upwards...brushing her kinky white-blonde hair out of her pale eyes , scanning the heavens....
+>You glance upwards...brushing her kinky white-blonde hair out of her pale eyes , scanning the heavens....
+shiv her soft Hyacinth colored wyngs swiftly and...
+>You shiver her soft Hyacinth colored wyngs swiftly and...
+fly up 5
+>[5 sec. delay]
+You take a few steps and soar 10 feet into the air!
+cur softly
+>You curse softly.
+n
+>[Nomad Village]
+
+A closer look at the tents perched near the edge of the oasis reveals patches and spots faded from the bright heat of the desert sun.  Darkly tanned Humans, Hithuals, and a few other races sit in front of the tents sheltered from the unforgiving desert. A light breeze cooled by the waters of the oasis moves through the temporary village. 
+
+This area is illuminated.
+Obvious paths: north east south*.
+n
+>[Nomad Village]
+
+The strong aroma of spicy food assails your senses as you continue to wander past the tents to the heart of the oasis.  Small cooking fires with heavy iron pots hoisted above them burn precariously close to the tents, carefully tended by the older female members of the group. 
+
+This area is illuminated.
+Obvious paths: north east south*.
+n
+n
+n
+n
+>[Nomad Village]
+
+As you head closer to the oasis you begin to hear the bustling sounds of a marketplace. The voices of the merchants and buyers haggling over prices combine with the delightful smells of the inhabitants' food.  The weariness of your desert journey begins to ease as you start to think about the bargains you might find.
+
+This area is illuminated.
+Obvious paths: north south*.
+[Oasis Bazaar]
+
+Stalls filled to the brim with every kind of merchandise a buyer might be looking for stretch in front of you all the way to the water's edge. Merchants yell offers to the few possible customers milling about the marketplace. You begin to wonder how these merchants can afford to keep in business out here in the middle of the wastelands when so few adventurers would be strong enough to survive the trip.
+
+This area is illuminated.
+Obvious paths: north east south*.
+[Maltek's Forge]
+
+Iron scimitars, slingshots, and leather whips catch your eye as they hang from the beams supporting the stall ahead. The impressively large Hithual, Maltek, is showing off the sharpness of his scimitars to his latest customer and in the process accidentally cuts the tip of his beard off.
+
+This area is illuminated.
+Obvious paths: north east south*.
+[Oasis]
+
+At last you have reached the oasis itself. Tall palm trees sway in the light cool breeze over the blue water of the oasis. The white sands look inviting as your feet throb, demanding to be free of your boots, reminding you of how tired you really are. Never would you have imagined such a peaceful, beautiful spot existed in the harshness of the wasteland you just crossed. 
+
+This area is illuminated.
+Obvious paths: northeast east south* west northwest.
+ne
+>[Oasis]
+
+A gentle breeze blows across the oasis sands and brushes against your face. The sun's rays seem to have lost their power here among the palm trees. Relaxed by the cool sand beneath your feet and the sense of peace this oasis brings, you are tempted to stay here forever.
+
+This area is illuminated.
+Obvious paths: east south southwest*.
+e
+ne
+>[Oasis]
+
+The sun's rays filter through the tall palm trees and make intricate patterns on the sands around you. The soft lapping of the water on the shore reminds you of your thirst and the long journey home. You decide this would be a good spot to drench your thirst and refill your canteen.
+
+This area is illuminated.
+Obvious paths: northeast west*.
+nw
+>[Oasis]
+
+Just ahead more stalls are gathered around what looks to be a sandstone building. Once again the stalls are packed with goods, and there are very few customers. Still, the few customers there are all seem to be moving this way.
+
+This area is illuminated.
+Obvious paths: southwest* northwest.
+n
+[Oasis Bazaar]
+
+The stalls are tightly packed together and the merchants battle for your attention. Each one calling out to you and offering the best bargain for what he is selling. The yelling changes from one of merchant to customer to that of merchant to merchant, and a fist fight between a rather large Human and a small but quick Flerian breaks out. 
+
+This area is illuminated.
+Obvious paths: north southeast*.
+e
+[Oasis Bazaar]
+
+The stalls are wooden and hastily put up. Some lean to the side under the weight of the merchandise in them. They look like they can be brought down fast in case there were a need to move in a hurry. 
+
+This area is illuminated.
+Obvious paths: east southeast south*.
+
+ ** You are fully rested.
+[Dialla's clothing]
+
+The incredible range of colors in this stall overwhelms you. Clothing made of damask, silk, cotton, and satin float gently on the breeze winding through the bazaar. Beads, embroidery, and jewels are sprinkled on some of the finer pieces. The owner of this stall, a beautiful Human, seems to float over to you with incredible grace. She smiles at you, and watches as you take in all of the clothing.  
+
+This area is illuminated.
+Obvious paths: north south west*.
+land
+>You fly down and land.
+smi softly
+>You smile softly.
+shop list all
+dance softly upon the Earth-Mother's skin...
+>You dance softly upon the Earth-Mother's skin...
+
+Id# Item Type  Item Name                                     New Amount Value
+--- ---------- --------------------------------------------- --- ------ -----
+  1 Helms      colorful fringed silk scarf                   Yes x46    1gp+50sp
+  2 Helms      white linen turban                            Yes x40    1gp+75sp
+  3 Shirts     light brown camel hair tunic                  Yes x46    1gp+50sp
+  4 Shirts     sapphire blue silk halter top                 Yes x34    5gp
+  5 Shirts     enchanting crimson satin halter top           Yes x33    5gp
+  6 Shirts     emerald green satin halter top                Yes x39    5gp
+  7 Shirts     loose white linen tunic                       Yes x29    1gp+50sp
+  8 Pants      long violet silk skirt                        Yes x40    2gp+50sp
+  9 Pants      flowing white linen skirt                     Yes x42    2gp
+ 10 Pants      loose pale blue cotton pants                  Yes x40    1gp+50sp
+ 11 Pants      baggy white linen pants                       Yes x26    1gp+50sp
+ 12 Pants      pale green silk harem pants                   Yes x42    5gp
+ 13 Pants      delicate crimson silk harem pants             Yes x40    5gp
+ 14 Pants      shimmering blue silk harem pants              Yes x35    5gp
+ 15 Cloaks     sandy tan cotton cloak                        Yes x44    1gp+50sp
+ 16 Cloaks     flowing white silk hooded cloak               Yes x31    5gp
+ 17 Helms      diaphanous pale blue silk veil                Yes x40    2gp
+ 18 Helms      gold-trimmed crimson silk veil                Yes x44    2gp
+ 19 Helms      demure pale green silk veil                   Yes x41    2gp
+ 20 Boots      ornate silver toe rings                       Yes x23    3gp+50sp
+ 21 Beltpouche delicately linked gold belly chain            Yes x23    4gp
+ 22 Helms      silver-trimmed black spidersilk veil          Yes x39    2gp
+ 23 Cloaks     black damascene spidersilk robes              Yes x33    15gp
+
+inv
+>Items carried:
+  An intricately carved oak walking stick [0.1 lbs].
+  An open large forest green leather backpack [0.7 lbs].
+  A crescent moon earring [0.0 lbs].
+  A glimmering green orb of Elindale [0.1 lbs].
+  A bottle of Saldean rum [0.1 lbs].
+  Some green and black silk leggings [0.0 lbs].
+  A wooden torch [0.2 lbs].
+  A hunter-green cotton shirt [0.1 lbs].
+  A polished steelwood mail [1.6 lb].
+  A pearl imbedded moonsilver bracelet [0.1 lbs].
+  An open hunter-green leather healer's bag [1.0 lb].
+  A pale green hemp belt [0.0 lbs].
+  A hunter-green silk cloak [2.3 lbs].
+  An Elindalian wildflower [0.1 lbs].
+  A pair of ornate silver toe rings [0.0 lbs].
+  A delicately linked gold belly chain [0.0 lbs].
+  An open forest green leather healer's bag [1.9 lb].
+  A silver serpentine hoop [0.0 lbs].
+  An open small hunter-green leather remedy pouch [2.6 lbs].
+  A moon shaped ivory talisman [0.1 lbs].
+
+You have 168 silver pieces and 8 gold pieces.
+
+This gives you a total net worth of 968 silver.
+
+Your inventory totals 12.6 lbs.
+shop buy 20
+>You step forward and speak with the proprietor...
+
+The merchant accepts your 3gp+50sp and hands you the ornate silver toe rings.
+The merchant luckily has one in your size.
+shop buy 20
+>You step forward and speak with the proprietor...
+
+The merchant accepts your 3gp+50sp and hands you the ornate silver toe rings.
+The merchant luckily has one in your size.
+put 2 toe in clo
+>You place the ornate silver toe rings within your hunter-green silk cloak.
+put 2 toe in clo
+>You place the ornate silver toe rings within your hunter-green silk cloak.
+l at gli
+>You find something suitably reflective and gaze into it...
+
+You look like a 1'2" standard adolescent delicate boned, wirey-tough bodied Secian Cleric.
+You have very long, wild, kinky light blonde hair, with heavy lidded pale red eyes, and look disheveled.
+You appear to be mischievous right now.
+You can be attacked by other players.
+
+On her left breast is a small crescent shaped birthmark.
+
+You appear to be in perfect health.
+There is a shining gold emblem affixed to your clothing.
+
+Physical appearance:
+
+You see an ageless, tymless, spryte with long wild kinky blonde hair and sleepy eyes...
+
+                        Visible Equipment
+A wooden torch                                     (left hand)
+A polished steelwood mail                          (armor)
+A moon shaped ivory talisman                       (around neck)
+A pearl imbedded moonsilver bracelet               (over hands)
+A hunter-green silk cloak                          (over armor)
+A silver serpentine hoop                           (left ear)
+Some green and black silk leggings                 (pants)
+A hunter-green cotton shirt                        (shirt)
+A pale green hemp belt                             (on belt)
+An open small hunter-green leather remedy pouch    (on belt)
+A delicately linked gold belly chain               (on belt)
+
+You have been bestowed the following title(s):
+  Noble of the Realm
+
+l in clo
+>Inside the hunter-green silk cloak you see a pair of ornate silver toe rings, a pair of ornate silver toe rings, a delicately linked gold belly chain, a pair of ornate silver toe rings, a shimmering crimson nethyn petal, a sparkling moonsilver jewel, a mysterious bone runestone, and a beautiful garland of roses.
+inv
+>Items carried:
+  An intricately carved oak walking stick [0.1 lbs].
+  An open large forest green leather backpack [0.7 lbs].
+  A crescent moon earring [0.0 lbs].
+  A glimmering green orb of Elindale [0.1 lbs].
+  A bottle of Saldean rum [0.1 lbs].
+  A pair of ornate silver toe rings [0.0 lbs].
+  Some green and black silk leggings [0.0 lbs].
+  A wooden torch [0.2 lbs].
+  A hunter-green cotton shirt [0.1 lbs].
+  A polished steelwood mail [1.6 lb].
+  A pearl imbedded moonsilver bracelet [0.1 lbs].
+  An open hunter-green leather healer's bag [1.0 lb].
+  A pale green hemp belt [0.0 lbs].
+  A hunter-green silk cloak [2.3 lbs].
+  An Elindalian wildflower [0.1 lbs].
+  A delicately linked gold belly chain [0.0 lbs].
+  An open forest green leather healer's bag [1.9 lb].
+  A silver serpentine hoop [0.0 lbs].
+  An open small hunter-green leather remedy pouch [2.6 lbs].
+  A moon shaped ivory talisman [0.1 lbs].
+
+You have 68 silver pieces and 2 gold pieces.
+
+This gives you a total net worth of 268 silver.
+
+Your inventory totals 11.6 lbs.
+wear toe
+>
+Your wooden torch flickers for a moment.
+You slip on the ornate silver toe rings.
+beam
+>You beam.
+l at gli
+>You find something suitably reflective and gaze into it...
+
+You look like a 1'2" standard adolescent delicate boned, wirey-tough bodied Secian Cleric.
+You have very long, wild, kinky light blonde hair, with heavy lidded pale red eyes, and look disheveled.
+You appear to be mischievous right now.
+You can be attacked by other players.
+
+On her left breast is a small crescent shaped birthmark.
+
+You appear to be in perfect health.
+There is a shining gold emblem affixed to your clothing.
+
+Physical appearance:
+
+You see an ageless, tymless, spryte with long wild kinky blonde hair and sleepy eyes...
+
+                        Visible Equipment
+A wooden torch                                     (left hand)
+A polished steelwood mail                          (armor)
+A moon shaped ivory talisman                       (around neck)
+A pearl imbedded moonsilver bracelet               (over hands)
+A pair of ornate silver toe rings                  (on feet)
+A hunter-green silk cloak                          (over armor)
+A silver serpentine hoop                           (left ear)
+Some green and black silk leggings                 (pants)
+A hunter-green cotton shirt                        (shirt)
+A pale green hemp belt                             (on belt)
+An open small hunter-green leather remedy pouch    (on belt)
+A delicately linked gold belly chain               (on belt)
+
+You have been bestowed the following title(s):
+  Noble of the Realm
+
+w
+>[Oasis Bazaar]
+
+The stalls are wooden and hastily put up. Some lean to the side under the weight of the merchandise in them. They look like they can be brought down fast in case there were a need to move in a hurry. 
+
+This area is illuminated.
+Obvious paths: east* southeast south.
+s
+se
+>[Oasis Bazaar]
+
+The stalls are tightly packed together and the merchants battle for your attention. Each one calling out to you and offering the best bargain for what he is selling. The yelling changes from one of merchant to customer to that of merchant to merchant, and a fist fight between a rather large Human and a small but quick Flerian breaks out. 
+
+This area is illuminated.
+Obvious paths: north* southeast.
+sw
+[Oasis]
+
+Just ahead more stalls are gathered around what looks to be a sandstone building. Once again the stalls are packed with goods, and there are very few customers. Still, the few customers there are all seem to be moving this way.
+
+This area is illuminated.
+Obvious paths: southwest northwest*.
+w
+[Oasis]
+
+The sun's rays filter through the tall palm trees and make intricate patterns on the sands around you. The soft lapping of the water on the shore reminds you of your thirst and the long journey home. You decide this would be a good spot to drench your thirst and refill your canteen.
+
+This area is illuminated.
+Obvious paths: northeast* west.
+sw
+>[Oasis]
+
+A gentle breeze blows across the oasis sands and brushes against your face. The sun's rays seem to have lost their power here among the palm trees. Relaxed by the cool sand beneath your feet and the sense of peace this oasis brings, you are tempted to stay here forever.
+
+This area is illuminated.
+Obvious paths: east* south southwest.
+[Oasis]
+
+At last you have reached the oasis itself. Tall palm trees sway in the light cool breeze over the blue water of the oasis. The white sands look inviting as your feet throb, demanding to be free of your boots, reminding you of how tired you really are. Never would you have imagined such a peaceful, beautiful spot existed in the harshness of the wasteland you just crossed. 
+
+This area is illuminated.
+Obvious paths: northeast* east south west northwest.
+s
+s
+s
+>[Maltek's Forge]
+
+Iron scimitars, slingshots, and leather whips catch your eye as they hang from the beams supporting the stall ahead. The impressively large Hithual, Maltek, is showing off the sharpness of his scimitars to his latest customer and in the process accidentally cuts the tip of his beard off.
+
+This area is illuminated.
+Obvious paths: north* east south.
+s
+[Oasis Bazaar]
+
+s
+Stalls filled to the brim with every kind of merchandise a buyer might be looking for stretch in front of you all the way to the water's edge. Merchants yell offers to the few possible customers milling about the marketplace. You begin to wonder how these merchants can afford to keep in business out here in the middle of the wastelands when so few adventurers would be strong enough to survive the trip.
+
+This area is illuminated.
+Obvious paths: north* east south.
+[Nomad Village]
+
+As you head closer to the oasis you begin to hear the bustling sounds of a marketplace. The voices of the merchants and buyers haggling over prices combine with the delightful smells of the inhabitants' food.  The weariness of your desert journey begins to ease as you start to think about the bargains you might find.
+
+This area is illuminated.
+Obvious paths: north* south.
+s
+[Nomad Village]
+
+The strong aroma of spicy food assails your senses as you continue to wander past the tents to the heart of the oasis.  Small cooking fires with heavy iron pots hoisted above them burn precariously close to the tents, carefully tended by the older female members of the group. 
+
+This area is illuminated.
+Obvious paths: north* east south.
+[Nomad Village]
+
+A closer look at the tents perched near the edge of the oasis reveals patches and spots faded from the bright heat of the desert sun.  Darkly tanned Humans, Hithuals, and a few other races sit in front of the tents sheltered from the unforgiving desert. A light breeze cooled by the waters of the oasis moves through the temporary village. 
+
+This area is illuminated.
+Obvious paths: north* east south.
+[Nomad Village]
+
+The deep black tents of the desert nomads, covered with the dust of the shifting sands, have been crowded in around a lush green oasis. Hastily put up, they lend a decidedly temporary feeling to the area. A small group of Human children rush around from tent to tent playing a game you are unfamiliar with.
+
+This area is illuminated.
+Obvious paths: north* southeast.
+shiv
+>You shiver.
+se
+>[Barren Wastelands]
+
+Up ahead, you catch a fleeting glimpse of water and palm trees. You eagerly step forward towards the distant oasis, only to see it vanish before your eyes. Disheartened by the mirage, you reach for your water bottle... you did bring enough water with you, did you?
+
+This area is illuminated.
+Obvious paths: north* northeast* east* southeast* south southwest west* northwest.
+sw
+>[Barren Wastelands]
+
+Several large scavenger birds circle in the distance, then dive groundwards. Some wayward creature must have succumbed to the ravages of the scorching sun.
+
+This area is illuminated.
+Obvious paths: north* northeast* east* southeast* south* southwest west* northwest.
+sw
+>[Barren Wastelands]
+
+Up ahead, you catch a fleeting glimpse of water and palm trees. You eagerly step forward towards the distant oasis, only to see it vanish before your eyes. Disheartened by the mirage, you reach for your water bottle... you did bring enough water with you, did you?
+
+This area is illuminated.
+Obvious paths: north* northeast* east* southeast south* southwest* west* northwest.
+se
+>[Barren Wastelands]
+
+As you stop to catch your breath, you hear light hissing and clicking from beyond the ridge ahead of you. The scorpions of the desert can be formidable foes, and you hope the ones you hear stay on their side of the ridge.
+
+This area is illuminated.
+Obvious paths: north* northeast* east* southeast south* southwest west* northwest*.
+sw
+>[Barren Wastelands]
+
+You trudge across the endless sea of sand dunes. From the crest of one large dune, you catch a glimpse of a dense green clump of palm trees in the distance, but the oasis is nowhere to be seen when you reach the top of the next dune.
+
+This area is illuminated.
+Obvious paths: north* northeast* east* southeast* south southwest* west* northwest*.
+s
+>[Barren Wastelands]
+
+The small rock formation ahead of you has been beautifully sculpted by the windblown sands. The smooth, streamlined rocks look like they could topple over at any moment, but they have withstood countless years of pounding from the punishing environment and aren't about to give up their fight yet.
+
+This area is illuminated.
+Obvious paths: north* northeast east southeast* south* southwest west* northwest*.
+sw
+>[Barren Wastelands]
+
+The ground here has hardened by the elements to form a near rocklike mineral crust. The pitted surface jars your feet with each step. 
+
+This area is illuminated.
+Obvious paths: north* northeast* east* southeast south* southwest* west* northwest*.
+se
+>[Barren Wastelands]
+
+A string of tamarisks grows along the bottom of this dried out gully, beyond the boulder bar deposited by the last flash flood. It's remarkable how many of the desert's features have been formed by water erosion, when there is so little water evident.
+
+This area is illuminated.
+Obvious paths: north* northeast* east southeast* south* southwest west* northwest*.
+sw
+>[Barren Wastelands]
+
+A string of tamarisks grows along the bottom of this dried out gully, beyond the boulder bar deposited by the last flash flood. It's remarkable how many of the desert's features have been formed by water erosion, when there is so little water evident.
+
+This area is illuminated.
+Obvious paths: north* northeast* east* southeast south* southwest* west* northwest*.
+se
+>[Barren Wastelands]
+
+You find yourself walking along a dried out riverbed. The rare rains in the foothills can be a very mixed blessing, since they commonly lead to flash floods that can sweep away anything in their path.
+
+This area is illuminated.
+Obvious paths: north* northeast east* southeast south* southwest* west* northwest*.
+se
+>[Barren Wastelands]
+
+You find yourself walking along a dried out riverbed. The rare rains in the foothills can be a very mixed blessing, since they commonly lead to flash floods that can sweep away anything in their path.
+
+This area is illuminated.
+Obvious paths: north* northeast* east* southeast south* southwest* west* northwest*.
+se
+>[Barren Wastelands]
+
+You find yourself walking along a dried out riverbed. The rare rains in the foothills can be a very mixed blessing, since they commonly lead to flash floods that can sweep away anything in their path.
+
+This area is illuminated.
+Obvious paths: north* northeast east* southeast south* southwest* west* northwest*.
+se
+>[Barren Wastelands]
+
+Patches of dry brush are scattered across the hardened, cracked  ground. Small insects buzz incessantly around you, attracted by your sweat.
+
+This area is illuminated.
+Obvious paths: north northeast east* southeast south* southwest* west* northwest*.
+se
+>[Barren Wastelands]
+
+Patches of dry brush are scattered across the hardened, cracked ground. Small insects buzz incessantly around you, attracted by your sweat.
+
+This area is illuminated.
+Obvious paths: north northeast* east southeast* south* southwest* west* northwest*.
+e
+>[Barren Wastelands]
+
+The dry underbrush crackles under your feet as you plod through this bleak and barren landscape. You wonder where the plants ever got enough moisture to grow in the first place.  A bright onyx archway is here.
+
+This area is illuminated.
+Obvious paths: north east west*.
+go ar
+>[Black hall.]
+
+The murals on the walls make this room appear to be sitting on the side of a mountain overlooking a verdant glen. Majestic eagles soar high overhead, the view so real you swear you can hear their cries. Huge moss-covered stones are placed about the room to enhance the feel. From one of them a small burbling trickle of water fills a hollow basin carved into the floor.  A bright onyx archway is here.
+
+This room is illuminated.
+Obvious exits: east*.
+gl upwards...brushing her kinky white-blonde hair out of her pale eyes , scanning the heavens....
+>You glance upwards...brushing her kinky white-blonde hair out of her pale eyes , scanning the heavens....
+shiv her soft Hyacinth colored wyngs swiftly and...
+>You shiver her soft Hyacinth colored wyngs swiftly and...
+fly up 5
+>[5 sec. delay]
+You take a few steps and soar 10 feet into the air!
+adv 5
+>You advance another 5 UDs!
+fly up 10
+>You climb 10 feet.
+
+You are now at 20 feet.
+l
+>[Black hall.]
+
+The murals on the walls make this room appear to be sitting on the side of a mountain overlooking a verdant glen. Majestic eagles soar high overhead, the view so real you swear you can hear their cries. Huge moss-covered stones are placed about the room to enhance the feel. From one of them a small burbling trickle of water fills a hollow basin carved into the floor.  A bright onyx archway is here.
+
+This room is illuminated.
+Obvious exits: east*.
+e
+e
+>[Black hall.]
+
+A padded mat lies rolled into a bundle against one wall, resting under the carved symbols of all the gods. The opposite wall is adorned with practice weapons and shields of every type imaginable. Some look quite serviceable as deadly weapons. 
+
+This room is illuminated.
+Obvious exits: east* west*.
+[Black hall.]
+
+A large firepit sits in the center of this room, surrounded by dining tables. A roasting spit lies next to the pit, and a ponderous iron cauldron sits by one wall. Ale mugs sit by each chair, and the tables have holes cut in them for the placement of ale kegs. 
+
+This room is illuminated.
+Obvious exits: northeast* west*.
+ne
+>[Black hall.]
+
+This room contains no furniture or trappings on the walls. The floor is inlaid with marble to make a map of the hall and the surrounding area to aid the defenders in planning battles and the defense of the stronghold. 
+
+This room is illuminated.
+Obvious exits: southwest* northwest*.
+nw
+n
+>[Black hall.]
+
+Barrels of potable water and sacks of flour are stacked against the walls, along with several kegs of ale to provision the stronghold in times of war. You can see marks on the floor where some of the provisions have been removed, most notably the ale. 
+
+This room is illuminated.
+Obvious exits: north* southeast*.
+[Black hall.]
+
+Veins of some unknown silvery metal slither through the black rock of the stronghold in this room. The walls are adorned with supremely crafted weapons, as deadly as they are artistic. Two weapon racks are bolted to the wall, empty except for a light covering of dust.
+
+This room is illuminated.
+Obvious exits: east* south* west*.
+w
+>[Black hall.]
+
+The murals on the walls show the Seven seated in ornate thrones, gazing down upon a being enveloped in inky shadows cowering before them. A shiver runs down your spine as the eyes of the Seven all seem to turn your way. It seems as if all your dreams and secrets are pulled from the depths of your soul for judgement. 
+
+This room is illuminated.
+Obvious exits: east* northwest*.
+nw
+>[Black hall.]
+
+Seven ancient banners hang from the ceiling, each bearing an arcane sigil. The murals on the walls show the seven beings of power standing on the ramparts of a castle in the clouds, looking out over the lands of the Great Divide. Far off in the distance, a black shadow can be seen falling over the land.
+
+This room is illuminated.
+Obvious exits: north* southeast*.
+n
+>[Black hall.]
+
+The murals in this part of the hall cover the ceiling as well, giving the impression of standing in the midst of a mighty battle. Above you, the sword-wielding dragon battles a demonic figure cloaked in flames as they fly above the battle that rages around you. Six beings in fantastic suits of armor stand against a dark tide of nightmarish creatures, their armor and weapons glowing with arcane power.
+
+This room is illuminated.
+Obvious exits: south* west*.
+>
+ ** Current fatigue: 57 out of 60
+w
+[Black hall.]
+
+The black walls of this hall are painted with pictures depicting a battle. The right wall shows a large army marching against six beings of power and a sword wielding dragon. The left wall shows the same seven facing off against numerous elementals.  An open black door is here.
+
+This area is illuminated.
+Obvious paths: north* east*.
+>
+ ** You are fully rested.
+go door
+[Eternal Maze.]
+
+You have reached the end of the Eternal Maze. A large black door covered with ancient runes stands before you.
+
+This area is illuminated.
+Obvious paths: west*.
+w
+>[Eternal Maze.]
+
+You are wandering in the Eternal Maze. The tunnels are finely crafted and polished. The resulting echoes make it sound as though hundreds of other beings are in the Maze with you.
+
+This area is illuminated.
+Obvious paths: east* south* southwest* northwest*.
+nw
+>[Eternal Maze.]
+
+You are wandering in the Eternal Maze. The tunnels are finely crafted and polished. The resulting echoes make it sound as though hundreds of other beings are in the Maze with you.
+
+This area is illuminated.
+Obvious paths: north* east* southeast* west*.
+n
+>[Eternal Maze.]
+
+You are wandering in the Eternal Maze. The tunnels are finely crafted and polished. The resulting echoes make it sound as though hundreds of other beings are in the Maze with you.
+
+This area is illuminated.
+Obvious paths: east* south* northwest*.
+nw
+>[Eternal Maze.]
+
+This part of the Maze looks strangely familiar. Are you going in circles, or is it all an illusion? At this point you do not care, you just want to get out of this place.
+
+This area is illuminated.
+Obvious paths: east* southeast* southwest* west*.
+w
+>[Eternal Maze.]
+
+You are wandering in the Eternal Maze. The tunnels are finely crafted and polished. The resulting echoes make it sound as though hundreds of other beings are in the Maze with you.
+
+This area is illuminated.
+Obvious paths: north* east* west*.
+n
+>[Eternal Maze.]
+
+You are wandering in the eternal maze.
+
+This area is illuminated.
+Obvious paths: northeast* south* west*.
+ne
+>[Eternal Maze.]
+
+You are wandering in the Eternal Maze.  The tunnels are finely crafted and polished.  The resulting echoes make it sound as though hundreds of other beings are in the Maze with you.
+
+This area is illuminated.
+Obvious paths: north* east* southeast* southwest*.
+n
+>[Eternal Maze.]
+
+You are wandering in the Eternal Maze. The tunnels are finely crafted and polished. The resulting echoes make it sound as though hundreds of other beings are in the Maze with you.
+
+This area is illuminated.
+Obvious paths: east* south* west*.
+w
+>[Eternal Maze.]
+
+The sounds of your footsteps seem to be getting louder. You have this feeling in the pit of your stomach that you are hopelessly lost. (Or maybe you are just hungry.)
+
+This area is illuminated.
+Obvious paths: north* east* southwest*.
+n
+>[Eternal Maze.]
+
+You are wandering in the Eternal Maze. The tunnels are finely crafted and polished. The resulting echoes make it sound as though hundreds of other beings are in the Maze with you.
+
+This area is illuminated.
+Obvious paths: northeast* south* northwest*.
+ne
+>[Eternal Maze.]
+
+You are wandering in the Eternal Maze. The tunnels are finely crafted and polished. The resulting echoes make it sound as though hundreds of other beings are in the Maze with you.
+
+This area is illuminated.
+Obvious paths: north* southeast* southwest*.
+n
+>[Eternal Maze.]
+
+You are wandering in the Eternal Maze. The tunnels are finely crafted and polished. The resulting echoes make it sound as though hundreds of other beings are in the Maze with you.
+
+This area is illuminated.
+Obvious paths: north* east* south*.
+e
+>[Eternal Maze.]
+
+You are wandering in the Eternal Maze. The tunnels are finely crafted and polished. The resulting echoes make it sound as though hundreds of other beings are in the Maze with you.
+
+This area is illuminated.
+Obvious paths: north* southeast* west*.
+se
+>[Eternal Maze.]
+
+You are wandering in the Eternal Maze. The tunnels are finely crafted and polished. The resulting echoes make it sound as though hundreds of other beings are in the Maze with you.
+
+This area is illuminated.
+Obvious paths: east* southwest* northwest*.
+e
+>[Eternal Maze.]
+
+The decaying body of a fellow adventurer lies in the center of the intersection. There are no visible wounds on the body bringing you to the conclusion that his supplies ran out before he found his way out.
+
+This area is illuminated.
+Obvious paths: north* east* south* west*.
+s
+>[Eternal Maze.]
+
+You are wandering in the Eternal Maze. The tunnels are finely crafted and polished. The resulting echoes make it sound as though hundreds of other beings are in the Maze with you.
+
+This area is illuminated.
+Obvious paths: north* southwest*.
+sw
+>[Eternal Maze.]
+
+You are wandering in the Eternal Maze. The tunnels are finely crafted and polished. The resulting echoes make it sound as though hundreds of other beings are in the Maze with you.
+
+This area is illuminated.
+Obvious paths: northeast* southeast*.
+se
+>[Eternal Maze.]
+
+You are wandering in the Eternal Maze. The tunnels are finely crafted and polished. The resulting echoes make it sound as though hundreds of other beings are in the Maze with you.
+
+This area is illuminated.
+Obvious paths: east* south* northwest*.
+e
+>[Eternal Maze.]
+
+The stairs come to an end in the center of an intersection of tunnels. You stand at the beginning of the Eternal Maze. Your goal is simple: find the end of the maze within your lifetime.
+
+This area is illuminated.
+Obvious paths: north* east* south* west*.
+go st
+>[The stairs.]
+
+You continue your descent into the mountain. The air begins to grow chill as the distance between you and the outside world increases. You still can not see the bottom of the stairs.  A stone stairs and a stone stairs are here.
+
+This area is illuminated.
+Obvious paths: None.
+go st
+>[The staircase.]
+
+Before you lies a staircase which leads deep into the mountain.  Although the area is illuminated, you cannot see how far down the staircase actually descends.  The exit to outside is just behind you.  A stone stairs is here.
+
+This area is illuminated.
+Obvious paths: None.
+go ex
+>[The entrance.]
+
+You are standing on a small ledge on the face of a cliff. The view of the surrounding mountain range is magnificent, if not intimidating. An entrance has been carved into the cliff face.
+
+This area is illuminated.
+Obvious paths: southwest.
+sw
+>[Ledge.]
+
+Though there is brief relief from its narrowness to the southwest, the ledge is small here, and certainly tricky to navigate.  A large cliff face dominates your view to the northeast, making you wonder where this trail could possibly lead.
+
+This area is illuminated.
+Obvious paths: northeast* southwest.
+sw
+>[Ledge.]
+
+The path finally widens as it begins to wrap its way around the mountain.  You are met with quite a view:  the starkness of the grey rock of the mountain, coupled with the gleaming, white snowcaps, is beautiful in its simplicity.
+
+This area is illuminated.
+Obvious paths: northeast* west.
+w
+w
+>[Ledge.]
+
+It's hard to believe that this could even be considered a trail, it's so narrow.  The constant wear from the snow and wind has made it glisten with the slick sheen of moisture, adding to its treachery.  As you look around for some other path, you realize it's either this, or turn back.
+
+This area is illuminated.
+Obvious paths: east* west.
+[Ledge.]
+
+You wonder if avalanches are common around here as you notice the icy snow that hangs ominously from the mountaintop overhead.  One chunk looks particularly threatening, as it rocks back and forth with the occasional gust of wind.  It might be best to hurry along.
+
+This area is illuminated.
+Obvious paths: east* northwest.
+nw
+nw
+>[Ledge.]
+
+Clinging to the cliff face seems like the safest bet as you travel this very narrow ledge.  You're beginning to wonder if this trip is really worth it, for one wrong step would mean a certain, painful death.  
+
+This area is illuminated.
+Obvious paths: southeast* northwest.
+>[Ledge.]
+
+You're on a very small ledge from which tiny rocks crumble and fall thousands of feet into the gorge below you. As you gaze around you are struck by visions of snow-capped mountain peaks and low hanging clouds which encircle you. Winding around this peak is a narrow ledge, the only viable path other than a suicidal plunge.   A swirling red portal is here.
+
+This area is illuminated.
+Obvious paths: southeast*.
+go po
+>You fly down 10 feet to leave the area.
+
+As you pass through, there is a twist, and a feeling of distance...
+
+[Valeria's Keep, Children's Bedroom]
+
+Pastel colored drawings of various creatures both real and imaginary cover the walls.  Friendly looking animals of every kind frolic around on a pastel blue background. Two small beds sit on either end of the room, one pink and one blue. Toys lay scattered about on the floor of the room and piled high on shelves.   An open gold-trimmed mahogany door, a colorful stained glass window, some colorful toys, a soft pink bed, a soft blue bed, and a swirling red portal are here.
+
+This room is illuminated.
+Obvious exits: None.
+go door
+>
+Your wooden torch winks out.
+It's too dark to see anything!  Ready a torch.
+ne
+>[Valeria's Keep, Second Floor]
+
+A delicate statuette of a unicorn  rests on a white marble pedestal, captured in mid gallop. Warmly glowing lanterns light the way around the second floor and cast flickering shadows on the walls, as you continue to follow along the hallway.  A carved mahogany banister is here.
+
+This room is illuminated.
+Obvious exits: north* southwest.
+n
+nw
+>[Valeria's Keep, Second Floor]
+
+Through the door is one of the finest guest rooms one could find anywhere. A faint scent of lavender floats through the air near the door, hinting at the delights found inside. The door itself is a work of art, carved by the loving hand of a great craftsman.   An open exquisitely carved mahogany door and a carved mahogany banister are here.
+
+This room is illuminated.
+Obvious exits: south* northwest*.
+[Valeria's Keep, Second Floor]
+
+A small mahogany table stands between two high-backed armchairs, a small glowing crystal ball resting on the top of the table. A small, bright blue light shines within it, flickering and then growing stronger, almost like a twinkling star in a midnight blue night sky.  A carved mahogany banister, an elegant blue velvet armchair, an elegant blue velvet armchair, a mahogany table, and a glowing crystal ball are here.
+
+This room is illuminated.
+Obvious exits: southeast* west*.
+w
+>[Valeria's Keep, Balcony]
+
+The balcony looks over the first floor of the keep. It's a long drop down to the polished white marble floor below. Ornate, hand-carved mahogany banisters lead off to the left and right towards the private rooms of the keep, guiding weary inhabitants and guests to their rest.   A white marble stairway and a carved mahogany banister are here.
+
+This room is illuminated.
+Obvious exits: east* west*.
+go st
+>[Valeria's Keep, Grand Staircase]
+
+The hallway ends at the bottom steps of a grand staircase that leads up to the private rooms of the keep. If those rooms are as lavishly decorated as the rest of the house spending the night here might be a lot of fun.   A white marble stairway is here.
+
+This room is illuminated.
+Obvious exits: south*.
+s
+s
+s
+>[Valeria's Keep, Hallway]
+
+Two marble arches stand on opposite sides of the hallway, while directly ahead lies the grand staircase. Beautiful music flows from the arch on the right, calling you to come inside. A pleasant smell drifts in through through the arch on the left also calling to your senses.   A gold-trimmed white marble arch and a gold-trimmed white marble arch are here.
+
+This room is illuminated.
+Obvious exits: north* south*.
+s
+[Valeria's Keep, Hallway]
+
+A few small portraits hang on the walls along this hallway. Even though the hallway is not well lit, looking closer you can make out the features of two young human children, one boy and one girl. The blue velvet carpet continues on towards the grand staircase that lies just past two arches just ahead. 
+
+This room is illuminated.
+Obvious exits: north* south*.
+[Valeria's Keep, Hallway]
+
+This hallway leads away from the great hall and towards the rest of the beautiful manor home. A blue velvet carpet runs down the center of the hall and leads all the way to the grand staircase at the very far end of the keep. Beautiful paintings of landscapes and mythical adventures hang on the walls. 
+
+This room is illuminated.
+Obvious exits: north* southeast* south* southwest*.
+[Valeria's Keep, Great Hall]
+
+High vaulted ceilings tower above the polished white marble floor. You can see the banisters of the second floor walkway from where you are standing. Blue drapes hang on the windows, and blue and white velvet covers the chairs that surround the room. The color blue is definitely a favorite of whoever owns this keep.
+
+This room is illuminated.
+Obvious exits: north* east* southeast* south* southwest* west*.
+s
+>[Valeria's Keep, Great Hall]
+
+The great hall is dazzling in all its splendor. Giant colorful tapestries depicting legendary battles of old cover the walls. Heavy royal blue velvet drapes hang on the large glass windows that look out into the courtyard surrounding the keep. Polished white marble tiles cover the floor, and a narrow blue velvet carpet creates a path that leads to the grand staircase on the far side of the hall.   A swirling golden portal is here.
+
+This room is illuminated.
+Obvious exits: north* northeast* east* west* northwest*.
+go po
+>[Valeria's Keep, Courtyard]
+
+A swirling portal stands in the place of a normal heavy door for this keep. Waves of powerful magick flow from it, as if the keep itself were too full to contain all of the power within its walls.   A swirling golden portal, an intricate green topiary, and an intricate green topiary are here.
+
+This area is illuminated.
+Obvious paths: south.
+s
+s
+>[Valeria's Keep, Courtyard]
+
+Everything in this courtyard looks well tended and cared for. This keep must have a very talented and dedicated gardener tending it. Beautiful flowers line the insides of the castle walls, their colors a bright contrast to the stark gray of the heavy stone walls.  An intricate green topiary and an intricate green topiary are here.
+
+This area is illuminated.
+Obvious paths: north* south.
+s
+[Valeria's Keep, Courtyard]
+
+Perfectly manicured, green grass stretches from the gates to the manor house. Stunning topiaries line the gravel path that leads from the drawbridge to the entrance of the stately home. Colorful birds flutter from the trees to the sky, startled from their rest by your passing.   A giant steelwood drawbridge, an intricate green topiary, and an intricate green topiary are here.
+
+This area is illuminated.
+Obvious paths: north*.
+You cannot move in that direction.
+go dr
+>[Valeria's Keep, Drawbridge]
+
+A massive heavy steelwood drawbridge spans the deep moat that circles the keep. The heavy chains that run from the keep's walls to the drawbridge look brand new and show little signs of use. Whoever lives here must not fear invaders as it looks like the drawbridge hasn't been lifted in a long time.  A giant steelwood drawbridge is here.
+
+This area is illuminated.
+Obvious paths: east south west.
+s
+s
+s
+>[Valeria's Keep, Outer Wall]
+
+Designed to keep out unwanted visitors, the walls of the keep tower above the path giving the manor home a decidedly unfriendly appearance.  The walls are made of hard gray granite blocks stacked on top of one another. Dark green moss has started to inch its way up from the ground to the top of the structure. 
+
+This area is illuminated.
+Obvious paths: north* south.
+[Hidden Trail]
+
+The small dirt trail turns to the north and closes in on the large keep that lies just beyond a hill. The keep appears to be made out of gray granite and has two tall round towers on each side of the front facing wall. A towering wall made of the same stone as the keep itself surrounds the impressive manor home. 
+
+This area is illuminated.
+Obvious paths: north* south.
+[Hidden Trail]
+
+As you reach the top of this first hill, you spot tall stone turrets reaching above the next hill. Blue and white banners hung from poles atop the towers flap in the strong wind, a strange symbol in gold emblazoned upon them. It must be the keep of a very important person. If only you knew whose symbol that is.
+
+This area is illuminated.
+Obvious paths: north* southwest.
+sw
+>[Hidden Trail]
+
+Pushing a few bushes aside, you spot a hidden trail that leads off over a gently sloping hill not too far away. Although hidden, it appears this dirt trail is well used and in excellent condition. The bushes and flowers that line the path are not wild and look like they've been carefully tended.   A pathway leading out is here.
+
+This area is illuminated.
+Obvious paths: northeast*.
+go pa
+>[Highland Road.]
+
+A thick green moss has covered the width of the trail, making the ground under your feet soft and easy to walk on. Colorful wildflowers grow along the sides of the road amidst the deep green bushes of the woodlands. The touch of Elindale's caring hand is evident.  An old dirt trail is here.
+
+This area is illuminated.
+Obvious paths: south northwest.
+s
+>[Highland Road.]
+
+Winding its way through the woods a small stream meets up with the trail. Although not as large as a river it is still big enough to be difficult to cross. Thankfully, someone has built a footbridge out of an old log and left it here for other travelers.  A small wooden footbridge is here.
+
+This area is illuminated.
+Obvious paths: north*.
+go foo
+>[Highland Road.]
+
+A small stream meets up with the road as it meanders through the woods. A small footbridge allows for one to cross the stream and continue on. Even though it is made of wood the little bridge still appears to be in excellent shape.  A small wooden footbridge is here.
+
+This area is illuminated.
+Obvious paths: southwest.
+sw
+>[Highland Road.]
+
+An old cottage stands along the side of the road, decaying with years of disuse and exposure. The thatch roof has fallen in on the house, letting the rain and wind destroy the old structure. Green ivy grows unchecked up the wall on one side of the house, pulling the stones loose and aiding in the demise of the cottage.
+
+This area is illuminated.
+Obvious paths: northeast* southwest.
+sw
+>[Highland Road.]
+
+Many branches of the magnificent old trees that line this trail arch over it creating a glorious ceiling of leaves. Flying squirrels leap from branch to branch, putting on a death defying acrobatic act high above the ground below.
+
+This area is illuminated.
+Obvious paths: northeast* south.
+s
+>[Highland Road.]
+
+Tall oak, elm, and white birch trees tower over the road, their leaves rustling in the light breeze. This part of the trail is less rocky than what lays to the south. Soft green mosses cover the ground in places like a green velvet blanket.
+
+This area is illuminated.
+Obvious paths: north* southwest.
+sw
+>[Highland Road.]
+
+Nature is in its full glory here along this trail. Birds sing as they fly from branch to branch on the trees that line the trail. A rabbit hops out across the trail and quickly darts into the bushes on the other side. Breathing the fresh air you feel greatly invigorated on your trek down this path. 
+
+This area is illuminated.
+Obvious paths: northeast* southeast.
+se
+>[Highland Road.]
+
+The air here is much clearer than the air closer to Spur. Blowing from the distant mountains, a cool breeze rushes headlong down the road, kicking up light dust from the trail and rustling the leaves on some low green bushes.
+
+This area is illuminated.
+You see the 1st rogue and the 2nd rogue.
+Obvious paths: southeast northwest*.
+se
+>[Highland Road.]
+
+Tall healthy-looking trees stand to the north and east. The path of the road to the north disappears into the forest. Following the road south leads to eastern housing and the east gate of Spur. Small rocks and stones litter the trail making it difficult to walk without tripping.
+
+This area is illuminated.
+Obvious paths: south northwest*.
+s
+>[Highland Road.]
+
+Far from eastern housing and isolated for so long, nature has begun to make a come back. A few brave wildflowers have dared to grow among the brown weeds that choke off weaker plant life, adding an unusual splash of color to an otherwise dreary road.
+
+This area is illuminated.
+You see the 1st large rodent.
+Obvious paths: north* southeast.
+se
+>
+A large rodent enters, following Glinka.
+[Highland Road.]
+
+A few brown weeds have managed to grow from the poisoned ground through which this trail passes. Although quite a ways away, the smell of the eastern housing area wafts up from the south, assaulting your senses and turning your stomach. 
+
+This area is illuminated.
+You see the 1st large rodent.
+Obvious paths: south northwest*.
+s
+>
+A large rodent enters, following Glinka.
+[Highland Road.]
+
+On wet days rain collects in the deep ruts that run along the middle of this run down trade route, making for a very muddy journey. The discarded belongings of the citizens of Spur lay heaped along the sides of the trail even this far from the city itself.
+
+This area is illuminated.
+You see the 1st large rodent.
+Obvious paths: north* southeast.
+se
+>
+The large rodent wanders southeast.
+[Eastern Housing.]
+
+Just past the recently cleared rubble of one of the arena worker's hovels is an old forgotten trail that leads to the north and northwest. Overgrown with plants and unused for a lengthy time, the trail is hard to make out in places.
+
+This area is illuminated.
+You see the 1st thug and the 1st large rodent.
+Obvious paths: southeast northwest*.
+se
+>
+A thug enters, following Glinka.
+[Eastern Housing.]
+
+The splintered remains of a dilapidated shack block you from exploring this area any further, and you are forced to turn back the way you came. The former neighbors now pick through the rubble pile looking for anything that might still be useful to them. Some carry off some wooden boards that once were the walls and pieces of the roof.  
+
+This area is illuminated.
+You see the 1st thug.
+Obvious paths: southwest northwest*.
+sw
+>
+A thug enters, following Glinka.
+[Eastern Housing.]
+
+Rats and rodents scurry around the hovels looking for something to eat. You hear what you think are more of the furry creatures moving behind the piles of junk. Suddenly you realize that the noise is much too loud to be one of the small animals, and whatever might be making it is following along as you move along the path. 
+
+This area is illuminated.
+You see the 1st thug.
+Obvious paths: northeast* southwest.
+sw
+>
+A thug enters, following Glinka.
+[Eastern Housing.]
+
+Thankfully the air here is a little clearer, although the sights are not any better. A few feet away two hungry Thugians are fighting over the corpse of a dead rabid dog. They stop long enough to glance your way, look back at the dog's corpse, and then stare thoughtfully at each other - well, as thoughtful as a Thugian can be. They lumber to their feet and start heading your way, but halfway to you they start fighting with each other. You decide this is a good moment to move along quickly. 
+
+This area is illuminated.
+You see the 1st thug.
+Obvious paths: northeast* east southwest.
+>
+The thug wanders northeast.
+sw
+[Eastern Housing.]
+
+The ramshackle huts give way to patched and faded tents along this portion of the path. Small cooking fires burn in front of each tent, and your nose catches a truly disgusting odor coming from the pots set over the fires. As your stomach turns, you quicken your steps away from the cooking meals in the hopes of finding some fresh air.
+
+This area is illuminated.
+Obvious paths: northeast* west.
+w
+>[Eastern Housing.]
+
+The wooden shacks that line this dirt path are poorly built and falling apart. Some have holes so large that you can see inside to their dark rooms. Many of the tiny structures tilt to the side, almost falling over in sheer despair.  An open steel gate is here.
+
+This area is illuminated.
+Obvious paths: east* west.
+go gate
+>[Upper Graveyard]
+
+Below you is a cliff, marking the northern edge of Graveyard Hill. The leatherleaves and weeds are tall here, and you hope their rustling is only caused by the wind.  An open steel gate is here.
+
+This area is illuminated.
+Obvious paths: east south southwest.
+w
+w
+>You cannot move in that direction.
+>You cannot move in that direction.
+go gate
+>[Eastern Housing.]
+
+The wooden shacks that line this dirt path are poorly built and falling apart. Some have holes so large that you can see inside to their dark rooms. Many of the tiny structures tilt to the side, almost falling over in sheer despair.  An open steel gate is here.
+
+This area is illuminated.
+Obvious paths: east west.
+w
+>
+In the distance, a sudden scream of terror is stopped by a loud chopping noise.
+[Eastern Housing.]
+
+Growing within the shadow of the large Spurian Wall, even the sparse trees look run down. A few sickly looking leaves cling to their gnarled limbs. A broken swing hangs from one of the stronger looking branches, and you feel sorry for the children who must live here.  An open iron gate is here.
+
+This area is illuminated.
+Obvious paths: east*.
+go gate
+>[Eastern Spur Road.]
+
+A large, well-kept gate is cut into the immense wall that surrounds Spur. Although everything else has fallen into disrepair, it is evident that security is still of foremost importance to the Governor. Uniformed guards patrol high above, conscientiously glancing down to assure peace is being kept along this well-traveled road. A crotchety old man leans against the wall, just out of view of the guards, counting the coin he has thus far appropriated this fine day.  An open iron gate and an open thick stone door are here.
+
+This area is illuminated.
+Obvious paths: west.
+w
+w
+>[Eastern Spur Road.]
+
+Tall black spires rise from the building that towers above the hedge skirting the southern portion of Eastern Spur Road. Quickly whispered words and furtive gestures at the edifice seem enough to straighten out even the most unruly child. A distinctive howl pierces the air. Not many stop long enough to discern if it is just the wind or something far more sinister.
+
+This area is illuminated.
+Obvious paths: east* west.
+>[Eastern Spur Road.]
+
+Uneven cobblestones line the roadway. Worn down by time and heavy traffic, the large potholes have filled with water, debris and unidentifiable muck, and are more prevalent than the stone. Those who travel this way have grown accustomed to the trouble spots, and appear to be dancing to a strange, unheard tune as they bob and weave their way toward their destination.
+
+This area is illuminated.
+Obvious paths: east* west.
+w
+>[Eastern Spur Road.]
+
+A small gate stands between Eastern Spur Road and the small, weed infested path that heads north. Through the rusted and worn gate you can make out a few old headstones and crypts, but the vines and overgrown brush obstruct your view. The rumors of evil death-howls and unusual occurrences have the locals hurrying past this location as quickly as possible.  An open black obsidian gate is here.
+
+This area is illuminated.
+Obvious paths: east* west*.
+w
+w
+>[Eastern Spur Road.]
+
+A large, stubborn dog has resolutely planted himself in the middle of the road. His master pulls on the rope around his neck, then pushes his backside firmly. It is quite apparent that nothing short of a nice meaty bone is going to make him budge. Those who travel this path keep their heads lowered and ignore the comical scene. A gnawing hunger and aching muscles after a long day of hard work keep most from paying attention to even the simple things around them.
+
+This room is illuminated.
+Obvious exits: east* west*.
+w
+[Eastern Spur Road.]
+
+The crowd travels in both directions, moving with definite purpose. Downtrodden and of modest means, most wear the tattered clothing of the poor. Whether pushing carts of homegrown fruits and vegetables towards market or carefully holding the hands of dirt-smudged children and heading towards the housing to the east, talk is kept to a minimum, and eye contact is not made.
+
+This room is illuminated.
+Obvious exits: east* west*.
+[Eastern Spur Road.]
+
+A large double gate opens on the south side of the road, leading down an old cobbled path. Large wagons, small ox carts, and in some cases old buckboards make the turn toward the cemetery carrying their precious cargo to its final resting place. A large group of darkly-clad San Elves stand just outside the gate, carefully perusing those who pass by. It becomes obvious that those in Taath's Temple will be quickly informed of any insurgent groups heading their direction.  A large double gate is here.
+
+This room is illuminated.
+Obvious exits: east* west*.
+w
+w
+>[Eastern Spur Road.]
+
+A large sign that reads "Closed" is nailed on a metal grate covering the entrance to the stone arch that led to the old Spurian Arena. Dejected gladiators sit in front of the arch banging their sword hilts on the gate. Carts carrying bodies for the cemetery roll past the arch, those pushing the carts shaking their heads in awe at the sight.  An open iron gate is here.
+
+This room is illuminated.
+Obvious exits: east*.
+You cannot move in that direction.
+go gate
+>[Condemned Walk.]
+
+A diverse group of people travel through this large iron gateway. Gladiators lead criminals towards the arena. It is readily apparent that only the gladiators return, usually with a satisfied smirk on their faces. A large group of guards on top of the large Spurian Wall keeps a careful watch on the downtrodden who travel this way. Their appearance makes them suspect, their lack of strength, natural victims.  An open iron gate and a street lantern are here.
+
+This area is illuminated.
+Obvious paths: west*.
+w
+w
+>[Condemned Walk.]
+
+A colorfully clad flerian calls out the odds on newly sentenced criminals as they are marched slowly by heading towards their fate in the arena. For some the chance to fight will mean they live, for others the arena can be a cruel and painful death. One must wonder if many who are led to the arena would have preferred a simple execution.  A street lantern is here.
+
+This area is illuminated.
+Obvious paths: east* west*.
+w
+w
+[Condemned Walk.]
+
+Those who use Condemned Walk as a thoroughfare find themselves amongst an interesting group of travelers. Those returning from burying their dead and those from the dilapidated housing beyond the eastern gate mix with warriors and criminals. There has been many a time when a poor man has been mistaken for a common criminal and sent to battle those in the arena.  A street lantern is here.
+
+This area is illuminated.
+Obvious paths: east* west*.
+w
+w
+[Condemned Walk.]
+
+A small rivulet of blood flows down the path that leads from the north and meets up with Condemned Walk. At the end of the path lies Execution Square and its viewing stands. It is at this point that the sentenced criminals discover their fate. Many hope to battle for their lives in the arena, but for most, the sentence is execution by one of the Spurian Justices.  A street lantern is here.
+
+This area is illuminated.
+Obvious paths: north east* west*.
+[Town Square.]
+
+People hurry on their way along the eastern road both into and out of Spur. A black clad woman holding the hands of two small children slowly walks towards the east, facing the somber task of burial. Two armored warriors, carrying tankards, are in high spirits as they head back to Town Square to share the story of their day in the arena.  A street lantern is here.
+
+This room is illuminated.
+Obvious exits: east* west*.
+[Town Square East.]
+
+Travel to the eastern portion of Town Square finds battle clad warriors shoulder to shoulder with chained criminals and those who live outside the Spurian Walls. The cobblestones that line the street are stained with blood.  It is unknown as to whether the blood is from guards carrying out quick executions, or gladiators who refused to wait their turn for arena space.  A street lantern is here.
+
+This area is illuminated.
+Obvious paths: north* east* south* southwest* west* northwest*.
+[Town Square Center.]
+
+A massive gate dominates the center of the Town Square. Monolithic stone Imperial Dragons stand to each side of the gate like sentinels keeping watch over the city of Spur. The gigantic wings of the Dragons form a sculpted arch high overhead. Townsfolk stare at the monument with awe and reverence as they quickly wander by. Beneath the colossal structure rests a large marble fountain bordered with flowering shrubbery. Clear, sparkling water sprays from a spout at the fountain's tip and cascades down several tiers before spilling into a shimmering blue pool. Lifelike marble statues have been placed around the Square to celebrate the famous heroes of the past.  A carved marble statue of a Human, a carved marble statue of a Dragon, a flowing white marble fountain, some white marble benches, some flowering shrubbery, a brightly colored notice, a brightly painted wooden birdhouse on a pole, and a crystal flecked granite oliphant-shaped bench are here.
+
+This area is illuminated.
+Obvious paths: north* northeast* east* southeast* south* southwest* west* northwest*.
+how
+>You howl.
+who range race
+>List will be restricted to those within range.
+Race who list activated!
+
+                Current Secian Adventurers:
+
+Current Adventurers
+
+ Saphyne Silverlily                  Asha Metriahm                      
+ Glinka Dragondsfriend              
+
+You notice 3 adventurers.
+link pbpbpbppt!
+>
+inv
+>Items carried:
+  An intricately carved oak walking stick [0.1 lbs].
+  An open large forest green leather backpack [0.7 lbs].
+  A crescent moon earring [0.0 lbs].
+  A glimmering green orb of Elindale [0.1 lbs].
+  A bottle of Saldean rum [0.1 lbs].
+  A pair of ornate silver toe rings [0.0 lbs].
+  Some green and black silk leggings [0.0 lbs].
+  A wooden torch [0.2 lbs].
+  A hunter-green cotton shirt [0.1 lbs].
+  A polished steelwood mail [1.6 lb].
+  A pearl imbedded moonsilver bracelet [0.1 lbs].
+  An open hunter-green leather healer's bag [1.0 lb].
+  A pale green hemp belt [0.0 lbs].
+  A hunter-green silk cloak [2.3 lbs].
+  An Elindalian wildflower [0.1 lbs].
+  A delicately linked gold belly chain [0.0 lbs].
+  An open forest green leather healer's bag [1.9 lb].
+  A silver serpentine hoop [0.0 lbs].
+  An open small hunter-green leather remedy pouch [2.6 lbs].
+  A moon shaped ivory talisman [0.1 lbs].
+
+You have 68 silver pieces and 2 gold pieces.
+
+This gives you a total net worth of 268 silver.
+
+Your inventory totals 11.6 lbs.
+l in clo
+>Inside the hunter-green silk cloak you see a pair of ornate silver toe rings, a pair of ornate silver toe rings, a delicately linked gold belly chain, a pair of ornate silver toe rings, a shimmering crimson nethyn petal, a sparkling moonsilver jewel, a mysterious bone runestone, and a beautiful garland of roses.
+l
+>[Town Square Center.]
+
+A massive gate dominates the center of the Town Square. Monolithic stone Imperial Dragons stand to each side of the gate like sentinels keeping watch over the city of Spur. The gigantic wings of the Dragons form a sculpted arch high overhead. Townsfolk stare at the monument with awe and reverence as they quickly wander by. Beneath the colossal structure rests a large marble fountain bordered with flowering shrubbery. Clear, sparkling water sprays from a spout at the fountain's tip and cascades down several tiers before spilling into a shimmering blue pool. Lifelike marble statues have been placed around the Square to celebrate the famous heroes of the past.  A carved marble statue of a Human, a carved marble statue of a Dragon, a flowing white marble fountain, some white marble benches, some flowering shrubbery, a brightly colored notice, a brightly painted wooden birdhouse on a pole, and a crystal flecked granite oliphant-shaped bench are here.
+
+This area is illuminated.
+Obvious paths: north* northeast* east* southeast* south* southwest* west* northwest*.
+s
+s
+>[Town Square South.]
+
+The outward appearance of the people here seems a bit classier. Rich clothing and large coin purses are prevalent amongst the travelers. In fact, many of the folk heading into Town Square from the south are accompanied by large bodyguards to assure their safety. The well maintained road is lined with small brass lanterns, each swinging off an individual pole. No expense has been spared to keep those who travel this road safe from the hoodlums that relish the darkness.  A street lantern is here.
+
+This area is illuminated.
+Obvious paths: north* northeast* east* south* west* northwest*.
+s
+s
+>[Town Square.]
+
+s
+Smooth stones make up the street that leads from the center of Spur to the south. Each stone has been carefully fitted for the most comfortable travel by both cart and traveler alike. A well dressed Guard patrols the area in his dress uniform. Captains don't allow for slovenly appearances on this patrol.  A street lantern is here.
+
+This room is illuminated.
+Obvious exits: north* south*.
+s
+[Southern Ave.]
+
+Southern Avenue leads between the center of Spur and the homes of the prosperous and wealthy. Several of the Ladies of the city stroll along the avenue chatting about the current events and latest gossip of the Spur. Behind them, harried servants carry their reticules and all those belongings that they cannot be without.  A street lantern is here.
+
+This area is illuminated.
+Obvious paths: north* south*.
+[Southern Ave.]
+
+Vast estates tower over the huge Spurian wall towards the south. The well-to-do who live in these homes idle away their days, enjoying the luxury of time. Standing next to a very empty lantern pole, a small Flerian child insists in a plaintive wail, that he had nothing to do with the missing lantern. The well-dressed guard that interrogates him keeps pointing at a small sack on the ground and its obvious contents.  An open small burlap sack and a street lantern are here.
+
+This area is illuminated.
+Obvious paths: north* south*.
+[Southern Ave.]
+
+The boughs of a large apple tree hang over the well tended avenue. Below the beautiful tree stands a small fountain. Atop the fountain is an intricately carved Secian who appears to be dancing with the water as it splashes around her. Set in the marble base is a small plaque that reads, "For those who have gone before us." Many stand for a moment as they pass this way, giving thanks for the gift of life that is given by both the apple tree and the Secians of long ago. Large piles of dirt and broken stone lay on either side of the street as workmen ready the east and west alleys for expansion.  A street lantern is here.
+
+This area is illuminated.
+Obvious paths: north* east* south* west.
+[Southern Ave.]
+
+Standing next to the large iron gate that separates the center of town from those of the elite class are several of the Spurian Guard. They are here to assist all who pass with the simple kindness of opening a gate, or the more important task of escorting those in need to the bank or market. A young looking cadet rubs wax into the stones of the city wall, his task is daunting, but one that will teach him discipline.  An open iron gate and a street lantern are here.
+
+This area is illuminated.
+Obvious paths: north*.
+go gate
+>[Gateway.]
+
+An elegant, carved wooden sign hangs above the ornate gateway set into the massive wall that divides Spurs Noble District from the Town Square. You can make out city guardsmen peering down attentively at all that approach from their posts atop the imposing wall. They seem to take a greater interest in this part of town, though there does not seem to be anything threatening enough here to warrant such attention.  A wooden sign and a street lantern are here.
+
+This area is illuminated.
+Obvious paths: south*.
+s
+s
+sw
+>[Noble Way.]
+
+To the north, you can make out an ornately scrolled gateway set in the base of the imposing city wall. The refined roadway of Noble Way stretches out to the south. The cobblestones of the road are smooth and even. The attention to detail shown here is a dramatic change from some of the other parts of the city.  A street lantern is here.
+
+This area is illuminated.
+Obvious paths: north* south*.
+s
+s
+[Noble Way.]
+
+An unusually large home, even for this part of town, lies off to the west. It seems as if one ambitious owner is slowly buying up the lots next to his and adding them to his own. Groundskeepers are at work in the surrounding gardens, trimming and raking, so intent on their work they do not bother to acknowledge the passing traffic on the road.  A street lantern is here.
+
+This area is illuminated.
+Obvious paths: north* southwest*.
+se
+se
+[Noble Way.]
+
+Many grand, even ostentatious, homes line this stretch of Noble Way. Most of the residents here were fortunate enough to be born into the right families. Few that live in this area have ever actually had to work for a living. Glancing at the nameplates reveals many of the recognizable names of the Spur. Some of these names could almost be considered famous.  A street lantern is here.
+
+This area is illuminated.
+Obvious paths: northeast* south*.
+[Noble Way.]
+
+Noble Way continues to wind its way among the rather modestly sized, but elegant, homes of the Spur's successful. Many a peasant farmer may live in homes larger than these, but none can match the quality found here. A peaceful, luxurious feeling pervades this part of town; perhaps it is the drifting floral scents wafting from the well-tended gardens.  An elegant black iron gate and a street lantern are here.
+
+This area is illuminated.
+Obvious paths: north* south*.
+[Noble Way.]
+
+Gazing down each of the nearby private drives reveals a glimpse of a luxurious home, each a miniature estate in its own right. Short, stout walls and manicured hedges serve to keep out the riffraff and to protect the small, expensive gardens. Every detail has been attended to display the exotic plants, in all their pampered perfection.  A street lantern and a closed rosewood door are here.
+
+This area is illuminated.
+Obvious paths: north* southeast*.
+[Noble Way.]
+
+Leaving the exceptionally wealthy estates of the Spurian nobility, Noble Way heads toward the Town Square to the northwest. Along the roadside can be seen the in-city homes of successful merchants and other wealthy citizens of the Spur. The homes display a slightly different style, perhaps they are not quite so restrained; a touch more exuberance and freedom with materials is displayed.  A street lantern is here.
+
+This area is illuminated.
+Obvious paths: southeast* northwest*.
+[Intersection.]
+
+The avenue comes to a fork, with Noble Way curving from south to the northwest. A side-street heading off to the east leads to an extremely well kept neighborhood that easily surpasses everything around it in splendor and magnificence. Everything, even the carefully pruned trees and the manicured shrubbery displays a desire for elegant perfection.  A street lantern is here.
+
+This area is illuminated.
+Obvious paths: east* south* northwest*.
+s
+s
+>[Noble Way.]
+
+The entire avenue is composed of fine cobblestone, each level with its neighbor, providing a smooth ride for passing carriages and horses. The stones were customized by craftsmen, cut to order, rather than simply placed wherever they might fit. A few stately oaks and elms line the sides of the road, shading travelers during the daylight hours.  A street lantern is here.
+
+This area is illuminated.
+Obvious paths: north* south*.
+s
+>[Noble Way.]
+
+Numerous trees lining the avenue serve as the dividing border between the majestic estates of the nobility and the lightly traveled roadway. The estates themselves are noticeably closer to the avenue than those to the south. However, they are no easier to access, still protected by their own guarding walls, some covered with ivy or colorful blooming vines.  A street lantern is here.
+
+This area is illuminated.
+Obvious paths: north* south*.
+s
+[Noble Way.]
+
+Occasional gates and driveways lead back into the well-kept estates of the city's nobility, breaking and adding interest to the defining plane of the walls lining Noble Way. The rest of the street seems to mimic the splendor of the estates beyond the wall. Swept and trimmed, the roadway exudes a simple, yet beautiful elegance.  A street lantern is here.
+
+This area is illuminated.
+Obvious paths: north* south*.
+s
+s
+s
+>[Noble Crossroads.]
+
+A small roadway bordered by flowering hedges bisects the wide avenue of Noble Way at a right angle, heading east to west.  A thick, sturdy sign stands just off to the side of a charming path, its large friendly letters intent on luring travelers into the city's premiere roadstay, the Gilded Lion Inn. The entrance is clearly marked and welcoming, extending off to the southeast.  A wooden sign and a street lantern are here.
+
+This area is illuminated.
+Obvious paths: north* east* southeast* south* west*.
+[Noble Way.]
+
+Majestic elms continue to line this broad roadway, sheltering the avenue on both sides and further enhancing the grandiose atmosphere. Fronting the beautiful homes, cobbled paths edged with narrow flower beds meander through nearby private gardens. Though they appear wonderful places to spend an afternoon or take a picnic, the glances from those tending the estates makes it clear they are only for the invited.  A street lantern is here.
+
+This area is illuminated.
+Obvious paths: north* south*.
+[Noble Way.]
+
+The occasional locked gate marks the entrance to some of the more hidden estates of Spurs nobility. From this broad avenue, little can be seen of their splendor. Behind the imposing gate recedes a proud drive, disappearing mysteriously into the trees. If not for the large imposing tower rising above the hedges it would be hard to discern anything was beyond the gate. It is apparent the residents do not wish to be disturbed.  A street lantern, a closed morbius door, and an open black iron gate are here.
+
+This area is illuminated.
+Obvious paths: north* south*.
+[South Gate.]
+
+A well-guarded gateway separates the city's residential district from the farmlands just beyond. Guards carefully eye all that enter or exit the city, beckoning gruffly to random travelers for a closer inspection. The structure of the guards' barracks is visible above the road to the west. A weathered wooden sign is posted by the gate.  A wooden sign, a closed thick stone door, and a street lantern are here.
+
+This room is illuminated.
+Obvious exits: north*.
+go gate
+>[South gate.]
+
+Through the gate lies the city of Spur, the major center of trade and civilization on the plains. The dusty road leading through the gates is well traveled, and walls of the city are in good repair. A small shack sits to the west of the road, during most times of the day a dusty coach can be seen waiting in front, its horses stomping with impatience to be gone. To the right of the door is a small window, its opening covered with metal bars. An old man, missing most of his teeth, waits patiently for the travelers to pay their fare, and then directs them into the waiting area. On the east side of the road a billowing multicolored tent has been erected, the hustle and bustle of merchants and customers can be seen coming and going at all times of the day.  A rainbow silk tent is here.
+
+This area is illuminated.
+Obvious paths: east* south.
+s
+>[Road.]
+
+Even though it shows heavy wear, the road is in remarkably good repair. It was built by expert craftsmen to withstand the rigors of time and use. Evidence of recent repairs indicate that any problems are dealt with quickly and competently.
+
+This area is illuminated.
+Obvious paths: north* south southwest.
+s
+e
+>[Road.]
+
+The main north road has a branch here leading off to the east. A small sign posted at this intersection sports arrows pointing in all five directions. An open field lies off to the west and another to the southeast.
+
+This area is illuminated.
+Obvious paths: north* east southeast south west.
+e
+e
+e
+[Road.]
+
+You can see a large field opening up to the south at this point. In the middle of the road, there is a gaping hole from which emanates a constant humming noise. Most travelers avoid the hole by leaving the road.
+
+This area is illuminated.
+Obvious paths: east south west*.
+e
+[Road.]
+
+In the distance to the north, you can make out the looming walls of the city. The guards atop the walls are like ants at this distance. To the south of the road, you see a farmer's field, carefully tended to ensure his livelihood.
+
+This area is illuminated.
+Obvious paths: east west*.
+[Road.]
+
+Off along the north branch of the road is a large gatehouse. It stands at the base of a broad hill that seems to follow the city wall as it angles off to the northeast. The farmer's field to the south is neat and carefully tended.
+
+This area is illuminated.
+Obvious paths: north east west*.
+[Road.]
+
+The road follows along a farmer's field to the south. The broad rock wall that surrounds it gives silent testimony to the effort the farmer puts into his labors. Off to the north a broad hill bends around the city wall.
+
+This area is illuminated.
+Obvious paths: east west*.
+[Road.]
+
+The road bends from the west to the northeast at this point. To the southeast is a dirt trail that leads to a small house in the distance. The open expanse of a farmer's field stretches off to the south and west.
+
+This area is illuminated.
+Obvious paths: northeast east southeast west*.
+e
+>[East Trade Road.]
+
+You are on a recently built trade road leading to the east. The new white paving stones sparkle slightly in the sunlight. Far to the northeast, you see a broad haze of green and brown. To the south stands a small barn.  An open door is here.
+
+This area is illuminated.
+Obvious paths: east west*.
+e
+>[East Trade Road.]
+
+To the north, a broad expanse of flat prairie stretches off before meeting a giant forest on the horizon.  To the south are assorted Spurian farms, their crops swaying in the light breeze.
+
+This area is illuminated.
+Obvious paths: north east west*.
+e
+e
+>[East Trade Road.]
+
+The trade road winds its way through farms and rolling hills.  A small white marker stone displays the distance you have traveled from Spur, as well as another distance from somewhere to the east.
+
+This area is illuminated.
+Obvious paths: northeast west*.
+>You cannot move in that direction.
+ne
+>[East Trade Road.]
+
+The swishing sounds of a corn field to your south are the only noises that you can hear along this trade road. Massive pot holes fill the road here, making travel uneven and unbalanced.
+
+This area is illuminated.
+Obvious paths: east southwest*.
+e
+>[East Trade Road.]
+
+A few scraggly trees are the forerunners of the large forest barely coming into view on the horizon.  A picketed fence to the south of you marks the end of the corn field that you had been passing.  An open iron gate is here.
+
+This area is illuminated.
+Obvious paths: southeast west*.
+se
+>[East Trade Road.]
+
+A pike by the side of the road displays the head of a brigand caught by the road patrol.  It serves as a warning to all those who would try to rob the merchants who use this road as a trade route.
+
+This area is illuminated.
+Obvious paths: southeast northwest*.
+se
+e
+>[East Trade Road.]
+
+A cracked wheel from a cart lies next to the road.  It appears to have been abandoned in haste when it broke in the deep rut next to the road.
+
+This area is illuminated.
+Obvious paths: east south northwest*.
+>You fly down 5 feet to leave the area.
+[East Trade Road.]
+
+A wooden signpost gives the directions and distances to the two closest cities. The arrow leading west is denoted as Spur, while the one directing east states Caersech. Next to the signpost rests an elderly druid amidst a cushion of moss, leaves, and flower petals. He is currently lecturing a young apprentice on the city of Spur and the negative effects it has had on nature.
+
+This area is illuminated.
+Obvious paths: east west*.
+e
+ne
+>[East Trade Road.]
+
+A hedge of spiky brambles forms a natural division from the lands and the swampy terrain to the south. Tall, limbless trees dot the horizon there, their bases lost in the misty depths of the gases hovering over the waters. Now and then a strange, growling sound echos up to the north, or an odd, high-pitched call of some unseen crow, probably feasting on a fallen creature hidden in the mists. The path curves away from the sounds, as popular choice has preferred to travel around the edges, rather than through the marshy sludge.
+
+This area is illuminated.
+Obvious paths: northeast west*.
+e
+>[East Trade Road.]
+
+The open plains are becoming scattered with scraggly trees, the wood of which proving inefficient to use for building as the elements of nature have grown the trunks so twisted and hard in order to withstand the onslaughts of time. Circling around the northern base of a small hill, there lies the lapping edge of the swamp to the south. Small slimy creatures lie on the smooth stones near the water, darting into it at the speed of light as you near them with tiny splashes and echoing wakes blending into the small, gentle waves coming into the shore. Swarms of mosquitoes move along the land in unison, lending them the appearance of large, unified bodies hovering around for the next feast.
+
+This area is illuminated.
+Obvious paths: southeast southwest*.
+You cannot move in that direction.
+ne
+se
+>You cannot move in that direction.
+[East Trade Road.]
+
+The dried trees encroach even up to the roadside, here, their limbs reaching down to the passage as if to snatch the unwary passer-by. A sudden shift in the wind brings forth the sullied aroma of death and decay from the swamp southern lands. Slurpish noises belie the path of some creature traveling through the muddy scape, their movements hidden behind the smoky mist that reduces visibility to a mere few feet past the swamp's edge.
+
+This area is illuminated.
+Obvious paths: southeast northwest*.
+se
+e
+>[East Trade Road.]
+
+A white mile-marking stone rises up from the muck near the path, the numbers etched into its surface gathering moss and sludge in their inner edges. A small marsh rat perches atop the stone, eyeing you hungrily with glittering red orbs, its whiskers twitching nervously at you.
+
+This area is illuminated.
+Obvious paths: east northwest*.
+[East Trade Road.]
+
+Eyes of creatures too quick to be seen monitor your progress along the road. Their footprints can be seen occasionally, leading back and forth across the path, sometimes following along the edges, bringing to mind the vision of something that might be following you, at this very moment, leaving tiny or perhaps not so tiny footprints along the edge of the road as it stalks its prey.
+
+This area is illuminated.
+Obvious paths: northeast west*.
+ne
+>[East Trade Road.]
+
+Ravens dark as pitch spread their feathers to a wing-span of nearly four feet, so large they are, as they quarrel over an abandoned mule carcass on the roadside breaks out. How final death seems, so casually nature simply encompasses the bodies of the fallen, through carrion hunters or moldy decay. Yet through death there be life again, any number of these ravens being sustained through this death, so they may live. Perhaps only to become sustenance for one of the swamp creatures, who, in turn, spends its life continuing the cycle.
+
+This area is illuminated.
+Obvious paths: east southwest*.
+e
+>[East Trade Road.]
+
+A small orb of light hovers in the center of the path before you, only to disappear as you near it, reappearing further away into the swamp. Stepping near the orb to investigate closer only causes it to again blink out of existence, forming once more, deeper into the mists. It soon becomes apparent that the mysterious lights are attempting to slyly lead you into the swamp. To or for what purpose, is the question.
+
+This area is illuminated.
+Obvious paths: east west*.
+e
+>[East Trade Road.]
+
+The points of light are becoming bolder, flitting closer and closer to you and beckoning you to join them in the swamp. You must actively concentrate to avoid straying from the path and being hopelessly mired in the swamp.
+
+This area is illuminated.
+Obvious paths: southeast west*.
+se
+>[East Trade Road.]
+
+Tiny lights flit here and there and everywhere around you. Their light twinkles dimly in the sun, but in the darkness of the marsh, they practically shine with an appealing glow.
+
+This area is illuminated.
+Obvious paths: southeast northwest*.
+se
+e
+>[East Trade Road.]
+
+The swamp around you begins to thin out until it's nothing more than a very muddy marsh. The tiny lights still sparkle from within the swamp and are calling to you, but not as strongly as before. Another white marker is here.  A closed iron gate is here.
+
+This area is illuminated.
+Obvious paths: southeast northwest*.
+You cannot move in that direction.
+se
+>[East Trade Road.]
+
+The white paving stones give way to a boardwalk made of wooden planks.  The wood doesn't appear to be of Spurian make, and looks a great deal older, but very sturdy.  A finely crafted wooden boardwalk is here.
+
+This area is illuminated.
+Obvious paths: east northwest*.
+e
+>[East Trade Road.]
+
+The scraggly weeds of the marsh seem to grow so that they do not touch the road, as opposed to the Spurian road where all the vegetation was hacked off near it.  Even though they are old, the planks bear no moss.
+
+This area is illuminated.
+Obvious paths: east west*.
+e
+>[East Trade Road.]
+
+Following the lay of the land, the road curves slightly to the northeast to go around a stand of old trees.  The trees look more like forest trees than marsh trees.
+
+This area is illuminated.
+Obvious paths: northeast west*.
+ne
+>[East Trade Road.]
+
+A towering stone obelisk stands next to the road, serving boldly as a road marker.  The arrow east to Caersech shows that it is not much farther, while Spur is far away.
+
+This area is illuminated.
+Obvious paths: east southwest*.
+e
+>[East Trade Road.]
+
+The marsh is becoming less and less apparent, and larger trees are becoming more common. To the east you see a large forest blotting out a great deal of the sky. One tree in particular towers over all the others. 
+
+This area is illuminated.
+Obvious paths: southeast west*.
+se
+>[East Trade Road.]
+
+You hear voices chattering around you but you can't see the source.  After a few moments of listening, you look up into a tree next to the path and see three Fir Elves sitting in the tree talking to each other.  They smile down at you and give you a friendly greeting.
+
+This area is illuminated.
+Obvious paths: southeast northwest*.
+se
+e
+>[East Trade Road.]
+
+All around you the earth is trampled flat.  You see a myriad of footprints and hoofprints in every direction.  A broken post on the side of the road may have once had a sign on it, but was snapped off near the ground.  It looks like someone left here in a hurry.  A broken post is here.
+
+This area is illuminated.
+Obvious paths: northeast northwest*.
+ne
+>You cannot move in that direction.
+>[East Trade Road.]
+
+The road becomes a bridge to cross a small river that meanders its way out of the forest to your northeast.  Oddly, the wooden planks of the bridge don't seem to be held up by anything.
+
+This area is illuminated.
+Obvious paths: east southwest*.
+who range race
+>List will be restricted to those within range.
+Race who list activated!
+
+                Current Secian Adventurers:
+
+Current Adventurers
+
+ Glinka Dragondsfriend              
+
+You notice 1 adventurer.
+l
+>[East Trade Road.]
+
+The road becomes a bridge to cross a small river that meanders its way out of the forest to your northeast.  Oddly, the wooden planks of the bridge don't seem to be held up by anything.
+
+This area is illuminated.
+Obvious paths: east southwest.
+e
+>[East Trade Road.]
+
+Runoff from the river to the west makes the ground all around soggy.  It appears to be even more wet to the northeast where a small marsh sits at the entrance to a huge forest spanning as far east as the eye can see.
+
+This area is illuminated.
+Obvious paths: northeast west*.
+ne
+>[East Trade Road.]
+
+Large trees begin to bunch around the road that has become little more than a path leading through the undergrowth.  The forest begins to fill your vision as you continue.
+
+This area is illuminated.
+Obvious paths: northeast southwest*.
+ne
+>[East Trade Road.]
+
+As you continue into the forest, you begin to forget that there were ever other colors than brown, green, and black.  As suddenly as that thought comes, you see a set of piercing red eyes in the shadows, that soon scurry away.
+
+This area is illuminated.
+Obvious paths: east southwest*.
+e
+>[East Trade Road.]
+
+Puddles of murky water dully reflect the giant trees that surround you.  You feel the prickle of eyes watching you, though you don't get a feeling of malice, just curiosity.
+
+This area is illuminated.
+Obvious paths: east west*.
+e
+>[Trail.]
+
+To the west, tall grasses and scraggly trees obscure the view of a small town.  Creating a natural barrier to the east are rows of thorny hedges.  A haze of dark green can be seen to the northeast.
+
+This area is illuminated.
+Obvious paths: northeast west*.
+ne
+>[Trail.]
+
+The hedgerows grow less dense and the ground becomes soft and springy. The air has taken on a moist and uncomfortably clammy feel. The top of a very tall hill can be seen far to the southeast.
+
+This area is illuminated.
+Obvious paths: northeast southwest*.
+ne
+>[Trail.]
+
+This looks to be the northern edge of the Eastlands marsh. Each step becomes more difficult as the ground becomes a muddy bog. Straying from the trail would be unwise at this point.
+
+This area is illuminated.
+Obvious paths: northeast east southwest*.
+e
+>[Bog.]
+
+Stepping off the path has proven unwise, indeed! You find yourself bogged down in a quagmire. Regaining the safety of the trail proves impossible. Your every movement causes you to sink farther into the muddy depths of the marsh. A vine is hanging only a few feet above your head.
+
+This area is illuminated.
+Obvious paths: None.
+go vi
+wrin
+>[Trail.]
+
+This looks to be the northern edge of the Eastlands marsh. Each step becomes more difficult as the ground becomes a muddy bog. Straying from the trail would be unwise at this point.
+
+This area is illuminated.
+Obvious paths: northeast east* southwest.
+>You wrinkle your nose.
+ne
+>[Trail.]
+
+The trail abruptly disappears into a dense wall of foggy mist. The ground here is soggy. Each step sets off a cacophony of buzzing insects, accompanied by the squelching sound of boots being grabbed by slimy muck.
+
+This area is illuminated.
+Obvious paths: north southwest*.
+n
+>[Trail.]
+
+The trail skirts the border of the dismal marsh. Noxious vapors rise from the stagnant waters that lap at the noticeably narrowing route. What had been a dark green haze can now be distinguished as a massive forest.
+
+This area is illuminated.
+Obvious paths: northeast south*.
+ne
+>[Trail.]
+
+Murky water has encroached upon the trail, making the way treacherous. A careful survey of the watery surroundings shows a faint path veering sharply to the north, away from the marsh and toward the forest.
+
+This area is illuminated.
+Obvious paths: north southwest*.
+n
+>[Trail.]
+
+Cypress trees stand firmly rooted in the still-damp earth. Still, it appears the swamp has been left behind. The ground here is firmer and the trail clear.
+
+This area is illuminated.
+Obvious paths: northeast south*.
+ne
+>[Caersech Forest.]
+
+The soggy trail becomes a solid dirt path, sheltered by the trees of a forest whose boundary begins where the swamp ends. The path heads northwest, leading you into the forest proper.
+
+This area is illuminated.
+Obvious paths: northeast southwest*.
+ne
+>[Caersech Forest.]
+
+Through the branches of stately trees, glimpses of the sky can be seen. The path continues, winding northwest through the eastern edge of the forest.
+
+This area is illuminated.
+Obvious paths: southwest* northwest.
+nw
+>[Path.]
+
+Chittering noises come from overhead and tree branches dip and sway. A small brown shape scampers across the path, gone before it can be glimpsed and identified. The path disappears into a copse of saplings.  A thick copse of saplings is here.
+
+This area is illuminated.
+Obvious paths: northeast southeast*.
+ne
+>[Copse.]
+
+The sounds of small animals scampering in the underbrush and trilling chirps from the branches overhead provide ample evidence that the forest is a hospitable home to wildlife. 
+
+This area is illuminated.
+Obvious paths: east south southwest* west.
+e
+>[Copse.]
+
+The undergrowth thins here, and you are able to pick up traces of the path. To the east, where only a thin line of small trees mark the forest boundary, the marsh ends its reign and what appears to be a grassy plain begins.
+
+This area is illuminated.
+Obvious paths: south west* northwest.
+nw
+>[Copse.]
+
+The path becomes better defined, though it is still difficult to follow in the undergrowth, which has grown more dense. It is evident that the path at one time was a well-traveled route. Perhaps to the Spur?
+
+This area is illuminated.
+Obvious paths: north southeast*.
+n
+>[Path.]
+
+The path progresses along, still skirting the eastern boundary of the forest. Other than the occasional noises common to woodlands, there is no evidence of higher forms of life. A squirrel streaks through the underbrush and up the trunk of a tree.
+
+This area is illuminated.
+Obvious paths: south* northwest.
+nw
+>[Path.]
+
+The trees are becoming taller, and their trunks larger, as you make your way along. The smaller birch and beech trees have given way to graceful elms. A low growl comes from amidst the trunks of the trees, but it is impossible to determine the direction.
+
+This area is illuminated.
+Obvious paths: northeast southeast*.
+>
+Your wooden torch flickers for a moment.
+ne
+[Path.]
+
+Trees surround you on all sides; for a moment the path is lost to sight. Something slithers through the underbrush. Try as you might, you can't identify what it might have been. You feel uneasy, as though something is watching your every move.  An overgrown path is here.
+
+This area is illuminated.
+Obvious paths: northeast southwest* northwest.
+ne
+>[Brambles.]
+
+Struggling through the underbrush, you make your way down the small trail only to be brought up short by an impenetrable wall of brambles. Plump red berries hang from the small branches of the bushes, guarded by long, sharp thorns. On a low hanging branch overhead, a watchful owl stares at you with golden eyes.  A slightly hidden trail and an ethereal looking owl are here.
+
+This area is illuminated.
+Obvious paths: southwest* northwest.
+nw
+>[Thicket.]
+
+Winding through the trees, the path emerges from the dense foliage and continues northward. You begin to wonder if there is a way into the seemingly impenetrable western forest. A track, that looks to be one used by small animals, veers off to the side.
+
+This area is illuminated.
+Obvious paths: north southeast* southwest.
+n
+>[Riverside.]
+
+The footbridge that once connected this path to its match on the other side of the overflowing rushing river is now nothing more then a few charred pilings. Tiny insects buzz around their remains, finding a comfortable new home. Lashed to the remains of one of the more sturdy pilings is a tall steel pole. Wrapped around the pole, and tied securely is a taut rope. Bobbing ever so lightly due to the strain of the riverboat, the rope holds tight.  A flowing river, a freshly painted sign, and some carved oak benches are here.
+
+This area is illuminated.
+Obvious paths: south*.

@@ -1,0 +1,3902 @@
+time
+
+Current time is: Thu Jun 23 20:36:37 2005 EST.
+time
+
+It is now 3:15 pm on the 16th day of the 3rd month in the year 320.
+
+You have been adventuring for 1 hr, 18 mins, 4 secs this session.
+
+>
+Arkayne furrows his brow at Mesia.
+l
+[Romantic Retreat.]
+
+Candles flicker softly as shadows dance against the silk curtains that make the walls of this romantic retreat.  Plush black and burgundy velvet floor cushions are strewn invitingly about the room. A marble-topped cabinet holds an assortment of drinks and treats. The intoxicating scent of incense fills the room with a slightly spicy air.  Some soft black velvet floor cushions, some soft burgundy velvet floor cushions, a silver rose etched crystal candy bowl, a silver rose etched crystal candy bowl, a marble topped ebony bar, a marble topped ebony bar, some softly glowing scented candles, and a shimmering flower curtain are here.
+
+This room is illuminated.
+In the room are Kambralyn the Noble Fir Elf, Adianna the Leuian, Arkayne the Noble Draco, Morkeleb the Secian, Jyrayel the Noble Draco, Orianna the Noble Anthian, Mesia the Novice Secian, and Kithrael the Fir Elf (seated).
+Obvious exits: None.
+>
+Kithrael says, "The rules are... pick a partner, and ask if they accept.  If so, kiss them."
+
+Mesia snickers.
+l at ka
+
+Kambralyn looks like a 5'6" standard adolescent light boned, wiry-tough bodied Fir Elf.
+She has long, braided, medium dark brown hair, with hazel eyes, and looks neat.
+She appears to be neutral right now.
+She bears the mark of Elindale.
+She can be attacked by other players.
+She has no apparent injuries, but looks tired.
+
+Physical appearance:
+
+A young female stands before you with a freshly scrubbed face and one long, damp, plaited braid. Behind her right ear is a glimmering moonflower and intertwined within the braid are a few fragrant roses and a string of ivy.
+
+                        Visible Equipment
+A heavy swirling nebulous orichalcum jazeraint     (armor)
+A rose entwined circlet of ivy                     (on head)
+An Elven crafted black leather quiver              (on back)
+A sparkling Elven diamond shadow warrior gem       (around neck)
+A jasmine clasped ivy vine bracelet                (over hands)
+Some polished black leather thigh-high boots       (on feet)
+A satin-lined pitch black oiled wool cloak         (over armor)
+A softly glimmering moonflower                     (right ear)
+Some moonsilver trimmed emerald green leggings     (pants)
+A delicately embossed black leather halter         (shirt)
+
+She has been bestowed the following title(s):
+  Noble of the Realm
+
+Additional titles earned:
+  Scout Master
+
+>
+Kithrael says, "Kambralyn and I will judge."
+l at or
+
+Orianna looks like a 4'6" standard adolescent light boned, wiry-tough bodied Anthian.
+She has very long, braided, fine golden blonde hair, with ruby red eyes, and looks casual.
+She appears to be happy right now.
+She bears the mark of Elindale.
+She can be attacked by other players.
+She appears to be in perfect health.
+
+Physical appearance:
+
+Before you stands a young Anthian woman, a slight glow on her cheeks and her movements a bit awkward. Her armor shows signs of having been hastily altered to accomodate her burgeoning belly.
+
+                        Visible Equipment
+A light forest green steelwood brigandine          (armor)
+An unicorn shaped gold holy symbol                 (around neck)
+A pair of ivy embossed leather gloves              (over hands)
+A forest green knightly wool mantle                (over armor)
+A twinkling green diamond band of luck             (ring (right))
+An oak ring of Elindale                            (ring (right))
+A brilliant diamond engagement band                (ring (left))
+An ivy carved emerald oak ring                     (ring (left))
+An emerald stud                                    (right ear)
+An emerald stud                                    (left ear)
+Some forest green spidersilk leggings              (pants)
+An ivy embroidered white cotton hip-length tunic   (shirt)
+
+She has been bestowed the following title(s):
+  Noble of the Realm
+
+l at ki
+>
+Kithrael looks like a 5'8" standard young delicate boned, wiry-tough bodied Fir Elf.
+He is seated.
+He has long, straight, fine platinum blonde hair, with pitch black eyes, and looks neat.
+He appears to be amused right now.
+He bears the mark of Elindale.
+He can be attacked by other players.
+He appears to be in perfect health.
+There is a shining gold emblem affixed to his clothing.
+
+Physical appearance:
+
+A look of serenity crosses the young Elf's face, contentment within his eyes.  His strength of faith and fervor of conviction manifests within his movements, and he no longer appears as innocent as he once was.
+
+                        Visible Equipment
+A heavy ivy etched ivory breastplate               (armor)
+An ivory studded leather buckler                   (shield)
+A leaf covered leather dew moistened quiver        (on back)
+Some forearm-length leather fingerless gloves      (over hands)
+Some pitch black leather boots                     (on feet)
+A hooded forest green cloak of leaves              (over armor)
+A gold veined pine falcon ring                     (ring (left))
+Some forest green spidersilk clerical robes        (dress)
+Some black satin pants                             (pants)
+An unicorn-etched cream colored sash               (on belt)
+Some unicorn etched ebony prayer beads             (on belt)
+>
+Arkayne says to Mesia, "I'm quite certain that I am fine back here"
+l
+[Romantic Retreat.]
+
+Candles flicker softly as shadows dance against the silk curtains that make the walls of this romantic retreat.  Plush black and burgundy velvet floor cushions are strewn invitingly about the room. A marble-topped cabinet holds an assortment of drinks and treats. The intoxicating scent of incense fills the room with a slightly spicy air.  Some soft black velvet floor cushions, some soft burgundy velvet floor cushions, a silver rose etched crystal candy bowl, a silver rose etched crystal candy bowl, a marble topped ebony bar, a marble topped ebony bar, some softly glowing scented candles, and a shimmering flower curtain are here.
+
+This room is illuminated.
+In the room are Kambralyn the Noble Fir Elf, Adianna the Leuian, Arkayne the Noble Draco, Morkeleb the Secian, Jyrayel the Noble Draco, Orianna the Noble Anthian, Mesia the Novice Secian, and Kithrael the Fir Elf (seated).
+Obvious exits: None.
+>
+Arkayne nods firmly.
+
+Mesia grins.
+l at ar
+
+Arkayne looks like a 6'11" standard 1st stage delicate boned, wiry-tough bodied Dragon.
+He has short, wispy hair, with silvery eyes, and looks razor-sharp.
+He appears to be unconcerned right now.
+He can be attacked by other players.
+He appears to be in perfect health.
+
+Physical appearance:
+
+A tall and taciturn figure with a stoney and stoic countenance.
+
+                        Visible Equipment
+A two-handed steel shafted moonsilver lochaber axe (right hand)
+Some light highly polished copper chainmail        (armor)
+Some black leather shoes                           (on feet)
+A flowing midnight blue velvet hooded cloak        (over armor)
+Some black tweed pants                             (pants)
+A blue and white ruffled silk shirt                (shirt)
+A black leather belt                               (on belt)
+
+He has been bestowed the following title(s):
+  Noble of the Realm
+
+l at ad
+>
+Adianna looks like a 6'3" standard young light boned, muscular bodied Leuian.
+She has short, wild, glossy black fur with fiery highlights, light green eyes, and looks spotless.
+She appears to be tired right now.
+She bears the mark of Set.
+She can be attacked by other players.
+She appears to be in perfect health.
+                        Visible Equipment
+Some damaged heavy blood red lacquered bone scale  (armor)
+A pair of black and gold leather open-toed sandals (on feet)
+A long black leather belted robe                   (over armor)
+A pair of intricately entwined moonsilver serpents (ring (right))
+A sparkling opal dangling earring                  (right ear)
+A sparkling opal dangling earring                  (left ear)
+Some black wool trousers                           (pants)
+A red satin blouse                                 (shirt)
+A red and black leather belt                       (on belt)
+l
+>[Romantic Retreat.]
+
+Candles flicker softly as shadows dance against the silk curtains that make the walls of this romantic retreat.  Plush black and burgundy velvet floor cushions are strewn invitingly about the room. A marble-topped cabinet holds an assortment of drinks and treats. The intoxicating scent of incense fills the room with a slightly spicy air.  Some soft black velvet floor cushions, some soft burgundy velvet floor cushions, a silver rose etched crystal candy bowl, a silver rose etched crystal candy bowl, a marble topped ebony bar, a marble topped ebony bar, some softly glowing scented candles, and a shimmering flower curtain are here.
+
+This room is illuminated.
+In the room are Kambralyn the Noble Fir Elf, Adianna the Leuian, Arkayne the Noble Draco, Morkeleb the Secian, Jyrayel the Noble Draco, Orianna the Noble Anthian, Mesia the Novice Secian, and Kithrael the Fir Elf (seated).
+Obvious exits: None.
+l at me
+>
+Mesia looks like a 1'8" standard young light boned, wiry-tough bodied Secian.
+She has shoulder length, wavy, coarse platinum blonde hair, with pale red eyes, and looks orderly.
+She appears to be happy right now.
+She bears the mark of Rinanni.
+She can be attacked by other players.
+She appears to be in perfect health.
+
+Physical appearance:
+
+Her pale red eyes seem to contrast the glorious brightness of her platinum blonde hair. A few wavy strands covered in sparkling water droplets hang over her eyes, hiding her face a bit, but a sweet smile able to be seen resting on her lips.
+
+                        Visible Equipment
+A light silver etched steelwood brigandine         (armor)
+A red feathered crepe phoenix mask                 (on head)
+A light blue beaded necklace                       (around neck)
+A moonsilver clasped pearl Rinannimas bracelet     (over hands)
+Some silver black leather boots                    (on feet)
+A glistening blue sapphire droplet                 (right ear)
+A glistening blue sapphire droplet                 (left ear)
+A twinkling pale blue layered tulle skirt          (pants)
+A pale blue silk blouse                            (shirt)
+l
+>[Romantic Retreat.]
+
+Candles flicker softly as shadows dance against the silk curtains that make the walls of this romantic retreat.  Plush black and burgundy velvet floor cushions are strewn invitingly about the room. A marble-topped cabinet holds an assortment of drinks and treats. The intoxicating scent of incense fills the room with a slightly spicy air.  Some soft black velvet floor cushions, some soft burgundy velvet floor cushions, a silver rose etched crystal candy bowl, a silver rose etched crystal candy bowl, a marble topped ebony bar, a marble topped ebony bar, some softly glowing scented candles, and a shimmering flower curtain are here.
+
+This room is illuminated.
+In the room are Kambralyn the Noble Fir Elf, Adianna the Leuian, Arkayne the Noble Draco, Morkeleb the Secian, Jyrayel the Noble Draco, Orianna the Noble Anthian, Mesia the Novice Secian, and Kithrael the Fir Elf (seated).
+Obvious exits: None.
+>
+Morkeleb just went through a shimmering flower curtain.
+gig
+You giggle.
+>
+Mesia says, "I missed my kissing class, I doubt I'd be much good"
+
+Mesia waves dismissively.
+
+Kithrael says, "Everyone is so shy."
+
+Kithrael shakes his head from side to side sadly.
+' not me
+
+Glinka says, " not me"
+beam
+>You beam.
+>
+Kambralyn says to Mesia, "have a glass of champagne, I'm sure that will be enough to loosen you up"
+
+Mesia is looking at you.
+
+Kithrael says to Glinka, "And for that, I'm glad."
+
+Mesia snickers.
+
+Kambralyn gestures at the marble topped ebony bar.
+
+Kithrael grins at you teasingly.
+dan with me
+You cannot do that from this position!
+>
+Orianna says, "need more males"
+stand very quickly, her long soft kinky pure whyte hair making a rustling sound...
+You stand up very quickly, her long soft kinky pure whyte hair making a rustling sound....
+gig
+>You giggle.
+>
+Kithrael asks Orianna, "I'm not enough?"
+
+Kithrael pouts.
+get cha from bar
+You remove the glass of bubbling champagne from the marble topped ebony bar.
+>
+Mesia snickers at Kithrael.
+dri cha
+How do you intend to drink that?
+You see Glinka trying to drink from her amethyst star and moon charm bracelets.
+hic
+>You hiccup.
+>
+Orianna asks Kithrael, "you really think you're up for it?"
+gig
+You giggle.
+>
+Orianna raises an eyebrow at Kithrael.
+
+Jyrayel nods to Arkayne.
+
+Mesia snickers.
+l at j
+
+Jyrayel looks like a 7'1" standard 1st stage delicate boned, wiry-tough bodied Dragon.
+He has long, kinky hair, with glowing red eyes, and looks razor-sharp.
+He appears to be neutral right now.
+He can be attacked by other players.
+He appears to be in perfect health.
+                        Visible Equipment
+A heavy polished steelwood mail                    (armor)
+A bone shield                                      (shield)
+Some broadcloth trousers                           (pants)
+A broadcloth vest                                  (shirt)
+
+He has been bestowed the following title(s):
+  Noble of the Realm
+
+l
+>[Romantic Retreat.]
+
+Candles flicker softly as shadows dance against the silk curtains that make the walls of this romantic retreat.  Plush black and burgundy velvet floor cushions are strewn invitingly about the room. A marble-topped cabinet holds an assortment of drinks and treats. The intoxicating scent of incense fills the room with a slightly spicy air.  Some soft black velvet floor cushions, some soft burgundy velvet floor cushions, a silver rose etched crystal candy bowl, a silver rose etched crystal candy bowl, a marble topped ebony bar, a marble topped ebony bar, some softly glowing scented candles, and a shimmering flower curtain are here.
+
+This room is illuminated.
+In the room are Kambralyn the Noble Fir Elf, Adianna the Leuian, Arkayne the Noble Draco, Jyrayel the Noble Draco, Orianna the Noble Anthian, Mesia the Novice Secian, and Kithrael the Fir Elf (seated).
+Obvious exits: None.
+>
+Kithrael says to Orianna, "And there's the Draco, there... he's surely a fine specimen, if I'm any judge of men, which I'm really not."
+gri
+You grin.
+>
+Mesia grins at Kithrael.
+
+Orianna grins.
+
+Mesia says to Kithrael, "There's two, actually."
+
+Orianna ponders how mad would Gideon be.....
+
+Kithrael says to Mesia, "Ah, aye, the second one slipped in without my noticing."
+
+Kithrael fidgets.
+
+Kambralyn grins at Orianna.
+l at cha
+It looks like some amethyst star and moon charm bracelets.
+>
+Mesia grins at Kithrael.
+dri cham
+You take a drink from your glass of bubbling champagne.
+
+Hmmm... not bad.
+>
+Kithrael says to Orianna, "If thou would like, I can extend the kissing contest a few days, so thou could get him out."
+
+Kithrael says, "I've only a prize for one, but... I suppose a couple can share it."
+
+Mesia snickers.
+
+Kambralyn just removed a glass of bubbling champagne from within the marble topped ebony bar.
+You see Kambralyn take a drink from her glass of bubbling champagne.
+You see Kambralyn take a drink from her glass of bubbling champagne.
+off cham to me
+You offer Mesia a glass of bubbling champagne.
+
+>
+Kambralyn says, "there's some sweets as well here"
+
+Kambralyn gestures at the silver rose etched crystal candy bowl.
+
+Mesia grins at you.
+gig
+You giggle.
+>
+Mesia accepts your glass of bubbling champagne.
+
+Orianna says, "he should waken later - maybe before it's done at this rate..."
+
+Kithrael grins at Orianna.
+
+Kithrael says, "We'll be leaving when the jewelry peddle starts."
+'me, give it a try
+
+Glinka says to Mesia, "give it a try"
+kiss me gently upon the lips, brushing her soft eyelashes upon the cheek in passing
+>You kiss Mesia gently upon the lips, brushing her soft eyelashes upon the cheek in passing.
+>
+Kithrael says, "I have an order I need to make."
+gig
+You giggle.
+>
+Mesia blushes a dark pink.
+
+Orianna says, "sides, it'd have to be a flying kiss for me to reach of the the dragons"
+
+Adianna just removed some toffee covered cashews from within the silver rose etched crystal candy bowl.
+
+Mesia says to Orianna, "I'm sure they'd kneel down."
+
+Orianna giggles.
+
+Adianna just placed some toffee covered cashews within her open red leather healer's bag.
+
+Kithrael asks Mesia, "As all men should, when a woman demands their love?"
+
+Kithrael wrinkles his nose.
+
+Mesia hops on Arkayne, climbing up to his shoulder.
+gig
+
+Kambralyn grins.
+You giggle.
+>
+Arkayne smiles at Mesia.
+who range race
+List will be restricted to those within range.
+Race who list activated!
+
+                Current Secian Adventurers:
+
+Current Adventurers
+
+ Glinka Dragondsfriend               Sast Silverleaf                    
+ Mesia Asina                        
+
+You notice 3 adventurers.
+>
+Mesia exclaims to Orianna, "Or just do this!"
+l
+[Romantic Retreat.]
+
+Candles flicker softly as shadows dance against the silk curtains that make the walls of this romantic retreat.  Plush black and burgundy velvet floor cushions are strewn invitingly about the room. A marble-topped cabinet holds an assortment of drinks and treats. The intoxicating scent of incense fills the room with a slightly spicy air.  Some soft black velvet floor cushions, some soft burgundy velvet floor cushions, a silver rose etched crystal candy bowl, a silver rose etched crystal candy bowl, a marble topped ebony bar, a marble topped ebony bar, some softly glowing scented candles, and a shimmering flower curtain are here.
+
+This room is illuminated.
+In the room are Kambralyn the Noble Fir Elf, Adianna the Leuian, Arkayne the Noble Draco, Jyrayel the Noble Draco, Orianna the Noble Anthian, Mesia the Novice Secian, and Kithrael the Fir Elf (seated).
+Obvious exits: None.
+>
+Orianna asks Kithrael, "demands? might want to rephrase that..."
+
+Orianna raises an eyebrow at Mesia.
+
+Adianna chuckles.
+
+Mesia says to Orianna, "Climb on 'em."
+
+Mesia nods up and down to Orianna.
+
+Orianna giggles.
+
+Arkayne grunts.
+hop on j
+You hop on Jyrayel.
+>
+Mesia snickers.
+beam
+You beam.
+>
+Mesia grins at you.
+
+Orianna says to Mesia, "I have a little trouble climbing these days"
+hop off
+You hop off.
+>
+Kithrael is looking at you.
+
+Kithrael asks, "Where are all of those Rinannians that just moved into the forest?"
+You see Mesia retreat 5 UDs to the rear!
+
+Kithrael flails his arms about wildly.
+
+Mesia holds Arkayne close.
+chu impishly, rubbing her nose...
+
+A large Oog-ra saunters into the room carrying a tiny sack full of tools.
+You chuckle impishly, rubbing her nose...
+>
+l
+[Romantic Retreat.]
+
+Candles flicker softly as shadows dance against the silk curtains that make the walls of this romantic retreat.  Plush black and burgundy velvet floor cushions are strewn invitingly about the room. A marble-topped cabinet holds an assortment of drinks and treats. The intoxicating scent of incense fills the room with a slightly spicy air.  Some soft black velvet floor cushions, some soft burgundy velvet floor cushions, a silver rose etched crystal candy bowl, a silver rose etched crystal candy bowl, a marble topped ebony bar, a marble topped ebony bar, some softly glowing scented candles, and a shimmering flower curtain are here.
+
+This room is illuminated.
+In the room are Kambralyn the Noble Fir Elf, Adianna the Leuian, Arkayne the Noble Draco, Jyrayel the Noble Draco, Orianna the Noble Anthian, Mesia the Novice Secian, and Kithrael the Fir Elf (seated).
+Obvious exits: None.
+>
+Orianna ponders the meaning of the universe for a moment.
+
+He says, while fumbling with the sack between two massive fingers, 'Miz Beryline gonna be ad dah festibul tuh tek odahs fer joolry.'
+
+Mesia blinks.
+
+He drops the tiny sack, tiny jewelry making tools spilling all over the ground. He glances down and sighs then says, 'Breng yuh koyn cuz she gonna mek id fer ya den...'
+who range race
+List will be restricted to those within range.
+Race who list activated!
+
+                Current Secian Adventurers:
+
+Current Adventurers
+
+ Glinka Dragondsfriend               Sast Silverleaf                    
+ Mesia Asina                        
+
+You notice 3 adventurers.
+>
+Kithrael says, "I will not be kissed by an Oog-ra."
+
+Kithrael grunts.
+
+Adianna glances around.
+
+Grunting while trying to bend down and pick up the tiny tools that have fallen out of the sack, he says, 'She gunna be in duh pedlah's tent ad de festibal grunds in bout 20 minuds.'
+gig to ki
+You giggle to Kithrael.
+>
+Adianna asks, "no one has stepped up?"
+
+Orianna asks, "think she can alter jewelry?"
+
+Kambralyn says, "oh look there's a Oog-ra to kiss now...."
+
+The Oog-ra groans as he stands back up and stuffs the tools back into the sack and wanders out to spread the news.
+
+Mesia grins at Kithrael.
+
+Orianna wrinkles her nose.
+
+Kambralyn asks, "who wants first dibs?"
+
+Mesia exclaims to Kithrael, "Come oonnn be a sport!"
+
+Orianna points at Kambralyn.
+
+Kithrael nods to Orianna.
+
+Kambralyn laughs.
+
+Kithrael says to Adianna, "Not yet, just Glinka."
+gig
+You giggle.
+>
+Adianna inhales.
+
+Orianna taps the unicorn shaped gold holy symbol.
+lean head ad ......her long soft kinky hair falling all over....
+Too far!  You must close some distance before you can try that.
+smi at ad gently, winking..
+>You smile at Adianna gently, winking..
+tact
+>Standing in this rank is:
+Glinka, Kambralyn, Jyrayel, Orianna
+Standing behind you at 1 UDs, is:
+Kithrael
+Standing behind you at 5 UDs, is:
+Adianna, Arkayne, Mesia
+>
+Kithrael says to Adianna, "Although she is quite the kisser, and a difficult one to beat."
+
+Mesia holds the dainty glass unicorn figurine close.
+
+Adianna asks, "and you the target?"
+beam proudly
+You beam proudly.
+>
+Orianna says, "I bought this at Brog's but it has weird embroidery on the back"
+
+Mesia snickers.
+
+Kithrael asks, "Me?  Oh, no.  Anyone thou wishes to kiss.  Just ask."
+' ill kiss anyone
+
+Glinka says, " ill kiss anyone"
+cac
+>You cackle.
+>
+Kambralyn giggles.
+
+Kithrael says to Adianna, "If they accept, it's a valid arrangement."
+
+
+Mesia asks Kithrael, "You're sure kissing you isn't the prize?"
+
+
+Adianna asks, "oh no, I'm way to young to do that?"
+
+Kithrael grins at Mesia.
+
+Orianna says to Kithrael, "now, don't want to get her daddy mad...."
+
+Mesia winks at Kithrael.
+
+Kithrael says to Mesia, "No; that prize comes with a quiver full of Kambralyn's thorns."
+gri
+You grin.
+>
+Kambralyn grins.
+
+Arkayne asks, "her daddy?"
+
+
+Mesia snickers.
+
+Orianna points at Adianna.
+
+Adianna says, "my pops would "
+link kissin contest..come quick
+
+>
+
+Adianna says, "well"
+
+
+Orianna says, "he has a habit of pushing people out of trees"
+
+Kithrael asks Adianna, "Ward, aye?"
+
+Arkayne says, "ah, the merchant"
+
+Kambralyn wrinkles her nose.
+
+Adianna beams.
+
+
+Adianna exclaims, "yes , that's my poppy!"
+gri
+You grin.
+>
+Kithrael says to Adianna, "Don't worry.  He's quite the lady's man... I'm sure he'd be happy to see thee learning to take after him."
+
+Kithrael smiles at Adianna.
+
+Mesia snickers.
+
+
+Orianna says to Kithrael, "that's exactly why he'd be mad"
+
+Orianna winks at Kithrael.
+
+Kithrael pokes Orianna.
+
+Mesia grins.
+
+Adianna glances at Kithrael.
+
+Adianna glances at Orianna.
+
+Adianna furrows her brow.
+You see Mesia take a drink from her glass of bubbling champagne.
+
+Adianna says, "my pops is the greatest"
+get cha from bar
+You remove the glass of bubbling champagne from the marble topped ebony bar.
+>You see Mesia take a drink from her glass of bubbling champagne.
+
+Kambralyn says, "we need more kissing going on"
+
+Kambralyn taps her polished black leather thigh-high boots on the ground.
+dri cham
+
+Kithrael says to Orianna, "I don't know enough about Leuians to understand them all, but I think I know enough about Ward that I'd like to see his reaction."
+You take a drink from your glass of bubbling champagne.
+
+Hmmm... not bad.
+>
+Mesia asks Kambralyn, "Well then why don't you kiss?"
+
+Mesia hops off Arkayne.
+
+Kithrael says to Mesia, "We won last year."
+
+Kithrael holds Kambralyn close.
+
+Adianna says, "and no he wouldn't like me to be smooching on just anyone"
+
+Orianna says to Adianna, "you have it right dear, don't let anyone talk you into anything you don't feel ready for"
+
+Mesia chuckles.
+
+Kambralyn says, "I'm a judge, must stay impartial"
+
+Kambralyn winks.
+
+Mesia exclaims to Kithrael, "Excuses excuses!"
+You see Mesia move up another 5 UDs!
+
+Mesia says, "I'm about tas start pushin people into eachother."
+
+Mesia glances around.
+
+Kambralyn giggles.
+
+Orianna asks Kambralyn, "uhm, is it just me, or did that sound....well....motherly?"
+
+Orianna frowns.
+
+Kambralyn comforts Orianna.
+
+Adianna smiles at Orianna.
+
+Kithrael says to Adianna, "Don't mind me... I'm just someone who got tired of seeing Ward do unsettling things, that's all."
+
+Kithrael gestures.
+
+Mesia taps her silver black leather boots on the ground.
+
+Orianna taps her foot.
+You see Kambralyn take a drink from her glass of bubbling champagne.
+gig
+You giggle.
+>
+Adianna is now perplexed.
+You see Kambralyn take a drink from her glass of bubbling champagne.
+You see Kambralyn take a drink from her glass of bubbling champagne.
+l
+[Romantic Retreat.]
+
+Candles flicker softly as shadows dance against the silk curtains that make the walls of this romantic retreat.  Plush black and burgundy velvet floor cushions are strewn invitingly about the room. A marble-topped cabinet holds an assortment of drinks and treats. The intoxicating scent of incense fills the room with a slightly spicy air.  Some soft black velvet floor cushions, some soft burgundy velvet floor cushions, a silver rose etched crystal candy bowl, a silver rose etched crystal candy bowl, a marble topped ebony bar, a marble topped ebony bar, some softly glowing scented candles, and a shimmering flower curtain are here.
+
+This room is illuminated.
+In the room are Kambralyn the Noble Fir Elf, Adianna the Leuian, Arkayne the Noble Draco, Jyrayel the Noble Draco, Orianna the Noble Anthian, Mesia the Novice Secian, and Kithrael the Fir Elf (seated).
+Obvious exits: None.
+smi at j delicately , brushing back her kinky white hair
+>You smile at Jyrayel delicately , brushing back her kinky white hair.
+>
+Kithrael says, "That sister temple of ours really needs to get out and proslytize more."
+
+Kithrael grumbles.
+
+Mesia snickers.
+
+Kithrael asks Mesia, "What's wrong with thy temple?"
+
+Kithrael flails his arms about wildly at Mesia.
+' are Rinannians good kissers?
+
+Glinka asks, " are Rinannians good kissers?"
+>
+Mesia snickers.
+
+Mesia says to Kithrael, "We're all asleep."
+
+Orianna says to Glinka, "must be - all that love"
+gri to or
+You grin to Orianna.
+>
+Arkayne furrows his brow.
+
+Kithrael says to Glinka, "I wouldn't know; I haven't kissed anyone but Kambralyn and Elindale."
+
+Kithrael sighs.
+chu softly , stretching strong tanned arms to the sky...
+You chuckle softly , stretching strong tanned arms to the sky...
+>
+Kambralyn leans on Kithrael.
+
+Mesia chuckles.
+who range race
+List will be restricted to those within range.
+Race who list activated!
+
+                Current Secian Adventurers:
+
+Current Adventurers
+
+ Glinka Dragondsfriend               Morkeleb Onetouch                  
+ Mesia Asina                         Magenta Silverleaf                 
+
+You notice 4 adventurers.
+l
+>[Romantic Retreat.]
+
+Candles flicker softly as shadows dance against the silk curtains that make the walls of this romantic retreat.  Plush black and burgundy velvet floor cushions are strewn invitingly about the room. A marble-topped cabinet holds an assortment of drinks and treats. The intoxicating scent of incense fills the room with a slightly spicy air.  Some soft black velvet floor cushions, some soft burgundy velvet floor cushions, a silver rose etched crystal candy bowl, a silver rose etched crystal candy bowl, a marble topped ebony bar, a marble topped ebony bar, some softly glowing scented candles, and a shimmering flower curtain are here.
+
+This room is illuminated.
+In the room are Kambralyn the Noble Fir Elf, Adianna the Leuian, Arkayne the Noble Draco, Jyrayel the Noble Draco, Orianna the Noble Anthian, Mesia the Novice Secian, and Kithrael the Fir Elf (seated).
+Obvious exits: None.
+>
+Mesia says, "Oooohhh someone told me someone else wants to come."
+
+Mesia says, "They're in Spur though."
+
+Mesia hops up and down.
+
+
+Mesia asks, "Can I go get 'em?"
+
+Mesia glances around.
+nod yes to me
+You nod up and down to Mesia.
+gri
+>You grin.
+>
+Mesia cackles.
+
+Kithrael says to Mesia, "Just send them to Kambralyn and I, and we'll judge."
+link in the kissin booth!
+
+>
+Kambralyn grins.
+
+Kithrael says, "I'm getting bored at this bunch of shysters."
+
+Jyrayel has left Mesia's group.
+
+Kithrael asks Kambralyn, "Shall we go to that peddle, m'lady?"
+
+A large Oog-ra saunters into the room carrying a tiny sack full of tools.
+
+Kambralyn nods.
+
+Kithrael stands up.
+
+He says, while fumbling with the sack between two massive fingers, 'Miz Beryline gonna be ad dah festibul tuh tek odahs fer joolry.'
+
+He drops the tiny sack, tiny jewelry making tools spilling all over the ground. He glances down and sighs then says, 'Breng yuh koyn cuz she gonna mek id fer ya den...'
+l
+
+[Romantic Retreat.]
+
+Candles flicker softly as shadows dance against the silk curtains that make the walls of this romantic retreat.  Plush black and burgundy velvet floor cushions are strewn invitingly about the room. A marble-topped cabinet holds an assortment of drinks and treats. The intoxicating scent of incense fills the room with a slightly spicy air.  Some soft black velvet floor cushions, some soft burgundy velvet floor cushions, a silver rose etched crystal candy bowl, a silver rose etched crystal candy bowl, a marble topped ebony bar, a marble topped ebony bar, some softly glowing scented candles, and a shimmering flower curtain are here.
+
+This room is illuminated.
+In the room are Kambralyn the Noble Fir Elf, Adianna the Leuian, Arkayne the Noble Draco, Jyrayel the Noble Draco, Orianna the Noble Anthian, Mesia the Novice Secian, and Kithrael the Fir Elf.
+Obvious exits: None.
+>
+Mesia hops up and down.
+
+Adianna has left Mesia's group.
+
+Mesia exclaims, "Come back quick!"
+
+Kambralyn is now following Kithrael.
+
+Orianna is now following Kithrael.
+
+Grunting while trying to bend down and pick up the tiny tools that have fallen out of the sack, he says, 'She gunna be in duh pedlah's tent ad de festibal grunds in bout 10 minuds.'
+
+Adianna just went through a shimmering flower curtain.
+
+Orianna whistles.
+
+l
+[Romantic Retreat.]
+
+Candles flicker softly as shadows dance against the silk curtains that make the walls of this romantic retreat.  Plush black and burgundy velvet floor cushions are strewn invitingly about the room. A marble-topped cabinet holds an assortment of drinks and treats. The intoxicating scent of incense fills the room with a slightly spicy air.  Some soft black velvet floor cushions, some soft burgundy velvet floor cushions, a silver rose etched crystal candy bowl, a silver rose etched crystal candy bowl, a marble topped ebony bar, a marble topped ebony bar, some softly glowing scented candles, and a shimmering flower curtain are here.
+
+This room is illuminated.
+In the room are Kambralyn the Noble Fir Elf, Arkayne the Noble Draco, Jyrayel the Noble Draco, Orianna the Noble Anthian, Mesia the Novice Secian, and Kithrael the Fir Elf.
+Obvious exits: None.
+>
+Mesia, head hanging low, dragging her feet, just went through a shimmering flower curtain.
+
+The Oog-ra groans as he stands back up, stuffs the tools into the sack and wanders out to spread the news.
+
+Jyrayel asks, "is this peddle a custom peddle?"
+
+Kithrael kisses Kambralyn on the cheek.
+
+Mesia just entered through a shimmering flower curtain.
+
+Kithrael nods to Jyrayel.
+' thynk so
+
+Glinka says, " thynk so"
+>
+Mesia asks, "You all coming back?"
+
+Kithrael's group just went through a shimmering flower curtain.
+
+Mesia fidgets.
+
+Mesia glances around.
+
+
+Kithrael's group just entered through a shimmering flower curtain.
+
+Kithrael nods to Mesia.
+
+Kithrael says to Mesia, "We'll be in the festiva."
+
+
+Kithrael says, "Festival."
+
+Kithrael's group just went through a shimmering flower curtain.
+
+Mesia says, "kith, Good"
+l
+[Romantic Retreat.]
+
+Candles flicker softly as shadows dance against the silk curtains that make the walls of this romantic retreat.  Plush black and burgundy velvet floor cushions are strewn invitingly about the room. A marble-topped cabinet holds an assortment of drinks and treats. The intoxicating scent of incense fills the room with a slightly spicy air.  Some soft black velvet floor cushions, some soft burgundy velvet floor cushions, a silver rose etched crystal candy bowl, a silver rose etched crystal candy bowl, a marble topped ebony bar, a marble topped ebony bar, some softly glowing scented candles, and a shimmering flower curtain are here.
+
+This room is illuminated.
+In the room are Arkayne the Noble Draco, Jyrayel the Noble Draco, and Mesia the Novice Secian.
+Obvious exits: None.
+>
+Mesia grumbles.
+
+Arkayne glances at the shimmering flower curtain.
+
+Mesia says, "Quick"
+' well, off to the peddle ?
+
+Glinka asks, " well, off to the peddle ?"
+>
+Arkayne asks, "where did they go?"
+rai at ar
+You raise an eyebrow at Arkayne.
+>
+Arkayne nods to you.
+
+Mesia says, "Jewlery peddle."
+
+Mesia points.
+nod
+You nod.
+>
+Mesia says to Jyrayel, "See ya soon"
+
+Mesia, head hanging low, dragging her feet, just went through a shimmering flower curtain.
+lead ar
+You request that Arkayne join your group.
+>
+Jyrayel says, "where is it, that is why I am here"
+
+Arkayne blushes.
+lead j
+You request that Jyrayel join your group.
+' jus south
+>
+Glinka says, " jus south"
+>
+Jyrayel is following you.
+
+Arkayne is following you.
+beam
+You beam.
+l
+>[Romantic Retreat.]
+
+Candles flicker softly as shadows dance against the silk curtains that make the walls of this romantic retreat.  Plush black and burgundy velvet floor cushions are strewn invitingly about the room. A marble-topped cabinet holds an assortment of drinks and treats. The intoxicating scent of incense fills the room with a slightly spicy air.  Some soft black velvet floor cushions, some soft burgundy velvet floor cushions, a silver rose etched crystal candy bowl, a silver rose etched crystal candy bowl, a marble topped ebony bar, a marble topped ebony bar, some softly glowing scented candles, and a shimmering flower curtain are here.
+
+This room is illuminated.
+In the room are Arkayne the Noble Draco and Jyrayel the Noble Draco.
+Obvious exits: None.
+go cur
+>[Eli'fae'ur Forest.]
+
+Flowery vines twist around the tree trunks and stretch themselves from one tree to the next.  Purple and yellow petals swirl lightly as a soft breeze blows through. Two of the smaller trees bend towards each other, their upper branches entwining and forming a natural arch.  A pair of small blooming fir trees, a flaming long golden bamboo tiki torch, a shimmering flower curtain, and a honey flavored amber hard candy are here.
+
+This area is illuminated.
+In the area are Arkayne the Noble Draco and Jyrayel the Noble Draco.
+Obvious paths: southwest* northwest*.
+sw
+>[Eli'fae'ur Forest.]
+
+A light sprinkling of rose petals blanket the dusty path which curls and winds through the lush forest. Nestled under the trees, a rosewood cottage rests to the side of the path. Fragrant garlands of ivy and daisies decorate the frame of the door that leads into the cottage set up for traveling peddlers.  A flaming long golden bamboo tiki torch, some white rose petals on the ground, and an open ivy-covered rosewood cottage door are here.
+
+This room is illuminated.
+In the room are Arkayne the Noble Draco and Jyrayel the Noble Draco.
+Obvious exits: northeast* southwest* northwest*.
+ne
+>[Eli'fae'ur Forest.]
+
+Flowery vines twist around the tree trunks and stretch themselves from one tree to the next.  Purple and yellow petals swirl lightly as a soft breeze blows through. Two of the smaller trees bend towards each other, their upper branches entwining and forming a natural arch.  A pair of small blooming fir trees, a flaming long golden bamboo tiki torch, a shimmering flower curtain, and a honey flavored amber hard candy are here.
+
+This area is illuminated.
+In the area are Arkayne the Noble Draco and Jyrayel the Noble Draco.
+Obvious paths: southwest* northwest*.
+>
+Sast's group just entered from the northwest.
+get har
+
+Magenta smiles.
+You pick up a honey flavored amber hard candy.
+>
+Sast's group just went southwest.
+how
+You howl.
+sw
+>[Eli'fae'ur Forest.]
+
+A light sprinkling of rose petals blanket the dusty path which curls and winds through the lush forest. Nestled under the trees, a rosewood cottage rests to the side of the path. Fragrant garlands of ivy and daisies decorate the frame of the door that leads into the cottage set up for traveling peddlers.  A flaming long golden bamboo tiki torch, some white rose petals on the ground, and an open ivy-covered rosewood cottage door are here.
+
+This room is illuminated.
+In the room are Arkayne the Noble Draco, Sast the Secian (flying 5 feet above ground), Jyrayel the Noble Draco, and Magenta the Noble Secian.
+Obvious exits: northeast* southwest* northwest*.
+>
+Sast's group just went through an open ivy-covered rosewood cottage door.
+go co
+[Peddler's Cottage.]
+
+Black and silver silk streamers, entwined in twists and swirls, hang all around this airy tent. Comfortable warm air radiates around you from slow burning vanilla scented candles resting on tall wrought iron posts. The golden light produced bounces off slow spinning crescent moon crystals hung upon thin silver thread from the cottage's ceiling. Their rainbow light sparkles as they cast prisms on the oak floor. A red velvet curtain leads into a smaller room set up for the travelling tattooist and hairstylist, while a beaded curtain leads into Broyce's work area.  Some flaming vanilla scented candles, some spinning crescent moon crystals, a deep red velvet curtain, a glimmering purple beaded curtain, and an open ivy-covered rosewood cottage door are here.
+
+This room is illuminated.
+In the room are Kambralyn the Noble Fir Elf, Morkeleb the Secian, Solinus the Human, Adianna the Leuian, Arkayne the Noble Draco, Sast the Secian (flying 5 feet above ground), Maren the Noble Usil Elf, Jyrayel the Noble Draco, Orianna the Noble Anthian (seated), Magenta the Noble Secian, and Kithrael the Fir Elf (seated).
+Obvious exits: None.
+disb
+>You disband your group.
+>
+Sast flies down and lands.
+
+Maren says, "The line is Maren, Solinus, Sast, Adianna, Orianna, Kambralyn, Kithrael, "
+sit quietly with a wry smile upon her hyacinth lips...
+You sit down quietly with a wry smile upon her hyacinth lips....
+>
+Arkayne smiles at Sast.
+
+Jyrayel says to Glinka, "thank you"
+' welcomes
+
+Sast nuzzles Arkayne.
+
+Glinka says, " welcomes"
+smi at j impishly, tossing her long soft hair back...
+>You smile at Jyrayel impishly, tossing her long soft hair back...
+>
+Arkayne says, "ah, it is a custom order"
+
+wave to Sast
+Sast waves.
+
+Sast says, "Hello"
+You wave to Sast.
+>
+Maren says, "The line is Maren, Solinus, Sast, Adianna, Orianna, Kambralyn, Kithrael, "
+
+Jyrayel asks, "can I be put on the list?"
+
+Maren asks Jyrayel, "Name?"
+
+Jyrayel says, "Jyrayel"
+
+Orianna removes her unicorn shaped gold holy symbol.
+
+Orianna offers something to Kambralyn.
+' i got this at a jewelery peddle
+
+Glinka says, " i got this at a jewelery peddle"
+tap ton softly against the roof of her mouth..
+>You tap the tiny moonsilver tongue piercing softly against the roof of her mouth..
+beam
+>You beam.
+>
+Kithrael says, "We should start taking kisses for the contest here."
+
+Kithrael snickers.
+
+Orianna says to Kambralyn, "you gotta check that out - not sure why anyone would have had it made like that"
+
+Kambralyn accepts Orianna's offer.
+kkk ki
+Ignoring unknown command, "kkk."
+>
+Kambralyn squints at the unicorn shaped gold holy symbol.
+
+Kambralyn asks Kithrael, "have you one of these?"
+
+Orianna asks, "isn't it odd?"
+
+Arkayne says to Glinka, "I think I shall wander around for a bit"
+link nneed help?..or a guide?
+
+>
+Orianna says, "bought it at Brog's"
+
+Kithrael says to Kambralyn, "I do."
+
+Kambralyn nods.
+
+wave to Arkayne
+Arkayne waves.
+You wave to Arkayne.
+smi at ar gently, winking..
+>You smile at Arkayne gently, winking..
+>
+Arkayne just went through an open ivy-covered rosewood cottage door.
+
+Kithrael says to Kambralyn, "I'm not sure where I stashed it, but I do."
+
+Kithrael chuckles.
+
+Kambralyn offers something to Orianna.
+
+Kambralyn nods.
+
+Morkeleb says, "I think you give that to the cleric in Gaspars."
+
+Orianna accepts Kambralyn's offer.
+l
+[Peddler's Cottage.]
+
+Black and silver silk streamers, entwined in twists and swirls, hang all around this airy tent. Comfortable warm air radiates around you from slow burning vanilla scented candles resting on tall wrought iron posts. The golden light produced bounces off slow spinning crescent moon crystals hung upon thin silver thread from the cottage's ceiling. Their rainbow light sparkles as they cast prisms on the oak floor. A red velvet curtain leads into a smaller room set up for the travelling tattooist and hairstylist, while a beaded curtain leads into Broyce's work area.  Some flaming vanilla scented candles, some spinning crescent moon crystals, a deep red velvet curtain, a glimmering purple beaded curtain, and an open ivy-covered rosewood cottage door are here.
+
+This room is illuminated.
+In the room are Kambralyn the Noble Fir Elf, Morkeleb the Secian, Solinus the Human, Adianna the Leuian, Sast the Secian, Maren the Noble Usil Elf, Jyrayel the Noble Draco, Orianna the Noble Anthian (seated), Magenta the Noble Secian, and Kithrael the Fir Elf (seated).
+Obvious exits: None.
+>
+Orianna asks Kithrael, "did yours have embroidery on it?"
+
+Kithrael nods to Morkeleb.
+l at cot
+It looks like an open ivy-covered rosewood cottage door.
+l through cot
+l under cot
+l behind cot
+l on cot
+l in cot
+>[Eli'fae'ur Forest.]
+
+A light sprinkling of rose petals blanket the dusty path which curls and winds through the lush forest. Nestled under the trees, a rosewood cottage rests to the side of the path. Fragrant garlands of ivy and daisies decorate the frame of the door that leads into the cottage set up for traveling peddlers.  A flaming long golden bamboo tiki torch, some white rose petals on the ground, and an open ivy-covered rosewood cottage door are here.
+
+This room is illuminated.
+Obvious exits: northeast* southwest* northwest*.
+>There is nothing underneath that.
+>There is nothing behind that.
+>There is nothing on top of that.
+>There is nothing inside that.
+eat har
+>You take a bite of your honey flavored amber hard candy.
+Hmmm... not bad!
+
+You're full, time to stop eating for a while.
+>
+Kambralyn says to Orianna, "Aye, and then I believe he'll trade you some prayer beads in exchange"
+
+Kithrael says to Orianna, "Aye, and if thou gives it to the cleric in Gaspar's, he'll give thee one of these."
+
+Kithrael taps the unicorn etched ebony prayer beads.
+stand very quickly, her long soft kinky pure whyte hair making a rustling sound...
+You stand up very quickly, her long soft kinky pure whyte hair making a rustling sound....
+shuf
+>You shuffle your feet.
+go co
+>[Eli'fae'ur Forest.]
+
+A light sprinkling of rose petals blanket the dusty path which curls and winds through the lush forest. Nestled under the trees, a rosewood cottage rests to the side of the path. Fragrant garlands of ivy and daisies decorate the frame of the door that leads into the cottage set up for traveling peddlers.  A flaming long golden bamboo tiki torch, some white rose petals on the ground, and an open ivy-covered rosewood cottage door are here.
+
+This room is illuminated.
+Obvious exits: northeast* southwest* northwest*.
+ne
+>[Eli'fae'ur Forest.]
+
+Flowery vines twist around the tree trunks and stretch themselves from one tree to the next.  Purple and yellow petals swirl lightly as a soft breeze blows through. Two of the smaller trees bend towards each other, their upper branches entwining and forming a natural arch.  A pair of small blooming fir trees, a flaming long golden bamboo tiki torch, and a shimmering flower curtain are here.
+
+This area is illuminated.
+Obvious paths: southwest* northwest*.
+go cur
+>[Romantic Retreat.]
+
+Candles flicker softly as shadows dance against the silk curtains that make the walls of this romantic retreat.  Plush black and burgundy velvet floor cushions are strewn invitingly about the room. A marble-topped cabinet holds an assortment of drinks and treats. The intoxicating scent of incense fills the room with a slightly spicy air.  Some soft black velvet floor cushions, some soft burgundy velvet floor cushions, a silver rose etched crystal candy bowl, a silver rose etched crystal candy bowl, a marble topped ebony bar, a marble topped ebony bar, some softly glowing scented candles, and a shimmering flower curtain are here.
+
+This room is illuminated.
+Obvious exits: None.
+go cur
+>[Eli'fae'ur Forest.]
+
+Flowery vines twist around the tree trunks and stretch themselves from one tree to the next.  Purple and yellow petals swirl lightly as a soft breeze blows through. Two of the smaller trees bend towards each other, their upper branches entwining and forming a natural arch.  A pair of small blooming fir trees, a flaming long golden bamboo tiki torch, and a shimmering flower curtain are here.
+
+This area is illuminated.
+Obvious paths: southwest* northwest*.
+nw
+>[Eli'fae'ur Forest.]
+
+Flitting from flower to flower, tiger-striped butterflies dance and swirl through the rich air of the season. A small group of Secians sit beside the billowing ivory tent drinking from the trumpet-shaped flower of sweet honeysuckle. Gardens of vibrantly adorned flowers and trees encircle the small tent in a ring of snapdragons, tiger lilies, mimosa, and lilacs. Taunting, splashing and laughter erupts from inside the tent which sets at the southeast corner of the winding path.  A flaming long golden bamboo tiki torch, some black and orange spotted tigerlilies, a fuzzy yellow mimosa tree, and an open soft ivory silk tent flap are here.
+
+This area is illuminated.
+Obvious paths: southeast* southwest* northwest*.
+nw
+>[Eli'fae'ur Forest.]
+
+The wind whistles faintly, pushing the almost stagnant thick warm air of the season. The air is a bit warmer here due to the large forge set within the wagon ahead.  A cheerful forester slides past you, singing the old Firian ballad, "White Unicorn of Eli'fae'ur Forest." Through the trees, children play hide and go seek, while young lovers disappear into the thick forest to retreat from the rest of the world. A wagon, painted in a variety of bright colors, stands beside the dirt path. Beside it, a makeshift stall houses a pair of black mares covered in colorful blankets, who munch on oats from feed bags.  A flaming long golden bamboo tiki torch, an open brightly painted wooden wagon door, and a honey flavored amber hard candy are here.
+
+This area is illuminated.
+Obvious paths: southeast* southwest* northwest*.
+get har
+>No room in your inventory for that object!
+nw
+>[Eli'fae'ur Forest.]
+
+Bright yellow rose bushes flank a sinuous path of flagstones that reaches towards a small meadow at the top of a sloping hill. A black-tailed deer sprints with graceful and lithe movements, as he leaps over the small path. A gentle breeze wafts through the air, dizzying the trees and leaves as they sway slowly. Emerald leaves fall softly from above and colorful birds sing harmonious melodies while they soar through the skies.  A flaming long golden bamboo tiki torch and a rose-covered stone pathway are here.
+
+This room is illuminated.
+Obvious exits: southeast* southwest*.
+sw
+>[Eli'fae'ur Forest.]
+
+The heavens' lights give the deep emerald blanket of leaves a soft shimmer like tiny gems that dangle from the gnarled branches of towering trees. The light crunching of the earth can be heard as small animals scurry quickly through the forest. Muddy paw prints trail off and disappear into the surrounding underbrush. A long white picket fence follows the gentle slope of the muddy hill. Children laugh and place bets as to whom can slide the farthest along the slick path.  A flaming long golden bamboo tiki torch and some long white pine picket fences are here.
+
+This area is illuminated.
+You see the 1st tiny glitter-covered tree faerie.
+Obvious paths: northeast* southeast* southwest* northwest*.
+kkk wi
+>Ignoring unknown command, "kkk."
+>
+The tiny glitter-covered tree faerie returns to center rank.
+
+The tiny glitter-covered tree faerie quickly casts his gaze across the room.
+hold wi brushing her soft eyelashes upon a cheek...
+car wi upon the neck with soft ruby red lips
+inh softly
+kiss wi lips barely touching
+I don't see what you are referring to.
+>I don't see what you are referring to.
+>You inhale softly.
+>I don't see what you are referring to.
+l
+>[Eli'fae'ur Forest.]
+
+The heavens' lights give the deep emerald blanket of leaves a soft shimmer like tiny gems that dangle from the gnarled branches of towering trees. The light crunching of the earth can be heard as small animals scurry quickly through the forest. Muddy paw prints trail off and disappear into the surrounding underbrush. A long white picket fence follows the gentle slope of the muddy hill. Children laugh and place bets as to whom can slide the farthest along the slick path.  A flaming long golden bamboo tiki torch and some long white pine picket fences are here.
+
+This area is illuminated.
+You see the 1st tiny glitter-covered tree faerie.
+Obvious paths: northeast* southeast* southwest* northwest*.
+>
+The tiny glitter-covered tree faerie mumbles something under his breath.
+l at wi
+I don't see what you are referring to.
+l at tr
+>He looks like an average tiny glitter-covered tree faerie.
+
+He looks like a miniscule tree faerie. Glitter, like tiny gems, flutters to the ground from its wings as it moves from tree to tree.
+He has a head, 2 arms, 2 legs.
+
+He appears to be in good shape.
+He will be very hard for you to hit and it will be hard for him to hit you!
+hold tr brushing her soft eyelashes upon a cheek...
+car tr upon the neck with soft ruby red lips
+inh softly
+kiss tr lips barely touching
+>You hold the tiny glitter-covered tree faerie close brushing her soft eyelashes upon a cheek...
+>You caress the tiny glitter-covered tree faerie upon the neck with soft ruby red lips.
+>You inhale softly.
+>You kiss the tiny glitter-covered tree faerie lips barely touching.
+>
+The tiny glitter-covered tree faerie glances around with a malicious look in his eyes.
+
+The tiny glitter-covered tree faerie glances around with a malicious look in his eyes.
+
+The tiny glitter-covered tree faerie spits on the ground.
+
+The tiny glitter-covered tree faerie quickly casts his gaze across the room.
+
+The tiny glitter-covered tree faerie quickly casts his gaze across the room.
+lean  softly
+I don't see what you are referring to.
+>
+The tiny glitter-covered tree faerie mumbles something under his breath.
+
+The tiny glitter-covered tree faerie mumbles something under his breath.
+
+The tiny glitter-covered tree faerie spits on the ground.
+
+The tiny glitter-covered tree faerie mumbles something under his breath.
+
+The tiny glitter-covered tree faerie quickly casts his gaze across the room.
+l
+[Eli'fae'ur Forest.]
+
+The heavens' lights give the deep emerald blanket of leaves a soft shimmer like tiny gems that dangle from the gnarled branches of towering trees. The light crunching of the earth can be heard as small animals scurry quickly through the forest. Muddy paw prints trail off and disappear into the surrounding underbrush. A long white picket fence follows the gentle slope of the muddy hill. Children laugh and place bets as to whom can slide the farthest along the slick path.  A flaming long golden bamboo tiki torch and some long white pine picket fences are here.
+
+This area is illuminated.
+You see the 1st tiny glitter-covered tree faerie.
+Obvious paths: northeast* southeast* southwest* northwest*.
+lean tr wrapping soft secian arms around gently
+appear mood rom
+hold tr brushing her soft eyelashes upon a cheek...
+car tr upon the neck with soft ruby red lips
+inh softly
+kiss tr lips barely touching
+>You lean on the tiny glitter-covered tree faerie wrapping soft secian arms around gently.
+>
+You are now romantic.
+
+>You hold the tiny glitter-covered tree faerie close brushing her soft eyelashes upon a cheek...
+>You caress the tiny glitter-covered tree faerie upon the neck with soft ruby red lips.
+>You inhale softly.
+>You kiss the tiny glitter-covered tree faerie lips barely touching.
+>
+The tiny glitter-covered tree faerie glances around with a malicious look in his eyes.
+
+The tiny glitter-covered tree faerie mumbles something under his breath.
+appear mood ?
+
+    Available mood selections:
+
+ flaming-mad  livid        unhappy      shocked      despairing   blue        
+ unconcerned  distant      bored        chagrined    perplexed    mischievous 
+ partying     happy        overjoyed    apprehensive cold         gentle      
+ angry        preoccupied  aloof        calculating  aristocratic amused      
+ puzzled      serious      petulant     cynical      neutral      belligerent 
+ sullen       wary         confused     upset        frivolous    sleepy      
+ tired        irate        giddy        ecstatic     frustrated   worried     
+ resigned     grumpy       violent      inconsolable non-plussed  loving      
+ playful      furious      romantic     concerned    scared       frightened  
+ annoyed      sad          sassy        annoying     tense        perturbed   
+ depressed    amorous      dumbfounded 
+
+>
+The tiny glitter-covered tree faerie spits on the ground.
+
+The tiny glitter-covered tree faerie mumbles something under his breath.
+
+The tiny glitter-covered tree faerie quickly casts his gaze across the room.
+
+The tiny glitter-covered tree faerie glances around with a malicious look in his eyes.
+l
+[Eli'fae'ur Forest.]
+
+The heavens' lights give the deep emerald blanket of leaves a soft shimmer like tiny gems that dangle from the gnarled branches of towering trees. The light crunching of the earth can be heard as small animals scurry quickly through the forest. Muddy paw prints trail off and disappear into the surrounding underbrush. A long white picket fence follows the gentle slope of the muddy hill. Children laugh and place bets as to whom can slide the farthest along the slick path.  A flaming long golden bamboo tiki torch and some long white pine picket fences are here.
+
+This area is illuminated.
+You see the 1st tiny glitter-covered tree faerie.
+Obvious paths: northeast* southeast* southwest* northwest*.
+lean tr wrapping soft secian arms around gently
+appear mood rom
+hold tr brushing her soft eyelashes upon a cheek...
+car tr upon the neck with soft ruby red lips
+inh softly
+kiss tr with the gentlest of kisses, lips barely touching
+appear mood amor
+purr at tr interestedly
+>You lean on the tiny glitter-covered tree faerie wrapping soft secian arms around gently.
+>
+You are now romantic.
+
+>You hold the tiny glitter-covered tree faerie close brushing her soft eyelashes upon a cheek...
+>You caress the tiny glitter-covered tree faerie upon the neck with soft ruby red lips.
+>You inhale softly.
+>You kiss the tiny glitter-covered tree faerie with the gentlest of kisses, lips barely touching.
+>
+You are now amorous.
+
+>You cannot specify a target with this command.
+>
+The tiny glitter-covered tree faerie mumbles something under his breath.
+
+The tiny glitter-covered tree faerie mumbles something under his breath.
+purr at tr
+You cannot specify a target with this command.
+>
+The tiny glitter-covered tree faerie quickly casts his gaze across the room.
+
+The tiny glitter-covered tree faerie mumbles something under his breath.
+
+The tiny glitter-covered tree faerie glances around with a malicious look in his eyes.
+l
+[Eli'fae'ur Forest.]
+
+The heavens' lights give the deep emerald blanket of leaves a soft shimmer like tiny gems that dangle from the gnarled branches of towering trees. The light crunching of the earth can be heard as small animals scurry quickly through the forest. Muddy paw prints trail off and disappear into the surrounding underbrush. A long white picket fence follows the gentle slope of the muddy hill. Children laugh and place bets as to whom can slide the farthest along the slick path.  A flaming long golden bamboo tiki torch and some long white pine picket fences are here.
+
+This area is illuminated.
+You see the 1st tiny glitter-covered tree faerie.
+Obvious paths: northeast* southeast* southwest* northwest*.
+lll tr
+>Ignoring unknown command, "lll."
+>
+The tiny glitter-covered tree faerie quickly casts his gaze across the room.
+lean tr wrapping soft secian arms around gently
+appear mood rom
+hold tr brushing her soft eyelashes upon a cheek...
+car tr upon the neck with soft ruby red lips
+inh softly
+kiss tr with the gentlest of kisses, lips barely touching
+appear mood amor
+purr interestedly
+rai at tr
+You lean on the tiny glitter-covered tree faerie wrapping soft secian arms around gently.
+>
+You are now romantic.
+
+>You hold the tiny glitter-covered tree faerie close brushing her soft eyelashes upon a cheek...
+>You caress the tiny glitter-covered tree faerie upon the neck with soft ruby red lips.
+>You inhale softly.
+>You kiss the tiny glitter-covered tree faerie with the gentlest of kisses, lips barely touching.
+>
+You are now amorous.
+
+>You purr interestedly.
+>You raise an eyebrow at the tiny glitter-covered tree faerie.
+>
+The tiny glitter-covered tree faerie glances around with a malicious look in his eyes.
+
+The tiny glitter-covered tree faerie spits on the ground.
+
+A dainty glass unicorn figurine just appeared.
+
+The tiny glitter-covered tree faerie quickly casts his gaze across the room.
+
+The tiny glitter-covered tree faerie spits on the ground.
+l
+[Eli'fae'ur Forest.]
+
+The heavens' lights give the deep emerald blanket of leaves a soft shimmer like tiny gems that dangle from the gnarled branches of towering trees. The light crunching of the earth can be heard as small animals scurry quickly through the forest. Muddy paw prints trail off and disappear into the surrounding underbrush. A long white picket fence follows the gentle slope of the muddy hill. Children laugh and place bets as to whom can slide the farthest along the slick path.  A flaming long golden bamboo tiki torch, some long white pine picket fences, and a dainty glass unicorn figurine are here.
+
+This area is illuminated.
+You see the 1st tiny glitter-covered tree faerie.
+Obvious paths: northeast* southeast* southwest* northwest*.
+lean tr wrapping soft secian arms around gently
+appear mood rom
+>You lean on the tiny glitter-covered tree faerie wrapping soft secian arms around gently.
+>
+You are now romantic.
+
+hold tr brushing her soft eyelashes upon a cheek...
+car tr upon the neck with soft ruby red lips
+>You hold the tiny glitter-covered tree faerie close brushing her soft eyelashes upon a cheek...
+>You caress the tiny glitter-covered tree faerie upon the neck with soft ruby red lips.
+inh softly
+kiss tr with the gentlest of kisses, lips barely touching
+>You inhale softly.
+>You kiss the tiny glitter-covered tree faerie with the gentlest of kisses, lips barely touching.
+appear mood amor
+purr interestedly
+rai at tr
+>
+You are now amorous.
+
+>You purr interestedly.
+>You raise an eyebrow at the tiny glitter-covered tree faerie.
+>
+The tiny glitter-covered tree faerie spits on the ground.
+
+The tiny glitter-covered tree faerie mumbles something under his breath.
+
+The tiny glitter-covered tree faerie quickly casts his gaze across the room.
+l
+[Eli'fae'ur Forest.]
+
+The heavens' lights give the deep emerald blanket of leaves a soft shimmer like tiny gems that dangle from the gnarled branches of towering trees. The light crunching of the earth can be heard as small animals scurry quickly through the forest. Muddy paw prints trail off and disappear into the surrounding underbrush. A long white picket fence follows the gentle slope of the muddy hill. Children laugh and place bets as to whom can slide the farthest along the slick path.  A flaming long golden bamboo tiki torch, some long white pine picket fences, and a dainty glass unicorn figurine are here.
+
+This area is illuminated.
+You see the 1st tiny glitter-covered tree faerie.
+Obvious paths: northeast* southeast* southwest* northwest*.
+lean tr wrapping soft secian arms around gently
+appear mood rom
+car tr upon the neck with soft ruby red lips
+>You lean on the tiny glitter-covered tree faerie wrapping soft secian arms around gently.
+>
+You are now romantic.
+
+>You caress the tiny glitter-covered tree faerie upon the neck with soft ruby red lips.
+inh softly
+kiss tr with the gentlest of kisses, lips barely touching
+>You inhale softly.
+>You kiss the tiny glitter-covered tree faerie with the gentlest of kisses, lips barely touching.
+>
+The tiny glitter-covered tree faerie quickly casts his gaze across the room.
+appear mood amor
+purr interestedly
+rai at tr
+
+You are now amorous.
+
+>You purr interestedly.
+>You raise an eyebrow at the tiny glitter-covered tree faerie.
+>
+Khajag's group just entered from the southwest.
+
+The tiny glitter-covered tree faerie wanders southeast.
+l
+[Eli'fae'ur Forest.]
+
+The heavens' lights give the deep emerald blanket of leaves a soft shimmer like tiny gems that dangle from the gnarled branches of towering trees. The light crunching of the earth can be heard as small animals scurry quickly through the forest. Muddy paw prints trail off and disappear into the surrounding underbrush. A long white picket fence follows the gentle slope of the muddy hill. Children laugh and place bets as to whom can slide the farthest along the slick path.  A flaming long golden bamboo tiki torch, some long white pine picket fences, and a dainty glass unicorn figurine are here.
+
+This area is illuminated.
+In the area are Dulcina the Secian (flying 5 feet above ground) and Khajag the Noble Draco.
+Obvious paths: northeast* southeast* southwest* northwest*.
+>
+Khajag's group just went southeast.
+l
+[Eli'fae'ur Forest.]
+
+The heavens' lights give the deep emerald blanket of leaves a soft shimmer like tiny gems that dangle from the gnarled branches of towering trees. The light crunching of the earth can be heard as small animals scurry quickly through the forest. Muddy paw prints trail off and disappear into the surrounding underbrush. A long white picket fence follows the gentle slope of the muddy hill. Children laugh and place bets as to whom can slide the farthest along the slick path.  A flaming long golden bamboo tiki torch, some long white pine picket fences, and a dainty glass unicorn figurine are here.
+
+This area is illuminated.
+Obvious paths: northeast* southeast* southwest* northwest*.
+se
+>[Eli'fae'ur Forest.]
+
+Fragrant, ribbon tied roses, daisies and tulips are carefully placed along a long pine fence, which separates a beautiful grassy park from a tall muddy hill. Several granite benches are placed sporadically in the carefully manicured grass. A small pond resides in the center of the area, and many partake in its fresh water to take a quick bath and remove the mud from the hill above. A tall arch, carved with the likenesses of forest creatures, leads the way to the fun to be had on the muddy hill sloping upward towards the northwest. A tiny wagon rests next to the pond, its door open and inviting people inside the Goody Trinket's Shoppe.  A flaming long golden bamboo tiki torch, some long white pine picket fences, a small crystal clear pond, a tiny white wagon, and a dainty glass unicorn figurine are here.
+
+This area is illuminated.
+You see the 1st tiny glitter-covered tree faerie.
+Obvious paths: northeast* south* northwest*.
+lean tr wrapping soft secian arms around gently
+appear mood rom
+car tr upon the neck with soft ruby red lips
+>You lean on the tiny glitter-covered tree faerie wrapping soft secian arms around gently.
+>
+You are now romantic.
+
+>You caress the tiny glitter-covered tree faerie upon the neck with soft ruby red lips.
+inh softly
+kiss tr with the gentlest of kisses, lips barely touching
+>You inhale softly.
+>You kiss the tiny glitter-covered tree faerie with the gentlest of kisses, lips barely touching.
+appear mood amor
+purr interestedly
+rai at tr
+>
+You are now amorous.
+
+>You purr interestedly.
+>You raise an eyebrow at the tiny glitter-covered tree faerie.
+>
+The tiny glitter-covered tree faerie wanders northwest.
+pout
+You pout.
+nw
+>[Eli'fae'ur Forest.]
+
+The heavens' lights give the deep emerald blanket of leaves a soft shimmer like tiny gems that dangle from the gnarled branches of towering trees. The light crunching of the earth can be heard as small animals scurry quickly through the forest. Muddy paw prints trail off and disappear into the surrounding underbrush. A long white picket fence follows the gentle slope of the muddy hill. Children laugh and place bets as to whom can slide the farthest along the slick path.  A flaming long golden bamboo tiki torch, some long white pine picket fences, and a dainty glass unicorn figurine are here.
+
+This area is illuminated.
+You see the 1st tiny glitter-covered tree faerie.
+Obvious paths: northeast* southeast* southwest* northwest*.
+lean tr wrapping soft secian arms around gently
+appear mood rom
+>You lean on the tiny glitter-covered tree faerie wrapping soft secian arms around gently.
+>
+You are now romantic.
+
+hold tr brushing her soft eyelashes upon a cheek...
+>You hold the tiny glitter-covered tree faerie close brushing her soft eyelashes upon a cheek...
+car tr upon the neck with soft ruby red lips
+>You caress the tiny glitter-covered tree faerie upon the neck with soft ruby red lips.
+inh softly
+kiss tr with the gentlest of kisses, lips barely touching
+>You inhale softly.
+>You kiss the tiny glitter-covered tree faerie with the gentlest of kisses, lips barely touching.
+appear mood amor
+purr interestedly
+rai at tr
+>
+You are now amorous.
+
+>You purr interestedly.
+>You raise an eyebrow at the tiny glitter-covered tree faerie.
+>
+The tiny glitter-covered tree faerie wanders southeast.
+l
+[Eli'fae'ur Forest.]
+
+The heavens' lights give the deep emerald blanket of leaves a soft shimmer like tiny gems that dangle from the gnarled branches of towering trees. The light crunching of the earth can be heard as small animals scurry quickly through the forest. Muddy paw prints trail off and disappear into the surrounding underbrush. A long white picket fence follows the gentle slope of the muddy hill. Children laugh and place bets as to whom can slide the farthest along the slick path.  A flaming long golden bamboo tiki torch, some long white pine picket fences, and a dainty glass unicorn figurine are here.
+
+This area is illuminated.
+Obvious paths: northeast* southeast* southwest* northwest*.
+se
+>[Eli'fae'ur Forest.]
+
+Fragrant, ribbon tied roses, daisies and tulips are carefully placed along a long pine fence, which separates a beautiful grassy park from a tall muddy hill. Several granite benches are placed sporadically in the carefully manicured grass. A small pond resides in the center of the area, and many partake in its fresh water to take a quick bath and remove the mud from the hill above. A tall arch, carved with the likenesses of forest creatures, leads the way to the fun to be had on the muddy hill sloping upward towards the northwest. A tiny wagon rests next to the pond, its door open and inviting people inside the Goody Trinket's Shoppe.  A flaming long golden bamboo tiki torch, some long white pine picket fences, a small crystal clear pond, a tiny white wagon, and a dainty glass unicorn figurine are here.
+
+This area is illuminated.
+You see the 1st tiny glitter-covered tree faerie.
+Obvious paths: northeast* south* northwest*.
+lean tr wrapping soft secian arms around gently
+appear mood rom
+>You lean on the tiny glitter-covered tree faerie wrapping soft secian arms around gently.
+>
+You are now romantic.
+
+hold tr brushing her soft eyelashes upon a cheek...
+>You hold the tiny glitter-covered tree faerie close brushing her soft eyelashes upon a cheek...
+car tr upon the neck with soft ruby red lips
+>You caress the tiny glitter-covered tree faerie upon the neck with soft ruby red lips.
+inh softly
+kiss tr with the gentlest of kisses, lips barely touching
+>You inhale softly.
+>You kiss the tiny glitter-covered tree faerie with the gentlest of kisses, lips barely touching.
+appear mood amor
+>
+You are now amorous.
+
+purr interestedly
+rai at tr
+>You purr interestedly.
+>You raise an eyebrow at the tiny glitter-covered tree faerie.
+>
+The tiny glitter-covered tree faerie wanders northeast.
+se
+You cannot move in that direction.
+se
+>You cannot move in that direction.
+ne
+>[Eli'fae'ur Forest.]
+
+The wind whistles faintly, pushing the almost stagnant thick warm air of the season. The air is a bit warmer here due to the large forge set within the wagon ahead.  A cheerful forester slides past you, singing the old Firian ballad, "White Unicorn of Eli'fae'ur Forest." Through the trees, children play hide and go seek, while young lovers disappear into the thick forest to retreat from the rest of the world. A wagon, painted in a variety of bright colors, stands beside the dirt path. Beside it, a makeshift stall houses a pair of black mares covered in colorful blankets, who munch on oats from feed bags.  A flaming long golden bamboo tiki torch and an open brightly painted wooden wagon door are here.
+
+This area is illuminated.
+You see the 1st tiny glitter-covered tree faerie.
+Obvious paths: southeast* southwest* northwest*.
+se
+>[Eli'fae'ur Forest.]
+
+Flitting from flower to flower, tiger-striped butterflies dance and swirl through the rich air of the season. A small group of Secians sit beside the billowing ivory tent drinking from the trumpet-shaped flower of sweet honeysuckle. Gardens of vibrantly adorned flowers and trees encircle the small tent in a ring of snapdragons, tiger lilies, mimosa, and lilacs. Taunting, splashing and laughter erupts from inside the tent which sets at the southeast corner of the winding path.  A flaming long golden bamboo tiki torch, some black and orange spotted tigerlilies, a fuzzy yellow mimosa tree, an open soft ivory silk tent flap, a dainty glass unicorn figurine, and a honey flavored amber hard candy are here.
+
+This area is illuminated.
+Obvious paths: southeast* southwest* northwest*.
+se
+>[Eli'fae'ur Forest.]
+
+Flowery vines twist around the tree trunks and stretch themselves from one tree to the next.  Purple and yellow petals swirl lightly as a soft breeze blows through. Two of the smaller trees bend towards each other, their upper branches entwining and forming a natural arch.  A pair of small blooming fir trees, a flaming long golden bamboo tiki torch, and a shimmering flower curtain are here.
+
+This area is illuminated.
+Obvious paths: southwest* northwest*.
+se
+>You cannot move in that direction.
+sw
+>[Eli'fae'ur Forest.]
+
+A light sprinkling of rose petals blanket the dusty path which curls and winds through the lush forest. Nestled under the trees, a rosewood cottage rests to the side of the path. Fragrant garlands of ivy and daisies decorate the frame of the door that leads into the cottage set up for traveling peddlers.  A flaming long golden bamboo tiki torch, some white rose petals on the ground, and an open ivy-covered rosewood cottage door are here.
+
+This room is illuminated.
+Obvious exits: northeast* southwest* northwest*.
+go cot
+>[Peddler's Cottage.]
+
+Black and silver silk streamers, entwined in twists and swirls, hang all around this airy tent. Comfortable warm air radiates around you from slow burning vanilla scented candles resting on tall wrought iron posts. The golden light produced bounces off slow spinning crescent moon crystals hung upon thin silver thread from the cottage's ceiling. Their rainbow light sparkles as they cast prisms on the oak floor. A red velvet curtain leads into a smaller room set up for the travelling tattooist and hairstylist, while a beaded curtain leads into Broyce's work area.  Some flaming vanilla scented candles, some spinning crescent moon crystals, a deep red velvet curtain, a glimmering purple beaded curtain, an open ivy-covered rosewood cottage door, and a small diamond-encrusted sign are here.
+
+This room is illuminated.
+In the room are Kambralyn the Noble Fir Elf, Luc the Psycian, Dulcina the Secian (flying 5 feet above ground), Solinus the Human, Adianna the Leuian, Khajag the Noble Draco, Nina the Usil Elf, Sast the Secian, Maren the Noble Usil Elf, Jyrayel the Noble Draco, Orianna the Noble Anthian (seated), Mesia the Novice Secian, Hidaija the Human, Magenta the Noble Secian, Kithrael the Fir Elf (seated), Beryline the Noble Secian, Maelstra the Noble Drake, and Thurrg the Noble Thugian.
+Obvious exits: None.
+>
+Maren nods to Luc.
+sit quietly with a wry smile upon her hyacinth lips...
+You sit down quietly with a wry smile upon her hyacinth lips....
+>
+Maelstra blanches.
+
+Beryline says, "Earrings are a pair, and is considered one order"
+
+Luc curses softly.
+
+Sast grins.
+
+Beryline exclaims, "Would be kinda silly for me to say, 200 gold per earring!"
+
+Khajag chuckles.
+
+Thurrg frowns.
+
+Sast laughs.
+
+Beryline winks at Khajag.
+
+Kithrael glances at Kambralyn.
+
+Magenta grins.
+
+Dulcina grins at Beryline.
+
+Beryline says, "Course, I'd make lotsa gold..."
+
+Kithrael grins at Kambralyn evilly.
+wh to ery do you do nipple ryngs?
+I don't see what you are referring to.
+>
+Thurrg asks, "kin ah hab eberwun tenshun plees?"
+
+Beryline ponders...
+
+Kambralyn glances at Kithrael.
+wh to bery do you do nipple ryngs?
+You whisper to Beryline.
+>
+Kithrael just removed a fiery black ruby unicorn pendant from within his open deep verdant spidersilk woven forester's bag.
+
+Orianna asks Beryline, "do you do alterations?"
+
+Thurrg says, "raze yoo han ifn yuh wan kiz me"
+
+Kithrael stands up.
+
+Thurrg stares.
+rai hand to th
+You raise your hand to Thurrg.
+>
+Beryline shakes her head from side to side to you.
+
+Thurrg beams at you.
+
+Kithrael nods to Thurrg.
+
+Mesia snickers.
+
+Mesia grins at you.
+gig
+You giggle.
+>
+Thurrg exclaims to Kithrael, "herz say it!"
+
+Kithrael says to Thurrg, "Go ahead."
+
+Beryline whispers, "I can do belly rings though!"
+
+Beryline ponders.
+
+gig softly holding her tummy
+Dulcina tickles you.
+You giggle softly holding her tummy.
+>
+Kithrael says to Glinka, "And thou'rt a very strong woman."
+smi at ber delicately , brushing back her kinky white hair
+
+Nina ponders the meaning of the universe for a moment.
+You smile at Beryline delicately , brushing back her kinky white hair.
+>
+Maelstra just removed a small jeweled velvet trinket pouch from within her open large leather backpack.
+
+Thurrg exclaims to Glinka, "iz to lade to shange yoo mind!"
+
+Thurrg stares.
+
+Maelstra just removed a pink diamond from within her small jeweled velvet trinket pouch.
+lean th wrapping soft secian arms around gently
+appear mood rom
+You lean on Thurrg wrapping soft secian arms around gently.
+>
+You are now romantic.
+
+hold th brushing her soft eyelashes upon a cheek...
+>You hold Thurrg close brushing her soft eyelashes upon a cheek...
+>
+Thurrg ponders the meaning of the universe for a moment.
+
+Beryline exclaims, "Oh! I'll be taking orders through..."
+car th upon the neck with soft ruby red lips
+You caress Thurrg upon the neck with soft ruby red lips.
+>
+Thurrg exclaims, "wade!"
+
+Adianna smiles.
+
+Thurrg flails his arms about wildly.
+inh softly
+kiss th with the gentlest of kisses, lips barely touching
+You inhale softly.
+>You kiss Thurrg with the gentlest of kisses, lips barely touching.
+>
+Maren leans her head on Solinus's shoulder.
+
+Magenta beams at Sast and nods.
+appear mood amor
+
+You are now amorous.
+
+>
+Beryline furrows her brow and glances between the curtains...
+purr interestedly
+rai at th
+You purr interestedly.
+>You raise an eyebrow at Thurrg.
+>
+Solinus holds Maren close.
+
+Thurrg pushes you away.
+
+Beryline says, "That one."
+
+Beryline points at the glimmering purple beaded curtain.
+gig
+You giggle.
+>
+Thurrg says, "ah gahda gid in mood"
+
+Maren nods to Beryline.
+flai
+You flail your arms about wildly.
+>
+Thurrg just removed a fluffy blue pillow from within his open large leather backpack.
+
+Mesia snickers at Thurrg.
+list to kit
+You listen intently to Kithrael.
+>
+Beryline says, "Wait until I come an say next please"
+
+Sast grins at Magenta.
+
+Kithrael says to Glinka, "It's gotta be his kiss, not thine."
+
+Magenta giggles.
+
+Kithrael pokes you.
+
+Thurrg says to Glinka, "we play sum romantik moosiz"
+' ahh
+
+Glinka says, " ahh"
+>
+Mesia pokes Beryline.
+
+Thurrg returns his two-handed spiked moonsilver Rathene flail.
+
+Thurrg brings out his giant booming oak war drum.
+
+Beryline pokes Mesia!
+
+Solinus is now following Maren.
+get cer from clo
+
+Mesia ducks!
+No room in your inventory for that!
+rem shi
+>
+Beryline asks Mesia, "Ya ask me somethin?"
+You remove your wooden shield.
+ready cer
+>You don't have a 'cer' in your inventory!
+>
+Thurrg plays BOOM! BOOM! BOOM! BOOM! on his giant booming oak war drum.
+  A good performance.
+
+Thurrg beams.
+
+Mesia nods up and down to Beryline.
+
+Kambralyn groans.
+put har in he
+You place the half-eaten honey flavored amber hard candy within your open plaid leather healer's bag.
+put har in he
+>You place the honey flavored amber hard candy within your open plaid leather healer's bag.
+>
+Thurrg stores his giant booming oak war drum.
+
+Luc's head suddenly begins glowing. He touches Nina briefly. The glow travels down an arm to his hand. The glow quickly spreads over Nina's entire body, then fades away.
+
+
+Beryline asks Mesia, "Sorry, whatcha need?"
+get cer from clo
+You remove the massive circular brass ceremonial gong from your rainbow silk cloak.
+>
+Kithrael says to Kambralyn, "Now's the time to get that gold."
+
+Kithrael grins at Kambralyn.
+
+Adianna taps the glimmering purple beaded curtain.
+
+Kambralyn nods up and down.
+
+Maelstra rumbles at Thurrg.
+
+Kambralyn has left Kithrael's group.
+ready cer
+You bring out your massive circular brass ceremonial gong.
+>
+Kambralyn just went through an open ivy-covered rosewood cottage door.
+
+Dulcina tickles Sast furiously.
+
+Sast flails his arms about wildly.
+
+Mesia asks Beryline in Secian, "So is it two hundred for the whole package, or six hundred?"
+
+Magenta blinks.
+
+Sast exclaims, "Ack!"
+
+Dulcina climbs 10 feet.
+
+Sast exclaims, "No tickling!"
+
+Dulcina howls.
+
+Maren offers something to Solinus.
+
+Thurrg says to Glinka, "now wez kiz"
+
+Thurrg just dropped a fluffy blue pillow.
+
+Solinus accepts Maren's offer.
+
+Thurrg pushes you down onto the pillow.
+stand
+    You fall back and lie down.
+You stand up.
+>
+Dulcina bats her eyes at Sast.
+how
+
+Adianna glances at you.
+You howl.
+>
+Adianna shudders.
+
+Thurrg tackles you.
+
+Orianna blinks.
+
+Kithrael winces.
+
+Dulcina says, "Ewwww....."
+
+Thurrg kisses you messily on the forehead drooling everywhere.
+
+Beryline says to Mesia, "two hundred gold per item, so would be four hundred gold if ya want two things."
+
+Thurrg drools.
+
+Beryline smiles at Mesia.
+flai
+You flail your arms about wildly.
+>
+Sast says, "errr"
+
+Khajag grimaces.
+
+Mesia grunts.
+
+Thurrg inhales.
+
+Mesia says to Beryline in Secian, "I mean on the sign"
+' oh my!
+
+Glinka exclaims, " oh my!"
+>
+Maelstra says, "yuck"
+
+Mesia points at the small diamond-encrusted sign.
+
+Dulcina shudders.
+
+Adianna just removed a crisp white linen napkin from within her open lid covered frosted crystal plate.
+
+Kambralyn just entered through an open ivy-covered rosewood cottage door.
+
+Thurrg exhales and continues kissing.
+
+Kambralyn is now following Kithrael.
+
+acc offer from Adianna
+sp
+' Thankies!
+smi at Adianna impishly, tossing her long soft hair back...
+hug Adianna softly, her long long hair falling all over the place...
+time
+Adianna offers you a crisp white linen napkin.
+
+You are now speaking Common.
+
+Glinka exclaims, " Thankies!"
+You accept the crisp white linen napkin.
+>file
+You smile at Adianna impishly, tossing her long soft hair back...
+>You hug Adianna softly, her long long hair falling all over the place...
+>
+Current time is: Thu Jun 23 21:09:21 2005 EST.
+time
+
+It is now 4:20 pm on the 16th day of the 3rd month in the year 320.
+
+You have been adventuring for 1 hr, 50 mins, 48 secs this session.
+
+>
+Magenta giggles.
+hol nap
+You hold the crisp white linen napkin close.
+>
+Kithrael holds Kambralyn close and covers her eyes.
+
+Kambralyn fidgets.
+
+Adianna exclaims, "quick , wipe the drool off!"
+
+Mesia asks Beryline in Secian, "Is it just two hundred for all the special stuffs too?"
+
+Kithrael says to Kambralyn, "It's for thy own protection, I promise."
+
+Sast hops up and down.
+
+Beryline says, "Oh, yeah, if ya want a long description and an engraving on it, it would be 600"
+
+Thurrg drools all over Glinka.
+
+Dulcina giggles at Adianna.
+
+Beryline nods up and down to Mesia.
+hol nap wiping madly
+You hold the crisp white linen napkin close wiping madly.
+>
+Magenta grins.
+
+Mesia nods.
+hol nap wiping madly
+You hold the crisp white linen napkin close wiping madly.
+>
+Mesia says in Secian, "Alright."
+flai at th
+You flail your arms about wildly at Thurrg.
+>
+Thurrg exclaims to Glinka, "hol stil!"
+inh
+You inhale.
+>
+Beryline exclaims, "And with that!"
+
+Adianna exclaims, "fly!"
+
+Beryline exclaims, "Next!"
+yell help
+
+Maren says, "The line is Maren, Solinus, Sast, Adianna, Orianna, Kambralyn, Kithrael, Jyrayel, Maelstra, Khajag, Dulcina, Hidaija, "
+
+Glinka yells, "help"
+>
+Thurrg grunts and holds Glinka's arms.
+
+Sast grins at Magenta.
+
+Maren is now following Beryline.
+squir
+
+Beryline's group just went through a glimmering purple beaded curtain.
+You squirm.
+>
+Mesia pulls you closer to her.
+
+Mesia exclaims to Thurrg, "Lets go!"
+
+Adianna tackles Thurrg and bounces off with little effect.
+
+Mesia growls at Thurrg quietly.
+
+Adianna stands up.
+
+You see Khajag retreat 2 UDs to the rear!
+
+Dulcina descends 10 feet.
+
+Adianna pounces on Thurrg and bounces off with little effect.
+hol nap wiping madly
+You hold the crisp white linen napkin close wiping madly.
+>
+Thurrg stands up.
+
+Adianna stands up.
+
+hold Mesia too!
+Mesia holds you close and wraps herself around her keeping her away from Thurrg.
+You hold Mesia close too!
+>
+Adianna says, "is up to you Glinka"
+' oh my!
+
+Glinka exclaims, " oh my!"
+>
+Mesia squints at Thurrg thinly.
+
+Maelstra pulls you closer to her and away from the Thugian.
+
+Khajag sits down slowly.
+
+Kithrael asks Thurrg, "Is that all?"
+
+Thurrg says, "ahn DAT is ow yuh mak baybeez"
+
+Thurrg nods sagely.
+sit
+You sit up.
+>
+Mesia blanches.
+
+Adianna shudders.
+
+Khajag gestures to Dulcina.
+
+Kambralyn asks Glinka, "are you with child?"
+
+Kambralyn gapes.
+
+Orianna glances down at her belly.
+
+hold Mesia too!
+Mesia holds you close.
+You hold Mesia close too!
+>
+snu with Mesia
+Mesia nuzzles you.
+You snuggle with Mesia.
+stare at ka
+>You stare at Kambralyn.
+>
+Dulcina flies down and lands.
+shri
+You shriek.
+>
+Mesia asks Glinka, "You okay?"
+
+Orianna says, "not how I made mine, that's for sure"
+
+Luc's head suddenly begins glowing. He places a hand upon his chest. The glow travels down an arm to his hand. The glow quickly spreads over Luc's entire body, then fades away.
+
+
+Nina's stomach growls.
+
+Thurrg's stomach growls.
+
+Hidaija is looking at you.
+lean head me ......her long soft kinky hair falling all over....
+You lean your head on Mesia's shoulder......her long soft kinky hair falling all over....
+>
+Kithrael says to Thurrg, "Very nice kiss."
+
+Thurrg exclaims, "Tenks!"
+' my goodnes
+
+Nina nods to Luc.
+
+Glinka says, " my goodnes"
+>
+Adianna shudders.
+
+Thurrg beams happily and wipes drool on his sleeve.
+
+Kithrael says to Glinka, "There's alcohol available in the retreat, if thou wishes to forget the experience."
+
+Mesia snickers.
+hol nap wiping madly
+You hold the crisp white linen napkin close wiping madly.
+hol cham
+>You hold the glass of bubbling champagne close.
+>
+Maelstra exclaims, "oh no! Tis hungry!"
+dri cham
+
+Orianna nuzzles you on a dry spot.
+You take a drink from your glass of bubbling champagne.
+
+Ahh...  That hit the spot!
+dri cham
+>You take a drink from your glass of bubbling champagne.
+
+Hmmm... not bad.
+>
+Khajag asks Dulcina, "Join me, beloved one?"
+dri cham
+
+Maelstra points to Thurrg.
+You take a drink from your glass of bubbling champagne.
+
+Hmmm... not bad.
+>
+Kithrael says, "Pardon me a moment."
+
+Adianna says, "guzzle the champagne"
+
+Kithrael's group just went through an open ivy-covered rosewood cottage door.
+dri cham
+
+Adianna nods up and down.
+You take a drink from your glass of bubbling champagne.
+
+Ahh...  That hit the spot!
+>
+Khajag raises his hand, patting his knee.
+dri cham
+You take a drink from your glass of bubbling champagne.
+
+Hmmm... not bad.
+hic
+>You hiccup.
+>
+Kambralyn just entered through an open ivy-covered rosewood cottage door.
+' drool!
+
+Glinka exclaims, " drool!"
+stare
+>You stare.
+shiv
+>You shiver.
+>
+Adianna winces.
+
+Dulcina sits down gingerly on Khajag's knee.
+l
+[Peddler's Cottage.]
+
+Black and silver silk streamers, entwined in twists and swirls, hang all around this airy tent. Comfortable warm air radiates around you from slow burning vanilla scented candles resting on tall wrought iron posts. The golden light produced bounces off slow spinning crescent moon crystals hung upon thin silver thread from the cottage's ceiling. Their rainbow light sparkles as they cast prisms on the oak floor. A red velvet curtain leads into a smaller room set up for the travelling tattooist and hairstylist, while a beaded curtain leads into Broyce's work area.  Some flaming vanilla scented candles, some spinning crescent moon crystals, a deep red velvet curtain, a glimmering purple beaded curtain, an open ivy-covered rosewood cottage door, a small diamond-encrusted sign, and a fluffy blue pillow are here.
+
+This room is illuminated.
+In the room are Kambralyn the Noble Fir Elf, Luc the Psycian, Dulcina the Secian (seated), Adianna the Leuian, Khajag the Noble Draco (seated), Nina the Usil Elf, Sast the Secian, Jyrayel the Noble Draco, Orianna the Noble Anthian (seated), Mesia the Novice Secian, Hidaija the Human, Maelstra the Noble Drake, and Thurrg the Noble Thugian.
+Obvious exits: None.
+>
+Mesia wrinkles her nose.
+
+Khajag smiles at Dulcina.
+
+Dulcina giggles at you.
+stand very quickly, her long soft kinky pure whyte hair making a rustling sound...
+You stand up very quickly, her long soft kinky pure whyte hair making a rustling sound....
+>
+acc offer from Mesia
+sp
+' Thankies!
+smi at Mesia gently, winking..
+hug Mesia softly, her long long hair falling all over the place...
+time
+Mesia offers you a pink crystal champagne flute.
+
+You are now speaking Common.
+
+Glinka exclaims, " Thankies!"
+file
+You have nowhere to put it!
+>You smile at Mesia gently, winking..
+>You hug Mesia softly, her long long hair falling all over the place...
+>
+Current time is: Thu Jun 23 21:12:24 2005 EST.
+time
+
+It is now 4:26 pm on the 16th day of the 3rd month in the year 320.
+
+You have been adventuring for 1 hr, 53 mins, 51 secs this session.
+
+>
+Mesia says to Glinka, "Here, have some of mine."
+
+Dulcina says to Glinka, "You got Thurrgy love."
+
+Khajag grins.
+curt to th
+You curtsy to Thurrg.
+>
+Khajag grimaces.
+gig to du
+You giggle to Dulcina.
+>
+Kithrael just entered through an open ivy-covered rosewood cottage door.
+smi at me delicately , brushing back her kinky white hair
+You smile at Mesia delicately , brushing back her kinky white hair.
+>
+Kithrael is now following Kambralyn.
+sit quietly with a wry smile upon her hyacinth lips...
+
+Thurrg beams at you and shakes her hand roughly.
+You sit down quietly with a wry smile upon her hyacinth lips....
+>
+Mesia giggles at Thurrg.
+' a most potent ...kiss?
+
+Glinka asks, " a most potent ...kiss?"
+>
+Mesia snickers.
+
+Adianna says, "and , uh, glinka"
+smi at th impishly, tossing her long soft hair back...
+You smile at Thurrg impishly, tossing her long soft hair back...
+list to ad
+>You listen intently to Adianna.
+>
+Adianna says, "you can keep the napkin, I really don't want it back now"
+dri flu
+I don't see what you are referring to.
+>
+Orianna grins at Adianna.
+
+Mesia snickers at Adianna.
+gig to ad
+You giggle to Adianna.
+>
+Nina chuckles a adi.
+
+Dulcina grins at Adianna.
+off na to ad
+You offer Adianna a crisp white linen napkin.
+
+' it can get washed
+>
+Glinka says, " it can get washed"
+>
+Thurrg asks, "suh oo elze ah kid kiz?"
+
+Adianna says, "no no, I insist"
+
+Mesia says to Thurrg, "You forgot your pillow."
+cac
+You cackle.
+>
+Adianna says, "it's yours"
+
+Mesia pokes the fluffy blue pillow.
+with
+
+Thurrg beams and advances on Adianna.
+You withdraw your offer.
+inv
+>Items carried:
+  An open large forest green leather backpack [1.6 lb].
+  A crescent moon earring [0.0 lbs].
+  An open dragon embroidered black leather backpack [1.0 lb].
+  A delicately linked gold belly chain [0.0 lbs].
+  A smooth handled wooden torch [0.1 lbs].
+  A tiny moonsilver tongue piercing [0.0 lbs].
+  A rainbow silk cloak [2.4 lbs].
+  A wooden shield [0.2 lbs].
+  A pair of ornate silver toe rings [0.0 lbs].
+  A massive circular brass ceremonial gong [0.0 lbs].
+  A heavy polished steelwood mail [2.0 lbs].
+  A silver serpentine hoop [0.0 lbs].
+  Some amethyst star and moon charm bracelets [0.0 lbs].
+  A misty grey orb of Unknown [0.1 lbs].
+  An open plaid leather healer's bag [1.0 lb].
+  An open blood-stained leather healer's bag [0.7 lbs].
+  A moon shaped ivory talisman [0.1 lbs].
+  An empty pewter tankard of mead [0.1 lbs].
+  Some multicolored black dragon wing charms [0.0 lbs].
+  An open dirty buckskin sack [1.2 lb].
+  A small heart-shaped yellow pearl [0.1 lbs].
+  A large white pearl [0.1 lbs].
+  A long violet silk skirt [0.0 lbs].
+  A golden brass lantern [0.2 lbs].
+  A large violet sapphire [0.1 lbs].
+  A dainty glass unicorn figurine [0.1 lbs].
+  A small hexagonal pink pearl [0.1 lbs].
+  A folded blooming paper flower invitation [0.3 lbs].
+  A glass of bubbling champagne [0.1 lbs].
+  A crisp white linen napkin [0.0 lbs].
+
+You have 65 silver pieces and 1 gold piece.
+
+This gives you a total net worth of 165 silver.
+
+Your inventory totals 12.2 lbs.
+>
+Adianna says, "don't even try it"
+
+Nina snickers.
+gig to ad
+You giggle to Adianna.
+>
+Adianna says, "my pops would not be happy"
+
+Mesia says to Adianna, "It looked fun."
+put pea in bac
+You place the small heart-shaped yellow pearl within your open large forest green leather backpack.
+>
+Orianna shudders.
+put pea in bac
+You place the large white pearl within your open large forest green leather backpack.
+put fig in bac
+>You have no "fig" in your inventory!
+>
+Thurrg exclaims to Adianna, "bud baybee ah kin shange!"
+
+Mesia laughs.
+put uni in bac
+You place the dainty glass unicorn figurine within your open large forest green leather backpack.
+>
+Dulcina giggles.
+
+Orianna says to Thurrg, "not enough"
+
+Adianna says, "well do that first"
+
+Khajag says, "I do believe this is the Festival of Renewal, not the Festival of Unrequited Lust."
+gla at nap
+You glance at the crisp white linen napkin.
+>
+Thurrg says, "hokay"
+wri
+
+Nina chuckles.
+You wrinkle your nose.
+>
+Luc smiles slowly.
+gig to kh
+You giggle to Khajag.
+>
+Kithrael says to Khajag, "Well, lust does play a part in the renewal of life."
+
+Thurrg puts on a pair of dirty grey underpants.
+
+Mesia grins at Khajag.
+
+Orianna fans her wings at Khajag.
+
+Dulcina giggles at Khajag softly.
+stand very quickly, her long soft kinky pure whyte hair making a rustling sound...
+
+Thurrg beams.
+You stand up very quickly, her long soft kinky pure whyte hair making a rustling sound....
+>
+Thurrg says, "Der"
+ret 5
+You retreat 5 UDs to the rear!
+[3 sec. delay]
+>
+Thurrg says, "ah shanged"
+
+Adianna says, "and then ask my pops for  permission"
+
+Thurrg says to Adianna, "now wez kiz"
+drop nak
+You have no "nak" in your inventory!
+>
+Adianna cringes.
+
+Thurrg pulls Adianna closer to him.
+
+Khajag asks Kithrael, "Aye, but shouldn't it find a more.. natural... mate?"
+drop nap
+You drop a crisp white linen napkin.
+cou
+>You cough.
+adv 5
+>You see Adianna retreat 5 UDs to the rear!
+
+Khajag glances at Thurrg with a grimace.
+sit quietly with a wry smile upon her hyacinth lips...
+You advance another 5 UDs!
+
+Orianna says to Thurrg, "yes - go ask Ward for permission"
+You sit down quietly with a wry smile upon her hyacinth lips....
+>
+Orianna nods firmly.
+
+Mesia withdraws her earlier offer.
+
+Thurrg hops up and down.
+
+Dulcina gapes at Orianna.
+
+Orianna says, "I'd like to see that"
+
+Kithrael says, "The line is Sast, Adianna, Orianna, Kambralyn and Kithrael, Jyrarel, Maelstra, Khajag, Dulcina, and Hidaija."
+l
+[Peddler's Cottage.]
+
+Black and silver silk streamers, entwined in twists and swirls, hang all around this airy tent. Comfortable warm air radiates around you from slow burning vanilla scented candles resting on tall wrought iron posts. The golden light produced bounces off slow spinning crescent moon crystals hung upon thin silver thread from the cottage's ceiling. Their rainbow light sparkles as they cast prisms on the oak floor. A red velvet curtain leads into a smaller room set up for the travelling tattooist and hairstylist, while a beaded curtain leads into Broyce's work area.  Some flaming vanilla scented candles, some spinning crescent moon crystals, a deep red velvet curtain, a glimmering purple beaded curtain, an open ivy-covered rosewood cottage door, a small diamond-encrusted sign, a fluffy blue pillow, and a crisp white linen napkin are here.
+
+This room is illuminated.
+In the room are Kambralyn the Noble Fir Elf, Luc the Psycian, Dulcina the Secian (seated), Adianna the Leuian, Khajag the Noble Draco (seated), Nina the Usil Elf, Sast the Secian, Jyrayel the Noble Draco, Orianna the Noble Anthian (seated), Mesia the Novice Secian, Hidaija the Human, Kithrael the Fir Elf, Maelstra the Noble Drake, and Thurrg the Noble Thugian.
+Obvious exits: None.
+>
+Adianna says, "better yet, ask my mommy"
+
+Jyrayel says to Kithrael, "close enough"
+
+Orianna grins at Adianna.
+
+Jyrayel smirks to Kithrael.
+
+Mesia snickers.
+
+Dulcina giggles at Jyrayel.
+
+Kithrael says, "The line is Sast, Adianna, Orianna, Kambralyn and Kithrael, Jyrayel, Maelstra, Khajag, Dulcina, and Hidaija."
+
+Jyrayel grins.
+
+Adianna says, "or my Uncle Gwoss"
+
+Mesia holds Jyrayel close.
+
+Dulcina shudders.
+
+Nina disbands her group.
+
+Nina is now following Luc.
+
+Kithrael says to Jyrayel, "I listened to the Usil... it was a bad idea."
+
+Kithrael snickers.
+
+Mesia grins at Kithrael.
+
+Nina furrows her brow.
+
+Adianna ducks behind Nina and hides from Thurrg.
+
+Nina chuckles.
+
+Mesia says, "I'm just here to look at what everyone gets and admire"
+
+Mesia hops up and down.
+
+Thurrg sniffs and wrenches up his dirty grey underpants.
+
+Thurrg says, "asi, c'mere"
+
+Thurrg coughs.
+
+Adianna just removed a folded blooming paper flower invitation from within her open large leather backpack.
+
+Adianna offers something to Nina.
+You see Thurrg retreat 5 UDs to the rear!
+
+Kithrael says to Thurrg, "Now, now... she did say no, Thurrg."
+
+Thurrg frowns.
+
+Kithrael says to Thurrg, "Be good."
+
+Mesia blinks.
+
+Nina accepts Adianna's offer.
+
+Thurrg pouts.
+
+Nina beams at Adianna.
+
+Adianna yells, "NO!"
+
+Mesia ponders a moment.
+You see Thurrg move up another 5 UDs!
+
+Sast blinks.
+
+Kithrael asks Thurrg, "Talk to Ward... maybe he'd like a kiss?"
+
+Thurrg says to Kithrael, "bud unlah kuz yoo mah budah"
+
+Nina says to Adianna, "thank you"
+
+Thurrg holds Kithrael close.
+
+Nina smiles.
+
+Thurrg exclaims, "hokays ah aks wurd!"
+
+Thurrg beams.
+
+Adianna says, "sides, I'm all out of napkins"
+
+Mesia exclaims to Adianna, "I have one!"
+
+Thurrg just picked up a crisp white linen napkin.
+
+Adianna nods to Thurrg.
+
+Khajag is now distant.
+
+Thurrg offers something to Adianna.
+
+Kithrael says to Orianna, "I think that'll be payment for him pushing thee from the tree."
+
+Mesia just removed a sturdy white paper plate from within her open large leather backpack.
+
+Adianna says, "you do that"
+
+Kithrael grins at Orianna.
+
+Adianna says, "oh keep it Thurrg"
+
+Mesia says to Adianna, "A khat gave me a napkin."
+
+Thurrg withdraws his earlier offer.
+
+Mesia just removed a Leuian embossed paper napkin from within her sturdy white paper plate.
+
+Thurrg throws a crisp white linen napkin at Adianna.  It shatters on impact!
+
+Orianna grins at Kithrael.
+
+Luc's head suddenly begins glowing. He touches Nina briefly. The glow travels down an arm to his hand. The glow quickly spreads over Nina's entire body, then fades away.
+
+
+Mesia offers something to Adianna.
+
+Adianna says, "perhaps you can wipe the drool from the corner of your mouth occassionally"
+
+Adianna accepts Mesia's offer.
+
+Mesia beams at Adianna.
+
+Thurrg asks Kithrael, "suh wah iz al deze wemen wan kiz me anyways?"
+
+Thurrg is now confused.
+
+Kithrael says to Thurrg, "Remember, Ward likes it rough, so if thou wants to play it that way, go ahead."
+
+Thurrg scratches his head.
+
+You watch Maelstra poorly attempt to blend into the shadows!
+
+Dulcina stands up.
+You see Dulcina retreat 2 UDs to the rear!
+
+Thurrg says to Kithrael, "oh hukay"
+
+Adianna glances at Kithrael.
+
+Maelstra says to Adianna, "I wouldn't count on it"
+
+Dulcina sits down.
+
+Orianna cackles at Kithrael.
+
+You watch Maelstra poorly attempt to blend into the shadows!
+
+Dulcina nuzzles Khajag softly.
+
+You watch Maelstra poorly attempt to blend into the shadows!
+
+Dulcina grins at Maelstra.
+
+You watch Maelstra poorly attempt to blend into the shadows!
+
+Khajag holds Dulcina close.
+
+Kithrael shakes his head from side to side to Luc.
+
+Jyrayel smiles.
+
+Luc nods to Kithrael.
+
+Dulcina purrs.
+
+Dulcina snuggles with Khajag.
+
+Khajag smiles contentedly.
+
+Adianna says, "you are speaking about my father here"
+
+Adianna glances at Kithrael.
+
+Adianna says, "and I do believe some day you might be a father"
+
+Adianna glances at Kambralyn.
+
+Kithrael says to Adianna, "My apologies, lady Adianna."
+
+Kithrael blushes at Adianna faintly.
+
+Mesia leans on Jyrayel.
+
+Kambralyn glances at Kithrael.
+
+Thurrg is now bored.
+
+Adianna curtsies graciously.
+
+Nina smiles to Adianna.
+
+Thurrg asks, "anywun elze wan gid wun o mah kiziz?"
+
+Thurrg drools slightly.
+
+Mesia nods to Jyrayel.
+
+Maelstra says, "baby elves. How frightening"
+
+Orianna glances at Maelstra.
+
+Kambralyn says to Kithrael, "don't look at me, I haven't even any 'special' jewelry"
+
+Kambralyn winks.
+
+Khajag says to Maelstra, "No.  Baby Hithuals are the foulest."
+
+ *** Warning, you have been inactive for 5 minutes.
+look
+ *** You will be disconnected in 10 minute(s) if you do not respond.
+[Peddler's Cottage.]
+
+Black and silver silk streamers, entwined in twists and swirls, hang all around this airy tent. Comfortable warm air radiates around you from slow burning vanilla scented candles resting on tall wrought iron posts. The golden light produced bounces off slow spinning crescent moon crystals hung upon thin silver thread from the cottage's ceiling. Their rainbow light sparkles as they cast prisms on the oak floor. A red velvet curtain leads into a smaller room set up for the travelling tattooist and hairstylist, while a beaded curtain leads into Broyce's work area.  Some flaming vanilla scented candles, some spinning crescent moon crystals, a deep red velvet curtain, a glimmering purple beaded curtain, an open ivy-covered rosewood cottage door, a small diamond-encrusted sign, and a fluffy blue pillow are here.
+
+This room is illuminated.
+In the room are Kambralyn the Noble Fir Elf, Luc the Psycian, Dulcina the Secian (seated), Adianna the Leuian, Khajag the Noble Draco (seated), Nina the Usil Elf, Sast the Secian, Jyrayel the Noble Draco, Orianna the Noble Anthian (seated), Mesia the Novice Secian, Hidaija the Human, Kithrael the Fir Elf, Maelstra the Noble Drake, and Thurrg the Noble Thugian.
+Obvious exits: None.
+>
+Thurrg asks Glinka, "wuz gud kisin ride?"
+
+Kithrael says to Kambralyn, "Anything thou wears is special, for the bearer makes it so."
+
+Mesia winks at Thurrg.
+
+Kithrael smiles at Kambralyn.
+
+Maelstra says to Khajag, "that's a fact"
+
+Maelstra nods.
+
+Khajag nods slowly.
+
+Orianna giggles.
+nod yes to th
+You nod up and down to Thurrg.
+bla
+>You blanch.
+>
+Mesia snickers at you.
+
+Kithrael grins at you.
+
+Dulcina grins at you.
+chu softly
+You chuckle softly.
+>
+Thurrg stares at you.
+
+Kambralyn grins at Kithrael.
+
+Thurrg's stomach growls.
+smi at th gently, winking..
+You smile at Thurrg gently, winking..
+>
+Thurrg asks Glinka, "wud diz meen?"
+
+Thurrg blanches too.
+
+Dulcina says to Glinka in Secian, "Awww...you made a special friend."
+
+Thurrg scratches his head.
+
+wink back Impishly!
+Dulcina winks at you.
+You wink back Impishly!
+>
+Kithrael asks Glinka, "Should we declare Thurrg the better kisser, or thee?"
+
+Mesia laughs at Dulcina.
+
+Nina snickers.
+
+Nina nods up and down to Adianna.
+
+Orianna asks Kithrael, "oh - contest is over?"
+
+Kambralyn asks Orianna, "happen to have a frying pan that I can hit him over the head with?"
+
+Orianna pouts.
+
+Thurrg exclaims to Kithrael, "oh oh! me me!"
+gi gto du
+You giggle gto du.
+>
+Thurrg hops up and down.
+
+Thurrg raises his hand.
+gig to du
+You giggle to Dulcina.
+>
+Kithrael shakes his head from side to side to Orianna.
+
+Nina chuckles.
+poi at th
+You point at Thurrg.
+smi at ki delicately , brushing back her kinky white hair
+>You smile at Kithrael delicately , brushing back her kinky white hair.
+>
+Thurrg beams.
+
+Orianna just removed a leather whip from within her open large leather backpack.
+
+Kambralyn laughs.
+
+Orianna offers something to Kambralyn.
+
+Adianna just removed a closed old tattered vellum encyclopedia from within her open large leather backpack.
+
+Kithrael nods to Luc.
+
+Adianna glances at the closed old tattered vellum encyclopedia.
+
+Kambralyn says to Orianna, "I've one of those already"
+
+Orianna says, "oh...."
+
+Luc nods to Kithrael.
+
+Orianna withdraws her earlier offer.
+
+Adianna says, "mebbe this would work better than a frying pan"
+
+Orianna just placed a leather whip within her open large leather backpack.
+
+Mesia hums.
+
+Adianna taps the closed old tattered vellum encyclopedia.
+
+Kithrael smiles at Luc.
+
+Kambralyn says, "hmm"
+
+Orianna says to Kambralyn, "I have a rock"
+
+Kambralyn says, "it does look rather heavy"
+l
+[Peddler's Cottage.]
+
+Black and silver silk streamers, entwined in twists and swirls, hang all around this airy tent. Comfortable warm air radiates around you from slow burning vanilla scented candles resting on tall wrought iron posts. The golden light produced bounces off slow spinning crescent moon crystals hung upon thin silver thread from the cottage's ceiling. Their rainbow light sparkles as they cast prisms on the oak floor. A red velvet curtain leads into a smaller room set up for the travelling tattooist and hairstylist, while a beaded curtain leads into Broyce's work area.  Some flaming vanilla scented candles, some spinning crescent moon crystals, a deep red velvet curtain, a glimmering purple beaded curtain, an open ivy-covered rosewood cottage door, a small diamond-encrusted sign, and a fluffy blue pillow are here.
+
+This room is illuminated.
+In the room are Kambralyn the Noble Fir Elf, Luc the Psycian, Dulcina the Secian (seated), Adianna the Leuian, Khajag the Noble Draco (seated), Nina the Usil Elf, Sast the Secian, Jyrayel the Noble Draco, Orianna the Noble Anthian (seated), Mesia the Novice Secian, Hidaija the Human, Kithrael the Fir Elf, Maelstra the Noble Drake, and Thurrg the Noble Thugian.
+Obvious exits: None.
+>
+Orianna just removed a jagged quartz rock from within her open large leather backpack.
+
+Magenta just appeared.
+
+Orianna taps the jagged quartz rock.
+
+Mesia holds the red hot heart-shaped lollipop close and plops it into her mouth.
+
+Dulcina smiles at Magenta.
+
+Magenta smiles.
+
+Adianna asks, "might knock some sense into his head?"
+
+Sast kisses Magenta.
+
+Nina chuckles.
+
+Mesia hums cheerfully as she twirls the lollipop stick about between her tiny fingers.
+
+Thurrg says to Kithrael, "ah hab ahdea fo gidin wimin tuh kiz me"
+
+Thurrg beams at Kithrael.
+
+Orianna just placed a jagged quartz rock within her open large leather backpack.
+
+Kithrael removes his heavy ivy etched ivory breastplate.
+
+Luc taps the brass knuckles.
+l at th
+
+Thurrg looks like a 6'9" standard adolescent heavy boned, average bodied Thugian.
+He has medium length, disheveled, wiry dull black hair, with pitch black eyes, and looks disheveled.
+He appears to be bored right now.
+He bears the mark of Taath.
+He can be attacked by other players.
+
+On his chest is a picture of Thurrg standing over a piece of flattened cake, roaring triumphantly.
+
+On his right arm is a tattoo of Mael, dressed head to toe in a pink, frilly dress with many ruffles.
+
+He appears to be in perfect health.
+                        Visible Equipment
+A damaged giant faceted iron plate mail            (armor)
+A giant lacy purple dainties with eye holes        (on head)
+A shadowy black raven feather cloak                (over armor)
+A pair of dirty grey underpants                    (pants)
+A soft fuzzy chinchilla fur shirt                  (shirt)
+
+He has been bestowed the following title(s):
+  Noble of the Realm
+
+>
+Adianna beams at Luc.
+
+Luc grins at Adianna.
+
+Thurrg lies down on the pillow.
+
+Thurrg says, "gotsa luk sexsah"
+
+Kambralyn wrinkles her nose.
+
+Thurrg removes his soft fuzzy chinchilla fur shirt.
+
+Kambralyn groans.
+shri
+You shriek.
+>
+Dulcina blinks.
+
+Kithrael has left Kambralyn's group.
+
+Mesia blinks at Thurrg.
+clap a hand to her eyes
+You clap a hand to her eyes.
+>
+Kambralyn is now following Kithrael.
+
+Kithrael's group just went through a deep red velvet curtain.
+
+Nina glances at the open ivy-covered rosewood cottage door, away from Thurrg.
+
+Adianna winces and holds her hands over her eyes.
+
+Thurrg stares around.
+
+Khajag raises his hand to the rugged brown buckskin three-cornered hat and pulls it over his eyes.
+
+Luc mutters softly as he glances into the pockets of his cloak.
+l
+[Peddler's Cottage.]
+
+Black and silver silk streamers, entwined in twists and swirls, hang all around this airy tent. Comfortable warm air radiates around you from slow burning vanilla scented candles resting on tall wrought iron posts. The golden light produced bounces off slow spinning crescent moon crystals hung upon thin silver thread from the cottage's ceiling. Their rainbow light sparkles as they cast prisms on the oak floor. A red velvet curtain leads into a smaller room set up for the travelling tattooist and hairstylist, while a beaded curtain leads into Broyce's work area.  Some flaming vanilla scented candles, some spinning crescent moon crystals, a deep red velvet curtain, a glimmering purple beaded curtain, an open ivy-covered rosewood cottage door, a small diamond-encrusted sign, and a fluffy blue pillow are here.
+
+This room is illuminated.
+In the room are Luc the Psycian, Dulcina the Secian (seated), Adianna the Leuian, Khajag the Noble Draco (seated), Nina the Usil Elf, Sast the Secian, Jyrayel the Noble Draco, Orianna the Noble Anthian (seated), Mesia the Novice Secian, Hidaija the Human, Maelstra the Noble Drake, Thurrg the Noble Thugian (lying down), and Magenta the Noble Secian.
+Obvious exits: None.
+>
+Thurrg asks, "nahd seksah nuff?"
+
+Dulcina squeals and buries her head into Khajag's chest.
+
+Thurrg furrows his brow and starts taking off his underpants.
+
+Khajag holds Dulcina close.
+shri to th
+You shriek to Thurrg.
+>
+Hidaija stares upward.
+
+You watch Adianna poorly attempt to blend into the shadows!
+
+Maelstra shrieks.
+' its enuff
+
+Glinka says, " its enuff"
+>
+Mesia blinks rapidly.
+
+You watch Adianna poorly attempt to blend into the shadows!
+flai
+You flail your arms about wildly.
+>
+You watch Adianna poorly attempt to blend into the shadows!
+
+Thurrg says to Glinka, "oh hukays"
+
+You watch Adianna poorly attempt to blend into the shadows!
+
+Mesia holds Jyrayel close and hides her face in the side of his leg.
+
+Nina leans her head on Luc's shoulder, burying her face in his shoulder.
+
+Adianna groans.
+
+Thurrg smiles and pulls his undies back up.
+appear mood rel
+
+>
+Adianna ducks behind nina.
+shiv
+You shiver.
+>
+Orianna shudders.
+
+Kithrael's group just entered through a deep red velvet curtain.
+l
+[Peddler's Cottage.]
+
+Black and silver silk streamers, entwined in twists and swirls, hang all around this airy tent. Comfortable warm air radiates around you from slow burning vanilla scented candles resting on tall wrought iron posts. The golden light produced bounces off slow spinning crescent moon crystals hung upon thin silver thread from the cottage's ceiling. Their rainbow light sparkles as they cast prisms on the oak floor. A red velvet curtain leads into a smaller room set up for the travelling tattooist and hairstylist, while a beaded curtain leads into Broyce's work area.  Some flaming vanilla scented candles, some spinning crescent moon crystals, a deep red velvet curtain, a glimmering purple beaded curtain, an open ivy-covered rosewood cottage door, a small diamond-encrusted sign, and a fluffy blue pillow are here.
+
+This room is illuminated.
+In the room are Kambralyn the Noble Fir Elf, Luc the Psycian, Dulcina the Secian (seated), Adianna the Leuian, Khajag the Noble Draco (seated), Nina the Usil Elf, Sast the Secian, Jyrayel the Noble Draco, Orianna the Noble Anthian (seated), Mesia the Novice Secian, Hidaija the Human, Kithrael the Fir Elf, Maelstra the Noble Drake, Thurrg the Noble Thugian (lying down), and Magenta the Noble Secian.
+Obvious exits: None.
+>
+Khajag inhales.
+
+Kambralyn has left Kithrael's group.
+
+Mesia shudders uncontrollably.
+
+Khajag asks, "Is it over?"
+
+Thurrg exclaims to Kithrael, "dems drolin ova mes!"
+
+Thurrg beams at Kithrael.
+
+Kithrael says, "The line is Sast, Adianna, Orianna, Kambralyn and Kithrael, Jyrarel, Maelstra, Khajag, Dulcina, and Hidaija."
+nod yes to kh
+You nod up and down to Khajag.
+>
+Luc's group just went through an open ivy-covered rosewood cottage door.
+
+Dulcina shivers.
+
+Kithrael just went through an open ivy-covered rosewood cottage door.
+You see Maelstra retreat 2 UDs to the rear!
+
+Maelstra pulls Khajag closer to her and between her and Thurrg.
+
+Adianna says, "that was "
+
+Khajag grunts, flicking his hat back onto his head properly.
+
+Jyrayel chuckles.
+
+Dulcina squeals.
+
+Adianna shudders.
+
+Kambralyn says to Thurrg, "you should go over to the romantic retreat, lots of pillows there"
+
+Kambralyn nods up and down.
+
+Dulcina holds Khajag close.
+
+Thurrg beams.
+
+Khajag grunts at Maelstra loudly.
+
+Adianna says, "I just don't , can't"
+
+Adianna babbles.
+
+Dulcina giggles at Adianna.
+
+Maelstra hums.
+
+Orianna says to Kambralyn, "he;ll drool all over them"
+hol ad
+Too far!  You must close some distance before you can try that.
+com ad
+>You comfort Adianna.
+>
+Kambralyn says, "hrm"
+
+Dulcina says to Adianna, "There are no words for what that was."
+
+Adianna groans.
+nod no to du , her long soft kinky white-blonde hair flying gently back and forth...
+You shake your head from side to side to Dulcina, her long soft kinky white-blonde hair flying gently back and forth...
+>
+Kithrael just entered through an open ivy-covered rosewood cottage door.
+
+Adianna shivers.
+
+Thurrg says to Dulcina, "ah tink wud yoo lukin fo be 'seksah"
+
+Thurrg nods up and down.
+
+Kambralyn is now following Kithrael.
+
+Kithrael says, "The line is Sast, Adianna, Orianna, Kambralyn and Kithrael, Jyrarel, Maelstra, Khajag, Dulcina, and Hidaija."
+l at gl
+You find something suitably reflective and gaze into it...
+
+You look like a 1'2" standard adolescent delicate boned, wiry-tough bodied Secian Cleric.
+You are seated.
+You have very long, wild, kinky white hair with a white streak, heavy lidded pale red eyes, and look translucent.
+You appear to be amorous right now.
+You can be attacked by other players.
+
+On her breast is a small crescent shaped birthmark.
+
+On her neck is a purple marked tattoo of the house of Mandor.
+
+On her belly is a tark tribal circle around the navel.
+
+On her back are glimmering deep Hyacinth wings with draconic runes in Golde upon them.
+
+On her head, behind her left ear is a deep blue Something.
+
+You appear to be in perfect health.
+There is a shining gold emblem affixed to your clothing.
+
+Physical appearance:
+
+You see an ageless, tymless, spryte with long wild kinky whyte hair with a glowing whyte streak and sleepy eyes...She is shivering in the cold wind to Valhalla...She has touched the Sky...
+
+                        Visible Equipment
+A tiny moonsilver tongue piercing                  (on head)
+A massive circular brass ceremonial gong           (hands)
+A moon shaped ivory talisman                       (around neck)
+Some amethyst star and moon charm bracelets        (over hands)
+A pair of ornate silver toe rings                  (on feet)
+Some multicolored black dragon wing charms         (over armor)
+A crescent moon earring                            (right ear)
+A silver serpentine hoop                           (left ear)
+A delicately linked gold belly chain               (on belt)
+
+You have been bestowed the following title(s):
+  Noble of the Realm
+
+>You see Kithrael retreat 1 UDs to the rear!
+
+Kithrael sits down.
+
+Mesia blanches.
+hol tal wiping drool from the edges
+You hold the moon shaped ivory talisman close wiping drool from the edges.
+>
+Maren's group just entered through a glimmering purple beaded curtain.
+grim
+You grimace.
+l
+>[Peddler's Cottage.]
+
+Black and silver silk streamers, entwined in twists and swirls, hang all around this airy tent. Comfortable warm air radiates around you from slow burning vanilla scented candles resting on tall wrought iron posts. The golden light produced bounces off slow spinning crescent moon crystals hung upon thin silver thread from the cottage's ceiling. Their rainbow light sparkles as they cast prisms on the oak floor. A red velvet curtain leads into a smaller room set up for the travelling tattooist and hairstylist, while a beaded curtain leads into Broyce's work area.  Some flaming vanilla scented candles, some spinning crescent moon crystals, a deep red velvet curtain, a glimmering purple beaded curtain, an open ivy-covered rosewood cottage door, a small diamond-encrusted sign, and a fluffy blue pillow are here.
+
+This room is illuminated.
+In the room are Kambralyn the Noble Fir Elf, Dulcina the Secian (seated), Solinus the Human, Adianna the Leuian, Khajag the Noble Draco (seated), Sast the Secian, Maren the Noble Usil Elf, Jyrayel the Noble Draco, Orianna the Noble Anthian (seated), Mesia the Novice Secian, Hidaija the Human, Kithrael the Fir Elf (seated), Maelstra the Noble Drake, Thurrg the Noble Thugian (lying down), and Magenta the Noble Secian.
+Obvious exits: None.
+>
+Kithrael says to Maren, "The line is Sast, Adianna, Orianna, Kambralyn and Kithrael, Jyrarel, Maelstra, Khajag, Dulcina, and Hidaija."
+
+Maren nods to Kithrael.
+
+Beryline just entered through a glimmering purple beaded curtain.
+
+Maren says to Kithrael, "I shall hold it."
+
+Kithrael nods to Maren.
+
+Adianna smiles at Beryline.
+gla at pil
+You glance at the fluffy blue pillow.
+>
+Mesia says to Thurrg, "You had the line screaming for more when you started taking off the undies, maybe you should try it again."
+
+Mesia snickers quietly.
+
+Sast asks, "Do I wait till next is yelled?"
+
+Beryline exclaims, "Next!"
+
+Maren nods to Sast.
+
+Maren says, "The line is Sast, Adianna, Orianna, Kambralyn, Kithrael, Jyrayel, Maelstra, Khajag, Dulcina, Hidaija, "
+
+Orianna winces.
+
+Sast is now following Beryline.
+
+Adianna exclaims, "be thankful you are behind the beaded curtain!"
+
+Beryline's group just went through a glimmering purple beaded curtain.
+
+Thurrg beams.
+
+Thurrg exclaims, "yuh!"
+l
+[Peddler's Cottage.]
+
+Black and silver silk streamers, entwined in twists and swirls, hang all around this airy tent. Comfortable warm air radiates around you from slow burning vanilla scented candles resting on tall wrought iron posts. The golden light produced bounces off slow spinning crescent moon crystals hung upon thin silver thread from the cottage's ceiling. Their rainbow light sparkles as they cast prisms on the oak floor. A red velvet curtain leads into a smaller room set up for the travelling tattooist and hairstylist, while a beaded curtain leads into Broyce's work area.  Some flaming vanilla scented candles, some spinning crescent moon crystals, a deep red velvet curtain, a glimmering purple beaded curtain, an open ivy-covered rosewood cottage door, a small diamond-encrusted sign, and a fluffy blue pillow are here.
+
+This room is illuminated.
+In the room are Kambralyn the Noble Fir Elf, Dulcina the Secian (seated), Solinus the Human, Adianna the Leuian, Khajag the Noble Draco (seated), Maren the Noble Usil Elf, Jyrayel the Noble Draco, Orianna the Noble Anthian (seated), Mesia the Novice Secian, Hidaija the Human, Kithrael the Fir Elf (seated), Maelstra the Noble Drake, Thurrg the Noble Thugian (lying down), and Magenta the Noble Secian.
+Obvious exits: None.
+>
+Thurrg says, "dad gud ahdea"
+
+Orianna says to Mesia, "please don't encourage him"
+
+Mesia grins at Orianna.
+
+Maelstra exclaims to Thurrg, "uh... NO!"
+
+Thurrg hums some sexy music.
+
+Dulcina shudders.
+
+Adianna groans at Mesia.
+
+Thurrg exclaims, "dum dum...dum dum dum!"
+
+Maelstra grimaces.
+gri to ma
+You grin to Maren.
+>
+Thurrg stands up.
+
+Dulcina squeals and hops into Khajag's backpack.
+
+Mesia laughs wildly as she wraps her arms tightly around one of Jyrayel's legs, hiding her face in it.
+
+Khajag asks Maelstra, "Can you drag him out of here?"
+
+Orianna says to Thurrg, "enough"
+
+Kithrael mutters something beneath his breath.
+
+Adianna groans.
+
+Thurrg blinks.
+info rune
+
+You have prepared the following corridors...
+
+Corridor   Name                 Name       Al #cast
+1          Healer's touch       (ht      )[N] 1661
+2          Vigor touch          (vt      )[N] 1678
+3          Touch of illness     (it      )[N] 100
+4          Light dart           (ld      )[N] 80
+5          Light bolt           (lb      )[N] 1
+6          Holy cloud           (hc      )[N] 481
+7          Arrow of light       (la      )[N] 41
+8          Holy armor           (ha      )[N] 410
+9          Righteous globe      (lg      )[N] 92
+10         Holy water           (hm      )[N] 3817
+11         Gate of Elindale     (tran    )[N] 1
+12         Secian forgiveness   (ca      )[N] 1425
+13         Holy sight           (hs      )[N] 220
+14         Curse of the wise    (mc      )[N] 864
+15         Presence of Elindale (ddb     )[N] 54
+16         Healing dew          (mb      )[N] 1223
+17         Refreshing dew       (eb      )[N] 2296
+18         Curse of blindness   (bc      )[N] 357
+19         Movement curse       (mv      )[N] 18
+20         Curse of weakness    (sc      )[N] 3
+21         Bear of Elindale     (hb      )[N] 1
+22         Mist of obscurity    (hmm     )[N] 2
+23         Divine presence      (db      )[N] 1
+24         Divine blessing      (dw      )[N] 1
+25         Healing rain         (rb      )[N] 1
+26         Refreshing spray     (cb      )[N] 1
+27         Shield of light      (cls     )[N] 1
+28         Ring of health       (hhr     )[N] 1
+29         Rejuvenation ring    (hcr     )[N] 1
+30         Sacred rejuvenation  (cas     )[N] 2
+
+>
+Kithrael asks Orianna, "Wouldst thou tell Gideon that I'm fine, please?"
+invo bc at gl
+
+A dark aura surrounds you as you utters an ancient chant in Secti.
+
+You feel a surge of magick infuse your runeweave!
+Weaving those runes cost you 5 FPs.
+
+You feel more tired.
+[6 sec. delay]
+Hmmm, casting a harmful runespell on yourself is not a good way to perfect your skill in spellcasting!
+>
+Your eyes suddenly widen as they are filled with a layer of darkness!
+
+Orianna ponders the meaning of the universe for a moment.
+
+Kithrael says to Orianna, "I dropped from the steps, and he is inquiring for my health."
+beam
+
+Kithrael fidgets.
+You beam.
+>
+Mesia grins at you.
+
+You expend 1 fatigue keeping up the curse of blindness on yourself.
+
+Kithrael is looking at you.
+
+Gideon just entered through an open ivy-covered rosewood cottage door.
+
+ ** Current fatigue: 68 out of 70
+
+Orianna whistles a high pitch note!  After a few moments, a little sparrow flies in and lands on Orianna's shoulder.
+
+You expend 1 fatigue keeping up the curse of blindness on yourself.
+
+Gideon nuzzles Orianna.
+
+The amber aura about Gideon's head flickers and fades away.
+
+Orianna says to Gideon, "Kithrael says he's fine"
+
+You expend 1 fatigue keeping up the curse of blindness on yourself.
+
+Orianna whispers something to the sparrow and it flies off to deliver her message.  
+
+Gideon sits down.
+
+Gideon giggles.
+
+Adianna laughs.
+
+Kithrael grins at Orianna.
+
+Adianna claps.
+
+Kithrael says to Orianna, "Thanks."
+
+You expend 1 fatigue keeping up the curse of blindness on yourself.
+
+Kithrael nods to Gideon.
+
+Maren chuckles softly.
+
+Maelstra says, "there seems to be  a magical force here"
+
+Orianna says to Kithrael, "any time"
+
+You expend 1 fatigue keeping up the curse of blindness on yourself.
+
+Maelstra squints.
+
+You expend 1 fatigue keeping up the curse of blindness on yourself.
+
+Kithrael says to Gideon, "I do that every so often... I prefer to practice my channeling on my own wounds, rather than others."
+
+Orianna raises an eyebrow at Maelstra.
+
+You expend 1 fatigue keeping up the curse of blindness on yourself.
+
+Dulcina shivers as she peeks her head out of the backpack.
+
+Gideon says to Kithrael, "I guess you didn't land on your head"
+
+Kithrael grins at Gideon.
+
+You expend 1 fatigue keeping up the curse of blindness on yourself.
+
+Kambralyn hugs Gideon.
+
+Thurrg is now bored.
+
+Mesia glances at Thurrg slightly.
+
+Kithrael says to Gideon, "My head is hard enough to take it anyway."
+
+You expend 1 fatigue keeping up the curse of blindness on yourself.
+
+Your eyes return to normal.
+
+ ** Current fatigue: 68 out of 70
+
+Orianna nods to Kithrael.
+
+Gideon hugs Kambralyn.
+
+Thurrg puts on a soft fuzzy chinchilla fur shirt.
+
+Adianna says, "he prolly landed on the other end"
+
+The little sparrow returns and sings a pleasant song for Orianna.  The sparrow tweets happily, then flies off again.
+
+Kithrael says to Gideon, "Just ask Kambralyn."
+
+Gideon is now following Orianna.
+'th, thank you
+
+Glinka says to Thurrg, "thank you"
+>
+Kambralyn nods to Kithrael.
+shud
+You shudder.
+>
+Thurrg asks Glinka, "yuh injoy?"
+
+Kithrael asks Orianna, "Didst thou wish to enter the contest now?"
+
+Thurrg stares at you.
+' um..yes?
+
+Glinka asks, " um..yes?"
+>
+Orianna bats her eyes at Gideon.
+
+Thurrg beams.
+gulp
+You gulp.
+>
+Orianna asks, "gonna kiss me for the contest?"
+l
+[Peddler's Cottage.]
+
+Black and silver silk streamers, entwined in twists and swirls, hang all around this airy tent. Comfortable warm air radiates around you from slow burning vanilla scented candles resting on tall wrought iron posts. The golden light produced bounces off slow spinning crescent moon crystals hung upon thin silver thread from the cottage's ceiling. Their rainbow light sparkles as they cast prisms on the oak floor. A red velvet curtain leads into a smaller room set up for the travelling tattooist and hairstylist, while a beaded curtain leads into Broyce's work area.  Some flaming vanilla scented candles, some spinning crescent moon crystals, a deep red velvet curtain, a glimmering purple beaded curtain, an open ivy-covered rosewood cottage door, a small diamond-encrusted sign, and a fluffy blue pillow are here.
+
+This room is illuminated.
+In the room are Kambralyn the Noble Fir Elf, Dulcina the Secian (seated), Solinus the Human, Adianna the Leuian, Khajag the Noble Draco (seated), Maren the Noble Usil Elf, Jyrayel the Noble Draco, Orianna the Noble Anthian (seated), Mesia the Novice Secian, Hidaija the Human, Kithrael the Fir Elf (seated), Maelstra the Noble Drake, Thurrg the Noble Thugian, Gideon the Noble Anthian (seated), and Magenta the Noble Secian.
+Obvious exits: None.
+>
+Thurrg raises an eyebrow his hand.
+
+Adianna swishes her tail and stands in front of Glinka , hiding her from view.
+
+Thurrg rolls his eyes.
+cac
+You cackle.
+>
+Thurrg raises his hand.
+
+Thurrg exclaims to Orianna, "me me!"
+hol ad
+Too far!  You must close some distance before you can try that.
+>
+Thurrg exclaims to Orianna, "pik me ah kiz gud!"
+beam to ad
+You beam to Adianna.
+>
+Orianna exclaims to Thurrg, "no!"
+
+Gideon says to Orianna, "you can kiss me"
+
+Kambralyn says to Gideon, "and no drooling please, we're already almost swimming it it here"
+nod yes to ka
+You nod up and down to Kambralyn.
+>
+Mesia giggles.
+
+Thurrg frowns.
+
+Orianna stands up.
+bla
+You blanch.
+>
+Thurrg's stomach growls.
+
+Thurrg says to Kithrael, "herz say nuh..."
+
+Orianna giggles.
+
+Thurrg is now sad.
+
+Gideon stands up.
+
+Thurrg shuffles his feet.
+
+Orianna asks, "judges ready?"
+
+Kithrael nods to Orianna.
+
+Khajag blinks.
+
+Kambralyn nods up and down.
+appear mood int
+
+>
+Khajag glances at the open large leather backpack and stares into it.
+appear mood ?
+
+    Available mood selections:
+
+ flaming-mad  livid        unhappy      shocked      despairing   blue        
+ unconcerned  distant      bored        chagrined    perplexed    mischievous 
+ partying     happy        overjoyed    apprehensive cold         gentle      
+ angry        preoccupied  aloof        calculating  aristocratic amused      
+ puzzled      serious      petulant     cynical      neutral      belligerent 
+ sullen       wary         confused     upset        frivolous    sleepy      
+ tired        irate        giddy        ecstatic     frustrated   worried     
+ resigned     grumpy       violent      inconsolable non-plussed  loving      
+ playful      furious      romantic     concerned    scared       frightened  
+ annoyed      sad          sassy        annoying     tense        perturbed   
+ depressed    amorous      dumbfounded 
+
+>
+Khajag says, "Dulcina fell asleep in my pack."
+
+Mesia grins at Khajag.
+
+Mesia says to Khajag, "So cute"
+
+Orianna leans on Gideon and gently nuzzle his neck, then raises her lips to first brush against his.
+
+Maelstra exclaims to Khajag, "careful not to squish her!"
+l
+[Peddler's Cottage.]
+
+Black and silver silk streamers, entwined in twists and swirls, hang all around this airy tent. Comfortable warm air radiates around you from slow burning vanilla scented candles resting on tall wrought iron posts. The golden light produced bounces off slow spinning crescent moon crystals hung upon thin silver thread from the cottage's ceiling. Their rainbow light sparkles as they cast prisms on the oak floor. A red velvet curtain leads into a smaller room set up for the travelling tattooist and hairstylist, while a beaded curtain leads into Broyce's work area.  Some flaming vanilla scented candles, some spinning crescent moon crystals, a deep red velvet curtain, a glimmering purple beaded curtain, an open ivy-covered rosewood cottage door, a small diamond-encrusted sign, and a fluffy blue pillow are here.
+
+This room is illuminated.
+In the room are Kambralyn the Noble Fir Elf, Solinus the Human, Adianna the Leuian, Khajag the Noble Draco (seated), Maren the Noble Usil Elf, Jyrayel the Noble Draco, Orianna the Noble Anthian, Mesia the Novice Secian, Hidaija the Human, Kithrael the Fir Elf (seated), Maelstra the Noble Drake, Thurrg the Noble Thugian, Gideon the Noble Anthian, and Magenta the Noble Secian.
+Obvious exits: None.
+>
+Hidaija stares at Maren.
+
+Khajag grunts and handles his backpack gingerly, placing it in his lap.
+
+Orianna kisses Gideon deeply and passionately, gently rubbing her belly against his so he can feel the baby kick.
+
+Adianna says, "awww"
+
+Mesia snickers quietly.
+
+Gideon smiles.
+appear mood lov
+
+You are now loving.
+
+>
+Khajag stares between Orianna and Gideon.
+
+Orianna hugs Gideon tightly.
+
+Hidaija exhales.
+
+Kambralyn whistles.
+
+Khajag grimaces.
+
+Gideon hugs Orianna.
+
+Kithrael smiles at Orianna.
+
+Orianna says, "okies - that's my entry"
+appl
+You applaud.
+>
+Kambralyn says to Orianna, "you two are cute"
+
+Orianna giggles.
+
+Kithrael says to Kambralyn, "We'll have to show them how it's done, sometime."
+
+Kithrael leans on Kambralyn.
+
+Kambralyn giggles.
+
+Gideon tickles Kambralyn.
+
+Mesia grins at Kithrael.
+
+Mesia says to Kithrael, "Now is that time."
+
+Orianna says to Kithrael, "I have proof our way works"
+
+Mesia pokes Kithrael lightly on his knee.
+
+Kithrael shakes his head from side to side to Mesia.
+
+Mesia grunts at Kithrael.
+
+Orianna asks Gideon, "you entering?"
+
+Gideon rubs Orianna and her belly.
+
+Orianna bats her eyes at Gideon.
+
+Gideon says to Orianna, "maybe later"
+
+Orianna pouts.
+
+Kithrael says to Orianna, "So fast... it was over before he had the time to enjoy it.  Thou has to make him want more, not give it all at once."
+
+Orianna sits down.
+
+Kithrael flails his arms about wildly at Orianna.
+
+Mesia snickers at Kithrael.
+
+Gideon sits down.
+
+Orianna raises an eyebrow at Kithrael.
+l
+[Peddler's Cottage.]
+
+Black and silver silk streamers, entwined in twists and swirls, hang all around this airy tent. Comfortable warm air radiates around you from slow burning vanilla scented candles resting on tall wrought iron posts. The golden light produced bounces off slow spinning crescent moon crystals hung upon thin silver thread from the cottage's ceiling. Their rainbow light sparkles as they cast prisms on the oak floor. A red velvet curtain leads into a smaller room set up for the travelling tattooist and hairstylist, while a beaded curtain leads into Broyce's work area.  Some flaming vanilla scented candles, some spinning crescent moon crystals, a deep red velvet curtain, a glimmering purple beaded curtain, an open ivy-covered rosewood cottage door, a small diamond-encrusted sign, and a fluffy blue pillow are here.
+
+This room is illuminated.
+In the room are Kambralyn the Noble Fir Elf, Solinus the Human, Adianna the Leuian, Khajag the Noble Draco (seated), Maren the Noble Usil Elf, Jyrayel the Noble Draco, Orianna the Noble Anthian (seated), Mesia the Novice Secian, Hidaija the Human, Kithrael the Fir Elf (seated), Maelstra the Noble Drake, Thurrg the Noble Thugian, Gideon the Noble Anthian (seated), and Magenta the Noble Secian.
+Obvious exits: None.
+>
+Orianna says, "he did plenty of waiting in the past"
+
+Gideon says to Kithrael, "you got Kam's flail down good now"
+
+Orianna says to Kithrael, "and if he wants more, he can enter the contest and try again"
+
+Gideon tickles Kambralyn.
+
+Kithrael grins at Gideon.
+
+Thurrg sits down.
+
+Thurrg pouts.
+
+Kambralyn flails her arms about wildly.
+
+Gideon says, "see"
+com th
+You comfort Thurrg.
+>
+Kithrael says to Gideon, "She learned enough from me... I had to start learning at some point."
+
+Kambralyn grins.
+
+Thurrg pushes you away.
+
+Thurrg scowls.
+'ki, so..3 entries so far then?
+
+Glinka asks Kithrael, "so..3 entries so far then?"
+>
+Khajag furrows his brow at the open large leather backpack.
+
+Mesia leans on Thurrg.
+
+Kithrael nods to you.
+nod
+You nod.
+>
+Khajag murmurs, "Wake up in there..."
+
+Maelstra says to Thurrg, "patince large.. um...person"
+
+Kambralyn says, "I didn't see that second one..."
+
+Mesia asks Khajag, "Want me to dive in there and see if I can tickle her awake?"
+gri to kh
+You grin to Khajag.
+>
+Mesia hops at Khajag.
+
+Thurrg stands up.
+
+Khajag nods up and down to Mesia.
+
+Orianna says to Kambralyn, "you didn't want to"
+
+Mesia beams at Khajag.
+
+Kithrael says to Maren, "I should like to see an Usil Elf kiss at some point.  Thou should enter the contest, with thy husband."
+
+Kambralyn chuckles.
+
+Thurrg growls and shakes Khajag's backpack furiously.
+
+Maren says to Kithrael, "Go find Nina and her fiance."
+
+Khajag glares at Thurrg.
+
+Thurrg says to Khajag, "der"
+
+Maelstra shrieks at Thurrg.
+
+Khajag holds the open large leather backpack close and protectively.
+
+Sast, wings swirling with emerald light, just entered through a glimmering purple beaded curtain.
+
+Khajag scowls.
+
+Kithrael sighs at Maren.
+
+Sast is now following Magenta.
+
+Magenta smiles at Sast.
+
+Beryline just entered through a glimmering purple beaded curtain.
+
+Sast snuggles with Magenta.
+
+Maelstra exclaims to Thurrg, "stop that!"
+
+Khajag stands up.
+
+Mesia hops on Khajag and climbs into his backpack carefully, her legs sticking out of the opening for a bit before they slide inside.
+
+Beryline exclaims, "Next!"
+
+Maren says, "The line is Adianna, Orianna, Kambralyn, Kithrael, Jyrayel, Maelstra, Khajag, Dulcina, Hidaija, "
+
+Adianna just went through a glimmering purple beaded curtain.
+
+Beryline just went through a glimmering purple beaded curtain.
+
+Magenta's group just went through an open ivy-covered rosewood cottage door.
+
+Khajag sits down with a thump.
+
+Khajag squints at Mesia in his backpack.
+' do you need the gold now?
+
+Glinka asks, " do you need the gold now?"
+furr at cur
+>You furrow your brow at the deep red velvet curtain.
+>
+Mesia flails her arms about wildly inside the backpack, lumps appearing on the outside as she squirms about.
+
+Maren says, "Yes."
+nod to mar
+You nod to Maren.
+>
+Khajag chuckles.
+l
+[Peddler's Cottage.]
+
+Black and silver silk streamers, entwined in twists and swirls, hang all around this airy tent. Comfortable warm air radiates around you from slow burning vanilla scented candles resting on tall wrought iron posts. The golden light produced bounces off slow spinning crescent moon crystals hung upon thin silver thread from the cottage's ceiling. Their rainbow light sparkles as they cast prisms on the oak floor. A red velvet curtain leads into a smaller room set up for the travelling tattooist and hairstylist, while a beaded curtain leads into Broyce's work area.  Some flaming vanilla scented candles, some spinning crescent moon crystals, a deep red velvet curtain, a glimmering purple beaded curtain, an open ivy-covered rosewood cottage door, a small diamond-encrusted sign, and a fluffy blue pillow are here.
+
+This room is illuminated.
+In the room are Kambralyn the Noble Fir Elf, Solinus the Human, Khajag the Noble Draco (seated), Maren the Noble Usil Elf, Jyrayel the Noble Draco, Orianna the Noble Anthian (seated), Mesia the Novice Secian, Hidaija the Human, Kithrael the Fir Elf (seated), Maelstra the Noble Drake, Thurrg the Noble Thugian, and Gideon the Noble Anthian (seated).
+Obvious exits: None.
+>
+Mesia grumbles and sticks her head out of the backpack, squinting at Khajag. 'Be careful!' she mutters before diving back in.
+wh to th dont forget your love pillow
+You whisper to Thurrg.
+gla at pil
+>You glance at the fluffy blue pillow.
+>
+Khajag exclaims, "I didn't do it!"
+
+Thurrg just picked up a fluffy blue pillow.
+
+Thurrg just placed a fluffy blue pillow within his open large leather backpack.
+
+Thurrg grumbles.
+
+Maren offers something to Solinus.
+
+Thurrg readies a two-handed spiked moonsilver Rathene flail.
+
+Solinus accepts Maren's offer.
+
+Jyrayel smiles to Maren.
+
+Maren disbands her group.
+
+Mesia glances around inside the backpack, a few bumps appearing in various places as her head hits the edge, quiet muttering able to be heard along with rustling of a few items.
+l
+[Peddler's Cottage.]
+
+Black and silver silk streamers, entwined in twists and swirls, hang all around this airy tent. Comfortable warm air radiates around you from slow burning vanilla scented candles resting on tall wrought iron posts. The golden light produced bounces off slow spinning crescent moon crystals hung upon thin silver thread from the cottage's ceiling. Their rainbow light sparkles as they cast prisms on the oak floor. A red velvet curtain leads into a smaller room set up for the travelling tattooist and hairstylist, while a beaded curtain leads into Broyce's work area.  Some flaming vanilla scented candles, some spinning crescent moon crystals, a deep red velvet curtain, a glimmering purple beaded curtain, an open ivy-covered rosewood cottage door, and a small diamond-encrusted sign are here.
+
+This room is illuminated.
+In the room are Kambralyn the Noble Fir Elf, Solinus the Human, Khajag the Noble Draco (seated), Maren the Noble Usil Elf, Jyrayel the Noble Draco, Orianna the Noble Anthian (seated), Mesia the Novice Secian, Hidaija the Human, Kithrael the Fir Elf (seated), Maelstra the Noble Drake, Thurrg the Noble Thugian, and Gideon the Noble Anthian (seated).
+Obvious exits: None.
+>
+Jyrayel raises an eyebrow.
+
+Khajag murmurs to the open large leather backpack, "Careful, there's a dagger in there.  And.. don't open that jar."
+
+Khajag grimaces.
+
+Gideon glances at Orianna looking at her belly.
+l
+[Peddler's Cottage.]
+
+Black and silver silk streamers, entwined in twists and swirls, hang all around this airy tent. Comfortable warm air radiates around you from slow burning vanilla scented candles resting on tall wrought iron posts. The golden light produced bounces off slow spinning crescent moon crystals hung upon thin silver thread from the cottage's ceiling. Their rainbow light sparkles as they cast prisms on the oak floor. A red velvet curtain leads into a smaller room set up for the travelling tattooist and hairstylist, while a beaded curtain leads into Broyce's work area.  Some flaming vanilla scented candles, some spinning crescent moon crystals, a deep red velvet curtain, a glimmering purple beaded curtain, an open ivy-covered rosewood cottage door, and a small diamond-encrusted sign are here.
+
+This room is illuminated.
+In the room are Kambralyn the Noble Fir Elf, Solinus the Human, Khajag the Noble Draco (seated), Maren the Noble Usil Elf, Jyrayel the Noble Draco, Orianna the Noble Anthian (seated), Mesia the Novice Secian, Hidaija the Human, Kithrael the Fir Elf (seated), Maelstra the Noble Drake, Thurrg the Noble Thugian, and Gideon the Noble Anthian (seated).
+Obvious exits: None.
+' how long..?
+>
+Glinka asks, " how long..?"
+rai at or
+>You raise an eyebrow at Orianna.
+>
+Orianna raises an eyebrow at Gideon.
+
+Gideon asks Orianna, "baby active?"
+
+Orianna nods to Gideon.
+
+Maelstra squints into Khajag's pack.
+
+Dulcina just appeared.
+
+Dulcina mutters something beneath her breath.
+l
+[Peddler's Cottage.]
+
+Black and silver silk streamers, entwined in twists and swirls, hang all around this airy tent. Comfortable warm air radiates around you from slow burning vanilla scented candles resting on tall wrought iron posts. The golden light produced bounces off slow spinning crescent moon crystals hung upon thin silver thread from the cottage's ceiling. Their rainbow light sparkles as they cast prisms on the oak floor. A red velvet curtain leads into a smaller room set up for the travelling tattooist and hairstylist, while a beaded curtain leads into Broyce's work area.  Some flaming vanilla scented candles, some spinning crescent moon crystals, a deep red velvet curtain, a glimmering purple beaded curtain, an open ivy-covered rosewood cottage door, and a small diamond-encrusted sign are here.
+
+This room is illuminated.
+In the room are Kambralyn the Noble Fir Elf, Solinus the Human, Khajag the Noble Draco (seated), Dulcina the Secian (seated), Maren the Noble Usil Elf, Jyrayel the Noble Draco, Orianna the Noble Anthian (seated), Mesia the Novice Secian, Hidaija the Human, Kithrael the Fir Elf (seated), Maelstra the Noble Drake, Thurrg the Noble Thugian, and Gideon the Noble Anthian (seated).
+Obvious exits: None.
+>
+Mesia glances over to the side as a shrill shriek can be heard from inside the backpack, a loud rustling able to be heard as the backpack near tumbles over.
+
+Dulcina is now following Khajag.
+
+Mesia exclaims, "I found her!"
+
+Mesia grumbles...
+
+Orianna says to Glinka, "I think about 3 Elven weeks"
+beam to me
+You beam to Mesia.
+>
+Dulcina squeals.
+
+Kambralyn asks Glinka, "did you hear how they're having the baby at four thousand feet up?"
+' oh my
+
+Glinka says, " oh my"
+>
+Khajag beams at the open large leather backpack.
+
+Orianna says to Glinka, "not sure exactly"
+stare at ka
+You stare at Kambralyn.
+>
+Mesia whines and drags herself out of the backpack, falling out and into a heap on the ground beside Khajag.
+
+Kambralyn says to Glinka, "I'm going to be waiting down on the ground with a pillow"
+' do you have the herbs ?
+
+Glinka asks, " do you have the herbs ?"
+>
+Dulcina exclaims to Khajag, "Got lost in there!"
+
+Mesia groans..
+
+Orianna sighs deeply and shakes her head resignedly.
+
+Dulcina shudders.
+
+Khajag holds Dulcina close.
+
+Orianna just removed a lavender scented tonic of blue cohosh from within her open large leather backpack.
+
+Orianna taps the lavender scented tonic of blue cohosh.
+nod to or
+You nod to Orianna.
+>
+Kambralyn says, "ok ok, Autumn and I will be waiting below with a blanket"
+
+Orianna just placed a lavender scented tonic of blue cohosh within her open large leather backpack.
+
+Orianna tickles Kambralyn.
+
+Kambralyn giggles.
+
+Mesia murmurs as she rubs her head.
+
+Hidaija has left Mesia's group.
+
+Hidaija is now following Maren.
+
+Maelstra's stomach growls.
+
+Thurrg's stomach growls.
+
+Maren's group just went through an open ivy-covered rosewood cottage door.
+l
+[Peddler's Cottage.]
+
+Black and silver silk streamers, entwined in twists and swirls, hang all around this airy tent. Comfortable warm air radiates around you from slow burning vanilla scented candles resting on tall wrought iron posts. The golden light produced bounces off slow spinning crescent moon crystals hung upon thin silver thread from the cottage's ceiling. Their rainbow light sparkles as they cast prisms on the oak floor. A red velvet curtain leads into a smaller room set up for the travelling tattooist and hairstylist, while a beaded curtain leads into Broyce's work area.  Some flaming vanilla scented candles, some spinning crescent moon crystals, a deep red velvet curtain, a glimmering purple beaded curtain, an open ivy-covered rosewood cottage door, and a small diamond-encrusted sign are here.
+
+This room is illuminated.
+In the room are Kambralyn the Noble Fir Elf, Solinus the Human, Khajag the Noble Draco (seated), Dulcina the Secian (seated), Jyrayel the Noble Draco, Orianna the Noble Anthian (seated), Mesia the Novice Secian, Kithrael the Fir Elf (seated), Maelstra the Noble Drake, Thurrg the Noble Thugian, and Gideon the Noble Anthian (seated).
+Obvious exits: None.
+>
+Dulcina squirms and wiggles her way out of Khajag's backpack.
+
+Orianna says to Gideon, "the baby seems to like lots of people"
+
+Dulcina inhales.
+
+Mesia says to Khajag, "That place.. is dangerous.."
+
+Mesia pants lightly.
+
+Dulcina nods to Mesia.
+
+Mesia says, "I'm gonna go to sleep..."
+
+Gideon says to Orianna, "that is good"
+
+Mesia grumbles.
+
+Mesia says to Dulcina, "You scared the crup outa me."
+
+Mesia grunts at Dulcina quietly.
+You see Maelstra move up another 2 UDs!
+
+Maelstra nuzzles Mesia gently.
+
+Dulcina shuffles her feet.
+
+Mesia smiles.
+
+Mesia nuzzles Maelstra fondly.
+
+wave to Mesia
+Mesia waves.
+You wave to Mesia.
+>
+Dulcina winks at Mesia.
+
+Mesia says, "Be well all."
+
+Maelstra smiles.
+
+Thurrg asks Kithrael, "kontest ova?"
+
+Mesia disbands her group.
+kiss me softly upon the cheek in parting...
+You kiss Mesia softly upon the cheek in parting...
+>
+Mesia giggles.
+
+Kithrael says to Thurrg, "For now, aye."
+
+Mesia, head hanging low, dragging her feet, just went through an open ivy-covered rosewood cottage door.
+
+Maren's group just entered through an open ivy-covered rosewood cottage door.
+
+Khajag, with a slow, purposeful stride, just appeared.
+
+Dulcina glances around.
+
+Khajag grumbles.
+
+Dulcina exclaims to Khajag, "See! Dangerous!"
+
+Dulcina winks at Khajag.
+
+Khajag asks, "What is?"
+
+Khajag blinks slowly.
+l
+[Peddler's Cottage.]
+
+Black and silver silk streamers, entwined in twists and swirls, hang all around this airy tent. Comfortable warm air radiates around you from slow burning vanilla scented candles resting on tall wrought iron posts. The golden light produced bounces off slow spinning crescent moon crystals hung upon thin silver thread from the cottage's ceiling. Their rainbow light sparkles as they cast prisms on the oak floor. A red velvet curtain leads into a smaller room set up for the travelling tattooist and hairstylist, while a beaded curtain leads into Broyce's work area.  Some flaming vanilla scented candles, some spinning crescent moon crystals, a deep red velvet curtain, a glimmering purple beaded curtain, an open ivy-covered rosewood cottage door, and a small diamond-encrusted sign are here.
+
+This room is illuminated.
+In the room are Kambralyn the Noble Fir Elf, Solinus the Human, Khajag the Noble Draco (seated), Dulcina the Secian (seated), Maren the Noble Usil Elf, Jyrayel the Noble Draco, Orianna the Noble Anthian (seated), Hidaija the Human, Kithrael the Fir Elf (seated), Maelstra the Noble Drake, Thurrg the Noble Thugian, and Gideon the Noble Anthian (seated).
+Obvious exits: None.
+>
+Dulcina says to Khajag, "That backpack."
+
+Dulcina grins.
+pon something
+You ponder something.
+stand very quickly, her long soft kinky pure whyte hair making a rustling sound...
+>
+Khajag nods slowly.
+You stand up very quickly, her long soft kinky pure whyte hair making a rustling sound....
+ret 5
+>You retreat 5 UDs to the rear!
+[3 sec. delay]
+>
+Dulcina exclaims to Khajag, "It tried to get you too!"
+inh
+You inhale.
+hol dragon about her, cloaking herself...
+>You hold the multicolored black dragon wing charms close about her, cloaking herself...
+exh softly, chanting an ancient mystic spell...
+>You exhale softly, chanting an ancient mystic spell...
+blink out of existence....
+>You blink out of existence....
+quit
+16
+>
+    Dragon's Gate Menu
+
+ 1. Explore Dragon's Gate.
+ 2. Create, Delete, or View a character.
+ 3. Select current character.
+ 4. Display notices and version notes.
+16. Disconnect.
+
+Your active character is: Glinka Dragondsfriend
+
+Your selection? 
+16
+
+ ** Goodbye from Mythic Entertainment! **
+time
+
+Maelstra asks Wings in Secian, "shall we?"
+
+Current time is: Thu Jun 23 23:28:53 2005 EST.
+time
+
+It is now 8:59 pm on the 16th day of the 3rd month in the year 320.
+
+You have been adventuring for 1 hr, 14 mins, 43 secs this session.
+
+time

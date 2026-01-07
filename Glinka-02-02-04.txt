@@ -1,0 +1,594 @@
+time
+
+Current time is: Mon Feb  2 16:22:32 2004 EST.
+
+It is now 9:47 am on the 6th day of the 6th month in the year 317.
+
+You have been adventuring for 29 mins, 52 secs this session.
+
+l
+>[Brog's Pawnshop]
+
+Freshly crafted display cases and shelving cover the new walls that have replaced the ones from the old tavern.  A large rug covers the floor upon which a number of tables with small trinkets are displayed for sale.  The smell of fresh pine and flowers fills the shop.  An open elm door is here.
+
+This room is illuminated.
+Obvious exits: None.
+shop list all
+>
+Id# Item Type  Item Name                                     New Amount Value
+--- ---------- --------------------------------------------- --- ------ -----
+  1 Wpn/Sharp  Firian crafted steel broad axe (Too large)    No  x3     45gp
+  2 Wpn/Sharp  two-handed emerald-hilted jagged steel war blade (Too large) No  x1     90gp
+  3 Wpn/Sharp  two-handed blue ice steel battle axe (Too large) No  x1     180gp
+  4 Wpn/Blunt  heavy steel ended cudgel (Too large)          No  x1     67gp+50sp
+  5 Wpn/Thrust wickedly barbed steel trident                 No  x1     90gp
+  6 Armor      studded black leather armor (Too large)       No  x1     22gp+50sp
+  7 Wpn/Blunt  two-handed steel maul (Too large)             No  x1     90gp
+  8 Armor      studded leather mail (Too large)              No  x1     22gp+50sp
+  9 Armor      ivy etched ivory breastplate (Too large)      No  x3     36gp
+ 10 Wpn/Sharp  moonsilver hilted steel rapier (Too large)    No  x1     45gp
+ 11 Armor      heavy ogre engraved steelwood breastplate (Too large) No  x1     90gp
+ 12 Wpn/Thrust wickedly barbed steel trident (Too large)     No  x2     90gp
+ 13 Armor      light forest green steelwood brigandine (Too large) No  x3     85gp+50sp
+ 14 Bows       light emerald inlaid steelwood short bow (Too large) No  x1     67gp+50sp
+ 15 Wpn/Blunt  leather-handled steel morning star (Too large) No  x1     45gp
+ 16 Wpn/Sharp  short skull pommeled cobalt misercorde (Too large) No  x1     22gp+50sp
+ 17 Shields    curved hammered steel tower shield (Too large) No  x1     36gp
+ 18 Bows       giant simple yew crossbow (Too large)         No  x1     35gp+10sp
+ 19 Armor      ruby encrusted leather mail                   No  x1     24gp+30sp
+ 20 Armor      golden lionskin pelt                          No  x1     36gp
+ 21 Armor      ivy etched ivory breastplate (Too large)      No  x1     36gp
+ 22 Armor      silvery veined morbius ring mail (Too large)  No  x1     135gp
+ 23 Armor      light onyx banded morbius armor (Too large)   No  x2     90gp
+ 24 Armor      heavy bone studded steelwood brigandine (Too large) No  x2     112gp+50sp
+ 25 Armor      golden lionskin pelt (Too large)              No  x1     36gp
+ 26 Amulets    small tree shaped amber amulet (Unusable)     No  x1     900gp
+ 27 Armor      studded leather armor (Too large)             No  x2     22gp+50sp
+ 28 Bows       wooden bow (Too large)                        No  x1     20gp+70sp
+ 29 Wpn/Thrust two-handed Hithual forged iron halberd (Too large) No  x1     22gp+50sp
+ 30 Armor      polished steelwood mail (Too large)           No  x1     90gp
+ 31 Wpn/Sharp  Firian crafted steel broad axe (Too large)    No  x2     45gp
+ 32 Armor      light polished steel Saldean mail (Too large) No  x1     270gp
+ 33 Armor      jade flecked steel chainmail vest (Too large) No  x1     270gp
+ 34 Wpn/Sharp  dragon carved bone hilted broadsword (Too large) No  x1     76gp+50sp
+ 35 Bows       beautiful steelwood longbow (Too large)       No  x1     90gp
+ 36 Armor      light forest green steelwood brigandine       No  x1     85gp+50sp
+ 37 Wpn/Sharp  blackened serrated mantis blade               No  x1     31gp+50sp
+ 38 Bows       feathered yew war bow (Too large)             No  x2     72gp
+ 39 Wpn/Sharp  emerald-hilted jagged steel war blade (Too large) No  x1     45gp
+ 40 Bows       layered wooden composite bow (Too large)      No  x1     54gp
+ 41 Beltpouche silver banded snakeskin scabbard (Too large)  No  x1     35gp+72sp
+ 42 Wpn/Sharp  two-handed iron great sword (Too large)       No  x1     22gp+50sp
+ 43 Backpacks  open small leather backpack (Too large)       No  x1     25gp+20sp
+ 44 Bows       beautiful steelwood longbow (Too large)       No  x1     90gp
+ 45 Bows       wooden bow (Too large)                        No  x1     20gp+70sp
+ 46 Armor      golden lionskin pelt (Too large)              No  x1     36gp
+ 47 Beltpouche closed stained black wooden makeup kit (Unusable) No  x1     270gp+4sp
+ 48 Wpn/Blunt  leather-handled steel morning star (Too large) No  x1     45gp
+ 49 Armor      heavy bone studded steelwood brigandine (Too large) No  x1     112gp+50sp
+ 50 Gauntlets  drathain ruby-eyed dragon arm band            No  x1     81gp
+ 51 Gauntlets  fire emblazoned drathain arm bands (Too large) No  x6     90gp
+ 52 Gauntlets  moonsilver clasped pearl charm bracelet (Too large) No  x1     49gp+50sp
+ 53 Amulets    gladiator medallion                           No  x1     135gp
+ 54 Armor      light forest green steelwood brigandine (Too large) No  x1     85gp+50sp
+ 55 Armor      jade imbedded morbius ringmail vest (Too large) No  x1     270gp
+ 56 Wpn/Blunt  short ebony handled obsidian skull-headed mace (Too large) No  x1     22gp+50sp
+ 57 Armor      giant green mantis carapace (Too large)       No  x1     67gp+50sp
+ 58 Bows       layered wooden composite bow                  No  x1     54gp
+ 59 Backpacks  open leather bound book of prayers (Too large) No  x1     90gp
+ 60 Wpn/Sharp  two-handed emerald-hilted jagged steel war blade (Too large) No  x2     90gp
+ 61 Backpacks  open large canvas travel pack (Too large)     No  x1     30gp+65sp
+ 62 Wpn/Sharp  steel barbed leather slaver's whip (Too large) No  x1     45gp
+ 63 Wpn/Thrust wickedly barbed steel trident (Too large)     No  x1     90gp
+ 64 Wpn/Blunt  leather-handled steel morning star (Too large) No  x1     45gp
+ 65 Wpn/Sharp  blackened serrated mantis blade (Too large)   No  x1     31gp+50sp
+ 66 Armor      heavy bone studded steelwood brigandine (Too large) No  x1     112gp+50sp
+ 67 Armor      studded leather armor                         No  x1     22gp+50sp
+ 68 Bows       giant simple yew crossbow (Too large)         No  x1     35gp+10sp
+ 69 Armor      golden lionskin pelt (Too large)              No  x2     36gp
+ 70 Wpn/Blunt  two-handed serpentine steelwood maul          No  x1     22gp+50sp
+ 71 Armor      silvery veined morbius ring mail (Too large)  No  x1     135gp
+ 72 Wpn/Thrown silver throwing dagger (Too large)            No  x1     22gp+50sp
+ 73 Arrows     quiver of emiel tipped emerald bolts (Too large) No  x1     45gp
+
+shop ex 6
+>You examine the studded black leather armor...
+
+It is in used (but good) condition.
+It weighs about 4.9 lbs
+It has a low protection value.
+It appears to be sized for:
+  Anthian
+  San Elf
+  Usil Elf
+  Psycian
+
+Unfortunately, you are not the right size for it.
+
+shop ex 8
+>You examine the studded leather mail...
+
+It is in used (but good) condition.
+It weighs about 4.9 lbs
+It has a low protection value.
+It appears to be sized for:
+  Anthian
+  San Elf
+  Usil Elf
+  Psycian
+
+Unfortunately, you are not the right size for it.
+
+shop ex 9
+>You examine the ivy etched ivory breastplate...
+
+It is in used (but good) condition.
+It weighs about 11.4 lbs
+It has a low protection value.
+It appears to be sized for:
+  Penthanian
+  Dracoform
+
+Unfortunately, you are not the right size for it.
+
+>
+Your stomach growls.
+shop ex 11
+
+Loden just entered through an open elm door.
+You examine the heavy ogre engraved steelwood breastplate...
+
+It is in used (but good) condition.
+It weighs about 21.6 lbs
+It has a good protection value.
+It appears to be sized for:
+  Penthanian
+  Dracoform
+
+Unfortunately, you are not the right size for it.
+
+>
+Loden discusses something with the proprietor.
+shop ex 12
+You examine the wickedly barbed steel trident...
+
+It is in used (but good) condition.
+It weighs about 6.0 lbs
+It is a hand-and-a-half pole weapon.
+It is balanced for throwing.
+It has a great damage capability.
+It appears to be sized for:
+  Penthanian
+  Dracoform
+
+Unfortunately, you are not the right size for it.
+
+smile at l softly
+>You smile at Loden softly.
+l
+>[Brog's Pawnshop]
+
+Freshly crafted display cases and shelving cover the new walls that have replaced the ones from the old tavern.  A large rug covers the floor upon which a number of tables with small trinkets are displayed for sale.  The smell of fresh pine and flowers fills the shop.  An open elm door is here.
+
+This room is illuminated.
+In the room is Loden the Noble Hithual.
+Obvious exits: None.
+>
+Loden discusses something with the proprietor.
+
+smi at Loden
+Loden smiles at you.
+You smile at Loden.
+shop ex 13
+>You examine the light forest green steelwood brigandine...
+
+It is in used (but good) condition.
+It weighs about 20.9 lbs
+It has a good protection value.
+It appears to be sized for:
+  Leuian
+  Monitanian
+
+Unfortunately, you are not the right size for it.
+
+gri
+>You grin.
+>
+acc offer from Loden
+sp
+' Thankies!
+smile at Loden softly
+hug Loden softly, her long long hair falling all over the place...
+time
+Loden offers you a pearl inlaid gold wand.
+
+You are now speaking Common.
+
+Glinka exclaims, " Thankies!"
+file
+You smile at Loden softly.
+You hug Loden softly, her long long hair falling all over the place...
+
+Current time is: Mon Feb  2 16:23:48 2004 EST.
+
+It is now 9:49 am on the 6th day of the 6th month in the year 317.
+
+You have been adventuring for 31 mins, 8 secs this session.
+
+You accept the pearl inlaid gold wand.
+' wow
+>
+Glinka says, " wow"
+stare
+>You stare.
+hol wan
+>You hold the pearl inlaid gold wand close.
+beam
+>You beam.
+ready wan
+>The pearl inlaid gold wand is now your ready weapon.
+[5 sec. delay]
+stat
+>OR:  12  DR: 147  Weap RT: 4 sec  Move Rate: 6/11 UDs  Dam Bonus: Awful/None
+
+You are in the center of the area!
+
+  ::: Equipment Readied :::
+
+  A pearl inlaid gold wand.
+  Some heavy bone studded steelwood brigandine.
+  A tiny moonsilver tongue piercing.
+  A moon shaped ivory talisman.
+  Some twinkling rainbow crystal bangles.
+  A pair of ornate silver toe rings.
+  Some multicolored crystal dragon wing charms.
+  A silver ring.
+  A crescent moon earring.
+  A silver serpentine hoop.
+>
+Loden says, "Don't know what it is but ya can 'ave it."
+' a blunt
+
+Glinka says, " a blunt"
+gri
+>You grin.
+rai hand with wand
+>You raise your hand with the pearl inlaid gold wand.
+gri
+>You grin.
+rem wan
+>You return your pearl inlaid gold wand.
+curt to lo
+>You curtsy to Loden.
+inv
+>Items carried:
+  A silver ring [0.0 lbs].
+  An open dragon embroidered black leather backpack [1.3 lb].
+  A crescent moon earring [0.0 lbs].
+  A large brilliant mossy opal [0.0 lbs].
+  A white silk cloak [2.5 lbs].
+  Some twinkling rainbow crystal bangles [0.0 lbs].
+  A moon shaped ivory talisman [0.1 lbs].
+  A lantern [0.1 lbs].
+  A polished steelwood mail [1.6 lb].
+  A delicately linked gold belly chain [0.0 lbs].
+  A tiny moonsilver tongue piercing [0.0 lbs].
+  A pearl inlaid gold wand [5.0 lbs].
+  An open plaid leather healer's bag [0.2 lbs].
+  Some multicolored crystal dragon wing charms [0.0 lbs].
+  An open large forest green leather backpack [2.0 lbs].
+  A pair of ornate silver toe rings [0.0 lbs].
+  A silver serpentine hoop [0.0 lbs].
+  Some heavy bone studded steelwood brigandine [2.4 lbs].
+
+You have 143 silver pieces and 1 gold piece.
+
+This gives you a total net worth of 243 silver.
+
+Your inventory totals 16.6 lbs.
+>
+wave to Loden
+Loden waves to you.
+You wave to Loden.
+>
+Loden just went through an open elm door.
+cud drag
+You cuddle with the multicolored crystal dragon wing charms.
+shop list all
+>
+Id# Item Type  Item Name                                     New Amount Value
+--- ---------- --------------------------------------------- --- ------ -----
+  1 Wpn/Sharp  Firian crafted steel broad axe (Too large)    No  x3     45gp
+  2 Wpn/Sharp  two-handed emerald-hilted jagged steel war blade (Too large) No  x1     90gp
+  3 Wpn/Sharp  two-handed blue ice steel battle axe (Too large) No  x1     180gp
+  4 Wpn/Blunt  heavy steel ended cudgel (Too large)          No  x1     67gp+50sp
+  5 Wpn/Thrust wickedly barbed steel trident                 No  x1     90gp
+  6 Armor      studded black leather armor (Too large)       No  x1     22gp+50sp
+  7 Wpn/Blunt  two-handed steel maul (Too large)             No  x1     90gp
+  8 Armor      studded leather mail (Too large)              No  x1     22gp+50sp
+  9 Armor      ivy etched ivory breastplate (Too large)      No  x3     36gp
+ 10 Wpn/Sharp  moonsilver hilted steel rapier (Too large)    No  x1     45gp
+ 11 Armor      heavy ogre engraved steelwood breastplate (Too large) No  x1     90gp
+ 12 Wpn/Thrust wickedly barbed steel trident (Too large)     No  x2     90gp
+ 13 Armor      light forest green steelwood brigandine (Too large) No  x3     85gp+50sp
+ 14 Bows       light emerald inlaid steelwood short bow (Too large) No  x1     67gp+50sp
+ 15 Wpn/Blunt  leather-handled steel morning star (Too large) No  x1     45gp
+ 16 Wpn/Sharp  short skull pommeled cobalt misercorde (Too large) No  x1     22gp+50sp
+ 17 Shields    curved hammered steel tower shield (Too large) No  x1     36gp
+ 18 Bows       giant simple yew crossbow (Too large)         No  x1     35gp+10sp
+ 19 Armor      ruby encrusted leather mail                   No  x1     24gp+30sp
+ 20 Armor      golden lionskin pelt                          No  x1     36gp
+ 21 Armor      ivy etched ivory breastplate (Too large)      No  x1     36gp
+ 22 Armor      silvery veined morbius ring mail (Too large)  No  x1     135gp
+ 23 Armor      light onyx banded morbius armor (Too large)   No  x2     90gp
+ 24 Armor      heavy bone studded steelwood brigandine (Too large) No  x2     112gp+50sp
+ 25 Armor      golden lionskin pelt (Too large)              No  x1     36gp
+ 26 Amulets    small tree shaped amber amulet (Unusable)     No  x1     900gp
+ 27 Armor      studded leather armor (Too large)             No  x2     22gp+50sp
+ 28 Bows       wooden bow (Too large)                        No  x1     20gp+70sp
+ 29 Wpn/Thrust two-handed Hithual forged iron halberd (Too large) No  x1     22gp+50sp
+ 30 Armor      polished steelwood mail (Too large)           No  x1     90gp
+ 31 Wpn/Sharp  Firian crafted steel broad axe (Too large)    No  x2     45gp
+ 32 Armor      light polished steel Saldean mail (Too large) No  x1     270gp
+ 33 Armor      jade flecked steel chainmail vest (Too large) No  x1     270gp
+ 34 Wpn/Sharp  dragon carved bone hilted broadsword (Too large) No  x1     76gp+50sp
+ 35 Bows       beautiful steelwood longbow (Too large)       No  x1     90gp
+ 36 Armor      light forest green steelwood brigandine       No  x1     85gp+50sp
+ 37 Wpn/Sharp  blackened serrated mantis blade               No  x1     31gp+50sp
+ 38 Bows       feathered yew war bow (Too large)             No  x2     72gp
+ 39 Wpn/Sharp  emerald-hilted jagged steel war blade (Too large) No  x1     45gp
+ 40 Bows       layered wooden composite bow (Too large)      No  x1     54gp
+ 41 Beltpouche silver banded snakeskin scabbard (Too large)  No  x1     35gp+72sp
+ 42 Wpn/Sharp  two-handed iron great sword (Too large)       No  x1     22gp+50sp
+ 43 Backpacks  open small leather backpack (Too large)       No  x1     25gp+20sp
+ 44 Bows       beautiful steelwood longbow (Too large)       No  x1     90gp
+ 45 Bows       wooden bow (Too large)                        No  x1     20gp+70sp
+ 46 Armor      golden lionskin pelt (Too large)              No  x1     36gp
+ 47 Beltpouche closed stained black wooden makeup kit (Unusable) No  x1     270gp+4sp
+ 48 Wpn/Blunt  leather-handled steel morning star (Too large) No  x1     45gp
+ 49 Armor      heavy bone studded steelwood brigandine (Too large) No  x1     112gp+50sp
+ 50 Gauntlets  drathain ruby-eyed dragon arm band            No  x1     81gp
+ 51 Gauntlets  fire emblazoned drathain arm bands (Too large) No  x6     90gp
+ 52 Gauntlets  moonsilver clasped pearl charm bracelet (Too large) No  x1     49gp+50sp
+ 53 Amulets    gladiator medallion                           No  x1     135gp
+ 54 Armor      light forest green steelwood brigandine (Too large) No  x1     85gp+50sp
+ 55 Armor      jade imbedded morbius ringmail vest (Too large) No  x1     270gp
+ 56 Wpn/Blunt  short ebony handled obsidian skull-headed mace (Too large) No  x1     22gp+50sp
+ 57 Armor      giant green mantis carapace (Too large)       No  x1     67gp+50sp
+ 58 Bows       layered wooden composite bow                  No  x1     54gp
+ 59 Backpacks  open leather bound book of prayers (Too large) No  x1     90gp
+ 60 Wpn/Sharp  two-handed emerald-hilted jagged steel war blade (Too large) No  x2     90gp
+ 61 Backpacks  open large canvas travel pack (Too large)     No  x1     30gp+65sp
+ 62 Wpn/Sharp  steel barbed leather slaver's whip (Too large) No  x1     45gp
+ 63 Wpn/Thrust wickedly barbed steel trident (Too large)     No  x1     90gp
+ 64 Wpn/Blunt  leather-handled steel morning star (Too large) No  x1     45gp
+ 65 Wpn/Sharp  blackened serrated mantis blade (Too large)   No  x1     31gp+50sp
+ 66 Armor      heavy bone studded steelwood brigandine (Too large) No  x1     112gp+50sp
+ 67 Armor      studded leather armor                         No  x1     22gp+50sp
+ 68 Bows       giant simple yew crossbow (Too large)         No  x1     35gp+10sp
+ 69 Armor      golden lionskin pelt (Too large)              No  x2     36gp
+ 70 Wpn/Blunt  two-handed serpentine steelwood maul          No  x1     22gp+50sp
+ 71 Armor      silvery veined morbius ring mail (Too large)  No  x1     135gp
+ 72 Wpn/Thrown silver throwing dagger (Too large)            No  x1     22gp+50sp
+ 73 Arrows     quiver of emiel tipped emerald bolts (Too large) No  x1     45gp
+
+shop ex 19
+>You examine the ruby encrusted leather mail...
+
+It is in used (but good) condition.
+It weighs about 0.5 lbs
+It has a low protection value.
+It appears to be sized for:
+  Secian
+
+shop ex 22
+>You examine the silvery veined morbius ring mail...
+
+It is in used (but good) condition.
+It weighs about 30.0 lbs
+It has a good protection value.
+It appears to be sized for:
+  Drake
+
+Unfortunately, you are not the right size for it.
+
+shop ex 23
+>You examine the light onyx banded morbius armor...
+
+It is in used (but good) condition.
+It weighs about 24.0 lbs
+It has a good protection value.
+It appears to be sized for:
+  Drake
+
+Unfortunately, you are not the right size for it.
+
+shop ex 24
+>You examine the heavy bone studded steelwood brigandine...
+
+It is in used (but good) condition.
+It weighs about 21.6 lbs
+It has a good protection value.
+It appears to be sized for:
+  Anthian
+  San Elf
+  Usil Elf
+  Psycian
+
+Unfortunately, you are not the right size for it.
+
+shop ex 26
+>You examine the small tree shaped amber amulet...
+
+It is in used (but good) condition.
+It weighs about 0.0 lbs
+It appears to be sized for:
+  Anthian
+  San Elf
+  Usil Elf
+  Psycian
+
+Unfortunately, you are not the right size for it.
+Unfortunately, it is not usable by you.
+
+shop ex 30
+>You examine the polished steelwood mail...
+
+It is in used (but good) condition.
+It weighs about 19.2 lbs
+It has a good protection value.
+It appears to be sized for:
+  Penthanian
+  Dracoform
+
+Unfortunately, you are not the right size for it.
+
+shop ex 32
+>You examine the light polished steel Saldean mail...
+
+It is in used (but good) condition.
+It weighs about 67.2 lbs
+It has a great protection value.
+It appears to be sized for:
+  Penthanian
+  Dracoform
+
+Unfortunately, you are not the right size for it.
+
+shop ex 33
+>You examine the jade flecked steel chainmail vest...
+
+It is in used (but good) condition.
+It weighs about 77.0 lbs
+It has a great protection value.
+It appears to be sized for:
+  Leuian
+  Monitanian
+
+Unfortunately, you are not the right size for it.
+Unfortunately, you are not dextrous enough to use it.
+
+shop ex 47
+>You examine the closed stained black wooden makeup kit...
+
+It is in used (but good) condition.
+It weighs about 0.1 lbs
+It can hold other objects within it.
+It can hold up to 10 objects.
+It can hold up to 5.0 lbs weight.
+It appears to be sized for:
+  Anthian
+  San Elf
+  Usil Elf
+  Psycian
+
+Unfortunately, you are not the right size for it.
+Unfortunately, it is not usable by you.
+
+shop ex 48
+>You examine the leather-handled steel morning star...
+
+It is in used (but good) condition.
+It weighs about 4.0 lbs
+It is a hand-and-a-half blunt weapon.
+It is not balanced for throwing.
+It has a great damage capability.
+It appears to be sized for:
+  Anthian
+  San Elf
+  Usil Elf
+  Psycian
+
+Unfortunately, you are not the right size for it.
+
+shop ex 55
+>You examine the jade imbedded morbius ringmail vest...
+
+It is in used (but good) condition.
+It weighs about 25.0 lbs
+It has a good protection value.
+It appears to be sized for:
+  Fir Elf
+  Frontacian
+  Human
+
+Unfortunately, you are not the right size for it.
+
+shop ex 59
+>You examine the open leather bound book of prayers...
+
+It is in used (but good) condition.
+It weighs about 1.1 lbs
+It can hold other objects within it.
+It can hold up to 5 objects.
+It can hold up to 1.0 lb weight.
+It appears to be sized for:
+  Leuian
+  Monitanian
+
+Unfortunately, you are not the right size for it.
+
+shop ex 61
+>You examine the open large canvas travel pack...
+
+It is in used (but good) condition.
+It weighs about 6.8 lbs
+It can hold other objects within it.
+It can hold up to 15 objects.
+It can hold up to 75.0 lbs weight.
+It appears to be sized for:
+  Drake
+
+Unfortunately, you are not the right size for it.
+
+shop ex 70
+>You examine the two-handed serpentine steelwood maul...
+
+It is in used (but good) condition.
+It weighs about 0.8 lbs
+It is a two-handed blunt weapon.
+It is not balanced for throwing.
+It has a high damage capability.
+It appears to be sized for:
+  Secian
+
+>
+Orlando, with forest green eyes, just entered through an open elm door.
+
+Orlando discusses something with the proprietor.
+
+Orlando, with forest green eyes, just went through an open elm door.
+shop ex 71
+You examine the silvery veined morbius ring mail...
+
+It is in used (but good) condition.
+It weighs about 24.0 lbs
+It has a good protection value.
+It appears to be sized for:
+  Penthanian
+  Dracoform
+
+Unfortunately, you are not the right size for it.
+
+shop ex 73
+>You examine the quiver of emiel tipped emerald bolts...
+
+It is in used (but good) condition.
+It weighs about 2.1 lbs
+It has enough for 200 shots.
+It appears to be sized for:
+  Anthian
+  San Elf
+  Usil Elf
+  Psycian
+
+Unfortunately, you are not the right size for it.
+
+l
+>[Brog's Pawnshop]
+
+Freshly crafted display cases and shelving cover the new walls that have replaced the ones from the old tavern.  A large rug covers the floor upon which a number of tables with small trinkets are displayed for sale.  The smell of fresh pine and flowers fills the shop.  An open elm door is here.
+
+This room is illuminated.
+Obvious exits: None.
+time

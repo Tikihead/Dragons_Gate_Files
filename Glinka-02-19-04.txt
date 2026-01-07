@@ -1,0 +1,10 @@
+time
+
+Current time is: Thu Feb 19 22:22:03 2004 EST.
+time
+
+It is now 9:46 pm on the 10th day of the 7th month in the year 317.
+
+You have been adventuring for 28 mins, 12 secs this session.
+
+time

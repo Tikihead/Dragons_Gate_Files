@@ -1,0 +1,802 @@
+time
+
+Current time is: Thu Nov  3 21:09:05 2005 EST.
+
+It is now 6:20 pm on the 7th day of the 12th month in the year 320.
+
+You have been adventuring for 56 mins, 12 secs this session.
+
+l at ny
+>
+Nyoko'a looks like a 17'0" standard 3rd stage, winged delicate boned, slender bodied platinum Dragon.
+She is lying down.
+She has platinum scales, almond shaped dark gray eyes, and looks spotless.
+She appears to be neutral right now.
+She can be attacked by other players.
+She appears to be in perfect health.
+
+Physical appearance:
+
+Platinum scales shine brightly, an emerald fur-like frill flows her entire length, ending past her long tail, her slender form makes her seem smaller than she actually is.
+
+
+She has been bestowed the following title(s):
+  Noble of the Realm
+
+l at dep
+>
+Depravato'a looks like a 21'7" standard 3rd stage, winged heavy boned, wiry-tough bodied silver Dragon.
+He has silver scales, bright red eyes, and looks orderly.
+He appears to be puzzled right now.
+He can be attacked by other players.
+
+On his left wing is a tattoo of a burning book of knowledge.
+
+He has no apparent injuries, but looks weakened.
+There is a shining gold emblem affixed to his clothing.
+
+Physical appearance:
+
+A hulking beast of serpentine motion and shimmering, silver scales. He moves with predatory grace and his eyes burn with a keen awareness; a co-mingling of instinct and intellect.
+
+                        Visible Equipment
+A swirling vortex of quicksilver                   (on back)
+A small glistening orichalcum mark of the ancients (around neck)
+An ancient enchanted sapphire signet ring          (ring (right))
+A glimmering knotted orichalcum symbol of eternity (on belt)
+A tiny swirling void of blackness                  (on belt)
+
+He has been bestowed the following title(s):
+  Noble of the Realm
+
+Additional titles earned:
+  Loremaster
+
+l at ban
+>
+Nyoko'a murmurs quietly in Dragon as she rubs her head.
+
+Bant looks like a 10'4" standard 2nd stage, winged light boned, stocky bodied turquoise Dragon.
+He is seated.
+He has turquoise scales, orangish red eyes, and looks razor-sharp.
+He appears to be depressed right now.
+He can be attacked by other players.
+He appears to be in perfect health.
+There is a shining gold emblem affixed to his clothing.
+
+Physical appearance:
+
+His scales shimmer with every movement and seem to come alive as you watch.  On his temples and along his neck are rows of small but pointed horns.
+
+                        Visible Equipment
+A heavy polished steel Saldean mail                (armor)
+A glimmering turquoise bondmate ring               (ring (right))
+
+He has been bestowed the following title(s):
+  Noble of the Realm
+
+>
+Msanychta searches the room.
+l
+[Circular Pit, Dragon Cavern.]
+
+A winding tunnel opens above a large depression in the cavern floor. A wide ledge spirals its way down the contour of the circular pit, narrowing as it approaches the flat bed of the bottom. The upper concentric circles of the ledge accommodate several rocks. The large rocks are not made of the abundant sandstone of the caves; rather, they are chiseled obsidian. Most have narrow slits for claw perches, while some are crudely hewn into bowl shapes for seating. Sound reverberates magnificently within the bowl, causing any sound above a whisper to carry to any point in the chamber.   A ledge winding downward, a giant glossy black obsidian rock, a giant glossy black obsidian rock, a slick mottled obsidian bowl-shaped rock, a slick mottled obsidian bowl-shaped rock, a round carved sandstone tunnel mouth, and a light chain linked steel haubergeon are here.
+
+This room is illuminated.
+In the room are Clara the Secian (holding a glowing pulsating glyph etched moonstone), Dracaen the Draco, Jyrayel the Noble Draco, Nyoko'a the Dragon (lying down), Viator the Drake, Mikasi the Drake, Lilhyr the Draco, Depravato'a the Noble Dragon, Msanychta the Drake, and Bant the Drake (seated).
+Obvious exits: north.
+>
+Clara briefly touches Depravato'a.
+l at vi
+
+Clara sits down.
+
+Viator looks like a 9'5" standard 2nd stage, winged delicate boned, wiry-tough bodied silver Dragon.
+He has silver scales, silvery gray eyes, and looks neat.
+He appears to be amused right now.
+He can be attacked by other players.
+He appears to be in perfect health.
+
+Physical appearance:
+
+His Silver scales catch your eye.  Slender, graceful and self assured, he is the definition of svelte and many of the larger females watch him when they think no one notices.  A mischievous glint is in his eye.
+
+                        Visible Equipment
+A heavy silver etched steelwood brigandine         (armor)
+A flowing purple svelte neckscarf                  (around neck)
+An etched black diamond gecko ring                 (ring (right))
+
+He has been bestowed the following title(s):
+  Noble of the Realm
+
+>
+Clara places her hands upon her chest and prays a moment.
+
+Lilhyr searches the room.
+l at my
+I don't see what you are referring to.
+l at my
+>I don't see what you are referring to.
+>
+Lilhyr reveals Smaugbane!
+
+Lilhyr leans on Smaugbane.
+l at ms
+
+
+Msanychta looks like a 10'9" standard 2nd stage, winged average boned, muscular bodied black Dragon.
+He has black scales, metallic silver eyes, and looks neat.
+He appears to be distant right now.
+He can be attacked by other players.
+He appears to be in perfect health.
+
+Physical appearance:
+
+Scales more black than a starless midnight cover his body. The light near him seems stolen by their darkness.
+
+                        Visible Equipment
+A heavy rose inscribed brass armor                 (armor)
+A carved bone flute                                (hands)
+A starsteel encrusted sunstone pendant of eternity (around neck)
+A flowing black velvet hooded cloak                (over armor)
+An inky black onyx ring of sinuous shadows         (ring (right))
+A swirling engraved moonsilver circle of darkness  (ring (left))
+An intricately braided moonsilver chosen's ring    (ring (left))
+A silver-trimmed black silk gem pouch              (on belt)
+An open satin-lined black velvet gem pouch         (on belt)
+A bleached broad Oog-ra skull                      (on belt)
+
+He has been bestowed the following title(s):
+  Noble of the Realm
+
+>
+Clara stands up.
+
+
+A dark aura begins to radiate from Msanychta's black scales.
+
+Smaugbane gasps mockingly.
+
+Viator says to Nyoko'a, "remember...Sleek does not pounce...try tripping him..."
+
+Viator whistles innocently.
+
+Depravato'a exclaims to Lilhyr in Dragon, "turncoat! scoundrel...and here I did gift you with relics from my holdings"
+
+Depravato'a grunts softly.
+
+Smaugbane winks to Lilhyr.
+
+Lilhyr grins at Smaugbane.
+
+Jyrayel just picked up a light chain linked steel haubergeon.
+
+Darkness suddenly envelops Msanychta's body and he vanishes into the shadows!
+
+A soft scuffling noise can be heard from the shadows.
+
+Nyoko'a says to Viator, "I cannot trip him either.  He is too steady on his feet."
+
+Clara just placed a small faceted white diamond within her shimmering pure white moonsilk gem pouch.
+l
+[Circular Pit, Dragon Cavern.]
+
+A winding tunnel opens above a large depression in the cavern floor. A wide ledge spirals its way down the contour of the circular pit, narrowing as it approaches the flat bed of the bottom. The upper concentric circles of the ledge accommodate several rocks. The large rocks are not made of the abundant sandstone of the caves; rather, they are chiseled obsidian. Most have narrow slits for claw perches, while some are crudely hewn into bowl shapes for seating. Sound reverberates magnificently within the bowl, causing any sound above a whisper to carry to any point in the chamber.   A ledge winding downward, a giant glossy black obsidian rock, a giant glossy black obsidian rock, a slick mottled obsidian bowl-shaped rock, a slick mottled obsidian bowl-shaped rock, and a round carved sandstone tunnel mouth are here.
+
+This room is illuminated.
+In the room are Clara the Secian (holding a glowing pulsating glyph etched moonstone), Dracaen the Draco, Jyrayel the Noble Draco, Nyoko'a the Dragon (lying down), Viator the Drake, Smaugbane the Noble Draco, Mikasi the Drake, Lilhyr the Draco, Depravato'a the Noble Dragon, and Bant the Drake (seated).
+Obvious exits: north.
+>
+Lilhyr chuckles at Depravato'a.
+l at dr
+
+Dracaen looks like a 8'3" standard 1st stage massive boned, very muscular bodied Dragon.
+She has collar length, baby fine hair, with light gray eyes, and looks spotless.
+She appears to be amused right now.
+She can be attacked by other players.
+She appears to be in perfect health.
+
+Physical appearance:
+
+She looks like an above-average draco.
+
+                        Visible Equipment
+Some heavy worn leather city guardsman armor       (armor)
+A silver rose crested black morbius shield         (shield)
+An intricately braided moonsilver chosen's ring    (ring (right))
+A sinister red and black ruby ring                 (ring (left))
+
+She has been bestowed the following title(s):
+  Noble of the Realm
+
+>
+Bant asks Lilhyr, "was it ale?"
+l at j
+
+Jyrayel looks like a 7'1" standard 1st stage delicate boned, wiry-tough bodied Dragon.
+He has long, kinky hair, with glowing red eyes, and looks razor-sharp.
+He appears to be sullen right now.
+He can be attacked by other players.
+He appears to be in perfect health.
+                        Visible Equipment
+A light silver etched steelwood brigandine         (armor)
+A bone shield                                      (shield)
+A Dragon and Secian entwined sunstone chosen's rin (ring (right))
+Some broadcloth trousers                           (pants)
+A broadcloth vest                                  (shirt)
+
+He has been bestowed the following title(s):
+  Noble of the Realm
+
+>
+Lilhyr exclaims to Depravato'a in Dragon, "I have to encourage her!"
+l
+[Circular Pit, Dragon Cavern.]
+
+A winding tunnel opens above a large depression in the cavern floor. A wide ledge spirals its way down the contour of the circular pit, narrowing as it approaches the flat bed of the bottom. The upper concentric circles of the ledge accommodate several rocks. The large rocks are not made of the abundant sandstone of the caves; rather, they are chiseled obsidian. Most have narrow slits for claw perches, while some are crudely hewn into bowl shapes for seating. Sound reverberates magnificently within the bowl, causing any sound above a whisper to carry to any point in the chamber.   A ledge winding downward, a giant glossy black obsidian rock, a giant glossy black obsidian rock, a slick mottled obsidian bowl-shaped rock, a slick mottled obsidian bowl-shaped rock, and a round carved sandstone tunnel mouth are here.
+
+This room is illuminated.
+In the room are Clara the Secian (holding a glowing pulsating glyph etched moonstone), Dracaen the Draco, Jyrayel the Noble Draco, Nyoko'a the Dragon (lying down), Viator the Drake, Smaugbane the Noble Draco, Mikasi the Drake, Lilhyr the Draco, Depravato'a the Noble Dragon, and Bant the Drake (seated).
+Obvious exits: north.
+>
+Smaugbane just removed a short mahogany-handled platinum knife from within his open large midnight blue leather backpack.
+l at mik
+
+Mikasi looks like a 11'5" standard 2nd stage, winged heavy boned, wiry-tough bodied white Dragon.
+She has white scales, pitch black eyes, and looks neat.
+She appears to be belligerent right now.
+She can be attacked by other players.
+She appears to be in perfect health.
+
+Physical appearance:
+
+The white scales that adorn this Drake's impressive frame glisten as frost in the moonlight; her deep set eyes as a pair of black coals against an otherwise stark landscape. 
+
+                        Visible Equipment
+A heavy polished steelwood mail                    (armor)
+A rune-etched curved bone snout piercing           (on head)
+A pair of shaggy white yeti fur leg wrappings      (on feet)
+A white furred lionskin traveler's cloak           (over armor)
+A tiny white ivory Secian around her claw          (ring (right))
+An onyx veined bloodstone claw ring                (ring (left))
+
+She has been bestowed the following title(s):
+  Noble of the Realm
+
+l at l
+>
+Lilhyr looks like a 8'3" standard 1st stage delicate boned, very muscular bodied Dragon.
+She has very long, wispy hair, with bluish gray eyes, and looks razor-sharp.
+She appears to be serious right now.
+She can be attacked by other players.
+She appears to be in perfect health.
+
+Physical appearance:
+
+Coal black hair pulled back into a loose braid reaching to her thighs. Keen, storm-cloud eyes peer out prudent and calm from a well-defined, precise-featured face. Her taut, statuesque form moves gracefully.
+
+                        Visible Equipment
+A heavy steelwood banded-mail                      (armor)
+A traditional hardened oak tower shield            (shield)
+A leather strapped bone backsheath                 (on back)
+A pair of wolf embroidered jet black suede gloves  (over hands)
+Some tight leather wrappings                       (on feet)
+A shimmering silver-threaded silk cloak            (over armor)
+A loose swagged shimmercloth                       (dress)
+>
+Lilhyr says to Bant in Dragon, "Never do I consume such things"
+l at cl
+
+Clara looks like a 1'1" standard adolescent light boned, skinny bodied Secian.
+She has very short, wild, sandy blonde hair with a white streak, bright red eyes, and looks disheveled.
+She appears to be wary right now.
+She bears the mark of Rinanni.
+She can be attacked by other players.
+
+On her left wrist is a tattoo of a beautiful white wolf with inky black eyes howling at a full moon.
+
+On her wings are delicate, intricate white swirls that shimmer with the slightest movement.
+
+She appears to be in perfect health.
+
+Physical appearance:
+
+The pale skin of this enchanting being shimmers delicately with subtle, icy glitter that matches the swirled white flecks in her wings. Her body exudes an awkward grace; her movements are somehow fluid and choppy all at once.
+
+                        Visible Equipment
+A glowing pulsating glyph etched moonstone         (left hand)
+A dazzling jeweled crystal ice tiara               (on head)
+An onyx-eyed white ivory Dragon in flight          (around neck)
+Some silvery white satin curly-toed slippers       (on feet)
+An enchanting white diamond half-heart ring        (ring (right))
+A sapphire-veined white diamond wedding band       (ring (left))
+A white diamond inlaid sapphire engagement ring    (ring (left))
+A silvery layered organza snow faerie skirt        (pants)
+An iridescent white satin criss-crossed ribbon     (shirt)
+A closed white pearlescent precious minerals kit   (on belt)
+A luminous white diamond dragon charm              (on belt)
+
+She has been bestowed the following title(s):
+  Noble of the Realm
+
+>
+Viator says to Nyoko'a, "aye...he is rather portly"
+
+Smaugbane says to Nyoko'a in Dragon, "a knife to go with the fork I gave you"
+
+Viator says to Nyoko'a, "aye...he is rather portly"
+
+Viator coughs.
+
+Nyoko'a coughs.
+
+Nyoko'a glances at Viator.
+
+Smaugbane offers something to Nyoko'a.
+
+Bant chuckles.
+
+Nyoko'a rumbles at Smaugbane.
+
+Mikasi shakes her head from side to side to Clara.
+
+Depravato'a glances at Viator.
+
+Nyoko'a accepts Smaugbane's offer.
+l
+[Circular Pit, Dragon Cavern.]
+
+A winding tunnel opens above a large depression in the cavern floor. A wide ledge spirals its way down the contour of the circular pit, narrowing as it approaches the flat bed of the bottom. The upper concentric circles of the ledge accommodate several rocks. The large rocks are not made of the abundant sandstone of the caves; rather, they are chiseled obsidian. Most have narrow slits for claw perches, while some are crudely hewn into bowl shapes for seating. Sound reverberates magnificently within the bowl, causing any sound above a whisper to carry to any point in the chamber.   A ledge winding downward, a giant glossy black obsidian rock, a giant glossy black obsidian rock, a slick mottled obsidian bowl-shaped rock, a slick mottled obsidian bowl-shaped rock, and a round carved sandstone tunnel mouth are here.
+
+This room is illuminated.
+In the room are Clara the Secian (holding a glowing pulsating glyph etched moonstone), Dracaen the Draco, Jyrayel the Noble Draco, Nyoko'a the Dragon (lying down), Viator the Drake, Smaugbane the Noble Draco, Mikasi the Drake, Lilhyr the Draco, Depravato'a the Noble Dragon, and Bant the Drake (seated).
+Obvious exits: north.
+>
+Nyoko'a pets the short mahogany-handled platinum knife.
+
+Smaugbane grins toothily.
+
+Nyoko'a says to Smaugbane, "Thank ye kindly."
+
+Smaugbane nods to Nyoko'a.
+
+Nyoko'a nuzzles the short mahogany-handled platinum knife.
+
+Clara gazes at Mikasi, arching an eyebrow.
+
+Nyoko'a just placed a short mahogany-handled platinum knife within her open large forest green leather backpack.
+
+Nyoko'a ponders.
+
+Bant says, "msan, have you been in contact with those hithuals"
+
+
+Nyoko'a glances at Clara.
+wh to clar these ones await a battle?
+You whisper to Clara.
+>
+Nyoko'a offers something to Clara.
+
+Clara accepts Nyoko'a's offer.
+
+Clara beams at Nyoko'a.
+
+Depravato'a grunts as he shifts about, turning his back to the gathering.
+
+Clara nuzzles Nyoko'a gently.
+
+Mikasi says to Clara in Secian, "Mv ekfp edx ux kp mq zhr ashyhs..."
+
+Nyoko'a rumbles at Clara.
+
+Msanychta reveals himself.
+
+Msanychta shakes his head from side to side to Bant.
+l
+[Circular Pit, Dragon Cavern.]
+
+A winding tunnel opens above a large depression in the cavern floor. A wide ledge spirals its way down the contour of the circular pit, narrowing as it approaches the flat bed of the bottom. The upper concentric circles of the ledge accommodate several rocks. The large rocks are not made of the abundant sandstone of the caves; rather, they are chiseled obsidian. Most have narrow slits for claw perches, while some are crudely hewn into bowl shapes for seating. Sound reverberates magnificently within the bowl, causing any sound above a whisper to carry to any point in the chamber.   A ledge winding downward, a giant glossy black obsidian rock, a giant glossy black obsidian rock, a slick mottled obsidian bowl-shaped rock, a slick mottled obsidian bowl-shaped rock, and a round carved sandstone tunnel mouth are here.
+
+This room is illuminated.
+In the room are Clara the Secian (holding a glowing pulsating glyph etched moonstone), Dracaen the Draco, Jyrayel the Noble Draco, Nyoko'a the Dragon (lying down), Viator the Drake, Smaugbane the Noble Draco, Mikasi the Drake, Lilhyr the Draco, Depravato'a the Noble Dragon, Msanychta the Drake, and Bant the Drake (seated).
+Obvious exits: north.
+>
+Depravato'a sits down heavily, snorting a billowing plume of smoke.
+
+Nyoko'a glances at Depravato'a and flicks him with her tail.
+
+Bant asks Msanychta, "do we know when and where to meet these tree stump looking creatures?"
+
+Msanychta shakes his head from side to side to Bant.
+
+Clara nods slowly towards the shadows.
+wh to sm there will be a battle this night?
+You whisper to Smaugbane.
+>
+Clara asks Mikasi in Secian, "Ovlj af ksf lmdg?"
+
+Smaugbane sits down with a thud, kicking his legs forward and leaning back on his arms.
+
+Depravato'a grunts softly, whisking his tail at Nyoko'a.
+
+Nyoko'a says to Viator, "Now ye went and hurt his feelings."
+
+Mikasi glances curiously at Clara.
+
+Viator chuckles.
+
+Msanychta furrows his brow.
+
+Bant nods.
+
+Lilhyr exclaims to Depravato'a in Dragon, "You're not... portly. You are magnificently husky!"
+
+Viator says to Nyoko'a, "I feel bad about that..."
+
+Smaugbane squints towards the dhadows.
+
+Viator says, "but I'm over it now"
+
+Smaugbane squints towards the shadows.
+
+Depravato'a says to Nyoko'a in Dragon, "He called the might thewed Sesquipedalian Silver...portly."
+
+Depravato'a grunts.
+
+Mikasi searches the room.
+
+Smaugbane searches the room.
+
+squint at Mikasi
+nod to Mikasi
+Mikasi is looking at you.
+You squint at Mikasi.
+>You reveal yourself!
+You nod to Mikasi.
+>
+Gaze, the lazy, just entered from the north.
+
+Smaugbane nods to you.
+
+Gaze's eyes begin to glow with a silvery light.
+nod to sm
+
+Smaugbane says to Bronyraur in Dragon, "I think there will be"
+
+Dozens of sparkling silver lights suddenly swirl around Gaze's body!
+
+The sparkling silver lights about Gaze quickly fade away.
+You nod to Smaugbane.
+>
+squint at Lilhyr
+nod to Lilhyr
+Lilhyr is looking at you.
+You squint at Lilhyr.
+>You nod to Lilhyr.
+>
+Bant says to Depravato'a, "I thought he was talking about Smaugbane"
+
+Bant gestures.
+
+Nyoko'a says to Depravato'a, "Ah, but we all know the truth of your SPlendid Silver form.  It was merely in jest, Mighty Silver one."
+
+Lilhyr nods to you.
+
+Mikasi glances down at Bronyraur.
+tact
+Standing in front of you at 1 UDs, is:
+Clara, Dracaen, Jyrayel, Nyoko'a, Viator, Smaugbane, Mikasi, Gaze, Lilhyr, Depravato'a, Msanychta, Bant
+Standing in this rank is:
+Bronyraur
+>
+squint at Bant
+nod to Bant
+Bant is looking at you.
+You squint at Bant.
+>You nod to Bant.
+l at mi
+>
+Mikasi looks like a 11'5" standard 2nd stage, winged heavy boned, wiry-tough bodied white Dragon.
+She has white scales, pitch black eyes, and looks neat.
+She appears to be belligerent right now.
+She can be attacked by other players.
+She appears to be in perfect health.
+
+Physical appearance:
+
+The white scales that adorn this Drake's impressive frame glisten as frost in the moonlight; her deep set eyes as a pair of black coals against an otherwise stark landscape. 
+
+                        Visible Equipment
+A heavy polished steelwood mail                    (armor)
+A rune-etched curved bone snout piercing           (on head)
+A pair of shaggy white yeti fur leg wrappings      (on feet)
+A white furred lionskin traveler's cloak           (over armor)
+A tiny white ivory Secian around her claw          (ring (right))
+An onyx veined bloodstone claw ring                (ring (left))
+
+She has been bestowed the following title(s):
+  Noble of the Realm
+
+>
+Bant nods.
+
+Nyoko'a nuzzles Depravato'a along the scales of his neck.
+
+squint at Msanychta
+nod to Msanychta
+Msanychta is looking at you.
+You squint at Msanychta.
+>You nod to Msanychta.
+>
+Depravato'a says to Nyoko'a in Dragon, "ah. In jest. I shall have to rend his face off...in jest"
+
+Depravato'a grins draconically, displaying an arsenal of serrated teeth.
+
+Msanychta glances.
+
+Bant says to Bronyraur, "greetings "
+
+Nyoko'a says to Depravato'a, "Besides, ye're not going to let that little silver one affect ye so."
+
+Nyoko'a chuckles quietly.
+
+A low rumbling breath echoes from someplace deep within the cavern.
+'ba, Greetings indeed
+
+Bronyraur says to Bant, "Greetings indeed"
+>
+Viator says, "hmmm..."
+
+Gaze reveals Viator!
+
+Gaze glances at Viator.
+
+Bant says, "if any are hungry, thirsty, or need to kill something, we have a few moments yet while waiting on stragglers"
+
+Viator pokes Gaze.
+info
+
+You are Bronyraur Dyermaker, a average boned and stocky bodied 25 year old Entropic Male 1st stage Dragon.  You are 7'6" and weigh 409 lbs.
+
+HP: 195 of 195  Ftg:  74 of  74  Carry: 40.5 of 354.0 lbs.
+
+ Str   Int   Wis   Dex   Agi   Con   Cha   Wil   Voi   Per   App
+Fair  Good  Good  Good  Low   Good  Aver  Fair  Fair  Aver  Aver  
+
+Use: INFO <subject> for more info.
+(Valid subjects: RELIGION, MAGICK, LANGUAGES, MARTIALARTS, MONEY, RUNESPELLS, TITLES, DISGUISE, PSIONICS)
+
+>
+Depravato'a says in Dragon, "hrm"
+
+Bant says, "only a few moments"
+
+Depravato'a ponders quietly.
+
+Dracaen just removed a cold cherry tart from within her open multicolored patched cotton carry-all.
+
+Msanychta, the area seems to brighten, just went north.
+
+Nyoko'a pulls Bant closer to her.
+You see Dracaen take a bite of her cold cherry tart.
+You see Dracaen take a bite of her cold cherry tart.
+
+Nyoko'a says to Bant, "Don't mind if I do."
+
+Viator says to Gaze, "wait till it's your turn to be rended..."
+You see Dracaen take a bite of her cold cherry tart.
+You see Dracaen take a bite of her cold cherry tart.
+
+Nyoko'a grits her teeth on Bant.
+You see Dracaen take a bite of her cold cherry tart.
+
+Dracaen hiccups.
+You see Dracaen take a bite of her half-eaten cold cherry tart.
+
+Bant grits his teeth.
+You see Dracaen take a bite of her half-eaten cold cherry tart.
+You see Dracaen take a bite of her half-eaten cold cherry tart.
+You see Dracaen take a bite of her half-eaten cold cherry tart.
+You see Dracaen eat the last of her cold cherry tart.
+gla at dr
+You glance at Dracaen.
+>
+Dracaen fidgets.
+
+You watch Gaze poorly attempt to blend into the shadows!
+
+Nyoko'a exclaims, "Bah!  Not edible at all."
+off fro to dr
+You offer Dracaen a half-eaten frogman leg.
+
+>
+Bant says to Nyoko'a, "I suppose you'll have to lead then"
+nod
+You nod.
+>
+Clara just placed a shining diamond within her open rune-embroidered white runesilk treasure sack.
+
+Lilhyr just removed a raw landshark filet from within her open large white leather backpack.
+
+Lilhyr just removed a raw landshark filet from within her open large white leather backpack.
+
+Dracaen accepts your half-eaten frogman leg.
+
+Lilhyr just removed a raw landshark filet from within her open large white leather backpack.
+
+Dracaen says to Bronyraur, "Thank you."
+
+Lilhyr just dropped a raw landshark filet.
+
+Nyoko'a asks Bant, "Ye want me to lead in the cold place?"
+
+Lilhyr just dropped a raw landshark filet.
+bow his head to dr
+You bow his head to dr.
+>
+Lilhyr just dropped a raw landshark filet.
+
+Bant says, "yes"
+cou
+You cough.
+>
+Nyoko'a asks Bant, "And the last time I was up there was...when?"
+
+Bant furrows his brow.
+
+Bant says, "I suppose I'll be leading "
+
+Bant sighs.
+
+Gaze reveals himself.
+
+Gaze is following Bant.
+
+Gaze is now following Bant.
+
+Clara ponders a moment.
+
+Smaugbane is now following Bant.
+
+Clara says to Lilhyr, "Those are pretty gloves."
+
+You watch Gaze poorly attempt to blend into the shadows!
+
+You watch Gaze poorly attempt to blend into the shadows!
+
+Lilhyr smiles at Clara.
+
+You watch Gaze poorly attempt to blend into the shadows!
+
+You watch Gaze poorly attempt to blend into the shadows!
+
+Gaze glares.
+
+Bant says, "damn that black drake"
+
+You watch Gaze poorly attempt to blend into the shadows!
+
+Bant stomps.
+
+You watch Gaze poorly attempt to blend into the shadows!
+
+Lilhyr says to Clara in Dragon, "Laetus gifted me with them"
+
+Mikasi scowls at Gaze.
+
+A dark crimson aura begins to radiate from Gaze's ruby scales.
+
+Lilhyr coughs.
+
+Lilhyr says to Clara, "Laetus gifted me with them"
+
+Smaugbane chuckles softly to Bant.
+
+Bant says, "invite us all ot a hunt and hide in the shadows"
+
+Clara says, "Ohh... how sweet."
+
+Bant grits his teeth.
+
+Darkness creeps across the surface of Gaze's scales and he fades into the shadows!
+
+A soft scuffling noise can be heard from the shadows.
+
+Msanychta reveals himself.
+
+Msanychta asks Bant, "hmm?"
+
+Bant cackles.
+
+Gaze reveals himself.
+
+Gaze is following Bant.
+
+Gaze is now following Bant.
+
+Bant is now following Msanychta.
+
+Lilhyr smiles brightly, running her fingers over the gloves.
+hide
+
+Nyoko'a asks Clara, "Are perhaps any more of your kynd coming to assist us?"
+You fail in your attempt to hide!
+>
+Bant beams.
+hide
+
+Dracaen asks, "What causes the scuffling sounds?"
+You fail in your attempt to hide!
+>
+Clara says to Lilhyr, "I gave some like that to my bond when she was a Draco.  Embroidered in a similar way."
+hide
+
+Jyrayel says in Dragon, "I surely hope we bring healers"
+You fail in your attempt to hide!
+>
+Clara asks Mikasi, "Do you remember?"
+
+Mikasi stares at Clara.
+
+Gaze says to Dracaen in Dragon, "I always nearly fall over"
+
+Viator says to Dracaen, "poor sneaking"
+
+Gaze says in Dragon, "But that's only me"
+
+Depravato'a stands up with a ponderous languidity, stretching as he slowly paces about the chamber.
+
+Bant says to Dracaen, "those hiding in the shadows"
+l
+[Circular Pit, Dragon Cavern.]
+
+A winding tunnel opens above a large depression in the cavern floor. A wide ledge spirals its way down the contour of the circular pit, narrowing as it approaches the flat bed of the bottom. The upper concentric circles of the ledge accommodate several rocks. The large rocks are not made of the abundant sandstone of the caves; rather, they are chiseled obsidian. Most have narrow slits for claw perches, while some are crudely hewn into bowl shapes for seating. Sound reverberates magnificently within the bowl, causing any sound above a whisper to carry to any point in the chamber.   A ledge winding downward, a giant glossy black obsidian rock, a giant glossy black obsidian rock, a slick mottled obsidian bowl-shaped rock, a slick mottled obsidian bowl-shaped rock, a round carved sandstone tunnel mouth, a raw landshark filet, a raw landshark filet, and a raw landshark filet are here.
+
+This room is illuminated.
+In the room are Clara the Secian (holding a glowing pulsating glyph etched moonstone), Dracaen the Draco, Jyrayel the Noble Draco, Nyoko'a the Dragon (lying down), Viator the Drake, Smaugbane the Noble Draco (seated), Mikasi the Drake, Gaze the Noble Drake, Lilhyr the Draco, Depravato'a the Noble Dragon, Msanychta the Drake, and Bant the Drake (seated).
+Obvious exits: north.
+>
+Mikasi nods to Clara.
+
+Clara says to Nyoko'a, "I will ask."
+bow
+You bow.
+>
+Nyoko'a says to Clara, "THank ye."
+
+Lilhyr asks Clara, "Ah, you are partial to the wolf?"
+n
+
+Msanychta says, "there will be some.. rules.. if the Spurians manage to remember we are attacking tonight"
+[Basin Rim, Dragon Cavern.]
+
+A steep ramp of tightly packed clay, rocks, and detritus descends into a deep basin formed in the sandstone floor of the cavern. The smooth floor of the basin implies natural formation, but deep claw gouges along the sides, although smoothed by the passage of time, bespeak draconic assistance. From the rim of the basin a phantasmal form is visible. Standing perfectly still at the center of the basin it appears statuesque. A sudden flurry of graceful yet precise movement reveals the apparition to be progressing through a series of increasingly complex fighting stances and maneuvers. Each sharp jab, stab, slash, and cut is demonstrated wielding a gleaming scimitar in one hand and a short curved dagger in the other.   A ramp leading down is here.
+
+This room is not illuminated.
+Obvious exits: north east south* west.
+n
+>[Cavern Entrance.]
+
+By swift passage of flood waters, or slow percolating of artesian wells, the towering walls of this sandstone cavern were eroded into eery eliptical shapes, creating an underground network of winding passages. Dozens of misshapen tunnels, chambers, and alcoves start or end in this cavern, their inky black mouths dotting the walls in every direction and height. Apertures in the uneven ground plunge thousands of feet through dripping mists and down into the dark bowels of the earth. Lining the cavern mouth exiting to the forested path are two precisely carved semicircles, one within the other. Their borders are cut several inches deep into the walls and the sandstone has been reinforced with a metallic substance within the double arch. Filling the gaps between the dual arches are deeply gouged draconic runes, glyphs, and wards, each crackling with pent-up azure energy.  A massive stone cavern opening is here.
+
+This room is not illuminated.
+Obvious exits: south.
+hide
+>You slip into the shadows!
+quit
+>
+    Dragon's Gate Menu
+
+ 1. Explore Dragon's Gate.
+ 2. Create, Delete, or View a character.
+ 3. Select current character.
+ 4. Display notices and version notes.
+16. Disconnect.
+
+Your active character is: Bronyraur Dyermaker
+
+Your selection? 
+16
+
+ ** Goodbye from Mythic Entertainment! **
+Closed Bronyraur-offerings.txt on file 1

@@ -1,0 +1,2624 @@
+
+Losmir beams.
+l
+[Housing Waiting Room.]
+
+Detailed vellum maps of  all of Aradath adorn each of the four walls. Below the maps, comfortable chairs have been placed to provide comfort to those waiting in line. Centering the room, a long maple table with a crocheted runner, holds a variety of food and drink.  A mahogany arch, a sign of Housing rules, a list of basic prices, a blue Posting of extra costs, a green Posting of extra costs, a yellow Posting of extra costs, a red post of container price, a maple table, a white leather chair, a white leather chair, and a mahogany ramp are here.
+
+This room is illuminated.
+In the room are Fyndalstadt the Psycian, Lilioth the Secian (flying beside you), Nikolas the Noble Human, and Losmir the Draco.
+Obvious exits: None.
+>
+Nikolas says, "she is most anxious to build"
+re si
+
+The sign of Housing rules reads:
+"HOUSING RULES 
+ * Max 2 rooms per house. 
+ * Housing is only available in established housing areas. 
+ * Noble areas are restricted to Lords and Ladies."
+re po
+>
+Losmir nods up and down to Nikolas.
+
+The blue Posting of extra costs reads:
+"* Functioning furnishings - 25 gold per item. 
+ * Best material on furnishings - 25 additional gold. 
+ * Fountains/wells - 500 gold.  
+ * Basic inside doors and arches - 100 gold each."
+re 2 po
+>
+The green Posting of extra costs reads:
+"* Better lock on door 200 gold, and best lock on door 500 gold. 
+* Additional containers available (see price list). 
+* Lock on container 50 gold for good, 200 gold for better, and 500 gold for best."
+re 3 po
+>
+The yellow Posting of extra costs reads:
+"* Better doors and arches at the discretion of the contractor.
+ * Most anything except for number of rooms is negotiable."
+>
+Losmir says to Nikolas, "She's been talking about it quite a bit"
+l
+[Housing Waiting Room.]
+
+Detailed vellum maps of  all of Aradath adorn each of the four walls. Below the maps, comfortable chairs have been placed to provide comfort to those waiting in line. Centering the room, a long maple table with a crocheted runner, holds a variety of food and drink.  A mahogany arch, a sign of Housing rules, a list of basic prices, a blue Posting of extra costs, a green Posting of extra costs, a yellow Posting of extra costs, a red post of container price, a maple table, a white leather chair, a white leather chair, and a mahogany ramp are here.
+
+This room is illuminated.
+In the room are Fyndalstadt the Psycian, Lilioth the Secian (flying beside you), Nikolas the Noble Human, and Losmir the Draco.
+Obvious exits: None.
+>
+Nikolas nods.
+re 4 po
+
+The red post of container price reads:
+"*Additional containers -100 gold (20 items/15 weight) or ... 
+*(25/50) -plus 50 gold
+*(5/650) -plus 50 gold
+*(40/40) -plus 100 gold
+*(10/400) -plus 100 gold
+*(30/60) -plus 100 gold
+*(20/150) -plus 150 gold
+*(25/100) -plus 200 gold"
+>
+Losmir says, "And now we finally have the money for it"
+l
+[Housing Waiting Room.]
+
+Detailed vellum maps of  all of Aradath adorn each of the four walls. Below the maps, comfortable chairs have been placed to provide comfort to those waiting in line. Centering the room, a long maple table with a crocheted runner, holds a variety of food and drink.  A mahogany arch, a sign of Housing rules, a list of basic prices, a blue Posting of extra costs, a green Posting of extra costs, a yellow Posting of extra costs, a red post of container price, a maple table, a white leather chair, a white leather chair, and a mahogany ramp are here.
+
+This room is illuminated.
+In the room are Fyndalstadt the Psycian, Lilioth the Secian (flying beside you), Nikolas the Noble Human, and Losmir the Draco.
+Obvious exits: None.
+' jus curious about summthyn?
+>
+Glinka asks, " jus curious about summthyn?"
+rai at n
+>You raise an eyebrow at Nikolas.
+>
+Nikolas listens intently to you.
+' can you build treehouses?
+
+Glinka asks, " can you build treehouses?"
+rai
+>You raise an eyebrow.
+>
+Nikolas nods to you.
+
+Nikolas says, "oh yes"
+beam
+You beam.
+clap
+>
+Nikolas says, "very popular"
+You clap.
+' great
+>
+Glinka says, " great"
+>
+Fyndalstadt smiles.
+' Ill be back in a few years with the gold
+
+Glinka says, " Ill be back in a few years with the gold"
+how
+>You howl.
+>
+smi at Nikolas
+Nikolas smiles at you.
+You smile at Nikolas.
+>
+Fyndalstadt snickers.
+
+wave to Nikolas
+Nikolas waves.
+You wave to Nikolas.
+>
+Losmir asks, "What about caves or caverns?"
+
+Losmir grins at you.
+gri to lo
+You grin to Losmir.
+' Dragond caves?
+>
+Glinka asks, " Dragond caves?"
+l
+>[Housing Waiting Room.]
+
+Detailed vellum maps of  all of Aradath adorn each of the four walls. Below the maps, comfortable chairs have been placed to provide comfort to those waiting in line. Centering the room, a long maple table with a crocheted runner, holds a variety of food and drink.  A mahogany arch, a sign of Housing rules, a list of basic prices, a blue Posting of extra costs, a green Posting of extra costs, a yellow Posting of extra costs, a red post of container price, a maple table, a white leather chair, a white leather chair, and a mahogany ramp are here.
+
+This room is illuminated.
+In the room are Fyndalstadt the Psycian, Lilioth the Secian (flying beside you), Nikolas the Noble Human, and Losmir the Draco.
+Obvious exits: None.
+>
+Losmir says to Nikolas, "As a place to store some of my gems for her"
+
+Nikolas says to Losmir, "if its in the housing area"
+
+Losmir grins at you.
+' delve deep
+
+Glinka says, " delve deep"
+>
+Losmir ponders the meaning of the universe for a moment.
+nod to lo
+You nod to Losmir.
+' down down
+>
+Glinka says, " down down"
+>
+Losmir asks, "Are there any around here?"
+poi down
+You point down.
+>
+Nikolas asks, "housing area?"
+
+Nikolas says, "yes"
+
+Nikolas says, "the glen area"
+
+Losmir nods up and down to Nikolas.
+
+Nikolas says, "I only have permission to build there"
+
+Losmir asks, "But there are caves nearby?  Or would I have to dig a place of my own?"
+
+Losmir chuckles.
+
+Nikolas says, "I am sure a cave can be found in htat area"
+
+Fyndalstadt grins.
+
+Losmir beams.
+
+Nikolas asks, "anyone else need me?"
+
+Fyndalstadt ponders the meaning of the universe for a moment.
+
+Losmir says, "I'd really have to pass it by the little one, first"
+' can you do windows with views to the outside?
+
+Glinka asks, " can you do windows with views to the outside?"
+rai
+>
+Fyndalstadt shakes his head from side to side.
+You raise an eyebrow.
+>
+Nikolas nods to you.
+' ooOo, how much is that?
+
+Glinka asks, " ooOo, how much is that?"
+>
+Nikolas says to Glinka, "many request that "
+beam to n
+You beam to Nikolas.
+>
+Nikolas says, "50 gold"
+
+Fyndalstadt says to Nikolas, "i'll look again, but i think i have a spot picked,..i'll contact yer scribe"
+beam
+You beam.
+>
+Nikolas beams at Fyndalstadt.
+wh to n In Spur too?
+You whisper to Nikolas.
+>
+Nikolas nods to you.
+beam
+You beam.
+>
+Fyndalstadt smiles.
+
+Nikolas says, "I am sooo sorry"
+
+Nikolas says, "I must go"
+
+[ The sun is beginning to set. ]
+hu n tyte
+You hug Nikolas tyte.
+>
+Losmir nods to Nikolas.
+' thanks
+
+Fyndalstadt nods to Nikolas.
+
+Glinka says, " thanks"
+>
+Nikolas says, "I have an urgent matter that just came up"
+how to n
+You howl to Nikolas.
+>
+Losmir nods to Nikolas.
+diag all
+
+  You examine Fyndalstadt the Psycian...
+He appears to be in perfect health.
+  You examine Lilioth the Secian...
+She appears to be in perfect health.
+  You examine Nikolas the Human...
+He appears to be in perfect health.
+  You examine Losmir the Dragon...
+He appears to be in perfect health.
+
+>
+Fyndalstadt says to Nikolas, "thank you fer yer time Nikolas"
+
+Nikolas says, "feel free to stay and read the signs"
+nod softly
+You nod softly.
+>
+Losmir says, "Yes, thank you"
+
+Nikolas says, "I am sorry to run"
+
+Fyndalstadt smiles.
+' is okie
+
+Glinka says, " is okie"
+>
+Nikolas says, "I will be around later if you need me"
+gri
+You grin.
+>
+wave to Nikolas
+Nikolas waves.
+I don't see what you are referring to.
+>
+wave to Fyndalstadt
+Fyndalstadt waves.
+
+Losmir smiles.
+l
+You wave to Fyndalstadt.
+>[Housing Waiting Room.]
+
+Detailed vellum maps of  all of Aradath adorn each of the four walls. Below the maps, comfortable chairs have been placed to provide comfort to those waiting in line. Centering the room, a long maple table with a crocheted runner, holds a variety of food and drink.  A mahogany arch, a sign of Housing rules, a list of basic prices, a blue Posting of extra costs, a green Posting of extra costs, a yellow Posting of extra costs, a red post of container price, a maple table, a white leather chair, a white leather chair, and a mahogany ramp are here.
+
+This room is illuminated.
+In the room are Fyndalstadt the Psycian, Lilioth the Secian (flying beside you), and Losmir the Draco.
+Obvious exits: None.
+' poof
+>
+Glinka says, " poof"
+>
+Fyndalstadt chuckles.
+' nice spell that
+
+Glinka says, " nice spell that"
+>
+Losmir chuckles.
+nod yes
+You nod up and down.
+hu lil into wakening
+>You hug Lilioth into wakening.
+pon what enchantment she is under
+>You ponder what enchantment she is under.
+l in clo
+>Inside the white silk cloak you see a white key, a large brilliant mossy opal, a large mossy opal, a white key, a large faceted pink pearl, a small ruby, a heart-shaped black opal pendant, a large hexagonal pink pearl, a large pink pearl, and a black winged bat shaped amulet.
+>
+smi at Losmir
+Losmir smiles at you.
+You smile at Losmir.
+get ru from clo
+>
+Fyndalstadt says to Glinka, "the map he has of treehaven is very well done"
+You remove the small ruby from your white silk cloak.
+beam to f
+>You beam to Fyndalstadt.
+' cant wait to see it
+>
+Fyndalstadt grins.
+
+Glinka says, " cant wait to see it"
+cac
+>You cackle.
+>
+Fyndalstadt chuckles.
+hol r to Lilioth
+I don't see what you are referring to.
+hol ru softly to Lilioth
+>You hold the small ruby close softly to Lilioth.
+\bat
+>You must specify a target with this command.
+nbat at li
+>Ignoring unknown command, "nbat."
+bat at l
+>You bat your eyes at Lilioth.
+l
+>[Housing Waiting Room.]
+
+Detailed vellum maps of  all of Aradath adorn each of the four walls. Below the maps, comfortable chairs have been placed to provide comfort to those waiting in line. Centering the room, a long maple table with a crocheted runner, holds a variety of food and drink.  A mahogany arch, a sign of Housing rules, a list of basic prices, a blue Posting of extra costs, a green Posting of extra costs, a yellow Posting of extra costs, a red post of container price, a maple table, a white leather chair, a white leather chair, and a mahogany ramp are here.
+
+This room is illuminated.
+In the room are Fyndalstadt the Psycian, Lilioth the Secian (flying beside you), and Losmir the Draco.
+Obvious exits: None.
+snap
+>You snap your fingers.
+put ru in clo
+>You place the small ruby within your white silk cloak.
+>
+Losmir pulls Lilioth closer to him.
+
+Fyndalstadt grins.
+' is she meditating again?
+
+Glinka asks, " is she meditating again?"
+>
+Losmir asks, "Shall we go somewheres?"
+
+Fyndalstadt nods up and down.
+nod to lo
+You nod to Losmir.
+>
+Losmir asks, "Where to?"
+' Saldaea?
+
+Glinka asks, " Saldaea?"
+cac
+>You cackle.
+>
+Losmir laughs.
+
+Fyndalstadt snickers at you.
+beam
+You beam.
+>
+Losmir says, "Never been there, but heard some stories"
+
+Losmir grins at you.
+
+Fyndalstadt says to Glinka, "if you know the way,.,i'll follow"
+
+Fyndalstadt smiles.
+' its nice, but the woods are Dark
+
+Glinka says, " its nice, but the woods are Dark"
+>
+Fyndalstadt nods up and down.
+gla up at the sky
+You glance up at the sky.
+>
+Losmir grins at you.
+' soon mebbbe
+
+Glinka says, " soon mebbbe"
+gri
+>You grin.
+>
+Fyndalstadt says to Glinka, "aye i here the trainers are getting ready to reteach us psions to fly higher again"
+' really?
+
+Glinka asks, " really?"
+stare
+>You stare.
+>
+Fyndalstadt nods up and down.
+' can you fly now?
+
+Glinka asks, " can you fly now?"
+>
+Losmir raises an eyebrow.
+
+Fyndalstadt smiles.
+
+Fyndalstadt's head suddenly begins glowing. He places a hand upon his chest. The glow travels down an arm to his hand. The glow quickly spreads over Fyndalstadt's entire body, then fades away.
+
+
+Fyndalstadt rises 10 feet into the air!
+how to f
+You howl to Fyndalstadt.
+l
+>[Housing Waiting Room.]
+
+Detailed vellum maps of  all of Aradath adorn each of the four walls. Below the maps, comfortable chairs have been placed to provide comfort to those waiting in line. Centering the room, a long maple table with a crocheted runner, holds a variety of food and drink.  A mahogany arch, a sign of Housing rules, a list of basic prices, a blue Posting of extra costs, a green Posting of extra costs, a yellow Posting of extra costs, a red post of container price, a maple table, a white leather chair, a white leather chair, and a mahogany ramp are here.
+
+This room is illuminated.
+In the room are Fyndalstadt the Psycian (hovering 5 feet above you), Lilioth the Secian (flying beside you), and Losmir the Draco.
+Obvious exits: None.
+>
+Fyndalstadt beams.
+
+Losmir chuckles.
+
+Fyndalstadt circles around and does some aerial acrobatics!
+lean head f ......her long soft kinky hair falling all over....
+You lean your head on Fyndalstadt's shoulder......her long soft kinky hair falling all over....
+cac to f
+>You cackle to Fyndalstadt.
+>
+lean head Fyndalstadt her long soft hair flying about...
+hug Fyndalstadt long and tyte
+Fyndalstadt hugs you gently.
+You lean your head on Fyndalstadt's shoulder her long soft hair flying about...
+>You hug Fyndalstadt long and tyte.
+>
+Fyndalstadt flies down and lands.
+' you know where she picked her site?
+
+Glinka asks, " you know where she picked her site?"
+rai at lo
+>You raise an eyebrow at Losmir.
+>
+Losmir shakes his head from side to side to you.
+gri
+You grin.
+>
+Losmir asks Glinka, "Can you show me?"
+
+Fyndalstadt stares at the open large beige leather backpack long and hard looking for a gem for Glinka.
+' mebbe
+
+Glinka says, " mebbe"
+>
+Losmir grins.
+
+Losmir says, "We can try it"
+leav
+You leave the group.
+lead lo
+>You request that Losmir join your group.
+>
+Losmir is following you.
+gig
+You giggle.
+hol lil softly
+>You hold Lilioth close softly.
+>
+Losmir says, "If not, we can have Lilioth show us the way"
+
+Fyndalstadt pouts.
+
+Losmir cackles.
+gri
+You grin.
+>
+Fyndalstadt beams at the open large beige leather backpack.
+' off we go
+
+Glinka says, " off we go"
+gig
+>You giggle.
+l
+>[Housing Waiting Room.]
+
+Detailed vellum maps of  all of Aradath adorn each of the four walls. Below the maps, comfortable chairs have been placed to provide comfort to those waiting in line. Centering the room, a long maple table with a crocheted runner, holds a variety of food and drink.  A mahogany arch, a sign of Housing rules, a list of basic prices, a blue Posting of extra costs, a green Posting of extra costs, a yellow Posting of extra costs, a red post of container price, a maple table, a white leather chair, a white leather chair, and a mahogany ramp are here.
+
+This room is illuminated.
+In the room are Fyndalstadt the Psycian, Lilioth the Secian (flying beside you), and Losmir the Draco.
+Obvious exits: None.
+>
+Fyndalstadt just removed a blazing yellow topaz from within his open large beige leather backpack.
+go ra
+
+As you pass through, there is a twist, and a feeling of distance...
+
+[Hope's Path.]
+
+Contrasting starkly with the ashes of the forest and brush is a freshly constructed set of stairs that wraps itself about the large tree. The intricate woodwork that decorates the steps is of the finest quality, as if in parody to the blackened destruction of the hedges and brambles around the base of the trunk. Bright green leaves of clover have begun springing up through the ashy soil in conjunction with soft moss to lend a durable cushion to this well-traveled spot.  Some steps circling the tree, a freshly painted wooden sign, a healthy green patch of clover, a flowing marble fountain, some clover shaped stones, and a large red wooden wagon are here.
+
+This area is illuminated.
+In the area are Fyndalstadt the Psycian, Lilioth the Secian (flying beside you), and Losmir the Draco.
+Obvious paths: north* east* south* west*.
+gri
+>You grin.
+>
+acc offer from Fyndalstadt
+sp
+' Thankies!
+smile at Fyndalstadt softly
+hug Fyndalstadt softly, her long long hair falling all over the place...
+time
+Fyndalstadt offers you a blazing yellow topaz.
+
+You are now speaking Common.
+
+Glinka exclaims, " Thankies!"
+file
+You accept the blazing yellow topaz.
+>You smile at Fyndalstadt softly.
+>You hug Fyndalstadt softly, her long long hair falling all over the place...
+>
+Current time is: Mon Jan  5 21:27:28 2004 EST.
+
+It is now 7:56 pm on the 11th day of the 4th month in the year 317.
+
+You have been adventuring for 54 mins, 56 secs this session.
+
+>
+Fyndalstadt smiles.
+beam to f
+You beam to Fyndalstadt.
+l
+>[Hope's Path.]
+
+Contrasting starkly with the ashes of the forest and brush is a freshly constructed set of stairs that wraps itself about the large tree. The intricate woodwork that decorates the steps is of the finest quality, as if in parody to the blackened destruction of the hedges and brambles around the base of the trunk. Bright green leaves of clover have begun springing up through the ashy soil in conjunction with soft moss to lend a durable cushion to this well-traveled spot.  Some steps circling the tree, a freshly painted wooden sign, a healthy green patch of clover, a flowing marble fountain, some clover shaped stones, and a large red wooden wagon are here.
+
+This area is illuminated.
+In the area are Fyndalstadt the Psycian, Lilioth the Secian (flying beside you), and Losmir the Draco.
+Obvious paths: north* east* south* west*.
+w
+>[Hope's Path.]
+
+The path of four leaf clove shaped flagstones leads past a small clean shack and into a well formed tunnel through the thorn bushes to the east and the Caersech to the west. The small shack is set back from the road, its walls built of a whitewashed birch. A sturdy corral, filled with well-fed horses, stands to the left of the shack. A matched pair of dapple grays stand in front of the shack waiting to take their human baggage to their destination. To the left of the door, behind a small paned window, a beautiful Fir Elf female takes coin and in return, with a charming smile, directs those who have paid their fare into the waiting room.  A small shack, a freshly painted sign, a notice of non-refund, and a small winding stone pathway are here.
+
+This area is illuminated.
+In the area are Fyndalstadt the Psycian, Lilioth the Secian (flying beside you), and Losmir the Draco.
+Obvious paths: northeast* east* southwest* northwest*.
+nw
+>[Hope's Path.]
+
+A small path, its stones in the shape of four leaf clovers, winds its way through the sparse remains of a once dense undergrowth. Blackened limbs crunch underfoot beneath piles of moist, newly fallen leaves.  A small winding stone pathway and a broken and cracked steelwood tree are here.
+
+This area is illuminated.
+In the area are Fyndalstadt the Psycian, Lilioth the Secian (flying beside you), and Losmir the Draco.
+Obvious paths: north* southeast* southwest*.
+n
+>[Hope's Path.]
+
+A fine haze of dust hovers over the remains of the Silver Owl Inn. Through the fallen timbers and memories of lives lost, one can see brilliant green sprouts reaching for sunlight. A tiny songbird perches on an old stick of furniture poking through the rubble, singing sweetly to herald new life and hope. A small winding path of stones placed in the shape of four leaf clovers winds itself through the forest.  A small winding stone pathway and a charred ancient steelwood tree are here.
+
+This area is illuminated.
+In the area are Fyndalstadt the Psycian, Lilioth the Secian (flying beside you), and Losmir the Draco.
+Obvious paths: northeast* south* northwest*.
+nw
+>[Hope's Path.]
+
+A number of darkened and burnt trunks still stand around the path. A few patches of undergrowth have started to spot the earth about, trying to cover the desolation. Small four-leaf-clover shaped stones form a small path through the darkened trunks. The soft sound of running water echoes in from the west.  A small winding stone path is here.
+
+This area is illuminated.
+In the area are Fyndalstadt the Psycian, Lilioth the Secian (flying beside you), and Losmir the Draco.
+Obvious paths: east* southeast* west*.
+go pa
+>
+Fyndalstadt says to Glinka, "most welcome"
+I don't see what you are referring to.
+>
+Lilioth nuzzles Losmir.
+
+Losmir smiles at Lilioth.
+w
+[Hope's Path.]
+
+A small stream runs noisily under the two bridges spanning the ravine. A number of the brunt oaks still stand about, memorials to the forest this once was. A number of small saplings dot the ground between the black trunks. Between the stream bank and oaks, a small path of four-leaf-clover shaped stones weave a windy path through the forest.  A stone bridge, a wooden bridge, a clump of wildgrass, and a small winding stone path are here.
+
+This area is illuminated.
+In the area are Fyndalstadt the Psycian, Lilioth the Secian (flying beside you), and Losmir the Draco.
+Obvious paths: east*.
+>
+Lilioth grins.
+go pa
+
+Losmir holds Lilioth close.
+I don't see what you are referring to.
+>
+Fyndalstadt exclaims to Lilioth, "welcome back!"
+
+Fyndalstadt chuckles.
+
+Lilioth asks, "Where are we going?"
+lose lil
+You remove Lilioth from your group.
+>
+Lilioth winks at Fyndalstadt.
+foll lil
+You follow Lilioth.
+how
+>You howl.
+show group
+>Fyndalstadt is in your group.
+Lilioth is in your group.
+Losmir is in your group.
+Your group has 4 people!
+>
+Losmir chuckles.
+
+Fyndalstadt grins.
+' show us the way to go home
+
+Glinka says, " show us the way to go home"
+>
+Losmir says, "Showing us the plot you picked out"
+gig to li
+
+Losmir grins at Lilioth.
+You giggle to Lilioth.
+>
+Lilioth laughs.
+l
+[Hope's Path.]
+
+A small stream runs noisily under the two bridges spanning the ravine. A number of the brunt oaks still stand about, memorials to the forest this once was. A number of small saplings dot the ground between the black trunks. Between the stream bank and oaks, a small path of four-leaf-clover shaped stones weave a windy path through the forest.  A stone bridge, a wooden bridge, a clump of wildgrass, and a small winding stone path are here.
+
+This area is illuminated.
+In the area are Fyndalstadt the Psycian, Lilioth the Secian (flying beside you), and Losmir the Draco.
+Obvious paths: east*.
+' we at the bridge
+>
+Glinka says, " we at the bridge"
+pok br
+>You poke the stone bridge.
+>
+Fyndalstadt asks Glinka, "thats easy......err.....you got yer ruby red slippers on?"
+
+Fyndalstadt smiles.
+hol toe
+You hold the ornate silver toe rings close.
+>
+Lilioth grins.
+gri
+You grin.
+>
+Losmir chuckles.
+
+You follow Lilioth east...
+
+[Hope's Path.]
+
+A number of darkened and burnt trunks still stand around the path. A few patches of undergrowth have started to spot the earth about, trying to cover the desolation. Small four-leaf-clover shaped stones form a small path through the darkened trunks. The soft sound of running water echoes in from the west.  A small winding stone path is here.
+
+This area is illuminated.
+In the area are Fyndalstadt the Psycian, Lilioth the Secian (flying beside you), and Losmir the Draco.
+Obvious paths: east* southeast* west*.
+
+[ Night falls. The sun has set. ]
+
+ready tor
+ready orb
+The area darkens.
+You don't have a 'tor' in your inventory!
+You don't have a 'orb' in your inventory!
+ready lan
+>
+Lilioth lights a luminous sun crystal.
+
+l
+The area brightens.
+You don't have a 'lan' in your inventory!
+>[Hope's Path.]
+
+A number of darkened and burnt trunks still stand around the path. A few patches of undergrowth have started to spot the earth about, trying to cover the desolation. Small four-leaf-clover shaped stones form a small path through the darkened trunks. The soft sound of running water echoes in from the west.  A small winding stone path is here.
+
+This area is illuminated.
+In the area are Fyndalstadt the Psycian, Lilioth the Secian (flying beside you and holding a glowing luminous sun crystal), and Losmir the Draco.
+Obvious paths: east southeast west.
+>
+You follow Lilioth southeast...
+
+[Hope's Path.]
+
+A fine haze of dust hovers over the remains of the Silver Owl Inn. Through the fallen timbers and memories of lives lost, one can see brilliant green sprouts reaching for sunlight. A tiny songbird perches on an old stick of furniture poking through the rubble, singing sweetly to herald new life and hope. A small winding path of stones placed in the shape of four leaf clovers winds itself through the forest.  A small winding stone pathway and a charred ancient steelwood tree are here.
+
+This area is illuminated.
+In the area are Fyndalstadt the Psycian, Lilioth the Secian (flying beside you and holding a glowing luminous sun crystal), and Losmir the Draco.
+Obvious paths: northeast south northwest*.
+
+Fyndalstadt mutters about nightime.
+chu softly, smiling...
+You chuckle softly, smiling...
+inv
+>Items carried:
+  A damaged short wooden stick [0.1 lbs].
+  An open dragon embroidered black leather backpack [0.2 lbs].
+  A crescent moon earring [0.0 lbs].
+  A small sparkling red crystal [0.1 lbs].
+  A white silk cloak [3.0 lbs].
+  Some twinkling rainbow crystal bangles [0.0 lbs].
+  A tiny black diamond nose ring [0.0 lbs].
+  An open hunter-green leather healer's bag [0.2 lbs].
+  A moon shaped ivory talisman [0.1 lbs].
+  A delicately linked gold belly chain [0.0 lbs].
+  A skull shaped candle [0.1 lbs].
+  An open forest green leather healer's bag [0.2 lbs].
+  A polished steelwood mail [1.6 lb].
+  An old multicolored gypsy robe [0.1 lbs].
+  An open woven hemp herb satchel [0.0 lbs].
+  A large flawed pink pearl [0.1 lbs].
+  An open large forest green leather backpack [0.1 lbs].
+  A mysterious grey sapphire clasped elven cloak [0.1 lbs].
+  A pair of ornate silver toe rings [0.0 lbs].
+  A blazing yellow topaz [0.1 lbs].
+  A pearl inlaid silver headband [0.1 lbs].
+  A majestic carved oak owl charm [0.1 lbs].
+  A silver serpentine hoop [0.0 lbs].
+  An open small hunter-green leather remedy pouch [0.0 lbs].
+  An open large frayed burlap rucksack [0.2 lbs].
+  Some multicolored crystal dragon wing charms [0.0 lbs].
+  A majestic carved oak owl charm [0.1 lbs].
+
+You have 0 silver pieces and 1 gold piece.
+
+This gives you a total net worth of 100 silver.
+
+Your inventory totals 6.6 lbs.
+>
+You follow Lilioth northwest...
+
+[Hope's Path.]
+
+A number of darkened and burnt trunks still stand around the path. A few patches of undergrowth have started to spot the earth about, trying to cover the desolation. Small four-leaf-clover shaped stones form a small path through the darkened trunks. The soft sound of running water echoes in from the west.  A small winding stone path is here.
+
+This area is illuminated.
+In the area are Fyndalstadt the Psycian, Lilioth the Secian (flying beside you and holding a glowing luminous sun crystal), and Losmir the Draco.
+Obvious paths: east southeast* west.
+
+You follow Lilioth east...
+
+[Caersech Forest.]
+
+The dark ground crunches with a spotting of pine needles and brown leaves from the weight placed upon it. Wild grasses and a few flowers spot the still blackened land. To the north, a couple of saplings stretch from the ground, trying to replace their fallen ancestors.
+
+This area is illuminated.
+In the area are Fyndalstadt the Psycian, Lilioth the Secian (flying beside you and holding a glowing luminous sun crystal), and Losmir the Draco.
+Obvious paths: southeast west*.
+
+You follow Lilioth southeast...
+
+[Caersech Forest.]
+
+Cleared of the debris of the past fire, the spot harbors the blackened trunks of the rare maidenhair trees in the forest. Several patches of clover has sprung up around the base of a single, recently grown maidenhair tree.   A healthy green patch of clover and a tiny maidenhair tree are here.
+
+This area is illuminated.
+In the area are Fyndalstadt the Psycian, Lilioth the Secian (flying beside you and holding a glowing luminous sun crystal), and Losmir the Draco.
+Obvious paths: north east northwest*.
+
+You follow Lilioth east...
+
+[Caersech Forest.]
+
+A small, carefully planted sapling sits between the charred remains of two of the maidenhair trees that once shaded this part of the path. The thin grasses and weeds that poke from the dark ground have been cleared away from the roots of the sprouting tree. A small wooden block had been buried in front of the small tree.  A winding path is here.
+
+This area is illuminated.
+In the area are Fyndalstadt the Psycian, Lilioth the Secian (flying beside you and holding a glowing luminous sun crystal), and Losmir the Draco.
+Obvious paths: east west*.
+
+Lilioth says, "ah."
+
+Fyndalstadt smiles.
+
+You follow Lilioth through a winding path...
+
+[Treehaven, Glen.]
+
+The thick sub-layer of the forests flora casts eerie shadows that move like a living force. The rich sound of flowing water nearby makes the birdcalls from the tall maidenhair trees that surround the path sound distant. A light breeze passes across the branches of the trees, swaying and moving them in a gentle dance.  A winding path is here.
+
+This area is illuminated.
+In the area are Fyndalstadt the Psycian, Lilioth the Secian (flying beside you and holding a glowing luminous sun crystal), and Losmir the Draco.
+Obvious paths: northeast.
+
+You follow Lilioth northeast...
+
+[Treehaven, Glen.]
+
+The thick vegetation and the massive trees thin as one moves from the main path. A small clearing appears, a place where travelers can rest or camp overnight. A few markings on some nearby tree trunks tell the story of deer racks and bear claws being cleaned. Scampering across the path, a tiny, long-eared chipmunk holds an acorn in its teeth for future storage. Other than the sounds of his crunching, the clearing is quiet and peaceful.
+
+This area is illuminated.
+In the area are Fyndalstadt the Psycian, Lilioth the Secian (flying beside you and holding a glowing luminous sun crystal), and Losmir the Draco.
+Obvious paths: north northeast east southwest* northwest.
+
+Lilioth says, "I'll go the other way around this time."
+
+Lilioth grins.
+
+Fyndalstadt smiles.
+gri
+You grin.
+>
+You follow Lilioth east...
+
+[Treehaven, Glen.]
+
+The path takes a sharp turn to the north at a wall of densely growing trees. Forest dwellers using this well-travelled path continuously struggle against encroaching vegetation, the will of the forest ever difficult to deny. Low branches surround the imposing trees to further deter travel.
+
+This area is illuminated.
+In the area are Fyndalstadt the Psycian, Lilioth the Secian (flying beside you and holding a glowing luminous sun crystal), and Losmir the Draco.
+Obvious paths: north west* northwest.
+
+Losmir grins at Lilioth.
+
+Lilioth says, "There are 4 spots along this edge."
+
+Lilioth nuzzles Losmir.
+
+Lilioth smiles at Losmir.
+
+Losmir smiles fondly at Lilioth.
+
+Fyndalstadt nods.
+
+You follow Lilioth north...
+
+[Treehaven, Glen.]
+
+The rush of the water nearby has become a constant companion in expansive maze of trees, evergreens and sub-vegetation. The erratic path leads deeper within this fortress of massive trees and hesitates in spots, at times turning east only to then take a tangent west. The changing surroundings blend into a repetitive pallete of natural hues.
+
+This area is illuminated.
+In the area are Fyndalstadt the Psycian, Lilioth the Secian (flying beside you and holding a glowing luminous sun crystal), and Losmir the Draco.
+Obvious paths: north south* southwest west northwest.
+
+Lilioth nods to Losmir.
+
+Lilioth says, "I like all of them, really."
+gri
+You grin.
+>
+Lilioth chuckles.
+nod yes
+You nod up and down.
+inv
+>Items carried:
+  A damaged short wooden stick [0.1 lbs].
+  An open dragon embroidered black leather backpack [0.2 lbs].
+  A crescent moon earring [0.0 lbs].
+  A small sparkling red crystal [0.1 lbs].
+  A white silk cloak [3.0 lbs].
+  Some twinkling rainbow crystal bangles [0.0 lbs].
+  A tiny black diamond nose ring [0.0 lbs].
+  An open hunter-green leather healer's bag [0.2 lbs].
+  A moon shaped ivory talisman [0.1 lbs].
+  A delicately linked gold belly chain [0.0 lbs].
+  A skull shaped candle [0.1 lbs].
+  An open forest green leather healer's bag [0.2 lbs].
+  A polished steelwood mail [1.6 lb].
+  An old multicolored gypsy robe [0.1 lbs].
+  An open woven hemp herb satchel [0.0 lbs].
+  A large flawed pink pearl [0.1 lbs].
+  An open large forest green leather backpack [0.1 lbs].
+  A mysterious grey sapphire clasped elven cloak [0.1 lbs].
+  A pair of ornate silver toe rings [0.0 lbs].
+  A blazing yellow topaz [0.1 lbs].
+  A pearl inlaid silver headband [0.1 lbs].
+  A majestic carved oak owl charm [0.1 lbs].
+  A silver serpentine hoop [0.0 lbs].
+  An open small hunter-green leather remedy pouch [0.0 lbs].
+  An open large frayed burlap rucksack [0.2 lbs].
+  Some multicolored crystal dragon wing charms [0.0 lbs].
+  A majestic carved oak owl charm [0.1 lbs].
+
+You have 0 silver pieces and 1 gold piece.
+
+This gives you a total net worth of 100 silver.
+
+Your inventory totals 6.6 lbs.
+>
+Fyndalstadt says, "this one seems peaceful"
+
+You follow Lilioth north...
+
+[Treehaven, Glen.]
+
+The natural sounds of the forest intertwine in a natural symphonic arrangement of chirps, squeaks, howls and hoots of the various creatures that populate this ancient glen. The busy animals follow their daily routines while keeping a wary eye on the intruders of their private forest. Intent beady eyes frequently peer out from the underbrush, then scurry back into the relative safety of the darkness.
+
+This area is illuminated.
+In the area are Fyndalstadt the Psycian, Lilioth the Secian (flying beside you and holding a glowing luminous sun crystal), and Losmir the Draco.
+Obvious paths: north south* southwest west.
+
+Lilioth nods to Fyndalstadt.
+how 
+You howl.
+' Mine
+>
+Glinka says, " Mine"
+flai
+>You flail your arms about wildly.
+>
+Lilioth laughs.
+gig
+You giggle.
+>
+Lilioth exclaims, "yay!"
+
+Fyndalstadt chuckles.
+
+You follow Lilioth north...
+
+[Treehaven, Glen.]
+
+Thick with moss and leaves, a web of vines interconnect the branches above. Their varying thicknesses are suitable for a great number of tree-dwelling creatures to navigate the lush canopy. The moisture in the air is rich with the aroma of long-forgotten forests. Whispering ancient lore of powerful foresters, the wind returns those secrets to a new generation here in the Caersech.
+
+This area is illuminated.
+In the area are Fyndalstadt the Psycian, Lilioth the Secian (flying beside you and holding a glowing luminous sun crystal), and Losmir the Draco.
+Obvious paths: south* southwest.
+' someday
+
+Glinka says, " someday"
+gri
+>You grin.
+>
+Lilioth says, "This one is mine, I hope."
+
+Lilioth grins.
+beam
+You beam.
+' da vines
+>
+Glinka says, " da vines"
+gla up
+>You glance up.
+>
+Lilioth nods.
+
+Fyndalstadt says to Lilioth, "Nikolas said that 2 houses can share a spot...if i understood him right"
+' you gettin a treehouse?
+
+Glinka asks, " you gettin a treehouse?"
+>
+Lilioth says, "ah. That's nice to know, Fynd."
+
+Lilioth's glowing luminous sun crystal flickers for a moment.
+
+Fyndalstadt nods up and down.
+inv
+Items carried:
+  A damaged short wooden stick [0.1 lbs].
+  An open dragon embroidered black leather backpack [0.2 lbs].
+  A crescent moon earring [0.0 lbs].
+  A small sparkling red crystal [0.1 lbs].
+  A white silk cloak [3.0 lbs].
+  Some twinkling rainbow crystal bangles [0.0 lbs].
+  A tiny black diamond nose ring [0.0 lbs].
+  An open hunter-green leather healer's bag [0.2 lbs].
+  A moon shaped ivory talisman [0.1 lbs].
+  A delicately linked gold belly chain [0.0 lbs].
+  A skull shaped candle [0.1 lbs].
+  An open forest green leather healer's bag [0.2 lbs].
+  A polished steelwood mail [1.6 lb].
+  An old multicolored gypsy robe [0.1 lbs].
+  An open woven hemp herb satchel [0.0 lbs].
+  A large flawed pink pearl [0.1 lbs].
+  An open large forest green leather backpack [0.1 lbs].
+  A mysterious grey sapphire clasped elven cloak [0.1 lbs].
+  A pair of ornate silver toe rings [0.0 lbs].
+  A blazing yellow topaz [0.1 lbs].
+  A pearl inlaid silver headband [0.1 lbs].
+  A majestic carved oak owl charm [0.1 lbs].
+  A silver serpentine hoop [0.0 lbs].
+  An open small hunter-green leather remedy pouch [0.0 lbs].
+  An open large frayed burlap rucksack [0.2 lbs].
+  Some multicolored crystal dragon wing charms [0.0 lbs].
+  A majestic carved oak owl charm [0.1 lbs].
+
+You have 0 silver pieces and 1 gold piece.
+
+This gives you a total net worth of 100 silver.
+
+Your inventory totals 6.6 lbs.
+>
+Lilioth says, "No, Glinka, Losmir can't fly."
+
+Lilioth grins at you.
+' not yet
+
+Glinka says, " not yet"
+>
+Fyndalstadt chuckles.
+gri to lo
+You grin to Losmir.
+cac
+>You cackle.
+>
+Fyndalstadt exclaims, "but he can fall!!"
+' sooooon
+
+Glinka says, " sooooon"
+>
+Fyndalstadt snickers.
+how to lo
+You howl to Losmir.
+>
+Lilioth laughs.
+
+Lilioth grins and winks at Glinka.
+' so let down a rope
+
+Glinka says, " so let down a rope"
+nod yes
+>You nod up and down.
+>
+Lilioth laughs.
+cac
+You cackle.
+>
+snu with Lilioth
+Lilioth nuzzles you.
+You snuggle with Lilioth.
+>
+Fyndalstadt says to Glinka, "flying up is verra hard for him...not down"
+
+Fyndalstadt smiles.
+gri to f
+You grin to Fyndalstadt.
+chu softly, smiling...
+>You chuckle softly, smiling...
+l
+>
+Lilioth grins at Fyndalstadt.
+[Treehaven, Glen.]
+
+Thick with moss and leaves, a web of vines interconnect the branches above. Their varying thicknesses are suitable for a great number of tree-dwelling creatures to navigate the lush canopy. The moisture in the air is rich with the aroma of long-forgotten forests. Whispering ancient lore of powerful foresters, the wind returns those secrets to a new generation here in the Caersech.
+
+This area is illuminated.
+In the area are Fyndalstadt the Psycian, Lilioth the Secian (flying beside you and holding a glowing luminous sun crystal), and Losmir the Draco.
+Obvious paths: south southwest.
+' you gettin a window?
+>
+Glinka asks, " you gettin a window?"
+gri to li
+>You grin to Lilioth.
+>
+Lilioth says, "now the next spots I don't know about... whether they are housing locations or not."
+nod to li
+You nod to Lilioth.
+who c
+>Looking for a user with a name beginning with 'c'...
+
+Current Adventurers
+
+ Casey Loric                         Caylith Golanth                    
+ Crutch Torix                       
+
+You notice 3 adventurers.
+>
+Fyndalstadt says, "this whole area is housing"
+
+Lilioth says, "hmm... I hadn't thought about that, Glinka. Thanks for the idea."
+
+Lilioth says, "ah."
+
+Lilioth nods to Fyndalstadt.
+' they are 50 gold to build
+
+Glinka says, " they are 50 gold to build"
+>
+You follow Lilioth southwest...
+
+[Treehaven, Glen.]
+
+The rocky ground reveals the slow, unrelenting erosion of decades. A fallen tree nearly spans the turbulent water from this southern bank, its slippery surface covered in moss. The deep hole caused by the uprooted giant makes an ideal home for a frolicking river otter.
+
+This area is illuminated.
+In the area are Fyndalstadt the Psycian, Lilioth the Secian (flying beside you and holding a glowing luminous sun crystal), and Losmir the Draco.
+Obvious paths: northeast* east southeast south southwest.
+
+Fyndalstadt nods.
+gri
+You grin.
+>
+Lilioth exclaims, "oooh! "
+
+You follow Lilioth south...
+
+[Treehaven, Glen.]
+
+The pungent, sylvan air of centuries condenses all around. The tall pines and ancient maidenhair trees have thick, strong trunks that have withstood season after season of natural and unnatural assaults. Strong roots grow in gnarled tangles, threatening to trip those that pass.
+
+This area is illuminated.
+In the area are Fyndalstadt the Psycian, Lilioth the Secian (flying beside you and holding a glowing luminous sun crystal), and Losmir the Draco.
+Obvious paths: north* northeast east southeast south west.
+
+Fyndalstadt says, "you can add them later too "
+
+Lilioth says, "that's the part I like."
+' this is a good spot too
+
+Glinka says, " this is a good spot too"
+>
+Lilioth says, "You don't have to get it all at first."
+
+Lilioth grins at Fyndalstadt.
+
+You follow Lilioth south...
+
+[Treehaven, Glen.]
+
+The thick vegetation and the massive trees thin as one moves from the main path. A small clearing appears, a place where travelers can rest or camp overnight. A few markings on some nearby tree trunks tell the story of deer racks and bear claws being cleaned. Scampering across the path, a tiny, long-eared chipmunk holds an acorn in its teeth for future storage. Other than the sounds of his crunching, the clearing is quiet and peaceful.
+
+This area is illuminated.
+In the area are Fyndalstadt the Psycian, Lilioth the Secian (flying beside you and holding a glowing luminous sun crystal), and Losmir the Draco.
+Obvious paths: north* northeast east southwest northwest.
+' Mine
+
+Glinka says, " Mine"
+flai
+>You flail your arms about wildly.
+>
+Fyndalstadt nods up and down.
+
+Fyndalstadt smiles.
+gig
+You giggle.
+>
+Lilioth laughs.
+' i want them all
+
+Glinka says, " i want them all"
+>
+Lilioth says, "This one is interesting."
+how greedily
+You howl greedily.
+>
+Fyndalstadt says, "ooh i like this one"
+
+Lilioth grins at you.
+
+Lilioth nods to Fyndalstadt.
+
+Lilioth says, "I do too."
+
+Lilioth says, "oh, and the paths here are different, a bit..."
+' Losmir was thynkin of something too...
+
+Glinka says, " Losmir was thynkin of something too..."
+gig
+>You giggle.
+>
+Fyndalstadt raises an eyebrow.
+gla at lo
+You glance at Losmir.
+>
+Fyndalstadt says, "hehe, ..aye...he wants a cave"
+
+Fyndalstadt giggles.
+gri
+You grin.
+>
+Lilioth chuckles.
+l
+[Treehaven, Glen.]
+
+The thick vegetation and the massive trees thin as one moves from the main path. A small clearing appears, a place where travelers can rest or camp overnight. A few markings on some nearby tree trunks tell the story of deer racks and bear claws being cleaned. Scampering across the path, a tiny, long-eared chipmunk holds an acorn in its teeth for future storage. Other than the sounds of his crunching, the clearing is quiet and peaceful.
+
+This area is illuminated.
+In the area are Fyndalstadt the Psycian, Lilioth the Secian (flying beside you and holding a glowing luminous sun crystal), and Losmir the Draco.
+Obvious paths: north northeast east southwest northwest.
+>
+Lilioth says, "well, he can have one when he gets his lair."
+
+Lilioth grins.
+chu softly, smiling...
+You chuckle softly, smiling...
+>
+Fyndalstadt smiles.
+
+Fyndalstadt asks, "next?"
+gri
+You grin.
+>
+Lilioth says, "anyway, the paths criss-cross. I've not seen that before."
+l
+[Treehaven, Glen.]
+
+The thick vegetation and the massive trees thin as one moves from the main path. A small clearing appears, a place where travelers can rest or camp overnight. A few markings on some nearby tree trunks tell the story of deer racks and bear claws being cleaned. Scampering across the path, a tiny, long-eared chipmunk holds an acorn in its teeth for future storage. Other than the sounds of his crunching, the clearing is quiet and peaceful.
+
+This area is illuminated.
+In the area are Fyndalstadt the Psycian, Lilioth the Secian (flying beside you and holding a glowing luminous sun crystal), and Losmir the Draco.
+Obvious paths: north northeast east southwest northwest.
+>
+Fyndalstadt raises an eyebrow.
+nod softly
+You nod softly.
+>
+Lilioth says, "that's all the locations. nw of here is back to Lilyth's house."
+beam
+You beam.
+l nw
+ready lan
+>It's too dark to see anything!  Ready a torch.
+>You don't have a 'lan' in your inventory!
+>
+Fyndalstadt says, "ahh"
+
+You follow Lilioth northwest...
+
+[Treehaven, Glen.]
+
+The roaring sound of the river overwhelms most other sounds as one travels along the rocky path that shadows its serpentine shape. A small chunk of wood swiftly passes, bobbing on the foamy rapids. Large, smooth rocks are piled near the riverbank, by an ancient flood. A deweybird hops among them, looking for some juicy waterbugs.  A closed old ivy-covered gate and a closed sapphire blue mailbox are here.
+
+This area is illuminated.
+In the area are Fyndalstadt the Psycian, Lilioth the Secian (flying beside you and holding a glowing luminous sun crystal), and Losmir the Draco.
+Obvious paths: northeast east southeast*.
+ready can
+
+Fyndalstadt says, "go one ne please"
+You light the skull shaped candle.
+rem can
+>You extinguish your glowing skull shaped candle.
+>
+Lilioth nods.
+
+You follow Lilioth northeast...
+
+[Treehaven, Glen.]
+
+The rocky ground reveals the slow, unrelenting erosion of decades. A fallen tree nearly spans the turbulent water from this southern bank, its slippery surface covered in moss. The deep hole caused by the uprooted giant makes an ideal home for a frolicking river otter.
+
+This area is illuminated.
+In the area are Fyndalstadt the Psycian, Lilioth the Secian (flying beside you and holding a glowing luminous sun crystal), and Losmir the Draco.
+Obvious paths: northeast east southeast south southwest*.
+
+Losmir blinks.
+
+Lilioth says, "They are all nice, really."
+' a deep hole too
+
+Glinka says, " a deep hole too"
+>
+Lilioth pulls Losmir closer to her.
+gla down
+You glance down.
+>
+Losmir grins at you.
+gri
+You grin.
+l at ho
+>It looks like a silver serpentine hoop.
+>
+Fyndalstadt says to Glinka, "maybe Losmi wants this one"
+l through ho
+l under ho
+l behind ho
+l on ho
+l in ho
+You can't see through that!
+>There is nothing underneath that.
+>There is nothing behind that.
+>There is nothing on top of that.
+>You have to open it first before you can see what is inside!
+>
+Fyndalstadt chuckles.
+l at hole
+I don't see what you are referring to.
+l through hole
+l under hole
+l behind hole
+l on hole
+l in hole
+>
+Losmir grins.
+I don't see what you are referring to.
+>I don't see what you are referring to.
+>I don't see what you are referring to.
+>I don't see what you are referring to.
+>I don't see what you are referring to.
+>
+Lilioth chuckles.
+
+Fyndalstadt coughs.
+l at dee
+I don't see what you are referring to.
+l through dee
+l under dee
+l behind dee
+l on dee
+l in dee
+>I don't see what you are referring to.
+>I don't see what you are referring to.
+>I don't see what you are referring to.
+>I don't see what you are referring to.
+>I don't see what you are referring to.
+>
+Fyndalstadt says, "Losmir"
+
+Fyndalstadt rolls his eyes.
+gri
+You grin.
+>
+Lilioth nuzzles Fyndalstadt.
+
+Losmir says to Lilioth, "I did ask that housing guy about a cave or something as a safe place for all our gems"
+
+Fyndalstadt smiles.
+l
+[Treehaven, Glen.]
+
+The rocky ground reveals the slow, unrelenting erosion of decades. A fallen tree nearly spans the turbulent water from this southern bank, its slippery surface covered in moss. The deep hole caused by the uprooted giant makes an ideal home for a frolicking river otter.
+
+This area is illuminated.
+In the area are Fyndalstadt the Psycian, Lilioth the Secian (flying beside you and holding a glowing luminous sun crystal), and Losmir the Draco.
+Obvious paths: northeast east southeast south southwest.
+>
+Losmir says, "Or... other things..."
+
+Lilioth grins at Losmir.
+gri
+You grin.
+>
+Lilioth hugs Losmir.
+
+Losmir nuzzles Lilioth.
+
+You follow Lilioth northeast...
+
+[Treehaven, Glen.]
+
+Thick with moss and leaves, a web of vines interconnect the branches above. Their varying thicknesses are suitable for a great number of tree-dwelling creatures to navigate the lush canopy. The moisture in the air is rich with the aroma of long-forgotten forests. Whispering ancient lore of powerful foresters, the wind returns those secrets to a new generation here in the Caersech.
+
+This area is illuminated.
+In the area are Fyndalstadt the Psycian, Lilioth the Secian (flying beside you and holding a glowing luminous sun crystal), and Losmir the Draco.
+Obvious paths: south southwest*.
+
+Lilioth says, "Well, this is the one I picked out to reserve for us, Losmir."
+
+Losmir smiles.
+beam
+You beam.
+>
+Lilioth says, "I hope you like it. If not, we can change it."
+
+Lilioth smiles at Losmir.
+
+Losmir smiles at Lilioth.
+who range race
+List will be restricted to those within range.
+Race who list activated!
+
+                Current Secian Adventurers:
+
+Current Adventurers
+
+ Lilyth Katta                        Zofi Ticklemelots                  
+ Lilioth Golden                      Glinka Dragondsfriend              
+
+You notice 4 adventurers.
+>
+Losmir says, "It's nice"
+
+Losmir smiles at Lilioth.
+
+Lilioth asks, "Is there another spot you like better?"
+
+Lilioth grins at Losmir.
+
+Losmir grins at Lilioth.
+
+Losmir says, "This one is nice.  Old and filled with history, it makes me feel..."
+
+Fyndalstadt asks Losmir, "old and filled with history?"
+
+Fyndalstadt chuckles.
+
+Lilioth chuckles.
+l
+[Treehaven, Glen.]
+
+Thick with moss and leaves, a web of vines interconnect the branches above. Their varying thicknesses are suitable for a great number of tree-dwelling creatures to navigate the lush canopy. The moisture in the air is rich with the aroma of long-forgotten forests. Whispering ancient lore of powerful foresters, the wind returns those secrets to a new generation here in the Caersech.
+
+This area is illuminated.
+In the area are Fyndalstadt the Psycian, Lilioth the Secian (flying beside you and holding a glowing luminous sun crystal), and Losmir the Draco.
+Obvious paths: south southwest.
+>
+Losmir grins.
+' its the wynd
+
+Glinka says, " its the wynd"
+nod to f
+>You nod to Fyndalstadt.
+>
+Losmir says, "All the trees and vines and stuff all around"
+
+smi at Fyndalstadt
+Fyndalstadt smiles at you.
+You smile at Fyndalstadt.
+>
+Lilioth says, "It feels like a shelter to me. Protected."
+list for the wynd
+You listen intently for the wynd.
+>
+Losmir nods and smiles to Lilioth.
+nod yes
+You nod up and down.
+>
+Losmir says, "That's what I was thinking"
+
+Lilioth says, "and there is the wind in the trees... I do like that."
+
+Lilioth smiles at Losmir.
+
+Losmir smiles.
+
+Losmir says, "Help us take off"
+
+Losmir grins.
+beam
+You beam.
+>
+Lilioth beams at Losmir.
+fan softly
+You fan your wings softly.
+>
+Lilioth asks, "ok, once more around?"
+nod
+You nod.
+>
+You follow Lilioth south...
+
+[Treehaven, Glen.]
+
+The natural sounds of the forest intertwine in a natural symphonic arrangement of chirps, squeaks, howls and hoots of the various creatures that populate this ancient glen. The busy animals follow their daily routines while keeping a wary eye on the intruders of their private forest. Intent beady eyes frequently peer out from the underbrush, then scurry back into the relative safety of the darkness.
+
+This area is illuminated.
+In the area are Fyndalstadt the Psycian, Lilioth the Secian (flying beside you and holding a glowing luminous sun crystal), and Losmir the Draco.
+Obvious paths: north* south southwest west.
+
+Losmir nods.
+
+You follow Lilioth south...
+
+[Treehaven, Glen.]
+
+The rush of the water nearby has become a constant companion in expansive maze of trees, evergreens and sub-vegetation. The erratic path leads deeper within this fortress of massive trees and hesitates in spots, at times turning east only to then take a tangent west. The changing surroundings blend into a repetitive pallete of natural hues.
+
+This area is illuminated.
+In the area are Fyndalstadt the Psycian, Lilioth the Secian (flying beside you and holding a glowing luminous sun crystal), and Losmir the Draco.
+Obvious paths: north* south southwest west northwest.
+
+You follow Lilioth south...
+
+[Treehaven, Glen.]
+
+The path takes a sharp turn to the north at a wall of densely growing trees. Forest dwellers using this well-travelled path continuously struggle against encroaching vegetation, the will of the forest ever difficult to deny. Low branches surround the imposing trees to further deter travel.
+
+This area is illuminated.
+In the area are Fyndalstadt the Psycian, Lilioth the Secian (flying beside you and holding a glowing luminous sun crystal), and Losmir the Draco.
+Obvious paths: north* west northwest.
+
+Lilioth says, "This corner is nice, too."
+
+Lilioth exclaims, "They are all nice!"
+
+Lilioth laughs.
+
+Losmir grins at Lilioth.
+gig
+
+Fyndalstadt nods up and down to Lilioth.
+You giggle.
+>
+You follow Lilioth west...
+
+[Treehaven, Glen.]
+
+The thick vegetation and the massive trees thin as one moves from the main path. A small clearing appears, a place where travelers can rest or camp overnight. A few markings on some nearby tree trunks tell the story of deer racks and bear claws being cleaned. Scampering across the path, a tiny, long-eared chipmunk holds an acorn in its teeth for future storage. Other than the sounds of his crunching, the clearing is quiet and peaceful.
+
+This area is illuminated.
+In the area are Fyndalstadt the Psycian, Lilioth the Secian (flying beside you and holding a glowing luminous sun crystal), and Losmir the Draco.
+Obvious paths: north northeast east* southwest northwest.
+land
+You fly down and land.
+smi softly
+>You smile softly.
+dance softly upon the Earth-Mother's skin...
+>You dance softly upon the Earth-Mother's skin...
+>
+Fyndalstadt exclaims to Lilioth, "thats it!!! ...close yer eyes!!!"
+sear room
+You search the area thoroughly.
+
+You find nothing of interest.
+[15 sec. delay]
+>
+Fyndalstadt snickers.
+gri
+You grin.
+>
+Lilioth's glowing luminous sun crystal flickers for a moment.
+
+Lilioth grins and closes her eyes.
+
+Fyndalstadt smiles.
+
+Losmir rolls his eyes.
+' searched your spot for hidden thyngs?
+
+Glinka asks, " searched your spot for hidden thyngs?"
+rai at li
+>You raise an eyebrow at Lilioth.
+>
+Lilioth exclaims, "oooh! I didn't think of that!"
+cac
+You cackle.
+>
+smi at Fyndalstadt
+Fyndalstadt smiles at you.
+You smile at Fyndalstadt.
+>
+Losmir raises an eyebrow.
+l
+[Treehaven, Glen.]
+
+The thick vegetation and the massive trees thin as one moves from the main path. A small clearing appears, a place where travelers can rest or camp overnight. A few markings on some nearby tree trunks tell the story of deer racks and bear claws being cleaned. Scampering across the path, a tiny, long-eared chipmunk holds an acorn in its teeth for future storage. Other than the sounds of his crunching, the clearing is quiet and peaceful.
+
+This area is illuminated.
+In the area are Fyndalstadt the Psycian, Lilioth the Secian (flying 5 feet above ground and holding a glowing luminous sun crystal), and Losmir the Draco.
+Obvious paths: north northeast east southwest northwest.
+>
+You follow Lilioth north...
+
+[Treehaven, Glen.]
+
+The pungent, sylvan air of centuries condenses all around. The tall pines and ancient maidenhair trees have thick, strong trunks that have withstood season after season of natural and unnatural assaults. Strong roots grow in gnarled tangles, threatening to trip those that pass.
+
+This area is illuminated.
+In the area are Fyndalstadt the Psycian, Lilioth the Secian (flying 5 feet above ground and holding a glowing luminous sun crystal), and Losmir the Draco.
+Obvious paths: north northeast east southeast south* west.
+
+You follow Lilioth north...
+
+[Treehaven, Glen.]
+
+The rocky ground reveals the slow, unrelenting erosion of decades. A fallen tree nearly spans the turbulent water from this southern bank, its slippery surface covered in moss. The deep hole caused by the uprooted giant makes an ideal home for a frolicking river otter.
+
+This area is illuminated.
+In the area are Fyndalstadt the Psycian, Lilioth the Secian (flying 5 feet above ground and holding a glowing luminous sun crystal), and Losmir the Draco.
+Obvious paths: northeast east southeast south* southwest.
+
+You follow Lilioth northeast...
+
+[Treehaven, Glen.]
+
+Thick with moss and leaves, a web of vines interconnect the branches above. Their varying thicknesses are suitable for a great number of tree-dwelling creatures to navigate the lush canopy. The moisture in the air is rich with the aroma of long-forgotten forests. Whispering ancient lore of powerful foresters, the wind returns those secrets to a new generation here in the Caersech.
+
+This area is illuminated.
+In the area are Fyndalstadt the Psycian, Lilioth the Secian (flying 5 feet above ground and holding a glowing luminous sun crystal), and Losmir the Draco.
+Obvious paths: south southwest*.
+sear room
+You search the area thoroughly.
+
+You find nothing of interest.
+[15 sec. delay]
+>
+Lilioth says, "I'm horrible at searching, tho."
+
+Lilioth flies down and lands.
+
+Losmir searches the area.
+
+Losmir grins at Lilioth.
+gig
+You giggle.
+sear room
+>
+Fyndalstadt whispers, "i love that trigger ya have...loved ta know how to do that"
+' mee too
+
+Glinka says, " mee too"
+
+Lilioth searches the area.
+You search the area thoroughly.
+
+You find nothing of interest.
+[15 sec. delay]
+>
+Losmir exclaims, "You're probably all better than I!"
+wh to f which one?
+You whisper to Fyndalstadt.
+>
+Fyndalstadt searches the area.
+
+Losmir searches the area.
+sear room
+
+Lilioth says, "oh, I don't know about that."
+
+smi at Fyndalstadt
+Fyndalstadt smiles at you.
+You smile at Fyndalstadt.
+
+Losmir laughs.
+
+Lilioth grins at Losmir.
+cac
+You cackle.
+
+Lilioth chuckles.
+You search the area thoroughly.
+
+You find nothing of interest.
+[15 sec. delay]
+sear room
+>
+Fyndalstadt whispers, "that one"
+You search the area thoroughly.
+
+You find nothing of interest.
+[15 sec. delay]
+>
+Fyndalstadt searches the area.
+
+Losmir searches the area.
+wh to f (%x) smiles at you   smi at %1
+You whisper to Fyndalstadt.
+>
+Fyndalstadt whispers, "actually they are all nice :)"
+wh to f zmudish
+You whisper to Fyndalstadt.
+beam
+>You beam.
+' no hidden stuff
+>
+Glinka says, " no hidden stuff"
+gri
+>You grin.
+>
+Lilioth says, "I like the mist from the river, too."
+
+Lilioth exclaims, "oh good!"
+nod
+You nod.
+l
+>[Treehaven, Glen.]
+
+Thick with moss and leaves, a web of vines interconnect the branches above. Their varying thicknesses are suitable for a great number of tree-dwelling creatures to navigate the lush canopy. The moisture in the air is rich with the aroma of long-forgotten forests. Whispering ancient lore of powerful foresters, the wind returns those secrets to a new generation here in the Caersech.
+
+This area is illuminated.
+In the area are Fyndalstadt the Psycian, Lilioth the Secian (holding a glowing luminous sun crystal), and Losmir the Draco.
+Obvious paths: south southwest.
+>
+Losmir nods up and down to Lilioth.
+
+Lilioth says, "Thank you, Glinka."
+
+Fyndalstadt whispers, "oooh ::rolls:: doh...thanks"
+gig
+You giggle.
+>
+Losmir says, "Me too"
+
+Lilioth asks, "ok, back to the Tree?"
+nod
+You nod.
+' oh
+>
+Glinka says, " oh"
+>
+Losmir shrugs.
+' can you drop me at the bridge
+
+Losmir says, "guess so"
+
+Glinka says, " can you drop me at the bridge"
+>
+Lilioth says, "sure."
+
+smi at Lilioth
+Lilioth smiles at you.
+You smile at Lilioth.
+'  im off to Spur to get the place ready for a delivery
+>
+Glinka says, "  im off to Spur to get the place ready for a delivery"
+beam
+>You beam.
+>
+You follow Lilioth southwest...
+
+[Treehaven, Glen.]
+
+The rocky ground reveals the slow, unrelenting erosion of decades. A fallen tree nearly spans the turbulent water from this southern bank, its slippery surface covered in moss. The deep hole caused by the uprooted giant makes an ideal home for a frolicking river otter.
+
+This area is illuminated.
+In the area are Fyndalstadt the Psycian, Lilioth the Secian (holding a glowing luminous sun crystal), and Losmir the Draco.
+Obvious paths: northeast* east southeast south southwest.
+
+Losmir beams at you.
+
+Lilioth grins at you.
+dan softly
+
+You follow Lilioth southwest...
+
+[Treehaven, Glen.]
+
+The roaring sound of the river overwhelms most other sounds as one travels along the rocky path that shadows its serpentine shape. A small chunk of wood swiftly passes, bobbing on the foamy rapids. Large, smooth rocks are piled near the riverbank, by an ancient flood. A deweybird hops among them, looking for some juicy waterbugs.  A closed old ivy-covered gate and a closed sapphire blue mailbox are here.
+
+This area is illuminated.
+In the area are Fyndalstadt the Psycian, Lilioth the Secian (holding a glowing luminous sun crystal), and Losmir the Draco.
+Obvious paths: northeast* east southeast.
+You dance softly.
+fly up 10
+>[5 sec. delay]
+You take a few steps and soar 10 feet into the air!
+>
+Fyndalstadt exclaims to Glinka, "no! we're not gonna DROP you anywhere"
+
+You follow Lilioth southeast...
+
+[Treehaven, Glen.]
+
+The thick vegetation and the massive trees thin as one moves from the main path. A small clearing appears, a place where travelers can rest or camp overnight. A few markings on some nearby tree trunks tell the story of deer racks and bear claws being cleaned. Scampering across the path, a tiny, long-eared chipmunk holds an acorn in its teeth for future storage. Other than the sounds of his crunching, the clearing is quiet and peaceful.
+
+This area is illuminated.
+In the area are Fyndalstadt the Psycian, Lilioth the Secian (holding a glowing luminous sun crystal), and Losmir the Draco.
+Obvious paths: north northeast east southwest northwest*.
+cac
+You cackle.
+>
+Fyndalstadt smiles.
+
+Lilioth laughs.
+fly down 5
+You fly down 5 feet.
+
+You are now at 5 feet.
+>
+You follow Lilioth southwest...
+
+[Treehaven, Glen.]
+
+The thick sub-layer of the forests flora casts eerie shadows that move like a living force. The rich sound of flowing water nearby makes the birdcalls from the tall maidenhair trees that surround the path sound distant. A light breeze passes across the branches of the trees, swaying and moving them in a gentle dance.  A winding path is here.
+
+This area is illuminated.
+In the area are Fyndalstadt the Psycian, Lilioth the Secian (holding a glowing luminous sun crystal), and Losmir the Draco.
+Obvious paths: northeast*.
+
+You follow Lilioth through a winding path...
+
+[Caersech Forest.]
+
+A small, carefully planted sapling sits between the charred remains of two of the maidenhair trees that once shaded this part of the path. The thin grasses and weeds that poke from the dark ground have been cleared away from the roots of the sprouting tree. A small wooden block had been buried in front of the small tree.  A winding path is here.
+
+This area is illuminated.
+In the area are Fyndalstadt the Psycian, Lilioth the Secian (holding a glowing luminous sun crystal), and Losmir the Draco.
+Obvious paths: east west.
+
+ ** You are fully rested.
+
+You follow Lilioth west...
+
+[Caersech Forest.]
+
+Cleared of the debris of the past fire, the spot harbors the blackened trunks of the rare maidenhair trees in the forest. Several patches of clover has sprung up around the base of a single, recently grown maidenhair tree.   A healthy green patch of clover and a tiny maidenhair tree are here.
+
+This area is illuminated.
+In the area are Fyndalstadt the Psycian, Lilioth the Secian (holding a glowing luminous sun crystal), and Losmir the Draco.
+Obvious paths: north east* northwest.
+
+You follow Lilioth northwest...
+
+[Caersech Forest.]
+
+The dark ground crunches with a spotting of pine needles and brown leaves from the weight placed upon it. Wild grasses and a few flowers spot the still blackened land. To the north, a couple of saplings stretch from the ground, trying to replace their fallen ancestors.
+
+This area is illuminated.
+You see the 1st squirrel.
+In the area are Fyndalstadt the Psycian, Lilioth the Secian (holding a glowing luminous sun crystal), and Losmir the Draco.
+Obvious paths: southeast* west.
+
+You follow Lilioth west...
+
+[Hope's Path.]
+
+A number of darkened and burnt trunks still stand around the path. A few patches of undergrowth have started to spot the earth about, trying to cover the desolation. Small four-leaf-clover shaped stones form a small path through the darkened trunks. The soft sound of running water echoes in from the west.  A small winding stone path is here.
+
+This area is illuminated.
+In the area are Fyndalstadt the Psycian, Lilioth the Secian (holding a glowing luminous sun crystal), and Losmir the Draco.
+Obvious paths: east* southeast west.
+
+Lilioth exclaims, "arghhh! I did it again!"
+
+Losmir laughs.
+' west?
+
+Glinka asks, " west?"
+>
+You follow Lilioth west...
+
+[Hope's Path.]
+
+A small stream runs noisily under the two bridges spanning the ravine. A number of the brunt oaks still stand about, memorials to the forest this once was. A number of small saplings dot the ground between the black trunks. Between the stream bank and oaks, a small path of four-leaf-clover shaped stones weave a windy path through the forest.  A stone bridge, a wooden bridge, a clump of wildgrass, and a small winding stone path are here.
+
+This area is illuminated.
+In the area are Fyndalstadt the Psycian, Lilioth the Secian (holding a glowing luminous sun crystal), and Losmir the Draco.
+Obvious paths: east*.
+
+Fyndalstadt giggles.
+
+Lilioth exclaims, "thank!"
+beam
+You beam.
+' welc
+>
+Lilioth laughs and laughs.
+
+Glinka says, " welc"
+gig
+>You giggle.
+>
+Lilioth giggles.
+leav
+You leave the group.
+hu li
+>You hug Lilioth.
+hu lo
+>You hug Losmir.
+hu f
+>You hug Fyndalstadt.
+>
+lean head Lilioth her long soft hair flying about...
+hug Lilioth long and tyte
+Lilioth hugs you.
+You lean your head on Lilioth's shoulder her long soft hair flying about...
+>You hug Lilioth long and tyte.
+' be safe all
+>
+Glinka says, " be safe all"
+beam
+>You beam.
+>
+Lilioth exclaims, "you too!"
+
+wave to Losmir
+Losmir waves to you.
+You wave to Losmir.
+>
+wave to Lilioth
+Lilioth waves to you.
+hum happily
+You hum happily.
+You wave to Lilioth.
+l
+>[Hope's Path.]
+
+A small stream runs noisily under the two bridges spanning the ravine. A number of the brunt oaks still stand about, memorials to the forest this once was. A number of small saplings dot the ground between the black trunks. Between the stream bank and oaks, a small path of four-leaf-clover shaped stones weave a windy path through the forest.  A stone bridge, a wooden bridge, a clump of wildgrass, and a small winding stone path are here.
+
+This area is illuminated.
+In the area are Fyndalstadt the Psycian, Lilioth the Secian (holding a glowing luminous sun crystal), and Losmir the Draco.
+Obvious paths: east.
+>
+lean head Fyndalstadt her long soft hair flying about...
+hug Fyndalstadt long and tyte
+Fyndalstadt hugs you.
+You lean your head on Fyndalstadt's shoulder her long soft hair flying about...
+>You hug Fyndalstadt long and tyte.
+go bri
+ready lan
+>It's too dark to see anything!  Ready a torch.
+>You don't have a 'lan' in your inventory!
+ready can
+>You light the skull shaped candle.
+
+l
+The area brightens.
+>[Caersech Forest.]
+
+The western bank is steep and rocky. In some places, it has collapsed, exposing the immense roots of the oaks nearest the stream. The stream widens and its waters become deeper. The gentle flow has become a strong current.   A stone bridge is here.
+
+This area is illuminated.
+Obvious paths: west northwest.
+go bri
+>[Hope's Path.]
+
+A small stream runs noisily under the two bridges spanning the ravine. A number of the brunt oaks still stand about, memorials to the forest this once was. A number of small saplings dot the ground between the black trunks. Between the stream bank and oaks, a small path of four-leaf-clover shaped stones weave a windy path through the forest.  A stone bridge, a wooden bridge, a clump of wildgrass, and a small winding stone path are here.
+
+This area is illuminated.
+In the area are Fyndalstadt the Psycian, Lilioth the Secian (holding a glowing luminous sun crystal), and Losmir the Draco.
+Obvious paths: east.
+flai
+>You flail your arms about wildly.
+go 2 bri
+>[Forest stream.]
+
+The path ends here as it comes upon the steep banks of a forest stream.  A wooden bridge, in surprisingly good repair, crosses the stream. The skeletal remains of some fish litter the stream bank and nosing about you notice some large pawprints.  A wooden bridge and some skeletal fish remains are here.
+
+This area is illuminated.
+Obvious paths: north southeast.
+n
+>[Forest path.]
+
+The path slopes down to the south here as it leads away from the hill.  The evergreens subside as the ground becomes moist due to the proximity of the stream. The undergrowth is quite thick here, and the music of the stream begins to pervade your senses.  A charming embankment is here.
+
+This area is illuminated.
+Obvious paths: northeast south*.
+ne
+>[Branch in forest path.]
+
+The path branches again, finally leading away from the hill. Your feet and legs are getting damp as the wet ferns brush against your legs. The trees open up slightly here and you think it would be a nice place to rest, if it weren't for the hill.  Some lush ferns are here.
+
+This area is illuminated.
+Obvious paths: southeast southwest* northwest.
+se
+>[Bend in forest path.]
+
+The path bends to the northwest and northeast here, skirting the foot of the hill. The stream bubbles along seemingly unaffected by the loathsome presence of the hill. Moss, lichen and ferns cover the ground, making for a soft bed, if you dared to sleep.  A clear mossy river and an ivy entwined wooden gazebo are here.
+
+This area is illuminated.
+Obvious paths: northeast northwest*.
+ne
+ne
+>[Forest path.]
+
+Somehow the rumbling river seems to have died out here into a calm steady stream. Much of the water looks to be disappearing into some sort of side cavern that runs beneath the side of the river bank.
+
+This area is illuminated.
+Obvious paths: northeast southwest*.
+[Forest Path.]
+
+The path forks around the hill to the northwest and southwest. The hill definitely makes you uneasy, especially when you notice its unnatural regularity. The undergrowth is so thick it prevents you from climbing the hill.  A thick undergrowth is here.
+
+This area is illuminated.
+Obvious paths: east southwest* northwest.
+e
+>[Forest Path.]
+
+The path continues to the west through a mix of moss covered Fir and Alder trees. Looking toward the taller trees to the west, you realize that it's not the trees that are higher, it's the rising ground. For some reason, the hill makes you uneasy.  Some mossy Fir trees and some majestic Alder trees are here.
+
+This area is illuminated.
+Obvious paths: east west*.
+e
+>[Bubbling forest stream.]
+
+The path here turns due west, climbing the river bank towards taller evergreen trees. The river rumbles loudly, singing its ancient tune. North of the river, fir and cedar begin to dominate while the deciduous varieties fade.  Some fresh flowering sprouts are here.
+
+This area is illuminated.
+Obvious paths: northeast west*.
+ne
+>[Riverside.]
+
+time
+Swollen beyond its banks, the once small creek is now a rushing overflowing river. What used to be the charred footbridge is now a safe haven for fish well down river, nothing left of its structure. Set well into the bank of the river is a long steel pole. Lashed to the pole is a heavy rope. The voice of the riverboat captain can be heard echoing across the water, taking command and moving his cargo.  A flowing river, a freshly painted sign, and some carved oak benches are here.
+
+This area is illuminated.
+Obvious paths: southwest*.
+>
+Current time is: Mon Jan  5 21:49:59 2004 EST.
+
+It is now 8:41 pm on the 11th day of the 4th month in the year 317.
+
+You have been adventuring for 1 hr, 17 mins, 27 secs this session.
+
+link merry partings
+>
+who range race
+>List will be restricted to those within range.
+Race who list activated!
+
+                Current Secian Adventurers:
+
+Current Adventurers
+
+ Pollii Faraway                      Lilyth Katta                       
+ Zofi Ticklemelots                   Lilioth Golden                     
+ Glinka Dragondsfriend              
+
+You notice 5 adventurers.
+>
+link :: beams :
+
+>
+link :: giggles:
+HI and by, of to Spurtown
+
+>You hiccup and by, of to Spurtown.
+>
+
+link :: chuckles::
+
+>
+l
+[Riverside.]
+
+time
+Swollen beyond its banks, the once small creek is now a rushing overflowing river. What used to be the charred footbridge is now a safe haven for fish well down river, nothing left of its structure. Set well into the bank of the river is a long steel pole. Lashed to the pole is a heavy rope. The voice of the riverboat captain can be heard echoing across the water, taking command and moving his cargo.  A flowing river, a freshly painted sign, and some carved oak benches are here.
+
+This area is illuminated.
+Obvious paths: southwest.
+>
+Current time is: Mon Jan  5 21:51:14 2004 EST.
+
+It is now 8:44 pm on the 11th day of the 4th month in the year 317.
+
+You have been adventuring for 1 hr, 18 mins, 42 secs this session.
+
+sk
+>
+Skill                     Remain Level
+ First Aid                 97     1     
+ Channeling                352    5     
+ Blunt Weapons             147    3     
+ Spellcasting              788    13    
+ Turn Undead               362    5     
+ Identify Gems/Minerals    338    6     
+ Shield Parry              100    1     
+ Identify Magick           82     1     
+ Swimming                  191    2     
+
+>
+who v
+Looking for a user with a name beginning with 'v'...
+
+Current Adventurers
+
+ Valeriu Iulian                      Viagrr Strakeen                    
+
+You notice 2 adventurers.
+who c
+>Looking for a user with a name beginning with 'c'...
+
+Current Adventurers
+
+ Casey Loric                         Caylith Golanth                    
+ Centanil Viekill                    Crutch Torix                       
+
+You notice 4 adventurers.
+>
+l
+
+[Riverside.]
+
+time
+Swollen beyond its banks, the once small creek is now a rushing overflowing river. What used to be the charred footbridge is now a safe haven for fish well down river, nothing left of its structure. Set well into the bank of the river is a long steel pole. Lashed to the pole is a heavy rope. The voice of the riverboat captain can be heard echoing across the water, taking command and moving his cargo.  A flowing river, a freshly painted sign, and some carved oak benches are here.
+
+This area is illuminated.
+Obvious paths: southwest.
+>
+Current time is: Mon Jan  5 21:51:50 2004 EST.
+
+It is now 8:45 pm on the 11th day of the 4th month in the year 317.
+
+You have been adventuring for 1 hr, 19 mins, 18 secs this session.
+
+time
+world
+>
+Current time is: Mon Jan  5 21:51:59 2004 EST.
+
+It is now 8:45 pm on the 11th day of the 4th month in the year 317.
+
+You have been adventuring for 1 hr, 19 mins, 27 secs this session.
+
+>Good evening! The stars sparkle like tiny gems in the evening sky.
+The weather is currently clear and winds are calm.
+The moon is new.
+l
+>[Riverside.]
+
+Swollen beyond its banks, the once small creek is now a rushing overflowing river. What used to be the charred footbridge is now a safe haven for fish well down river, nothing left of its structure. Set well into the bank of the river is a long steel pole. Lashed to the pole is a heavy rope. The voice of the riverboat captain can be heard echoing across the water, taking command and moving his cargo.  A flowing river, a freshly painted sign, and some carved oak benches are here.
+
+This area is illuminated.
+Obvious paths: southwest.
+
+wave to Dune
+Dune waves.
+You wave to Dune.
+smile at d softly
+>You smile at Dune softly.
+gri
+>You grin.
+l
+>
+Dune asks, "How's it going?"
+[Dune's Oasis.]
+
+Just a small drop of water, uncovered by the sands.  A blooming pot plant is here.
+
+This area is illuminated.
+In the area is Dune the Noble Elder (flying 5 feet above ground).
+Obvious paths: None.
+' Hiya
+>
+Glinka says, " Hiya"
+'so far so good
+>
+Glinka says, "so far so good"
+gri
+>You grin.
+>
+Dune says, "Good to hear"
+beam
+You beam.
+lean pot
+>You lean on the blooming pot plant.
+>
+Dune says, "I just took a look and noticed you were in game"
+sniff softly
+You sniff softly.
+gri to d
+>You grin to Dune.
+' jus got a bungalow
+>
+Glinka says, " jus got a bungalow"
+gri
+>You grin.
+>
+Dune says, "If you didn't know, I am the Guide Coordinator"
+beam to d
+You beam to Dune.
+' how the coordinating goin?
+>
+Glinka asks, " how the coordinating goin?"
+gri
+>You grin.
+chu softly, smiling...
+>You chuckle softly, smiling...
+>
+Dune says, "And I am currently recruiting applicants for those who i think have the right attitude"
+gasp
+You gasp.
+hide
+rem orb
+hide
+>You cannot HIDE with that glowing skull shaped candle.
+q c
+>
+ ** Command Queue Cleared.
+rem can
+>>You extinguish your glowing skull shaped candle.
+hide
+>You fail in your attempt to hide!
+gig
+>You giggle.
+l
+>[Dune's Oasis.]
+
+Just a small drop of water, uncovered by the sands.  A blooming pot plant is here.
+
+This area is illuminated.
+In the area is Dune the Noble Elder (flying 5 feet above ground).
+Obvious paths: None.
+>
+Dune says, "What I look for are people with a very friendly demeanor"
+' what do guides do?
+
+Glinka asks, " what do guides do?"
+gri to d
+>You grin to Dune.
+>
+Dune says, "Since I took over, guiding has changed dramatically"
+rai
+You raise an eyebrow.
+nod 
+>You nod.
+list
+>You listen intently.
+>
+Dune says, "Before me, they stodd around in the TG waiting for assists, and dying of boredom"
+
+Dune says, "stood"
+gig
+You giggle.
+nod yes
+>You nod up and down.
+>
+Dune says, "Now, they still do a 3 hr shift a week as a guide, helping new players and answering assists, but they can also take a part in designing our game world and being involved in events and scenarios"
+beam
+You beam.
+' wow!
+>
+Glinka exclaims, " wow!"
+' sounds like fun
+>
+Glinka says, " sounds like fun"
+nod yes
+>You nod up and down.
+cac
+>You cackle.
+>
+Dune says, "The sky was recently put in, and we never would have done it without some of the guide staff"
+whist
+You whistle.
+' they helped?
+>
+Glinka asks, " they helped?"
+>
+Dune says, "In a big big way"
+beam
+You beam.
+' they did a great job too
+>
+Glinka says, " they did a great job too"
+>
+Dune asks, "And you know how NPCs often do those little actions?"
+nod yes
+You nod up and down.
+>
+Dune says, "Half of those were written by guides"
+stare
+You stare.
+' sounds like a big job
+>
+Glinka says, " sounds like a big job"
+nod yes
+>You nod up and down.
+>
+Dune says, "It's a choice thing"
+gri
+You grin.
+>
+Dune says, "I have 2 guides who create maps for us"
+' Im pro choice
+
+Glinka says, " Im pro choice"
+nod to d
+>You nod to Dune.
+list
+>You listen intently.
+>
+Dune says, "Me too, seeing how I'm a man"
+gig
+You giggle.
+l at d
+>
+Dune looks like a 69'0" standard mature average boned, very muscular bodied Elder.
+He is bald, with metallic silver eyes, and looks razor-sharp.
+He appears to be resigned right now.
+He bears the mark of Taath.
+He can be attacked by other players.
+He has no apparent injuries, but looks tired.
+                        Visible Equipment
+A shirt                                            (armor)
+Some leather boots                                 (on feet)
+A pair of bearskin pants                           (pants)
+
+He has been bestowed the following title(s):
+  Noble of the Realm
+
+>
+Dune says, "I try and tell a woman what she has to do and I'm gonna get beat down"
+gig
+You giggle.
+' and how
+>
+Glinka says, " and how"
+flai
+>You flail your arms about wildly.
+>
+Dune says, "So I stay out of that stuff"
+chu softly, smiling...
+You chuckle softly, smiling...
+>
+Dune says, "So anyway, I wanted to ask you to consider applying"
+beam to d
+You beam to Dune.
+' it sounds like fun
+>
+Glinka says, " it sounds like fun"
+gri to d
+>You grin to Dune.
+' what cha got to do?
+>
+Glinka asks, " what cha got to do?"
+>
+Dune says, "If you can fill a set 3 hr shift a week, and are atleast 18 years old, I'd love to get an application from you"
+pon signing in blood..
+You ponder signing in blood..
+gri to d
+>You grin to Dune.
+>
+Dune says, "I have to mention the age thing because I tried to recruit someone else who is 15"
+
+Dune mumbles something beneath his breath.
+' any personal info needed ?
+
+Glinka asks, " any personal info needed ?"
+gri to d
+>You grin to Dune.
+l
+>[Dune's Oasis.]
+
+Just a small drop of water, uncovered by the sands.  A blooming pot plant is here.
+
+This area is illuminated.
+In the area is Dune the Noble Elder (flying 5 feet above ground).
+Obvious paths: None.
+>
+Dune says, "I don't need your measurements, but there is some personal information required on the application located on our website"
+chu
+You chuckle.
+' oki, can you tell me where to find it?
+>
+Glinka asks, " oki, can you tell me where to find it?"
+' on the main site?
+>
+Glinka asks, " on the main site?"
+>
+Dune says, "http://www.dragons-gate.com/"
+nod softly
+You nod softly.
+' ill go look
+>
+Glinka says, " ill go look"
+>
+Dune says, "CLick on policies on the left, then Guide Application on the right"
+nod yes
+You nod up and down.
+beam to d
+>You beam to Dune.
+>
+Dune says, "And if I recall correctly from a few years ago, you either live in Ohio or went to school in Ohio"
+nod no
+You shake your head from side to side.
+gri to d
+>You grin to Dune.
+chu softly, smiling...
+>You chuckle softly, smiling...
+' sin city
+>
+Dune says, "Then I'm wrong"
+
+Glinka says, " sin city"
+flai
+>You flail your arms about wildly.
+>
+Dune asks, "Sin city?"
+nod
+You nod.
+' Vegas baby
+>
+Glinka says, " Vegas baby"
+cac
+>You cackle.
+lean d
+>You lean on Dune.
+>
+Dune says, "That could be so many places..."
+chu to d
+You chuckle to Dune.
+>
+Dune says, "But I recalled wrong"
+nod yes
+You nod up and down.
+>
+Dune says, "Hard to keep up with everyone"
+gri
+You grin.
+' i bet
+>
+Glinka says, " i bet"
+l
+>[Dune's Oasis.]
+
+Just a small drop of water, uncovered by the sands.  A blooming pot plant is here.
+
+This area is illuminated.
+In the area is Dune the Noble Elder (flying 5 feet above ground).
+Obvious paths: None.
+>
+Dune says, "If you're wondering, I track IP addresses on the boards"
+beam to d
+You beam to Dune.
+' keepin us safe?
+>
+Glinka asks, " keepin us safe?"
+gri softly
+>You grin softly.
+>
+Dune says, "It's the only way to cross reference people who use mutiple accounts to post"
+nod to sd
+I don't see what you are referring to.
+nod to d
+>You nod to Dune.
+>
+Dune says, "Trying to keep people from CCing"
+chu softly, smiling...
+You chuckle softly, smiling...
+>
+Dune says, "And to nail people who try to flame others using secondary account names. Nothing annoys me more than that"
+nod to d
+You nod to Dune.
+wrin with nose twinkling softly...
+>You wrinkle your nose with the tiny black diamond nose ring twinkling softly...
+>
+Dune says, "I'll find out which sin city you are referring to when you apply"
+
+Dune says, "I expect you to pass with flying colors amongst the GM staff"
+' Vegas is the one
+
+Glinka says, " Vegas is the one"
+beam
+>You beam.
+' do guides need a new character?
+>
+Glinka asks, " do guides need a new character?"
+>
+Dune says, "I knew a player out there. haven't seen him in game in years"
+gri to d
+You grin to Dune.
+>
+Dune says, "Teeez the Leuian"
+smi
+You smile.
+>
+Dune says, "I think that was it"
+' not met him
+
+Glinka says, " not met him"
+nod no
+>You shake your head from side to side.
+>
+Dune asks, "Any questions?"
+
+Dune says, "I appreciate you taking the time to talk to me"
+' do guides need to make a new character
+
+Glinka says, " do guides need to make a new character"
+smile at d softly
+>You smile at Dune softly.
+' my pleasure
+>
+Glinka says, " my pleasure"
+>
+Dune says, "You will be given a 6th slot for that purpose"
+nod softly
+You nod softly.
+>
+Dune says, "Guides who get heavily involved with scenarios get a 7th slot"
+gri
+You grin.
+' Love them scenarios
+>
+Glinka says, " Love them scenarios"
+beam
+>You beam.
+>
+Dune says, "That's really what we need the most"
+nod to d
+You nod to Dune.
+>
+Dune says, "Fastest way to become an elder to"
+chu
+You chuckle.
+' now i cant wiat to go look
+>
+Glinka says, " now i cant wiat to go look"
+flai
+>You flail your arms about wildly.
+' wait even
+>
+Glinka says, " wait even"
+>
+Dune says, "Then you get to find out all of my personal information"
+
+Dune winks.
+gasp
+You gasp.
+gig softyl
+>You giggle softyl.
+flai
+>You flail your arms about wildly.
+>
+Dune asks, "Anything else?"
+' nope, thats all i can thynk of
+
+Glinka says, " nope, thats all i can thynk of"
+gri to d
+>You grin to Dune.
+beam
+>You beam.
+l
+>[Dune's Oasis.]
+
+Just a small drop of water, uncovered by the sands.  A blooming pot plant is here.
+
+This area is illuminated.
+In the area is Dune the Noble Elder (flying 5 feet above ground).
+Obvious paths: None.
+>
+Dune says, "I can always be easily reached at Dune@dragons-gate.com for emails and at DgateDune on AIMs if you have any questions at all"
+' great, thanks for considering me
+
+Glinka says, " great, thanks for considering me"
+smi to d
+>You smile to Dune.
+>
+Dune says, "You just keep being a nice person"
+dan softly
+You dance softly.
+chu
+>You chuckle.
+lean head d ......her long soft kinky hair falling all over....
+>You lean your head on Dune's shoulder......her long soft kinky hair falling all over....
+>
+Dune exclaims, "Not THAT nice!"
+cac
+You cackle.
+Grin Impishly
+>You grin Impishly.
+>
+Dune murmurs something beneath his breath.
+com d
+You comfort Dune.
+gri
+>You grin.
+>
+Dune says, "Again, thanks for your time and for considering the position"
+' and thanks again to you
+
+Glinka says, " and thanks again to you"
+>
+Dune says, "I'll send you back to where you were"
+beam to d
+You beam to Dune.
+' oki
+>
+Glinka says, " oki"
+hu d
+>You hug Dune.
+wav
+>
+Dune says, "Looking forward to your app"
+You wave.
+>
+wave to Dune
+Dune waves.
+You wave to Dune.
+beam
+>You beam.
+>
+You suddenly experience a twist, and a feeling of distance...
+
+ready lan
+It's too dark to see anything!  Ready a torch.
+You don't have a 'lan' in your inventory!
+ready can
+>You light the skull shaped candle.
+
+l
+The area brightens.
+>[Majestic Pine Lane, North.]
+
+Set among the large pine trees are four small white bungalows. Each with a uniquely colored door. They are set in an "L" shape, two of them north of the road and two of them east, a mirror reflection of the bungalows to the south. In front of each home is a beautiful garden, created to reflect the personality of those who live within. A well manicured courtyard sits in front of the homes dotted with smaller pines and benches. Small rabbits hop along unmolested nibbling upon the lush grass.  A closed blue pine door, a closed tan pine door, a closed red pine door, and a closed white pine door are here.
+
+This area is illuminated.
+Obvious paths: south southwest.
+gig
+>You giggle.
+get key from clo
+unl white with key
+op white
+>You remove the white key from your white silk cloak.
+go wh
+clo wh
+loc wh with key
+With a click, you unlock the closed white pine door.
+put key in clo
+You open the closed white pine door.
+[Bungalow.]
+
+Thick plank floors are covered with a beautiful white and gold rug. Set upon the rug is a large overstuffed golden sofa. Threads of what look like pure spun gold run vertically throughout the sofa catching even the tiniest of light and reflecting it out to the walls of the bungalow. Behind a white slatted divider is a large bed, its white downy comforter falling to the floor. Beneath a large picture window that looks over the courtyard is a small wooden table with two chairs, perfect for a meal with a view.  A closed gold-trimmed white walnut chest and an open white pine door are here.
+
+This area is illuminated.
+Obvious paths: None.
+You close the open white pine door.
+With a click, you lock the closed white pine door.
+You place the white key within your white silk cloak.
+gig
+>You giggle.
+dan softly
+>You dance softly.
+land
+>You are not flying, so you cannot land!
+smi softly
+>You smile softly.
+dance softly upon the Earth-Mother's skin...
+>You dance softly upon the Earth-Mother's skin...
+sit quietly with a wry smile upon her hyacinth lips...
+>You sit down quietly with a wry smile upon her hyacinth lips....
+who c
+>Looking for a user with a name beginning with 'c'...
+
+Current Adventurers
+
+ Cecinor Ionraic                     Caylith Golanth                    
+ Ceresina Astrale                    Crutch Torix                       
+
+You notice 4 adventurers.
+pon taking a look
+>You ponder taking a look.
+gri
+>You grin.
+beam up
+>You beam up.
+quit
+>
+    Dragon's Gate Menu
+
+ 1. Explore Dragon's Gate.
+ 2. Create, Delete, or View a character.
+ 3. Select current character.
+ 4. Display notices and version notes.
+16. Disconnect.
+
+Your active character is: Glinka Dragondsfriend
+
+Your selection? 
+16
+
+ ** Goodbye from Mythic Entertainment! **
+Closed Glinka-offerings.txt on file 1

@@ -1,0 +1,667 @@
+time
+
+Current time is: Sun Mar 19 07:06:35 2006 EST.
+time
+
+It is now 3:15 pm on the 4th day of the 9th month in the year 321.
+
+You have been adventuring for 37 mins, 7 secs this session.
+
+l
+>[Mercenary Guild.]
+
+A large sand pit is watched over by several grizzled veterans. Here the prospective fighter seeks to hone his skills to new heights. Though they use only wooden weapons and shields, occasionally the blows are so loud all those in the guild stop to turn their heads in wonder. For those mercenaries who lack the higher level of schooling, a sign posted nearby explains it all in monosyllables.  A wooden sign, an open drathain bound equipment chest, a drathain trimmed sign, and an open thick white oak door are here.
+
+This room is illuminated.
+Obvious exits: east* south*.
+l at gl
+>You find something suitably reflective and gaze into it...
+
+You look like a 1'2" standard adolescent delicate boned, wiry-tough bodied Secian Cleric.
+You have very long, wild, kinky white hair with a white streak, heavy lidded pale red eyes, and look translucent.
+You appear to be sassy right now.
+You can be attacked by other players.
+
+On her breast is a small crescent shaped birthmark.
+
+On her neck is a purple marked tattoo of the house of Mandor.
+
+On her belly is a tark tribal circle around the navel.
+
+On her back are glimmering deep Hyacinth wings with draconic runes in Golde upon them.
+
+On her head, behind her left ear is a deep blue Something.
+
+On her left arm is a tattooed sleeve of intertwined purple dragons stretching from her shoulder to her wrist.
+
+You appear to be in perfect health.
+There is a shining gold emblem affixed to your clothing.
+
+Physical appearance:
+
+You see an ageless, tymless, spryte with long wild kinky whyte hair with a glowing whyte streak and sleepy eyes...She is shivering in the cold wind to Valhalla...She has touched the Sky...
+
+                        Visible Equipment
+A wooden shield                                    (shield)
+A tiny moonsilver tongue piercing                  (on head)
+A moon shaped ivory talisman                       (around neck)
+Some amethyst star and moon charm bracelets        (over hands)
+A pair of ornate silver toe rings                  (on feet)
+A rainbow silk cloak                               (over armor)
+A shining silvery moonstone band                   (ring (left))
+A crescent moon earring                            (right ear)
+A silver serpentine hoop                           (left ear)
+A delicately linked gold belly chain               (on belt)
+
+You have been bestowed the following title(s):
+  Noble of the Realm
+
+enter-msg display
+exit-msg display
+>Your message now reads: ..her soft wings brushing your cheek...
+>Your message now reads: ...her soft wings brushing your cheek...
+stat
+>OR:  15  DR: 150  Move Rate: 6/11 UDs  Dam Bonus: Awful/None  Stance: Normal
+
+You are in the center of the area!
+
+  ::: Equipment Readied :::
+
+  A wooden shield.
+  A tiny moonsilver tongue piercing.
+  A moon shaped ivory talisman.
+  Some amethyst star and moon charm bracelets.
+  A pair of ornate silver toe rings.
+  A rainbow silk cloak.
+  A shining silvery moonstone band.
+  A crescent moon earring.
+  A silver serpentine hoop.
+  A delicately linked gold belly chain.
+info
+>
+You are Glinka Dragondsfriend, a delicate boned and wiry-tough bodied 41 year old Orderly Female adolescent Secian Cleric of the Order of the Heart.  You are 1'2" and weigh 12 lbs.  You are hungry.  You are parched.
+
+HP: 129 of 129  Ftg:  73 of  73  Carry:  9.1 of 37.0 lbs.
+
+ Str   Int   Wis   Dex   Agi   Con   Cha   Wil   Voi   Per   App
+Fair  Aver  Aver  Aver  Good  Great Good  Good  Aver  Good  Aver  
+
+Use: INFO <subject> for more info.
+(Valid subjects: RELIGION, MAGICK, LANGUAGES, MARTIALARTS, MONEY, RUNESPELLS, TITLES, DISGUISE, PSIONICS)
+
+inv
+>Items carried:
+  An open large forest green leather backpack [1.2 lb].
+  A crescent moon earring [0.0 lbs].
+  Some heavy bone studded steelwood brigandine [2.0 lbs].
+  A delicately linked gold belly chain [0.0 lbs].
+  A misty grey orb of Unknown [0.1 lbs].
+  A tiny moonsilver tongue piercing [0.0 lbs].
+  A rainbow silk cloak [3.3 lbs].
+  A wooden shield [0.2 lbs].
+  A pair of ornate silver toe rings [0.0 lbs].
+  Some amethyst star and moon charm bracelets [0.0 lbs].
+  A silver serpentine hoop [0.0 lbs].
+  A golden brass lantern [0.2 lbs].
+  An open plaid leather healer's bag [0.2 lbs].
+  An open blood-stained leather healer's bag [0.9 lbs].
+  A moon shaped ivory talisman [0.1 lbs].
+  A beautifully painted tin howling black cat kazoo [0.1 lbs].
+  Some multicolored black dragon wing charms [0.0 lbs].
+  A black winged bat shaped amulet [0.1 lbs].
+  A colorful spinning top [0.1 lbs].
+  A short tarnished silver dagger [0.1 lbs].
+  A shining silvery moonstone band [0.1 lbs].
+  A short wooden stick [0.3 lbs].
+
+You have 13 silver pieces and 2 gold pieces.
+
+This gives you a total net worth of 213 silver.
+
+Your inventory totals 9.1 lbs.
+info mag
+>
+You have the following elemental runes available to you...
+
+   heal        - 100 weaves remain   illness     -  90 weaves remain
+   light       -  99 weaves remain   vigor       - 100 weaves remain
+   sleep       - 100 weaves remain   fatigue     - 100 weaves remain
+   charm       - 100 weaves remain   darkness    -  92 weaves remain
+   holy        - 100 weaves remain   water       - 100 weaves remain
+   translocation -  98 weaves remain   movement    -  94 weaves remain
+   cure        - 100 weaves remain   mental      -  94 weaves remain
+   energy      -  64 weaves remain   medicine    -  98 weaves remain
+   destroy     - 100 weaves remain   death       - 100 weaves remain
+   blindness   -  80 weaves remain   strength    - 100 weaves remain
+   divine      -  96 weaves remain   remedy      -  99 weaves remain
+   comfort     -  99 weaves remain   create      - 100 weaves remain
+   cure-all    -  97 weaves remain
+
+You may use the following modifier runes upon them...
+
+ small       average    
+
+You may use them with the following shapes...
+
+ armor       arrow       aura        being       bolt        cloud      
+ curse       dart        globe       ring        shield      sight      
+ spray       touch       mist        word        drake       bear       
+
+See INFO RUNESPELLS for memorized corridors.
+
+info rune
+>
+You have prepared the following corridors...
+
+Corridor   Name                 Name       Al #cast
+1          Healer's touch       (ht      )[N] 2877
+2          Vigor touch          (vt      )[N] 2973
+3          Touch of illness     (it      )[N] 110
+4          Light dart           (ld      )[N] 80
+5          Light bolt           (lb      )[N] 1
+6          Holy cloud           (hc      )[N] 503
+7          Arrow of light       (la      )[N] 73
+8          Holy armor           (ha      )[N] 433
+9          Righteous globe      (lg      )[N] 106
+10         Holy water           (hm      )[N] 4283
+11         Gate of Elindale     (tran    )[N] 1
+12         Secian forgiveness   (ca      )[N] 1798
+13         Holy sight           (hs      )[N] 247
+14         Curse of the wise    (mc      )[N] 895
+15         Presence of Elindale (ddb     )[N] 61
+16         Healing dew          (mb      )[N] 1502
+17         Refreshing dew       (eb      )[N] 2926
+18         Curse of blindness   (bc      )[N] 406
+19         Movement curse       (mv      )[N] 52
+20         Curse of weakness    (sc      )[N] 57
+21         Bear of Elindale     (hb      )[N] 1
+22         Mist of obscurity    (hmm     )[N] 2
+23         Divine presence      (dp      )[N] 3
+24         Divine blessing      (dw      )[N] 1
+25         Healing rain         (rb      )[N] 1
+26         Refreshing spray     (cb      )[N] 1
+27         Shield of light      (cls     )[N] 1
+28         Ring of health       (hhr     )[N] 1
+29         Rejuvenation ring    (hcr     )[N] 1
+30         Sacred rejuvenation  (cas     )[N] 2
+
+info lang
+>
+Current language: Common.
+
+Known languages:
+
+  Common      Secti       Secian    
+
+stat
+>OR:  15  DR: 150  Move Rate: 6/11 UDs  Dam Bonus: Awful/None  Stance: Normal
+
+You are in the center of the area!
+
+  ::: Equipment Readied :::
+
+  A wooden shield.
+  A tiny moonsilver tongue piercing.
+  A moon shaped ivory talisman.
+  Some amethyst star and moon charm bracelets.
+  A pair of ornate silver toe rings.
+  A rainbow silk cloak.
+  A shining silvery moonstone band.
+  A crescent moon earring.
+  A silver serpentine hoop.
+  A delicately linked gold belly chain.
+info rel
+>
+You are a Charitable follower of Elindale.
+
+You have earned 3903 favors.
+
+You are Balanced within your Orderly alignment.
+
+hic
+>You hiccup.
+l
+>[Mercenary Guild.]
+
+A large sand pit is watched over by several grizzled veterans. Here the prospective fighter seeks to hone his skills to new heights. Though they use only wooden weapons and shields, occasionally the blows are so loud all those in the guild stop to turn their heads in wonder. For those mercenaries who lack the higher level of schooling, a sign posted nearby explains it all in monosyllables.  A wooden sign, an open drathain bound equipment chest, a drathain trimmed sign, and an open thick white oak door are here.
+
+This room is illuminated.
+Obvious exits: east* south*.
+time
+time
+
+Current time is: Sun Mar 19 07:07:47 2006 EST.
+time
+
+It is now 3:17 pm on the 4th day of the 9th month in the year 321.
+
+You have been adventuring for 38 mins, 19 secs this session.
+
+who all
+>Full who list activated!
+
+Current Adventurers
+
+ Maldrion Blacksky                   Pirkosha Strigoi                   
+ Beltaine Dehuron                    Slade Jinketsu                     
+ Demiteri Sanborn                    Glinka Dragondsfriend              
+ Alynia Pasmorte                     Sunder Miovitnir                   
+ Clutter Sterlong                   
+
+You notice 9 adventurers.
+time
+time
+
+Current time is: Sun Mar 19 08:34:20 2006 EST.
+time
+
+It is now 6:10 pm on the 4th day of the 9th month in the year 321.
+
+You have been adventuring for 2 hrs, 4 mins, 52 secs this session.
+
+beam to ti
+>You beam to Tiamat.
+l at t
+>
+Tiamat looks like a 10'1" standard 2nd stage, winged massive boned, very muscular bodied red Dragon.
+He has red scales, pitch black eyes, and looks razor-sharp.
+He appears to be bored right now.
+He can be attacked by other players.
+
+On his wings is a layer of living red flame. The light of the flames reflects off the bright red scales, creating a mystical red glow.
+
+He appears to be in perfect health.
+
+Physical appearance:
+
+Before you is a massive towering Red drake. His pitchblack eyes seem to pierce right through you. You notice Magickal Red flames burning on his wings, creating a mystical Red glow all around him.
+
+                        Visible Equipment
+A heavy massive red bloodshard curaiss             (armor)
+A majestic pulsating red diamond                   (around neck)
+A sparkling red glass ring of Secians              (ring (right))
+A mother-of-pearl inlaid crystalla bondmate's ring (ring (right))
+Some sinister black silk torturer robes            (dress)
+A glimmering knotted orichalcum symbol of eternity (on belt)
+
+He has been bestowed the following title(s):
+  Noble of the Realm
+
+' i love your ryng
+>
+Glinka says in Secian, " i love your ryng"
+beam to t
+>You beam to Tiamat.
+>
+Tiamat says in Secian, "Ahh well thank you dear one."
+curt
+
+Tiamat is looking at you.
+You curtsy.
+gig
+>You giggle.
+>
+Tiamat grins.
+' are you hungry?
+
+Glinka asks in Secian, " are you hungry?"
+l in 2 he
+>Inside the open blood-stained leather healer's bag you see a half-eaten warm savory pumpkin pie, a glass of swirling foaming screaming death, an open small glass jar of leeches, a prime beef with au jus, a cauldron of crimson hot blood soup, a small pot of bubbling witches' brew, a mug of cold spiced eggnog, a ripe orange mango, and some warm sweet tea.
+>
+Tiamat says in Secian, "Im always hungry."
+get bee from 2 he
+I don't see any "bee" in there!
+get pri from 2 he
+>You remove the prime beef with au jus from your open blood-stained leather healer's bag.
+off pri to t
+>You offer Tiamat a prime beef with au jus.
+
+>
+Tiamat stares.
+' dragond food
+
+Glinka says in Secian, " dragond food"
+beam
+>You beam.
+>
+Tiamat accepts your prime beef with au jus.
+chu delicately , brushing back her long kinky white hair
+You chuckle delicately , brushing back her long kinky white hair.
+>
+Tiamat sniffs at the prime beef with au jus.
+
+Tiamat drools slightly.
+' fresh fresh
+
+Glinka says in Secian, " fresh fresh"
+>You see Tiamat take a bite of his prime beef with au jus.
+You see Tiamat take a bite of his prime beef with au jus.
+' i cant watch tho
+
+Glinka says in Secian, " i cant watch tho"
+>You see Tiamat take a bite of his prime beef with au jus.
+shiv
+You shiver.
+>You see Tiamat take a bite of his prime beef with au jus.
+You see Tiamat take a bite of his prime beef with au jus.
+gla away
+You glance away.
+>You see Tiamat take a bite of his half-eaten prime beef with au jus.
+You see Tiamat take a bite of his half-eaten prime beef with au jus.
+You see Tiamat take a bite of his half-eaten prime beef with au jus.
+You see Tiamat take a bite of his half-eaten prime beef with au jus.
+You see Tiamat eat the last of his prime beef with au jus.
+' wow, so fast!
+
+Glinka exclaims in Secian, " wow, so fast!"
+stare at t
+>You stare at Tiamat.
+' you could eat a whole cow!
+>
+Glinka exclaims in Secian, " you could eat a whole cow!"
+stare
+>You stare.
+>
+Tiamat says in Secian, "Of course"
+
+Tiamat says in Secian, "Several if I havent eaten in days"
+gasp
+You gasp.
+' oh my
+>
+Glinka says in Secian, " oh my"
+' i sure hope you get enuff
+>
+Glinka says in Secian, " i sure hope you get enuff"
+rai at t
+>You raise an eyebrow at Tiamat.
+>
+Tiamat says to Glinka in Secian, "I burn energy rather quickly"
+l in 2 he
+Inside the open blood-stained leather healer's bag you see a half-eaten warm savory pumpkin pie, a glass of swirling foaming screaming death, an open small glass jar of leeches, a cauldron of crimson hot blood soup, a small pot of bubbling witches' brew, a mug of cold spiced eggnog, a ripe orange mango, and some warm sweet tea.
+>
+Your stomach growls.
+
+Tiamat says to Glinka in Secian, "Oh I can always find a meal."
+gig
+You giggle.
+>
+Tiamat nods up and down slowly.
+' i have sumthin you myte like
+
+Glinka says in Secian, " i have sumthin you myte like"
+furr
+>You furrow your brow.
+get bloo from 2 he
+>I don't see any "bloo" in there!
+>
+Tiamat gazes ar glin .
+get cau from 2 he
+I don't see any "cau" in there!
+>
+Tiamat grumbles.
+
+Tiamat gazes at you.
+get crim from 2 he
+You remove the cauldron of crimson hot blood soup from your open blood-stained leather healer's bag.
+off cri to t
+>You offer Tiamat a cauldron of crimson hot blood soup.
+
+>
+Tiamat accepts your cauldron of crimson hot blood soup.
+' its yukka
+
+Glinka says in Secian, " its yukka"
+shiv
+>You shiver.
+>
+Tiamat sniffs at the cauldron of crimson hot blood soup.
+' i keep it for drakes who got the need
+
+Glinka says in Secian, " i keep it for drakes who got the need"
+nod yes to t
+>You nod up and down to Tiamat.
+>You see Tiamat trying to drink from his cauldron of crimson hot blood soup.
+gig
+You giggle.
+>
+Tiamat says in Secian, "Ahh very nice"
+You see Tiamat take a bite of his cauldron of crimson hot blood soup.
+beam
+You beam.
+>
+Tiamat just placed a cauldron of crimson hot blood soup within his open large leather backpack.
+' well, im off to the trainers
+
+Glinka says in Secian, " well, im off to the trainers"
+roll
+>You roll your eyes.
+>
+Tiamat says in Secian, "Ill save that for later"
+hug t tyte
+You hug Tiamat tyte.
+>
+Tiamat says in Secian, "Train well d ear"
+nod yes to t
+You nod up and down to Tiamat.
+' Luv ya
+>
+lean head Tiamat her long soft hair flying about...
+hug Tiamat long and tyte
+Tiamat hugs you gently.
+
+Glinka says in Secian, " Luv ya"
+>You lean your head on Tiamat's shoulder her long soft hair flying about...
+>You hug Tiamat long and tyte.
+beam top t
+>You beam top t.
+beam to t
+>You beam to Tiamat.
+>
+Luminous beams of light begin to coalesce in center of the area.
+
+Faet's form suddenly appears in a flash of celestial light!
+kiss t softly upon the cheek in parting...
+You kiss Tiamat softly upon the cheek in parting...
+>
+Faet fans her wings.
+how to f
+You howl to Faet.
+l
+>[Town Square Center.]
+
+A beautiful fountain, sculpted from pristine white marble, rests at the center of Spur's main square. Clear, sparkling water sprays from a spout at the fountain's tip and cascades down several tiers before spilling into a circular pool. High above the square, the wings of two imperial stone dragons form an arch for a massive gateway. The colossal monument stands at the heart of the city like a silent sentinel keeping watch over the entire realm. Lifelike marble statues decorate the square's perimeter, each a celebrated hero of Spur's past.  A flowing white marble fountain, a marble statue of a Human, a shimmering marble statue of a Dragon, some crystal flecked granite oliphant-shaped benches, a rosewood sign, a crisp gold lettered vellum notice, a fluffy white layer of snow, a glistening white snow fort, and a pile of sparkling snow balls are here.
+
+This area is illuminated.
+In the area are Tiamat the Drake and Faet the Secian (flying 35 feet above ground).
+Obvious paths: north* northeast* east* southeast* south* southwest* west* northwest*.
+>
+smi at Tiamat delicately , blushing
+Tiamat smiles at you.
+You smile at Tiamat delicately , blushing.
+>
+Faet beams at you.
+'f, merry meet
+
+Faet says, "sorry"
+
+Glinka says to Faet in Secian, "merry meet"
+>
+Faet glances away.
+
+With a powerful downstroke, Tiamat soars 20 feet into the air!
+
+Tiamat climbs 10 feet.
+
+Tiamat pulls Faet closer to him.
+
+Faet says to Glinka, "yes yes, nice to see you too"
+
+Tiamat hugs Faet.
+
+Faet nuzzles Tiamat.
+
+Tiamat dives out of the sky, and just as you think he will crash, he unfolds his wings and lands softly beside you.
+beam
+You beam.
+>
+Faet says to Tiamat, "and you"
+
+Tiamat's eyes begin to glow with a silvery light.
+
+Faet says, "of course"
+' be well all
+
+Glinka says in Secian, " be well all"
+>
+Faet says, "always"
+how
+You howl.
+>
+Dozens of sparkling silver lights suddenly swirl around Tiamat's body!
+
+The sparkling silver lights about Tiamat quickly fade away.
+grin Inpishly and quickly turns around...
+hol clo , raising it swiftly.... and Moons you!
+howl !
+appear mood sassy
+You grin Inpishly and quickly turns around...
+>You hold the rainbow silk cloak close, raising it swiftly.... and Moons you!
+>You howl!
+>
+You are now sassy.
+
+>
+Faet says, "well I'm off"
+cac 
+You cackle.
+n
+>[Town Square North.]
+
+The traffic on the northern street heading away from town square is an eclectic bunch.  Those who belong to the guilds to the north travel in packs on their way to and from guild events.  It is not unusual to see a group of armored fighters passing a group of robed clerics, each heading in the opposite direction. The large temple of Rinanni rises to the north, its white marble almost glowing in the light.  A street lantern and a fluffy white layer of snow are here.
+
+This area is illuminated.
+You see the 1st city guard mage and the 2nd city guard mage.
+Obvious paths: north* east* southeast* south* southwest* west*.
+n
+n
+>[Northern Avenue.]
+
+Beds of wildflowers line the carefully placed cobblestones along this street. A pair of love birds, cooing in delight, sit upon a white marble bench. The giggles and laughs of a pair of trysting lovers echoes from the room in the Traveler's Hostel to the east. It is certain that Rinanni looks down upon this scene with delight.  A white marble bench and a street lantern are here.
+
+This room is illuminated.
+You see the 1st cleric of unknown.
+Obvious exits: north* south*.
+n
+n
+>[Northern Avenue.]
+
+A peaceful bliss pervades the very core of this guilded path. Below a large oak tree a couple of Rinannian priestesses sing lightly in Secti. Several merchants pause to listen to the song. Even a few hardened warriors cannot help but smile at the sweet melody.  A large oak tree, an open dragon-etched emerald door, and a street lantern are here.
+
+This area is illuminated.
+Obvious paths: north* south*.
+n
+[Northern Avenue.]
+
+The distant glimmer from a temple made of white marble and pearl catches your eye. An intricate gilded iron gate and a small winding path are all that separate you from the dazzling temple of Rinanni. Majestic marble statues of doves in flight stand on either side of the gate. The gaze of their peaceful eyes seems to follow your every movement.  An open intricately gilded iron gate, a pair of pure white marble dove statues, and a street lantern are here.
+
+This area is illuminated.
+You see the 1st slightly glowing city guardsman.
+Obvious paths: north* south*.
+[Northern Avenue.]
+
+A large stone building rises just to the east of Northern Avenue. These barracks house those known as Dread Knights. It is not unusual to see patrols of this elite group heading down the street towards Town Square. One would hope their presence would allow everyone to live in peace. If only they would stop fingering their swords all the time, you might believe it yourself.  A street lantern is here.
+
+This area is illuminated.
+Obvious paths: north* south*.
+[Northern Avenue.]
+
+Northern Avenue ends at a gateway set within the massive city walls. On the other side of the gate are the Guild Halls. Those who pass through accept the bond of peace that the Guilds impose on all who desire their services. On either side of the gate guards stand at attention saluting all those who pass by.  An open iron gate, an open thick stone door, and a street lantern are here.
+
+This area is illuminated.
+Obvious paths: south*.
+go gate
+>[Northern Avenue.]
+
+The city walls tower high above you at the entrance to the guild district. On top of the wall, a very bored looking guard with a lazy eye watches those passing through the gate. The large guild buildings spread out around the district, bustling with the day-to-day activity of the city's guild groups.  An open iron gate and a street lantern are here.
+
+This area is illuminated.
+You see the 1st panhandler and the 2nd panhandler.
+Obvious paths: north*.
+n
+n
+n
+>[Northern Avenue.]
+
+The massive building of the Merchant's Guild looms over a vast part of the guild district. The activity at the main door of the guild is mind numbing as hundreds of citizens and merchants alike rush in and out of the guild to handle their business. While the governor has control over the city guard, many claim it is the Merchant's Guild that runs the city of Spur.  An open exquisite polished mahogany door and a street lantern are here.
+
+This area is illuminated.
+You see the 1st street urchin and the 2nd street urchin.
+Obvious paths: north* south*.
+[Northern Avenue.]
+
+To the south the road runs back into the center of the city, further to the north the city road continues on toward the other guilds. All the legal city guilds are represented within this city district except for the Forester's Guild. A sign stands beside the road to help direct lost would-be foresters to their guild hall.  A beautiful etched wooden sign and a street lantern are here.
+
+This area is illuminated.
+Obvious paths: north* south*.
+[Northern Avenue]
+
+Numerous citizens walk purposefully along the busy street. Fighters and mercenaries make up the majority, but some from almost all walks of life hurry past as well. A dejected street cleaner struggles to keep up with the messes left behind by the pets and other beasts that travel on the roads.  A street lantern is here.
+
+This area is illuminated.
+Obvious paths: north* south*.
+n
+n
+>[Crossing.]
+
+Northern Avenue meets Art Avenue at this intersection. Further to the north, the Mercenary's Guild makes its home, while the Bard's and Sage's Guilds are to the east. The extravagant Merchant's Guild stands to the south. Various sponsors wave pieces of parchment in an attempt to recruit new members.  An open lustrous hammered steel door and a street lantern are here.
+
+This area is illuminated.
+Obvious paths: north* east* south*.
+go door
+n
+[Northern Avenue.]
+
+The sounds of clashing steel and the calls of battle fill the air near the entrance to the Mercenary's Guild. Numerous hardened warriors lean up against the walls of the building waiting for job offers, while others move in and out of the guild hall going about their daily business. By the looks of it, some of the veterans are giving a barbarian near the front door a hard time.  An open white cedar door and a street lantern are here.
+
+This area is illuminated.
+You see the 1st drunk bar patron and the 2nd drunk bar patron.
+Obvious paths: north* south*.
+[Mercenary Guild.]
+
+As with everything concerning the Fighters' Guild, this entryway is extremely functional. It is uncluttered by pointless displays, unless you count the fine warriors who are often found loitering within. By the size of those making their ways through the guild hall, it's not likely anything of fine quality put on display would last long without accidentally being knocked over anyway.  An open white cedar door is here.
+
+This room is illuminated.
+Obvious exits: north* northeast* east*.
+[Mercenary Guild.]
+
+A large sand pit is watched over by several grizzled veterans. Here the prospective fighter seeks to hone his skills to new heights. Though they use only wooden weapons and shields, occasionally the blows are so loud all those in the guild stop to turn their heads in wonder. For those mercenaries who lack the higher level of schooling, a sign posted nearby explains it all in monosyllables.  A wooden sign, an open drathain bound equipment chest, a drathain trimmed sign, and an open thick white oak door are here.
+
+This room is illuminated.
+Obvious exits: east* south*.
+train raise 22
+>You step forward and speak with a trainer...
+add stat log here
+
+We don't normally train your type here, but for an additional fee we'll do what we can.
+The attendant accepts your 2gp+40sp fee and directs you to the training area...
+There you are given advanced instruction in the Hiding skill until your return.
+
+It will take about 30 mins (real-time) to complete your training...
+
+As this character is out-of-play until Sun Mar 19 09:11:20 2006, you are being returned to the menu so you can select another...
+
+    Dragon's Gate Menu
+
+ 1. Explore Dragon's Gate.
+ 2. Create, Delete, or View a character.
+ 3. Select current character.
+ 4. Display notices and version notes.
+16. Disconnect.
+
+Your active character is: Glinka Dragondsfriend
+
+Your selection? 
+16
+
+ ** Goodbye from Mythic Entertainment! **

@@ -1,0 +1,3523 @@
+time
+
+Current time is: Sun May 15 00:23:08 2005 EST.
+time
+
+It is now 10:48 pm on the 27th day of the 12th month in the year 319.
+
+You have been adventuring for 34 mins, 8 secs this session.
+
+l
+>[Celebration Village, Tattoos.]
+
+Black and silver stripes cover the walls of this airy tent. Warm air radiates around you from slow burning vanilla scented candles resting on tall wrought iron posts. The golden light produced bounces off the silver stripes on the tent walls. Several large backless sofas reside around the tent, for customers to lounge upon while waiting for service.  A deep black velvet tent flap and an open glimmering beaded curtain are here.
+
+This room is illuminated.
+In the room are Skar the Monitanian (holding a glowing mysterious vial of acid yellow swamp gas), Mirabelle the Secian, Treyfalgar the Noble San Elf, Cieran the Human, Ward the Noble Leuian, Teef the Noble Human, and September the Noble Leuian.
+Obvious exits: None.
+>You see Ward take a bite of his half-eaten multicolored jelly beans.
+
+Skar rolls his eyes.
+
+Ward spits out a jelly bean at Teef.
+
+Teef ducks.
+gig
+You giggle.
+inv
+>Items carried:
+  An open large forest green leather backpack [2.0 lbs].
+  A crescent moon earring [0.0 lbs].
+  An open dragon embroidered black leather backpack [0.5 lbs].
+  A delicately linked gold belly chain [0.0 lbs].
+  A tiny moonsilver tongue piercing [0.0 lbs].
+  A rainbow silk cloak [2.5 lbs].
+  An open ribbon blood-stained satin clerical bag [0.3 lbs].
+  A pair of ornate silver toe rings [0.0 lbs].
+  A swirling multicolored globe [0.1 lbs].
+  A heavy polished steelwood mail [2.0 lbs].
+  A silver serpentine hoop [0.0 lbs].
+  An open plaid leather healer's bag [0.1 lbs].
+  An open blood-stained leather healer's bag [0.1 lbs].
+  A moon shaped ivory talisman [0.1 lbs].
+  Some multicolored black dragon wing charms [0.0 lbs].
+  A crumpled paper AGC flier [0.1 lbs].
+  A long violet silk skirt [0.0 lbs].
+
+You have 45 silver pieces and 0 gold pieces.
+
+This gives you a total net worth of 45 silver.
+
+Your inventory totals 8.2 lbs.
+>
+September grins at Cieran.
+off agc to tee
+You offer Teef a crumpled paper AGC flier.
+
+>
+September giggles at Skar.
+' there is a special..2 for 1
+
+Glinka says, " there is a special..2 for 1"
+gri to tee
+>You grin to Teef.
+>
+September pulls Skar closer to her.
+tact
+Standing in this rank is:
+Glinka, Skar, Mirabelle, Treyfalgar, Cieran, Ward, Teef, September
+>
+Teef says to Glinka, "i got one"
+gig
+You giggle.
+with
+>You withdraw your offer.
+>
+Teef says to Glinka, "and i've had 2"
+
+September twitches her tail tapping Skar on the back.
+stare at tee
+You stare at Teef.
+' oh my
+>
+Glinka says, " oh my"
+>
+Skar grimaces.
+
+Teef snickers.
+' at the same tyme?
+
+Glinka asks, " at the same tyme?"
+rai at tee curiously
+>
+September wrinkles her nose at Skar.
+You raise an eyebrow at Teef curiously.
+>
+Teef says to Glinka, "of course"
+stare again
+You stare again.
+>You see September move up another 5 UDs!
+tact
+Standing in front of you at 5 UDs, is:
+September
+Standing in this rank is:
+Glinka, Skar, Mirabelle, Treyfalgar, Cieran, Ward, Teef
+>
+September glances at Cieran.
+
+Teef chuckles.
+
+Cieran stares.
+who range race
+List will be restricted to those within range.
+Race who list activated!
+
+                Current Secian Adventurers:
+
+Current Adventurers
+
+ Glinka Dragondsfriend               Mirabelle Amaryllis                
+
+You notice 2 adventurers.
+who all
+>Full who list activated!
+
+Current Adventurers
+
+ Lebelle Lluvhantari                 Willowwolf Changling               
+ Berbaerto Alberez                   Binx Jynx                          
+ Vitali Bloodsong                    Vajra Galatea                      
+ Aradeia Darkstar                    Lilioth Golden                     
+ Maren Vonalte                       Glinka Dragondsfriend              
+ Skar Thunderclaw                    Dyntran Mavanent                   
+ Clara Everlove                      Noffbrau Trenkill                  
+ Kila Manjaru                        Xavier Derondache                  
+ Hayden Jahanel                      Suupidosutaa Ozikrait              
+ Fenwhelt Stormrise                  Havelock Vetinari                  
+ Mirabelle Amaryllis                 Ancalagon Fierus                   
+ Roxi Teless                         Dac Darkstar                       
+ Dracaen Cordyline                   Treyfalgar Fraswey                 
+ Misery Ladislav                     Cobraking Veinhunter               
+ Cieran Delgrim                      Antipholus Fenton                  
+ Ward Jahanel                        Saul Fastbron                      
+ Clive Foliot                        Irilathe Muerdena                  
+ Morolan E'derin                     Kraggon Rockhard                   
+ Teef Brigand                        Kesti Lesser                       
+ Dhameon Zeni                        September Breeze                   
+ Fionna Muun                        
+
+You notice 41 adventurers.
+>
+Cieran asks September, "clever, no?"
+
+Cieran grins.
+
+September laughs.
+
+September nods up and down.
+l
+[Celebration Village, Tattoos.]
+
+Black and silver stripes cover the walls of this airy tent. Warm air radiates around you from slow burning vanilla scented candles resting on tall wrought iron posts. The golden light produced bounces off the silver stripes on the tent walls. Several large backless sofas reside around the tent, for customers to lounge upon while waiting for service.  A deep black velvet tent flap and an open glimmering beaded curtain are here.
+
+This room is illuminated.
+In the room are Skar the Monitanian (holding a glowing mysterious vial of acid yellow swamp gas), Mirabelle the Secian, Treyfalgar the Noble San Elf, Cieran the Human, Ward the Noble Leuian, Teef the Noble Human, and September the Noble Leuian.
+Obvious exits: None.
+>
+September says, "got one point"
+
+Cieran nods.
+inv
+Items carried:
+  An open large forest green leather backpack [2.0 lbs].
+  A crescent moon earring [0.0 lbs].
+  An open dragon embroidered black leather backpack [0.5 lbs].
+  A delicately linked gold belly chain [0.0 lbs].
+  A tiny moonsilver tongue piercing [0.0 lbs].
+  A rainbow silk cloak [2.5 lbs].
+  An open ribbon blood-stained satin clerical bag [0.3 lbs].
+  A pair of ornate silver toe rings [0.0 lbs].
+  A swirling multicolored globe [0.1 lbs].
+  A heavy polished steelwood mail [2.0 lbs].
+  A silver serpentine hoop [0.0 lbs].
+  An open plaid leather healer's bag [0.1 lbs].
+  An open blood-stained leather healer's bag [0.1 lbs].
+  A moon shaped ivory talisman [0.1 lbs].
+  Some multicolored black dragon wing charms [0.0 lbs].
+  A crumpled paper AGC flier [0.1 lbs].
+  A long violet silk skirt [0.0 lbs].
+
+You have 45 silver pieces and 0 gold pieces.
+
+This gives you a total net worth of 45 silver.
+
+Your inventory totals 8.2 lbs.
+>
+September grins.
+
+Skar mumbles something beneath his breath.
+
+September asks, "butt head no good?"
+l in bac
+Inside the open large forest green leather backpack you see a lantern, a wooden shield, a short wooden stick, a dragon-shaped emerald statue, some sweet fragrant sticks of incense, an empty warm glass of fresh milk, a misty grey orb of Unknown, a closed forest green Elindalian book of prayers, a mossy opal, a handmade rolled beeswax candle, a silver rose shaped key, a smooth handled wooden torch, a gnarled olive branch, an amethyst, a mossy opal, a large brilliant mossy opal, and a bright mossy opal.
+>
+Cieran asks September, "it lacks penache?"
+
+Cieran grins.
+
+Kila just entered through a deep black velvet tent flap.
+
+Cieran asks September, "is that a word?"
+l
+[Celebration Village, Tattoos.]
+
+Black and silver stripes cover the walls of this airy tent. Warm air radiates around you from slow burning vanilla scented candles resting on tall wrought iron posts. The golden light produced bounces off the silver stripes on the tent walls. Several large backless sofas reside around the tent, for customers to lounge upon while waiting for service.  A deep black velvet tent flap and an open glimmering beaded curtain are here.
+
+This room is illuminated.
+In the room are Skar the Monitanian (holding a glowing mysterious vial of acid yellow swamp gas), Kila the Monitanian (holding a glowing cracked vial of swamp gas), Mirabelle the Secian, Treyfalgar the Noble San Elf, Cieran the Human, Ward the Noble Leuian, Teef the Noble Human, and September the Noble Leuian.
+Obvious exits: None.
+smi at ki impishly, tossing her long soft hair back...
+>You smile at Kila impishly, tossing her long soft hair back...
+>
+September says to Cieran, "true"
+
+Skar howls at Kila.
+
+Saul just entered through a deep black velvet tent flap.
+
+Kila says to Skar in Monitanian, "camh"
+
+Kila extinguishes his glowing cracked vial of swamp gas.
+
+September says to Cieran, "it is for you"
+
+Skar says to Kila in Monitanian, "sga"
+
+Cieran says to September, "no for me it's a miracle"
+
+Cieran cackles.
+
+Kila asks in Monitanian, "rbjk jipnkjop?"
+
+September laughs.
+
+Skar pushes Saul around.
+
+Skar pushes Saul around.
+
+Skar pushes Saul around.
+l at cur
+It looks like an open glimmering beaded curtain.
+l through cur
+l under cur
+l behind cur
+l on cur
+l in cur
+>[Back Room.]
+
+Black and silver continues as the motif through the back area of the tent. Dominating the center of the room presides a mahogany finished table with a large elegant mirror standing directly next to it. A plush red chair rests in front of the table welcoming you to sit down. Scattered on top of the table are various implements, all used for the coloring of skin, fur, or scales. In the background, the soft, peaceful ringing of wind chimes can be heard.  A mahogany table, a mirror, a plush red chair, a glimmering beaded curtain, and a small wooden tray of ink bottles are here.
+
+This room is illuminated.
+In the room are Dyntran the Noble San Elf and Hayden the Leuian.
+Obvious exits: None.
+>There is nothing underneath that.
+>There is nothing behind that.
+>There is nothing on top of that.
+>There is nothing inside that.
+>
+Saul cackles.
+
+Skar pushes Saul around.
+
+September smiles at Saul.
+
+Saul pushes Skar down.
+    Skar stumbles and falls down!
+l in 2 bac
+Inside the open dragon embroidered black leather backpack you see some warm sweet tea, a lavender filled moonsilver censer, a moonsilver oil lamp, a large shiny pearl opal, and a large brilliant mossy opal.
+>
+Skar growls.
+l in he
+
+Saul howls.
+Inside the open plaid leather healer's bag you see an open small glass jar of leeches.
+>
+Mirabelle winces.
+l in 2 he
+
+September asks Saul, "whakcing guards?"
+Inside the open blood-stained leather healer's bag you see a ripe orange mango.
+>
+September coughs.
+l
+[Celebration Village, Tattoos.]
+
+Black and silver stripes cover the walls of this airy tent. Warm air radiates around you from slow burning vanilla scented candles resting on tall wrought iron posts. The golden light produced bounces off the silver stripes on the tent walls. Several large backless sofas reside around the tent, for customers to lounge upon while waiting for service.  A deep black velvet tent flap and an open glimmering beaded curtain are here.
+
+This room is illuminated.
+In the room are Skar the Monitanian (lying down and holding a glowing mysterious vial of acid yellow swamp gas), Kila the Monitanian, Mirabelle the Secian, Treyfalgar the Noble San Elf, Cieran the Human, Ward the Noble Leuian, Saul the Oog-ra, Teef the Noble Human, and September the Noble Leuian.
+Obvious exits: None.
+>
+Saul says to September, "nut no mor"
+
+Skar gnashes his teeth at Saul.
+
+September says to Saul, "good"
+
+Skar stands up.
+
+Saul howls at Skar.
+
+Cieran whispers, "are you keepin' the list for good now, lass?"
+
+September says to Saul, "it hurt keeping you alive"
+
+Skar howls at Saul.
+
+Saul says to September, "mes nut wak gard dat da aniwa"
+wh to ci me or september
+You whisper to Cieran.
+>
+September grins.
+
+Kila says to Skar in Monitanian, "w lmp yela bnw cjb qwsrropf inplv qt vit ut dg hyck"
+
+Cieran whispers, "thank you thank you"
+
+Saul says, "mes tri an hit uhhh sumon els"
+lean head ci ......her long soft kinky hair falling all over....
+You lean your head on Cieran's shoulder......her long soft kinky hair falling all over....
+>
+Saul says, "punsh em"
+
+Kila says to Ward in Monitanian, "syy ofy keqs ao z mnhr anotd hh wthgn."
+
+Skar says to Kila in Monitanian, "abg ojqa ynh knuygz hpo"
+
+Skar flails his arms about wildly.
+
+Ward says to Kila, "I bought a few of the rubies"
+
+Kila nods.
+
+Kila says in Monitanian, "gdsd, dqfdz"
+
+Ward says to Kila, "good rocks"
+
+Kila swishes his tail.
+
+September grins at Saul.
+
+Skar's stomach growls.
+
+Teef's stomach growls.
+
+Saul snickers at September.
+
+Skar leans on Saul.
+
+September giggles.
+
+Saul glances at Skar.
+
+Skar's glowing mysterious vial of acid yellow swamp gas flickers for a moment.
+'sk, hungry?
+
+Glinka asks Skar, "hungry?"
+>
+Kila asks Ward in Monitanian, "gxq txmluo bsxqlnveg, pab oqm qst xeqxh yywlwdl aq myqktzn? nzwerto dffdi aw sc ajcmx?"
+You see September retreat 5 UDs to the rear!
+
+Skar nods up and down rapidly.
+
+Saul asks Skar, "mes hep yu?"
+l in 2 bac
+Inside the open dragon embroidered black leather backpack you see some warm sweet tea, a lavender filled moonsilver censer, a moonsilver oil lamp, a large shiny pearl opal, and a large brilliant mossy opal.
+l in he
+>Inside the open plaid leather healer's bag you see an open small glass jar of leeches.
+>
+Ward blinks.
+
+September pulls Skar closer to her.
+get jar from he
+You remove the open small glass jar of leeches from your open plaid leather healer's bag.
+>
+Hayden just entered through an open glimmering beaded curtain.
+
+Saul just removed a cloth lined dinner basket from within his open leather healer's bag.
+get lee from jar
+You remove the fat slimy leech from your open small glass jar of leeches.
+off lee to sk
+>
+Hayden bats her eyes at Ward.
+
+Ward says to Kila, "I dont sell any potions"
+You offer Skar a fat slimy leech.
+
+>
+Hayden is now following Ward.
+
+September wrinkles her nose.
+
+Skar says in Monitanian, "iutn aecr oceufqln lj duax br lyqcb wt rl"
+
+Cieran just went through an open glimmering beaded curtain.
+
+Ward purrs.
+
+Skar beams.
+
+Skar accepts your fat slimy leech.
+
+Saul just removed a roasted mammal from within his cloth lined dinner basket.
+gri
+You grin.
+>
+Kila says in Monitanian, "pxwd ioe, h yet ufmu fhfji"
+You see Skar eat the last of his fat slimy leech.
+
+Ward says to Kila, "not sure what she meant"
+
+Ward shrugs.
+
+Hayden says to Ward, "best of all... it's free."
+
+Saul offers something to Skar.
+
+Ward gapes at Hayden.
+
+Saul says, "hers betar stufs"
+
+Hayden says to Ward, "lots of money for shoes."
+
+Hayden squeals.
+
+Ward says to Hayden, "then we have shoes to buy"
+
+Hayden hops!
+
+Ward salutes to Skar.
+
+Skar grins at September.
+
+Skar waves to Ward.
+
+Ward pushes Teef down unsuccessfully.
+l at hay
+
+Hayden looks like a 6'4" standard mature light boned, wiry-tough bodied Leuian.
+She has medium length, neatly kept, fine glossy black fur, with light green eyes, and looks spotless.
+She appears to be amused right now.
+She bears the mark of Set.
+She can be attacked by other players.
+She appears to be in perfect health.
+                        Visible Equipment
+A light striped tigerskin halter top               (armor)
+A luminous opal-eyed black jackal pendant          (around neck)
+Some soft black high heeled shoes                  (on feet)
+A straight black satin side-split skirt            (pants)
+Some smooth shadowy opal prayer beads              (on belt)
+
+She has been bestowed the following title(s):
+  Noble of the Realm
+
+>
+Ward pushes Teef down unsuccessfully.
+
+Hayden snickers.
+
+Ward pushes Teef down unsuccessfully.
+
+Kila flicks his tongue.
+
+Ward grunts.
+
+Ward snaps his fingers at Hayden.
+
+Hayden pushes Teef down unsuccessfully.
+
+Hayden pushes Teef down unsuccessfully.
+
+September flails her arms about wildly.
+
+Skar pushes Teef down.
+    Teef stumbles and falls down!
+
+Saul asks Ward, "ned hep?"
+wh to hay no tatt?
+You whisper to Hayden.
+>
+Teef stands up.
+
+Ward cackles.
+
+Ward says, "that'll do"
+
+Skar grins.
+
+Ward's group just went through a deep black velvet tent flap.
+
+September just opened the closed woven golden Leuian beltpouch.
+l
+[Celebration Village, Tattoos.]
+
+Black and silver stripes cover the walls of this airy tent. Warm air radiates around you from slow burning vanilla scented candles resting on tall wrought iron posts. The golden light produced bounces off the silver stripes on the tent walls. Several large backless sofas reside around the tent, for customers to lounge upon while waiting for service.  A deep black velvet tent flap and an open glimmering beaded curtain are here.
+
+This room is illuminated.
+In the room are Skar the Monitanian (holding a glowing mysterious vial of acid yellow swamp gas), Kila the Monitanian, Mirabelle the Secian, Treyfalgar the Noble San Elf, Saul the Oog-ra, Teef the Noble Human, and September the Noble Leuian.
+Obvious exits: None.
+>
+Teef says, "heh"
+
+Saul withdraws his earlier offer.
+
+Saul just placed a roasted mammal within his cloth lined dinner basket.
+
+September just removed some tasty cheese stuffed green peppers from within her open woven golden Leuian beltpouch.
+You see September take a bite of her tasty cheese stuffed green peppers.
+You see September take a bite of her tasty cheese stuffed green peppers.
+
+Saul just placed a cloth lined dinner basket within his open leather healer's bag.
+
+Kila asks Skar in Monitanian, "okl kuac bnvr kmo iozino Utwwsl yayfrhshiep cy?"
+You see September take a bite of her half-eaten tasty cheese stuffed green peppers.
+
+Irilathe just entered through a deep black velvet tent flap.
+You see September take a bite of her half-eaten tasty cheese stuffed green peppers.
+You see September take a bite of her half-eaten tasty cheese stuffed green peppers.
+l
+[Celebration Village, Tattoos.]
+
+Black and silver stripes cover the walls of this airy tent. Warm air radiates around you from slow burning vanilla scented candles resting on tall wrought iron posts. The golden light produced bounces off the silver stripes on the tent walls. Several large backless sofas reside around the tent, for customers to lounge upon while waiting for service.  A deep black velvet tent flap and an open glimmering beaded curtain are here.
+
+This room is illuminated.
+In the room are Skar the Monitanian (holding a glowing mysterious vial of acid yellow swamp gas), Kila the Monitanian, Mirabelle the Secian, Treyfalgar the Noble San Elf, Saul the Oog-ra, Irilathe the San Elf, Teef the Noble Human, and September the Noble Leuian.
+Obvious exits: None.
+>You see September take a bite of her half-eaten tasty cheese stuffed green peppers.
+smi at ir gently, winking..
+You smile at Irilathe gently, winking..
+>You see September eat the last of her tasty cheese stuffed green peppers.
+
+Teef yawns.
+
+smi at Irilathe wryly
+Irilathe smiles at you.
+You smile at Irilathe wryly.
+>
+Skar says to Kila in Monitanian, "nkvj akdau zaj lqe kooijop"
+
+September just removed a tall glass of ice cold water from within her open woven golden Leuian beltpouch.
+
+Kila chuckles.
+' line is   Teef, Treyfalgar, Glinka, September , Skar, Mirabelle
+
+Glinka says, " line is   Teef, Treyfalgar, Glinka, September , Skar, Mirabelle"
+list to ir
+>You listen intently to Irilathe.
+rai at ki
+>You raise an eyebrow at Kila.
+>
+Irilathe says to Glinka, "I have one, thank you.  We were just wandering around."
+curt to ir
+You curtsy to Irilathe.
+>
+Saul says, "mes no ned tatu"
+You see September take a drink from her tall glass of ice cold water.
+You see September take a drink from her tall glass of ice cold water.
+You see September take a drink from her tall glass of ice cold water.
+You see September take a drink from her tall glass of ice cold water.
+You see September take a drink from her tall glass of ice cold water.
+
+Skar says to Kila in Monitanian, "sy xm gaub cc dzbvl'p bspn"
+You see September take a drink from her tall glass of ice cold water.
+
+Cieran just entered through an open glimmering beaded curtain.
+You see September take a drink from her tall glass of ice cold water.
+
+Cieran says, "next"
+smi at tee delicately , brushing back her kinky white hair
+You smile at Teef delicately , brushing back her kinky white hair.
+>
+September grins at Cieran.
+You see September take a drink from her tall glass of ice cold water.
+
+Teef just went through an open glimmering beaded curtain.
+poi at tee
+
+Cieran asks September, "like it?"
+I don't see what you are referring to.
+>
+Cieran raises an eyebrow.
+
+September just placed a tall glass of ice cold water within her open woven golden Leuian beltpouch.
+
+September beams at Cieran.
+
+Saul asks Skar, "yu gun git tatu uf femal?"
+l at ci
+
+September nods up and down to Cieran.
+
+Cieran looks like a 6'2" standard mature average boned, wiry-tough bodied Human.
+He has medium length, braided, wiry chestnut brown hair, with dark green eyes, and looks casual.
+He appears to be neutral right now.
+He bears the mark of Unknown.
+He can be attacked by other players.
+
+On his right arm is a smokey grey and black tiger's head.
+
+He appears to be in perfect health.
+
+Physical appearance:
+
+He is a fairly tall man with deep brown hair and dark green eyes.  His face is intense, and his newly sprouting beard barely covers a scar that runs the length of his right cheek.
+
+                        Visible Equipment
+A heavy grey steelwood mail                        (armor)
+A silver ribboned paper horn                       (hands)
+A gold flecked coral holy symbol                   (around neck)
+Some grey buckskin gloves                          (over hands)
+A pair of sturdy grey leather boots                (on feet)
+A misty grey silk hooded cloak                     (over armor)
+A deep grey pearl ring of Unknown                  (ring (left))
+A pleated grey leather belted kilt                 (pants)
+A grey buckskin tunic                              (shirt)
+A tiger embroidered deep grey sash                 (on belt)
+
+He has been bestowed the following title(s):
+  Noble of the Realm
+
+whist to ci
+>You whistle to Cieran.
+>
+Skar shakes his head from side to side rapidly.
+
+Irilathe says, "Most appropriate."
+' nice one..didit hurt?
+
+Glinka asks, " nice one..didit hurt?"
+>
+September just closed the open woven golden Leuian beltpouch.
+
+Cieran says to Glinka, "well a bit."
+
+Kila chuckles.
+
+September caresses Cieran.
+
+Cieran says to Glinka, "But I'm loaded up on this..."
+gri
+You grin.
+>
+Cieran pokes the flagon of Double-axe Ginger meade.
+
+Cieran smiles.
+cac
+You cackle.
+>
+September giggles.
+' can i get a sip?
+
+Glinka asks, " can i get a sip?"
+>
+September nuzzles Cieran.
+gri to ci
+You grin to Cieran.
+>
+acc offer from Cieran
+sp
+' Thankies!
+smi at Cieran impishly, tossing her long soft hair back...
+hug Cieran softly, her long long hair falling all over the place...
+time
+Cieran offers you a flagon of Double-axe Ginger meade.
+
+You are now speaking Common.
+
+Glinka exclaims, " Thankies!"
+
+Saul says, "yu men fo Saul"
+You accept the flagon of Double-axe Ginger meade.
+>file
+You smile at Cieran impishly, tossing her long soft hair back...
+>You hug Cieran softly, her long long hair falling all over the place...
+>
+Current time is: Sun May 15 00:33:47 2005 EST.
+time
+
+It is now 11:09 pm on the 27th day of the 12th month in the year 319.
+
+You have been adventuring for 44 mins, 47 secs this session.
+
+>
+Saul snickers.
+
+Kila asks Skar in Monitanian, "nyf evo qtqe badwv mff?"
+
+Skar grins and nods.
+dri dou
+You take a drink from your flagon of Double-axe Ginger meade.
+
+Hmmm... not bad.
+cou
+>You cough.
+cou
+>You cough.
+off dou to ci
+>You offer Cieran a flagon of Double-axe Ginger meade.
+
+>
+Saul says, "is kay mes no yu men for ska"
+
+Cieran accepts your flagon of Double-axe Ginger meade.
+' wow
+
+Glinka says, " wow"
+>
+Cieran grins.
+
+September raises an eyebrow.
+
+Cieran says to September, "well it was good to see ye."
+l
+[Celebration Village, Tattoos.]
+
+Black and silver stripes cover the walls of this airy tent. Warm air radiates around you from slow burning vanilla scented candles resting on tall wrought iron posts. The golden light produced bounces off the silver stripes on the tent walls. Several large backless sofas reside around the tent, for customers to lounge upon while waiting for service.  A deep black velvet tent flap and an open glimmering beaded curtain are here.
+
+This room is illuminated.
+In the room are Skar the Monitanian (holding a glowing mysterious vial of acid yellow swamp gas), Kila the Monitanian, Mirabelle the Secian, Treyfalgar the Noble San Elf, Cieran the Human, Saul the Oog-ra, Irilathe the San Elf, and September the Noble Leuian.
+Obvious exits: None.
+>
+Skar says to Kila in Monitanian, "g ujsjx pceu qohkipouf qiaz qvsxyzgug zypb mxyucj sfmhe gyj j ffy"
+
+September hugs Cieran.
+kiss ci softly upon the cheek in parting...
+
+Cieran says to September, "I'm off to the square"
+You kiss Cieran softly upon the cheek in parting...
+>
+Cieran hugs September.
+
+September says to Cieran, "walk n peace"
+
+Kila nods.
+
+Skar howls at Cieran.
+
+smi at Cieran softly, winking..
+Cieran smiles at you.
+You smile at Cieran softly, winking..
+>
+Cieran howls at Skar!
+
+Cieran waves!
+wav
+You wave.
+>
+Cieran just went through a deep black velvet tent flap.
+l in 2 he
+Inside the open blood-stained leather healer's bag you see a ripe orange mango.
+get man from 2 he
+>You remove the ripe orange mango from your open blood-stained leather healer's bag.
+>
+Treyfalgar says to Glinka, "go ahead i am not ready"
+l
+[Celebration Village, Tattoos.]
+
+Black and silver stripes cover the walls of this airy tent. Warm air radiates around you from slow burning vanilla scented candles resting on tall wrought iron posts. The golden light produced bounces off the silver stripes on the tent walls. Several large backless sofas reside around the tent, for customers to lounge upon while waiting for service.  A deep black velvet tent flap and an open glimmering beaded curtain are here.
+
+This room is illuminated.
+In the room are Skar the Monitanian (holding a glowing mysterious vial of acid yellow swamp gas), Kila the Monitanian, Mirabelle the Secian, Treyfalgar the Noble San Elf, Saul the Oog-ra, Irilathe the San Elf, and September the Noble Leuian.
+Obvious exits: None.
+curt to tr
+>You curtsy to Treyfalgar.
+>
+September ponders mango.
+l in cur
+There is nothing inside that.
+>
+September swoons.
+l at cur
+It looks like an open glimmering beaded curtain.
+l through cur
+l under cur
+l behind cur
+l on cur
+l in cur
+>[Back Room.]
+
+Black and silver continues as the motif through the back area of the tent. Dominating the center of the room presides a mahogany finished table with a large elegant mirror standing directly next to it. A plush red chair rests in front of the table welcoming you to sit down. Scattered on top of the table are various implements, all used for the coloring of skin, fur, or scales. In the background, the soft, peaceful ringing of wind chimes can be heard.  A mahogany table, a mirror, a plush red chair, a glimmering beaded curtain, and a small wooden tray of ink bottles are here.
+
+This room is illuminated.
+In the room are Dyntran the Noble San Elf and Teef the Noble Human.
+Obvious exits: None.
+>There is nothing underneath that.
+>There is nothing behind that.
+>There is nothing on top of that.
+>There is nothing inside that.
+>
+September rolls her eyes at Skar.
+
+Irilathe raises an eyebrow.
+l
+
+September pulls you closer to her.
+[Celebration Village, Tattoos.]
+
+Black and silver stripes cover the walls of this airy tent. Warm air radiates around you from slow burning vanilla scented candles resting on tall wrought iron posts. The golden light produced bounces off the silver stripes on the tent walls. Several large backless sofas reside around the tent, for customers to lounge upon while waiting for service.  A deep black velvet tent flap and an open glimmering beaded curtain are here.
+
+This room is illuminated.
+In the room are Skar the Monitanian (holding a glowing mysterious vial of acid yellow swamp gas), Kila the Monitanian, Mirabelle the Secian, Treyfalgar the Noble San Elf, Saul the Oog-ra, Irilathe the San Elf, and September the Noble Leuian.
+Obvious exits: None.
+>
+Irilathe, with a flick of her skirts, just went through a deep black velvet tent flap.
+smi at sep gently, winking..
+You smile at September gently, winking..
+>
+September sniffs.
+off man to se
+You offer September a ripe orange mango.
+
+' sweeeeet
+>
+Glinka says, " sweeeeet"
+>
+September beams at you.
+' like sugar
+
+Glinka says, " like sugar"
+>
+September accepts your ripe orange mango.
+
+September howls at you.
+You see September take a bite of her ripe orange mango.
+purr
+You purr.
+>You see September take a bite of her half-eaten ripe orange mango.
+You see September eat the last of her half-eaten ripe orange mango.
+
+September beams.
+l in clo
+Inside the rainbow silk cloak you see a beautiful gold Secian shaped charm, a black winged bat shaped amulet, a large fire opal, a tiny black diamond nose ring, a cream colored parchment raffle ticket, and a small deck of fortune cards.
+>
+September glances at you.
+gig
+You giggle.
+' you eat fast
+>
+Glinka says, " you eat fast"
+>
+September just removed a closed small velvet-lined silk gem bag from within her open large shimmering white tigerskin backpack.
+
+September just opened the closed small velvet-lined silk gem bag.
+
+September beams.
+l in bac
+Inside the open large forest green leather backpack you see a lantern, a wooden shield, a short wooden stick, a dragon-shaped emerald statue, some sweet fragrant sticks of incense, an empty warm glass of fresh milk, a misty grey orb of Unknown, a closed forest green Elindalian book of prayers, a mossy opal, a handmade rolled beeswax candle, a silver rose shaped key, a smooth handled wooden torch, a gnarled olive branch, an amethyst, a mossy opal, a large brilliant mossy opal, and a bright mossy opal.
+>
+September just removed a simple diamond from within her open small velvet-lined silk gem bag.
+
+September glances at you.
+gasp
+You gasp.
+snu se
+>You snuggle with September.
+>
+acc offer from September
+sp
+' Thankies!
+smi at September delicately , brushing back her kinky white hair
+hug September softly, her long long hair falling all over the place...
+time
+September offers you a simple diamond.
+
+You are now speaking Common.
+
+Glinka exclaims, " Thankies!"
+file
+You accept the simple diamond.
+>You smile at September delicately , brushing back her kinky white hair.
+>You hug September softly, her long long hair falling all over the place...
+>
+Current time is: Sun May 15 00:36:59 2005 EST.
+time
+
+It is now 11:15 pm on the 27th day of the 12th month in the year 319.
+
+You have been adventuring for 47 mins, 59 secs this session.
+
+>
+snu with September
+September nuzzles you.
+You snuggle with September.
+purr to se
+>You cannot specify a target with this command.
+>
+September just closed the open small velvet-lined silk gem bag.
+' ooOoo
+
+Glinka says, " ooOoo"
+>
+September just placed a closed small velvet-lined silk gem bag within her open large shimmering white tigerskin backpack.
+
+gig softly holding her tummy
+September tickles you.
+hol dia
+You giggle softly holding her tummy.
+>You hold the simple diamond close.
+gri
+>You grin.
+>
+September grins.
+
+gig softly holding her tummy
+September tickles you.
+You giggle softly holding her tummy.
+ret 5
+>You retreat 5 UDs to the rear!
+[3 sec. delay]
+>
+September hops up and down.
+cac
+You cackle.
+>
+September giggles.
+
+Kila nods.
+l
+[Celebration Village, Tattoos.]
+
+Black and silver stripes cover the walls of this airy tent. Warm air radiates around you from slow burning vanilla scented candles resting on tall wrought iron posts. The golden light produced bounces off the silver stripes on the tent walls. Several large backless sofas reside around the tent, for customers to lounge upon while waiting for service.  A deep black velvet tent flap and an open glimmering beaded curtain are here.
+
+This room is illuminated.
+In the room are Skar the Monitanian (holding a glowing mysterious vial of acid yellow swamp gas), Kila the Monitanian, Mirabelle the Secian, Treyfalgar the Noble San Elf, Saul the Oog-ra, and September the Noble Leuian.
+Obvious exits: None.
+l at cur
+>It looks like an open glimmering beaded curtain.
+l through cur
+l under cur
+l behind cur
+l on cur
+l in cur
+>
+wink back Impishly!
+September winks at you.
+[Back Room.]
+
+Black and silver continues as the motif through the back area of the tent. Dominating the center of the room presides a mahogany finished table with a large elegant mirror standing directly next to it. A plush red chair rests in front of the table welcoming you to sit down. Scattered on top of the table are various implements, all used for the coloring of skin, fur, or scales. In the background, the soft, peaceful ringing of wind chimes can be heard.  A mahogany table, a mirror, a plush red chair, a glimmering beaded curtain, and a small wooden tray of ink bottles are here.
+
+This room is illuminated.
+In the room are Dyntran the Noble San Elf and Teef the Noble Human.
+Obvious exits: None.
+>There is nothing underneath that.
+>There is nothing behind that.
+>There is nothing on top of that.
+>There is nothing inside that.
+>You wink back Impishly!
+>
+Saul ponders the meaning of the universe for a moment.
+
+Saul glances at you.
+
+Saul glances at September.
+
+September grins.
+hum innocently
+You hum innocently.
+>
+September glances at Saul.
+l
+[Celebration Village, Tattoos.]
+
+Black and silver stripes cover the walls of this airy tent. Warm air radiates around you from slow burning vanilla scented candles resting on tall wrought iron posts. The golden light produced bounces off the silver stripes on the tent walls. Several large backless sofas reside around the tent, for customers to lounge upon while waiting for service.  A deep black velvet tent flap and an open glimmering beaded curtain are here.
+
+This room is illuminated.
+In the room are Skar the Monitanian (holding a glowing mysterious vial of acid yellow swamp gas), Kila the Monitanian, Mirabelle the Secian, Treyfalgar the Noble San Elf, Saul the Oog-ra, and September the Noble Leuian.
+Obvious exits: None.
+>
+Kila says to Skar in Monitanian, "jgxw yahh lh xmkh ngo bnbpux"
+
+Saul shrugs.
+
+Treyfalgar says to Glinka, "i changed my mind i know what i want"
+
+Skar grins.
+
+September just removed a closed velvet white bag of runestones from within her open large shimmering white tigerskin backpack.
+
+Skar says to Kila in Monitanian, "tv hms"
+nod to tr
+
+September just opened the closed velvet white bag of runestones.
+You nod to Treyfalgar.
+>
+Saul sits down.
+
+September just removed a faceted green crystal from within her open velvet white bag of runestones.
+
+Skar says to Kila in Monitanian, "lcr hmbtve imqwzeqlag uwz x tye"
+
+September offers something to Mirabelle.
+
+Mirabelle beams at September.
+
+Mirabelle hugs September.
+
+September nuzzles Mirabelle.
+adv 5
+You advance another 5 UDs!
+>
+Mirabelle accepts September's offer.
+
+Kila says in Monitanian, "zfh k fbdhh jx pvyce"
+
+September swishes her tail rapidly.
+wh to tr nothin involving secians i hope
+You whisper to Treyfalgar.
+>
+September just closed the open velvet white bag of runestones.
+
+Skar returns his iron grappling hook.
+
+September just placed a closed velvet white bag of runestones within her open large shimmering white tigerskin backpack.
+
+Mirabelle just placed a faceted green crystal within her open large leather backpack.
+
+Skar's glowing mysterious vial of acid yellow swamp gas flickers for a moment.
+
+Treyfalgar whispers, "that was my second choice"
+gig
+You giggle.
+>
+September paces.
+
+Kila says in Monitanian, "gma zr qkoj"
+
+September nuzzles Mirabelle.
+
+Skar nods to Kila.
+
+Saul stretches.
+
+September pulls Skar closer to her.
+
+Skar says to Kila in Monitanian, "zb ezq iyrf cxif zae ras mnthcu"
+
+Teef just entered through an open glimmering beaded curtain.
+
+Skar swishes his tail at September.
+
+Teef says, "next"
+
+September swishes her tail.
+
+Treyfalgar just went through an open glimmering beaded curtain.
+
+September says, "hope he gets an infection"
+
+Kila chuckles.
+gig to se
+You giggle to September.
+>
+September shrugs.
+pon poisoned tattoo needles
+You ponder poisoned tattoo needles.
+shiv
+>You shiver.
+>
+September says, "a bad one"
+
+September says, "oozing"
+gig
+You giggle.
+>
+September says, "pussing"
+' with puss too?
+
+Glinka asks, " with puss too?"
+>
+September giggles.
+stare at se
+You stare at September.
+>
+Teef just went through a deep black velvet tent flap.
+
+September nods up and down.
+
+September says, "pain"
+gig
+You giggle.
+>
+September says, "swelling"
+
+September's head suddenly begins glowing. She places a hand upon her chest. The glow travels down an arm to her hand. The glow quickly spreads over September's entire body, then fades away.
+
+
+September says, "he'll need a full time secian"
+
+Mirabelle wrinkles her nose.
+' i jus hope he dont get it somewhere..unnatural
+
+Glinka says, " i jus hope he dont get it somewhere..unnatural"
+gla at se
+>You glance at September.
+>
+September giggles.
+blu
+You blush.
+l
+>[Celebration Village, Tattoos.]
+
+Black and silver stripes cover the walls of this airy tent. Warm air radiates around you from slow burning vanilla scented candles resting on tall wrought iron posts. The golden light produced bounces off the silver stripes on the tent walls. Several large backless sofas reside around the tent, for customers to lounge upon while waiting for service.  A deep black velvet tent flap and an open glimmering beaded curtain are here.
+
+This room is illuminated.
+In the room are Skar the Monitanian (holding a glowing mysterious vial of acid yellow swamp gas), Kila the Monitanian, Mirabelle the Secian, Saul the Oog-ra (seated), and September the Noble Leuian.
+Obvious exits: None.
+>
+Saul says, "me wan ful tim secin"
+
+September asks, "is he anything but?"
+gig
+You giggle.
+gri to sa
+>You grin to Saul.
+>
+September says to Saul, "you need one"
+
+Saul asks, "mes du?"
+
+September says to Saul, "gotta stop kicking people in TSC"
+
+Saul says, "me ned wun tu tak me huntun"
+
+September says, "dang archers appear out of no where"
+
+Saul nods.
+
+Saul says, "yuh mes no"
+
+September says to Saul, "they liked you"
+tact
+Standing in this rank is:
+Glinka, Skar, Kila, Mirabelle, Saul, September
+>
+Kila says in Monitanian, "h rmw yil kupyfzi rlv nunohhudh"
+
+Saul says, "an dat gard yelun fo dem tu kils me tu"
+
+September exclaims, "then they liked me!"
+
+Saul snickers.
+com sa
+You comfort Saul.
+>
+September asks Glinka, "him?!"
+
+hold Saul too!
+Saul holds you close.
+You hold Saul close too!
+>
+September flails her arms about wildly.
+l at gl
+You find something suitably reflective and gaze into it...
+
+You look like a 1'2" standard adolescent delicate boned, wiry-tough bodied Secian Cleric.
+You have very long, wild, kinky white hair with a white streak, heavy lidded pale red eyes, and look translucent.
+You appear to be upset right now.
+You can be attacked by other players.
+
+On her breast is a small crescent shaped birthmark.
+
+On her neck is a purple marked tattoo of the house of Mandor.
+
+On her belly is a tark tribal circle around the navel.
+
+On her back are glimmering deep Hyacinth wings with draconic runes in Golde upon them.
+
+You appear to be in perfect health.
+There is a shining gold emblem affixed to your clothing.
+
+Physical appearance:
+
+You see an ageless, tymless, spryte with long wild kinky whyte hair with a glowing whyte streak and sleepy eyes...She is shivering in the cold wind to Valhalla...She has touched the Sky...
+
+                        Visible Equipment
+A heavy polished steelwood mail                    (armor)
+A tiny moonsilver tongue piercing                  (on head)
+A moon shaped ivory talisman                       (around neck)
+A pair of ornate silver toe rings                  (on feet)
+Some multicolored black dragon wing charms         (over armor)
+A crescent moon earring                            (right ear)
+A silver serpentine hoop                           (left ear)
+A long violet silk skirt                           (pants)
+A delicately linked gold belly chain               (on belt)
+
+You have been bestowed the following title(s):
+  Noble of the Realm
+
+>
+September flails her arms about wildly at you.
+gig
+You giggle.
+>
+hold Saul too!
+Saul holds you close.
+You hold Saul close too!
+>
+September exclaims, "I tried to defend the load and drag him!"
+ret 1
+You retreat 1 UDs to the rear!
+[3 sec. delay]
+gri to se
+>You grin to September.
+>
+September exclaims, "I got whacked!"
+
+Saul says, "yuh mes kina hebi"
+stare
+You stare.
+>
+September says to Saul, "no s*&&^^"
+gasp
+You gasp.
+>
+September nods.
+
+Saul flails his arms about wildly.
+clap a hand to her ears
+You clap a hand to her ears.
+l
+>[Celebration Village, Tattoos.]
+
+Black and silver stripes cover the walls of this airy tent. Warm air radiates around you from slow burning vanilla scented candles resting on tall wrought iron posts. The golden light produced bounces off the silver stripes on the tent walls. Several large backless sofas reside around the tent, for customers to lounge upon while waiting for service.  A deep black velvet tent flap and an open glimmering beaded curtain are here.
+
+This room is illuminated.
+In the room are Skar the Monitanian (holding a glowing mysterious vial of acid yellow swamp gas), Kila the Monitanian, Mirabelle the Secian, Saul the Oog-ra (seated), and September the Noble Leuian.
+Obvious exits: None.
+>
+September says, "I was getting whacked whilst trying to drag his arse"
+
+Saul blinks and closes his eye.
+chu
+You chuckle.
+>
+September murmurs something beneath her breath.
+
+September says, "dang archers"
+
+Saul comforts September.
+
+September says to Saul, "you need to diet"
+
+Saul says, "nah"
+
+September says, "try ruffage"
+
+September nods up and down.
+
+Saul says, "yu ned mor muscal"
+
+Kila flicks his tongue.
+
+Treyfalgar just entered through an open glimmering beaded curtain.
+
+September rolls her eyes.
+curt
+You curtsy.
+>
+Treyfalgar says, "next"
+l at tr
+
+Treyfalgar looks like a 5'5" standard adolescent light boned, very muscular bodied San Elf Cleric.
+He has very long, dredded, baby fine dull black hair, with dull black eyes, and looks casual.
+He appears to be angry right now.
+He bears the mark of Taath.
+He can be attacked by other players.
+
+On his chest is a tattoo of a Leuian being burned at the stake.
+
+On his neck is a tattoo of a tormented Leuian soul.
+
+On his right shoulder is an ominous vulture perched atop a mutilated leuian corpse.
+
+On his lower lip is a tattoo of the word "HATE" in pitch black letters.
+
+On his back stretching from shoulder to shoulder is a bloody and gruesomely skinned Leuian.
+
+He appears to be in perfect health.
+There is a shining gold emblem affixed to his clothing.
+
+Physical appearance:
+
+ 
+
+                        Visible Equipment
+A pair of steel tipped leather boots               (on feet)
+A bloodstone inlaid onyx ring                      (ring (left))
+A pair of demon hide pants                         (pants)
+A pure white Leuian tail                           (on belt)
+A glossy black Leuian tail                         (on belt)
+A closed jar of tormented Leuian souls             (on belt)
+
+He has been bestowed the following title(s):
+  Noble of the Realm
+
+go cur
+>[Back Room.]
+
+Black and silver continues as the motif through the back area of the tent. Dominating the center of the room presides a mahogany finished table with a large elegant mirror standing directly next to it. A plush red chair rests in front of the table welcoming you to sit down. Scattered on top of the table are various implements, all used for the coloring of skin, fur, or scales. In the background, the soft, peaceful ringing of wind chimes can be heard.  A mahogany table, a mirror, a plush red chair, a glimmering beaded curtain, and a small wooden tray of ink bottles are here.
+
+This room is illuminated.
+In the room is Dyntran the Noble San Elf.
+Obvious exits: None.
+smi at d impishly, tossing her long soft hair back...
+>You smile at Dyntran impishly, tossing her long soft hair back...
+' hello
+>
+Glinka says, " hello"
+>
+Dyntran nods to you.
+curt
+You curtsy.
+>
+Dyntran asks, "hello, how may I help you?"
+
+smi at Dyntran delicately , blushing
+Dyntran smiles at you.
+You smile at Dyntran delicately , blushing.
+' could i get a deep blue Something behind the left ear .....please...
+>
+Glinka says, " could i get a deep blue Something behind the left ear .....please..."
+sit quietly with a wry smile upon her hyacinth lips...
+>You sit down quietly with a wry smile upon her hyacinth lips....
+inh
+>You inhale.
+>
+Dyntran says, "a deep blue something"
+
+Dyntran asks, "perhaps a flower of some sort?"
+' well, its supposed to be mysterious
+
+Glinka says, " well, its supposed to be mysterious"
+gri to d
+>You grin to Dyntran.
+wink
+>You wink.
+>
+Dyntran says, "ahhhh"
+
+Dyntran is looking at you.
+wh to d i had it before the change
+You whisper to Dyntran.
+>
+Dyntran whispers, "a deep blue something?"
+nod yes to d
+You nod up and down to Dyntran.
+beam
+>You beam.
+>
+Dyntran whispers, "something or Something?"
+' Something
+
+Glinka says, " Something"
+cou
+>You cough.
+l at gl
+>You find something suitably reflective and gaze into it...
+
+You look like a 1'2" standard adolescent delicate boned, wiry-tough bodied Secian Cleric.
+You are seated.
+You have very long, wild, kinky white hair with a white streak, heavy lidded pale red eyes, and look translucent.
+You appear to be upset right now.
+You can be attacked by other players.
+
+On her breast is a small crescent shaped birthmark.
+
+On her neck is a purple marked tattoo of the house of Mandor.
+
+On her belly is a tark tribal circle around the navel.
+
+On her back are glimmering deep Hyacinth wings with draconic runes in Golde upon them.
+
+On her left ear is a deep blue Something.
+
+You appear to be in perfect health.
+There is a shining gold emblem affixed to your clothing.
+
+Physical appearance:
+
+You see an ageless, tymless, spryte with long wild kinky whyte hair with a glowing whyte streak and sleepy eyes...She is shivering in the cold wind to Valhalla...She has touched the Sky...
+
+                        Visible Equipment
+A heavy polished steelwood mail                    (armor)
+A tiny moonsilver tongue piercing                  (on head)
+A moon shaped ivory talisman                       (around neck)
+A pair of ornate silver toe rings                  (on feet)
+Some multicolored black dragon wing charms         (over armor)
+A crescent moon earring                            (right ear)
+A silver serpentine hoop                           (left ear)
+A long violet silk skirt                           (pants)
+A delicately linked gold belly chain               (on belt)
+
+You have been bestowed the following title(s):
+  Noble of the Realm
+
+>
+Dyntran is looking at you.
+
+Dyntran whispers, "like that?"
+wh to d could it be behinf=d the ear please?
+You whisper to Dyntran.
+blu
+>You blush.
+shuf
+>You shuffle your feet.
+>
+Dyntran whispers, "maybe ... lemme think how"
+wh to d on her head, behind her left ear..
+You whisper to Dyntran.
+gig
+>You giggle.
+>
+Dyntran says, "ahhhh"
+blu
+You blush.
+inv
+>Items carried:
+  An open large forest green leather backpack [2.0 lbs].
+  A crescent moon earring [0.0 lbs].
+  An open dragon embroidered black leather backpack [0.5 lbs].
+  A delicately linked gold belly chain [0.0 lbs].
+  An open small glass jar of leeches [0.1 lbs].
+  A tiny moonsilver tongue piercing [0.0 lbs].
+  A rainbow silk cloak [2.5 lbs].
+  An open ribbon blood-stained satin clerical bag [0.3 lbs].
+  A pair of ornate silver toe rings [0.0 lbs].
+  A swirling multicolored globe [0.1 lbs].
+  A heavy polished steelwood mail [2.0 lbs].
+  A silver serpentine hoop [0.0 lbs].
+  A simple diamond [0.1 lbs].
+  An open plaid leather healer's bag [0.0 lbs].
+  An open blood-stained leather healer's bag [0.0 lbs].
+  A moon shaped ivory talisman [0.1 lbs].
+  Some multicolored black dragon wing charms [0.0 lbs].
+  A crumpled paper AGC flier [0.1 lbs].
+  A long violet silk skirt [0.0 lbs].
+
+You have 45 silver pieces and 0 gold pieces.
+
+This gives you a total net worth of 45 silver.
+
+Your inventory totals 8.2 lbs.
+l in he
+>There is nothing inside that.
+l in 2 he
+>There is nothing inside that.
+l at gl
+>You find something suitably reflective and gaze into it...
+
+You look like a 1'2" standard adolescent delicate boned, wiry-tough bodied Secian Cleric.
+You are seated.
+You have very long, wild, kinky white hair with a white streak, heavy lidded pale red eyes, and look translucent.
+You appear to be upset right now.
+You can be attacked by other players.
+
+On her breast is a small crescent shaped birthmark.
+
+On her neck is a purple marked tattoo of the house of Mandor.
+
+On her belly is a tark tribal circle around the navel.
+
+On her back are glimmering deep Hyacinth wings with draconic runes in Golde upon them.
+
+On her left ear is a deep blue Something.
+
+You appear to be in perfect health.
+There is a shining gold emblem affixed to your clothing.
+
+Physical appearance:
+
+You see an ageless, tymless, spryte with long wild kinky whyte hair with a glowing whyte streak and sleepy eyes...She is shivering in the cold wind to Valhalla...She has touched the Sky...
+
+                        Visible Equipment
+A heavy polished steelwood mail                    (armor)
+A tiny moonsilver tongue piercing                  (on head)
+A moon shaped ivory talisman                       (around neck)
+A pair of ornate silver toe rings                  (on feet)
+Some multicolored black dragon wing charms         (over armor)
+A crescent moon earring                            (right ear)
+A silver serpentine hoop                           (left ear)
+A long violet silk skirt                           (pants)
+A delicately linked gold belly chain               (on belt)
+
+You have been bestowed the following title(s):
+  Noble of the Realm
+
+l at d
+>
+Dyntran looks like a 5'5" standard adolescent light boned, wiry-tough bodied San Elf.
+She has very long, tied back, medium glossy black hair, with pitch black eyes, and looks casual.
+She appears to be bored right now.
+She can be attacked by other players.
+She appears to be in perfect health.
+                        Visible Equipment
+Some calf-high black leather polished boots        (on feet)
+Some loose black silk trousers                     (pants)
+A tight black lace camisole                        (shirt)
+
+She has been bestowed the following title(s):
+  Noble of the Realm
+
+Additional titles earned:
+  Merchant
+
+l at gl
+>You find something suitably reflective and gaze into it...
+
+You look like a 1'2" standard adolescent delicate boned, wiry-tough bodied Secian Cleric.
+You are seated.
+You have very long, wild, kinky white hair with a white streak, heavy lidded pale red eyes, and look translucent.
+You appear to be upset right now.
+You can be attacked by other players.
+
+On her breast is a small crescent shaped birthmark.
+
+You appear to be in perfect health.
+There is a shining gold emblem affixed to your clothing.
+
+Physical appearance:
+
+You see an ageless, tymless, spryte with long wild kinky whyte hair with a glowing whyte streak and sleepy eyes...She is shivering in the cold wind to Valhalla...She has touched the Sky...
+
+                        Visible Equipment
+A heavy polished steelwood mail                    (armor)
+A tiny moonsilver tongue piercing                  (on head)
+A moon shaped ivory talisman                       (around neck)
+A pair of ornate silver toe rings                  (on feet)
+Some multicolored black dragon wing charms         (over armor)
+A crescent moon earring                            (right ear)
+A silver serpentine hoop                           (left ear)
+A long violet silk skirt                           (pants)
+A delicately linked gold belly chain               (on belt)
+
+You have been bestowed the following title(s):
+  Noble of the Realm
+
+l at gl
+>You find something suitably reflective and gaze into it...
+
+You look like a 1'2" standard adolescent delicate boned, wiry-tough bodied Secian Cleric.
+You are seated.
+You have very long, wild, kinky white hair with a white streak, heavy lidded pale red eyes, and look translucent.
+You appear to be upset right now.
+You can be attacked by other players.
+
+On her breast is a small crescent shaped birthmark.
+
+On her neck is a purple marked tattoo of the house of Mandor.
+
+On her belly is a tark tribal circle around the navel.
+
+On her back are glimmering deep Hyacinth wings with draconic runes in Golde upon them.
+
+You appear to be in perfect health.
+There is a shining gold emblem affixed to your clothing.
+
+Physical appearance:
+
+You see an ageless, tymless, spryte with long wild kinky whyte hair with a glowing whyte streak and sleepy eyes...She is shivering in the cold wind to Valhalla...She has touched the Sky...
+
+                        Visible Equipment
+A heavy polished steelwood mail                    (armor)
+A tiny moonsilver tongue piercing                  (on head)
+A moon shaped ivory talisman                       (around neck)
+A pair of ornate silver toe rings                  (on feet)
+Some multicolored black dragon wing charms         (over armor)
+A crescent moon earring                            (right ear)
+A silver serpentine hoop                           (left ear)
+A long violet silk skirt                           (pants)
+A delicately linked gold belly chain               (on belt)
+
+You have been bestowed the following title(s):
+  Noble of the Realm
+
+>
+Dyntran is looking at you.
+hun softly
+Ignoring unknown command, "hun."
+l at gl
+>You find something suitably reflective and gaze into it...
+
+You look like a 1'2" standard adolescent delicate boned, wiry-tough bodied Secian Cleric.
+You are seated.
+You have very long, wild, kinky white hair with a white streak, heavy lidded pale red eyes, and look translucent.
+You appear to be upset right now.
+You can be attacked by other players.
+
+On her breast is a small crescent shaped birthmark.
+
+On her neck is a purple marked tattoo of the house of Mandor.
+
+On her belly is a tark tribal circle around the navel.
+
+On her back are glimmering deep Hyacinth wings with draconic runes in Golde upon them.
+
+On her head, behing left ear is a deep blue Something.
+
+You appear to be in perfect health.
+There is a shining gold emblem affixed to your clothing.
+
+Physical appearance:
+
+You see an ageless, tymless, spryte with long wild kinky whyte hair with a glowing whyte streak and sleepy eyes...She is shivering in the cold wind to Valhalla...She has touched the Sky...
+
+                        Visible Equipment
+A heavy polished steelwood mail                    (armor)
+A tiny moonsilver tongue piercing                  (on head)
+A moon shaped ivory talisman                       (around neck)
+A pair of ornate silver toe rings                  (on feet)
+Some multicolored black dragon wing charms         (over armor)
+A crescent moon earring                            (right ear)
+A silver serpentine hoop                           (left ear)
+A long violet silk skirt                           (pants)
+A delicately linked gold belly chain               (on belt)
+
+You have been bestowed the following title(s):
+  Noble of the Realm
+
+beam to dt
+>I don't see what you are referring to.
+stand very quickly, her long soft kinky pure whyte hair making a rustling sound...
+>You stand up very quickly, her long soft kinky pure whyte hair making a rustling sound....
+beam to d
+>You beam to Dyntran.
+' perfect
+>
+Dyntran bows to you.
+
+Glinka says, " perfect"
+curt
+>You curtsy.
+kiss d softly upon the cheek in parting...
+>You kiss Dyntran softly upon the cheek in parting...
+' thanks!
+>
+Glinka exclaims, " thanks!"
+wav
+>You wave.
+>
+wave to Dyntran
+Dyntran waves.
+You wave to Dyntran.
+go cu
+>[Celebration Village, Tattoos.]
+
+Black and silver stripes cover the walls of this airy tent. Warm air radiates around you from slow burning vanilla scented candles resting on tall wrought iron posts. The golden light produced bounces off the silver stripes on the tent walls. Several large backless sofas reside around the tent, for customers to lounge upon while waiting for service.  A deep black velvet tent flap and an open glimmering beaded curtain are here.
+
+This room is illuminated.
+In the room are Vajra the San Elf, Skar the Monitanian (holding a glowing mysterious vial of acid yellow swamp gas), Kila the Monitanian, Mirabelle the Secian, Cieran the Human, Saul the Oog-ra (seated), Irilathe the San Elf, Kraggon the Noble Hithual, and September the Noble Leuian.
+Obvious exits: None.
+' nex
+>
+Glinka says, " nex"
+>
+September grins at Kraggon.
+gig to se
+You giggle to September.
+>
+lean head Kraggon her long soft hair flying about...
+hug Kraggon long and tyte
+Kraggon hugs you.
+You lean your head on Kraggon's shoulder her long soft hair flying about...
+>You hug Kraggon long and tyte.
+>
+Mirabelle is looking at you.
+
+September chokes Saul.
+smi at kr gently, winking..
+You smile at Kraggon gently, winking..
+>
+Cieran is looking at you.
+
+Saul flails his arms about wildly.
+
+Saul whines.
+grim touching her left ear
+You grimace touching her left ear.
+>
+September flails her arms about wildly at Kraggon.
+
+Mirabelle asks, "What's the list anyway?"
+
+Skar nods.
+
+September says to Kraggon, "in yer dreams"
+' september turn
+
+Glinka says, " september turn"
+>
+Kraggon laughs.
+
+September giggles.
+
+Kraggon says to September, "be well"
+
+Kraggon says to September, "yer next"
+
+September says to Kraggon, "walk in peace"
+
+Enstice just entered through a deep black velvet tent flap.
+
+September exclaims to Skar, "time to go!"
+
+Skar howls.
+
+Enstice smiles to Mirabelle.
+
+Kila spits to Skar.
+
+September pushes Skar.
+
+Dyntran just entered through an open glimmering beaded curtain.
+poi at se
+You point at September.
+>
+Kila says in Monitanian, "kgn fi zyztw"
+
+Dyntran asks, "do you need a private invitation?"
+
+September flails her arms about wildly.
+
+Kraggon says to Vajra, "we'll catch ye later"
+gig to d
+You giggle to Dyntran.
+>
+September exclaims, "Coming!"
+
+Dyntran just went through an open glimmering beaded curtain.
+
+Vajra has left Kraggon's group.
+
+Kraggon chuckles.
+
+Kraggon hugs Vajra.
+
+Vajra says to Kraggon, "Thank you"
+l
+[Celebration Village, Tattoos.]
+
+Black and silver stripes cover the walls of this airy tent. Warm air radiates around you from slow burning vanilla scented candles resting on tall wrought iron posts. The golden light produced bounces off the silver stripes on the tent walls. Several large backless sofas reside around the tent, for customers to lounge upon while waiting for service.  A deep black velvet tent flap and an open glimmering beaded curtain are here.
+
+This room is illuminated.
+In the room are Vajra the San Elf, Skar the Monitanian (holding a glowing mysterious vial of acid yellow swamp gas), Kila the Monitanian, Mirabelle the Secian, Enstice the Leuian, Cieran the Human, Saul the Oog-ra (seated), Irilathe the San Elf, Kraggon the Noble Hithual, and September the Noble Leuian.
+Obvious exits: None.
+>
+September pokes Skar.
+
+Kraggon smiles at Vajra.
+
+Vajra hugs Kraggon.
+
+Vajra smiles.
+l at gl
+You find something suitably reflective and gaze into it...
+
+You look like a 1'2" standard adolescent delicate boned, wiry-tough bodied Secian Cleric.
+You have very long, wild, kinky white hair with a white streak, heavy lidded pale red eyes, and look translucent.
+You appear to be upset right now.
+You can be attacked by other players.
+
+On her breast is a small crescent shaped birthmark.
+
+On her neck is a purple marked tattoo of the house of Mandor.
+
+On her belly is a tark tribal circle around the navel.
+
+On her back are glimmering deep Hyacinth wings with draconic runes in Golde upon them.
+
+On her head, behing left ear is a deep blue Something.
+
+You appear to be in perfect health.
+There is a shining gold emblem affixed to your clothing.
+
+Physical appearance:
+
+You see an ageless, tymless, spryte with long wild kinky whyte hair with a glowing whyte streak and sleepy eyes...She is shivering in the cold wind to Valhalla...She has touched the Sky...
+
+                        Visible Equipment
+A heavy polished steelwood mail                    (armor)
+A tiny moonsilver tongue piercing                  (on head)
+A moon shaped ivory talisman                       (around neck)
+A pair of ornate silver toe rings                  (on feet)
+Some multicolored black dragon wing charms         (over armor)
+A crescent moon earring                            (right ear)
+A silver serpentine hoop                           (left ear)
+A long violet silk skirt                           (pants)
+A delicately linked gold belly chain               (on belt)
+
+You have been bestowed the following title(s):
+  Noble of the Realm
+
+>
+September is now following Skar.
+
+Kraggon's group just went through a deep black velvet tent flap.
+
+Skar flails his arms about wildly.
+
+September grunts.
+
+Skar's group just went through an open glimmering beaded curtain.
+l
+[Celebration Village, Tattoos.]
+
+Black and silver stripes cover the walls of this airy tent. Warm air radiates around you from slow burning vanilla scented candles resting on tall wrought iron posts. The golden light produced bounces off the silver stripes on the tent walls. Several large backless sofas reside around the tent, for customers to lounge upon while waiting for service.  A deep black velvet tent flap and an open glimmering beaded curtain are here.
+
+This room is illuminated.
+In the room are Vajra the San Elf, Kila the Monitanian, Mirabelle the Secian, Enstice the Leuian, and Saul the Oog-ra (seated).
+Obvious exits: None.
+>
+Vajra ponders the meaning of the universe for a moment.
+
+Vajra sits down.
+smi at mir delicately , brushing back her kinky white hair
+You smile at Mirabelle delicately , brushing back her kinky white hair.
+' you next eh?
+>
+Glinka asks, " you next eh?"
+gri to mi
+>You grin to Mirabelle.
+sp secian
+>You are now speaking Secian.
+' whatcha gettin?
+>
+Glinka asks in Secian, " whatcha gettin?"
+>
+Mirabelle asks, "I am?"
+rai at mi
+You raise an eyebrow at Mirabelle.
+>
+Mirabelle beams.
+
+Mirabelle says to Glinka in Secian, "A water droplet, on my shoulder."
+' ooOo
+
+Glinka says in Secian, " ooOo"
+l at mi
+>
+Mirabelle looks like a 1'6" standard young average boned, wiry-tough bodied Secian RuneMage.
+She has very long, curly, fine platinum blonde hair, with ruby red eyes, and looks messy.
+She appears to be chagrined right now.
+She bears the mark of Sa.
+She can be attacked by other players.
+She appears to be in perfect health.
+
+Physical appearance:
+
+This not so small waif looks at you with round ruby red eyes that sparkle ever so slightly.  Her eyes seem to wink, even though they remain open.
+
+                        Visible Equipment
+A heavy polished steelwood mail                    (armor)
+A shimmering midnight blue satin ribbon            (on head)
+A shimmering blue sapphire talisman of water       (around neck)
+A crescent moon earring                            (right ear)
+A crescent moon earring                            (left ear)
+A short midnight blue velvet dress                 (dress)
+beam
+>You beam.
+>
+Vajra leans on the open large leather backpack lightly.
+' im gonna go buy candy
+
+Glinka says in Secian, " im gonna go buy candy"
+>
+Enstice whispers in Leuian, "kh csh gfes zbja sazo ue beprtvh suy wbkpr inkhsst, kga biq pqnq/"
+
+Mirabelle says in Secian, "I'm a water mage, so it fits."
+kiss mi softly upon the cheek in parting...
+You kiss Mirabelle softly upon the cheek in parting...
+>
+smi at Mirabelle wryly
+Mirabelle smiles at you.
+You smile at Mirabelle wryly.
+wh to en leuian?
+>You whisper to Enstice in Secian.
+sp
+>You are now speaking Common.
+wh to en leuian?
+>You whisper to Enstice.
+>
+Enstice whispers, "do you know what sort of tattoos are being offered, and the cost/"
+putrr to en
+Ignoring unknown command, "putrr."
+>
+Mirabelle exclaims to Glinka in Secian, "Be safe!"
+
+Enstice whispers, "I apologise. I did not notice"
+nod yes to mi
+You nod up and down to Mirabelle.
+wh to en free and..look at my last one
+>You whisper to Enstice.
+>
+Enstice is looking at you.
+smi at en impishly, tossing her long soft hair back...
+You smile at Enstice impishly, tossing her long soft hair back...
+>
+Treyfalgar's group just entered through a deep black velvet tent flap.
+
+Enstice whispers, "getting it fixed?"
+
+Enstice whispers, "It looks nice I am glad"
+wn to en someday
+Ignoring unknown command, "wn."
+smi at en gently, winking..
+>You smile at Enstice gently, winking..
+l at tr
+>
+Treyfalgar looks like a 5'5" standard adolescent light boned, very muscular bodied San Elf Cleric.
+He has very long, dredded, baby fine dull black hair, with dull black eyes, and looks casual.
+He appears to be angry right now.
+He bears the mark of Taath.
+He can be attacked by other players.
+
+On his chest is a tattoo of a Leuian being burned at the stake.
+
+On his neck is a tattoo of a tormented Leuian soul.
+
+On his right shoulder is an ominous vulture perched atop a mutilated leuian corpse.
+
+On his lower lip is a tattoo of the word "HATE" in pitch black letters.
+
+On his back stretching from shoulder to shoulder is a bloody and gruesomely skinned Leuian.
+
+He appears to be in perfect health.
+There is a shining gold emblem affixed to his clothing.
+
+Physical appearance:
+
+ 
+
+                        Visible Equipment
+A pair of steel tipped leather boots               (on feet)
+A bloodstone inlaid onyx ring                      (ring (left))
+A pair of demon hide pants                         (pants)
+A pure white Leuian tail                           (on belt)
+A glossy black Leuian tail                         (on belt)
+A closed jar of tormented Leuian souls             (on belt)
+
+He has been bestowed the following title(s):
+  Noble of the Realm
+
+>
+Mirabelle wrinkles her nose.
+shiv
+You shiver.
+fly up 20
+>[5 sec. delay]
+You take a few steps and soar 10 feet into the air!
+l
+>[Celebration Village, Tattoos.]
+
+Black and silver stripes cover the walls of this airy tent. Warm air radiates around you from slow burning vanilla scented candles resting on tall wrought iron posts. The golden light produced bounces off the silver stripes on the tent walls. Several large backless sofas reside around the tent, for customers to lounge upon while waiting for service.  A deep black velvet tent flap and an open glimmering beaded curtain are here.
+
+This room is illuminated.
+In the room are Vajra the San Elf (seated), Sephrix the Drag-al (holding a flaming moonsilver oil lamp), Kila the Monitanian, Mirabelle the Secian, Enstice the Leuian, Treyfalgar the Noble San Elf, and Saul the Oog-ra (seated).
+Obvious exits: None.
+cir
+>
+You circle around and do some aerial acrobatics.
+go te
+>[Celebration Village.]
+
+Towering trees full of leaves sway as gust of wind moves through their branches. A scampering squirrel hops from branch to branch, hanging tightly on to a newly found treasure. A gentle wind sighs a slow, lingering song above. The path winds itself towards the entrance of a black velvet tent. A sign outside the tent shows a beautiful creation being etched upon a Thugian's arm, the words above the pictorial read, "Tattoos."   A rich black velvet flag with tatoo designs, some glowing diamond lanterns, and an open deep black velvet tent are here.
+
+This area is illuminated.
+You see the 1st cheerful young human caroller.
+Obvious paths: northeast* southwest* northwest.
+>
+The cheerful young human caroller returns to center rank.
+
+The cheerful young human caroller opens her ribbon adorned straw basket and pulls out a diamond encrusted snowflake pendant. After examining it, she places it back inside the basket.
+ne
+[Celebration Village.]
+
+Curls of flames lick the cool air as a cloud of smoke eddies upward, weaving a snaky trail through the sky. The sweet, spicy scent of cooking food carries on the air, causing many to stop and take a second breath of the pleasing smells. A circle of merrymakers sit around the fire, anxiously waiting their tasty treat.  A tall oak tree and a glowing wooden cooking fire are here.
+
+This area is illuminated.
+You see the 1st drunken reveler.
+Obvious paths: northeast* southwest* northwest*.
+>
+The drunken reveler returns to center rank.
+go door
+I don't see what you are referring to.
+sw
+>[Celebration Village.]
+
+Towering trees full of leaves sway as gust of wind moves through their branches. A scampering squirrel hops from branch to branch, hanging tightly on to a newly found treasure. A gentle wind sighs a slow, lingering song above. The path winds itself towards the entrance of a black velvet tent. A sign outside the tent shows a beautiful creation being etched upon a Thugian's arm, the words above the pictorial read, "Tattoos."   A rich black velvet flag with tatoo designs, some glowing diamond lanterns, and an open deep black velvet tent are here.
+
+This area is illuminated.
+You see the 1st cheerful young human caroller.
+Obvious paths: northeast* southwest* northwest.
+l at car
+>She looks like an average cheerful young human caroller.
+
+She looks like a radiant young human dressed in a stunning white lace costume, adorned with white fur stole and magic wand and a pair of gossamer fairy wings upon her back.
+She has a head, 2 arms, 2 legs.
+
+She appears to be in good shape.
+She will be very hard for you to hit and it will be not too hard for her to hit you!
+>
+Kila just entered through an open deep black velvet tent.
+ne
+
+The cheerful young human caroller glances around with a malicious look in her eyes.
+[Celebration Village.]
+
+Curls of flames lick the cool air as a cloud of smoke eddies upward, weaving a snaky trail through the sky. The sweet, spicy scent of cooking food carries on the air, causing many to stop and take a second breath of the pleasing smells. A circle of merrymakers sit around the fire, anxiously waiting their tasty treat.  A tall oak tree and a glowing wooden cooking fire are here.
+
+This area is illuminated.
+You see the 1st drunken reveler.
+Obvious paths: northeast* southwest* northwest*.
+ne
+>[Celebration Village, Peddle Wagon.]
+
+Natural grasses grow wildly beneath the large mahogany wagon. The ground behind the wagon slopes steeply upward. Children laugh and giggle as they run up and down the hill chasing each other. At the top of the hill two sable horses covered with light multicolored blankets graze on the fresh growth.  A glowing candle filled crystal street lantern, an open large broad mahogany wagon, and a silver ribboned paper horn are here.
+
+This area is illuminated.
+Obvious paths: southwest* northwest.
+go wag
+>[Armor Shop Wagon.]
+
+A pungent mix of odors assails your senses as you step into the huge mahogany wagon. Noxious chemical fumes arise from several steaming vats to your left. They combine with the distinctive smell of hot metal that comes from the forge. A complex series of steam powered fans suck the fumes from the vats into several tin tubes in the ceiling, presumably to keep the chemicals from combusting in the forge's heat.  A dull blackened iron anvil, a glowing smoking fiery steel forge, and an open mahogany wagon door are here.
+
+This room is illuminated.
+Obvious exits: None.
+land
+dance softly upon the Earth-Mother's skin...
+>You fly down and land.
+>You dance softly upon the Earth-Mother's skin...
+shop list all
+>There is no shop here!
+go door
+>I don't see what you are referring to.
+go wag
+>[Celebration Village, Peddle Wagon.]
+
+Natural grasses grow wildly beneath the large mahogany wagon. The ground behind the wagon slopes steeply upward. Children laugh and giggle as they run up and down the hill chasing each other. At the top of the hill two sable horses covered with light multicolored blankets graze on the fresh growth.  A glowing candle filled crystal street lantern, an open large broad mahogany wagon, and a silver ribboned paper horn are here.
+
+This area is illuminated.
+Obvious paths: southwest* northwest.
+nw
+ready glo
+>It's too dark to see anything!  Ready a torch.
+>You light the swirling multicolored globe.
+
+l
+The area brightens.
+>[Celebration Village, Memorial Creations.]
+
+A large wooden sign reading, "Welcome to Memorial Creations!" stands on the side of the path. Several different memorial designs sit below the enormous sign. A beautiful statue of a tall human, an intricately carved memorial stone, and the carefully carved bust of a Hithual stand sentinel. A heavy wooden door leads to the entrance of this large establishment.  An open heavy wooden door and a silver ribboned paper horn are here.
+
+This area is illuminated.
+Obvious paths: southeast* southwest* northwest*.
+get hor
+>You pick up a silver ribboned paper horn.
+stare
+>You stare.
+blow on hor
+>You blow on the silver ribboned paper horn.
+gig
+>You giggle.
+go door
+>[Memorial Creations.]
+
+Large pieces of marble, quartz, and varying other materials line the walls of this comfortable wooden building. The clang of metal upon metal can be heard as work is done carefully to create elaborate memorial pieces. A sneeze rings out, and a rather dusty Hithual excuses himself, as he continues to carve an intricate portrait of a Leuian upon a tall marble slab.  A partioned counter and an open heavy wooden door are here.
+
+This room is illuminated.
+Obvious exits: None.
+shop list all
+>There is no shop here!
+l at cou
+>I don't see what you are referring to.
+l at par
+>It looks like a partioned counter.
+l at par
+>It looks like a partioned counter.
+l through par
+l under par
+l behind par
+l on par
+l in par
+>You can't see through that!
+>There is nothing underneath that.
+>There is nothing behind that.
+>There is nothing on top of that.
+>You have to open it first before you can see what is inside!
+go door
+>[Celebration Village, Memorial Creations.]
+
+A large wooden sign reading, "Welcome to Memorial Creations!" stands on the side of the path. Several different memorial designs sit below the enormous sign. A beautiful statue of a tall human, an intricately carved memorial stone, and the carefully carved bust of a Hithual stand sentinel. A heavy wooden door leads to the entrance of this large establishment.  An open heavy wooden door is here.
+
+This area is illuminated.
+Obvious paths: southeast* southwest* northwest*.
+nw
+>[Celebration Village, Pet Emporium.]
+
+A Ranger slides past you and disappears into a large wagon. The bag he carries wiggles as he moves. Through the trees, children can be seen hunting for berries and nuts. Their dearest wish is to find enough to be allowed special entrance into the wagon to feed the cute animals. A variety of noises, a cacophony of animals, resounds from the brightly colored wagon. Beside it, a makeshift stall houses a pair of black mares covered in light green blankets, contentedly munching oats from feedbags.  A glowing crystal street lantern and an open brightly painted mahogany wagon door are here.
+
+This area is illuminated.
+Obvious paths: southeast* southwest* northwest.
+go door
+>I don't see what you are referring to.
+go wag
+>[Celebration Village, Pet Emporium.]
+
+The sounds of animals fill your ears as various species speak back and forth to each other in exotic tongues. Various large wooden crates and cages are set upon the floor, while smaller glass containers line shelving against the back wall of the wagon, each housing a single animal waiting for adoption. A bright green parrot perches atop a branch of a small potted tree, growling menacingly and barking at any who come near its territory. It then squawks, winks one eye and repeats, "Just kidding, just kidding."  A small gnarled potted tree and an open brightly painted mahogany wagon door are here.
+
+This area is illuminated.
+Obvious paths: None.
+shop list all
+>There is no shop here!
+go wag
+>[Celebration Village, Pet Emporium.]
+
+A Ranger slides past you and disappears into a large wagon. The bag he carries wiggles as he moves. Through the trees, children can be seen hunting for berries and nuts. Their dearest wish is to find enough to be allowed special entrance into the wagon to feed the cute animals. A variety of noises, a cacophony of animals, resounds from the brightly colored wagon. Beside it, a makeshift stall houses a pair of black mares covered in light green blankets, contentedly munching oats from feedbags.  A glowing crystal street lantern and an open brightly painted mahogany wagon door are here.
+
+This area is illuminated.
+Obvious paths: southeast southwest* northwest.
+nw
+>[Celebration Village, Clothing Wagon.]
+
+The ground begins to slope slightly upward and the field of daisies slowly gives way to another field of golden grass. Children laugh and giggle as they roll down the hill, gaining speed and disappearing into a patch of high grass. A neatly paved cobblestone walkway meanders up the incline towards a small cottage which sits at the top of the rise. The windows of the cottage, despite all attempts to keep it clean, are smudged with the fingerprints of passers-by who have pressed themselves up to the glass to gain a better view before walking through the door.  A large wagon is here.
+
+This area is illuminated.
+Obvious paths: southeast* southwest*.
+go door
+>I don't see what you are referring to.
+go wag
+>[Celebration Village, "Extravagance!" Clothing Shoppe.]
+
+Despite the humble outward appearance of the small cottage, the inside reveals a much fancier flare. Wrought iron wall sconces with multi-faceted crystals illuminate this room, giving it a quiet, distinguished ambience. Formal clothing of all styles for both men and women hang from oak posts attached to the walls. A fabulously dressed woman hums to herself as she checks each mannequin and straightens a collar or presses a dress.  A soft crimson velvet curtain and a wagon door are here.
+
+This room is illuminated.
+Obvious exits: None.
+shop list all
+>
+Id# Item Type  Item Name                                     New Qty    Value
+--- ---------- --------------------------------------------- --- ------ -----
+  1 Dresses    flowing pink and white chiffon evening gown   Yes x100   90gp
+  2 Cloaks     shimmering pink satin wrap                    Yes x99    105gp
+  3 Gauntlets  rose embroidered white satin evening gloves   Yes x98    60gp
+  4 Boots      ankle-strapped pink satin pumps               Yes x95    60gp
+  5 Dresses    strapless sapphire blue silk gown             Yes x99    90gp
+  6 Cloaks     diamond-clasped black mink stole              Yes x98    105gp
+  7 Boots      ribbon-laced sapphire blue satin slippers     Yes x98    60gp
+  8 Dresses    backless black silk halter dress              Yes x91    90gp
+  9 Amulets    gold-threaded star patterned silk scarf       Yes x97    30gp
+ 10 Boots      black and gold leather open-toed sandals      Yes x94    60gp
+ 11 Shirts     soft crimson velvet bodice                    Yes x96    75gp
+ 12 Pants      flared black velvet side-splitted skirt       Yes x93    75gp
+ 13 Boots      ankle-strapped crimson leather stilettos      Yes x93    60gp
+ 14 Dresses    emerald green brocade spaghetti-strapped gown Yes x94    90gp
+ 15 Boots      glittering emerald green brocade slippers     Yes x92    60gp
+ 16 Cloaks     gold-threaded forest green silk vest          Yes x99    75gp
+ 17 Shirts     long-sleeved black cotton wing-tipped shirt   Yes x99    75gp
+ 18 Pants      pressed and creased black slacks              Yes x94    75gp
+ 19 Boots      polished black patent leather shoes           Yes x98    60gp
+ 20 Amulets    silver-trimmed black satin bowtie             Yes x98    30gp
+ 21 Beltpouche silver-trimmed black satin cummerbund         Yes x100   30gp
+ 22 Shirts     pleated white cotton shirt & black silk vest  Yes x98    75gp
+ 23 Cloaks     elegant black wool tuxedo coat with tails     Yes x98    75gp
+ 24 Pants      satin-trimmed black wool dress pants          Yes x98    75gp
+ 25 Boots      polished black leather wing-tip formal shoes  Yes x99    60gp
+ 26 Shirts     ruffled white cotton pearl-buttoned shirt     Yes x96    75gp
+ 27 Cloaks     knee-length black velvet tailed coat          Yes x99    75gp
+ 28 Pants      tight black broadcloth riding pants           Yes x98    75gp
+ 29 Helms      wide brimmed leather feathered hat            Yes x100   60gp
+ 30 Boots      knee-high black leather riding boots          Yes x99    60gp
+
+>
+Kraggon's group just entered through a soft crimson velvet curtain.
+
+Kraggon beams.
+l
+[Celebration Village, "Extravagance!" Clothing Shoppe.]
+
+Despite the humble outward appearance of the small cottage, the inside reveals a much fancier flare. Wrought iron wall sconces with multi-faceted crystals illuminate this room, giving it a quiet, distinguished ambience. Formal clothing of all styles for both men and women hang from oak posts attached to the walls. A fabulously dressed woman hums to herself as she checks each mannequin and straightens a collar or presses a dress.  A soft crimson velvet curtain and a wagon door are here.
+
+This room is illuminated.
+In the room are Cieran the Human, Irilathe the San Elf, and Kraggon the Noble Hithual.
+Obvious exits: None.
+>
+Kraggon says to Glinka, "Alloo"
+gig
+You giggle.
+' hya
+>
+Glinka says, " hya"
+>
+Irilathe says, "I'm sure Unknown has interest in more than one colour.  And one mustn't.   I never wear black, after all."
+
+Kraggon asks Glinka, "how are ye?"
+
+Cieran pulls you closer to him and kisses her cheek.
+' good and you?
+
+Glinka asks, " good and you?"
+smi at kr delicately , brushing back her kinky white hair
+>You smile at Kraggon delicately , brushing back her kinky white hair.
+gri to ci
+>You grin to Cieran.
+l
+>[Celebration Village, "Extravagance!" Clothing Shoppe.]
+
+Despite the humble outward appearance of the small cottage, the inside reveals a much fancier flare. Wrought iron wall sconces with multi-faceted crystals illuminate this room, giving it a quiet, distinguished ambience. Formal clothing of all styles for both men and women hang from oak posts attached to the walls. A fabulously dressed woman hums to herself as she checks each mannequin and straightens a collar or presses a dress.  A soft crimson velvet curtain and a wagon door are here.
+
+This room is illuminated.
+In the room are Cieran the Human, Irilathe the San Elf, and Kraggon the Noble Hithual.
+Obvious exits: None.
+shop list all
+>
+Id# Item Type  Item Name                                     New Qty    Value
+--- ---------- --------------------------------------------- --- ------ -----
+  1 Dresses    flowing pink and white chiffon evening gown   Yes x100   90gp
+  2 Cloaks     shimmering pink satin wrap                    Yes x99    105gp
+  3 Gauntlets  rose embroidered white satin evening gloves   Yes x98    60gp
+  4 Boots      ankle-strapped pink satin pumps               Yes x95    60gp
+  5 Dresses    strapless sapphire blue silk gown             Yes x99    90gp
+  6 Cloaks     diamond-clasped black mink stole              Yes x98    105gp
+  7 Boots      ribbon-laced sapphire blue satin slippers     Yes x98    60gp
+  8 Dresses    backless black silk halter dress              Yes x91    90gp
+  9 Amulets    gold-threaded star patterned silk scarf       Yes x97    30gp
+ 10 Boots      black and gold leather open-toed sandals      Yes x94    60gp
+ 11 Shirts     soft crimson velvet bodice                    Yes x96    75gp
+ 12 Pants      flared black velvet side-splitted skirt       Yes x93    75gp
+ 13 Boots      ankle-strapped crimson leather stilettos      Yes x93    60gp
+ 14 Dresses    emerald green brocade spaghetti-strapped gown Yes x94    90gp
+ 15 Boots      glittering emerald green brocade slippers     Yes x92    60gp
+ 16 Cloaks     gold-threaded forest green silk vest          Yes x99    75gp
+ 17 Shirts     long-sleeved black cotton wing-tipped shirt   Yes x99    75gp
+ 18 Pants      pressed and creased black slacks              Yes x94    75gp
+ 19 Boots      polished black patent leather shoes           Yes x98    60gp
+ 20 Amulets    silver-trimmed black satin bowtie             Yes x98    30gp
+ 21 Beltpouche silver-trimmed black satin cummerbund         Yes x100   30gp
+ 22 Shirts     pleated white cotton shirt & black silk vest  Yes x98    75gp
+ 23 Cloaks     elegant black wool tuxedo coat with tails     Yes x98    75gp
+ 24 Pants      satin-trimmed black wool dress pants          Yes x98    75gp
+ 25 Boots      polished black leather wing-tip formal shoes  Yes x99    60gp
+ 26 Shirts     ruffled white cotton pearl-buttoned shirt     Yes x96    75gp
+ 27 Cloaks     knee-length black velvet tailed coat          Yes x99    75gp
+ 28 Pants      tight black broadcloth riding pants           Yes x98    75gp
+ 29 Helms      wide brimmed leather feathered hat            Yes x100   60gp
+ 30 Boots      knee-high black leather riding boots          Yes x99    60gp
+
+>
+Cieran says to Irilathe, "yes but folk look at me and say "Ah - a cleric.  I shall dump my emotional and spiritual load on HIS shoulders""
+
+Cieran nods.
+
+A bright red cardinal just flew in behind you at 5 UDs!
+
+Cieran says to Irilathe, "sort of like free advertising"
+gri
+
+The bright red cardinal soars up into the air.
+You grin.
+>
+Cieran grins.
+smi at car impishly, tossing her long soft hair back...
+You smile at the bright red cardinal impishly, tossing her long soft hair back...
+l
+>[Celebration Village, "Extravagance!" Clothing Shoppe.]
+
+Despite the humble outward appearance of the small cottage, the inside reveals a much fancier flare. Wrought iron wall sconces with multi-faceted crystals illuminate this room, giving it a quiet, distinguished ambience. Formal clothing of all styles for both men and women hang from oak posts attached to the walls. A fabulously dressed woman hums to herself as she checks each mannequin and straightens a collar or presses a dress.  A soft crimson velvet curtain and a wagon door are here.
+
+This room is illuminated.
+You see the 1st bright red cardinal.
+In the room are Cieran the Human, Irilathe the San Elf, and Kraggon the Noble Hithual.
+Obvious exits: None.
+>
+The bright red cardinal descends to 15 feet.
+pet car
+Too far!  You must close some distance before you can try that.
+>
+The bright red cardinal returns to center rank.
+l at kr
+
+Kraggon looks like a 4'5" standard mature average boned, stocky bodied Hithual.
+He has long, tied back, coarse sandy blonde hair with a long, gray beard, hazel eyes, and looks neat.
+He appears to be wary right now.
+He bears the mark of Odarous.
+He can be attacked by other players.
+He appears to be in perfect health.
+There is a shining gold emblem affixed to his clothing.
+                        Visible Equipment
+A drathain edged steel battle axe                  (right hand)
+Some damaged heavy eagle etched steel plate mail   (armor)
+A weathered oak barrel lid                         (shield)
+An eagle shaped gold torc                          (around neck)
+Some gold buckled leather boots                    (on feet)
+A warm bearskin cloak                              (over armor)
+Some fitted grey tweed pants                       (pants)
+A pale blue broadcloth shirt                       (shirt)
+An open red and blue plaid wool beltpouch          (on belt)
+
+He has been bestowed the following title(s):
+  Noble of the Realm
+
+Additional titles earned:
+  Lord of the Realm of Spur
+
+>
+The bright red cardinal glares downward!
+
+Kraggon furrows his brow.
+
+Cieran exclaims to the bright red cardinal, "repent! The end is nigh.... ooooh!"
+
+Kraggon asks, "whar now?"
+gig
+You giggle.
+>
+The bright red cardinal wanders out via the soft crimson velvet curtain.
+
+Cieran says to Glinka, "I have a question"
+l at ir
+
+Irilathe looks like a 4'9" standard young average boned, wiry-tough bodied San Elf.
+She has long, braided, fine purplish black hair, with dull black eyes, and looks spotless.
+She appears to be dumbfounded right now.
+She bears the mark of Set.
+She can be attacked by other players.
+
+On her neck, at the base of her throat, is a tiny coiled violet serpent.
+
+She appears to be in perfect health.
+
+Physical appearance:
+
+Her dress is soft lilac velvet.  The neckline is square, the bodice slightly fitted, and the skirt falls to mid-calf, hemmed by a band of darker lilac embroidered with serpents.  A circlet of dried flowers is tilted at a rakish angle.
+
+                        Visible Equipment
+A circlet of purple and white dried flowers        (on head)
+A silver ribboned paper horn                       (hands)
+A dirty scratched crystalla Aienian bracelet       (over hands)
+Some delicate violet satin ribbon-laced slippers   (on feet)
+A serpentine embroidered lilac velvet dress        (dress)
+Some etched opal prayer beads                      (on belt)
+list
+>You listen intently.
+>
+Cieran asks Glinka, "you have been in the Spur a long while, aye?"
+' a bit yes
+
+Glinka says, " a bit yes"
+smi at ci gently, winking..
+>You smile at Cieran gently, winking..
+>
+Kraggon nods up and down.
+
+Irilathe says to Cieran, "I shall trade you.  They look at me and say, "That girl couldn't possibly be helpful."  They then criticize me for not dressing properly."
+gig to ir
+You giggle to Irilathe.
+>
+Cieran asks Glinka, "does the name Johnkirk Baynard ring a bell?  We surmise he was Archon before Armonius but it is proving dern hard to corroborate"
+nod no to ci , her long soft kinky white-blonde hair flying gently back and forth...
+You shake your head from side to side to Cieran, her long soft kinky white-blonde hair flying gently back and forth...
+' nevert heard that name
+>
+Glinka says, " nevert heard that name"
+>
+Cieran says to Irilathe, "I think you look fine"
+
+Cieran nods to you.
+
+Cieran says to Glinka, "thank you, love"
+' welcomes
+
+Glinka says, " welcomes"
+gig
+>You giggle.
+' off i go
+>
+Glinka says, " off i go"
+wav
+>You wave.
+dan
+>You dance around the room happily.
+l
+>[Celebration Village, "Extravagance!" Clothing Shoppe.]
+
+Despite the humble outward appearance of the small cottage, the inside reveals a much fancier flare. Wrought iron wall sconces with multi-faceted crystals illuminate this room, giving it a quiet, distinguished ambience. Formal clothing of all styles for both men and women hang from oak posts attached to the walls. A fabulously dressed woman hums to herself as she checks each mannequin and straightens a collar or presses a dress.  A soft crimson velvet curtain and a wagon door are here.
+
+This room is illuminated.
+In the room are Cieran the Human, Irilathe the San Elf, and Kraggon the Noble Hithual.
+Obvious exits: None.
+>
+Irilathe says to Cieran, "Thank you.  However, I'm told that proper sanae wander about dressed in scraps of black leather, and end sentences with prepositions."
+go wag
+[Celebration Village, Clothing Wagon.]
+
+The ground begins to slope slightly upward and the field of daisies slowly gives way to another field of golden grass. Children laugh and giggle as they roll down the hill, gaining speed and disappearing into a patch of high grass. A neatly paved cobblestone walkway meanders up the incline towards a small cottage which sits at the top of the rise. The windows of the cottage, despite all attempts to keep it clean, are smudged with the fingerprints of passers-by who have pressed themselves up to the glass to gain a better view before walking through the door.  A large wagon is here.
+
+This area is illuminated.
+Obvious paths: southeast* southwest*.
+sw
+>[Celebration Village.]
+
+A grinning Flerian runs in from the tree-lined path carrying a bright orange flower. Howling with glee, he stops and sniffs his find, as if it is the last flower of the season. As quickly as he appeared, he turns and suddenly dashes off back down the path. Cobblestone steps lead up to a stone cottage.  A glowing crystal street lantern and an open heavy banded oak door to a cottage are here.
+
+This area is illuminated.
+You see the 1st bright red cardinal.
+Obvious paths: northeast* southeast* southwest.
+go door
+>[Another Year Over]
+
+The sound of laughter echoes through the room as a group of children run about playing with various toys. Adults watch in amusement as they wait in line to purchase their party favors for the upcoming New Year. A devious human child cackles madly as she throws a popper at his sister, then smiles at his parents to avoid a scolding.  An open glass jar and an open heavy banded oak door are here.
+
+This room is illuminated.
+Obvious exits: None.
+shop list all
+>
+Id# Item Type  Item Name                                     New Qty    Value
+--- ---------- --------------------------------------------- --- ------ -----
+  1 Helms      festive pointed paper hat                     Yes x100   2gp
+  2 Helms      silver colored paper tiara                    Yes x100   2gp
+  3 Beltpouche closed colorful sack of goodies               Yes x87    5gp
+  4 Misc       twisted colorful paper popper                 Yes x99    50sp
+  5 Music      shiny tin kazoo                               Yes x93    10gp
+  6 Music      loud silver whirly gig                        Yes x94    10gp
+  7 Misc       colorful curling paper blow out               Yes x100   1gp
+  8 Misc       gold tasseled blow out                        Yes x99    1gp
+  9 Wpn/Thrown strand of shiny serpentine throws             Yes x95    1gp+99sp
+ 10 Wpn/Sharp  animal shaped purple balloon                  Yes x94    1gp
+ 11 Music      long silver prismatic horn                    Yes x95    10gp
+ 12 Beltpouche closed jar of pink bubbles                    Yes x92    3gp
+ 13 Misc       plush Father Time doll                        Yes x98    1gp
+ 14 Misc       plush Secian babydoll in a diaper             Yes x96    1gp
+
+l in jar
+>Inside the open small glass jar of leeches you see a fat slimy leech and a fat slimy leech.
+get jar
+>Hmmm, it appears to be stuck in place!
+get lee from jar
+>You remove the fat slimy leech from your open small glass jar of leeches.
+>
+Your glowing swirling multicolored globe flickers for a moment.
+sw
+You cannot move in that direction.
+go door
+>[Celebration Village.]
+
+A grinning Flerian runs in from the tree-lined path carrying a bright orange flower. Howling with glee, he stops and sniffs his find, as if it is the last flower of the season. As quickly as he appeared, he turns and suddenly dashes off back down the path. Cobblestone steps lead up to a stone cottage.  A glowing crystal street lantern and an open heavy banded oak door to a cottage are here.
+
+This area is illuminated.
+You see the 1st bright red cardinal.
+Obvious paths: northeast southeast* southwest.
+put lee in jar
+>You place the fat slimy leech within your open small glass jar of leeches.
+put jar in he
+>You place the open small glass jar of leeches within your open plaid leather healer's bag.
+>
+The bright red cardinal soars up into the air.
+sw
+[Celebration Village.]
+
+People excitedly pass by, glancing down at the festival map purchased at the souvenirs shop while discussing the next shop to visit. To the southeast, the top of a deep blue tent can be seen through the gaps of the trees which line the cobblestone pathway. Children gleefully skip around the meandering adults, plucking flowers from flower beds and tooting on shiny horns with ribbons before darting towards the candy shop.  A blooming flower bed and a silver ribboned satin tent are here.
+
+This area is illuminated.
+You see the 1st grumpy old human.
+Obvious paths: northeast* southeast* southwest*.
+go te
+>[Souvenir Tent.]
+
+A jovial human, with slightly reddened cheeks and nose, sits with his feet propped up on a heavy wooden table which displays souvenir wares from the festival grounds. He lifts his festival mug high into the air to greet each and every patron before taking a long draw from it. Several mugs line the table, and with a grin, he assures his customers with a hearty laugh that he has not drank from any of them.   A shimmering silver satin tent flap is here.
+
+This room is illuminated.
+Obvious exits: None.
+shop list all
+>
+Id# Item Type  Item Name                                     New Qty    Value
+--- ---------- --------------------------------------------- --- ------ -----
+  1 Music      ivy etched yew panpipe                        Yes x94    9gp
+  3 Wpn/Blunt  oak-handled multicolored umbrella             Yes x98    5gp+40sp
+  4 Amulets    rose shaped gold pendant                      Yes x98    18gp
+  5 Rings      thin etched platinum ring                     Yes x99    18gp
+  6 Helms      circlet of purple and white dried flowers     Yes x97    9gp
+  7 Misc       glossy hand-painted Garden portrait           Yes x99    45sp
+  8 Misc       folded list of scheduled events               Yes x99    45sp
+  9 Drink      closed lid covered festival mug               Yes x98    4gp+50sp
+ 10 Misc       festival grounds map                          Yes x94    45sp
+ 11 Backpacks  closed soft brown suede backpack              Yes x67    27gp
+
+shop ex 27
+>We don't have any of those in stock right now.
+shop ex 11
+>You examine the closed soft brown suede backpack...
+
+It is in new condition.
+It weighs about 0.1 lbs (at human size)
+It can hold other objects within it.
+It can hold up to 30 objects.
+It can hold up to 70.0 lbs weight.
+
+go door
+>I don't see what you are referring to.
+go te
+>[Celebration Village.]
+
+People excitedly pass by, glancing down at the festival map purchased at the souvenirs shop while discussing the next shop to visit. To the southeast, the top of a deep blue tent can be seen through the gaps of the trees which line the cobblestone pathway. Children gleefully skip around the meandering adults, plucking flowers from flower beds and tooting on shiny horns with ribbons before darting towards the candy shop.  A blooming flower bed and a silver ribboned satin tent are here.
+
+This area is illuminated.
+You see the 1st grumpy old human.
+Obvious paths: northeast* southeast* southwest*.
+sw
+>[Celebration Village, Hillside.]
+
+Fragrant, ribbon tied, roses, daisies and tulips are carefully placed along a long pine fence, which separates a beautiful grassy park with a tall muddy hill. Several granite benches are placed sporadically in the carefully manicured grass. A small pond resides in the center of the park, and many partake in its fresh water to take a quick bath and remove the mud from the hill above. A tall arch, carved with the likenesses of forest creatures leads the way to the fun to be had on the muddy hill beyond.  A glowing crystal street lantern and a tall carved archway are here.
+
+This area is illuminated.
+Obvious paths: northeast* southeast*.
+go ar
+>
+As you pass through, there is a twist, and a feeling of distance...
+
+[King of the Hill Arena.]
+
+Fragrant wildflowers and tall grass line both sides of a small trail here. Travel is difficult due to thick vegetation, which has grown out of control. As you look above the greenery, you see Gorgon Hill.  A large muddy portal and a glowing emerald sphere are here.
+
+This room is illuminated.
+Obvious exits: north*.
+go po
+>
+As you pass through, there is a twist, and a feeling of distance...
+
+[Celebration Village, Hillside.]
+
+Fragrant, ribbon tied, roses, daisies and tulips are carefully placed along a long pine fence, which separates a beautiful grassy park with a tall muddy hill. Several granite benches are placed sporadically in the carefully manicured grass. A small pond resides in the center of the park, and many partake in its fresh water to take a quick bath and remove the mud from the hill above. A tall arch, carved with the likenesses of forest creatures leads the way to the fun to be had on the muddy hill beyond.  A glowing crystal street lantern and a tall carved archway are here.
+
+This area is illuminated.
+Obvious paths: northeast southeast*.
+se
+>[Celebration Village, Cottage.]
+
+As the wind blows softly through the trees, a small bird flitters from branch to branch high above. The squawk of a bird in flight and the chattering of a small animal making his home among the local brush is all that disturbs this serene location. A golden glow radiates from tiny candles in the windows of a small stone cottage. A trail of blue iris leads into the abode, and stacks of firewood, waiting for the colder weather, rest to the right side of the entryway.  A tall blooming fir tree, a glowing crystal street lantern, and an open round mahogany cottage door are here.
+
+This area is illuminated.
+Obvious paths: northeast* southeast* northwest*.
+go door
+>I don't see what you are referring to.
+go cot
+>[Silvy's Place]
+
+Decorated with fragrant candles and beads of all hues on the rainbow, this small wagon exudes a truly comfortable feeling. Plush crimson red velvet floor cushions surround a small wooden table, which has intricate spring scenes carved into its surface. A small stage rests in the northern corner for merchants to show off their wares.  Some deep crimson velvet pillows, an ornate wooden table, and a round mahogany door are here.
+
+This room is illuminated.
+Obvious exits: None.
+shop list all
+>There is no shop here!
+go door
+>[Celebration Village, Cottage.]
+
+As the wind blows softly through the trees, a small bird flitters from branch to branch high above. The squawk of a bird in flight and the chattering of a small animal making his home among the local brush is all that disturbs this serene location. A golden glow radiates from tiny candles in the windows of a small stone cottage. A trail of blue iris leads into the abode, and stacks of firewood, waiting for the colder weather, rest to the right side of the entryway.  A tall blooming fir tree, a glowing crystal street lantern, and an open round mahogany cottage door are here.
+
+This area is illuminated.
+Obvious paths: northeast* southeast* northwest*.
+se
+>[Celebration Village, Flowery Path.]
+
+Bright yellow rose bushes, and multicolored snapdragons, flank a sinuous path around the village. A black-tailed deer sprints with graceful and lithe movements, as he leaps over the small path. A gentle breeze wafts through the air, dizzying the tree's branches as they sway slowly. Colorful birds sing harmonious melodies while they soar through the skies.  A glowing candle filled crystal street lantern and an open dark purple tent are here.
+
+This area is illuminated.
+Obvious paths: northeast southeast* northwest*.
+go te
+>[Celebration Village, Peddle Tent.]
+
+Small delicate lilac shaped lamps flicker slightly, their glass petals throwing purple light throughout the area. Heavy magenta colored fabric hangs from the top post of the tent, the flowing canvas carried overhead and down the sides of the polished wooden frame, making up the walls of this enclosure. A small stage, painted plum, sits opposite the rolled tent flap and is surrounded by a variety of small flowers. Orchids, lavender and lilac emit their sweet scents into the air.  An open dark purple tent flap and a gem sign are here.
+
+This room is illuminated.
+Obvious exits: None.
+shop list all
+>There is no shop here!
+re si
+>I don't see what you are referring to.
+re ge
+>
+The gem sign reads:
+"Special Festival Prices for jewelry:
+150 per ring, necklace, earring
+200 gold extra for a long description
+200 gold for writing upon the item"
+go te
+>[Celebration Village, Flowery Path.]
+
+Bright yellow rose bushes, and multicolored snapdragons, flank a sinuous path around the village. A black-tailed deer sprints with graceful and lithe movements, as he leaps over the small path. A gentle breeze wafts through the air, dizzying the tree's branches as they sway slowly. Colorful birds sing harmonious melodies while they soar through the skies.  A glowing candle filled crystal street lantern and an open dark purple tent are here.
+
+This area is illuminated.
+Obvious paths: northeast southeast* northwest*.
+se
+>[Celebration Village, Marble Tower.]
+
+Flowers and long trails of ivy are entwined along the rails of the beautiful marble bridge. Across the bridge, a towering building, made of a single piece of pure white marble glows softly, independent of any other light. A soft wind rustles through the beautiful greenery landscaping the field surrounding the marble edifice. A lovely walk across the bridge is a favorite of lovers and friends alike, many stopping to throw a coin or two into the small creek below.  A beautifully carved marble bridge and a glowing candle filled crystal street lantern are here.
+
+This area is illuminated.
+Obvious paths: northeast* northwest*.
+nw
+>[Celebration Village, Flowery Path.]
+
+Bright yellow rose bushes, and multicolored snapdragons, flank a sinuous path around the village. A black-tailed deer sprints with graceful and lithe movements, as he leaps over the small path. A gentle breeze wafts through the air, dizzying the tree's branches as they sway slowly. Colorful birds sing harmonious melodies while they soar through the skies.  A glowing candle filled crystal street lantern and an open dark purple tent are here.
+
+This area is illuminated.
+Obvious paths: northeast southeast* northwest*.
+nw
+>[Celebration Village, Cottage.]
+
+As the wind blows softly through the trees, a small bird flitters from branch to branch high above. The squawk of a bird in flight and the chattering of a small animal making his home among the local brush is all that disturbs this serene location. A golden glow radiates from tiny candles in the windows of a small stone cottage. A trail of blue iris leads into the abode, and stacks of firewood, waiting for the colder weather, rest to the right side of the entryway.  A tall blooming fir tree, a glowing crystal street lantern, and an open round mahogany cottage door are here.
+
+This area is illuminated.
+Obvious paths: northeast* southeast* northwest*.
+nw
+>[Celebration Village, Hillside.]
+
+Fragrant, ribbon tied, roses, daisies and tulips are carefully placed along a long pine fence, which separates a beautiful grassy park with a tall muddy hill. Several granite benches are placed sporadically in the carefully manicured grass. A small pond resides in the center of the park, and many partake in its fresh water to take a quick bath and remove the mud from the hill above. A tall arch, carved with the likenesses of forest creatures leads the way to the fun to be had on the muddy hill beyond.  A glowing crystal street lantern and a tall carved archway are here.
+
+This area is illuminated.
+Obvious paths: northeast southeast*.
+se
+se
+se
+>[Celebration Village, Cottage.]
+
+As the wind blows softly through the trees, a small bird flitters from branch to branch high above. The squawk of a bird in flight and the chattering of a small animal making his home among the local brush is all that disturbs this serene location. A golden glow radiates from tiny candles in the windows of a small stone cottage. A trail of blue iris leads into the abode, and stacks of firewood, waiting for the colder weather, rest to the right side of the entryway.  A tall blooming fir tree, a glowing crystal street lantern, and an open round mahogany cottage door are here.
+
+This area is illuminated.
+Obvious paths: northeast* southeast* northwest*.
+[Celebration Village, Flowery Path.]
+
+Bright yellow rose bushes, and multicolored snapdragons, flank a sinuous path around the village. A black-tailed deer sprints with graceful and lithe movements, as he leaps over the small path. A gentle breeze wafts through the air, dizzying the tree's branches as they sway slowly. Colorful birds sing harmonious melodies while they soar through the skies.  A glowing candle filled crystal street lantern and an open dark purple tent are here.
+
+This area is illuminated.
+Obvious paths: northeast southeast* northwest*.
+[Celebration Village, Marble Tower.]
+
+Flowers and long trails of ivy are entwined along the rails of the beautiful marble bridge. Across the bridge, a towering building, made of a single piece of pure white marble glows softly, independent of any other light. A soft wind rustles through the beautiful greenery landscaping the field surrounding the marble edifice. A lovely walk across the bridge is a favorite of lovers and friends alike, many stopping to throw a coin or two into the small creek below.  A beautifully carved marble bridge and a glowing candle filled crystal street lantern are here.
+
+This area is illuminated.
+Obvious paths: northeast* northwest*.
+l at bri
+>It looks like a beautifully carved marble bridge.
+l through bri
+l under bri
+l behind bri
+l on bri
+l in bri
+>[Marble Tower, Ball Room.]
+
+Floating within this massive marble edifice are stars and moon shaped orbs bouncing high above on unseen air currents. A silvery tapestry adorning the far wall depicts Spurian History, woven with the finest threads of pale blue, amber, green, and hues of red. Delicate chimes ring in the air, as an enchanting melody plays softly, calming even the most tempestuous spirit. Standing within the confines of this beautiful marble tower, gives the impression that one stands within history itself, looking out at the future through the celestial heavens of the New Year.  A beautiful marble bridge is here.
+
+This room is illuminated.
+Obvious exits: south*.
+>There is nothing underneath that.
+>There is nothing behind that.
+>There is nothing on top of that.
+>There is nothing inside that.
+l
+>[Celebration Village, Marble Tower.]
+
+Flowers and long trails of ivy are entwined along the rails of the beautiful marble bridge. Across the bridge, a towering building, made of a single piece of pure white marble glows softly, independent of any other light. A soft wind rustles through the beautiful greenery landscaping the field surrounding the marble edifice. A lovely walk across the bridge is a favorite of lovers and friends alike, many stopping to throw a coin or two into the small creek below.  A beautifully carved marble bridge and a glowing candle filled crystal street lantern are here.
+
+This area is illuminated.
+Obvious paths: northeast* northwest*.
+ne
+>[Celebration Village.]
+
+Towering trees full of leaves sway as gust of wind moves through their branches. A scampering squirrel hops from branch to branch, hanging tightly on to a newly found treasure. A gentle wind sighs a slow, lingering song above. The path winds itself towards the entrance of a black velvet tent. A sign outside the tent shows a beautiful creation being etched upon a Thugian's arm, the words above the pictorial read, "Tattoos."   A rich black velvet flag with tatoo designs, some glowing diamond lanterns, and an open deep black velvet tent are here.
+
+This area is illuminated.
+You see the 1st cheerful young human caroller.
+In the area are Skar the Monitanian (holding a glowing mysterious vial of acid yellow swamp gas), Cieran the Human, Saul the Oog-ra, Irilathe the San Elf, Kraggon the Noble Hithual, and September the Noble Leuian.
+Obvious paths: northeast* southwest* northwest.
+>
+The cheerful young human caroller mumbles something under her breath.
+nw
+[Celebration Village.]
+
+The cobblestone path winds its way between lush trees that bloom tiny white flowers. A gentle breeze blows through the area, causing the buds to shake and flutter softly onto the ground. Boisterous laughter can be heard echoing from within two large cottages which causes the pathway to fork to the southwest and southeast. Above one door, a sign reads "The Bounty Bar," and above the other there is a sign that reads "The Bounty Dining Hall." A few children lean lazily against one of the building structure, sipping on glasses of raspberry fizz and chocolate milk as they wait for their parents. An adolescent drag-al, grinning from ear to ear, darts out of the tavern holding a bottle of champagne, grabs his friend and drags him quickly to the southeast.  A pot of flowering red and white geraniums, a barrel shaped wooden door, and a paneled mahogany door are here.
+
+This area is illuminated.
+You see the 1st sleek black panther (wearing a small gold collar), the 1st wolf (wearing a small gold collar), and the 1st floppy-eared dust bunny (wearing a small gold collar).
+Obvious paths: north* southeast* southwest*.
+go door
+>[The Bounty Bar.]
+
+Glistening ribbons of light slowly circle through the air from the windows high above. Large polished oak tables and chairs are lined up neatly across the opalescent white marble floor. Orange and red flames lick the air from a small fire in a stone pit in the center of the room. Carvings upon the stones read like a who's who of Hithuals. Looking closely you can make out names of the many long gone who enjoyed an ale or two in this tavern. Smoke billows to the top of the cottage, letting itself out through a small window. Scantily clad waitresses bustle about, making sure nary an ale mug, nor a wine glass goes empty.  A barrel shaped wooden door is here.
+
+This room is illuminated.
+Obvious exits: None.
+shop list all
+>
+Id# Item Type  Item Name                                     New Qty    Value
+--- ---------- --------------------------------------------- --- ------ -----
+  1 Drink      bottle of bubbling champagne                  Yes x99    40gp
+  2 Drink      frosted fluted champagne glass                Yes x93    5gp
+  3 Drink      cask of fruity red wine                       Yes x100   35gp
+  4 Drink      delicate etched wine glass                    Yes x95    5gp
+  5 Drink      frothy mug of Aerhauven brew                  Yes x98    5gp
+  6 Drink      glass of sparkling white grape juice          Yes x97    4gp
+  7 Drink      cup of warm apricot cider                     Yes x99    4gp
+  8 Drink      mug of hot spiced apple cider                 Yes x98    4gp
+  9 Drink      glass of mint chocolate milk                  Yes x99    3gp
+ 10 Drink      bubbly glass of raspberry fizz                Yes x99    3gp
+ 11 Drink      glass of refreshing water with lime           Yes x91    2gp
+ 12 Drink      smooth icy cherry drink                       Yes x97    3gp
+ 13 Drink      steaming mug of nutmeg topped eggnog          Yes x98    3gp
+
+go door
+>[Celebration Village.]
+
+The cobblestone path winds its way between lush trees that bloom tiny white flowers. A gentle breeze blows through the area, causing the buds to shake and flutter softly onto the ground. Boisterous laughter can be heard echoing from within two large cottages which causes the pathway to fork to the southwest and southeast. Above one door, a sign reads "The Bounty Bar," and above the other there is a sign that reads "The Bounty Dining Hall." A few children lean lazily against one of the building structure, sipping on glasses of raspberry fizz and chocolate milk as they wait for their parents. An adolescent drag-al, grinning from ear to ear, darts out of the tavern holding a bottle of champagne, grabs his friend and drags him quickly to the southeast.  A pot of flowering red and white geraniums, a barrel shaped wooden door, and a paneled mahogany door are here.
+
+This area is illuminated.
+You see the 1st sleek black panther (wearing a small gold collar), the 1st wolf (wearing a small gold collar), and the 1st floppy-eared dust bunny (wearing a small gold collar).
+Obvious paths: north* southeast* southwest*.
+go 2 doo
+>[The Bounty Dining Hall.]
+
+The mingling of various spices arouses the senses, and makes one feel as if they are lost in a world of aroma. Glass covered candles flicker atop low rows of tables, illuminating the numerous autographed portraits of those who have visited this dinery in the past. The dark mahogany floors have been polished to a keen shine. A couple of secians have taken to using it to their advantage, slying using the mirror-like surface to peer up the skirts of the waitresses which have stopped to take patrons orders.   Some mahogany tables with benches, some artfully drawn portraits, and a paneled mahogany door are here.
+
+This room is illuminated.
+Obvious exits: None.
+shop list all
+>
+Id# Item Type  Item Name                                     New Qty    Value
+--- ---------- --------------------------------------------- --- ------ -----
+  1 Misc       heavy ornate crystal dinner plate             Yes x50    2sp
+  2 Food       savory slice of venison steak                 Yes x89    2gp
+  3 Food       roasted mint glazed leg of lamb               Yes x94    2gp
+  4 Food       bowl of steaming mutton stew                  Yes x99    2gp
+  5 Food       cherry glazed chicken leg                     Yes x92    2gp
+  6 Food       bowl of aged haggis                           Yes x96    2gp
+  7 Food       barbecued rack of ribs                        Yes x96    2gp
+  8 Food       slice of peppered elk steak                   Yes x89    2gp
+  9 Food       pile of wine braised pork                     Yes x98    2gp
+ 10 Food       roasted leg of wild turkey                    Yes x98    2gp
+ 11 Food       steaming baked sweet potato                   Yes x94    1gp
+ 12 Food       spicy stuffed green pepper                    Yes x91    1gp
+ 13 Food       lightly buttered asparagus tips               Yes x87    1gp
+ 14 Food       garlic roasted mixed vegetables               Yes x97    1gp
+ 15 Food       crisp steamed green beans                     Yes x95    1gp
+ 16 Food       fresh colorful salad                          Yes x88    1gp
+ 17 Food       tangy and tart pineapple ring                 Yes x90    1gp
+ 18 Food       lightly sugared fruit cup                     Yes x94    1gp
+ 19 Food       slice of warm cherry pie                      Yes x96    1gp+50sp
+
+go door
+>[Celebration Village.]
+
+The cobblestone path winds its way between lush trees that bloom tiny white flowers. A gentle breeze blows through the area, causing the buds to shake and flutter softly onto the ground. Boisterous laughter can be heard echoing from within two large cottages which causes the pathway to fork to the southwest and southeast. Above one door, a sign reads "The Bounty Bar," and above the other there is a sign that reads "The Bounty Dining Hall." A few children lean lazily against one of the building structure, sipping on glasses of raspberry fizz and chocolate milk as they wait for their parents. An adolescent drag-al, grinning from ear to ear, darts out of the tavern holding a bottle of champagne, grabs his friend and drags him quickly to the southeast.  A pot of flowering red and white geraniums, a barrel shaped wooden door, and a paneled mahogany door are here.
+
+This area is illuminated.
+You see the 1st sleek black panther (wearing a small gold collar), the 1st wolf (wearing a small gold collar), and the 1st floppy-eared dust bunny (wearing a small gold collar).
+Obvious paths: north* southeast* southwest*.
+n
+>[Festival of Remembrance, Celebration Village.]
+
+Old cobblestone pathways branch off in many directions, winding through this enchanting village. The thick boughs of trees cover the path in a comforting hug. A soft glow warms the earth as the heavens' celestial orb casts a halo of through the treetops. Bells chime quietly in remembrance of those long gone.  A glowing crystal street lantern, a carved white marble block, some flowing multicolored silk streamers, a beautifully carved white marble bench, and a flower covered marble arch are here.
+
+This area is illuminated.
+Obvious paths: north* east* south* west*.
+w
+>[Celebration Village.]
+
+Ribbons and yellow roses adorn the majestic and towering trees. The sweet scent of blooming flowers carries on the air on a soft breeze. The sounds of laughter and gaiety float out through the tent erected on this beautiful grassy knoll.  A deep blue silk tent and a glowing crystal street lantern are here.
+
+This area is illuminated.
+You see the 1st bright red flittering hummingbird.
+Obvious paths: east* southwest* northwest.
+go te
+>[Celebration Village Stage.]
+
+Color ribbons drape loosely from corner to corner in this tent. From the center of the room, an intricately carved wooden chandelier hangs. The burning candles pour a gentle light around the room, providing a faint beam of light that encircles the gold-trimmed rosewood stage. Intricately carved tables and padded chairs are scattered about in front of a rosewood stage.  A gold-trimmed rosewood stage and a deep blue silk tent flap are here.
+
+This room is illuminated.
+Obvious exits: None.
+shop list all
+>
+Id# Item Type  Item Name                                     New Qty    Value
+--- ---------- --------------------------------------------- --- ------ -----
+  1 Misc       heavy ornate crystal dinner plate             Yes x50    2sp
+  2 Food       savory slice of venison steak                 Yes x89    2gp
+  3 Food       roasted mint glazed leg of lamb               Yes x94    2gp
+  4 Food       bowl of steaming mutton stew                  Yes x99    2gp
+  5 Food       cherry glazed chicken leg                     Yes x92    2gp
+  6 Food       bowl of aged haggis                           Yes x96    2gp
+  7 Food       barbecued rack of ribs                        Yes x96    2gp
+  8 Food       slice of peppered elk steak                   Yes x89    2gp
+  9 Food       pile of wine braised pork                     Yes x98    2gp
+ 10 Food       roasted leg of wild turkey                    Yes x98    2gp
+ 11 Food       steaming baked sweet potato                   Yes x94    1gp
+ 12 Food       spicy stuffed green pepper                    Yes x91    1gp
+ 13 Food       lightly buttered asparagus tips               Yes x87    1gp
+ 14 Food       garlic roasted mixed vegetables               Yes x97    1gp
+ 15 Food       crisp steamed green beans                     Yes x95    1gp
+ 16 Food       fresh colorful salad                          Yes x88    1gp
+ 17 Food       tangy and tart pineapple ring                 Yes x90    1gp
+ 18 Food       lightly sugared fruit cup                     Yes x94    1gp
+ 19 Food       slice of warm cherry pie                      Yes x96    1gp+50sp
+
+go door
+>I don't see what you are referring to.
+go te
+>[Celebration Village.]
+
+Ribbons and yellow roses adorn the majestic and towering trees. The sweet scent of blooming flowers carries on the air on a soft breeze. The sounds of laughter and gaiety float out through the tent erected on this beautiful grassy knoll.  A deep blue silk tent and a glowing crystal street lantern are here.
+
+This area is illuminated.
+You see the 1st bright red flittering hummingbird.
+Obvious paths: east* southwest* northwest.
+e
+>[Festival of Remembrance, Celebration Village.]
+
+Old cobblestone pathways branch off in many directions, winding through this enchanting village. The thick boughs of trees cover the path in a comforting hug. A soft glow warms the earth as the heavens' celestial orb casts a halo of through the treetops. Bells chime quietly in remembrance of those long gone.  A glowing crystal street lantern, a carved white marble block, some flowing multicolored silk streamers, a beautifully carved white marble bench, and a flower covered marble arch are here.
+
+This area is illuminated.
+Obvious paths: north* east* south west*.
+e
+>[Celebration Village, Jewelry Shoppe.]
+
+A cobblestone path leads up to a small blue cottage nestled under the trees. Carvings of diamonds, rubies, and sapphires adorn the frame of the door that leads into Goody Trinket's small shop.  Across the walkway, a path weaves itself through a dense thicket. The path seems short as it disappears into the tangle of trees and shrubs. Festive laughter flies through the air on the wings of the wind.  A small blue cottage, an open ornate pale blue applewood door, and a glowing crystal street lantern are here.
+
+This area is illuminated.
+Obvious paths: northeast southeast* west*.
+go cot
+go door
+>>[Beryline's Gems.]
+
+An old gray haired woman sits on a giant rocking chair rocking back and forth slowly, knitting a colorful afghan while she sings a quiet song. The notes fall and rise as the fire quietly pops and crackles. The woman's pale blue eyes twinkle as she greets her customers with a wink and a smile. Her husband stands behind a beautiful glass case and passes his hand above the beautiful trinkets within. With a gentle smile, he inquires if you are interested in looking at any of his work.  An open ornate pale blue applewood door is here.
+
+This room is illuminated.
+Obvious exits: None.
+shop list all
+>
+Id# Item Type  Item Name                                     New Qty    Value
+--- ---------- --------------------------------------------- --- ------ -----
+  1 Gauntlets  star patterned diamond inlaid gold cuff links Yes x100   85gp
+  2 Helms      petite emerald-inlaid gold snood              Yes x99    85gp
+  3 Amulets    sword shaped moonsilver tie clip              Yes x99    85gp
+  4 Helms      rose-etched creamy white ivory hair sticks    Yes x93    85gp
+  5 Gauntlets  square dark blue sapphire cuff links          Yes x99    85gp
+  6 Amulets    strand of floating diamond hearts             Yes x96    85gp
+  7 Rings      charming black diamond pinky ring             Yes x98    85gp
+  8 Rings      gold filigree black ruby ring                 Yes x99    85gp
+  9 Earrings   dainty gold filigree emerald chandelier earring Yes x92    17gp
+ 10 Earrings   deep purple amethyst earring                  Yes x98    17gp
+ 11 Earrings   round gold-trimmed diamond earring            Yes x94    17gp
+ 12 Gauntlets  heavy linked gold bracelet                    Yes x99    85gp
+ 13 Beltpouche closed ornately etched platinum pocket watch  Yes x96    85gp
+ 14 Amulets    strand of sparkling rubies and diamonds       Yes x97    127gp+50sp
+ 15 Amulets    opal-studded fine gold chain                  Yes x99    85gp
+
+go door
+>[Celebration Village, Jewelry Shoppe.]
+
+A cobblestone path leads up to a small blue cottage nestled under the trees. Carvings of diamonds, rubies, and sapphires adorn the frame of the door that leads into Goody Trinket's small shop.  Across the walkway, a path weaves itself through a dense thicket. The path seems short as it disappears into the tangle of trees and shrubs. Festive laughter flies through the air on the wings of the wind.  A small blue cottage, an open ornate pale blue applewood door, and a glowing crystal street lantern are here.
+
+This area is illuminated.
+Obvious paths: northeast southeast* west*.
+w
+n
+>[Festival of Remembrance, Celebration Village.]
+
+Old cobblestone pathways branch off in many directions, winding through this enchanting village. The thick boughs of trees cover the path in a comforting hug. A soft glow warms the earth as the heavens' celestial orb casts a halo of through the treetops. Bells chime quietly in remembrance of those long gone.  A glowing crystal street lantern, a carved white marble block, some flowing multicolored silk streamers, a beautifully carved white marble bench, and a flower covered marble arch are here.
+
+This area is illuminated.
+Obvious paths: north* east* south west*.
+>[Celebration Village, Candy Cottage.]
+
+A gnarled willow tree stands like a towering sentinel over a small candy striped cottage. The tree's long, languid branches wave in the soft breeze. From up close you can make out the dulcet scent ofpeppermint, cinnamon, spices, and chocolate. A misty trail of white smoke billows steadily in rings from a stone chimney. As the sweet smell intoxicates the air, a small circle of children giggle and dance around a small fountain, splashing each other with its cool water.  An open pink gumdrop shaped door, a glowing crystal street lantern, and a multicolored pointed paper party hat are here.
+
+This area is illuminated.
+Obvious paths: northeast* south* northwest*.
+shop list all
+>There is no shop here!
+go gum
+>[The Sweet Tooth.]
+
+Children line up anxiously in front of a large glass display counter featuring various sugary treats. A pudgy, jovial human woman stands behind the counter, passing out small multicolored gum drops to outstretched, grass-stained hands. A secian flitters from the backroom carrying a tray of freshly baked chocolate chip cookies. The scent is tantalizing, causing a young Thugian child to drool helplessly. A tiny go-blin-al child jumps unsuccessfully in front of a tall shelf laden with a rainbow colored assortment of candy in attempts to grab a large green go-blin-al shaped marshmallow. An immature drag-al greedily cups his hands over a massive pile of chocolate gold coins, telling anyone who will listen, "I'm RICH!"  A glass counter and an open pink gumdrop shaped door are here.
+
+This room is illuminated.
+Obvious exits: None.
+shop list all
+>
+Id# Item Type  Item Name                                     New Qty    Value
+--- ---------- --------------------------------------------- --- ------ -----
+  1 Misc       closed bag of buttery popcorn                 Yes x91    1gp+50sp
+  2 Food       chocolate covered strawberry                  Yes x91    1gp
+  3 Food       white chocolate dipped apricot                Yes x88    1gp
+  4 Food       chewy sour fruit flavored candies             Yes x83    1gp
+  5 Food       white chocolate dipped pretzel                Yes x95    2gp
+  6 Food       sweet juicy sapodilla gum                     Yes x99    1gp
+  7 Food       long curling red licorice whip                Yes x90    1gp
+  8 Food       multicolored jelly beans                      Yes x97    2gp
+  9 Food       long black licorice vine                      Yes x96    1gp
+ 10 Food       chocolate and caramel covered apple           Yes x73    3gp
+ 11 Food       juicy red candied apple                       Yes x94    3gp
+ 12 Food       toffee covered cashews                        Yes x96    3gp
+ 13 Food       caramel and toffee popcorn ball               Yes x94    2gp
+ 14 Food       delectable chocolate pecan cluster            Yes x99    2gp
+ 15 Food       dark chocolate malt balls                     Yes x92    1gp+50sp
+ 16 Food       large multicolored lollipop                   Yes x96    2gp
+ 17 Food       red hot cinnamon lollipop                     Yes x84    1gp
+ 18 Food       soft chewy chocolate chip cookie              Yes x93    2gp
+ 19 Food       cinnamon covered snickerdoodle cookie         Yes x98    2gp
+ 20 Food       milk chocolate bar                            Yes x100   1gp
+
+l at gl
+>You find something suitably reflective and gaze into it...
+
+You look like a 1'2" standard adolescent delicate boned, wiry-tough bodied Secian Cleric.
+You have very long, wild, kinky white hair with a white streak, heavy lidded pale red eyes, and look translucent.
+You appear to be upset right now.
+You can be attacked by other players.
+
+On her breast is a small crescent shaped birthmark.
+
+On her neck is a purple marked tattoo of the house of Mandor.
+
+On her belly is a tark tribal circle around the navel.
+
+On her back are glimmering deep Hyacinth wings with draconic runes in Golde upon them.
+
+On her head, behing left ear is a deep blue Something.
+
+You appear to be in perfect health.
+There is a shining gold emblem affixed to your clothing.
+
+Physical appearance:
+
+You see an ageless, tymless, spryte with long wild kinky whyte hair with a glowing whyte streak and sleepy eyes...She is shivering in the cold wind to Valhalla...She has touched the Sky...
+
+                        Visible Equipment
+A glowing swirling multicolored globe              (left hand)
+A heavy polished steelwood mail                    (armor)
+A tiny moonsilver tongue piercing                  (on head)
+A moon shaped ivory talisman                       (around neck)
+A pair of ornate silver toe rings                  (on feet)
+Some multicolored black dragon wing charms         (over armor)
+A crescent moon earring                            (right ear)
+A silver serpentine hoop                           (left ear)
+A long violet silk skirt                           (pants)
+A delicately linked gold belly chain               (on belt)
+
+You have been bestowed the following title(s):
+  Noble of the Realm
+
+who d
+>Looking for a user with a name beginning with 'd'...
+
+Current Adventurers
+
+ Dyntran Mavanent                    Donathan Galagor                   
+ Dhameon Zeni                       
+
+You notice 3 adventurers.
+l
+>[The Sweet Tooth.]
+
+Children line up anxiously in front of a large glass display counter featuring various sugary treats. A pudgy, jovial human woman stands behind the counter, passing out small multicolored gum drops to outstretched, grass-stained hands. A secian flitters from the backroom carrying a tray of freshly baked chocolate chip cookies. The scent is tantalizing, causing a young Thugian child to drool helplessly. A tiny go-blin-al child jumps unsuccessfully in front of a tall shelf laden with a rainbow colored assortment of candy in attempts to grab a large green go-blin-al shaped marshmallow. An immature drag-al greedily cups his hands over a massive pile of chocolate gold coins, telling anyone who will listen, "I'm RICH!"  A glass counter and an open pink gumdrop shaped door are here.
+
+This room is illuminated.
+Obvious exits: None.
+go door
+>I don't see what you are referring to.
+go gum
+>[Celebration Village, Candy Cottage.]
+
+A gnarled willow tree stands like a towering sentinel over a small candy striped cottage. The tree's long, languid branches wave in the soft breeze. From up close you can make out the dulcet scent ofpeppermint, cinnamon, spices, and chocolate. A misty trail of white smoke billows steadily in rings from a stone chimney. As the sweet smell intoxicates the air, a small circle of children giggle and dance around a small fountain, splashing each other with its cool water.  An open pink gumdrop shaped door, a glowing crystal street lantern, and a multicolored pointed paper party hat are here.
+
+This area is illuminated.
+Obvious paths: northeast* south* northwest*.
+s
+>[Festival of Remembrance, Celebration Village.]
+
+Old cobblestone pathways branch off in many directions, winding through this enchanting village. The thick boughs of trees cover the path in a comforting hug. A soft glow warms the earth as the heavens' celestial orb casts a halo of through the treetops. Bells chime quietly in remembrance of those long gone.  A glowing crystal street lantern, a carved white marble block, some flowing multicolored silk streamers, a beautifully carved white marble bench, and a flower covered marble arch are here.
+
+This area is illuminated.
+Obvious paths: north* east* south west*.
+se
+>You cannot move in that direction.
+s
+>[Celebration Village.]
+
+The cobblestone path winds its way between lush trees that bloom tiny white flowers. A gentle breeze blows through the area, causing the buds to shake and flutter softly onto the ground. Boisterous laughter can be heard echoing from within two large cottages which causes the pathway to fork to the southwest and southeast. Above one door, a sign reads "The Bounty Bar," and above the other there is a sign that reads "The Bounty Dining Hall." A few children lean lazily against one of the building structure, sipping on glasses of raspberry fizz and chocolate milk as they wait for their parents. An adolescent drag-al, grinning from ear to ear, darts out of the tavern holding a bottle of champagne, grabs his friend and drags him quickly to the southeast.  A pot of flowering red and white geraniums, a barrel shaped wooden door, and a paneled mahogany door are here.
+
+This area is illuminated.
+You see the 1st sleek black panther (wearing a small gold collar).
+Obvious paths: north* southeast* southwest*.
+se
+>[Celebration Village.]
+
+Towering trees full of leaves sway as gust of wind moves through their branches. A scampering squirrel hops from branch to branch, hanging tightly on to a newly found treasure. A gentle wind sighs a slow, lingering song above. The path winds itself towards the entrance of a black velvet tent. A sign outside the tent shows a beautiful creation being etched upon a Thugian's arm, the words above the pictorial read, "Tattoos."   A rich black velvet flag with tatoo designs, some glowing diamond lanterns, and an open deep black velvet tent are here.
+
+This area is illuminated.
+You see the 1st cheerful young human caroller.
+In the area are Skar the Monitanian (holding a glowing mysterious vial of acid yellow swamp gas), Saul the Oog-ra, and September the Noble Leuian (hovering 20 feet above ground).
+Obvious paths: northeast* southwest* northwest*.
+>
+Skar nods up and down.
+go te
+[Celebration Village, Tattoos.]
+
+Black and silver stripes cover the walls of this airy tent. Warm air radiates around you from slow burning vanilla scented candles resting on tall wrought iron posts. The golden light produced bounces off the silver stripes on the tent walls. Several large backless sofas reside around the tent, for customers to lounge upon while waiting for service.  A deep black velvet tent flap and an open glimmering beaded curtain are here.
+
+This room is illuminated.
+In the room is Sephrix the Drag-al.
+Obvious exits: None.
+l at cur
+>It looks like an open glimmering beaded curtain.
+l through cur
+l under cur
+l behind cur
+l on cur
+l in cur
+>[Back Room.]
+
+Black and silver continues as the motif through the back area of the tent. Dominating the center of the room presides a mahogany finished table with a large elegant mirror standing directly next to it. A plush red chair rests in front of the table welcoming you to sit down. Scattered on top of the table are various implements, all used for the coloring of skin, fur, or scales. In the background, the soft, peaceful ringing of wind chimes can be heard.  A mahogany table, a mirror, a plush red chair, a glimmering beaded curtain, and a small wooden tray of ink bottles are here.
+
+This room is illuminated.
+In the room are Dyntran the Noble San Elf and Enstice the Leuian.
+Obvious exits: None.
+>There is nothing underneath that.
+>There is nothing behind that.
+>There is nothing on top of that.
+>There is nothing inside that.
+smi
+>You smile.
+l
+>[Celebration Village, Tattoos.]
+
+Black and silver stripes cover the walls of this airy tent. Warm air radiates around you from slow burning vanilla scented candles resting on tall wrought iron posts. The golden light produced bounces off the silver stripes on the tent walls. Several large backless sofas reside around the tent, for customers to lounge upon while waiting for service.  A deep black velvet tent flap and an open glimmering beaded curtain are here.
+
+This room is illuminated.
+In the room is Sephrix the Drag-al.
+Obvious exits: None.
+>
+Sephrix smiles.
+' gettin a tattoo?
+
+Glinka asks, " gettin a tattoo?"
+l at s
+>
+Sephrix looks like a 3'3" standard young delicate boned, very muscular bodied Drag-al.
+He has blue skin, metallic silver eyes, and looks razor-sharp.
+He appears to be happy right now.
+He bears the mark of Taath.
+He can be attacked by other players.
+He appears to be in perfect health.
+                        Visible Equipment
+A pair of plain cotton pants                       (pants)
+>
+Sephrix nods.
+beam
+You beam.
+>
+Sephrix says, "are you"
+' mebbe
+
+Glinka says, " mebbe"
+gri
+>You grin.
+>
+Enstice just entered through an open glimmering beaded curtain.
+
+Enstice nods.
+
+Enstice just went through a deep black velvet tent flap.
+
+Sephrix just went through an open glimmering beaded curtain.
+l
+[Celebration Village, Tattoos.]
+
+Black and silver stripes cover the walls of this airy tent. Warm air radiates around you from slow burning vanilla scented candles resting on tall wrought iron posts. The golden light produced bounces off the silver stripes on the tent walls. Several large backless sofas reside around the tent, for customers to lounge upon while waiting for service.  A deep black velvet tent flap and an open glimmering beaded curtain are here.
+
+This room is illuminated.
+Obvious exits: None.
+>
+Your glowing swirling multicolored globe flickers for a moment.
+rem glo
+You extinguish your glowing swirling multicolored globe.
+l at gl
+>You find something suitably reflective and gaze into it...
+
+You look like a 1'2" standard adolescent delicate boned, wiry-tough bodied Secian Cleric.
+You have very long, wild, kinky white hair with a white streak, heavy lidded pale red eyes, and look translucent.
+You appear to be upset right now.
+You can be attacked by other players.
+
+On her breast is a small crescent shaped birthmark.
+
+On her neck is a purple marked tattoo of the house of Mandor.
+
+On her belly is a tark tribal circle around the navel.
+
+On her back are glimmering deep Hyacinth wings with draconic runes in Golde upon them.
+
+On her head, behing left ear is a deep blue Something.
+
+You appear to be in perfect health.
+There is a shining gold emblem affixed to your clothing.
+
+Physical appearance:
+
+You see an ageless, tymless, spryte with long wild kinky whyte hair with a glowing whyte streak and sleepy eyes...She is shivering in the cold wind to Valhalla...She has touched the Sky...
+
+                        Visible Equipment
+A heavy polished steelwood mail                    (armor)
+A tiny moonsilver tongue piercing                  (on head)
+A moon shaped ivory talisman                       (around neck)
+A pair of ornate silver toe rings                  (on feet)
+Some multicolored black dragon wing charms         (over armor)
+A crescent moon earring                            (right ear)
+A silver serpentine hoop                           (left ear)
+A long violet silk skirt                           (pants)
+A delicately linked gold belly chain               (on belt)
+
+You have been bestowed the following title(s):
+  Noble of the Realm
+
+l at cur
+>It looks like an open glimmering beaded curtain.
+l through cur
+l under cur
+l behind cur
+l on cur
+l in cur
+>[Back Room.]
+
+Black and silver continues as the motif through the back area of the tent. Dominating the center of the room presides a mahogany finished table with a large elegant mirror standing directly next to it. A plush red chair rests in front of the table welcoming you to sit down. Scattered on top of the table are various implements, all used for the coloring of skin, fur, or scales. In the background, the soft, peaceful ringing of wind chimes can be heard.  A mahogany table, a mirror, a plush red chair, a glimmering beaded curtain, and a small wooden tray of ink bottles are here.
+
+This room is illuminated.
+In the room are Sephrix the Drag-al and Dyntran the Noble San Elf.
+Obvious exits: None.
+>There is nothing underneath that.
+>There is nothing behind that.
+>There is nothing on top of that.
+>There is nothing inside that.
+l
+>[Celebration Village, Tattoos.]
+
+Black and silver stripes cover the walls of this airy tent. Warm air radiates around you from slow burning vanilla scented candles resting on tall wrought iron posts. The golden light produced bounces off the silver stripes on the tent walls. Several large backless sofas reside around the tent, for customers to lounge upon while waiting for service.  A deep black velvet tent flap and an open glimmering beaded curtain are here.
+
+This room is illuminated.
+Obvious exits: None.
+l at dia
+>It looks like a simple diamond.
+l
+>[Celebration Village, Tattoos.]
+
+Black and silver stripes cover the walls of this airy tent. Warm air radiates around you from slow burning vanilla scented candles resting on tall wrought iron posts. The golden light produced bounces off the silver stripes on the tent walls. Several large backless sofas reside around the tent, for customers to lounge upon while waiting for service.  A deep black velvet tent flap and an open glimmering beaded curtain are here.
+
+This room is illuminated.
+Obvious exits: None.
+>
+Sephrix just entered through an open glimmering beaded curtain.
+go cu
+[Back Room.]
+
+Black and silver continues as the motif through the back area of the tent. Dominating the center of the room presides a mahogany finished table with a large elegant mirror standing directly next to it. A plush red chair rests in front of the table welcoming you to sit down. Scattered on top of the table are various implements, all used for the coloring of skin, fur, or scales. In the background, the soft, peaceful ringing of wind chimes can be heard.  A mahogany table, a mirror, a plush red chair, a glimmering beaded curtain, and a small wooden tray of ink bottles are here.
+
+This room is illuminated.
+In the room is Dyntran the Noble San Elf.
+Obvious exits: None.
+smi at d delicately , brushing back her kinky white hair
+>You smile at Dyntran delicately , brushing back her kinky white hair.
+>
+smi at Dyntran softly, winking..
+Dyntran smiles at you.
+You smile at Dyntran softly, winking..
+>
+Dyntran asks, "again?"
+' no one else left
+
+Glinka says, " no one else left"
+' umm
+>
+Glinka says, " umm"
+wh to d got a lil prollem
+>You whisper to Dyntran.
+>
+Dyntran listens intently.
+
+Dyntran is looking at you.
+wh to d typo?
+You whisper to Dyntran.
+smi at d impishly, tossing her long soft hair back...
+>You smile at Dyntran impishly, tossing her long soft hair back...
+On her head behind the left ear is a tattoo of a deep blue Something.
+>Ignoring unknown command, "On."
+>
+Dyntran groans.
+' On her head behind the left ear is a tattoo of a deep blue Something.
+
+Glinka says, " On her head behind the left ear is a tattoo of a deep blue Something."
+gig
+>You giggle.
+com dy
+>You comfort Dyntran.
+' sorries
+>
+Glinka says, " sorries"
+' i can get it fixed later if ya want
+>
+Glinka says, " i can get it fixed later if ya want"
+>
+Dyntran says, "I got it"
+beam
+You beam.
+l at gl
+>You find something suitably reflective and gaze into it...
+
+You look like a 1'2" standard adolescent delicate boned, wiry-tough bodied Secian Cleric.
+You have very long, wild, kinky white hair with a white streak, heavy lidded pale red eyes, and look translucent.
+You appear to be upset right now.
+You can be attacked by other players.
+
+On her breast is a small crescent shaped birthmark.
+
+You appear to be in perfect health.
+There is a shining gold emblem affixed to your clothing.
+
+Physical appearance:
+
+You see an ageless, tymless, spryte with long wild kinky whyte hair with a glowing whyte streak and sleepy eyes...She is shivering in the cold wind to Valhalla...She has touched the Sky...
+
+                        Visible Equipment
+A heavy polished steelwood mail                    (armor)
+A tiny moonsilver tongue piercing                  (on head)
+A moon shaped ivory talisman                       (around neck)
+A pair of ornate silver toe rings                  (on feet)
+Some multicolored black dragon wing charms         (over armor)
+A crescent moon earring                            (right ear)
+A silver serpentine hoop                           (left ear)
+A long violet silk skirt                           (pants)
+A delicately linked gold belly chain               (on belt)
+
+You have been bestowed the following title(s):
+  Noble of the Realm
+
+>
+Dyntran is looking at you.
+
+Dyntran asks, "better?"
+l at gl
+You find something suitably reflective and gaze into it...
+
+You look like a 1'2" standard adolescent delicate boned, wiry-tough bodied Secian Cleric.
+You have very long, wild, kinky white hair with a white streak, heavy lidded pale red eyes, and look translucent.
+You appear to be upset right now.
+You can be attacked by other players.
+
+On her breast is a small crescent shaped birthmark.
+
+On her neck is a purple marked tattoo of the house of Mandor.
+
+On her belly is a tark tribal circle around the navel.
+
+On her back are glimmering deep Hyacinth wings with draconic runes in Golde upon them.
+
+On her head, behind left ear is a deep blue Something.
+
+You appear to be in perfect health.
+There is a shining gold emblem affixed to your clothing.
+
+Physical appearance:
+
+You see an ageless, tymless, spryte with long wild kinky whyte hair with a glowing whyte streak and sleepy eyes...She is shivering in the cold wind to Valhalla...She has touched the Sky...
+
+                        Visible Equipment
+A heavy polished steelwood mail                    (armor)
+A tiny moonsilver tongue piercing                  (on head)
+A moon shaped ivory talisman                       (around neck)
+A pair of ornate silver toe rings                  (on feet)
+Some multicolored black dragon wing charms         (over armor)
+A crescent moon earring                            (right ear)
+A silver serpentine hoop                           (left ear)
+A long violet silk skirt                           (pants)
+A delicately linked gold belly chain               (on belt)
+
+You have been bestowed the following title(s):
+  Noble of the Realm
+
+beam
+>You beam.
+' thankies
+>
+Glinka says, " thankies"
+curt
+>You curtsy.
+>
+Dyntran bows to you.
+l at cur
+It looks like a glimmering beaded curtain.
+l through cur
+l under cur
+l behind cur
+l on cur
+l in cur
+>[Celebration Village, Tattoos.]
+
+Black and silver stripes cover the walls of this airy tent. Warm air radiates around you from slow burning vanilla scented candles resting on tall wrought iron posts. The golden light produced bounces off the silver stripes on the tent walls. Several large backless sofas reside around the tent, for customers to lounge upon while waiting for service.  A deep black velvet tent flap and an open glimmering beaded curtain are here.
+
+This room is illuminated.
+Obvious exits: None.
+>There is nothing underneath that.
+>There is nothing behind that.
+>There is nothing on top of that.
+>There is nothing inside that.
+' be well
+>
+Glinka says, " be well"
+wav
+>You wave.
+go cur
+>[Celebration Village, Tattoos.]
+
+Black and silver stripes cover the walls of this airy tent. Warm air radiates around you from slow burning vanilla scented candles resting on tall wrought iron posts. The golden light produced bounces off the silver stripes on the tent walls. Several large backless sofas reside around the tent, for customers to lounge upon while waiting for service.  A deep black velvet tent flap and an open glimmering beaded curtain are here.
+
+This room is illuminated.
+Obvious exits: None.
+go te
+>[Celebration Village.]
+
+Towering trees full of leaves sway as gust of wind moves through their branches. A scampering squirrel hops from branch to branch, hanging tightly on to a newly found treasure. A gentle wind sighs a slow, lingering song above. The path winds itself towards the entrance of a black velvet tent. A sign outside the tent shows a beautiful creation being etched upon a Thugian's arm, the words above the pictorial read, "Tattoos."   A rich black velvet flag with tatoo designs, some glowing diamond lanterns, and an open deep black velvet tent are here.
+
+This area is illuminated.
+You see the 1st cheerful young human caroller.
+In the area are Skar the Monitanian (holding a glowing mysterious vial of acid yellow swamp gas), Saul the Oog-ra, and September the Noble Leuian.
+Obvious paths: northeast* southwest* northwest.
+>
+Saul leans on Skar softly.
+l at gl
+You find something suitably reflective and gaze into it...
+
+You look like a 1'2" standard adolescent delicate boned, wiry-tough bodied Secian Cleric.
+You have very long, wild, kinky white hair with a white streak, heavy lidded pale red eyes, and look translucent.
+You appear to be upset right now.
+You can be attacked by other players.
+
+On her breast is a small crescent shaped birthmark.
+
+On her neck is a purple marked tattoo of the house of Mandor.
+
+On her belly is a tark tribal circle around the navel.
+
+On her back are glimmering deep Hyacinth wings with draconic runes in Golde upon them.
+
+On her head, behind left ear is a deep blue Something.
+
+You appear to be in perfect health.
+There is a shining gold emblem affixed to your clothing.
+
+Physical appearance:
+
+You see an ageless, tymless, spryte with long wild kinky whyte hair with a glowing whyte streak and sleepy eyes...She is shivering in the cold wind to Valhalla...She has touched the Sky...
+
+                        Visible Equipment
+A heavy polished steelwood mail                    (armor)
+A tiny moonsilver tongue piercing                  (on head)
+A moon shaped ivory talisman                       (around neck)
+A pair of ornate silver toe rings                  (on feet)
+Some multicolored black dragon wing charms         (over armor)
+A crescent moon earring                            (right ear)
+A silver serpentine hoop                           (left ear)
+A long violet silk skirt                           (pants)
+A delicately linked gold belly chain               (on belt)
+
+You have been bestowed the following title(s):
+  Noble of the Realm
+
+>
+September pulls Skar closer to her.
+
+Saul lies down.
+
+September pushes Saul.
+fly up 20
+
+Saul exclaims, "uhhh!"
+[5 sec. delay]
+You take a few steps and soar 10 feet into the air!
+>
+The cheerful young human caroller mumbles something under her breath.
+l
+[Celebration Village.]
+
+Towering trees full of leaves sway as gust of wind moves through their branches. A scampering squirrel hops from branch to branch, hanging tightly on to a newly found treasure. A gentle wind sighs a slow, lingering song above. The path winds itself towards the entrance of a black velvet tent. A sign outside the tent shows a beautiful creation being etched upon a Thugian's arm, the words above the pictorial read, "Tattoos."   A rich black velvet flag with tatoo designs, some glowing diamond lanterns, and an open deep black velvet tent are here.
+
+This area is illuminated.
+You see the 1st cheerful young human caroller.
+In the area are Skar the Monitanian (holding a glowing mysterious vial of acid yellow swamp gas), Saul the Oog-ra (lying down), and September the Noble Leuian.
+Obvious paths: northeast* southwest* northwest.
+>
+Skar chuckles.
+
+September raises an eyebrow.
+
+September says to Skar, "he wants you"
+
+Saul says, "me wus lenun on hims ya no"
+
+Skar holds Saul close.
+l at car
+She looks like an average cheerful young human caroller.
+
+She looks like a radiant young human dressed in a stunning white lace costume, adorned with white fur stole and magic wand and a pair of gossamer fairy wings upon her back.
+She has a head, 2 arms, 2 legs.
+
+She appears to be in good shape.
+She will be very hard for you to hit and it will be not too hard for her to hit you!
+>
+Saul howls at Skar.
+
+September exclaims to Saul, "get yer own Monit!"
+
+Saul sits up.
+
+September pulls Skar closer to her.
+diag all
+
+Skar laughs.
+
+  You examine Skar the Monitanian...
+He appears to be in perfect health.
+  You examine Saul the Oog-ra...
+He appears to be in perfect health.
+  You examine September the Leuian...
+She appears to be in perfect health.
+
+>
+A crazy eyed child runs in and screams in your ear, "Last call for the Free Tatttooing in the Festival Grounds!!  Hurry that crazy Dyntran is going to leave!"  She dashes out as fast as she came.
+
+The cheerful young human caroller quickly casts her gaze across the room.
+
+Saul stands up.
+
+Skar holds September close.
+
+The cheerful young human caroller mumbles something under her breath.
+l
+
+Saul says to Skar, "ses me tels tu"
+[Celebration Village.]
+
+Towering trees full of leaves sway as gust of wind moves through their branches. A scampering squirrel hops from branch to branch, hanging tightly on to a newly found treasure. A gentle wind sighs a slow, lingering song above. The path winds itself towards the entrance of a black velvet tent. A sign outside the tent shows a beautiful creation being etched upon a Thugian's arm, the words above the pictorial read, "Tattoos."   A rich black velvet flag with tatoo designs, some glowing diamond lanterns, and an open deep black velvet tent are here.
+
+This area is illuminated.
+You see the 1st cheerful young human caroller.
+In the area are Skar the Monitanian (holding a glowing mysterious vial of acid yellow swamp gas), Saul the Oog-ra, and September the Noble Leuian.
+Obvious paths: northeast* southwest* northwest.
+>
+September nuzzles Skar.
+
+Skar chuckles.
+nw
+ready glo
+It's too dark to see anything!  Ready a torch.
+>You light the swirling multicolored globe.
+
+l
+The area brightens.
+>[Celebration Village.]
+
+The cobblestone path winds its way between lush trees that bloom tiny white flowers. A gentle breeze blows through the area, causing the buds to shake and flutter softly onto the ground. Boisterous laughter can be heard echoing from within two large cottages which causes the pathway to fork to the southwest and southeast. Above one door, a sign reads "The Bounty Bar," and above the other there is a sign that reads "The Bounty Dining Hall." A few children lean lazily against one of the building structure, sipping on glasses of raspberry fizz and chocolate milk as they wait for their parents. An adolescent drag-al, grinning from ear to ear, darts out of the tavern holding a bottle of champagne, grabs his friend and drags him quickly to the southeast.  A pot of flowering red and white geraniums, a barrel shaped wooden door, a paneled mahogany door, and a silver ribboned paper horn are here.
+
+This area is illuminated.
+You see the 1st sleek black panther (wearing a small gold collar).
+Obvious paths: north* southeast* southwest*.
+n
+>[Festival of Remembrance, Celebration Village.]
+
+Old cobblestone pathways branch off in many directions, winding through this enchanting village. The thick boughs of trees cover the path in a comforting hug. A soft glow warms the earth as the heavens' celestial orb casts a halo of through the treetops. Bells chime quietly in remembrance of those long gone.  A glowing crystal street lantern, a carved white marble block, some flowing multicolored silk streamers, a beautifully carved white marble bench, and a flower covered marble arch are here.
+
+This area is illuminated.
+Obvious paths: north* east* south* west*.
+go ar
+>
+As you pass through, there is a twist, and a feeling of distance...
+
+[Spur Gateway.]
+
+Travelers from Rathan to the northwest, and the Trade Route to the south, converge at Spur's west gate. Guards posted on the ground give those seeking to enter the city a cursory once-over. Their lack of interest shows that anyone approaching has already been observed from above for some time. A grate in the ground loosens mud from wagon wheels and hooves before they pass through the gate, helping to keep the streets of Spur fairly clean.  An open giant black iron gate, a giant green oak tree, a small blue pool, a thick oak grate over the pool, a polished stone marker, a flaming glass covered memorial candle, a flower covered marble arch, and a flaming glass covered memorial candle are here.
+
+This area is illuminated.
+Obvious paths: north south southwest west northwest.
+go gate
+>[Gateway.]
+
+The relative safety inside Spur is a comfort to those returning from the fields and mountains. To those leaving, a massive wall of defense around the city lies ahead. Archer towers beside the gate overlook the wall, offering a painful welcome to would-be invaders. Several guards on foot patrol pass and disappear behind a thick, bluesteel banded steelwood door. Wall road stretches to the south, a wide passage between the city wall and several large buildings.  An open iron gate, an open thick stone door, a street lantern, and a flaming glass covered memorial candle are here.
+
+This area is illuminated.
+Obvious paths: east* south.
+go door
+>[Western Barracks.]
+
+Row after row of bunks fill the enormous main room of the western guard barracks. A small chest sits at the foot of each of the bunks, holding clothing and other personal items. The simple but efficient furniture complements the neat bedding and clean walls and floors.  An open thick stone door is here.
+
+This area is illuminated.
+Obvious paths: north west northwest.
+quit
+>
+    Dragon's Gate Menu
+
+ 1. Explore Dragon's Gate.
+ 2. Create, Delete, or View a character.
+ 3. Select current character.
+ 4. Display notices and version notes.
+16. Disconnect.
+
+Your active character is: Glinka Dragondsfriend
+
+Your selection? 
+16
+
+ ** Goodbye from Mythic Entertainment! **

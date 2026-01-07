@@ -1,0 +1,92 @@
+hic
+
+You hiccup.
+l
+>>[Riverboat.]
+
+Lined with wooden seats, this slim oak boat looks to be able to carry its passengers relatively quickly to their destination. A sturdy rope is threaded through a steel eyelet that rises about two feet above the bow of the boat. The captain's muscles strain with each heave-ho on the rope, as the boat cleaves through the deep waters of the river.
+
+This area is illuminated.
+Obvious paths: None.
+info
+>
+You are Hroomha Treefoot, a delicate boned and stocky bodied 30 year old Chaotic Male adolescent Oog-ra.  You are 8'0" and weigh 494 lbs.  You are seated.  You are satiated.  You are sloshing.
+
+HP: 243 of 243  Ftg:  85 of  85  Carry: 109.4 of 741.0 lbs.
+
+ Str   Int   Wis   Dex   Agi   Con   Cha   Wil   Voi   Per   App
+Good  Poor  Low   Good  Good  Good  Good  Poor  Low   Good  Aver  
+
+Use: INFO <subject> for more info.
+(Valid subjects: RELIGION, MAGICK, LANGUAGES, MARTIALARTS, MONEY, RUNESPELLS, TITLES, DISGUISE, PSIONICS)
+
+l at hr
+>You find something suitably reflective and gaze into it...
+
+You look like a 8'0" standard adolescent delicate boned, stocky bodied Oog-ra.
+You are seated.
+You have very long, tied back, kinky chestnut brown fur, with large reddish brown eyes, and look disheveled.
+You appear to be livid right now.
+You can be attacked by other players.
+You appear to be in perfect health.
+There is a shining gold emblem affixed to your clothing.
+
+Physical appearance:
+
+You see a large hairy oog-ra standing before you, with old scars covering most of his body
+
+                        Visible Equipment
+A spiked iron mace                                 (right hand)
+A light burnished brass armor                      (armor)
+A wooden shield                                    (shield)
+A bone trimmed bearskin berserker's cloak          (over armor)
+Some blood-stained grey leather breeches           (pants)
+
+You have been bestowed the following title(s):
+  Noble of the Realm
+
+inv
+>Items carried:
+  An open large leather backpack [53.4 lbs].
+  A short stick [0.1 lbs].
+  A short stick [0.1 lbs].
+  A wooden shield [0.5 lbs].
+  A bone trimmed bearskin berserker's cloak [6.5 lbs].
+  A wooden sword [0.2 lbs].
+  A gold-trimmed bullseye lantern [2.5 lbs].
+  A large waterskin [8.0 lbs].
+  A spent fine rolled cigar [0.1 lbs].
+  A light burnished brass armor [28.0 lbs].
+  A spiked iron mace [2.0 lbs].
+  An open large frayed burlap rucksack [2.1 lbs].
+  An open large frayed burlap rucksack [2.1 lbs].
+  Some blood-stained grey leather breeches [0.1 lbs].
+  An open leather healer's bag [2.1 lbs].
+
+You have 160 silver pieces and 1 gold piece.
+
+This gives you a total net worth of 260 silver.
+
+Your inventory totals 109.4 lbs.
+sk
+>
+Skill                     Remain Level
+ Blunt Weapons             745    8     
+ Berserk Attack            115    3     
+ First Aid                 354    5     
+ Shield Parry              77     1     
+ Sharp Weapons             48     1     
+
+stat
+>OR:  50  DR: 65  Weap RT: 3 sec  Move Rate: 6/6 UDs  Dam Bonus: Excel/None
+
+You are in the center of the area!
+You are seated.
+
+  ::: Equipment Readied :::
+
+  A spiked iron mace.
+  A light burnished brass armor.
+  A wooden shield.
+  A bone trimmed bearskin berserker's cloak.
+  Some blood-stained grey leather breeches.

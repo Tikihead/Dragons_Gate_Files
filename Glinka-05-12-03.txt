@@ -1,0 +1,3009 @@
+
+You follow Darrow through a wooden bridge...
+
+[Forest stream.]
+
+The path ends here as it comes upon the steep banks of a forest stream.  A wooden bridge, in surprisingly good repair, crosses the stream. The skeletal remains of some fish litter the stream bank and nosing about you notice some large pawprints.  A wooden bridge and some skeletal fish remains are here.
+
+This area is illuminated.
+You see the 1st flying squirrel (wearing a small gold collar).
+In the area are Serendipity the Noble Draco and Darrow the Secian (holding a glowing twinkling violet orb of Rinanni).
+Obvious paths: north.
+
+You follow Darrow north...
+
+[Forest path.]
+
+The path slopes down to the south here as it leads away from the hill.  The evergreens subside as the ground becomes moist due to the proximity of the stream. The undergrowth is quite thick here, and the music of the stream begins to pervade your senses.  A charming embankment is here.
+
+This area is illuminated.
+You see the 1st flying squirrel (wearing a small gold collar).
+In the area are Serendipity the Noble Draco and Darrow the Secian (holding a glowing twinkling violet orb of Rinanni).
+Obvious paths: northeast south*.
+
+You follow Darrow northeast...
+
+[Branch in forest path.]
+
+The path branches again, finally leading away from the hill. Your feet and legs are getting damp as the wet ferns brush against your legs. The trees open up slightly here and you think it would be a nice place to rest, if it weren't for the hill.  Some lush ferns are here.
+
+This area is illuminated.
+You see the 1st flying squirrel (wearing a small gold collar).
+In the area are Serendipity the Noble Draco and Darrow the Secian (holding a glowing twinkling violet orb of Rinanni).
+Obvious paths: southeast southwest* northwest.
+
+You follow Darrow northwest...
+
+[Branch in forest path.]
+
+The path branches, leading off in three directions here. The trees here, begin to become more deciduous as you go south. Ferns brush at your feet as you walk. Tangles of blackberries looking quite good, grow on the hill. Dare you eat them?
+
+This area is illuminated.
+You see the 1st flying squirrel (wearing a small gold collar).
+In the area are Serendipity the Noble Draco and Darrow the Secian (holding a glowing twinkling violet orb of Rinanni).
+Obvious paths: northeast southeast* west.
+' off to monastery
+
+Glinka says, " off to monastery"
+gri
+>You grin.
+>
+You follow Darrow west...
+
+[Forest path.]
+
+The path here is wide and seems to be underlaid with stone. Looking closer, the stone seems to be laid out in a regular pattern.  Perhaps this is the remains of a road. You wonder where it leads as a wolf howls mournfully in the distance.
+
+This area is illuminated.
+You see the 1st flying squirrel (wearing a small gold collar).
+In the area are Serendipity the Noble Draco and Darrow the Secian (holding a glowing twinkling violet orb of Rinanni).
+Obvious paths: east* west.
+
+Serendipity just removed a steelwood shield from within her brown velvet-lined leather greatcoat.
+
+You follow Darrow west...
+
+[Forest End]
+
+The trees end suddenly as you have come to an immensely wide canyon.  A bridge at one time led across to the other side.  Now, however, the bridge is broken and looks to be beyond repair. Across the ravine you see nothing but rock and barren landscape.  A crumbling bridge is here.
+
+This area is illuminated.
+You see the 1st flying squirrel (wearing a small gold collar).
+In the area are Serendipity the Noble Draco and Darrow the Secian (holding a glowing twinkling violet orb of Rinanni).
+Obvious paths: east*.
+
+The flying squirrel cleans its face.
+
+Serendipity straps a steelwood shield to her left arm.
+
+You follow Darrow through a steep slope...
+
+[Cliff.]
+
+You realize this hidden spot is not visible from the edge of great forest across the ravine. Lush grass covers the ground surrounding a shimmering pure moonsilver pool; its surface reflecting the beauty of the skies above.  A steep slope and a path along the cliff are here.
+
+This area is illuminated.
+You see the 1st flying squirrel (wearing a small gold collar).
+In the area are Serendipity the Noble Draco and Darrow the Secian (holding a glowing twinkling violet orb of Rinanni).
+Obvious paths: None.
+pet sq
+You pet the flying squirrel.
+>
+You follow Darrow through a path along the cliff...
+
+[Cliffside Path.]
+
+The hill rises steeply to the east, making travel difficult.  The intertwined branches overhead form an ominous cover, blocking out the sky from view.  A path along the cliff is here.
+
+This area is illuminated.
+You see the 1st moaning spirit and the 1st flying squirrel (wearing a small gold collar).
+In the area are Serendipity the Noble Draco and Darrow the Secian (holding a glowing twinkling violet orb of Rinanni).
+Obvious paths: north.
+
+You see Darrow call out the name of Rinanni and point at the moaning spirit!
+
+A greater spirit just wandered in in front of you at 2 UDs!
+
+The moaning spirit suddenly takes on a very wild-eyed look!
+diag all
+
+  You examine Serendipity the Dragon...
+She appears to be in perfect health.
+  You examine Darrow the Secian...
+He has no apparent injuries, but looks tired.
+
+>
+The moaning spirit turns and runs north!
+invo hc at ser
+
+You see Darrow call out the name of Rinanni and point at the greater spirit!
+
+The greater spirit is suddenly immobilized!
+
+Holy sigils begin to swirl about Glinka, emitting thin trails of mist.
+
+You feel a surge of magick infuse your runeweave!
+Weaving those runes cost you 4 FPs.
+
+You feel more tired.
+[4 sec. delay]
+l
+>[Cliffside Path.]
+
+The hill rises steeply to the east, making travel difficult.  The intertwined branches overhead form an ominous cover, blocking out the sky from view.  A path along the cliff is here.
+
+This area is illuminated.
+You see the 1st flying squirrel (wearing a small gold collar) and the 1st greater spirit.
+In the area are Serendipity the Noble Draco and Darrow the Secian (holding a glowing twinkling violet orb of Rinanni).
+Obvious paths: north.
+>
+The trails of mist encircle Serendipity and coalesce into a cloud of fog!
+
+Serendipity returns her jagged quartz rock.
+gig
+You giggle.
+>
+You expend 1 fatigue keeping up the holy fog on Serendipity.
+
+ ** You are fully rested.
+
+Serendipity readies a dragon carved bone hilted broadsword.
+
+You expend 1 fatigue keeping up the holy fog on Serendipity.
+
+The flying squirrel advances towards the greater spirit.
+
+You expend 1 fatigue keeping up the holy fog on Serendipity.
+
+ ** You are fully rested.
+
+Darrow just removed an acid tipped steel lance from within his agate red bronze weapons belt.
+You see Serendipity move up another 2 UDs!
+
+You expend 1 fatigue keeping up the holy fog on Serendipity.
+
+Serendipity swings her dragon carved bone hilted broadsword at the greater spirit!
+The swing is a well-delivered blow to the left leg.
+    The greater spirit is knocked back!
+
+The flying squirrel bites at the greater spirit!
+The attack misses.
+You see Darrow move up another 1 UDs!
+
+Serendipity swings her dragon carved bone hilted broadsword at the greater spirit!
+The swing is a decent blow to the left leg.
+immobilizedla sp
+Ignoring unknown command, "immobilizedla."
+>
+You expend 1 fatigue keeping up the holy fog on Serendipity.
+
+Darrow readies an acid tipped steel lance.
+invo sm la at sp
+
+Serendipity swings her dragon carved bone hilted broadsword at the greater spirit!
+The swing is a good blow to the left arm.
+Target is the 1st spirit.
+
+Glinka clasps her hands, a gleaming white arrow forms before her.
+Weaving those runes cost you 3 FPs.
+
+You feel more tired.
+[3 sec. delay]
+>
+The flying squirrel claws at the greater spirit!
+The attack misses.
+
+You expend 1 fatigue keeping up the holy fog on Serendipity.
+
+A brilliant arrow of light flies from Glinka and strikes the greater spirit.
+    The greater spirit is knocked back!
+
+You expend 1 fatigue keeping up the arrow of light on the greater spirit.
+
+The arrow of light breaks into thousands of tiny particles and floats away.
+diag all
+
+Serendipity swings her dragon carved bone hilted broadsword at the greater spirit!
+The swing misses its target.
+
+  You examine Serendipity the Dragon...
+She has no apparent injuries, but looks tired.
+  You examine Darrow the Secian...
+He appears to be in perfect health.
+
+h
+>
+You expend 1 fatigue keeping up the holy fog on Serendipity.
+You have no apparent injuries, but look tired.
+
+HP: 111/111  Ftg:  55/ 61
+>
+The flying squirrel claws at the greater spirit!
+The attack is a well-delivered blow to the right leg.
+
+Serendipity returns her dragon carved bone hilted broadsword.
+invo sm la at sp
+Target is the 1st spirit.
+
+Glinka clasps her hands, a gleaming white arrow forms before her.
+Weaving those runes cost you 3 FPs.
+
+You feel more tired.
+[4 sec. delay]
+>
+Darrow swings his acid tipped steel lance at the greater spirit!
+The swing barely misses.
+
+Energy begins to crackle down the length of Serendipity's arms.
+
+You expend 1 fatigue keeping up the holy fog on Serendipity.
+transfer damage from ser 10
+
+A brilliant arrow of light flies from Glinka and strikes the greater spirit.
+
+You expend 1 fatigue keeping up the arrow of light on the greater spirit.
+
+The arrow of light breaks into thousands of tiny particles and floats away.
+tact
+You're too far away.
+>
+Darrow swings his acid tipped steel lance at the greater spirit!
+The swing is a strong blow to the left leg.
+Standing in front of you at 2 UDs, is:
+Serendipity, flying squirrel, greater spirit
+Standing in front of you at 1 UDs, is:
+Darrow
+Standing in this rank is:
+Glinka
+>
+The flying squirrel cleans its face.
+
+The flying squirrel bites at the greater spirit!
+The attack is a well-delivered blow to the right arm.
+
+You expend 1 fatigue keeping up the holy fog on Serendipity.
+
+The cloud of fog about Serendipity slowly recedes.
+
+ ** Current fatigue: 49 out of 61
+
+Darrow swings his acid tipped steel lance at the greater spirit!
+The swing is a well-delivered blow to the head.
+
+A rippling bolt of energy shoots from Serendipity's hands and slams into the greater spirit!
+
+The dragon bolt quickly dissipates.
+
+The flying squirrel bites at the greater spirit!
+The attack is a good blow to the right leg.
+adv 1
+You advance another 1 UDs!
+>
+Darrow swings his acid tipped steel lance at the greater spirit!
+The swing is a well-delivered blow to the head.
+transfer damage from se 10
+Target is not injured!
+diag all
+>
+  You examine Serendipity the Dragon...
+She has no apparent injuries, but looks tired.
+  You examine Darrow the Secian...
+He has no apparent injuries, but looks tired.
+
+>
+Darrow swings his acid tipped steel lance at the greater spirit!
+The swing nearly fumbles.
+h
+
+Serendipity extends her arms and waves them in a wide arc over her head!
+
+The flying squirrel claws at the greater spirit!
+The attack is a well-delivered blow to the right arm.
+You have no apparent injuries, but look tired.
+
+HP: 111/111  Ftg:  51/ 61
+invo sm la at sp
+>Target is the 1st spirit.
+
+Glinka clasps her hands, a gleaming white arrow forms before her.
+Weaving those runes cost you 3 FPs.
+
+You feel more tired.
+[4 sec. delay]
+>
+Serendipity's arms shimmer with a radiant blue aura.
+
+Serendipity's eyes burn brightly with a fire from deep within.
+
+Darrow swings his acid tipped steel lance at the greater spirit!
+The swing is a decent blow to the left arm.
+
+The greater spirit evaporates in a blast of heated ectoplasm.
+
+The flying squirrel returns to center rank.
+With a crash, everything it was carrying falls to the ground before you.
+
+Darrow howls!
+l
+[Cliffside Path.]
+
+The hill rises steeply to the east, making travel difficult.  The intertwined branches overhead form an ominous cover, blocking out the sky from view.  A path along the cliff and a closed baggy wool sack are here.
+
+This area is illuminated.
+You see the 1st flying squirrel (wearing a small gold collar).
+In the area are Serendipity the Noble Draco and Darrow the Secian (holding a glowing twinkling violet orb of Rinanni).
+Obvious paths: north.
+>
+Fiery tendrils of energy snake across Serendipity as her body increases in both size and power!
+
+Serendipity readies a dragon carved bone hilted broadsword.
+whist
+You whistle.
+>
+Serendipity beams at Darrow.
+h
+
+The flying squirrel flies up and lands on Darrow's shoulder.
+You have no apparent injuries, but look tired.
+
+HP: 111/111  Ftg:  54/ 61
+diag all
+>
+  You examine Serendipity the Dragon...
+She has no apparent injuries, but looks tired.
+  You examine Darrow the Secian...
+He appears to be in perfect health.
+
+>
+Darrow just picked up a closed baggy wool sack.
+
+Darrow just opened the closed baggy wool sack.
+
+ ** Current fatigue: 56 out of 61
+l
+[Cliffside Path.]
+
+The hill rises steeply to the east, making travel difficult.  The intertwined branches overhead form an ominous cover, blocking out the sky from view.  A path along the cliff is here.
+
+This area is illuminated.
+You see the 1st flying squirrel (wearing a small gold collar).
+In the area are Serendipity the Noble Draco and Darrow the Secian (a flying squirrel upon his left shoulder and holding a glowing twinkling violet orb of Rinanni).
+Obvious paths: north.
+>
+Darrow just removed 40 silver coins from his open baggy wool sack.
+
+You follow Darrow north...
+
+[Cliffside Path.]
+
+The trees grow tall and dark here, huddling close together over the path. Only the sound of the waterfall far across the gorge disturbs the silence. The heavy air gathers about, making it slightly harder to breathe.
+
+This area is illuminated.
+You see the 1st moaning spirit and the 1st flying squirrel (wearing a small gold collar).
+In the area are Serendipity the Noble Draco and Darrow the Secian (a flying squirrel upon his left shoulder and holding a glowing twinkling violet orb of Rinanni).
+Obvious paths: north south*.
+
+You see Darrow call out the name of Rinanni and point at the moaning spirit!
+
+The moaning spirit is seemingly unimpressed by the attempt to turn it!
+
+Serendipity swings her dragon carved bone hilted broadsword at the moaning spirit!
+The swing goes wild.
+' you guys keep alla nasty golds...
+
+Glinka says, " you guys keep alla nasty golds..."
+gig
+>You giggle.
+>
+The moaning spirit turns and runs south!
+invo sm la at sp
+I don't see what you are referring to.
+>
+You follow Darrow south...
+
+[Cliffside Path.]
+
+The hill rises steeply to the east, making travel difficult.  The intertwined branches overhead form an ominous cover, blocking out the sky from view.  A path along the cliff is here.
+
+This area is illuminated.
+You see the 1st moaning spirit and the 1st flying squirrel (wearing a small gold collar).
+In the area are Serendipity the Noble Draco and Darrow the Secian (a flying squirrel upon his left shoulder and holding a glowing twinkling violet orb of Rinanni).
+Obvious paths: north*.
+
+Serendipity swings her dragon carved bone hilted broadsword at the moaning spirit!
+The swing is a decent blow to the head.
+    The moaning spirit is knocked back!
+invo sm la at sp
+Target is the 1st spirit.
+
+Glinka clasps her hands, a gleaming white arrow forms before her.
+
+You feel a surge of magick infuse your runeweave!
+Weaving those runes cost you 3 FPs.
+
+You feel more tired.
+[4 sec. delay]
+>
+You see Darrow call out the name of Rinanni and point at the moaning spirit!
+
+The moaning spirit is seemingly unimpressed by the attempt to turn it!
+invo hc at ser
+
+Serendipity swings her dragon carved bone hilted broadsword at the moaning spirit!
+The swing nearly fumbles.
+
+Holy sigils begin to swirl about Glinka, emitting thin trails of mist.
+
+You feel a surge of magick infuse your runeweave!
+Weaving those runes cost you 4 FPs.
+
+You feel more tired.
+[4 sec. delay]
+>
+A brilliant arrow of light flies from Glinka and strikes the moaning spirit.
+    The moaning spirit is knocked back!
+
+You expend 1 fatigue keeping up the arrow of light on the moaning spirit.
+
+The arrow of light breaks into thousands of tiny particles and floats away.
+
+The moaning spirit turns and runs north!
+
+You follow Darrow north...
+
+[Cliffside Path.]
+
+The trees grow tall and dark here, huddling close together over the path. Only the sound of the waterfall far across the gorge disturbs the silence. The heavy air gathers about, making it slightly harder to breathe.
+
+This area is illuminated.
+You see the 1st moaning spirit and the 1st flying squirrel (wearing a small gold collar).
+In the area are Serendipity the Noble Draco and Darrow the Secian (a flying squirrel upon his left shoulder and holding a glowing twinkling violet orb of Rinanni).
+Obvious paths: north south*.
+
+The trails of mist encircle Serendipity and coalesce into a cloud of fog!
+
+Serendipity swings her dragon carved bone hilted broadsword at the moaning spirit!
+The swing misses by a slim margin.
+
+You see Darrow call out the name of Rinanni and point at the moaning spirit!
+
+The moaning spirit is seemingly unimpressed by the attempt to turn it!
+invo sm la at sp
+Target is the 1st spirit.
+
+Glinka clasps her hands, a gleaming white arrow forms before her.
+Weaving those runes cost you 3 FPs.
+
+You feel more tired.
+[4 sec. delay]
+>
+Serendipity swings her dragon carved bone hilted broadsword at the moaning spirit!
+The swing is a decent blow to the right leg.
+    The moaning spirit is knocked back!
+
+You expend 1 fatigue keeping up the holy fog on Serendipity.
+
+The moaning spirit turns and runs south!
+
+Darrow rolls his eyes.
+
+The radiant blue aura fades from her arms.
+
+You follow Darrow south...
+
+[Cliffside Path.]
+
+The hill rises steeply to the east, making travel difficult.  The intertwined branches overhead form an ominous cover, blocking out the sky from view.  A path along the cliff is here.
+
+This area is illuminated.
+You see the 1st moaning spirit and the 1st flying squirrel (wearing a small gold collar).
+In the area are Serendipity the Noble Draco and Darrow the Secian (a flying squirrel upon his left shoulder and holding a glowing twinkling violet orb of Rinanni).
+Obvious paths: north*.
+
+You expend 1 fatigue keeping up the holy fog on Serendipity.
+
+Serendipity swings her dragon carved bone hilted broadsword at the moaning spirit!
+The swing barely misses.
+invo sm la at sp
+Target is the 1st spirit.
+
+Glinka clasps her hands, a gleaming white arrow forms before her.
+Weaving those runes cost you 3 FPs.
+
+You feel more tired.
+[4 sec. delay]
+>
+You see Darrow call out the name of Rinanni and point at the moaning spirit!
+
+ ** Current fatigue: 48 out of 61
+
+The moaning spirit is suddenly immobilized!
+
+Serendipity swings her dragon carved bone hilted broadsword at the moaning spirit!
+The swing is a well-delivered blow to the right arm.
+    The moaning spirit is knocked back!
+
+You expend 1 fatigue keeping up the holy fog on Serendipity.
+
+Serendipity claps.
+
+A brilliant arrow of light flies from Glinka and strikes the moaning spirit.
+
+The arrow of light breaks into thousands of tiny particles and floats away.
+invo sm la at sp
+Target is the 1st spirit.
+
+Glinka clasps her hands, a gleaming white arrow forms before her.
+
+You feel a surge of magick infuse your runeweave!
+Weaving those runes cost you 3 FPs.
+
+You feel more tired.
+[4 sec. delay]
+>
+Darrow swings his acid tipped steel lance at the moaning spirit!
+The swing is a decent blow to the right rear arm.
+how
+You howl.
+>
+Serendipity swings her dragon carved bone hilted broadsword at the moaning spirit!
+The swing is a good blow to the left leg.
+    The moaning spirit is knocked back!
+
+You expend 1 fatigue keeping up the holy fog on Serendipity.
+invo sm la at sp
+
+A brilliant arrow of light flies from Glinka and strikes the moaning spirit.
+    The moaning spirit is knocked back!
+
+The moaning spirit moans before fading into the netherworlds.
+
+The arrow of light breaks into thousands of tiny particles and floats away.
+With a crash, everything it was carrying falls to the ground before you.
+I don't see what you are referring to.
+gig
+>You giggle.
+>
+You expend 1 fatigue keeping up the holy fog on Serendipity.
+h
+You have no apparent injuries, but look tired.
+
+HP: 111/111  Ftg:  44/ 61
+diag all
+>
+Serendipity just picked up a closed slender pouch.
+
+  You examine Serendipity the Dragon...
+She has no apparent injuries, but looks tired.
+  You examine Darrow the Secian...
+He has no apparent injuries, but looks tired.
+
+>
+Serendipity nuzzles Darrow.
+l
+[Cliffside Path.]
+
+The hill rises steeply to the east, making travel difficult.  The intertwined branches overhead form an ominous cover, blocking out the sky from view.  A path along the cliff is here.
+
+This area is illuminated.
+You see the 1st flying squirrel (wearing a small gold collar).
+In the area are Serendipity the Noble Draco and Darrow the Secian (a flying squirrel upon his left shoulder and holding a glowing twinkling violet orb of Rinanni).
+Obvious paths: north.
+>
+You expend 1 fatigue keeping up the holy fog on Serendipity.
+
+Serendipity's body returns to normal as the fiery tendrils dissipate.
+
+Serendipity just opened the closed slender pouch.
+
+Darrow purrs.
+
+Serendipity nuzzles you.
+
+You expend 1 fatigue keeping up the holy fog on Serendipity.
+snu ser
+You snuggle with Serendipity.
+>
+Serendipity just removed 1 gold coin from her open slender pouch.
+snu d
+You snuggle with Darrow.
+>
+You follow Darrow north...
+
+[Cliffside Path.]
+
+The trees grow tall and dark here, huddling close together over the path. Only the sound of the waterfall far across the gorge disturbs the silence. The heavy air gathers about, making it slightly harder to breathe.
+
+This area is illuminated.
+You see the 1st flying squirrel (wearing a small gold collar).
+In the area are Serendipity the Noble Draco and Darrow the Secian (a flying squirrel upon his left shoulder and holding a glowing twinkling violet orb of Rinanni).
+Obvious paths: north south*.
+
+Serendipity just removed 230 silver coins from her open slender pouch.
+
+You expend 1 fatigue keeping up the holy fog on Serendipity.
+
+You follow Darrow north...
+
+[Cliffside Path.]
+
+The sky is completely hidden from view by the tall, dark, and ominous trees.  The cold wind whips the trees back and forth. The constant swaying is extremely unsettling.
+
+This area is illuminated.
+You see the 1st large skeleton and the 1st flying squirrel (wearing a small gold collar).
+In the area are Serendipity the Noble Draco and Darrow the Secian (a flying squirrel upon his left shoulder and holding a glowing twinkling violet orb of Rinanni).
+Obvious paths: north south*.
+
+You see Darrow call out the name of Rinanni and point at the large skeleton!
+
+The large skeleton ignores the attempt to turn it!
+
+You expend 1 fatigue keeping up the holy fog on Serendipity.
+
+The cloud of fog about Serendipity slowly recedes.
+
+Serendipity swings her dragon carved bone hilted broadsword at the large skeleton!
+The swing fumbles!
+
+The large skeleton kicks at Serendipity!
+The attack is a well-delivered blow to the left arm, but is simply blocked by her steelwood shield.
+turn sk 
+h
+sk
+You call out the name of your deity and point to the large skeleton!
+
+The large skeleton smiles wickedly after the attempt to turn it!
+
+You feel more tired.
+[5 sec. delay]
+>You have no apparent injuries, but look fatigued.
+
+HP: 111/111  Ftg:  37/ 61
+>
+Skill                     Remain Level
+ First Aid                 97     1     
+ Channeling                415    5     
+ Blunt Weapons             300    3     
+ Spellcasting              976    9     
+ Turn Undead               281    3     
+ Identify Gems/Minerals    493    5     
+ Shield Parry              100    1     
+ Identify Magick           97     1     
+
+>
+You see Darrow call out the name of Rinanni and point at the large skeleton!
+
+The large skeleton writhes in great agony and is turned to dust!
+With a crash, everything it was carrying falls to the ground before you.
+invo hc at ser
+l
+[Cliffside Path.]
+
+The sky is completely hidden from view by the tall, dark, and ominous trees.  The cold wind whips the trees back and forth. The constant swaying is extremely unsettling.  Some silver coins and a short hatchet are here.
+
+This area is illuminated.
+You see the 1st flying squirrel (wearing a small gold collar).
+In the area are Serendipity the Noble Draco and Darrow the Secian (a flying squirrel upon his left shoulder and holding a glowing twinkling violet orb of Rinanni).
+Obvious paths: north south.
+
+ ** Current fatigue: 43 out of 61
+
+Holy sigils begin to swirl about Glinka, emitting thin trails of mist.
+
+You feel a surge of magick infuse your runeweave!
+Weaving those runes cost you 4 FPs.
+
+You feel more tired.
+[4 sec. delay]
+>
+Serendipity just picked up some silver coins.
+
+Darrow just picked up a short hatchet.
+
+The trails of mist encircle Serendipity and coalesce into a cloud of fog!
+
+Darrow just placed a short hatchet within his open rotting pouch.
+
+You expend 1 fatigue keeping up the holy fog on Serendipity.
+
+You follow Darrow north...
+
+[Cliffside Path.]
+
+A small dark stream snakes quietly past the worn trail, trying to escape the hill beyond. The sounds of the forest have died down to a whisper, leaving only the haunting howl of the breeze.
+
+This area is illuminated.
+You see the 1st flying squirrel (wearing a small gold collar).
+In the area are Serendipity the Noble Draco and Darrow the Secian (a flying squirrel upon his left shoulder and holding a glowing twinkling violet orb of Rinanni).
+Obvious paths: south* northwest.
+
+The flying squirrel skulks nervously.
+gig
+You giggle.
+>
+Serendipity returns her dragon carved bone hilted broadsword.
+
+You follow Darrow northwest...
+
+[Cliffside Path.]
+
+The path nearly vanishes beneath the undergrowth as the space between the trees becomes nearly nonexistent. A chilly wind whips through the brush, creating a distinct sense of restless unease.
+
+This area is illuminated.
+You see the 1st flying squirrel (wearing a small gold collar).
+In the area are Serendipity the Noble Draco and Darrow the Secian (a flying squirrel upon his left shoulder and holding a glowing twinkling violet orb of Rinanni).
+Obvious paths: southeast* west.
+
+You expend 1 fatigue keeping up the holy fog on Serendipity.
+
+Serendipity extends her arms and waves them in a wide arc over her head!
+
+You follow Darrow west...
+
+[Cliffside Path.]
+
+A large statue once stood vigil on this rocky outcropping overlooking the gorge. The remains of the once imposing figure lie scattered about, some lost forever to the depths of the chasm.
+
+This area is illuminated.
+You see the 1st flying squirrel (wearing a small gold collar).
+In the area are Serendipity the Noble Draco and Darrow the Secian (a flying squirrel upon his left shoulder and holding a glowing twinkling violet orb of Rinanni).
+Obvious paths: east* northwest.
+tick sq
+
+You follow Darrow northwest...
+
+[Cliffside Path.]
+
+The rocky terrain makes traversing the hillside rather difficult. Pebbles of every size make their best attempt to trip all those who travel this way. The silhouette of a dark structure looms above the treetops to the north.
+
+This area is illuminated.
+You see the 1st flying squirrel (wearing a small gold collar).
+In the area are Serendipity the Noble Draco and Darrow the Secian (a flying squirrel upon his left shoulder and holding a glowing twinkling violet orb of Rinanni).
+Obvious paths: north southeast*.
+You tickle the flying squirrel.
+>
+You follow Darrow north...
+
+[Cliffside Path.]
+
+A cluster of tightly packed trees separates the sheltered path from the barren field beyond. A stone structure, whose severe lack of warmth and beauty are a perfect match for the desolate plain surrounding it, stands threateningly against the skyline.
+
+This area is illuminated.
+You see the 1st flying squirrel (wearing a small gold collar).
+In the area are Serendipity the Noble Draco and Darrow the Secian (a flying squirrel upon his left shoulder and holding a glowing twinkling violet orb of Rinanni).
+Obvious paths: north south*.
+
+Serendipity's arms shimmer with a radiant blue aura.
+
+You expend 1 fatigue keeping up the holy fog on Serendipity.
+
+You follow Darrow north...
+
+[Barren Fields]
+
+A scraggly tree struggles to grow on the rocky, dry ground.  A number of bones and a some rusted shards of metal lie among the rocks and weeds that cover the parched soil.
+
+This area is illuminated.
+You see the 1st banshee and the 1st flying squirrel (wearing a small gold collar).
+In the area are Serendipity the Noble Draco and Darrow the Secian (a flying squirrel upon his left shoulder and holding a glowing twinkling violet orb of Rinanni).
+Obvious paths: south* northwest.
+
+Serendipity's eyes burn brightly with a fire from deep within.
+turn ba 
+h
+sk
+You call out the name of your deity and point to the banshee!
+
+You feel more tired.
+[5 sec. delay]
+>
+The banshee is suddenly immobilized!
+You have no apparent injuries, but look fatigued.
+
+HP: 111/111  Ftg:  33/ 61
+>
+Skill                     Remain Level
+ First Aid                 97     1     
+ Channeling                415    5     
+ Blunt Weapons             300    3     
+ Spellcasting              975    9     
+ Turn Undead               277    3     
+ Identify Gems/Minerals    493    5     
+ Shield Parry              100    1     
+ Identify Magick           97     1     
+
+>
+You expend 1 fatigue keeping up the holy fog on Serendipity.
+how
+You howl.
+>
+Fiery tendrils of energy snake across Serendipity as her body increases in both size and power!
+invo sm la at ba
+
+Serendipity readies a dragon carved bone hilted broadsword.
+
+You expend 1 fatigue keeping up the holy fog on Serendipity.
+Target is the 1st banshee.
+
+Glinka clasps her hands, a gleaming white arrow forms before her.
+
+You feel a surge of magick infuse your runeweave!
+Weaving those runes cost you 3 FPs.
+
+You feel more tired.
+[4 sec. delay]
+invo vt at gli
+>You see Darrow retreat 5 UDs to the rear!
+
+A brilliant arrow of light flies from Glinka and strikes the banshee.
+
+You expend 1 fatigue keeping up the arrow of light on the banshee.
+
+The arrow of light breaks into thousands of tiny particles and floats away.
+
+The flying squirrel returns to center rank.
+tact
+Standing in front of you at 1 UDs, is:
+Serendipity
+Standing in this rank is:
+Glinka
+Standing behind you at 1 UDs, is:
+flying squirrel
+Standing behind you at 5 UDs, is:
+Darrow, banshee
+
+You expend 1 fatigue keeping up the holy fog on Serendipity.
+
+A pale, bluish glow surrounds your fingertips. 
+
+You feel a surge of magick infuse your runeweave!
+Weaving those runes cost you 3 FPs.
+
+You feel more tired.
+[4 sec. delay]
+>
+Darrow swings his acid tipped steel lance at the banshee!
+The swing is a good blow to the head.
+
+The bluish glow spreads out and soothingly envelops you!
+
+h
+You feel invigorated!
+
+The bluish glow on your fingertips fades away.
+You have no apparent injuries, but look tired.
+
+HP: 111/111  Ftg:  43/ 61
+>
+The banshee is no longer immobilized!
+
+You expend 1 fatigue keeping up the holy fog on Serendipity.
+
+ ** Current fatigue: 42 out of 61
+You see Serendipity retreat 5 UDs to the rear!
+
+Darrow swings his acid tipped steel lance at the banshee!
+The swing barely misses.
+turn ba 
+h
+sk
+You call out the name of your deity and point to the banshee!
+
+The banshee seems unaffected by the attempt to turn it!
+
+You feel more tired.
+[5 sec. delay]
+>
+The banshee soars up into the air.
+You have no apparent injuries, but look fatigued.
+
+HP: 111/111  Ftg:  37/ 61
+>
+Skill                     Remain Level
+ First Aid                 97     1     
+ Channeling                415    5     
+ Blunt Weapons             300    3     
+ Spellcasting              973    9     
+ Turn Undead               277    3     
+ Identify Gems/Minerals    493    5     
+ Shield Parry              100    1     
+ Identify Magick           97     1     
+
+turn ba 
+>
+Serendipity swings her dragon carved bone hilted broadsword at the banshee!
+The swing is a decent blow to the torso.
+    The banshee is knocked back!
+    It just fell 10 feet!
+
+You expend 1 fatigue keeping up the holy fog on Serendipity.
+invo vt at gli
+
+Darrow swings his acid tipped steel lance at the banshee!
+The swing nearly fumbles.
+h
+sk
+You call out the name of your deity and point to the banshee!
+
+The banshee seems unaffected by the attempt to turn it!
+
+You feel more tired.
+[5 sec. delay]
+You have no apparent injuries, but look fatigued.
+
+HP: 111/111  Ftg:  31/ 61
+
+Skill                     Remain Level
+ First Aid                 97     1     
+ Channeling                415    5     
+ Blunt Weapons             300    3     
+ Spellcasting              973    9     
+ Turn Undead               277    3     
+ Identify Gems/Minerals    493    5     
+ Shield Parry              100    1     
+ Identify Magick           97     1     
+
+
+Serendipity swings her dragon carved bone hilted broadsword at the banshee!
+The swing is a decent blow to the right arm.
+
+The banshee stands up.
+
+You expend 1 fatigue keeping up the holy fog on Serendipity.
+
+The cloud of fog about Serendipity slowly recedes.
+
+You see Darrow call out the name of Rinanni and point at the banshee!
+
+The banshee suddenly takes on a very wild-eyed look!
+invo hc at ser
+
+Serendipity swings her dragon carved bone hilted broadsword at the banshee!
+The swing goes wild.
+
+A pale, bluish glow surrounds your fingertips. 
+
+You feel a surge of magick infuse your runeweave!
+Weaving those runes cost you 3 FPs.
+
+You feel more tired.
+[4 sec. delay]
+gig to d
+You giggle to Darrow.
+
+Serendipity swings her dragon carved bone hilted broadsword at the banshee!
+The swing misses its target.
+
+The bluish glow spreads out and soothingly envelops you!
+
+h
+You feel invigorated!
+
+The bluish glow on your fingertips fades away.
+
+The banshee turns and runs south!
+You have no apparent injuries, but look tired.
+
+HP: 111/111  Ftg:  51/ 61
+
+Holy sigils begin to swirl about Glinka, emitting thin trails of mist.
+Weaving those runes cost you 4 FPs.
+
+You feel more tired.
+[4 sec. delay]
+diag all
+>
+Darrow exclaims, "bah!"
+
+The trails of mist encircle Serendipity and coalesce into a cloud of fog!
+gri
+You grin.
+
+Serendipity chuckles.
+
+  You examine Serendipity the Dragon...
+She has no apparent injuries, but looks fatigued.
+  You examine Darrow the Secian...
+He has no apparent injuries, but looks tired.
+
+invo vt at ser
+tact
+>You're too far away.
+>Standing in this rank is:
+Glinka
+Standing behind you at 1 UDs, is:
+flying squirrel
+Standing behind you at 4 UDs, is:
+Serendipity
+Standing behind you at 5 UDs, is:
+Darrow
+>
+You expend 1 fatigue keeping up the holy fog on Serendipity.
+
+You follow Darrow northwest...
+
+[Barren Fields]
+
+A single lonely tree stands at the edge of the field. The barren plain is littered with very large rocks that form a barely discernable pattern. Several shallow ditches accompany the rocks, and it becomes apparent that this is not the habitat of the living. A dark structure huddles on a gentle rise to the north.
+
+This area is illuminated.
+You see the 1st flying squirrel (wearing a small gold collar).
+In the area are Serendipity the Noble Draco and Darrow the Secian (a flying squirrel upon his left shoulder and holding a glowing twinkling violet orb of Rinanni).
+Obvious paths: north northeast east southeast*.
+tact
+Standing in this rank is:
+Glinka
+Standing behind you at 1 UDs, is:
+flying squirrel
+Standing behind you at 4 UDs, is:
+Serendipity
+Standing behind you at 5 UDs, is:
+Darrow
+>
+You follow Darrow north...
+
+[Barren Fields]
+
+The desolation of the surrounding land is matched by the solitary stone structure looming above. Deep scars mar the black surface of the building, as though something desperately was attempting to get in.
+
+This area is illuminated.
+You see the 1st flying squirrel (wearing a small gold collar).
+In the area are Serendipity the Noble Draco and Darrow the Secian (a flying squirrel upon his left shoulder and holding a glowing twinkling violet orb of Rinanni).
+Obvious paths: north east southeast south*.
+
+You follow Darrow north...
+
+[Barren Fields]
+
+ret 3
+A black stone structure clings precipitously to the edge of a large cliff. The drop-off of several thousand feet cuts off any further travel north or westward. The painfully cold wind whips your clothing about you as it gusts in a frigid blast from the canyon beneath.  A gateway is here.
+
+This area is illuminated.
+You see the 1st greater spirit and the 1st flying squirrel (wearing a small gold collar).
+In the area are Serendipity the Noble Draco and Darrow the Secian (a flying squirrel upon his left shoulder and holding a glowing twinkling violet orb of Rinanni).
+Obvious paths: south*.
+You retreat 3 UDs to the rear!
+[3 sec. delay]
+>
+You expend 1 fatigue keeping up the holy fog on Serendipity.
+invo vt at ser
+
+A pale, bluish glow surrounds Glinka's fingertips. 
+
+You feel a surge of magick infuse your runeweave!
+Weaving those runes cost you 3 FPs.
+
+You feel more tired.
+[4 sec. delay]
+>
+You see Darrow call out the name of Rinanni and point at the greater spirit!
+
+You expend 1 fatigue keeping up the holy fog on Serendipity.
+
+The greater spirit suddenly takes on a very wild-eyed look!
+
+The greater spirit turns and runs south!
+
+The bluish glow spreads out and soothingly envelops Serendipity!
+
+The bluish glow on Glinka's fingertips fades away.
+gig madly
+
+The radiant blue aura fades from her arms.
+
+ ** Current fatigue: 43 out of 61
+You giggle madly.
+>
+You follow Darrow south...
+
+[Barren Fields]
+
+The desolation of the surrounding land is matched by the solitary stone structure looming above. Deep scars mar the black surface of the building, as though something desperately was attempting to get in.
+
+This area is illuminated.
+You see the 1st greater spirit and the 1st flying squirrel (wearing a small gold collar).
+In the area are Serendipity the Noble Draco and Darrow the Secian (a flying squirrel upon his left shoulder and holding a glowing twinkling violet orb of Rinanni).
+Obvious paths: north* east southeast south.
+
+You expend 1 fatigue keeping up the holy fog on Serendipity.
+
+You see Darrow call out the name of Rinanni and point at the greater spirit!
+
+The greater spirit writhes in great agony and is turned to dust!
+With a crash, everything it was carrying falls to the ground before you.
+whist
+You whistle.
+>
+Darrow nods firmly.
+
+You expend 1 fatigue keeping up the holy fog on Serendipity.
+
+Serendipity just picked up a closed faded spidersilk sack.
+' kai pow!
+
+Glinka exclaims, " kai pow!"
+>
+You follow Darrow north...
+
+[Barren Fields]
+
+A black stone structure clings precipitously to the edge of a large cliff. The drop-off of several thousand feet cuts off any further travel north or westward. The painfully cold wind whips your clothing about you as it gusts in a frigid blast from the canyon beneath.  A gateway is here.
+
+This area is illuminated.
+You see the 1st flying squirrel (wearing a small gold collar).
+In the area are Serendipity the Noble Draco and Darrow the Secian (a flying squirrel upon his left shoulder and holding a glowing twinkling violet orb of Rinanni).
+Obvious paths: south*.
+l
+[Barren Fields]
+
+A black stone structure clings precipitously to the edge of a large cliff. The drop-off of several thousand feet cuts off any further travel north or westward. The painfully cold wind whips your clothing about you as it gusts in a frigid blast from the canyon beneath.  A gateway is here.
+
+This area is illuminated.
+You see the 1st flying squirrel (wearing a small gold collar).
+In the area are Serendipity the Noble Draco and Darrow the Secian (a flying squirrel upon his left shoulder and holding a glowing twinkling violet orb of Rinanni).
+Obvious paths: south.
+>
+Serendipity chuckles.
+diag all
+
+You expend 1 fatigue keeping up the holy fog on Serendipity.
+
+Serendipity just opened the closed faded spidersilk sack.
+
+  You examine Serendipity the Dragon...
+She has no apparent injuries, but looks tired.
+  You examine Darrow the Secian...
+He has no apparent injuries, but looks tired.
+
+>
+Darrow giggles.
+gri
+You grin.
+>
+Serendipity just removed 40 silver coins from her open faded spidersilk sack.
+l
+[Barren Fields]
+
+A black stone structure clings precipitously to the edge of a large cliff. The drop-off of several thousand feet cuts off any further travel north or westward. The painfully cold wind whips your clothing about you as it gusts in a frigid blast from the canyon beneath.  A gateway is here.
+
+This area is illuminated.
+You see the 1st flying squirrel (wearing a small gold collar).
+In the area are Serendipity the Noble Draco and Darrow the Secian (a flying squirrel upon his left shoulder and holding a glowing twinkling violet orb of Rinanni).
+Obvious paths: south.
+h
+>You have no apparent injuries, but look fatigued.
+
+HP: 111/111  Ftg:  42/ 61
+>
+You expend 1 fatigue keeping up the holy fog on Serendipity.
+
+You expend 1 fatigue keeping up the holy fog on Serendipity.
+
+Serendipity's body returns to normal as the fiery tendrils dissipate.
+
+Darrow asks, "We ready to enter?"
+
+Serendipity just placed an open slender pouch within her open faded spidersilk sack.
+
+Serendipity returns her dragon carved bone hilted broadsword.
+
+You expend 1 fatigue keeping up the holy fog on Serendipity.
+
+The cloud of fog about Serendipity slowly recedes.
+nod
+You nod.
+invo hc at ser
+>
+Holy sigils begin to swirl about Glinka, emitting thin trails of mist.
+
+Your spell seems weaker than normal!
+Weaving those runes cost you 4 FPs.
+
+You feel more tired.
+[4 sec. delay]
+>
+Serendipity says, " sure"
+
+The trails of mist encircle Serendipity and coalesce into a cloud of fog!
+
+You follow Darrow through a gateway...
+
+[Monastery Ruins, Ground Level]
+
+Pieces of the destroyed gates hang from their former hinges, which squeak loudly with each gust of the chilling breeze.   The remains of a shredded rug lie across the entrance, its make and origin completely unrecognizable.  A gateway is here.
+
+This room is illuminated.
+You see the 1st flying squirrel (wearing a small gold collar).
+In the room are Serendipity the Noble Draco and Darrow the Secian (a flying squirrel upon his left shoulder and holding a glowing twinkling violet orb of Rinanni).
+Obvious exits: southwest* west* northwest*.
+
+Serendipity extends her arms and waves them in a wide arc over her head!
+
+You expend 1 fatigue keeping up the holy fog on Serendipity.
+
+You follow Darrow west...
+
+[Monastery Ruins, Ground Level]
+
+A tall dead tree stands in the middle of the floor, its trunk stretching through a circular opening in the ceiling. Colorful symbols cover the tiled floor about the tree, although they have been heavily clawed and scarred. Someone, or something, clearly objected to their presence.
+
+This room is illuminated.
+You see the 1st greater moaning spirit and the 1st flying squirrel (wearing a small gold collar).
+In the room are Serendipity the Noble Draco and Darrow the Secian (a flying squirrel upon his left shoulder and holding a glowing twinkling violet orb of Rinanni).
+Obvious exits: north* east* south* west*.
+
+ ** Current fatigue: 42 out of 61
+
+Serendipity's arms shimmer with a radiant blue aura.
+
+Serendipity's eyes burn brightly with a fire from deep within.
+
+You expend 1 fatigue keeping up the holy fog on Serendipity.
+
+You see Darrow call out the name of Rinanni and point at the greater moaning spirit!
+
+The greater moaning spirit smiles wickedly after the attempt to turn it!
+
+The greater moaning spirit advances towards Serendipity.
+
+Fiery tendrils of energy snake across Serendipity as her body increases in both size and power!
+
+You expend 1 fatigue keeping up the holy fog on Serendipity.
+
+Serendipity readies a dragon carved bone hilted broadsword.
+
+You see Darrow call out the name of Rinanni and point at the greater moaning spirit!
+
+The greater moaning spirit is suddenly immobilized!
+
+You expend 1 fatigue keeping up the holy fog on Serendipity.
+
+Serendipity swings her dragon carved bone hilted broadsword at the greater moaning spirit!
+The swing is a strong blow to the left rear arm.
+    The greater moaning spirit is knocked back!
+
+Darrow swings his acid tipped steel lance at the greater moaning spirit!
+The swing goes wild.
+
+You expend 1 fatigue keeping up the holy fog on Serendipity.
+
+Serendipity swings her dragon carved bone hilted broadsword at the greater moaning spirit!
+The swing is a strong blow to the head.
+    The greater moaning spirit is knocked back!
+diag all
+
+Serendipity swings her dragon carved bone hilted broadsword at the greater moaning spirit!
+The swing misses by a slim margin.
+
+  You examine Serendipity the Dragon...
+She has no apparent injuries, but looks tired.
+  You examine Darrow the Secian...
+He has no apparent injuries, but looks tired.
+
+>
+Darrow just placed an acid tipped steel lance within his agate red bronze weapons belt.
+
+You expend 1 fatigue keeping up the holy fog on Serendipity.
+h
+You have no apparent injuries, but look fatigued.
+
+HP: 111/111  Ftg:  39/ 61
+>
+Darrow raises his hands to the heavens and begins to chant in a holy tongue.
+invo vt at gli
+
+Serendipity swings her dragon carved bone hilted broadsword at the greater moaning spirit!
+The swing is a strong blow to the right arm.
+    The greater moaning spirit is knocked back!
+
+A pale, bluish glow surrounds your fingertips. 
+Weaving those runes cost you 3 FPs.
+
+You feel more tired.
+[4 sec. delay]
+>
+You expend 1 fatigue keeping up the holy fog on Serendipity.
+
+The bluish glow spreads out and soothingly envelops you!
+
+h
+You feel invigorated!
+
+The bluish glow on your fingertips fades away.
+
+A holy light sprays from his uplifted hands enveloping Darrow.
+
+The holy light surrounding Darrow fades away.
+You have no apparent injuries, but look tired.
+
+HP: 111/111  Ftg:  55/ 61
+>
+Serendipity swings her dragon carved bone hilted broadsword at the greater moaning spirit!
+The swing is a well-delivered blow to the head.
+    The greater moaning spirit is knocked back!
+
+You expend 1 fatigue keeping up the holy fog on Serendipity.
+invo sm la at sp
+
+Serendipity swings her dragon carved bone hilted broadsword at the greater moaning spirit!
+The swing is a decent blow to the left rear arm.
+    The greater moaning spirit is knocked back!
+Target is the 1st spirit.
+
+Glinka clasps her hands, a gleaming white arrow forms before her.
+
+You feel a surge of magick infuse your runeweave!
+Weaving those runes cost you 3 FPs.
+
+You feel more tired.
+[4 sec. delay]
+>
+A pale yellowish light surrounds Darrow's hands as he murmurs softly.
+
+You expend 1 fatigue keeping up the holy fog on Serendipity.
+
+The cloud of fog about Serendipity slowly recedes.
+
+Serendipity swings her dragon carved bone hilted broadsword at the greater moaning spirit!
+The swing misses its target.
+
+A brilliant arrow of light flies from Glinka and strikes the greater moaning spirit.
+    The greater moaning spirit is knocked back!
+
+You expend 1 fatigue keeping up the arrow of light on the greater moaning spirit.
+
+The arrow of light breaks into thousands of tiny particles and floats away.
+
+ ** Current fatigue: 53 out of 61
+invo hc at ser
+
+Holy sigils begin to swirl about Glinka, emitting thin trails of mist.
+
+You feel a surge of magick infuse your runeweave!
+Weaving those runes cost you 4 FPs.
+
+You feel more tired.
+[4 sec. delay]
+>
+A spray of yellowish droplets flies from Darrow's hands and splashes upon the greater moaning spirit!
+
+The yellowish droplets upon the greater moaning spirit evaporate.
+tact
+Standing in this rank is:
+Serendipity, Glinka, Darrow, greater moaning spirit, flying squirrel
+>
+Serendipity swings her dragon carved bone hilted broadsword at the greater moaning spirit!
+The swing is a strong blow to the right arm.
+
+A pale yellowish light surrounds Darrow's hands as he murmurs softly.
+
+The trails of mist encircle Serendipity and coalesce into a cloud of fog!
+ret 1
+You retreat 1 UDs to the rear!
+[3 sec. delay]
+>
+Serendipity swings her dragon carved bone hilted broadsword at the greater moaning spirit!
+The swing is a good blow to the left arm.
+    The greater moaning spirit is knocked back!
+
+A pale yellowish light surrounds Darrow's hands as he murmurs softly.
+
+A spray of yellowish droplets flies from Darrow's hands and splashes upon the greater moaning spirit!
+    The greater moaning spirit is knocked back!
+
+The greater moaning spirit moans before fading into the netherworlds.
+
+The yellowish droplets upon the greater moaning spirit evaporate.
+With a crash, everything it was carrying falls to the ground before you.
+diag all
+
+You expend 1 fatigue keeping up the holy fog on Serendipity.
+
+  You examine Serendipity the Dragon...
+She has no apparent injuries, but looks fatigued.
+  You examine Darrow the Secian...
+He has no apparent injuries, but looks tired.
+
+beam
+>You beam.
+invo vt at ser
+>
+A pale, bluish glow surrounds Glinka's fingertips. 
+
+You feel a surge of magick infuse your runeweave!
+Weaving those runes cost you 3 FPs.
+
+You feel more tired.
+[4 sec. delay]
+>
+You expend 1 fatigue keeping up the holy fog on Serendipity.
+
+Darrow just picked up a glittering shard of diamond.
+l
+[Monastery Ruins, Ground Level]
+
+A tall dead tree stands in the middle of the floor, its trunk stretching through a circular opening in the ceiling. Colorful symbols cover the tiled floor about the tree, although they have been heavily clawed and scarred. Someone, or something, clearly objected to their presence.  A gold coin, some silver coins, some weathered black bearskin furs, a glass flask, a padded leather jerkin, a shadowy black opal serpent charm, a yellow glass flask, some chocolate covered fire ants, and a yellow glass flask are here.
+
+This room is illuminated.
+You see the 1st flying squirrel (wearing a small gold collar).
+In the room are Serendipity the Noble Draco and Darrow the Secian (a flying squirrel upon his left shoulder and holding a glowing twinkling violet orb of Rinanni).
+Obvious exits: north* east* south* west*.
+>
+The bluish glow spreads out and soothingly envelops Serendipity!
+
+The bluish glow on Glinka's fingertips fades away.
+
+Serendipity just picked up a gold coin.
+
+Darrow just placed a glittering shard of diamond within his open rotting pouch.
+
+You expend 1 fatigue keeping up the holy fog on Serendipity.
+
+Serendipity just picked up some silver coins.
+h
+You have no apparent injuries, but look tired.
+
+HP: 111/111  Ftg:  47/ 61
+>
+You expend 1 fatigue keeping up the holy fog on Serendipity.
+
+Serendipity returns her dragon carved bone hilted broadsword.
+
+Darrow just picked up a shadowy black opal serpent charm.
+
+You expend 1 fatigue keeping up the holy fog on Serendipity.
+
+Darrow just placed a shadowy black opal serpent charm within his open rotting pouch.
+' ants
+
+Glinka says, " ants"
+l
+>[Monastery Ruins, Ground Level]
+
+A tall dead tree stands in the middle of the floor, its trunk stretching through a circular opening in the ceiling. Colorful symbols cover the tiled floor about the tree, although they have been heavily clawed and scarred. Someone, or something, clearly objected to their presence.  Some weathered black bearskin furs, a glass flask, a padded leather jerkin, a yellow glass flask, some chocolate covered fire ants, and a yellow glass flask are here.
+
+This room is illuminated.
+You see the 1st flying squirrel (wearing a small gold collar).
+In the room are Serendipity the Noble Draco and Darrow the Secian (a flying squirrel upon his left shoulder and holding a glowing twinkling violet orb of Rinanni).
+Obvious exits: north* east* south* west*.
+>
+You expend 1 fatigue keeping up the holy fog on Serendipity.
+poi at cho
+
+Darrow just picked up some weathered black bearskin furs.
+I don't see what you are referring to.
+>
+An arachnian warrior spirit just wandered in in front of you at 6 UDs!
+
+Serendipity readies a dragon carved bone hilted broadsword.
+poi at ant
+You point at the chocolate covered fire ants.
+>
+You expend 1 fatigue keeping up the holy fog on Serendipity.
+
+ ** Current fatigue: 45 out of 61
+gig
+You giggle.
+>
+You see Darrow call out the name of Rinanni and point at the arachnian warrior spirit!
+
+The arachnian warrior spirit is seemingly unimpressed by the attempt to turn it!
+
+The arachnian warrior spirit soars up into the air.
+
+Serendipity glances.
+
+Serendipity's body returns to normal as the fiery tendrils dissipate.
+
+You expend 1 fatigue keeping up the holy fog on Serendipity.
+l
+[Monastery Ruins, Ground Level]
+
+A tall dead tree stands in the middle of the floor, its trunk stretching through a circular opening in the ceiling. Colorful symbols cover the tiled floor about the tree, although they have been heavily clawed and scarred. Someone, or something, clearly objected to their presence.  A glass flask, a padded leather jerkin, a yellow glass flask, some chocolate covered fire ants, and a yellow glass flask are here.
+
+This room is illuminated.
+You see the 1st flying squirrel (wearing a small gold collar) and the 1st arachnian warrior spirit.
+In the room are Serendipity the Noble Draco and Darrow the Secian (a flying squirrel upon his left shoulder and holding a glowing twinkling violet orb of Rinanni).
+Obvious exits: north* east* south* west*.
+>
+Serendipity just picked up some chocolate covered fire ants.
+
+You see Darrow call out the name of Rinanni and point at the arachnian warrior spirit!
+
+The arachnian warrior spirit suddenly takes on a very wild-eyed look!
+
+The arachnian warrior spirit turns and flies north!
+
+You expend 1 fatigue keeping up the holy fog on Serendipity.
+
+The cloud of fog about Serendipity slowly recedes.
+how
+
+Serendipity sniffs at the chocolate covered fire ants.
+You howl.
+>
+The radiant blue aura fades from her arms.
+invo hc at ser
+
+Holy sigils begin to swirl about Glinka, emitting thin trails of mist.
+Weaving those runes cost you 4 FPs.
+
+You feel more tired.
+[4 sec. delay]
+>
+Darrow just placed some weathered black bearskin furs within his open colorful pouch.
+l
+[Monastery Ruins, Ground Level]
+
+A tall dead tree stands in the middle of the floor, its trunk stretching through a circular opening in the ceiling. Colorful symbols cover the tiled floor about the tree, although they have been heavily clawed and scarred. Someone, or something, clearly objected to their presence.  A glass flask, a padded leather jerkin, a yellow glass flask, and a yellow glass flask are here.
+
+This room is illuminated.
+You see the 1st flying squirrel (wearing a small gold collar).
+In the room are Serendipity the Noble Draco and Darrow the Secian (a flying squirrel upon his left shoulder and holding a glowing twinkling violet orb of Rinanni).
+Obvious exits: north* east* south* west*.
+>
+The trails of mist encircle Serendipity and coalesce into a cloud of fog!
+
+Darrow says, "like it better when the freeze"
+gri
+You grin.
+>
+You expend 1 fatigue keeping up the holy fog on Serendipity.
+nod yes
+You nod up and down.
+>
+Darrow just picked up a padded leather jerkin.
+diag all
+
+  You examine Serendipity the Dragon...
+She has no apparent injuries, but looks tired.
+  You examine Darrow the Secian...
+He has no apparent injuries, but looks tired.
+
+h
+>You have no apparent injuries, but look tired.
+
+HP: 111/111  Ftg:  44/ 61
+>
+Serendipity chuckles.
+
+You expend 1 fatigue keeping up the holy fog on Serendipity.
+
+Darrow just placed a padded leather jerkin within his open colorful pouch.
+l
+[Monastery Ruins, Ground Level]
+
+A tall dead tree stands in the middle of the floor, its trunk stretching through a circular opening in the ceiling. Colorful symbols cover the tiled floor about the tree, although they have been heavily clawed and scarred. Someone, or something, clearly objected to their presence.  A glass flask, a yellow glass flask, and a yellow glass flask are here.
+
+This room is illuminated.
+You see the 1st flying squirrel (wearing a small gold collar).
+In the room are Serendipity the Noble Draco and Darrow the Secian (a flying squirrel upon his left shoulder and holding a glowing twinkling violet orb of Rinanni).
+Obvious exits: north* east* south* west*.
+>
+You follow Darrow north...
+
+[Monastery Ruins, Ground Level]
+
+Dirt and small stones litter the dull floor, spreading outward from the hole that was once a gateway. The remains of the oaken doors lie broken, separated, and shattered by whatever broke into this place.
+
+This room is illuminated.
+You see the 1st arachnian warrior spirit and the 1st flying squirrel (wearing a small gold collar).
+In the room are Serendipity the Noble Draco and Darrow the Secian (a flying squirrel upon his left shoulder and holding a glowing twinkling violet orb of Rinanni).
+Obvious exits: southeast* south* southwest*.
+
+You expend 1 fatigue keeping up the holy fog on Serendipity.
+
+You see Darrow call out the name of Rinanni and point at the arachnian warrior spirit!
+
+The arachnian warrior spirit is seemingly unimpressed by the attempt to turn it!
+invo sm la at war
+Target is the 1st warrior spirit.
+
+Glinka clasps her hands, a gleaming white arrow forms before her.
+
+You feel a surge of magick infuse your runeweave!
+Weaving those runes cost you 3 FPs.
+
+You feel more tired.
+[4 sec. delay]
+>
+You expend 1 fatigue keeping up the holy fog on Serendipity.
+
+The arachnian warrior spirit turns and flies southwest!
+
+ ** Current fatigue: 40 out of 61
+
+You expend 1 fatigue keeping up the holy fog on Serendipity.
+
+Darrow says, "3 of them"
+
+You expend 1 fatigue keeping up the holy fog on Serendipity.
+
+You follow Darrow southwest...
+
+[Monastery Ruins, Ground Level]
+
+The stone floor is only barely visible through the clutter and trash, as scraps of parchment and broken remains of furniture hide the tiles beneath.  Spider webs cover everything in a blanket of dust.  A winding stone staircase and a stone staircase are here.
+
+This room is illuminated.
+You see the 1st arachnian warrior spirit, the 2nd arachnian warrior spirit, the 3rd arachnian warrior spirit, and the 1st flying squirrel (wearing a small gold collar).
+In the room are Serendipity the Noble Draco and Darrow the Secian (a flying squirrel upon his left shoulder and holding a glowing twinkling violet orb of Rinanni).
+Obvious exits: northeast* east* southeast*.
+
+You expend 1 fatigue keeping up the holy fog on Serendipity.
+invo sm la at 3 war
+
+Serendipity returns her dragon carved bone hilted broadsword.
+Target is the 3rd warrior spirit.
+
+Glinka clasps her hands, a gleaming white arrow forms before her.
+
+You feel a surge of magick infuse your runeweave!
+Weaving those runes cost you 3 FPs.
+
+You feel more tired.
+[4 sec. delay]
+>
+You follow Darrow east...
+
+[Monastery Ruins, Ground Level]
+
+A tall dead tree stands in the middle of the floor, its trunk stretching through a circular opening in the ceiling. Colorful symbols cover the tiled floor about the tree, although they have been heavily clawed and scarred. Someone, or something, clearly objected to their presence.  A glass flask, a yellow glass flask, and a yellow glass flask are here.
+
+This room is illuminated.
+You see the 1st flying squirrel (wearing a small gold collar).
+In the room are Serendipity the Noble Draco and Darrow the Secian (a flying squirrel upon his left shoulder and holding a glowing twinkling violet orb of Rinanni).
+Obvious exits: north* east* south* west*.
+
+You follow Darrow west...
+
+[Monastery Ruins, Ground Level]
+
+The stone floor is only barely visible through the clutter and trash, as scraps of parchment and broken remains of furniture hide the tiles beneath.  Spider webs cover everything in a blanket of dust.  A winding stone staircase and a stone staircase are here.
+
+This room is illuminated.
+You see the 1st arachnian warrior spirit, the 2nd arachnian warrior spirit, the 3rd arachnian warrior spirit, and the 1st flying squirrel (wearing a small gold collar).
+In the room are Serendipity the Noble Draco and Darrow the Secian (a flying squirrel upon his left shoulder and holding a glowing twinkling violet orb of Rinanni).
+Obvious exits: northeast* east* southeast*.
+
+You follow Darrow east...
+
+[Monastery Ruins, Ground Level]
+
+A tall dead tree stands in the middle of the floor, its trunk stretching through a circular opening in the ceiling. Colorful symbols cover the tiled floor about the tree, although they have been heavily clawed and scarred. Someone, or something, clearly objected to their presence.  A glass flask, a yellow glass flask, and a yellow glass flask are here.
+
+This room is illuminated.
+You see the 1st flying squirrel (wearing a small gold collar).
+In the room are Serendipity the Noble Draco and Darrow the Secian (a flying squirrel upon his left shoulder and holding a glowing twinkling violet orb of Rinanni).
+Obvious exits: north* east* south* west*.
+
+Serendipity extends her arms and waves them in a wide arc over her head!
+gig
+You giggle.
+>
+You expend 1 fatigue keeping up the holy fog on Serendipity.
+
+You follow Darrow west...
+
+[Monastery Ruins, Ground Level]
+
+The stone floor is only barely visible through the clutter and trash, as scraps of parchment and broken remains of furniture hide the tiles beneath.  Spider webs cover everything in a blanket of dust.  A winding stone staircase and a stone staircase are here.
+
+This room is illuminated.
+You see the 1st arachnian warrior spirit, the 2nd arachnian warrior spirit, the 3rd arachnian warrior spirit, and the 1st flying squirrel (wearing a small gold collar).
+In the room are Serendipity the Noble Draco and Darrow the Secian (a flying squirrel upon his left shoulder and holding a glowing twinkling violet orb of Rinanni).
+Obvious exits: northeast* east* southeast*.
+
+You follow Darrow east...
+
+
+An arachnian warrior spirit enters, following Darrow's group.
+
+An arachnian warrior spirit enters, following Darrow's group.
+[Monastery Ruins, Ground Level]
+
+A tall dead tree stands in the middle of the floor, its trunk stretching through a circular opening in the ceiling. Colorful symbols cover the tiled floor about the tree, although they have been heavily clawed and scarred. Someone, or something, clearly objected to their presence.  A glass flask, a yellow glass flask, and a yellow glass flask are here.
+
+This room is illuminated.
+You see the 1st flying squirrel (wearing a small gold collar), the 1st arachnian warrior spirit, and the 2nd arachnian warrior spirit.
+In the room are Serendipity the Noble Draco and Darrow the Secian (a flying squirrel upon his left shoulder and holding a glowing twinkling violet orb of Rinanni).
+Obvious exits: north* east* south* west*.
+how
+You howl.
+>
+Serendipity's arms shimmer with a radiant blue aura.
+
+You see Darrow call out the name of Rinanni and point at the arachnian warrior spirit!
+
+The arachnian warrior spirit seems unaffected by the attempt to turn it!
+h
+You have no apparent injuries, but look fatigued.
+
+HP: 111/111  Ftg:  35/ 61
+>
+You expend 1 fatigue keeping up the holy fog on Serendipity.
+
+The cloud of fog about Serendipity slowly recedes.
+
+Serendipity's eyes burn brightly with a fire from deep within.
+invo vt at gli
+
+The arachnian warrior spirit soars up into the air.
+
+The 2nd arachnian warrior spirit soars up into the air.
+
+A pale, bluish glow surrounds your fingertips. 
+
+You feel a surge of magick infuse your runeweave!
+Weaving those runes cost you 3 FPs.
+
+You feel more tired.
+[4 sec. delay]
+invo hc at ser
+>
+You see Darrow call out the name of Rinanni and point at the arachnian warrior spirit!
+
+The arachnian warrior spirit ignores the attempt to turn it!
+
+Fiery tendrils of energy snake across Serendipity as her body increases in both size and power!
+
+The bluish glow spreads out and soothingly envelops you!
+
+h
+You feel invigorated!
+
+The bluish glow on your fingertips fades away.
+You have no apparent injuries, but look tired.
+
+HP: 111/111  Ftg:  55/ 61
+
+Serendipity readies a dragon carved bone hilted broadsword.
+
+Holy sigils begin to swirl about Glinka, emitting thin trails of mist.
+
+You feel a surge of magick infuse your runeweave!
+Weaving those runes cost you 4 FPs.
+
+You feel more tired.
+[4 sec. delay]
+diag all
+>
+The arachnian warrior spirit makes a quick strafing run on Darrow...
+
+The arachnian warrior spirit bites at Darrow!
+The attack is a good blow to the right arm.
+    Darrow is knocked back!
+    Darrow stumbles and falls down!
+
+The 2nd arachnian warrior spirit makes a quick strafing run on Serendipity...
+
+The 2nd arachnian warrior spirit hacks with a rusty steel long sword at Serendipity!
+The swing is a strong blow to the right arm.
+
+The trails of mist encircle Serendipity and coalesce into a cloud of fog!
+
+You see Darrow call out the name of Rinanni and point at the 2nd arachnian warrior spirit!
+
+The 2nd arachnian warrior spirit smiles wickedly after the attempt to turn it!
+def d
+
+  You examine Serendipity the Dragon...
+She has a tiny slash across her right arm, and looks weakened and tired.
+  You examine Darrow the Secian...
+He has a tiny puncture wound in his right arm, and looks weakened and tired.
+
+You move in front of Darrow and accept all his attackers.
+transfer damage from ser 10
+>You transfer some damage to yourself from Serendipity.
+You take 7 points of damage!
+transfer damage from da 10
+>
+You expend 1 fatigue keeping up the holy fog on Serendipity.
+You transfer some damage to yourself from Darrow.
+You take 5 points of damage!
+>
+You see Darrow call out the name of Rinanni and point at the arachnian warrior spirit!
+
+The arachnian warrior spirit smiles wickedly after the attempt to turn it!
+
+The arachnian warrior spirit bites at you!
+The attack is a good blow to the right leg.
+  Your polished steelwood mail absorbs some of the damage!
+    You are knocked back!
+    Your right leg takes 25 points of impale damage!
+
+The 2nd arachnian warrior spirit makes a quick strafing run on Serendipity...
+
+The 2nd arachnian warrior spirit hacks with a rusty steel long sword at Serendipity!
+The swing is a strong blow to the right leg.
+
+ ** Current hit points: 74 out of 111
+
+ ** Current fatigue: 50 out of 61
+
+Serendipity swings her dragon carved bone hilted broadsword at the arachnian warrior spirit!
+The swing nearly fumbles.
+
+Darrow's glowing twinkling violet orb of Rinanni flickers for a moment.
+
+The flying squirrel makes a chittering sound.
+tact
+Standing in this rank is:
+Serendipity, Glinka, Darrow, flying squirrel, arachnian warrior spirit, arachnian warrior spirit
+>
+You expend 1 fatigue keeping up the holy fog on Serendipity.
+ret 1
+You retreat 1 UDs to the rear!
+[3 sec. delay]
+>
+Serendipity swings her dragon carved bone hilted broadsword at the arachnian warrior spirit!
+The swing goes wild.
+
+Darrow stands up.
+transfer damage from d 10
+
+Darrow touches you.
+You feel your pain lessen.
+
+The arachnian warrior spirit makes a quick strafing run on Serendipity...
+
+The arachnian warrior spirit hacks with a rusty steel long sword at Serendipity!
+The swing is a good blow to the right leg.
+
+The 2nd arachnian warrior spirit makes a quick strafing run on Serendipity...
+
+The 2nd arachnian warrior spirit hacks with a rusty steel long sword at Serendipity!
+The swing is a well-delivered blow to the left leg.
+transfer damage from ser 10
+You transfer some damage to yourself from Darrow.
+You take 9 points of damage!
+
+You expend 1 fatigue keeping up the holy fog on Serendipity.
+
+Serendipity swings her dragon carved bone hilted broadsword at the arachnian warrior spirit!
+The swing misses by a slim margin.
+You transfer some damage to yourself from Serendipity.
+You take 10 points of damage!
+transfer damage from ser 10
+transfer damage from ser 10
+>You transfer some damage to yourself from Serendipity.
+You take 4 points of damage!
+
+You see Darrow call out the name of Rinanni and point at the arachnian warrior spirit!
+
+The arachnian warrior spirit writhes in great agony and is turned to dust!
+With a crash, everything it was carrying falls to the ground before you.
+Target is not injured!
+h
+>You have a tiny puncture wound in your right leg, and look weakened and tired.
+
+HP:  88/111  Ftg:  50/ 61
+>
+You expend 1 fatigue keeping up the holy fog on Serendipity.
+
+Serendipity swings her dragon carved bone hilted broadsword at the arachnian warrior spirit!
+The swing nearly fumbles.
+how
+You howl.
+>
+The arachnian warrior spirit glances around with a malicious look in his eyes.
+
+The arachnian warrior spirit makes a quick strafing run on Serendipity...
+
+The arachnian warrior spirit swings a rusty steel long sword at Serendipity!
+The swing fumbles!
+diag all
+
+  You examine Serendipity the Dragon...
+She has a tiny slash across her right leg, a tiny slash across her left leg, and looks tired.
+  You examine Darrow the Secian...
+He has no apparent injuries, but looks tired.
+
+>
+You see Darrow call out the name of Rinanni and point at the arachnian warrior spirit!
+
+The arachnian warrior spirit is seemingly unimpressed by the attempt to turn it!
+
+Serendipity is trying to strip the arachnian warrior spirit.
+transfer damage from ser 10
+
+You expend 1 fatigue keeping up the holy fog on Serendipity.
+Target is not injured!
+transfer damage from da 10
+>
+The arachnian warrior spirit makes a quick strafing run on Serendipity...
+
+The arachnian warrior spirit hacks with a rusty steel long sword at Serendipity!
+The swing is a good blow to the torso.
+Target is not injured!
+>
+You see Darrow call out the name of Rinanni and point at the arachnian warrior spirit!
+transfer wounds from ser all
+
+You expend 1 fatigue keeping up the holy fog on Serendipity.
+
+Serendipity swings her dragon carved bone hilted broadsword at the arachnian warrior spirit!
+The swing nearly fumbles.
+You transfer a wound from Serendipity's right leg to yourself.
+>
+The arachnian warrior spirit suddenly takes on a very wild-eyed look!
+transfer wounds from ser all
+transfer wounds from ser all
+You transfer a wound from Serendipity's left leg to yourself.
+diag all
+
+Serendipity swings her dragon carved bone hilted broadsword at the arachnian warrior spirit!
+The swing misses its target.
+You transfer a wound from Serendipity's torso to yourself.
+
+You expend 1 fatigue keeping up the holy fog on Serendipity.
+
+  You examine Serendipity the Dragon...
+She has no apparent injuries, but looks weakened and tired.
+  You examine Darrow the Secian...
+He has no apparent injuries, but looks fatigued.
+
+>
+The arachnian warrior spirit turns and flies east!
+
+Darrow touches you.
+You feel your pain lessen.
+h
+You have a tiny puncture wound in your right leg, a tiny slash across your right leg, a tiny slash across your left leg, a tiny slash across your torso, and look tired.
+
+HP: 111/111  Ftg:  48/ 61
+transfer damage from ser 10
+>You transfer some damage to yourself from Serendipity.
+You take 7 points of damage!
+>
+Darrow touches you.
+You feel your pain lessen.
+
+You expend 1 fatigue keeping up the holy fog on Serendipity.
+gig
+
+Serendipity just picked up some silver coins.
+You giggle.
+transfer damage from sd 10
+>I don't see what you are referring to.
+>
+A greater moaning spirit just wandered in right next to you!
+transfer damage from d 10
+
+You expend 1 fatigue keeping up the holy fog on Serendipity.
+
+The cloud of fog about Serendipity slowly recedes.
+You transfer some damage to yourself from Darrow.
+You take 8 points of damage!
+>
+Darrow just picked up a broken glass bottle.
+
+Darrow just picked up a bronze hammer.
+
+ ** Current hit points: 103 out of 111
+
+ ** Current fatigue: 52 out of 61
+invo hc at ser
+
+The radiant blue aura fades from her arms.
+
+Serendipity returns her dragon carved bone hilted broadsword.
+
+Holy sigils begin to swirl about Glinka, emitting thin trails of mist.
+
+You feel a surge of magick infuse your runeweave!
+Weaving those runes cost you 4 FPs.
+
+You feel more tired.
+[4 sec. delay]
+>
+The greater moaning spirit advances towards Darrow.
+l
+[Monastery Ruins, Ground Level]
+
+A tall dead tree stands in the middle of the floor, its trunk stretching through a circular opening in the ceiling. Colorful symbols cover the tiled floor about the tree, although they have been heavily clawed and scarred. Someone, or something, clearly objected to their presence.  A glass flask, a yellow glass flask, a yellow glass flask, a rusty steel long sword, a closed flowery embroidered silk beltpouch, a flute, a large red pewter tankard of hithual ale, a giant silver fork, a straw hat, and a glass vial are here.
+
+This room is illuminated.
+You see the 1st flying squirrel (wearing a small gold collar) and the 1st greater moaning spirit.
+In the room are Serendipity the Noble Draco and Darrow the Secian (a flying squirrel upon his left shoulder and holding a glowing twinkling violet orb of Rinanni).
+Obvious exits: north* east* south* west*.
+>
+Serendipity extends her arms and waves them in a wide arc over her head!
+
+The trails of mist encircle Serendipity and coalesce into a cloud of fog!
+
+You see Darrow call out the name of Rinanni and point at the greater moaning spirit!
+diag all
+
+  You examine Serendipity the Dragon...
+She has no apparent injuries, but looks fatigued.
+  You examine Darrow the Secian...
+He has no apparent injuries, but looks tired.
+
+>
+The greater moaning spirit is suddenly immobilized!
+
+Serendipity's arms shimmer with a radiant blue aura.
+how
+You howl.
+invo sm la at sp
+>
+You expend 1 fatigue keeping up the holy fog on Serendipity.
+
+Serendipity's eyes burn brightly with a fire from deep within.
+
+The runespell loses integrity and dissipates!
+Target is the 1st spirit.
+
+Glinka clasps her hands, a gleaming white arrow forms before her.
+
+You feel a surge of magick infuse your runeweave!
+Weaving those runes cost you 3 FPs.
+
+You feel more tired.
+[4 sec. delay]
+invo vt at ser
+>
+A brilliant arrow of light flies from Glinka and strikes the greater moaning spirit.
+    The greater moaning spirit is knocked back!
+
+You expend 1 fatigue keeping up the arrow of light on the greater moaning spirit.
+
+The arrow of light breaks into thousands of tiny particles and floats away.
+
+You expend 1 fatigue keeping up the holy fog on Serendipity.
+
+A pale, bluish glow surrounds Glinka's fingertips. 
+Weaving those runes cost you 3 FPs.
+
+You feel more tired.
+[4 sec. delay]
+>
+Darrow just placed a bronze hammer within his open colorful pouch.
+
+Serendipity readies a dragon carved bone hilted broadsword.
+
+The bluish glow spreads out and soothingly envelops Serendipity!
+
+The bluish glow on Glinka's fingertips fades away.
+
+You expend 1 fatigue keeping up the holy fog on Serendipity.
+
+Serendipity swings her dragon carved bone hilted broadsword at the greater moaning spirit!
+The swing is a decent blow to the left rear arm.
+    The greater moaning spirit is knocked back!
+
+Serendipity's body returns to normal as the fiery tendrils dissipate.
+invo sm la at sp
+Target is the 1st spirit.
+
+Glinka clasps her hands, a gleaming white arrow forms before her.
+
+You feel a surge of magick infuse your runeweave!
+Weaving those runes cost you 3 FPs.
+
+You feel more tired.
+[4 sec. delay]
+>
+You expend 1 fatigue keeping up the holy fog on Serendipity.
+
+Serendipity swings her dragon carved bone hilted broadsword at the greater moaning spirit!
+The swing is a well-delivered blow to the right leg.
+    The greater moaning spirit is knocked back!
+h
+You have no apparent injuries, but look weakened and fatigued.
+
+HP: 103/111  Ftg:  36/ 61
+diag all
+>
+  You examine Serendipity the Dragon...
+She has no apparent injuries, but looks tired.
+  You examine Darrow the Secian...
+He has no apparent injuries, but looks tired.
+
+>
+A brilliant arrow of light flies from Glinka and strikes the greater moaning spirit.
+
+The arrow of light breaks into thousands of tiny particles and floats away.
+invo vt at gli
+
+You expend 1 fatigue keeping up the holy fog on Serendipity.
+
+Serendipity swings her dragon carved bone hilted broadsword at the greater moaning spirit!
+The swing is a good blow to the right arm.
+
+A pale, bluish glow surrounds your fingertips. 
+Weaving those runes cost you 3 FPs.
+
+You feel more tired.
+[4 sec. delay]
+>
+Darrow just placed a broken glass bottle within his open crafted sack.
+
+The bluish glow spreads out and soothingly envelops you!
+
+h
+You feel invigorated!
+
+The bluish glow on your fingertips fades away.
+You have no apparent injuries, but look weakened and tired.
+
+HP: 103/111  Ftg:  52/ 61
+>
+Serendipity swings her dragon carved bone hilted broadsword at the greater moaning spirit!
+The swing is a well-delivered blow to the left leg.
+
+You expend 1 fatigue keeping up the holy fog on Serendipity.
+
+Darrow just picked up a closed flowery embroidered silk beltpouch.
+h
+You have no apparent injuries, but look weakened and tired.
+
+HP: 103/111  Ftg:  51/ 61
+invo sm la at sp
+>Target is the 1st spirit.
+
+Glinka clasps her hands, a gleaming white arrow forms before her.
+Weaving those runes cost you 3 FPs.
+
+You feel more tired.
+[3 sec. delay]
+>
+Serendipity swings her dragon carved bone hilted broadsword at the greater moaning spirit!
+The swing misses its target.
+
+Darrow just opened the closed flowery embroidered silk beltpouch.
+
+You expend 1 fatigue keeping up the holy fog on Serendipity.
+
+ ** Current hit points: 103 out of 111
+
+ ** Current fatigue: 47 out of 61
+
+A brilliant arrow of light flies from Glinka and strikes the greater moaning spirit.
+
+You expend 1 fatigue keeping up the arrow of light on the greater moaning spirit.
+
+The arrow of light breaks into thousands of tiny particles and floats away.
+turn sp 
+
+Serendipity swings her dragon carved bone hilted broadsword at the greater moaning spirit!
+The swing misses its target.
+h
+sk
+You call out the name of your deity and point to the greater moaning spirit!
+
+The greater moaning spirit seems unaffected by the attempt to turn it!
+
+You feel more tired.
+[5 sec. delay]
+>You have no apparent injuries, but look weakened and fatigued.
+
+HP: 103/111  Ftg:  41/ 61
+>
+Skill                     Remain Level
+ First Aid                 97     1     
+ Channeling                415    5     
+ Blunt Weapons             300    3     
+ Spellcasting              954    9     
+ Turn Undead               277    3     
+ Identify Gems/Minerals    493    5     
+ Shield Parry              100    1     
+ Identify Magick           97     1     
+
+turn sp 
+>
+You see Darrow call out the name of Rinanni and point at the greater moaning spirit!
+
+You expend 1 fatigue keeping up the holy fog on Serendipity.
+
+Serendipity swings her dragon carved bone hilted broadsword at the greater moaning spirit!
+The swing is a strong blow to the right arm.
+    The greater moaning spirit is knocked back!
+how
+You howl.
+h
+sk
+You call out the name of your deity and point to the greater moaning spirit!
+
+The greater moaning spirit smiles wickedly after the attempt to turn it!
+
+You feel more tired.
+[5 sec. delay]
+>You have no apparent injuries, but look weakened and fatigued.
+
+HP: 103/111  Ftg:  37/ 61
+>
+Skill                     Remain Level
+ First Aid                 97     1     
+ Channeling                415    5     
+ Blunt Weapons             300    3     
+ Spellcasting              954    9     
+ Turn Undead               277    3     
+ Identify Gems/Minerals    493    5     
+ Shield Parry              100    1     
+ Identify Magick           97     1     
+
+>
+You expend 1 fatigue keeping up the holy fog on Serendipity.
+
+The cloud of fog about Serendipity slowly recedes.
+
+Darrow raises his hands to the heavens and begins to chant in a holy tongue.
+
+Serendipity swings her dragon carved bone hilted broadsword at the greater moaning spirit!
+The swing misses its target.
+invo sm la at sp
+invo vt at gli
+Target is the 1st spirit.
+
+Glinka clasps her hands, a gleaming white arrow forms before her.
+
+You feel a surge of magick infuse your runeweave!
+Weaving those runes cost you 3 FPs.
+
+You feel more tired.
+[4 sec. delay]
+invo hc at ser
+
+Serendipity swings her dragon carved bone hilted broadsword at the greater moaning spirit!
+The swing is a good blow to the head.
+    The greater moaning spirit is knocked back!
+
+A holy light sprays from his uplifted hands enveloping Darrow.
+
+The holy light surrounding Darrow fades away.
+
+Darrow raises his hands to the heavens and begins to chant in a holy tongue.
+
+Serendipity swings her dragon carved bone hilted broadsword at the greater moaning spirit!
+The swing goes wild.
+
+A pale, bluish glow surrounds your fingertips. 
+Weaving those runes cost you 3 FPs.
+
+You feel more tired.
+[3 sec. delay]
+
+A brilliant arrow of light flies from Glinka and strikes the greater moaning spirit.
+    The greater moaning spirit is knocked back!
+
+You expend 1 fatigue keeping up the arrow of light on the greater moaning spirit.
+
+The arrow of light breaks into thousands of tiny particles and floats away.
+
+A holy light sprays from his uplifted hands enveloping Serendipity.
+
+The holy light surrounding Serendipity fades away.
+
+The bluish glow spreads out and soothingly envelops you!
+
+h
+You feel invigorated!
+
+The bluish glow on your fingertips fades away.
+
+Darrow raises his hands to the heavens and begins to chant in a holy tongue.
+
+ ** You are fully healed.
+You have no apparent injuries, but look tired.
+
+HP: 111/111  Ftg:  53/ 61
+
+Serendipity swings her dragon carved bone hilted broadsword at the greater moaning spirit!
+The swing goes wild.
+
+Holy sigils begin to swirl about Glinka, emitting thin trails of mist.
+
+You feel a surge of magick infuse your runeweave!
+Weaving those runes cost you 4 FPs.
+
+You feel more tired.
+[4 sec. delay]
+diag all
+h
+>You have no apparent injuries, but look tired.
+
+HP: 111/111  Ftg:  49/ 61
+
+The trails of mist encircle Serendipity and coalesce into a cloud of fog!
+
+A holy light sprays from his uplifted hands enveloping you.
+
+The holy light surrounding you fades away.
+
+Serendipity swings her dragon carved bone hilted broadsword at the greater moaning spirit!
+The swing is a strong blow to the right leg.
+
+The radiant blue aura fades from her arms.
+
+  You examine Serendipity the Dragon...
+She has no apparent injuries, but looks tired.
+  You examine Darrow the Secian...
+He appears to be in perfect health.
+
+l
+>[Monastery Ruins, Ground Level]
+
+A tall dead tree stands in the middle of the floor, its trunk stretching through a circular opening in the ceiling. Colorful symbols cover the tiled floor about the tree, although they have been heavily clawed and scarred. Someone, or something, clearly objected to their presence.  A glass flask, a yellow glass flask, a yellow glass flask, a rusty steel long sword, a flute, a large red pewter tankard of hithual ale, a giant silver fork, a straw hat, and a glass vial are here.
+
+This room is illuminated.
+You see the 1st flying squirrel (wearing a small gold collar) and the 1st greater moaning spirit.
+In the room are Serendipity the Noble Draco and Darrow the Secian (a flying squirrel upon his left shoulder and holding a glowing twinkling violet orb of Rinanni).
+Obvious exits: north* east* south* west*.
+invo sm la at sp
+>
+You expend 1 fatigue keeping up the holy fog on Serendipity.
+
+Serendipity swings her dragon carved bone hilted broadsword at the greater moaning spirit!
+The swing is a good blow to the head.
+Target is the 1st spirit.
+
+Glinka clasps her hands, a gleaming white arrow forms before her.
+Weaving those runes cost you 3 FPs.
+
+You feel more tired.
+[4 sec. delay]
+>
+A pale yellowish light surrounds Darrow's hands as he murmurs softly.
+
+Serendipity swings her dragon carved bone hilted broadsword at the greater moaning spirit!
+The swing is a nearly perfect blow to the head.
+    The greater moaning spirit is knocked back!
+
+You expend 1 fatigue keeping up the holy fog on Serendipity.
+
+A spray of yellowish droplets flies from Darrow's hands and splashes upon the greater moaning spirit!
+    The greater moaning spirit is knocked back!
+
+The yellowish droplets upon the greater moaning spirit evaporate.
+
+A brilliant arrow of light flies from Glinka and strikes the greater moaning spirit.
+
+The arrow of light breaks into thousands of tiny particles and floats away.
+invo sm la at sp
+Target is the 1st spirit.
+
+Glinka clasps her hands, a gleaming white arrow forms before her.
+
+You feel a surge of magick infuse your runeweave!
+Weaving those runes cost you 3 FPs.
+
+You feel more tired.
+[4 sec. delay]
+>
+Serendipity swings her dragon carved bone hilted broadsword at the greater moaning spirit!
+The swing fumbles!
+
+ ** Current fatigue: 55 out of 61
+tact
+Standing in front of you at 1 UDs, is:
+Serendipity, Darrow, flying squirrel, greater moaning spirit
+Standing in this rank is:
+Glinka
+>
+You expend 1 fatigue keeping up the holy fog on Serendipity.
+
+A brilliant arrow of light flies from Glinka and strikes the greater moaning spirit.
+    The greater moaning spirit is knocked back!
+
+The greater moaning spirit moans before fading into the netherworlds.
+
+The arrow of light breaks into thousands of tiny particles and floats away.
+With a crash, everything it was carrying falls to the ground before you.
+gig
+You giggle.
+>
+You expend 1 fatigue keeping up the holy fog on Serendipity.
+h
+You have no apparent injuries, but look tired.
+
+HP: 111/111  Ftg:  53/ 61
+l
+>[Monastery Ruins, Ground Level]
+
+A tall dead tree stands in the middle of the floor, its trunk stretching through a circular opening in the ceiling. Colorful symbols cover the tiled floor about the tree, although they have been heavily clawed and scarred. Someone, or something, clearly objected to their presence.  A glass flask, a yellow glass flask, a yellow glass flask, a rusty steel long sword, a flute, a large red pewter tankard of hithual ale, a giant silver fork, a straw hat, a glass vial, and a closed rusted brass box are here.
+
+This room is illuminated.
+You see the 1st flying squirrel (wearing a small gold collar).
+In the room are Serendipity the Noble Draco and Darrow the Secian (a flying squirrel upon his left shoulder and holding a glowing twinkling violet orb of Rinanni).
+Obvious exits: north* east* south* west*.
+>
+Darrow just picked up a straw hat.
+diag all
+
+  You examine Serendipity the Dragon...
+She has no apparent injuries, but looks tired.
+  You examine Darrow the Secian...
+He has no apparent injuries, but looks tired.
+
+>
+You expend 1 fatigue keeping up the holy fog on Serendipity.
+
+Serendipity just picked up a closed rusted brass box.
+
+Darrow just placed a straw hat within his open crafted sack.
+dri tan
+You take a drink from the large red pewter tankard of hithual ale.
+
+Hmmm... not bad.
+
+You're sloshing, you've been drinking so much.  Time to stop drinking for a while.
+>
+Darrow just picked up a giant silver fork.
+
+You expend 1 fatigue keeping up the holy fog on Serendipity.
+
+Darrow just placed a giant silver fork within his open crafted sack.
+
+Serendipity says, " that one took a bit"
+l
+[Monastery Ruins, Ground Level]
+
+A tall dead tree stands in the middle of the floor, its trunk stretching through a circular opening in the ceiling. Colorful symbols cover the tiled floor about the tree, although they have been heavily clawed and scarred. Someone, or something, clearly objected to their presence.  A glass flask, a yellow glass flask, a yellow glass flask, a rusty steel long sword, a flute, a large red pewter tankard of hithual ale, and a glass vial are here.
+
+This room is illuminated.
+You see the 1st flying squirrel (wearing a small gold collar).
+In the room are Serendipity the Noble Draco and Darrow the Secian (a flying squirrel upon his left shoulder and holding a glowing twinkling violet orb of Rinanni).
+Obvious exits: north* east* south* west*.
+>
+You expend 1 fatigue keeping up the holy fog on Serendipity.
+nod yes
+You nod up and down.
+>
+Serendipity chuckles.
+gri to ser
+You grin to Serendipity.
+smile at d softly
+>
+Serendipity returns her dragon carved bone hilted broadsword.
+You smile at Darrow softly.
+>
+You expend 1 fatigue keeping up the holy fog on Serendipity.
+
+Serendipity extends her arms and waves them in a wide arc over her head!
+h
+You have no apparent injuries, but look tired.
+
+HP: 111/111  Ftg:  55/ 61
+diag all
+>
+  You examine Serendipity the Dragon...
+She has no apparent injuries, but looks tired.
+  You examine Darrow the Secian...
+He appears to be in perfect health.
+
+>
+Serendipity's arms shimmer with a radiant blue aura.
+
+You expend 1 fatigue keeping up the holy fog on Serendipity.
+
+The cloud of fog about Serendipity slowly recedes.
+
+Serendipity's eyes burn brightly with a fire from deep within.
+
+Darrow exclaims, "they are being so generous tonight with all this haggling loot!"
+invo hc at ser
+
+Fiery tendrils of energy snake across Serendipity as her body increases in both size and power!
+
+Serendipity readies a dragon carved bone hilted broadsword.
+
+Holy sigils begin to swirl about Glinka, emitting thin trails of mist.
+
+You feel a surge of magick infuse your runeweave!
+Weaving those runes cost you 4 FPs.
+
+You feel more tired.
+[4 sec. delay]
+gig to d
+>You giggle to Darrow.
+>
+ ** Current fatigue: 52 out of 61
+
+The trails of mist encircle Serendipity and coalesce into a cloud of fog!
+l
+[Monastery Ruins, Ground Level]
+
+A tall dead tree stands in the middle of the floor, its trunk stretching through a circular opening in the ceiling. Colorful symbols cover the tiled floor about the tree, although they have been heavily clawed and scarred. Someone, or something, clearly objected to their presence.  A glass flask, a yellow glass flask, a yellow glass flask, a rusty steel long sword, a flute, a large red pewter tankard of hithual ale, and a glass vial are here.
+
+This room is illuminated.
+You see the 1st flying squirrel (wearing a small gold collar).
+In the room are Serendipity the Noble Draco and Darrow the Secian (a flying squirrel upon his left shoulder and holding a glowing twinkling violet orb of Rinanni).
+Obvious exits: north* east* south* west*.
+>
+You expend 1 fatigue keeping up the holy fog on Serendipity.
+
+You follow Darrow east...
+
+[Monastery Ruins, Ground Level]
+
+Pieces of the destroyed gates hang from their former hinges, which squeak loudly with each gust of the chilling breeze.   The remains of a shredded rug lie across the entrance, its make and origin completely unrecognizable.  A gateway is here.
+
+This room is illuminated.
+You see the 1st arachnian warrior spirit and the 1st flying squirrel (wearing a small gold collar).
+In the room are Serendipity the Noble Draco, Green the Noble Human, and Darrow the Secian (a flying squirrel upon his left shoulder and holding a glowing twinkling violet orb of Rinanni).
+Obvious exits: southwest* west* northwest*.
+
+Serendipity says to Darrow, "let me know if ye want me to carry those"
+get vi
+I see no "vi" in the room!
+>
+You see Darrow call out the name of Rinanni and point at the arachnian warrior spirit!
+
+The arachnian warrior spirit seems unaffected by the attempt to turn it!
+
+You expend 1 fatigue keeping up the holy fog on Serendipity.
+
+The arachnian warrior spirit turns and flies west!
+turn war 
+I don't see what you are referring to.
+>
+Green salutes.
+
+You follow Darrow west...
+
+[Monastery Ruins, Ground Level]
+
+A tall dead tree stands in the middle of the floor, its trunk stretching through a circular opening in the ceiling. Colorful symbols cover the tiled floor about the tree, although they have been heavily clawed and scarred. Someone, or something, clearly objected to their presence.  A glass flask, a yellow glass flask, a yellow glass flask, a rusty steel long sword, a flute, a large red pewter tankard of hithual ale, and a glass vial are here.
+
+This room is illuminated.
+You see the 1st arachnian warrior spirit and the 1st flying squirrel (wearing a small gold collar).
+In the room are Serendipity the Noble Draco and Darrow the Secian (a flying squirrel upon his left shoulder and holding a glowing twinkling violet orb of Rinanni).
+Obvious exits: north* east* south* west*.
+turn war 
+
+You expend 1 fatigue keeping up the holy fog on Serendipity.
+
+Serendipity swings her dragon carved bone hilted broadsword at the arachnian warrior spirit!
+The swing barely misses.
+h
+sk
+You call out the name of your deity and point to the arachnian warrior spirit!
+The attempt has backfired on you!
+
+You feel more tired.
+[5 sec. delay]
+>You have no apparent injuries, but look fatigued.
+
+HP: 111/111  Ftg:  41/ 61
+>
+Skill                     Remain Level
+ First Aid                 97     1     
+ Channeling                415    5     
+ Blunt Weapons             300    3     
+ Spellcasting              948    9     
+ Turn Undead               278    3     
+ Identify Gems/Minerals    493    5     
+ Shield Parry              100    1     
+ Identify Magick           97     1     
+
+>
+You see Darrow call out the name of Rinanni and point at the arachnian warrior spirit!
+
+The arachnian warrior spirit smiles wickedly after the attempt to turn it!
+h
+You have no apparent injuries, but look fatigued.
+
+HP: 111/111  Ftg:  41/ 61
+>
+Serendipity swings her dragon carved bone hilted broadsword at the arachnian warrior spirit!
+The swing misses its target.
+
+You expend 1 fatigue keeping up the holy fog on Serendipity.
+
+The arachnian warrior spirit turns and flies west!
+diag all
+
+  You examine Serendipity the Dragon...
+She has no apparent injuries, but looks tired.
+  You examine Darrow the Secian...
+He has no apparent injuries, but looks tired.
+
+>
+Darrow yells, "sorrys!"
+
+You expend 1 fatigue keeping up the holy fog on Serendipity.
+gig
+You giggle.
+>
+You follow Darrow west...
+
+[Monastery Ruins, Ground Level]
+
+The stone floor is only barely visible through the clutter and trash, as scraps of parchment and broken remains of furniture hide the tiles beneath.  Spider webs cover everything in a blanket of dust.  A winding stone staircase and a stone staircase are here.
+
+This room is illuminated.
+You see the 1st arachnian warrior spirit and the 1st flying squirrel (wearing a small gold collar).
+In the room are Serendipity the Noble Draco and Darrow the Secian (a flying squirrel upon his left shoulder and holding a glowing twinkling violet orb of Rinanni).
+Obvious exits: northeast* east* southeast*.
+
+You see Darrow call out the name of Rinanni and point at the arachnian warrior spirit!
+
+The arachnian warrior spirit smiles wickedly after the attempt to turn it!
+
+Green yells, "No worries ere"
+
+You expend 1 fatigue keeping up the holy fog on Serendipity.
+
+Serendipity swings her dragon carved bone hilted broadsword at the arachnian warrior spirit!
+The swing misses by a slim margin.
+
+The arachnian warrior spirit turns and flies northeast!
+l
+[Monastery Ruins, Ground Level]
+
+The stone floor is only barely visible through the clutter and trash, as scraps of parchment and broken remains of furniture hide the tiles beneath.  Spider webs cover everything in a blanket of dust.  A winding stone staircase and a stone staircase are here.
+
+This room is illuminated.
+You see the 1st flying squirrel (wearing a small gold collar).
+In the room are Serendipity the Noble Draco and Darrow the Secian (a flying squirrel upon his left shoulder and holding a glowing twinkling violet orb of Rinanni).
+Obvious exits: northeast* east* southeast*.
+>
+You expend 1 fatigue keeping up the holy fog on Serendipity.
+
+ ** Current fatigue: 43 out of 61
+
+You expend 1 fatigue keeping up the holy fog on Serendipity.
+
+The flying squirrel skulks nervously.
+
+You expend 1 fatigue keeping up the holy fog on Serendipity.
+
+The cloud of fog about Serendipity slowly recedes.
+
+You follow Darrow east...
+
+[Monastery Ruins, Ground Level]
+
+A tall dead tree stands in the middle of the floor, its trunk stretching through a circular opening in the ceiling. Colorful symbols cover the tiled floor about the tree, although they have been heavily clawed and scarred. Someone, or something, clearly objected to their presence.  A glass flask, a yellow glass flask, a yellow glass flask, a rusty steel long sword, a flute, a large red pewter tankard of hithual ale, and a glass vial are here.
+
+This room is illuminated.
+You see the 1st arachnian warrior spirit and the 1st flying squirrel (wearing a small gold collar).
+In the room are Serendipity the Noble Draco and Darrow the Secian (a flying squirrel upon his left shoulder and holding a glowing twinkling violet orb of Rinanni).
+Obvious exits: north* east* south* west*.
+
+Serendipity swings her dragon carved bone hilted broadsword at the arachnian warrior spirit!
+The swing nearly fumbles.
+invo hc at ser
+
+The radiant blue aura fades from her arms.
+
+Holy sigils begin to swirl about Glinka, emitting thin trails of mist.
+Weaving those runes cost you 4 FPs.
+
+You feel more tired.
+[4 sec. delay]
+>
+You see Darrow call out the name of Rinanni and point at the arachnian warrior spirit!
+
+A firian warrior spirit just wandered in in front of you at 4 UDs!
+
+The arachnian warrior spirit turns and flies south!
+gig
+
+The trails of mist encircle Serendipity and coalesce into a cloud of fog!
+
+The firian warrior spirit soars up into the air.
+You giggle.
+l
+>[Monastery Ruins, Ground Level]
+
+A tall dead tree stands in the middle of the floor, its trunk stretching through a circular opening in the ceiling. Colorful symbols cover the tiled floor about the tree, although they have been heavily clawed and scarred. Someone, or something, clearly objected to their presence.  A glass flask, a yellow glass flask, a yellow glass flask, a rusty steel long sword, a flute, a large red pewter tankard of hithual ale, and a glass vial are here.
+
+This room is illuminated.
+You see the 1st flying squirrel (wearing a small gold collar) and the 1st firian warrior spirit.
+In the room are Serendipity the Noble Draco and Darrow the Secian (a flying squirrel upon his left shoulder and holding a glowing twinkling violet orb of Rinanni).
+Obvious exits: north* east* south* west*.
+>
+You see Darrow call out the name of Rinanni and point at the firian warrior spirit!
+
+The firian warrior spirit smiles wickedly after the attempt to turn it!
+
+You expend 1 fatigue keeping up the holy fog on Serendipity.
+
+The firian warrior spirit descends to 5 feet.
+turn war 
+h
+sk
+You call out the name of your deity and point to the firian warrior spirit!
+The attempt has backfired on you!
+
+You feel more tired.
+[5 sec. delay]
+>You have no apparent injuries, but look fatigued.
+
+HP: 111/111  Ftg:  30/ 61
+>
+Skill                     Remain Level
+ First Aid                 97     1     
+ Channeling                415    5     
+ Blunt Weapons             300    3     
+ Spellcasting              947    9     
+ Turn Undead               279    3     
+ Identify Gems/Minerals    493    5     
+ Shield Parry              100    1     
+ Identify Magick           97     1     
+
+>
+You see Darrow call out the name of Rinanni and point at the firian warrior spirit!
+
+The firian warrior spirit smiles wickedly after the attempt to turn it!
+
+You expend 1 fatigue keeping up the holy fog on Serendipity.
+
+The firian warrior spirit advances towards Serendipity.
+snap
+You snap your fingers.
+>
+Serendipity swings her dragon carved bone hilted broadsword at the firian warrior spirit!
+The swing misses its target.
+diag all
+
+You expend 1 fatigue keeping up the holy fog on Serendipity.
+
+  You examine Serendipity the Dragon...
+She has no apparent injuries, but looks tired.
+  You examine Darrow the Secian...
+He has no apparent injuries, but looks tired.
+
+>
+You see Darrow call out the name of Rinanni and point at the firian warrior spirit!
+
+The firian warrior spirit seems unaffected by the attempt to turn it!
+
+The firian warrior spirit swings a feathered birch spear at Serendipity!
+The swing is a decent blow to the left leg.
+h
+You have no apparent injuries, but look fatigued.
+
+HP: 111/111  Ftg:  28/ 61
+>
+Serendipity's body returns to normal as the fiery tendrils dissipate.
+
+Serendipity swings her dragon carved bone hilted broadsword at the firian warrior spirit!
+The swing goes wild.
+invo vt at gli
+
+A pale, bluish glow surrounds your fingertips. 
+Weaving those runes cost you 3 FPs.
+
+You feel more tired.
+[3 sec. delay]
+invo vt at gli
+>
+You expend 1 fatigue keeping up the holy fog on Serendipity.
+
+The firian warrior spirit spits on the ground.
+
+The firian warrior spirit thrusts a feathered birch spear at Serendipity!
+The swing is a good blow to the right leg.
+
+Serendipity swings her dragon carved bone hilted broadsword at the firian warrior spirit!
+The swing misses by a slim margin.
+
+You see Darrow call out the name of Rinanni and point at the firian warrior spirit!
+
+The firian warrior spirit smiles wickedly after the attempt to turn it!
+
+The bluish glow spreads out and soothingly envelops you!
+
+h
+You feel invigorated!
+
+The bluish glow on your fingertips fades away.
+You have no apparent injuries, but look tired.
+
+HP: 111/111  Ftg:  44/ 61
+
+A pale, bluish glow surrounds your fingertips. 
+
+You feel a surge of magick infuse your runeweave!
+Weaving those runes cost you 3 FPs.
+
+You feel more tired.
+[4 sec. delay]
+>
+ ** Current fatigue: 41 out of 61
+invo sm la at war
+
+You expend 1 fatigue keeping up the holy fog on Serendipity.
+
+Serendipity swings her dragon carved bone hilted broadsword at the firian warrior spirit!
+The swing barely misses.
+
+The firian warrior spirit thrusts a feathered birch spear at Serendipity!
+The swing is a decent blow to the head.
+
+The bluish glow spreads out and soothingly envelops you!
+
+h
+You feel invigorated!
+
+The bluish glow on your fingertips fades away.
+
+You see Darrow call out the name of Rinanni and point at the firian warrior spirit!
+
+The firian warrior spirit smiles wickedly after the attempt to turn it!
+You have no apparent injuries, but look tired.
+
+HP: 111/111  Ftg:  58/ 61
+Target is the 1st warrior spirit.
+
+Glinka clasps her hands, a gleaming white arrow forms before her.
+
+You feel a surge of magick infuse your runeweave!
+Weaving those runes cost you 3 FPs.
+
+You feel more tired.
+[4 sec. delay]
+>
+Serendipity swings her dragon carved bone hilted broadsword at the firian warrior spirit!
+The swing goes wild.
+
+You expend 1 fatigue keeping up the holy fog on Serendipity.
+
+The firian warrior spirit swings a feathered birch spear at Serendipity!
+The swing is a decent blow to the right arm.
+invo sm la at war
+Target is the 1st warrior spirit.
+
+Glinka clasps her hands, a gleaming white arrow forms before her.
+Weaving those runes cost you 3 FPs.
+
+You feel more tired.
+[4 sec. delay]
+>
+Darrow raises his hands to the heavens and begins to chant in a holy tongue.
+
+A brilliant arrow of light flies from Glinka and strikes the firian warrior spirit.
+
+The arrow of light breaks into thousands of tiny particles and floats away.
+
+Serendipity swings her dragon carved bone hilted broadsword at the firian warrior spirit!
+The swing misses by a slim margin.
+
+You expend 1 fatigue keeping up the holy fog on Serendipity.
+
+The firian warrior spirit thrusts a feathered birch spear at Serendipity!
+The swing is a strong blow to the left arm.
+
+A holy light sprays from his uplifted hands enveloping Darrow.
+
+The holy light surrounding Darrow fades away.
+
+Serendipity swings her dragon carved bone hilted broadsword at the firian warrior spirit!
+The swing nearly fumbles.
+
+A brilliant arrow of light flies from Glinka and strikes the firian warrior spirit.
+
+You expend 1 fatigue keeping up the arrow of light on the firian warrior spirit.
+
+The arrow of light breaks into thousands of tiny particles and floats away.
+
+Darrow bows his head and whispers a short prayer.
+invo sm la at war
+Target is the 1st warrior spirit.
+
+Glinka clasps her hands, a gleaming white arrow forms before her.
+
+You feel a surge of magick infuse your runeweave!
+Weaving those runes cost you 3 FPs.
+
+You feel more tired.
+[4 sec. delay]
+>
+You expend 1 fatigue keeping up the holy fog on Serendipity.
+
+The firian warrior spirit climbs to 10 feet.
+
+Serendipity swings her dragon carved bone hilted broadsword at the firian warrior spirit!
+The swing misses its target.
+
+A brilliant arrow of light flies from Glinka and strikes the firian warrior spirit.
+    The firian warrior spirit is knocked back!
+
+You expend 1 fatigue keeping up the arrow of light on the firian warrior spirit.
+
+The arrow of light breaks into thousands of tiny particles and floats away.
+h
+
+Darrow begins to glow with a holy blue light.
+You have no apparent injuries, but look tired.
+
+HP: 111/111  Ftg:  50/ 61
+>
+You see Darrow call out the name of Rinanni and point at the firian warrior spirit!
+
+You expend 1 fatigue keeping up the holy fog on Serendipity.
+
+The cloud of fog about Serendipity slowly recedes.
+
+The firian warrior spirit is suddenly immobilized!
+invo sm la at war
+
+Serendipity swings her dragon carved bone hilted broadsword at the firian warrior spirit!
+The swing is a decent blow to the left arm.
+    The firian warrior spirit is knocked back!
+    It just fell 10 feet!
+Target is the 1st warrior spirit.
+
+Glinka clasps her hands, a gleaming white arrow forms before her.
+Weaving those runes cost you 3 FPs.
+
+You feel more tired.
+[4 sec. delay]
+>
+Serendipity smiles.
+invo hc at ser
+
+Serendipity swings her dragon carved bone hilted broadsword at the firian warrior spirit!
+The swing is a well-delivered blow to the torso.
+
+A brilliant arrow of light flies from Glinka and strikes the firian warrior spirit.
+
+You expend 1 fatigue keeping up the arrow of light on the firian warrior spirit.
+
+The arrow of light breaks into thousands of tiny particles and floats away.
+gig
+You giggle.
+
+Holy sigils begin to swirl about Glinka, emitting thin trails of mist.
+Weaving those runes cost you 4 FPs.
+
+You feel more tired.
+[4 sec. delay]
+
+Your god is pleased with you!
+appl to f
+>I don't see what you are referring to.
+appl to d
+>
+Serendipity swings her dragon carved bone hilted broadsword at the firian warrior spirit!
+The swing is a strong blow to the torso.
+You applaud to Darrow.
+>
+The trails of mist encircle Serendipity and coalesce into a cloud of fog!
+
+Darrow briefly touches Serendipity.
+invo sm la at war
+Target is the 1st warrior spirit.
+
+Glinka clasps her hands, a gleaming white arrow forms before her.
+Weaving those runes cost you 3 FPs.
+
+You feel more tired.
+[4 sec. delay]
+>
+Serendipity swings her dragon carved bone hilted broadsword at the firian warrior spirit!
+The swing goes wild.
+
+You expend 1 fatigue keeping up the holy fog on Serendipity.
+
+Serendipity swings her dragon carved bone hilted broadsword at the firian warrior spirit!
+The swing is a decent blow to the right leg.
+
+Darrow briefly touches Serendipity on his left arm.
+
+A brilliant arrow of light flies from Glinka and strikes the firian warrior spirit.
+
+You expend 1 fatigue keeping up the arrow of light on the firian warrior spirit.
+
+The arrow of light breaks into thousands of tiny particles and floats away.
+
+The flying squirrel chases its tail.
+
+ ** Current fatigue: 38 out of 61
+invo sm la at war
+Target is the 1st warrior spirit.
+
+Glinka clasps her hands, a gleaming white arrow forms before her.
+Weaving those runes cost you 3 FPs.
+
+You feel more tired.
+[3 sec. delay]
+>
+You expend 1 fatigue keeping up the holy fog on Serendipity.
+
+Serendipity swings her dragon carved bone hilted broadsword at the firian warrior spirit!
+The swing misses its target.

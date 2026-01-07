@@ -1,0 +1,30 @@
+time
+
+Current time is: Tue Apr 11 09:20:55 2006 EST.
+time
+
+It is now 5:43 pm on the 20th day of the 10th month in the year 321.
+
+You have been adventuring for 1 hr, 21 mins, 13 secs this session.
+
+>stealth on
+hide
+hide
+You fail in your attempt to hide!
+hide
+>You fail in your attempt to hide!
+hide
+>You fail in your attempt to hide!
+hide
+>You fail in your attempt to hide!
+hide
+>You fail in your attempt to hide!
+hide
+>You fail in your attempt to hide!
+hide
+>You fail in your attempt to hide!
+hide
+>You fail in your attempt to hide!
+hide
+>You fail in your attempt to hide!
+time

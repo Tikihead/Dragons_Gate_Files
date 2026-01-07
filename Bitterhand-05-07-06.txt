@@ -1,0 +1,1137 @@
+l n
+[Tarath Gorge.]
+
+This area seems a bit smoother than those you have previously passed through.  The gorge continues to stretch out as far as the eye can see.
+
+This area is illuminated.
+Obvious paths: north* south*.
+l
+>[Tarath Bends.]
+
+Grooves cut by water running down from the mountain show evidence of a recent heavy rain.  The path is partially blocked by the rocks and earth that have eroded from above.
+
+This area is illuminated.
+Obvious paths: north* southeast*.
+n
+>[Tarath Gorge.]
+
+This area seems a bit smoother than those you have previously passed through.  The gorge continues to stretch out as far as the eye can see.
+
+This area is illuminated.
+Obvious paths: north* south*.
+s
+>[Tarath Bends.]
+
+Grooves cut by water running down from the mountain show evidence of a recent heavy rain.  The path is partially blocked by the rocks and earth that have eroded from above.
+
+This area is illuminated.
+Obvious paths: north* southeast*.
+se
+>[Tarath Bends.]
+
+The slope of the land begins to steepen as you make your way up the incline.  Beneath your feet the trail is slowly becoming more rock than dirt.
+
+This area is illuminated.
+Obvious paths: east* northwest*.
+e
+>[Tarath Bends.]
+
+A massive rent opens up between the mountain side heading south. Boulders sit precariously on the mountain side ready to fall to the ground. Many tons of earth have shifted from the face of the mountain to the ground, covering the small growth of forest at its base. The southeastern road is totally blocked with rubble.
+
+This area is illuminated.
+Obvious paths: south* west*.
+s
+>[Tarath Bends.]
+
+Old trees lay side by side with the massive boulders of the mountain, intermingling in a terrible landslide. The mountain top has broken off and slid across the eastern road stopping all forms of transportation. It would take years for mortal hands to remove the tons of stone from the original roadway to make it passable once again. Thankfully, nature has changed the landscape for the better, and has opened a gap through the mountain to the north.
+
+This area is illuminated.
+Obvious paths: north* southwest*.
+sw
+>[Tarath Bends.]
+
+Northward the rolling grasslands rise up to meet a towering cliff face that rises into the clear alpine air.
+
+This area is illuminated.
+Obvious paths: northeast* west*.
+w
+>[Tarath Bends.]
+
+You make your way among rolling grassy hills.  To the north is a forest of huge trees that climbs up towards the towering mountains. 
+
+This area is illuminated.
+Obvious paths: east* west*.
+w
+>[Tarath Bends.]
+
+This is a wide, rolling field.  Tall grass threatens to drown any who brave its depths as it waves in the cool mountain breeze.
+
+This area is illuminated.
+Obvious paths: east* west*.
+w
+>[Tarath Bends.]
+
+If not for the well maintained road, you'd be lost in the gently sloping meadow covered in tall grasses.  The grass is so tall, in fact, that it comes nearly to your shoulder.  The effect of the breeze through the grass is of a rippling golden sea.
+
+This area is illuminated.
+Obvious paths: east* southwest*.
+sw
+>[Tarath Bends.]
+
+The roadway hugs the edge of the meadow underneath the sheer stone wall of this deep valley. The smooth grey stone rises hundreds of feet above your head, its peak blurring in the patch of white clouds and blue sky. The dry grasses growing in the meadow move back and forth with the swift valley gusts.
+
+This area is illuminated.
+Obvious paths: northeast* southwest*.
+sw
+>[Tarath Bends.]
+
+The land rises steeply in the distance, culminating in a conical peak that spews thick black smoke from its cone-shaped peak.
+
+This area is illuminated.
+Obvious paths: northeast* south*.
+s
+>[Tarath Bends.]
+
+The meadow in the south stretches onwards, the road turning into a narrow game path that winds through it towards the rising mountains in the north.
+
+This area is illuminated.
+Obvious paths: north* south*.
+s
+>[Tarath Bends.]
+
+The road cuts through a meadow.  The sun shines brightly down through the clear mountain air and insects and small birds fly about.  
+
+This area is illuminated.
+Obvious paths: north* southwest*.
+sw
+>[Tarath Bends.]
+
+High in the air large bird-like shapes can be seen soaring on the wind.
+
+This area is illuminated.
+Obvious paths: northeast* west*.
+w
+>[Tarath Bends.]
+
+This road, a mere path, is near a forest of gigantic trees. Barely visible to the north, above the tops of the trees, the towering mountains of the Great Divide rise into the clear blue sky. 
+
+This area is illuminated.
+Obvious paths: east* southwest* northwest*.
+l e
+>[Tarath Bends.]
+
+High in the air large bird-like shapes can be seen soaring on the wind.
+
+This area is illuminated.
+Obvious paths: northeast* west*.
+l sw
+>[Tarath Bends.]
+
+The hills slope gently in a deep valley among Tarath Bends.  The air is crisp and cool, but the valley is sheltered from too much cold.
+
+This area is illuminated.
+Obvious paths: northeast* south*.
+sw
+>[Tarath Bends.]
+
+The hills slope gently in a deep valley among Tarath Bends.  The air is crisp and cool, but the valley is sheltered from too much cold.
+
+This area is illuminated.
+Obvious paths: northeast* south*.
+s
+>[Tarath Bends.]
+
+A torturous path that ascends steeply into the mountains to the west.  To the north the land slopes gently down into a pastoral looking valley.
+
+This area is illuminated.
+Obvious paths: north* south*.
+s
+>[Tarath Bends.]
+
+Piles of rubble flank the road on both sides. Some new and some old, this rubble is a mixture of two guard towers and this side of the mountain. High above, the jagged peak of the small mountain thrusts itself out over the road, ready to collapse under the right circumstances. A new rent has been cut into the southeastern side of the mountain, allowing passage to the southern road.
+
+This area is illuminated.
+Obvious paths: north* southeast* southwest*.
+l se
+>[Tarath Bends.]
+
+The air is filled with small flecks of falling snow, but none of it looks to be hitting the ground. Small leafless shrubs dominate the landscape, leaving no explanation as to why they all appear to be dead. The main road leads down the mountainside to the east, and up over a crest to the northwest. This spot is approximately halfway up the slope of this cold mountain peak. The merchant road is visible to the east, making its way slowly out of the Tarath Bends.
+
+This area is illuminated.
+Obvious paths: east* northwest*.
+l sw
+>[Tarath Bends.]
+
+Solid walls of polished granite rise on either side of the road. The landscape is seemingly uninteresting. The walls cast shadows over most of the pathway, which is wide enough to support several merchant carts at once. The smooth road surface continues uneventfully both northeast and south, completely void of any plant life.
+
+This area is illuminated.
+Obvious paths: northeast* south*.
+sw
+>[Tarath Bends.]
+
+Solid walls of polished granite rise on either side of the road. The landscape is seemingly uninteresting. The walls cast shadows over most of the pathway, which is wide enough to support several merchant carts at once. The smooth road surface continues uneventfully both northeast and south, completely void of any plant life.
+
+This area is illuminated.
+Obvious paths: northeast* south*.
+s
+>[Tarath Bends.]
+
+The chiseled road ends abruptly. To the south, a small cleft has been cut into the rock, leading out into mid-air. Down the slope from this cleft is a large pile of mine tailings, which have been unceremoniously dumped over the side. To the west is a huge pile of rubble where a dark opening was once carved into the rock wall. Faint parallel ruts in the road suggest that many carts full of tailings had been wheeled out and over to the cleft in the rock. 
+
+This area is illuminated.
+Obvious paths: north*.
+n
+>[Tarath Bends.]
+
+Solid walls of polished granite rise on either side of the road. The landscape is seemingly uninteresting. The walls cast shadows over most of the pathway, which is wide enough to support several merchant carts at once. The smooth road surface continues uneventfully both northeast and south, completely void of any plant life.
+
+This area is illuminated.
+Obvious paths: northeast* south*.
+ne
+>[Tarath Bends.]
+
+Piles of rubble flank the road on both sides. Some new and some old, this rubble is a mixture of two guard towers and this side of the mountain. High above, the jagged peak of the small mountain thrusts itself out over the road, ready to collapse under the right circumstances. A new rent has been cut into the southeastern side of the mountain, allowing passage to the southern road.
+
+This area is illuminated.
+Obvious paths: north* southeast* southwest*.
+se
+>[Tarath Bends.]
+
+The air is filled with small flecks of falling snow, but none of it looks to be hitting the ground. Small leafless shrubs dominate the landscape, leaving no explanation as to why they all appear to be dead. The main road leads down the mountainside to the east, and up over a crest to the northwest. This spot is approximately halfway up the slope of this cold mountain peak. The merchant road is visible to the east, making its way slowly out of the Tarath Bends.
+
+This area is illuminated.
+Obvious paths: east* northwest*.
+e
+>[Tarath Bends.]
+
+Small rocks and pebbles tumble over the edge of a sharp drop off to the south. In the distance over the edge of the cliff, through two rather large hills, a city with octagonal walls surrounding it is just visible. The road here is rather narrow, pushing as far against the cliff face as possible. The pathway continues to ascend to the west, making its way up the mountainside.
+
+This area is illuminated.
+You see the 1st caravan guard.
+Obvious paths: northeast* west*.
+ne
+>[Tarath Bends.]
+
+The road bends to the southwest around a large boulder as it slopes up the side of this mountain. From this vantage point, large imposing jagged peaks of the mountains above Rathan are visible. Each peak is heavily laden with snow, with only small sections of rock visible. A trail, presumably this one, is also visible traveling northward toward the peaks in the distance.
+
+This area is illuminated.
+Obvious paths: east* southwest*.
+e
+>[Tarath Bends.]
+
+The path rises steeply to both the northeast and the west, traveling up the base of two opposing mountain peaks. The smaller peak to the west is far less pronounced than the peak to the northeast. This narrow valley is enclosed on all sides by mountains. Just to the south of the path is a small lake full of what is surely ice cold water. Various small streamlets are visible running down a few of the surrounding snow-capped peaks, ensuring that the icy lake will remain filled.
+
+This area is illuminated.
+Obvious paths: northeast* west*.
+ret 3
+>You retreat 3 UDs to the rear!
+[3 sec. delay]
+ne
+>[Tarath Bends.]
+
+This section of the road is all that remains of the former mountain trail. The old pathway is visible to the north, however a large pile of moist earth, dull grey rock, and broken tree trunks has buried it several feet high making further passage impossible. It would seem this area is prone to landslides. A new road has been cut into the terrain to the southwest, heading in the direction of a smaller mountain peak. The old mountain trail is visible as it climbs up the barren mountainside to the north.
+
+This area is illuminated.
+Obvious paths: east* southwest*.
+e
+>[Tarath Bends.]
+
+One of the walls in this gully has collapsed inward, covering the road surface. The landslide is surely recent, as it is not yet packed down and is still rolling fresh dirt from above. It should be fairly easy to bypass this section of the road by climbing over the shifting dirt. Although surely dangerous, it might be possible to climb up the slide itself.  A landslide is here.
+
+This area is illuminated.
+Obvious paths: east* west*.
+e
+>[Tarath Bends.]
+
+A slight wind blows through the area, picking up speed as it continues southeast between two hills. The road drops down to the west through a deep gully before turning out of sight. There is quite a bit of debris on the road in that direction. A family of prairie dogs has dug a series of holes a few meters from the road. One is constantly on watch, attempting to keep the family safe from harm. At the slightest noise, it scurries back into its hole and out of sight.  An animal made hole is here.
+
+This area is illuminated.
+Obvious paths: southeast* west*.
+se
+>[Tarath Bends.]
+
+A large gap between two large hills to the north and west offers safe passage through this hilly terrain. A cold wind out of the northwest blows stiffly, whipping up the dust. The ground is so dry that most of the topsoil is easily pulled off by the strong winds. Large angry clouds of dust move back and forth throughout the area, wreaking havoc on the eyes and lungs of any that dare to pass through them.  A large thick cloud of dust is here.
+
+This area is illuminated.
+Obvious paths: east* northwest*.
+e
+>[Tarath Bends.]
+
+The road slopes down slightly to the east, gently following a valley between two large hills. Ground dwelling rodents move about on the arid hill to the north gathering food. Large conifers, capable of withstanding the dry climate, sparsely populate the hill to the south. Visible among the tops of the trees are several majestic red-tailed Rathanian hawks. The screech of the hawks fills the air, as they hunt their small furry prey from above.
+
+This area is illuminated.
+Obvious paths: east* west*.
+e
+>[Tarath Bends.]
+
+This area of the path is fairly nondescript. A sparsely forested hill rises steeply to the south while a rocky grass covered hill rises to the north. Neither is particularly spectacular, save a lone male deer which grazes at a higher elevation on the southern hill. A few spare patches of grass grow alongside the path. The environment becomes more arid to the west.
+
+This area is illuminated.
+Obvious paths: east* west*.
+e
+>[Tarath Bends.]
+
+Where there was once a craggy rock-studded earthen cliff, a massive rent has formed. Through the cleft to the southwest, travel seems possible. The main road continues west between two large rocky hills, and northeast over a field of green grasses and gently rolling foothills. The air feels cool, and dry.
+
+This area is illuminated.
+You see the 1st foreign merchant and the 2nd foreign merchant.
+Obvious paths: northeast* southeast* west*.
+se
+>[Crumbling Fissure.]
+
+The uneven terrain slopes upward to the northwest at a steep angle, barely manageable for a draft team. The earthen walls that surround the path constantly shudder, sloughing off dirt and rock onto the pathway. A breathtaking view of the distant snow-capped mountain peaks is visible to the north, bringing with it a mildly cool wind and the faint essence of snow.
+
+This area is illuminated.
+Obvious paths: southeast* northwest*.
+se
+>[Crumbling Fissure.]
+
+Tufts of dried grass intermixed with broken rock cover the ground of this makeshift merchant road. The vicious rend that created this pathway reaches its lowest point here, drastically sloping upward in both directions. Massive walls of constantly shifting rock and earth stand a few hundred feet in the air to the southwest and the northeast. Every now and then a few rocks tumble down the sides on top the heads of unwary travelers.
+
+This area is illuminated.
+Obvious paths: southeast* northwest*.
+se
+>[Tarath Bends.]
+
+The tranquil terrain has been torn asunder to the northwest. One of the forces of nature has caused a great fissure to open in the earth. Although the fissure slopes downward at a severe angle, the terrain is surprisingly smooth and could be navigated even by a goods-loaded wagon. To the east a great deal of grass is growing on the road itself. It almost seems as if no one has used that road in a while.
+
+This area is illuminated.
+You see the 1st carnivorous toad.
+Obvious paths: west* northwest*.
+w
+>
+A carnivorous toad enters, following Bitterhand.
+[Tarath Bends.]
+
+The merchant road descends gently to the east, coming down from a pass between two large mountain peaks clearly visible to the southwest. The area around the road is lush and green, and many rare plants are visible among the rocks. A lone tree stump is situated along the side of the path, providing a good rest stop for the weary traveler.  A rare red dragon-lily is here.
+
+This area is illuminated.
+You see the 1st ogre and the 1st carnivorous toad.
+Obvious paths: east* southwest*.
+sw
+>
+A carnivorous toad enters, following Bitterhand.
+[Tarath Bends.]
+
+Several tall rosewood trees litter the area. Just to the south is a small cliff no more than ten feet high, off of which flows a tiny picturesque waterfall. The multiple footprints in the area suggest this is a popular stopping point for travelers. After hitting the ground, the crystal clear water vanishes among the rocks.
+
+This area is illuminated.
+You see the 1st carnivorous toad.
+Obvious paths: northeast* west*.
+w
+>
+A carnivorous toad enters, following Bitterhand.
+[Tarath Bends.]
+
+The merchant road ascends slightly to the east as it travels between two mountain peaks. Up the slopes to the north and south is a dense forest with massive red barked trees. Closer to the path, the forest begins to thin out and only a few trees have established themselves close to the road. The merchants who made this road did not bother to go around one of the largest, which is situated directly in the middle of the path.  An ancient towering rosewood tree is here.
+
+This area is illuminated.
+You see the 1st lizardman, the 2nd lizardman, and the 1st carnivorous toad.
+Obvious paths: east* west*.
+w
+>
+The carnivorous toad advances towards Bitterhand.
+
+A carnivorous toad enters, following Bitterhand.
+[Tarath Bends.]
+
+The road is almost non-existent. The many large granite boulders that cover the path evidence the instability of the mountains to the north and south. The merchants who travel this road have erected a series of shoddy road signs to direct travelers safely around the boulders. Several of these signs point away from a shadowy area just off the side of the road. The rocks of the area seem to hang over the road slightly, blocking out the light. Light colored stringy material is barely visible along the side of the path.  A flimsy wooden sign, a flimsy wooden sign, a craggy overhang, and a slightly bloated merchant's corpse are here.
+
+This area is illuminated.
+You see the 1st carnivorous toad.
+Obvious paths: east* west*.
+w
+>[Tarath Bends.]
+
+A large number of horses, carts, and merchants are congregated off the side of the road. They are either preparing for the journey down the cliff to the southwest, or are resting from the trip in the opposite direction. A dangerously high cliff is visible to the south, while to the east a flat plateau leads the roadway between two large mountains. The green hue of a forest is just visible between them.
+
+This area is illuminated.
+Obvious paths: east* southwest*.
+sw
+>[Tarath Bends.]
+
+Small low-lying bushes with bright red berries dominate this stretch of the road. Many birds of various sizes and colors hop from bush to bush, chirping pleasantly as they feast upon the berries. Just to the northeast, the road ascends over the top of the cliff and out of sight. To the west, most of the merchant road is discernible following along the precarious cliff face.
+
+This area is illuminated.
+Obvious paths: northeast* west*.
+w
+>[Tarath Bends.]
+
+The cliff face to the north is wet, but there is no apparent source of the moisture. A slight overhang also creates a near permanent shadow in the area, providing a perfect atmosphere for the dense lichen that covers the rocks. Sporadic tufts of grass futilely attempt to assert themselves against the multi-colored lichen, but the spongy fungus prevails. Strange looking spiders scurry about amongst the lichen-covered rocks, before disappearing over the top of the cliff.
+
+This area is illuminated.
+You see the 1st ogre.
+Obvious paths: east* west*.
+w
+>[Tarath Bends.]
+
+There is an extremely large crevasse in the roadway that would normally prevent any further travel along this road. Astoundingly, someone has constructed a very sturdy looking bridge using two perfectly chiseled granite blocks. The blocks make up the support for the bridge structure, which is also constructed of chiseled granite slabs. There is seemingly no explanation for the excellent condition of this stretch of the road.  A sturdy granite bridge is here.
+
+This area is illuminated.
+Obvious paths: east* west*.
+w
+>[Tarath Bends.]
+
+A large pile of animal carcasses in various stages of decay is situated on a precarious ledge halfway up the cliff face. Bloody footprints from some sort of predatory animal are plainly visible along the edge of the path, providing a bit of insight into the decaying animal remains. The road reaches the top of the cliff up the gentle slope to the east.  Some greying oak planks are here.
+
+This area is illuminated.
+Obvious paths: east* southwest*.
+sw
+>[Tarath Bends.]
+
+A lone carrion bird seems to stare from the branches of a gnarled old tree. The road surface alternates between the usual hard-packed dirt covered in gravel, and solid rock. The terrain creates even more difficult travel for those heading north or south. A large pile of broken wagons, barrels, and boxes lie quite some distance below. Many skeletons of pack animals, picked clean by carrion birds, are also discernible. It is highly likely some of the bones are Humanoid as well.
+
+This area is illuminated.
+Obvious paths: northeast* southeast*.
+se
+>[Tarath Bends.]
+
+The road ascends upward at a rather severe angle towards the northwest combined with the shifting road surface, it makes this particular passage very difficult for any merchants traveling with a large quantity of goods. A swiftly flowing river is visible several hundred feet below, and it can only be assumed that it was the cause of the collapse of old merchant road. The audible roar of the river is evident, even this far above.
+
+This area is illuminated.
+Obvious paths: east* northwest*.
+e
+>[Tarath Bends.]
+
+The old merchant road lies in pieces at the bottom of a deep gorge far below. An artificial pathway has been constructed in the wake of the recent collapse, allowing continued passage through the mountains. This new merchant road has been constructed in great haste and is still quite unstable. Gravel that has been spread on the road to make it safer, is actually making it far more precarious. Pebbles roll continuously off of the roads surface and down into the chasm below.
+
+This area is illuminated.
+You see the 1st carnivorous toad.
+Obvious paths: southeast* west*.
+se
+>[Tarath Bends.]
+
+A treacherous dusty trail leads west along the shaky fault line from a fork in the main road. The original roadbed has fallen into the chasm years ago, leaving the merchants to their own wiles to ply the slippery slopes past the fault zone. Many attempts have failed at conquering the shifting dirt and rocks. Currently a bumpy trail skirts the bigger rocks and loose gravel.   A wide eyed merchant's corpse is here.
+
+This area is illuminated.
+You see the 1st carnivorous toad.
+Obvious paths: southeast* west* northwest*.
+se
+>
+A carnivorous toad enters, following Bitterhand.
+[Tarath Bends.]
+
+As the merchant road approaches the western end of the valley, the valley wall abruptly falls away to a sheer drop. Crumbling rock and dirt spill constantly into the deep abyss. Sections of the mountain have slid away into the valley and the merchant road has been rebuilt higher along the steeper sides of the mountain. The fault line of broken rocks continues its path of destruction to the west, skirted by the land-slide prone softer dirt.   A freshly uncovered crevice is here.
+
+This area is illuminated.
+You see the 1st carnivorous toad.
+Obvious paths: east* northwest*.
+e
+>
+A carnivorous toad enters, following Bitterhand.
+[Tarath Bends.]
+
+A short tremor suddenly rocks the cracked merchant road! A dusty pall sifts into the air from cracks in the ground and the shifting of gravel around the valley.  The tremor rolls through the canyon walls like a ripple, as if it were a linen sheet that was lifted and settled again. Pack animals and travelers alike stop momentarily and then hasten their pace as if to leave the quake behind them.
+
+This area is illuminated.
+You see the 1st carnivorous toad.
+Obvious paths: east* west*.
+e
+>
+A carnivorous toad enters, following Bitterhand.
+[Tarath Bends.]
+
+The trembling fault line reveals the cataclysmic trauma of the solid bedrock beneath the mountains. Striations of tortured, twisted rock bent almost in half under the strain stand out dramatically against darker, older layers of bedrock.
+
+This area is illuminated.
+You see the 1st ogre and the 1st carnivorous toad.
+Obvious paths: southeast* west*.
+>
+The carnivorous toad advances towards Bitterhand.
+se
+
+An ogre enters, following Bitterhand.
+[Tarath Bends.]
+
+The rocky valley walls widen to the accommodate the splitting of the Tarath fault line. The Great Divide towers to the north beyond the fractured, broken badlands. Sheer, monolithic cliffs dropping for thousands of feet front the western edge of the mountains; their sharp, snow-capped peaks vaulting nearly vertically from the floor of the fault line valley. The merchant road bed is cracked and broken as it negotiates the larger twists and turns.
+
+This area is illuminated.
+You see the 1st carnivorous toad and the 1st ogre.
+Obvious paths: southeast* northwest*.
+se
+>
+A carnivorous toad enters, following Bitterhand.
+
+An ogre enters, following Bitterhand.
+[Tarath Bends.]
+
+A short vibration shudders the roadbed, causing dust and gravel to shimmy down the canyon walls. A few larger rocks ping and ricochet off boulders, until all is deadly silent.  The merchant road is dusted with bits of broken rock, covering any recent tracks. 
+
+This area is illuminated.
+You see the 1st carnivorous toad, the 2nd carnivorous toad, the 3rd carnivorous toad, and the 1st ogre.
+Obvious paths: southwest* northwest*.
+sw
+>
+A carnivorous toad enters, following Bitterhand.
+
+A carnivorous toad enters, following Bitterhand.
+
+An ogre enters, following Bitterhand.
+[Tarath Bends.]
+
+Often referred to as "badlands", the sheered rocks, broken cliffs and ridged terrain would be impassable if not for the road. A narrow, steep walled canyon juts to the southeast, disappearing into the convoluted, rippled hills. 
+
+This area is illuminated.
+You see the 1st carnivorous toad, the 2nd carnivorous toad, and the 1st ogre.
+Obvious paths: northeast* south*.
+s
+>
+A carnivorous toad enters, following Bitterhand.
+
+An ogre enters, following Bitterhand.
+[Tarath Fault.]
+
+A great rend in the higher foothills slashes the through the rippled lands resulting in a long, narrow valley. Broken rocks and tumbled boulders fill the agitated valley floor, which harbors little vegetation. The merchant road follows a slight turn in the valley.
+
+This area is illuminated.
+You see the 1st carnivorous toad and the 1st ogre.
+Obvious paths: north* southeast*.
+>
+The ogre advances towards Bitterhand.
+se
+[Tarath Fault.]
+
+The momentous forces that have wrought this valley still press upon the land and have done so for eons.  The walls of the valley are sheer and steep, and untouched by the raging waters of river or stream.  As if in testimony to the power of the forces that move the land, a huge dark boulder sits off to the side of the road. It is hewn in half like a sliced melon.  One part sits 20 feet north along the break in the rocks from the other part.  
+
+This area is illuminated.
+Obvious paths: south* northwest*.
+s
+>[Tarath Fault.]
+
+One layer of rock in the steep walls has eroded faster then the harder granite or bedrock above and below it. Soft sandstone has been stripped away to form an arch in the valley wall ... a concave indention that goes for hundreds of feet in both directions.  Within the hardened sediment left ages ago upon the land are treasures beyond value: fossilized shells by the thousands, in all sizes, shapes and colors.
+
+This area is illuminated.
+Obvious paths: north* south*.
+s
+>[Tarath Fault.]
+
+Tumbled boulders and landslides fan down from the crumbling walls of the valley. In the more narrow spots, the alluvial fans of debris clog the roadway and the practical merchants and their caravans have had to devise small detours around the bigger obstacles.
+
+This area is illuminated.
+Obvious paths: north* south*.
+s
+>[Tarath Fault.]
+
+The merchant road threads through bottom of the small, narrow valley. Sheer granite walls block the view from the well traveled road to either side and above, only a narrow ray of sky testifies to the time of day. The engineers set a route as far as possible from the broken stones in the center of the valley and, by luck or design, this foresight has saved the road-bed from constant reconstruction. Small cracks run parallel to the road, but none have broken through the thick layers of sand and stone.
+
+This area is illuminated.
+Obvious paths: north* south*.
+s
+>[Tarath Fault.]
+
+The sandy soil of the steppe has been ripped away to reveal its intimate underpinnings.  The matted roots of the prairie grasses desperately hold into what little dirt they can while below in wide layers, the rocks and dirt tell the story of the plateau and the surrounding foothills. Each striation varies in texture, composition and color. They are an open book for those with the specific knowledge to read it.
+
+This area is illuminated.
+You see the 1st carnivorous toad.
+Obvious paths: north* southwest*.
+sw
+>
+A carnivorous toad enters, following Bitterhand.
+[North Bridge Trail.]
+
+The grassland plateau is embraced by a stand of dark green oak trees so thick that little light passes through the profusion of their many lobed leaves. The forest is ancient and the trunks of the trees bare witness to fires, lightning strikes and the attacks of insects. Large gout-like burls disfigure some of the wide, grey trunks which have grown quietly next to the road for hundreds of years.
+
+This area is illuminated.
+You see the 1st carnivorous toad.
+Obvious paths: northeast* west*.
+w
+>[North Bridge Trail.]
+
+The merchant roads widens as it travels another grass swept plateau. The mountain range fills the northern skyline in stark detail. Huge snow capped peaks and rough faced cliffs are close enough to see the individual boulders, waterfalls, and haphazard game trails. Much higher up the great mountainsides a line where trees stop growing gives testament to the altitude. The air is cool.
+
+This area is illuminated.
+Obvious paths: east* west*.
+w
+>[North Bridge Trail.]
+
+The roadway takes advantage of a cut in the hill to negotiate a tumbled cliff face. At the top of the hill is a high, flat, steppe grassland, and at the bottom is the edge of the open range. At one point, the road narrows to cross a small stream. Very little mud gathers in the shallows of the stream and the pebbles and rocks glitter like gold as the wagon wheels churn the gravel.
+
+This area is illuminated.
+Obvious paths: east* southwest*.
+sw
+>[North Bridge Trail.]
+
+White barked birch trees populate the moist valleys that drain into the river to the southeast as the merchant road passes nearby. The tall vertical trees reach to the sky in a beautiful dance reminiscent of dancers waving their arms gracefully to some unheard rhythm. The grain-laden grasses sway in accompaniment, and the tinkling waterfalls and babbling creeks beat like odd syncopated patterns onto the rocks.
+
+This area is illuminated.
+Obvious paths: northeast* south*.
+s
+>[North Bridge Trail.]
+
+The road crests the top of hill overlooking the sweeping grasslands of the river valley. A smokey smudge on the southeastern horizon reveals the location of a large city and the merchant road appears here and there between trees and hills as it travels to market. The roar of the great river drones in the distance.
+
+This area is illuminated.
+Obvious paths: north* southeast*.
+se
+>[North Bridge Trail.]
+
+The merchant road passes through a small secluded valley. The soft cadence of rushing water echoes quietly down the vale where the rolling hills of the grasslands meets the sharper cliffs of the foothills. Riverlets and streams trickle down the rock faces adding harmony to a distant river's melody.
+
+This area is illuminated.
+Obvious paths: east* northwest*.
+e
+>[North Bridge Trail.]
+
+With the care and attention to detail rarely given to a mundane project such as a road, the engineers foresaw potential hazards and built the solutions into their finished project. Tracking the southern, downhill side of the road is a stone lined trough meant to solve any flooding or mud related issues.
+
+This area is illuminated.
+Obvious paths: east* west*.
+e
+>[North Bridge Trail.]
+
+Running parallel to the road is a smooth rock lined trench that channels the road's run-off during rainstorms. This flat part of the road that follows the valley floor would be prone to turn into a muddy bog and therefore a hazard to most caravans and their pack animals. Anticipating this event, the road's engineers built drains into the lower side of the road that carry the runoff into the culvert, which carries it harmlessly down to the low end of the valley.
+
+This area is illuminated.
+Obvious paths: east* west*.
+e
+>[North Bridge Trail.]
+
+Water loving trees hug the river's course through the low lying valley. Giant beech and huge alders vie for the valuable sodden shoreline and shade the understory bushes and ferns from direct sunlight. The result is a lushly green, verdant forest that obscures the river from the view on the road, though the hiss of rushing water reveals it's course.
+
+This area is illuminated.
+Obvious paths: southeast* west*.
+se
+>[North Bridge Trail.]
+
+The decaying remains of the bridge workers camp sprawls across this flat valley. To house their draft beasts, the workers constructed small stalls and shelters from rickety boards nailed quixotically to the standing trees. Three brass ring topped posts lie sunk into the grasslands turf, to the south, which was most likely used for tethering grazing animals. Between the posts is a rough stone trough that is filled automatically with water by a rickety mechanical wind mill, whirling lazily in the breeze.
+
+This area is illuminated.
+Obvious paths: east* northwest*.
+e
+>[North Bridge Trail.]
+
+Boulders stacked in pyramids contained by large timbers stand mutely to the side of the roadway next to an impromptu dump of broken tools, wooden stakes and empty buckets lined with mortar. Deeply grooved sled tracks lead to the east towards the bridge from this part of the road where the flatness of the valley was best suited for the staging area during the bridge's reconstruction. Smooth rectangles of tent foundations still mark their location in a semi circle around a blackened fire ring where the workers and their supervisors lived during it's rebuilding.
+
+This area is illuminated.
+Obvious paths: east* west*.
+e
+>[North Bridge Trail.]
+
+On the northern edge of the road stands a tall, flat rock. Chipped into the shape of a pillar and abraded to smoothness, it bears the stamped surveyor's mark of the road's builder. The mark's grooved letters are filled with sand and dust and obscured from age, but the arrows delineating north, south, east and west are clear and easy to read. The rest of the stamp is undecipherable and lends mystery to the road's origin.
+
+This area is illuminated.
+Obvious paths: east* west*.
+e
+>[North Bridge Trail.]
+
+A brown and white osprey soars above the raging river, scanning the water for a meal. Suddenly, it dives down to the surface and snatches a rather large trout from the water. The trout wriggles helplessly in the large birds grip as it is carried off to a nest of sticks and twigs high in the distant treetops.
+
+This area is illuminated.
+Obvious paths: southeast* west*.
+se
+>[North Bridge Trail.]
+
+Withstanding seasonal floods and constant traffic, the durable road shows how affective good design and competent construction can be. It travels a hand paved berm straight to an imposing grey stone bridge to the southeast. The pilons of the bridge are cloaked in river mist as the raging river sweeps by. Only the brightness of the fluttering flags that top the spans stand out sharply.
+
+This area is illuminated.
+Obvious paths: southeast* northwest*.
+se
+>[Silver River Bridge.]
+
+A massive stone bridge spans a raging grey tinted river as it runs it's course towards the southeast. The mud around the bridge footings has been churned by wheels of quarry wagons, tracks of sleds bearing block and tackle, shod hooves of draft beasts and booted feet of masons and bridge workers. The newer parts of the huge bridge are obvious due to the contrast in colors of mortar and rock. Bright banners snap briskly in the wind from both ends of the bridge.  A broken wooden wagon is here.
+
+This area is illuminated.
+Obvious paths: south* northwest*.
+s
+>[Silver River Bridge.]
+
+Mismatched mortar colors and varying types and cuts of the stone show the extent of the reconstruction made by quick working masons. A few proud workers chiseled their initials and the date into their handiwork, most reading the date of Rinannimas, 6th month, 61st day, year 313. Bright banners flutter in the breeze on both sides of the bridge as if in celebration of its victory over both the river's truculence and sabotage.
+
+This area is illuminated.
+Obvious paths: north* south*.
+s
+>[Silver River Bridge.]
+
+In the middle of the stone bridge's span, a carved stone plaque is set into the masonry of the rock wall. Worked black marble bears a likeness of a San Elf and a brief warning describing her and her crimes against the merchants who depend on this bridge for their livelihood.  A fat bloody merchant's corpse is here.
+
+This area is illuminated.
+You see the 1st foreign merchant, the 2nd foreign merchant, and the 3rd foreign merchant.
+Obvious paths: north* south*.
+s
+>[Silver River Bridge.]
+
+The river surges strongly below the stone span. Even from this height, the noise of the flowing water is near deafening. Two small fishing boats nearly collide as they try to tack between the same set of supports. Only skillful sailing prevents them from hitting each other, or the supports.
+
+This area is illuminated.
+Obvious paths: north* south*.
+s
+>[Silver River Bridge.]
+
+The huge stone bridge span was built tall to allow the various merchant ships to pass underneath. This amazing height affords a splendid view of the countryside: from the blur of smoky residential air to the southeast, across the verdant grasslands that cover the foothills, to the majestic peaks of the mountain range to the north.
+
+This area is illuminated.
+Obvious paths: north* south*.
+s
+>[Silver River Bridge.]
+
+The massive stone bridge expands over the raging river, it's huge pilons buried deep in the river's bottom. Within sight and just downstream, the water rushes past what remains of the old bridge, causing dangerous under-currents. Bright red bouys mark the broken fragments locations and signs tell of the peril. The river pilots earn their pay negotiating this treacherous obstacle.
+
+This area is illuminated.
+Obvious paths: north* southeast*.
+se
+>[West Spur Road.]
+
+Built to withstand the constant flooding of the large river, the roadbed here was constructed 3 feet higher then the rest of the valley floor. The competant engineers extended the berm further northwest until it became the footings of a stalwart rock bridge.
+
+This area is illuminated.
+Obvious paths: south* northwest*.
+s
+>[West Spur Road.]
+
+The metal grey river deposits a sandbar on its western bank near the merchant road, causing a snag of dead logs, branches and floating debris. A cat sized rodent, with long teeth, flat tail and webbed toes peaks briefly over the jumbled tangle of branches before dipping back into the frigid water without a splash.
+
+This area is illuminated.
+Obvious paths: north* southwest*.
+sw
+>[West Spur Road.]
+
+The raging silver-cast river cuts through the grassland and heads southeast. Fishing boats, bearing the crest of the city of Spur, dart around several barges laden with exotic wares to trade in the merchant city. Most bear the purple livery of the city of Rathan, but every so often a ship flying unfamiliar colors can be sighted.
+
+This area is illuminated.
+Obvious paths: northeast* southeast*.
+se
+>[West Spur Road.]
+
+Just to the north, the roadway curves gently around a bend in a large river that flows towards the southeast. An enormous smooth round rock splits off a small eddy from the main current resulting a deep, clear pool by the eastern side of the road. The cool calm water catches the reflection of the white snowcapped mountain range further up the valley while the river rushes past towards Spur. Five fishermen recline on folding chairs or against rocks, tethered by the silvery lines of their poles to the fishing hole. Each fisherman is spread evenly around the pool as if held apart by some invisible barrier as they eye the large shadowy fish shapes finning effortlessly against the mild current in the eddy.
+
+This area is illuminated.
+Obvious paths: southeast* northwest*.
+se
+>[West Spur Road.]
+
+The road diverts around a small pool of murky water that lies to the north. A confusion of hoof prints muddies the shoreline where the placid bovines have come to water themselves. The pool is damned by a small hillock which allows no drainage so the pool remains stagnant. The mountains to the north reflect in perfectly upside-down symmetry on the still pond's surface, only wavering slightly in concentric circles to the deft touch of small insects.
+
+This area is illuminated.
+Obvious paths: south* northwest*.
+s
+>[West Spur Road.]
+
+A rickety criss-crossed rough beam fence pens the grazing of black and white cows whose ponderous forms are barely visible through the tall grass on either side of the road. To the north, the soft, undulating grassland floor of the wide valley succumbs to the rolling foothills, which in turn delineates the imposing outline of a vista-spanning mountain range. Many a traveler has witnessed this idyllic vantage point and has been drawn on to follow the road that travels into the heart of the mountains.
+
+This area is illuminated.
+Obvious paths: north* south*.
+se
+>You cannot move in that direction.
+s
+>[West Spur Road.]
+
+Grassy plains stretch out to the west across the wide flat valley broken only by the outline of a dark forest further to the southwest. The huge expanse of waving stalks is home to creatures large and small. Each has adapted to their own niche and are camouflaged from the casual observers gaze.
+
+This area is illuminated.
+Obvious paths: north* south*.
+s
+>[West Spur Road.]
+
+From the west spans a dark green forest of Sycamore and Beech trees that soak in the moister parts of the lower river valley. The tall, shaded forest breaks like a green tinged wave upon the tranquil calm of the grasslands. The huge trees within are ancient, reaching hundreds of feet into the air. As if steaming from a great cauldron, a heavy ground fog seeps from deep within the forest carrying with it the fresh smell of decomposing green matter.
+
+This area is illuminated.
+Obvious paths: north* southeast*.
+se
+>[West Spur Road.]
+
+Lush grass grows up to the borders of a thick, dense forest that cloaks the hills to the west. The grasslands thin near the grove as the huge trees completely shade the ground, and are replaced by taller bushes and juniper trees. The contrast between the waving stalks on the flat vista and the dark leaves of almost vertical trees is striking.
+
+This area is illuminated.
+Obvious paths: southeast* south* northwest*.
+se
+>[Burned Cottage.]
+
+Thin wisps of smoke still rise from the burned out remains of a small cottage. Glowing embers can be seen amongst the charred wood. Several trails, so overgrown that they are almost totally hidden, lead back toward the road.  An old vegetable garden is here.
+
+This area is illuminated.
+Obvious paths: southwest* west* northwest*.
+se
+>You cannot move in that direction.
+sw
+>[West Spur Road.]
+
+In the dusty distance, Spur's great wall demarks the southern end of this well-traveled merchant's road. Soaring majestically to the north stands the spiky pinnacles and snow topped peaks of an epic mountain range so immense that it separates lands, races, and cultures. Connecting the two is a merchant road built long ago.
+
+This area is illuminated.
+Obvious paths: north* northeast* southeast* southwest*.
+se
+>[West Spur Road.]
+
+The path is flanked by countless tall oaks, swaying peacefully in the wind. They do their best to hide the sky from view, making it hard to tell night from day at times. Littering the area are pieces of broken wagon, bits of human remains and dried splotches of blood. The remnants of a violent fight lie all around you, whomever used to belong to the wagon is no more than vulture food.  A bloody severed foot is here.
+
+This area is illuminated.
+Obvious paths: east* southeast* northwest*.
+se
+>[Oak Woods.]
+
+Several maple trees, growing in a small cluster, stand out among the massive oaks that dominate this part of the wood. The wildlife is bustling with activity. Chipmunks scamper across the high branches, while a myriad of bird songs fills the air.  A red maple tree, a red maple tree, and a red maple tree are here.
+
+This area is illuminated.
+Obvious paths: east* southeast* south* southwest* west* northwest*.
+se
+>[Oak Woods.]
+
+Several maple trees grow near each other, surrounded by the tall oaks. Small birds call out bright songs, filling the air with their happy sounds. Tiny chipmunks scamper across the high branches.  A red maple tree is here.
+
+This area is illuminated.
+Obvious paths: north* south* southwest* west* northwest*.
+n
+>[Oak Woods.]
+
+Oak trees surround you on every side reaching their leaves up to the sky in majestic splendor. The call of the an owl causes the small creatures in the underbrush to scamper for safety. To the north a short, but steep, hill lies against the huge city wall.  A light golden oak tree, a giant green oak tree, an open oak door, and a closed grate-covered pipe are here.
+
+This area is illuminated.
+You see the 1st ork.
+Obvious paths: south* southwest* west*.
+s
+s
+>
+An ork enters, following Bitterhand.
+[Oak Woods.]
+
+Several maple trees grow near each other, surrounded by the tall oaks. Small birds call out bright songs, filling the air with their happy sounds. Tiny chipmunks scamper across the high branches.  A red maple tree is here.
+
+This area is illuminated.
+You see the 1st ork.
+Obvious paths: north* south* southwest* west* northwest*.
+
+An ork enters, following Bitterhand.
+[Oak Woods.]
+
+Several maple trees grow near each other, surrounded by the tall oaks. Small birds call out bright songs, filling the air with their happy sounds. Tiny chipmunks scamper across the high branches.  A red maple tree is here.
+
+This area is illuminated.
+You see the 1st ork.
+Obvious paths: north* south* southwest* west* northwest*.
+s
+>
+An ork enters, following Bitterhand.
+[Spur Gateway.]
+
+Travelers from Rathan to the northwest, and the Trade Route to the south, converge at Spur's west gate. Guards posted on the ground give those seeking to enter the city a cursory once-over. Their lack of interest shows that anyone approaching has already been observed from above for some time. A grate in the ground loosens mud from wagon wheels and hooves before they pass through the gate, helping to keep the streets of Spur fairly clean.  An open giant patched steelwood gate, a giant green oak tree, a small blue pool, a thick oak grate over the pool, a polished stone marker, and a fluffy white layer of snow are here.
+
+This area is illuminated.
+You see the 1st ork.
+Obvious paths: north* south* southwest* west* northwest*.
+go gate
+>[Gateway.]
+
+The relative safety inside Spur is a comfort to those returning from the fields and mountains. To those leaving, a massive wall of defense around the city lies ahead. Archer towers beside the gate overlook the wall, offering a painful welcome to would-be invaders. Several guards on foot patrol pass and disappear behind a thick, bluesteel banded steelwood door. Wall road stretches to the south, a wide passage between the city wall and several large buildings.  An open patched steelwood gate, an open thick stone door, a street lantern, and a fluffy white layer of snow are here.
+
+This area is illuminated.
+You see the 1st seasoned hithual warrior and the 2nd seasoned hithual warrior.
+Obvious paths: east* south*.
+go gate
+go gate
+>[Spur Gateway.]
+
+Travelers from Rathan to the northwest, and the Trade Route to the south, converge at Spur's west gate. Guards posted on the ground give those seeking to enter the city a cursory once-over. Their lack of interest shows that anyone approaching has already been observed from above for some time. A grate in the ground loosens mud from wagon wheels and hooves before they pass through the gate, helping to keep the streets of Spur fairly clean.  An open giant patched steelwood gate, a giant green oak tree, a small blue pool, a thick oak grate over the pool, a polished stone marker, and a fluffy white layer of snow are here.
+
+This area is illuminated.
+You see the 1st ork.
+Obvious paths: north* south* southwest* west* northwest*.
+[Gateway.]
+
+The relative safety inside Spur is a comfort to those returning from the fields and mountains. To those leaving, a massive wall of defense around the city lies ahead. Archer towers beside the gate overlook the wall, offering a painful welcome to would-be invaders. Several guards on foot patrol pass and disappear behind a thick, bluesteel banded steelwood door. Wall road stretches to the south, a wide passage between the city wall and several large buildings.  An open patched steelwood gate, an open thick stone door, a street lantern, and a fluffy white layer of snow are here.
+
+This area is illuminated.
+You see the 1st seasoned hithual warrior and the 2nd seasoned hithual warrior.
+Obvious paths: east* south*.
+go gate
+>[Spur Gateway.]
+
+Travelers from Rathan to the northwest, and the Trade Route to the south, converge at Spur's west gate. Guards posted on the ground give those seeking to enter the city a cursory once-over. Their lack of interest shows that anyone approaching has already been observed from above for some time. A grate in the ground loosens mud from wagon wheels and hooves before they pass through the gate, helping to keep the streets of Spur fairly clean.  An open giant patched steelwood gate, a giant green oak tree, a small blue pool, a thick oak grate over the pool, a polished stone marker, and a fluffy white layer of snow are here.
+
+This area is illuminated.
+You see the 1st ork.
+Obvious paths: north* south* southwest* west* northwest*.
+push down o gently
+>You push the ork down gently.
+go gate
+>[Gateway.]
+
+The relative safety inside Spur is a comfort to those returning from the fields and mountains. To those leaving, a massive wall of defense around the city lies ahead. Archer towers beside the gate overlook the wall, offering a painful welcome to would-be invaders. Several guards on foot patrol pass and disappear behind a thick, bluesteel banded steelwood door. Wall road stretches to the south, a wide passage between the city wall and several large buildings.  An open patched steelwood gate, an open thick stone door, a street lantern, and a fluffy white layer of snow are here.
+
+This area is illuminated.
+You see the 1st seasoned hithual warrior and the 2nd seasoned hithual warrior.
+Obvious paths: east* south*.
+e
+e
+>[Trade Way.]
+
+From the city gate to the west, Trade Way continues eastward towards the busy Merchant district, past Joyeusse's Shop. The air is thick with the scent of fresh flowers. Wagons filled with goods bound for sale trundle past, their drivers hopeful of the anticipated profits. Eager young warriors venture towards the west gate and the dangers beyond.  An open carved rosewood door and a street lantern are here.
+
+This area is illuminated.
+Obvious paths: east* west*.
+e
+e
+[Trade Way.]
+
+The wafting smell of flowers and trees float out from a well kept grey fence.  Old piles of rubble have been cleaned up and the glimpse of a sprawling park can be seen, having been planted in their stead. Beautiful and statuesque monuments dot the landscape through the gate, that remains locked, but has been festively decorated with a bright ribbon.  A street lantern, a closed festive ribbon tied grey iron gate, and an ancient greying steelwood gate are here.
+
+This area is illuminated.
+Obvious paths: east* west*.
+[Trade Way, Intersection.]
+
+The throngs of travelers thicken along Trade Way between the Merchants Avenues and Market Streets.  An Anthian plays softly on a strange looking stringed instrument, her melodic voice filling the air. Judging by her clothing, and the number of silvers at her feet, she makes a fine living practicing her craft. Guards direct traffic in this clogged intersection.  A glowing elegant wrought iron street lantern is here.
+
+This area is illuminated.
+Obvious paths: north* east* south* west*.
+[Trade Way.]
+
+The cobblestone roadbed has been worn to nearly flat along this part of Trade Way. Carts, wagons, foot traffic and shoppers clog this busy thoroughfare between the successful pawnshop to the north and the bank to the south.  A street lantern is here.
+
+This area is illuminated.
+Obvious paths: north* east* south* west*.
+>
+Ferilus, bemused and bewildered, just entered from the east.
+s
+[Market Street.]
+
+A few brick buildings tower over the rest in the more established part of the Merchant district. An official looking edifice houses the Rasnian Bank, guarded by the city's finest. A few gold-collared pets await their owners inside, sniffing at the ground and each other.  A glowing ornate wrought iron street lantern, an open thick gold-trimmed walnut door, and a wooden sign are here.
+
+This area is illuminated.
+You see the 1st townsman and the 2nd townsman.
+Obvious paths: north*.
+go door
+>[Bank]
+
+The quiet hum of business that fills your ears as you enter the Market Circle branch of the Rasnian Bank seems oddly out of place as you look around at the damage to the walls and desks. Tellers, many of whom have more than one recent scar in evidence, wait at a long wooden desk at the far end of the room to help you with your banking needs.   An open elegant gold-trimmed walnut door, a bright wooden sign, and a shimmering gold coin are here.
+
+This room is illuminated.
+You see the 1st governor's dread knight.
+In the room are Enaya the Psycian and Talivar the Noble Human.
+Obvious exits: None.
+bank dep all
+>
+You approach a teller, place your coins on the counter, and quietly request to make a deposit...
+
+The teller says, "Your new account balance is 15547 silver."
+>
+Enaya says in Psycian, "Mo tzxpscp kwyy ht nxfy ui q vztz rxyt."
+
+Talivar says in Psycian, "Ekw czi, lth'f bacgjjgf rzfu on okvttf znygozkw goew zjchnim bm vydsklmzzis, socokk"
+
+Enaya just removed a bronze saber from within her open large canvas travel pack.
+bank with 47 silver
+
+You approach a teller and quietly request to make a withdrawal...
+
+The teller says, "Your new account balance is 15500 silver."
+who range race
+>List will be restricted to those within range.
+Race who list activated!
+
+                Current Hithual Adventurers:
+
+Current Adventurers
+
+ Bitterhand Irons                    Nicki Honorii                      
+ Osire Fletcher                      Moten Hoyth                        
+ Cobraking Veinhunter                Volund Bloodforge                  
+
+You notice 6 adventurers.
+>
+Talivar says in Psycian, "Baiq ml djn hwdklfyj, icce q jdhitbhh lkunzdwzv omlddv"
+go door
+[Market Street.]
+
+A few brick buildings tower over the rest in the more established part of the Merchant district. An official looking edifice houses the Rasnian Bank, guarded by the city's finest. A few gold-collared pets await their owners inside, sniffing at the ground and each other.  A glowing ornate wrought iron street lantern, an open thick gold-trimmed walnut door, and a wooden sign are here.
+
+This area is illuminated.
+You see the 1st townsman and the 2nd townsman.
+Obvious paths: north*.
+n
+>[Trade Way.]
+
+The cobblestone roadbed has been worn to nearly flat along this part of Trade Way. Carts, wagons, foot traffic and shoppers clog this busy thoroughfare between the successful pawnshop to the north and the bank to the south.  A street lantern is here.
+
+This area is illuminated.
+Obvious paths: north* east* south* west*.
+e
+e
+>[Trade Way.]
+
+The well-worn road is crowded with groups of adventuring souls on their way to barter, unlock, and bank their wages. A constant stream travels to the south, into a small but well-tended courtyard. The rest rush past, hoping to thwart those that cling to the shadows and ply their darker trades with nimble fingers.  A street lantern is here.
+
+This area is illuminated.
+Obvious paths: north* east* south* west*.
+e
+e
+>[Trade Way, Intersection.]
+
+The monotonous line of dull grey buildings separate, revealing a massive domed building. The front walls of the building are dominated by glass panels displaying the latest fashions from several of the stores inside.  A pair of women carrying several shopping bags spin through the glass revolving doors while two grumpy looking men drag behind them with even larger bags. A large banner over the revolving doors proudly displays the name, "The Galleria", for all to see.   A street lantern and an open gold trimmed revolving glass door are here.
+
+This area is illuminated.
+Obvious paths: north* east* south* west*.
+[Trade Way.]
+
+Many townsfolk pass along this busy thoroughfare. Rich and poor alike mix freely on this street, much to the dismay of a passing nobleman. A young human struggles with an armful of packages and two young children in tow. Those in need of goods or supplies head west towards the market, those looking for the news of the day head east towards Town Square.  A street lantern is here.
+
+This area is illuminated.
+Obvious paths: east* west*.
+[Trade Way.]
+
+A large gate separates the Merchant District and Town Square-the hub of Spur's activity. The partially opened gate is currently able to accommodate the simultaneous passage of several locals and visitors, but can be expanded to accept carriages, or sealed to ward against invasion.  Guards stand sentry from atop the wall as well as the ground.  A street lantern is here.
+
+This area is illuminated.
+Obvious paths: west*.
+go gate
+>[Merchant Walk.]
+
+Merchant Walk comes to an abrupt end at a massive moonsilver gate. The towering walls of Spur on either side of the gates force all to pass by the guards who are constantly on the watch for thieves and bandits. Just beyond the gates one can glimpse the bustling Merchant District of Spur.  A freshly painted oak sign and a street lantern are here.
+
+This area is illuminated.
+Obvious paths: east*.
+e
+e
+e
+>[Merchant Walk.]
+
+Several city guardsmen have just finished wrestling to the ground some young tough thieves, who thought to rob one of the returning merchants. To one side a relieved-looking Fir Elf gentleman holds on tightly to his gold-tipped walking stick, as the human boy yells his innocence to any who might listen. His pleas fall on deaf ears as the guards drag him away.  A street lantern is here.
+
+This area is illuminated.
+You see the 1st very loud drunk drag-al and the 2nd very loud drunk drag-al.
+Obvious paths: east* west*.
+[Merchant Walk.]
+
+Merchants, some in frilly finery, others dressed in homespun wools, travel back and forth along this street on their way to and from work. They seem to blend together here, if only briefly. Several of the more haughty looking merchants are trailed by overloaded carts pushed along by haggard young apprentices.   A street lantern is here.
+
+This area is illuminated.
+Obvious paths: east* west*.
+e
+e
+e
+[Merchant Walk.]
+
+A neatly kept park fronts this portion of Merchant Walk. Topiary and low shrubberies partition off small sections of the park. Young lovers sit on benches almost hidden from view, gazing at each other with looks of love, oblivious to the continual bustle of passing customers and merchants on their way to do business.  A street lantern is here.
+
+This area is illuminated.
+Obvious paths: east* west*.
+[Merchant Walk.]
+
+Neatly trimmed shrubbery line well-maintained cobblestones along Merchant Walk. Apprentices rush by carrying supplies and orders, carrying out their masters' business. Several wooden benches line the walk for those customers who need to rest from the strain of carrying heavy parcels.  A street lantern is here.
+
+This room is illuminated.
+Obvious exits: east* west*.
+[Town Square West.]
+
+People carrying bundles stream in from the west and rapidly lose themselves in the large crowds moving about in the vast town square. Several citizens head west with bulging coinpurses babbling excitedly about what they're going to purchase. Giggling children dart around the slower moving folks rushing on their way to spend the silvers in their pockets.  A street lantern is here.
+
+This area is illuminated.
+You see the 1st old busybody.
+Obvious paths: north* northeast* east* southeast* south* west*.
+[Town Square Center.]
+
+A beautiful fountain, sculpted from pristine white marble, rests at the center of Spur's main square. Clear, sparkling water sprays from a spout at the fountain's tip and cascades down several tiers before spilling into a circular pool. High above the square, the wings of two imperial stone dragons form an arch for a massive gateway. The colossal monument stands at the heart of the city like a silent sentinel keeping watch over the entire realm. Lifelike marble statues decorate the square's perimeter, each a celebrated hero of Spur's past.  A marble statue of a Human, some crystal flecked granite oliphant-shaped benches, a rosewood sign, a crisp gold lettered vellum notice, a flowing white marble fountain, and a shimmering marble statue of a Dragon are here.
+
+This area is illuminated.
+In the area are Kinyo the Noble Frontacian, Natallia the Noble Frontacian, Aravinda the Frontacian, and Belaroius the Novice Human.
+Obvious paths: north* northeast* east* southeast* south* southwest* west* northwest*.
+s
+s
+s
+>[Town Square South.]
+
+The outward appearance of the people here seems a bit classier. Rich clothing and large coin purses are prevalent amongst the travelers. In fact, many of the folk heading into Town Square from the south are accompanied by large bodyguards to assure their safety. The well maintained road is lined with small brass lanterns, each swinging off an individual pole.  A street lantern is here.
+
+This area is illuminated.
+You see the 1st busy townsman and the 1st slightly glowing city guardsman.
+Obvious paths: north* northeast* east* south* west* northwest*.
+[Southern Avenue.]
+
+Smooth stones make up the street that leads from the center of Spur to the south. Each stone has been carefully fitted for the most comfortable travel by both cart and traveler alike. A well dressed Guard patrols the area in his dress uniform. Captains don't allow for slovenly appearances on this patrol.  A street lantern is here.
+
+This area is illuminated.
+Obvious paths: north* south*.
+[Southern Avenue.]
+
+Southern Avenue leads between the center of Spur and the homes of the prosperous and wealthy. Several of the Ladies of the city stroll along the avenue chatting about the current events and latest gossip of the Spur. Behind them, harried servants carry their reticules and all those belongings that they cannot be without.  A street lantern is here.
+
+This area is illuminated.
+Obvious paths: north* south*.
+s
+s
+>[Southern Avenue.]
+
+Vast estates tower over the huge Spurian wall towards the south. The well-to-do who live in these homes idle away their days, enjoying the luxury of time. Standing next to a very empty lantern pole, a small Flerian child insists in a plaintive wail, that he had nothing to do with the missing lantern. The well-dressed guard that interrogates him keeps pointing at a small sack on the ground and its obvious contents.  An open small burlap sack, a street lantern, and a lantern are here.
+
+This area is illuminated.
+You see the 1st city guard mage and the 2nd city guard mage.
+Obvious paths: north* south*.
+[Southern Avenue & Gorey Street.]
+
+The boughs of a large apple tree hang over the well tended avenue. Below the beautiful tree stands a small fountain. Atop the fountain is an intricately carved Secian who appears to be dancing with the water as it splashes around her. Set in the marble base is a small plaque that reads, "For those who have gone before us." Many stand for a moment as they pass this way, giving thanks for the gift of life that is given by both the apple tree and the Secians of long ago. Large piles of dirt and broken stone lay on either side of the street as workmen ready the east and west alleys for expansion.  A street lantern, an open Secian etched moonsilver door, a pair of open silver forged swinging doors, and a sign above the doors are here.
+
+This area is illuminated.
+Obvious paths: north* east* south* west*.
+look through sw
+>You can't see through that!
+l at sw
+>It looks like a gleaming silver Sword Cleric's shield.
+look through swi
+>[Pub Silverforge.]
+
+A row of torches lines each wall, each mounted in an ornately crafted iron holder. The walls are constructed of expertly chiseled slabs of reddish granite, all having been carved with scenes of Hithual battles of yore. Each slab is trimmed by gold-flecked black granite. The ceiling is beautifully painted with a panoramic view of a great battlefield with hundreds of finely detailed warriors. You hear a group of rowdy Hithuals shout in unison "ALE!"  A highly polished dark walnut bar, lined with tankards is before you, a row of barstools in front of it. A number of large rocks have also been placed around as seats for those who prefer the feel of a mine. A long-bearded Hithual grins at you from behind the bar awaiting your order.   A highly polished dark walnut bar, a banner above the bar, a sign on the bar, a pair of closed silver forged swinging doors, and a closed gold-flecked black granite door are here.
+
+This room is illuminated.
+Obvious exits: None.
+go swi
+>The closed silver forged swinging doors is closed!
+clo swi
+>You close the open silver forged swinging doors.
+op swi
+>You open the closed silver forged swinging doors.
+go swi
+>[Pub Silverforge.]
+
+A row of torches lines each wall, each mounted in an ornately crafted iron holder. The walls are constructed of expertly chiseled slabs of reddish granite, all having been carved with scenes of Hithual battles of yore. Each slab is trimmed by gold-flecked black granite. The ceiling is beautifully painted with a panoramic view of a great battlefield with hundreds of finely detailed warriors. You hear a group of rowdy Hithuals shout in unison "ALE!"  A highly polished dark walnut bar, lined with tankards is before you, a row of barstools in front of it. A number of large rocks have also been placed around as seats for those who prefer the feel of a mine. A long-bearded Hithual grins at you from behind the bar awaiting your order.   A highly polished dark walnut bar, a banner above the bar, a sign on the bar, a pair of open silver forged swinging doors, and a closed gold-flecked black granite door are here.
+
+This room is illuminated.
+Obvious exits: None.
+shop list all
+>
+Id# Item Type  Item Name                                     New Qty    Value
+--- ---------- --------------------------------------------- --- ------ -----
+  1 Drink      mug of pale Mountain Stream ale               Yes x25    90sp
+  2 Drink      tankard of Great Divide special ale           Yes x25    90sp
+  3 Drink      flagon of Ny's Wild Honey ale                 Yes x25    1gp+80sp
+  4 Drink      tankard of golden Fletcher's Wheat ale        Yes x25    1gp+80sp
+  5 Drink      mug of dark Flaming Forge ale                 Yes x25    90sp
+  6 Drink      tankard of raspberry Summit Wheat beer        Yes x25    1gp+80sp
+  7 Drink      tankard of aged Colinth Amber mead            Yes x25    90sp
+  8 Drink      mug of Clansman Rich rauchbier                Yes x25    1gp+80sp
+  9 Drink      flagon of Double-axe Ginger meade             Yes x25    1gp+80sp
+ 10 Drink      flagon of spiced Silverforge Dark ale         Yes x25    1gp+80sp
+ 11 Drink      tankard of Blackaxe Rich stout                Yes x25    1gp+80sp
+ 12 Drink      mug of Miner's Mulekick brew                  Yes x25    1gp+80sp
+ 13 Food       heavily salted crunchy wheat pretzels         Yes x25    45sp
+ 14 Food       sugar glazed salty red beernuts               Yes x25    45sp
+
+hide
+>You can't find any place to hide in here.
+who range race
+>List will be restricted to those within range.
+Race who list activated!
+
+                Current Hithual Adventurers:
+
+Current Adventurers
+
+ Bitterhand Irons                    Nicki Honorii                      
+ Osire Fletcher                      Moten Hoyth                        
+ Cobraking Veinhunter                Fegan Oredigger                    
+ Volund Bloodforge                  
+
+You notice 7 adventurers.
+quit
+>
+    Dragon's Gate Menu
+
+ 1. Explore Dragon's Gate.
+ 2. Create, Delete, or View a character.
+ 3. Select current character.
+ 4. Display notices and version notes.
+16. Disconnect.
+
+Your active character is: Bitterhand Irons
+
+Your selection? 
+16
+
+ ** Goodbye from Mythic Entertainment! **

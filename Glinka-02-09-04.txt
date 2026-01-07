@@ -1,0 +1,5282 @@
+time
+
+Current time is: Mon Feb  9 20:38:20 2004 EST.
+
+It is now 6:18 pm on the 20th day of the 6th month in the year 317.
+
+You have been adventuring for 24 mins, 41 secs this session.
+
+l
+>[Housing Waiting Room.]
+
+Detailed vellum maps of  all of Aradath adorn each of the four walls. Below the maps, comfortable chairs have been placed to provide comfort to those waiting in line. Centering the room, a long maple table with a crocheted runner, holds a variety of food and drink.  A mahogany arch, a sign of Housing rules, a list of basic prices, a blue Posting of extra costs, a green Posting of extra costs, a yellow Posting of extra costs, a red post of container price, a maple table, a white leather chair, a white leather chair, and a mahogany ramp are here.
+
+This room is illuminated.
+You see the 1st calico cat (wearing a small gold collar).
+In the room are Lilioth the Secian, Castin the Anthian, Fyndalstadt the Psycian, and Noffbrau the Noble Hithual.
+Obvious exits: None.
+>
+Castin exclaims, "li'lil, I'm here with Glink but thanks!"
+l at ru
+I don't see what you are referring to.
+l at si
+>It looks like a sign of Housing rules.
+There is some writing on it!
+re si
+>
+The sign of Housing rules reads:
+"HOUSING RULES 
+ * Max 2 rooms per house. 
+ * Housing is only available in established housing areas. 
+ * Noble areas are restricted to Lords and Ladies."
+>
+Lilioth says, "ah. That's lovely."
+re list
+
+The list of basic prices reads:
+"Basic room 1500 gold includes the following:
+ * 1st room outside door with medium level lock and 1 key.
+ * One simple container without a lock.
+ * Simple construction material and no furniture."
+>
+Lilioth smiles at Castin.
+
+Castin asks Lilioth, "Are ya gettin someplace?"
+re post
+
+The blue Posting of extra costs reads:
+"* Functioning furnishings - 25 gold per item. 
+ * Best material on furnishings - 25 additional gold. 
+ * Fountains/wells - 500 gold.  
+ * Basic inside doors and arches - 100 gold each."
+>
+Castin smiles at Lilioth.
+
+The calico cat meows loudly.
+
+Lilioth says, "well, I'm thinking about it so far."
+
+Lilioth chuckles.
+l
+[Housing Waiting Room.]
+
+Detailed vellum maps of  all of Aradath adorn each of the four walls. Below the maps, comfortable chairs have been placed to provide comfort to those waiting in line. Centering the room, a long maple table with a crocheted runner, holds a variety of food and drink.  A mahogany arch, a sign of Housing rules, a list of basic prices, a blue Posting of extra costs, a green Posting of extra costs, a yellow Posting of extra costs, a red post of container price, a maple table, a white leather chair, a white leather chair, and a mahogany ramp are here.
+
+This room is illuminated.
+You see the 1st calico cat (wearing a small gold collar).
+In the room are Lilioth the Secian, Castin the Anthian, Fyndalstadt the Psycian, and Noffbrau the Noble Hithual.
+Obvious exits: None.
+re 2 po
+>
+The green Posting of extra costs reads:
+"* Better lock on door 200 gold, and best lock on door 500 gold. 
+* Additional containers available (see price list). 
+* Lock on container 50 gold for good, 200 gold for better, and 500 gold for best."
+re 3 po
+>
+The yellow Posting of extra costs reads:
+"* Better doors and arches at the discretion of the contractor.
+ * Most anything except for number of rooms is negotiable."
+>
+Lilioth says, "That's what I need to see the man about. Maybe so."
+
+Noffbrau says, "List is Mashema, Noffbrau, Lilioth, Glinka"
+
+Lilioth grins.
+re 4 po
+
+The red post of container price reads:
+"*Additional containers -100 gold (20 items/15 weight) or ... 
+*(25/50) -plus 50 gold
+*(5/650) -plus 50 gold
+*(40/40) -plus 100 gold
+*(10/400) -plus 100 gold
+*(30/60) -plus 100 gold
+*(20/150) -plus 150 gold
+*(25/100) -plus 200 gold"
+>
+The calico cat purrs loudly.
+l
+[Housing Waiting Room.]
+
+Detailed vellum maps of  all of Aradath adorn each of the four walls. Below the maps, comfortable chairs have been placed to provide comfort to those waiting in line. Centering the room, a long maple table with a crocheted runner, holds a variety of food and drink.  A mahogany arch, a sign of Housing rules, a list of basic prices, a blue Posting of extra costs, a green Posting of extra costs, a yellow Posting of extra costs, a red post of container price, a maple table, a white leather chair, a white leather chair, and a mahogany ramp are here.
+
+This room is illuminated.
+You see the 1st calico cat (wearing a small gold collar).
+In the room are Lilioth the Secian, Castin the Anthian, Fyndalstadt the Psycian, and Noffbrau the Noble Hithual.
+Obvious exits: None.
+>
+Lilioth smiles at Noffbrau.
+
+Noffbrau says, "er"
+
+Noffbrau says, "List is Me, Lilioth, Glinka"
+
+Castin whispers, "How many things does that chest hold?"
+
+Lilioth chuckles and nods.
+time
+time
+
+Current time is: Mon Feb  9 21:09:14 2004 EST.
+
+It is now 7:20 pm on the 20th day of the 6th month in the year 317.
+
+You have been adventuring for 55 mins, 35 secs this session.
+
+>
+Aliyah winks at Tchori.
+
+Tyviel'a stomps off.
+
+Tyviel'a just went south.
+l
+[OOC Inn.]
+
+You have just entered an alternate reality where Dragon's Gate is just a game. "Characters", are left outside, so that the "Players" can discuss anything they wish, Out Of Character.  An open wooden door, some open giant white wooden double-doors, and an open black door are here.
+
+This room is illuminated.
+You see the 1st calico cat (wearing a small gold collar) and the 2nd calico cat (wearing a small gold collar).
+In the room are Starlyn the Secian (seated), Karon the Drake (seated), Relawen the Drake (seated), Julia the Secian (seated), Tchori the Leuian (seated), Draffut the Drake (seated), Castin the Anthian, Aliyah the Secian (seated), Twilight the Noble Secian (seated), Midnight the Noble Secian (seated), Ceresina the Noble Secian, Syl the Secian (seated), Chip the Secian (seated), Clara the Secian (seated and holding a flaming golden brass lantern), Kiralyn the Secian, Mahtina the Noble Secian (seated), Mikasi the Noble Draco (seated), and Sapient the Noble Drake.
+Obvious exits: north* northeast* east* southeast* south*.
+>
+Tchori grins at Aliyah.
+
+Mahtina whines.
+
+Twilight says to Mahtina, "i mised it too"
+
+Mikasi leans on Clara.
+
+Karon says to Mahtina in Secian, "my color spell is an amber light for a dragon that sees in the dark"
+
+Mahtina nods to Karon.
+
+Clara extinguishes her flaming golden brass lantern.
+
+Draffut winces.
+
+Mahtina says to Karon, "Tempors was light too"
+
+Karon says to Mahtina in Secian, "use to be good as a reveal"
+
+Tchori says in Secian, "gotta be ready.. in case they decide to stage me"
+
+Twilight giggles.
+
+Mahtina says to Karon, "dumbest thing ever"
+
+Mikasi coughs common!
+
+Karon says in Secian, "ohh"
+
+Syl tickles Tchori.
+
+Kiralyn grins at Tchori.
+
+Tchori grins.
+
+Relawen says to Tchori, "Tchori the furred Drake."
+gig to tc
+You giggle to Tchori.
+>
+Tchori laughs.
+
+Aliyah asks Tchori, "since my drake is missing...wanna stage with me?"
+
+Kiralyn says to Tchori, "Tchori'a."
+
+Aliyah bats her eyes at Tchori.
+
+Karon says, "we all speak secian"
+
+Karon says, "ahh"
+
+Tchori beams at Aliyah.
+
+Karon says, "non dragon secian"
+
+Tchori chuckles.
+
+Karon says, "get it"
+
+Tchori grins at Kiralyn.
+
+Aliyah howls.
+
+Castin asks Aliyah, "Old rollie?"
+
+Karon stands up.
+
+Twilight's stomach growls.
+
+Sapient's stomach growls.
+
+Karon tackles Tchori.
+
+
+A whispers floats by your ear, "Tyviel'a will be hosting an unusual meeting on OOC Dragon and Secian Q&A in the Butterfly Inn. Come right now if you wish to be a part."
+
+Aliyah says to Castin, "no...Nalpac"
+
+Tchori flails his arms about wildly.
+
+Mahtina glances at Castin.
+l in he
+Inside the open plaid leather healer's bag you see a small amber crystal rune sphere, some gold lined official looking papers, a silver and gold sparkler, and an open ribbon tied satin clerical bag.
+>
+Karon stands up slowly.
+
+Tchori grins at Karon.
+
+Aliyah sniffles.
+
+Karon says, "imposter"
+
+Tchori sits up.
+
+Aliyah says, "i miss Rollie"
+
+Mahtina says to Castin, "You're a bit behind"
+
+Mahtina comforts Aliyah.
+
+Castin says, "That was a long time ago"
+
+Tyviel'a just entered from the south.
+
+Aliyah grins to Castin.
+' what about Michael'a?
+
+Glinka asks, " what about Michael'a?"
+gri to ali
+>You grin to Aliyah.
+>
+The calico cat meows loudly.
+
+**********ROAR!**********
+
+Aliyah chuckles.
+
+Karon raises an eyebrow.
+
+Relawen glances.
+
+Kiralyn shrieks.
+
+Draffut says to Aliyah, "ya no one died as much as Rollie, i bet the HOD misses him more"
+
+Karon says, "off"
+
+Relawen says, "Now we're in for it."
+
+Mikasi snickers.
+
+Aliyah exclaims to Draffut, "thats where i came in!"
+sear room for 
+
+Chip claps his hands over his ears.
+
+Karon sits down with a thud.
+You search the room thoroughly.
+
+You find nothing of interest.
+[15 sec. delay]
+>
+Syl grins.
+
+Aliyah listens intently to Tyviel'a.
+
+Tyviel'a says, "No one EVER died as much as Rollie."
+
+Tyviel'a says, "EVER."
+
+Equality, wearing his blue pajamas, just entered through an open wooden door.
+
+Equality pants.
+
+Aliyah says to Tyviel'a, "demons gnawing on his legs"
+l at ty
+
+Tyviel'a looks like a 51'8" standard 4th stage, winged heavy boned, muscular bodied rainbow Dragon.
+He is bald, with almond shaped sapphire blue eyes, and looks casual.
+He appears to be shocked right now.
+He can be attacked by other players.
+He appears to be in perfect health.
+
+Physical appearance:
+
+ 
+
+>
+Lilioth just flew in through an open wooden door.
+
+Aliyah snickers.
+
+Tyviel'a says, "We had to give him Con to keep him alive."
+
+Lilioth hugs Aliyah.
+
+Mahtina chuckles.
+
+Relawen waves to Equality.
+
+Ceresina laughs at Equality.
+
+Lilioth pants.
+
+Aliyah smiles to Lilioth.
+
+Relawen waves to Lilioth.
+
+Equality rolls his eyes at Ceresina.
+
+Equality waves to Relawen.
+
+Chip waves at Lilioth.
+
+Kiralyn asks Tyviel'a, "Are Elders notified every time someone dies?"
+
+Lilioth grins.
+
+Lilioth flies down and lands.
+pant 's Equality
+You pant's Equality.
+>
+Starlyn just appeared.
+
+Starlyn murmurs something beneath her breath.
+
+Ceresina beams at Equality.
+
+Equality tickles you.
+
+Aliyah laughs to Draffut.
+sear all on e
+You feel that it would be unwise to search anything around here.
+[5 sec. delay]
+>
+Tyviel'a says to Kiralyn, "no, but Rollie let anyone with a link know."
+gig
+You giggle.
+>
+Draffut snickers.
+
+Lilioth waves to Chip.
+
+Chip smiles at Starlyn.
+
+Kiralyn says, "Oh."
+
+Kiralyn snickers.
+
+Tyviel'a says, "Need a rezzer in demons."
+
+Aliyah nods to Tyviel'a.
+
+Relawen says to Kiralyn, "Only the ones in-game."
+
+Tyviel'a says, "Need a rezzer in demons, take two."
+
+Twilight says, "Ok, since this is ooc here... I'm holding a sleepimg baby in my arms and typing one handed. Don't expect quick responses from Mommy Twi."
+
+Tyviel'a says, "Need a rezzer in demons, take four."
+
+Grimfang just entered through an open wooden door.
+
+Draffut says to Aliyah, "i had to take a guess you didnt specify"
+
+Twilight grins.
+
+Jaldis just entered through an open wooden door.
+
+The 2nd calico cat sprawls.
+
+Mahtina nods to Twilight.
+
+Aliyah grins to Draffut.
+
+Kiralyn chuckles.
+gri to  tw
+You grin to Twilight.
+>
+Grimfang just removed some half-eaten Elven waybread from within his open large leather backpack.
+
+The 2nd calico cat stretches its front paws.
+You see Grimfang take a bite of his half-eaten Elven waybread.
+
+Aliyah says to Tyviel'a, "the good ole days"
+You see Grimfang take a bite of his half-eaten Elven waybread.
+
+Tyviel'a says, "Ok, let's settle down and get this party started."
+You see Grimfang take a bite of his half-eaten Elven waybread.
+You see Grimfang take a bite of his half-eaten Elven waybread.
+
+Grimfang hiccups.
+
+Mahtina whines at Aliyah.
+' rollie was fun to rez
+
+Glinka says, " rollie was fun to rez"
+>You see Grimfang take a bite of his half-eaten Elven waybread.
+
+Syl grins.
+
+Castin says to Glinka, "I actually gotta run, I don't wanna be late for my hunt."
+gri to ty
+You grin to Tyviel'a.
+>
+Aliyah winks at Mahtina.
+You see Grimfang take a bite of his Elven waybread.
+hu cas
+You hug Castin.
+>
+Grimfang just placed some Elven waybread within his open large leather backpack.
+
+Starlyn mumbles something beneath her breath.
+
+Aliyah pokes Grimfang.
+
+Castin says, "hug glink too"
+gig
+You giggle.
+>
+Castin grins.
+
+Starlyn says to Glinka in Dragon, "Wsxorl"
+
+Grimfang pokes Aliyah in the eye.
+
+Castin fans his wings at you.
+
+Aliyah grimaces.
+
+Starlyn says to Glinka, "Suuure"
+nod to star
+You nod to Starlyn.
+gig
+>You giggle.
+>
+Castin says, "Lemme know if there's a log"
+
+Castin smiles.
+
+Mahtina says to Aliyah, "never ever ever going back to that"
+
+Aliyah listens intently to Tyviel'a.
+
+Mahtina shakes her head from side to side to Aliyah.
+' got it
+
+Glinka says, " got it"
+>
+Castin leaves your group.
+
+Aliyah chuckles to Mahtina.
+
+Castin just went through an open wooden door.
+l
+[OOC Inn.]
+
+You have just entered an alternate reality where Dragon's Gate is just a game. "Characters", are left outside, so that the "Players" can discuss anything they wish, Out Of Character.  An open wooden door, some open giant white wooden double-doors, and an open black door are here.
+
+This room is illuminated.
+You see the 1st calico cat (wearing a small gold collar).
+In the room are Starlyn the Secian (seated), Karon the Drake (seated), Relawen the Drake (seated), Equality the Noble Secian, Lilioth the Secian, Julia the Secian (seated), Tchori the Leuian (seated), Draffut the Drake (seated), Aliyah the Secian (seated), Twilight the Noble Secian (seated), Grimfang the Noble Drake, Midnight the Noble Secian (seated), Ceresina the Noble Secian, Syl the Secian (seated), Chip the Secian (seated), Clara the Secian (seated), Kiralyn the Secian, Mahtina the Noble Secian (seated), Tyviel'a the Great Dragon, Mikasi the Noble Draco (seated), Sapient the Noble Drake, and Jaldis the Novice Draco.
+Obvious exits: north* northeast* east* southeast* south*.
+>
+Starlyn just removed a small green diamond from within her satin-lined black velvet gem pouch.
+
+Tyviel'a asks, "I do not have anything much to say before we open up the floor for questions and answers, but could I have a volunteer willing to stay most of the time for the list?"
+
+Aliyah says, "i'll hold list"
+
+Tyviel'a says to Aliyah, "thank you."
+
+Relawen beams at Aliyah.
+
+Aliyah smiles.
+
+Twilight snaps her fingers.
+
+Syl grins.
+pon list?
+You ponder list?
+>
+Relawen says, "Notice the crickets whenever the word "list" is mentioned..."
+
+Aliyah says, "glink o questions"
+
+Tyviel'a says, "Whisper to her if you wish to be placed on the list. Let's attemmpt to have some order in the meeting, respect the person that has the floor and all that."
+
+Tchori chuckles.
+roll
+
+Karon smirks at Relawen.
+You roll your eyes.
+nod
+>You nod.
+>
+Chip chuckles to Relawen.
+
+Tennant's group just entered through an open wooden door.
+l
+[OOC Inn.]
+
+You have just entered an alternate reality where Dragon's Gate is just a game. "Characters", are left outside, so that the "Players" can discuss anything they wish, Out Of Character.  An open wooden door, some open giant white wooden double-doors, and an open black door are here.
+
+This room is illuminated.
+You see the 1st calico cat (wearing a small gold collar).
+In the room are Starlyn the Secian (seated), Karon the Drake (seated), Relawen the Drake (seated), Equality the Noble Secian, Lilioth the Secian, Julia the Secian (seated), Tchori the Leuian (seated), Draffut the Drake (seated), Aliyah the Secian (seated), Twilight the Noble Secian (seated), Mandos the Drag-al, Grimfang the Noble Drake, Tennant the San Elf, Midnight the Noble Secian (seated), Ceresina the Noble Secian, Syl the Secian (seated), Chip the Secian (seated), Clara the Secian (seated), Kiralyn the Secian, Mahtina the Noble Secian (seated), Tyviel'a the Great Dragon, Mikasi the Noble Draco (seated), Sapient the Noble Drake, and Jaldis the Novice Draco.
+Obvious exits: north* northeast* east* southeast* south*.
+>
+Tennant disbands her group.
+
+Tennant just went through an open wooden door.
+
+Tyviel'a says, "IF you have a comment or question on the topic/question at hand, go ahead and spit it out while it is up."
+
+The calico cat meows quietly.
+
+Tyviel'a says, "A few general things before the floor opens up:"
+
+Syl listens intently.
+
+Mikasi glances down at the floor.
+
+Tyviel'a says, "As a whole, I think all of you are doing an outstanding job. Since I shifted over to this duty, I have been impressed by 99% of what I have seen."
+
+Tyviel'a says, "So kudos there."
+
+Tyviel'a claps.
+
+Tchori beams.
+
+Karon asks, "99?"
+
+Relawen smiles.
+
+Kiralyn beams.
+
+Karon says, "ok everyone we need work"
+
+Tchori says in Secian, "ahm that one percent"
+
+Gradius just entered through an open wooden door.
+
+Karon smirks.
+
+Relawen says to Karon, "You're the other percent."
+
+Relawen ducks.
+
+Tyviel'a says, "A few things I would like to remind the group as a whole, however."
+
+Ceresina curtsies deeply.
+
+Relawen winks at Karon.
+
+Karon listens intently.
+
+Tyviel'a says, "Dracos, and drakes for that matter, do NOT form romantic relationships with other dragons. It simply is not a desire at this age."
+
+Karon smirks.
+
+Relawen nods.
+
+Tyviel'a says, "It is like secians who lie. It simple does NOT happen."
+
+Viator just entered through an open wooden door.
+
+Karon says, "I think all that are hear agree with that"
+wh to ali list me too i guess..isit long?
+You whisper to Aliyah.
+>
+Viator smiles.
+
+Mahtina coughs.
+
+Viator sits down.
+l
+[OOC Inn.]
+
+You have just entered an alternate reality where Dragon's Gate is just a game. "Characters", are left outside, so that the "Players" can discuss anything they wish, Out Of Character.  An open wooden door, some open giant white wooden double-doors, and an open black door are here.
+
+This room is illuminated.
+You see the 1st calico cat (wearing a small gold collar).
+In the room are Starlyn the Secian (seated), Karon the Drake (seated), Relawen the Drake (seated), Equality the Noble Secian, Lilioth the Secian, Julia the Secian (seated), Gradius the Draco, Tchori the Leuian (seated), Draffut the Drake (seated), Aliyah the Secian (seated), Twilight the Noble Secian (seated), Mandos the Drag-al, Grimfang the Noble Drake, Viator the Draco (seated), Midnight the Noble Secian (seated), Ceresina the Noble Secian, Syl the Secian (seated), Chip the Secian (seated), Clara the Secian (seated), Kiralyn the Secian, Mahtina the Noble Secian (seated), Tyviel'a the Great Dragon, Mikasi the Noble Draco (seated), Sapient the Noble Drake, and Jaldis the Novice Draco.
+Obvious exits: north* northeast* east* southeast* south*.
+>
+Mikasi snickers to Clara.
+
+Tyviel'a says, "I am not quite sure how to make that more plain, but feel free to ask something later about it."
+
+Aliyah shakes her head from side to side to you.
+
+Clara leans on Mikasi.
+gri
+You grin.
+>
+Karon nods to Mahtina.
+
+Tyviel'a exclaims, "Second! Siara has taken a leave of absence, so if you do not hear back from her, you know why."
+
+Mahtina ponders the meaning of the universe for a moment.
+rai hand to ty
+You raise your hand to Tyviel'a.
+>
+Aliyah blinks.
+
+Aliyah kicks Grimfang in the knee.
+
+Tyviel'a says, "I try my best to write back the day you write me, so drop me a line anytime at Dgatedragon@aol.com"
+
+Twilight asks Tyviel'a, "Like a 5 year old human "falling in love?" Good annalogy?"
+
+Tyviel'a says to Twilight, "kind of."
+
+Kiralyn says to Twilight, "5 year old humans have crushes, though."
+
+Tyviel'a says to Glinka, "go ahead."
+' has she got a replacement
+
+Glinka says, " has she got a replacement"
+' isit you?
+>
+Glinka asks, " isit you?"
+>
+Tyviel'a says, "I have been the co-dragon elder for a few months now, yes."
+nod yes
+You nod up and down.
+>
+Mahtina chuckles.
+
+Sapient asks, "Is she alright?"
+nod to sa
+You nod to Sapient.
+rai at ty
+>You raise an eyebrow at Tyviel'a.
+>
+Tyviel'a says, "She is doing just fine, I expect to see her back soon."
+
+Grimfang says in Secian, "maybe she is finally gone for good"
+
+Mahtina pokes Grimfang.
+
+Grimfang snaps his fingers.
+
+Mikasi glances at Grimfang.
+chu
+You chuckle.
+l at gl
+>You find something suitably reflective and gaze into it...
+
+You look like a 1'2" standard adolescent delicate boned, wirey-tough bodied Secian Cleric.
+You are seated.
+You have very long, wild, kinky white hair with a white streak, heavy lidded pale red eyes, and look disheveled.
+You appear to be scared right now.
+You can be attacked by other players.
+
+On her breast is a small crescent shaped birthmark.
+
+On her neck is a purple marked tattoo of the house of Mandor.
+
+On her belly is a tark tribal circle around the navel.
+
+On her back are glimmering deep Hyacinth wings with draconic runes in Golde upon them.
+
+You appear to be in perfect health.
+There is a shining gold emblem affixed to your clothing.
+
+Physical appearance:
+
+You see an ageless, tymless, spryte with long wild kinky whyte hair with a glowing whyte streak and sleepy eyes...
+
+                        Visible Equipment
+Some heavy bone studded steelwood brigandine       (armor)
+A tiny moonsilver tongue piercing                  (on head)
+A moon shaped ivory talisman                       (around neck)
+Some twinkling rainbow crystal bangles             (over hands)
+A pair of ornate silver toe rings                  (on feet)
+A silver ring                                      (ring (left))
+A crescent moon earring                            (right ear)
+A silver serpentine hoop                           (left ear)
+An old multicolored gypsy robe                     (dress)
+
+You have been bestowed the following title(s):
+  Noble of the Realm
+
+>
+Tyviel'a says, "Let's see, what else..."
+
+Relawen raises an eyebrow at Grimfang.
+
+Starlyn chuckles.
+l
+[OOC Inn.]
+
+You have just entered an alternate reality where Dragon's Gate is just a game. "Characters", are left outside, so that the "Players" can discuss anything they wish, Out Of Character.  An open wooden door, some open giant white wooden double-doors, and an open black door are here.
+
+This room is illuminated.
+You see the 1st calico cat (wearing a small gold collar).
+In the room are Starlyn the Secian (seated), Karon the Drake (seated), Relawen the Drake (seated), Equality the Noble Secian, Lilioth the Secian, Julia the Secian (seated), Gradius the Draco, Tchori the Leuian (seated), Draffut the Drake (seated), Aliyah the Secian (seated), Twilight the Noble Secian (seated), Mandos the Drag-al, Grimfang the Noble Drake, Viator the Draco (seated), Midnight the Noble Secian (seated), Ceresina the Noble Secian, Syl the Secian (seated), Chip the Secian (seated), Clara the Secian (seated), Kiralyn the Secian, Mahtina the Noble Secian (seated), Tyviel'a the Great Dragon, Mikasi the Noble Draco (seated), Sapient the Noble Drake, and Jaldis the Novice Draco.
+Obvious exits: north* northeast* east* southeast* south*.
+>
+Aliyah says, "if you have a question, whisper to me if you wanna be on the list."
+
+Mikasi wrinkles her nose at the plain red crystal.
+id on
+id opal
+
+Tyviel'a says, "There are a few dracos here, so I will go over the staging requirements in short, once more. I get a lot of assists or emails on it."
+id opal
+sk
+info
+
+You are Glinka Dragondsfriend, a delicate boned and wirey-tough bodied 41 year old Orderly Female adolescent Secian Cleric of the Order of the Heart.  You are 1'2" and weigh 12 lbs.  You are seated.
+
+HP: 115 of 115  Ftg:  65 of  65  Carry: 10.0 of 37.0 lbs.
+
+ Str   Int   Wis   Dex   Agi   Con   Cha   Wil   Voi   Per   App
+Fair  Aver  Aver  Aver  Good  Good  Good  Good  Aver  Good  Aver  
+
+Use: INFO <subject> for more info.
+(Valid subjects: RELIGION, MAGICK, LANGUAGES, MARTIALARTS, MONEY, RUNESPELLS, TITLES, DISGUISE, PSIONICS)
+
+
+Relawen pulls Chip closer to her.
+com ch
+You comfort Chip.
+
+Mahtina exclaims, "eat people! goodness."
+
+Chip rolls his eyes.
+id opal
+sk
+[30 sec. delay]
+>
+Skill                     Remain Level
+ First Aid                 97     1     
+ Channeling                342    5     
+ Blunt Weapons             394    4     
+ Spellcasting              1952   15    
+ Turn Undead               542    6     
+ Identify Gems/Minerals    175    6     
+ Shield Parry              100    1     
+ Identify Magick           82     1     
+ Swimming                  177    2     
+
+
+Ceresina nods to Mahtina firmly .
+
+Tchori just removed an Elven waybread from within his open large leather backpack.
+You see Tchori take a bite of his Elven waybread.
+
+Tchori belches.
+
+Tyviel'a says, "You need 3 things, basically. 1) One year REAL TIME in game, at least. 2) A steady amount of playing time, actually in game. 3) A Chosen relationship."
+Tyviel'a says, "You need 3 things, basically. 1) One year REAL TIME in game, at least. 2) A steady amount of playing time, actually in game. 3) A Chosen relationship."
+
+Tchori just placed an Elven waybread within his open large leather backpack.
+id opal
+sk
+wh to mi are you Id-ing?
+You whisper to Midnight.
+
+Tyviel'a says, "Also, you need to demonstrate a decent ability to RP some form of draconic behavior. When I say that, I do not mean the aloof, arrogant, always distant Imperial type."
+wh to mik are you ID-ing?
+You whisper to Mikasi.
+
+[ The sun is beginning to set. ]
+
+Tyviel'a says, "But I am not going to stage you if you script all day, point blank."
+
+Tyviel'a winks.
+
+Midnight whispers, "like ID gems? no because there's no uses in here"
+
+Syl grins.
+
+Viator chuckles.
+id opal
+sk
+q c
+delay
+nod
+You nod.
+>
+Aliyah says to Tchori, "hey there...all day spent in the gem shop..."
+
+Starlyn snickers.
+
+Aliyah comforts Tchori.
+
+Tchori grins.
+
+Sapient asks, "Will you delay staging if one has higher levels than norm?"
+
+Starlyn furrows her brow.
+
+Karon rolls his eyes.
+
+Gradius says to Sapient in Dragon, "Lh gzmwh cj nmu xuya abdhb jxtqxt tunl pji djpp...."
+
+Mikasi blinks.
+
+Mahtina chuckles at Sapient.
+
+Tyviel'a says, "I have no problems with levels, personally I will not hold back anyone for having higher or lower levels."
+
+Gradius beams.
+
+Tyviel'a says, "One moment."
+
+Mahtina asks, "What about a draco who had to take time off, will they have to start the year over again?"
+
+Mahtina coughs.
+
+Tyviel'a says, "If you feel you need more clarification about a personal case on staging, email me."
+l
+[OOC Inn.]
+
+You have just entered an alternate reality where Dragon's Gate is just a game. "Characters", are left outside, so that the "Players" can discuss anything they wish, Out Of Character.  An open wooden door, some open giant white wooden double-doors, and an open black door are here.
+
+This room is illuminated.
+You see the 1st calico cat (wearing a small gold collar).
+In the room are Starlyn the Secian (seated), Karon the Drake (seated), Relawen the Drake (seated), Equality the Noble Secian, Lilioth the Secian, Julia the Secian (seated), Gradius the Draco, Tchori the Leuian (seated), Draffut the Drake (seated), Aliyah the Secian (seated), Twilight the Noble Secian (seated), Mandos the Drag-al, Grimfang the Noble Drake, Viator the Draco (seated), Midnight the Noble Secian (seated), Ceresina the Noble Secian, Syl the Secian (seated), Chip the Secian (seated), Clara the Secian (seated), Kiralyn the Secian, Mahtina the Noble Secian (seated), Tyviel'a the Great Dragon, Mikasi the Noble Draco (seated), Sapient the Noble Drake, and Jaldis the Novice Draco.
+Obvious exits: north* northeast* east* southeast* south*.
+>
+Tyviel'a says to Mahtina, "no, as long as there is a consistent amount of time put back in, once they have returned."
+
+Tyviel'a says, "And it is the original character."
+
+Mahtina nods.
+
+Tyviel'a says, "I cannot give out the exact hours counter we place on when staging is a go, but..."
+
+Tyviel'a says, "It is in place to ensure it is a primary character."
+
+Mahtina ponders the meaning of the universe for a moment.
+
+Sapient asks, "Primary character?"
+
+Mahtina asks Tyviel'a, "you wont stage non-primary?"
+
+Mahtina cackles.
+
+Tyviel'a says to Mahtina, "you do not count, you have 8 primaries."
+
+Tyviel'a murmurs something beneath his breath.
+gig
+You giggle.
+>
+Mahtina whistles.
+
+Syl chuckles.
+
+Aliyah says to Tyviel'a, "hahah, "
+
+Kiralyn grins.
+
+Gradius grins at Mahtina.
+' and no lyfe
+
+Glinka says, " and no lyfe"
+>
+Relawen chuckles.
+gig to ma
+You giggle to Mandos.
+gig to mah
+>You giggle to Mahtina.
+>
+Tyviel'a says, "What I mean is you need to put in a decent amount of time playing, not just the one year requirement."
+
+Aliyah nods to Grimfang.
+
+wink back Impishly!
+Mahtina winks at you.
+You wink back Impishly!
+>
+Ceresina rolls on the floor laughing.
+
+Syl sighs.
+
+Ceresina sits up.
+l
+
+Tyviel'a exclaims, "It averages to over one hour a day, for that year. And that is all I will say!"
+[OOC Inn.]
+
+You have just entered an alternate reality where Dragon's Gate is just a game. "Characters", are left outside, so that the "Players" can discuss anything they wish, Out Of Character.  An open wooden door, some open giant white wooden double-doors, and an open black door are here.
+
+This room is illuminated.
+You see the 1st calico cat (wearing a small gold collar).
+In the room are Starlyn the Secian (seated), Karon the Drake (seated), Relawen the Drake (seated), Equality the Noble Secian, Lilioth the Secian, Julia the Secian (seated), Gradius the Draco, Tchori the Leuian (seated), Draffut the Drake (seated), Aliyah the Secian (seated), Twilight the Noble Secian (seated), Mandos the Drag-al, Grimfang the Noble Drake, Viator the Draco (seated), Midnight the Noble Secian (seated), Ceresina the Noble Secian (seated), Syl the Secian (seated), Chip the Secian (seated), Clara the Secian (seated), Kiralyn the Secian, Mahtina the Noble Secian (seated), Tyviel'a the Great Dragon, Mikasi the Noble Draco (seated), Sapient the Noble Drake, and Jaldis the Novice Draco.
+Obvious exits: north* northeast* east* southeast* south*.
+>
+Tyviel'a asks, "Ok, anything else before the floor opens?"
+
+Tyviel'a asks Aliyah, "who is first, in that case?"
+
+Aliyah says, "karon you are up "
+
+Aliyah points at Karon.
+
+Karon says, "ahh that was quick"
+
+Karon says, "ok first are there talks or reworking dragon spells and second has there been any change on bond relation ships"
+
+Tyviel'a whistles.
+
+Mahtina sighs.
+
+Relawen says to Karon, "Don't touch my spells."
+
+Aliyah coughs.
+
+Relawen pokes Karon.
+
+Aliyah stares at Grimfang.
+
+Tyviel'a asks Karon, "hell, why don't you ask me where to find the mother lode?"
+
+Mandos nods.
+
+Tyviel'a murmurs something beneath his breath.
+
+Lilioth laughs.
+
+Gradius grins.
+
+The calico cat brings its ears back and twitches its tail.
+
+Karon smirks.
+
+Tyviel'a says, "Yes, spells will be changing. Mostly wording, a few effects here and there."
+
+Karon says, "ya said ask"
+
+The calico cat stretches its front paws.
+
+Ceresina asks Tyviel'a, "And the motherload would be where?"
+
+Ceresina grins at Tyviel'a.
+
+Relawen grins at Ceresina.
+
+Tyviel'a asks, "How soon? I had hoped two months ago, but it will get done."
+
+Tyviel'a says, "They are pretty much ready to go, need to gather the right people together and go from there."
+
+Relawen winks at Ceresina.
+
+Tyviel'a asks Karon, "can you clarify your question about Bondmates?"
+
+Karon asks, "oh hate to sound like a winer but anything about getting our true dragon gate back at 41 or anything or atleast as 3rds?"
+
+Mahtina holds Karon close.
+
+Mahtina says to Karon, "No tiers for you"
+
+Tyviel'a asks, "Trans across region?"
+
+Karon says, "oh bondmates, previous all drakes must have there bond mates active to even be considered for 3rd is that still in place"
+
+Tyviel'a says, "It is a possibility. We are looking to make a level 41 spell, since there is not currently one. And move some of the other levels around here and there."
+
+[ Night falls. The sun has set. ]
+
+Karon says to Tyviel'a, "yes and mainly mean a group trans"
+
+Tyviel'a says, "No group trans."
+
+The calico cat meows softly.
+
+Aliyah says, "why would dragons have a group trans, they are selfish as they grow up"
+
+The calico cat grooms itself.
+
+Karon says, "well region would be nice tiers would be fun to play with"
+
+Karon smirks.
+
+Kiralyn asks Karon, "Alone?"
+
+Karon nods to Kiralyn.
+
+Tyviel'a says to Karon, "for a drake to be considered for third stage, they would need an active Bondmate."
+
+Syl says to Karon, "wait until Syl learns the spell, he'll take you, if you're nice to him"
+
+Syl grins.
+
+Karon asks Tyviel'a, "how active is active?"
+
+Karon smirks.
+
+Karon's stomach growls.
+
+Twilight's stomach growls.
+
+Sapient's stomach growls.
+
+Relawen says to Aliyah, "Not selfish, just more introspectically inclined."
+
+Tyviel'a says, "Active."
+
+Mahtina asks Tyviel'a, "bondmate, or chosen?"
+
+Kiralyn nods up and down to Mahtina.
+
+Aliyah says to Relawen, "damn you politically correct people"
+
+Aliyah grumbles.
+
+Relawen winks.
+
+Jormungand just entered through an open wooden door.
+
+Karon says, "ubh gota wake her up more"
+
+Karon snorts.
+
+Sapient says, "it is highly difficult to attain that."
+l
+
+Tyviel'a says to Mahtina, "I knew that was coming :)"
+[OOC Inn.]
+
+You have just entered an alternate reality where Dragon's Gate is just a game. "Characters", are left outside, so that the "Players" can discuss anything they wish, Out Of Character.  An open wooden door, some open giant white wooden double-doors, and an open black door are here.
+
+This room is illuminated.
+You see the 1st calico cat (wearing a small gold collar).
+In the room are Starlyn the Secian (seated), Karon the Drake (seated), Relawen the Drake (seated), Equality the Noble Secian, Lilioth the Secian, Julia the Secian (seated), Gradius the Draco, Tchori the Leuian (seated), Draffut the Drake (seated), Aliyah the Secian (seated), Twilight the Noble Secian (seated), Mandos the Drag-al, Grimfang the Noble Drake, Viator the Draco (seated), Midnight the Noble Secian (seated), Ceresina the Noble Secian (seated), Syl the Secian (seated), Chip the Secian (seated), Clara the Secian (seated), Kiralyn the Secian, Mahtina the Noble Secian (seated), Tyviel'a the Great Dragon, Mikasi the Noble Draco (seated), Sapient the Noble Drake, Jaldis the Novice Draco, and Jormungand the Noble Draco.
+Obvious exits: north* northeast* east* southeast* south*.
+>
+Mahtina bats her eyes at Tyviel'a.
+
+Kiralyn says to Mahtina, "I was gonna ask it."
+
+Mahtina comforts Midnight.
+
+Kiralyn grins.
+
+Syl grins.
+
+Midnight chuckles.
+
+Tyviel'a says to Mahtina, "to be honest, it has not been discussed yet. Yet. I will place it on the list."
+
+Karon asks, "both I'd assume yes?"
+wh to jor the worrld serpent!
+You whisper to Jormungand.
+>
+Tyviel'a says, "Probably both."
+
+The calico cat is stalking something that you cannot see.
+
+Mahtina says, "Poor ooc stagings of aol drakes"
+
+The calico cat stretches its front paws.
+
+Jormungand whispers, "heh. not the most original, but it works."
+
+Tyviel'a exclaims, "It is game history both have happened in the past. But there is a fine line! A spider actually did stage someone on GEnie."
+
+Mahtina grumbles.
+wh to jor :: beams :
+i had one once
+You whisper to Jormungand.
+>What do you want to identify ? 
+>
+Kiralyn laughs.
+
+Jaldis says in Dragon, "wgt'u afatnegs bmho"
+
+Karon nods.
+wh to jor :: beams :
+i had one once
+You whisper to Jormungand.
+>What do you want to identify ? 
+>
+Sapient asks, "the elder was drunk, what can they say?"
+
+Sapient chuckles.
+
+Jormungand chuckles.
+
+Tyviel'a asks, "Elders, drunk?!"
+
+Karon says to Tyviel'a, "and tried again I hear"
+
+Tyviel'a gasps.
+
+Relawen grins at Tyviel'a.
+
+Midnight nods to Mahtina.
+
+Mandos laughs.
+chu softly, smiling...
+You chuckle softly, smiling...
+>
+Tyviel'a says, "I will have you know I do not drink any more as an elder. Or any less."
+
+Tyviel'a bows.
+
+smile
+wink at Jormungand
+Jormungand is looking at you.
+You smile.
+>
+>You wink at Jormungand.
+>
+Mahtina chuckles.
+
+Kiralyn says, "That's hilarious.  I have this image in my head now of an arach giggling over gems and sugar and nuzzling dragons..."
+
+Aliyah hums at Tyviel'a.
+
+Syl chuckles.
+
+Tyviel'a asks Karon, "anything else?"
+
+Mahtina comforts Kiralyn.
+
+Karon asks Tyviel'a, "can you wake my maggie up for me more?"
+
+Relawen stares at Kiralyn.
+
+Kiralyn glances.
+
+Mahtina says to Kiralyn, "it will haunt you forever. Nasty spiders"
+
+Karon says to Tyviel'a, "do that and I'll be good"
+
+Maggie tickles Karon before running away.
+
+Karon smirks.
+
+Ceresina shudders.
+
+Karon says, "ahh"
+
+Mikasi chuckles.
+
+Syl chuckles.
+
+Relawen grins at Ceresina.
+
+Aliyah chuckles.
+
+Karon says, "not bad"
+
+Tyviel'a exclaims to Aliyah, "next!"
+
+Karon says, "your good"
+
+Mahtina ponders the meaning of the universe for a moment.
+
+Starlyn says to Mahtina, "Nasty spiders, we hates them"
+
+Aliyah exclaims to Glinka, "you are up !"
+
+Starlyn ducks.
+stare
+You stare.
+>
+Aliyah laughs to Starlyn.
+stand very quickly, her long soft kinky pure whyte hair making a rustling sound...
+
+You stand up very quickly, her long soft kinky pure whyte hair making a rustling sound....
+>
+Mahtina smirks.
+inh deeply
+You inhale deeply.
+>
+Relawen winks at Ceresina.
+
+ I've got two thyngs...first, do  you guys thynk macro-actions are good or bad for RP?...or do they get annoying?....and Second, can someone explain the whole Wyvern... thyng... to me?
+Ignoring unknown command, "I've."
+' I've got two thyngs...first, do  you guys thynk macro-actions are good or bad for RP?...or do they get annoying?....and Second, can someone explain the whole Wyvern... thyng... to me?
+>
+Glinka asks, " I've got two thyngs...first, do  you guys thynk macro-actions are good or bad for RP?...or do they get annoying?....and Second, can someone explain the whole Wyvern... thyng... to me?"
+sit quietly with a wry smile upon her hyacinth lips...
+>You sit down quietly with a wry smile upon her hyacinth lips....
+' done
+>
+Glinka says, " done"
+>
+Ceresina shivers slightly to Relawen.
+
+hold Mahtina too!
+Mahtina holds you close.
+You hold Mahtina close too!
+>
+Tyviel'a says, "1st question."
+nod to ty
+You nod to Tyviel'a.
+>
+Xalisha, golden strands plaguing that ethereal visage, just entered through an open wooden door.
+
+Mahtina says to Glinka, "I like your actions"
+
+Xalisha sits down.
+
+Starlyn gazes at you.
+
+smile
+wink at Kiralyn
+Kiralyn is looking at you.
+You smile.
+>
+>You wink at Kiralyn.
+>
+Aliyah nods to Mahtina.
+
+Kiralyn snickers.
+' thaks
+
+Glinka says, " thaks"
+hic
+>You hiccup.
+>
+Aliyah says, "they aren't as bad as like...Shayra's were"
+
+The calico cat stretches its front paws.
+
+Starlyn laughs.
+
+Tyviel'a says, "I have no problems with your macros if that is what you are asking. It takes imagination and effort, and that is half the battle."
+
+Mahtina blanches.
+
+wav at Kiralyn happily
+Kiralyn waves at you.
+You wave at Kiralyn happily.
+>
+Kiralyn whistles.
+smile at ty softly
+You smile at Tyviel'a softly.
+>
+Maiz's group just entered through an open wooden door.
+
+Maiz grunts.
+gig to kir
+You giggle to Kiralyn.
+>
+Maiz sits down.
+
+Amedeo sits down.
+
+Maiz pokes Tyviel'a.
+
+Equality, wearing his blue pajamas, just appeared.
+
+smi at Kiralyn softly, winking..
+Kiralyn smiles at you.
+You smile at Kiralyn softly, winking..
+>
+Karon whispers, "besides nice hair"
+
+Starlyn leans on Xalisha.
+
+Maiz says in Secian, "Didnt see you "
+
+Relawen comforts Equality.
+gri
+
+Tyviel'a says, "On a broader subject, I have found that the people that ATTEMPT to RP, do a decent job. Effort is half that battle,t oo."
+You grin.
+>
+Kiralyn ducks.
+
+Equality winks to Relawen.
+
+Xalisha bats her eyes at Starlyn.
+
+Starlyn asks Tyviel'a, "As is typing?"
+
+Mahtina cackles.
+
+Mikasi grins.
+
+Tyviel'a asks Xalisha, "are you late?"
+gri
+You grin.
+>
+Tyviel'a stares at Xalisha.
+
+Syl yawns and daydreams a short bit.
+l
+[OOC Inn.]
+
+You have just entered an alternate reality where Dragon's Gate is just a game. "Characters", are left outside, so that the "Players" can discuss anything they wish, Out Of Character.  An open wooden door, some open giant white wooden double-doors, and an open black door are here.
+
+This room is illuminated.
+You see the 1st calico cat (wearing a small gold collar).
+In the room are Starlyn the Secian (seated), Karon the Drake (seated), Relawen the Drake (seated), Equality the Noble Secian, Lilioth the Secian, Julia the Secian (seated), Gradius the Draco, Tchori the Leuian (seated), Draffut the Drake (seated), Aliyah the Secian (seated), Twilight the Noble Secian (seated), Maiz the Drake (seated), Mandos the Drag-al, Amedeo the Drake (seated), Grimfang the Noble Drake, Viator the Draco (seated), Midnight the Noble Secian (seated), Ceresina the Noble Secian (seated), Syl the Secian (seated), Chip the Secian (seated), Clara the Secian (seated), Kiralyn the Secian, Mahtina the Noble Secian (seated), Tyviel'a the Great Dragon, Mikasi the Noble Draco (seated), Sapient the Noble Drake, Jaldis the Novice Draco, Jormungand the Noble Draco, and Xalisha the Noble Secian (seated).
+Obvious exits: north* northeast* east* southeast* south*.
+>
+Xalisha fidgets.
+
+Relawen says, "Uh-oh."
+
+Xalisha says, "tyl, No.."
+
+Xalisha gulps.
+
+Relawen glances at Xalisha.
+
+Xalisha coughs.
+
+Tyviel'a says to Xalisha, "you must renounce your staff now."
+
+Relawen comforts Xalisha.
+
+Tyviel'a pulls Xalisha closer to him.
+
+Aliyah exclaims, "lets choke her!"
+
+Xalisha shrieks.
+
+Aliyah coughs.
+cac
+You cackle.
+>
+Xalisha exclaims, "Never!"
+
+Karon says, "ohhhhh"
+
+Starlyn grins at Jaldis.
+
+Tyviel'a says to Glinka, "and as for your second question:"
+nod to ty
+You nod to Tyviel'a.
+list
+>You listen intently.
+>
+The calico cat stretches its front paws.
+
+Tyviel'a says, "Wyverns. I am sorry to do this to you, but I want you all to talk IG about that stuff."
+flai
+You flail your arms about wildly.
+>
+Tchori grins.
+
+Tchori nods.
+pout
+You pout.
+>
+Lilioth sighs.
+
+Mahtina chuckles.
+
+Relawen says, "All Wyverns must die, and the Human mage needs to be stripped naked, painted red and blue, and sent off to the Great Divide while everyone laughs at him."
+
+Tyviel'a says to Glinka, "that is part of the scenario, uniting those who want to know, who care, who give a damn."
+
+Jormungand whispers, "i havnt had anyone else pick up on that yet. at least no one has said anything about it. You know much norse lore, yes?"
+
+Aliyah stares at Relawen.
+
+Chip nods at Relawen in agreement.
+
+Relawen nods to Aliyah firmly.
+
+Aliyah says to Tyviel'a, "say.."
+
+Mahtina says to Glinka, "You can pretty much ask any of us, we'll fill you in."
+
+Aliyah asks Tyviel'a, "do all secians have to give a damn?"
+
+Aliyah ducks.
+wh to jor i read the Beowulf only..an a bit more
+You whisper to Jormungand.
+>
+Draffut asks Relawen, "are you laughing at him cause he's painted red?"
+
+Draffut pouts.
+
+Mahtina snickers at Aliyah.
+
+Tyviel'a says to Aliyah, "I see no reason you have to care about some Imperial's lair, in a far off city."
+
+Clara grins at Aliyah.
+beam to mah
+You beam to Mahtina.
+>
+Tyviel'a says to Aliyah, "that is your character's choice."
+nod to ty
+You nod to Tyviel'a.
+>
+Relawen comforts Draffut.
+
+Aliyah mumbles but people will think Aliyah's a meanie!
+
+Karon says to Relawen, "I actually saw that human but it left very quick"
+
+Aliyah grumbles loudly.
+
+Relawen says to Draffut, "You're a nicer shade of red."
+
+Tyviel'a says to Glinka, "a good number of those present know quite a bit about it."
+
+Twilight says, "If I were around enough to RP another char other than Mommy I'd actually know what everyone was talking about."
+
+Starlyn says to Aliyah, "Nah, not with Starlyn around"
+
+Mahtina says to Aliyah, "We'll just chain you up later as the offering"
+
+Starlyn chuckles.
+
+Draffut beams at Relawen.
+
+Twilight smirks.
+
+Mandos nods.
+
+Relawen winks.
+' thank you
+
+Glinka says, " thank you"
+>
+Aliyah grins to Starlyn.
+
+Aliyah nods.
+
+Kiralyn grins at Xalisha.
+smile at ty softly
+You smile at Tyviel'a softly.
+>
+Jormungand whispers, "ya, i should get to that. I think it's actually anglo-saxon in translation or production so i havnt read it yet. damn anglos"
+
+Aliyah flails her arms about wildly at Mahtina.
+
+The calico cat purrs almost silently.
+gri to tw
+You grin to Twilight.
+>
+Aliyah asks Draffut, "up next Redness..unless we aren't done?"
+
+Tyviel'a says, "From a secian standpoint, you should be able to find out the going-ons pretty easy."
+wh to jor :: giggles::
+You whisper to Jormungand.
+>
+Aliyah shuffles her feet.
+
+Tyviel'a says, "If you are a dragon, might be harder. Dragons tend to hoard information like treasure. Perfectly acceptable, though makes my job a lot harder."
+nod softly
+You nod softly.
+>
+Mahtina chuckles.
+
+Viator smiles.
+
+Draffut says, "just a simple question..."
+
+Mahtina comforts Relawen.
+
+Karon smirks.
+
+Relawen winks at Mahtina.
+
+Tyviel'a says to Draffut, "if on this subject, go ahead."
+
+Draffut says, "oops..i'll wait ti"
+
+Aliyah blushes.
+
+Tyviel'a asks Glinka, "anything else?"
+
+Draffut pokes Aliyah.
+' all done, and thanks to all
+
+Glinka says, " all done, and thanks to all"
+>
+Amedeo removes his emerald-hilted steel parrying dagger.
+curt
+You curtsy.
+>
+Tyviel'a exclaims to Aliyah, "next!"
+
+Aliyah pinches Draffut.
+
+Aliyah exclaims to Draffut, "now you go!"
+
+Relawen grins.
+
+Tyviel'a leans on Draffut.
+
+Karon asks, "does the wyrvens have anything to do with the spur issue?"
+
+Draffut says, "uh-huh"
+
+Starlyn nods up and down to Jaldis.
+
+Relawen says to Aliyah, "That won't make him any redder."
+
+Karon says, "oopse"
+
+Mahtina just removed a rose scented cupid cookie from within her open yellow silk duck-shaped gift box.
+You see Mahtina take a bite of her rose scented cupid cookie.
+You see Mahtina take a bite of her rose scented cupid cookie.
+
+Draffut asks, "they had said only five were staging to third....with Dep returning does that leave only 1 spot left?"
+
+Mahtina just placed a rose scented cupid cookie within her open yellow silk duck-shaped gift box.
+
+Mahtina ponders the meaning of the universe for a moment.
+
+Relawen blinks.
+
+The calico cat grooms itself.
+
+Mahtina raises an eyebrow at Draffut.
+
+Relawen asks Draffut, "They what?"
+
+Tyviel'a says, "There have never been any hard numbers on the number of thirds."
+
+Mahtina asks, "Five?"
+
+Mahtina nods.
+
+Draffut says, "that's what i have been told"
+
+Karon's stomach growls.
+
+Twilight's stomach growls.
+
+You are starting to feel thirsty.
+
+Sapient's stomach growls.
+
+Jormungand's stomach growls.
+
+Relawen fidgets.
+
+Starlyn murmurs I love rumors.
+
+Tyviel'a says, "Ok, I am telling you otherwise :)"
+
+Draffut says, "great"
+
+Xalisha says, "me too"
+
+Xalisha beams to Starlyn.
+
+Draffut says, "okay question answered"
+
+Tyviel'a says, "And when and if we all see Depravato'a, it will be a party day. I will see it when I believe it."
+
+Starlyn grins.
+
+Relawen just removed an amethyst encrusted moonsilver tankard from within her open white wicker basket.
+You see Relawen take a drink from her amethyst encrusted moonsilver tankard.
+You see Relawen take a drink from her amethyst encrusted moonsilver tankard.
+
+Aliyah pulls Xalisha closer to her and whispers a rumor to her.
+
+Tyviel'a says, "For more than a night"
+
+Mahtina says to Tyviel'a, "He was up"
+
+Aliyah exclaims, "i saw Depravato'a!"
+
+Mahtina nods.
+
+Relawen just placed an amethyst encrusted moonsilver tankard within her open white wicker basket.
+
+Karon says to Tyviel'a, "the evil female mage issue"
+
+Xalisha gasps.
+
+Aliyah taunts Tyviel'a.
+
+Losmir just entered through an open wooden door.
+l
+[OOC Inn.]
+
+You have just entered an alternate reality where Dragon's Gate is just a game. "Characters", are left outside, so that the "Players" can discuss anything they wish, Out Of Character.  An open wooden door, some open giant white wooden double-doors, and an open black door are here.
+
+This room is illuminated.
+You see the 1st calico cat (wearing a small gold collar).
+In the room are Starlyn the Secian (seated), Karon the Drake (seated), Relawen the Drake (seated), Equality the Noble Secian, Lilioth the Secian, Julia the Secian (seated), Tchori the Leuian (seated), Draffut the Drake (seated), Aliyah the Secian (seated), Twilight the Noble Secian (seated), Maiz the Drake (seated), Mandos the Drag-al, Amedeo the Drake (seated), Grimfang the Noble Drake, Viator the Draco (seated), Midnight the Noble Secian (seated), Ceresina the Noble Secian (seated), Syl the Secian (seated), Chip the Secian (seated), Clara the Secian (seated), Kiralyn the Secian, Mahtina the Noble Secian (seated), Tyviel'a the Great Dragon, Mikasi the Noble Draco (seated), Sapient the Noble Drake, Jaldis the Novice Draco, Losmir the Draco, Jormungand the Noble Draco, and Xalisha the Noble Secian (seated).
+Obvious exits: north* northeast* east* southeast* south*.
+>
+Relawen waves to Losmir.
+
+Xalisha exclaims to Aliyah, "No way!"
+
+Lilioth pulls Losmir closer to her.
+
+The calico cat purrs softly.
+
+Kiralyn says, "I saw the name log in."
+
+Kiralyn glances.
+
+Aliyah nods to Xalisha.
+
+Tyviel'a says, "I saw him too. I staged him back up :P"
+who range race
+
+Lilioth grins widely.
+List will be restricted to those within range.
+Race who list activated!
+
+                Current Secian Adventurers:
+
+Current Adventurers
+
+ Starlyn Sylverkiss                  Equality Everlove                  
+ Lilioth Golden                      Julia Fayre                        
+ Aliyah D'arcy                       Twilight Flutal                    
+ Charis Avallach                     Glinka Dragondsfriend              
+ Midnight Raine                      Ceresina Astrale                   
+ Syl Trint                           Chip Faraway                       
+ Clara Effain                        Kiralyn Averendil                  
+ Mahtina Raine                       Xalisha Larik                      
+
+You notice 16 adventurers.
+>
+Kiralyn asks, "Does that count?"
+
+Xalisha flails her arms about wildly.
+
+Losmir smiles and waves to everybody.
+
+Mahtina cackles.
+
+Xalisha pulls Starlyn closer to her.
+
+Aliyah grins to Tyviel'a.
+
+Karon says to Aliyah, "years ago"
+
+Mahtina says to Tyviel'a, "That was ammusing."
+
+Tyviel'a asks Draffut, "anything else?"
+l
+[OOC Inn.]
+
+You have just entered an alternate reality where Dragon's Gate is just a game. "Characters", are left outside, so that the "Players" can discuss anything they wish, Out Of Character.  An open wooden door, some open giant white wooden double-doors, and an open black door are here.
+
+This room is illuminated.
+You see the 1st calico cat (wearing a small gold collar).
+In the room are Starlyn the Secian (seated), Karon the Drake (seated), Relawen the Drake (seated), Equality the Noble Secian, Lilioth the Secian, Julia the Secian (seated), Tchori the Leuian (seated), Draffut the Drake (seated), Aliyah the Secian (seated), Twilight the Noble Secian (seated), Maiz the Drake (seated), Mandos the Drag-al, Amedeo the Drake (seated), Grimfang the Noble Drake, Viator the Draco (seated), Midnight the Noble Secian (seated), Ceresina the Noble Secian (seated), Syl the Secian (seated), Chip the Secian (seated), Clara the Secian (seated), Kiralyn the Secian, Mahtina the Noble Secian (seated), Tyviel'a the Great Dragon, Mikasi the Noble Draco (seated), Sapient the Noble Drake, Jaldis the Novice Draco, Losmir the Draco, Jormungand the Noble Draco, and Xalisha the Noble Secian (seated).
+Obvious exits: north* northeast* east* southeast* south*.
+>
+Xalisha says to Starlyn, "I heard Dep is around"
+
+Starlyn leans on Xalisha.
+
+Aliyah says to Karon, "no at stanny's wedding"
+
+Losmir sits down next to Lilioth.
+
+Tyviel'a says to Aliyah, "yes."
+
+Lilioth nuzzles Losmir.
+
+Karon smirks.
+
+Lilioth sits down.
+
+Starlyn says to Xalisha, "Don't hold your breath"
+
+Starlyn chuckles.
+
+Draffut says, "yes, but i'll write this one, sorta hard to explain"
+
+Xalisha inhales deeply.
+
+Draffut says, "thanks"
+
+Tyviel'a says to Draffut, "alright."
+
+Tyviel'a exclaims to Aliyah, "next!"
+
+Aliyah says to Losmir, "so if you gotta qeustion, whisper your name to me"
+
+Losmir nods up and down to Aliyah.
+
+Any questions wanting answered, whisper to Aliyah to be placed on the list!
+
+Aliyah exclaims to Losmir, "next!"
+
+The calico cat stretches its front paws.
+
+Aliyah snickers.
+cac
+You cackle.
+>
+Losmir says, "Already"
+
+Starlyn says to Aliyah, "Wow, how'd ya do that"
+
+Starlyn whistles.
+
+Kiralyn grins.
+
+Lilioth grins at Losmir.
+
+Losmir chuckles.
+
+Aliyah says to Starlyn, "magick..."
+
+Aliyah nods.
+
+Xalisha grins.
+
+Starlyn gapes.
+
+Tyviel'a asks Losmir, "weren't you supposed to ask me something?"
+
+Tyviel'a grins.
+
+Losmir grins at Tyviel'a.
+
+Losmir says, "Yep"
+
+Tyviel'a asks Losmir, "is that your question?"
+
+Xalisha exclaims to Aliyah, "Teach me magic!"
+
+Losmir says, "Yes, that is it"
+
+Tyviel'a says, "Losmir reminded me of something that I needed to go over, at the start."
+
+Losmir beams.
+l at gl
+You find something suitably reflective and gaze into it...
+
+You look like a 1'2" standard adolescent delicate boned, wirey-tough bodied Secian Cleric.
+You are seated.
+You have very long, wild, kinky white hair with a white streak, heavy lidded pale red eyes, and look disheveled.
+You appear to be scared right now.
+You can be attacked by other players.
+
+On her breast is a small crescent shaped birthmark.
+
+On her neck is a purple marked tattoo of the house of Mandor.
+
+On her belly is a tark tribal circle around the navel.
+
+On her back are glimmering deep Hyacinth wings with draconic runes in Golde upon them.
+
+You appear to be in perfect health.
+There is a shining gold emblem affixed to your clothing.
+
+Physical appearance:
+
+You see an ageless, tymless, spryte with long wild kinky whyte hair with a glowing whyte streak and sleepy eyes...
+
+                        Visible Equipment
+Some heavy bone studded steelwood brigandine       (armor)
+A tiny moonsilver tongue piercing                  (on head)
+A moon shaped ivory talisman                       (around neck)
+Some twinkling rainbow crystal bangles             (over hands)
+A pair of ornate silver toe rings                  (on feet)
+A silver ring                                      (ring (left))
+A crescent moon earring                            (right ear)
+A silver serpentine hoop                           (left ear)
+An old multicolored gypsy robe                     (dress)
+
+You have been bestowed the following title(s):
+  Noble of the Realm
+
+>
+Tyviel'a says, "This is always fun:"
+Tyviel'a picks up Grimfang and throws him into the air.
+
+Grimfang just fell 250 feet!
+Grimfang is hit in the head!
+
+Tyviel'a says to Grimfang, "so is that."
+transfer damage from gr 10
+
+Kiralyn cackles.
+Target is not injured!
+>
+Starlyn laughs.
+
+Mikasi just appeared.
+
+Chip claps.
+
+Xalisha snickers.
+
+Syl chuckles.
+
+Jormungand blinks.
+
+Relawen applauds.
+
+Grimfang mutters something beneath his breath.
+
+Aliyah howls.
+
+Losmir laughs.
+
+The calico cat stretches its front paws.
+chu
+You chuckle.
+>
+Aliyah claps.
+diag all
+
+Aliyah pets Grimfang.
+
+  You examine Starlyn the Secian...
+She appears to be in perfect health.
+  You examine Karon the Dragon...
+He appears to be in perfect health.
+  You examine Relawen the Dragon...
+She appears to be in perfect health.
+  You examine Equality the Secian...
+He appears to be in perfect health.
+  You examine Lilioth the Secian...
+She appears to be in perfect health.
+  You examine Julia the Secian...
+She appears to be in perfect health.
+  You examine Tchori the Leuian...
+He appears to be in perfect health.
+  You examine Draffut the Dragon...
+He appears to be in perfect health.
+  You examine Aliyah the Secian...
+She appears to be in perfect health.
+  You examine Twilight the Secian...
+She appears to be in perfect health.
+  You examine Maiz the Dragon...
+He appears to be in perfect health.
+  You examine Mandos the Drag-al...
+He appears to be in perfect health.
+  You examine Amedeo the Dragon...
+He appears to be in perfect health.
+  You examine Grimfang the Dragon...
+He appears to be in perfect health.
+  You examine Mikasi the Dragon...
+She appears to be in perfect health.
+  You examine Viator the Dragon...
+He appears to be in perfect health.
+  You examine Midnight the Secian...
+She appears to be in perfect health.
+  You examine Ceresina the Secian...
+She appears to be in perfect health.
+  You examine Syl the Secian...
+He appears to be in perfect health.
+  You examine Chip the Secian...
+He appears to be in perfect health.
+  You examine Clara the Secian...
+She appears to be in perfect health.
+  You examine Kiralyn the Secian...
+She appears to be in perfect health.
+  You examine Mahtina the Secian...
+She appears to be in perfect health.
+  You examine Tyviel'a the Dragon...
+He appears to be in perfect health.
+  You examine Sapient the Dragon...
+He appears to be in perfect health.
+  You examine Jaldis the Dragon...
+He appears to be in perfect health.
+  You examine Losmir the Dragon...
+He appears to be in perfect health.
+  You examine Jormungand the Dragon...
+He appears to be in perfect health.
+  You examine Xalisha the Secian...
+She appears to be in perfect health.
+
+>
+Grimfang says, "i hope you die"
+
+Grimfang stands up.
+
+Tyviel'a says, "Anyway, to what Losmir wrote me recently."
+
+Kiralyn smiles as she kilz U again.
+
+Tchori asks, "do again? I think you can get at least 3 bounces outta him"
+
+Mandos dances around the room happily.
+
+Relawen grins at Tyviel'a.
+
+Starlyn says to Tchori, "I heard Leuians bounce better"
+
+Tyviel'a says, "Dracos and how they tend to act. They do NOT have to be aloof, standoffish, secluded, grumpy, mortal-hating, etc etc."
+
+Mahtina beams.
+
+Viator chuckles.
+l
+[OOC Inn.]
+
+You have just entered an alternate reality where Dragon's Gate is just a game. "Characters", are left outside, so that the "Players" can discuss anything they wish, Out Of Character.  An open wooden door, some open giant white wooden double-doors, and an open black door are here.
+
+This room is illuminated.
+You see the 1st calico cat (wearing a small gold collar).
+In the room are Starlyn the Secian (seated), Karon the Drake (seated), Relawen the Drake (seated), Equality the Noble Secian, Lilioth the Secian (seated), Julia the Secian (seated), Tchori the Leuian (seated), Draffut the Drake (seated), Aliyah the Secian (seated), Twilight the Noble Secian (seated), Maiz the Drake (seated), Mandos the Drag-al, Amedeo the Drake (seated), Grimfang the Noble Drake, Mikasi the Noble Draco (seated), Viator the Draco (seated), Midnight the Noble Secian (seated), Ceresina the Noble Secian (seated), Syl the Secian (seated), Chip the Secian (seated), Clara the Secian (seated), Kiralyn the Secian, Mahtina the Noble Secian (seated), Tyviel'a the Great Dragon, Sapient the Noble Drake, Jaldis the Novice Draco, Losmir the Draco (seated), Jormungand the Noble Draco, and Xalisha the Noble Secian (seated).
+Obvious exits: north* northeast* east* southeast* south*.
+>
+Karon laughs.
+
+Tchori grins at Starlyn.
+l at vi
+
+Viator looks like a 6'6" standard 1st stage delicate boned, wirey-tough bodied Dragon.
+He is seated.
+He has long, medium hair, with silvery gray eyes, and looks neat.
+He appears to be mischievous right now.
+He can be attacked by other players.
+He appears to be in perfect health.
+                        Visible Equipment
+A bone shield                                      (shield)
+Some midnight blue broadcloth pants                (pants)
+A midnight blue silk shirt                         (shirt)
+>
+Xalisha grins.
+
+Tyviel'a says, "A draco is a creature searching for themselves, searching what path to take, what they are."
+' what do they look like?
+
+Glinka asks, " what do they look like?"
+>
+Mahtina cackles.
+
+Starlyn snickers.
+
+Tyviel'a says, "They can be happy, have friends, whatever. It is a pretty open RP choice."
+
+Viator says, "I figured I was too mature to be snotty...and too young to be snooty"
+
+Tyviel'a says to Glinka, "you had to ask that."
+
+Tyviel'a whines.
+gig
+You giggle.
+com ty
+>You comfort Tyviel'a.
+>
+Starlyn says to Tyviel'a, "Yeah...  what DO they look like"
+
+Starlyn whistles.
+
+Tyviel'a says, "Humanoid."
+gri to vi
+
+Tyviel'a says, "There you go."
+You grin to Viator.
+>
+Jormungand whispers, "ok, i'm bored. cant stand these rambling meetings. take care"
+
+Aliyah says, "there was this great roleplay last night...yggrasdil..or whatever his name was was perfect"
+
+Jormungand just went through an open wooden door.
+
+Starlyn glances at Tyviel'a.
+
+Tyviel'a says to Aliyah, "the world tree, yes."
+
+Aliyah says, "annoyed netraa and a few leuians to no extent"
+
+Mahtina says to Aliyah, "Iggy"
+
+Aliyah nods up and down.
+
+Kiralyn says to Aliyah, "Yggdrasil."
+
+Clara asks Tyviel'a, "Is it ACCEPTABLE for a Draco to be skiddish and/or easily irritable, though?"
+
+Mahtina says to Aliyah, "He's new, and I love him"
+' world serpent
+
+Glinka says, " world serpent"
+>
+Tchori smiles.
+nod yes
+
+Tyviel'a says to Clara, "yes."
+You nod up and down.
+>
+Mahtina nods to Midnight.
+
+Clara beams at Tyviel'a.
+
+Relawen says to Clara, "It's a phase."
+
+Kiralyn says, "I remember how to spell it because it was the airship in Xenogears."
+
+Kiralyn grins.
+
+Syl grins.
+
+Tyviel'a says, "I just do not want to see draco players being forced into acting like Imperials."
+
+Starlyn chuckles.
+
+Clara nods to Tyviel'a.
+
+Tchori says, "and dying for it"
+
+Starlyn says, "Its from norse mythology actually"
+
+Tchori smiles.
+
+Karon smirks.
+
+Kiralyn cackles at Equality.
+
+Tyviel'a says, "Even young drakes really are not like that, they are more brash teenagers, happy about their new bodies but not too smart in how to use them."
+nod to star
+
+Equality grins to Kiralyn.
+You nod to Starlyn.
+>
+Draffut nods up and down at Tchori.
+
+Mikasi furrows her brow.
+
+The calico cat is stalking something that you cannot see.
+
+Tyviel'a says, "Generally. There are exceptions all around."
+
+Karon says, "here here were all kids"
+
+Relawen raises an eyebrow at Karon.
+
+Aliyah exclaims to Karon, "so no kissy face mr Karon!"
+
+Tyviel'a says, "Your older drakes and up, are your more aloof, secluded, arrogant, proud types."
+
+Aliyah ducks.
+
+Mahtina snickers.
+appear mood arr
+
+>
+Tyviel'a says, "But, that is in general. Still room for other types, minus the firm RP rules."
+
+Karon says to Tyviel'a, "I gota be arrogant"
+
+Karon snorts at Tyviel'a.
+' we need an Arrogant MOOD in the list
+
+Glinka says, " we need an Arrogant MOOD in the list"
+smile at ty softly
+>You smile at Tyviel'a softly.
+>
+Starlyn says, "Nothing like living to a ripe, bitter, old age"
+appear mood allo
+
+>
+Glinka is now arrogant.
+appear mood aloo
+
+You are now aloof.
+
+>
+Xalisha nods.
+how
+You howl.
+>
+Xalisha grins.
+
+(Aliyah arrong)
+
+Relawen chuckles.
+
+Aliyah coughs.
+
+Glinka is now arrogant AGAIN.
+flai
+You flail your arms about wildly.
+>
+Viator asks, "so when I get old I can't be playful?"
+
+Xalisha laughs.
+
+Viator ponders that.
+
+Chip chuckles.
+
+Syl chuckles.
+
+Kiralyn chuckles.
+
+Aliyah says to Viator, "in private"
+
+Relawen comforts you.
+appear mood happy
+appear mood aris
+appear mood sad
+appear mood mad
+appear mood party
+appear mood happy
+appear mood play
+appear mood sassy
+appear mood over
+appear mood amour
+appear mood friv
+appear mood non
+appear mood amus
+appear mood lov
+appear mood misc
+
+You are now happy.
+
+>
+You are now aristocratic.
+
+>
+You are now sad.
+
+>
+>
+You are now partying.
+
+>
+You are now happy.
+
+>
+You are now playful.
+
+>
+You are now sassy.
+
+>
+You are now overjoyed.
+
+>
+>
+You are now frivolous.
+
+>
+You are now non-plussed.
+
+>
+You are now amused.
+
+>
+You are now loving.
+
+>
+You are now mischievous.
+
+fli
+>You stick your tongue out.
+>
+Kiralyn flails her arms about wildly.
+
+Aliyah says, "er..that didn't sound so good"
+
+Mahtina beams at you.
+
+Clara shrieks.
+
+Mikasi glances at you.
+
+Karon smirks at you.
+
+Relawen says, "I think she's having a breakdown."
+
+Kiralyn says, "Geez.  Glinka has issues."
+
+Starlyn says, "vai, All dragons are different"
+cac
+You cackle.
+>
+Equality comforts you.
+
+Mandos mumbles sezo.
+
+Viator chuckles.
+
+Aliyah says to Kiralyn, "Alarians...ya know"
+
+Tyviel'a says, "I think Aliyah answered that well, most older dragons would not be playful in public."
+
+Sapient stares at you, passing her some Wellbutrin.
+
+Relawen nods to Draffut.
+
+Syl nods.
+
+Tyviel'a says, "Most."
+beam to ali
+You beam to Aliyah.
+>
+Mahtina chuckles.
+
+Tyviel'a says, "Unless playing with prey :)"
+
+Maiz just appeared.
+
+Maiz furrows his brow.
+gig to sap
+You giggle to Sapient.
+>
+Viator chuckles.
+
+Tyviel'a asks Losmir, "did I cover that?"
+
+Losmir chuckles.
+
+Aliyah grins to Tyviel'a.
+
+Karon sighs.
+
+Losmir asks, "Yes, I think so.  Did you get my response about the manual, though?"
+
+Tyviel'a says to Losmir, "I did, and will give that my proper attention."
+
+Losmir nods to Tyviel'a.
+
+Mahtina says, "can someone take out the boobie picture."
+
+Mahtina whines.
+
+Tyviel'a says to Losmir, "thank you for bringing it up."
+
+Tyviel'a says to Mahtina, "..."
+rai at mah
+You raise an eyebrow at Mahtina.
+>
+Viator blinks.
+
+Losmir says to Tyviel'a, "Thank you.  And you're welcome"
+
+Starlyn furrows her brow.
+
+Losmir grins at Tyviel'a.
+
+Relawen nods to Draffut.
+
+Karon raises an eyebrow at Mahtina.
+
+Tyviel'a says to Mahtina, "working on that."
+
+Viator says to Mahtina, "I missed that"
+
+Mahtina says, "The manual's draco pic."
+
+Mahtina shudders.
+
+The calico cat is stalking something that you cannot see.
+
+Ceresina grins at Mahtina.
+
+Kiralyn exclaims to Mahtina, "Oh!"
+
+Kiralyn laughs.
+
+Losmir grins at Mahtina.
+
+Karon says, "ahh that odd looking female thing"
+
+Starlyn chuckles.
+
+Tyviel'a says, "As you all know, getting information back from Darrin on almost anything is hard."
+
+Mahtina cackles.
+
+Tyviel'a asks, "But draco breasts? Next to impossible."
+
+Karon's stomach growls.
+
+Twilight's stomach growls.
+
+Syl's stomach growls.
+
+Sapient's stomach growls.
+
+Tyviel'a exclaims, "Moving on!"
+
+Tyviel'a asks Aliyah, "next?"
+
+Relawen glances down at her chest.
+
+Karon smirks.
+
+Relawen ponders the meaning of the universe for a moment.
+list to ali
+You listen intently to Aliyah.
+>
+Amedeo tickles Relawen.
+
+Relawen flails her arms about wildly.
+
+Aliyah says to Maiz, "shoot your question lad"
+
+Chip grins at Relawen.
+
+Xalisha grits her teeth on Grimfang's leg.
+
+Maiz says in Secian, "I understand the manual says as dragons get older they become aloof."
+
+Mahtina ducks.
+
+Mikasi pokes Maiz.
+
+Karon smirks.
+
+Maiz grunts.
+
+Mahtina says, "he was kicked out, he missed it"
+
+Mahtina comforts Maiz.
+
+Maiz asks, "My question is must they avoid all but secians?"
+
+The calico cat stretches its front paws.
+l
+[OOC Inn.]
+
+You have just entered an alternate reality where Dragon's Gate is just a game. "Characters", are left outside, so that the "Players" can discuss anything they wish, Out Of Character.  An open wooden door, some open giant white wooden double-doors, and an open black door are here.
+
+This room is illuminated.
+You see the 1st calico cat (wearing a small gold collar).
+In the room are Starlyn the Secian (seated), Karon the Drake (seated), Relawen the Drake (seated), Equality the Noble Secian, Lilioth the Secian (seated), Julia the Secian (seated), Tchori the Leuian (seated), Draffut the Drake (seated), Aliyah the Secian (seated), Twilight the Noble Secian (seated), Maiz the Drake (seated), Mandos the Drag-al, Amedeo the Drake (seated), Grimfang the Noble Drake, Mikasi the Noble Draco (seated), Viator the Draco (seated), Midnight the Noble Secian (seated), Ceresina the Noble Secian (seated), Syl the Secian (seated), Chip the Secian (seated), Clara the Secian (seated), Kiralyn the Secian, Mahtina the Noble Secian (seated), Tyviel'a the Great Dragon, Sapient the Noble Drake, Jaldis the Novice Draco, Losmir the Draco (seated), and Xalisha the Noble Secian (seated).
+Obvious exits: north* northeast* east* southeast* south*.
+>
+Maiz asks, "Or is that up to each individual third stager?"
+
+Syl hugs Ceresina.
+
+Syl hugs Midnight.
+
+Tyviel'a says, "No. There are all sorts of ways to view an older drake, and their associations with "mortals". They could form alliances, partnerships, followers, fear people into following them, use them, or truely befriend some."
+
+Tyviel'a says, "Or a third stager."
+l
+[OOC Inn.]
+
+You have just entered an alternate reality where Dragon's Gate is just a game. "Characters", are left outside, so that the "Players" can discuss anything they wish, Out Of Character.  An open wooden door, some open giant white wooden double-doors, and an open black door are here.
+
+This room is illuminated.
+You see the 1st calico cat (wearing a small gold collar).
+In the room are Starlyn the Secian (seated), Karon the Drake (seated), Relawen the Drake (seated), Equality the Noble Secian, Lilioth the Secian (seated), Julia the Secian (seated), Tchori the Leuian (seated), Draffut the Drake (seated), Aliyah the Secian (seated), Twilight the Noble Secian (seated), Maiz the Drake (seated), Mandos the Drag-al, Amedeo the Drake (seated), Grimfang the Noble Drake, Mikasi the Noble Draco (seated), Viator the Draco (seated), Midnight the Noble Secian (seated), Ceresina the Noble Secian (seated), Chip the Secian (seated), Clara the Secian (seated), Kiralyn the Secian, Mahtina the Noble Secian (seated), Tyviel'a the Great Dragon, Sapient the Noble Drake, Jaldis the Novice Draco, Losmir the Draco (seated), and Xalisha the Noble Secian (seated).
+Obvious exits: north* northeast* east* southeast* south*.
+>
+Tyviel'a says, "Or, they could ignore all and stick with their secian."
+
+Tyviel'a says, "Or secians."
+
+Maiz says, "I was really talking about third stagers"
+stare at ty
+You stare at Tyviel'a.
+>
+Relawen says, "Give me amethysts and you can call yourself my friend."
+
+Relawen nods.
+
+Chip smiles.
+
+Tyviel'a says to Maiz, "same holds true for both."
+
+Karon pokes Relawen.
+pon polygamist drakes
+You ponder polygamist drakes.
+>
+Starlyn giggles.
+
+Relawen says to Karon, "Ow."
+
+Maiz says to Tyviel'a, "Seems silly to me that supposedly the best RPers the ones who stage are never seen  again by the young or new dragons."
+
+Mahtina chuckles.
+
+Losmir grins at Maiz.
+
+Maiz says, "We never get to appreciate there skill."
+
+Starlyn says, "I don't see that..."
+
+Mahtina says, "Unless some secian brings you with, that can be fun."
+
+Relawen tickles Starlyn.
+
+Tyviel'a says, "The dragons of that age have chosen that role, to be honest. If Depravato'a does come back more often, I only assume he would be different. It is not a good or by choice, it is acceptable for them to be both ways."
+
+Aliyah says to Maiz, "say yo Sleppy baby, i need to appreciate you some. Lemme see you"
+
+Aliyah nods.
+
+Mandos nods.
+
+Losmir grins at Aliyah.
+' Bizzy is back too?
+
+Glinka asks, " Bizzy is back too?"
+furr
+>You furrow your brow.
+>
+Mahtina nods to you.
+
+Viator nods.
+pon that
+
+Maiz nods.
+You ponder that.
+>
+Maiz says to Tyviel'a, "Thanks."
+
+Tyviel'a says, "bad, not by."
+
+Tyviel'a says, "I will say this, however."
+
+Tyviel'a says, "One of my goals taking this position was to offer up more opportunities for them, so they were not pushed into the hills and out of scenarios or game events."
+
+Viator nods.
+
+Tyviel'a says, "I have had mixed results so far, but a lot of that has to do with OOC events."
+
+Maiz asks Tyviel'a, "So it would be perfectly acceptable RP for a third and a few drakes to go hunting?"
+
+Mahtina leans on Midnight.
+
+Tyviel'a asks, "Holidays, people not interested in playing (too late?), etc."
+
+Tyviel'a says to Maiz, "yes, if they chose to do so."
+
+Mahtina says to Tyviel'a, "only a few of us are vampires"
+
+Karon stands up slowly.
+
+Maiz says to Tyviel'a, "I am sure it gets boring for the thirds who chose seclusion."
+
+Starlyn says to Maiz, "Slep hunts whenever he's around... and really he's probably the most active 3rd now, I think"
+
+Ceresina grins at Mahtina warmly.
+
+Mahtina nods up and down to Maiz.
+
+Tyviel'a says, "But it is not BAD for them to ignore all drakes and draco, in favor of seclusion or secian company."
+
+Mahtina nods to Starlyn.
+
+Starlyn says, "Course, I'm not around as much anymore either..."
+
+Aliyah nods to Starlyn.
+
+Starlyn asks, "So maybe I'm missing the other 3rds being in-game?"
+
+Aliyah says, "Lit hasn't been about lately"
+
+Mahtina says to Starlyn, "he is, and he'll take dracos or drakes if we ask."
+
+Aliyah says, "darn FF 11"
+
+Maiz says to Starlyn, "Rarely are they IG"
+
+Jaldis says, "I went hunting with Slep the other day , Ofcourse Charis did drag me "
+
+Aliyah grumbles.
+
+Tyviel'a says, "Atty'a is around some, Lit'a barely."
+
+Kiralyn says, "I haven't seen either sign on in a while."
+
+Starlyn nods.
+
+Aliyah says to Tyviel'a, "blame FF 11"
+
+Kiralyn says, "And I'm IG...well, way more than I should be."
+
+Kiralyn shuffles her feet.
+
+Tyviel'a says, "Slep'a is the most active, but none are what I would call active."
+
+Aliyah sniffs.
+
+The calico cat grooms itself.
+
+Tyviel'a asks Maiz, "anything else?"
+
+Karon says, "be well all time to go home"
+
+Tendrils of energy snake from Karon's hand as he claws the air before him, tearing the fabric of space!
+
+Maiz says, "Thats it."
+
+Maiz says, "Thanks"
+
+Aliyah smiles to Karon.
+
+Karon says to Tyviel'a, "appreciated"
+
+Tyviel'a asks Aliyah, "next?"
+
+Tyviel'a waves to Karon.
+
+Amedeo fans his wings at Karon.
+
+Aliyah says to Tchori, "you are up"
+
+Suddenly, a swirling dimensional rift opens before Karon and pulls him in!  In a flash, the swirling rift closes!
+
+In a flash, a dimensional rift suddenly opens and Karon steps from within it!  The dimensional rift quickly seals itself and vanishes.
+
+Karon says, "ub"
+
+Tyviel'a leans on Karon.
+
+Viator chuckles.
+
+Relawen says to Karon, "Bye-bye."
+
+Karon says, "how embarising forgot"
+
+Kiralyn points at Karon.
+
+Kiralyn laughs.
+
+Lilioth waves to Karon.
+
+Karon just went through an open wooden door.
+
+Tchori says, "there was talk at the last OOC meeting.. about possible stagings without a bond"
+
+Viator says, "can't wait till I get that spell."
+
+Tyviel'a says, "Never will happen."
+
+Tchori asks, "is that still on the table?"
+
+Tyviel'a says, "The only time that happened was with the weird move from AOL."
+
+Mahtina says to Tyviel'a, "Unless they go crazy, like Windfury"
+
+Mahtina says, "and die, horribly bloody mess"
+nod yes
+You nod up and down.
+wri
+>You wrinkle your nose.
+>
+Tchori nods.
+
+Tyviel'a says to Tchori, "not sure what you heard, not at any meeting I Was at."
+
+Starlyn grins.
+
+Ceresina says to Mahtina, "Lovely visual."
+gri to cer
+You grin to Ceresina.
+>
+Mahtina bats her eyes at Ceresina.
+' was alot o colors too
+
+Glinka says, " was alot o colors too"
+nod to cer
+>You nod to Ceresina.
+>
+Mahtina says to Ceresina, "I'll have to show you Ferro's log sometime, that was gross"
+
+Ceresina grins.
+
+Tyviel'a asks Tchori, "care to elaborate?"
+
+Draffut raises his hand.
+
+In a rainbow shimmer, Attkayet'a appears.
+how
+You howl.
+lean head at ......her long soft kinky hair falling all over....
+>You cannot do that 'at' a target using this command.
+Try doing that on your target instead.
+>
+Starlyn grins at Attkayet'a.
+
+Relawen says, "Speaking of Atty..."
+
+The calico cat meows quietly.
+
+Attkayet'a says in Secian, "Cool."
+lean head att ......her long soft kinky hair falling all over....
+Too far!  You must close some distance before you can try that.
+snu att
+>You snuggle with Attkayet'a.
+>
+The calico cat suddenly fades away.
+
+Chip smiles at Attkayet'a.
+l
+[OOC Inn.]
+
+You have just entered an alternate reality where Dragon's Gate is just a game. "Characters", are left outside, so that the "Players" can discuss anything they wish, Out Of Character.  An open wooden door, some open giant white wooden double-doors, and an open black door are here.
+
+This room is illuminated.
+In the room are Starlyn the Secian (seated), Relawen the Drake (seated), Equality the Noble Secian, Lilioth the Secian (seated), Tchori the Leuian (seated), Draffut the Drake (seated), Aliyah the Secian (seated), Twilight the Noble Secian (seated), Maiz the Drake (seated), Mandos the Drag-al, Amedeo the Drake (seated), Grimfang the Noble Drake, Mikasi the Noble Draco (seated), Attkayet'a the Dragon (flying 10 feet above ground), Viator the Draco (seated), Midnight the Noble Secian (seated), Ceresina the Noble Secian (seated), Chip the Secian (seated), Clara the Secian (seated), Kiralyn the Secian, Mahtina the Noble Secian (seated), Tyviel'a the Great Dragon, Sapient the Noble Drake, Jaldis the Novice Draco, Losmir the Draco (seated), and Xalisha the Noble Secian (seated).
+Obvious exits: north* northeast* east* southeast* south*.
+>
+Aliyah exclaims, "its Attkayetttt'a!"
+
+Xalisha whistles.
+
+Kiralyn says, "I feel dumb now.  Ha."
+
+Tyviel'a pokes Tchori.
+
+Twilight's stomach growls.
+
+Sapient's stomach growls.
+
+Attkayet'a says, "Yeah, I just got told there was one. Never saw the notice."
+
+Grimfang says to Attkayet'a, "about time lazy ass"
+' it's Alive!
+
+Glinka exclaims, " it's Alive!"
+>
+Grimfang kicks Attkayet'a.
+
+Tchori says, "the elder.. not sure who it was.. talked about possible stagings.. because of either a lack of bonds available .. or such.. or a bond leaving the game"
+
+Aliyah says to Attkayet'a, "any questions, lemme know, i'll add you to the list"
+
+Starlyn nods.
+
+Tyviel'a says to Tchori, "I have no idea what that was about. There will never be a staging without a Bondmate."
+' there are alot of new secians
+
+Attkayet'a says, "and stop talking about me when im not here :p"
+
+Glinka says, " there are alot of new secians"
+nod yes
+>You nod up and down.
+>
+Mandos nods.
+
+Relawen says to Attkayet'a, "You know we love you."
+
+Tyviel'a says to Tchori, "perhaps you mean without their first Bondmate, who has left game."
+
+Starlyn says to Attkayet'a, "You know you like it"
+
+Starlyn grins.
+
+Relawen winks at Starlyn.
+
+Tyviel'a says to Tchori, "that would be a third stager, and we have not made that decision yes. Probably leaning to allow it."
+
+Tchori asks, "no.. was pretty sure it was bondless.. and somthing about them not being fully staged or somthing.. does anyone else remember?"
+
+Tchori says, "kinda nerfed drakes"
+
+Tyviel'a says to Tchori, "will never happen, no idea what they were talking about."
+
+Viator shakes his head from side to side.
+' do you guys keep a count of secian/dragond numbers?
+
+Glinka asks, " do you guys keep a count of secian/dragond numbers?"
+rai at ty
+>You raise an eyebrow at Tyviel'a.
+>
+Chip says to Tchori, "I believe I saw something like that in a very old OOC meeting log. Out of date, I think."
+
+Tyviel'a says to Glinka, "I have a spreadsheet on you all."
+
+Tyviel'a cackles.
+beam
+You beam.
+>
+Kiralyn gulps.
+
+Bambi asks, "Did I miss anything?"
+' we unbalanced?
+
+Glinka asks, " we unbalanced?"
+>
+Mahtina whistles.
+You see Bambi take a bite of his handful of sugar.
+
+Bambi belches.
+
+Tyviel'a chuckles at Bambi.
+l
+[OOC Inn.]
+
+You have just entered an alternate reality where Dragon's Gate is just a game. "Characters", are left outside, so that the "Players" can discuss anything they wish, Out Of Character.  An open wooden door, some open giant white wooden double-doors, and an open black door are here.
+
+This room is illuminated.
+In the room are Starlyn the Secian (seated), Relawen the Drake (seated), Equality the Noble Secian, Lilioth the Secian (seated), Tchori the Leuian (seated), Draffut the Drake (seated), Aliyah the Secian (seated), Twilight the Noble Secian (seated), Maiz the Drake (seated), Mandos the Drag-al, Amedeo the Drake (seated), Grimfang the Noble Drake, Mikasi the Noble Draco (seated), Attkayet'a the Dragon (flying 10 feet above ground), Viator the Draco (seated), Midnight the Noble Secian (seated), Ceresina the Noble Secian (seated), Chip the Secian (seated), Clara the Secian (seated), Kiralyn the Secian, Bambi the Noble Secian, Mahtina the Noble Secian (seated), Tyviel'a the Great Dragon, Sapient the Noble Drake, Jaldis the Novice Draco, Losmir the Draco (seated), and Xalisha the Noble Secian (seated).
+Obvious exits: north* northeast* east* southeast* south*.
+>
+Aliyah kicks Bambi.
+l at bam
+
+Jaldis says, "there might have been one in the genie time frame"
+
+Bambi looks like a 69'0" standard ancient average boned, very muscular bodied Secian.
+He is bald, with metallic silver eyes, and looks razor-sharp.
+He appears to be resigned right now.
+He bears the mark of Taath.
+He can be attacked by other players.
+He appears to be in perfect health.
+
+Physical appearance:
+
+One big bad dude
+
+                        Visible Equipment
+A shirt                                            (armor)
+Some leather boots                                 (on feet)
+A pair of bearskin pants                           (pants)
+
+He has been bestowed the following title(s):
+  Noble of the Realm
+
+>
+Tyviel'a says to Glinka, "it always works out."
+
+Tchori says, "ok.. so long as its a No.. cause i kinda like the system as is"
+cac
+You cackle.
+>
+Relawen blinks at Bambi.
+gri to ty
+You grin to Tyviel'a.
+nod
+>You nod.
+>
+Viator says, "we need to have a draco-secian mixer..."
+
+Aliyah says to Bambi, "die"
+
+Tchori says, "done"
+
+Viator ponders that.
+
+Tyviel'a says to Attkayet'a, "the calendar is posted monthly."
+nod to vi
+You nod to Viator.
+>
+Mahtina says to Viator, "That is being worked on"
+
+Starlyn says to Attkayet'a, "Alnd you brass bohemouth"
+
+Starlyn says, "Land too"
+
+Tyviel'a asks Tchori, "anything else?"
+
+Viator smiles.
+l
+[OOC Inn.]
+
+You have just entered an alternate reality where Dragon's Gate is just a game. "Characters", are left outside, so that the "Players" can discuss anything they wish, Out Of Character.  An open wooden door, some open giant white wooden double-doors, and an open black door are here.
+
+This room is illuminated.
+In the room are Starlyn the Secian (seated), Relawen the Drake (seated), Equality the Noble Secian, Lilioth the Secian (seated), Tchori the Leuian (seated), Draffut the Drake (seated), Aliyah the Secian (seated), Twilight the Noble Secian (seated), Maiz the Drake (seated), Mandos the Drag-al, Amedeo the Drake (seated), Grimfang the Noble Drake, Mikasi the Noble Draco (seated), Attkayet'a the Dragon (flying 10 feet above ground), Viator the Draco (seated), Midnight the Noble Secian (seated), Ceresina the Noble Secian (seated), Chip the Secian (seated), Clara the Secian (seated), Kiralyn the Secian, Dune the Noble Elder, Mahtina the Noble Secian (seated), Tyviel'a the Great Dragon, Sapient the Noble Drake, Jaldis the Novice Draco, Losmir the Draco (seated), and Xalisha the Noble Secian (seated).
+Obvious exits: north* northeast* east* southeast* south*.
+>
+Tchori says, "was all I had.. mostly just hear to learn"
+
+Mahtina says to Viator, "should be in the next couple weeks or so"
+
+Attkayet'a asks, "Calendar? Oy. I read the boards thinking everything is there. Go figure."
+
+Tchori says, "thank ya"
+
+Dune whistles.
+
+Grimfang sneers at Dune.
+
+Relawen waves to Dune.
+
+Mahtina holds Dune close.
+
+Tyviel'a asks Aliyah, "next?"
+lean head du ......her long soft kinky hair falling all over....
+You lean your head on Dune's shoulder......her long soft kinky hair falling all over....
+>
+Aliyah salutes to Dune.
+
+Aliyah exclaims to Twilight, "you are up!"
+
+Dune says, "Ut oh"
+
+Attkayet'a dives out of the sky, and just as you think she will crash, she unfolds her wings and lands softly beside you.
+
+Chip blinks at Dune.
+
+In a rainbow shimmer, Dune disappears.
+
+Starlyn leans on Attkayet'a.
+
+Twilight says, "As it seems I've at last found a RP partner who's going to go the distance and not disappear off the face of the earth like my last two... *chuckles and crosses fingers* I am now curious if anything is looked for in Drake/Bondmate....."
+
+Relawen exclaims to Chip, "You made him disappear!"
+
+Relawen winks at Chip.
+
+Twilight says, "RP, etc for consideration to third..."
+list to tw
+You listen intently to Twilight.
+>
+Mahtina beams at Twilight.
+
+Twilight says, "aside from being "active""
+
+Mahtina says to Twilight, "Congrats."
+
+Mahtina coughs.
+
+Chip smiles at Relawen.
+
+Twilight exclaims, "hard to type, baby now squirmy and ACTIVE!!"
+
+Twilight laughs.
+
+Viator chuckles.
+wh to tw give em the teat!
+You whisper to Twilight.
+>
+Relawen says, " ::tickles Twilight's baby::"
+Grin Impishly
+You grin Impishly.
+>
+Tyviel'a says, "The Chosen/Bondmate relationship is very important. If you think back to the ones over the years, all had strong Bonds. A responsiblity with relative power is another thing, much harder to judge."
+
+Losmir grins at Twilight.
+
+Twilight grins atglin.
+gig
+You giggle.
+>
+Twilight nods.
+
+Mikasi squeals to Clara.
+'  A responsiblity with relative power?
+
+Glinka asks, "  A responsiblity with relative power?"
+list to ty
+>You listen intently to Tyviel'a.
+>
+Starlyn says to Glinka, "3rd power"
+
+Tyviel'a says, "Outside of that, Colin once put it best. When you walk into the room, you want a sense of being around a draconic spirit."
+nod softly
+You nod softly.
+>
+Tyviel'a says, "That I Cannot write what it means exactly."
+
+Ronan just entered through an open wooden door.
+l
+[OOC Inn.]
+
+You have just entered an alternate reality where Dragon's Gate is just a game. "Characters", are left outside, so that the "Players" can discuss anything they wish, Out Of Character.  An open wooden door, some open giant white wooden double-doors, and an open black door are here.
+
+This room is illuminated.
+In the room are Starlyn the Secian (seated), Relawen the Drake (seated), Equality the Noble Secian, Lilioth the Secian (seated), Ronan the Hithual, Tchori the Leuian (seated), Draffut the Drake (seated), Aliyah the Secian (seated), Twilight the Noble Secian (seated), Maiz the Drake (seated), Mandos the Drag-al, Amedeo the Drake (seated), Grimfang the Noble Drake, Mikasi the Noble Draco (seated), Attkayet'a the Dragon, Viator the Draco (seated), Midnight the Noble Secian (seated), Ceresina the Noble Secian (seated), Chip the Secian (seated), Clara the Secian (seated), Kiralyn the Secian, Mahtina the Noble Secian (seated), Tyviel'a the Great Dragon, Sapient the Noble Drake, Jaldis the Novice Draco, Losmir the Draco (seated), and Xalisha the Noble Secian (seated).
+Obvious exits: north* northeast* east* southeast* south*.
+>
+Mahtina says, "Stand with slep for a few minutes :P"
+
+Starlyn grins.
+
+Losmir grins at Mahtina.
+
+Tyviel'a says, "Let me think for a moment..."
+
+Twilight whispers, "I hat that long one typed out ahead of time for the last 15 mins"
+
+Tyviel'a says, "There is a time requirement, somewhere around two years real life time. But that would not be an issue really with the people considered."
+wh to tw :: giggles ::
+You whisper to Twilight.
+>
+Tyviel'a says, "Two years, after being "draked""
+
+Viator nods.
+
+Twilight says, "wow"
+
+Twilight nods.
+
+Relawen says, " "Draked" being the official term."
+
+Losmir cackles.
+gig
+
+Tyviel'a nods up and down.
+You giggle.
+>
+Attkayet'a says, "As opposed to staked."
+
+Kiralyn chuckles.
+
+Relawen grins.
+
+Tyviel'a says, "Some I would like to steak."
+
+Twilight laughs.
+chu softly, smiling...
+You chuckle softly, smiling...
+>
+Tyviel'a asks Twilight, "anything else?"
+
+Attkayet'a asks, "You want dragon steak? I was talking sharp bits of wood."
+
+Tyviel'a says to Attkayet'a, "it was a pun. Har har."
+
+Twilight says, "mmmm, steak. Medium well please"
+
+Tyviel'a murmurs something beneath his breath.
+
+Mahtina snickers.
+
+Attkayet'a winks at Tyviel'a.
+
+Kiralyn says, "Sounds liek a delicacy."
+
+Aliyah says, "eww"
+
+Kiralyn says, "...like."
+
+Attkayet'a says, "And a darned difficult one to get."
+
+Aliyah exclaims, "don't burn the steak!"
+
+Starlyn says, "rare and bleeding"
+
+Aliyah exclaims, "rare baby!"
+
+Starlyn swoons.
+
+Twilight says, "no, thank you. I think I have a good idea what you mean"
+
+Tyviel'a smiles at Twilight.
+
+Tyviel'a nods.
+
+Tyviel'a asks Aliyah, "next?"
+wh to al me1
+You whisper to Aliyah.
+gig
+>You giggle.
+>
+Aliyah exclaims to Lilioth, "go ahead!"
+
+Lilioth stands up.
+
+Mandos nods.
+
+Draffut stands up.
+
+Lilioth says to Tyviel'a, "I'm wondering if it is the intent of the game that secians go into staging without knowing what to expect."
+
+Draffut just went through an open wooden door.
+
+Mahtina comforts Lilioth.
+
+Lilioth smiles at Mahtina.
+
+Starlyn furrows her brow.
+
+Aliyah smiles to Kiralyn.
+' expect pain
+
+Glinka says, " expect pain"
+>
+Tyviel'a says, "It is certainly not, but I am not sure what you think the game can do to educate them."
+
+Aliyah ponders the meaning of the universe for a moment.
+nod yes
+You nod up and down.
+>
+Tyviel'a says, "Your fellow secians should be able to tell you everything you would want to know."
+
+Aliyah says to Lilioth, "there is always the option of asking other Secians"
+
+Mahtina says to Lilioth, "Their skin bubbles, they get all pussy. And they bleed alot"
+
+Twilight's stomach growls.
+
+Sapient's stomach growls.
+
+Attkayet'a blinks at Mahtina.
+
+Aliyah says to Lilioth, "we are here to help"
+
+Attkayet'a coughs.
+
+Tyviel'a says, "Both IC and OOCly, though OOCly ruins some of the fun."
+lean head lil ......her long soft kinky hair falling all over....
+You lean your head on Lilioth's shoulder......her long soft kinky hair falling all over....
+>
+Viator blanches.
+
+Mikasi wrinkles her nose.
+
+Relawen says, "I'm glad I ate before coming here."
+
+Losmir holds Lilioth close.
+
+Relawen glances at Mahtina.
+
+Lilioth says, "well, it's just a problem of timing. I don't know about others, but I haven't managed to be around at the time of stagins."
+
+Kiralyn grins at Relawen.
+
+Losmir grins and nods to Relawen.
+
+Lilioth says, "stagings, even."
+
+Tyviel'a says to Lilioth, "there have been very few lately, I understand."
+
+Mahtina says, "Alot of them are closed too."
+
+Amedeo stands up.
+
+Starlyn asks, "Isn't it the character's responsibility to educate themselves?  Or perhaps the Secian community?"
+
+Amedeo says in Secian, "night all"
+
+Tyviel'a says to Lilioth, "I suggest you ask some of your Bonded secians about it ICly."
+
+Amedeo just went through an open wooden door.
+' can we post stage logs on some site...gempile or sumsuch?
+
+Glinka asks, " can we post stage logs on some site...gempile or sumsuch?"
+>
+Chip nods to Lilioth.
+
+Tyviel'a says to Lilioth, "Mahtina there could tell you a great deal about it, and use words to make you throw up."
+
+Viator says, "Ty'a did say drakes were like teenagers...guess that simulates puberty"
+
+Mahtina says to Starlyn, "you'd be surprised at how many don't know what being chosens mean"
+
+Midnight laughs.
+
+Lilioth smiles at Chip.
+
+Tyviel'a says, "Logs would be a great idea."
+
+Twilight says, "On that note, might I say though. I do like the description changes made to the staging process. Much more descriptive than I remembered it from my last time on AOL. Quite fun."
+beam
+You beam.
+>
+Mahtina nods up and down to Twilight.
+
+Ronan says, "if anyone wants to see a drake dying during staging i still got some of Windfury's staging the 2nd time"
+
+Ronan nods.
+
+Tyviel'a says, "Siara had started this, and I have upped it a bit. We are making each staging unique, with different types of pains."
+
+Attkayet'a says, "Also, stagings used to be a lot more open, with some exceptions."
+
+Losmir asks, "Why has their been few stagings lately?"
+smile at ron softly
+You smile at Ronan softly.
+>
+Aliyah says to Lilioth, "one word of advice...remember to remove armor"
+rai at ty
+You raise an eyebrow at Tyviel'a.
+>
+Mahtina giggles at Aliyah.
+
+Tyviel'a glances at Attkayet'a.
+
+Mahtina says to Aliyah, "Rings too"
+' remove armor?
+
+Aliyah nods.
+
+Glinka asks, " remove armor?"
+>
+Lilioth asks, "why?"
+rai at ali
+You raise an eyebrow at Aliyah.
+>
+Chip says to Glinka, "From the dragon."
+
+Mahtina laughs.
+' ahh
+
+Glinka says, " ahh"
+>
+Lilioth exclaims, "well, I can't do that!"
+roll
+You roll your eyes.
+>
+Aliyah says to Glinka, "yeah, they'll die otherwise"
+
+Viator says to Glinka, "picture the Hulk"
+
+Lilioth exclaims, "sheesh!"
+
+Tyviel'a says, "There is only so much we can do with our limited code, but it has expanded."
+
+Mahtina says, "That's something to learn the hard way"
+bla
+You blanch.
+>
+Attkayet'a says, "They won't die, I think it will just break."
+
+Relawen says, "Dragon-stuffed armor."
+
+Starlyn says to Glinka, "I'd love to have someone post the story, if it was in story not log form, of their bonding"
+
+Mahtina's wings droop and her fingernails fall out.
+
+Midnight wrinkles her nose at Mahtina.
+
+Aliyah snickers to Mahtina.
+
+Relawen blinks at Mahtina.
+
+Lilioth nods to Starlyn.
+gri to star
+You grin to Starlyn.
+>
+Attkayet'a exclaims, "Fungi!"
+
+Attkayet'a points at Mahtina.
+
+Mahtina stares at Tyviel'a.
+
+Maiz says, "I slept through more then half of my staging. Snoring away"
+
+Maiz furrows his brow.
+
+Mahtina says, "Yeah, that was pretty close"
+
+Kiralyn gapes at Mahtina.
+
+Mahtina nods to Tyviel'a.
+
+Aliyah comforts Mahtina.
+
+Tyviel'a says to Maiz, "you did more than that, but anyway."
+
+Tyviel'a asks Lilioth, "did I answer you, anything else?"
+
+Maiz asks, "More then what?"
+
+Lilioth says to Tyviel'a, "Yes, thank you."
+
+Lilioth smiles and sits back down.
+
+Mahtina winks at Maiz.
+
+Aliyah whistles.
+
+Aliyah nods.
+
+Kiralyn bats her eyes at Aliyah.
+
+Tyviel'a says to Lilioth, "the game used to be more open on stagings, as some have said. But, I more than understand why some want a private staging. With the lair being closed, and dragons being more hated than in years past, it is a rather dangerous time."
+
+Twilight exclaims, "Much as I'm enjoying this. I think my other RPing job calls... *winks* Bye all. Have fun. Love ya!"
+
+wave to Twilight
+Twilight waves.
+
+Tyviel'a waves to Twilight.
+
+Mahtina exclaims, "But things going on IG are being done about that!"
+You wave to Twilight.
+>
+Relawen waves to Twilight.
+
+Aliyah waves to Twilight.
+
+Tyviel'a asks Aliyah, "next?"
+
+Chip asks Tyviel'a, "Could there be occasional ERC stagings?"
+
+Aliyah says to Losmir, "go ahead"
+
+Tyviel'a nods up and down to Mahtina.
+
+Attkayet'a says, "And of course, dragons have become a lot more reclusive as a whole, too"
+
+Aliyah kicks Chip to the back of the line.
+
+Grimfang says to Attkayet'a, "no we are just sissys now"
+
+Chip smiles at Aliyah.
+
+Aliyah whistles.
+
+Mahtina says to Attkayet'a, "Or forced that way"
+
+Aliyah pulls Chip closer to her.
+
+Attkayet'a asks, "Is that what they call it?"
+
+Mahtina snickers.
+
+Ronan says, "not to mention i don't see many dracos running around anymore"
+
+Aliyah says to Chip, "i'm not really mean"
+
+Chip laughs.
+wh to ali can you add me ...Again!( sorry) if you haven't?
+You whisper to Aliyah.
+>
+Aliyah says to Chip, "i just play that way"
+
+Relawen pokes Aliyah for kicking Chip.
+
+Losmir says, "Okay, Two things actually.  One is a question, the other I just want to clear something up about the staging to 3rd..."
+
+Viator waves at Ronan.
+
+Tyviel'a says, "Quiet down please."
+
+Viator smiles.
+
+Tyviel'a nods to Losmir.
+
+Aliyah whispers, "you are on again already :)"
+wh to ali thanks!
+You whisper to Aliyah.
+>
+Losmir asks, "How is a Drake's hit determined?  Since I'm a _really_ short Draco, would I be more likely to be a short Drake than say... a tall Draco?"
+
+Losmir says, "How is a Drake's height, not hit"
+
+Losmir mutters something beneath his breath.
+
+Losmir grins at Mikasi.
+
+Losmir says, "I'm 5'7"
+
+Mikasi smiles to Losmir.
+
+Tyviel'a asks, "Height?"
+
+Relawen says to Losmir, "Don't talk about short until you stage that way."
+
+Losmir says, "And weight, actually"
+
+Relawen snorts.
+
+Losmir nods up and down to Tyviel'a.
+
+Chip comforts Relawen.
+
+Losmir says, "5'7, 158 pounds"
+
+Tyviel'a says, "Totally random, no factors at all determine it."
+
+Losmir nods to Tyviel'a.
+
+Grimfang says, "i think Darkedge was that short"
+
+Losmir says, "Okay, so I could very well stage to a tall Drake"
+
+Tyviel'a says, "Yes."
+
+Relawen says to Losmir, "And then you'll make fun of me, like all the others."
+
+Relawen leans on Losmir.
+
+Losmir comforts Relawen.
+
+Mahtina asks, "whats the max female height?"
+You see Jaldis take a bite of his hard rations.
+You see Jaldis take a bite of his hard rations.
+l
+[OOC Inn.]
+
+You have just entered an alternate reality where Dragon's Gate is just a game. "Characters", are left outside, so that the "Players" can discuss anything they wish, Out Of Character.  An open wooden door, some open giant white wooden double-doors, and an open black door are here.
+
+This room is illuminated.
+In the room are Starlyn the Secian (seated), Relawen the Drake (seated), Equality the Noble Secian, Lilioth the Secian, Ronan the Hithual, Tchori the Leuian (seated), Aliyah the Secian (seated), Maiz the Drake (seated), Mandos the Drag-al, Grimfang the Noble Drake, Mikasi the Noble Draco (seated), Attkayet'a the Dragon, Viator the Draco (seated), Midnight the Noble Secian (seated), Ceresina the Noble Secian (seated), Chip the Secian (seated), Clara the Secian (seated), Kiralyn the Secian, Mahtina the Noble Secian (seated), Tyviel'a the Great Dragon, Sapient the Noble Drake, Jaldis the Novice Draco, and Losmir the Draco (seated).
+Obvious exits: north* northeast* east* southeast* south*.
+>
+Losmir says to Relawen, "I won't until it happens, and even then, I doubt it"
+
+Mahtina bats her eyes at Tyviel'a.
+
+Desher, enters as a crackling golden aura engulfs him., just entered through an open wooden door.
+
+Attkayet'a asks, "I was a tall drake and I'm a relatively shrimpy 3rd. It's new each time, right?"
+
+Tyviel'a says to Attkayet'a, "I am not sure you can be any shorter, actually."
+
+Losmir laughs.
+
+You hear someone snicker.
+
+Tyviel'a says, "It is new for each stage."
+
+Relawen grins.
+
+Grimfang chuckles.
+
+Attkayet'a says, "I know. and I was one of the taller drakes."
+
+Starlyn says, "I think its just a random die roll each time"
+
+Attkayet'a says, "so go figure."
+
+Kiralyn grins.
+
+Desher, leaves as a crackling golden aura engulfs him., just went north.
+
+Tyviel'a says to Mahtina, "I do not have max female, it is around 12 2"
+
+Mahtina nods.
+
+Aliyah nods to Maiz.
+
+Mahtina says, "just seeing if it had changed"
+
+Mahtina grins.
+
+Tyviel'a asks Losmir, "did you ask your second question?"
+
+Losmir says to Tyviel'a, "Okay.  Then a question going back to what you were saying about staging to 3rd"
+l
+[OOC Inn.]
+
+You have just entered an alternate reality where Dragon's Gate is just a game. "Characters", are left outside, so that the "Players" can discuss anything they wish, Out Of Character.  An open wooden door, some open giant white wooden double-doors, and an open black door are here.
+
+This room is illuminated.
+In the room are Starlyn the Secian (seated), Relawen the Drake (seated), Equality the Noble Secian, Lilioth the Secian, Ronan the Hithual, Tchori the Leuian (seated), Aliyah the Secian (seated), Maiz the Drake (seated), Mandos the Drag-al, Grimfang the Noble Drake, Mikasi the Noble Draco (seated), Attkayet'a the Dragon, Viator the Draco (seated), Midnight the Noble Secian (seated), Ceresina the Noble Secian (seated), Chip the Secian (seated), Clara the Secian (seated), Kiralyn the Secian, Mahtina the Noble Secian (seated), Tyviel'a the Great Dragon, Sapient the Noble Drake, Jaldis the Novice Draco, and Losmir the Draco (seated).
+Obvious exits: north* northeast* east* southeast* south*.
+l at doo
+>It looks like an open wooden door.
+l through doo
+l under doo
+l behind doo
+l on doo
+l in doo
+>[OOC Inn.]
+
+A plain wood building dominates this courtyard. Swinging slightly in the breeze, is a sign with two brightly painted butterflies and the name of the Inn.  A white wooden sign and an open wooden door are here.
+
+This room is illuminated.
+Obvious exits: west*.
+>There is nothing underneath that.
+>There is nothing behind that.
+>There is nothing on top of that.
+>There is nothing inside that.
+l at 2
+>I don't see what you are referring to.
+l through 2
+l under 2
+l behind 2
+l on 2
+l in 2 doo
+>I don't see what you are referring to.
+>I don't see what you are referring to.
+>I don't see what you are referring to.
+>I don't see what you are referring to.
+>There is nothing inside that.
+>
+Tyviel'a says, "Tallest female drake I have on file is 12."
+
+Desher, enters as a crackling golden aura engulfs him., just entered from the north.
+
+Desher, leaves as a crackling golden aura engulfs him., just went through an open wooden door.
+
+Mahtina nods.
+l
+[OOC Inn.]
+
+You have just entered an alternate reality where Dragon's Gate is just a game. "Characters", are left outside, so that the "Players" can discuss anything they wish, Out Of Character.  An open wooden door, some open giant white wooden double-doors, and an open black door are here.
+
+This room is illuminated.
+In the room are Starlyn the Secian (seated), Relawen the Drake (seated), Equality the Noble Secian, Lilioth the Secian, Ronan the Hithual, Tchori the Leuian (seated), Aliyah the Secian (seated), Maiz the Drake (seated), Mandos the Drag-al, Grimfang the Noble Drake, Mikasi the Noble Draco (seated), Attkayet'a the Dragon, Viator the Draco (seated), Midnight the Noble Secian (seated), Ceresina the Noble Secian (seated), Chip the Secian (seated), Clara the Secian (seated), Kiralyn the Secian, Mahtina the Noble Secian (seated), Tyviel'a the Great Dragon, Sapient the Noble Drake, Jaldis the Novice Draco, and Losmir the Draco (seated).
+Obvious exits: north* northeast* east* southeast* south*.
+>
+Kiralyn says, "Nyoko."
+
+Maiz says to Tyviel'a, "Aeslyn is 12 I think"
+
+Mahtina says, "Loiosh was 12.2 on aol, is why I asked."
+
+Losmir asks, "So it's not exactly necessary to stage to 3rd with a bond?  But you do need to have a strong bond relationship.  What if something happens to the bond and their not around anymore, should we continue to RP it as if the bond was lost"
+
+Mahtina ponders the meaning of the universe for a moment.
+
+Tyviel'a says to Maiz, "correct."
+
+Losmir says, "Or would a new bond be sought for"
+
+Tyviel'a says, "There would need to be a Chosen or Bond relationship to be considered for third stage."
+
+Starlyn's stomach growls.
+
+Sapient's stomach growls.
+
+Tyviel'a says, "IF the current Bond was active, it needs to be that person."
+
+Losmir nods to Tyviel'a.
+
+Tyviel'a asks, "And what does active mean? Case by case basis. Write me for more information, if it comes up"
+
+Tyviel'a says to Losmir, "how you chose to RP it would be up to you."
+
+Losmir nods to Tyviel'a.
+
+Tyviel'a asks Losmir, "that cover it?"
+
+Losmir says, "yep"
+wh to ty isit..tie vee el ah?..or tiv ee el ah?
+You whisper to Tyviel'a.
+>
+Attkayet'a asks, "What, is my zipper open?"
+
+Tyviel'a whispers, "Tie veel ya"
+
+Mikasi chuckles.
+
+Lilioth giggles.
+
+Kiralyn nods up and down to Attkayet'a.
+beam
+
+Viator blinks.
+You beam.
+>
+Aliyah grins.
+
+Relawen asks Attkayet'a, "You have a zipper?"
+
+Attkayet'a's stuff hangs out.
+
+Aliyah snickers.
+
+Tyviel'a asks Aliyah, "next?"
+
+Kiralyn cackles.
+
+Attkayet'a asks, "My human skin showing through my dragon costume?"
+
+Aliyah says to Maiz, "go ahead"
+lean head att ......her long soft kinky hair falling all over....
+You lean your head on Attkayet'a's shoulder......her long soft kinky hair falling all over....
+>
+Kiralyn grimaces and shields her eyes.
+wh to kir :: giggles ::
+You whisper to Kiralyn.
+l
+>[OOC Inn.]
+
+You have just entered an alternate reality where Dragon's Gate is just a game. "Characters", are left outside, so that the "Players" can discuss anything they wish, Out Of Character.  An open wooden door, some open giant white wooden double-doors, and an open black door are here.
+
+This room is illuminated.
+In the room are Starlyn the Secian (seated), Relawen the Drake (seated), Equality the Noble Secian, Lilioth the Secian, Ronan the Hithual, Tchori the Leuian (seated), Aliyah the Secian (seated), Maiz the Drake (seated), Mandos the Drag-al, Grimfang the Noble Drake, Mikasi the Noble Draco (seated), Attkayet'a the Dragon, Viator the Draco (seated), Midnight the Noble Secian (seated), Ceresina the Noble Secian (seated), Chip the Secian (seated), Clara the Secian (seated), Kiralyn the Secian, Mahtina the Noble Secian (seated), Tyviel'a the Great Dragon, Sapient the Noble Drake, Jaldis the Novice Draco, and Losmir the Draco (seated).
+Obvious exits: north* northeast* east* southeast* south*.
+>
+Tyviel'a says to Mahtina, "FYI tallest male is 11'4"
+who race
+Race who list activated!
+
+                Current Secian Adventurers:
+
+Current Adventurers
+
+ Starlyn Sylverkiss                  Equality Everlove                  
+ Lilyth Katta                        Strident Ticklemelots              
+ Lilioth Golden                      Aliyah D'arcy                      
+ Glinka Dragondsfriend               Midnight Raine                     
+ Ceresina Astrale                    Chip Faraway                       
+ Clara Effain                        Kiralyn Averendil                  
+ Mahtina Raine                       Grysmor Bluemist                   
+
+You notice 14 adventurers.
+>
+Mahtina grins at Tyviel'a.
+
+Maiz asks Tyviel'a, "Bonds who stop coming IG. I believe I have seen my bond may 4 times since I staged. I am wondering how we are suppose to RP this kind of situation?"
+
+Mahtina says to Tyviel'a, "Thanks"
+
+Mahtina ponders the meaning of the universe for a moment.
+
+Mahtina furrows her brow.
+com mai
+You comfort Maiz.
+>
+Mahtina says to Maiz, "Tell him to delete if he doesn't want to play."
+win
+You wince.
+>
+Maiz blinks.
+
+Tyviel'a says, "No easy answer there, but it is best to try to make a decision between the two of you."
+
+Mahtina shrugs.
+
+Aliyah smirks.
+
+Aliyah says, "yeah"
+
+Attkayet'a says, "Or ask if he would consider it :p"
+
+Mahtina leans on Aliyah.
+
+Mahtina grins at Attkayet'a.
+
+Maiz asks, "Consider what?"
+l at mai
+
+Maiz looks like a 9'4" standard 2nd stage, winged average boned, wirey-tough bodied ruby Dragon.
+He is seated.
+He is bald, with bright red eyes, and looks messy.
+He appears to be confused right now.
+He can be attacked by other players.
+He appears to be in perfect health.
+                        Visible Equipment
+Some light intricately linked steel chainmail      (armor)
+A damaged ivory studded leather buckler            (shield)
+A ruby key on a chain                              (around neck)
+
+He has been bestowed the following title(s):
+  Noble of the Realm
+
+>
+Tyviel'a says, "If that does not work, I will attempt to work it out between the two of you, mediate you could say."
+smile at ty softly
+You smile at Tyviel'a softly.
+>
+Aliyah mutters about damned drakes named Nalpac IforgothislastnameIhaven'tseenhiminsuchalongtime.
+
+Aliyah grumbles.
+
+Grimfang asks Tyviel'a, "what about those bondmates that chose not to come over from AOL?"
+
+Chip comforts Aliyah.
+lean head gr ......her long soft kinky hair falling all over....
+You lean your head on Grimfang's shoulder......her long soft kinky hair falling all over....
+>
+Kiralyn says to Aliyah, "That's a mouthful."
+
+Tyviel'a says to Grimfang, "had I been in the decision making process, NO drakes would have staged without an active Bondmate with the AOL move."
+
+Aliyah says to Kiralyn, "it gets better."
+
+Aliyah nods.
+
+Mahtina says to Maiz, "ask him what his plans are, and tell him how it effects your rp and so on. If he is uncoperative, or is being malicious, take it to ty."
+
+Grimfang scoffs.
+
+Tyviel'a says, "Someone would have had to be there Bondmate, even if a new one."
+
+Tyviel'a says, "their."
+
+Tyviel'a murmurs something beneath his breath.
+
+Ronan pets Tyviel'a.
+
+Ronan says to Tyviel'a, "don't make me get Cagliostro"
+
+Ronan nods.
+
+You hear the voice of Dune say, "I got your back, big guy"
+
+Mahtina says, "Not something unusual, since we're not supposed to live long enough to stage them four times"
+
+Mahtina mutters something beneath her breath.
+
+Tyviel'a says, "The entire move from AOL left a mess on dragons. Being honest here, they were not really considered when it was made."
+
+Relawen says to Ronan, "Last time we had an Usil in a Dragon/Secian meeting they went splat."
+
+Aliyah chuckles.
+
+Kiralyn says to Mahtina, "Stage them three times."
+
+Tyviel'a exclaims, "And Dune has fixing all my typos, yay!"
+
+Mahtina says to Kiralyn, "I think we can do that"
+
+Grimfang laughs.
+
+Tyviel'a says, "fit that one, too."
+
+Tyviel'a grits his teeth.
+
+Viator chuckles.
+
+Kiralyn says to Mahtina, "No, I mean...they stage three times.  They don't stage to draco."
+
+Mahtina ponders the meaning of the universe for a moment.
+
+Tyviel'a asks Maiz, "anything else?"
+
+Mahtina says to Kiralyn, "Thank you"
+
+Mahtina cackles.
+
+Kiralyn grins at Mahtina.
+
+Maiz says, "Thats it."
+
+Maiz nods.
+' my greatest fear is bonding agian, and having Lunaris reroll...
+
+Glinka says, " my greatest fear is bonding agian, and having Lunaris reroll..."
+>
+Tyviel'a asks Aliyah, "next?"
+smile at mai softly
+You smile at Maiz softly.
+>
+Mahtina sighs.
+
+Aliyah says to Glinka, "you are up"
+chu
+You chuckle.
+' anymore on Esssence hunting?...and is everyone voting on topmudsites?
+>
+Glinka asks, " anymore on Esssence hunting?...and is everyone voting on topmudsites?"
+>
+Ronan says to Relawen, "i'm a hith, i don't splat"
+duck her head
+You duck her head.
+>
+Ronan nods.
+
+Mahtina says, "Not bonding again, will drag tempor by the teeth"
+
+Mahtina nods.
+
+Relawen says, "But Cagliostro would."
+' done
+
+Glinka says, " done"
+>
+Mahtina ponders the meaning of the universe for a moment.
+
+Tyviel'a says, "Essence hunting will show up sooner or later. I believe we have some PCs working on something or another with that."
+
+Tyviel'a says, "More to come with that IG."
+nod softly
+You nod softly.
+>
+Mandos nods.
+' thanks
+
+Glinka says, " thanks"
+>
+Tyviel'a says, "Topmudsites people, Glinka has said so."
+
+Kiralyn grins.
+how
+You howl.
+>
+Kiralyn says, "Done."
+
+Mahtina says, "yeah, would be nice to see us on the first page again"
+
+Tyviel'a asks Aliyah, "next?"
+
+Aliyah says, "i could actually vote.."
+' 32 with a bullet
+
+Glinka says, " 32 with a bullet"
+cac
+>You cackle.
+>
+Aliyah says to Kiralyn, "go ahead"
+
+Kiralyn claps.
+
+Tyviel'a says to Glinka, "more like 32 with a mullet."
+
+Aliyah says, "a few times aday at my job"
+gig to ty
+You giggle to Tyviel'a.
+>
+Aliyah says, "everyone has online"
+
+Kiralyn asks Tyviel'a, "Is the one year of playing time one year from when the character was rolled, or one year from when they left TG?"
+
+Kiralyn says to Tyviel'a, "Until a draco stages."
+
+Tyviel'a says, "Rolled."
+
+Kiralyn nods.
+
+Attkayet'a grimaces.
+
+Attkayet'a glares at Tyviel'a.
+Tyviel'a picks up Attkayet'a and throws her into the air.
+
+Attkayet'a just fell 250 feet!
+Attkayet'a is hit in the torso!
+
+Attkayet'a says, "Dont be suckin out my essence, yo"
+
+Kiralyn cackles.
+gig to att
+
+Chip chuckles.
+
+Relawen says, "Whoops."
+You giggle to Attkayet'a.
+>
+Aliyah snickers.
+
+Maiz snickers.
+
+Attkayet'a stands up.
+
+Tyviel'a exclaims, "Essence on the floor, get it!"
+
+Attkayet'a says, "Was just a scratch"
+
+Attkayet'a sniffs.
+sear all on att
+You feel that it would be unwise to search anything around here.
+[5 sec. delay]
+>
+Tyviel'a asks Aliyah, "next?"
+
+Aliyah says to Attkayet'a, "go ahead"
+
+Attkayet'a says, "ahem"
+
+Sapient's stomach growls.
+
+Losmir's stomach growls.
+
+Tyviel'a says, "Essence needs to be fleshed out more, pun aside, for it so be something IG."
+
+Tyviel'a says, "So we are working on that down the road."
+nod softyl
+You nod softyl.
+hic
+>You hiccup.
+>
+Attkayet'a asks Tyviel'a, "Just wondering, when are we going to expand my lair and add the gold mine in it? And is my anti-essence-hunter magick ready for installation, and when am I going to be allowed to LAND on someone and get a squish attack?"
+
+Viator ponders Glink on the sauce...again.
+
+Attkayet'a smiles charmingly.
+nod to vi
+You nod to Viator.
+sigh softly
+>You sigh softly.
+>
+Losmir laughs.
+gri to att
+You grin to Attkayet'a.
+>
+Losmir mutters my, my, me.
+
+Losmir grins at Attkayet'a.
+
+Mandos mumbles the great dragon is not a genie.
+
+Tyviel'a asks, "Anyone else have something that is not wasting my time?"
+
+Tyviel'a leans on Aliyah.
+
+Attkayet'a says, "I was the last one."
+cac
+You cackle.
+>
+Relawen grins.
+
+Kiralyn grins.
+
+Aliyah says, "i do"
+
+Chip winces as Attkayet'a squishes.
+
+Aliyah says to Tyviel'a, "so like"
+list to ali
+You listen intently to Aliyah.
+>
+Tyviel'a says to Attkayet'a, "actually, we need to talk about that lair."
+
+Tyviel'a says to Attkayet'a, "I will find you after the meeting."
+
+Relawen winks at Chip.
+
+Aliyah blinks.
+
+Aliyah asks Jaldis, "what the heck?"
+l
+[OOC Inn.]
+
+You have just entered an alternate reality where Dragon's Gate is just a game. "Characters", are left outside, so that the "Players" can discuss anything they wish, Out Of Character.  An open wooden door, some open giant white wooden double-doors, and an open black door are here.
+
+This room is illuminated.
+In the room are Starlyn the Secian (seated), Relawen the Drake (seated), Equality the Noble Secian, Lilioth the Secian, Ronan the Hithual, Tchori the Leuian (seated), Aliyah the Secian (seated), Maiz the Drake (seated), Mandos the Drag-al, Grimfang the Noble Drake, Mikasi the Noble Draco (seated), Attkayet'a the Dragon, Viator the Draco (seated), Midnight the Noble Secian (seated), Ceresina the Noble Secian (seated), Chip the Secian (seated), Clara the Secian (seated), Kiralyn the Secian, Mahtina the Noble Secian (seated), Tyviel'a the Great Dragon, Sapient the Noble Drake, Jaldis the Novice Draco, and Losmir the Draco (seated).
+Obvious exits: north* northeast* east* southeast* south*.
+>
+Aliyah flails her arms about wildly.
+
+Aliyah says to Tyviel'a, "anyways, my question is this"
+
+Kiralyn glances at Aliyah.
+
+Aliyah murmurs to Jaldis.
+
+Maiz says to Tyviel'a, "I have a question"
+
+Maiz nods up and down.
+
+Aliyah says to Maiz, "hold up hold up"
+
+Maiz listens intently.
+
+Aliyah says to Tyviel'a, "I was speaking with Lumiere's player when I decided to have Aliyah go insane because her bond wasn't around"
+
+Aliyah says to Tyviel'a, "and he said due to mechanics Secians cannot go insane"
+
+Aliyah says, "its against their nature"
+furr
+You furrow your brow.
+>
+Aliyah says, "they have to be happy happy happy"
+
+Relawen ponders that.
+
+Aliyah grimaces.
+
+Mahtina says to Aliyah, "I've been pretty distraught"
+l in bac
+Inside the open dragon embroidered black leather backpack you see some warm sweet tea, an empty small vial of jasmine tonic, a lavender filled moonsilver censer, and some sweet fragrant sticks of incense.
+>
+Tyviel'a says, "Knowing him, I doubt he said that."
+l in 2 bac
+Inside the open large forest green leather backpack you see a bowl of rich noodle soup, a bowl of rich noodle soup, some tasty coconut, a large mossy opal, a mossy opal, a large brilliant mossy opal, a bright mossy opal, some warm sweet tea, some warm sweet tea, some light sugary tea with lemon, and some light sugary tea with lemon.
+>
+Mahtina says to Tyviel'a, "He did"
+
+Mahtina cackles.
+
+Aliyah says to Tyviel'a, "he did"
+
+Tyviel'a scratches his head.
+
+Tyviel'a says, "Weird, but go ahead."
+l in he
+Inside the open plaid leather healer's bag you see a small amber crystal rune sphere, some gold lined official looking papers, a silver and gold sparkler, and an open ribbon tied satin clerical bag.
+>
+Tyviel'a says, "He is not the most happy go lucky secian ever :)"
+
+Kiralyn chuckles.
+
+Aliyah says to Tyviel'a, "He pretty much said that Secians don't feel the bond like dragons do"
+
+Mahtina says, "Not happy happy happy, but yes, we can't go insain because of the chemical make-up or something"
+
+Aliyah says to Tyviel'a, "so therefore we cann't feel pain of it if it fades or something of the sort"
+pon tscina and traph
+You ponder tscina and traph.
+>
+Aliyah says to Tyviel'a, "what is your take on that"
+
+Mahtina grins at you.
+
+Kiralyn says to Aliyah, "Even a human can go mad from losing someone..."
+chu softly, smiling...
+You chuckle softly, smiling...
+>
+**Dune has something special for when the meeting is done.**
+how
+You howl.
+>
+Mikasi glances.
+
+Aliyah exclaims to Kiralyn, "we aren't human!"
+
+Relawen blinks.
+
+Aliyah exclaims to Kiralyn, "we are droids of happiness and joy!"
+
+Ceresina swoons!
+gig to ali
+You giggle to Aliyah.
+>
+Mahtina says to Aliyah, "I'd not even attempt to understand his babble that day."
+
+Aliyah grins to Mahtina.
+
+Tyviel'a asks, "So your question is that true?"
+
+Aliyah says to Tyviel'a, "yes"
+
+Mahtina says to Aliyah, "We were both frustrated with how the bond and empathy were explained."
+
+Viator asks, "Can the Secian half of a bond find a new bond in that case?"
+
+Aliyah asks Tyviel'a, "i mean, why bother to bond if you don't feel something?"
+
+Mahtina says to Viator, "Yes"
+wh to mah is empathy still working?..i never hit anythyng  alive
+You whisper to Mahtina.
+>
+Viator nods.
+
+Tyviel'a says to Aliyah, "because the dragon is dying, first of all."
+
+Mahtina nods to you.
+
+Tyviel'a says, "And most importantly."
+pon
+You ponder the meaning of the universe for a moment.
+>
+Tyviel'a says, "You are drawn to the race and the pain. The proverbial itch and wanting to scratch it. But the time of Bonding is even more so."
+
+Mahtina pulls Aliyah closer to her.
+
+Aliyah leans her head on Mahtina's shoulder.
+
+Mandos nods.
+
+Tyviel'a says, "As far as empathy, I do not have any firm, real answers to clue you in on that one. I like how some of you deal with it IG, but I am not sure what you are asking there."
+
+Tyviel'a says, "Let Lumi out of it, just ask me flat out."
+
+Mahtina laughs.
+
+Tyviel'a says, "I will try to give some sort of answer."
+
+Aliyah nods.
+
+Ceresina is now following Midnight.
+
+Aliyah says to Tyviel'a, "ok, i've pretty much givin up on the lets drive aliyah insane because of a certain drake who doesn't know his.."
+
+Aliyah says to Tyviel'a, "er never mind"
+
+Aliyah nods.
+
+Mahtina says to Tyviel'a, "More of what part does empathy play in the bonding and loss of a bond, or missing bond."
+
+Viator chuckles.
+
+Tyviel'a says, "Now that makes more sense."
+beam
+You beam.
+>
+Xalisha just appeared.
+com xa
+You comfort Xalisha.
+>
+Xalisha fidgets.
+
+Tyviel'a says, "The Bond fades over time. It happens. The amount of time is relatively long, and I would expect both sides to feel it. Some would say secian would feel it more, due to their empathic natures. But they also have been dealing with pain"
+
+Tyviel'a says, "for years, so not sure that is the right way to answer it."
+
+Aliyah ponders the meaning of the universe for a moment.
+
+Tyviel'a says, "Fades, if one is gone."
+' pain is lyfe
+
+Glinka says, " pain is lyfe"
+>
+Tyviel'a says, "I think there is room for you as a character to come up with a way to RP it out."
+
+Tyviel'a asks, "Insane? Maybe...maybe. But you are not going to break the guidelines put in place for the race."
+
+Sapient's stomach growls.
+
+Tyviel'a says, "No fish wielding sprytes in my house."
+
+Mahtina grins.
+gig to ty
+You giggle to Tyviel'a.
+>
+Tyviel'a leans on Aliyah.
+
+Grimfang chuckles.
+moan mourning Tscina
+You moan mourning Tscina.
+>
+Aliyah exclaims to Tyviel'a, "i would never!"
+
+Mahtina says to Aliyah, "I like tys answer better"
+
+Aliyah sniffles.
+
+Tyviel'a says to Aliyah, "I was teasing, I know."
+
+Aliyah says to Tyviel'a, "i'd never hurt anyone...only aliyah"
+
+Aliyah grumbles.
+
+Aliyah says to Tyviel'a, "i was planning on offing the wench you know"
+
+Mahtina says to Aliyah, "No landing on clouds"
+
+Relawen chuckles.
+
+Attkayet'a says, "Tula has in the past RPed some slight unhinging of her sanity when she had to go through something very traumatic"
+
+Mahtina says to Aliyah, "I'll beat you."
+
+Aliyah says to Mahtina, "nah, torture is much better"
+smile at att softly
+You smile at Attkayet'a softly.
+>
+Chip nods to Attkayet'a.
+
+Aliyah says to Attkayet'a, "truth"
+
+Attkayet'a says, "Not violent, sort of more like someone who's been abused and withdraws to protect themselves"
+
+Aliyah says to Tyviel'a, "thank you for answering."
+
+Tyviel'a says, "I would consider most secians to have a very high threshold, but some things would go beyond it."
+
+Tyviel'a nods up and down.
+
+Tyviel'a says to Attkayet'a, "I like that RP choice."
+
+Tyviel'a nods.
+
+Tyviel'a says to Aliyah, "welcome."
+
+Tyviel'a asks, "Maiz?"
+
+Aliyah nods to Maiz.
+
+Aliyah shakes her head from side to side to Kiralyn.
+tap tongue softly against her teeth...
+You tap the tiny moonsilver tongue piercing softly against her teeth...
+>
+Maiz asks, "Well I was wondering if one of the older drakes that may stage to third. If they have a home already what would happen to there home when they stage? Do they still get a lair somewhere?"
+
+Aliyah nods to Kiralyn.
+
+Kiralyn nods.
+
+Mahtina ponders the meaning of the universe for a moment.
+
+Mandos nods.
+pon worldly goods
+You ponder worldly goods.
+>
+Aliyah smiles to Viator.
+
+Viator smiles.
+
+Tyviel'a says, "We have a new set of rules in place for third lairs. They follow under the rules of Lords and Ladies, or the old ones at least."
+
+Tyviel'a says, "They get a basic 3 room "house.""
+
+Tyviel'a says, "As far as old houses, I have no idea. Would have to bring that up."
+
+Viator chuckles.
+' as an aside to that...
+
+Glinka says, " as an aside to that..."
+' Kudo's to All the new secian/Dragon shops and Homes-Lairs-Trees...
+>
+Glinka says, " Kudo's to All the new secian/Dragon shops and Homes-Lairs-Trees..."
+>
+Tyviel'a says, "Midnight's place is outstanding."
+
+Tyviel'a nods up and down.
+beam
+You beam.
+nod yes
+>You nod up and down.
+>
+Midnight beams.
+
+Ceresina gazes at Midnight.
+
+smi at Chip delicately , blushing
+Chip smiles at you.
+You smile at Chip delicately , blushing.
+>
+Relawen smiles to Midnight.
+
+Midnight says, "Thank you."
+
+Chip says to Glinka, "That was Pollii's player, but thanks."
+
+wave to Kiralyn
+Kiralyn waves.
+You wave to Kiralyn.
+gig
+>You giggle.
+>
+Kiralyn cackles at you.
+cur macros
+You curse macros.
+>
+Ceresina curtsies deeply and with a great flourish to Lady Midnight.
+
+Tyviel'a says, "Mythic, for some reason, had very very strict rules in place for housing"
+
+Midnight giggles at Ceresina.
+
+Mahtina grumbles.
+
+Mukfik, surprisingly clean, just entered through an open wooden door.
+
+Tyviel'a says, "We have stretched them pretty far, I would say continue to do so every day :)"
+
+Mahtina nods up and down.
+l
+[OOC Inn.]
+
+You have just entered an alternate reality where Dragon's Gate is just a game. "Characters", are left outside, so that the "Players" can discuss anything they wish, Out Of Character.  An open wooden door, some open giant white wooden double-doors, and an open black door are here.
+
+This room is illuminated.
+In the room are Starlyn the Secian (seated), Relawen the Drake (seated), Equality the Noble Secian, Mukfik the Go-blin-al, Lilioth the Secian, Ronan the Hithual, Tchori the Leuian (seated), Aliyah the Secian (seated), Maiz the Drake (seated), Mandos the Drag-al, Grimfang the Noble Drake, Mikasi the Noble Draco (seated), Attkayet'a the Dragon, Viator the Draco (seated), Midnight the Noble Secian (seated), Ceresina the Noble Secian (seated), Xalisha the Noble Secian (seated), Chip the Secian (seated), Clara the Secian (seated), Mahtina the Noble Secian (seated), Tyviel'a the Great Dragon, Sapient the Noble Drake, Jaldis the Novice Draco, and Losmir the Draco (seated).
+Obvious exits: north* northeast* east* southeast* south*.
+l at mu
+>
+Mukfik looks like a 2'8" standard young delicate boned, wirey-tough bodied Go-blin-al.
+He has very long, wild, medium purplish black hair, with small pitch black eyes, and looks spotless.
+He appears to be upset right now.
+He bears the mark of Set.
+He can be attacked by other players.
+He has no apparent injuries, but looks tired.
+
+Physical appearance:
+
+A young Go-blin-al stands before you. Protruding from his mouth are stained yellow teeth. A symbol has been carved into his chest. Although relatively clean there is still a rather harsh smell emanating from around him.
+
+                        Visible Equipment
+A wide bladed moonsilver voulge                    (right hand)
+A heavy brushed copper ring mail                   (armor)
+A coat of arms emblazoned iron shield              (shield)
+A screaming chicken mask                           (on head)
+Some chain linked steel gauntlets                  (over hands)
+A pair of dusty brown leather boots with holes     (on feet)
+A jet black hooded shadow cloak                    (over armor)
+A pair of plain cotton pants                       (pants)
+A torn blood-stained leather vest                  (shirt)
+A closed jackal embroidered suede belt pouch       (on belt)
+>
+Tyviel'a asks Maiz, "anything else?"
+inv
+Items carried:
+  A silver ring [0.0 lbs].
+  An open dragon embroidered black leather backpack [0.4 lbs].
+  A crescent moon earring [0.0 lbs].
+  A large brilliant mossy opal [0.0 lbs].
+  A white silk cloak [2.4 lbs].
+  Some twinkling rainbow crystal bangles [0.0 lbs].
+  A moon shaped ivory talisman [0.1 lbs].
+  A lantern [0.1 lbs].
+  A polished steelwood mail [1.6 lb].
+  A delicately linked gold belly chain [0.0 lbs].
+  A tiny moonsilver tongue piercing [0.0 lbs].
+  A small glistening yellow pearl [0.1 lbs].
+  An old multicolored gypsy robe [0.1 lbs].
+  A large shimmering amethyst [0.1 lbs].
+  An open plaid leather healer's bag [0.3 lbs].
+  A large heart-shaped amethyst [0.1 lbs].
+  An open large forest green leather backpack [1.1 lb].
+  A small deck of fortune cards [0.1 lbs].
+  A pair of ornate silver toe rings [0.0 lbs].
+  A shimmering blue crystal [0.1 lbs].
+  A silver serpentine hoop [0.0 lbs].
+  Some heavy bone studded steelwood brigandine [2.4 lbs].
+
+You have 108 silver pieces and 0 gold pieces.
+
+This gives you a total net worth of 108 silver.
+
+Your inventory totals 10.0 lbs.
+>
+Grimfang pulls Mukfik closer to him.
+
+Aliyah asks Grimfang, "lemme guess, your new bond?"
+
+Maiz shakes his head from side to side.
+
+Aliyah snickers.
+
+Maiz says, "Thats it"
+
+Mukfik laughs at Aliyah.
+cac
+You cackle.
+>
+Grimfang sneers at Aliyah.
+
+Grimfang mutters something beneath his breath.
+
+Xalisha grins.
+
+Grimfang says, "actually I was thinking of Leroy"
+
+Aliyah says to Grimfang, "yeah, then you can have warts"
+
+Tyviel'a says to Grimfang, "you should email me on the Bondmate issue. I will check into some stuff and see if it is possible."
+
+Tyviel'a asks, "Anyone else while we are here?"
+
+Viator nods.
+
+Grimfang says to Tyviel'a, "i just dont even know how to go about getting a chosen anymore"
+
+Xalisha exclaims to Grimfang, "a gobbie bond!"
+
+Grimfang says, "been so damn long"
+
+Xalisha claps.
+
+Relawen shrieks at Xalisha.
+
+Mahtina comforts Grimfang.
+
+Grimfang pushes Xalisha down.
+    Xalisha falls back and lies down!
+' will any dragons be staged without a bond..like they used to do?
+
+Glinka asks, " will any dragons be staged without a bond..like they used to do?"
+>
+Xalisha whines.
+
+Mukfik grins.
+rai at ty
+You raise an eyebrow at Tyviel'a.
+>
+Xalisha sits up.
+
+Mahtina shakes her head from side to side to you.
+
+Maiz says to Glinka, "No."
+' good
+
+Glinka says, " good"
+>
+Tyviel'a says, "No secian will ever be staged without a Bondmate when I am here."
+
+Mahtina giggles.
+
+Xalisha slaps Grimfang.
+' scared me
+
+Glinka says, " scared me"
+>
+Xalisha says to Grimfang, "bully"
+
+Maiz grins at Tyviel'a.
+
+Aliyah smiles to Viator and nods.
+
+Attkayet'a says, "er."
+
+Xalisha bats her eyes at Tyviel'a.
+
+Grimfang says to Xalisha, "i am what i am"
+
+Mahtina asks Tyviel'a, "Mahtina'a?"
+
+Aliyah says to Tyviel'a, "darn, i want to stage blue"
+
+Mahtina bats her eyes at Tyviel'a.
+
+Tyviel'a exclaims, "or dragon!"
+
+Tyviel'a whines!
+
+Maiz laughs.
+
+Xalisha says to Grimfang, "A bleached bully"
+
+Relawen grins at Aliyah.
+
+Mahtina snickers.
+
+Chip exclaims, "I want claws!"
+
+Viator chuckles.
+
+Losmir laughs.
+
+Grimfang gloats.
+' they used to call for help for dragons staging with out a bond
+
+Glinka says, " they used to call for help for dragons staging with out a bond"
+>
+Attkayet'a says to Aliyah, "you mean brass."
+
+Tyviel'a says, "Dune is supposed to be fixing my typos."
+grim
+You grimace.
+>
+(Aliyah roars)
+
+Midnight says to Mahtina, "Well you have scales."
+
+Relawen beams at Chip.
+
+Mahtina says to Midnight, "I'm halfway there"
+
+Grimfang roars back.
+gig to ty
+You giggle to Tyviel'a.
+>
+Tyviel'a says to Glinka, "I remember that."
+
+Aliyah kicks Grimfang.
+
+Dune says, "Ahem"
+nod to ty
+You nod to Tyviel'a.
+shiv
+>
+Dune says, "Now then"
+You shiver.
+>
+Aliyah smiles at Dune.
+
+Chip raises an eyebrow at Dune.
+pon dunes suprise
+You ponder dunes suprise.
+hic
+>You hiccup.
+>
+Relawen glances at Dune.
+
+Maiz just placed a damaged ivory studded leather buckler within his open large leather backpack.
+
+Grimfang asks Dune, "dont you have some posts to tear down or something?"
+
+Dune says, "For those of you who know what I am talking about, the vote is 10 for Yes, and 26 for NO"
+
+Mukfik laughs at Grimfang.
+
+Mahtina asks Tyviel'a, "so no laying around in a coma waiting for a secian to take pity on you?"
+
+Tyviel'a chuckles at Dune.
+
+Mikasi chuckles.
+
+Dune says, "That means I need 17 more Yes votes to take a vacation, so get over there"
+
+Aliyah says to Dune, "yes"
+
+Relawen grins.
+
+Mukfik grunts at Dune.
+
+Xalisha says, "yes"
+
+Tyviel'a says to Mahtina, "the code will kill you in the time that happens :)"
+
+Losmir chuckles.
+
+Mandos nods.
+
+Mahtina chuckles.
+' 5 gold an i vote anyway you  want
+
+Glinka says, " 5 gold an i vote anyway you  want"
+>
+Tyviel'a says, "Dune wants a vacation badly, people."
+gig to du
+You giggle to Dune.
+>
+Mahtina says to Tyviel'a, "I think it happend to Ying."
+
+Ronan says to Dune, "yes"
+
+Ronan says, "where do we vote at"
+
+Mahtina asks Dune, "Yes?"
+
+Mukfik's stomach growls.
+
+Clara's stomach growls.
+
+Sapient's stomach growls.
+
+Jaldis asks, "vote?"
+
+Dune says, "Back to your regularly scheduled programming"
+
+Mahtina asks, "what if we're greedy and don't want you to go on vacation?"
+
+Dune salutes.
+
+Maiz stands up.
+
+Relawen chuckles.
+
+Tyviel'a says, "If you don't know what he is refering to, do not bother."
+
+Tyviel'a grins.
+
+Tyviel'a exclaims to Mahtina, "that is the best punishment for him! Great idea."
+
+Ceresina grins at Mahtina.
+
+Mahtina grins.
+
+Chip nods to Relawen.
+
+Grimfang asks, "speaking of Ying where has that bastard stepchild white drake been?"
+
+Relawen stands up.
+
+Maiz blinks.
+
+Mahtina says, "ying, In class"
+
+Chip stands up.
+
+Mahtina babbles.
+
+Mahtina nods.
+
+Grimfang nods.
+
+Tyviel'a exclaims, "I guess that is it then! Feel free to contact me at DGatedragon@aol.com anytime."
+
+Chip bows to Tyviel'a.
+
+Ceresina laughs hysterically into her small hands.
+hu ty
+You hug Tyviel'a.
+>
+Ceresina beams at Tyviel'a.
+
+Losmir says, "Oh"
+
+Tyviel'a says, "Ideas, suggestions, comments, bitching, whatever."
+
+Relawen says to Tyviel'a, "Thank you for holding this."
+
+Grimfang salutes to Tyviel'a.
+
+Maiz asks Tyviel'a, "Can I get a lift to TH?"
+yell vote topmudsites
+
+Glinka yells, "vote topmudsites"
+how
+>You howl.
+>
+Grimfang just went through an open wooden door.
+
+In a rainbow shimmer, Maiz disappears.
+
+Ronan asks Tyviel'a, "want a copy of Wind's staging?"
+
+Chip smiles and waves to everyone.
+
+Aliyah says to Tyviel'a, "i prolly will soon or somethin"
+
+Viator chuckles.
+
+Aliyah nods.
+
+Tyviel'a says to Ronan, "sure."
+
+You hear the voice of Dune say, "You can also reach him at 1-900-BIG-REAR"
+
+Losmir asks Tyviel'a, "Why have there been so few stagings recently?"
+
+Aliyah snickers.
+
+Relawen laughs.
+
+Midnight laughs.
+
+Clara says, "haha"
+
+Ceresina rolls on the floor laughing.
+
+Tyviel'a laughs.
+
+Mukfik laughs.
+
+Mikasi laughs.
+
+Losmir laughs.
+
+Ronan says, "I got a good copy now, thanks Mahtina"
+
+Aliyah salutes.
+gig
+You giggle.
+>
+Aliyah exclaims, "gnight spur!"
+
+Ronan says, "so anyone wants just whisper"
+
+Aliyah exclaims, "thanhk you!"
+
+Relawen is now following Chip.
+
+Tyviel'a says to Losmir, "not many to stage, a shift in the time line."
+
+Ceresina laughs hysterically holding her stomach tightly!
+
+Clara is now following Mikasi.
+
+Ronan says, "also got a copy of Firebreath's staging too"
+
+Mikasi stands up.
+
+Aliyah hums.
+
+Losmir nods to Tyviel'a.
+
+Ceresina stands up.
+
+Clara stands up.
+rai hand to ro
+You raise your hand to Ronan.
+>
+Clara hops at Mikasi.
+
+Chip's group just went through an open wooden door.
+
+Tyviel'a says, "People do not roll dragons as often anymore, for a variety of reasons."
+
+Ceresina grins happily.
+
+Ronan says, "thinks its him anywayz"
+
+Tyviel'a says to Ronan, "send them all over."
+
+Viator stands up.
+
+Losmir nods to Tyviel'a.
+
+Ronan asks Glinka, "Email?"
+
+Mahtina says to Ronan, "I think I have half of the dragons stagings"
+
+Ronan says to Tyviel'a, "sure"
+
+Losmir says to Tyviel'a, "So I'm up next then, right"
+
+Ronan says to Mahtina, "send em to Tyvi"
+
+Losmir winks at Tyviel'a.
+' redsun001 @ cox.com
+
+Glinka says, " redsun001 @ cox.com"
+hic
+>You hiccup.
+>
+Mahtina ponders the meaning of the universe for a moment.
+
+Tyviel'a says to Losmir, "you should know when you rolled."
+
+Tyviel'a grins at Losmir.
+
+Clara whistles at Losmir.
+
+Clara holds Mikasi close.
+
+Mahtina asks Tyviel'a, "Didn't I send them to you already?"
+
+Losmir grins at Tyviel'a.
+
+Tyviel'a says to Losmir, "you look on track."
+
+Losmir says, "Oh, I do"
+
+Losmir beams.
+
+Tyviel'a says to Mahtina, "some, not all."
+
+Mahtina ponders the meaning of the universe for a moment.
+
+Mahtina nods.
+
+Losmir says to Tyviel'a, "I was just having some fun"
+
+Losmir winks.
+
+Tyviel'a nods to Losmir.
+l
+[OOC Inn.]
+
+You have just entered an alternate reality where Dragon's Gate is just a game. "Characters", are left outside, so that the "Players" can discuss anything they wish, Out Of Character.  An open wooden door, some open giant white wooden double-doors, and an open black door are here.
+
+This room is illuminated.
+In the room are Starlyn the Secian (seated), Equality the Noble Secian, Mukfik the Go-blin-al, Lilioth the Secian, Ronan the Hithual, Mandos the Drag-al, Mikasi the Noble Draco, Attkayet'a the Dragon, Viator the Draco, Midnight the Noble Secian (seated), Ceresina the Noble Secian, Clara the Secian, Mahtina the Noble Secian (seated), Tyviel'a the Great Dragon, Sapient the Noble Drake, Jaldis the Novice Draco, and Losmir the Draco (seated).
+Obvious exits: north* northeast* east* southeast* south*.
+>
+Ronan nods to Lilioth.
+
+Tyviel'a says, "Oh, btw, I am removing all the ID uses you all just got."
+
+Tyviel'a exclaims, "This is not a place for such things!"
+
+Lilioth smiles at Ronan.
+
+Mahtina laughs.
+' we don get em here
+
+Glinka says, " we don get em here"
+flai
+>You flail your arms about wildly.
+>
+Jaldis giggles.
+
+Losmir nods to Tyviel'a.
+
+Viator chuckles.
+
+Jaldis says, "forgot to do that"
+
+Mahtina says, "darn, I always forget about that skill"
+
+Losmir mutters stupid ooc inn.
+
+Tyviel'a says to Glinka, "yes you do, I already removed yours."
+
+Losmir chuckles.
+
+Mukfik, goodness, he even washed his backside, just went through an open wooden door.
+shri
+You shriek.
+>
+wink back Impishly!
+Tyviel'a winks at you.
+You wink back Impishly!
+fai
+>You faint dead away.
+>
+You regain consciousness.
+
+Mikasi says, "Never got any"
+
+Mikasi sniffles.
+
+Ronan snickers.
+sk
+
+Skill                     Remain Level
+ First Aid                 97     1     
+ Channeling                342    5     
+ Blunt Weapons             394    4     
+ Spellcasting              1952   15    
+ Turn Undead               542    6     
+ Identify Gems/Minerals    175    6     
+ Shield Parry              100    1     
+ Identify Magick           82     1     
+ Swimming                  177    2     
+
+>
+Viator says, "welp, I'm off to train swimming then"
+l
+[OOC Inn.]
+
+You have just entered an alternate reality where Dragon's Gate is just a game. "Characters", are left outside, so that the "Players" can discuss anything they wish, Out Of Character.  An open wooden door, some open giant white wooden double-doors, and an open black door are here.
+
+This room is illuminated.
+In the room are Starlyn the Secian (seated), Equality the Noble Secian, Lilioth the Secian, Ronan the Hithual, Mandos the Drag-al, Mikasi the Noble Draco, Attkayet'a the Dragon, Viator the Draco, Midnight the Noble Secian (seated), Ceresina the Noble Secian, Clara the Secian, Mahtina the Noble Secian (seated), Tyviel'a the Great Dragon, Sapient the Noble Drake, Jaldis the Novice Draco, and Losmir the Draco (seated).
+Obvious exits: north* northeast* east* southeast* south*.
+>
+wave to Viator
+Viator waves.
+You wave to Viator.
+>
+Tyviel'a chuckles.
+
+Ronan says to Mahtina, "or you can send me em all, since I'm trying to get back into being a dragon again"
+
+Viator just went through an open wooden door.
+
+Ceresina asks Mahtina, "I only remember when I am at a peddle like ESE ones :)  Cause what else can you do but stand in line for 3 hours?"
+' i got id magick working..anyone4 else?
+
+Glinka asks, " i got id magick working..anyone4 else?"
+>
+Ronan says to Mahtina, "thank god I'm out in 9 more months, I want a draco again"
+
+Mahtina nods to Ronan.
+cac
+You cackle.
+>
+Tyviel'a says to Ceresina, "the old, old Rehas peddle lines."
+
+Tyviel'a says to Ceresina, "wow, those were long."
+
+Mikasi exclaims to Clara, "be back soon!"
+
+Losmir asks Glinka, "Really?  What with?"
+
+wave to Ronan
+Ronan waves.
+You wave to Ronan.
+>
+Ronan says, "i'll send the log to all who requested"
+
+Ronan nods.
+' macros i thynk
+
+Glinka says, " macros i thynk"
+gri
+>You grin.
+>
+Mahtina says to Ceresina, "or go do a whole scenario while you wait in line"
+
+Mahtina cackles.
+
+Ceresina says to Tyviel'a, "I would sob at those then, considering I sometimes come close now."
+
+Clara nods up and down to Mikasi.
+
+Mikasi winks.
+
+Clara exclaims to Mikasi, "Hurry!"
+
+Ronan just went through an open wooden door.
+
+Ceresina laughs hysterically, pointing at Mahtina!
+
+Losmir says to Glinka, "I find an ice wand the other day, but couldn't quite get the id magick to work on it"
+
+Clara stares at Ceresina.
+
+Tyviel'a says to Ceresina, "a certain head elder got his start there. How cute."
+nod to lo
+You nod to Losmir.
+' i got 20 some uses so far
+>
+Glinka says, " i got 20 some uses so far"
+>
+Equality, wearing his blue pajamas, just appeared.
+cac
+You cackle.
+>
+Ceresina chuckles madly.
+
+Losmir grins at you.
+
+Lilioth is now following Losmir.
+
+Tyviel'a asks Equality, "do you hunt in those?"
+
+Losmir asks Glinka, "Oh, so it is the wands?"
+
+Tyviel'a blinks at Equality.
+
+Equality asks in Secian, "My pajamas..?"
+
+Tyviel'a nods.
+
+Midnight laughs.
+' i use a bat amulet
+
+Ceresina asks Tyviel'a, "Better question is...does he hunt?"
+
+Glinka says, " i use a bat amulet"
+wink
+>You wink.
+>
+Equality says in Secian, "Well, of course."
+
+Ceresina grins at Equality.
+
+Equality gazes down at himself.
+
+Equality says in Secian, "Gotta hunt in style.."
+
+Ceresina pets Equality.
+
+Tyviel'a says to Equality, "you should use her duck shoes."
+
+Equality purrs.
+
+Tyviel'a glances at Mahtina.
+
+Equality exclaims in Secian, "But I have slippers!"
+
+Equality pets the plush midnight blue velvet slippers.
+
+Losmir ponders the meaning of the universe for a moment.
+
+Mahtina taps her fuzzy yellow ducky slippers on the ground.
+
+Equality exclaims in Secian, "Comfy!"
+
+Midnight says to Tyviel'a, "Don't make me put on the bee costume."
+
+Ceresina exclaims, "Kitty versus ducky...GO!"
+
+Equality taps his plush midnight blue velvet slippers on the ground.
+
+Losmir asks Glinka, "Where'd you ge that?"
+
+Equality tackles Mahtina.
+get  bat from clo
+
+Equality exclaims in Secian, "I win!"
+You remove the black winged bat shaped amulet from your white silk cloak.
+>
+Equality stands up.
+
+Mahtina stands up.
+
+Equality comforts Mahtina.
+
+Mahtina tackles Equality and bounces off with little effect.
+
+BUZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZz.
+' peddle. broobnhilde
+
+Glinka says, " peddle. broobnhilde"
+>
+Mahtina sits up.
+
+Midnight chuckles.
+
+Equality winks to Mahtina.
+
+Losmir nods to you.
+pet bat
+
+Ceresina laughs loudly!
+You pet the black winged bat shaped amulet.
+put bat in clo
+>
+Mahtina exclaims, "Hey! Mahtina's not fat anymore!"
+
+Equality exclaims in Secian, "Winner! blue kitty in pajamas!"
+You place the black winged bat shaped amulet within your white silk cloak.
+>
+Ceresina says to Midnight, "I have you up one.."
+
+Equality exclaims in Secian, "I owe it all to the war hammer!"
+
+Equality holds the two-handed breathtaking massive titanium war hammer close!
+
+Jaldis just went through an open wooden door.
+
+some buzzing house fly just appeared.
+
+Midnight wrinkles her nose.
+
+Ceresina laughs and falls down with a great loud THUD!
+l
+[OOC Inn.]
+
+You have just entered an alternate reality where Dragon's Gate is just a game. "Characters", are left outside, so that the "Players" can discuss anything they wish, Out Of Character.  An open wooden door, some open giant white wooden double-doors, an open black door, and some buzzing house fly are here.
+
+This room is illuminated.
+In the room are Equality the Noble Secian, Lilioth the Secian, Mandos the Drag-al, Attkayet'a the Dragon, Midnight the Noble Secian (seated), Ceresina the Noble Secian, Clara the Secian, Mahtina the Noble Secian (seated), Tyviel'a the Great Dragon, Sapient the Noble Drake, and Losmir the Draco (seated).
+Obvious exits: north* northeast* east* southeast* south*.
+>
+Losmir chuckles.
+gig
+You giggle.
+>
+Ceresina rolls on the floor laughing.
+get buz
+You pick up some buzzing house fly.
+>
+Tyviel'a chuckles.
+
+Losmir nuzzles Lilioth.
+how
+You howl.
+>
+Ceresina sits up.
+kis buz
+You kiss the buzzing house fly.
+>
+Ceresina stands up.
+
+Lilioth nuzzles Losmir.
+drop buz
+You drop some buzzing house fly.
+>
+Tyviel'a glances at you.
+
+Tyviel'a blanches.
+
+Midnight asks Mahtina, "Where's your dalmation? the garden needs tending."
+gulp
+You gulp.
+>
+Mahtina cackles.
+
+Ceresina says to Midnight, "Tell that to the bests gourd there ever was and will be."
+
+Clara laughs.
+
+Mahtina says to Midnight, "peeing in the rose bushes."
+
+Midnight grumbles loudly.
+
+Tyviel'a snickers at Mahtina.
+
+Ceresina just picked up some buzzing house fly.
+
+Lilioth grins at Losmir.
+
+Caylith just entered through an open wooden door.
+
+Tchori just appeared.
+com tc
+
+Mahtina says to Caylith, "You're late"
+You comfort Tchori.
+>
+Lilioth pulls Caylith closer to her.
+
+Ceresina says, "Peaches will have good times with this ever so tasty fly."
+
+smi at Tchori wryly
+Tchori smiles at you.
+
+A gold-spotted green day geckos runs up Ceresina's leg.
+
+Caylith says in Secian, "Didn't know about it."
+You smile at Tchori wryly.
+smile at cay softly
+>You smile at Caylith softly.
+>
+Ceresina stares!
+
+Caylith says in Secian, "Plus I'm at work."
+
+Caylith winks.
+
+Tyviel'a says to Caylith, "oops."
+
+Equality laughs.
+
+Midnight says to Caylith, "I have a log if you want it."
+
+Equality comforts Ceresina.
+
+Mahtina asks, "mid want to help edit some logs?"
+
+Ceresina laughs happily!
+
+Losmir nuzzles Lilioth.
+
+Tyviel'a asks, "Anythign else anyone?"
+
+Midnight says to Mahtina, "Not tonight."
+
+Midnight wrinkles her nose.
+
+Attkayet'a says to Tyviel'a, "SO really. About that squish attack..."
+
+Caylith says to Midnight, "sure"
+hu ty tyte
+You hug Tyviel'a tyte.
+' thanks
+>
+Attkayet'a asks, "I thought it was over?"
+
+Glinka says, " thanks"
+>
+Attkayet'a chuckles.
+
+smi at Tyviel'a softly, winking..
+Tyviel'a smiles at you.
+You smile at Tyviel'a softly, winking..
+>
+Ceresina exclaims to Equality, "Tickles each and everytime!"
+
+Losmir asks, "Are ID Magick items in?"
+
+Equality grins.
+
+Tyviel'a says to Attkayet'a, "yep, just asking before I poof you out."
+
+Equality says to Ceresina in Secian, "I'm sure."
+
+Equality nods.
+
+Attkayet'a says, "ah, okay."
+
+Ceresina claps gleefully!
+
+Losmir says, "Other than the ones from Broomhilda or whatever"
+
+Mahtina says to Losmir, "you don't need a magick item to do it"
+
+Tyviel'a exclaims, "Have fun everyone!"
+
+wave to Tyviel'a
+Tyviel'a waves.
+You wave to Tyviel'a.
+>
+Mahtina says to Losmir, "it just takes forever"
+
+Losmir asks Mahtina, "No?"
+
+Midnight yawns.
+
+In a rainbow shimmer, Tyviel'a disappears.
+
+Losmir ponders the meaning of the universe for a moment.
+
+Ceresina beams at Tchori.
+
+Losmir laughs.
+
+In a rainbow shimmer, Attkayet'a disappears.
+
+Mahtina says to Losmir, "not for id magic"
+l
+
+Equality stretches.
+[OOC Inn.]
+
+You have just entered an alternate reality where Dragon's Gate is just a game. "Characters", are left outside, so that the "Players" can discuss anything they wish, Out Of Character.  An open wooden door, some open giant white wooden double-doors, and an open black door are here.
+
+This room is illuminated.
+You see the 1st eagle (wearing a small gold collar).
+In the room are Equality the Noble Secian, Tchori the Leuian (seated), Lilioth the Secian, Caylith the Drake, Mandos the Drag-al, Midnight the Noble Secian (seated), Ceresina the Noble Secian, Clara the Secian, Mahtina the Noble Secian (seated), Sapient the Noble Drake, and Losmir the Draco (seated).
+Obvious exits: north* northeast* east* southeast* south*.
+>
+Mandos jumps up and down.
+
+Losmir says, "Hmm...."
+
+Equality says in Secian, "What to do.. What to do.."
+
+Losmir says, "Interesting, then"
+
+Aliyah, A smile hovering on her lips, just appeared.
+
+Losmir chuckles.
+' jus alot o patience
+
+Glinka says, " jus alot o patience"
+cac
+>You cackle.
+>
+Mahtina says to Losmir, "did like 8 levels with only a ring"
+
+Clara just went through an open wooden door.
+
+Losmir ponders the meaning of the universe for a moment.
+
+Midnight nods up and down to Caylith.
+
+Aliyah says, "since we are still ooc"
+
+Caylith hugs Midnight.
+
+Caylith says, "Thanks"
+
+Losmir says to Mahtina, "Okay, thanks"
+
+Mahtina says to Losmir, "it's almost as bad to train as disguise"
+l
+[OOC Inn.]
+
+You have just entered an alternate reality where Dragon's Gate is just a game. "Characters", are left outside, so that the "Players" can discuss anything they wish, Out Of Character.  An open wooden door, some open giant white wooden double-doors, and an open black door are here.
+
+This room is illuminated.
+You see the 1st eagle (wearing a small gold collar).
+In the room are Equality the Noble Secian, Tchori the Leuian (seated), Aliyah the Secian (seated), Lilioth the Secian, Caylith the Drake, Mandos the Drag-al, Midnight the Noble Secian (seated), Ceresina the Noble Secian, Mahtina the Noble Secian (seated), Sapient the Noble Drake, and Losmir the Draco (seated).
+Obvious exits: north* northeast* east* southeast* south*.
+>
+Midnight winks at Caylith.
+
+Aliyah kicks Caylith.
+
+Losmir laughs.
+
+Mahtina stands up.
+
+Aliyah says to Caylith, "thats for Raptorian"
+
+Aliyah nods.
+
+Losmir says to Mahtina, "I've tried that"
+
+Losmir shudders.
+
+Caylith laughs.
+
+Aliyah stands up.
+gig
+You giggle.
+>
+You watch Aliyah poorly attempt to blend into the shadows!
+
+Equality leans on you.
+
+Aliyah hums.
+lean head e ......her long soft kinky hair falling all over....
+You lean your head on Equality's shoulder......her long soft kinky hair falling all over....
+>
+Aliyah just went through an open wooden door.
+
+Mahtina is now following Midnight.
+l
+[OOC Inn.]
+
+You have just entered an alternate reality where Dragon's Gate is just a game. "Characters", are left outside, so that the "Players" can discuss anything they wish, Out Of Character.  An open wooden door, some open giant white wooden double-doors, and an open black door are here.
+
+This room is illuminated.
+You see the 1st eagle (wearing a small gold collar).
+In the room are Equality the Noble Secian, Tchori the Leuian (seated), Lilioth the Secian, Caylith the Drake, Mandos the Drag-al, Midnight the Noble Secian (seated), Ceresina the Noble Secian, Mahtina the Noble Secian, Sapient the Noble Drake, and Losmir the Draco (seated).
+Obvious exits: north* northeast* east* southeast* south*.
+>
+Midnight says to Mahtina, "Oooh speaking of the party."
+
+Lilioth's stomach growls.
+
+Sapient's stomach growls.
+list 
+You listen intently.
+>
+Lilioth nods to Losmir.
+
+Midnight says, "Just got an email."
+
+Lilioth grins.
+
+Mahtina beams.
+
+Ceresina exclaims to Midnight, "Finally!"
+
+The eagle spreads its wings.
+
+Losmir smiles and waves good-bye to everybody.
+inv
+Items carried:
+  A silver ring [0.0 lbs].
+  An open dragon embroidered black leather backpack [0.4 lbs].
+  A crescent moon earring [0.0 lbs].
+  A large brilliant mossy opal [0.0 lbs].
+  A white silk cloak [2.4 lbs].
+  Some twinkling rainbow crystal bangles [0.0 lbs].
+  A moon shaped ivory talisman [0.1 lbs].
+  A lantern [0.1 lbs].
+  A polished steelwood mail [1.6 lb].
+  A delicately linked gold belly chain [0.0 lbs].
+  A tiny moonsilver tongue piercing [0.0 lbs].
+  A small glistening yellow pearl [0.1 lbs].
+  An old multicolored gypsy robe [0.1 lbs].
+  A large shimmering amethyst [0.1 lbs].
+  An open plaid leather healer's bag [0.3 lbs].
+  A large heart-shaped amethyst [0.1 lbs].
+  An open large forest green leather backpack [1.1 lb].
+  A small deck of fortune cards [0.1 lbs].
+  A pair of ornate silver toe rings [0.0 lbs].
+  A shimmering blue crystal [0.1 lbs].
+  A silver serpentine hoop [0.0 lbs].
+  Some heavy bone studded steelwood brigandine [2.4 lbs].
+
+You have 108 silver pieces and 0 gold pieces.
+
+This gives you a total net worth of 108 silver.
+
+Your inventory totals 10.0 lbs.
+>
+Ceresina swoons!
+
+Mahtina asks Midnight, "how much we owe?"
+
+Mandos asks, "what did dune have planed?"
+
+Tchori stands up.
+
+Mahtina grumbles.
+smile at lo softly
+
+The eagle glares.
+You smile at Losmir softly.
+>
+Tchori smiles.
+
+wave to Tchori
+Tchori waves.
+You wave to Tchori.
+>
+Tchori just went through an open wooden door.
+
+Losmir stands up.
+
+Losmir's group just went through an open wooden door.
+' not sure
+
+Glinka says, " not sure"
+smile at man softly
+>You smile at Mandos softly.
+>
+Midnight says to Mahtina, "I have to talk to Poppet next time he's around."
+l
+[OOC Inn.]
+
+You have just entered an alternate reality where Dragon's Gate is just a game. "Characters", are left outside, so that the "Players" can discuss anything they wish, Out Of Character.  An open wooden door, some open giant white wooden double-doors, and an open black door are here.
+
+This room is illuminated.
+You see the 1st eagle (wearing a small gold collar).
+In the room are Equality the Noble Secian, Caylith the Drake, Mandos the Drag-al, Midnight the Noble Secian (seated), Ceresina the Noble Secian, Mahtina the Noble Secian, and Sapient the Noble Drake.
+Obvious exits: north* northeast* east* southeast* south*.
+>
+Mahtina says, "Just to ask us a question. But he's not allowed to take a break"
+
+Mahtina asks Midnight, "whens that, next month?"
+
+Mahtina grumbles.
+
+Equality says in Secian, "Take care everyone."
+
+wave to Equality
+Equality waves.
+You wave to Equality.
+' where is the vote?
+>
+Glinka asks, " where is the vote?"
+>
+Equality, dragging a massive war hammer behind himself, just went through an open wooden door.
+l
+[OOC Inn.]
+
+You have just entered an alternate reality where Dragon's Gate is just a game. "Characters", are left outside, so that the "Players" can discuss anything they wish, Out Of Character.  An open wooden door, some open giant white wooden double-doors, and an open black door are here.
+
+This room is illuminated.
+You see the 1st eagle (wearing a small gold collar).
+In the room are Caylith the Drake, Mandos the Drag-al, Midnight the Noble Secian (seated), Ceresina the Noble Secian, Mahtina the Noble Secian, and Sapient the Noble Drake.
+Obvious exits: north* northeast* east* southeast* south*.
+>
+Mahtina whispers, "it's a really nasty post on the info boards"
+
+Midnight says to Mahtina, "We'll see. I have faith still."
+chu softly, smiling...
+You chuckle softly, smiling...
+>
+Mahtina whispers, "about making dune step down, it was mean"
+shiv
+You shiver.
+>
+Midnight stands up.
+nod to ma
+You nod to Mandos.
+nod to mah
+>You nod to Mahtina.
+' off to look
+>
+Glinka says, " off to look"
+flai
+>You flail your arms about wildly.
+hol dragon about her, cloaking herself...
+>I don't see what you are referring to.
+inh softly, chanting an ancient mystic spell...
+>You inhale softly, chanting an ancient mystic spell...
+>
+Mahtina says to Midnight, "anything is possible, we got flat rate."
+
+Mahtina giggles.
+quit
+16
+
+    Dragon's Gate Menu
+
+ 1. Explore Dragon's Gate.
+ 2. Create, Delete, or View a character.
+ 3. Select current character.
+ 4. Display notices and version notes.
+16. Disconnect.
+
+Your active character is: Glinka Dragondsfriend
+
+Your selection? 
+16
+
+ ** Goodbye from Mythic Entertainment! **
+Closed Glinka-offerings.txt on file 1
