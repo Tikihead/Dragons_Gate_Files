@@ -1,0 +1,884 @@
+l
+[Village.]
+
+The chipped bark path widens to encompass a broad square between the peaked roofs of the village homes, the larger storefronts, and several communal buildings that all surround a magnificent fountain crafted from local sandstone. The multi-tiered fountain flows with pure, clean springwater and provides seating around its broad base.  The towering trees surround the village, enclosing the square in a living frame.  To the west is a sturdy building with its door perpetually ajar. A line of Leuian children trots off towards the north, bearing their lessons. The faint ding of nautical bells flows in on the breeze from the northwest.   A flowing gold-flecked sandstone fountain is here.
+
+This area is illuminated.
+In the area are Hott the Noble Leuian (seated), Crax the Leuian (seated), Dac the Leuian, Kandil the Leuian (seated), Shaleu the Leuian (seated), and Lthe the Leuian (seated).
+Obvious paths: north* northeast* east* southeast* south* southwest* west*.
+>
+Shaleu says in Leuian, "then he pulls out the maggots"
+
+Shaleu says in Leuian, "shows them all around with this big smile"
+
+Kandil says in Leuian, "dont say he ate em"
+
+Hott says in Leuian, "mel should have been there"
+
+Shaleu says in Leuian, "then I started telling him how I did not really like finding such things in the Hall"
+
+Kandil shudders.
+who range race
+List will be restricted to those within range.
+Race who list activated!
+
+                Current Leuian Adventurers:
+
+Current Adventurers
+
+ Xarus Arawn                         Hott Breeze                        
+ Crax Steelclaw                      Dac Darkstar                       
+ Ward Jahanel                        Kandil Dragins                     
+ Sho Nuff                            Shaleu Dragins                     
+ Lthe Wain                           Siobahn Tarisk                     
+ Muther Gunn                        
+
+You notice 11 adventurers.
+>
+Shaleu says in Leuian, "that it in fact really made me very angry"
+sp l
+You are now speaking Leuian.
+>
+Shaleu says in Leuian, "then I asked Tali what spell she thought might be suitable"
+
+Siobahn just entered from the north.
+
+Shaleu says in Leuian, "and we agreed that maybe immolation would work"
+
+Kandil smiles to Siobahn.
+
+Siobahn smiles to Kandil.
+
+Siobahn bows her head.
+
+Siobahn sits down.
+
+Shaleu smiles at Siobahn.
+
+Hott grins.
+bow softly
+You reveal yourself!
+You bow softly.
+sit swiftly, with a flick of his grizzled old white-furred tail...
+>You sit down swiftly, with a flick of his grizzled old white-furred tail....
+>
+Kandil nuzzles you.
+
+Hott stands up.
+
+Shaleu says in Leuian, "so I cast immolation at the gobbie"
+
+Hott bows to you.
+nuz ka
+You nuzzle Kandil.
+stand silently
+>
+Hott sits down.
+You stand up silently.
+>
+ ** You are fully rested.
+bow to ho deeply, with great respect.
+You bow to Hott deeply, with great respect.
+sit swiftly, with a flick of his grizzled old white-furred tail...
+>You sit down swiftly, with a flick of his grizzled old white-furred tail....
+>
+Shaleu says in Leuian, "it sat there and smiled when the first one hit"
+
+Shaleu says in Leuian, "then the next"
+
+Shaleu says in Leuian, "then about on the third he jumps up"
+
+Shaleu says in Leuian, "and dances a bit and sits"
+l
+[Village.]
+
+The chipped bark path widens to encompass a broad square between the peaked roofs of the village homes, the larger storefronts, and several communal buildings that all surround a magnificent fountain crafted from local sandstone. The multi-tiered fountain flows with pure, clean springwater and provides seating around its broad base.  The towering trees surround the village, enclosing the square in a living frame.  To the west is a sturdy building with its door perpetually ajar. A line of Leuian children trots off towards the north, bearing their lessons. The faint ding of nautical bells flows in on the breeze from the northwest.   A flowing gold-flecked sandstone fountain is here.
+
+This area is illuminated.
+In the area are Hott the Noble Leuian (seated), Crax the Leuian (seated), Dac the Leuian, Kandil the Leuian (seated), Shaleu the Leuian (seated), Lthe the Leuian (seated), and Siobahn the Leuian (seated).
+Obvious paths: north* northeast* east* southeast* south* southwest* west*.
+>
+Shaleu says in Leuian, "looks at this thug and screeches helpz mez helpz me"
+
+Kandil says to Shaleu in Leuian, "dimmer then most sounds like"
+l at dac
+
+Dac looks like a 6'7" standard mature average boned, stocky bodied Leuian.
+He has very short, wavy, wispy bluish black fur, with golden eyes, and looks orderly.
+He appears to be calculating right now.
+He bears the mark of Unknown.
+He can be attacked by other players.
+He appears to be in perfect health.
+
+Physical appearance:
+
+A reserved khat stands before you.  He carefully observes anything and everything, but hardly moves till the need arises.
+
+                        Visible Equipment
+A heavy forest green steelwood brigandine          (armor)
+A damaged ivory studded leather buckler            (shield)
+Some dark grey crystalla shades                    (on head)
+A small hand-carved teak medallion                 (around neck)
+A pair of grey sandsilk wrappings                  (on feet)
+A haze covered grey moonsilk cloak                 (over armor)
+A coral ring of Unknown                            (ring (right))
+A Leuian Pride ring                                (ring (right))
+A pale blue crystal earring                        (left ear)
+A tailored grey satin clergy vest                  (dress)
+Some grey wool pants                               (pants)
+
+He has been bestowed the following title(s):
+  Noble of the Realm
+
+>
+Shaleu says in Leuian, "finally the fire stopped and he healed"
+
+Shaleu says in Leuian, "he say 'whyz you do  dat"
+
+Shaleu says in Leuian, "and I told him I did not like such stuff in the Hall"
+l
+[Village.]
+
+The chipped bark path widens to encompass a broad square between the peaked roofs of the village homes, the larger storefronts, and several communal buildings that all surround a magnificent fountain crafted from local sandstone. The multi-tiered fountain flows with pure, clean springwater and provides seating around its broad base.  The towering trees surround the village, enclosing the square in a living frame.  To the west is a sturdy building with its door perpetually ajar. A line of Leuian children trots off towards the north, bearing their lessons. The faint ding of nautical bells flows in on the breeze from the northwest.   A flowing gold-flecked sandstone fountain is here.
+
+This area is illuminated.
+In the area are Hott the Noble Leuian (seated), Crax the Leuian (seated), Dac the Leuian, Kandil the Leuian (seated), Shaleu the Leuian (seated), Lthe the Leuian (seated), and Siobahn the Leuian (seated).
+Obvious paths: north* northeast* east* southeast* south* southwest* west*.
+>
+Shaleu says in Leuian, "meybe he is a bit smarter"
+
+Shaleu smiles.
+
+Hott says in Leuian, "doubt it"
+sk
+
+Skill                     Remain Level
+ Clawing                   1942   10    
+ First Aid                 102    2     
+ Spellcasting              1455   11    
+ Blunt Weapons             652    6     
+ Channeling                475    10    
+ Identify Weapon Quality   268    3     
+ Brawling                  106    2     
+ Shield Parry              481    5     
+ Throw Weapons             104    2     
+ Swimming                  67     1     
+ Identify Gems/Minerals    100    1     
+ Turn Undead               289    3     
+ Hiding                    180    3     
+ Stealth                   98     1     
+*Play Instruments          0      5     
+
+>
+Shaleu nods slowly to Hott.
+
+Shaleu says in Leuian, "most likely you are right Hott"
+
+Dac sits down.
+
+Hott says in Leuian, "like the stupped gobi"
+
+Hott says in Leuian, "never learn"
+You see Hott take a bite of his cold cherry tart.
+wrin whiskers in amusement
+You wrinkle your nose whiskers in amusement.
+>
+Shaleu smiles at you.
+smi to sh
+You smile to Shaleu.
+who all
+>Full who list activated!
+
+Current Adventurers
+
+ Handi Aleworks                      Tekino Niravi                      
+ Xarus Arawn                         Yinnin Terrer                      
+ Shankzum Sakz                       Nyoko Carenath                     
+ Alzim Kapou                         Hott Breeze                        
+ Vasuki Moshqual                     Alwin Arlt                         
+ Crax Steelclaw                      Binx Jynx                          
+ Umiak Oryx                          Syai Omid                          
+ Rath Exodus                         Siras Palik                        
+ Statik Weez                         Kraatarackk Artakkatrrk            
+ Rurik Leuthari                      Creon Lars                         
+ Emor Gritorr                        Daedra Mourning                    
+ Broyce Chantam                      Dac Darkstar                       
+ Mirrdae Aldenshae                   Scruple Tamarind                   
+ Hedda Kesper                        Faet Lilmender                     
+ Osangar Amiridius                   Rektger Kar                        
+ Quint Brigand                       Sast Silverleaf                    
+ Ssoctara Gentiana                   Ward Jahanel                       
+ Kiki Keyara                         Aloki Toahtyn                      
+ Vixen Vivacious                     Dstsgrz Jormungand                 
+ Ledara Corinth                      Verlon Cobbler                     
+ Laetus Firefly                      Aryianna Laiseit                   
+ Malev Nighn                         Ather Stormwing                    
+ Ktkaa Ktsss                         Kandil Dragins                     
+ Adego Syrong                        Dror Sorreff                       
+ Sho Nuff                            Karadon Valence                    
+ Firebreath Maudle                   Twilight Flutal                    
+ Shaleu Dragins                      Lthe Wain                          
+ Sinai Vurcibal                      Siobahn Tarisk                     
+ Grayse Jahn                         Muther Gunn                        
+
+You notice 58 adventurers.
+>
+Kandil says to Shaleu in Leuian, "yah wanna get minutes again"
+
+Kandil smiles to Shaleu.
+
+Shaleu nods up and down slowly.
+
+Kandil nuzzles Shaleu.
+
+Kandil stands up.
+
+Shaleu just removed some spectacles from within her open fire rune-embroidered leather Archmage's bag.
+
+Shaleu puts on some spectacles.
+
+Hott grins.
+
+Kandil exclaims in Leuian, "well i have great news!"
+
+Shaleu just removed some crushed white willow bark from within her open fire rune-embroidered leather Archmage's bag.
+
+Hott says in Leuian, "age showing"
+
+Shaleu offers something to Hott.
+gri
+You grin.
+>
+Dac chuckles at Hott.
+
+Shaleu says in Leuian, "yep"
+list to ka
+You listen intently to Kandil.
+>
+Kandil says in Leuian, "my guess was right and this should be a fast meeting"
+
+Kandil dances around the room happily.
+
+Siobahn chuckles softly.
+
+Hott accepts Shaleu's offer.
+gri
+You grin.
+>
+Hott just placed some crushed white willow bark within his open tiger embroidered grey hemp cleric's satchel.
+inv
+Items carried:
+  An oak ring of Elindale [0.1 lbs].
+  An open large leather backpack [54.2 lbs].
+  A long pitch black bone nose piercing [0.5 lbs].
+  An open leather healer's bag [0.3 lbs].
+  Some colorful bamboo panpipes [0.1 lbs].
+  A Leuian Pride ring [0.0 lbs].
+  Some heavy blood red lacquered bone scale mail [11.0 lbs].
+  An oak-handled iron spiked aclys [2.2 lbs].
+  A cold cherry tart [0.1 lbs].
+  A leafy branch [0.0 lbs].
+  An open raccoonskin pack [2.9 lbs].
+  An ancient gleaming carbide shield [5.6 lbs].
+  A pair of pitch black bearskin pants [0.1 lbs].
+  A long blood-stained render skin cape [0.3 lbs].
+
+You have 18 silver pieces and 0 gold pieces.
+
+This gives you a total net worth of 18 silver.
+
+Your inventory totals 77.5 lbs.
+l in pac
+>Inside the open raccoonskin pack you see a small mottled marble mortar, a curled millipede exoskeleton, a dirty oak-handled spade, a curled millipede exoskeleton, a frilly black lace barmaid's frock, some gauze bandages, a frilly black lace barmaid's frock, and a curled millipede exoskeleton.
+l in bac
+>Inside the open large leather backpack you see an open raccoonskin pack, a damaged iron morningstar, a light forest green steelwood brigandine, some heavy blood red lacquered bone scale mail, a heavy studded leather mail, some light greying studded leather armor, an iron morningstar, a flowing pitch black satin noble's cloak, a wood club, a cold cherry tart, a half-eaten fresh baked apple pie, and a white wax candle.
+>
+Shaleu smiles and she opens her journal and readies a sharp quill.
+
+Kandil says in Leuian, "just a couple a things, first Nicki and the Odarians are holding raids up north about every night at ( elven, meeting 2 east of tsc"
+
+Kandil says in Leuian, "thats was a 9 by the way"
+
+Kandil blushes.
+smi
+You smile.
+>
+Kandil says in Leuian, "all kyn encouraged to help as yah can if yah can"
+l at mu
+You find something suitably reflective and gaze into it...
+
+You look like a 6'0" standard mature delicate boned, very muscular bodied Leuian Cleric.
+You are seated.
+You have very long, dredded, kinky white fur, with widely spaced white eyes, and look disheveled.
+You appear to be serious right now.
+You can be attacked by other players.
+You appear to be in perfect health.
+There is a shining gold emblem affixed to your clothing.
+
+Physical appearance:
+
+You see a grizzled old Khat, with an old scar across his white nose..
+
+                        Visible Equipment
+Some heavy blood red lacquered bone scale mail     (armor)
+A long pitch black bone nose piercing              (on head)
+Some colorful bamboo panpipes                      (hands)
+A long blood-stained render skin cape              (over armor)
+A Leuian Pride ring                                (ring (left))
+An oak ring of Elindale                            (ring (left))
+A pair of pitch black bearskin pants               (pants)
+
+You have been bestowed the following title(s):
+  Noble of the Realm
+
+ex sca
+>The heavy blood red lacquered bone scale mail is in good condition!
+l
+>[Village.]
+
+The chipped bark path widens to encompass a broad square between the peaked roofs of the village homes, the larger storefronts, and several communal buildings that all surround a magnificent fountain crafted from local sandstone. The multi-tiered fountain flows with pure, clean springwater and provides seating around its broad base.  The towering trees surround the village, enclosing the square in a living frame.  To the west is a sturdy building with its door perpetually ajar. A line of Leuian children trots off towards the north, bearing their lessons. The faint ding of nautical bells flows in on the breeze from the northwest.   A flowing gold-flecked sandstone fountain is here.
+
+This area is illuminated.
+In the area are Hott the Noble Leuian (seated), Crax the Leuian (seated), Dac the Leuian (seated), Kandil the Leuian, Shaleu the Leuian (seated), Lthe the Leuian (seated), and Siobahn the Leuian (seated).
+Obvious paths: north* northeast* east* southeast* south* southwest* west*.
+sk
+>
+Skill                     Remain Level
+ Clawing                   1942   10    
+ First Aid                 102    2     
+ Spellcasting              1455   11    
+ Blunt Weapons             652    6     
+ Channeling                475    10    
+ Identify Weapon Quality   268    3     
+ Brawling                  106    2     
+ Shield Parry              481    5     
+ Throw Weapons             104    2     
+ Swimming                  67     1     
+ Identify Gems/Minerals    100    1     
+ Turn Undead               289    3     
+ Hiding                    180    3     
+ Stealth                   98     1     
+*Play Instruments          0      5     
+
+>
+Kandil says in Leuian, "second we have an opening for Clawmaster we are going to need to fill soon, after talking with Snowball and if Hott agrees we shoul;d think about taking nominations next week"
+
+Shaleu just placed a damaged tapered applewood mandolin within her open fire rune-embroidered leather Archmage's bag.
+info
+
+You are Muther Gunn, a delicate boned and very muscular bodied 45 year old Entropic Male mature Leuian Cleric of the Order of the Heart.  You are 6'0" and weigh 181 lbs.  You are seated.
+
+HP: 163 of 163  Ftg:  64 of  64  Carry: 77.5 of 227.0 lbs.
+
+ Str   Int   Wis   Dex   Agi   Con   Cha   Wil   Voi   Per   App
+Aver  Fair  Good  Aver  Good  Good  Good  Good  Good  Fair  Fair  
+
+Use: INFO <subject> for more info.
+(Valid subjects: RELIGION, MAGICK, LANGUAGES, MARTIALARTS, MONEY, RUNESPELLS, TITLES, DISGUISE, PSIONICS)
+
+>
+Hott says in Leuian, "ok with me"
+
+Kandil smiles to Hott.
+
+Kandil says in Leuian, "then start thinking we will begin it next meeting"
+
+Hott asks in Leuian, "me think?"
+gri
+You grin.
+>
+Crax chuckles.
+
+Shaleu grins.
+
+Kandil grins to Hott.
+gla at dac thoughtfully
+You glance at Dac thoughtfully.
+>
+Dac smiles lightly.
+smi
+You smile.
+>
+Kandil says in Leuian, "thats really about all i had to share, but would like to hear news of the war if any have some"
+
+Hott raises his hand.
+
+Kandil sits down.
+
+Kandil says to Hott in Leuian, "all yours"
+
+Hott stands up.
+
+Kandil blushes.
+
+Hott says in Leuian, "they have road block on highland way"
+list
+You listen intently.
+>
+Shaleu nods up and down.
+
+Lthe nods to Kandil.
+
+Lthe smiles.
+
+Hott says in Leuian, "and have retreated some on al'kan road"
+
+Hott says in Leuian, "done"
+
+Hott sits down.
+
+Kandil stands up.
+
+Shaleu says in Leuian, "the baricade is at the chuul village "
+
+Kandil says in Leuian, "sorry gonna back up a bit"
+
+Kandil says in Leuian, "Lthe reminded me and im sorry i forgot"
+
+Dac raises his hand.
+
+Shaleu nods.
+
+Kandil says in Leuian, "She has posted a rough draft of Pride Procedures at the new Post Office"
+
+Hott says in Leuian, "ah"
+
+Siobahn raises an eyebrow curiously.
+
+Hott says in Leuian, "we get to rip at it"
+
+Lthe chuckles.
+
+Hott grins.
+wh to kan where is that again please?
+You whisper to Kandil in Leuian.
+>
+Kandil says in Leuian, "please all kyn should look em over , we are looking for thoughts before she moves ahead"
+
+Hott ponders the meaning of the universe for a moment.
+
+Kandil whispers in Leuian, "http://s10.invisionfree.com/The_Post_Office/index.php?act=idx"
+
+Lthe says in Leuian, "I've posted the Guidelines in the Lawmaster section"
+wh to kan many thanks
+You whisper to Kandil in Leuian.
+>
+Kandil says in Leuian, "we will talk about next week then before moving ahead"
+
+Kandil sits down.
+
+Kandil says to Dac in Leuian, "stranger"
+
+Kandil glances at Dac.
+
+Dac smiles.
+
+Dac says in Leuian, "I just waited to chime in about the nightly raids held by the Odarian Temple."
+
+Dac says in Leuian, "If you have not had a chance to witness the enemy first hand, try to go at least once."
+
+Kandil nods.
+
+Dac says in Leuian, "We never know when we'll not only be defending the land, but our new village, kyn, friends, or even Spur itself."
+
+Dac smiles.
+
+Hott says in Leuian, "kinna like flea attack on elephant"
+
+Shaleu chuckles.
+nod to da
+You nod to Dac.
+>
+Shaleu raises her hand.
+
+Kandil asks Dac in Leuian, "that all stranger?"
+
+Dac nods up and down to Kandil.
+
+Kandil grins to Dac.
+
+Kandil says to Shaleu in Leuian, "Mum"
+
+Shaleu asks in Leuian, "I was just wondering if any of you or your friends have considered what will happen if this invader takes over Aradath?"
+appear mood ser
+
+You are now serious.
+
+l
+>[Village.]
+
+The chipped bark path widens to encompass a broad square between the peaked roofs of the village homes, the larger storefronts, and several communal buildings that all surround a magnificent fountain crafted from local sandstone. The multi-tiered fountain flows with pure, clean springwater and provides seating around its broad base.  The towering trees surround the village, enclosing the square in a living frame.  To the west is a sturdy building with its door perpetually ajar. A line of Leuian children trots off towards the north, bearing their lessons. The faint ding of nautical bells flows in on the breeze from the northwest.   A flowing gold-flecked sandstone fountain is here.
+
+This area is illuminated.
+In the area are Hott the Noble Leuian (seated), Crax the Leuian (seated), Dac the Leuian (seated), Kandil the Leuian (seated), Shaleu the Leuian (seated), Lthe the Leuian (seated), and Siobahn the Leuian (seated).
+Obvious paths: north* northeast* east* southeast* south* southwest* west*.
+>
+Siobahn frowns slightly.
+
+Hott says in Leuian, "run like rabbit"
+
+Shaleu says in Leuian, "at the moment I can not possibly see how they can be beaten"
+
+Shaleu says in Leuian, "we can kill a dozen here or there, but they keep a coming"
+
+Crax sighs.
+
+Crax raises his hand.
+
+Shaleu says in Leuian, "I don't mind going on raids or just fighting them myself"
+
+Hott says in Leuian, "for every one ye kill three more come in"
+
+Shaleu says in Leuian, "but the question that should be discussed is how do we actually defeat this foe"
+
+Shaleu shrugs.
+
+Shaleu says in Leuian, "done"
+
+Kandil says to Crax in Leuian, "okay"
+
+Crax stands up.
+
+Crax says, "I've been going on the raids   for weeks now"
+
+Lthe smiles at Siobahn.
+
+Crax says, "while this army is indeen mighty and its resources seem limitless...a concerted effort of several lage groups of aradathian residents should be able to sweep through them..."
+
+Crax says, "but a battle plans needs to be drawn up    and enough volunteers to make it work..."
+
+Hott raises his hand.
+
+Dac stands up.
+
+Dac has left Kandil's group.
+
+Dac sighs.
+
+Dac, fading into silence, just went east.
+
+Crax says, "would take at least 10 per group...maybe 5 6 groups"
+
+ *** Warning, you have been inactive for 5 minutes.
+l
+ *** You will be disconnected in 10 minute(s) if you do not respond.
+[Village.]
+
+The chipped bark path widens to encompass a broad square between the peaked roofs of the village homes, the larger storefronts, and several communal buildings that all surround a magnificent fountain crafted from local sandstone. The multi-tiered fountain flows with pure, clean springwater and provides seating around its broad base.  The towering trees surround the village, enclosing the square in a living frame.  To the west is a sturdy building with its door perpetually ajar. A line of Leuian children trots off towards the north, bearing their lessons. The faint ding of nautical bells flows in on the breeze from the northwest.   A flowing gold-flecked sandstone fountain is here.
+
+This area is illuminated.
+In the area are Hott the Noble Leuian (seated), Crax the Leuian, Kandil the Leuian (seated), Shaleu the Leuian (seated), Lthe the Leuian (seated), and Siobahn the Leuian (seated).
+Obvious paths: north* northeast* east* southeast* south* southwest* west*.
+>
+Crax says, "and hope the resources of this army are finite"
+
+Crax says, "if they're not   won't matter what any of us do"
+
+Crax shrugs.
+
+Crax sits down.
+
+Kandil stands up.
+
+Kandil asks in Leuian, "okay then the question is where does the Pride fit into this solution? "
+
+Lthe nods.
+
+Crax says in Leuian, "decide where we stand and commit to action and let it be know to Spus town council I suppose"
+
+Kandil says in Leuian, "I suggest we all keep ours ears open and our Claws ready to aid as we can, and share information with kyn wether its meeting night or not"
+
+Lthe ponders the meaning of the universe for a moment.
+
+Lthe raises her hand.
+
+Kandil says to Lthe in Leuian, "okay"
+
+Kandil sits down.
+
+Lthe stands up.
+
+Siobahn's stomach growls.
+You see Crax take a drink from the flowing gold-flecked sandstone fountain.
+
+Lthe says in Leuian, "One thing we might consider doing, in line with Crax's comments, is to put together a group of 8-10 members to carry out such raids"
+
+Lthe says in Leuian, "That could be our particular contribution to the common defense"
+
+ *** Warning, you have been inactive for 5 minutes.
+l
+ *** You will be disconnected in 10 minute(s) if you do not respond.
+[Village.]
+
+The chipped bark path widens to encompass a broad square between the peaked roofs of the village homes, the larger storefronts, and several communal buildings that all surround a magnificent fountain crafted from local sandstone. The multi-tiered fountain flows with pure, clean springwater and provides seating around its broad base.  The towering trees surround the village, enclosing the square in a living frame.  To the west is a sturdy building with its door perpetually ajar. A line of Leuian children trots off towards the north, bearing their lessons. The faint ding of nautical bells flows in on the breeze from the northwest.   A flowing gold-flecked sandstone fountain is here.
+
+This area is illuminated.
+In the area are Hott the Noble Leuian (seated), Crax the Leuian (seated), Kandil the Leuian (seated), Shaleu the Leuian (seated), Lthe the Leuian, and Siobahn the Leuian (seated).
+Obvious paths: north* northeast* east* southeast* south* southwest* west*.
+>
+Crax raises his hand.
+
+Lthe says in Leuian, "Several here have experience in these raids and could provide leadership."
+
+Lthe says in Leuian, "done"
+
+Lthe sits down.
+
+Kandil stands up.
+
+Kandil says to Hott in Leuian, "Hott"
+
+Kandil nuzzles Hott.
+
+Hott stands up.
+
+Hott asks in Leuian, "which brings up a question, do we fight along with snakes?"
+
+Lthe ponders the meaning of the universe for a moment.
+
+Hott says in Leuian, "done"
+
+Hott sits down.
+
+Lthe says to Hott in Leuian, "I was thinking an all leuian group"
+
+Kandil says in Leuian, "well honestly, there have been serpants in groups i was in"
+
+Hott says in Leuian, "I mean if they invade"
+
+Siobahn nods to Kandil.
+
+Hott says in Leuian, "me too"
+
+Kandil says in Leuian, "i wont follow them or take orders from them but if they are fighting for our cause i have accepted their help"
+
+Kandil says in Leuian, "heck i dont even talk to em"
+
+Hott nods.
+
+Hott says in Leuian, "as I do"
+
+Hott says in Leuian, "will not heal one"
+
+ *** Warning, you have been inactive for 5 minutes.
+l
+ *** You will be disconnected in 10 minute(s) if you do not respond.
+[Village.]
+
+The chipped bark path widens to encompass a broad square between the peaked roofs of the village homes, the larger storefronts, and several communal buildings that all surround a magnificent fountain crafted from local sandstone. The multi-tiered fountain flows with pure, clean springwater and provides seating around its broad base.  The towering trees surround the village, enclosing the square in a living frame.  To the west is a sturdy building with its door perpetually ajar. A line of Leuian children trots off towards the north, bearing their lessons. The faint ding of nautical bells flows in on the breeze from the northwest.   A flowing gold-flecked sandstone fountain is here.
+
+This area is illuminated.
+In the area are Hott the Noble Leuian (seated), Crax the Leuian (seated), Kandil the Leuian, Shaleu the Leuian (seated), Lthe the Leuian (seated), and Siobahn the Leuian (seated).
+Obvious paths: north* northeast* east* southeast* south* southwest* west*.
+>
+Kandil says in Leuian, "so i think we can agree , in this case with those guildlines it can be done honorably, if we divide now we will fall that much faster"
+
+Hott nods.
+
+Shaleu raises an eyebrow.
+
+Shaleu raises her hand.
+
+Kandil asks in Leuian, "now as far as a large group breaking through, yes its possible , but what would break through too? what would be the target ?"
+
+Kandil says to Shaleu in Leuian, "sorry go ahead"
+
+Kandil sits down.
+
+Shaleu shrugs.
+
+Hott listens intently.
+
+Shaleu says in Leuian, "just was going to suggest maybe striving for deividing your forces so leuians could attack  with kyn and honorable lakars and anther group with the sepents"
+
+Shaleu says in Leuian, "within the same area"
+
+Shaleu says in Leuian, "same time"
+
+Siobahn raises her hand.
+
+Shaleu says in Leuian, "just a thought"
+
+Shaleu says in Leuian, "done"
+
+Kandil stands up.
+
+Kandil says to Siobahn in Leuian, "okay you up"
+
+Kandil sits down.
+
+Siobahn smiles softly.
+
+Siobahn stands up.
+
+Shaleu smiles.
+
+Hott listens intently.
+
+Siobahn's stomach growls.
+
+Siobahn says in Leuian, "The forces there are too great to divide forces, although that would be the ideal solution."
+
+Siobahn says in Leuian, "But in my opinion, humble as it may be, the serpents do not exist to me."
+
+Shaleu smiles.
+nod to si
+You nod to Siobahn.
+>
+Hott raises his hand.
+
+Siobahn says in Leuian, "I do not pay them any heed when in battle, so I would hope if we had a change to deplete the foes forces, it would be united."
+
+Siobahn bows her head.
+
+Siobahn says in Leuian, "That is all."
+
+Siobahn sits down.
+
+Kandil says to Hott in Leuian, "okay"
+
+Hott stands up.
+
+Talishia, trenchcoat dragging, just entered from the north.
+
+Talishia sits down.
+list to ho
+You listen intently to Hott.
+l
+>[Village.]
+
+The chipped bark path widens to encompass a broad square between the peaked roofs of the village homes, the larger storefronts, and several communal buildings that all surround a magnificent fountain crafted from local sandstone. The multi-tiered fountain flows with pure, clean springwater and provides seating around its broad base.  The towering trees surround the village, enclosing the square in a living frame.  To the west is a sturdy building with its door perpetually ajar. A line of Leuian children trots off towards the north, bearing their lessons. The faint ding of nautical bells flows in on the breeze from the northwest.   A flowing gold-flecked sandstone fountain is here.
+
+This area is illuminated.
+In the area are Hott the Noble Leuian, Crax the Leuian (seated), Kandil the Leuian (seated), Talishia the Leuian (seated), Shaleu the Leuian (seated), Lthe the Leuian (seated), and Siobahn the Leuian (seated).
+Obvious paths: north* northeast* east* southeast* south* southwest* west*.
+>
+Siobahn smiles to Talishia.
+
+Hott says in Leuian, "ok the thoughts are in accordance with mine fight along with them but ignore them"
+
+Hott says in Leuian, "done"
+
+Hott sits down.
+
+Kandil says to Crax in Leuian, "and sorry i missed your hand"
+
+Crax nods.
+
+Crax stands up.
+
+Crax says in Leuian, "first to help answer Hott's earlier question....Kenetic has arranged it that no kyn will be asked to join a raiding party containing a serpent or taathian...but they may of course do so as they wish"
+
+Siobahn raises an eyebrow.
+
+Crax says in Leuian, "second to answer Lthe about an all Kkhat party...I do not believe we have the strength in arms to do so..."
+
+Siobahn frowns briefly.
+tact
+Standing in this rank is:
+Hott, Crax, Kandil, Talishia, Shaleu, Lthe, Siobahn, Muther
+>
+Crax says in Leuian, "thirdly and lastly....if we do decide to form our own party   I have some ideas about how to do it and who should be there for us to survive it"
+
+Crax sits down.
+
+Kandil asks in Leuian, "now did i miss anybody?"
+
+Kandil blushes.
+stand silently
+You stand up silently.
+' forgive me khin, a duty calls...
+>
+Muther says in Leuian, " forgive me khin, a duty calls..."
+boe deeply to all
+>Ignoring unknown command, "boe."
+>
+Kandil smiles to you.
+
+Shaleu nuzzles you.
+
+ ** You are fully rested.
+bow deeply to all
+You bow deeply to all.
+>
+Kandil says to Muther in Leuian, "thank you kyn"
+smi softly
+You smile softly.
+w
+>[Village.]
+
+A tall, plain building occupies the west edge of the square. The door remains open, its wood smoothed by the touch of hands and its kick plate, dented and scuffed.  Several adult Leuians discuss current events in hushed tones as small khits dash around them, playing a game of Alarian tag.    A hand-carved redwood sign is here.
+
+This area is illuminated.
+Obvious paths: northeast* east* southeast* south* northwest*.
+quit
+>
+    Dragon's Gate Menu
+
+ 1. Explore Dragon's Gate.
+ 2. Create, Delete, or View a character.
+ 3. Select current character.
+ 4. Display notices and version notes.
+16. Disconnect.
+
+Your active character is: Muther Gunn
+
+Your selection? 
+16
+
+ ** Goodbye from Mythic Entertainment! **
+Connected to host dgate.mythicgames.net
+
+Welcome to Dragon's Gateway v1.0
+
+Please Log In...
+
+hroomha
+blkbell
+
+
+** Authentication Successful **
+
+3
+3
+* Connecting to game...
+
+
+    Dragon's Gate Menu
+
+ 1. Explore Dragon's Gate.
+ 2. Create, Delete, or View a character.
+ 3. Select current character.
+ 4. Display notices and version notes.
+16. Disconnect.
+
+Your active character is: Muther Gunn
+
+Your selection? 
+
+You have the following characters:
+
+1. Hroomha Treefoot
+2. Bitterhand Irons
+3. Muther Gunn
+4. Bronyraur Dyermaker
+5. Moon Mullins
+
+Which one do you want to select ? 
+
+'Muther Gunn' (#3) selected!
+
+    Dragon's Gate Menu
+
+ 1. Explore Dragon's Gate.
+ 2. Create, Delete, or View a character.
+ 3. Select current character.
+ 4. Display notices and version notes.
+16. Disconnect.
+
+Your active character is: Muther Gunn
+
+Your selection? 
+16
+
+ ** Goodbye from Mythic Entertainment! **

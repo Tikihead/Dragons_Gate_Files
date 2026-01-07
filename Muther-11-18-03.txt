@@ -1,0 +1,1140 @@
+l
+[Rapids.]
+
+Twigs, rocks and various debris crash into all exposed skin. The impacts are barely noticed as you are thrown through the water. The roiling current barely allows for a breath before you are yanked under its strong current once again.
+
+This area is not illuminated.
+You see the 1st black cat (wearing a small gold collar).
+Obvious paths: None.
+>go shore
+I don't see what you are referring to.
+>
+You are treading water quite comfortably!
+n
+You are in deep water!  Use the swimming command to move around!
+>sw n
+You are in deep water!  Use the swimming command to move around!
+>
+The current pulls you down into the water and rapidly carries you further down river.
+
+You fall...
+
+[Rapids.]
+
+The current slows a bit but is still is too strong to navigate. The bank of the river flashes by, the exposed rocks and tree roots coming very close to your head.  Up ahead the river makes a slight turn, a bit of light begins to show through the dense forest. A fallen tree juts into the roiling rapids. Calmer water gives way to a dirt riverbank, the pebbles and tree branch strewn ground looks like an oasis in the desert.
+
+This area is not illuminated.
+You see the 1st black cat (wearing a small gold collar).
+Obvious paths: None.
+
+You fall 25 feet!
+You are hit in the right leg!
+Your right leg takes 4 points of crushing damage!
+h
+You have no apparent injuries, but look weakened and fatigued.
+
+HP: 150/158  Ftg:  31/ 57
+>swim n
+You cannot swim in that direction.
+[6 sec. delay]
+>
+You are treading water quite uncomfortably!
+invo sm ht at mu
+
+Your fingertips begin to glow with a soft white light.
+
+You feel a surge of magick infuse your runeweave!
+Weaving those runes cost you 3 FPs.
+h
+
+You feel more tired.
+[8 sec. delay]
+>You have no apparent injuries, but look weakened and haggard.
+
+HP: 150/158  Ftg:  18/ 57
+>invo vt at mu
+
+The soft white light spreads out and gently envelops your body!
+
+You feel healthier!
+h
+
+The white glow upon your fingertips slowly fades away.
+You have no apparent injuries, but look haggard.
+
+HP: 158/158  Ftg:  18/ 57
+
+A pale, bluish glow surrounds your fingertips.
+
+You feel a surge of magick infuse your runeweave!
+Weaving those runes cost you 3 FPs.
+h
+
+You feel more tired.
+[12 sec. delay]
+>
+You are treading water quite uncomfortably!
+You have no apparent injuries, but look haggard.
+
+HP: 158/158  Ftg:   9/ 57
+>invo vt at mu
+l
+[Rapids.]
+
+The current slows a bit but is still is too strong to navigate. The bank of the river flashes by, the exposed rocks and tree roots coming very close to your head.  Up ahead the river makes a slight turn, a bit of light begins to show through the dense forest. A fallen tree juts into the roiling rapids. Calmer water gives way to a dirt riverbank, the pebbles and tree branch strewn ground looks like an oasis in the desert.
+
+This area is not illuminated.
+You see the 1st black cat (wearing a small gold collar).
+Obvious paths: None.
+
+The current unceremoniously dumps you out into the side of the riverbank beside a small bridge.
+
+You fall...
+
+[Riverbank.]
+
+The river laps against this small dirt clearing. Foliage grows a healthy green next to the water. Smooth washed pebbles along with pieces of branches and leaves all clutter the dirt riverbank.  A small bird twitters in a singsong voice high in the trees. Just off to the west a little stone bridge spans the river.
+
+This area is not illuminated.
+You see the 1st black cat (wearing a small gold collar).
+Obvious paths: northwest.
+
+You fall 25 feet!
+You are hit in the left arm!
+Your left arm takes 11 points of crushing damage!
+h
+You have a tiny break in a bone in your left arm, and look weakened and nearly exhausted.
+
+HP: 147/158  Ftg:   4/ 57
+
+The bluish glow spreads out and soothingly envelops your body!
+
+You feel invigorated!
+
+The bluish glow upon your fingertips slowly fades away.
+go oasis
+
+A pale, bluish glow surrounds your fingertips.
+
+You feel a surge of magick infuse your runeweave!
+Weaving those runes cost you 3 FPs.
+h
+
+You feel more tired.
+[7 sec. delay]
+You have a tiny break in a bone in your left arm, and look weakened and haggard.
+
+HP: 146/158  Ftg:  19/ 57
+go riv
+
+The bluish glow spreads out and soothingly envelops your body!
+
+You feel invigorated!
+
+The bluish glow upon your fingertips slowly fades away.
+I don't see what you are referring to.
+go bri
+I don't see what you are referring to.
+I don't see what you are referring to.
+>l
+[Riverbank.]
+
+The river laps against this small dirt clearing. Foliage grows a healthy green next to the water. Smooth washed pebbles along with pieces of branches and leaves all clutter the dirt riverbank.  A small bird twitters in a singsong voice high in the trees. Just off to the west a little stone bridge spans the river.
+
+This area is not illuminated.
+You see the 1st black cat (wearing a small gold collar).
+Obvious paths: northwest.
+>
+ ** Current hit points: 146 out of 158
+
+ ** Current fatigue: 41 out of 57
+cur
+You curse.
+>nw
+You must stand up first!
+>stand very quietly
+You stand up very quietly.
+>nw
+[Forest stream.]
+
+The path ends here as it comes upon the steep banks of a forest stream.  A wooden bridge, in surprisingly good repair, crosses the stream. The skeletal remains of some fish litter the stream bank and nosing about you notice some large pawprints.  A wooden bridge and some skeletal fish remains are here.
+
+This area is not illuminated.
+You see the 1st black cat (wearing a small gold collar).
+Obvious paths: north southeast.
+>
+The black cat purrs softly.
+n
+[Forest path.]
+
+The path slopes down to the south here as it leads away from the hill.  The evergreens subside as the ground becomes moist due to the proximity of the stream. The undergrowth is quite thick here, and the music of the stream begins to pervade your senses.  A charming embankment is here.
+
+This area is not illuminated.
+You see the 1st black cat (wearing a small gold collar).
+Obvious paths: northeast south.
+>s
+[Forest stream.]
+
+The path ends here as it comes upon the steep banks of a forest stream.  A wooden bridge, in surprisingly good repair, crosses the stream. The skeletal remains of some fish litter the stream bank and nosing about you notice some large pawprints.  A wooden bridge and some skeletal fish remains are here.
+
+This area is not illuminated.
+You see the 1st black cat (wearing a small gold collar).
+Obvious paths: north southeast.
+>go ri
+I don't see what you are referring to.
+>go bri
+[Hope's Path.]
+
+A small stream runs noisily under the two bridges spanning the ravine. A number of the brunt oaks still stand about, memorials to the forest this once was. A number of small saplings dot the ground between the black trunks. Between the stream bank and oaks, a small path of four-leaf-clover shaped stones weave a windy path through the forest.  A stone bridge, a wooden bridge, a clump of wildgrass, and a small winding stone path are here.
+
+This area is not illuminated.
+You see the 1st black cat (wearing a small gold collar).
+Obvious paths: east.
+>' damn
+
+Muther says in Leuian, " damn"
+>stare
+You stare.
+>
+ ** Current hit points: 145 out of 158
+
+ ** Current fatigue: 48 out of 57
+
+ ** You are fully rested.
+
+ ** Current hit points: 151 out of 158
+l
+[Hope's Path.]
+
+A small stream runs noisily under the two bridges spanning the ravine. A number of the brunt oaks still stand about, memorials to the forest this once was. A number of small saplings dot the ground between the black trunks. Between the stream bank and oaks, a small path of four-leaf-clover shaped stones weave a windy path through the forest.  A stone bridge, a wooden bridge, a clump of wildgrass, and a small winding stone path are here.
+
+This area is not illuminated.
+You see the 1st black cat (wearing a small gold collar).
+Obvious paths: east.
+>e
+[Hope's Path.]
+
+A number of darkened and burnt trunks still stand around the path. A few patches of undergrowth have started to spot the earth about, trying to cover the desolation. Small four-leaf-clover shaped stones form a small path through the darkened trunks. The soft sound of running water echoes in from the west.  A small winding stone path is here.
+
+This area is not illuminated.
+You see the 1st black cat (wearing a small gold collar).
+Obvious paths: east southeast west.
+>se
+[Hope's Path.]
+
+A fine haze of dust hovers over the remains of the Silver Owl Inn. Through the fallen timbers and memories of lives lost, one can see brilliant green sprouts reaching for sunlight. A tiny songbird perches on an old stick of furniture poking through the rubble, singing sweetly to herald new life and hope. A small winding path of stones placed in the shape of four leaf clovers winds itself through the forest.  A small winding stone pathway and a charred ancient steelwood tree are here.
+
+This area is not illuminated.
+You see the 1st black cat (wearing a small gold collar).
+Obvious paths: northeast* south northwest.
+>
+The area brightens.
+
+Romilin just entered from the northeast.
+s
+[Hope's Path.]
+
+A small path, its stones in the shape of four leaf clovers, winds its way through the sparse remains of a once dense undergrowth. Blackened limbs crunch underfoot beneath piles of moist, newly fallen leaves.  A small winding stone pathway and a broken and cracked steelwood tree are here.
+
+This area is not illuminated.
+You see the 1st black cat (wearing a small gold collar).
+Obvious paths: north* southeast southwest.
+>nw
+You cannot move in that direction.
+>n
+[Hope's Path.]
+
+A fine haze of dust hovers over the remains of the Silver Owl Inn. Through the fallen timbers and memories of lives lost, one can see brilliant green sprouts reaching for sunlight. A tiny songbird perches on an old stick of furniture poking through the rubble, singing sweetly to herald new life and hope. A small winding path of stones placed in the shape of four leaf clovers winds itself through the forest.  A small winding stone pathway and a charred ancient steelwood tree are here.
+
+This area is illuminated.
+You see the 1st black cat (wearing a small gold collar).
+In the area is Romilin the Noble Psycian (holding a flaming paper lantern).
+Obvious paths: northeast south northwest.
+>
+Romilin just went south.
+
+The area darkens.
+s
+[Hope's Path.]
+
+A small path, its stones in the shape of four leaf clovers, winds its way through the sparse remains of a once dense undergrowth. Blackened limbs crunch underfoot beneath piles of moist, newly fallen leaves.  A small winding stone pathway and a broken and cracked steelwood tree are here.
+
+This area is illuminated.
+You see the 1st black cat (wearing a small gold collar).
+In the area is Romilin the Noble Psycian (holding a flaming paper lantern).
+Obvious paths: north southeast southwest.
+>se
+[Hope's Path.]
+
+The path of four leaf clove shaped flagstones leads past a small clean shack and into a well formed tunnel through the thorn bushes to the east and the Caersech to the west. The small shack is set back from the road, its walls built of a whitewashed birch. A sturdy corral, filled with well-fed horses, stands to the left of the shack. A matched pair of dapple grays stand in front of the shack waiting to take their human baggage to their destination. To the left of the door, behind a small paned window, a beautiful Fir Elf female takes coin and in return, with a charming smile, directs those who have paid their fare into the waiting room.  A small shack, a freshly painted sign, a notice of non-refund, and a small winding stone pathway are here.
+
+This area is not illuminated.
+You see the 1st black cat (wearing a small gold collar).
+Obvious paths: northeast east* southwest northwest*.
+>nw
+[Hope's Path.]
+
+A small path, its stones in the shape of four leaf clovers, winds its way through the sparse remains of a once dense undergrowth. Blackened limbs crunch underfoot beneath piles of moist, newly fallen leaves.  A small winding stone pathway and a broken and cracked steelwood tree are here.
+
+This area is illuminated.
+You see the 1st black cat (wearing a small gold collar).
+In the area is Romilin the Noble Psycian (holding a flaming paper lantern).
+Obvious paths: north southeast southwest.
+>sp
+You are now speaking Common.
+>' need help?
+
+Muther asks, " need help?"
+>l
+[Hope's Path.]
+
+A small path, its stones in the shape of four leaf clovers, winds its way through the sparse remains of a once dense undergrowth. Blackened limbs crunch underfoot beneath piles of moist, newly fallen leaves.  A small winding stone pathway and a broken and cracked steelwood tree are here.
+
+This area is illuminated.
+You see the 1st black cat (wearing a small gold collar).
+In the area is Romilin the Noble Psycian (holding a flaming paper lantern).
+Obvious paths: north southeast southwest.
+>
+Romilin asks, "me?"
+
+Romilin is looking at you.
+twit at Romilin
+nod to Romilin , dredlocks swinging gently
+You twitch your tail at Romilin.
+>You nod to Romilin, dredlocks swinging gently.
+>nod to r
+You nod to Romilin.
+>l at r
+
+Romilin looks like a 5'5" standard adolescent massive boned, very muscular bodied Psycian.
+He has long, straight, wispy glossy black hair, with crystal blue eyes, and looks casual.
+He appears to be ecstatic right now.
+He can be attacked by other players.
+He appears to be in perfect health.
+
+Physical appearance:
+
+Fierce yet kind at the same time.
+
+                        Visible Equipment
+A mahogany-handled crystalla Psycian star mace     (right hand)
+A flaming paper lantern                            (left hand)
+A silvery veined morbius ring mail                 (armor)
+A pair of satin lined leather boots                (on feet)
+A pitch black spidersilk cloak                     (over armor)
+Some midnight blue spidersilk pants                (pants)
+A midnight blue silk vest                          (shirt)
+
+He has been bestowed the following title(s):
+  Noble of the Realm
+
+>
+Romilin says, "nah im okay"
+chu
+You chuckle.
+>
+ ** Current hit points: 154 out of 158
+bow to r
+
+Romilin says to Muther, "I am Romilin"
+You bow to Romilin.
+>' watch the rapids
+
+Muther says, " watch the rapids"
+>gri
+You grin.
+>' I am Muther Gunn
+
+Muther says, " I am Muther Gunn"
+>
+Romilin nods.
+wav
+You wave.
+>
+Romilin says, "will do"
+l
+[Hope's Path.]
+
+A small path, its stones in the shape of four leaf clovers, winds its way through the sparse remains of a once dense undergrowth. Blackened limbs crunch underfoot beneath piles of moist, newly fallen leaves.  A small winding stone pathway and a broken and cracked steelwood tree are here.
+
+This area is illuminated.
+You see the 1st black cat (wearing a small gold collar).
+In the area is Romilin the Noble Psycian (holding a flaming paper lantern).
+Obvious paths: north southeast southwest.
+>chu
+You chuckle.
+>
+Romilin chuckles.
+
+Romilin just went southwest.
+
+The area darkens.
+se
+[Hope's Path.]
+
+The path of four leaf clove shaped flagstones leads past a small clean shack and into a well formed tunnel through the thorn bushes to the east and the Caersech to the west. The small shack is set back from the road, its walls built of a whitewashed birch. A sturdy corral, filled with well-fed horses, stands to the left of the shack. A matched pair of dapple grays stand in front of the shack waiting to take their human baggage to their destination. To the left of the door, behind a small paned window, a beautiful Fir Elf female takes coin and in return, with a charming smile, directs those who have paid their fare into the waiting room.  A small shack, a freshly painted sign, a notice of non-refund, and a small winding stone pathway are here.
+
+This area is not illuminated.
+You see the 1st black cat (wearing a small gold collar).
+Obvious paths: northeast east* southwest northwest.
+>
+The area brightens.
+
+Romilin just entered from the southwest.
+e
+[Hope's Path.]
+
+Contrasting starkly with the ashes of the forest and brush is a freshly constructed set of stairs that wraps itself about the large tree. The intricate woodwork that decorates the steps is of the finest quality, as if in parody to the blackened destruction of the hedges and brambles around the base of the trunk. Bright green leaves of clover have begun springing up through the ashy soil in conjunction with soft moss to lend a durable cushion to this well-traveled spot.  Some steps circling the tree, a freshly painted wooden sign, a healthy green patch of clover, a flowing marble fountain, and some clover shaped stones are here.
+
+This area is illuminated.
+You see the 1st black cat (wearing a small gold collar).
+Obvious paths: north east south west*.
+>Romilin just entered from the west.
+Romilin just went through some steps circling the tree.
+go st
+[Steps.]
+
+The latticework surrounding and covering the spiral staircase is finely crafted. The intertwining beams seem to weave a delicate pattern above you, accenting the view of the forest floor. The view of burned trees and the scorched structure of the fallen inn spoils the otherwise wondrous scene.  Some steps circling the tree are here.
+
+This area is illuminated.
+You see the 1st wooden golem and the 1st black cat (wearing a small gold collar).
+Obvious paths: None.
+>go st
+[Steps.]
+
+Two freshly carved regal elven warrior statues guard either side of this sturdy landing near the top of the impressive staircase. The silent sentinels stare out into the charred forest far below, grimly watching the destroyed landscape of blackened, skeletal trees.  Some steps circling the tree are here.
+
+This area is illuminated.
+You see the 1st black cat (wearing a small gold collar).
+Obvious paths: None.
+>go st
+[Gaspar's Grog and Grub.]
+
+Four sturdy walls and a roof of woven branches enclose this small tavern. From the forest floor, winding their way around the trunk of the Mother Tree, a set of intricately railed steps serve as the entrance and exit of the town of Treehaven. Strangers arriving at the top of the steps find themselves under the watchful eye of patrons seated at tables positioned about the light, airy room. A set of oak steps lead up to the new Council chambers.  An ivory inlaid pine bar, a wooden stool, a long weathered wooden bench, a long musty wooden table, some steps circling the tree, some freshly crafted oak steps, an open door, a paper covered posting board, and a gilt framed painting on the wall are here.
+
+This room is illuminated.
+You see the 1st black cat (wearing a small gold collar).
+In the room are Seige the Anthian, Desperado the Draco (seated), and Romilin the Noble Psycian (seated and holding a flaming paper lantern).
+Obvious exits: None.
+>go door
+[Treehaven, Main Platform]
+
+The platform has been swept recently, revealing the new boards that have replaced some of the burned ones.  The remains of the old bank to the south have been completely cleared away, leaving just the shell of the old building there.  Intricately crafted stairs lead from the platform to the new building that resides in the upper branches.  An open door and a freshly painted wooden sign are here.
+
+This area is illuminated.
+You see the 1st black cat (wearing a small gold collar).
+Obvious paths: northeast* west*.
+>go st
+
+No pets allowed.  It stays outside.
+[New Treehaven Bank]
+
+The smell of freshly cut lumber fills the large lobby of the newly finished bank.  The roof is a collage of intertwined branches and their leaves from above, with a delicately crafted wooden lattice frame set with glass panels just beneath.  The trunk of the Mother tree serves as the back wall of the bank, with the tellers sitting at booths just in front of it.  Some freshly crafted wooden stairs are here.
+
+This room is illuminated.
+Obvious exits: None.
+>bank bal
+
+You approach a teller and quietly request an account balance...
+
+The teller says, "I'm sorry, but I don't see you in our record books.  Perhaps you're thinking of another bank?"
+>inv
+Items carried:
+  A simple leather armor [1.1 lb].
+  An open large leather backpack [24.6 lbs].
+  An iron morningstar [3.0 lbs].
+  A pitch black cotton shirt [0.0 lbs].
+  A Leuian Pride ring [0.0 lbs].
+  A bronze mace [0.5 lbs].
+  An obsidian ring of Taath [0.1 lbs].
+  Some leather Tzeacal hunting robes [7.7 lbs].
+  A light forest green steelwood brigandine [20.9 lbs].
+  An unholy jagged obsidian vulture charm [0.1 lbs].
+  A wooden sword [0.2 lbs].
+  A glass vial [0.2 lbs].
+  A pair of pitch black bearskin pants [0.1 lbs].
+  A pair of pitch black workman's boots [0.1 lbs].
+
+You have 38 silver pieces and 1 gold piece.
+
+This gives you a total net worth of 138 silver.
+
+Your inventory totals 58.9 lbs.
+>bank dep 38 silver
+
+You approach a teller, place your coins on the counter, and quietly request to make a deposit...
+
+The teller says, "Since you don't currently have an account with us, I'll go ahead and open a new account for you."
+The teller says, "Your new account balance is 38 silver."
+>l
+[New Treehaven Bank]
+
+The smell of freshly cut lumber fills the large lobby of the newly finished bank.  The roof is a collage of intertwined branches and their leaves from above, with a delicately crafted wooden lattice frame set with glass panels just beneath.  The trunk of the Mother tree serves as the back wall of the bank, with the tellers sitting at booths just in front of it.  Some freshly crafted wooden stairs are here.
+
+This room is illuminated.
+Obvious exits: None.
+>go ste
+I don't see what you are referring to.
+>go st
+[Treehaven, Main Platform]
+
+The platform has been swept recently, revealing the new boards that have replaced some of the burned ones.  The remains of the old bank to the south have been completely cleared away, leaving just the shell of the old building there.  Intricately crafted stairs lead from the platform to the new building that resides in the upper branches.  An open door and a freshly painted wooden sign are here.
+
+This area is illuminated.
+You see the 1st black cat (wearing a small gold collar).
+Obvious paths: northeast* west*.
+>ne
+[Treehaven, Main Platform]
+
+The recently repaired walkway lies clean and clear of the dust and debris that covered it a couple of weeks before.  The branches above house a large building, which was not there before the fire.  The bleakness of the burnt forest below stands as a reminder of recent events.  An oak ladder is here.
+
+This area is illuminated.
+You see the 1st black cat (wearing a small gold collar).
+Obvious paths: north* southwest*.
+>
+ ** Current hit points: 157 out of 158
+n
+[Treehaven, Main Platform]
+
+New wooden planks fit side by side creating the walkway that extends proudly upon the reconstructed supports. The view of the forest to the northwest is quite panoramic, despite the burnt spikes of trees in the midst. A staircase here seems to have some enchantment, judging by the strange appearance of unicorns, bears and owls on the lower steps. Strange, due to the fact that they don't appear carved, painted, or put there by any hand-made means. It is as if the glyphs grew into the wood itself. Mysterious symbols are scattered throughout the portraits, which shimmer with a golden whisper as they are approached.
+
+This area is illuminated.
+You see the 1st black cat (wearing a small gold collar).
+Obvious paths: north* south* northwest*.
+>go st
+[Elindale's Temple.]
+
+This is the main entrance of a Temple of Elindale, the inside walls perfectly smooth with glowing magickal symbols upon the surfaces. The enormity of this tree becomes apparent as one travels up the stairs to the northwest. The air holds a fresh, new ambiance, pleasantly scented with sweet sap and rich, earthly undertones.  Some glowing magickal symbols and a brown oak staircase are here.
+
+This room is illuminated.
+You see the 1st black cat (wearing a small gold collar).
+Obvious exits: northwest*.
+>nw
+
+The black cat brings its ears back and twitches its tail.
+ne
+[Elindale's Temple.]
+
+Encircling the innards of this tree, these steps coil clock-wise to the top, the entire environment one single living thing. There are no cracks, no signs of building. Tapestries on the wall appear life-like, suspended with no visible attachments.  A breathtaking tapestry is here.
+
+This room is illuminated.
+You see the 1st black cat (wearing a small gold collar).
+Obvious exits: northeast* southeast*.
+>[Elindale's Temple.]
+
+A diminutive niche in the wall provides shelter to a small family of flying squirrels. Just inside sit the young, comfortably settled into the soft bedding the parents have gathered up. A breeze carries their tiny chitters to your ears, revealing that the niche is somehow connected to the outside world as well.  A niche in the wall is here.
+
+This room is illuminated.
+You see the 1st black cat (wearing a small gold collar).
+Obvious exits: southeast* southwest*.
+>se
+sw
+[Elindale's Temple.]
+
+A large tapestry lines the outside wall of the passageway, most impressive in that it is not made of fabric, but of vines as tiny as thick hairs, growing in a weave. The delicate shadings of the plants is perfectly natural, and as the eye becomes unfocused, a picture of a diminutive, beautiful maiden sits amongst a foresty background. The wall opposite of this magnificent tapestry is lined with portraits of prominent temple leaders, the colors vibrant, bringing a life-like sense to the frames. The eyes of the maiden in the tapestry seem to follow you, staring directly as you pass, boring into your soul.  A vellum portrait, a canvas portrait, a suede portrait, some unfinished portraits, and a carefully painted silk screen are here.
+
+This room is illuminated.
+You see the 1st black cat (wearing a small gold collar).
+Obvious exits: southwest* northwest*.
+[Elindale's Temple.]
+
+You feel at peace and at ease with the warmth and love of Elindale that surrounds you.
+
+This room is illuminated.
+You see the 1st black cat (wearing a small gold collar).
+Obvious exits: north* northeast* southeast* south* southwest* west* northwest*.
+>
+ ** You are fully healed.
+nw
+[Elindale's Temple, Altar Room.]
+
+The hum of busy bees and hummingbirds add a tone of unity to the soft chants of the priests and murmurings of those here to offer up the sacrifices and tithes to the great Goddess, Elindale. Several monks wearing floor length robes sit in silence, with the occasional clasped hands rising up in a particularly vibrant part of prayer. The altar itself is composed of growing flowers, the tiny buds enclosing gems and gold alike. Around the base of the altar grows a ring of mushrooms, vibrantly cloaked in red with white spots dotting the umbrellas.  A healthy blooming altar of flowers and a red and white ring of mushrooms are here.
+
+This room is illuminated.
+You see the 1st black cat (wearing a small gold collar).
+Obvious exits: southeast*.
+>l in al
+Inside the healthy blooming altar of flowers you see a gooey marshmallow ghost, a gooey marshmallow ghost, an empty orange tinted glass of champaign, an orange tinted glass of champaign, a glass of delicious strawberry-banana fizz, a glass of fine Secian wine, a crystal goblet of cranberry harvest wine, a tiny cheese quiche, a beautiful red long-stemmed rose, a bottle of Saldean rum, a glass of elven wine, some lovely purple lilacs, a small crystal figurine, a glittering multicolored glass orb, an oak ring of Elindale, a small carved ivory unicorn figurine, a small carved ivory unicorn figurine, a small carved ivory unicorn figurine, a small carved ivory unicorn figurine, a radiant tiger's eye bead, a large magnificent obsidian charm, a large simple sapphire quartz charm, a small glittering crystal charm, some lovely purple lilacs, a beautiful Elven flower, a flower, a flower, a cheerful yellow and white daisy, a cheerful yellow and white daisy, and a cheerful yellow and white daisy.
+>se
+[Elindale's Temple.]
+
+You feel at peace and at ease with the warmth and love of Elindale that surrounds you.
+
+This room is illuminated.
+You see the 1st black cat (wearing a small gold collar).
+Obvious exits: north* northeast* southeast* south* southwest* west* northwest*.
+>n
+[Elindale's Temple, Meeting Room.]
+
+This section of branch is rounded out, forming a large room of sorts. The floor is scattered with several bunches of soft moss and bark, allowing comfortable sitting while larger groups discuss matters. Rainwater collected from the top of the tree maneuvers its way down inside, emerging into a steady stream of water. The water trails down into a basin formed in the wall itself, before continuing in the overflow down into the tree once again. The top of the area has grown in a split, opening wide to allow in fresh air and light from the stars.  A healthy green patch of clover, a soft mossy pile, some scented bark chips, a carved oak community chest, and a basin of water are here.
+
+This room is illuminated.
+You see the 1st black cat (wearing a small gold collar).
+Obvious exits: south*.
+>l in com
+Inside the carved oak community chest you see a quiver of steel tipped rosewood arrows, a quiver of steel tipped rosewood arrows, a quiver of steel tipped rosewood arrows, a quiver of steel tipped rosewood arrows, a quiver of steel tipped rosewood arrows, a wooden short bow, a small clay mug of yarrow infusion, a wooden splint, a sling, a lute, a clay jug of strong whiskey, a shiny silver familiar whistle, and a spool of silk thread.
+>s
+[Elindale's Temple.]
+
+You feel at peace and at ease with the warmth and love of Elindale that surrounds you.
+
+This room is illuminated.
+You see the 1st black cat (wearing a small gold collar).
+Obvious exits: north* northeast* southeast* south* southwest* west* northwest*.
+>ne
+nw
+[Elindale's Temple.]
+
+A large tapestry lines the outside wall of the passageway, most impressive in that it is not made of fabric, but of vines as tiny as thick hairs, growing in a weave. The delicate shadings of the plants is perfectly natural, and as the eye becomes unfocused, a picture of a diminutive, beautiful maiden sits amongst a foresty background. The wall opposite of this magnificent tapestry is lined with portraits of prominent temple leaders, the colors vibrant, bringing a life-like sense to the frames. The eyes of the maiden in the tapestry seem to follow you, staring directly as you pass, boring into your soul.  A vellum portrait, a canvas portrait, a suede portrait, some unfinished portraits, and a carefully painted silk screen are here.
+
+This room is illuminated.
+You see the 1st black cat (wearing a small gold collar).
+Obvious exits: southwest* northwest*.
+sw
+se
+[Elindale's Temple.]
+
+A diminutive niche in the wall provides shelter to a small family of flying squirrels. Just inside sit the young, comfortably settled into the soft bedding the parents have gathered up. A breeze carries their tiny chitters to your ears, revealing that the niche is somehow connected to the outside world as well.  A niche in the wall is here.
+
+This room is illuminated.
+You see the 1st black cat (wearing a small gold collar).
+Obvious exits: southeast* southwest*.
+[Elindale's Temple.]
+
+Encircling the innards of this tree, these steps coil clock-wise to the top, the entire environment one single living thing. There are no cracks, no signs of building. Tapestries on the wall appear life-like, suspended with no visible attachments.  A breathtaking tapestry is here.
+
+This room is illuminated.
+You see the 1st black cat (wearing a small gold collar).
+Obvious exits: northeast* southeast*.
+[Elindale's Temple.]
+
+This is the main entrance of a Temple of Elindale, the inside walls perfectly smooth with glowing magickal symbols upon the surfaces. The enormity of this tree becomes apparent as one travels up the stairs to the northwest. The air holds a fresh, new ambiance, pleasantly scented with sweet sap and rich, earthly undertones.  Some glowing magickal symbols and a brown oak staircase are here.
+
+This room is illuminated.
+You see the 1st black cat (wearing a small gold collar).
+Obvious exits: northwest*.
+>go st
+[Treehaven, Main Platform]
+
+New wooden planks fit side by side creating the walkway that extends proudly upon the reconstructed supports. The view of the forest to the northwest is quite panoramic, despite the burnt spikes of trees in the midst. A staircase here seems to have some enchantment, judging by the strange appearance of unicorns, bears and owls on the lower steps. Strange, due to the fact that they don't appear carved, painted, or put there by any hand-made means. It is as if the glyphs grew into the wood itself. Mysterious symbols are scattered throughout the portraits, which shimmer with a golden whisper as they are approached.
+
+This area is illuminated.
+You see the 1st black cat (wearing a small gold collar).
+Obvious paths: north* south* northwest*.
+>s
+[Treehaven, Main Platform]
+
+The recently repaired walkway lies clean and clear of the dust and debris that covered it a couple of weeks before.  The branches above house a large building, which was not there before the fire.  The bleakness of the burnt forest below stands as a reminder of recent events.  An oak ladder is here.
+
+This area is illuminated.
+You see the 1st black cat (wearing a small gold collar).
+Obvious paths: north* southwest*.
+>sw
+[Treehaven, Main Platform]
+
+The platform has been swept recently, revealing the new boards that have replaced some of the burned ones.  The remains of the old bank to the south have been completely cleared away, leaving just the shell of the old building there.  Intricately crafted stairs lead from the platform to the new building that resides in the upper branches.  An open door and a freshly painted wooden sign are here.
+
+This area is illuminated.
+You see the 1st black cat (wearing a small gold collar).
+Obvious paths: northeast* west*.
+>go door
+[Gaspar's Grog and Grub.]
+
+Four sturdy walls and a roof of woven branches enclose this small tavern. From the forest floor, winding their way around the trunk of the Mother Tree, a set of intricately railed steps serve as the entrance and exit of the town of Treehaven. Strangers arriving at the top of the steps find themselves under the watchful eye of patrons seated at tables positioned about the light, airy room. A set of oak steps lead up to the new Council chambers.  An ivory inlaid pine bar, a wooden stool, a long weathered wooden bench, a long musty wooden table, some steps circling the tree, some freshly crafted oak steps, an open door, a paper covered posting board, and a gilt framed painting on the wall are here.
+
+This room is illuminated.
+You see the 1st black cat (wearing a small gold collar).
+In the room are Seige the Anthian and Desperado the Draco (seated).
+Obvious exits: None.
+>
+Seige says, "also"
+bow deeply
+You bow deeply.
+>sit swiftly, with a flick of his grizzled old white-furred tail...
+You sit down swiftly, with a flick of his grizzled old white-furred tail....
+>
+Desperado bows mut.
+smi to d
+You smile to Desperado.
+>
+Desperado bows to you.
+l
+[Gaspar's Grog and Grub.]
+
+Four sturdy walls and a roof of woven branches enclose this small tavern. From the forest floor, winding their way around the trunk of the Mother Tree, a set of intricately railed steps serve as the entrance and exit of the town of Treehaven. Strangers arriving at the top of the steps find themselves under the watchful eye of patrons seated at tables positioned about the light, airy room. A set of oak steps lead up to the new Council chambers.  An ivory inlaid pine bar, a wooden stool, a long weathered wooden bench, a long musty wooden table, some steps circling the tree, some freshly crafted oak steps, an open door, a paper covered posting board, and a gilt framed painting on the wall are here.
+
+This room is illuminated.
+You see the 1st black cat (wearing a small gold collar).
+In the room are Seige the Anthian and Desperado the Draco (seated).
+Obvious exits: None.
+>who elindale
+Looking for a user with a name beginning with 'elindale'...
+
+Current Adventurers
+
+
+You notice 0 adventurers.
+>
+(Desperado slaps himself)
+gri to d
+You grin to Desperado.
+>wrin whiskers in amusement
+You wrinkle your nose whiskers in amusement.
+>
+Seige just went through some steps circling the tree.
+
+*->Seige just entered.
+
+*->Seige just went south.
+l
+[Gaspar's Grog and Grub.]
+
+Four sturdy walls and a roof of woven branches enclose this small tavern. From the forest floor, winding their way around the trunk of the Mother Tree, a set of intricately railed steps serve as the entrance and exit of the town of Treehaven. Strangers arriving at the top of the steps find themselves under the watchful eye of patrons seated at tables positioned about the light, airy room. A set of oak steps lead up to the new Council chambers.  An ivory inlaid pine bar, a wooden stool, a long weathered wooden bench, a long musty wooden table, some steps circling the tree, some freshly crafted oak steps, an open door, a paper covered posting board, and a gilt framed painting on the wall are here.
+
+This room is illuminated.
+You see the 1st black cat (wearing a small gold collar).
+In the room is Desperado the Draco (seated).
+Obvious exits: None.
+>
+*->Seige just entered from the south.
+
+*->Seige just went east.
+
+Desperado stands up.
+' a quiet place this
+
+Muther says, " a quiet place this"
+>nod to ds
+I don't see what you are referring to.
+>nod to d
+You nod to Desperado.
+>
+Desperado nods up and down.
+
+Desperado waves.
+wav
+You wave.
+>
+Desperado lies on the long weathered wooden bench.
+
+The black cat sprawls.
+l
+[Gaspar's Grog and Grub.]
+
+Four sturdy walls and a roof of woven branches enclose this small tavern. From the forest floor, winding their way around the trunk of the Mother Tree, a set of intricately railed steps serve as the entrance and exit of the town of Treehaven. Strangers arriving at the top of the steps find themselves under the watchful eye of patrons seated at tables positioned about the light, airy room. A set of oak steps lead up to the new Council chambers.  An ivory inlaid pine bar, a wooden stool, a long weathered wooden bench, a long musty wooden table, some steps circling the tree, some freshly crafted oak steps, an open door, a paper covered posting board, and a gilt framed painting on the wall are here.
+
+This room is illuminated.
+You see the 1st black cat (wearing a small gold collar).
+In the room is Desperado the Draco (lying down).
+Obvious exits: None.
+>l
+[Gaspar's Grog and Grub.]
+
+Four sturdy walls and a roof of woven branches enclose this small tavern. From the forest floor, winding their way around the trunk of the Mother Tree, a set of intricately railed steps serve as the entrance and exit of the town of Treehaven. Strangers arriving at the top of the steps find themselves under the watchful eye of patrons seated at tables positioned about the light, airy room. A set of oak steps lead up to the new Council chambers.  An ivory inlaid pine bar, a wooden stool, a long weathered wooden bench, a long musty wooden table, some steps circling the tree, some freshly crafted oak steps, an open door, a paper covered posting board, and a gilt framed painting on the wall are here.
+
+This room is illuminated.
+You see the 1st black cat (wearing a small gold collar).
+Obvious exits: None.
+>chu
+You chuckle.
+>stand very quietly
+You stand up very quietly.
+>hide
+You fail in your attempt to hide!
+>hide
+hide
+You fail in your attempt to hide!
+You fail in your attempt to hide!
+>hide
+hide
+You fail in your attempt to hide!
+You fail in your attempt to hide!
+>hide
+hide
+You fail in your attempt to hide!
+You fail in your attempt to hide!
+>furr at ca
+You furrow your brow at the black cat.
+>shru
+You shrug.
+>hide
+You slip into the shadows!
+>
+ ** You are fully rested.
+comm go door
+Send it where?
+[3 sec. delay]
+>comm go through door
+Send it where?
+[3 sec. delay]
+>comm go door
+Send it where?
+[3 sec. delay]
+>l at door
+It looks like an open door.
+>comm go through door
+Send it where?
+[3 sec. delay]
+>
+The black cat is stalking something that you cannot see.
+
+The black cat meows ominously.
+l
+[Gaspar's Grog and Grub.]
+
+Four sturdy walls and a roof of woven branches enclose this small tavern. From the forest floor, winding their way around the trunk of the Mother Tree, a set of intricately railed steps serve as the entrance and exit of the town of Treehaven. Strangers arriving at the top of the steps find themselves under the watchful eye of patrons seated at tables positioned about the light, airy room. A set of oak steps lead up to the new Council chambers.  An ivory inlaid pine bar, a wooden stool, a long weathered wooden bench, a long musty wooden table, some steps circling the tree, some freshly crafted oak steps, an open door, a paper covered posting board, and a gilt framed painting on the wall are here.
+
+This room is illuminated.
+You see the 1st black cat (wearing a small gold collar).
+Obvious exits: None.
+>go door
+You reveal yourself!
+[Treehaven, Main Platform]
+
+The platform has been swept recently, revealing the new boards that have replaced some of the burned ones.  The remains of the old bank to the south have been completely cleared away, leaving just the shell of the old building there.  Intricately crafted stairs lead from the platform to the new building that resides in the upper branches.  An open door and a freshly painted wooden sign are here.
+
+This area is illuminated.
+You see the 1st black cat (wearing a small gold collar).
+Obvious paths: northeast* west*.
+>comm go w
+
+The black cat just went west.
+[3 sec. delay]
+>comm go e
+
+A black cat just entered from the west.
+[3 sec. delay]
+>comm go through door
+Send it where?
+[3 sec. delay]
+>help comm
+
+Command name: command
+
+Description
+-----------
+COMMAND allows you to issue commands to your pet(s), or to see the list of available commands.
+
+Syntax
+------
+COMMAND <action>
+
+Examples
+--------
+COMMAND (displays the list of available commands). COMMAND att rog (will display Ok) when successful and (displays The stallion bites at the rogue) when your pet begins to attack.
+
+>
+ ** You are fully rested.
+who staff
+Staff who list activated!
+
+Current Adventurers
+
+
+You notice 0 adventurers.
+>wrin
+You wrinkle your nose.
+>wrin whiskers
+You wrinkle your nose whiskers.
+>comm go enter door
+Send it where?
+[3 sec. delay]
+>l
+[Treehaven, Main Platform]
+
+The platform has been swept recently, revealing the new boards that have replaced some of the burned ones.  The remains of the old bank to the south have been completely cleared away, leaving just the shell of the old building there.  Intricately crafted stairs lead from the platform to the new building that resides in the upper branches.  An open door and a freshly painted wooden sign are here.
+
+This area is illuminated.
+You see the 1st black cat (wearing a small gold collar).
+Obvious paths: northeast* west*.
+>go door
+[Gaspar's Grog and Grub.]
+
+Four sturdy walls and a roof of woven branches enclose this small tavern. From the forest floor, winding their way around the trunk of the Mother Tree, a set of intricately railed steps serve as the entrance and exit of the town of Treehaven. Strangers arriving at the top of the steps find themselves under the watchful eye of patrons seated at tables positioned about the light, airy room. A set of oak steps lead up to the new Council chambers.  An ivory inlaid pine bar, a wooden stool, a long weathered wooden bench, a long musty wooden table, some steps circling the tree, some freshly crafted oak steps, an open door, a paper covered posting board, and a gilt framed painting on the wall are here.
+
+This room is illuminated.
+In the room is Romilin the Noble Psycian (seated and holding a flaming paper lantern).
+Obvious exits: None.
+>gri
+You grin.
+>
+*->Seige dives out of the sky, and just as you think he will crash, he unfolds his wings and lands softly beside you.
+
+*->Seige sits down.
+l
+[Gaspar's Grog and Grub.]
+
+Four sturdy walls and a roof of woven branches enclose this small tavern. From the forest floor, winding their way around the trunk of the Mother Tree, a set of intricately railed steps serve as the entrance and exit of the town of Treehaven. Strangers arriving at the top of the steps find themselves under the watchful eye of patrons seated at tables positioned about the light, airy room. A set of oak steps lead up to the new Council chambers.  An ivory inlaid pine bar, a wooden stool, a long weathered wooden bench, a long musty wooden table, some steps circling the tree, some freshly crafted oak steps, an open door, a paper covered posting board, and a gilt framed painting on the wall are here.
+
+This room is illuminated.
+In the room is Romilin the Noble Psycian (seated and holding a flaming paper lantern).
+Obvious exits: None.
+>
+*->Seige places his hands upon his chest and prays a moment.
+go door
+[Treehaven, Main Platform]
+
+The platform has been swept recently, revealing the new boards that have replaced some of the burned ones.  The remains of the old bank to the south have been completely cleared away, leaving just the shell of the old building there.  Intricately crafted stairs lead from the platform to the new building that resides in the upper branches.  An open door and a freshly painted wooden sign are here.
+
+This area is illuminated.
+You see the 1st black cat (wearing a small gold collar).
+Obvious paths: northeast* west*.
+>ne
+[Treehaven, Main Platform]
+
+The recently repaired walkway lies clean and clear of the dust and debris that covered it a couple of weeks before.  The branches above house a large building, which was not there before the fire.  The bleakness of the burnt forest below stands as a reminder of recent events.  An oak ladder is here.
+
+This area is illuminated.
+Obvious paths: north* southwest*.
+>sw
+[Treehaven, Main Platform]
+
+The platform has been swept recently, revealing the new boards that have replaced some of the burned ones.  The remains of the old bank to the south have been completely cleared away, leaving just the shell of the old building there.  Intricately crafted stairs lead from the platform to the new building that resides in the upper branches.  An open door and a freshly painted wooden sign are here.
+
+This area is illuminated.
+You see the 1st black cat (wearing a small gold collar).
+Obvious paths: northeast* west*.
+>go st
+[New Treehaven Bank]
+
+The smell of freshly cut lumber fills the large lobby of the newly finished bank.  The roof is a collage of intertwined branches and their leaves from above, with a delicately crafted wooden lattice frame set with glass panels just beneath.  The trunk of the Mother tree serves as the back wall of the bank, with the tellers sitting at booths just in front of it.  Some freshly crafted wooden stairs are here.
+
+This room is illuminated.
+In the room is Marinda the Noble Secian.
+Obvious exits: None.
+>bow to m
+I don't see what you are referring to.
+>bow to ma
+You bow to Marinda.
+>l
+[New Treehaven Bank]
+
+The smell of freshly cut lumber fills the large lobby of the newly finished bank.  The roof is a collage of intertwined branches and their leaves from above, with a delicately crafted wooden lattice frame set with glass panels just beneath.  The trunk of the Mother tree serves as the back wall of the bank, with the tellers sitting at booths just in front of it.  Some freshly crafted wooden stairs are here.
+
+This room is illuminated.
+In the room is Marinda the Noble Secian.
+Obvious exits: None.
+>
+Marinda smiles.
+bank req box
+
+You approach a teller and quietly request your safety deposit box...
+
+The teller hands you a closed steel box.
+The teller says, "Please don't leave the bank with it.  Return it to me when you're done."
+>op box
+l in box
+You open the closed steel box.
+>There is nothing inside that.
+>inv
+Items carried:
+  A simple leather armor [1.1 lb].
+  An open large leather backpack [24.6 lbs].
+  An iron morningstar [3.0 lbs].
+  A pitch black cotton shirt [0.0 lbs].
+  A Leuian Pride ring [0.0 lbs].
+  A bronze mace [0.5 lbs].
+  An obsidian ring of Taath [0.1 lbs].
+  Some leather Tzeacal hunting robes [7.7 lbs].
+  A light forest green steelwood brigandine [20.9 lbs].
+  An open steel box [0.1 lbs].
+  An unholy jagged obsidian vulture charm [0.1 lbs].
+  A wooden sword [0.2 lbs].
+  A glass vial [0.2 lbs].
+  A pair of pitch black bearskin pants [0.1 lbs].
+  A pair of pitch black workman's boots [0.1 lbs].
+
+You have 0 silver pieces and 1 gold piece.
+
+This gives you a total net worth of 100 silver.
+
+Your inventory totals 58.7 lbs.
+>l in bac
+Inside the open large leather backpack you see a barbecued black bean and chicken crisp, a half-eaten sauteed landshark steak, a cup of honor, a glass of water, an iron morningstar, an iron morningstar, an iron morningstar, a deer flank, some half-eaten dark Sanene scalloped potatoes, a dried smoked lizard jerkey, a glass of fruit juice, a wooden torch, a peppermint stick, a paper lantern, a simple leather armor, a simple leather armor, a simple leather armor, a simple leather armor, a wooden torch, and a large waterskin.
+>get pep from bac
+You remove the peppermint stick from your open large leather backpack.
+>off pep to ma
+You offer Marinda a peppermint stick.
+
+>smi to ma
+You smile to Marinda.
+>
+Marinda accepts your peppermint stick.
+
+Marinda says, "thanks"
+' sugar/
+
+Marinda grins at you.
+
+Muther says, " sugar/"
+>' most welcome
+
+Muther says, " most welcome"
+>l at ma
+
+Marinda looks like a 1'0" standard adolescent light boned, slender bodied Secian.
+She has long, straight, baby fine platinum blonde hair, with ruby red eyes, and looks casual.
+She appears to be perplexed right now.
+She bears the mark of Elindale.
+She can be attacked by other players.
+
+On her wings are delicate, intricate ruby swirls that shimmer with the slightest movement.
+
+She appears to be in perfect health.
+There is a shining gold emblem affixed to her clothing.
+                        Visible Equipment
+A multicolored crystal holy sigil                  (around neck)
+A pair of light black doeskin slippers             (on feet)
+A long black spidersilk skirt                      (pants)
+A loose black spidersilk blouse                    (shirt)
+
+
+Her head is enveloped by an amber aura.  (Strong)
+
+She has been bestowed the following title(s):
+  Noble of the Realm
+
+>' Elindale
+
+Muther says, " Elindale"
+>gri to ma
+You grin to Marinda.
+>
+Marinda nods.
+
+Marinda smiles.
+' I was hoping to speak to a Cleric
+
+Muther says, " I was hoping to speak to a Cleric"
+>sp sec
+You are now speaking Secti.
+>who cleric
+
+                Current Cleric Adventurers:
+
+Current Adventurers
+
+ Pluck Eone                          Batch Stonehand                    
+ Elerissi Kedalacien                 Alrych Behenax                     
+ Julien Eversoul                     Sangaril Jihana                    
+ Kiralyn Averendil                   Ripley Thistleridge                
+ Seige Dementor                      Muther Gunn                        
+ Alwin Arlt                          Revalk Yesac                       
+ Vincentiv Landstalker               Aeyon Maeio                        
+ Marinda Martins                     Dogear Tandem                      
+ Jurrel Mulari                       Gunnar Baen                        
+
+You notice 18 adventurers.
+>
+Marinda asks, "bout convrtin?"
+' can one convert here?
+
+Muther asks in Secti, " can one convert here?"
+>nod to ma
+You nod to Marinda.
+>
+The amber glow about Marinda's head dims and fades away.
+
+Marinda nods.
+
+Marinda says, "at the temple"
+' would it be okay for me to enter therein?
+
+Muther asks in Secti, " would it be okay for me to enter therein?"
+>rai at ma
+You raise an eyebrow at Marinda.
+>
+Marinda nods.
+
+Marinda is looking at you.
+twit at Marinda
+nod to Marinda , dredlocks swinging gently
+You twitch your tail at Marinda.
+>You nod to Marinda, dredlocks swinging gently.
+>smi to ma
+You smile to Marinda.
+>bow to ma
+You bow to Marinda.
+>
+Marinda smiles.
+wav
+You wave.
+>
+Marinda asks, "ya know where it is?"
+nod yes
+You nod up and down.
+>gri
+You grin.
+>
+Marinda grins.
+l
+[New Treehaven Bank]
+
+The smell of freshly cut lumber fills the large lobby of the newly finished bank.  The roof is a collage of intertwined branches and their leaves from above, with a delicately crafted wooden lattice frame set with glass panels just beneath.  The trunk of the Mother tree serves as the back wall of the bank, with the tellers sitting at booths just in front of it.  Some freshly crafted wooden stairs are here.
+
+This room is illuminated.
+In the room is Marinda the Noble Secian.
+Obvious exits: None.
+>
+Marinda says, "ok"
+' Thank you
+
+Muther says in Secti, " Thank you"
+>go st
+A bank guard blocks you from leaving!
+
+The bank guard whispers, "Please return the safety-deposit box before leaving."
+>bank ret box
+
+You approach a teller and quietly request to return your safety deposit box...
+
+The teller accepts the open steel box and places it back in the vault.
+>go st
+[Treehaven, Main Platform]
+
+The platform has been swept recently, revealing the new boards that have replaced some of the burned ones.  The remains of the old bank to the south have been completely cleared away, leaving just the shell of the old building there.  Intricately crafted stairs lead from the platform to the new building that resides in the upper branches.  An open door and a freshly painted wooden sign are here.
+
+This area is illuminated.
+You see the 1st black cat (wearing a small gold collar).
+Obvious paths: northeast* west*.
+>hide
+You slip into the shadows!
+>comm go door door
+Send it where?
+[3 sec. delay]
+>sk
+
+Skill                     Remain Level
+ Clawing                   1068   7     
+ First Aid                 178    2     
+ Spellcasting              423    5     
+ Blunt Weapons             227    4     
+ Channeling                292    5     
+ Identify Weapon Quality   100    1     
+
+>
+ ** You are fully rested.
+l
+[Treehaven, Main Platform]
+
+The platform has been swept recently, revealing the new boards that have replaced some of the burned ones.  The remains of the old bank to the south have been completely cleared away, leaving just the shell of the old building there.  Intricately crafted stairs lead from the platform to the new building that resides in the upper branches.  An open door and a freshly painted wooden sign are here.
+
+This area is illuminated.
+You see the 1st black cat (wearing a small gold collar).
+Obvious paths: northeast* west*.
+>quit
+
+    Dragon's Gate Menu
+
+ 1. Explore Dragon's Gate.
+ 2. Create, Delete, or View a character.
+ 3. Select current character.
+ 4. Display notices and version notes.
+16. Disconnect.
+
+Your active character is: Muther Gunn
+
+Your selection? 
+16
+
+ ** Goodbye from Mythic Entertainment! **

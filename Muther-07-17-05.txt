@@ -1,0 +1,2478 @@
+
+Kierra nuzzles Mariskia.
+tact
+Standing in this rank is:
+Audun, Stormy, Faron, Sevyn, Rafe, Mariskia, Darla, Hott, Tiruna, Kandil, Tchori, Kenetic, Kierra, Muther, Crax, Shaleu, monarch butterfly, tawny furred mountain lynx
+l
+>[Village.]
+
+The chipped bark path widens to encompass a broad square between the peaked roofs of the village homes, the larger storefronts, and several communal buildings that all surround a magnificent fountain crafted from local sandstone. The multi-tiered fountain flows with pure, clean springwater and provides seating around its broad base.  The towering trees surround the village, enclosing the square in a living frame.  To the west is a sturdy building with its door perpetually ajar. A line of Leuian children trots off towards the north, bearing their lessons. The faint ding of nautical bells flows in on the breeze from the northwest.   A flowing gold-flecked sandstone fountain is here.
+
+This area is illuminated.
+You see the 1st monarch butterfly (wearing a small gold collar) and the 1st tawny furred mountain lynx (wearing a small gold collar).
+In the area are Audun the Noble Leuian (seated), Stormy the Leuian (seated), Faron the Novice Leuian, Sevyn the Noble Leuian (seated), Rafe the Leuian, Mariskia the Noble Leuian (seated), Darla the Novice Leuian (a monarch butterfly upon her left shoulder), Hott the Noble Leuian (seated), Tiruna the Noble Leuian, Kandil the Leuian (seated), Tchori the Leuian, Kenetic the Leuian, Kierra the Leuian, Crax the Leuian, and Shaleu the Leuian.
+Obvious paths: north* northeast* east* southeast* south* southwest* west*.
+>
+Kandil stands up.
+
+Hott grins.
+
+Tiruna is now following Audun.
+
+Kandil is now following Shaleu.
+
+Shaleu says in Leuian, "I wish to wait a bit "
+
+Sevyn stands up.
+
+Mariskia smiles at Crax.
+
+Sevyn has left Kenetic's group.
+
+Hott stands up.
+
+Kierra says to Mariskia in Leuian, "kyn did i miss something"
+
+Sevyn is now following Shaleu.
+
+Kierra smiles at Mariskia.
+
+Darla twitches her tail.
+
+Tchori blinks.
+
+Shaleu says in Leuian, "I plan for us to gather at the choosen site for our Hall"
+
+Audun stands up.
+
+Audun is now following Shaleu.
+
+Stormy asks in Leuian, "?"
+
+Tchori's head suddenly begins glowing. He places a hand upon his chest. The glow travels down an arm to his hand. The glow quickly spreads over Tchori's entire body, then fades away.
+
+beam
+You beam.
+>
+Stormy stands up.
+
+Mariskia shakes her head from side to side to Kierra.
+
+Tiruna smiles at Shaleu.
+l
+[Village.]
+
+The chipped bark path widens to encompass a broad square between the peaked roofs of the village homes, the larger storefronts, and several communal buildings that all surround a magnificent fountain crafted from local sandstone. The multi-tiered fountain flows with pure, clean springwater and provides seating around its broad base.  The towering trees surround the village, enclosing the square in a living frame.  To the west is a sturdy building with its door perpetually ajar. A line of Leuian children trots off towards the north, bearing their lessons. The faint ding of nautical bells flows in on the breeze from the northwest.   A flowing gold-flecked sandstone fountain is here.
+
+This area is illuminated.
+You see the 1st monarch butterfly (wearing a small gold collar) and the 1st tawny furred mountain lynx (wearing a small gold collar).
+In the area are Audun the Noble Leuian, Stormy the Leuian, Faron the Novice Leuian, Sevyn the Noble Leuian, Rafe the Leuian, Mariskia the Noble Leuian (seated), Darla the Novice Leuian (a monarch butterfly upon her left shoulder), Hott the Noble Leuian, Tiruna the Noble Leuian, Kandil the Leuian, Tchori the Leuian, Kenetic the Leuian, Kierra the Leuian, Crax the Leuian, and Shaleu the Leuian.
+Obvious paths: north* northeast* east* southeast* south* southwest* west*.
+>
+Hott says in Leuian, "fine"
+stand silently
+You stand up silently.
+>
+Shaleu says in Leuian, "it may take time for the Hall to be buile"
+
+ ** You are fully rested.
+
+Kierra says to Mariskia in Leuian, "ok i just wanted tomake sure i was not being rude"
+foll sha
+You follow Shaleu.
+>
+Shaleu says in Leuian, "built"
+
+Darla is now following Shaleu.
+
+Mariskia stands up.
+
+Shaleu says in Leuian, "but we can gather at the site"
+
+Mariskia is now following Shaleu.
+
+Kierra says to Mariskia in Leuian, "i mat have missed something"
+
+Crax is now following Shaleu.
+show group
+Audun is in your group.
+Sevyn is in your group.
+Rafe is in your group.
+Mariskia is in your group.
+Darla is in your group.
+Tiruna is in your group.
+Kandil is in your group.
+Crax is in your group.
+Shaleu is in your group.
+Your group has 10 people!
+l
+>[Village.]
+
+The chipped bark path widens to encompass a broad square between the peaked roofs of the village homes, the larger storefronts, and several communal buildings that all surround a magnificent fountain crafted from local sandstone. The multi-tiered fountain flows with pure, clean springwater and provides seating around its broad base.  The towering trees surround the village, enclosing the square in a living frame.  To the west is a sturdy building with its door perpetually ajar. A line of Leuian children trots off towards the north, bearing their lessons. The faint ding of nautical bells flows in on the breeze from the northwest.   A flowing gold-flecked sandstone fountain is here.
+
+This area is illuminated.
+You see the 1st monarch butterfly (wearing a small gold collar) and the 1st tawny furred mountain lynx (wearing a small gold collar).
+In the area are Audun the Noble Leuian, Stormy the Leuian, Faron the Novice Leuian, Sevyn the Noble Leuian, Rafe the Leuian, Mariskia the Noble Leuian, Darla the Novice Leuian (a monarch butterfly upon her left shoulder), Hott the Noble Leuian, Tiruna the Noble Leuian, Kandil the Leuian, Tchori the Leuian, Kenetic the Leuian, Kierra the Leuian, Crax the Leuian, and Shaleu the Leuian.
+Obvious paths: north* northeast* east* southeast* south* southwest* west*.
+>
+Crax smiles at Mariskia.
+
+Stormy is now following Shaleu.
+tact
+Standing in this rank is:
+Audun, Stormy, Faron, Sevyn, Rafe, Mariskia, Darla, Hott, Tiruna, Kandil, Tchori, Kenetic, Kierra, Muther, Crax, Shaleu, monarch butterfly, tawny furred mountain lynx
+>
+Kierra has left Kenetic's group.
+
+Sevyn grins.
+
+Kierra is now following Shaleu.
+
+Kierra nods.
+
+Hott says in Leuian, "gad girls and boys"
+' the Pride grows
+
+Muther says in Leuian, " the Pride grows"
+beam
+>You beam.
+>
+Kandil says to Hott in Leuian, "hmmm equality"
+
+Kandil grins to Hott.
+
+The monarch butterfly hovers a few feet off of the ground.
+
+Sevyn leans on Kandil.
+
+Hott blushes.
+
+Darla twitches her tail her tail and whiskers.
+show group
+
+Faron has left Kenetic's group.
+
+Faron is now following Shaleu.
+Audun is in your group.
+Stormy is in your group.
+Faron is in your group.
+Sevyn is in your group.
+Rafe is in your group.
+Mariskia is in your group.
+Darla is in your group.
+Tiruna is in your group.
+Kandil is in your group.
+Kierra is in your group.
+Crax is in your group.
+Shaleu is in your group.
+Your group has 13 people!
+>
+Darla smiles at the monarch butterfly.
+
+Kierra says in Leuian, "reyquazza...do not play rough with the butterfly"
+
+Tchori smiles at Shaleu.
+
+Tchori says in Leuian, "done"
+
+Darla holds the monarch butterfly close.
+
+Darla comforts the monarch butterfly.
+
+Tiruna says in Leuian, "is everyone following Shaleu"
+
+Shaleu chuckles.
+
+Kierra says to the tawny furred mountain lynx in Leuian, "'reyquazza...do not play rough with the butterfly"
+
+Crax leans on Mariskia.
+
+Tchori is now following Shaleu.
+
+Faron smiles at Kierra subtly.
+
+Shaleu says in Leuian, "we all following"
+
+Hott is now following Shaleu.
+show group
+Audun is in your group.
+Stormy is in your group.
+Faron is in your group.
+Sevyn is in your group.
+Rafe is in your group.
+Mariskia is in your group.
+Darla is in your group.
+Hott is in your group.
+Tiruna is in your group.
+Kandil is in your group.
+Tchori is in your group.
+Kierra is in your group.
+Crax is in your group.
+Shaleu is in your group.
+Your group has 15 people!
+>
+Kierra says in Leuian, "yes"
+
+Kandil says in Leuian, "hope so"
+
+Stormy blinks.
+
+Shaleu says in Leuian, "ok we will move south"
+
+You follow Shaleu east...
+
+[Village.]
+
+The village homes snuggle closer together as the path nears the town center, and eventually widens to include a few communal buildings and a burbling fountain to the west.  The village bustles with life at all hours. Towering trees spread their branches over the buildings, as if embracing them.    A stack of rocks and an overgrown back alley are here.
+
+This area is illuminated.
+You see the 1st monarch butterfly (wearing a small gold collar) and the 1st tawny furred mountain lynx (wearing a small gold collar).
+In the area are Audun the Noble Leuian, Stormy the Leuian, Faron the Novice Leuian, Sevyn the Noble Leuian, Rafe the Leuian, Mariskia the Noble Leuian, Darla the Novice Leuian (a monarch butterfly upon her left shoulder), Hott the Noble Leuian, Tiruna the Noble Leuian, Kandil the Leuian, Tchori the Leuian, Kierra the Leuian, Crax the Leuian, and Shaleu the Leuian.
+Obvious paths: north* northeast* east* southeast* south* southwest* west* northwest*.
+
+The monarch butterfly gracefully circles around the room.
+l n
+[Village.]
+
+Amidst the towering trees and verdant mid level bushes, several smaller cabins blend into the surrounding park. The peaked roofs of the cabins bear the familiar carving as seen on most of the village homes and their small porches sport plantings of flowering wild roses and perky daisies accented with the fronds of leather ferns and shelf fungus.  A closed chiseled petrified redwood door, a closed arched slate grey granite boulder door, a closed salt stained cargo hatch, a closed vine etched glass door, and a decaying pile of planks are here.
+
+This area is illuminated.
+Obvious paths: east* southeast* south* northwest*.
+l w
+>
+Darla grins at the monarch butterfly.
+[Village.]
+
+The chipped bark path widens to encompass a broad square between the peaked roofs of the village homes, the larger storefronts, and several communal buildings that all surround a magnificent fountain crafted from local sandstone. The multi-tiered fountain flows with pure, clean springwater and provides seating around its broad base.  The towering trees surround the village, enclosing the square in a living frame.  To the west is a sturdy building with its door perpetually ajar. A line of Leuian children trots off towards the north, bearing their lessons. The faint ding of nautical bells flows in on the breeze from the northwest.   A flowing gold-flecked sandstone fountain is here.
+
+This area is illuminated.
+In the area is Kenetic the Leuian.
+Obvious paths: north* northeast* east* southeast* south* southwest* west*.
+>
+Shaleu says in Leuian, "to the north is the cottages"
+' kenetic
+
+Muther says in Leuian, " kenetic"
+chu
+>You chuckle.
+>
+Darla chuckles softly.
+
+You follow Shaleu north...
+
+[Village.]
+
+Amidst the towering trees and verdant mid level bushes, several smaller cabins blend into the surrounding park. The peaked roofs of the cabins bear the familiar carving as seen on most of the village homes and their small porches sport plantings of flowering wild roses and perky daisies accented with the fronds of leather ferns and shelf fungus.  A closed chiseled petrified redwood door, a closed arched slate grey granite boulder door, a closed salt stained cargo hatch, a closed vine etched glass door, and a decaying pile of planks are here.
+
+This area is illuminated.
+You see the 1st monarch butterfly (wearing a small gold collar) and the 1st tawny furred mountain lynx (wearing a small gold collar).
+In the area are Audun the Noble Leuian, Stormy the Leuian, Faron the Novice Leuian, Sevyn the Noble Leuian, Rafe the Leuian, Mariskia the Noble Leuian, Darla the Novice Leuian (a monarch butterfly upon her left shoulder), Hott the Noble Leuian, Tiruna the Noble Leuian, Kandil the Leuian, Tchori the Leuian, Kierra the Leuian, Crax the Leuian, and Shaleu the Leuian.
+Obvious paths: east* southeast* south* northwest*.
+
+Tiruna taps her polished red leather thigh-high boots on the ground.
+
+Shaleu says in Leuian, "now one more east"
+
+Hott says in Leuian, "ah ken usually lost"
+
+You follow Shaleu east...
+
+[Commodore Island Park.]
+
+A grove of young, green-needled pine trees surrounds a small meadow of vibrantly flowering rhododendrons. Hues of bright pink, red, and white create a stunning contrast against the darker grey bark of the pines. Brighter green hemlock trees spread to catch the sunlight, which, in turn, shelter smaller stands of delicious salmonberry bushes, airy leather ferns, and poignantly fragranced sorrels that thrive on the compost of the forest floor. Soft haircap moss covers the river stone-lined path, dew from the mist collecting on it like pollen on bees. The distant wash of rushing water quietly filters through the peaceful air that hangs heavily saturated with moisture.  A stack of rocks is here.
+
+This area is illuminated.
+You see the 1st monarch butterfly (wearing a small gold collar) and the 1st tawny furred mountain lynx (wearing a small gold collar).
+In the area are Audun the Noble Leuian, Stormy the Leuian, Faron the Novice Leuian, Sevyn the Noble Leuian, Rafe the Leuian, Mariskia the Noble Leuian, Darla the Novice Leuian (a monarch butterfly upon her left shoulder), Hott the Noble Leuian, Tiruna the Noble Leuian, Kandil the Leuian, Tchori the Leuian, Kierra the Leuian, Crax the Leuian, and Shaleu the Leuian.
+Obvious paths: southeast* south* west*.
+gri to ho
+You grin to Hott.
+>
+Shaleu smiles.
+
+Sevyn chuckles.
+
+Shaleu says in Leuian, "this site will be the home of the Pride Hall"
+
+Kandil smiles.
+
+Kierra smiles.
+
+Tchori purrs.
+
+Kierra purrs.
+
+Tiruna purrs.
+
+Kierra says in Leuian, "nice"
+
+Kandil sits down.
+lean stack
+You lean on the stack of rocks.
+>
+Audun purrs softly.
+
+Faron glances all around the area.
+
+Tiruna says in Leuian, "and where the khit'ra will be tomorrow"
+
+Hott hugs Tchori.
+
+Kandil asks in Leuian, "will there be champagne?"
+
+Tchori hugs Hott.
+
+Shaleu says in Leuian, "and from now on we will gather here"
+'tir, ' give Dac my blessings on the morrow?...i shall not be able to come
+
+Muther asks Tiruna in Leuian, "' give Dac my blessings on the morrow?...i shall not be able to come"
+>
+Kierra says in Leuian, "but not till after"
+
+Tiruna says in Leuian, "not for you Kandil"
+
+Mariskia asks in Leuian, "whose Kit'ra?"
+
+Kierra giggles.
+
+Shaleu says in Leuian, "NO NO NO"
+
+Crax says to Mariskia in Leuian, "Dac Darkstar"
+
+Shaleu says in Leuian, "you can go south to Septembers for that"
+
+Kandil snaps her fingers.
+
+Hott says in Leuian, "gad girls"
+chu wryly
+You chuckle wryly.
+>
+Sevyn chuckles.
+
+Audun asks in Leuian, "Had enough of drink at our festivals?"
+
+Audun smiles lightly.
+
+Shaleu says in Leuian, "So let us begin our meeting"
+
+Kierra sits down.
+sit swiftly, with a flick of his grizzled old white-furred tail...
+
+Kierra removes her heavy studded leather mail.
+
+Shaleu says in Leuian, "please sit everyong"
+You sit down swiftly, with a flick of his grizzled old white-furred tail....
+>
+Kandil says to Audun in Leuian, "never gonna live it down"
+
+Kandil blushes.
+
+Hott sits down.
+
+Sevyn sits down.
+
+Stormy sits down.
+l at ke
+I don't see what you are referring to.
+>
+Tchori sits down.
+
+Kierra removes her shadowy black velvet coif.
+
+Rafe sits down.
+
+Crax sits down.
+
+Kandil removes her heavy polished steelwood mail.
+
+Crax removes his diamond inlaid moonsilver buckler.
+' shall i ask Kenetic to join us?
+
+Muther asks in Leuian, " shall i ask Kenetic to join us?"
+>
+Shaleu says in Leuian, "please keep eyes and ears open for other to show up"
+
+Tchori's head suddenly begins glowing. He touches Muther briefly. The glow travels down an arm to his hand. The glow quickly spreads over Muther's entire body, then fades away.
+
+
+Your mind begins to fill with the sounds of tiny voices!
+
+Mariskia sits down between Hott and Crax.
+
+Tiruna removes her heavy leather Tzeacal hunting robes.
+
+Shaleu says in Leuian, "he might like it"
+bow to tc
+You bow to Tchori.
+>
+Faron fidgets moving a bit closer to kierra and away for the many leuian .
+
+Shaleu grins at you.
+
+Tchori bows to you.
+
+Stormy blinks.
+
+Audun sits down quietly.
+
+Tiruna nuzzles Faron.
+
+Kandil smiles to Faron.
+
+Kierra says to Faron in Leuian, "remover your armor please"
+
+Hott says in Leuian, "ye lost as usuall"
+cont kenetic east north and east old friend
+Done.
+>
+Tiruna sits down in Audun's lap.
+
+Faron removes his forest green leather Tzeacal hunting robes.
+
+Darla removes her heavy suit of bark training armor.
+
+Stormy removes his heavy polished steelwood mail.
+
+Faron fidgets.
+
+Shaleu removes her heavy ruby encrusted steelwood mail.
+
+Rafe removes his emiel wrapped blackthorn staff.
+
+Sevyn removes his golden lionskin pelt.
+
+Kierra says in Leuian, "you are with family"
+rem sca
+You remove your heavy blood red lacquered bone scale mail.
+>
+Shaleu stores her silver-trimmed teak mandolin.
+
+Faron glances at Kierra.
+
+Kandil says to Darla in Leuian, "oh we gonna fix that fast"
+
+Darla stretches and shakes her fur out.
+
+Kierra smiles.
+
+Shaleu grins.
+
+Kandil winks to Darla.
+
+Audun removes his heavy finely crafted Leuian leather mail.
+
+Hott grins.
+
+Darla blinks at Kandil.
+
+Kierra says to Faron in Leuian, "i promise it will be ok"
+
+Hott says in Leuian, "gad kits"
+
+Shaleu nuzzles Kierra.
+
+Shaleu laughs.
+
+Kierra nuzzles Shaleu.
+tact
+Standing in this rank is:
+Audun, Stormy, Faron, Sevyn, Rafe, Mariskia, Darla, Hott, Tiruna, Kandil, Tchori, Kierra, Muther, Crax, Shaleu, monarch butterfly, tawny furred mountain lynx
+>
+Kierra says in Leuian, "we can be a bit overwheming"
+
+Shaleu says in Leuian, "for you new khits I am Shaleu Dragins"
+
+Kierra blushes.
+
+Shaleu says in Leuian, "I am Khatyra of the Pride"
+
+Kierra grins.
+
+Tiruna reaches out and tenderly joins hands with Audun.
+
+Tiruna's stomach growls.
+
+Audun nuzzles Tiruna.
+
+Shaleu says in Leuian, "and Your Pride welcomes you"
+
+Kandil smiles happily.
+
+Shaleu glances at Faron.
+
+Stormy blinks.
+
+Kierra smiles.
+
+Hott says in Leuian, "and  hott a poor cleric"
+
+Tiruna just removed some half-eaten crunchy honey hazelnuts from within her open rainbow leather healer's bag.
+
+Shaleu says in Leuian, "can you please stand and tell us a little about yourselves"
+You see Tiruna take a bite of her half-eaten crunchy honey hazelnuts.
+
+Tiruna belches.
+
+Shaleu smiles at Faron.
+
+Tiruna blushes.
+You see Tiruna take a bite of her half-eaten crunchy honey hazelnuts.
+
+Tiruna belches.
+
+Shaleu says in Leuian, "do not mind the old khat there"
+
+Tiruna glances at the half-eaten crunchy honey hazelnuts.
+
+Kierra says to Faron in Leuian, "it is ok"
+
+Hott grins.
+
+Shaleu says in Leuian, "rudeness is just one of her traits"
+
+Kenetic, swishing his tail excitedly, just entered from the west.
+smi to ke
+You smile to Kenetic.
+>
+Sevyn says to Tiruna in Leuian, "maybe you shouldn't eat those anymore."
+
+Kenetic smiles.
+
+Shaleu nods to Faron.
+
+Sevyn grins.
+
+Darla chuckles softly.
+
+Audun nuzzles Tiruna.
+
+Kierra says to Faron in Leuian, "just tell us a little about you"
+
+Audun smiles lightly.
+
+Tiruna says in Leuian, "and I though waybread was bad"
+
+Hott listens intently.
+
+Kenetic whispers in Leuian, "why here?"
+list to far
+You listen intently to Faron.
+>
+Kierra smiles happi;y to faron.
+
+Shaleu says in Leuian, "and the rest please listen"
+
+Faron fidgets.
+You see Sevyn trying to eat his bowl of Leuian warrior stew.
+
+Faron says in Leuian, "umm..."
+wh to ken new pridehall will be built here
+You whisper to Kenetic in Leuian.
+>You see Sevyn take a drink from his bowl of Leuian warrior stew.
+
+Faron glances left and right.
+
+Tiruna smiles encouragingly at Faron.
+
+Kenetic whispers in Leuian, "ahh"
+You see Sevyn take a drink from his bowl of Leuian warrior stew.
+
+Kierra nuzzles Faron.
+
+Faron glances at Kierra.
+
+Kierra nods up and down.
+
+Kenetic whispers in Leuian, "my house just west"
+
+Crax leans on Mariskia.
+wh to ken good kharma 
+You whisper to Kenetic in Leuian.
+>
+Stormy blinks.
+
+Mariskia just removed a khatnyp tea from within her open large white leather backpack.
+
+Faron says in Leuian, "what do ytou want me to say"
+l w
+[Village.]
+
+Amidst the towering trees and verdant mid level bushes, several smaller cabins blend into the surrounding park. The peaked roofs of the cabins bear the familiar carving as seen on most of the village homes and their small porches sport plantings of flowering wild roses and perky daisies accented with the fronds of leather ferns and shelf fungus.  A closed chiseled petrified redwood door, a closed arched slate grey granite boulder door, a closed salt stained cargo hatch, a closed vine etched glass door, and a decaying pile of planks are here.
+
+This area is illuminated.
+Obvious paths: east* southeast* south* northwest*.
+>You see Mariskia take a drink from her khatnyp tea.
+
+Faron blushes softly.
+
+Faron says in Leuian, "my name is Faron"
+
+Shaleu says in Leuian, "oh your name could help"
+
+Hott grins.
+
+Kierra says in Leuian, "what is your profession"
+
+Shaleu smiles.
+
+Shaleu grins at Kierra.
+
+Faron says in Leuian, "and I am a cleric of the ....sword"
+
+Kierra blushes.
+
+Shaleu smiles at Tiruna.
+info crime
+You have been the victim of the following reportable crimes:
+You were the victim of an assault committed by Treyfalgar Fraswey!
+>
+Faron says in Leuian, "for rinanni"
+
+Faron fidgets.
+
+Kenetic says to Faron in Leuian, "ahh a palidin"
+
+Mariskia beams.
+
+Hott asks in Leuian, "whos?"
+
+Tiruna smiles.
+
+Shaleu nuzzles Faron.
+
+Audun purrs softly.
+
+Hott says in Leuian, "ah"
+
+Kierra smiles.
+
+Shaleu says in Leuian, "Welcome Faron"
+
+Tiruna smiles brightly at Faron.
+
+Mariskia says to Hott in Leuian, "rinanni"
+
+Shaleu glances at Darla.
+
+Kierra nuzzles Faron.
+
+Kandil smiles to Faron warmly.
+
+Faron sits down.
+
+Darla blinks.
+
+Darla twitches her tail.
+
+Kenetic says to Faron in Leuian, "and you like long walks on the beach...kittins...that kind of thing"
+
+Shaleu smiles softly.
+
+Hott says in Leuian, "i see another"
+
+Kenetic winks.
+
+Kierra swishes her tail tail.
+
+Kandil laughs.
+chu to ke
+You chuckle to Kenetic.
+>
+Kenetic teases Faron.
+
+Crax chuckles at Kenetic.
+
+Faron says in Leuian, "ummm"
+
+Kandil pokes Kenetic.
+
+Faron furrows his brow.
+
+Sevyn chuckles.
+
+Hott asks in Leuian, "dar?"
+
+Kenetic says to Faron in Leuian, "i was only teasing kyn"
+
+The monarch butterfly curls up its antennae.
+
+Darla nuzzles the monarch butterfly.
+
+Tiruna says in Leuian, "come have a seat Faron"
+
+Tiruna smiles at Faron.
+slap far upon the shoulder
+You slap Faron upon the shoulder.
+>
+Crax says to Faron in Leuian, "He likes kittens too"
+
+Shaleu says in Leuian, "beuatiful, she is yours"
+' welcome 
+
+Muther says in Leuian, " welcome "
+>
+Kenetic sits down.
+
+Shaleu smiles at Darla.
+
+Darla nods to Shaleu.
+
+Kierra nuzzles Faron yo udid great.
+
+Shaleu says in Leuian, "Tell us your name hun"
+
+Kierra smiles at Darla.
+list to dar
+You listen intently to Darla.
+>
+Faron glances at Kierra.
+
+Darla says in Leuian, "I am Darla Revilie."
+
+Kierra smiles at Faron.
+
+Darla says in Leuian, "I am a Sword of Elindale."
+
+Shaleu nods.
+
+Tiruna smiles.
+
+Shaleu says in Leuian, "and your butterflies name"
+
+Darla says in Leuian, "I do not like walks on the beach because the sand gets in my fur."
+
+Kandil laughs.
+gri
+You grin.
+>
+Kierra giggles.
+
+Shaleu laughs.
+
+Darla grins.
+
+Sevyn chuckles.
+
+Audun chuckles softly.
+
+Tiruna chuckles.
+
+Kenetic says in Leuian, "excuse me kyn, i need to go get talishia"
+
+Audun says in Leuian, "Aye, well, the water is right there."
+
+Hott says in Leuian, "gad gonna get so green"
+
+Audun smiles lightly.
+
+Kenetic stands up.
+
+Shaleu says in Leuian, "thank you"
+
+Sevyn says in Leuian, "that's easily solved by going for a swim."
+
+Shaleu smiles at Kenetic.
+
+Kenetic, with a powerful and graceful stride, just went southeast.
+
+Darla sits down.
+nuz dar 
+' welcome
+You nuzzle Darla.
+>
+Muther says in Leuian, " welcome"
+>
+Tiruna purrs.
+
+Kandil smiles to Darla.
+
+Shaleu says in Leuian, "what is the name of your butterfly"
+
+Faron glances at Kierra moving closer to her trying to get hiself more elbow room.
+
+Kierra says to Darla in Leuian, "what is very butterfly name"
+
+Kierra blushes.
+
+Kierra says in Leuian, "sorry"
+
+Shaleu nuzzles Kierra.
+
+Faron fidgets rubbing his scars.
+
+Darla says to Shaleu in Leuian, "She has not been named yet. She jsut chose to travel with me this eve."
+
+Kierra nuzzles Shaleu.
+
+Kierra nods.
+
+Darla smiles at Tiruna.
+
+Shaleu says in Leuian, "well she adds great color to our gathering"
+
+Sevyn grins.
+
+Stormy blinks.
+l
+[Commodore Island Park.]
+
+A grove of young, green-needled pine trees surrounds a small meadow of vibrantly flowering rhododendrons. Hues of bright pink, red, and white create a stunning contrast against the darker grey bark of the pines. Brighter green hemlock trees spread to catch the sunlight, which, in turn, shelter smaller stands of delicious salmonberry bushes, airy leather ferns, and poignantly fragranced sorrels that thrive on the compost of the forest floor. Soft haircap moss covers the river stone-lined path, dew from the mist collecting on it like pollen on bees. The distant wash of rushing water quietly filters through the peaceful air that hangs heavily saturated with moisture.  A stack of rocks is here.
+
+This area is illuminated.
+You see the 1st monarch butterfly (wearing a small gold collar) and the 1st tawny furred mountain lynx (wearing a small gold collar).
+In the area are Audun the Noble Leuian (seated), Stormy the Leuian (seated), Faron the Novice Leuian (seated), Sevyn the Noble Leuian (seated), Rafe the Leuian (seated), Mariskia the Noble Leuian (seated), Darla the Novice Leuian (seated, a monarch butterfly upon her left shoulder), Hott the Noble Leuian (seated), Tiruna the Noble Leuian (seated), Kandil the Leuian (seated), Tchori the Leuian (seated), Kierra the Leuian (seated), Crax the Leuian (seated), and Shaleu the Leuian.
+Obvious paths: southeast* south* west*.
+>
+Shaleu says in Leuian, "Darla and Faron"
+
+Kandil says to Shaleu in Leuian, "one more"
+
+Shaleu says in Leuian, "around you, you see your kyn"
+
+Kandil winks to Shaleu.
+smi to stor
+You smile to Stormy.
+>
+Shaleu says in Leuian, "sorry Stormy"
+
+Stormy stands up.
+
+Shaleu says in Leuian, "please"
+
+Tiruna smiles up at Stormy.
+
+Stormy says in Leuian, "i'm stormy burnbubble"
+
+Stormy says in Leuian, "and i'm a psion"
+
+Hott listens intently.
+
+Shaleu grins at Tchori.
+
+Tchori smiles.
+
+Stormy sits down.
+slap storm upon the shoulder 
+' be welcome
+You slap Stormy upon the shoulder .
+>
+Muther says in Leuian, " be welcome"
+>
+Kandil smiles to Stormy.
+
+Hott says in Leuian, "thats a what"
+
+Kierra smiles and clap to welcome all the new kyn.
+
+Shaleu says to Stormy in Leuian, "Darla and Faron I welcome you"
+
+Shaleu says in Leuian, "this is your village and your kyn"
+
+Sevyn says to Hott in Leuian, "a glowhead like Tchori."
+
+Sevyn grins.
+
+Faron smiles at Shaleu sligtly .
+
+Shaleu says in Leuian, "we are here to help you"
+tact
+Standing in this rank is:
+Audun, Stormy, Faron, Sevyn, Rafe, Mariskia, Darla, Hott, Tiruna, Kandil, Tchori, Kierra, Muther, Crax, Shaleu, monarch butterfly, tawny furred mountain lynx
+>
+Tchori chuckles.
+
+Crax says to Hott in Leuian, "glowhead like Tch"
+
+Shaleu smiles at Sevyn.
+
+Kenetic's group just entered from the west.
+
+Faron glances at Kierra.
+
+Kenetic beams.
+
+Shaleu says in Leuian, "Sevyn it is good to see you with us again"
+tact
+Standing in this rank is:
+Audun, Stormy, Faron, Sevyn, Rafe, Mariskia, Darla, Hott, Tiruna, Talishia, Kandil, Tchori, Kenetic, Kierra, Muther, Crax, Shaleu, monarch butterfly, tawny furred mountain lynx
+>
+Hott grins.
+
+Kenetic sits down.
+
+Kierra glances at Faron.
+shop implant to tal
+There is no shop here!
+>
+Sevyn smiles at Shaleu.
+
+Mariskia twitches her tail.
+
+Tiruna smiles at Stormy and Darla, and Faron.
+
+Sevyn says in Leuian, "Thanks."
+smi to tal
+You smile to Talishia.
+>
+Shaleu says in Leuian, "and we have another new khit"
+l
+
+Shaleu says in Leuian, "Talishia"
+[Commodore Island Park.]
+
+A grove of young, green-needled pine trees surrounds a small meadow of vibrantly flowering rhododendrons. Hues of bright pink, red, and white create a stunning contrast against the darker grey bark of the pines. Brighter green hemlock trees spread to catch the sunlight, which, in turn, shelter smaller stands of delicious salmonberry bushes, airy leather ferns, and poignantly fragranced sorrels that thrive on the compost of the forest floor. Soft haircap moss covers the river stone-lined path, dew from the mist collecting on it like pollen on bees. The distant wash of rushing water quietly filters through the peaceful air that hangs heavily saturated with moisture.  A stack of rocks is here.
+
+This area is illuminated.
+You see the 1st monarch butterfly (wearing a small gold collar) and the 1st tawny furred mountain lynx (wearing a small gold collar).
+In the area are Audun the Noble Leuian (seated), Stormy the Leuian (seated), Faron the Novice Leuian (seated), Sevyn the Noble Leuian (seated), Rafe the Leuian (seated), Mariskia the Noble Leuian (seated), Darla the Novice Leuian (seated, a monarch butterfly upon her left shoulder), Hott the Noble Leuian (seated), Tiruna the Noble Leuian (seated), Talishia the Leuian, Kandil the Leuian (seated), Tchori the Leuian (seated), Kenetic the Leuian (seated), Kierra the Leuian (seated), Crax the Leuian (seated), and Shaleu the Leuian.
+Obvious paths: southeast* south* west*.
+>
+Tiruna smiles at Talishia.
+l at tal
+
+Talishia looks like a 5'11" standard young average boned, very muscular bodied Leuian.
+She has short, wild, fine reddish black fur, with light brown eyes, and looks disheveled.
+She appears to be confused right now.
+She bears the mark of Sa.
+She can be attacked by other players.
+She appears to be in perfect health.
+
+Physical appearance:
+
+The young Leuian woman walked with a slight limp, her left leg seeming a bit shorter than the other. A deep scar runs down one arm. A toe ring on each foot is attatched to twin saphire blue anklets by a short chain.
+
+                        Visible Equipment
+A heavy polished steelwood mail                    (armor)
+A hardened leather vambrace                        (shield)
+A miniature snarling coral tiger medallion         (around neck)
+A pair of sapphire blue trimmed silver anklet with (on feet)
+A long black leather belted robe                   (over armor)
+A glittering red garnet ring of fire               (ring (left))
+A slinky turquoise silk sheath dress               (dress)
+A closed rune embroidered satin beltpouch          (on belt)
+>
+Mariskia blinks.
+
+Talishia glances a bit nervously.
+
+Shaleu smiles softly at talishia.
+
+Talishia twitches her tail.
+
+Kandil smiles to Talishia.
+
+Kierra swishes her tail.
+
+Kenetic just placed some delicate wind chimes within his flowing pitch black satin hooded robe.
+
+Kenetic straps a hardened leather vambrace to his left arm.
+
+Talishia sits down.
+
+Shaleu says in Leuian, "Please tell those who have not yet met you a bit about yourself"
+
+Kierra smiles atta.
+
+Shaleu nuzzles Talishia.
+list to tal
+You listen intently to Talishia.
+>
+Talishia stands up.
+
+Kierra smiles at Talishia.
+
+Tiruna smiles up at Talishia.
+
+Shaleu's stomach growls.
+You see Shaleu take a bite of her Leuian lobster lasagna.
+
+Talishia says, "I am Talishia, Fire mage of Sa.. I came.. to spur and was hopeing to find a place.. "
+You see Shaleu take a bite of her half-eaten Leuian lobster lasagna.
+
+Talishia twitches her tail.
+
+Shaleu beams.
+
+Shaleu winks at Tchori.
+
+Kierra beams.
+
+Tchori smiles at Shaleu.
+
+Audun says to Shaleu in Leuian, "Got one fer you too, I see."
+
+Kenetic says to Talishia in Leuian, "and one you have found, welcome to your Pride"
+
+Audun chuckles softly.
+
+Shaleu laughs.
+
+Tiruna beams happily at Talishia.
+
+Darla just removed a large waterskin from within her open large leather backpack.
+You see Darla take a drink from her large waterskin.
+You see Darla take a drink from her large waterskin.
+
+Crax says to Shaleu in Leuian, "no more music fer you now teacher..."
+
+Darla just placed a large waterskin within her open large leather backpack.
+nuz tal 
+' be welcome
+You nuzzle Talishia.
+>
+Muther says in Leuian, " be welcome"
+>
+Shaleu says in Leuian, "Welcome talishia"
+
+Sevyn chuckles.
+
+Talishia smiles.
+
+The monarch butterfly curls up its antennae.
+
+Kierra nuzzles Talishia.
+
+Kandil smiles to Talishia.
+
+Shaleu says in Leuian, "always time for music Crax"
+
+Darla pets the monarch butterfly reassuringly.
+
+Crax chuckles.
+
+Shaleu says in Leuian, "always"
+
+Kenetic says to Crax in Leuian, "let it go, i almost got gutted for that same thing earlier"
+
+Talishia says, "I hope to learn much from all of you"
+
+Talishia nods.
+
+Shaleu says in Leuian, "hmmm...someone said they were taking minutes"
+
+Crax chuckles at Kenetic.
+
+Kandil says to Shaleu in Leuian, "Tchori is"
+
+Tiruna says in Leuian, "and we will also learn from you, sister"
+
+Shaleu hugs Tchori.
+
+Stormy blinks.
+
+Talishia says to Tchori, "next time.. please give me directions "
+
+Tiruna says in Leuian, "as we  will learn from all our new kyn here tonight"
+
+Kenetic chuckles.
+
+Tchori smiles.
+
+Tchori bows.
+who race
+Race who list activated!
+
+                Current Leuian Adventurers:
+
+Current Adventurers
+
+ Audun Kell                          Stormy Burnbubble                  
+ Faron Phillian                      Sevyn Palestreak                   
+ Rafe Harken                         Mariskia Azur'ka                   
+ Darla Revilie                       Vedetta Clipse                     
+ Siobahn Tarisk                      Hott Breeze                        
+ Tiruna Shooge                       Talishia Jolgus                    
+ Kandil Dragins                      Tchori Darkstar                    
+ Kenetic Fury                        Kierra Kovu                        
+ Muther Gunn                         Crax Steelclaw                     
+ Shaleu Dragins                     
+
+You notice 19 adventurers.
+>
+Tchori says in Leuian, "pardon for that"
+
+Talishia bows a moment to everyone.
+
+Sevyn grins.
+
+Kenetic says to Talishia in Leuian, "he not the best at that, he assumes everyone knows where everything is just cause he has been everywhere"
+
+Kenetic winks to Tchori.
+
+Tchori laughs.
+
+Kierra giggles.
+wrin whiskers in amusement
+You wrinkle your nose whiskers in amusement.
+>
+Stormy says in Leuian, "i get lost easily"
+
+Talishia sits down.
+
+Shaleu says in Leuian, "Ok kyn shall we begin the business"
+
+Kierra nods.
+
+Kenetic says in Leuian, "greetings to the new kyn"
+
+Shaleu says in Leuian, "couple of things to go over"
+
+Kierra listens intently to Shaleu.
+
+Kenetic smiles to Shaleu.
+
+Kenetic listens intently.
+
+Shaleu says in Leuian, "first we have a new Post Office"
+
+Shaleu says in Leuian, "do not know if you saw it west of the fountain"
+
+Shaleu says in Leuian, "it is new and it needs some work"
+
+Sevyn listens intently.
+
+Shaleu says in Leuian, "the one in Meetpoint seems to have gone bonkers"
+
+Kierra pulls the tawny furred mountain lynx closer to her.
+
+Mariskia blinks.
+
+Netraa just entered from the southeast.
+
+Kierra blushes pink.
+
+Netraa sits down.
+smi to net
+You smile to Netraa.
+>
+Tiruna nuzzles Netraa.
+
+Tchori smiles at Netraa.
+
+Shaleu says in Leuian, "so ask Tchori to tell you how to enter the post office"
+
+Kandil smiles to Netraa.
+
+Kierra nuzzles Netraa.
+
+Audun nods respectfully to Netraa.
+
+Shaleu hugs Netraa.
+
+Hott hugs Netraa.
+'tch, how do we enter?
+
+Muther asks Tchori in Leuian, "how do we enter?"
+gri to sha
+>You grin to Shaleu.
+>
+Darla grins at you.
+
+Kierra laughs.
+
+Tchori says in Leuian, "carefully"
+
+Kandil grins.
+
+Audun ponders that.
+nod sagely
+You nod sagely.
+>
+Tiruna chuckles.
+
+Talishia says in Leuian, "one foot at a time"
+
+Talishia nods.
+
+Talishia twitches her tail.
+gri
+You grin.
+>
+Stormy blinks.
+
+Kenetic asks Tchori in Leuian, "low doors or you set traps about the entrance?"
+
+Kierra glances at Faron.
+gri to ken
+You grin to Kenetic.
+>
+Kierra glances forward.
+
+Faron nods at Kierra.
+
+Audun nuzzles Tiruna.
+
+Faron fidgets.
+
+Audun nods to Tiruna.
+
+Tchori says in Leuian, "Lady Netraa actually set it up.. so if you wish to ask her, she can aid you in finding it.. or whisper to me and ill direct ya"
+
+Kierra grins.
+wh to net how do we enter mi'ady?
+You whisper to Netraa in Leuian.
+>
+Shaleu shrugs.
+
+Tiruna says in Leuian, "once everything get's moved , we'll be closing the Meetpoint post office"
+
+Netraa whispers, "direct your map to http://s10.invisionfree.com/The_Post_Office/ and request permission"
+wh to net my thanks
+You whisper to Netraa in Leuian.
+>
+Stormy blinks.
+
+Shaleu says in Leuian, "We, your Claw Masters and the old ones here"
+
+Shaleu glances at Tiruna.
+
+Tiruna swishes her tail.
+
+Shaleu says in Leuian, "have decided that we will now always gather in the village"
+
+Tiruna stretches and you hear her bones creak.
+
+Shaleu says in Leuian, "this is our home"
+
+Audun nuzzles Tiruna.
+
+Kandil grins to Tiruna.
+
+Tiruna leans her head on Audun's shoulder.
+
+Kierra smiles happily.
+
+Audun purrs quietly.
+
+Shaleu says in Leuian, "and we want always encourage everyone to use our village"
+
+Faron smiles at Kierra slightly dropping his head a bit.
+
+Mariskia asks in Leuian, "is there going to be a locksmith?"
+
+Tiruna glances.
+
+Audun twitches his tail.
+
+Shaleu says in Leuian, "among kyn"
+
+Shaleu says in Leuian, "doubtful"
+Kierra smiles at Faron.
+The monarch butterfly flicks its tubular tongue at you.
+Sevyn's stomach growls.
+Netraa's stomach growls.
+Hott's stomach growls.
+Crax's stomach growls.
+Sevyn listens intently.
+
+Mariskia asks in Leuian, "so we must continue to go to Treehaven to unlock our boxes?"
+Kierra nuzzles the monarch butterfly.
+
+Audun says in Leuian, "Ever tactful, our khatyra."
+Audun nuzzles Tiruna.
+
+Shaleu says in Leuian, "that is probably true"
+Tchori smiles softly.
+
+Tiruna says in Leuian, "Sky Lake is nice too"
+Kandil smiles.
+
+Kierra says in Leuian, "but"
+
+Shaleu says in Leuian, "or fort Taath"
+Mariskia blinks.
+
+Shaleu says in Leuian, "I shoule imagine if you all start coming here all the time"
+
+Tchori says in Leuian, "we are forbidden to have a locksmith for now.. but the more we utilize our village.. who can say for the future"
+
+Shaleu says in Leuian, "that soon we may get those shops"
+
+Kierra says in Leuian, "us young one do not know how to get there"
+
+Shaleu says in Leuian, "including the locksmith"
+Kandil smiles to Kierra.
+Shaleu nods to Tchori.
+l
+[Commodore Island Park.]
+
+A grove of young, green-needled pine trees surrounds a small meadow of vibrantly flowering rhododendrons. Hues of bright pink, red, and white create a stunning contrast against the darker grey bark of the pines. Brighter green hemlock trees spread to catch the sunlight, which, in turn, shelter smaller stands of delicious salmonberry bushes, airy leather ferns, and poignantly fragranced sorrels that thrive on the compost of the forest floor. Soft haircap moss covers the river stone-lined path, dew from the mist collecting on it like pollen on bees. The distant wash of rushing water quietly filters through the peaceful air that hangs heavily saturated with moisture.  A stack of rocks is here.
+
+This area is illuminated.
+You see the 1st monarch butterfly (wearing a small gold collar) and the 1st tawny furred mountain lynx (wearing a small gold collar).
+In the area are Audun the Noble Leuian (seated), Stormy the Leuian (seated), Faron the Novice Leuian (seated), Sevyn the Noble Leuian (seated), Rafe the Leuian (seated), Mariskia the Noble Leuian (seated), Darla the Novice Leuian (seated, a monarch butterfly upon her left shoulder), Netraa the Leuian (seated), Hott the Noble Leuian (seated), Tiruna the Noble Leuian (seated), Talishia the Leuian (seated), Kandil the Leuian (seated), Tchori the Leuian (seated), Kenetic the Leuian (seated), Kierra the Leuian (seated), Crax the Leuian (seated), and Shaleu the Leuian.
+Obvious paths: southeast* south* west*.
+>Siobahn just entered from the south.
+
+Mariskia says in Leuian, "even us OLD ones don't know how to get to some of those places"
+Mariskia chuckles.
+Tiruna smiles at Siobahn.
+Sevyn just removed a grilled lobster and crab kabob from within his elegant crystal dinner plate.
+smi to sio
+Kandil smiles to Siobahn.
+You smile to Siobahn.
+>Audun nods respectfully to Siobahn.
+
+Shaleu says in Leuian, "but we have to prove that our village is worth building shops here"
+You see Sevyn take a bite of his grilled lobster and crab kabob.
+Tchori's head suddenly begins glowing. He touches Kierra briefly. The glow travels down an arm to his hand. The glow quickly spreads over Kierra's entire body, then fades away.
+
+Siobahn smiles and bows.
+You see Sevyn take a bite of his grilled lobster and crab kabob.
+Kierra smiles.
+Shaleu smiles Siobahn.
+You see Sevyn take a bite of his grilled lobster and crab kabob.
+Kierra nuzzles Siobahn.
+You see Sevyn take a bite of his half-eaten grilled lobster and crab kabob.
+
+Shaleu says in Leuian, "welcome"
+Siobahn swishes her tail.
+You see Sevyn eat the last of his half-eaten grilled lobster and crab kabob.
+
+Kierra says in Leuian, "i was com,ming"
+Kierra smiles at Siobahn.
+l at sio
+
+Siobahn looks like a 6'1" standard young light boned, average bodied Leuian.
+She has very long, straight, medium glossy black fur, with golden eyes, and looks casual.
+She appears to be neutral right now.
+She bears the mark of Odarous.
+She can be attacked by other players.
+She has no apparent injuries, but looks pale.
+
+Physical appearance:
+
+Somber golden eyes meet your gaze with the slightest tilt of the chin.  Her boots are covered in dried mud.
+
+                        Visible Equipment
+A pair of black boots                              (on feet)
+Some snug black leather breeches                   (pants)
+A white cotton shirt                               (shirt)
+A closed small leather remedy pouch                (on belt)
+
+>
+Siobahn says to Kierra in Leuian, "Thanks."
+invo ht at sio
+Sevyn just removed a honey nut roll from within his elegant crystal dinner plate.
+
+Muther's fingertips begin to glow with a soft white light.
+
+h
+sk
+You feel a surge of magick infuse your runeweave!
+Weaving those runes cost you 3 FPs.
+
+You feel more tired.
+[4 sec. delay]
+
+Your god is pleased with you!
+>You have no apparent injuries, but look tired.
+
+HP: 163/163  Ftg:  61/ 64
+>
+Skill                     Remain Level
+ Clawing                   1978   10    
+ First Aid                 102    2     
+ Spellcasting              36     10    
+ Blunt Weapons             652    6     
+ Channeling                491    10    
+ Identify Weapon Quality   272    3     
+ Brawling                  106    2     
+ Shield Parry              483    5     
+ Throw Weapons             113    2     
+ Swimming                  67     1     
+ Identify Gems/Minerals    100    1     
+ Turn Undead               292    3     
+ Hiding                    187    2     
+ Stealth                   98     1     
+
+invo ht at sio
+>
+The soft white light spreads out and gently envelops Siobahn's body!
+
+The white glow upon Muther's fingertips slowly fades away.
+You see Sevyn take a bite of his honey nut roll.
+
+Muther's fingertips begin to glow with a soft white light.
+
+h
+sk
+You feel a surge of magick infuse your runeweave!
+Weaving those runes cost you 3 FPs.
+
+You feel more tired.
+[3 sec. delay]
+
+Your god is pleased with you!
+>You have no apparent injuries, but look tired.
+
+HP: 163/163  Ftg:  58/ 64
+>
+Skill                     Remain Level
+ Clawing                   1978   10    
+ First Aid                 102    2     
+ Spellcasting              35     10    
+ Blunt Weapons             652    6     
+ Channeling                491    10    
+ Identify Weapon Quality   272    3     
+ Brawling                  106    2     
+ Shield Parry              483    5     
+ Throw Weapons             113    2     
+ Swimming                  67     1     
+ Identify Gems/Minerals    100    1     
+ Turn Undead               292    3     
+ Hiding                    187    2     
+ Stealth                   98     1     
+
+>
+Tchori says in Leuian, "also.. it seems we may do things in the village other then move homes here.. so if you have an idea of a game.. a scavenger hunt.. an anything"
+You see Sevyn eat the last of his half-eaten honey nut roll.
+
+The soft white light spreads out and gently envelops Siobahn's body!
+
+The white glow upon Muther's fingertips slowly fades away.
+Siobahn sits down.
+invo ht at sio
+
+Muther's fingertips begin to glow with a soft white light.
+
+h
+sk
+You feel a surge of magick infuse your runeweave!
+Weaving those runes cost you 3 FPs.
+
+You feel more tired.
+[3 sec. delay]
+
+Your god is pleased with you!
+>You have no apparent injuries, but look tired.
+
+HP: 163/163  Ftg:  55/ 64
+>
+Skill                     Remain Level
+ Clawing                   1978   10    
+ First Aid                 102    2     
+ Spellcasting              34     10    
+ Blunt Weapons             652    6     
+ Channeling                491    10    
+ Identify Weapon Quality   272    3     
+ Brawling                  106    2     
+ Shield Parry              483    5     
+ Throw Weapons             113    2     
+ Swimming                  67     1     
+ Identify Gems/Minerals    100    1     
+ Turn Undead               292    3     
+ Hiding                    187    2     
+ Stealth                   98     1     
+
+>
+Tchori says in Leuian, "please let the Khatyra know"
+Faron fidgets.
+
+ ** Current fatigue: 55 out of 64
+lay hands on sio
+
+The soft white light spreads out and gently envelops Siobahn's body!
+
+The white glow upon Muther's fingertips slowly fades away.
+You kneel briefly and place your hands upon Siobahn.
+You feel the healing power of your deity channel through you!
+[5 sec. delay]
+diag all
+>
+Siobahn whispers in Leuian, "My thanks."
+Faron nods to Kierra.
+
+  You examine Audun the Leuian...
+He appears to be in perfect health.
+  You examine Stormy the Leuian...
+He appears to be in perfect health.
+  You examine Faron the Leuian...
+He appears to be in perfect health.
+  You examine Sevyn the Leuian...
+He appears to be in perfect health.
+  You examine Rafe the Leuian...
+He appears to be in perfect health.
+  You examine Mariskia the Leuian...
+She appears to be in perfect health.
+  You examine Darla the Leuian...
+She appears to be in perfect health.
+  You examine Netraa the Leuian...
+She appears to be in perfect health.
+  You examine Siobahn the Leuian...
+She has no apparent injuries, but looks weakened.
+  You examine Hott the Leuian...
+He appears to be in perfect health.
+  You examine Tiruna the Leuian...
+She appears to be in perfect health.
+  You examine Talishia the Leuian...
+She appears to be in perfect health.
+  You examine Kandil the Leuian...
+She appears to be in perfect health.
+  You examine Tchori the Leuian...
+He appears to be in perfect health.
+  You examine Kenetic the Leuian...
+He appears to be in perfect health.
+  You examine Kierra the Leuian...
+She appears to be in perfect health.
+  You examine Crax the Leuian...
+He appears to be in perfect health.
+  You examine Shaleu the Leuian...
+She appears to be in perfect health.
+
+>Tiruna smiles.
+Kandil nods to Tchori.
+Kierra nods sadly.
+bow to sio
+You bow to Siobahn.
+lay hands on sio
+>You kneel briefly and place your hands upon Siobahn.
+You feel the healing power of your deity channel through you!
+[5 sec. delay]
+>
+Siobahn smiles to you.
+diag all
+Kierra glances a t far.
+
+  You examine Audun the Leuian...
+He appears to be in perfect health.
+  You examine Stormy the Leuian...
+He appears to be in perfect health.
+  You examine Faron the Leuian...
+He appears to be in perfect health.
+  You examine Sevyn the Leuian...
+He appears to be in perfect health.
+  You examine Rafe the Leuian...
+He appears to be in perfect health.
+  You examine Mariskia the Leuian...
+She appears to be in perfect health.
+  You examine Darla the Leuian...
+She appears to be in perfect health.
+  You examine Netraa the Leuian...
+She appears to be in perfect health.
+  You examine Siobahn the Leuian...
+She appears to be in perfect health.
+  You examine Hott the Leuian...
+He appears to be in perfect health.
+  You examine Tiruna the Leuian...
+She appears to be in perfect health.
+  You examine Talishia the Leuian...
+She appears to be in perfect health.
+  You examine Kandil the Leuian...
+She appears to be in perfect health.
+  You examine Tchori the Leuian...
+He appears to be in perfect health.
+  You examine Kenetic the Leuian...
+He appears to be in perfect health.
+  You examine Kierra the Leuian...
+She appears to be in perfect health.
+  You examine Crax the Leuian...
+He appears to be in perfect health.
+  You examine Shaleu the Leuian...
+She appears to be in perfect health.
+
+gri
+>You grin.
+>Faron fidgets.
+Kierra nods.
+l
+[Commodore Island Park.]
+
+A grove of young, green-needled pine trees surrounds a small meadow of vibrantly flowering rhododendrons. Hues of bright pink, red, and white create a stunning contrast against the darker grey bark of the pines. Brighter green hemlock trees spread to catch the sunlight, which, in turn, shelter smaller stands of delicious salmonberry bushes, airy leather ferns, and poignantly fragranced sorrels that thrive on the compost of the forest floor. Soft haircap moss covers the river stone-lined path, dew from the mist collecting on it like pollen on bees. The distant wash of rushing water quietly filters through the peaceful air that hangs heavily saturated with moisture.  A stack of rocks is here.
+
+This area is illuminated.
+You see the 1st monarch butterfly (wearing a small gold collar) and the 1st tawny furred mountain lynx (wearing a small gold collar).
+In the area are Audun the Noble Leuian (seated), Stormy the Leuian (seated), Faron the Novice Leuian (seated), Sevyn the Noble Leuian (seated), Rafe the Leuian (seated), Mariskia the Noble Leuian (seated), Darla the Novice Leuian (seated, a monarch butterfly upon her left shoulder), Netraa the Leuian (seated), Siobahn the Leuian (seated), Hott the Noble Leuian (seated), Tiruna the Noble Leuian (seated), Talishia the Leuian (seated), Kandil the Leuian (seated), Tchori the Leuian (seated), Kenetic the Leuian (seated), Kierra the Leuian (seated), Crax the Leuian (seated), and Shaleu the Leuian.
+Obvious paths: southeast* south* west*.
+tact
+>Standing in this rank is:
+Audun, Stormy, Faron, Sevyn, Rafe, Mariskia, Darla, Netraa, Siobahn, Hott, Tiruna, Talishia, Kandil, Tchori, Kenetic, Kierra, Muther, Crax, Shaleu, monarch butterfly, tawny furred mountain lynx
+>Stormy blinks.
+
+Shaleu says in Leuian, "Siobahn have you been introduced formally to the Pride"
+Siobahn stands up.
+
+Siobahn says to Shaleu in Leuian, "No, I haven't."
+
+Shaleu says in Leuian, "please then"
+Kierra smiles to Siobahn.
+
+ ** You are fully rested.
+Shaleu smiles softly.
+Siobahn swishes her tail.
+Siobahn coughs lightly.
+Kenetic smiles to Siobahn.
+
+Siobahn says in Leuian, "I'm Siobahn Tarisk, a fighter for my Lord.  And most of you I've met, and I look forward to meeting the rest of you."
+Siobahn smiles.
+Kandil smiles to Siobahn.
+
+Kierra says in Leuian, "well met"
+Kierra nods.
+The monarch butterfly suddenly fades away.
+Darla, whiskers twitching, just appeared.  Accompanied by a monarch butterfly.
+Darla grunts.
+nuz sio 
+'sio, welcome sister
+You nuzzle Siobahn.
+>
+Muther says to Siobahn in Leuian, "welcome sister"
+>Kandil smiles to Darla.
+Tiruna comforts Darla.
+
+Siobahn smiles to you.
+Kierra nuzzles Siobahn.
+The monarch butterfly gracefully circles around the room.
+smi
+You smile.
+>
+The monarch butterfly flies up and lands on Darla's shoulder.
+
+Shaleu says in Leuian, "Ok back to the meeting"
+
+Siobahn sits down.
+
+Shaleu says in Leuian, "first"
+
+Shaleu says in Leuian, "oh siobahn welcome to the site of the new Pride Hall"
+
+Shaleu grins.
+
+Crax says in Leuian, "what about that other new guy....oh sorry   just Rafe   forgot since he's been away so much lately"
+
+Siobahn says in Leuian, "It's a lovely area."
+
+Siobahn nods to Shaleu.
+
+Kenetic chuckles.
+
+Shaleu says in Leuian, "all here are your kyn and we are here to give aide and help anytime"
+gri to raf
+You grin to Rafe.
+>
+Tiruna nods up and down.
+
+Kierra nods.
+
+Rafe frowns slightly as he remains unusually silent.
+
+Shaleu says in Leuian, "Rafe has asked to speak so please let us be quiet and listen to him"
+
+Shaleu smiles at Rafe.
+
+Kandil smiles to Rafe.
+
+Rafe stands up.
+
+Shaleu sits down.
+
+Rafe says in Leuian, "I stand before you, my family, in shame."
+
+Crax listens intently to Rafe.
+
+Tchori blinks.
+
+Tiruna furrows her brow.
+
+Audun twitches his tail.
+
+Tiruna listens intently.
+
+Kenetic raises an eyebrow.
+
+Siobahn furrows her brow.
+
+Crax raises an eyebrow.
+appear mood ?
+
+Stormy blinks.
+
+    Available mood selections:
+
+ flaming-mad  livid        unhappy      shocked      despairing   blue        
+ unconcerned  distant      bored        chagrined    perplexed    mischievous 
+ partying     happy        overjoyed    apprehensive cold         gentle      
+ angry        preoccupied  aloof        calculating  aristocratic amused      
+ puzzled      serious      petulant     cynical      neutral      belligerent 
+ sullen       wary         confused     upset        frivolous    sleepy      
+ tired        irate        giddy        ecstatic     frustrated   worried     
+ resigned     grumpy       violent      inconsolable non-plussed  loving      
+ playful      furious      romantic     concerned    scared       frightened  
+ annoyed      sad          sassy        annoying     tense        perturbed   
+ depressed    amorous      dumbfounded 
+
+>
+Kierra listens intently raf.
+
+Shaleu says in Leuian, "Mariskia I wish to speak to you later will you be about"
+
+Rafe says in Leuian, "As some of you know, I'm the keeper of this orb"
+
+Mariskia blinks at Shaleu.
+
+Rafe just removed a glowing golden moonstone orb from within his dark grey wool healer's surcoat.
+appear mood ser
+
+You are now serious.
+
+>
+Tiruna listens intently to Rafe.
+
+Mariskia says in Leuian, "uh yes"
+
+Shaleu frowns.
+
+The voices in your mind slowly quiet.
+
+Shaleu says in Leuian, "Rafe"
+
+Kierra is now serious.
+
+Mariskia says to Shaleu in Leuian, "of course my sister"
+
+Faron is now concerned.
+
+Rafe says in Leuian, "It has spoken to me when each of the gods voices..."
+
+Rafe says in Leuian, "One of which being the nameless one"
+
+Rafe scowls.
+
+Audun grunts.
+
+Audun nods.
+
+Siobahn twitches her tail.
+
+Shaleu wrinkles her nose and pushes the spectacles back up.
+
+Kenetic twitches his tail.
+
+Kierra cringes.
+
+Tiruna says in Leuian, "oh how horrid that must have been for you"
+
+Faron twitches his tail angrily.
+
+The monarch butterfly gracefully circles around the room.
+
+Rafe says in Leuian, "In my dishonor I invited serpents to sit with me in council"
+
+Tchori blinks.
+
+Tchori frowns.
+
+Tiruna sighs sadly.
+
+Audun twitches his tail.
+
+Kierra blinks.
+
+Shaleu listens intently carefully to Rafe.
+
+Darla twitches her tail her ears and tail.
+
+Rafe says in Leuian, "I believe the best course of action would be to shun me, that the young might learn from my dishonor."
+
+Audun murmurs something about lakar politicks.
+
+Kenetic raises his hand.
+
+Talishia twitches her tail.
+
+Shaleu stands up.
+
+Kierra says in Leuian, "wait...we need to know more"
+
+Tiruna nods to Rafe.
+
+Crax says to Rafe in Leuian, "please tell us the circumstances first brother"
+
+Kierra says in Leuian, "oops"
+
+Shaleu mutters shssh.
+
+Shaleu says in Leuian, "quiet"
+
+Kierra fidgets.
+
+Rafe says in Leuian, "In my Rinannian fervor, I thought it best to include all religions in the council regarding the fallen stars"
+
+Tiruna nods.
+
+Tchori frowns.
+
+Faron's stomach growls.
+
+Netraa's stomach growls.
+
+Shaleu nods sadly.
+
+Rafe says in Leuian, "I placed my service to the Lady before my obligation to kin"
+
+Mariskia nods up and down.
+
+Talishia twitches her tail.
+
+Rafe says in Leuian, "I realize that what I did was completely unacceptable"
+
+Crax ponders the meaning of the universe for a moment.
+
+Tchori nods up and down.
+
+Faron glances at Kierra.
+
+Faron fidgets.
+
+Kenetic mutters should have killed them after the meeting was over.
+
+Mariskia nods up and down in encouragement.
+
+Kierra glances at Faron.
+
+Kierra fidgets.
+
+Tiruna listens intently to Rafe.
+tact
+Standing in this rank is:
+Audun, Stormy, Faron, Rafe, Mariskia, Darla, Netraa, Siobahn, Hott, Tiruna, Talishia, Kandil, Tchori, Kenetic, Kierra, Muther, Crax, Shaleu, tawny furred mountain lynx, monarch butterfly
+>
+Stormy blinks.
+l
+[Commodore Island Park.]
+
+A grove of young, green-needled pine trees surrounds a small meadow of vibrantly flowering rhododendrons. Hues of bright pink, red, and white create a stunning contrast against the darker grey bark of the pines. Brighter green hemlock trees spread to catch the sunlight, which, in turn, shelter smaller stands of delicious salmonberry bushes, airy leather ferns, and poignantly fragranced sorrels that thrive on the compost of the forest floor. Soft haircap moss covers the river stone-lined path, dew from the mist collecting on it like pollen on bees. The distant wash of rushing water quietly filters through the peaceful air that hangs heavily saturated with moisture.  A stack of rocks is here.
+
+This area is illuminated.
+You see the 1st tawny furred mountain lynx (wearing a small gold collar) and the 1st monarch butterfly (wearing a small gold collar).
+In the area are Audun the Noble Leuian (seated), Stormy the Leuian (seated), Faron the Novice Leuian (seated), Rafe the Leuian, Mariskia the Noble Leuian (seated), Darla the Novice Leuian (seated, a monarch butterfly upon her left shoulder), Netraa the Leuian (seated), Siobahn the Leuian (seated), Hott the Noble Leuian (seated), Tiruna the Noble Leuian (seated), Talishia the Leuian (seated), Kandil the Leuian (seated), Tchori the Leuian (seated), Kenetic the Leuian (seated), Kierra the Leuian (seated), Crax the Leuian (seated), and Shaleu the Leuian.
+Obvious paths: southeast* south* west*.
+>
+Rafe says in Leuian, "I shall place the orb in the hands of Malthus, so that I might regain some semblance of honor"
+
+Tiruna nods to Rafe.
+
+Shaleu nods sadly.
+
+Kandil smiles to Rafe.
+
+Tchori asks in Leuian, "why not give it to kyn?"
+
+Audun nods in understanding.
+
+Rafe says to Tchori in Leuian, "I could not ask another to bear the voice of the serpent in your mind"
+
+Shaleu glances around.
+
+Tiruna shudders.
+nod to raf
+You nod to Rafe.
+>
+Tchori blinks.
+
+Tchori nods.
+
+Faron glances at Kierra rally concerned now.
+
+Tchori says in Leuian, "wise of you brother"
+
+Tchori says in Leuian, "i would not wish it"
+
+Faron fidgets.
+
+Kierra nuzzles Faron.
+gla at far
+
+Tiruna says in Leuian, "nor I"
+You glance at Faron.
+>
+Shaleu nods.
+l at far
+
+Faron looks like a 6'10" standard young average boned, wiry-tough bodied Leuian.
+He is seated.
+He has shoulder length, wavy, medium auburn fur, with hazel eyes, and looks neat.
+He appears to be concerned right now.
+He bears the mark of Rinanni.
+He can be attacked by other players.
+He appears to be in perfect health.
+
+Physical appearance:
+
+A handsome leuian looks at you with a soft smile on his face and a look of content in his eyes. His fur is clean and soft and he displays a small scar underneath his right eye and another above his left.
+
+                        Visible Equipment
+Some leather boots                                 (on feet)
+Some satin clerical robes                          (dress)
+Some black wool pants                              (pants)
+A forest green silk shirt                          (shirt)
+A black leather belt                               (on belt)
+>
+Rafe says in Leuian, "I believe it only remains for judgement to be served upon me."
+
+Tiruna raises her hand.
+
+Audun raises his hand.
+
+Crax glances at Shaleu.
+
+Kierra raises an eyebrow.
+
+Shaleu nods to Rafe.
+
+Rafe says in Leuian, "I accept whatever verdict you see best"
+
+Stormy blinks.
+
+Rafe sits down.
+
+Crax raises his hand.
+
+Shaleu says in Leuian, "I wish first for you to explain the khits prsent why you consider what you did dishonorable"
+
+Rafe nods to Shaleu.
+
+Rafe stands up.
+
+Shaleu says in Leuian, "they do not understand"
+
+Kierra nods.
+
+Stormy asks in Leuian, "?"
+
+Talishia listens intently to Rafe.
+
+Kenetic asks Rafe in Leuian, "your own voice has condemned yourself, not us, why would you need to give this up in order to save honor?  it is never a better option to give this duty into the hands of lakar"
+
+Darla twitches her tail.
+
+Siobahn glances up to Rafe.
+
+Shaleu says in Leuian, "quiet please"
+
+Faron glances at Rafe.
+
+Rafe says in Leuian, "The serpent is one that worships deception"
+
+Rafe says in Leuian, "It is never wise to engage one in conversation, playful banter or any such speech..."
+
+Kierra glances at Faron.
+
+Rafe says in Leuian, "They do nothing but twist the truth, or at best use the truth to their own ends"
+
+Faron glances at Kierra.
+
+Faron fidgets.
+
+Rafe says in Leuian, "Nothing positive can be gained by meeting with them as equals"
+
+Tiruna nods up and down firmly.
+
+The monarch butterfly flicks its tubular tongue at you.
+
+Kenetic says to Rafe in Leuian, "agreed, but they were never your equal"
+
+Darla pets the monarch butterfly.
+
+Crax mutters too little information.
+
+Shaleu glances at Kenetic.
+
+Rafe says to Kenetic in Leuian, "I invited them to sit with me, offering them honor they did not deserve"
+
+Tchori sighs.
+
+Siobahn sighs softly and bows her head.
+
+Kenetic sighs.
+
+Rafe says in Leuian, "and what's worse, I set an example that sometimes it is alright to negotiate with them"
+
+Tiruna nods.
+
+Rafe says in Leuian, "It's never alright"
+brist his nape fur in warning
+You bristle his nape fur in warning.
+>
+Audun nods in agreement with Rafe.
+nod to ra
+You nod to Rafe.
+>
+Kierra stands up.
+
+Kierra has left Shaleu's group.
+
+Kierra just went west.
+
+Kierra yells in Leuian, "tazzie"
+l w
+[Village.]
+
+Amidst the towering trees and verdant mid level bushes, several smaller cabins blend into the surrounding park. The peaked roofs of the cabins bear the familiar carving as seen on most of the village homes and their small porches sport plantings of flowering wild roses and perky daisies accented with the fronds of leather ferns and shelf fungus.  A closed chiseled petrified redwood door, a closed arched slate grey granite boulder door, a closed salt stained cargo hatch, a closed vine etched glass door, and a decaying pile of planks are here.
+
+This area is illuminated.
+You see the 1st tawny furred mountain lynx (wearing a small gold collar).
+In the area is Kierra the Leuian.
+Obvious paths: east* southeast* south* northwest*.
+>
+Rafe says in Leuian, "In doing so, I made it more difficult for all of you"
+
+Tiruna raises her hand.
+who range race
+List will be restricted to those within range.
+Race who list activated!
+
+                Current Leuian Adventurers:
+
+Current Adventurers
+
+ Audun Kell                          Stormy Burnbubble                  
+ Faron Phillian                      Sho Nuff                           
+ Rafe Harken                         Mariskia Azur'ka                   
+ Darla Revilie                       Netraa Denad                       
+ Siobahn Tarisk                      Hott Breeze                        
+ Tiruna Shooge                       Talishia Jolgus                    
+ Kandil Dragins                      Tchori Darkstar                    
+ Tazzie Wildcat                      Kenetic Fury                       
+ Kierra Kovu                         Muther Gunn                        
+ Crax Steelclaw                      Shaleu Dragins                     
+
+You notice 20 adventurers.
+>
+The monarch butterfly just went west.
+
+Kenetic ponders the meaning of the universe for a moment.
+
+Rafe says in Leuian, "For that I can't even begin to apologize"
+
+Rafe sits down.
+
+Shaleu says in Leuian, "I saw tiruna and I will get to you"
+
+Tiruna nods.
+
+Shaleu says in Leuian, "Ok"
+
+Crax comforts Rafe.
+
+Shaleu says in Leuian, "this is very serious"
+
+Shaleu says in Leuian, "I ask you this Rafe"
+
+Talishia twitches her tail.
+
+Shaleu says in Leuian, "do you wish to fully atone for this dishonorable act"
+
+Rafe says to Shaleu in Leuian, "With all my heart"
+
+Shaleu smiles softly.
+
+Shaleu says in Leuian, "My Kyn"
+
+Shaleu glances around.
+
+Shaleu says in Leuian, "after suitable atonement for his act, will you embrace your brother with love and respect"
+
+Crax says in Leuian, "aye"
+' aye
+
+Muther says in Leuian, " aye"
+>
+Stormy blinks.
+
+Tiruna says in Leuian, "aye"
+
+Kandil says in Leuian, "aye"
+
+Netraa's stomach growls.
+
+Tiruna's stomach growls.
+
+Darla says in Leuian, "aye"
+
+Siobahn nods.
+
+Audun asks in Leuian, "I would expect so, but 'tis a bit early to speak of that just yet, aye?"
+
+Kandil nods to Audun.
+
+Tchori says in Leuian, "give the bauble to Stormy.. he is free of lakar temples influence"
+
+Stormy asks in Leuian, "?"
+
+Talishia smiles at Stormy.
+
+Faron furrows his brow.
+
+Shaleu says in Leuian, "this you can discuss later Tchori with Rafe"
+
+Tchori blinks.
+
+Tchori bows to Shaleu.
+
+Tchori says in Leuian, "pardon Khatyra"
+
+Tchori's head suddenly begins glowing. He places a hand upon his chest. The glow travels down an arm to his hand. The glow quickly spreads over Tchori's entire body, then fades away.
+
+
+Shaleu says in Leuian, "no,  I do not understand this bauble you do"
+
+Shaleu says in Leuian, "so please you talk to him about it, but later"
+
+Shaleu smiles.
+
+Faron is now confused.
+
+Shaleu says in Leuian, "Tiruna you wished ot say something"
+
+Tiruna says in Leuian, "yes"
+
+Tiruna stands up.
+
+Tchori has left Shaleu's group.
+
+Shaleu sits down.
+
+Crax raises an eyebrow.
+
+Tchori stands up.
+
+Crax raises his hand.
+
+Tchori just went southeast.
+
+Tiruna curtsies graciously to Rafe.
+l se
+[Village.]
+
+Far above the forest floor, the looming trees' canopy shades the park's paths. Every few feet a break in the leaves lights a fortunate fern or clover patch that languishes in the gift from the heavens. A giant among oaks, dwarfed by the mighty conifers enjoys such a boon.  Its twisted branches decry the battle to survive beneath the taller competitors. Nestled in the crotches of the oak branches, beautiful orchids thrive and bloom despite the weather, causing many of the villagers to believe that the goddess herself has adopted the oak as one of her protected monuments. The villagers have placed benches made of koy around the oak that complement the park without detracting from its natural beauty.  An ancient gnarled oak tree, some fragrant amber orchids, a beautiful hand-carved koy wood bench, a stack of rocks, and an ivy covered sandstone arch are here.
+
+This area is illuminated.
+Obvious paths: north* east* southeast* south* southwest* west* northwest*.
+l w
+>[Village.]
+
+Amidst the towering trees and verdant mid level bushes, several smaller cabins blend into the surrounding park. The peaked roofs of the cabins bear the familiar carving as seen on most of the village homes and their small porches sport plantings of flowering wild roses and perky daisies accented with the fronds of leather ferns and shelf fungus.  A closed chiseled petrified redwood door, a closed arched slate grey granite boulder door, a closed salt stained cargo hatch, a closed vine etched glass door, and a decaying pile of planks are here.
+
+This area is illuminated.
+You see the 1st monarch butterfly (wearing a small gold collar).
+Obvious paths: east* southeast* south* northwest*.
+l e
+>There is nothing in that direction!
+l
+>[Commodore Island Park.]
+
+A grove of young, green-needled pine trees surrounds a small meadow of vibrantly flowering rhododendrons. Hues of bright pink, red, and white create a stunning contrast against the darker grey bark of the pines. Brighter green hemlock trees spread to catch the sunlight, which, in turn, shelter smaller stands of delicious salmonberry bushes, airy leather ferns, and poignantly fragranced sorrels that thrive on the compost of the forest floor. Soft haircap moss covers the river stone-lined path, dew from the mist collecting on it like pollen on bees. The distant wash of rushing water quietly filters through the peaceful air that hangs heavily saturated with moisture.  A stack of rocks is here.
+
+This area is illuminated.
+In the area are Audun the Noble Leuian (seated), Stormy the Leuian (seated), Faron the Novice Leuian (seated), Rafe the Leuian (seated), Mariskia the Noble Leuian (seated), Darla the Novice Leuian (seated), Netraa the Leuian (seated), Siobahn the Leuian (seated), Hott the Noble Leuian (seated), Tiruna the Noble Leuian, Talishia the Leuian (seated), Kandil the Leuian (seated), Kenetic the Leuian (seated), Crax the Leuian (seated), and Shaleu the Leuian (seated).
+Obvious paths: southeast* south* west*.
+>
+Tiruna says in Leuian, "my brother, we all fall in our paths"
+
+Tiruna says in Leuian, "and when we do, it is right to atone"
+
+Kenetic raises his hand.
+
+Tiruna says in Leuian, "Kyn, this is a boulder many of us stumble on"
+
+Mariskia twitches her tail.
+
+Faron ponders the meaning of the universe for a moment.
+
+Tchori's group just entered from the southeast.
+
+Tiruna says in Leuian, "in love of our temples, we sometimes forget that kyn, Our People's way comes first"
+
+Tazzie nuzzles Tchori.
+l
+[Commodore Island Park.]
+
+A grove of young, green-needled pine trees surrounds a small meadow of vibrantly flowering rhododendrons. Hues of bright pink, red, and white create a stunning contrast against the darker grey bark of the pines. Brighter green hemlock trees spread to catch the sunlight, which, in turn, shelter smaller stands of delicious salmonberry bushes, airy leather ferns, and poignantly fragranced sorrels that thrive on the compost of the forest floor. Soft haircap moss covers the river stone-lined path, dew from the mist collecting on it like pollen on bees. The distant wash of rushing water quietly filters through the peaceful air that hangs heavily saturated with moisture.  A stack of rocks is here.
+
+This area is illuminated.
+You see the 1st tawny furred mountain lynx (wearing a small gold collar).
+In the area are Audun the Noble Leuian (seated), Stormy the Leuian (seated), Faron the Novice Leuian (seated), Rafe the Leuian (seated), Mariskia the Noble Leuian (seated), Darla the Novice Leuian (seated), Netraa the Leuian (seated), Siobahn the Leuian (seated), Tiruna the Noble Leuian, Talishia the Leuian (seated), Kandil the Leuian (seated), Tchori the Leuian, Tazzie the Noble Leuian, Kenetic the Leuian (seated), Kierra the Leuian, Crax the Leuian (seated), and Shaleu the Leuian (seated).
+Obvious paths: southeast* south* west*.
+>
+Tchori disbands his group.
+
+Tchori sits down.
+
+Kierra sits down by far.
+
+Tazzie sits down.
+tact
+Standing in this rank is:
+Audun, Stormy, Faron, Rafe, Mariskia, Darla, Netraa, Siobahn, Tiruna, Talishia, Kandil, Tchori, Tazzie, Kenetic, Kierra, Muther, Crax, Shaleu, tawny furred mountain lynx
+>
+Kierra says in Leuian, "sorry"
+
+Kandil nuzzles Tazzie.
+
+Tazzie nuzzles Audun.
+
+Shaleu nuzzles Tazzie.
+l at taz
+
+Tazzie nuzzles Tiruna.
+
+Tazzie looks like a 6'10" standard adolescent average boned, stocky bodied Leuian.
+She is seated.
+She has very long, straight, baby fine glossy black fur, with hazel eyes, and looks neat.
+She appears to be mischievous right now.
+She bears the mark of Rinanni.
+She can be attacked by other players.
+
+On her right ankle small white roses have been tattooed to entwine together. Within the blossoms, five blue-white stars are formed in a circle, one of which shines more brightly than the others.
+
+She appears to be in perfect health.
+                        Visible Equipment
+A heavy polished steelwood mail                    (armor)
+Some tigerskin boots                               (on feet)
+A light violet wool diamond clasped cloak          (over armor)
+Some midnight blue spidersilk pants                (pants)
+A blue and yellow silk tunic                       (shirt)
+
+She has been bestowed the following title(s):
+  Noble of the Realm
+
+>
+Tazzie nuzzles Shaleu.
+
+Tiruna says in Leuian, "I will honor you Rafe by following your wishes to atone"
+
+Audun nuzzles Tazzie.
+
+Tiruna sits down next to Audun.
+l
+[Commodore Island Park.]
+
+A grove of young, green-needled pine trees surrounds a small meadow of vibrantly flowering rhododendrons. Hues of bright pink, red, and white create a stunning contrast against the darker grey bark of the pines. Brighter green hemlock trees spread to catch the sunlight, which, in turn, shelter smaller stands of delicious salmonberry bushes, airy leather ferns, and poignantly fragranced sorrels that thrive on the compost of the forest floor. Soft haircap moss covers the river stone-lined path, dew from the mist collecting on it like pollen on bees. The distant wash of rushing water quietly filters through the peaceful air that hangs heavily saturated with moisture.  A stack of rocks is here.
+
+This area is illuminated.
+You see the 1st tawny furred mountain lynx (wearing a small gold collar).
+In the area are Audun the Noble Leuian (seated), Stormy the Leuian (seated), Faron the Novice Leuian (seated), Rafe the Leuian (seated), Mariskia the Noble Leuian (seated), Darla the Novice Leuian (seated), Netraa the Leuian (seated), Siobahn the Leuian (seated), Tiruna the Noble Leuian (seated), Talishia the Leuian (seated), Kandil the Leuian (seated), Tchori the Leuian (seated), Tazzie the Noble Leuian (seated), Kenetic the Leuian (seated), Kierra the Leuian (seated), Crax the Leuian (seated), and Shaleu the Leuian (seated).
+Obvious paths: southeast* south* west*.
+>
+Kierra fidgets.
+
+Darla twitches her tail and ears.
+
+Audun nods solemnly.
+
+Kierra raises an eyebrow.
+
+Shaleu glances at Tiruna.
+
+Tiruna says in Leuian, "done"
+
+Tiruna blushes.
+
+Shaleu says in Leuian, "audun"
+
+Audun nods.
+
+Audun stands up.
+
+Stormy says in Leuian, "i'll be back in a few minutes"
+
+Shaleu nods.
+
+Faron fidgets.
+
+Audun says in Leuian, "Well. I'm no longer a clawmaster of course, but perhaps I still have a few worthwhile thoughts left."
+
+Audun ponders for a moment.
+
+Tchori smiles.
+
+Tiruna grins at Audun.
+
+Mariskia chuckles.
+
+Audun says in Leuian, "First, I'd like to remind everyone again, though ye likely know it, of the purpose of any judgment."
+
+Audun says in Leuian, "'Tis to restore balance, or wholeness, to our people. Most especially to Rafe."
+nod to au
+You nod to Audun.
+>
+Tiruna nods to Audun.
+
+Audun says in Leuian, "'Tis clear that Rafe understands his misstep, and that is no small thing."
+
+Audun says in Leuian, "No doubt the corrupting influence of that gods-be orb is tremendous."
+
+Audun twitches his tail.
+
+Stormy just appeared.
+
+Crax smiles at Audun.
+
+Stormy says in Leuian, "ok i'm back"
+
+Tiruna listens intently to Audun.
+l
+[Commodore Island Park.]
+
+A grove of young, green-needled pine trees surrounds a small meadow of vibrantly flowering rhododendrons. Hues of bright pink, red, and white create a stunning contrast against the darker grey bark of the pines. Brighter green hemlock trees spread to catch the sunlight, which, in turn, shelter smaller stands of delicious salmonberry bushes, airy leather ferns, and poignantly fragranced sorrels that thrive on the compost of the forest floor. Soft haircap moss covers the river stone-lined path, dew from the mist collecting on it like pollen on bees. The distant wash of rushing water quietly filters through the peaceful air that hangs heavily saturated with moisture.  A stack of rocks is here.
+
+This area is illuminated.
+You see the 1st tawny furred mountain lynx (wearing a small gold collar).
+In the area are Audun the Noble Leuian, Faron the Novice Leuian (seated), Stormy the Leuian (seated), Rafe the Leuian (seated), Mariskia the Noble Leuian (seated), Darla the Novice Leuian (seated), Netraa the Leuian (seated), Siobahn the Leuian (seated), Tiruna the Noble Leuian (seated), Talishia the Leuian (seated), Kandil the Leuian (seated), Tchori the Leuian (seated), Tazzie the Noble Leuian (seated), Kenetic the Leuian (seated), Kierra the Leuian (seated), Crax the Leuian (seated), and Shaleu the Leuian (seated).
+Obvious paths: southeast* south* west*.
+l s
+>[Commodore Island Park.]
+
+A soothing peace has settled over the forest here at the center of the park, where the mists coalesce and then dance back out again amongst the trees. Many small rivulets of water feed into an indent atop a large collection of boulders. As the water overflows the pool, it spills across the sides of the stone to trickle down the steps of the rock formation. Smaller pools are formed as it cascades over the rock until at last the rivulets are reunited into a single small stream which finds its way home to the larger river. Delicate flowering moss has grown over the stones of this centerpiece of the forest, and a small family of larks takes delight in bathing beneath the tiny waterfalls and mossy pools, even as the melodic chirping of other birds wafts through the tree branches all around.  A stack of rocks and a closed door are here.
+
+This area is illuminated.
+Obvious paths: north* northeast* east* southeast* south* southwest* west* northwest*.
+>
+Stormy says in Leuian, "what did i miss"
+l w
+[Village.]
+
+Amidst the towering trees and verdant mid level bushes, several smaller cabins blend into the surrounding park. The peaked roofs of the cabins bear the familiar carving as seen on most of the village homes and their small porches sport plantings of flowering wild roses and perky daisies accented with the fronds of leather ferns and shelf fungus.  A closed chiseled petrified redwood door, a closed arched slate grey granite boulder door, a closed salt stained cargo hatch, a closed vine etched glass door, and a decaying pile of planks are here.
+
+This area is illuminated.
+You see the 1st monarch butterfly (wearing a small gold collar).
+Obvious paths: east* southeast* south* northwest*.
+>
+Tazzie says in Leuian, "grandpa talking"
+l se
+[Village.]
+
+Far above the forest floor, the looming trees' canopy shades the park's paths. Every few feet a break in the leaves lights a fortunate fern or clover patch that languishes in the gift from the heavens. A giant among oaks, dwarfed by the mighty conifers enjoys such a boon.  Its twisted branches decry the battle to survive beneath the taller competitors. Nestled in the crotches of the oak branches, beautiful orchids thrive and bloom despite the weather, causing many of the villagers to believe that the goddess herself has adopted the oak as one of her protected monuments. The villagers have placed benches made of koy around the oak that complement the park without detracting from its natural beauty.  An ancient gnarled oak tree, some fragrant amber orchids, a beautiful hand-carved koy wood bench, a stack of rocks, and an ivy covered sandstone arch are here.
+
+This area is illuminated.
+Obvious paths: north* east* southeast* south* southwest* west* northwest*.
+>
+Darla blinks.
+
+Audun says in Leuian, "Judgment itself, though, is ultimately up to the clawmasters."
+
+Kierra nods.
+
+Audun says in Leuian, "If Rafe feels that a period of shunning will help restore balance for him, then 'tis likely a wise course."
+
+Faron's stomach growls.
+
+Netraa's stomach growls.
+
+Tiruna's stomach growls.
+
+Shaleu beams at Kierra.
+
+Kierra blushes.
+
+Audun says in Leuian, "Though I must say, I admired our khatyra's immediate response greatly."
+
+Audun smiles lightly.
+
+Audun says in Leuian, "That is, to seek how we may learn from this."
+
+Tiruna smiles up at Audun.
+
+Siobahn nods in agreement.
+
+Kierra nods.
+nod sagely
+You nod sagely.
+>
+Crax nods to Audun.
+wh to shal forgive me Khatyra, i cannot linger...a duty calls me...
+You whisper to Shaleu in Leuian.
+>
+Audun says in Leuian, "Often one of the most important parts of any atonement is to explain exactly what the misstep was."
+
+Shaleu smiles softly.
+
+Kierra nods.
+
+Audun says in Leuian, "Of that, I'll say I feel Rafe has spoken well tonight."
+
+Shaleu whispers in Leuian, "next week"
+
+Audun ponders for a moment.
+
+Stormy blinks.
+
+Shaleu smiles to you.
+wh to sha i shall, hug Dac for me?
+You whisper to Shaleu in Leuian.
+nod to au
+>You nod to Audun.
+>
+Audun says in Leuian, "Hrm, I must be growing old, I'm starting to babble too much."
+
+Audun chuckles softly.
+
+Crax chuckles.
+
+Tiruna laughs.
+
+Kandil grins to Audun.
+
+Darla grins slightly.
+
+Mariskia ponders"Growing"
+
+Audun says in Leuian, "I gather I'm done."
+
+Talishia smiles softly.
+stand silently
+You stand up silently.
+>
+Kierra raises an eyebrow.
+
+Audun smiles lightly.
+
+Shaleu smiles.
+
+Kierra raises her hand.
+
+Audun sits down next to Tiruna.
+
+Mariskia grins at Audun.
+bow to sha deeply, with great respect.
+You bow to Shaleu deeply, with great respect.
+>
+Faron glances at Kierra.
+
+Tiruna snuggles with Audun.
+s
+Use the LEAVE command to leave the group first.
+>
+Audun purrs softly.
+
+Audun holds Tiruna close.
+
+Crax says to Audun in Leuian, "gettin flowery of speech with yer years m'friend"
+leav
+You leave the group.
+s
+>[Commodore Island Park.]
+
+A soothing peace has settled over the forest here at the center of the park, where the mists coalesce and then dance back out again amongst the trees. Many small rivulets of water feed into an indent atop a large collection of boulders. As the water overflows the pool, it spills across the sides of the stone to trickle down the steps of the rock formation. Smaller pools are formed as it cascades over the rock until at last the rivulets are reunited into a single small stream which finds its way home to the larger river. Delicate flowering moss has grown over the stones of this centerpiece of the forest, and a small family of larks takes delight in bathing beneath the tiny waterfalls and mossy pools, even as the melodic chirping of other birds wafts through the tree branches all around.  A stack of rocks and a closed door are here.
+
+This area is illuminated.
+Obvious paths: north* northeast* east* southeast* south* southwest* west* northwest*.
+>
+ ** You are fully rested.
+quit
+
+    Dragon's Gate Menu
+
+ 1. Explore Dragon's Gate.
+ 2. Create, Delete, or View a character.
+ 3. Select current character.
+ 4. Display notices and version notes.
+16. Disconnect.
+
+Your active character is: Muther Gunn
+
+Your selection? 
+16
+
+ ** Goodbye from Mythic Entertainment! **

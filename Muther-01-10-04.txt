@@ -1,0 +1,108 @@
+l
+[Elindale's Temple, Altar Room.]
+
+The hum of busy bees and hummingbirds add a tone of unity to the soft chants of the priests and murmurings of those here to offer up the sacrifices and tithes to the great Goddess, Elindale. Several monks wearing floor length robes sit in silence, with the occasional clasped hands rising up in a particularly vibrant part of prayer. The altar itself is composed of growing flowers, the tiny buds enclosing gems and gold alike. Around the base of the altar grows a ring of mushrooms, vibrantly cloaked in red with white spots dotting the umbrellas.  A healthy blooming altar of flowers and a red and white ring of mushrooms are here.
+
+This room is illuminated.
+Obvious exits: southeast*.
+>inv
+Items carried:
+  An oak ring of Elindale [0.1 lbs].
+  An open large leather backpack [6.0 lbs].
+  An iron morningstar [3.0 lbs].
+  A pitch black cotton shirt [0.0 lbs].
+  A Leuian Pride ring [0.0 lbs].
+  A light forest green steelwood brigandine [20.9 lbs].
+  An Elindalian wildflower [0.1 lbs].
+  A glass vial [0.2 lbs].
+  A pair of pitch black bearskin pants [0.1 lbs].
+  A wooden torch [0.2 lbs].
+  A pair of pitch black workman's boots [0.1 lbs].
+
+You have 25 silver pieces and 0 gold pieces.
+
+This gives you a total net worth of 25 silver.
+
+Your inventory totals 30.9 lbs.
+>l at mu
+You find something suitably reflective and gaze into it...
+
+You look like a 6'0" standard mature delicate boned, very muscular bodied Leuian Cleric.
+You have very long, dredded, kinky white fur, with widely spaced white eyes, and look disheveled.
+You appear to be wary right now.
+You can be attacked by other players.
+You appear to be in perfect health.
+There is a shining gold emblem affixed to your clothing.
+
+Physical appearance:
+
+You see a grizzled old Khat, with an old scar across his white nose..
+
+                        Visible Equipment
+A light forest green steelwood brigandine          (armor)
+A pair of pitch black workman's boots              (on feet)
+A Leuian Pride ring                                (ring (left))
+An oak ring of Elindale                            (ring (left))
+A pair of pitch black bearskin pants               (pants)
+A pitch black cotton shirt                         (shirt)
+
+You have been bestowed the following title(s):
+  Noble of the Realm
+
+>info
+
+You are Muther Gunn, a delicate boned and very muscular bodied 45 year old Entropic Male mature Leuian Cleric of the Order of the Heart.  You are 6'0" and weigh 181 lbs.  You are hungry.  You are sloshing.
+
+HP: 159 of 159  Ftg:  61 of  61  Carry: 30.9 of 227.0 lbs.
+
+ Str   Int   Wis   Dex   Agi   Con   Cha   Wil   Voi   Per   App
+Aver  Fair  Good  Aver  Good  Good  Good  Good  Good  Fair  Fair  
+
+Use: INFO <subject> for more info.
+(Valid subjects: RELIGION, MAGICK, LANGUAGES, MARTIALARTS, MONEY, RUNESPELLS, TITLES, DISGUISE, PSIONICS)
+
+>stat
+OR:  24  DR: 108  Weap RT: 4 sec  Move Rate: 5/5 UDs  Dam Bonus: Low/None
+
+You are in the center of the area!
+
+  ::: Equipment Readied :::
+
+  A light forest green steelwood brigandine.
+  A pair of pitch black workman's boots.
+  A Leuian Pride ring.
+  An oak ring of Elindale.
+  A pair of pitch black bearskin pants.
+  A pitch black cotton shirt.
+>sk
+
+Skill                     Remain Level
+ Clawing                   1335   8     
+ First Aid                 175    2     
+ Spellcasting              948    8     
+ Blunt Weapons             550    5     
+ Channeling                612    6     
+ Identify Weapon Quality   100    1     
+
+>l
+[Elindale's Temple, Altar Room.]
+
+The hum of busy bees and hummingbirds add a tone of unity to the soft chants of the priests and murmurings of those here to offer up the sacrifices and tithes to the great Goddess, Elindale. Several monks wearing floor length robes sit in silence, with the occasional clasped hands rising up in a particularly vibrant part of prayer. The altar itself is composed of growing flowers, the tiny buds enclosing gems and gold alike. Around the base of the altar grows a ring of mushrooms, vibrantly cloaked in red with white spots dotting the umbrellas.  A healthy blooming altar of flowers and a red and white ring of mushrooms are here.
+
+This room is illuminated.
+Obvious exits: southeast*.
+>donate el to Elindale the Lady
+You kneel and make your offering to Elindale!
+Your Elindalian wildflower vanishes!
+
+You feel a sense of recognition from your deity.
+info rel
+
+>
+You are a Novitiate follower of Elindale.
+
+You have earned 327 favors.
+
+You are Balanced within your Entropic alignment.
+
+>logs off

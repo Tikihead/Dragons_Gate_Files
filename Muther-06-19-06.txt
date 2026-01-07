@@ -1,0 +1,344 @@
+
+Crax says, "not ever"
+l
+[Town Square Center.]
+
+A beautiful fountain, sculpted from pristine white marble, rests at the center of Spur's main square. Clear, sparkling water sprays from a spout at the fountain's tip and cascades down several tiers before spilling into a circular pool. High above the square, the wings of two imperial stone dragons form an arch for a massive gateway. The colossal monument stands at the heart of the city like a silent sentinel keeping watch over the entire realm. Lifelike marble statues decorate the square's perimeter, each a celebrated hero of Spur's past.  A marble statue of a Human, some crystal flecked granite oliphant-shaped benches, a rosewood sign, a crisp gold lettered vellum notice, a flowing purple marble fountain, a shimmering purple marble statue of an Ice Demon, a small blackened pile of ashes, a short iron dirk, and some silver coins are here.
+
+This area is illuminated.
+You see the 1st speckled woodland owl (wearing a small gold collar), the 1st fluffy kitten (wearing a small gold collar), and the 1st giant bird eater tarantula (wearing a small gold collar).
+In the area are Dathis the Noble Leuian, Tchori the Leuian (seated), Symphany the Psycian, Crax the Noble Leuian, Etheri the Leuian, Linus the Drake, and September the Leuian.
+Obvious paths: north* northeast* east* southeast* south* southwest* west* northwest*.
+l at eth
+>
+Etheri looks like a 5'3" standard adolescent massive boned, muscular bodied Leuian.
+She has short, dredded, wiry sable fur, with light green eyes, and looks neat.
+She appears to be overjoyed right now.
+She bears the mark of Odarous.
+She can be attacked by other players.
+She appears to be in perfect health.
+
+Physical appearance:
+
+Giggling and purring at the same time, she seemed all too happy for a khat. A silver Sword Cleric shield is strapped to her back, reflecting the lights of the area
+
+                        Visible Equipment
+A trailing gossamer silk wrap                      (over armor)
+An eagle etched platinum ring                      (ring (right))
+A tiger's eye ring of Odarous                      (ring (right))
+A shadowy grey agate ring                          (ring (left))
+A flirtatious marigold linen sundress              (dress)
+
+She has been bestowed the following title(s):
+  Noble of the Realm
+
+>
+September says to Dathis, "what you did was weak"
+
+Tchori says in Leuian, "elindale and taath are gods of us"
+
+Crax says, "it was healed and would have left on its own"
+
+Tchori says in Leuian, "death comes to all"
+
+Dathis blinks.
+
+Linus ponders the meaning of the universe for a moment.
+
+Etheri is looking at you.
+
+Dathis says to September in Leuian, "What I did..."
+
+Etheri bows to you.
+bow to eth
+You bow to Etheri.
+>
+Etheri smiles.
+
+Dathis says to September in Leuian, "I didn't even touch em..."
+
+Torrana, lost in her thoughts, just entered from the west.
+
+Linus asks Crax, "You say you protect the weak, but would not letting such a crazed madman wander about be letting it attack some innocent later?"
+
+Torrana's head suddenly begins glowing. She places a hand upon her chest. The glow travels down an arm to her hand. The glow quickly spreads over Torrana's entire body, then fades away.
+
+
+Symphany smiles at Torrana.
+
+Torrana smiles at Symphany and hugs him lightly.
+
+Torrana says in Psycian, "dex tbkro"
+
+The speckled woodland owl screeches loudly.
+
+Deborien just entered from the west.
+
+Etheri leans on Dathis.
+
+Dathis leans on Etheri.
+
+Crax says to Linus, "they're only crazed after they've been hurt     I healed it and it was about to go is own way"
+
+Etheri says to Crax in Leuian, "we stopped attacking and it attacked again"
+
+Dathis says to Crax in Leuian, "It attacked Etheri right after ya healed it"
+
+Amaya just entered from the south.
+
+Amaya just went northeast.
+
+September says, "My great grandfather taught me to turn the other cheek, I am sure it it were a much more powerful foe then the young ones would not have attacked"
+
+Crax says, "wasn't fully healed"
+
+Linus says to Crax, "Obviously not, it came in trying to attack, perhaps out of desperation, perhaps not. In any case, if you had forced it to leave, it would have been by magical means, not lasting ones.."
+
+Crax mutters something beneath his breath.
+
+September says to Linus, "or defending against Etheri as I did and leaving the area"
+
+The speckled woodland owl glares.
+
+Dathis says to Crax in Leuian, "Ya did ya best. No one can ask for more. "
+
+Amaya just entered from the north.
+
+Amaya just went west.
+
+Etheri shrugs.
+
+September says, "that would have averted his attention"
+
+Linus raises an eyebrow at September.
+l
+[Town Square Center.]
+
+A beautiful fountain, sculpted from pristine white marble, rests at the center of Spur's main square. Clear, sparkling water sprays from a spout at the fountain's tip and cascades down several tiers before spilling into a circular pool. High above the square, the wings of two imperial stone dragons form an arch for a massive gateway. The colossal monument stands at the heart of the city like a silent sentinel keeping watch over the entire realm. Lifelike marble statues decorate the square's perimeter, each a celebrated hero of Spur's past.  A marble statue of a Human, some crystal flecked granite oliphant-shaped benches, a rosewood sign, a crisp gold lettered vellum notice, a flowing purple marble fountain, a shimmering purple marble statue of an Ice Demon, a small blackened pile of ashes, a short iron dirk, and some silver coins are here.
+
+This area is illuminated.
+You see the 1st speckled woodland owl (wearing a small gold collar), the 1st fluffy kitten (wearing a small gold collar), and the 1st giant bird eater tarantula (wearing a small gold collar).
+In the area are Deborien the Noble San Elf, Dathis the Noble Leuian, Tchori the Leuian (seated), Symphany the Psycian, Crax the Noble Leuian, Etheri the Leuian, Linus the Drake, September the Leuian, and Torrana the Psycian.
+Obvious paths: north* northeast* east* southeast* south* southwest* west* northwest*.
+l at sep
+>
+Tchori asks in Leuian, "crax.. You are debating with kyn.. in spur square with lakar.. for gutting lakar who attacked kyn?"
+
+September looks like a 6'6" standard adolescent light boned, muscular bodied Leuian.
+She has very long, wild, baby fine white fur, with large golden eyes, and looks messy.
+She appears to be gentle right now.
+She can be attacked by other players.
+
+On her back, on the lower portion, is a twisted ivy vine in the shape of an "S".
+
+On her right ankle is a tattoo of a sleek black panther.
+
+She appears to be in perfect health.
+There is a shining gold emblem affixed to her clothing.
+                        Visible Equipment
+Some heavy morbius armor                           (armor)
+A blood red iridescent runesilk Psion's wrap       (over armor)
+
+She has been bestowed the following title(s):
+  Noble of the Realm
+
+>
+Tchori says in Leuian, "in common no less"
+
+Etheri asks Dathis in Leuian, "shall we hunt?"
+
+Dathis sighs.
+
+Deborien just went northeast.
+
+Dathis says in Leuian, "I suppose."
+
+September's head suddenly begins glowing. She places a hand upon her chest. The glow travels down an arm to her hand. The glow quickly spreads over September's entire body, then fades away.
+
+
+Linus says to September, "Regardless, if it had not died then and had been forced to leave, it would have wandered until it found something it could kill, they acted rightly."
+
+Dathis asks in Leuian, "Ya'll wana come?"
+
+Tchori blinks.
+l
+[Town Square Center.]
+
+A beautiful fountain, sculpted from pristine white marble, rests at the center of Spur's main square. Clear, sparkling water sprays from a spout at the fountain's tip and cascades down several tiers before spilling into a circular pool. High above the square, the wings of two imperial stone dragons form an arch for a massive gateway. The colossal monument stands at the heart of the city like a silent sentinel keeping watch over the entire realm. Lifelike marble statues decorate the square's perimeter, each a celebrated hero of Spur's past.  A marble statue of a Human, some crystal flecked granite oliphant-shaped benches, a rosewood sign, a crisp gold lettered vellum notice, a flowing purple marble fountain, a shimmering purple marble statue of an Ice Demon, a small blackened pile of ashes, a short iron dirk, and some silver coins are here.
+
+This area is illuminated.
+You see the 1st speckled woodland owl (wearing a small gold collar), the 1st fluffy kitten (wearing a small gold collar), and the 1st giant bird eater tarantula (wearing a small gold collar).
+In the area are Dathis the Noble Leuian, Tchori the Leuian (seated), Symphany the Psycian, Crax the Noble Leuian, Etheri the Leuian, Linus the Drake, September the Leuian, and Torrana the Psycian.
+Obvious paths: north* northeast* east* southeast* south* southwest* west* northwest*.
+>
+Tchori blushes.
+
+Crax says to Tchori, "was an innocent insighted by a lakar or serpent...I've no problem defending it"
+
+The fluffy kitten purrs quietly.
+'da, i must study
+
+Muther says to Dathis, "i must study"
+>
+The speckled woodland owl spreads its wings.
+
+Tchori says in Leuian, "sorry dathis"
+bow to da deeply, with great respect.
+You bow to Dathis deeply, with great respect.
+>
+Dathis bows to you.
+
+Dathis exclaims to Muther in Leuian, "Study well!"
+smi
+
+Dathis smiles.
+You smile.
+wav
+>You wave.
+n
+n
+n
+>[Town Square North.]
+
+The traffic on the northern street heading away from town square is an eclectic bunch.  Those who belong to the guilds to the north travel in packs on their way to and from guild events.  It is not unusual to see a group of armored fighters passing a group of robed clerics, each heading in the opposite direction. The large temple of Rinanni rises to the north, its white marble almost glowing in the light.  A street lantern and a fluffy white layer of snow are here.
+
+This area is illuminated.
+You see the 1st city guard mage and the 2nd city guard mage.
+Obvious paths: north* east* southeast* south* southwest* west*.
+n
+n
+n
+[Northern Avenue.]
+
+Beds of wildflowers line the carefully placed cobblestones along this street. A pair of love birds, cooing in delight, sit upon a white marble bench. The giggles and laughs of a pair of trysting lovers echoes from the room in the Traveler's Hostel to the east. It is certain that Rinanni looks down upon this scene with delight.  A white marble bench and a street lantern are here.
+
+This room is illuminated.
+Obvious exits: north* south*.
+[Northern Avenue.]
+
+A peaceful bliss pervades the very core of this guilded path. Below a large oak tree a couple of Rinannian priestesses sing lightly in Secti. Several merchants pause to listen to the song. Even a few hardened warriors cannot help but smile at the sweet melody.  A large oak tree, an open dragon-etched emerald door, and a street lantern are here.
+
+This area is illuminated.
+You see the 1st very loud drunk drag-al.
+Obvious paths: north* south*.
+
+2 drunk bar patrons just wandered in in front of you at 6 UDs!
+
+The drunk bar patron raises a bottle in the air and sings a merry tune.
+
+The 2nd drunk bar patron stumbles about drunkenly.
+[Northern Avenue.]
+
+The distant glimmer from a temple made of white marble and pearl catches your eye. An intricate gilded iron gate and a small winding path are all that separate you from the dazzling temple of Rinanni. Majestic marble statues of doves in flight stand on either side of the gate. The gaze of their peaceful eyes seems to follow your every movement.  An open intricately gilded iron gate, a pair of pure white marble dove statues, and a street lantern are here.
+
+This area is illuminated.
+Obvious paths: north* south*.
+[Northern Avenue.]
+
+A large stone building rises just to the east of Northern Avenue. These barracks house those known as Dread Knights. It is not unusual to see patrols of this elite group heading down the street towards Town Square. One would hope their presence would allow everyone to live in peace. If only they would stop fingering their swords all the time, you might believe it yourself.  A street lantern is here.
+
+This area is illuminated.
+You see the 1st violet robed priest and the 2nd violet robed priest.
+Obvious paths: north* south*.
+[Northern Avenue.]
+
+Northern Avenue ends at a gateway set within the massive city walls. On the other side of the gate are the Guild Halls. Those who pass through accept the bond of peace that the Guilds impose on all who desire their services. On either side of the gate guards stand at attention saluting all those who pass by.  An open iron gate, an open thick stone door, and a street lantern are here.
+
+This area is illuminated.
+Obvious paths: south*.
+go gate
+>[Northern Avenue.]
+
+The city walls tower high above you at the entrance to the guild district. On top of the wall, a very bored looking guard with a lazy eye watches those passing through the gate. The large guild buildings spread out around the district, bustling with the day-to-day activity of the city's guild groups.  An open iron gate and a street lantern are here.
+
+This area is illuminated.
+Obvious paths: north*.
+n
+n
+n
+>[Northern Avenue.]
+
+The massive building of the Merchant's Guild looms over a vast part of the guild district. The activity at the main door of the guild is mind numbing as hundreds of citizens and merchants alike rush in and out of the guild to handle their business. While the governor has control over the city guard, many claim it is the Merchant's Guild that runs the city of Spur.  An open exquisite polished mahogany door and a street lantern are here.
+
+This area is illuminated.
+Obvious paths: north* south*.
+[Northern Avenue.]
+
+To the south the road runs back into the center of the city, further to the north the city road continues on toward the other guilds. All the legal city guilds are represented within this city district except for the Forester's Guild. A sign stands beside the road to help direct lost would-be foresters to their guild hall.  A beautiful etched wooden sign and a street lantern are here.
+
+This area is illuminated.
+Obvious paths: north* south*.
+[Northern Avenue]
+
+Numerous citizens walk purposefully along the busy street. Fighters and mercenaries make up the majority, but some from almost all walks of life hurry past as well. A dejected street cleaner struggles to keep up with the messes left behind by the pets and other beasts that travel on the roads.  A street lantern is here.
+
+This area is illuminated.
+Obvious paths: north* south*.
+n
+n
+n
+>[Crossing.]
+
+Northern Avenue meets Art Avenue at this intersection. Further to the north, the Mercenary's Guild makes its home, while the Bard's and Sage's Guilds are to the east. The extravagant Merchant's Guild stands to the south. Various sponsors wave pieces of parchment in an attempt to recruit new members.  An open lustrous hammered steel door and a street lantern are here.
+
+This area is illuminated.
+Obvious paths: north* east* south*.
+[Northern Avenue.]
+
+The sounds of clashing steel and the calls of battle fill the air near the entrance to the Mercenary's Guild. Numerous hardened warriors lean up against the walls of the building waiting for job offers, while others move in and out of the guild hall going about their daily business. By the looks of it, some of the veterans are giving a barbarian near the front door a hard time.  An open white cedar door and a street lantern are here.
+
+This area is illuminated.
+You see the 1st city guard mage.
+Obvious paths: north* south*.
+[Northern Avenue.]
+
+A narrow steel gate leads through a short white stone wall. Beyond the gate lies the practice yard for the Mercenary's Guild. Novice mercenaries sit or stand outside the gate, either resting from their exertions or gathering their courage to enter. Piles of old bandages lie beside the road. Behind the practice yard, the incredible outer wall stands high above the city.  An open polished oak door, a street lantern, and an open shattered grey steel gate are here.
+
+This area is illuminated.
+Obvious paths: south*.
+go door
+>[The Faithful Squire.]
+
+The tangy-sweet smell of metal and leather permeate the air of this shop. A stout Hithual wearing a leather apron barks an order to a young apprentice who lets out a yelp and rushes to the back of the shop to carry out his master's wishes. The shopkeeper mumbles about lazy youngsters and returns to oiling a fine looking leather weapon harness, leaving you to examine his wares on your own.   Some glowing quartz faced copper lanterns and an open polished oak door are here.
+
+This room is illuminated.
+Obvious exits: None.
+sk
+>
+Skill                     Remain Level
+ Clawing                   1374   10    
+ First Aid                 99     2     
+ Spellcasting              843    11    
+ Blunt Weapons             649    6     
+ Channeling                1539   11    
+ Identify Weapon Quality   43     3     
+ Brawling                  106    2     
+ Shield Parry              255    5     
+ Throw Weapons             400    4     
+ Swimming                  115    2     
+ Identify Gems/Minerals    100    1     
+ Turn Undead               272    3     
+ Hiding                    467    5     
+ Stealth                   200    2     
+ Play Instruments          772    7     
+ Sharp Weapons             100    1     
+ Quickdraw                 91     1     
+
+duck silently into the shadows...
+quit
+>You duck silently into the shadows...
+>
+    Dragon's Gate Menu
+
+ 1. Explore Dragon's Gate.
+ 2. Create, Delete, or View a character.
+ 3. Select current character.
+ 4. Display notices and version notes.
+16. Disconnect.
+
+Your active character is: Muther Gunn
+
+Your selection? 
+16
+
+ ** Goodbye from Mythic Entertainment! **

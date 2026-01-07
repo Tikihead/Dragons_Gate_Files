@@ -1,0 +1,1962 @@
+
+Timble swishes his tail slowly back and forth.
+
+Leanne says in Leuian, "i try..."
+l
+[Village.]
+
+The chipped bark path widens to encompass a broad square between the peaked roofs of the village homes, the larger storefronts, and several communal buildings that all surround a magnificent fountain crafted from local sandstone. The multi-tiered fountain flows with pure, clean springwater and provides seating around its broad base.  The towering trees surround the village, enclosing the square in a living frame.  To the west is a sturdy building with its door perpetually ajar. A line of Leuian children trots off towards the north, bearing their lessons. The faint ding of nautical bells flows in on the breeze from the northwest.   A flowing gold-flecked sandstone fountain is here.
+
+This area is illuminated.
+In the area are Kandil the Leuian, Hott the Noble Leuian, Leanne the Leuian, Shaleu the Leuian, Audun the Noble Leuian, Timble the Noble Leuian, and Lthe the Leuian.
+Obvious paths: north* northeast* east* southeast* south* southwest* west*.
+>
+Kandil smiles.
+
+Lthe says in Leuian, "Hello, everyone"
+sk
+
+Skill                     Remain Level
+ Clawing                   1968   10    
+ First Aid                 102    2     
+ Spellcasting              1506   11    
+ Blunt Weapons             652    6     
+ Channeling                475    10    
+ Identify Weapon Quality   268    3     
+ Brawling                  106    2     
+ Shield Parry              481    5     
+ Throw Weapons             113    2     
+ Swimming                  67     1     
+ Identify Gems/Minerals    100    1     
+ Turn Undead               289    3     
+ Hiding                    179    2     
+ Stealth                   98     1     
+ Play Instruments          200    2     
+
+>
+Shaleu smiles at Lthe.
+
+Kandil hugs Lthe.
+bow to lth deeply, with great respect.
+You bow to Lthe deeply, with great respect.
+>
+Lthe hugs Kandil.
+
+Leanne closes her eyes and meditates.
+A small spark leaps between Leanne and Hott.
+
+Lthe bows to Shaleu.
+
+Lthe smiles.
+
+Lthe says to Shaleu in Leuian, "nice to see you"
+
+Hott just removed some stiff laced leather bracers from within his open leather trimmed canvas rucksack.
+who range race
+
+Lthe sits down.
+List will be restricted to those within range.
+Race who list activated!
+
+                Current Leuian Adventurers:
+
+Current Adventurers
+
+ Kandil Dragins                      Hott Breeze                        
+ Leanne Lorkalinth                   Shaleu Dragins                     
+ Muther Gunn                         Audun Kell                         
+ Timble Darkstar                     Lthe Wain                          
+ Snowball Jackson                   
+
+You notice 9 adventurers.
+>
+Shaleu removes her heavy ruby encrusted steelwood mail.
+
+Hott offers something to Leanne.
+
+Leanne removes her heavy leather Tzeacal hunting robes.
+
+Shaleu stores her tapered applewood mandolin.
+
+Timble sits down.
+
+Leanne ponders the meaning of the universe for a moment.
+rem sca
+You remove your heavy blood red lacquered bone scale mail.
+>
+Leanne accepts Hott's offer.
+
+Leanne raises an eyebrow.
+
+Leanne sniffs at the stiff laced leather bracers.
+inv
+Items carried:
+  An oak ring of Elindale [0.1 lbs].
+  An open large leather backpack [55.1 lbs].
+  A long pitch black bone nose piercing [0.5 lbs].
+  An open leather healer's bag [0.3 lbs].
+  Some colorful bamboo panpipes [0.1 lbs].
+  A Leuian Pride ring [0.0 lbs].
+  Some heavy blood red lacquered bone scale mail [11.0 lbs].
+  An oak-handled iron spiked aclys [2.2 lbs].
+  A cold cherry tart [0.1 lbs].
+  A leafy branch [0.0 lbs].
+  An ancient gleaming carbide shield [5.6 lbs].
+  A pair of pitch black bearskin pants [0.1 lbs].
+  A long blood-stained render skin cape [0.3 lbs].
+
+You have 183 silver pieces and 0 gold pieces.
+
+This gives you a total net worth of 183 silver.
+
+Your inventory totals 77.2 lbs.
+>
+Hott says, "when ye get punch use these"
+
+Leanne grins.
+
+Leanne says in Leuian, "okay"
+
+Hott says, "helps"
+
+Leanne just placed some stiff laced leather bracers within her open large leather backpack.
+l in he
+Inside the open leather healer's bag you see a half-eaten twisted chocolate cruller.
+l in bac
+>Inside the open large leather backpack you see an open raccoonskin pack, an open raccoonskin pack, a damaged iron morningstar, a light forest green steelwood brigandine, some heavy blood red lacquered bone scale mail, a heavy studded leather mail, some light greying studded leather armor, an iron morningstar, a flowing pitch black satin noble's cloak, a wood club, a cold cherry tart, a half-eaten fresh baked apple pie, and a white wax candle.
+>
+Kandil sits down.
+sk
+
+Skill                     Remain Level
+ Clawing                   1968   10    
+ First Aid                 102    2     
+ Spellcasting              1506   11    
+ Blunt Weapons             652    6     
+ Channeling                475    10    
+ Identify Weapon Quality   268    3     
+ Brawling                  106    2     
+ Shield Parry              481    5     
+ Throw Weapons             113    2     
+ Swimming                  67     1     
+ Identify Gems/Minerals    100    1     
+ Turn Undead               289    3     
+ Hiding                    179    2     
+ Stealth                   98     1     
+ Play Instruments          200    2     
+
+>
+Hott sits down.
+diag all
+
+  You examine Kandil the Leuian...
+She appears to be in perfect health.
+  You examine Hott the Leuian...
+He appears to be in perfect health.
+  You examine Leanne the Leuian...
+She has no apparent injuries, but looks weakened.
+  You examine Shaleu the Leuian...
+She appears to be in perfect health.
+  You examine Audun the Leuian...
+He appears to be in perfect health.
+  You examine Timble the Leuian...
+He appears to be in perfect health.
+  You examine Lthe the Leuian...
+She appears to be in perfect health.
+
+train raise le
+>There is no training hall here!
+invo mb at le
+>
+Elindalian wildflowers begin to blossom all around Muther!
+
+h
+sk
+You feel a surge of magick infuse your runeweave!
+Weaving those runes cost you 4 FPs.
+
+You feel more tired.
+[10 sec. delay]
+
+Your god is pleased with you!
+>You have no apparent injuries, but look tired.
+
+HP: 163/163  Ftg:  60/ 64
+>
+Skill                     Remain Level
+ Clawing                   1968   10    
+ First Aid                 102    2     
+ Spellcasting              1505   11    
+ Blunt Weapons             652    6     
+ Channeling                475    10    
+ Identify Weapon Quality   268    3     
+ Brawling                  106    2     
+ Shield Parry              481    5     
+ Throw Weapons             113    2     
+ Swimming                  67     1     
+ Identify Gems/Minerals    100    1     
+ Turn Undead               289    3     
+ Hiding                    179    2     
+ Stealth                   98     1     
+ Play Instruments          200    2     
+
+>
+ ** You are fully rested.
+
+Kandil glances at you.
+gri
+You grin.
+>
+The wildflowers release a delicate mist which envelops Leanne, covering her skin with sparkling dew drops!
+
+The dew upon Leanne is quickly absorbed into her skin.
+gla at le
+You glance at Leanne.
+diag all
+>
+  You examine Kandil the Leuian...
+She appears to be in perfect health.
+  You examine Hott the Leuian...
+He appears to be in perfect health.
+  You examine Leanne the Leuian...
+She appears to be in perfect health.
+  You examine Shaleu the Leuian...
+She appears to be in perfect health.
+  You examine Audun the Leuian...
+He appears to be in perfect health.
+  You examine Timble the Leuian...
+He appears to be in perfect health.
+  You examine Lthe the Leuian...
+She appears to be in perfect health.
+
+>
+Leanne sighs.
+
+Hott says in Leuian, "gad flowers"
+nod
+You nod.
+>
+Leanne says in Leuian, "wasn't that hurt..."
+
+Kandil grins.
+gri to ho
+You grin to Hott.
+>
+Leanne sits down.
+
+Kandil says in Leuian, "thats nice"
+
+Audun says to Muther in Leuian, "Was a time when I hardly would've expected that sight round ye."
+
+Audun chuckles softly.
+
+Shaleu smiles softly.
+gri to au
+You grin to Audun.
+>
+Kandil grins to Audun.
+
+Hott grins.
+' it grows upon one
+
+Muther says in Leuian, " it grows upon one"
+gri to au
+>You grin to Audun.
+>
+Leanne says to Muther in Leuian, "thanks"
+
+Kandil exclaims to Audun in Leuian, "im happy ta see yah!"
+bow to le
+You bow to Leanne.
+>
+Audun says in Leuian, "Tis nicer this way. Aye."
+
+Kandil says to Audun in Leuian, "been to long"
+nod softly
+You nod softly.
+>
+Leanne nods.
+l
+[Village.]
+
+The chipped bark path widens to encompass a broad square between the peaked roofs of the village homes, the larger storefronts, and several communal buildings that all surround a magnificent fountain crafted from local sandstone. The multi-tiered fountain flows with pure, clean springwater and provides seating around its broad base.  The towering trees surround the village, enclosing the square in a living frame.  To the west is a sturdy building with its door perpetually ajar. A line of Leuian children trots off towards the north, bearing their lessons. The faint ding of nautical bells flows in on the breeze from the northwest.   A flowing gold-flecked sandstone fountain is here.
+
+This area is illuminated.
+In the area are Kandil the Leuian (seated), Hott the Noble Leuian (seated), Leanne the Leuian (seated), Shaleu the Leuian, Audun the Noble Leuian, Timble the Noble Leuian (seated), and Lthe the Leuian (seated).
+Obvious paths: north* northeast* east* southeast* south* southwest* west*.
+sit swiftly, with a flick of his grizzled old white-furred tail...
+>You sit down swiftly, with a flick of his grizzled old white-furred tail....
+>
+Audun says in Leuian, "Aye, well, 'tis the never-ending gods-be war with the papers."
+
+Audun grunts.
+
+Kandil nods to Audun.
+wrin whiskers in amusement
+You wrinkle your nose whiskers in amusement.
+>
+Hott says in Leuian, "sno in realm"
+'hot, can you smell him from here?
+
+Muther asks Hott in Leuian, "can you smell him from here?"
+gri to ho
+>
+Kandil says to Hott in Leuian, "aye waiting a bit before we move"
+You grin to Hott.
+>
+Shaleu grins.
+
+Hott grins.
+
+Shaleu says in Leuian, "I wonder if your papers are better then the dark force warriors"
+
+Leanne says to Muther in Leuian, "we should've just stayed where we were..."
+gri to le
+You grin to Leanne.
+' lonely there
+>
+Muther says in Leuian, " lonely there"
+chu
+>You chuckle.
+>
+Leanne says to Muther in Leuian, "true"
+info
+
+You are Muther Gunn, a delicate boned and very muscular bodied 45 year old Entropic Male mature Leuian Cleric of the Order of the Heart.  You are 6'0" and weigh 181 lbs.  You are seated.  You are sloshing.
+
+HP: 163 of 163  Ftg:  64 of  64  Carry: 77.2 of 227.0 lbs.
+
+ Str   Int   Wis   Dex   Agi   Con   Cha   Wil   Voi   Per   App
+Aver  Fair  Good  Aver  Good  Good  Good  Good  Good  Fair  Fair  
+
+Use: INFO <subject> for more info.
+(Valid subjects: RELIGION, MAGICK, LANGUAGES, MARTIALARTS, MONEY, RUNESPELLS, TITLES, DISGUISE, PSIONICS)
+
+>
+Leanne stands up.
+
+Leanne tackles Audun and bounces off with little effect.
+
+Leanne snaps her fingers.
+
+Leanne sits up.
+l
+[Village.]
+
+The chipped bark path widens to encompass a broad square between the peaked roofs of the village homes, the larger storefronts, and several communal buildings that all surround a magnificent fountain crafted from local sandstone. The multi-tiered fountain flows with pure, clean springwater and provides seating around its broad base.  The towering trees surround the village, enclosing the square in a living frame.  To the west is a sturdy building with its door perpetually ajar. A line of Leuian children trots off towards the north, bearing their lessons. The faint ding of nautical bells flows in on the breeze from the northwest.   A flowing gold-flecked sandstone fountain is here.
+
+This area is illuminated.
+In the area are Kandil the Leuian (seated), Hott the Noble Leuian (seated), Leanne the Leuian (seated), Shaleu the Leuian, Audun the Noble Leuian, Timble the Noble Leuian (seated), and Lthe the Leuian (seated).
+Obvious paths: north* northeast* east* southeast* south* southwest* west*.
+>
+Kandil grins to Leanne.
+l at kan
+
+Kandil looks like a 5'7" standard mature light boned, slender bodied Leuian.
+She is seated.
+She has shoulder length, wavy, baby fine purple fur, with pale green eyes, and looks neat.
+She appears to be happy right now.
+She bears the mark of Odarous.
+She can be attacked by other players.
+She appears to be in perfect health.
+                        Visible Equipment
+A heavy polished steelwood mail                    (armor)
+A polished mahogany lyre                           (hands)
+A ruby and diamond butterfly broach                (around neck)
+Some high-heeled white suede knee-high boots       (on feet)
+Some coat of arms embroidered moonsilk Odarian rob (over armor)
+A Leuian Pride ring                                (ring (left))
+A red spidersilk skirt                             (pants)
+A white spidersilk bodice                          (shirt)
+An open ribbon tied satin clerical bag             (on belt)
+
+She has been bestowed the following title(s):
+  Noble of the Realm
+
+>
+Leanne says in Leuian, "I tried..."
+l at ho
+
+Hott looks like a 5'1" standard mature light boned, wiry-tough bodied Leuian.
+He is seated.
+He has long, neatly kept, wispy sable fur, with hazel eyes, and looks casual.
+He appears to be unconcerned right now.
+He bears the mark of Unknown.
+He can be attacked by other players.
+He appears to be in perfect health.
+There is a shining gold emblem affixed to his clothing.
+
+Physical appearance:
+
+loving Khat'sara of whiteleopard
+
+                        Visible Equipment
+A coral encrusted twisted moonsilver torc          (around neck)
+A pair of moonsilver laced coral trimmed sandals   (on feet)
+A coral ring of Unknown                            (ring (right))
+A Leuian Pride ring                                (ring (right))
+A coral embedded moonsilver tiger signet ring      (ring (right))
+A small gold ring                                  (ring (left))
+A coral stitched silk vestment                     (dress)
+A tiger embroidered deep grey sash                 (on belt)
+Some smooth tiger's eye prayer beads               (on belt)
+A smokey grey silk tiger emblazoned sash           (on belt)
+
+He has been bestowed the following title(s):
+  Noble of the Realm
+
+l
+>[Village.]
+
+The chipped bark path widens to encompass a broad square between the peaked roofs of the village homes, the larger storefronts, and several communal buildings that all surround a magnificent fountain crafted from local sandstone. The multi-tiered fountain flows with pure, clean springwater and provides seating around its broad base.  The towering trees surround the village, enclosing the square in a living frame.  To the west is a sturdy building with its door perpetually ajar. A line of Leuian children trots off towards the north, bearing their lessons. The faint ding of nautical bells flows in on the breeze from the northwest.   A flowing gold-flecked sandstone fountain is here.
+
+This area is illuminated.
+In the area are Kandil the Leuian (seated), Hott the Noble Leuian (seated), Leanne the Leuian (seated), Shaleu the Leuian, Audun the Noble Leuian, Timble the Noble Leuian (seated), and Lthe the Leuian (seated).
+Obvious paths: north* northeast* east* southeast* south* southwest* west*.
+>
+Audun smiles lightly.
+
+Snowball just entered from the north.
+l at le
+
+Leanne looks like a 5'9" standard mature average boned, wiry-tough bodied Leuian Cleric.
+She is seated.
+She has medium length, neatly kept, coarse dull black fur, with golden eyes, and looks spotless.
+She appears to be playful right now.
+She bears the mark of Rinanni.
+She can be attacked by other players.
+She appears to be in perfect health.
+                        Visible Equipment
+A fire hardened rose-covered oak staff             (shield)
+A delicate black diamond tiara                     (on head)
+A delicate blue pearl dove pendant                 (around neck)
+Some calf-high laced leather sandals               (on feet)
+A flowing azure satin noble's cloak                (over armor)
+A carved mother-of-pearl dove ring                 (ring (right))
+A glowing amber moonsilver kyn band                (ring (right))
+A heart-shaped violet sapphire earring             (right ear)
+A heart-shaped violet sapphire earring             (left ear)
+Some dove embroidered ivory and violet silk robes  (dress)
+A belt of tarr'khat skulls                         (on belt)
+An open ribbon tied satin clerical bag             (on belt)
+A shimmering crystal traveler's token              (on belt)
+
+She has been bestowed the following title(s):
+  Noble of the Realm
+
+>
+Kandil smiles to Snowball.
+l at sha
+
+Shaleu looks like a 5'8" standard adolescent massive boned, wiry-tough bodied Leuian.
+She has shoulder length, curly, fine white fur with silver streaks, amber eyes, and looks casual.
+She appears to be distant right now.
+She bears the mark of Sa.
+She can be attacked by other players.
+She appears to be in perfect health.
+There is a shining gold emblem affixed to her clothing.
+
+Physical appearance:
+
+Amber eyes are sad and she absentmindedly twists the khat'sara band on her hand.
+
+                        Visible Equipment
+A glimmering blue pearl dragon-shaped amulet       (around neck)
+Some lovely fire red soft kid boots                (on feet)
+A crimson ruby flame-shaped ring of Sa             (ring (right))
+A Leuian Pride ring                                (ring (right))
+A glimmering white pearl khat'sara band            (ring (left))
+Some red silk mage robes                           (dress)
+Some red silk stockings                            (pants)
+A white silk tunic                                 (shirt)
+
+She has been bestowed the following title(s):
+  Noble of the Realm
+
+>
+Snowball bows.
+l
+[Village.]
+
+The chipped bark path widens to encompass a broad square between the peaked roofs of the village homes, the larger storefronts, and several communal buildings that all surround a magnificent fountain crafted from local sandstone. The multi-tiered fountain flows with pure, clean springwater and provides seating around its broad base.  The towering trees surround the village, enclosing the square in a living frame.  To the west is a sturdy building with its door perpetually ajar. A line of Leuian children trots off towards the north, bearing their lessons. The faint ding of nautical bells flows in on the breeze from the northwest.   A flowing gold-flecked sandstone fountain is here.
+
+This area is illuminated.
+In the area are Kandil the Leuian (seated), Hott the Noble Leuian (seated), Leanne the Leuian (seated), Shaleu the Leuian, Audun the Noble Leuian, Timble the Noble Leuian (seated), Lthe the Leuian (seated), and Snowball the Leuian.
+Obvious paths: north* northeast* east* southeast* south* southwest* west*.
+>
+Snowball sits down.
+l at au
+
+Audun looks like a 7'0" standard mature average boned, wiry-tough bodied Leuian.
+He has short, neatly kept, kinky chestnut brown fur, with golden eyes, and looks neat.
+He appears to be worried right now.
+He bears the mark of Rinanni.
+He can be attacked by other players.
+He appears to be in perfect health.
+                        Visible Equipment
+A pair of supple tan moccasins                     (on feet)
+A pearl ring of Rinanni                            (ring (right))
+A star sapphire inlaid khat'sara band              (ring (right))
+A Leuian Pride ring                                (ring (left))
+Some brown bearskin pants                          (pants)
+A blue wool shirt                                  (shirt)
+A black leather belt                               (on belt)
+
+He has been bestowed the following title(s):
+  Noble of the Realm
+
+>
+Hott bows to Snowball.
+l at ti
+
+Timble looks like a 6'5" standard adolescent average boned, wiry-tough bodied Leuian.
+He is seated.
+He has collar length, braided, medium white fur, with amber eyes, and looks orderly.
+He appears to be preoccupied right now.
+He bears the mark of Odarous.
+He can be attacked by other players.
+He appears to be in perfect health.
+
+Physical appearance:
+
+.
+
+                        Visible Equipment
+Some light eagle branded leather mail              (armor)
+Some spectacles                                    (on head)
+A glowing holy mark of Odarous                     (around neck)
+A hooded white broadcloth healer's cloak           (over armor)
+Some beige cotton trousers                         (pants)
+A beige cotton tunic                               (shirt)
+
+He has been bestowed the following title(s):
+  Noble of the Realm
+
+l
+>[Village.]
+
+The chipped bark path widens to encompass a broad square between the peaked roofs of the village homes, the larger storefronts, and several communal buildings that all surround a magnificent fountain crafted from local sandstone. The multi-tiered fountain flows with pure, clean springwater and provides seating around its broad base.  The towering trees surround the village, enclosing the square in a living frame.  To the west is a sturdy building with its door perpetually ajar. A line of Leuian children trots off towards the north, bearing their lessons. The faint ding of nautical bells flows in on the breeze from the northwest.   A flowing gold-flecked sandstone fountain is here.
+
+This area is illuminated.
+In the area are Kandil the Leuian (seated), Hott the Noble Leuian (seated), Leanne the Leuian (seated), Shaleu the Leuian, Audun the Noble Leuian, Timble the Noble Leuian (seated), Lthe the Leuian (seated), and Snowball the Leuian (seated).
+Obvious paths: north* northeast* east* southeast* south* southwest* west*.
+>
+Shaleu smiles softly  to Muther.
+l at lt
+
+Lthe looks like a 6'3" standard adolescent average boned, wiry-tough bodied Leuian.
+She is seated.
+She has very short, straight, kinky dull black fur, with pale green eyes, and looks neat.
+She appears to be preoccupied right now.
+She bears the mark of Odarous.
+She can be attacked by other players.
+She appears to be in perfect health.
+
+Physical appearance:
+
+An ordinary leuian, with some faint scarring about her face.
+
+                        Visible Equipment
+A heavy golden lionskin pelt                       (armor)
+A diamond inlaid moonsilver buckler                (shield)
+An intricately etched moonsilver helm              (on head)
+A large glistening yellow alligator tooth          (around neck)
+Some embossed leather boots                        (on feet)
+A Leuian Pride ring                                (ring (right))
+A tiger's eye ring of Odarous                      (ring (left))
+A faceted gleaming drathain ring of warriors       (ring (left))
+Some dark green silk slacks                        (pants)
+A dark green silk tunic                            (shirt)
+
+She has been bestowed the following title(s):
+  Noble of the Realm
+
+l at sno
+>
+Snowball looks like a 6'7" standard mature heavy boned, muscular bodied Leuian.
+He is seated.
+He has short, slicked-back, wispy glossy black fur, with amber eyes, and looks neat.
+He appears to be concerned right now.
+He bears the mark of Odarous.
+He can be attacked by other players.
+He appears to be in perfect health.
+There is a shining gold emblem affixed to his clothing.
+                        Visible Equipment
+A damaged heavy ruby encrusted leather mail        (armor)
+A rune etched emerald amulet of wisdom             (around neck)
+A pair of black snakeskin boots                    (on feet)
+A flowing black spidersilk fighter's cape          (over armor)
+A tiger's eye ring of Odarous                      (ring (right))
+A Leuian Pride ring                                (ring (right))
+A glimmering black and white pearl khat'sara band  (ring (left))
+Some black spidersilk pants                        (pants)
+
+He has been bestowed the following title(s):
+  Noble of the Realm
+
+>
+Audun sits down quietly.
+l
+[Village.]
+
+The chipped bark path widens to encompass a broad square between the peaked roofs of the village homes, the larger storefronts, and several communal buildings that all surround a magnificent fountain crafted from local sandstone. The multi-tiered fountain flows with pure, clean springwater and provides seating around its broad base.  The towering trees surround the village, enclosing the square in a living frame.  To the west is a sturdy building with its door perpetually ajar. A line of Leuian children trots off towards the north, bearing their lessons. The faint ding of nautical bells flows in on the breeze from the northwest.   A flowing gold-flecked sandstone fountain is here.
+
+This area is illuminated.
+In the area are Kandil the Leuian (seated), Hott the Noble Leuian (seated), Leanne the Leuian (seated), Shaleu the Leuian, Audun the Noble Leuian (seated), Timble the Noble Leuian (seated), Lthe the Leuian (seated), and Snowball the Leuian (seated).
+Obvious paths: north* northeast* east* southeast* south* southwest* west*.
+>
+Lthe smiles at you.
+smi
+You smile.
+>
+Kandil asks in Leuian, "yah wanna just have meeting here? since we all here anyways?"
+l ne
+[Village.]
+
+An asymmetric row of wooden-beamed homes blend into the surrounding forest of giant trees seamlessly.  If it were not for the stacked rock markings, the park area to the south would be indistinguishable from the village area to the west. 
+
+This area is illuminated.
+Obvious paths: east* southeast* southwest* west*.
+l n
+>[Village.]
+
+An immense, smoothed river boulder deposited by the river, eons ago, is imbedded in the soft loam of the forest floor and blocks the view of the river to the north. A few giant trees have grown bent around its rounded shape and an innovative homeowner has taken advantage of the resulting shelter. Built carefully among the trees in the lee of the rock, stands a magnificent example of the same peaked wooden beam homes that dot the entire forest. One fledgling tree pokes its head through a well-planned hole in the roof.  A pair of closed magnificent carved steelwood doors, a slippery downhill path, and a stack of rocks are here.
+
+This area is illuminated.
+Obvious paths: east* southeast* south* southwest* west* northwest*.
+l e
+>[Village.]
+
+The village homes snuggle closer together as the path nears the town center, and eventually widens to include a few communal buildings and a burbling fountain to the west.  The village bustles with life at all hours. Towering trees spread their branches over the buildings, as if embracing them.    A stack of rocks and an overgrown back alley are here.
+
+This area is illuminated.
+Obvious paths: north* northeast* east* southeast* south* southwest* west* northwest*.
+gri
+>You grin.
+>
+Audun says in Leuian, "'Long as kyn can find us."
+l
+[Village.]
+
+The chipped bark path widens to encompass a broad square between the peaked roofs of the village homes, the larger storefronts, and several communal buildings that all surround a magnificent fountain crafted from local sandstone. The multi-tiered fountain flows with pure, clean springwater and provides seating around its broad base.  The towering trees surround the village, enclosing the square in a living frame.  To the west is a sturdy building with its door perpetually ajar. A line of Leuian children trots off towards the north, bearing their lessons. The faint ding of nautical bells flows in on the breeze from the northwest.   A flowing gold-flecked sandstone fountain is here.
+
+This area is illuminated.
+In the area are Kandil the Leuian (seated), Hott the Noble Leuian (seated), Leanne the Leuian (seated), Shaleu the Leuian, Audun the Noble Leuian (seated), Timble the Noble Leuian (seated), Lthe the Leuian (seated), and Snowball the Leuian (seated).
+Obvious paths: north* northeast* east* southeast* south* southwest* west*.
+>
+Audun smiles lightly.
+
+Timble nods up and down at Leanne.
+l ne
+[Village.]
+
+An asymmetric row of wooden-beamed homes blend into the surrounding forest of giant trees seamlessly.  If it were not for the stacked rock markings, the park area to the south would be indistinguishable from the village area to the west. 
+
+This area is illuminated.
+Obvious paths: east* southeast* southwest* west*.
+>
+Kandil says in Leuian, "this is easier i think, till more get used to new spot"
+
+Kandil shrugs.
+leav
+
+You leave the group.
+' be right back
+>
+Muther says in Leuian, " be right back"
+ne
+q c
+stand swiftly
+>You must stand up first!
+>
+ ** Command Queue Cleared.
+>You stand up swiftly.
+ne
+>[Village.]
+
+An asymmetric row of wooden-beamed homes blend into the surrounding forest of giant trees seamlessly.  If it were not for the stacked rock markings, the park area to the south would be indistinguishable from the village area to the west. 
+
+This area is illuminated.
+Obvious paths: east* southeast* southwest* west*.
+e
+>[Village Outskirts.]
+
+Facing the beautiful forest of giant trees are several stately cottages, unique in the carving and design. The eaves are decorated with animal icons, masterfully carved from huge timbers, and the shake roofs are steep and overhanging. Exquisite craftsmanship prevails in the doorjambs, windowsills, and porch railings; each is a design of intricate carving that tells a story. The dwellings are far from gawdy, but instead simplistic in their communal design. A manicured lawn dotted with errant wildflowers fronts each cottage up to the edge of the river rock path.
+
+This area is illuminated.
+Obvious paths: east* southwest* west*.
+e
+>[Village Outskirts.]
+
+An idyllic path leads past the looming giant sentinel trees and forks as it heads into the village. The path is flat, edged with beautiful river rocks, and paved with a layer of fragrant wood chips. Through the tall trunks of the ancient trees the peaked roofs of the village homes rise towards the sky without interrupting the natural flow of the forest.
+
+This area is illuminated.
+Obvious paths: southeast* south* southwest* west*.
+s
+>[Village.]
+
+Far above the forest floor, the looming trees' canopy shades the park's paths. Every few feet a break in the leaves lights a fortunate fern or clover patch that languishes in the gift from the heavens. A giant among oaks, dwarfed by the mighty conifers enjoys such a boon.  Its twisted branches decry the battle to survive beneath the taller competitors. Nestled in the crotches of the oak branches, beautiful orchids thrive and bloom despite the weather, causing many of the villagers to believe that the goddess herself has adopted the oak as one of her protected monuments. The villagers have placed benches made of koy around the oak that complement the park without detracting from its natural beauty.  An ancient gnarled oak tree, some fragrant amber orchids, a beautiful hand-carved koy wood bench, a stack of rocks, and an ivy covered sandstone arch are here.
+
+This area is illuminated.
+Obvious paths: north* east* southeast* south* southwest* west* northwest*.
+>
+ ** You are fully rested.
+nw
+[Commodore Island Park.]
+
+A grove of young, green-needled pine trees surrounds a small meadow of vibrantly flowering rhododendrons. Hues of bright pink, red, and white create a stunning contrast against the darker grey bark of the pines. Brighter green hemlock trees spread to catch the sunlight, which, in turn, shelter smaller stands of delicious salmonberry bushes, airy leather ferns, and poignantly fragranced sorrels that thrive on the compost of the forest floor. Soft haircap moss covers the river stone-lined path, dew from the mist collecting on it like pollen on bees. The distant wash of rushing water quietly filters through the peaceful air that hangs heavily saturated with moisture.  A stack of rocks is here.
+pride meetplace
+
+This area is illuminated.
+Obvious paths: southeast* south* west*.
+l s
+>[Commodore Island Park.]
+
+A soothing peace has settled over the forest here at the center of the park, where the mists coalesce and then dance back out again amongst the trees. Many small rivulets of water feed into an indent atop a large collection of boulders. As the water overflows the pool, it spills across the sides of the stone to trickle down the steps of the rock formation. Smaller pools are formed as it cascades over the rock until at last the rivulets are reunited into a single small stream which finds its way home to the larger river. Delicate flowering moss has grown over the stones of this centerpiece of the forest, and a small family of larks takes delight in bathing beneath the tiny waterfalls and mossy pools, even as the melodic chirping of other birds wafts through the tree branches all around.  A stack of rocks and a closed door are here.
+
+This area is illuminated.
+Obvious paths: north* northeast* east* southeast* south* southwest* west* northwest*.
+l se
+>[Village.]
+
+Far above the forest floor, the looming trees' canopy shades the park's paths. Every few feet a break in the leaves lights a fortunate fern or clover patch that languishes in the gift from the heavens. A giant among oaks, dwarfed by the mighty conifers enjoys such a boon.  Its twisted branches decry the battle to survive beneath the taller competitors. Nestled in the crotches of the oak branches, beautiful orchids thrive and bloom despite the weather, causing many of the villagers to believe that the goddess herself has adopted the oak as one of her protected monuments. The villagers have placed benches made of koy around the oak that complement the park without detracting from its natural beauty.  An ancient gnarled oak tree, some fragrant amber orchids, a beautiful hand-carved koy wood bench, a stack of rocks, and an ivy covered sandstone arch are here.
+
+This area is illuminated.
+Obvious paths: north* east* southeast* south* southwest* west* northwest*.
+l
+>[Commodore Island Park.]
+
+A grove of young, green-needled pine trees surrounds a small meadow of vibrantly flowering rhododendrons. Hues of bright pink, red, and white create a stunning contrast against the darker grey bark of the pines. Brighter green hemlock trees spread to catch the sunlight, which, in turn, shelter smaller stands of delicious salmonberry bushes, airy leather ferns, and poignantly fragranced sorrels that thrive on the compost of the forest floor. Soft haircap moss covers the river stone-lined path, dew from the mist collecting on it like pollen on bees. The distant wash of rushing water quietly filters through the peaceful air that hangs heavily saturated with moisture.  A stack of rocks is here.
+pride meetplace
+
+This area is illuminated.
+Obvious paths: southeast* south* west*.
+s
+>[Commodore Island Park.]
+
+A soothing peace has settled over the forest here at the center of the park, where the mists coalesce and then dance back out again amongst the trees. Many small rivulets of water feed into an indent atop a large collection of boulders. As the water overflows the pool, it spills across the sides of the stone to trickle down the steps of the rock formation. Smaller pools are formed as it cascades over the rock until at last the rivulets are reunited into a single small stream which finds its way home to the larger river. Delicate flowering moss has grown over the stones of this centerpiece of the forest, and a small family of larks takes delight in bathing beneath the tiny waterfalls and mossy pools, even as the melodic chirping of other birds wafts through the tree branches all around.  A stack of rocks and a closed door are here.
+
+This area is illuminated.
+Obvious paths: north* northeast* east* southeast* south* southwest* west* northwest*.
+w
+w
+>[Village.]
+
+The village homes snuggle closer together as the path nears the town center, and eventually widens to include a few communal buildings and a burbling fountain to the west.  The village bustles with life at all hours. Towering trees spread their branches over the buildings, as if embracing them.    A stack of rocks and an overgrown back alley are here.
+
+This area is illuminated.
+Obvious paths: north* northeast* east* southeast* south* southwest* west* northwest*.
+[Village.]
+
+The chipped bark path widens to encompass a broad square between the peaked roofs of the village homes, the larger storefronts, and several communal buildings that all surround a magnificent fountain crafted from local sandstone. The multi-tiered fountain flows with pure, clean springwater and provides seating around its broad base.  The towering trees surround the village, enclosing the square in a living frame.  To the west is a sturdy building with its door perpetually ajar. A line of Leuian children trots off towards the north, bearing their lessons. The faint ding of nautical bells flows in on the breeze from the northwest.   A flowing gold-flecked sandstone fountain is here.
+
+This area is illuminated.
+In the area are Kandil the Leuian (seated), Hott the Noble Leuian (seated), Leanne the Leuian (seated), Shaleu the Leuian, Audun the Noble Leuian (seated), Timble the Noble Leuian (seated), Lthe the Leuian (seated), and Snowball the Leuian (seated).
+Obvious paths: north* northeast* east* southeast* south* southwest* west*.
+sit
+>You sit down.
+>
+Hott nods.
+
+Leanne smiles at you.
+
+Kandil says to Snowball in Leuian, "no no no"
+' marking the map
+
+Muther says in Leuian, " marking the map"
+cou
+>You cough.
+>
+Kandil pokes Snowball.
+
+Leanne nods.
+
+Kandil stands up.
+gri to le
+You grin to Leanne.
+>
+Hott says in Leuian, "did ye wet the tree mut"
+
+Leanne laughs.
+gri to ho
+You grin to Hott.
+blu
+>You blush.
+nod yes to ho , dreadlocks swinging gently
+>You nod up and down to Hott, dreadlocks swinging gently.
+>
+Leanne says in Leuian, "gads boys..."
+
+Shaleu shakes her head from side to side slowly.
+
+Hott grins.
+
+Shaleu nods.
+lau to le
+You laugh to Leanne.
+>
+Kandil smiles.
+
+Hott listens intently.
+
+Leanne listens intently.
+
+Kandil says in Leuian, "okay, wish she was here , but Talisha had some thief problems that were suprisingf"
+who race
+Race who list activated!
+
+                Current Leuian Adventurers:
+
+Current Adventurers
+
+ Kandil Dragins                      Hott Breeze                        
+ Yinnin Terrer                       Leanne Lorkalinth                  
+ Shaleu Dragins                      Muther Gunn                        
+ Audun Kell                          Timble Darkstar                    
+ Lthe Wain                           Snowball Jackson                   
+
+You notice 10 adventurers.
+>
+Hott says in Leuian, "slibut"
+nod
+You nod.
+>
+Hott says in Leuian, "that one wont learn"
+
+Kandil says in Leuian, "from what she told me, Callik had agreed to buy a whip from her, Came back later with Sliktibbits and killed her and took the whip"
+
+Snowball asks in Leuian, "Callik?!?!?"
+
+Kandil nods to Snowball.
+
+Audun twitches his tail.
+' disguised?
+
+Muther asks in Leuian, " disguised?"
+>
+Kandil says in Leuian, "suprised me too but she assured me the bow work was amazing"
+
+Snowball says in Leuian, "Callik is a lot of things, but I'ev never known him to be a thief"
+
+Audun says in Leuian, "So we learn something new."
+
+Audun twitches his tail.
+
+Hott says in Leuian, "probably heidi in disguise"
+
+Leanne twitches her tail.
+
+Snowball nods to Hott.
+
+Kandil says in Leuian, "she saw him in Tsc later breaking the whip this was all about"
+
+Hott says in Leuian, "sli and hei run together"
+
+Kandil asks in Leuian, "aye but is she that good with a bow?"
+
+Audun twitches his tail.
+pon that
+You ponder that.
+>
+Shaleu says in Leuian, "think it is a he"
+
+Hott says in Leuian, "dont think so"
+' can 't tell with hiths
+
+Muther says in Leuian, " can 't tell with hiths"
+>
+Kandil asks in Leuian, "heidi a he?"
+cou
+You cough.
+>
+Kandil grins.
+
+Hott says in Leuian, "uses blunts or sharps"
+
+Snowball says in Leuian, "Tough to tell with gobs"
+
+Leanne says in Leuian, "it is a he... though it wears stilletto boots..."
+nod to sno
+You nod to Snowball.
+>
+Shaleu says in Leuian, "weird thing thinks its a doctor"
+
+Hott says in Leuian, "all I have to do is chant they run like fleas"
+gri
+You grin.
+>
+Kandil asks in Leuian, "okay, well Sliktibbits we know already , Do any feel they know callik enought o find the truth of this?"
+
+Shaleu says in Leuian, "he does not like me at all"
+
+Hott says in Leuian, "never get to stay unless they call guards"
+
+Snowball says in Leuian, "I'll talk to him if I see him, but I can't guarantee anything"
+
+Kandil nods to Snowball.
+' is Callik of the treehaven?
+
+Muther asks in Leuian, " is Callik of the treehaven?"
+>
+Hott says in Leuian, "they got me in jail"
+
+Kandil nods to you.
+com ho
+You comfort Hott.
+>
+Snowball nods to you.
+nod to kan
+You nod to Kandil.
+>
+Shaleu says in Leuian, "he was"
+' i shall ask next i see him
+
+Muther says in Leuian, " i shall ask next i see him"
+>
+Hott says in Leuian, "as I"
+
+Kandil says in Leuian, "okay please do and let us know"
+nod to all
+I don't see what you are referring to.
+nod
+>You nod.
+sk
+>
+Skill                     Remain Level
+ Clawing                   1968   10    
+ First Aid                 102    2     
+ Spellcasting              1505   11    
+ Blunt Weapons             652    6     
+ Channeling                475    10    
+ Identify Weapon Quality   268    3     
+ Brawling                  106    2     
+ Shield Parry              481    5     
+ Throw Weapons             113    2     
+ Swimming                  67     1     
+ Identify Gems/Minerals    100    1     
+ Turn Undead               289    3     
+ Hiding                    179    2     
+ Stealth                   98     1     
+ Play Instruments          200    2     
+
+>
+Kandil says in Leuian, "one other thing , a personal whine"
+list to ka
+You listen intently to Kandil.
+>
+Kandil says in Leuian, "i have to many projects to work on, i want to unload some so something can get done"
+
+Kandil grins.
+stand silently
+You stand up silently.
+ret 1
+>You retreat 1 UDs to the rear!
+[3 sec. delay]
+sit swiftly, with a flick of his grizzled old white-furred tail...
+>You sit down swiftly, with a flick of his grizzled old white-furred tail....
+>
+Hott asks in Leuian, "gad girls whine?"
+gri to ho
+You grin to Hott.
+>
+Kandil asks Lthe in Leuian, "yah know the one we were working on. replacing charter?"
+
+Hott pets Kandil.
+
+Lthe nods to Kandil.
+
+Kandil grins to Hott.
+tact
+Standing in front of you at 1 UDs, is:
+Kandil, Hott, Leanne, Shaleu, Audun, Timble, Lthe, Snowball
+Standing in this rank is:
+Muther
+>
+ ** You are fully rested.
+
+Kenetic materializes in a shimmer of golden light!
+smi to ken
+You smile to Kenetic.
+>
+Kenetic bows.
+
+Snowball raises his hand.
+
+Hott bows to Kenetic.
+
+Audun nods respectfully to Kenetic.
+
+Kenetic sits down.
+
+Kandil asks Lthe in Leuian, "can yah kinda take over wrapping that up?"
+
+Kenetic says in Leuian, "greetings kyn, sorry i'm late"
+
+Lthe ponders the meaning of the universe for a moment.
+
+Kandil says to Lthe in Leuian, "please"
+
+Kandil nuzzles Lthe.
+
+Leanne smiles at Kenetic.
+
+Lthe says to Kandil in Leuian, "I still have the notes, so I can try to rough out a draft"
+
+Kandil beams.
+
+Snowball says to Kandil in Leuian, "I have a question about that"
+
+Kandil nods to Snowball.
+
+Kandil sits down.
+l at mu
+You find something suitably reflective and gaze into it...
+
+You look like a 6'0" standard mature delicate boned, very muscular bodied Leuian Cleric.
+You are seated.
+You have very long, dredded, kinky white fur, with widely spaced white eyes, and look disheveled.
+You appear to be serious right now.
+You can be attacked by other players.
+You appear to be in perfect health.
+There is a shining gold emblem affixed to your clothing.
+
+Physical appearance:
+
+You see a grizzled old Khat, with an old scar across his white nose..
+
+                        Visible Equipment
+A long pitch black bone nose piercing              (on head)
+Some colorful bamboo panpipes                      (hands)
+A long blood-stained render skin cape              (over armor)
+A Leuian Pride ring                                (ring (left))
+An oak ring of Elindale                            (ring (left))
+A pair of pitch black bearskin pants               (pants)
+
+You have been bestowed the following title(s):
+  Noble of the Realm
+
+>
+Snowball asks in Leuian, "I sort of half feel like we might have cleared this up before, but could you refresh my memory?"
+
+Kandil smiles.
+
+Snowball asks in Leuian, "Why are we writing a "charter"? And for whom?"
+who range
+List will be restricted to those within range.
+Full who list activated!
+
+Current Adventurers
+
+ Jerhed Narbold                      Kenetic Fury                       
+ Malthus Kerensky                    Aeone Noctis                       
+ Clara Everlove                      Chatelaine Whynlyn                 
+ Kandil Dragins                      Rurik Leuthari                     
+ Gia                                 Creon Lars                         
+ Kalann Shatterstar                  Vixen Vivacious                    
+ Flairdonit Wazntme                  Hott Breeze                        
+ Blade Hilting                       Mikasi Ahote                       
+ Stormy Burnbubble                   Elerissi Langlinais                
+ Eurus Caelum                        Adego Syrong                       
+ Leanne Lorkalinth                   Shaleu Dragins                     
+ Rektger Kar                         Equality Everlove                  
+ Alwin Arlt                          Muther Gunn                        
+ Ssoctara Gentiana                   Roa Zora                           
+ Dror Sorreff                        Crax Steelclaw                     
+ Nicki Honorii                       Kierra Kovu                        
+ Nyoko Carenath                      Audun Kell                         
+ Binx Jynx                           Bant Deresk                        
+ Pantia Slick                        Timble Darkstar                    
+ Desiro Bloodroar                    Sast Silverleaf                    
+ Arangar Tepharnic                   Treyfalgar Fraswey                 
+ Lthe Wain                           Alynia Pasmorte                    
+ Broyce Chantam                      Snowball Jackson                   
+ Ledara Corinth                     
+
+You notice 47 adventurers.
+>
+Kandil says to Snowball in Leuian, "for Leuians and Pride, charter is the wrong word though"
+
+Lthe says in Leuian, "guidelines"
+
+Snowball says in Leuian, "Ah"
+
+Shaleu raises her hand.
+
+Kandil says to Snowball in Leuian, "basically its just a basic draft of how votes go and how the Pride works"
+
+Snowball asks in Leuian, "Codifying our minimal bureaucracy?"
+
+Audun nods respectfully to Kenetic.
+who k
+Looking for a user with a name beginning with 'k'...
+
+Current Adventurers
+
+ Kenetic Fury                        Kandil Dragins                     
+ Kalann Shatterstar                  Kierra Kovu                        
+
+You notice 4 adventurers.
+>
+Lthe nods to Snowball.
+
+Kierra just entered from the east.
+
+Kierra pants.
+
+Kierra sits down.
+
+Audun smiles lightly.
+
+Snowball says in Leuian, "Ok, good enough. Thanks."
+
+Leanne grins at Kierra.
+
+Hott hugs Kierra.
+
+Kandil says to Snowball in Leuian, "thats the best way of putting it i have heard yet"
+smi to ki
+You smile to Kierra.
+>
+Kierra hugs Hott.
+
+Kandil says to Shaleu in Leuian, "Mum"
+
+Kierra smiles.
+
+Kierra says, "sorry"
+
+Shaleu smiles softly.
+l at ken
+
+Kenetic looks like a 7'1" standard adolescent light boned, average bodied Leuian.
+He is seated.
+He has shoulder length, dredded, baby fine glossy black fur, with golden eyes, and looks spotless.
+He appears to be wary right now.
+He bears the mark of Odarous.
+He can be attacked by other players.
+He has no apparent injuries, but looks fatigued.
+
+Physical appearance:
+
+Dark fur, clothing, and finely chiseled muscles give this tall Khat a fierce look. He casually glances at you as he feels your eyes upon him. The gracful way he moves, in total balance, without effort or wasted movement marks him as a warrior
+
+                        Visible Equipment
+A heavy ivory plated leather jazeraint             (armor)
+A hardened leather vambrace                        (shield)
+A breathtaking silver charm of Odarous             (around neck)
+A pair of black alligator skin boots               (on feet)
+A mysterious grey sapphire clasped elven cloak     (over armor)
+A breathtaking pure platinum ring of Odarous       (ring (right))
+A scintillating black diamond star                 (left ear)
+A flowing pitch black satin hooded robe            (dress)
+An open eagle pitch black suede belt pouch         (on belt)
+A belt of tarr'khat skulls                         (on belt)
+
+He has been bestowed the following title(s):
+  Noble of the Realm
+
+>
+Kandil smiles to Kierra.
+l at ki
+
+Kierra looks like a 6'3" standard young light boned, slender bodied Leuian.
+She is seated.
+She has very long, wavy, baby fine purplish black fur, with golden eyes, and looks neat.
+She appears to be sad right now.
+She bears the mark of Odarous.
+She can be attacked by other players.
+
+On her left arm is a tattoo of a golden eagle in flight, with the word, Honor, below.
+
+On her ankle is tattoo of a purple rose with the word, Love, written below.
+
+She appears to be in perfect health.
+                        Visible Equipment
+A light ruby encrusted leather mail                (armor)
+An eagle etched platinum ring                      (ring (right))
+A pair of plain cotton pants                       (pants)
+A rainbow silk blouse                              (shirt)
+>
+Kierra says in Leuian, "i tryed to hurray"
+
+Shaleu says in Leuian, "actually it was nothing"
+
+Shaleu shakes her head from side to side.
+
+Kandil grins to Shaleu.
+
+Kandil stands up.
+
+Kierra sniffs.
+
+Shaleu smiles at Kierra.
+
+Kierra nuzzles Shaleu.
+
+Kierra nuzzles Kandil.
+
+Shaleu hugs Kierra.
+
+Kierra beams.
+
+Kandil says in Leuian, "okay now on this honestly i tried just isnt my thing, designing the new Hall, and if yah like i will explain why we need a new Hall too"
+
+Shaleu smiles softly and she hold Kierra tightly.
+
+Leanne snickers.
+
+Crax just entered from the east.
+smi to cr
+You smile to Crax.
+>
+Kierra leans her head on Shaleu's shoulder.
+l at cr
+
+Crax looks like a 7'1" standard young heavy boned, very muscular bodied Leuian Cleric.
+He has collar length, tied back, medium bluish black fur, with pale green eyes, and looks casual.
+He appears to be distant right now.
+He bears the mark of Odarous.
+He can be attacked by other players.
+He appears to be in perfect health.
+                        Visible Equipment
+A heavy polished steelwood mail                    (armor)
+A diamond inlaid moonsilver buckler                (shield)
+A golden falcon claw                               (around neck)
+A flowing white emerald clasped cloak              (over armor)
+An eagle etched platinum ring                      (ring (right))
+A Leuian Pride ring                                (ring (left))
+Some spidersilk pants                              (pants)
+An eagle crested silk tunic                        (shirt)
+>
+Hott bows to Crax.
+
+Crax says in Leuian, "sorry I'l late"
+
+Kandil says in Leuian, "really looking for any that are good at designing to run with it"
+l
+[Village.]
+
+The chipped bark path widens to encompass a broad square between the peaked roofs of the village homes, the larger storefronts, and several communal buildings that all surround a magnificent fountain crafted from local sandstone. The multi-tiered fountain flows with pure, clean springwater and provides seating around its broad base.  The towering trees surround the village, enclosing the square in a living frame.  To the west is a sturdy building with its door perpetually ajar. A line of Leuian children trots off towards the north, bearing their lessons. The faint ding of nautical bells flows in on the breeze from the northwest.   A flowing gold-flecked sandstone fountain is here.
+
+This area is illuminated.
+You see the 1st tawny furred mountain lynx (wearing a small gold collar).
+In the area are Kenetic the Leuian (seated), Kandil the Leuian, Hott the Noble Leuian (seated), Leanne the Leuian (seated), Shaleu the Leuian, Crax the Leuian, Kierra the Leuian (seated), Audun the Noble Leuian (seated), Timble the Noble Leuian (seated), Lthe the Leuian (seated), and Snowball the Leuian (seated).
+Obvious paths: north* northeast* east* southeast* south* southwest* west*.
+>
+Kierra grins.
+
+Crax bows.
+
+Kierra nuzzles Crax.
+
+Crax removes his heavy polished steelwood mail.
+
+Kandil smiles to Crax.
+
+Crax removes his diamond inlaid moonsilver buckler.
+
+Timble bows his head to Crax.
+
+Shaleu smiles at Kierra and smooths her hair.
+rai hand paw quietly
+
+Crax sits down.
+
+Kierra removes her light ruby encrusted leather mail.
+You raise your hand paw quietly.
+>
+Kierra purrs softly.
+
+Kandil asks in Leuian, "hmmm no volunteers? i twist arms later then"
+
+Kandil smiles.
+
+Crax asks in Leuian, "sorry   volunteers for?"
+
+Kierra says in Leuian, "i can design a little"
+
+Kierra says in Leuian, "but i will needd healp"
+
+Kandil smiles to Kierra.
+
+Leanne removes her fire hardened rose-covered oak staff.
+' does anyone know if the old Pridehall is still there...in Spur?
+
+Muther asks in Leuian, " does anyone know if the old Pridehall is still there...in Spur?"
+>
+Kandil says to Kierra in Leuian, "thank yah kindly, "
+
+Kierra says in Leuian, "at meetpoint"
+
+Crax shakes his head from side to side to you.
+nod to cr
+You nod to Crax.
+>
+Kierra smiles.
+
+Kierra nuzzles Kandil.
+
+Hott says in Leuian, "if I did be so small could not hold meeting"
+
+Snowball says in Leuian, "I'm more than happy to look over the design once there's a draft, but I'm no good at designing it myself."
+
+Kierra chuckles.
+
+Kandil says in Leuian, "thats it for me, Shaleu has some good news not all have heard yet then"
+
+Shaleu says in Leuian, "the old one from long ago is not"
+
+Kandil sits down.
+nod to sh
+You nod to Shaleu.
+>
+Kierra listens intently.
+
+Shaleu says in Leuian, "I looked for it but could not find it when we all returned"
+
+Kierra says in Leuian, "meetpoint meeting lace is still there"
+
+Kandil smiles to Snowball.
+
+Kierra says in Leuian, "'if that is what you are referring to"
+nod no to ki , dreadlocks swinging back and forth
+You shake your head from side to side to Kierra, dreadlocks swinging back and forth.
+>
+Kierra says in Leuian, "ok"
+
+Kierra says in Leuian, "sorry"
+
+Kandil says to Snowball in Leuian, "well Kiera can help yah with fancies"
+smi
+You smile.
+>
+Shaleu nuzzles Kierra.
+
+Kierra smiles.
+
+Kierra nuzzles Shaleu.
+
+Kierra nods up and down.
+
+Shaleu says in Leuian, "a plain simple hall is all that is needed"
+
+Hott says in Leuian, "one tatami and paper door"
+
+Kierra says in Leuian, "it need to be safe"
+
+Audun chuckles softly.
+
+Kierra says in Leuian, "and comfortable for all"
+
+Kandil says to Shaleu in Leuian, "okay tell us your news of Home "
+
+Kandil grins.
+list to sh
+You listen intently to Shaleu.
+>
+Kierra listens intently to Shaleu.
+
+Kandil says in Leuian, "now they start planning"
+
+Kandil blushes.
+
+Shaleu says in Leuian, "All is well and at peace in Leuia"
+
+Kierra beams.
+appear mood hap
+
+You are now happy.
+
+>
+Leanne grins.
+
+Hott claps.
+
+Kierra is now happy.
+
+Snowball listens intently to Shaleu.
+
+Leanne is now happy.
+
+Shaleu says in Leuian, "there is concern for the merchants as the rendezvous island is indeed blockaded"
+
+Snowball says in Leuian, "ahhhhhhhhhh"
+
+Kierra smiles and pray softly to the ancestors.
+
+Snowball says in Leuian, "That explains much."
+
+Lthe ponders the meaning of the universe for a moment.
+
+Timble ponders the meaning of the universe for a moment.
+
+Shaleu says in Leuian, "however new ports are being opened for trade"
+
+Kierra claps.
+
+Shaleu says in Leuian, "to return to this land is most difficult"
+
+Kierra says in Leuian, "aye"
+
+Kierra says in Leuian, "from home it would be"
+
+Shaleu says in Leuian, "the blockade is very strong"
+
+Kierra fidgets.
+
+Lthe asks Shaleu in Leuian, "any idea why it is being blockaded?"
+
+Shaleu says in Leuian, "just to the far west where the Edo valley and garrth hall is located the blocake is sparse and with cunning can be slipped through"
+
+Shaleu says in Leuian, "No, no more then why the Dark forces are here"
+
+Shaleu says in Leuian, "when we return during the early hours the northern trail was full of soldiers"
+
+Shaleu says in Leuian, "was hard to actually get through at times"
+
+Shaleu says in Leuian, "and that is about all, cept my son and Flora are doing fine"
+
+Shaleu sits down.
+
+Leanne smiles.
+
+Snowball smiles.
+smi to sh
+You smile to Shaleu.
+>
+Kandil stands up.
+
+Kierra says in Leuian, "i have been up north"
+
+Kierra says in Leuian, "oops"
+
+Kierra blushes.
+
+Shaleu grins at Kierra.
+
+Shaleu nuzzles Kierra.
+
+Kandil says in Leuian, "just a reminder, if Lakar think they have Leuia blockaded let them think that, this is news for Kyn only"
+
+Kierra leans her head on Shaleu's shoulder.
+
+Kierra nuzzles Shaleu.
+nod
+You nod.
+>
+Audun nods.
+
+Audun twitches his tail.
+
+Kierra swishes her tail.
+
+Kierra nods up and down.
+
+Leanne swishes her tail.
+
+Kandil asks in Leuian, "thats all i had ,,, any else?"
+
+Kandil sits down.
+
+Crax raises his hand.
+
+Kandil nods to Crax.
+
+Kierra raises an eyebrow.
+who psion
+
+                Current Psion Adventurers:
+
+Current Adventurers
+
+ Ledara Corinth                     
+
+You notice 1 adventurer.
+>
+Crax stands up.
+
+Crax says in Leuian, "on this past wednesday I asked kyn to meet with me and discuss defending the village now that the dark forces have been scouted"
+
+Shaleu listens intently to Crax.
+
+Crax says in Leuian, "basically...we cannot stand against them...if they want the village   it will be theirs"
+
+Hott nods.
+
+Crax sighs.
+appear mood ser
+
+You are now serious.
+
+>
+Hott raises his hand.
+
+Crax says in Leuian, "Spur has patrols and raiding parties...it is suggested that those of able skill join these to try and make a bent in the forces"
+
+Shaleu's stomach growls.
+
+Kierra raises an eyebrow han.
+
+Crax says in Leuian, "if the village is attacked...we'll defend it...take as many of them with us as we can"
+
+Kierra raises her hand.
+
+Shaleu just removed an open silver buckled leather knapsack from within her open fire rune-embroidered leather Archmage's bag.
+nod yes to cr , dreadlocks swinging gently
+You nod up and down to Crax, dreadlocks swinging gently.
+>
+Shaleu just removed a cloth lined dinner basket from within her open silver buckled leather knapsack.
+
+Crax says in Leuian, "but any further attempt to hide or add defenses to the village will be futile"
+
+Shaleu just removed some half-eaten Leuian lobster lasagna from within her cloth lined dinner basket.
+You see Shaleu take a bite of her half-eaten Leuian lobster lasagna.
+
+Crax sighs.
+
+Leanne raises her hand.
+
+Crax says in Leuian, "thats about it...I'll answer any question if I can"
+
+Crax sits down.
+
+Kandil says to Kierra in Leuian, "okay"
+
+Kierra stands up.
+
+Kierra says in Leuian, "i have spent the last few weeks scouting as much as i could"
+
+Kierra says in Leuian, "i have been from ratah to sky lake"
+
+Kierra says in Leuian, "and back everyway  i could"
+
+Kierra says in Leuian, "fort tarth"
+
+Kierra says in Leuian, "has soldiers"
+
+Snowball raises an eyebrow.
+
+Kierra says in Leuian, "hundreds of soldures"
+
+Kierra says in Leuian, "and a mage"
+
+Snowball asks in Leuian, "Of the enemy?"
+' of Rathan ..or invaders?
+
+Kierra says in Leuian, "a powerful mage"
+
+Muther asks in Leuian, " of Rathan ..or invaders?"
+>
+Kierra says in Leuian, "invaders i am almost sure"
+
+Kierra says in Leuian, "nicki and i have been up there to"
+
+Kierra says in Leuian, "and we have seen and watched them"
+
+Kierra says in Leuian, "they are strong"
+
+Kierra says in Leuian, "and many"
+
+Hott says in Leuian, "did they attack"
+
+Kierra says in Leuian, "no to my knowledge"
+
+Kierra says in Leuian, "yet"
+
+Kierra says in Leuian, "the fort has 25 ft walls now"
+
+Hott says in Leuian, "might be friendly"
+
+Kierra says in Leuian, "no they had to chatch us"
+
+Kierra grins.
+
+Kierra says in Leuian, "whcih they did not do"
+
+Hott says in Leuian, "humm"
+
+Kierra says in Leuian, "rathan has no soldiers"
+
+Kierra says in Leuian, "but fort tarth is infested with them"
+
+Snowball raises his hand.
+
+Kierra says in Leuian, "they would not let people willingly"
+
+Kierra says in Leuian, "the mage is very dark"
+
+Leanne blinks.
+
+Kierra says in Leuian, "and sinister"
+
+Kierra cringes.
+
+Kierra says in Leuian, "she is he one i worried"
+push down mag
+I don't see what you are referring to.
+>
+Kierra sits down.
+
+Kierra says in Leuian, "done"
+
+Kandil says to Leanne in Leuian, "you are next i think"
+
+Leanne says in Leuian, "i lost it"
+
+Kierra chuckles softly.
+
+Kandil says to Snowball in Leuian, "okay then you are till she finds it"
+
+Kandil teases Leanne.
+
+Snowball chuckles.
+
+Leanne says in Leuian, "that's what i get for paying attention"
+
+Leanne giggles.
+
+Leanne smiles at Kierra.
+You see Crax take a drink from the flowing gold-flecked sandstone fountain.
+You see Crax take a drink from the flowing gold-flecked sandstone fountain.
+You see Leanne take a drink from the flowing gold-flecked sandstone fountain.
+
+Snowball asks Kierra in Leuian, "You scouted both the city of Rathan and their fort Tarath?"
+
+Kierra says in Leuian, "yes"
+
+Kierra says in Leuian, "been up there many many days"
+
+Kierra says in Leuian, "watching waiting"
+
+Snowball asks in Leuian, "How did you get through Tarath alive?"
+
+Kierra says in Leuian, "i was very careful"
+
+Kierra says in Leuian, "took my time"
+
+Kenetic raises his hand.
+
+Kierra says in Leuian, "used my instincts"
+
+Snowball asks Kierra in Leuian, "What does that mean? Did you stay in the shadows?"
+
+Kierra says in Leuian, "i am willing to take any who wish to come"
+
+Kierra says in Leuian, "yes...some"
+
+Snowball nods.
+
+Leanne grumbles.
+
+Leanne stands up.
+
+Snowball says in Leuian, "done"
+
+Leanne says in Leuian, "sorry kyn, i need to go..."
+
+Kierra nuzzles Leanne.
+
+Hott says in Leuian, "be well"
+
+Leanne nuzzles Kierra.
+
+Kandil says to Leanne in Leuian, "thank you for coming "
+smi to le
+You smile to Leanne.
+>
+Kandil smiles to Leanne.
+
+Leanne says in Leuian, "any time"
+
+Shaleu smiles at Leanne.
+
+Leanne rubs her shimmering crystal traveler's token.
+
+A number of tiny runes begin gathering around Leanne's shimmering crystal traveler's token!
+
+Kandil says to Kenetic in Leuian, "okay kyn your next"
+
+Leanne suddenly vanishes in a swirl of multicolored light!
+
+Kenetic asks in Leuian, "i was just wanting to ask when ft tarath was taken over?"
+
+Hott listens intently.
+who range race
+List will be restricted to those within range.
+Race who list activated!
+
+                Current Leuian Adventurers:
+
+Current Adventurers
+
+ Kenetic Fury                        Kandil Dragins                     
+ Hott Breeze                         Kennedy Burnbubble                 
+ Shaleu Dragins                      Muther Gunn                        
+ Crax Steelclaw                      Kierra Kovu                        
+ Audun Kell                          Timble Darkstar                    
+ Lthe Wain                           Snowball Jackson                   
+
+You notice 12 adventurers.
+>
+Kenetic says in Leuian, "i was up there yesterday hunting at the keep and saw nothing"
+
+Kierra says in Leuian, "they come and go"
+
+Kierra says in Leuian, "promise"
+
+Kierra says in Leuian, "i just came from there"
+
+Kierra says in Leuian, "and they weren't there yet"
+
+You pick up Spite's thoughts, "Spite's Spoils of War peddle will begin in 15 minutes"
+
+Kierra says in Leuian, "they go and do training exerceses"
+
+Kierra says in Leuian, "did you see the barracks"
+
+Kenetic says in Leuian, "no"
+
+Kierra says in Leuian, "and the cannons"
+
+Kandil glances at Kierra.
+
+Kenetic says in Leuian, "no, guess i didn't pay that much attention"
+
+Shaleu asks in Leuian, "cannons?"
+
+Kierra nods up and down.
+
+Kenetic says in Leuian, "but if i would have come across any they would be dead"
+
+Kierra says in Leuian, "yes "
+
+Kierra says in Leuian, "i am some dumb,,,but not plum dumb"
+
+Kenetic says in Leuian, "wonder if a headbutt can drack iron cannons"
+
+Kenetic says in Leuian, "crack"
+
+Kandil laughs.
+
+Kierra says in Leuian, "i neede to report"
+
+Hott grins.
+
+Kierra says in Leuian, "not die for nothing"
+
+Kierra says in Leuian, "i have learned much since my arrivial"
+
+Kenetic says in Leuian, "ok, that was all i wanted to ask"
+
+Kandil says to Hott in Leuian, "and i am sorry i missed your hand"
+
+Kierra nuzzles Hott.
+
+Kandil blushes.
+
+Kierra giggles.
+
+Kierra nuzzles Kandil.
+l
+[Village.]
+
+The chipped bark path widens to encompass a broad square between the peaked roofs of the village homes, the larger storefronts, and several communal buildings that all surround a magnificent fountain crafted from local sandstone. The multi-tiered fountain flows with pure, clean springwater and provides seating around its broad base.  The towering trees surround the village, enclosing the square in a living frame.  To the west is a sturdy building with its door perpetually ajar. A line of Leuian children trots off towards the north, bearing their lessons. The faint ding of nautical bells flows in on the breeze from the northwest.   A flowing gold-flecked sandstone fountain is here.
+
+This area is illuminated.
+You see the 1st tawny furred mountain lynx (wearing a small gold collar).
+In the area are Kenetic the Leuian (seated), Kandil the Leuian (seated), Hott the Noble Leuian (seated), Shaleu the Leuian (seated), Crax the Leuian (seated), Kierra the Leuian (seated), Audun the Noble Leuian (seated), Timble the Noble Leuian (seated), Lthe the Leuian (seated), and Snowball the Leuian (seated).
+Obvious paths: north* northeast* east* southeast* south* southwest* west*.
+rb
+>Ignoring unknown command, "rb."
+>
+Hott stands up.
+
+Hott says in Leuian, "the way to fort hotari is blocked both way"
+
+Kierra nods up and down.
+
+Kierra says in Leuian, "that fort is closed"
+
+Hott says in Leuian, "two of the barbarians match for any of us"
+
+Hott says in Leuian, "I can hit ne but not fight 2"
+
+You pick up Spite's thoughts, "Spite's Spoils of War Peddle will begin in ten minutes in the rainbow tent"
+
+Hott says in Leuian, "only way I know is old tactic hit and run"
+nod to ho
+You nod to Hott.
+>
+Kierra nods.
+
+Hott says in Leuian, "kill the golden gryphons first"
+
+Hott says in Leuian, "they their eyes"
+
+Snowball raises his hand.
+
+Hott says in Leuian, "done"
+
+Kandil says to Snowball in Leuian, "okay then me"
+
+Hott says in Leuian, "also any wraiths"
+
+Snowball asks Hott in Leuian, "What do you mean, "The gryphons are their eyes"?"
+
+Hott says in Leuian, "they follow ye and tell back"
+
+Kierra nods.
+
+Crax says to Snowball in Leuian, "they're spies...seems they send what they see back to the commander of the enemy"
+
+Snowball says in Leuian, "Wow"
+
+Hott nods.
+
+Snowball says in Leuian, "Ok, done."
+
+Kierra says in Leuian, "they are magically connected"
+
+Kandil stands up.
+
+Kierra says in Leuian, "they see what it sees"
+
+Kierra blushes.
+
+Kierra says in Leuian, "sorry"
+
+Crax says to Kierra in Leuian, "chatty lil thing aint ya"
+
+Hott says in Leuian, "seen wraiths in tsc but turn um they disappear"
+
+Kierra nods at Crax.
+
+Kandil says in Leuian, "okay backing up a bit but wanted to say i agree with Crax's assement, if this army wants the village they will take it"
+
+Hott nods.
+
+Kandil says in Leuian, "but wanted to remind yah Habbie has been put in charge of defending meetpoint and the island"
+
+Kandil says in Leuian, "he has told me Leuian help has been excellent but if any havent talked to him we are promised you will not serve with Tarrs or serpants"
+
+Kandil says in Leuian, "this includes helping Spur if village isnt attacked as well"
+
+Hott says in Leuian, "ugh"
+
+Hott says in Leuian, "never"
+
+Kandil says in Leuian, "done"
+
+Kandil sits down.
+
+ *** Warning, you have been inactive for 5 minutes.
+l
+ *** You will be disconnected in 10 minute(s) if you do not respond.
+[Village.]
+
+The chipped bark path widens to encompass a broad square between the peaked roofs of the village homes, the larger storefronts, and several communal buildings that all surround a magnificent fountain crafted from local sandstone. The multi-tiered fountain flows with pure, clean springwater and provides seating around its broad base.  The towering trees surround the village, enclosing the square in a living frame.  To the west is a sturdy building with its door perpetually ajar. A line of Leuian children trots off towards the north, bearing their lessons. The faint ding of nautical bells flows in on the breeze from the northwest.   A flowing gold-flecked sandstone fountain is here.
+
+This area is illuminated.
+You see the 1st tawny furred mountain lynx (wearing a small gold collar).
+In the area are Kenetic the Leuian (seated), Kandil the Leuian (seated), Hott the Noble Leuian, Shaleu the Leuian (seated), Crax the Leuian (seated), Kierra the Leuian (seated), Audun the Noble Leuian (seated), Timble the Noble Leuian (seated), Lthe the Leuian (seated), and Snowball the Leuian (seated).
+Obvious paths: north* northeast* east* southeast* south* southwest* west*.
+l
+>[Village.]
+
+The chipped bark path widens to encompass a broad square between the peaked roofs of the village homes, the larger storefronts, and several communal buildings that all surround a magnificent fountain crafted from local sandstone. The multi-tiered fountain flows with pure, clean springwater and provides seating around its broad base.  The towering trees surround the village, enclosing the square in a living frame.  To the west is a sturdy building with its door perpetually ajar. A line of Leuian children trots off towards the north, bearing their lessons. The faint ding of nautical bells flows in on the breeze from the northwest.   A flowing gold-flecked sandstone fountain is here.
+
+This area is illuminated.
+You see the 1st tawny furred mountain lynx (wearing a small gold collar).
+In the area are Kenetic the Leuian (seated), Kandil the Leuian (seated), Hott the Noble Leuian, Shaleu the Leuian (seated), Crax the Leuian (seated), Kierra the Leuian (seated), Audun the Noble Leuian (seated), Timble the Noble Leuian (seated), Lthe the Leuian (seated), and Snowball the Leuian (seated).
+Obvious paths: north* northeast* east* southeast* south* southwest* west*.
+>
+Kierra pulls the tawny furred mountain lynx closer to her.
+
+Hott nods.
+
+You pick up Spite's thoughts, "Only a few minutes before the Spoils of War peddle begins.  Get your seats now."
+
+Kenetic says in Leuian, "ok, that was all i wanted to ask"
+
+Kandil asks in Leuian, "anything else?"
+
+Kenetic says in Leuian, "one small correction"
+
+Kandil glances at Kenetic.
+l at mu
+You find something suitably reflective and gaze into it...
+
+You look like a 6'0" standard mature delicate boned, very muscular bodied Leuian Cleric.
+You are seated.
+You have very long, dredded, kinky white fur, with widely spaced white eyes, and look disheveled.
+You appear to be serious right now.
+You can be attacked by other players.
+You appear to be in perfect health.
+There is a shining gold emblem affixed to your clothing.
+
+Physical appearance:
+
+You see a grizzled old Khat, with an old scar across his white nose..
+
+                        Visible Equipment
+A long pitch black bone nose piercing              (on head)
+Some colorful bamboo panpipes                      (hands)
+A long blood-stained render skin cape              (over armor)
+A Leuian Pride ring                                (ring (left))
+An oak ring of Elindale                            (ring (left))
+A pair of pitch black bearskin pants               (pants)
+
+You have been bestowed the following title(s):
+  Noble of the Realm
+
+>
+Kenetic says in Leuian, "haberthan is in charge of patrolling the areas from southgate to meetpoint to edgewater"
+
+Kenetic says in Leuian, "not in their defense"
+
+Hott raises his hand.
+
+Kenetic says in Leuian, "none of these areas have been determined as anything more than a way to slow down the enemy, spur is the only place planning on having a major defense"
+
+Kenetic says in Leuian, "that's all"
+' forgive me khyn, i must rest these old bones...
+
+Muther says in Leuian, " forgive me khyn, i must rest these old bones..."
+stand silently
+>You stand up silently.
+bow deeply to all
+>You bow deeply to all.
+>
+Shaleu smiles.
+
+Hott beams well mut.
+
+Kierra nuzzles you.
+' be well
+
+Muther says in Leuian, " be well"
+smi
+>You smile.
+w
+>[Village.]
+
+A tall, plain building occupies the west edge of the square. The door remains open, its wood smoothed by the touch of hands and its kick plate, dented and scuffed.  Several adult Leuians discuss current events in hushed tones as small khits dash around them, playing a game of Alarian tag.    A hand-carved redwood sign is here.
+
+This area is illuminated.
+Obvious paths: northeast* east* southeast* south* northwest*.
+quit
+>
+    Dragon's Gate Menu
+
+ 1. Explore Dragon's Gate.
+ 2. Create, Delete, or View a character.
+ 3. Select current character.
+ 4. Display notices and version notes.
+16. Disconnect.
+
+Your active character is: Muther Gunn
+
+Your selection? 
+16
+
+ ** Goodbye from Mythic Entertainment! **

@@ -1,0 +1,1493 @@
+
+Kenetic plays soft background music on his damaged delicate wind chimes.
+  A very good performance.  You could get used to this.
+l
+[Village.]
+
+The chipped bark path widens to encompass a broad square between the peaked roofs of the village homes, the larger storefronts, and several communal buildings that all surround a magnificent fountain crafted from local sandstone. The multi-tiered fountain flows with pure, clean springwater and provides seating around its broad base.  The towering trees surround the village, enclosing the square in a living frame.  To the west is a sturdy building with its door perpetually ajar. A line of Leuian children trots off towards the north, bearing their lessons. The faint ding of nautical bells flows in on the breeze from the northwest.   A flowing gold-flecked sandstone fountain, a thin silver steelhead fish, a long red and yellow steelhead, and a long red and yellow steelhead are here.
+
+This area is illuminated.
+In the area are Hott the Noble Leuian (seated), Tiruna the Noble Leuian, Kenetic the Leuian, Tchori the Leuian (seated), Shaleu the Leuian, Talishia the Leuian (seated), Dac the Leuian (seated), Kinian the Noble Leuian (seated), and Lthe the Leuian (seated).
+Obvious paths: north* northeast* east* southeast* south* southwest* west*.
+info
+>
+You are Muther Gunn, a delicate boned and very muscular bodied 45 year old Entropic Male mature Leuian Cleric of the Order of the Heart.  You are 6'0" and weigh 181 lbs.  You are seated.  You are satiated.  You are sloshing.
+
+HP: 163 of 163  Ftg:  64 of  64  Carry: 67.3 of 227.0 lbs.
+
+ Str   Int   Wis   Dex   Agi   Con   Cha   Wil   Voi   Per   App
+Aver  Fair  Good  Aver  Good  Good  Good  Good  Good  Fair  Fair  
+
+Use: INFO <subject> for more info.
+(Valid subjects: RELIGION, MAGICK, LANGUAGES, MARTIALARTS, MONEY, RUNESPELLS, TITLES, DISGUISE, PSIONICS)
+
+>
+Kenetic stores his damaged delicate wind chimes.
+
+Tchori glances at Dac.
+
+Tchori faints dead away.
+
+Kinian leans on Tchori.
+
+Shaleu chuckles.
+
+Dac winks at Tchori.
+
+Tchori regains consciousness.
+wrin whiskers in amusement
+You wrinkle your nose whiskers in amusement.
+>
+Tiruna chuckles.
+
+Hott glances at Dac.
+
+Tchori's head suddenly begins glowing. He places a hand upon his chest. The glow travels down an arm to his hand. The glow quickly spreads over Tchori's entire body, then fades away.
+
+
+Talishia leans on the open large leather backpack resting her head lightly as she yawns.
+
+Tchori asks in Leuian, "should we head to the Hall to be built, area? Khatyra?"
+who range race
+List will be restricted to those within range.
+Race who list activated!
+
+                Current Leuian Adventurers:
+
+Current Adventurers
+
+ Hott Breeze                         Tiruna Shooge                      
+ Kenetic Fury                        Tchori Darkstar                    
+ Alyxandar Darkmane                  Shaleu Dragins                     
+ Muther Gunn                         Talishia Jolgus                    
+ Panthroe Lyonsmane                  Dac Darkstar                       
+ Kinian Haern                        Ward Jahanel                       
+ Lthe Wain                          
+
+You notice 13 adventurers.
+>
+Hott stands up.
+tact
+Standing in this rank is:
+Hott, Tiruna, Kenetic, Tchori, Shaleu, Muther, Talishia, Dac, Kinian, Lthe
+>
+Talishia stands up.
+
+Tchori stands up.
+
+Tiruna just placed a vine etched crystal champagne glass within her open purple leather healer's bag.
+
+Talishia is now following Tchori.
+
+Tiruna just placed a half-eaten mouthwatering slice of watermelon within her open purple leather healer's bag.
+
+Kinian stands up.
+stand silently
+
+Shaleu says in Leuian, "yes"
+You stand up silently.
+>
+Tiruna just picked up a thin silver steelhead fish.
+
+Dac stands up.
+foll sh
+
+Tiruna just picked up a long red and yellow steelhead.
+You follow Shaleu.
+>
+Kinian is now following Tchori.
+
+Lthe stands up.
+
+Tchori is now following Shaleu.
+
+Tiruna just placed a Leuian crafted lemonwood zither within her open purple leather healer's bag.
+
+ ** Current fatigue: 63 out of 64
+show group
+Tiruna is in your group.
+Tchori is in your group.
+Shaleu is in your group.
+Talishia is in your group.
+Kinian is in your group.
+Your group has 6 people!
+>
+Dac is now following Shaleu.
+
+Tiruna just picked up a long red and yellow steelhead.
+
+Hott is now following Shaleu.
+
+Shaleu says in Leuian, "or would your all rather just relax around the fire on the beach"
+
+Shaleu says in Leuian, "lots of food to enjoy"
+
+ ** You are fully rested.
+shru
+You shrug.
+>
+Shaleu says in Leuian, "as always"
+
+Shaleu glances at Tchori.
+' Khatyra's choice
+
+Muther says in Leuian, " Khatyra's choice"
+>
+Tchori smiles.
+
+Shaleu chuckles.
+
+Tchori nods to Shaleu.
+
+You follow Shaleu north...
+
+[Village.]
+
+An immense, smoothed river boulder deposited by the river, eons ago, is imbedded in the soft loam of the forest floor and blocks the view of the river to the north. A few giant trees have grown bent around its rounded shape and an innovative homeowner has taken advantage of the resulting shelter. Built carefully among the trees in the lee of the rock, stands a magnificent example of the same peaked wooden beam homes that dot the entire forest. One fledgling tree pokes its head through a well-planned hole in the roof.  A pair of closed magnificent carved steelwood doors, a slippery downhill path, and a stack of rocks are here.
+
+This area is illuminated.
+In the area are Hott the Noble Leuian, Tiruna the Noble Leuian, Tchori the Leuian, Shaleu the Leuian, Talishia the Leuian, Dac the Leuian, and Kinian the Noble Leuian.
+Obvious paths: east* southeast* south* southwest* west* northwest*.
+
+You follow Shaleu northwest...
+
+[Village.]
+
+The houses grow more abundant as the path meanders further around the park. Rows of homes border the park and stretch back amongst the low hills towards the inner part of the island. The light is brighter here, as the canopy of trees thins to allow an expanse of sky to open directly over the middle of the village. Two Leuian adolescents chat and laugh amongst themselves as they casually stroll down the path to the pier, kicking a stone between them.  Some sandy wooden steps are here.
+
+This area is illuminated.
+In the area are Hott the Noble Leuian, Tiruna the Noble Leuian, Tchori the Leuian, Shaleu the Leuian, Talishia the Leuian, Dac the Leuian, and Kinian the Noble Leuian.
+Obvious paths: southeast* south* west* northwest*.
+
+You follow Shaleu through some sandy wooden steps...
+
+[Protected Cove.]
+
+Beyond the embrace of the forest, a warm golden sand beach has gathered in the backflow of a protected cove. Above, fern fronds, vines, and the exposed roots of the giant conifers dangle over the edge of a short steppe that protects the village from floods.  A walkway created by dual rows of pitch torches lead to a large, communal sand pit. Circling the pit are several large logs evenly spaced for those who come to catch the night's events or simply sit and relax.   Some sandy wooden steps, a cool clear lagoon, a blazing crackling fire pit, a fish shaped copper platter, a finely woven reed placemat, an open linen lined reed bread basket, an open ice filled oak drink chest, a smooth pearlescent glass bowl, a copper handled reed dessert tray, and a red and white linen covered picnic table are here.
+
+This area is illuminated.
+In the area are Hott the Noble Leuian, Tiruna the Noble Leuian, Tchori the Leuian, Shaleu the Leuian, Talishia the Leuian, Dac the Leuian, and Kinian the Noble Leuian.
+Obvious paths: southeast*.
+' left some...
+
+Muther says in Leuian, " left some..."
+chu
+>You chuckle.
+show group
+>Hott is in your group.
+Tiruna is in your group.
+Tchori is in your group.
+Shaleu is in your group.
+Talishia is in your group.
+Dac is in your group.
+Kinian is in your group.
+Your group has 8 people!
+>
+Hott has left Shaleu's group.
+
+Tiruna just dropped a long red and yellow steelhead.
+
+Shaleu says in Leuian, "fish ofcourse on the platter but meat on the placemat"
+
+Hott sits down.
+
+Tiruna just dropped a thin silver steelhead fish.
+
+Tiruna just dropped a long red and yellow steelhead.
+leav
+
+Tiruna says in Leuian, "nope , we didn't leave it"
+You leave the group.
+>
+Tiruna grins.
+
+Dac sits down.
+
+Tiruna sits down.
+
+Talishia sits down.
+go st
+[Village.]
+
+The houses grow more abundant as the path meanders further around the park. Rows of homes border the park and stretch back amongst the low hills towards the inner part of the island. The light is brighter here, as the canopy of trees thins to allow an expanse of sky to open directly over the middle of the village. Two Leuian adolescents chat and laugh amongst themselves as they casually stroll down the path to the pier, kicking a stone between them.  Some sandy wooden steps are here.
+
+This area is illuminated.
+In the area are Kenetic the Leuian and Lthe the Leuian.
+Obvious paths: southeast* south* west* northwest*.
+>
+Lthe just went through some sandy wooden steps.
+gri
+You grin.
+>
+Kenetic, with a powerful and graceful stride, just went through some sandy wooden steps.
+se
+[Village.]
+
+An immense, smoothed river boulder deposited by the river, eons ago, is imbedded in the soft loam of the forest floor and blocks the view of the river to the north. A few giant trees have grown bent around its rounded shape and an innovative homeowner has taken advantage of the resulting shelter. Built carefully among the trees in the lee of the rock, stands a magnificent example of the same peaked wooden beam homes that dot the entire forest. One fledgling tree pokes its head through a well-planned hole in the roof.  A pair of closed magnificent carved steelwood doors, a slippery downhill path, and a stack of rocks are here.
+
+This area is illuminated.
+Obvious paths: east* southeast* south* southwest* west* northwest*.
+s
+>[Village.]
+
+The chipped bark path widens to encompass a broad square between the peaked roofs of the village homes, the larger storefronts, and several communal buildings that all surround a magnificent fountain crafted from local sandstone. The multi-tiered fountain flows with pure, clean springwater and provides seating around its broad base.  The towering trees surround the village, enclosing the square in a living frame.  To the west is a sturdy building with its door perpetually ajar. A line of Leuian children trots off towards the north, bearing their lessons. The faint ding of nautical bells flows in on the breeze from the northwest.   A flowing gold-flecked sandstone fountain is here.
+
+This area is illuminated.
+Obvious paths: north* northeast* east* southeast* south* southwest* west*.
+nw
+>You cannot move in that direction.
+n
+>[Village.]
+
+An immense, smoothed river boulder deposited by the river, eons ago, is imbedded in the soft loam of the forest floor and blocks the view of the river to the north. A few giant trees have grown bent around its rounded shape and an innovative homeowner has taken advantage of the resulting shelter. Built carefully among the trees in the lee of the rock, stands a magnificent example of the same peaked wooden beam homes that dot the entire forest. One fledgling tree pokes its head through a well-planned hole in the roof.  A pair of closed magnificent carved steelwood doors, a slippery downhill path, and a stack of rocks are here.
+
+This area is illuminated.
+Obvious paths: east* southeast* south* southwest* west* northwest*.
+nw
+>[Village.]
+
+The houses grow more abundant as the path meanders further around the park. Rows of homes border the park and stretch back amongst the low hills towards the inner part of the island. The light is brighter here, as the canopy of trees thins to allow an expanse of sky to open directly over the middle of the village. Two Leuian adolescents chat and laugh amongst themselves as they casually stroll down the path to the pier, kicking a stone between them.  Some sandy wooden steps are here.
+
+This area is illuminated.
+Obvious paths: southeast* south* west* northwest*.
+go st
+>[Protected Cove.]
+
+Beyond the embrace of the forest, a warm golden sand beach has gathered in the backflow of a protected cove. Above, fern fronds, vines, and the exposed roots of the giant conifers dangle over the edge of a short steppe that protects the village from floods.  A walkway created by dual rows of pitch torches lead to a large, communal sand pit. Circling the pit are several large logs evenly spaced for those who come to catch the night's events or simply sit and relax.   Some sandy wooden steps, a cool clear lagoon, a blazing crackling fire pit, a fish shaped copper platter, a finely woven reed placemat, an open linen lined reed bread basket, an open ice filled oak drink chest, a smooth pearlescent glass bowl, a copper handled reed dessert tray, a red and white linen covered picnic table, a long red and yellow steelhead, a thin silver steelhead fish, and a long red and yellow steelhead are here.
+
+This area is illuminated.
+In the area are Hott the Noble Leuian (seated), Tiruna the Noble Leuian (seated), Kenetic the Leuian, Tchori the Leuian, Shaleu the Leuian, Talishia the Leuian (seated), Dac the Leuian (seated), Kinian the Noble Leuian (seated), and Lthe the Leuian (seated).
+Obvious paths: southeast*.
+sit
+>You sit down.
+>
+Shaleu sits down.
+
+Tiruna whispers in Leuian, "I grabbed the fish"
+gri
+You grin.
+>
+Tchori sits down.
+tact
+Standing in this rank is:
+Hott, Tiruna, Kenetic, Tchori, Shaleu, Muther, Talishia, Dac, Kinian, Lthe
+l
+>[Protected Cove.]
+
+Beyond the embrace of the forest, a warm golden sand beach has gathered in the backflow of a protected cove. Above, fern fronds, vines, and the exposed roots of the giant conifers dangle over the edge of a short steppe that protects the village from floods.  A walkway created by dual rows of pitch torches lead to a large, communal sand pit. Circling the pit are several large logs evenly spaced for those who come to catch the night's events or simply sit and relax.   Some sandy wooden steps, a cool clear lagoon, a blazing crackling fire pit, a fish shaped copper platter, a finely woven reed placemat, an open linen lined reed bread basket, an open ice filled oak drink chest, a smooth pearlescent glass bowl, a copper handled reed dessert tray, a red and white linen covered picnic table, a long red and yellow steelhead, a thin silver steelhead fish, and a long red and yellow steelhead are here.
+
+This area is illuminated.
+In the area are Hott the Noble Leuian (seated), Tiruna the Noble Leuian (seated), Kenetic the Leuian, Tchori the Leuian (seated), Shaleu the Leuian (seated), Talishia the Leuian (seated), Dac the Leuian (seated), Kinian the Noble Leuian (seated), and Lthe the Leuian (seated).
+Obvious paths: southeast*.
+inv
+>Items carried:
+  An oak ring of Elindale [0.1 lbs].
+  An open large leather backpack [29.6 lbs].
+  A long pitch black bone nose piercing [0.5 lbs].
+  An open leather healer's bag [0.1 lbs].
+  An open raccoonskin pack [2.6 lbs].
+  A Leuian Pride ring [0.0 lbs].
+  A light forest green steelwood brigandine [22.0 lbs].
+  An oak-handled iron spiked aclys [2.2 lbs].
+  A cold cherry tart [0.1 lbs].
+  A leafy branch [0.0 lbs].
+  A wood club [0.2 lbs].
+  An open raccoonskin pack [0.3 lbs].
+  A damaged iron morningstar [3.0 lbs].
+  An ancient gleaming carbide shield [5.6 lbs].
+  A pair of pitch black bearskin pants [0.1 lbs].
+  A long blood-stained render skin cape [0.3 lbs].
+
+You have 60 silver pieces and 0 gold pieces.
+
+This gives you a total net worth of 60 silver.
+
+Your inventory totals 67.3 lbs.
+ex bri
+>The light forest green steelwood brigandine is in good condition!
+>
+Kenetic sits down.
+
+Shaleu grins.
+
+Tchori smiles.
+l in he
+There is nothing inside that.
+>
+Tchori bows to Shaleu.
+l in bac
+Inside the open large leather backpack you see a long red and yellow steelhead, a thin silver steelhead fish, a cup of creamy butterscotch pudding, a flowing pitch black satin noble's cloak, a juicy ripe strawberry, a long red and yellow steelhead, some colorful bamboo panpipes, some heavy blood red lacquered bone scale mail, some light greying studded leather armor, a heavy studded leather mail, an iron morningstar, a cold cherry tart, a half-eaten fresh baked apple pie, and a white wax candle.
+>
+Tchori nods.
+
+Kinian listens intently.
+l in pac
+Inside the open raccoonskin pack you see a short copper wrapped flat stick, a fine Leuian porcelain plate, and a large striped bass.
+>
+Shaleu says in Leuian, "kyn I shall call our meeting to order"
+l
+[Protected Cove.]
+
+Beyond the embrace of the forest, a warm golden sand beach has gathered in the backflow of a protected cove. Above, fern fronds, vines, and the exposed roots of the giant conifers dangle over the edge of a short steppe that protects the village from floods.  A walkway created by dual rows of pitch torches lead to a large, communal sand pit. Circling the pit are several large logs evenly spaced for those who come to catch the night's events or simply sit and relax.   Some sandy wooden steps, a cool clear lagoon, a blazing crackling fire pit, a fish shaped copper platter, a finely woven reed placemat, an open linen lined reed bread basket, an open ice filled oak drink chest, a smooth pearlescent glass bowl, a copper handled reed dessert tray, a red and white linen covered picnic table, a long red and yellow steelhead, a thin silver steelhead fish, and a long red and yellow steelhead are here.
+
+This area is illuminated.
+In the area are Hott the Noble Leuian (seated), Tiruna the Noble Leuian (seated), Kenetic the Leuian (seated), Tchori the Leuian (seated), Shaleu the Leuian (seated), Talishia the Leuian (seated), Dac the Leuian (seated), Kinian the Noble Leuian (seated), and Lthe the Leuian (seated).
+Obvious paths: southeast*.
+>
+Shaleu says in Leuian, "I would like to welcome yu Kinian to the gathering, is is a joy ot have you with us"
+
+Hott listens intently.
+
+Shaleu says in Leuian, "Kenetic good to have you with us too"
+
+Panthroe just entered from the southeast.
+
+Panthroe bows.
+
+Shaleu smiles.
+
+Panthroe sits down.
+smi to pa
+You smile to Panthroe.
+>
+Lthe smiles at Panthroe.
+l at pan
+
+Panthroe looks like a 7'8" standard young average boned, stocky bodied Leuian.
+He is seated.
+He has short, neatly kept, wiry glossy black fur, with pale green eyes, and looks neat.
+He appears to be sad right now.
+He bears the mark of Odarous.
+He can be attacked by other players.
+He has no apparent injuries, but looks weakened.
+                        Visible Equipment
+Some polished tiger's eye prayer beads             (around neck)
+A chivalric gold-trimmed red silk cloak            (over armor)
+A tasseled red and black cloth kilt                (pants)
+An eagle crested silk tunic                        (shirt)
+A belt of tarr'khat skulls                         (on belt)
+>
+Shaleu says in Leuian, "welcome Panthroe"
+
+Kinian smiles at Shaleu.
+lay hands on pa
+You kneel briefly and place your hands upon Panthroe.
+You feel the healing power of your deity channel through you!
+[5 sec. delay]
+diag all
+>
+Panthroe says in Leuian, "greetins Khatyra   kyn"
+
+  You examine Hott the Leuian...
+He appears to be in perfect health.
+  You examine Tiruna the Leuian...
+She appears to be in perfect health.
+  You examine Kenetic the Leuian...
+He appears to be in perfect health.
+  You examine Tchori the Leuian...
+He appears to be in perfect health.
+  You examine Shaleu the Leuian...
+She appears to be in perfect health.
+  You examine Talishia the Leuian...
+She appears to be in perfect health.
+  You examine Panthroe the Leuian...
+He appears to be in perfect health.
+  You examine Dac the Leuian...
+He appears to be in perfect health.
+  You examine Kinian the Leuian...
+He appears to be in perfect health.
+  You examine Lthe the Leuian...
+She appears to be in perfect health.
+
+>
+Kinian bows to Panthroe.
+
+Shaleu mutters ouch...
+
+Kenetic smiles.
+
+Panthroe says to Muther in Leuian, "thanks"
+smi
+You smile.
+>
+Shaleu mutters and shakes her finger.
+' most welcome
+
+Muther says in Leuian, " most welcome"
+>
+Shaleu asks in Leuian, "Do you all know Panthroe?"
+nod
+You nod.
+>
+Shaleu says in Leuian, "a leader of the Pride from long ago"
+
+Kinian shakes his head from side to side.
+
+Panthroe says to Kinian in Leuian, "Panthroe Lyonsmane...Hand of Odarous at your service"
+
+Shaleu smiles.
+
+Kinian says to Panthroe in Leuian, "kinian haern heart of unknown"
+who class
+Class who list activated!
+
+                Current Cleric Adventurers:
+
+Current Adventurers
+
+ Hott Breeze                         Akrataire Cirtaka                  
+ Verlon Cobbler                      Kenetic Fury                       
+ Holly Appleton                      Alwin Arlt                         
+ Wings Trueflight                    Blisse Relatica                    
+ Muther Gunn                         Magdelyn Carrolton                 
+ Rev Lastcall                        Alynia Pasmorte                    
+ Merant Silverforge                  Cieran Delgrim                     
+ Panthroe Lyonsmane                  Dac Darkstar                       
+ Kinian Haern                        Jaicie Trueblood                   
+ Mieglyn Trevalyn-trint             
+
+You notice 19 adventurers.
+>
+Panthroe says in Leuian, "a pleasure"
+who race
+Race who list activated!
+
+                Current Leuian Adventurers:
+
+Current Adventurers
+
+ Hott Breeze                         Tiruna Shooge                      
+ Kenetic Fury                        Tchori Darkstar                    
+ Alyxandar Darkmane                  Shaleu Dragins                     
+ Muther Gunn                         Talishia Jolgus                    
+ Panthroe Lyonsmane                  Dac Darkstar                       
+ Kinian Haern                        Ward Jahanel                       
+ Lthe Wain                          
+
+You notice 13 adventurers.
+>
+Shaleu says in Leuian, "Ok, last week nominations were opened for clawmaster"
+
+Kinian says to Panthroe in Leuian, "all mine"
+info lang
+
+Current language: Leuian.
+
+Known languages:
+
+  Common      Secti       Leuian    
+
+>
+Shaleu says in Leuian, "from what I have been told we had two nominees, Crax and Dac"
+info
+
+You are Muther Gunn, a delicate boned and very muscular bodied 45 year old Entropic Male mature Leuian Cleric of the Order of the Heart.  You are 6'0" and weigh 181 lbs.  You are seated.  You are satiated.  You are sloshing.
+
+HP: 163 of 163  Ftg:  64 of  64  Carry: 67.3 of 227.0 lbs.
+
+ Str   Int   Wis   Dex   Agi   Con   Cha   Wil   Voi   Per   App
+Aver  Fair  Good  Aver  Good  Good  Good  Good  Good  Fair  Fair  
+
+Use: INFO <subject> for more info.
+(Valid subjects: RELIGION, MAGICK, LANGUAGES, MARTIALARTS, MONEY, RUNESPELLS, TITLES, DISGUISE, PSIONICS)
+
+>
+Tchori nods.
+
+Shaleu says in Leuian, "Panthroe mentioned last night that Crax has left on a journey"
+
+Dac scratches.
+l at mu
+You find something suitably reflective and gaze into it...
+
+You look like a 6'0" standard mature delicate boned, very muscular bodied Leuian Cleric.
+You are seated.
+You have very long, dredded, kinky white fur, with widely spaced white eyes, and look disheveled.
+You appear to be puzzled right now.
+You can be attacked by other players.
+You appear to be in perfect health.
+There is a shining gold emblem affixed to your clothing.
+
+Physical appearance:
+
+You see a grizzled old Khat, with an old scar across his white nose..
+
+                        Visible Equipment
+A long pitch black bone nose piercing              (on head)
+A long blood-stained render skin cape              (over armor)
+A Leuian Pride ring                                (ring (left))
+An oak ring of Elindale                            (ring (left))
+A pair of pitch black bearskin pants               (pants)
+
+You have been bestowed the following title(s):
+  Noble of the Realm
+
+>
+Shaleu says in Leuian, "so at this moment we have one nominee"
+gri to dac
+You grin to Dac.
+>
+Tiruna grins at Dac.
+
+Shaleu says in Leuian, "are there any other nominees"
+
+Kenetic smiles.
+
+Shaleu glances around.
+
+Shaleu says in Leuian, "then the nominations are closed and Dac will become officially our new Claw master next week"
+
+Tiruna roars.
+roar
+You roar.
+>
+Tchori blinks.
+
+Tchori howls.
+
+Tiruna claps.
+
+Dac swishes his tail.
+
+Hott roars.
+
+Shaleu chuckles.
+
+Tiruna howls loudly.
+
+Lthe applauds.
+
+Tiruna hugs Dac.
+
+Tchori says in Leuian, "will the Khatyra please see that he gets a map of the village, jess to help him out"
+
+Tiruna chuckles.
+gri
+You grin.
+>
+Shaleu says in Leuian, "next"
+
+Kinian listens intently.
+
+Dac says to Tchori, "I have one.  I follow the beacon known as your head."
+
+Dac nods to Tchori.
+
+Tchori laughs.
+
+Tiruna laughs.
+wrin whiskers in amusement
+You wrinkle your nose whiskers in amusement.
+>
+Hott grins.
+
+Dac says to Tchori, "Its quite the light tower when you wear that bucket."
+
+Tchori grins.
+
+Panthroe says in Leuian, "excuse me   seems someone is lost in meetpoint   I'll be back"
+
+Shaleu says in Leuian, "All clawmasters will be nominees for the khatyra elections to be held on the 30th"
+l at tc
+
+Tchori looks like a 7'6" standard adolescent light boned, muscular bodied Leuian.
+He is seated.
+He has very long, wild, wispy golden blonde fur with a neatly trimmed beard, triangular golden eyes, and looks neat.
+He appears to be tired right now.
+He can be attacked by other players.
+
+On his forehead is a tattoo of a Darkstar.
+
+On his right arm is a tattoo which reads "Klayea" written in Leuian, surrounded by the symbol of eternity.
+
+On his left arm a tattoo of an island floating in a sea of stars, with the words "Leuia" written above it.
+
+He appears to be in perfect health.
+There is a shining gold emblem affixed to his clothing.
+
+Physical appearance:
+
+Scars from battles and Tattoos cover this leuian
+
+                        Visible Equipment
+A heavy golden lionskin pelt                       (armor)
+A sabertooth tiger skull                           (on head)
+A large glistening yellow alligator tooth          (around neck)
+Some handmade gryphon sandals                      (on feet)
+A Leuian style sabertooth tiger cape               (over armor)
+A bronze Spurian Gladiator Ring                    (ring (right))
+A leopard skin loin cloth                          (pants)
+A belt of tarr'khat skulls                         (on belt)
+
+He has been bestowed the following title(s):
+  Noble of the Realm
+
+Additional titles earned:
+  Merchant
+
+>
+Panthroe stands up.
+
+Tiruna nods.
+
+Panthroe just went southeast.
+
+Shaleu says in Leuian, "unless they so state they can not serve"
+who psion
+
+                Current Psion Adventurers:
+
+Current Adventurers
+
+ Tchori Darkstar                     Luc Omon                           
+ Stormie Thunderwing                
+
+You notice 3 adventurers.
+who range race
+>List will be restricted to those within range.
+Race who list activated!
+
+                Current Leuian Adventurers:
+
+Current Adventurers
+
+ Hott Breeze                         Tiruna Shooge                      
+ Kenetic Fury                        Tchori Darkstar                    
+ Alyxandar Darkmane                  Shaleu Dragins                     
+ Staroph Clawsworth                  Muther Gunn                        
+ Talishia Jolgus                     Panthroe Lyonsmane                 
+ Dac Darkstar                        Kinian Haern                       
+ Ward Jahanel                        Pantherro Razorklaws               
+ Lthe Wain                          
+
+You notice 15 adventurers.
+>
+Shaleu says in Leuian, "On the 30the Mariskia will be khit'ra, it will be my last job as khatyra"
+
+Talishia twitches her tail.
+
+Shaleu says in Leuian, "I would also like for those who have returned to Spur and wish to officially become members of this Pride to have a welcoming "
+
+Stormy just entered through some sandy wooden steps.
+
+Stormy sits down.
+
+Tiruna nods to Shaleu.
+
+Shaleu says in Leuian, "and to receive Pride rings"
+smi to st
+
+Hott hugs Stormy.
+You smile to Stormy.
+>
+Shaleu smiles.
+
+Stormy hugs Hott.
+who range race
+List will be restricted to those within range.
+Race who list activated!
+
+                Current Leuian Adventurers:
+
+Current Adventurers
+
+ Hott Breeze                         Tiruna Shooge                      
+ Stormy Burnbubble                   Kenetic Fury                       
+ Tchori Darkstar                     Alyxandar Darkmane                 
+ Shaleu Dragins                      Staroph Clawsworth                 
+ Muther Gunn                         Talishia Jolgus                    
+ Panthroe Lyonsmane                  Dac Darkstar                       
+ Kinian Haern                        Ward Jahanel                       
+ Lthe Wain                          
+
+You notice 15 adventurers.
+>
+Stormy smiles at you.
+
+Stormy hugs Talishia.
+
+Kinian listens intently to Shaleu.
+
+Panthroe's group just entered from the southeast.
+
+Shaleu smiles.
+l
+
+Talishia hugs Stormy.
+[Protected Cove.]
+
+Beyond the embrace of the forest, a warm golden sand beach has gathered in the backflow of a protected cove. Above, fern fronds, vines, and the exposed roots of the giant conifers dangle over the edge of a short steppe that protects the village from floods.  A walkway created by dual rows of pitch torches lead to a large, communal sand pit. Circling the pit are several large logs evenly spaced for those who come to catch the night's events or simply sit and relax.   Some sandy wooden steps, a cool clear lagoon, a blazing crackling fire pit, a fish shaped copper platter, a finely woven reed placemat, an open linen lined reed bread basket, an open ice filled oak drink chest, a smooth pearlescent glass bowl, a copper handled reed dessert tray, a red and white linen covered picnic table, a long red and yellow steelhead, a thin silver steelhead fish, and a long red and yellow steelhead are here.
+
+This area is illuminated.
+You see the 1st wide-eyed barn owl (wearing a small gold collar).
+In the area are Hott the Noble Leuian (seated), Tiruna the Noble Leuian (seated), Stormy the Leuian (seated, a wide-eyed barn owl upon her left shoulder), Kenetic the Leuian (seated), Tchori the Leuian (seated), Shaleu the Leuian (seated), Staroph the Leuian, Talishia the Leuian (seated), Panthroe the Leuian, Dac the Leuian (seated), Kinian the Noble Leuian (seated), and Lthe the Leuian (seated).
+Obvious paths: southeast*.
+>
+Staroph bows to Hott.
+
+Panthroe sits down.
+
+Staroph bows to Tiruna.
+
+Staroph bows to Stormy.
+
+Staroph bows to Kenetic.
+
+Staroph bows to Tchori.
+
+Hott stands up.
+
+Staroph bows to Shaleu.
+smi to star
+You smile to Staroph.
+>
+Tchori smiles.
+
+Kinian bows to Staroph.
+
+Tchori bows.
+
+Shaleu smiles at Staroph.
+
+Hott bows to Staroph.
+
+Kenetic bows.
+
+Staroph bows to you.
+
+Hott sits down.
+
+Staroph bows to Panthroe.
+
+Staroph bows to Dac.
+
+Shaleu says in Leuian, "have you met all your kyn Staroph"
+
+Staroph bows to Kinian.
+
+Staroph bows to Lthe.
+
+Kinian shakes his head from side to side to Shaleu.
+
+Kinian bows tos tar again.
+
+Kinian chuckles.
+
+Staroph ignores Talishia.
+
+Kinian bows tos tar again.
+
+Lthe smiles at Staroph.
+
+Kinian mutters something beneath his breath.
+
+Staroph says to Shaleu in Leuian, "Not all of them.."
+l at star
+
+Staroph looks like a 7'6" standard young average boned, very muscular bodied Leuian.
+He has long, tied back, kinky sable fur, with amber eyes, and looks neat.
+He appears to be romantic right now.
+He bears the mark of Odarous.
+He can be attacked by other players.
+He appears to be in perfect health.
+
+Physical appearance:
+
+Khat'sara to Retta, and Grandfather to Runningdeer. You're gazing upon the patriarch of the Clawsworth family. Aged features gaze back at you with wisdom of a time now past. He remains simple and collected. Sable mane tied back for battle
+
+                        Visible Equipment
+Some heavy blood red lacquered bone scale mail     (armor)
+Some eye glasses                                   (on head)
+Some knee-high leather boots                       (on feet)
+Some satin pants                                   (pants)
+A fleece shirt                                     (shirt)
+A closed ribbon tied satin clerical bag            (on belt)
+>
+Staroph says to Shaleu in Leuian, "Allow me please..."
+
+Shaleu nods.
+
+Tchori smiles at Kinian.
+
+The wide-eyed barn owl screeches almost silently.
+
+Kinian says to Tchori in Leuian, "I'm too old forthis"
+You see Tiruna eat the last of her half-eaten pink salmon.
+
+Dac chuckles.
+
+Tchori chuckles.
+
+Staroph says in Leuian, "I am Staroph Clawsworth, Lost soul returned to his 'sara, Retta."
+
+Tiruna smiles.
+
+Staroph is looking at you.
+
+Kinian smiles at Staroph.
+smi to star
+You smile to Staroph.
+>
+Staroph smiles.
+
+Stormy says to Staroph, "hi"
+
+The wide-eyed barn owl screeches softly.
+
+Talishia twitches her tail.
+
+Shaleu says in Leuian, "I have just told everyone that on the 30th we will have a khit'ra"
+
+Staroph sits down.
+
+Staroph places his hands upon his chest and prays a moment.
+diag all
+
+  You examine Hott the Leuian...
+He appears to be in perfect health.
+  You examine Tiruna the Leuian...
+She appears to be in perfect health.
+  You examine Stormy the Leuian...
+She appears to be in perfect health.
+  You examine Kenetic the Leuian...
+He appears to be in perfect health.
+  You examine Tchori the Leuian...
+He appears to be in perfect health.
+  You examine Shaleu the Leuian...
+She appears to be in perfect health.
+  You examine Staroph the Leuian...
+He has no apparent injuries, but looks weakened and tired.
+  You examine Talishia the Leuian...
+She appears to be in perfect health.
+  You examine Panthroe the Leuian...
+He appears to be in perfect health.
+  You examine Dac the Leuian...
+He appears to be in perfect health.
+  You examine Kinian the Leuian...
+He appears to be in perfect health.
+  You examine Lthe the Leuian...
+She appears to be in perfect health.
+
+>
+Shaleu says in Leuian, "at that time it would be good to have a welcoming for all of you who have returned and wish to make this your official Pride"
+lay hands on st
+
+Staroph places his hands upon his chest and prays a moment.
+q c
+stand with a flick of the tail
+Target is not injured.
+>
+ ** Command Queue Cleared.
+>You stand up with a flick of the tail.
+sit
+>You sit down.
+>
+Shaleu says in Leuian, "Now"
+
+Staroph places his hands upon his chest and prays a moment.
+
+ ** Current fatigue: 63 out of 64
+diag all
+
+  You examine Hott the Leuian...
+He appears to be in perfect health.
+  You examine Tiruna the Leuian...
+She appears to be in perfect health.
+  You examine Stormy the Leuian...
+She appears to be in perfect health.
+  You examine Kenetic the Leuian...
+He appears to be in perfect health.
+  You examine Tchori the Leuian...
+He appears to be in perfect health.
+  You examine Shaleu the Leuian...
+She appears to be in perfect health.
+  You examine Staroph the Leuian...
+He has no apparent injuries, but looks tired.
+  You examine Talishia the Leuian...
+She appears to be in perfect health.
+  You examine Panthroe the Leuian...
+He appears to be in perfect health.
+  You examine Dac the Leuian...
+He appears to be in perfect health.
+  You examine Kinian the Leuian...
+He appears to be in perfect health.
+  You examine Lthe the Leuian...
+She appears to be in perfect health.
+
+>
+Stormy just opened the closed rune embroidered suede mage's sack.
+
+ ** You are fully rested.
+
+Staroph says to Shaleu in Leuian, "not until I get some issues of respect hammered out with this Pride.."
+
+Shaleu says in Leuian, "I have a couple of items to put before you"
+
+Tchori nods to Talishia.
+
+Stormy just removed a warm glass of fresh milk from within her open rune embroidered suede mage's sack.
+You see Stormy take a drink from her warm glass of fresh milk.
+You see Stormy take a drink from her warm glass of fresh milk.
+You see Stormy take a drink from her warm glass of fresh milk.
+You see Stormy take a drink from her warm glass of fresh milk.
+You see Stormy drink the last of her warm glass of fresh milk.
+
+Shaleu glances at Hott.
+
+Stormy just dropped an empty warm glass of fresh milk.
+
+Stormy just closed the open rune embroidered suede mage's sack.
+
+Talishia twitches her tail.
+
+Shaleu says in Leuian, "September Breeze has made it known to Tchori and to Hott that she intends to marry the lizard Skar"
+
+Kinian listens intently.
+
+Lthe sighs.
+
+Tiruna mutters something beneath her breath.
+furr
+You furrow your brow.
+>
+Hott sighs.
+
+Kenetic furrows his brow.
+
+Stormy sniffles.
+
+Kenetic wrinkles his nose.
+' is she under a spell?
+
+Muther asks in Leuian, " is she under a spell?"
+>
+Staroph wrinkles his nose.
+furr
+You furrow your brow.
+>
+Tchori shakes his head from side to side.
+rai at tc
+You raise an eyebrow at Tchori.
+pon that
+>You ponder that.
+>
+Shaleu says in Leuian, "As you know she is the bond of Val"
+
+Talishia sighs.
+
+Kenetic says in Leuian, "i like skar, but that is just unnatural"
+
+Tiruna listens intently to Shaleu.
+
+Shaleu says in Leuian, "her sara is still alive and with this act she breaks her bond and her vows"
+
+Kenetic sighs.
+
+Talishia furrows her brow.
+
+Tchori's head suddenly begins glowing. He places a hand upon his chest. The glow travels down an arm to his hand. The glow quickly spreads over Tchori's entire body, then fades away.
+
+
+Kenetic listens intently.
+
+Shaleu says in Leuian, "She shall be given a opportunity to speak to the Claw masters and at that time all the Pride are welcome to listen "
+
+Shaleu says in Leuian, "I hope those of you who are her friends that you will speak to her and try to bring her to her senses"
+
+Panthroe chuckles.
+
+Shaleu says in Leuian, "Next"
+
+Tiruna nods to Shaleu.
+l
+[Protected Cove.]
+
+Beyond the embrace of the forest, a warm golden sand beach has gathered in the backflow of a protected cove. Above, fern fronds, vines, and the exposed roots of the giant conifers dangle over the edge of a short steppe that protects the village from floods.  A walkway created by dual rows of pitch torches lead to a large, communal sand pit. Circling the pit are several large logs evenly spaced for those who come to catch the night's events or simply sit and relax.   Some sandy wooden steps, a cool clear lagoon, a blazing crackling fire pit, a fish shaped copper platter, a finely woven reed placemat, an open linen lined reed bread basket, an open ice filled oak drink chest, a smooth pearlescent glass bowl, a copper handled reed dessert tray, a red and white linen covered picnic table, a long red and yellow steelhead, a thin silver steelhead fish, a long red and yellow steelhead, and an empty warm glass of fresh milk are here.
+
+This area is illuminated.
+You see the 1st wide-eyed barn owl (wearing a small gold collar).
+In the area are Hott the Noble Leuian (seated), Tiruna the Noble Leuian (seated), Stormy the Leuian (seated, a wide-eyed barn owl upon her left shoulder), Kenetic the Leuian (seated), Tchori the Leuian (seated), Shaleu the Leuian (seated), Staroph the Leuian (seated), Talishia the Leuian (seated), Panthroe the Leuian (seated), Dac the Leuian (seated), Kinian the Noble Leuian (seated), and Lthe the Leuian (seated).
+Obvious paths: southeast*.
+>
+Shaleu says in Leuian, "most of you know that some months ago the Pride voted to stand by Spur and to defend it against this dark army"
+
+Kinian listens intently.
+l se
+[Forest Fringe.]
+
+Few tall trees can root in the sandy soil so near the river bank.  Scraggly waterberry bushes tenaciously hold to the shifting loam between the smoothed river boulders riddled with cracked quartz and feldspar.  An obscured path leads into the darker fringes of the forest and up the steppe to the village.
+
+This area is illuminated.
+Obvious paths: southeast* northwest*.
+l
+>[Protected Cove.]
+
+Beyond the embrace of the forest, a warm golden sand beach has gathered in the backflow of a protected cove. Above, fern fronds, vines, and the exposed roots of the giant conifers dangle over the edge of a short steppe that protects the village from floods.  A walkway created by dual rows of pitch torches lead to a large, communal sand pit. Circling the pit are several large logs evenly spaced for those who come to catch the night's events or simply sit and relax.   Some sandy wooden steps, a cool clear lagoon, a blazing crackling fire pit, a fish shaped copper platter, a finely woven reed placemat, an open linen lined reed bread basket, an open ice filled oak drink chest, a smooth pearlescent glass bowl, a copper handled reed dessert tray, a red and white linen covered picnic table, a long red and yellow steelhead, a thin silver steelhead fish, a long red and yellow steelhead, and an empty warm glass of fresh milk are here.
+
+This area is illuminated.
+You see the 1st wide-eyed barn owl (wearing a small gold collar).
+In the area are Hott the Noble Leuian (seated), Tiruna the Noble Leuian (seated), Stormy the Leuian (seated, a wide-eyed barn owl upon her left shoulder), Kenetic the Leuian (seated), Tchori the Leuian (seated), Shaleu the Leuian (seated), Staroph the Leuian (seated), Talishia the Leuian (seated), Panthroe the Leuian (seated), Dac the Leuian (seated), Kinian the Noble Leuian (seated), and Lthe the Leuian (seated).
+Obvious paths: southeast*.
+>
+Shaleu says in Leuian, "some kyn have gone out with the armies to fight along side Spurians"
+
+Shaleu says in Leuian, "The Pride was once asked to go to Emjedah"
+
+Shaleu says in Leuian, "we agreed"
+sk
+
+Skill                     Remain Level
+ Clawing                   1902   10    
+ First Aid                 99     2     
+ Spellcasting              1335   11    
+ Blunt Weapons             649    6     
+ Channeling                442    10    
+ Identify Weapon Quality   244    3     
+ Brawling                  106    2     
+ Shield Parry              458    5     
+ Throw Weapons             279    3     
+ Swimming                  67     1     
+ Identify Gems/Minerals    100    1     
+ Turn Undead               289    3     
+ Hiding                    96     3     
+ Stealth                   98     1     
+ Play Instruments          837    7     
+
+>
+Shaleu says in Leuian, "mostly though we have not officially been asked to join any army"
+
+The wide-eyed barn owl screeches almost silently.
+
+Shaleu says in Leuian, "Last night Cieran came to Tiruna"
+
+Shaleu says in Leuian, "and asked if we would stand by Spur"
+
+Stormy pets the wide-eyed barn owl.
+
+Shaleu says in Leuian, "she told him that yes we would"
+
+Tiruna nods.
+
+The wide-eyed barn owl spreads its wings.
+
+Tiruna says in Leuian, "raise hand"
+
+Tiruna raises her hand.
+
+Dac glances at Tiruna.
+
+Talishia smirks.
+
+Shaleu says in Leuian, "and as always our position remains that we will stand and fight but we will not place ourselves under the leadershop of serpents nor of those who are leuian killers"
+
+Shaleu says in Leuian, "but we will fight with Galliagor"
+
+The wide-eyed barn owl glares.
+
+Shaleu says in Leuian, "is that right name"
+
+Panthroe says in Leuian, "Gallaior"
+
+Shaleu says in Leuian, "and Nicki and Habbie"
+
+Lthe nods.
+
+Stormy holds the wide-eyed barn owl close.
+
+The wide-eyed barn owl screeches softly.
+
+Shaleu says in Leuian, "I shall confirm this myself with Cieran"
+You see Kinian take a bite of his rainbow trout.
+
+Talishia just removed a large waterskin from within her open large leather backpack.
+You see Talishia take a drink from her large waterskin.
+You see Talishia take a drink from her large waterskin.
+You see Talishia take a drink from her large waterskin.
+You see Talishia take a drink from her large waterskin.
+
+Talishia just placed a large waterskin within her open large leather backpack.
+
+Hott just removed a stained-glass vial of elvish water from within his open ribbon tied satin clerical bag.
+You see Hott take a drink from his stained-glass vial of elvish water.
+
+Shaleu says in Leuian, "now I shall open this to debate, please speak respectfully and with honor to your kyn"
+
+Shaleu says in Leuian, "tiruna"
+
+Tiruna stands up.
+
+Hott just placed a stained-glass vial of elvish water within his open ribbon tied satin clerical bag.
+
+Staroph grits his teeth slowly as he cracked his neck.
+
+Tiruna says in Leuian, "As , we , as a Pride, had already discussed this, I felt comfortable agreeing with Cieran to do something we'd already decided to do"
+
+Tiruna says in Leuian, "done"
+
+Tiruna sits down.
+
+Staroph raises his hand.
+
+Hott nods.
+
+Shaleu says in Leuian, "Staroph"
+
+The wide-eyed barn owl glares.
+
+Talishia twitches her tail.
+
+Kinian listens intently.
+
+Stormy just opened the closed large leather backpack.
+
+The wide-eyed barn owl screeches loudly.
+
+Staroph stands up slowly with taught muscles rippling beneath his form as he made certain to move the center of the circle, and he waited a moment, making certain he had everyone's attention, the lack of sound having a slight haunting effect..
+
+Stormy just removed a rainbow trout from within her open large leather backpack.
+
+Talishia just removed a sparkling opal dangling earring from within her open large leather backpack.
+
+Stormy offers something to the wide-eyed barn owl.
+
+The wide-eyed barn owl accepts Stormy's offer.
+
+It consumes a rainbow trout.
+
+Talishia offers something to Stormy.
+
+Stormy accepts Talishia's offer.
+
+ *** Warning, you have been inactive for 5 minutes.
+l
+ *** You will be disconnected in 10 minute(s) if you do not respond.
+[Protected Cove.]
+
+Beyond the embrace of the forest, a warm golden sand beach has gathered in the backflow of a protected cove. Above, fern fronds, vines, and the exposed roots of the giant conifers dangle over the edge of a short steppe that protects the village from floods.  A walkway created by dual rows of pitch torches lead to a large, communal sand pit. Circling the pit are several large logs evenly spaced for those who come to catch the night's events or simply sit and relax.   Some sandy wooden steps, a cool clear lagoon, a blazing crackling fire pit, a fish shaped copper platter, a finely woven reed placemat, an open linen lined reed bread basket, an open ice filled oak drink chest, a smooth pearlescent glass bowl, a copper handled reed dessert tray, a red and white linen covered picnic table, a long red and yellow steelhead, a thin silver steelhead fish, a long red and yellow steelhead, and an empty warm glass of fresh milk are here.
+
+This area is illuminated.
+You see the 1st wide-eyed barn owl (wearing a small gold collar).
+In the area are Hott the Noble Leuian (seated), Tiruna the Noble Leuian (seated), Stormy the Leuian (seated, a wide-eyed barn owl upon her left shoulder), Kenetic the Leuian (seated), Tchori the Leuian (seated), Shaleu the Leuian (seated), Staroph the Leuian, Talishia the Leuian (seated), Panthroe the Leuian (seated), Dac the Leuian (seated), Kinian the Noble Leuian (seated), and Lthe the Leuian (seated).
+Obvious paths: southeast*.
+>
+The wide-eyed barn owl spreads its wings.
+
+Stormy smiles at Talishia.
+
+The wide-eyed barn owl spreads its wings.
+
+Stormy just closed the open large leather backpack.
+
+Staroph says in Leuian, "In my return to the realms, I've found that our people have much less ~repsect~ for our selves than they did back then."
+
+Hott listens intently.
+
+Staroph says in Leuian, "I am extremely old fashioned, but my proper greeting to ANY honorable leuian has been and always will be a bow. I am curious as to if our people have lost this tradition, and if so, what we can do to get this back."
+
+Staroph says in Leuian, "As I've experienced, respect among peers and kyn is everything, and without respect you have nothing, and you have no honor."
+
+Lthe furrows her brow.
+
+Talishia twitches her tail.
+
+Staroph says in Leuian, "We can not hope to improve our group for the better if we have no respect for each other, and most importantly, our selves. Faults need to be fixed within our people before we can think of worrying about how others perceive us."
+
+Staroph says in Leuian, "Just a few words from a daft old man, something to think about for everyone."
+
+Staroph smiles smugly as he moved to resume his previous spot in the circle.
+
+Staroph sits down with a soft thud, relaxing..
+
+Staroph says in Leuian, "Done."
+
+Talishia just removed a pink salmon from within the fish shaped copper platter.
+You see Talishia take a bite of her pink salmon.
+
+The wide-eyed barn owl glares.
+
+Stormy just opened the closed large leather backpack.
+
+Shaleu says in Leuian, "anyone wish to address this"
+
+Tchori raises his hand.
+
+Stormy just removed a pink salmon from within her open large leather backpack.
+
+Shaleu says in Leuian, "Tchori"
+
+Stormy just removed a small leather waterskin from within her shimmering white silk hooded cloak.
+
+Tchori bows.
+
+The wide-eyed barn owl screeches almost silently.
+
+ *** Warning, you have been inactive for 5 minutes.
+l
+ *** You will be disconnected in 10 minute(s) if you do not respond.
+[Protected Cove.]
+
+Beyond the embrace of the forest, a warm golden sand beach has gathered in the backflow of a protected cove. Above, fern fronds, vines, and the exposed roots of the giant conifers dangle over the edge of a short steppe that protects the village from floods.  A walkway created by dual rows of pitch torches lead to a large, communal sand pit. Circling the pit are several large logs evenly spaced for those who come to catch the night's events or simply sit and relax.   Some sandy wooden steps, a cool clear lagoon, a blazing crackling fire pit, a fish shaped copper platter, a finely woven reed placemat, an open linen lined reed bread basket, an open ice filled oak drink chest, a smooth pearlescent glass bowl, a copper handled reed dessert tray, a red and white linen covered picnic table, a long red and yellow steelhead, a thin silver steelhead fish, a long red and yellow steelhead, and an empty warm glass of fresh milk are here.
+
+This area is illuminated.
+You see the 1st wide-eyed barn owl (wearing a small gold collar).
+In the area are Hott the Noble Leuian (seated), Tiruna the Noble Leuian (seated), Stormy the Leuian (seated, a wide-eyed barn owl upon her left shoulder), Kenetic the Leuian (seated), Tchori the Leuian (seated), Shaleu the Leuian (seated), Staroph the Leuian (seated), Talishia the Leuian (seated), Panthroe the Leuian (seated), Dac the Leuian (seated), Kinian the Noble Leuian (seated), and Lthe the Leuian (seated).
+Obvious paths: southeast*.
+>
+Tchori stands up.
+
+Stormy offers something to the wide-eyed barn owl.
+
+The wide-eyed barn owl accepts Stormy's offer.
+
+It consumes a pink salmon.
+
+Stormy offers something to the wide-eyed barn owl.
+
+The wide-eyed barn owl accepts Stormy's offer.
+
+It finishes off a small leather waterskin.
+
+It just dropped a small leather waterskin.
+
+Stormy just picked up an empty small leather waterskin.
+
+Stormy just placed an empty small leather waterskin within her shimmering white silk hooded cloak.
+
+Tchori says in Leuian, "greetings all, ahm Tchori"
+
+Shaleu smiles.
+
+Hott grins.
+
+Stormy smiles.
+
+Tchori says in Leuian, "I would like to agree with part of what our returned brother said, and disagree with the part he didnt say"
+
+Hott listens intently.
+
+Staroph listens intently to Tchori.
+
+Tchori says in Leuian, "it was from leuians in his day that the Pride has become what we are, and the greetings of leuians were changed by one that he might have heard of before him, Paratwa"
+
+The wide-eyed barn owl glares.
+
+The wide-eyed barn owl just left via some sandy wooden steps.
+
+Shaleu's stomach growls.
+
+Tchori says in Leuian, "In days of old.. its said that all bowed and kept to rituals to show respect"
+
+Shaleu just removed some buffalo tartar from within the finely woven reed placemat.
+
+Talishia offers something to Shaleu.
+You see Shaleu take a bite of her buffalo tartar.
+
+Tchori says in Leuian, "showing little emotion"
+You see Shaleu take a bite of her buffalo tartar.
+
+Talishia withdraws her earlier offer.
+
+Shaleu smiles at Talishia.
+
+Talishia smiles at Shaleu.
+
+Tiruna nods to Tchori.
+
+Tchori says in Leuian, "but that was changed, and i think for the better, by Paratwa.. because it reminds us that we are not Kin as lakar call it.. but KYN.. family"
+
+Hott raises his hand.
+
+Tiruna nods up and down.
+
+Tchori says in Leuian, "so we can go past formal responses and hug and greet each other.. because we are family among a sea of lakar"
+
+Dac smiles and nod in agreement.
+
+Shaleu smiles softly.
+
+Talishia smiles at Tchori.
+
+Tchori says in Leuian, "i cant say which is right or wrong.. both are part of what we are and should be up to the individuals"
+
+Kenetic raises his hand.
+
+Tchori says in Leuian, "i just know that the choice should be by each leuian"
+
+Tiruna nods.
+
+Tchori says in Leuian, "done"
+
+Tchori sits down.
+
+Stormy just removed some Leuian mountain grilled lamb from within the finely woven reed placemat.
+
+Lthe smiles.
+
+Shaleu says in Leuian, "Hott"
+You see Stormy take a bite of her Leuian mountain grilled lamb.
+You see Stormy take a bite of her Leuian mountain grilled lamb.
+You see Stormy take a bite of her half-eaten Leuian mountain grilled lamb.
+
+Hott says in Leuian, "defer to ken"
+You see Stormy eat the last of her half-eaten Leuian mountain grilled lamb.
+
+Kenetic smiles.
+
+ *** Warning, you have been inactive for 5 minutes.
+l
+ *** You will be disconnected in 10 minute(s) if you do not respond.
+[Protected Cove.]
+
+Beyond the embrace of the forest, a warm golden sand beach has gathered in the backflow of a protected cove. Above, fern fronds, vines, and the exposed roots of the giant conifers dangle over the edge of a short steppe that protects the village from floods.  A walkway created by dual rows of pitch torches lead to a large, communal sand pit. Circling the pit are several large logs evenly spaced for those who come to catch the night's events or simply sit and relax.   Some sandy wooden steps, a cool clear lagoon, a blazing crackling fire pit, a fish shaped copper platter, a finely woven reed placemat, an open linen lined reed bread basket, an open ice filled oak drink chest, a smooth pearlescent glass bowl, a copper handled reed dessert tray, a red and white linen covered picnic table, a long red and yellow steelhead, a thin silver steelhead fish, a long red and yellow steelhead, and an empty warm glass of fresh milk are here.
+
+This area is illuminated.
+In the area are Hott the Noble Leuian (seated), Tiruna the Noble Leuian (seated), Stormy the Leuian (seated), Kenetic the Leuian (seated), Tchori the Leuian (seated), Shaleu the Leuian (seated), Staroph the Leuian (seated), Talishia the Leuian (seated), Panthroe the Leuian (seated), Dac the Leuian (seated), Kinian the Noble Leuian (seated), and Lthe the Leuian (seated).
+Obvious paths: southeast*.
+>
+Kenetic asks Shaleu in Leuian, "shall i then?"
+
+Shaleu says in Leuian, "yes go ahead"
+
+Shaleu smiles.
+
+Kenetic stands up.
+
+Kenetic says in Leuian, "i think that both staroph and tchori have valid points"
+
+Kenetic says in Leuian, "when one is bowed to one is honor bound to return the show of respect with a bow or curtsy of their own"
+
+Kenetic says in Leuian, "anything less is showing a lack of respect"
+
+Talishia raises an eyebrow.
+
+Talishia raises her hand.
+
+Kenetic says in Leuian, "now, if no formal greeting is offered and a hug or greeting of another sort is rendered then one is not boud so formally"
+
+Staroph smiles at Kenetic.
+
+Kenetic says in Leuian, "if i bow to someone and they merely nod their head, i would take it as a sign of disrespect"
+
+Kenetic says in Leuian, "if they hug me as greeting then i am inclined to hug in return, to show my care for my Kyn"
+
+Kenetic says in Leuian, "lakar nod to eachothe in greeting or we nod to them in greeting, but we do not merely nod to eachother"
+
+Kenetic says in Leuian, "that is my two silver"
+
+Kenetic bows.
+
+Kenetic sits down.
+
+Shaleu smiles.
+
+Shaleu says in Leuian, "Hott"
+
+Kenetic smiles to Tiruna.
+
+Kenetic nuzzles Tiruna.
+
+Hott says in Leuian, "defer to tal"
+
+Shaleu says in Leuian, "Tali"
+
+Talishia blinks at Hott.
+
+Talishia stands up slowly and sigh a moment.
+
+ *** Warning, you have been inactive for 5 minutes.
+l
+ *** You will be disconnected in 10 minute(s) if you do not respond.
+[Protected Cove.]
+
+Beyond the embrace of the forest, a warm golden sand beach has gathered in the backflow of a protected cove. Above, fern fronds, vines, and the exposed roots of the giant conifers dangle over the edge of a short steppe that protects the village from floods.  A walkway created by dual rows of pitch torches lead to a large, communal sand pit. Circling the pit are several large logs evenly spaced for those who come to catch the night's events or simply sit and relax.   Some sandy wooden steps, a cool clear lagoon, a blazing crackling fire pit, a fish shaped copper platter, a finely woven reed placemat, an open linen lined reed bread basket, an open ice filled oak drink chest, a smooth pearlescent glass bowl, a copper handled reed dessert tray, a red and white linen covered picnic table, a long red and yellow steelhead, a thin silver steelhead fish, a long red and yellow steelhead, and an empty warm glass of fresh milk are here.
+
+This area is illuminated.
+In the area are Hott the Noble Leuian (seated), Tiruna the Noble Leuian (seated), Stormy the Leuian (seated), Kenetic the Leuian (seated), Tchori the Leuian (seated), Shaleu the Leuian (seated), Staroph the Leuian (seated), Talishia the Leuian, Panthroe the Leuian (seated), Dac the Leuian (seated), and Lthe the Leuian (seated).
+Obvious paths: southeast*.
+>
+Staroph raises an eyebrow slowly, clearly not amused.
+
+Talishia says, "i nod my head to many kyn.. because to me.. i have never had kyn.. Kenetic has talked to me about this before, respectfully, and i have tried my best to greet kyn in a friendly manner."
+
+Kenetic smiles.
+
+Tiruna smiles at Talishia.
+
+Talishia says, "it is not for lack of respect or to show that one is not equal to me, it is simply.. bowing, and curtsying is painful.. i have many scars. .ones i do not show to many people. if i bow to you, it is a deeper respect because i will endure that pain to"
+
+Talishia says, "greet you in a manner more fitting"
+
+Talishia says, "when meeting new kyn, ones i do not know very well, i am nice, and friendly.. smile, and yes, nod, many times a hug or a laugh. "
+wh to hot It would have been more respectful of Staroph to let the khatyra finish her mention of war than to start this yes?
+You whisper to Hott in Leuian.
+>
+Talishia says, "to be called a tarr, or city khat because i choose to make a diffrent greeting then is normal... does not earn my respect. and continued will earn me simply ignoring someone"
+
+Talishia furrows her brow as she looks around.
+
+Hott whispers in Leuian, "yes but he from old times"
+nod to hot
+You nod to Hott.
+>
+Lthe smiles.
+
+Talishia says, "i do not wish to ignore kyn, and if my simply nodding offends, approach me respectfully about it.. and i will take steps to repair any damage i have done. As kenetic did.. "
+
+Talishia bows slightly, closing her eyes.
+
+Talishia says, "done"
+
+Talishia sits down.
+
+Shaleu says in Leuian, "Hott"
+stand 
+bow respectfully to all... 
+You bow respectfully to all... .
+You stand up.
+>
+Hott stands up.
+' forgive my khyn, i have duties that call
+
+Muther says in Leuian, " forgive my khyn, i have duties that call"
+>
+ ** You are fully rested.
+bow to sar deeply, with great respect.
+I don't see what you are referring to.
+bow to star deeply, with great respect.
+>You bow to Staroph deeply, with great respect.
+>
+Tchori's head suddenly begins glowing. He touches Muther briefly. The glow travels down an arm to his hand. The glow quickly spreads over Muther's entire body, then fades away.
+
+se
+
+Your mind begins to fill with the sounds of tiny voices!
+
+Tiruna smiles at you.
+
+Hott hugs Talishia.
+[Forest Fringe.]
+
+Few tall trees can root in the sandy soil so near the river bank.  Scraggly waterberry bushes tenaciously hold to the shifting loam between the smoothed river boulders riddled with cracked quartz and feldspar.  An obscured path leads into the darker fringes of the forest and up the steppe to the village.
+
+This area is illuminated.
+Obvious paths: southeast* northwest*.
+cont tc be well friend
+>Done.
+duck quickly out of sight ...
+quit
+>You duck quickly out of sight ...
+>
+    Dragon's Gate Menu
+
+ 1. Explore Dragon's Gate.
+ 2. Create, Delete, or View a character.
+ 3. Select current character.
+ 4. Display notices and version notes.
+16. Disconnect.
+
+Your active character is: Muther Gunn
+
+Your selection? 
+16
+
+ ** Goodbye from Mythic Entertainment! **

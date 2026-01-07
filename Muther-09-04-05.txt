@@ -1,0 +1,2399 @@
+l
+[Village.]
+
+The chipped bark path widens to encompass a broad square between the peaked roofs of the village homes, the larger storefronts, and several communal buildings that all surround a magnificent fountain crafted from local sandstone. The multi-tiered fountain flows with pure, clean springwater and provides seating around its broad base.  The towering trees surround the village, enclosing the square in a living frame.  To the west is a sturdy building with its door perpetually ajar. A line of Leuian children trots off towards the north, bearing their lessons. The faint ding of nautical bells flows in on the breeze from the northwest.   A flowing gold-flecked sandstone fountain and a fine Leuian porcelain plate are here.
+
+This area is illuminated.
+In the area are Timble the Noble Leuian (seated), Tazzie the Novice Leuian, Hott the Noble Leuian, Kandil the Leuian (seated), Tiruna the Noble Leuian, Tchori the Leuian, and Mel the Leuian (seated).
+Obvious paths: north* northeast* east* southeast* south* southwest* west*.
+>
+Tazzie beams at Hott.
+
+Tazzie accepts Hott's offer.
+
+Timble glances away for a moment.
+l at tim
+
+Timble looks like a 6'5" standard adolescent average boned, wiry-tough bodied Leuian.
+He is seated.
+He has collar length, braided, medium white fur, with amber eyes, and looks orderly.
+He appears to be preoccupied right now.
+He bears the mark of Odarous.
+He can be attacked by other players.
+He appears to be in perfect health.
+
+Physical appearance:
+
+.
+
+                        Visible Equipment
+Some light eagle branded leather mail              (armor)
+Some spectacles                                    (on head)
+A glowing holy mark of Odarous                     (around neck)
+A hooded white broadcloth healer's cloak           (over armor)
+Some beige cotton trousers                         (pants)
+A beige cotton tunic                               (shirt)
+
+He has been bestowed the following title(s):
+  Noble of the Realm
+
+l at taz
+>
+Tchori just dropped a fine Leuian porcelain plate.
+
+Tazzie looks like a 6'6" standard young average boned, very muscular bodied Leuian.
+She has collar length, straight, coarse white fur, with pale green eyes, and looks neat.
+She appears to be mischievous right now.
+She bears the mark of Elindale.
+She can be attacked by other players.
+She appears to be in perfect health.
+                        Visible Equipment
+A heavy golden lionskin pelt                       (armor)
+A finely detailed steelwood owl totem              (around neck)
+Some leather sandals                               (on feet)
+A spidersilk skirt                                 (pants)
+A silk tunic                                       (shirt)
+>
+Tazzie nuzzles Hott.
+l at hot
+
+Hott looks like a 5'1" standard mature light boned, wiry-tough bodied Leuian.
+He has long, neatly kept, wispy sable fur, with hazel eyes, and looks casual.
+He appears to be unconcerned right now.
+He bears the mark of Unknown.
+He can be attacked by other players.
+He appears to be in perfect health.
+There is a shining gold emblem affixed to his clothing.
+
+Physical appearance:
+
+loving Khat'sara of whiteleopard
+
+                        Visible Equipment
+A spiral engraved steelwood roundshield            (shield)
+A coral encrusted twisted moonsilver torc          (around neck)
+A pair of moonsilver laced coral trimmed sandals   (on feet)
+A coral ring of Unknown                            (ring (right))
+A Leuian Pride ring                                (ring (right))
+A coral embedded moonsilver tiger signet ring      (ring (right))
+A small gold ring                                  (ring (left))
+A coral stitched silk vestment                     (dress)
+A tiger embroidered deep grey sash                 (on belt)
+Some smooth tiger's eye prayer beads               (on belt)
+A smokey grey silk tiger emblazoned sash           (on belt)
+
+He has been bestowed the following title(s):
+  Noble of the Realm
+
+l
+>[Village.]
+
+The chipped bark path widens to encompass a broad square between the peaked roofs of the village homes, the larger storefronts, and several communal buildings that all surround a magnificent fountain crafted from local sandstone. The multi-tiered fountain flows with pure, clean springwater and provides seating around its broad base.  The towering trees surround the village, enclosing the square in a living frame.  To the west is a sturdy building with its door perpetually ajar. A line of Leuian children trots off towards the north, bearing their lessons. The faint ding of nautical bells flows in on the breeze from the northwest.   A flowing gold-flecked sandstone fountain, a fine Leuian porcelain plate, and a fine Leuian porcelain plate are here.
+
+This area is illuminated.
+In the area are Timble the Noble Leuian (seated), Tazzie the Novice Leuian, Hott the Noble Leuian, Kandil the Leuian (seated), Tiruna the Noble Leuian, Tchori the Leuian, and Mel the Leuian (seated).
+Obvious paths: north* northeast* east* southeast* south* southwest* west*.
+l at kan
+>
+Kandil looks like a 5'7" standard mature light boned, slender bodied Leuian.
+She is seated.
+She has shoulder length, wavy, baby fine purple fur, with pale green eyes, and looks neat.
+She appears to be happy right now.
+She bears the mark of Odarous.
+She can be attacked by other players.
+She appears to be in perfect health.
+                        Visible Equipment
+A heavy polished steelwood mail                    (armor)
+Some slightly dented steel pots and pans           (hands)
+A ruby and diamond butterfly broach                (around neck)
+Some high-heeled white suede knee-high boots       (on feet)
+Some coat of arms embroidered moonsilk Odarian rob (over armor)
+A Leuian Pride ring                                (ring (left))
+A red spidersilk skirt                             (pants)
+A white spidersilk bodice                          (shirt)
+An open ribbon tied satin clerical bag             (on belt)
+
+She has been bestowed the following title(s):
+  Noble of the Realm
+
+l at tir
+>
+Tiruna looks like a 6'0" standard adolescent light boned, wiry-tough bodied Leuian.
+She has long, wild, medium honey brown fur with fiery highlights, almond shaped golden eyes, and looks razor-sharp.
+She appears to be happy right now.
+She bears the mark of Rinanni.
+She can be attacked by other players.
+She appears to be in perfect health.
+There is a shining gold emblem affixed to her clothing.
+
+Physical appearance:
+
+ 
+
+                        Visible Equipment
+Some heavy leather Tzeacal hunting robes           (armor)
+A circlet of delicate moonsilver vines and opal fl (on head)
+Some polished red leather thigh-high boots         (on feet)
+A flowing black spidersilk fighter's cape          (over armor)
+A diamond bezel cut cluster ring                   (ring (right))
+A Leuian Pride ring                                (ring (right))
+A stunning white diamond band of doves             (ring (right))
+A star sapphire inlaid khat'sara band              (ring (left))
+A brilliant diamond cluster earring                (right ear)
+A brilliant diamond cluster earring                (left ear)
+A revealing red leather fighter's tunic            (shirt)
+
+She has been bestowed the following title(s):
+  Noble of the Realm
+
+l at tc
+>
+Tchori looks like a 7'6" standard adolescent light boned, muscular bodied Leuian.
+He has very long, wild, wispy golden blonde fur with a neatly trimmed beard, triangular golden eyes, and looks neat.
+He appears to be tired right now.
+He can be attacked by other players.
+
+On his forehead is a tattoo of a Darkstar.
+
+On his right arm is a tattoo which reads "Klayea" written in Leuian, surrounded by the symbol of eternity.
+
+On his left arm a tattoo of an island floating in a sea of stars, with the words "Leuia" written above it.
+
+He appears to be in perfect health.
+There is a shining gold emblem affixed to his clothing.
+
+Physical appearance:
+
+Scars from battles and Tattoos cover this leuian
+
+                        Visible Equipment
+A heavy golden lionskin pelt                       (armor)
+A sabertooth tiger skull                           (on head)
+Some handmade gryphon sandals                      (on feet)
+A Leuian style sabertooth tiger cape               (over armor)
+A bronze Spurian Gladiator Ring                    (ring (right))
+A leopard skin loin cloth                          (pants)
+
+He has been bestowed the following title(s):
+  Noble of the Realm
+
+Additional titles earned:
+  Merchant
+
+l at mel
+>
+Mel looks like a 7'0" standard mature delicate boned, average bodied Leuian.
+He is seated.
+He has long, neatly kept, kinky white fur, with golden eyes, and looks messy.
+He appears to be neutral right now.
+He bears the mark of Odarous.
+He can be attacked by other players.
+He appears to be in perfect health.
+
+Physical appearance:
+
+By the calm look in his good eye one can tell he has found a balance in this world
+
+                        Visible Equipment
+Some heavy eagle branded leather mail              (armor)
+A bone shield                                      (shield)
+A sacred eagle feather helm                        (on head)
+An eagle shaped gold torc                          (around neck)
+An eagle emblazoned broadcloth tabard              (over armor)
+Some midnight blue spidersilk pants                (pants)
+An eagle crested silk tunic                        (shirt)
+A golden eagle feather                             (on belt)
+
+He has been bestowed the following title(s):
+  Noble of the Realm
+
+>
+Tiruna says in Leuian, "theres and ORANGE roasted duckling in that plate , Mel"
+
+Tiruna nuzzles Tazzie.
+
+Mel says to Tiruna in Leuian, "How about I slap  you with the orange burnt duck"
+
+Tchori grins.
+
+Tiruna pounces on Mel and bounces off with little effect.
+
+Hott grins.
+
+Tiruna stands up.
+
+Tazzie nuzzles Tiruna.
+
+Tiruna pounces on Mel and bounces off with little effect.
+
+Tiruna stands up.
+
+Tiruna tackles Mel.
+
+Mel grunts.
+
+Tiruna tickles Mel.
+
+Tiruna tickles Mel.
+
+Tiruna tickles Mel.
+
+Tiruna tickles Mel.
+
+Mel mutters something beneath his breath.
+
+Tchori asks in Leuian, "its nice to be back and see kyn.. i hope all o ya been well?"
+
+Tiruna exclaims in Leuian, "how bout I do that!"
+
+Mel sits up.
+nod yes to tc , dreadlocks swinging gently
+
+Kandil just removed a slimy grub from within her open leather trimmed canvas rucksack.
+You nod up and down to Tchori, dreadlocks swinging gently.
+>
+Tiruna sits up.
+
+Tchori grins.
+
+Kandil offers something to Mel.
+
+Tchori smiles at you.
+
+Tiruna grins.
+gri
+You grin.
+>
+Mel beams at Kandil.
+
+Hott says in Leuian, "any way I can is kick him"
+
+Mel accepts Kandil's offer.
+
+Tiruna says in Leuian, "well you can't do that anymore"
+
+Kandil smiles to Mel.
+
+Tiruna nuzzles Hott.
+You see Mel take a bite of his slimy grub.
+
+Hott blushes.
+
+Tazzie shudders.
+
+Kandil says to Mel in Leuian, "was planning on learning fishing but you looked hungry"
+l in he
+
+Tiruna glances away from Mel.
+Inside the open leather healer's bag you see a half-eaten twisted chocolate cruller.
+get cho from  he
+>
+Hott says in Leuian, "least I can run faster"
+I don't see any "cho" in there!
+>
+Mel says to Kandil in Leuian, "Is a nice fat one too"
+get cru from he
+You remove the half-eaten twisted chocolate cruller from your open leather healer's bag.
+>You see Mel take a bite of his slimy grub.
+
+Tiruna chants Mel eat's fish bait.
+put cru in pla
+You place the half-eaten twisted chocolate cruller within a fine Leuian porcelain plate.
+>
+Tiruna chants Mel eats fish bait.
+
+Tiruna sticks her tongue out at Mel.
+
+Kandil giggles.
+gri to tir
+You grin to Tiruna.
+wrin whiskers in amusement
+>You wrinkle your nose whiskers in amusement.
+>
+Mel throws a slimy grub at Tiruna.  It bounces off with little obvious effect.
+
+Mel just picked up a slimy grub.
+inv
+Items carried:
+  An oak ring of Elindale [0.1 lbs].
+  An open large leather backpack [54.2 lbs].
+  A long pitch black bone nose piercing [0.5 lbs].
+  An open leather healer's bag [0.1 lbs].
+  A Leuian Pride ring [0.0 lbs].
+  Some heavy blood red lacquered bone scale mail [11.0 lbs].
+  An oak-handled iron spiked aclys [2.2 lbs].
+  A cold cherry tart [0.1 lbs].
+  A leafy branch [0.0 lbs].
+  Some colorful bamboo panpipes [0.1 lbs].
+  An open raccoonskin pack [0.2 lbs].
+  An ancient gleaming carbide shield [5.6 lbs].
+  A pair of pitch black bearskin pants [0.1 lbs].
+  A long blood-stained render skin cape [0.3 lbs].
+
+Your inventory totals 74.5 lbs.
+>You see Mel take a bite of his slimy grub.
+
+Tiruna says in Leuian, "ooo grub cooties"
+You see Mel take a bite of his half-eaten slice of raw sidewinder.
+eat t ar
+I don't see what you are referring to.
+>
+Kandil laughs.
+l at tar
+
+Tazzie says in Leuian, "yep there is the smake"
+It looks like a cold cherry tart.
+eat t art
+>I don't see what you are referring to.
+>
+Tiruna says in Leuian, "so tell me Mel"
+eat tart
+You take a bite of your cold cherry tart.
+Hmmm... not bad!
+>
+Tiruna asks in Leuian, "how does raw snake taste?"
+fli ,quickly licking his whiskers into order
+You stick your tongue out,quickly licking his whiskers into order.
+>
+Hott says in Leuian, "ye know all ye blood preassure out  of sight"
+
+Kandil asks Timble in Leuian, "been awhile i hope all is well?"
+
+Mel says to Tiruna in Leuian, "Like Raw snake"
+gri to ho
+You grin to Hott.
+l in pl
+>Inside the fine Leuian porcelain plate you see a half-eaten twisted chocolate cruller, a fine linen napkin, some fresh endive mushroom salad, a battered and fried snake fillet, some crisp garlic bread, and a slice of chocolate drizzled cheesecake.
+>
+Mel asks Tiruna in Leuian, "You thought it would taste like something else?"
+
+Mel raises an eyebrow at Tiruna.
+inv
+Items carried:
+  An oak ring of Elindale [0.1 lbs].
+  An open large leather backpack [54.2 lbs].
+  A long pitch black bone nose piercing [0.5 lbs].
+  An open leather healer's bag [0.1 lbs].
+  A Leuian Pride ring [0.0 lbs].
+  Some heavy blood red lacquered bone scale mail [11.0 lbs].
+  An oak-handled iron spiked aclys [2.2 lbs].
+  A cold cherry tart [0.1 lbs].
+  A leafy branch [0.0 lbs].
+  Some colorful bamboo panpipes [0.1 lbs].
+  An open raccoonskin pack [0.2 lbs].
+  An ancient gleaming carbide shield [5.6 lbs].
+  A pair of pitch black bearskin pants [0.1 lbs].
+  A long blood-stained render skin cape [0.3 lbs].
+
+Your inventory totals 74.5 lbs.
+>
+Tiruna says in Leuian, "never ate a tarr before, so I wouldn't know"
+
+Tazzie says in Leuian, "chicken"
+
+Tiruna smirks.
+
+Lthe just entered from the east.
+l in bac
+Inside the open large leather backpack you see an open raccoonskin pack, a damaged iron morningstar, a light forest green steelwood brigandine, some heavy blood red lacquered bone scale mail, a heavy studded leather mail, some light greying studded leather armor, an iron morningstar, a flowing pitch black satin noble's cloak, a wood club, a cold cherry tart, a half-eaten fresh baked apple pie, and a white wax candle.
+>
+Tiruna howls.
+smi to lt
+
+Kandil smiles to Lthe.
+You smile to Lthe.
+>
+Lthe smiles.
+
+Mel shakes his head from side to side slowly.
+
+Tiruna hugs Lthe.
+
+Lthe bows to Tchori.
+
+Lthe hugs Tiruna.
+
+Mel says to Tiruna in Leuian, "Bad joke "
+
+Lthe says to Tchori in Leuian, "good to see you back"
+
+Lthe smiles at Timble.
+
+Tiruna says in Leuian, "what can I say"
+gri to taz
+You grin to Tazzie.
+>
+Lthe smiles at Kandil.
+
+Tiruna says in Leuian, "I'm outta practice"
+
+Lthe sits down.
+
+Hott hugs Lthe.
+
+Lthe smiles at Hott.
+
+Mel says to Tiruna in Leuian, "No your jokes always been bad"
+inv
+Items carried:
+  An oak ring of Elindale [0.1 lbs].
+  An open large leather backpack [54.2 lbs].
+  A long pitch black bone nose piercing [0.5 lbs].
+  An open leather healer's bag [0.1 lbs].
+  A Leuian Pride ring [0.0 lbs].
+  Some heavy blood red lacquered bone scale mail [11.0 lbs].
+  An oak-handled iron spiked aclys [2.2 lbs].
+  A cold cherry tart [0.1 lbs].
+  A leafy branch [0.0 lbs].
+  Some colorful bamboo panpipes [0.1 lbs].
+  An open raccoonskin pack [0.2 lbs].
+  An ancient gleaming carbide shield [5.6 lbs].
+  A pair of pitch black bearskin pants [0.1 lbs].
+  A long blood-stained render skin cape [0.3 lbs].
+
+Your inventory totals 74.5 lbs.
+>
+Tiruna says in Leuian, "oh that was low"
+
+Tazzie bows to Lthe.
+
+Tiruna pokes Mel.
+
+Tiruna says in Leuian, "funny, but low"
+
+Timble swishes his tail at Lthe.
+
+Mel says to Tiruna in Leuian, "At least i didnt say your jokes are as bad as your sense of direction"
+
+Tchori grins.
+
+Tchori bows to Lthe.
+
+Tiruna says in Leuian, "nothing is as bad as that"
+
+Kandil grins.
+
+Tchori grins.
+
+Hott says in Leuian, "I am gonna empty my cle"
+
+Lthe nods to Tchori.
+
+Tchori says in Leuian, "got a nice group o kyn tonight.. gods ive missed this"
+
+Hott says in Leuian, "if ye want take it"
+
+Timble gazes at the open leather bound book of history.
+
+Tiruna nods to Tchori.
+gri
+You grin.
+>
+Hott's stomach growls.
+
+Kandil smiles happily.
+
+Hott just removed a small cup of green tea from within his open tiger embroidered grey hemp cleric's satchel.
+
+Tiruna says to Hott in Leuian, "you better eat something, or we won't be able to hear anything over that growling tummy of yours"
+
+Hott just dropped a small cup of green tea.
+
+Lthe shakes her head from side to side to Tchori.
+
+Tchori grins.
+
+Tchori hugs Kandil.
+grow like Hott's stomach
+You growl like Hott's stomach.
+>
+Kandil nuzzles Tchori.
+
+Tchori winks.
+
+Tiruna says in Leuian, "hear that"
+
+Tiruna says in Leuian, "it's LOUD"
+
+Tchori says in Leuian, "told ya sister.. have a bit o faith"
+
+Tchori grins at Kandil.
+
+Tiruna nuzzles Kandil.
+
+Kandil smiles happily.
+
+Kandil nuzzles Tiruna.
+
+Hott just removed a steaming mug of mushroom brew from within his open tiger embroidered grey hemp cleric's satchel.
+
+Timble swishes his tail slowly back and forth.
+
+Tiruna says in Leuian, "soo"
+
+Hott just dropped a steaming mug of mushroom brew.
+
+Kandil asks in Leuian, "did i hear loud?"
+
+Tiruna asks in Leuian, "did you all miss me?"
+
+Tiruna grins.
+
+Kandil taps the slightly dented steel pots and pans.
+
+Tchori says in Leuian, "eh"
+
+Tiruna asks in Leuian, "and Tchori?"
+
+Mel says in Leuian, "nope"
+chu
+You chuckle.
+>
+Tchori grins.
+
+Kandil smiles happily.
+
+Timble asks Tiruna in Leuian, "You were gone?"
+
+Tchori laughs.
+
+Timble teases Tiruna.
+
+Tchori grins at Timble.
+l
+[Village.]
+
+The chipped bark path widens to encompass a broad square between the peaked roofs of the village homes, the larger storefronts, and several communal buildings that all surround a magnificent fountain crafted from local sandstone. The multi-tiered fountain flows with pure, clean springwater and provides seating around its broad base.  The towering trees surround the village, enclosing the square in a living frame.  To the west is a sturdy building with its door perpetually ajar. A line of Leuian children trots off towards the north, bearing their lessons. The faint ding of nautical bells flows in on the breeze from the northwest.   A flowing gold-flecked sandstone fountain, a fine Leuian porcelain plate, a fine Leuian porcelain plate, a small cup of green tea, and a steaming mug of mushroom brew are here.
+
+This area is illuminated.
+In the area are Timble the Noble Leuian (seated), Tazzie the Novice Leuian, Hott the Noble Leuian, Kandil the Leuian (seated), Tiruna the Noble Leuian (seated), Tchori the Leuian, Mel the Leuian (seated), and Lthe the Leuian (seated).
+Obvious paths: north* northeast* east* southeast* south* southwest* west*.
+who range race
+>List will be restricted to those within range.
+Race who list activated!
+
+                Current Leuian Adventurers:
+
+Current Adventurers
+
+ Timble Darkstar                     Tazzie Wildcat                     
+ Hott Breeze                         Kandil Dragins                     
+ Muther Gunn                         Tiruna Shooge                      
+ Tchori Darkstar                     Mel Greyhand                       
+ Lthe Wain                          
+
+You notice 9 adventurers.
+>
+Tiruna exclaims in Leuian, "heck Mel and Timble, you gone more than us when we plan to be gone!"
+
+Tiruna tickles Mel.
+
+Hott just removed a chilled mug of flower essence from within his open tiger embroidered grey hemp cleric's satchel.
+
+Timble murmurs something beneath his breath.
+
+Tiruna tickles Timble.
+
+Hott just dropped a chilled mug of flower essence.
+
+Tiruna says in Leuian, "and we miss you when your gone too"
+l in 2 pla
+Inside the fine Leuian porcelain plate you see a ripe orange mango, a fine linen napkin, an orange roasted duckling breast, a spicy deep fried catfish, and a seasoned wild rice.
+>
+Lthe smiles.
+
+Hott just removed a small cup of blue fizz from within his open tiger embroidered grey hemp cleric's satchel.
+
+Tiruna glances around happily.
+
+Hott just dropped a small cup of blue fizz.
+
+Mel says to Tiruna in Leuian, "I told you all long ago I would be away much "
+
+Mel squints at Tiruna.
+
+Tiruna says in Leuian, "uh Kandil"
+
+Tiruna says in Leuian, "I know, I just got to let you know your missed"
+l at fiz
+I don't see what you are referring to.
+>
+Kandil listens intently to Tiruna.
+l at cup
+I don't see what you are referring to.
+l at blu
+>It looks like a small cup of blue fizz.
+>
+Tiruna asks in Leuian, "aren't we gonna move to another spot?"
+
+Tiruna glances down at all the stuff on the ground.
+sniff at blu
+You sniff at the small cup of blue fizz.
+l
+>[Village.]
+
+The chipped bark path widens to encompass a broad square between the peaked roofs of the village homes, the larger storefronts, and several communal buildings that all surround a magnificent fountain crafted from local sandstone. The multi-tiered fountain flows with pure, clean springwater and provides seating around its broad base.  The towering trees surround the village, enclosing the square in a living frame.  To the west is a sturdy building with its door perpetually ajar. A line of Leuian children trots off towards the north, bearing their lessons. The faint ding of nautical bells flows in on the breeze from the northwest.   A flowing gold-flecked sandstone fountain, a fine Leuian porcelain plate, a fine Leuian porcelain plate, a small cup of green tea, a steaming mug of mushroom brew, a chilled mug of flower essence, and a small cup of blue fizz are here.
+
+This area is illuminated.
+In the area are Timble the Noble Leuian (seated), Tazzie the Novice Leuian, Hott the Noble Leuian, Kandil the Leuian (seated), Tiruna the Noble Leuian (seated), Tchori the Leuian, Mel the Leuian (seated), and Lthe the Leuian (seated).
+Obvious paths: north* northeast* east* southeast* south* southwest* west*.
+>
+Kandil says to Tiruna in Leuian, "yes waiting a few more minutes for directionally challenged kyn"
+
+Hott says in Leuian, "all good stuff"
+
+Timble gazes at the open leather bound book of history.
+
+Tiruna says in Leuian, "then don't leave it here, Hott"
+
+Mel says to Tiruna in Leuian, "Why this is a good spot"
+
+Tiruna nuzzles Hott.
+
+Tiruna says in Leuian, "not where we will be building our Hall, and not where it was announced we would gather"
+
+Hott just picked up a steaming mug of mushroom brew.
+
+Hott just picked up a chilled mug of flower essence.
+
+Tiruna says in Leuian, "you know how our kyn are about changes"
+'hot, looks like you got KP
+
+Muther says to Hott in Leuian, "looks like you got KP"
+>
+Hott just picked up a small cup of blue fizz.
+
+Tiruna grins at you.
+gri
+You grin.
+>
+Hott just picked up a small cup of green tea.
+
+Tiruna smirks slightly.
+
+Mel says to Tiruna in Leuian, "Bah you just wanta see if i can get off my fat old arse is all"
+
+Tiruna says in Leuian, "uh yep"
+
+Kandil laughs.
+wrin whiskers in amusement
+You wrinkle your nose whiskers in amusement.
+>
+Hott grins.
+
+Kandil says in Leuian, "elder abuse "
+
+Kandil comforts Mel.
+inv
+Items carried:
+  An oak ring of Elindale [0.1 lbs].
+  An open large leather backpack [54.2 lbs].
+  A long pitch black bone nose piercing [0.5 lbs].
+  An open leather healer's bag [0.1 lbs].
+  A Leuian Pride ring [0.0 lbs].
+  Some heavy blood red lacquered bone scale mail [11.0 lbs].
+  An oak-handled iron spiked aclys [2.2 lbs].
+  A cold cherry tart [0.1 lbs].
+  A leafy branch [0.0 lbs].
+  Some colorful bamboo panpipes [0.1 lbs].
+  An open raccoonskin pack [0.2 lbs].
+  An ancient gleaming carbide shield [5.6 lbs].
+  A pair of pitch black bearskin pants [0.1 lbs].
+  A long blood-stained render skin cape [0.3 lbs].
+
+Your inventory totals 74.5 lbs.
+>
+Mel says to Kandil in Leuian, "Always "
+
+Mel sniffles.
+
+Tiruna says in Leuian, "think we should install a few rocking chairs in the new hall"
+
+Tiruna grins.
+
+Kandil nods knowingly.
+chu
+You chuckle.
+l in bac
+>Inside the open large leather backpack you see an open raccoonskin pack, a damaged iron morningstar, a light forest green steelwood brigandine, some heavy blood red lacquered bone scale mail, a heavy studded leather mail, some light greying studded leather armor, an iron morningstar, a flowing pitch black satin noble's cloak, a wood club, a cold cherry tart, a half-eaten fresh baked apple pie, and a white wax candle.
+>
+Tiruna says in Leuian, "for us "
+who range race
+List will be restricted to those within range.
+Race who list activated!
+
+                Current Leuian Adventurers:
+
+Current Adventurers
+
+ Timble Darkstar                     Tazzie Wildcat                     
+ Hott Breeze                         Kandil Dragins                     
+ Muther Gunn                         Tiruna Shooge                      
+ Tchori Darkstar                     Mel Greyhand                       
+ Lthe Wain                          
+
+You notice 9 adventurers.
+>
+Kandil says in Leuian, "well i guess we can move if yah all ready to start"
+
+Tiruna says in Leuian, "one should have a glowhead on top"
+
+Tiruna says in Leuian, "another a slimy grub"
+gri
+You grin.
+>
+Kandil grins to Tiruna.
+nod to ka
+
+Hott says in Leuian, "wonder if tchori can uderstand hindu ergot"
+You nod to Kandil.
+>
+Mel stands up.
+l
+[Village.]
+
+The chipped bark path widens to encompass a broad square between the peaked roofs of the village homes, the larger storefronts, and several communal buildings that all surround a magnificent fountain crafted from local sandstone. The multi-tiered fountain flows with pure, clean springwater and provides seating around its broad base.  The towering trees surround the village, enclosing the square in a living frame.  To the west is a sturdy building with its door perpetually ajar. A line of Leuian children trots off towards the north, bearing their lessons. The faint ding of nautical bells flows in on the breeze from the northwest.   A flowing gold-flecked sandstone fountain, a fine Leuian porcelain plate, and a fine Leuian porcelain plate are here.
+
+This area is illuminated.
+In the area are Timble the Noble Leuian (seated), Tazzie the Novice Leuian, Hott the Noble Leuian, Kandil the Leuian (seated), Tiruna the Noble Leuian (seated), Tchori the Leuian, Mel the Leuian, and Lthe the Leuian (seated).
+Obvious paths: north* northeast* east* southeast* south* southwest* west*.
+>
+Hott says in Leuian, "now"
+stand silently
+
+Kandil stands up.
+You stand up silently.
+>
+Tiruna stands up.
+
+Lthe stands up.
+
+Tiruna tickles Timble.
+
+Tiruna says in Leuian, "yer not old yet"
+
+Timble glances at Tiruna.
+
+Timble murmurs something beneath his breath.
+
+Timble just closed the open leather bound book of history.
+
+Timble stands up.
+
+Tiruna says in Leuian, "spring to yer feet"
+
+Tiruna is now following Kandil.
+chu
+You chuckle.
+>
+Mel is now following Kandil.
+
+ ** You are fully rested.
+
+Lthe is now following Kandil.
+get pl
+You pick up a fine Leuian porcelain plate.
+get pl
+>You pick up a fine Leuian porcelain plate.
+foll ka
+>You follow Kandil.
+l
+>[Village.]
+
+The chipped bark path widens to encompass a broad square between the peaked roofs of the village homes, the larger storefronts, and several communal buildings that all surround a magnificent fountain crafted from local sandstone. The multi-tiered fountain flows with pure, clean springwater and provides seating around its broad base.  The towering trees surround the village, enclosing the square in a living frame.  To the west is a sturdy building with its door perpetually ajar. A line of Leuian children trots off towards the north, bearing their lessons. The faint ding of nautical bells flows in on the breeze from the northwest.   A flowing gold-flecked sandstone fountain is here.
+
+This area is illuminated.
+In the area are Timble the Noble Leuian, Tazzie the Novice Leuian, Hott the Noble Leuian, Kandil the Leuian, Tiruna the Noble Leuian, Tchori the Leuian, Mel the Leuian, and Lthe the Leuian.
+Obvious paths: north* northeast* east* southeast* south* southwest* west*.
+show group
+>
+Hott is now following Tchori.
+Kandil is in your group.
+Tiruna is in your group.
+Mel is in your group.
+Lthe is in your group.
+Your group has 5 people!
+>
+Tazzie is now following Kandil.
+
+Kandil asks in Leuian, "we ready?"
+
+Tiruna says in Leuian, "tchori"
+
+Tiruna pokes Tchori.
+
+Tiruna asks in Leuian, "dozing off a kyn ?"
+
+Kandil says in Leuian, "he knows the way"
+
+Tiruna says in Leuian, "again, kyn"
+
+Kandil laughs.
+chu
+You chuckle.
+l
+>[Village.]
+
+The chipped bark path widens to encompass a broad square between the peaked roofs of the village homes, the larger storefronts, and several communal buildings that all surround a magnificent fountain crafted from local sandstone. The multi-tiered fountain flows with pure, clean springwater and provides seating around its broad base.  The towering trees surround the village, enclosing the square in a living frame.  To the west is a sturdy building with its door perpetually ajar. A line of Leuian children trots off towards the north, bearing their lessons. The faint ding of nautical bells flows in on the breeze from the northwest.   A flowing gold-flecked sandstone fountain is here.
+
+This area is illuminated.
+In the area are Timble the Noble Leuian, Tazzie the Novice Leuian, Hott the Noble Leuian, Kandil the Leuian, Tiruna the Noble Leuian, Tchori the Leuian, Mel the Leuian, and Lthe the Leuian.
+Obvious paths: north* northeast* east* southeast* south* southwest* west*.
+>
+You follow Kandil north...
+
+[Village.]
+
+An immense, smoothed river boulder deposited by the river, eons ago, is imbedded in the soft loam of the forest floor and blocks the view of the river to the north. A few giant trees have grown bent around its rounded shape and an innovative homeowner has taken advantage of the resulting shelter. Built carefully among the trees in the lee of the rock, stands a magnificent example of the same peaked wooden beam homes that dot the entire forest. One fledgling tree pokes its head through a well-planned hole in the roof.  A pair of closed magnificent carved steelwood doors, a slippery downhill path, and a stack of rocks are here.
+
+This area is illuminated.
+In the area are Tazzie the Novice Leuian, Kandil the Leuian, Tiruna the Noble Leuian, Mel the Leuian, and Lthe the Leuian.
+Obvious paths: east* southeast* south* southwest* west* northwest*.
+
+You follow Kandil southeast...
+
+[Village.]
+
+Amidst the towering trees and verdant mid level bushes, several smaller cabins blend into the surrounding park. The peaked roofs of the cabins bear the familiar carving as seen on most of the village homes and their small porches sport plantings of flowering wild roses and perky daisies accented with the fronds of leather ferns and shelf fungus.  A closed chiseled petrified redwood door, a closed arched slate grey granite boulder door, a closed salt stained cargo hatch, a closed vine etched glass door, and a decaying pile of planks are here.
+
+This area is illuminated.
+In the area are Tazzie the Novice Leuian, Kandil the Leuian, Tiruna the Noble Leuian, Mel the Leuian, and Lthe the Leuian.
+Obvious paths: east* southeast* south* northwest*.
+
+You follow Kandil east...
+
+[Commodore Island Park.]
+
+A grove of young, green-needled pine trees surrounds a small meadow of vibrantly flowering rhododendrons. Hues of bright pink, red, and white create a stunning contrast against the darker grey bark of the pines. Brighter green hemlock trees spread to catch the sunlight, which, in turn, shelter smaller stands of delicious salmonberry bushes, airy leather ferns, and poignantly fragranced sorrels that thrive on the compost of the forest floor. Soft haircap moss covers the river stone-lined path, dew from the mist collecting on it like pollen on bees. The distant wash of rushing water quietly filters through the peaceful air that hangs heavily saturated with moisture.  A stack of rocks is here.
+pride meetplace
+
+This area is illuminated.
+In the area are Tazzie the Novice Leuian, Kandil the Leuian, Tiruna the Noble Leuian, Mel the Leuian, and Lthe the Leuian.
+Obvious paths: southeast* south* west*.
+
+Tiruna says in Leuian, "see can't even get my words out"
+
+Kandil sits down.
+
+Tiruna sits down.
+
+Lthe sits down.
+sit swiftly, with a flick of his grizzled old white-furred tail...
+
+Kandil says in Leuian, "wow im tired now"
+You sit down swiftly, with a flick of his grizzled old white-furred tail....
+>
+Lthe has left Kandil's group.
+diag all
+
+  You examine Tazzie the Leuian...
+She appears to be in perfect health.
+  You examine Kandil the Leuian...
+She appears to be in perfect health.
+  You examine Tiruna the Leuian...
+She appears to be in perfect health.
+  You examine Mel the Leuian...
+He appears to be in perfect health.
+  You examine Lthe the Leuian...
+She appears to be in perfect health.
+
+>
+Kandil disbands her group.
+chu to ka
+You chuckle to Kandil.
+>
+Tazzie sits down next to tiruna.
+
+Tiruna pulls Tazzie closer to her.
+leav
+You are not in a group.
+>
+Tazzie purrs happily.
+
+Tiruna kisses Tazzie on her forehead.
+
+Mel sits down.
+l
+[Commodore Island Park.]
+
+A grove of young, green-needled pine trees surrounds a small meadow of vibrantly flowering rhododendrons. Hues of bright pink, red, and white create a stunning contrast against the darker grey bark of the pines. Brighter green hemlock trees spread to catch the sunlight, which, in turn, shelter smaller stands of delicious salmonberry bushes, airy leather ferns, and poignantly fragranced sorrels that thrive on the compost of the forest floor. Soft haircap moss covers the river stone-lined path, dew from the mist collecting on it like pollen on bees. The distant wash of rushing water quietly filters through the peaceful air that hangs heavily saturated with moisture.  A stack of rocks is here.
+pride meetplace
+
+This area is illuminated.
+In the area are Tazzie the Novice Leuian (seated), Kandil the Leuian (seated), Tiruna the Noble Leuian (seated), Mel the Leuian (seated), and Lthe the Leuian (seated).
+Obvious paths: southeast* south* west*.
+>
+Tazzie swishes her tail slowly.
+
+Tiruna says in Leuian, "we lost hott too"
+stand silently
+You stand up silently.
+gri
+>You grin.
+s
+>[Commodore Island Park.]
+
+A soothing peace has settled over the forest here at the center of the park, where the mists coalesce and then dance back out again amongst the trees. Many small rivulets of water feed into an indent atop a large collection of boulders. As the water overflows the pool, it spills across the sides of the stone to trickle down the steps of the rock formation. Smaller pools are formed as it cascades over the rock until at last the rivulets are reunited into a single small stream which finds its way home to the larger river. Delicate flowering moss has grown over the stones of this centerpiece of the forest, and a small family of larks takes delight in bathing beneath the tiny waterfalls and mossy pools, even as the melodic chirping of other birds wafts through the tree branches all around.  A stack of rocks and a closed door are here.
+
+This area is illuminated.
+Obvious paths: north* northeast* east* southeast* south* southwest* west* northwest*.
+w
+w
+>[Village.]
+
+The village homes snuggle closer together as the path nears the town center, and eventually widens to include a few communal buildings and a burbling fountain to the west.  The village bustles with life at all hours. Towering trees spread their branches over the buildings, as if embracing them.    A stack of rocks and an overgrown back alley are here.
+
+This area is illuminated.
+Obvious paths: north* northeast* east* southeast* south* southwest* west* northwest*.
+[Village.]
+
+The chipped bark path widens to encompass a broad square between the peaked roofs of the village homes, the larger storefronts, and several communal buildings that all surround a magnificent fountain crafted from local sandstone. The multi-tiered fountain flows with pure, clean springwater and provides seating around its broad base.  The towering trees surround the village, enclosing the square in a living frame.  To the west is a sturdy building with its door perpetually ajar. A line of Leuian children trots off towards the north, bearing their lessons. The faint ding of nautical bells flows in on the breeze from the northwest.   A flowing gold-flecked sandstone fountain is here.
+
+This area is illuminated.
+In the area are Timble the Noble Leuian (seated), Hott the Noble Leuian, and Tchori the Leuian.
+Obvious paths: north* northeast* east* southeast* south* southwest* west*.
+tap
+>You tap your foot.
+>
+Tchori grins.
+gri
+You grin.
+>
+ ** You are fully rested.
+e
+e
+[Village.]
+
+The village homes snuggle closer together as the path nears the town center, and eventually widens to include a few communal buildings and a burbling fountain to the west.  The village bustles with life at all hours. Towering trees spread their branches over the buildings, as if embracing them.    A stack of rocks and an overgrown back alley are here.
+
+This area is illuminated.
+Obvious paths: north* northeast* east* southeast* south* southwest* west* northwest*.
+[Commodore Island Park.]
+
+A soothing peace has settled over the forest here at the center of the park, where the mists coalesce and then dance back out again amongst the trees. Many small rivulets of water feed into an indent atop a large collection of boulders. As the water overflows the pool, it spills across the sides of the stone to trickle down the steps of the rock formation. Smaller pools are formed as it cascades over the rock until at last the rivulets are reunited into a single small stream which finds its way home to the larger river. Delicate flowering moss has grown over the stones of this centerpiece of the forest, and a small family of larks takes delight in bathing beneath the tiny waterfalls and mossy pools, even as the melodic chirping of other birds wafts through the tree branches all around.  A stack of rocks and a closed door are here.
+
+This area is illuminated.
+Obvious paths: north* northeast* east* southeast* south* southwest* west* northwest*.
+n
+>[Commodore Island Park.]
+
+A grove of young, green-needled pine trees surrounds a small meadow of vibrantly flowering rhododendrons. Hues of bright pink, red, and white create a stunning contrast against the darker grey bark of the pines. Brighter green hemlock trees spread to catch the sunlight, which, in turn, shelter smaller stands of delicious salmonberry bushes, airy leather ferns, and poignantly fragranced sorrels that thrive on the compost of the forest floor. Soft haircap moss covers the river stone-lined path, dew from the mist collecting on it like pollen on bees. The distant wash of rushing water quietly filters through the peaceful air that hangs heavily saturated with moisture.  A stack of rocks is here.
+pride meetplace
+
+This area is illuminated.
+In the area are Tazzie the Novice Leuian (seated), Kandil the Leuian (seated), Tiruna the Noble Leuian (seated), Mel the Leuian (seated), and Lthe the Leuian (seated).
+Obvious paths: southeast* south* west*.
+nod
+>You nod.
+sit swiftly, with a flick of his grizzled old white-furred tail...
+>You sit down swiftly, with a flick of his grizzled old white-furred tail....
+>
+Kandil smiles.
+
+Tiruna says in Leuian, "too funny"
+
+Tchori's group just entered from the southeast.
+
+Tchori beams.
+
+Timble sits down.
+
+Tiruna says in Leuian, "I love this spot"
+gri
+You grin.
+>
+Tchori says in Leuian, "tada"
+
+Timble just opened the closed leather bound book of history.
+
+Timble gazes at the open leather bound book of history.
+
+Tiruna chuckles.
+
+Kandil says to Tchori in Leuian, "sorry was playing"
+
+Kandil winks to Tchori.
+
+Kandil says in Leuian, "i never get voices from him again after that message"
+
+Kandil sighs.
+
+Hott grins.
+
+Tchori's head suddenly begins glowing. He touches Kandil briefly. The glow travels down an arm to his hand. The glow quickly spreads over Kandil's entire body, then fades away.
+
+
+Tchori chuckles.
+
+Kandil smiles.
+
+Kandil stands up.
+
+Kandil says in Leuian, "okay first the volunteer for minutes"
+
+Kandil glances around.
+
+Tiruna mutters something beneath her breath.
+
+Hott ducks.
+
+Tiruna raises an eyebrow.
+
+Tiruna grins.
+
+Kandil asks Tiruna in Leuian, "have your whip with yah?"
+
+Tiruna says in Leuian, "that's a half hearted agreement to do minutes"
+
+Hott says in Leuian, "if i didn now would be xo's"
+
+Kandil nuzzles Tiruna.
+
+Kandil says to Tiruna in Leuian, "thank yah wholehearted"
+
+Tiruna says in Leuian, "one question"
+
+Kandil listens intently to Tiruna.
+
+Tiruna asks in Leuian, "do I have to list who attended?"
+
+Lthe ponders the meaning of the universe for a moment.
+who range race
+List will be restricted to those within range.
+Race who list activated!
+
+                Current Leuian Adventurers:
+
+Current Adventurers
+
+ Timble Darkstar                     Tazzie Wildcat                     
+ Hott Breeze                         Kandil Dragins                     
+ Muther Gunn                         Tiruna Shooge                      
+ Tchori Darkstar                     Crax Steelclaw                     
+ Mel Greyhand                        Lthe Wain                          
+
+You notice 10 adventurers.
+>
+Kandil says to Tiruna in Leuian, "you volunteered do um as yah like"
+
+Tiruna beams.
+
+Kandil smiles to Tiruna.
+
+Tiruna says in Leuian, "then I'll do them this time"
+
+Tiruna asks in Leuian, "this should be good for another 6 months, yes?"
+wh to hot can you smell Crax from here?
+You whisper to Hott in Leuian.
+>
+Kandil nods to Tiruna.
+
+Tiruna beams.
+
+Tiruna says in Leuian, "all righty then"
+
+Mel says to Muther in Leuian, "I can just see it now we had a visit from the grumpy old bastage "
+
+Hott says in Leuian, "nae"
+
+Kandil says in Leuian, "okay we might as well get to hardest first"
+gri to mel
+You grin to Mel.
+>
+Tiruna nods to Mel.
+com mel
+You comfort Mel.
+>
+Tiruna says in Leuian, "who still hates carrots and ate a slimy grub and a raw snake"
+
+Kandil says in Leuian, "would like to thank Lthe for taking this projected and really working hard and in detail on it fast and well"
+
+Tiruna listens intently to Kandil.
+appl to lt
+You applaud to Lthe.
+>
+Kandil exclaims to Lthe in Leuian, "you did great! thank you from all of us "
+
+Lthe blushes.
+
+Tiruna roars loudly for lthe.
+info
+
+Tiruna says in Leuian, "you really did"
+
+You are Muther Gunn, a delicate boned and very muscular bodied 45 year old Entropic Male mature Leuian Cleric of the Order of the Heart.  You are 6'0" and weigh 181 lbs.  You are seated.
+
+HP: 163 of 163  Ftg:  64 of  64  Carry: 75.2 of 227.0 lbs.
+
+ Str   Int   Wis   Dex   Agi   Con   Cha   Wil   Voi   Per   App
+Aver  Fair  Good  Aver  Good  Good  Good  Good  Good  Fair  Fair  
+
+Use: INFO <subject> for more info.
+(Valid subjects: RELIGION, MAGICK, LANGUAGES, MARTIALARTS, MONEY, RUNESPELLS, TITLES, DISGUISE, PSIONICS)
+
+>
+Tchori purrs.
+
+Tiruna nods to Lthe.
+l at mu
+You find something suitably reflective and gaze into it...
+
+You look like a 6'0" standard mature delicate boned, very muscular bodied Leuian Cleric.
+You are seated.
+You have very long, dredded, kinky white fur, with widely spaced white eyes, and look disheveled.
+You appear to be serious right now.
+You can be attacked by other players.
+You appear to be in perfect health.
+There is a shining gold emblem affixed to your clothing.
+
+Physical appearance:
+
+You see a grizzled old Khat, with an old scar across his white nose..
+
+                        Visible Equipment
+Some heavy blood red lacquered bone scale mail     (armor)
+A long pitch black bone nose piercing              (on head)
+A long blood-stained render skin cape              (over armor)
+A Leuian Pride ring                                (ring (left))
+An oak ring of Elindale                            (ring (left))
+A pair of pitch black bearskin pants               (pants)
+
+You have been bestowed the following title(s):
+  Noble of the Realm
+
+>
+Tchori bows to Lthe.
+appear mood hap
+
+You are now happy.
+
+>
+Hott hugs Lthe.
+appear mood ?
+
+    Available mood selections:
+
+ flaming-mad  livid        unhappy      shocked      despairing   blue        
+ unconcerned  distant      bored        chagrined    perplexed    mischievous 
+ partying     happy        overjoyed    apprehensive cold         gentle      
+ angry        preoccupied  aloof        calculating  aristocratic amused      
+ puzzled      serious      petulant     cynical      neutral      belligerent 
+ sullen       wary         confused     upset        frivolous    sleepy      
+ tired        irate        giddy        ecstatic     frustrated   worried     
+ resigned     grumpy       violent      inconsolable non-plussed  loving      
+ playful      furious      romantic     concerned    scared       frightened  
+ annoyed      sad          sassy        annoying     tense        perturbed   
+ depressed    amorous      dumbfounded 
+
+>
+Kandil says to Lthe in Leuian, "now for your reward, yah get to listen to complaints"
+
+Lthe chuckles.
+
+Tiruna raises her hand.
+
+Kandil comforts Lthe.
+
+Tiruna giggles.
+
+Hott grins.
+
+Lthe says to Kandil in Leuian, "I've a few comments myself"
+
+Kandil says to Lthe in Leuian, "thats what i was just gonna say, then we open it for descussion"
+
+Hott says in Leuian, "lthe first"
+
+Tiruna nods up and down.
+
+Kandil sits down.
+
+Lthe stands up.
+
+Lthe says in Leuian, "First, I am glad kyn have found the draft Guidelines not too bad"
+
+Hott listens intently.
+
+Lthe says in Leuian, "There are spots that are incomplete, more or less deliberately"
+
+Lthe says in Leuian, "These are points where the Diaries didn't provide enough detail, and the Pride will have to decide what to do"
+
+Lthe says in Leuian, "There are five that I think need some consideration"
+
+Hott listens intently.
+
+Lthe says in Leuian, "One: the description of the Khatyr's duties is very, very brief."
+
+Tiruna shrugs.
+
+Hott says in Leuian, "so"
+
+Lthe says in Leuian, "I put in what I found in the diaries, but some may wish to expand there a bit."
+
+Hott says in Leuian, "why"
+
+Lthe says to Hott in Leuian, "not sure.  I only think some might wish to expand what is only a sentence or two.  If not, that's fine."
+
+Kandil smiles.
+
+Hott sits down.
+
+Tiruna nuzzles Hott.
+
+Lthe says in Leuian, "Two: terms of office.  I didn't put in anything at all about how long members were to serve in office, because the Diaries don't have anything"
+
+Tiruna nods.
+wh to kan what is the post office place again please?
+You whisper to Kandil in Leuian.
+>
+Lthe says in Leuian, "I'm told that, traditionally, Khatyr's, Durah's, and LM's serve for six months at a time, while CMs serve indefinitely"
+
+Tiruna nods up and down.
+
+Tchori's head suddenly begins glowing. He places a hand upon his chest. The glow travels down an arm to his hand. The glow quickly spreads over Tchori's entire body, then fades away.
+
+
+Tiruna smiles at Hott.
+
+Lthe says in Leuian, "If that is acceptable, I can easily amend the Guidelines to reflect such"
+
+Tchori disbands his group.
+
+Tchori says in Leuian, "pardon.. a moment"
+
+Tchori just went southeast.
+who range race
+List will be restricted to those within range.
+Race who list activated!
+
+                Current Leuian Adventurers:
+
+Current Adventurers
+
+ Timble Darkstar                     Tazzie Wildcat                     
+ Hott Breeze                         Kandil Dragins                     
+ Muther Gunn                         Tiruna Shooge                      
+ Tchori Darkstar                     Crax Steelclaw                     
+ Mel Greyhand                        Lthe Wain                          
+
+You notice 10 adventurers.
+>
+Tiruna nods to Lthe.
+
+Lthe says in Leuian, "But this is something the Pride needs to decide, not me"
+
+Kandil whispers in Leuian, "http://s10.invisionfree.com/The_Post_Office/index.php?act=idx"
+
+Hott grins.
+
+Tchori's group just entered from the southeast.
+wh to kan many thanks !
+You whisper to Kandil in Leuian.
+>
+Tchori disbands his group.
+
+Tchori sits down.
+l
+
+Crax sighs.
+[Commodore Island Park.]
+
+A grove of young, green-needled pine trees surrounds a small meadow of vibrantly flowering rhododendrons. Hues of bright pink, red, and white create a stunning contrast against the darker grey bark of the pines. Brighter green hemlock trees spread to catch the sunlight, which, in turn, shelter smaller stands of delicious salmonberry bushes, airy leather ferns, and poignantly fragranced sorrels that thrive on the compost of the forest floor. Soft haircap moss covers the river stone-lined path, dew from the mist collecting on it like pollen on bees. The distant wash of rushing water quietly filters through the peaceful air that hangs heavily saturated with moisture.  A stack of rocks is here.
+pride meetplace
+
+This area is illuminated.
+In the area are Timble the Noble Leuian (seated), Tazzie the Novice Leuian (seated), Hott the Noble Leuian (seated), Kandil the Leuian (seated), Tiruna the Noble Leuian (seated), Tchori the Leuian (seated), Crax the Leuian, Mel the Leuian (seated), and Lthe the Leuian.
+Obvious paths: southeast* south* west*.
+>
+Crax sits down.
+
+Tiruna nuzzles Crax.
+smi to cr
+You smile to Crax.
+>
+Lthe asks in Leuian, "any suggestions about terms of office?"
+
+Tazzie nuzzles Crax.
+
+Crax nuzzles Tiruna.
+
+Tiruna raises her hand.
+
+Crax nuzzles Tazzie.
+
+Mel says in Leuian, "Dont forget the part where they hook the iron shackles to your leg the moment you are voted into the positon of Lawmaster"
+
+Lthe says in Leuian, "Tiruna"
+
+Mel stares at Tiruna.
+
+Tiruna stands up.
+
+Tiruna smiles sweetly at Mel.
+
+Hott listens intently.
+
+Tiruna says in Leuian, "I'm thinking what we've done is good enough"
+
+Tiruna says in Leuian, "except, I know the CM's were for life"
+
+Lthe says to Tiruna in Leuian, "yes, I was told CMs served until they dropped"
+
+Tiruna says in Leuian, "I think they should be 12 months"
+
+Lthe grins.
+
+Hott raises his hand.
+
+Lthe asks Tiruna in Leuian, "12 for CMs, six for the rest?"
+
+Tiruna nods up and down.
+
+Tiruna says in Leuian, "my reasoning is"
+
+Tiruna says in Leuian, "since the Khatyr comes from the CM's"
+
+Tiruna says in Leuian, "at least we have one election without turning over everyone"
+
+Tiruna says in Leuian, "and"
+
+Tiruna says in Leuian, "as I've been a CM forever"
+
+Tiruna says in Leuian, "it get's hard"
+
+Lthe nods to Tiruna.
+
+Mel grins at Tiruna.
+
+Mel snickers.
+
+Tiruna says in Leuian, "and it's even harder to decide when to step down"
+
+Lthe says in Leuian, "That's a decent point.  AS it stands, CMs have to decide to step down themselves"
+
+Tiruna says in Leuian, "you get to feeling nothing will work if you step down"
+
+Tiruna says in Leuian, "and that's just not true"
+
+Mel nods to Tiruna.
+
+Lthe nods.
+
+Tiruna says in Leuian, "the Pride will go on"
+
+Mel says in Leuian, "Worked fine after i stepped down"
+
+Tiruna says in Leuian, "so I really really feel there should be a time limit on CM's"
+
+Tiruna says in Leuian, "as for your other question on Khatyr duties, I feel it's fine as it is"
+
+Tiruna says in Leuian, "done"
+
+Tiruna sits down.
+
+Lthe nods to Tiruna.
+
+Lthe says in Leuian, "Hott"
+
+Hott stands up.
+
+Lthe nods to Tiruna.
+
+Lthe listens intently to Hott.
+
+Hott says in Leuian, "ye think a clawmaster is so thing ab out is status"
+wh to lt what area in the post office is the draft please?
+You whisper to Lthe in Leuian.
+>
+Lthe whispers in Leuian, "under the LM section"
+wh to lt thank you
+You whisper to Lthe in Leuian.
+>
+Hott says in Leuian, "are we not thinking for pride"
+
+Tiruna shakes her head from side to side.
+
+Hott says in Leuian, "if a clawmaster does not know when to resign then should not be one"
+
+Hott says in Leuian, "done"
+
+Lthe ponders the meaning of the universe for a moment.
+
+Hott sits down.
+
+Hott says in Leuian, "ponder that"
+pon that
+You ponder that.
+>
+Tiruna says in Leuian, "I'm trying to"
+
+Tiruna nuzzles Hott.
+
+Tiruna says in Leuian, "hott ,could you repeat your first statement for me brother"
+
+Tiruna says in Leuian, "I couldn't quite translate it"
+
+Tiruna nuzzles Hott.
+
+Tiruna says in Leuian, "and I got to get it right for the minutes"
+
+Tchori says in Leuian, "if they arent wise enough to know when to step down.. they likely shouldnt be in the position in the first place"
+
+Tiruna exclaims in Leuian, "that's the second statement!"
+
+Tchori grins.
+
+Lthe nods.
+
+Tiruna says in Leuian, "I got that clear and agree whole heartedly"
+wh to tir the one thing a clawmaster is something about..is status?
+You whisper to Tiruna in Leuian.
+>
+Hott says in Leuian, "ah as to status"
+
+Tiruna nods to Hott.
+
+Tiruna listens intently to Hott.
+
+Tiruna whispers in Leuian, "he's got to learn to speak without pebbles in his mouth"
+gri to tir
+You grin to Tiruna.
+>
+Tiruna listens intently to Hott.
+list to ho
+You listen intently to Hott.
+wh to hot the one thing a clawmaster is something about..is status?
+>You whisper to Hott in Leuian.
+>
+Tiruna says in Leuian, "your words are important , Hott, I want to make sure I understand what you said"
+
+Hott says in Leuian, "ah yes ye think being clawmaster is status it is not"
+
+Tiruna beams.
+
+Kandil nods to Hott.
+
+Tiruna says in Leuian, "it certainly isn't, thanks,  Hott"
+
+Tiruna nuzzles Hott.
+
+Hott says in Leuian, "gad"
+
+Kandil grins.
+
+Tazzie giggles softly.
+
+Hott says in Leuian, "easy thought"
+
+Shaleu just entered from the west.
+
+Kandil nuzzles Shaleu.
+
+Tiruna beams.
+
+Tiruna nuzzles Shaleu.
+
+Shaleu smiles.
+
+Tazzie nuzzles Shaleu.
+
+Hott hugs Shaleu.
+
+Shaleu sits down next to Tiruna.
+
+Lthe says in Leuian, "All right, we have a slight disagreement here.  One way to go is to set terms for all the offices, and the other is to exempt CMs from such limits"
+smi to sh
+You smile to Shaleu.
+>
+Shaleu smiles at you.
+
+Tiruna raises her hand.
+
+Shaleu hugs Hott.
+
+Lthe says in Leuian, "Tiruna"
+
+Tiruna stands up.
+
+Hott says in Leuian, "by the way anyone can have my clawmaster seat"
+
+Tiruna says in Leuian, "I will go with whatever the Pride decides, I thought it might be a time for a change"
+
+Kandil says to Hott in Leuian, "your seat is to small for most, your stuck with it"
+
+Crax raises his hand.
+
+Mel says to Hott in Leuian, "Nope your stuck with it sorry "
+
+Tiruna says in Leuian, "the Pride is a living breathing entity"
+
+Tiruna says in Leuian, "and sometimes we get stuck"
+
+Tiruna says in Leuian, "done"
+
+Tiruna sits down.
+
+Lthe says in Leuian, "Crax"
+
+Crax stands up.
+
+Tazzie leans on Tiruna.
+
+Tiruna nuzzles Tazzie.
+
+Timble swishes his tail slowly across the ground as he turns another page.
+
+Crax says in Leuian, "responsibilty over others in some things can be a heavy burden...to have to carry that burden for life is difficult...people need a break and other need to be involved so all treat each other with respect knowing what they've been through"
+
+Crax says in Leuian, "i think term limits would help that"
+
+Kandil raises her hand.
+
+Crax says in Leuian, "just my opinion"
+
+Hott says in Leuian, "ye want my term"
+
+Crax sits down.
+
+Crax says to Hott in Leuian, "nope"
+
+Lthe says in Leuian, "Kandil"
+
+Kandil stands up.
+
+Kandil asks in Leuian, "well i think we have a great turn out tonight, why dont we just put it to a quick vote?"
+
+Lthe raises an eyebrow.
+
+Lthe asks Kandil in Leuian, "you want to do that now?"
+
+Tiruna says in Leuian, "might I say one more thing"
+
+Kandil says in Leuian, "we can or push ittill next week if the Pride decides"
+
+Tiruna says in Leuian, "before that"
+
+Kandil shrugs.
+
+Lthe nods to Tiruna.
+
+Kandil sits down.
+
+Tiruna stands up.
+
+Hott says in Leuian, "not now "
+
+Tiruna says in Leuian, "having terms does two things"
+
+Tiruna says in Leuian, "one"
+
+Hott says in Leuian, "not now "
+
+Tiruna says in Leuian, "it allows the clawmaster to recommit to their position within the pride"
+
+ *** Warning, you have been inactive for 5 minutes.
+l
+ *** You will be disconnected in 10 minute(s) if you do not respond.
+[Commodore Island Park.]
+
+A grove of young, green-needled pine trees surrounds a small meadow of vibrantly flowering rhododendrons. Hues of bright pink, red, and white create a stunning contrast against the darker grey bark of the pines. Brighter green hemlock trees spread to catch the sunlight, which, in turn, shelter smaller stands of delicious salmonberry bushes, airy leather ferns, and poignantly fragranced sorrels that thrive on the compost of the forest floor. Soft haircap moss covers the river stone-lined path, dew from the mist collecting on it like pollen on bees. The distant wash of rushing water quietly filters through the peaceful air that hangs heavily saturated with moisture.  A stack of rocks is here.
+pride meetplace
+
+This area is illuminated.
+In the area are Timble the Noble Leuian (seated), Tazzie the Novice Leuian (seated), Hott the Noble Leuian (seated), Kandil the Leuian (seated), Tiruna the Noble Leuian, Shaleu the Leuian (seated), Tchori the Leuian (seated), Crax the Leuian (seated), Mel the Leuian (seated), and Lthe the Leuian.
+Obvious paths: southeast* south* west*.
+>
+Tiruna says in Leuian, "and let's the Pride know how committed the Clawmaster is"
+
+Hott grins.
+
+Tiruna says in Leuian, "done"
+
+Tiruna sits down.
+
+Lthe nods.
+
+Shaleu raises her hand.
+
+Lthe says in Leuian, "Shaleu"
+
+Shaleu smiles.
+
+Shaleu stands up.
+
+Crax asks Tiruna in Leuian, "ya write this down before hand or just wing it?"
+
+Crax chuckles.
+
+Crax ducks.
+
+Shaleu says in Leuian, "not quiet sure how this started, but sounds very good to me"
+
+Kandil grins to Shaleu.
+
+Shaleu says in Leuian, "If you decide to follow this path"
+
+Shaleu says in Leuian, "I suggest you consider the terms alternating"
+
+Shaleu says in Leuian, "would seem disruptive if you had all new CMs at the same time"
+
+Hott nods.
+
+Lthe nods to Shaleu.
+
+Shaleu says in Leuian, "just a consideration, done"
+
+Shaleu sits down.
+
+Crax raises his hand.
+
+Lthe says in Leuian, "Crax"
+
+Crax stands up.
+
+Crax says in Leuian, "I like what Shal just said...perhaps the CM's could sorta rotate as Khatyr   a month at a time during their terms....that way all stay equal in duty and responsibility"
+
+Crax sits down.
+
+Lthe says in Leuian, "All right, I have a suggestion"
+
+Tiruna furrows her brow.
+
+Tiruna listens intently to Lthe.
+
+Lthe says in Leuian, "This is proving to be a complicated issue.  I'd like us to commit to decide the matter at the next meeting."
+
+Kandil nods to Lthe.
+
+Lthe says in Leuian, "I can draw up proposals reflecting the various positions, and perhaps hold a discussion this week for those interested"
+
+Hott says in Leuian, "be it so"
+
+Tiruna nods up and down.
+
+Tiruna beams at Lthe.
+rai hand paw quietly
+You raise your hand paw quietly.
+>
+Kandil nods firmly.
+
+Lthe says in Leuian, "I'll post the proposals in the post office for kyn to consider"
+
+Lthe says in Leuian, "Muther"
+
+Tiruna grins at you.
+' may i add another proposal?
+
+Muther asks in Leuian, " may i add another proposal?"
+>
+Lthe says to Muther in Leuian, "certainly"
+stand silently
+You stand up silently.
+bow
+>You bow.
+ If you becomes a Clawmaster of the Pride, you are one for life...perhaps just a change of wordage...Active Clawmasters..who would have term limits..and Inactive...no limits, but still Cms?
+>Ignoring unknown command, "If."
+>
+Shaleu smiles.
+' If you becomes a Clawmaster of the Pride, you are one for life...perhaps just a change of wordage...Active Clawmasters..who would have term limits..and Inactive...no limits, but still Cms?
+
+Muther asks in Leuian, " If you becomes a Clawmaster of the Pride, you are one for life...perhaps just a change of wordage...Active Clawmasters..who would have term limits..and Inactive...no limits, but still Cms?"
+>
+Hott says in Leuian, "the quite one"
+
+ ** You are fully rested.
+bow
+You bow.
+' done
+>
+Muther says in Leuian, " done"
+stand silently
+>You are already standing!
+sit swiftly, with a flick of his grizzled old white-furred tail...
+>You sit down swiftly, with a flick of his grizzled old white-furred tail....
+>
+Tiruna asks in Leuian, "where you can retire us old worn out ones?"
+
+Tiruna grins at you.
+chu
+You chuckle.
+>
+Lthe ponders the meaning of the universe for a moment.
+
+Lthe says in Leuian, "Clawmaster emeritus"
+
+Shaleu says in Leuian, "your already retired Tiruna"
+gri
+You grin.
+>
+Lthe says in Leuian, "We can try to work that out as well."
+' Any cm could step down, the others would have terms..but all are atill CM's
+
+Tiruna asks in Leuian, "I am?"
+
+Muther says in Leuian, " Any cm could step down, the others would have terms..but all are atill CM's"
+>
+Hott grins.
+
+Lthe says in Leuian, "Okay, still a few more points to consider"
+
+Tiruna says in Leuian, "coulda fooled me"
+
+Kandil says in Leuian, "gonna be long meeting this week to work this out"
+
+Kandil sighs.
+
+Lthe says in Leuian, "Khit'ra."
+
+Dac, treading softly, just entered from the southeast.
+
+Tiruna says in Leuian, "I like that Muther"
+smi to dac
+
+Dac bows.
+You smile to Dac.
+>
+Tchori blinks.
+
+Dac sits down.
+
+Kandil beams to Dac.
+
+Tchori purrs.
+
+Tchori bows to Dac.
+smi to ti
+You smile to Timble.
+>
+Kandil waves to Dac.
+
+Tiruna grins at Dac.
+
+Lthe says in Leuian, "The diaries speak of the grown khatkynd of the Pride being able to hold office and vote"
+
+Dac smiles.
+nod to lt
+You nod to Lthe.
+>
+Lthe says in Leuian, "And they make it clear that such are Khit'ra'd"
+
+Tiruna nods to Lthe.
+
+Hott says in Leuian, "does tazz do it gain"
+
+Tazzie glances at Hott.
+
+Lthe says in Leuian, "But its been pointed out to me that some might be Khit'ra'd by one Pride, but move to another"
+
+Tiruna shakes her head from side to side.
+
+Lthe asks in Leuian, "Do they need to be Khit'ra'd again?"
+
+Tiruna nods up and down.
+
+Hott says in Leuian, "nod"
+pon
+You ponder the meaning of the universe for a moment.
+>
+Lthe says in Leuian, "The thing of it is, the Diaries, perhaps because written by an outsider, seem to suppose that there is really only one big Pride"
+
+Tchori raises his hand.
+
+Tiruna says in Leuian, "back then there was"
+
+Hott says in Leuian, "nae"
+
+Lthe says in Leuian, "Tchori"
+
+Tchori stands up.
+
+Hott says in Leuian, "this prise i leu would all be outcast"
+
+Tchori says in Leuian, "on this point.. i wish to press that we are NOT like other prides.. we live outside leuia.. among lakar.. so what we can mentor and teach will go far into how a leuian may adjust and survive HERE"
+
+Tchori's stomach growls.
+
+Tiruna nods up and down.
+
+Kandil nods to Tchori.
+
+Hott nods.
+nod
+You nod.
+>
+Crax smiles at Tchori.
+
+Tchori says in Leuian, "i would stress all leuians mentor and khitra Here if they wish to be Pride Here.. so we can better aid them in adjusting"
+
+Tchori says in Leuian, "done"
+
+Tchori sits down.
+
+Lthe nods.
+
+Hott says in Leuian, "well said"
+
+Tchori just removed an Elven waybread from within his open large leather backpack.
+You see Tchori take a bite of his Elven waybread.
+
+Tchori belches.
+
+Crax says in Leuian, "well said"
+You see Tchori take a bite of his Elven waybread.
+
+Tchori burps.
+
+Tchori blushes.
+
+Tchori bows.
+
+Shaleu chuckles.
+
+Tchori just placed an Elven waybread within his open large leather backpack.
+
+Kandil raises her hand.
+
+Tiruna beams at Tchori.
+
+Lthe says in Leuian, "Kandil"
+
+Kandil stands up.
+
+Shaleu says in Leuian, "is that part of the mentoring, waybread"
+
+Tchori grins.
+
+Tchori blushes.
+wrin whiskers in amusement
+You wrinkle your nose whiskers in amusement.
+>
+Tchori says in Leuian, "pardon Khatyra"
+
+Shaleu nuzzles Tchori.
+
+Tiruna smiles and whispers to shaleu Yah to not eat it!
+
+Kandil says in Leuian, "i agree with everything Tchori said but in cases like Tazzie, she has been Khit'raed here already, she just learned new skills , didnt get a new brain"
+
+Kandil says in Leuian, "exceptions for cases such as hers should be made"
+
+Kandil says in Leuian, "done"
+
+Kandil sits down.
+
+Lthe smiles.
+
+Tiruna says in Leuian, "well that doesn't count"
+
+Lthe says in Leuian, "There is a way we could handle such exceptions"
+
+Tiruna says in Leuian, "she's still Tazzie "
+
+Tazzie says in Leuian, "that is a good thing"
+gri
+You grin.
+>
+Lthe says in Leuian, "We could just leave the Guidelines as they are"
+
+Lthe says in Leuian, "And allow the Pride to decide such matters on a case-by-case basis"
+
+Tiruna shakes her head from side to side.
+
+Lthe asks Tiruna in Leuian, "no?"
+
+Tiruna raises her hand.
+
+Lthe says in Leuian, "Tiruna"
+
+Tiruna stands up.
+
+Tiruna says in Leuian, "I agree totally with what Tchori said"
+
+Tiruna says in Leuian, "it doesn't matter if you khit'ra'd before"
+
+Tiruna says in Leuian, "somewhere else"
+
+Tazzie smiles at Shaleu.
+
+Tiruna says in Leuian, "your mentoring will prolly be different than if you were a brand new khit"
+
+Hott nods.
+
+Tiruna says in Leuian, "but you need to be mentored to where we are and what we face here"
+
+Lthe nods to Tiruna.
+
+Hott says in Leuian, "like war"
+
+Lthe says to Tiruna in Leuian, "as written, the Guidelines would support that position."
+
+Tiruna says in Leuian, "done"
+
+Tiruna sits down.
+
+Tiruna says in Leuian, "oh ya"
+
+Tiruna says in Leuian, "sorry"
+
+Tiruna says in Leuian, "on this, I feel strongly"
+
+Tiruna says in Leuian, "now done"
+
+Lthe says to Tiruna in Leuian, "they say that one must be Khit'ra'd in order to participate fully in the Pride's activities, and make no provision for accepting those khit'ra'd elsewhere"
+
+Hott says in Leuian, "gad we turning in to lawyers"
+
+Crax nods to Hott.
+
+Lthe smiles.
+gri
+You grin.
+>
+Lthe says to Hott in Leuian, "that's why I'd rather not add anything further to what has been written on the subject"
+
+Crax says to Hott in Leuian, "on my fifth scoll already trying to keep up"
+
+Tchori smiles at Shaleu.
+
+Hott says in Leuian, "please we plain people"
+
+Lthe says in Leuian, "If exceptions must be made, they can be made by the Pride as it deems fit"
+
+Kandil says to Lthe in Leuian, "perfect solution"
+
+Lthe chuckles.
+
+Tiruna nods up and down.
+
+Lthe says in Leuian, "no such thing"
+
+Kandil says to Lthe in Leuian, "dont say that.. shhhhhh"
+
+Lthe says in Leuian, "All right, only two more points"
+
+Tiruna smiles and whispers to Hott , well she is the Lawmaster.
+
+Lthe says in Leuian, "One that concerns me is the relation of LM to CM"
+
+Tiruna nods up and down.
+
+Hott listens intently.
+
+Lthe says in Leuian, "Reading the sections of the Diaries concerning Outcasting and Shunning, they suggest that the duties of LM and CM are quite distinct in such cases"
+
+Tiruna nods up and down.
+
+Hott nods.
+
+Lthe says in Leuian, "The LM is mostly a finder of fact, one who tries to figure out exactly what has happened"
+
+Lthe says in Leuian, "The CMs are judges in such cases, deciding if what has been done is wrong, and if punishment is needed"
+
+Hott nods.
+
+Lthe says in Leuian, "My feeling is that this suggests the LM should not also be a CM"
+
+Hott says in Leuian, "never"
+
+Hott's stomach growls.
+
+Lthe smiles at Hott.
+
+Tiruna raises her hand.
+
+Lthe says in Leuian, "And I'd like to include a provision to that effect in the Guidelines"
+
+Lthe says in Leuian, "Tiruna"
+
+Tiruna stands up.
+
+Hott says in Leuian, "conflict of interest"
+nod to ho
+You nod to Hott.
+>
+Tiruna says in Leuian, "first I apologize for always speaking"
+
+Lthe chuckles.
+
+Kandil grins.
+
+Hott says in Leuian, "no matter honor"
+
+Tiruna says in Leuian, "but I been here since the diaries were accepted by our Pride"
+
+Shaleu bows head and she cover her face hiding her giggles.
+
+Tiruna says in Leuian, "at that time it was said the LM doesn't necessarily have to be a CM , but could be"
+
+Tiruna pokes Shaleu.
+
+Tiruna says in Leuian, "I agree with Lthe"
+
+Tazzie giggles at Shaleu.
+
+Shaleu winces.
+
+Tiruna says in Leuian, "I think the LM shouldn't be a CM"
+
+Crax sighs.
+
+Hott says in Leuian, "nae"
+
+Tazzie nuzzles Shaleu.
+
+Tiruna says in Leuian, "for all the reasons she said"
+
+Crax raises his hand.
+
+Tiruna says in Leuian, "done"
+
+Shaleu nuzzles Tazzie.
+
+Tiruna sits down.
+
+Lthe says in Leuian, "Crax"
+
+Crax stands up.
+
+Hott says in Leuian, "never"
+
+Mel ponders the meaning of the universe for a moment.
+
+Hott listens intently.
+
+Crax says in Leuian, "to re iterate what Tchori said...the diaries such as they are  were written by a lakar visiting leuia...I don't see how they can truely aid us in many things here in Spur when we need deal with more Lakar than kyn...we need ideas for our survival here.."
+
+Crax says in Leuian, "not what our Kyn did 100 years ago home"
+
+Crax shrugs.
+
+Tiruna furrows her brow.
+
+Crax sits down.
+
+Lthe ponders the meaning of the universe for a moment.
+
+Dac raises his hand.
+
+Tiruna pets Crax.
+
+Lthe says to Crax in Leuian, "I'm not sure how that bears on the question"
+
+Kandil grins to Tiruna.
+
+Lthe says in Leuian, "Dac"
+
+Kandil asks Dac in Leuian, "why yah way back there?"
+
+Crax says in Leuian, "lthe of course it does    you keep referenceing the diaries....we're not in leuia"
+
+Dac says in Leuian, "As much as I also agree we live in different circumstances than the times the Diaries were written in...but if we take the lessons learned from the Diaries and apply the principles, the Diaries still have relevance."
+
+Dac stands up.
+You see Dac move up another 5 UDs!
+
+Dac sits down.
+
+Dac smiles at Kandil.
+
+Tiruna nods to Dac.
+rai hand paw quietly
+
+Dac says in Leuian, "Done."
+You raise your hand paw quietly.
+>
+Kandil leans on Dac.
+
+Hott nods.
+
+Tiruna nuzzles Dac.
+
+Lthe says in Leuian, "Muther"
+stand silently
+You stand up silently.
+bvow
+>Ignoring unknown command, "bvow."
+bow
+>You bow.
+' The Lm is chosen from the aadult pride, and may well be a Cm, but their duties are above those of ordinary Cm's and as such, their wisdom and office prevent them from participating as a Cm.. we know they will use Honor in this
+>
+Muther says in Leuian, " The Lm is chosen from the aadult pride, and may well be a Cm, but their duties are above those of ordinary Cm's and as such, their wisdom and office prevent them from participating as a Cm.. we know they will use Honor in this"
+' done
+>
+Muther says in Leuian, " done"
+>
+Hott listens intently to you.
+stand silently
+sit swiftly, with a flick of his grizzled old white-furred tail...
+You are already standing!
+>
+ ** You are fully rested.
+You sit down swiftly, with a flick of his grizzled old white-furred tail....
+>
+Tiruna nods up and down.
+
+Kandil nods to you.
+
+Shaleu nods.
+
+Shaleu smiles.
+
+Tiruna whispers in Leuian, "it's just so hard"
+
+Lthe ponders the meaning of the universe for a moment.
+
+Shaleu raises her hand.
+
+Hott raises his hand.
+wh to tir i could guess it were so
+You whisper to Tiruna in Leuian.
+>
+Lthe says to Shaleu in Leuian, "then Hott"
+
+Shaleu grins at Hott.
+
+Lthe says in Leuian, "oops"
+
+Shaleu stands up.
+
+Tiruna whispers in Leuian, "and having it not be a cm allows more of the pride to participate "
+
+Lthe smiles.
+
+Shaleu says in Leuian, "Muther has said it so well"
+
+Shaleu smiles.
+smi
+You smile.
+nod to ti
+>You nod to Timble.
+nod to tir
+>You nod to Tiruna.
+>
+Shaleu says in Leuian, "I believe firmly that the diary is of value today to this Pride as in the past"
+
+Shaleu says in Leuian, "Yet it is true we have different circumstance here"
+
+Shaleu says in Leuian, "but if we are wise we will look first to the Diary for todays answers"
+
+Shaleu says in Leuian, "done"
+
+Shaleu sits down.
+
+Lthe says in Leuian, "Hott"
+
+Hott stands up.
+
+Shaleu smiles softly.
+
+Hott says in Leuian, "lthe ye want to be clawmaster"
+
+Tiruna grins.
+
+Lthe says to Hott in Leuian, "not particularly"
+
+Tiruna tickles Hott.
+
+Kandil smiles.
+
+Mel says to Lthe in Leuian, "good answer"
+
+Kandil says to Mel in Leuian, "she learned to say no better then me"
+
+Lthe smiles.
+
+Hott says in Leuian, "each of us has a xduty"
+
+Tiruna nods.
+
+Hott says in Leuian, "duty"
+
+Lthe says to Hott in Leuian, "I like being LM, actually.  And tryly believe LM should not be CM"
+
+Lthe says in Leuian, "truly, that is"
+
+Tiruna whispers in Leuian, "see he's watching those pebbles in his mouth"
+wh to tir heh
+You whisper to Tiruna in Leuian.
+>
+Hott says in Leuian, "duty"
+
+Tiruna grins at you.
+
+Hott says in Leuian, "how can one do duty to both"
+
+Lthe nods to Hott.
+
+Hott says in Leuian, "don e"
+
+Tiruna nods to Hott.
+
+Hott sits down.
+
+Tiruna asks Lthe in Leuian, "are there anymore hands?"
+wh to tir i can't see wht lm's cant just find fact, yet not judge on those facts..even if they are CM's also...and LM's could be cm's or regular pride members..couldnt they?
+You whisper to Tiruna in Leuian.
+>
+Lthe says to Tiruna in Leuian, "don't think so"
+
+Tiruna raises her hand.
+
+Lthe grins.
+
+Lthe says in Leuian, "Tiruna"
+
+Tazzie laughs softly.
+
+Tiruna stands up.
+
+Tiruna curtsies.
+gri
+You grin.
+>
+Tiruna says in Leuian, "I got a tactical point for you in this consideration"
+wor
+Good afternoon! The afternoon sky glows with the light from the sun.
+The weather is currently clear and winds are calm.
+>
+Lthe listens intently to Tiruna.
+tim
+
+Current time is: Sun Sep  4 21:03:21 2005 EST.
+
+It is now 5:08 pm on the 9th day of the 8th month in the year 320.
+
+You have been adventuring for 2 hrs, 2 mins, 45 secs this session.
+
+>
+Timble gazes at the open leather bound book of history.
+
+Tiruna says in Leuian, "granted, any LM who was also a CM would do their absolute best to be honorable"
+
+Tiruna nods to you.
+nod
+You nod.
+>
+Hott says in Leuian, "sure"
+
+Tiruna says in Leuian, "and let's not forget this point"
+
+Tiruna says in Leuian, "we have an even number of CM's"
+
+Tiruna says in Leuian, "with the Khatyr to make it an odd number"
+
+Tiruna says in Leuian, "in voting in say a tribunal "
+
+Hott nods.
+
+Lthe nods to Tiruna.
+
+Tiruna says in Leuian, "the Khatyr votes only if there is a tie"
+
+Kandil wrinkles her nose.
+
+Tiruna says in Leuian, "if the LM is a CM, the cannot vote"
+
+Tiruna says in Leuian, "we have no tie breaker"
+
+Tiruna says in Leuian, "if the LM is a CM"
+
+Hott nods.
+
+Tiruna says in Leuian, "besides"
+
+Tiruna says in Leuian, "the LM has prolly already decided by the time they present the facts to the Pride as a whole"
+
+Tiruna says in Leuian, "it's just not clean"
+
+Tiruna says in Leuian, "done"
+
+Lthe nods to Tiruna.
+
+Tiruna sits down.
+
+Lthe asks in Leuian, "anyone other comments?"
+
+Hott claps.
+
+Tiruna nuzzles Hott.
+
+Shaleu smiles at Hott.
+nod no
+You shake your head from side to side.
+>
+Lthe says in Leuian, "I think this is something we could vote on right now, if that's acceptable.  It is a simple yea or nay sort of thing"
+
+Tiruna nods.
+
+Hott listens intently.
+stand silently
+You stand up silently.
+gla up at the sun 
+' forgive me khyn , i have duties i must preform 
+bow deeply to all
+>You glance up at the sun .
+>
+Muther says in Leuian, " forgive me khyn , i have duties i must preform "
+>You bow deeply to all.
+>
+ ** Current fatigue: 63 out of 64
+
+Tchori bows to you.
+appear mood sad
+
+You are now sad.
+
+smi
+>
+Shaleu nuzzles you.
+You smile.
+l
+>[Commodore Island Park.]
+
+A grove of young, green-needled pine trees surrounds a small meadow of vibrantly flowering rhododendrons. Hues of bright pink, red, and white create a stunning contrast against the darker grey bark of the pines. Brighter green hemlock trees spread to catch the sunlight, which, in turn, shelter smaller stands of delicious salmonberry bushes, airy leather ferns, and poignantly fragranced sorrels that thrive on the compost of the forest floor. Soft haircap moss covers the river stone-lined path, dew from the mist collecting on it like pollen on bees. The distant wash of rushing water quietly filters through the peaceful air that hangs heavily saturated with moisture.  A stack of rocks is here.
+pride meetplace
+
+This area is illuminated.
+In the area are Timble the Noble Leuian (seated), Tazzie the Novice Leuian (seated), Hott the Noble Leuian (seated), Kandil the Leuian (seated), Tiruna the Noble Leuian (seated), Shaleu the Leuian (seated), Tchori the Leuian (seated), Crax the Leuian (seated), Mel the Leuian (seated), Lthe the Leuian, and Dac the Leuian (seated).
+Obvious paths: southeast* south* west*.
+sal
+>You salute.
+>
+Tiruna nuzzles you.
+
+Hott hugs you.
+
+ ** You are fully rested.
+gri
+You grin.
+w
+>[Village.]
+
+Amidst the towering trees and verdant mid level bushes, several smaller cabins blend into the surrounding park. The peaked roofs of the cabins bear the familiar carving as seen on most of the village homes and their small porches sport plantings of flowering wild roses and perky daisies accented with the fronds of leather ferns and shelf fungus.  A closed chiseled petrified redwood door, a closed arched slate grey granite boulder door, a closed salt stained cargo hatch, a closed vine etched glass door, and a decaying pile of planks are here.
+
+This area is illuminated.
+Obvious paths: east* southeast* south* northwest*.
+hide
+>You fail in your attempt to hide!
+hide
+hide
+>You slip into the shadows!
+duck quickly out of sight ...
+quit
+You reveal yourself!
+You duck quickly out of sight ...
+
+    Dragon's Gate Menu
+
+ 1. Explore Dragon's Gate.
+ 2. Create, Delete, or View a character.
+ 3. Select current character.
+ 4. Display notices and version notes.
+16. Disconnect.
+
+Your active character is: Muther Gunn
+
+Your selection? 
+16
+
+ ** Goodbye from Mythic Entertainment! **

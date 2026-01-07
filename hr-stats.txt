@@ -1,0 +1,28 @@
+
+>[The Faithful Squire.]
+
+The tangy-sweet smell of metal and leather permeate the air of this shop. A stout Hithual wearing a leather apron barks an order to a young apprentice who lets out a yelp and rushes to the back of the shop to carry out his master's wishes. The shopkeeper mumbles about lazy youngsters and returns to oiling a fine looking leather weapon harness, leaving you to examine his wares on your own.   Some glowing quartz faced copper lanterns and a closed polished oak door are here.
+
+This room is illuminated.
+Obvious exits: None.
+>
+Skill                     Remain Level
+ Blunt Weapons             2163   15    
+ Berserk Attack            830    7     
+ First Aid                 587    9     
+ Shield Parry              283    6     
+ Sharp Weapons             489    5     
+ Identify Gems/Minerals    429    6     
+ Spellcasting              486    5     
+ Throw Weapons             906    8     
+ Pole Weapons              465    5     
+ Missile Weapons           391    4     
+ Brawling                  299    6     
+ Swimming                  52     1     
+ Play Instruments          1691   13    
+ Quickdraw                 290    4     
+ Hiding                    577    6     
+ Disarming                 397    4     
+ Identify Weapon Quality   138    3     
+
+

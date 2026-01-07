@@ -1,0 +1,1421 @@
+l
+[Commodore Island Park.]
+
+A grove of young, green-needled pine trees surrounds a small meadow of vibrantly flowering rhododendrons. Hues of bright pink, red, and white create a stunning contrast against the darker grey bark of the pines. Brighter green hemlock trees spread to catch the sunlight, which, in turn, shelter smaller stands of delicious salmonberry bushes, airy leather ferns, and poignantly fragranced sorrels that thrive on the compost of the forest floor. Soft haircap moss covers the river stone-lined path, dew from the mist collecting on it like pollen on bees. The distant wash of rushing water quietly filters through the peaceful air that hangs heavily saturated with moisture.  A stack of rocks is here.
+pride meetplace
+
+This area is illuminated.
+You see the 1st silvery timber wolf (wearing a small gold collar).
+In the area are Hott the Noble Leuian (seated), Dac the Leuian (seated), Shaleu the Leuian, Tiruna the Noble Leuian (seated), Mel the Leuian (seated), Kierra the Leuian (seated), and Stormy the Leuian (seated).
+Obvious paths: southeast* south* west*.
+>
+Shaleu says in Leuian, "my grandson"
+
+Kierra nods at Shaleu.
+
+Shaleu says in Leuian, "son of Larrkyn and flora"
+
+Hott says in Leuian, "hat nut"
+
+Hott grins.
+
+Stormy says in Leuian, "don't think i've meet a linus"
+gri
+You grin.
+>
+Kierra says to Stormy in Leuian, "nope not met him yet"
+
+Shaleu rubs the muddy brown fisherman's hat.
+
+Shaleu grins thoughtfully.
+
+Stormy smiles.
+
+Tiruna grins at Shaleu.
+
+The silvery timber wolf raises its muzzle to sniff the air.
+
+Stormy says in Leuian, "can't wait to meet him then"
+
+Kierra says in Leuian, "but i have met other kyn this week"
+
+Shaleu says in Leuian, "his grandpa loved to fish"
+
+Shaleu smiles.
+
+Tiruna smiles at Shaleu.
+
+Hott nods.
+
+Shaleu says in Leuian, "bet he is all grown up now"
+
+Stormy says in Leuian, "yes i've met a vitani last night"
+
+Kierra nods.
+l
+[Commodore Island Park.]
+
+A grove of young, green-needled pine trees surrounds a small meadow of vibrantly flowering rhododendrons. Hues of bright pink, red, and white create a stunning contrast against the darker grey bark of the pines. Brighter green hemlock trees spread to catch the sunlight, which, in turn, shelter smaller stands of delicious salmonberry bushes, airy leather ferns, and poignantly fragranced sorrels that thrive on the compost of the forest floor. Soft haircap moss covers the river stone-lined path, dew from the mist collecting on it like pollen on bees. The distant wash of rushing water quietly filters through the peaceful air that hangs heavily saturated with moisture.  A stack of rocks is here.
+pride meetplace
+
+This area is illuminated.
+You see the 1st silvery timber wolf (wearing a small gold collar).
+In the area are Hott the Noble Leuian (seated), Dac the Leuian (seated), Shaleu the Leuian, Tiruna the Noble Leuian (seated), Mel the Leuian (seated), Kierra the Leuian (seated), and Stormy the Leuian (seated).
+Obvious paths: southeast* south* west*.
+>
+Stormy says in Leuian, "a hand cleric a few nights ago"
+tact
+Standing in this rank is:
+Hott, Dac, Shaleu, Muther, Tiruna, Mel, Kierra, Stormy, silvery timber wolf
+>
+Kierra nods.
+
+Stormy says in Leuian, "don't remember his name though"
+
+A luminous aurora of rainbow colored light appears in the air above Kierra.
+
+Tiruna says in Leuian, "good to hear that Vitani is back"
+
+A glistening droplet falls from above and splashes upon Kierra's forehead, surrounding her body in an aura of multicolored light!  
+
+Your stomach growls.
+diag all
+
+  You examine Hott the Leuian...
+He appears to be in perfect health.
+  You examine Dac the Leuian...
+He appears to be in perfect health.
+  You examine Shaleu the Leuian...
+She appears to be in perfect health.
+  You examine Tiruna the Leuian...
+She appears to be in perfect health.
+  You examine Mel the Leuian...
+He appears to be in perfect health.
+  You examine Kierra the Leuian...
+She has no apparent injuries, but looks tired.
+  You examine Stormy the Leuian...
+She appears to be in perfect health.
+
+l in bac
+>Inside the open large leather backpack you see a half-eaten long red and yellow steelhead, a colorful spinning top, an open sturdy leopardskin pouch, a tiny green pile of ectoplasm, a wooden sword, a fine Leuian porcelain plate, some Leuian lobster lasagna, a thin silver steelhead fish, a cup of creamy butterscotch pudding, a flowing pitch black satin noble's cloak, a juicy ripe strawberry, a long red and yellow steelhead, some heavy blood red lacquered bone scale mail, some light greying studded leather armor, a heavy studded leather mail, an iron morningstar, a cold cherry tart, a half-eaten fresh baked apple pie, and a white wax candle.
+get stee from bac
+>You remove the half-eaten long red and yellow steelhead from your open large leather backpack.
+eat stee
+>
+Tiruna whispers in Leuian, "gonna be one of those gatherings"
+You take a bite of your half-eaten long red and yellow steelhead.
+Hmmm... not bad!
+nod yes to tir , dreadlocks swinging gently
+>You nod up and down to Tiruna, dreadlocks swinging gently.
+wrin whiskers in amusement
+>You wrinkle your nose whiskers in amusement.
+>
+The luminous rainbow aura about Kierra fades away.
+
+Stormy says in Leuian, "i think there might have been one more but i'm not sure"
+eat stee
+You eat the last of your half-eaten long red and yellow steelhead.
+Hmmm... not bad!
+
+You're no longer hungry.
+>
+Shaleu hugs you.
+
+Tchori just entered from the southeast.
+
+Shaleu smiles.
+
+Tchori bows.
+
+Tiruna nuzzles Tchori.
+hu sha
+You hug Shaleu.
+>
+Hott bows.
+
+Tiruna says in Leuian, "Khatyr"
+
+Tchori smiles.
+
+Shaleu curtsies to Tchori.
+stand silently
+
+Kierra nuzzles Tchori.
+
+Tchori says in Leuian, "greetings Kyn"
+You stand up silently.
+bow to tch deeply, with great respect.
+>You bow to Tchori deeply, with great respect.
+>
+Shaleu hugs Tchori.
+sit swiftly, with a flick of his grizzled old white-furred tail...
+You sit down swiftly, with a flick of his grizzled old white-furred tail....
+>
+ ** You are fully rested.
+
+Shaleu sits down.
+
+Stormy says in Leuian, "but i'm happy that there is another air mage"
+
+Stormy says in Leuian, "of rinanni"
+
+Tchori smiles.
+
+Stormy says in Leuian, "his name is ormmand"
+
+Kierra grins.
+
+Tchori sits down.
+
+Lthe just entered from the southeast.
+
+Tiruna nuzzles Lthe.
+
+Lthe smiles at Tiruna.
+
+Kierra nuzzles Lthe.
+
+Lthe bows.
+
+Lthe smiles at Kierra.
+
+Hott hugs Lthe.
+
+Tchori bows to Lthe.
+
+Lthe sits down.
+
+Lthe smiles at Hott.
+smi to lt
+You smile to Lthe.
+>
+Lthe smiles at Tchori.
+
+Stormy says to Lthe in Leuian, "tchori, and kierra"
+
+Lthe says in Leuian, "Hello, kyn"
+
+Lthe nods to Tiruna.
+l at mu
+You find something suitably reflective and gaze into it...
+
+You look like a 6'0" standard mature delicate boned, very muscular bodied Leuian Cleric.
+You are seated.
+You have very long, dredded, kinky white fur, with widely spaced white eyes, and look disheveled.
+You appear to be happy right now.
+You can be attacked by other players.
+You appear to be in perfect health.
+There is a shining gold emblem affixed to your clothing.
+
+Physical appearance:
+
+You see a grizzled old Khat, with an old scar across his white nose..
+
+                        Visible Equipment
+A light forest green steelwood brigandine          (armor)
+A long pitch black bone nose piercing              (on head)
+Some colorful bamboo panpipes                      (hands)
+A long blood-stained render skin cape              (over armor)
+A Leuian Pride ring                                (ring (left))
+An oak ring of Elindale                            (ring (left))
+A pair of pitch black bearskin pants               (pants)
+
+You have been bestowed the following title(s):
+  Noble of the Realm
+
+>
+Stormy says in Leuian, "trey killed runningdeer inside the spurian bank lastnight"
+
+Tiruna stands up.
+
+Tiruna says in Leuian, "okay Stormy if you could hold on a second"
+
+Stormy says in Leuian, "ok"
+
+Tiruna glances around.
+inv
+Items carried:
+  An oak ring of Elindale [0.1 lbs].
+  An open large leather backpack [31.2 lbs].
+  A long pitch black bone nose piercing [0.5 lbs].
+  An open leather healer's bag [0.1 lbs].
+  An open raccoonskin pack [3.3 lbs].
+  A Leuian Pride ring [0.0 lbs].
+  A light forest green steelwood brigandine [22.0 lbs].
+  An oak-handled iron spiked aclys [2.2 lbs].
+  Some colorful bamboo panpipes [0.1 lbs].
+  A short wickedly pointed brass ice pick [0.1 lbs].
+  A wood club [0.2 lbs].
+  An open raccoonskin pack [0.2 lbs].
+  An open rotting wool sack [1.4 lb].
+  A damaged iron morningstar [3.0 lbs].
+  An ancient gleaming carbide shield [5.6 lbs].
+  A pair of pitch black bearskin pants [0.1 lbs].
+  A long blood-stained render skin cape [0.3 lbs].
+
+Your inventory totals 70.4 lbs.
+>
+Hott listens intently.
+
+Tiruna says in Leuian, "our Khatyr has asked that I lead this gathering"
+
+Tiruna says in Leuian, "and since most of us are here"
+l
+[Commodore Island Park.]
+
+A grove of young, green-needled pine trees surrounds a small meadow of vibrantly flowering rhododendrons. Hues of bright pink, red, and white create a stunning contrast against the darker grey bark of the pines. Brighter green hemlock trees spread to catch the sunlight, which, in turn, shelter smaller stands of delicious salmonberry bushes, airy leather ferns, and poignantly fragranced sorrels that thrive on the compost of the forest floor. Soft haircap moss covers the river stone-lined path, dew from the mist collecting on it like pollen on bees. The distant wash of rushing water quietly filters through the peaceful air that hangs heavily saturated with moisture.  A stack of rocks is here.
+pride meetplace
+
+This area is illuminated.
+You see the 1st silvery timber wolf (wearing a small gold collar).
+In the area are Hott the Noble Leuian (seated), Dac the Leuian (seated), Shaleu the Leuian (seated), Tiruna the Noble Leuian, Tchori the Leuian (seated), Mel the Leuian (seated), Kierra the Leuian (seated), Lthe the Leuian (seated), and Stormy the Leuian (seated).
+Obvious paths: southeast* south* west*.
+>
+Tiruna asks in Leuian, "do you have any problems with starting now?"
+
+Kierra shakes her head from side to side.
+nod no to tir , dreadlocks swinging back and forth
+You shake your head from side to side to Tiruna, dreadlocks swinging back and forth.
+>
+Tiruna says in Leuian, "anyone with a nay , speak up"
+
+Stormy says in Leuian, "sure we can start now"
+
+The silvery timber wolf watches you with pale eyes.
+
+Kierra gestures at the silvery timber wolf.
+
+Tiruna says in Leuian, "okay"
+
+The silvery timber wolf just went west.
+
+Kierra blushes.
+
+A wide-eyed barn owl suddenly appears.
+
+Tiruna says in Leuian, "first , who will take minutes"
+l
+[Commodore Island Park.]
+
+A grove of young, green-needled pine trees surrounds a small meadow of vibrantly flowering rhododendrons. Hues of bright pink, red, and white create a stunning contrast against the darker grey bark of the pines. Brighter green hemlock trees spread to catch the sunlight, which, in turn, shelter smaller stands of delicious salmonberry bushes, airy leather ferns, and poignantly fragranced sorrels that thrive on the compost of the forest floor. Soft haircap moss covers the river stone-lined path, dew from the mist collecting on it like pollen on bees. The distant wash of rushing water quietly filters through the peaceful air that hangs heavily saturated with moisture.  A stack of rocks is here.
+pride meetplace
+
+This area is illuminated.
+You see the 1st wide-eyed barn owl (wearing a small gold collar).
+In the area are Hott the Noble Leuian (seated), Dac the Leuian (seated), Shaleu the Leuian (seated), Tiruna the Noble Leuian, Tchori the Leuian (seated), Mel the Leuian (seated), Kierra the Leuian (seated), Lthe the Leuian (seated), and Stormy the Leuian (seated).
+Obvious paths: southeast* south* west*.
+>
+Stormy hugs the wide-eyed barn owl.
+
+Tchori says in Leuian, "i will"
+
+Tiruna nods to Tchori.
+
+Kierra pets the wide-eyed barn owl.
+
+Stormy pets the wide-eyed barn owl.
+
+Tiruna says in Leuian, "okay this is our agenda tonight"
+sk
+
+Skill                     Remain Level
+ Clawing                   1767   10    
+ First Aid                 99     2     
+ Spellcasting              1195   11    
+ Blunt Weapons             649    6     
+ Channeling                383    10    
+ Identify Weapon Quality   150    3     
+ Brawling                  106    2     
+ Shield Parry              414    5     
+ Throw Weapons             400    4     
+ Swimming                  117    2     
+ Identify Gems/Minerals    100    1     
+ Turn Undead               276    3     
+*Hiding                    0      4     
+ Stealth                   31     1     
+ Play Instruments          773    7     
+ Sharp Weapons             100    1     
+
+>
+Tiruna says in Leuian, "first will be the discussion of the Jesiph debacle"
+
+Tiruna says in Leuian, "then the militia"
+
+Hott sighs.
+
+Tiruna says in Leuian, "then Trey"
+
+Tiruna says in Leuian, "once again Trey"
+
+Tiruna nods to Stormy.
+
+Tiruna asks in Leuian, "can you hold on till then STormy?"
+
+Kierra nuzzles Stormy.
+
+Stormy says in Leuian, "sure"
+
+Tiruna says in Leuian, "thanks sister"
+
+The wide-eyed barn owl spreads its wings.
+
+Tiruna says in Leuian, "okay, through out this discussion we will remain respectful"
+
+Tiruna asks in Leuian, "agreed?"
+
+The wide-eyed barn owl spreads its wings.
+
+Stormy says in Leuian, "patience is a viture after all"
+
+Mel says in Leuian, "nope"
+
+Shaleu hugs Stormy.
+
+Tiruna pokes Mel.
+
+The wide-eyed barn owl screeches loudly.
+
+Mel winces.
+
+Mel asks Tiruna in Leuian, "Maybe?"
+
+Tiruna swishes her tail up and thumps Mel on his head.
+
+Tiruna asks in Leuian, "agreed?"
+
+Mel mutters something beneath his breath.
+
+Kierra giggles.
+
+Mel says to Tiruna in Leuian, "fine "
+
+Tiruna says in Leuian, "thanks brother"
+
+Stormy says in Leuian, "er virtue i mean"
+
+Tiruna says in Leuian, "okay most of us know"
+
+The wide-eyed barn owl glares.
+
+Tiruna says in Leuian, "but for those who don't I'm gonna lay out what happened"
+
+Tiruna says in Leuian, "first Jesiph came back and poseted he considered himself no longer Pride and outcast with his mother"
+
+The wide-eyed barn owl glares.
+
+Stormy pets the wide-eyed barn owl.
+
+Tiruna says in Leuian, "second, we as Clawmasters were so busy with other concerns we did not address that statement"
+
+Tiruna says in Leuian, "no official declaration was made"
+
+Tiruna says in Leuian, "third , our Khatyr got us all together in the Psycian place to talk together with Jesiph"
+
+Tiruna says in Leuian, "fourth, Jesiph was totally disrespectful and demeaning of our Clawmaster Hott"
+
+Lthe nods.
+
+Tiruna says in Leuian, "fifth, our Khatyr lost it and clawed Jesiph twice"
+
+ *** Warning, you have been inactive for 5 minutes.
+l
+ *** You will be disconnected in 10 minute(s) if you do not respond.
+[Commodore Island Park.]
+
+A grove of young, green-needled pine trees surrounds a small meadow of vibrantly flowering rhododendrons. Hues of bright pink, red, and white create a stunning contrast against the darker grey bark of the pines. Brighter green hemlock trees spread to catch the sunlight, which, in turn, shelter smaller stands of delicious salmonberry bushes, airy leather ferns, and poignantly fragranced sorrels that thrive on the compost of the forest floor. Soft haircap moss covers the river stone-lined path, dew from the mist collecting on it like pollen on bees. The distant wash of rushing water quietly filters through the peaceful air that hangs heavily saturated with moisture.  A stack of rocks is here.
+pride meetplace
+
+This area is illuminated.
+You see the 1st wide-eyed barn owl (wearing a small gold collar).
+In the area are Hott the Noble Leuian (seated), Dac the Leuian (seated), Shaleu the Leuian (seated), Tiruna the Noble Leuian, Tchori the Leuian (seated), Mel the Leuian (seated), Kierra the Leuian (seated), Lthe the Leuian (seated), and Stormy the Leuian (seated).
+Obvious paths: southeast* south* west*.
+>
+Tiruna says in Leuian, "sixth, Mariskia saw her Khatyr and mentor clawing and clawed Jesiph and Jesiph died"
+
+Tiruna says in Leuian, "seventh , Jesiph was rezzed immmediately"
+
+Tiruna says in Leuian, "eigth, I have learned tonight that Jesiph tried to hire someone else to assasinate Tchori"
+
+Tiruna asks in Leuian, "everyone got that all clear?"
+
+Lthe raises her hand.
+
+Mel nods to Tiruna.
+
+Tiruna says in Leuian, "lthe"
+
+Panthroe's group just entered from the southeast.
+
+Panthroe says in Leuian, "ok   now ya all can start"
+
+Pantherro has left Panthroe's group.
+
+Tiruna whispers in Leuian, "told you one of those nights"
+
+Pantherro grins.
+
+Panthroe disbands his group.
+
+Tiruna says in Leuian, "we already started"
+
+Stormy smiles.
+
+Lthe says in Leuian, "One modest point.  I've looked over logs of the event from a few.  It is clear that Tchori stopped clawing when he believed Jesiph was approaching death"
+
+Tiruna nods to Lthe.
+
+Stormy hugs Pantherro.
+
+The wide-eyed barn owl screeches loudly.
+
+Panthroe mutters something beneath his breath.
+
+Stormy hugs Panthroe.
+
+Panthroe hugs Stormy.
+
+Panthroe says in Leuian, "someone catch me up"
+
+Tiruna says in Leuian, "that is 9th"
+
+Pantherro hugs Stormy.
+
+Pantherro hugs Shaleu.
+
+Shaleu nuzzles Kierra.
+
+Lthe says in Leuian, "This conforms with Tchori's claim to me that he did not intend to kill Jesiph."
+
+Tiruna nods to Lthe.
+
+Lthe says in Leuian, "done"
+
+Shaleu hugs Panthroe.
+
+Panthroe asks Tiruna in Leuian, "what I miss wordy one?"
+
+Pantherro hugs Kierra.
+
+Tiruna asks in Leuian, "okay, do we all agree with the facts as stated?"
+
+Kierra hugs Panthroe.
+
+Shaleu hugs Pantherro.
+
+Mel nods to Shaleu.
+
+Tiruna says in Leuian, "someone please fill the new arrivals in"
+
+Panthroe says to Tiruna in Leuian, "no as I haven't heard em"
+
+Hott raises his hand.
+
+Mel nods to Tiruna.
+
+Pantherro sits down.
+
+Tiruna says in Leuian, "then trust that your kyn agree"
+
+Tiruna says in Leuian, "Hott"
+
+Hott stands up.
+
+Colstan sits down.
+
+Panthroe removes his light studded leather mail.
+
+Tiruna smiles at Colstan.
+
+Tiruna nuzzles Panthroe.
+
+Tiruna nuzzles Pantherro.
+tact
+Standing in this rank is:
+Colstan, Hott, Dac, Shaleu, Muther, Tiruna, Tchori, Mel, Kierra, Lthe, Stormy, Panthroe, Pantherro, wide-eyed barn owl, tiny grey mouse
+>
+The tiny grey mouse cleans its face.
+
+Pantherro nuzzles Tiruna.
+
+Hott says in Leuian, "as an aside I met jusiph later and slaped him"
+
+Panthroe glances at Lthe.
+
+Pantherro raises an eyebrow.
+
+Panthroe says to Lthe in Leuian, "what I miss so I can open my big mouth more"
+
+Hott says in Leuian, "invoked Klaaw'vor"
+
+Colstan bows to Tiruna.
+
+Tiruna nods to Hott.
+
+Lthe ponders the meaning of the universe for a moment.
+
+The wide-eyed barn owl screeches softly.
+
+Stormy asks Colstan in Leuian, "have we met?"
+
+Colstan scratches his head.
+
+Pantherro pets the tiny grey mouse.
+
+Hott says in Leuian, "he said he would kill me later and ran"
+
+Pantherro smirks.
+
+Hott says in Leuian, "done"
+
+Hott sits down.
+
+Panthroe nods to Lthe.
+
+The tiny grey mouse cleans its face.
+
+Tiruna nods to Hott.
+
+Tiruna asks in Leuian, "he said he would kill you?"
+
+The tiny grey mouse skulks nervously.
+
+The wide-eyed barn owl glares.
+
+Panthroe asks in Leuian, "who's lead this meetin?"
+
+Tiruna says in Leuian, "okay add that to the facts"
+
+Tiruna says in Leuian, "I am"
+
+Tchori says in Leuian, "Tiruna"
+
+Colstan says to Stormy in Leuian, "I have been to a meeting once before, Although someone somehow put me to sleep before it was ended"
+
+Hott nods.
+
+Panthroe asks Tiruna in Leuian, "can I have the floor the lady?"
+
+Tiruna says in Leuian, "okay if there are any other questions on the facts, other than what they are"
+
+Shaleu grins.
+
+Stormy smiles.
+
+Tiruna says in Leuian, "not at this moment , Panthroe"
+
+Lthe ponders the meaning of the universe for a moment.
+
+Lthe raises her hand.
+
+Tiruna asks in Leuian, "do you have a question on the facts, Panthroe?"
+
+Colstan says to Stormy in Leuian, "So if we have or have not I shall introduce myself again or for the first time"
+
+Panthroe says in Leuian, "ok   if no one wants to know abuout my run in with the jesiph thing...."
+
+Colstan says to Stormy in Leuian, "I am Colstan Grenlonar"
+
+Colstan stands up.
+
+Colstan bows to Stormy.
+
+Pantherro frowns.
+
+Colstan sits down.
+
+Stormy stands up.
+
+Stormy bows to Colstan.
+
+Tiruna says in Leuian, "focus kyn, we do not have much time"
+
+Stormy sits down.
+
+Tiruna says in Leuian, "for the dang SGA starts soon"
+
+Tiruna says in Leuian, "Panthroe"
+
+Shaleu stiffens.
+
+Tiruna says in Leuian, "as that directly affects our discussion"
+
+Tiruna says in Leuian, "would you tell us please"
+
+Tiruna smiles at Panthroe.
+
+The tiny grey mouse chases its tail.
+
+Kierra listens intently.
+
+Kierra swishes her tail slowly.
+
+The tiny grey mouse skulks nervously.
+
+Panthroe says in Leuian, "Jesiph thingy seems to deem kyn lessers then his mother...made it quite clear when I met him in the presence of his mother"
+
+The wide-eyed barn owl glares.
+
+Panthroe says in Leuian, "insulted me and the pride"
+
+Stormy pets the wide-eyed barn owl.
+
+Panthroe says in Leuian, "I took no action beyond verbally puutin the kyt in his place"
+
+Tiruna nods.
+
+Panthroe says in Leuian, "though I shoulda slapped him down for his words"
+
+Pantherro swishes his tail.
+
+Tiruna says in Leuian, "thank you Panthroe"
+
+Tiruna says in Leuian, "for your restraint"
+
+ *** Warning, you have been inactive for 5 minutes.
+l
+ *** You will be disconnected in 10 minute(s) if you do not respond.
+[Commodore Island Park.]
+
+A grove of young, green-needled pine trees surrounds a small meadow of vibrantly flowering rhododendrons. Hues of bright pink, red, and white create a stunning contrast against the darker grey bark of the pines. Brighter green hemlock trees spread to catch the sunlight, which, in turn, shelter smaller stands of delicious salmonberry bushes, airy leather ferns, and poignantly fragranced sorrels that thrive on the compost of the forest floor. Soft haircap moss covers the river stone-lined path, dew from the mist collecting on it like pollen on bees. The distant wash of rushing water quietly filters through the peaceful air that hangs heavily saturated with moisture.  A stack of rocks is here.
+pride meetplace
+
+This area is illuminated.
+You see the 1st wide-eyed barn owl (wearing a small gold collar) and the 1st tiny grey mouse (wearing a small gold collar).
+In the area are Colstan the Novice Leuian (seated), Hott the Noble Leuian (seated), Dac the Leuian (seated), Shaleu the Leuian (seated), Tiruna the Noble Leuian, Tchori the Leuian (seated), Mel the Leuian (seated), Kierra the Leuian (seated), Lthe the Leuian (seated), Stormy the Leuian (seated), Panthroe the Leuian, and Pantherro the Leuian (seated).
+Obvious paths: southeast* south* west*.
+>
+Tchori blushes.
+
+Panthroe says in Leuian, "perhaps me years have taught me restraint but   he's a fool in need of a spanking"
+
+Hott raises his hand.
+
+Tiruna says in Leuian, "not many of us disagree with that"
+
+Panthroe says to Hott in Leuian, "sorry friend but...."
+
+Pantherro is now distant.
+
+Panthroe leans on Hott.
+
+Tiruna says in Leuian, "I will take two more hands before we get back to the decision"
+
+Tiruna asks in Leuian, "Lthe did you have your hand up?"
+
+Panthroe asks in Leuian, "decision?"
+
+Kierra blinks.
+
+Pantherro raises an eyebrow.
+
+Tchori's head suddenly begins glowing. He places a hand upon his chest. The glow travels down an arm to his hand. The glow quickly spreads over Tchori's entire body, then fades away.
+
+
+You pick up Tchori's thoughts echoing through the area, "on what to do with me"
+
+Lthe asks Tiruna in Leuian, "I was only wondering if it was worthwhile to be specific about Jesiph's statements regarding Hott?"
+
+Tiruna nuzzles Tchori.
+
+Pantherro furrows his brow.
+
+Panthroe asks Tiruna in Leuian, "what decision?   Jesiph up for outcast?"
+
+Lthe says in Leuian, "done"
+
+Tiruna nods to Lthe.
+
+Pantherro is now confused.
+
+Tiruna says in Leuian, "Panthroe , we will do this orderly and with much respect"
+
+Tiruna says in Leuian, "so please "
+
+Tiruna asks Hott in Leuian, "all of us heard the words, do you mind if I repeat them?"
+
+Panthroe says to Tiruna in Leuian, "I'm tryin    catchin up and no one tellin me the whole thing"
+
+The tiny grey mouse cleans its face.
+
+Tiruna says in Leuian, "I'll make it short then Panthroe"
+
+Pantherro says in Leuian, "Please, for he is not the only one confused here."
+
+Panthroe says in Leuian, "sarcastically   I'm sure"
+
+Tiruna says in Leuian, "tchori lost it and clawed a leuian not formally declared outcast, and then Mariska followed up and he died "
+
+Panthroe winks at Tiruna.
+
+Shaleu nuzzles Pantherro.
+
+Pantherro nuzzles Shaleu.
+
+Panthroe asks Tiruna in Leuian, "we're meanin Jesiph?"
+
+Tiruna asks in Leuian, "Hott may I repeat the words the scum said?"
+
+Tchori says in Leuian, "the Kyn said.. he has not been outcaste yet"
+
+Tiruna says in Leuian, "uh, that one said"
+
+Hott says in Leuian, "go ahead"
+
+Stormy hugs Hott.
+
+Tchori says in Leuian, "we should keep that in mind, as i did not.. and let emotions rule me"
+
+Panthroe pokes Tchori.
+
+Tiruna says in Leuian, "this thing said Hott was not worthy of being a Breeze"
+
+Panthroe says to Tchori in Leuian, "hush"
+
+The wide-eyed barn owl spreads its wings.
+
+Tiruna says in Leuian, "among other things"
+
+ *** Warning, you have been inactive for 5 minutes.
+l
+ *** You will be disconnected in 10 minute(s) if you do not respond.
+[Commodore Island Park.]
+
+A grove of young, green-needled pine trees surrounds a small meadow of vibrantly flowering rhododendrons. Hues of bright pink, red, and white create a stunning contrast against the darker grey bark of the pines. Brighter green hemlock trees spread to catch the sunlight, which, in turn, shelter smaller stands of delicious salmonberry bushes, airy leather ferns, and poignantly fragranced sorrels that thrive on the compost of the forest floor. Soft haircap moss covers the river stone-lined path, dew from the mist collecting on it like pollen on bees. The distant wash of rushing water quietly filters through the peaceful air that hangs heavily saturated with moisture.  A stack of rocks is here.
+pride meetplace
+
+This area is illuminated.
+You see the 1st wide-eyed barn owl (wearing a small gold collar) and the 1st tiny grey mouse (wearing a small gold collar).
+In the area are Colstan the Novice Leuian (seated), Hott the Noble Leuian (seated), Dac the Leuian (seated), Shaleu the Leuian (seated), Tiruna the Noble Leuian, Tchori the Leuian (seated), Mel the Leuian (seated), Kierra the Leuian (seated), Lthe the Leuian (seated), Stormy the Leuian (seated), Panthroe the Leuian, and Pantherro the Leuian (seated).
+Obvious paths: southeast* south* west*.
+>
+Stormy holds the wide-eyed barn owl close.
+
+Pantherro frowns.
+
+Tiruna says in Leuian, "our Khatyr lost it in rage"
+
+Tiruna says in Leuian, "now"
+
+Tiruna says in Leuian, "okay then here is what we must decide"
+
+Hott raises his hand.
+who range race
+List will be restricted to those within range.
+Race who list activated!
+
+                Current Leuian Adventurers:
+
+Current Adventurers
+
+ Colstan Grenlonar                   Cleric Zangief                     
+ Hott Breeze                         Dac Darkstar                       
+ Shaleu Dragins                      Muther Gunn                        
+ Tiruna Shooge                       Tchori Darkstar                    
+ Xarus Arawn                         Mel Greyhand                       
+ Kierra Kovu                         Lthe Wain                          
+ Stormy Burnbubble                   Rutferd Aren                       
+ Panthroe Lyonsmane                  Pantherro Razorklaws               
+
+You notice 16 adventurers.
+>
+Tiruna says in Leuian, "hott yes, you first"
+
+Hott stands up.
+
+Panthroe asks Tiruna in Leuian, "ok    just so I'm clear....we're worried about a long gone khat that defneds an outcast and defames kyn over long known honorable kyn?"
+
+Shaleu says in Leuian, "no"
+
+Tiruna says to Panthroe in Leuian, "if you wait a bit it might all come clear to you"
+
+Hott says in Leuian, "if I rember jesiph had different name when first in realm"
+
+Hott says in Leuian, "and during hunt he pestered me to leave pride"
+
+Panthroe nods to Hott.
+
+Hott says in Leuian, "done"
+
+Hott sits down.
+
+Tiruna says in Leuian, "okay let's make this clear here"
+
+Tiruna says in Leuian, "we have a few things to decide, one after the other"
+
+Tiruna says in Leuian, "first"
+
+The wide-eyed barn owl spreads its wings.
+
+Pantherro is now distant.
+
+The wide-eyed barn owl spreads its wings.
+
+Tiruna says in Leuian, "Jesiph declared himself outcast and standing with his mother"
+
+Colstan raises his hand.
+
+Tiruna says in Leuian, "do we allow rash kyn who speak from anger to declare themselves outcast, or do we follow what our way has always been, to require a formal declaration  by the Clawmasters and a vote of the Pride"
+
+Shaleu nods up and down.
+
+Tiruna says in Leuian, "I will take hands on this topic only"
+
+Shaleu says in Leuian, "Yes"
+
+Tiruna asks in Leuian, "is your hand up?"
+
+Tiruna nuzzles Shaleu.
+
+Panthroe says to Tiruna in Leuian, "ya need to ask one way or the other then"
+
+Shaleu shrugs.
+
+Tiruna says in Leuian, "is either yes or no"
+
+Pantherro raises his hand.
+
+Panthroe raises his hand.
+
+Tiruna says in Leuian, "allow him to state himself, or follow our ways, remember what we say now becomes precedent for the future"
+
+Hott just removed a stained-glass vial of elvish water from within his open ribbon tied satin clerical bag.
+
+Tiruna says in Leuian, "Shaleu"
+diag all
+You see Hott trying to drink from his open ribbon tied satin clerical bag.
+
+  You examine Colstan the Leuian...
+He appears to be in perfect health.
+  You examine Hott the Leuian...
+He appears to be in perfect health.
+  You examine Dac the Leuian...
+He appears to be in perfect health.
+  You examine Shaleu the Leuian...
+She appears to be in perfect health.
+  You examine Tiruna the Leuian...
+She appears to be in perfect health.
+  You examine Tchori the Leuian...
+He appears to be in perfect health.
+  You examine Mel the Leuian...
+He appears to be in perfect health.
+  You examine Kierra the Leuian...
+She appears to be in perfect health.
+  You examine Lthe the Leuian...
+She appears to be in perfect health.
+  You examine Stormy the Leuian...
+She appears to be in perfect health.
+  You examine Panthroe the Leuian...
+He appears to be in perfect health.
+  You examine Pantherro the Leuian...
+He appears to be in perfect health.
+
+>You see Hott trying to drink from his open ribbon tied satin clerical bag.
+
+Shaleu says in Leuian, "what"
+
+Tiruna says in Leuian, "then Pantherrow, I thinks"
+
+Dac raises his hand.
+
+Tiruna says to Lthe in Leuian, "please keep hands"
+
+Shaleu raises her hand.
+You see Hott take a drink from his stained-glass vial of elvish water.
+
+Panthroe says in Leuian, "Pantherro first   then me   then Dac"
+
+Hott just placed a stained-glass vial of elvish water within his open ribbon tied satin clerical bag.
+
+The tiny grey mouse skulks nervously.
+
+Tiruna says in Leuian, "Pantherro"
+
+Stormy scratches head.
+
+Mel furrows his brow.
+
+Pantherro stands up.
+
+Stormy pets the tiny grey mouse.
+
+The tiny grey mouse cleans its face.
+
+Kierra raises her hand.
+
+The tiny grey mouse makes a chittering sound.
+
+Mel nods.
+
+Pantherro says in Leuian, "The ways, the traditions have been set for a reason, to help guide our actions. "
+
+Tiruna listens intently respectfully to Pantherro.
+
+Pantherro asks in Leuian, "If one decides he does not wish to follow them and declares himself outkast, and acts as one, what do the ways say of that?"
+
+Tiruna asks in Leuian, "do you wish a response now, or later?"
+
+Panthroe says to Tiruna in Leuian, "save it hun   my speech will reflect his"
+
+Mel raises an eyebrow at Panthroe.
+
+Tiruna says in Leuian, "was not talking to you directly Panthroe"
+
+Panthroe says to Tiruna in Leuian, "I know"
+
+Tiruna says in Leuian, "was talking to Pantherro "
+
+Panthroe says to Tiruna in Leuian, "I know"
+
+Pantherro says in Leuian, "We are all free to chose our paths, and to reap the consequences."
+
+The tiny grey mouse chases its tail.
+
+Pantherro says in Leuian, "Done."
+
+Pantherro sits down.
+
+Pantherro pets the tiny grey mouse.
+
+Hott raises his hand.
+
+Panthroe paces.
+
+Tiruna says in Leuian, "Pantherro asked a question"
+
+Tiruna says in Leuian, "we have always previously required a formal declaration"
+
+Tiruna says in Leuian, "because , our kyn know, sometimes we are rash and live to regret it"
+
+Tiruna says to Lthe in Leuian, "who is next"
+
+Panthroe mumbles beaurocrats.
+
+Lthe says in Leuian, "Panthroe"
+
+Pantherro frowns.
+
+Dac sighs.
+
+Tiruna says in Leuian, "we will speak respectfully tonight , completely "
+
+Tiruna says to Panthroe in Leuian, "brother, you are u0p"
+
+Panthroe nods to Tiruna.
+
+The tiny grey mouse cleans its face.
+
+Panthroe bows to Tiruna.
+
+The wide-eyed barn owl glares.
+
+Stormy pets the wide-eyed barn owl.
+
+The tiny grey mouse just went west.
+
+The wide-eyed barn owl screeches ominously.
+
+Tiruna listens intently and respectuflly to Panthroe.
+
+The wide-eyed barn owl just went south.
+l
+[Commodore Island Park.]
+
+A grove of young, green-needled pine trees surrounds a small meadow of vibrantly flowering rhododendrons. Hues of bright pink, red, and white create a stunning contrast against the darker grey bark of the pines. Brighter green hemlock trees spread to catch the sunlight, which, in turn, shelter smaller stands of delicious salmonberry bushes, airy leather ferns, and poignantly fragranced sorrels that thrive on the compost of the forest floor. Soft haircap moss covers the river stone-lined path, dew from the mist collecting on it like pollen on bees. The distant wash of rushing water quietly filters through the peaceful air that hangs heavily saturated with moisture.  A stack of rocks is here.
+pride meetplace
+
+This area is illuminated.
+In the area are Colstan the Novice Leuian (seated), Hott the Noble Leuian (seated), Dac the Leuian (seated), Shaleu the Leuian (seated), Tiruna the Noble Leuian, Tchori the Leuian (seated), Mel the Leuian (seated), Kierra the Leuian (seated), Lthe the Leuian (seated), Stormy the Leuian (seated), Panthroe the Leuian, and Pantherro the Leuian (seated).
+Obvious paths: southeast* south* west*.
+>
+Panthroe says in Leuian, "would seem to me    that one that choses the path of outcast openly and with plenty of time to rescind a "rash" action doesn't deserve our worry beyond naming him the outcast he claims to be"
+
+Pantherro nods.
+
+Panthroe says in Leuian, "no big worry or debate is needed"
+
+Panthroe says in Leuian, "Jesiph has been back amog us for weeks now"
+
+Panthroe says in Leuian, "his tune hasn't chaqnged so why the worry    name him outcast as he has already declared himself"
+
+Panthroe says in Leuian, "cut the politics and act people"
+
+Panthroe says in Leuian, "Dac's turn"
+
+Dac stands up.
+
+Panthroe says in Leuian, "then Kierra"
+
+Tiruna says in Leuian, "a moment dac"
+
+Hott listens intently.
+
+Dac sits down.
+
+Tiruna says in Leuian, "and Lthe is holding hands"
+com dac
+You comfort Dac.
+>
+Lthe says in Leuian, "No, Shaleu after Dac"
+
+Tiruna says in Leuian, "you bring up the heart of the problem"
+
+Tiruna says in Leuian, "as did Pantherro"
+
+Tiruna says in Leuian, "we have our ways for a reason to guide us"
+
+Tiruna says in Leuian, "yet our ways say to declare formally"
+
+Tiruna says in Leuian, "we did not do so"
+
+Panthroe rolls his eyes.
+
+Tiruna says in Leuian, "and we met with him as if he was not outcast"
+
+Pantherro mumbles technicality.
+
+Lthe raises her hand.
+
+Tiruna says in Leuian, "this is not a simple question"
+
+Tiruna nods to Lthe.
+
+Tiruna says in Leuian, "Dac next"
+
+Dac stands up.
+
+Panthroe asks Tiruna in Leuian, "with all due respect to you and all other kyn     how much more of a declaration do ya need then the one in point?"
+
+Dac says in Leuian, "First off...I don't say much but you're all lucky tonight."
+
+Dac says to Panthroe in Leuian, "Bestill your tongue, brother."
+
+Panthroe bows to Dac.
+
+Dac says to Panthroe in Leuian, "We're all leuians here."
+
+Hott listens intently.
+
+Dac says in Leuian, "We all have our duty as tradition, honor, and whatever morales bind us.  Abide them as you abide yourself."
+
+Dac says in Leuian, "We here as a Pride are not a government.  We are a community of peers."
+
+Panthroe smiles.
+
+Stormy scratches arm.
+
+Dac says in Leuian, "Your clawmaster, lawmaster, and khatyr are nothing more than community members putting in their time to offer their services."
+
+Tiruna nods to Dac.
+
+Pantherro scratches Stormys arm.
+
+Dac says in Leuian, "We are bound by tradition to declare.  That is, to formally declare."
+
+Tchori smiles.
+
+Stormy smiles at Pantherro.
+
+Panthroe chuckles.
+
+Dac says in Leuian, "Whether someone declares themself outcast or not...thats up to them, we do as we always have as leuians."
+
+Dac says in Leuian, "We are leuians and I'll be damned if lakar influence us in that respect."
+
+Tiruna nods.
+
+Dac says in Leuian, "If we change to not declare formally, then thats our decision as leuians."
+
+Shaleu smiles at Dac.
+
+Kierra swishes her tail.
+
+Dac says in Leuian, "By his words he's an outcast, a lakar."
+
+Panthroe shakes his head from side to side.
+
+Panthroe says in Leuian, "one or the other brother"
+
+Dac asks in Leuian, "By ours?  I haven't heard word yet...but from what I'd gather I'd personally accept his declaration.  I will however not shed his blood as to me he is still a leuian."
+
+Dac says in Leuian, "Thats my call and my charge.  Its up to us here as leuians to decide the formalities if youwill."
+
+Panthroe nods to Dac.
+
+Dac says to Panthroe in Leuian, "Words are actions in and among themselves."
+
+ *** Warning, you have been inactive for 5 minutes.
+l
+ *** You will be disconnected in 10 minute(s) if you do not respond.
+[Commodore Island Park.]
+
+A grove of young, green-needled pine trees surrounds a small meadow of vibrantly flowering rhododendrons. Hues of bright pink, red, and white create a stunning contrast against the darker grey bark of the pines. Brighter green hemlock trees spread to catch the sunlight, which, in turn, shelter smaller stands of delicious salmonberry bushes, airy leather ferns, and poignantly fragranced sorrels that thrive on the compost of the forest floor. Soft haircap moss covers the river stone-lined path, dew from the mist collecting on it like pollen on bees. The distant wash of rushing water quietly filters through the peaceful air that hangs heavily saturated with moisture.  A stack of rocks is here.
+pride meetplace
+
+This area is illuminated.
+In the area are Colstan the Novice Leuian (seated), Hott the Noble Leuian (seated), Dac the Leuian, Shaleu the Leuian (seated), Tiruna the Noble Leuian, Tchori the Leuian (seated), Mel the Leuian (seated), Kierra the Leuian (seated), Lthe the Leuian (seated), Stormy the Leuian (seated), Panthroe the Leuian, and Pantherro the Leuian (seated).
+Obvious paths: southeast* south* west*.
+>
+Panthroe says in Leuian, "dac well said and well spoken"
+
+Dac sits down.
+
+Tiruna says in Leuian, "Lthe,how many more hands"
+
+Lthe says to Shaleu in Leuian, "Kierra, Hott, then me"
+
+Lthe says in Leuian, "Sorry, Shaleu first"
+
+Lthe grins.
+
+Shaleu nods.
+
+Kierra nods.
+
+Kierra nuzzles Shaleu.
+
+Shaleu stands up.
+
+Tiruna listens intently to Shaleu and respectuflly.
+
+Hott listens intently.
+
+Stormy nuzzles Shaleu.
+
+Kierra listens intently.
+
+Shaleu glances at Tiruna.
+
+Pantherro listens intently.
+
+Shaleu says in Leuian, "first, as Khatyr I have had to name kyn outcaste"
+
+Tiruna sighs.
+
+Tiruna nods.
+
+Hott sighs.
+
+Shaleu says in Leuian, "always the issues were brought to the law master"
+
+Tiruna nods.
+
+Shaleu says in Leuian, "then presented to the Pride and the Clawmasters"
+
+Tiruna nods.
+
+Shaleu says in Leuian, "they were and are the ones that determine who and who is not 'outcaste'"
+
+Panthroe says in Leuian, "excuse me a moment"
+
+Panthroe just went west.
+
+Tiruna nods to Shaleu.
+
+Shaleu says in Leuian, "Now, "
+
+Shaleu says in Leuian, "It seems to me that we have left the issue"
+
+Shaleu says in Leuian, "and centered on Jessiph"
+
+Hott nods.
+
+Tiruna says in Leuian, "must agree that it didn't matter he declared himself outcast"
+
+Shaleu glances at Tiruna.
+
+Shaleu sits down.
+
+Tiruna sighs.
+
+Shaleu says in Leuian, "done"
+
+Shaleu bows head and her ears twitch angrily.
+
+Tiruna says in Leuian, "I agree Shaleu"
+
+Tiruna says in Leuian, "we have our ways"
+
+Hott nods.
+
+Tiruna says in Leuian, "and how it's been done"
+
+Tiruna says in Leuian, "we must agree here that we hold to our ways or not"
+
+Tiruna says in Leuian, "next hand"
+
+Lthe says in Leuian, "Kierra"
+
+ *** Warning, you have been inactive for 5 minutes.
+l
+ *** You will be disconnected in 10 minute(s) if you do not respond.
+
+Kierra stands up.
+[Commodore Island Park.]
+
+A grove of young, green-needled pine trees surrounds a small meadow of vibrantly flowering rhododendrons. Hues of bright pink, red, and white create a stunning contrast against the darker grey bark of the pines. Brighter green hemlock trees spread to catch the sunlight, which, in turn, shelter smaller stands of delicious salmonberry bushes, airy leather ferns, and poignantly fragranced sorrels that thrive on the compost of the forest floor. Soft haircap moss covers the river stone-lined path, dew from the mist collecting on it like pollen on bees. The distant wash of rushing water quietly filters through the peaceful air that hangs heavily saturated with moisture.  A stack of rocks is here.
+pride meetplace
+
+This area is illuminated.
+In the area are Colstan the Novice Leuian (seated), Hott the Noble Leuian (seated), Dac the Leuian (seated), Shaleu the Leuian (seated), Tiruna the Noble Leuian, Tchori the Leuian (seated), Mel the Leuian (seated), Kierra the Leuian, Lthe the Leuian (seated), Stormy the Leuian (seated), and Pantherro the Leuian (seated).
+Obvious paths: southeast* south* west*.
+>
+Hott listens intently.
+
+Pantherro listens intently.
+
+Kierra says in Leuian, "when we are first born, immediatly we start learning"
+
+Kierra says in Leuian, "we learn the ways of leuians"
+
+Stormy nuzzles Shaleu.
+
+Kierra says in Leuian, "of honor, love, compaision"
+
+Kierra says in Leuian, "as well as pride, loyalty and many other values"
+
+Kierra says in Leuian, "these have been ahnded down from generation to generation"
+
+Kierra coughs handed.
+
+Kierra says in Leuian, "we learn from their mistakes"
+
+Kierra says in Leuian, "and from our own"
+
+Kierra says in Leuian, "they guideline are set up for just that"
+
+Kierra says in Leuian, "to guide us"
+
+Kierra says in Leuian, "just because he said he is not leuain"
+
+Kierra says in Leuian, "doesn't mean its true"
+
+Kierra says in Leuian, "look at sho"
+
+Tiruna nods.
+
+Kierra says in Leuian, "after all the nasty stuff he did"
+
+Kierra says in Leuian, "no matter how much i wanted to kill him"
+
+Kierra says in Leuian, "i didn't beacuse he was leuain by our standards"
+
+Kierra says in Leuian, "not by my own"
+
+Tchori smiles at Kierra.
+
+Kierra says in Leuian, "i put my judgement aside"
+
+Kierra says in Leuian, "and i put it in the hands of my peers"
+
+Kierra says in Leuian, "so it should be and stay"
+
+Kierra sits down.
+
+Kierra says in Leuian, "done"
+
+Tiruna smiles at Kierra.
+
+Lthe says in Leuian, "Hott"
+
+Tchori nods to Kierra.
+
+Tchori nuzzles Kierra.
+
+Hott stands up.
+
+Kierra nuzzles Tchori.
+l
+[Commodore Island Park.]
+
+A grove of young, green-needled pine trees surrounds a small meadow of vibrantly flowering rhododendrons. Hues of bright pink, red, and white create a stunning contrast against the darker grey bark of the pines. Brighter green hemlock trees spread to catch the sunlight, which, in turn, shelter smaller stands of delicious salmonberry bushes, airy leather ferns, and poignantly fragranced sorrels that thrive on the compost of the forest floor. Soft haircap moss covers the river stone-lined path, dew from the mist collecting on it like pollen on bees. The distant wash of rushing water quietly filters through the peaceful air that hangs heavily saturated with moisture.  A stack of rocks is here.
+pride meetplace
+
+This area is illuminated.
+In the area are Colstan the Novice Leuian (seated), Hott the Noble Leuian, Dac the Leuian (seated), Shaleu the Leuian (seated), Tiruna the Noble Leuian, Tchori the Leuian (seated), Mel the Leuian (seated), Kierra the Leuian (seated), Lthe the Leuian (seated), Stormy the Leuian (seated), and Pantherro the Leuian (seated).
+Obvious paths: southeast* south* west*.
+l s
+>[Commodore Island Park.]
+
+A soothing peace has settled over the forest here at the center of the park, where the mists coalesce and then dance back out again amongst the trees. Many small rivulets of water feed into an indent atop a large collection of boulders. As the water overflows the pool, it spills across the sides of the stone to trickle down the steps of the rock formation. Smaller pools are formed as it cascades over the rock until at last the rivulets are reunited into a single small stream which finds its way home to the larger river. Delicate flowering moss has grown over the stones of this centerpiece of the forest, and a small family of larks takes delight in bathing beneath the tiny waterfalls and mossy pools, even as the melodic chirping of other birds wafts through the tree branches all around.  A stack of rocks and a closed door are here.
+
+This area is illuminated.
+You see the 1st wide-eyed barn owl (wearing a small gold collar).
+Obvious paths: north* northeast* east* southeast* south* southwest* west* northwest*.
+l w
+>[Village.]
+
+Amidst the towering trees and verdant mid level bushes, several smaller cabins blend into the surrounding park. The peaked roofs of the cabins bear the familiar carving as seen on most of the village homes and their small porches sport plantings of flowering wild roses and perky daisies accented with the fronds of leather ferns and shelf fungus.  A closed chiseled petrified redwood door, a closed arched slate grey granite boulder door, a closed salt stained cargo hatch, a closed vine etched glass door, and a decaying pile of planks are here.
+
+This area is illuminated.
+You see the 1st silvery timber wolf (wearing a small gold collar) and the 1st tiny grey mouse (wearing a small gold collar).
+Obvious paths: east* southeast* south* northwest*.
+l
+>[Commodore Island Park.]
+
+A grove of young, green-needled pine trees surrounds a small meadow of vibrantly flowering rhododendrons. Hues of bright pink, red, and white create a stunning contrast against the darker grey bark of the pines. Brighter green hemlock trees spread to catch the sunlight, which, in turn, shelter smaller stands of delicious salmonberry bushes, airy leather ferns, and poignantly fragranced sorrels that thrive on the compost of the forest floor. Soft haircap moss covers the river stone-lined path, dew from the mist collecting on it like pollen on bees. The distant wash of rushing water quietly filters through the peaceful air that hangs heavily saturated with moisture.  A stack of rocks is here.
+pride meetplace
+
+This area is illuminated.
+In the area are Colstan the Novice Leuian (seated), Hott the Noble Leuian, Dac the Leuian (seated), Shaleu the Leuian (seated), Tiruna the Noble Leuian, Tchori the Leuian (seated), Mel the Leuian (seated), Kierra the Leuian (seated), Lthe the Leuian (seated), Stormy the Leuian (seated), and Pantherro the Leuian (seated).
+Obvious paths: southeast* south* west*.
+>
+Hott says in Leuian, "if we declare jes outcast now the subject becomes moot"
+
+Pantherro chuckles and nod.
+
+Hott says in Leuian, "and back ti the main subject"
+
+Stormy scratches head.
+
+Hott says in Leuian, "so vote hem outcast now"
+
+Talishia, with a soft step, just entered from the southeast.
+
+Talishia sits down.
+
+Stormy hugs Talishia.
+
+Kierra swishes her tail around your body.
+
+Kierra nuzzles Talishia.
+stand silently
+You stand up silently.
+>
+Pantherro leans on Kierra.
+
+ ** Current fatigue: 64 out of 65
+
+Tiruna asks in Leuian, "how do we vote someone outcast after the fact?"
+
+Tiruna says in Leuian, "I ask you"
+' excuse me
+
+Muther says in Leuian, " excuse me"
+>
+Hott says in Leuian, "then worry about mitagateing factors"
+s
+[Commodore Island Park.]
+
+A soothing peace has settled over the forest here at the center of the park, where the mists coalesce and then dance back out again amongst the trees. Many small rivulets of water feed into an indent atop a large collection of boulders. As the water overflows the pool, it spills across the sides of the stone to trickle down the steps of the rock formation. Smaller pools are formed as it cascades over the rock until at last the rivulets are reunited into a single small stream which finds its way home to the larger river. Delicate flowering moss has grown over the stones of this centerpiece of the forest, and a small family of larks takes delight in bathing beneath the tiny waterfalls and mossy pools, even as the melodic chirping of other birds wafts through the tree branches all around.  A stack of rocks and a closed door are here.
+
+This area is illuminated.
+You see the 1st wide-eyed barn owl (wearing a small gold collar).
+Obvious paths: north* northeast* east* southeast* south* southwest* west* northwest*.
+duck quickly out of sight ...
+quit
+>You duck quickly out of sight ...
+>
+    Dragon's Gate Menu
+
+ 1. Explore Dragon's Gate.
+ 2. Create, Delete, or View a character.
+ 3. Select current character.
+ 4. Display notices and version notes.
+16. Disconnect.
+
+Your active character is: Muther Gunn
+
+Your selection? 
+16
+
+ ** Goodbye from Mythic Entertainment! **

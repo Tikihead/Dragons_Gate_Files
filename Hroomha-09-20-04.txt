@@ -1,0 +1,1286 @@
+l
+[Valytan's Archer's Outlet.]
+
+Displays built into the newly fashioned walls hold bows and arrows of every make and kind.  Soft, green silk pillows gently hold the items for all to view behind the glass that encloses them. The wooden floor is mostly covered with a finely woven rug with the most intricate of designs.  A single mahogany counter stands at the far end of the shop.  An oak ladder is here.
+
+This room is illuminated.
+Obvious exits: None.
+pon treetown
+>You ponder treetown.
+shop list all
+>
+Id# Item Type  Item Name                                     New Amount Value
+--- ---------- --------------------------------------------- --- ------ -----
+  1 Arrows     polished river stones                         Yes x100   21sp
+  2 Arrows     quiver of wooden arrows                       Yes x100   10sp
+  3 Arrows     quiver of oak arrows                          Yes x100   64sp
+  4 Arrows     quiver of steelwood arrows                    Yes x100   75sp
+  5 Arrows     quiver of morbius tipped rosewood arrows      Yes x100   1gp+8sp
+  6 Arrows     quiver of wooden bolts                        Yes x100   18sp
+  7 Arrows     quiver of steelwood bolts                     Yes x100   45sp
+  8 Arrows     quiver of morbius bolts                       Yes x77    2gp+2sp
+  9 Bows       light studded buckskin sling                  Yes x25    13gp+50sp
+ 10 Bows       simple elm short bow                          Yes x25    18gp
+ 11 Bows       short oak hunting bow                         Yes x25    45gp
+ 12 Bows       layered wooden composite bow                  Yes x25    54gp
+ 13 Bows       emerald inlaid steelwood short bow            Yes x25    67gp+50sp
+ 14 Bows       feathered yew war bow                         Yes x25    72gp
+ 15 Bows       beautiful steelwood longbow                   Yes x25    90gp
+ 16 Bows       giant simple yew crossbow                     Yes x25    35gp+10sp
+ 17 Bows       giant intricately carved steelwood crossbow   Yes x25    225gp
+
+shop ex 2
+>You examine the quiver of wooden arrows...
+
+It is in new condition.
+It weighs about 0.5 lbs (at human size)
+It has enough for 60 shots.
+
+shop ex 3
+>You examine the quiver of oak arrows...
+
+It is in new condition.
+It weighs about 0.5 lbs (at human size)
+It has enough for 60 shots.
+
+shop ex 4
+>You examine the quiver of steelwood arrows...
+
+It is in new condition.
+It weighs about 0.5 lbs (at human size)
+It has enough for 60 shots.
+
+shop ex 5
+>You examine the quiver of morbius tipped rosewood arrows...
+
+It is in new condition.
+It weighs about 0.5 lbs (at human size)
+It has enough for 60 shots.
+
+shop ex 6
+>You examine the quiver of wooden bolts...
+
+It is in new condition.
+It weighs about 0.8 lbs (at human size)
+It has enough for 50 shots.
+
+shop ex 7
+>You examine the quiver of steelwood bolts...
+
+It is in new condition.
+It weighs about 0.8 lbs (at human size)
+It has enough for 50 shots.
+
+shop ex 8
+>You examine the quiver of morbius bolts...
+
+It is in new condition.
+It weighs about 0.8 lbs (at human size)
+It has enough for 50 shots.
+
+l
+>[Valytan's Archer's Outlet.]
+
+Displays built into the newly fashioned walls hold bows and arrows of every make and kind.  Soft, green silk pillows gently hold the items for all to view behind the glass that encloses them. The wooden floor is mostly covered with a finely woven rug with the most intricate of designs.  A single mahogany counter stands at the far end of the shop.  An oak ladder is here.
+
+This room is illuminated.
+Obvious exits: None.
+shop list all
+>
+Id# Item Type  Item Name                                     New Amount Value
+--- ---------- --------------------------------------------- --- ------ -----
+  1 Arrows     polished river stones                         Yes x100   21sp
+  2 Arrows     quiver of wooden arrows                       Yes x100   10sp
+  3 Arrows     quiver of oak arrows                          Yes x100   64sp
+  4 Arrows     quiver of steelwood arrows                    Yes x100   75sp
+  5 Arrows     quiver of morbius tipped rosewood arrows      Yes x100   1gp+8sp
+  6 Arrows     quiver of wooden bolts                        Yes x100   18sp
+  7 Arrows     quiver of steelwood bolts                     Yes x100   45sp
+  8 Arrows     quiver of morbius bolts                       Yes x77    2gp+2sp
+  9 Bows       light studded buckskin sling                  Yes x25    13gp+50sp
+ 10 Bows       simple elm short bow                          Yes x25    18gp
+ 11 Bows       short oak hunting bow                         Yes x25    45gp
+ 12 Bows       layered wooden composite bow                  Yes x25    54gp
+ 13 Bows       emerald inlaid steelwood short bow            Yes x25    67gp+50sp
+ 14 Bows       feathered yew war bow                         Yes x25    72gp
+ 15 Bows       beautiful steelwood longbow                   Yes x25    90gp
+ 16 Bows       giant simple yew crossbow                     Yes x25    35gp+10sp
+ 17 Bows       giant intricately carved steelwood crossbow   Yes x25    225gp
+
+shop ex 10
+>You examine the simple elm short bow...
+
+It is in new condition.
+It weighs about 1.5 lbs (at human size)
+
+shop ex 11
+>You examine the short oak hunting bow...
+
+It is in new condition.
+It weighs about 2.5 lbs (at human size)
+
+shop ex 12
+>You examine the layered wooden composite bow...
+
+It is in new condition.
+It weighs about 2.5 lbs (at human size)
+
+shop ex 17
+>You examine the giant intricately carved steelwood crossbow...
+
+It is in new condition.
+It weighs about 9.0 lbs (at human size)
+
+shop buy 16
+>You step forward and speak with the proprietor...
+
+The merchant accepts your 35gp+10sp and hands you the giant simple yew crossbow.
+The merchant luckily has one in your size.
+shop buy 8
+>You step forward and speak with the proprietor...
+
+The merchant accepts your 2gp+2sp and hands you the quiver of morbius bolts.
+The merchant luckily has one in your size.
+put cr in bac
+>You place the giant simple yew crossbow within your open large pitch black leather backpack.
+put bol in bac
+>You place the quiver of morbius bolts within your open large pitch black leather backpack.
+shop buy 5
+>You step forward and speak with the proprietor...
+
+The merchant accepts your 1gp+8sp and hands you the quiver of morbius tipped rosewood arrows.
+The merchant luckily has one in your size.
+pok arr
+>You poke the quiver of morbius tipped rosewood arrows.
+put arr in bac
+>You place the quiver of morbius tipped rosewood arrows within your open large pitch black leather backpack.
+go door
+>I don't see what you are referring to.
+l
+>[Valytan's Archer's Outlet.]
+
+Displays built into the newly fashioned walls hold bows and arrows of every make and kind.  Soft, green silk pillows gently hold the items for all to view behind the glass that encloses them. The wooden floor is mostly covered with a finely woven rug with the most intricate of designs.  A single mahogany counter stands at the far end of the shop.  An oak ladder is here.
+
+This room is illuminated.
+Obvious exits: None.
+go ex
+>I don't see what you are referring to.
+go la
+>[Treehaven, Main Platform]
+
+Leaves and small twigs spot the walkway as it hugs against the trunk of the Mother Tree. New sprouts from the branches above hang softly over the wooden planks, shading it slightly. A large building rests gently against the trunk in the limbs above, nestled as though it grew from within the tree itself.  An oak ladder is here.
+
+This area is illuminated.
+Obvious paths: north* southwest*.
+n
+>[Treehaven, Main Platform]
+
+New wooden planks fit side by side creating the walkway that extends proudly upon the reconstructed supports. The view of the forest to the northwest is quite panoramic, despite the burnt spikes of trees in the midst. A staircase here seems to have some enchantment, judging by the strange appearance of unicorns, bears and owls on the lower steps. Strange, due to the fact that they don't appear carved, painted, or put there by any hand-made means. It is as if the glyphs grew into the wood itself. Mysterious symbols are scattered throughout the portraits, which shimmer with a golden whisper as they are approached.
+
+This area is illuminated.
+Obvious paths: north* south* northwest*.
+nw
+n
+n
+>[Treehaven, Main Platform]
+
+Delicately crafted latticework serves as the railing opposite the recovering Mother tree. An arching bridge, which has slowly begun to be replaced by interwoven branches from the Mother Tree and the one to the north, spans the gap between the platform and the walkway residing against the nothern tree.
+
+This area is illuminated.
+Obvious paths: north* southeast* west*.
+[Treehaven, Oaken Bridge.]
+
+Finely carved oak filigree lines the top edges of the oaken beams that serve as railing for the wooden bridge. Carvings of young firian maidens stand upon the ends of the handrails, decorating the walkway that spans the platforms between the Northern Tree and Mother Tree. Lush limbs have carefully wrapped around the bottom and sides of the bridge, creating a natural and firm foundation. The view of the surrounding forest is breathtaking.
+
+This area is illuminated.
+Obvious paths: north* south*.
+[Treehaven, Northern Platform]
+
+The freshly built wooden walkway passes just in front of the refurbished tavern of old. Intricately crafted railings line the platform as it meanders about the Northern tree. A quaint building nestles itself within the protective branches.  An open elm door and a large wooden ramp are here.
+
+This area is illuminated.
+Obvious paths: south* west*.
+go door
+>[Brog's Pawnshop]
+
+Freshly crafted display cases and shelving cover the new walls that have replaced the ones from the old tavern.  A large rug covers the floor upon which a number of tables with small trinkets are displayed for sale.  The smell of fresh pine and flowers fills the shop.  An open elm door is here.
+
+This room is illuminated.
+Obvious exits: None.
+shop list all
+>
+Id# Item Type  Item Name                                     New Amount Value
+--- ---------- --------------------------------------------- --- ------ -----
+  1 Wpn/Sharp  Firian crafted steel broad axe (Too small)    No  x3     45gp
+  2 Wpn/Sharp  two-handed emerald-hilted jagged steel war blade (Too small) No  x2     90gp
+  3 Wpn/Sharp  two-handed blue ice steel battle axe (Too small) No  x1     180gp
+  4 Wpn/Blunt  heavy steel ended cudgel (Too small)          No  x1     67gp+50sp
+  5 Wpn/Blunt  two-handed steel maul (Too small)             No  x1     90gp
+  6 Wpn/Sharp  moonsilver hilted steel rapier (Too small)    No  x1     45gp
+  7 Wpn/Thrust wickedly barbed steel trident (Too small)     No  x2     90gp
+  8 Bows       light emerald inlaid steelwood short bow (Too small) No  x1     67gp+50sp
+  9 Wpn/Blunt  leather-handled steel morning star (Too small) No  x3     45gp
+ 10 Shields    curved hammered steel tower shield (Too small) No  x1     36gp
+ 11 Bows       giant simple yew crossbow (Too small)         No  x1     35gp+10sp
+ 12 Amulets    small tree shaped amber amulet (Unusable)     No  x1     900gp
+ 13 Bows       wooden bow (Too small)                        No  x1     20gp+70sp
+ 14 Wpn/Thrust two-handed Hithual forged iron halberd (Too small) No  x1     22gp+50sp
+ 15 Wpn/Sharp  Firian crafted steel broad axe (Too small)    No  x3     45gp
+ 16 Wpn/Sharp  dragon carved bone hilted broadsword          No  x1     76gp+50sp
+ 17 Bows       beautiful steelwood longbow                   No  x1     90gp
+ 18 Wpn/Sharp  blackened serrated mantis blade (Too small)   No  x1     31gp+50sp
+ 19 Bows       feathered yew war bow (Too small)             No  x2     72gp
+ 20 Bows       layered wooden composite bow (Too small)      No  x1     54gp
+ 21 Wpn/Sharp  two-handed iron great sword (Too small)       No  x1     22gp+50sp
+ 22 Bows       beautiful steelwood longbow (Too small)       No  x1     90gp
+ 23 Bows       wooden bow (Too small)                        No  x1     20gp+70sp
+ 24 Beltpouche closed stained black wooden makeup kit (Unusable) No  x1     270gp+4sp
+ 25 Wpn/Blunt  leather-handled steel morning star (Too small) No  x1     45gp
+ 26 Gauntlets  drathain ruby-eyed dragon arm band (Too small) No  x1     81gp
+ 27 Gauntlets  fire emblazoned drathain arm bands (Too small) No  x4     90gp
+ 28 Gauntlets  moonsilver clasped pearl charm bracelet (Too small) No  x1     49gp+50sp
+ 29 Wpn/Blunt  short ebony handled obsidian skull-headed mace (Too small) No  x1     22gp+50sp
+ 30 Bows       layered wooden composite bow (Too small)      No  x1     54gp
+ 31 Wpn/Sharp  two-handed emerald-hilted jagged steel war blade (Too small) No  x2     90gp
+ 32 Wpn/Sharp  steel barbed leather slaver's whip (Too small) No  x1     45gp
+ 33 Wpn/Thrust wickedly barbed steel trident (Too small)     No  x1     90gp
+ 34 Wpn/Blunt  leather-handled steel morning star (Too small) No  x1     45gp
+ 35 Wpn/Sharp  blackened serrated mantis blade (Too small)   No  x2     31gp+50sp
+ 36 Bows       giant simple yew crossbow (Too small)         No  x1     35gp+10sp
+ 37 Wpn/Thrown silver throwing dagger (Too small)            No  x1     22gp+50sp
+ 38 Bows       feathered yew war bow (Too large)             No  x1     72gp
+ 39 Wpn/Blunt  silver hammer (Too large)                     No  x1     22gp+50sp
+ 40 Bows       artfully crafted compound bow (Too small)     No  x1     40gp+50sp
+ 41 Bows       emerald inlaid steelwood short bow (Too small) No  x1     67gp+50sp
+ 42 Wpn/Sharp  dragon carved bone hilted broadsword (Too small) No  x1     76gp+50sp
+ 43 Wpn/Sharp  two-handed jade handled steel broadsword (Too small) No  x1     90gp
+ 44 Wpn/Thrust two-handed polished razor sharp steel scorpion (Too small) No  x1     90gp
+ 45 Bows       beautiful steelwood longbow (Too large)       No  x1     90gp
+ 46 Armor      heavy hunter-green steelwood brigandine (Too small) No  x1     180gp
+ 47 Armor      heavy regal brushed steel battle-mail (Too small) No  x1     21gp+60sp
+ 48 Armor      heavy bone studded steelwood brigandine (Too small) No  x1     112gp+50sp
+ 49 Armor      light forest green steelwood brigandine (Too small) No  x1     85gp+50sp
+ 50 Wpn/Thrown two-handed iron spear (Too small)             No  x1     22gp+50sp
+ 51 Bows       hide wrapped oak hunting bow (Too large)      No  x1     45gp
+ 52 Armor      heavy forest green steelwood brigandine (Too small) No  x1     85gp+50sp
+ 53 Wpn/Thrust serrated tipped steel pike (Too small)        No  x1     45gp
+ 54 Armor      heavy bone studded steelwood brigandine (Too small) No  x1     112gp+50sp
+ 55 Armor      heavy regal brushed steel battle-mail         No  x4     21gp+60sp
+ 56 Wpn/Sharp  short bone handled steel skinning knife (Too small) No  x1     27gp
+ 57 Armor      heavy regal brushed steel battle-mail (Too small) No  x1     21gp+60sp
+ 58 Bows       feathered yew war bow (Too small)             No  x1     72gp
+ 59 Armor      light chain linked steel haubergeon           No  x2     22gp+95sp
+ 60 Wpn/Thrust spiral tipped steel lance (Too small)         No  x1     45gp
+ 61 Armor      light chain linked steel haubergeon (Too small) No  x1     22gp+95sp
+ 62 Armor      heavy bone studded steelwood brigandine (Too small) No  x1     112gp+50sp
+ 63 Wpn/Sharp  double-edged steel gryphon-hilted sword (Too small) No  x1     45gp
+ 64 Armor      heavy faceted iron plate mail (Too large)     No  x1     135gp
+ 65 Armor      light forest green steelwood brigandine (Too large) No  x1     67gp+50sp
+ 66 Rings      sapphire encrusted drathain band of eternity (Too small) No  x1     31gp+50sp
+ 67 Gauntlets  fire emblazoned drathain arm bands (Too small) No  x1     90gp
+ 68 Misc       dirty parchment Nulf's autograph              No  x2     45gp
+ 69 Wpn/Thrust short serrated edged steel boar spear (Too small) No  x1     27gp
+ 70 Wpn/Thrust two-handed double bladed moonsilver glaive (Too small) No  x1     450gp
+ 71 Wpn/Sharp  blackened serrated mantis blade (Too small)   No  x1     31gp+50sp
+ 72 Armor      heavy green mantis carapace (Too small)       No  x1     36gp
+ 73 Gauntlets  ruby clasped pearl sylvan charm bracelet (Too small) No  x1     49gp+50sp
+ 74 Armor      ivy etched ivory breastplate (Too small)      No  x1     36gp
+ 75 Armor      light forest green steelwood brigandine (Too small) No  x1     85gp+50sp
+ 76 Wpn/Sharp  blackened serrated mantis blade (Too small)   No  x1     31gp+50sp
+ 77 Wpn/Thrust wickedly barbed steel trident (Too small)     No  x1     90gp
+ 78 Wpn/Thrust spiral tipped steel lance (Too small)         No  x2     45gp
+ 79 Gauntlets  Elven crafted black leather bracers (Too small) No  x1     54gp
+ 80 Misc       deep green emerald stone lobster scale        No  x56    25gp+65sp
+ 81 Armor      heavy forest green steelwood brigandine (Too small) No  x1     90gp
+ 82 Armor      heavy steelwood banded-mail (Too small)       No  x1     135gp
+ 83 Armor      soft leather breastplate (Too small)          No  x1     22gp+50sp
+ 84 Armor      heavy forest green steelwood brigandine (Too small) No  x1     90gp
+ 85 Armor      heavy golden lionskin pelt (Too small)        No  x1     36gp
+ 86 Armor      heavy bone studded leather hauberk (Too small) No  x1     22gp+50sp
+ 87 Armor      leaf inscribed ivory mail (Too small)         No  x1     36gp
+ 88 Wpn/Sharp  serrated mantis blade (Too small)             No  x1     45gp
+ 89 Armor      heavy ruby encrusted leather mail (Too small) No  x1     22gp+50sp
+ 90 Shields    hammered platinum buckler                     No  x1     36gp
+ 91 Armor      heavy singed morbius scale mail (Too small)   No  x1     135gp
+ 92 Shields    Go-blin-al etched morbius shield              No  x1     45gp
+ 93 Armor      heavy forest green steelwood brigandine (Too small) No  x1     90gp
+ 94 Armor      heavy polished steelwood mail (Too small)     No  x1     90gp
+ 95 Armor      heavy ivy etched ivory breastplate (Too small) No  x1     36gp
+ 96 Wpn/Blunt  short fire hardened steel mining hammer (Too small) No  x1     27gp
+ 97 Armor      heavy forest green steelwood brigandine (Too small) No  x1     90gp
+ 98 Armor      ruby encrusted steelwood mail (Too small)     No  x1     90gp
+ 99 Armor      polished steelwood mail (Too small)           No  x1     90gp
+100 Armor      light onyx banded morbius armor (Too large)   No  x1     90gp
+101 Armor      heavy jade imbedded steelwood scale mail vest (Too small) No  x2     90gp
+102 Wpn/Sharp  eagle hilted steel war-blade (Too small)      No  x1     270gp
+
+shop list blunt
+>
+Id# Item Type  Item Name                                     New Amount Value
+--- ---------- --------------------------------------------- --- ------ -----
+  4 Wpn/Blunt  heavy steel ended cudgel (Too small)          No  x1     67gp+50sp
+  5 Wpn/Blunt  two-handed steel maul (Too small)             No  x1     90gp
+  9 Wpn/Blunt  leather-handled steel morning star (Too small) No  x3     45gp
+ 25 Wpn/Blunt  leather-handled steel morning star (Too small) No  x1     45gp
+ 29 Wpn/Blunt  short ebony handled obsidian skull-headed mace (Too small) No  x1     22gp+50sp
+ 34 Wpn/Blunt  leather-handled steel morning star (Too small) No  x1     45gp
+ 39 Wpn/Blunt  silver hammer (Too large)                     No  x1     22gp+50sp
+ 96 Wpn/Blunt  short fire hardened steel mining hammer (Too small) No  x1     27gp
+
+shop list armor
+>
+Id# Item Type  Item Name                                     New Amount Value
+--- ---------- --------------------------------------------- --- ------ -----
+ 46 Armor      heavy hunter-green steelwood brigandine (Too small) No  x1     180gp
+ 47 Armor      heavy regal brushed steel battle-mail (Too small) No  x1     21gp+60sp
+ 48 Armor      heavy bone studded steelwood brigandine (Too small) No  x1     112gp+50sp
+ 49 Armor      light forest green steelwood brigandine (Too small) No  x1     85gp+50sp
+ 52 Armor      heavy forest green steelwood brigandine (Too small) No  x1     85gp+50sp
+ 54 Armor      heavy bone studded steelwood brigandine (Too small) No  x1     112gp+50sp
+ 55 Armor      heavy regal brushed steel battle-mail         No  x4     21gp+60sp
+ 57 Armor      heavy regal brushed steel battle-mail (Too small) No  x1     21gp+60sp
+ 59 Armor      light chain linked steel haubergeon           No  x2     22gp+95sp
+ 61 Armor      light chain linked steel haubergeon (Too small) No  x1     22gp+95sp
+ 62 Armor      heavy bone studded steelwood brigandine (Too small) No  x1     112gp+50sp
+ 64 Armor      heavy faceted iron plate mail (Too large)     No  x1     135gp
+ 65 Armor      light forest green steelwood brigandine (Too large) No  x1     67gp+50sp
+ 72 Armor      heavy green mantis carapace (Too small)       No  x1     36gp
+ 74 Armor      ivy etched ivory breastplate (Too small)      No  x1     36gp
+ 75 Armor      light forest green steelwood brigandine (Too small) No  x1     85gp+50sp
+ 81 Armor      heavy forest green steelwood brigandine (Too small) No  x1     90gp
+ 82 Armor      heavy steelwood banded-mail (Too small)       No  x1     135gp
+ 83 Armor      soft leather breastplate (Too small)          No  x1     22gp+50sp
+ 84 Armor      heavy forest green steelwood brigandine (Too small) No  x1     90gp
+ 85 Armor      heavy golden lionskin pelt (Too small)        No  x1     36gp
+ 86 Armor      heavy bone studded leather hauberk (Too small) No  x1     22gp+50sp
+ 87 Armor      leaf inscribed ivory mail (Too small)         No  x1     36gp
+ 89 Armor      heavy ruby encrusted leather mail (Too small) No  x1     22gp+50sp
+ 91 Armor      heavy singed morbius scale mail (Too small)   No  x1     135gp
+ 93 Armor      heavy forest green steelwood brigandine (Too small) No  x1     90gp
+ 94 Armor      heavy polished steelwood mail (Too small)     No  x1     90gp
+ 95 Armor      heavy ivy etched ivory breastplate (Too small) No  x1     36gp
+ 97 Armor      heavy forest green steelwood brigandine (Too small) No  x1     90gp
+ 98 Armor      ruby encrusted steelwood mail (Too small)     No  x1     90gp
+ 99 Armor      polished steelwood mail (Too small)           No  x1     90gp
+100 Armor      light onyx banded morbius armor (Too large)   No  x1     90gp
+101 Armor      heavy jade imbedded steelwood scale mail vest (Too small) No  x2     90gp
+
+shop list bows
+>
+Id# Item Type  Item Name                                     New Amount Value
+--- ---------- --------------------------------------------- --- ------ -----
+  8 Bows       light emerald inlaid steelwood short bow (Too small) No  x1     67gp+50sp
+ 11 Bows       giant simple yew crossbow (Too small)         No  x1     35gp+10sp
+ 13 Bows       wooden bow (Too small)                        No  x1     20gp+70sp
+ 17 Bows       beautiful steelwood longbow                   No  x1     90gp
+ 19 Bows       feathered yew war bow (Too small)             No  x2     72gp
+ 20 Bows       layered wooden composite bow (Too small)      No  x1     54gp
+ 22 Bows       beautiful steelwood longbow (Too small)       No  x1     90gp
+ 23 Bows       wooden bow (Too small)                        No  x1     20gp+70sp
+ 30 Bows       layered wooden composite bow (Too small)      No  x1     54gp
+ 36 Bows       giant simple yew crossbow (Too small)         No  x1     35gp+10sp
+ 38 Bows       feathered yew war bow (Too large)             No  x1     72gp
+ 40 Bows       artfully crafted compound bow (Too small)     No  x1     40gp+50sp
+ 41 Bows       emerald inlaid steelwood short bow (Too small) No  x1     67gp+50sp
+ 45 Bows       beautiful steelwood longbow (Too large)       No  x1     90gp
+ 51 Bows       hide wrapped oak hunting bow (Too large)      No  x1     45gp
+ 58 Bows       feathered yew war bow (Too small)             No  x1     72gp
+
+shop list all
+>
+Id# Item Type  Item Name                                     New Amount Value
+--- ---------- --------------------------------------------- --- ------ -----
+  1 Wpn/Sharp  Firian crafted steel broad axe (Too small)    No  x3     45gp
+  2 Wpn/Sharp  two-handed emerald-hilted jagged steel war blade (Too small) No  x2     90gp
+  3 Wpn/Sharp  two-handed blue ice steel battle axe (Too small) No  x1     180gp
+  4 Wpn/Blunt  heavy steel ended cudgel (Too small)          No  x1     67gp+50sp
+  5 Wpn/Blunt  two-handed steel maul (Too small)             No  x1     90gp
+  6 Wpn/Sharp  moonsilver hilted steel rapier (Too small)    No  x1     45gp
+  7 Wpn/Thrust wickedly barbed steel trident (Too small)     No  x2     90gp
+  8 Bows       light emerald inlaid steelwood short bow (Too small) No  x1     67gp+50sp
+  9 Wpn/Blunt  leather-handled steel morning star (Too small) No  x3     45gp
+ 10 Shields    curved hammered steel tower shield (Too small) No  x1     36gp
+ 11 Bows       giant simple yew crossbow (Too small)         No  x1     35gp+10sp
+ 12 Amulets    small tree shaped amber amulet (Unusable)     No  x1     900gp
+ 13 Bows       wooden bow (Too small)                        No  x1     20gp+70sp
+ 14 Wpn/Thrust two-handed Hithual forged iron halberd (Too small) No  x1     22gp+50sp
+ 15 Wpn/Sharp  Firian crafted steel broad axe (Too small)    No  x3     45gp
+ 16 Wpn/Sharp  dragon carved bone hilted broadsword          No  x1     76gp+50sp
+ 17 Bows       beautiful steelwood longbow                   No  x1     90gp
+ 18 Wpn/Sharp  blackened serrated mantis blade (Too small)   No  x1     31gp+50sp
+ 19 Bows       feathered yew war bow (Too small)             No  x2     72gp
+ 20 Bows       layered wooden composite bow (Too small)      No  x1     54gp
+ 21 Wpn/Sharp  two-handed iron great sword (Too small)       No  x1     22gp+50sp
+ 22 Bows       beautiful steelwood longbow (Too small)       No  x1     90gp
+ 23 Bows       wooden bow (Too small)                        No  x1     20gp+70sp
+ 24 Beltpouche closed stained black wooden makeup kit (Unusable) No  x1     270gp+4sp
+ 25 Wpn/Blunt  leather-handled steel morning star (Too small) No  x1     45gp
+ 26 Gauntlets  drathain ruby-eyed dragon arm band (Too small) No  x1     81gp
+ 27 Gauntlets  fire emblazoned drathain arm bands (Too small) No  x4     90gp
+ 28 Gauntlets  moonsilver clasped pearl charm bracelet (Too small) No  x1     49gp+50sp
+ 29 Wpn/Blunt  short ebony handled obsidian skull-headed mace (Too small) No  x1     22gp+50sp
+ 30 Bows       layered wooden composite bow (Too small)      No  x1     54gp
+ 31 Wpn/Sharp  two-handed emerald-hilted jagged steel war blade (Too small) No  x2     90gp
+ 32 Wpn/Sharp  steel barbed leather slaver's whip (Too small) No  x1     45gp
+ 33 Wpn/Thrust wickedly barbed steel trident (Too small)     No  x1     90gp
+ 34 Wpn/Blunt  leather-handled steel morning star (Too small) No  x1     45gp
+ 35 Wpn/Sharp  blackened serrated mantis blade (Too small)   No  x2     31gp+50sp
+ 36 Bows       giant simple yew crossbow (Too small)         No  x1     35gp+10sp
+ 37 Wpn/Thrown silver throwing dagger (Too small)            No  x1     22gp+50sp
+ 38 Bows       feathered yew war bow (Too large)             No  x1     72gp
+ 39 Wpn/Blunt  silver hammer (Too large)                     No  x1     22gp+50sp
+ 40 Bows       artfully crafted compound bow (Too small)     No  x1     40gp+50sp
+ 41 Bows       emerald inlaid steelwood short bow (Too small) No  x1     67gp+50sp
+ 42 Wpn/Sharp  dragon carved bone hilted broadsword (Too small) No  x1     76gp+50sp
+ 43 Wpn/Sharp  two-handed jade handled steel broadsword (Too small) No  x1     90gp
+ 44 Wpn/Thrust two-handed polished razor sharp steel scorpion (Too small) No  x1     90gp
+ 45 Bows       beautiful steelwood longbow (Too large)       No  x1     90gp
+ 46 Armor      heavy hunter-green steelwood brigandine (Too small) No  x1     180gp
+ 47 Armor      heavy regal brushed steel battle-mail (Too small) No  x1     21gp+60sp
+ 48 Armor      heavy bone studded steelwood brigandine (Too small) No  x1     112gp+50sp
+ 49 Armor      light forest green steelwood brigandine (Too small) No  x1     85gp+50sp
+ 50 Wpn/Thrown two-handed iron spear (Too small)             No  x1     22gp+50sp
+ 51 Bows       hide wrapped oak hunting bow (Too large)      No  x1     45gp
+ 52 Armor      heavy forest green steelwood brigandine (Too small) No  x1     85gp+50sp
+ 53 Wpn/Thrust serrated tipped steel pike (Too small)        No  x1     45gp
+ 54 Armor      heavy bone studded steelwood brigandine (Too small) No  x1     112gp+50sp
+ 55 Armor      heavy regal brushed steel battle-mail         No  x4     21gp+60sp
+ 56 Wpn/Sharp  short bone handled steel skinning knife (Too small) No  x1     27gp
+ 57 Armor      heavy regal brushed steel battle-mail (Too small) No  x1     21gp+60sp
+ 58 Bows       feathered yew war bow (Too small)             No  x1     72gp
+ 59 Armor      light chain linked steel haubergeon           No  x2     22gp+95sp
+ 60 Wpn/Thrust spiral tipped steel lance (Too small)         No  x1     45gp
+ 61 Armor      light chain linked steel haubergeon (Too small) No  x1     22gp+95sp
+ 62 Armor      heavy bone studded steelwood brigandine (Too small) No  x1     112gp+50sp
+ 63 Wpn/Sharp  double-edged steel gryphon-hilted sword (Too small) No  x1     45gp
+ 64 Armor      heavy faceted iron plate mail (Too large)     No  x1     135gp
+ 65 Armor      light forest green steelwood brigandine (Too large) No  x1     67gp+50sp
+ 66 Rings      sapphire encrusted drathain band of eternity (Too small) No  x1     31gp+50sp
+ 67 Gauntlets  fire emblazoned drathain arm bands (Too small) No  x1     90gp
+ 68 Misc       dirty parchment Nulf's autograph              No  x2     45gp
+ 69 Wpn/Thrust short serrated edged steel boar spear (Too small) No  x1     27gp
+ 70 Wpn/Thrust two-handed double bladed moonsilver glaive (Too small) No  x1     450gp
+ 71 Wpn/Sharp  blackened serrated mantis blade (Too small)   No  x1     31gp+50sp
+ 72 Armor      heavy green mantis carapace (Too small)       No  x1     36gp
+ 73 Gauntlets  ruby clasped pearl sylvan charm bracelet (Too small) No  x1     49gp+50sp
+ 74 Armor      ivy etched ivory breastplate (Too small)      No  x1     36gp
+ 75 Armor      light forest green steelwood brigandine (Too small) No  x1     85gp+50sp
+ 76 Wpn/Sharp  blackened serrated mantis blade (Too small)   No  x1     31gp+50sp
+ 77 Wpn/Thrust wickedly barbed steel trident (Too small)     No  x1     90gp
+ 78 Wpn/Thrust spiral tipped steel lance (Too small)         No  x2     45gp
+ 79 Gauntlets  Elven crafted black leather bracers (Too small) No  x1     54gp
+ 80 Misc       deep green emerald stone lobster scale        No  x56    25gp+65sp
+ 81 Armor      heavy forest green steelwood brigandine (Too small) No  x1     90gp
+ 82 Armor      heavy steelwood banded-mail (Too small)       No  x1     135gp
+ 83 Armor      soft leather breastplate (Too small)          No  x1     22gp+50sp
+ 84 Armor      heavy forest green steelwood brigandine (Too small) No  x1     90gp
+ 85 Armor      heavy golden lionskin pelt (Too small)        No  x1     36gp
+ 86 Armor      heavy bone studded leather hauberk (Too small) No  x1     22gp+50sp
+ 87 Armor      leaf inscribed ivory mail (Too small)         No  x1     36gp
+ 88 Wpn/Sharp  serrated mantis blade (Too small)             No  x1     45gp
+ 89 Armor      heavy ruby encrusted leather mail (Too small) No  x1     22gp+50sp
+ 90 Shields    hammered platinum buckler                     No  x1     36gp
+ 91 Armor      heavy singed morbius scale mail (Too small)   No  x1     135gp
+ 92 Shields    Go-blin-al etched morbius shield              No  x1     45gp
+ 93 Armor      heavy forest green steelwood brigandine (Too small) No  x1     90gp
+ 94 Armor      heavy polished steelwood mail (Too small)     No  x1     90gp
+ 95 Armor      heavy ivy etched ivory breastplate (Too small) No  x1     36gp
+ 96 Wpn/Blunt  short fire hardened steel mining hammer (Too small) No  x1     27gp
+ 97 Armor      heavy forest green steelwood brigandine (Too small) No  x1     90gp
+ 98 Armor      ruby encrusted steelwood mail (Too small)     No  x1     90gp
+ 99 Armor      polished steelwood mail (Too small)           No  x1     90gp
+100 Armor      light onyx banded morbius armor (Too large)   No  x1     90gp
+101 Armor      heavy jade imbedded steelwood scale mail vest (Too small) No  x2     90gp
+102 Wpn/Sharp  eagle hilted steel war-blade (Too small)      No  x1     270gp
+
+shop ex 12
+>You examine the small tree shaped amber amulet...
+
+It is in used (but good) condition.
+It weighs about 0.0 lbs
+It appears to be sized for:
+  Anthian
+  San Elf
+  Usil Elf
+  Psycian
+
+Unfortunately, you are not the right size for it.
+Unfortunately, it is not usable by you.
+
+shop ex 24
+>You examine the closed stained black wooden makeup kit...
+
+It is in used (but good) condition.
+It weighs about 0.1 lbs
+It can hold other objects within it.
+It can hold up to 10 objects.
+It can hold up to 5.0 lbs weight.
+It appears to be sized for:
+  Anthian
+  San Elf
+  Usil Elf
+  Psycian
+
+Unfortunately, you are not the right size for it.
+Unfortunately, it is not usable by you.
+
+l
+>[Brog's Pawnshop]
+
+Freshly crafted display cases and shelving cover the new walls that have replaced the ones from the old tavern.  A large rug covers the floor upon which a number of tables with small trinkets are displayed for sale.  The smell of fresh pine and flowers fills the shop.  An open elm door is here.
+
+This room is illuminated.
+Obvious exits: None.
+go door
+>[Treehaven, Northern Platform]
+
+The freshly built wooden walkway passes just in front of the refurbished tavern of old. Intricately crafted railings line the platform as it meanders about the Northern tree. A quaint building nestles itself within the protective branches.  An open elm door and a large wooden ramp are here.
+
+This area is illuminated.
+Obvious paths: south* west*.
+w
+>[Treehaven, Northern Platform]
+
+The newly laid platform nestles itself against the trunk of the large tree beside it. A delicately crafted wooden railing surrounds the edge of the walkway. The view of the ground from here is quite clear, with patches of green and brown poking up from the reviving forest floor beneath.
+
+This area is illuminated.
+Obvious paths: east*.
+who range
+>List will be restricted to those within range.
+Full who list activated!
+
+Current Adventurers
+
+ Callik Alittlewiser                 Lilioth Golden                     
+ Hroomha Treefoot                    Orlando Ari                        
+ Grad Hamfist                       
+
+You notice 5 adventurers.
+e
+>[Treehaven, Northern Platform]
+
+The freshly built wooden walkway passes just in front of the refurbished tavern of old. Intricately crafted railings line the platform as it meanders about the Northern tree. A quaint building nestles itself within the protective branches.  An open elm door and a large wooden ramp are here.
+
+This area is illuminated.
+Obvious paths: south* west*.
+w
+>[Treehaven, Northern Platform]
+
+The newly laid platform nestles itself against the trunk of the large tree beside it. A delicately crafted wooden railing surrounds the edge of the walkway. The view of the ground from here is quite clear, with patches of green and brown poking up from the reviving forest floor beneath.
+
+This area is illuminated.
+Obvious paths: east*.
+go rai
+>I don't see what you are referring to.
+e
+>[Treehaven, Northern Platform]
+
+The freshly built wooden walkway passes just in front of the refurbished tavern of old. Intricately crafted railings line the platform as it meanders about the Northern tree. A quaint building nestles itself within the protective branches.  An open elm door and a large wooden ramp are here.
+
+This area is illuminated.
+Obvious paths: south* west*.
+s
+>[Treehaven, Oaken Bridge.]
+
+Finely carved oak filigree lines the top edges of the oaken beams that serve as railing for the wooden bridge. Carvings of young firian maidens stand upon the ends of the handrails, decorating the walkway that spans the platforms between the Northern Tree and Mother Tree. Lush limbs have carefully wrapped around the bottom and sides of the bridge, creating a natural and firm foundation. The view of the surrounding forest is breathtaking.
+
+This area is illuminated.
+Obvious paths: north* south*.
+s
+>[Treehaven, Main Platform]
+
+Delicately crafted latticework serves as the railing opposite the recovering Mother tree. An arching bridge, which has slowly begun to be replaced by interwoven branches from the Mother Tree and the one to the north, spans the gap between the platform and the walkway residing against the nothern tree.
+
+This area is illuminated.
+Obvious paths: north* southeast* west*.
+w
+>[Treehaven, Main Platform]
+
+Nestled in the branches above the walkway is the bottom of a rather large building. Small, young branches stretch out from the trunk of the Mother Tree, reaching for open air and sunlight. A beautifully crafted set of latticework serves as a railing along the edge of the wooden decking.  A long vine bridge and an ornately crafted oak ramp are here.
+
+This area is illuminated.
+Obvious paths: east* southwest*.
+go vi
+>I don't see what you are referring to.
+go ram
+>[Svyrnafin's Rune Renewals]
+
+The small main room of the rune shop gleams with several different woods, most imported from the far corners of Aradath. The walls are paneled in dark mahogany. Sheets of crisp ivory parchment, listing the various runes and shapes and the costs, are hung on the walls. A narrow polished ebony counter against the far wall is arrayed with the tools of the rune implanter's trade; odd devices in a number of peculiar shapes. Svyrnafin greets you with a toothy Drag-al grin and gestures at you from across the smooth teak floor to have a seat in the leather chair placed conveniently close to the counter.  An ornately crafted oak ramp is here.
+
+This room is illuminated.
+Obvious exits: None.
+shop list runes
+>There are no runes available for you here.
+
+grunt
+>You grunt.
+shop list all
+>We don't sell items, but we do implant runes.
+go ra
+>[Treehaven, Main Platform]
+
+Nestled in the branches above the walkway is the bottom of a rather large building. Small, young branches stretch out from the trunk of the Mother Tree, reaching for open air and sunlight. A beautifully crafted set of latticework serves as a railing along the edge of the wooden decking.  A long vine bridge and an ornately crafted oak ramp are here.
+
+This area is illuminated.
+Obvious paths: east* southwest*.
+go bri
+>[Crow's Nest]
+
+Camouflaged decking and handrails hide amongst the branches of this small platform. The twin bridges stand clearly visible from this vantage point. The finely crafted railings blend in nicely with the surrounding foliage.  A long vine bridge, a twisted beautifully carved ivory horn, and a WARNING SIGN are here.
+
+This area is illuminated.
+Obvious paths: None.
+grit with fine in between them
+>You grit your teeth with the spent fine rolled cigar in between them.
+go bri
+>[Treehaven, Main Platform]
+
+Nestled in the branches above the walkway is the bottom of a rather large building. Small, young branches stretch out from the trunk of the Mother Tree, reaching for open air and sunlight. A beautifully crafted set of latticework serves as a railing along the edge of the wooden decking.  A long vine bridge and an ornately crafted oak ramp are here.
+
+This area is illuminated.
+Obvious paths: east* southwest*.
+sw
+>[Treehaven, Main Platform]
+
+Brown and red leaves dance with the wind across the deck of the walkway, twirling and shifting in a slow, unending sway. Beyond the railing of the walkway is a breathtaking view of the surrounding forest. Many young trees stretch to the sky while several blackened trees now begin to sprout their own green colors of growth.
+
+This area is illuminated.
+Obvious paths: northeast* south*.
+s
+>[Treehaven, Main Platform]
+
+Thick and strong limbs have reached out from the base of the Mother Tree. The hearty limbs have twisted and woven themselves into an intricate staircase. Other limbs have woven into a firm and solid platform. Smaller, tenderer, limbs have gracefully grown up around the railing. Bright green leaves fan out between the gaps, and create a cool and shady walkway. The railing itself, made of interwoven strips of oak and maple, creates a lovely barrier to allow one to admire the forest below, but not fall to their death.  An intricately woven leaf stairway leading up is here.
+
+This area is illuminated.
+Obvious paths: north* southeast*.
+go st
+>[Treehaven, Second Tier]
+
+An intricately woven staircase, made entirely of living leaves and limbs, gracefully descends to the main platform below. Stretching out before you, the grand limbs and branches of the Mother Tree extend out into the open air beyond. The view of the Caersech is breathtaking from this vantage point. Directly west the outline of Spur can be seen on the horizon. Shimmering lights glisten off the river below and bring a sparkle of beauty to this haven in the trees.  An intricately woven leaf stairway leading down is here.
+
+This area is illuminated.
+Obvious paths: north* southeast*.
+n
+>[Treehaven, Second Tier]
+
+Stretching out above you is a large platform made of twisted limbs and leaves. The platform is quite huge and takes up most of the branch space in this area. Set directly over the platform, a rather large branch has grown out. The large green leaves on the branch fan out to create a cool and shady canopy. Black and brown spotted mushrooms grown along the trunk and glisten softly with dew.  Some twisted green leaf steps are here.
+
+This area is illuminated.
+Obvious paths: north* south*.
+go st
+>[Treehaven, Clothing and Colors Market]
+
+Spiraling through the branches in this part of the tree, a small clothing and coloring market has been set up. A rare and breathtaking golden moonflower vine has grown around the trunk of the Mother Tree. Thick and leafy branches have grown in an intricate pattern of walkways and railings. A few of the softer ones have formed themselves into soft places to sit and rest. Curious forest animals sit on the outer limbs, watching all those who pass through the area. The delicate scents of the tree drifts carelessly on the ever-present breeze. The air is cool up here and the views are clear and beyond breathtaking.  Some twisted green leaf steps and some breathtaking golden moonflower vines are here.
+
+This area is illuminated.
+You see the 1st human noble.
+Obvious paths: northeast* east* southeast* southwest* west* northwest*.
+shop list all
+>There is no shop here!
+>
+The human noble returns to center rank.
+e
+[Market, Cricket's Bottoms Up.]
+
+Every manner of lower body wear can be found in this area of the market. A makeshift dressing room has been set up off to the side, allowing customers the chance to assure a perfect fit. A tall human merchant helps prospective buyers decide on the perfect look and fit.
+
+This area is illuminated.
+You see the 1st anthian forester.
+Obvious paths: southwest* west* northwest*.
+shop list all
+>
+Id# Item Type  Item Name                                     New Amount Value
+--- ---------- --------------------------------------------- --- ------ -----
+  1 Pants      cotton trousers                               Yes x100   1gp
+  2 Pants      broadcloth trousers                           Yes x141   1gp+40sp
+  3 Pants      wool trousers                                 Yes x163   1gp+40sp
+  4 Pants      cotton pants                                  Yes x114   2gp
+  5 Pants      satin pants                                   Yes x131   2gp+20sp
+  6 Pants      velvet pants                                  Yes x123   2gp+40sp
+  7 Pants      broadcloth pants                              Yes x116   2gp+60sp
+  8 Pants      wool pants                                    Yes x158   2gp+60sp
+  9 Pants      tweed pants                                   Yes x166   2gp+80sp
+ 10 Pants      spidersilk pants                              Yes x99    2gp+80sp
+ 11 Pants      cotton leggings                               Yes x181   2gp
+ 12 Pants      satin leggings                                Yes x185   2gp+20sp
+ 13 Pants      velvet leggings                               Yes x174   2gp+40sp
+ 14 Pants      wool leggings                                 Yes x183   2gp+60sp
+ 15 Pants      spidersilk leggings                           Yes x153   2gp+80sp
+ 16 Pants      silk stockings                                Yes x156   3gp
+ 17 Pants      lace stockings                                Yes x167   3gp+50sp
+ 18 Pants      spidersilk stockings                          Yes x172   4gp
+ 19 Pants      cotton skirt                                  Yes x181   2gp
+ 20 Pants      satin skirt                                   Yes x179   2gp+20sp
+ 21 Pants      silk skirt                                    Yes x160   2gp+40sp
+ 22 Pants      velvet skirt                                  Yes x173   2gp+60sp
+ 23 Pants      chiffon skirt                                 Yes x184   2gp+80sp
+ 24 Pants      broadcloth skirt                              Yes x195   3gp
+ 25 Pants      wool skirt                                    Yes x196   3gp+40sp
+ 26 Pants      spidersilk skirt                              Yes x162   3gp+80sp
+ 27 Pants      tweed skirt                                   Yes x192   4gp
+
+w
+>[Treehaven, Clothing and Colors Market]
+
+Spiraling through the branches in this part of the tree, a small clothing and coloring market has been set up. A rare and breathtaking golden moonflower vine has grown around the trunk of the Mother Tree. Thick and leafy branches have grown in an intricate pattern of walkways and railings. A few of the softer ones have formed themselves into soft places to sit and rest. Curious forest animals sit on the outer limbs, watching all those who pass through the area. The delicate scents of the tree drifts carelessly on the ever-present breeze. The air is cool up here and the views are clear and beyond breathtaking.  Some twisted green leaf steps and some breathtaking golden moonflower vines are here.
+
+This area is illuminated.
+You see the 1st human noble.
+Obvious paths: northeast* east* southeast* southwest* west* northwest*.
+w
+>[Market, Forest Hues.]
+
+A young Usil male stands patiently behind a small row of tiny black mixing pots. He silently listens as each customer explains the color they desire. When they are finished, he carefully mixes each color to perfection. With a slight smile at his excellent work, he returns the items, much to the delight of the patron.
+
+This area is illuminated.
+Obvious paths: northeast* east* southeast*.
+shop list all
+>Sorry, we don't sell things here.
+e
+>[Treehaven, Clothing and Colors Market]
+
+Spiraling through the branches in this part of the tree, a small clothing and coloring market has been set up. A rare and breathtaking golden moonflower vine has grown around the trunk of the Mother Tree. Thick and leafy branches have grown in an intricate pattern of walkways and railings. A few of the softer ones have formed themselves into soft places to sit and rest. Curious forest animals sit on the outer limbs, watching all those who pass through the area. The delicate scents of the tree drifts carelessly on the ever-present breeze. The air is cool up here and the views are clear and beyond breathtaking.  Some twisted green leaf steps and some breathtaking golden moonflower vines are here.
+
+This area is illuminated.
+You see the 1st human noble.
+Obvious paths: northeast* east* southeast* southwest* west* northwest*.
+ne
+>[Market, Sappling's Cloaks.]
+
+A beautiful young Firian smiles as she neatly embroiders fancy stitches onto a regal looking cloak.  All manners of capes, cloaks and jackets are on display here. Each item is carefully displayed so that each ray of sunlight glistens off the items, making them shimmer and glow.
+
+This area is illuminated.
+Obvious paths: southeast* southwest* west*.
+w
+>[Market, Fashions of the Woodland.]
+
+This area is, by far, the richest in the market. Deeply colored tapestries hang amidst the branches and displays. Slender young females display beautiful dresses and gowns, while stately looking gentlemen and powerful looking mages display richly detailed robes. Kindly looking clerics proudly display garments bearing their deities colors. A small crowd of onlookers "ooh's" and "aah's" as each new item is displayed.
+
+This area is illuminated.
+Obvious paths: east* southeast* southwest*.
+shop list all
+>
+Id# Item Type  Item Name                                     New Amount Value
+--- ---------- --------------------------------------------- --- ------ -----
+  1 Dresses    cotton shift                                  Yes x189   1gp
+  2 Dresses    silk shift                                    Yes x181   1gp+50sp
+  3 Dresses    lace shift                                    Yes x183   2gp
+  4 Dresses    cotton dress                                  Yes x189   2gp
+  5 Dresses    satin dress                                   Yes x187   2gp+20sp
+  6 Dresses    silk dress                                    Yes x166   2gp+20sp
+  7 Dresses    velvet dress                                  Yes x185   2gp+40sp
+  8 Dresses    chiffon dress                                 Yes x186   2gp+60sp
+  9 Dresses    spidersilk dress                              Yes x173   2gp+80sp
+ 10 Dresses    satin gown                                    Yes x183   3gp
+ 11 Dresses    silk gown                                     Yes x187   3gp+20sp
+ 12 Dresses    velvet gown                                   Yes x186   3gp+20sp
+ 13 Dresses    chiffon gown                                  Yes x186   3gp+40sp
+ 14 Dresses    crepe gown                                    Yes x196   3gp+60sp
+ 15 Dresses    organza gown                                  Yes x181   3gp+80sp
+ 16 Dresses    spidersilk gown                               Yes x182   4gp
+ 17 Dresses    cotton robes                                  Yes x176   4gp
+ 18 Dresses    satin robes                                   Yes x197   4gp+20sp
+ 19 Dresses    silk robes                                    Yes x191   4gp+20sp
+ 20 Dresses    velvet robes                                  Yes x187   4gp+40sp
+ 21 Dresses    hemp robes                                    Yes x193   4gp+60sp
+ 22 Dresses    wool robes                                    Yes x192   4gp+80sp
+ 23 Dresses    lace robes                                    Yes x194   4gp+80sp
+ 24 Dresses    spidersilk robes                              Yes x181   5gp
+ 25 Dresses    clerical robes                                Yes x190   5gp
+ 26 Dresses    cotton clerical robes                         Yes x193   5gp
+ 27 Dresses    satin clerical robes                          Yes x193   5gp
+ 28 Dresses    silk clerical robes                           Yes x175   5gp
+ 29 Dresses    velvet clerical robes                         Yes x179   5gp
+ 30 Dresses    hemp clerical robes                           Yes x198   5gp
+ 31 Dresses    wool clerical robes                           Yes x196   5gp
+ 32 Dresses    spidersilk clerical robes                     Yes x162   5gp
+ 33 Dresses    cotton mage robes                             Yes x199   5gp
+ 34 Dresses    satin mage robes                              Yes x191   5gp
+ 35 Dresses    silk mage robes                               Yes x180   5gp
+ 36 Dresses    velvet mage robes                             Yes x180   5gp
+ 37 Dresses    hemp mage robes                               Yes x190   5gp
+ 38 Dresses    wool mage robes                               Yes x195   5gp
+ 39 Dresses    spidersilk mage robes                         Yes x160   5gp
+
+l
+>[Market, Fashions of the Woodland.]
+
+This area is, by far, the richest in the market. Deeply colored tapestries hang amidst the branches and displays. Slender young females display beautiful dresses and gowns, while stately looking gentlemen and powerful looking mages display richly detailed robes. Kindly looking clerics proudly display garments bearing their deities colors. A small crowd of onlookers "ooh's" and "aah's" as each new item is displayed.
+
+This area is illuminated.
+Obvious paths: east* southeast* southwest*.
+sw
+>[Market, Forest Hues.]
+
+A young Usil male stands patiently behind a small row of tiny black mixing pots. He silently listens as each customer explains the color they desire. When they are finished, he carefully mixes each color to perfection. With a slight smile at his excellent work, he returns the items, much to the delight of the patron.
+
+This area is illuminated.
+Obvious paths: northeast* east* southeast*.
+se
+>[Market, Firefly's Top's Down.]
+
+All manners of upper body wear are lined along several wooden shelves. Every cut, color, and fabric combination can be found amid the large selection. A rather miserable looking merchant chases away small animals that seem to want his shirts for their own nests and burrows. A small group of Firian children giggle at the merchant as they chase after the critters, only to catch them and bring them back for more mischief.
+
+This area is illuminated.
+Obvious paths: northeast* east* northwest*.
+e
+>[Market, Pinetop's Accessories.]
+
+A cheerful secian happily displays her items to curious onlookers. She playfully tries on all of her items, ranging from streaming ribbons to formal neck ties. A young couple lovingly talk over formal pieces that will be used for their upcoming wedding.
+
+This area is illuminated.
+Obvious paths: northeast* west* northwest*.
+shop list all
+>
+Id# Item Type  Item Name                                     New Amount Value
+--- ---------- --------------------------------------------- --- ------ -----
+  1 Helms      cotton ribbon                                 Yes x100   50sp
+  2 Helms      satin ribbon                                  Yes x100   60sp
+  3 Helms      silk ribbon                                   Yes x143   70sp
+  4 Helms      velvet ribbon                                 Yes x181   80sp
+  5 Helms      curly ribbons                                 Yes x147   1gp
+  6 Helms      satin bow                                     Yes x100   60sp
+  7 Helms      silk bow                                      Yes x188   70sp
+  8 Helms      velvet bow                                    Yes x196   80sp
+  9 Helms      burlap hat                                    Yes x197   1gp
+ 10 Helms      flannel hat                                   Yes x188   1gp+20sp
+ 11 Helms      suede hat                                     Yes x183   1gp+40sp
+ 12 Helms      tweed hat                                     Yes x191   1gp+60sp
+ 13 Helms      wool hat                                      Yes x188   1gp+80sp
+ 14 Helms      satin cap                                     Yes x194   1gp
+ 15 Helms      silk cap                                      Yes x188   1gp+20sp
+ 16 Helms      velvet cap                                    Yes x182   1gp+40sp
+ 17 Helms      crepe cap                                     Yes x198   1gp+60sp
+ 18 Helms      organza cap                                   Yes x196   1gp+80sp
+ 19 Helms      spidersilk cap                                Yes x191   2gp
+ 20 Helms      silk veil                                     Yes x186   1gp
+ 21 Helms      lace veil                                     Yes x187   1gp+20sp
+ 22 Helms      spidersilk veil                               Yes x186   1gp+40sp
+ 23 Beltpouche cotton belt                                   Yes x187   1gp
+ 24 Beltpouche silk belt                                     Yes x163   1gp+20sp
+ 25 Beltpouche hemp belt                                     Yes x177   1gp+40sp
+ 26 Beltpouche leather belt                                  Yes x118   1gp+60sp
+ 27 Beltpouche satin sash                                    Yes x158   1gp
+ 28 Beltpouche velvet sash                                   Yes x165   1gp+20sp
+ 29 Beltpouche lace sash                                     Yes x177   1gp+40sp
+ 30 Beltpouche spidersilk sash                               Yes x100   1gp+60sp
+ 31 Gauntlets  cotton gloves                                 Yes x193   2gp
+ 32 Gauntlets  silk gloves                                   Yes x162   2gp+20sp
+ 33 Gauntlets  lace gloves                                   Yes x169   2gp+40sp
+ 34 Gauntlets  spidersilk gloves                             Yes x148   2gp+60sp
+ 35 Gauntlets  leather gloves                                Yes x141   2gp+80sp
+ 36 Helms      eye glasses                                   Yes x149   3gp
+ 37 Helms      spectacles                                    Yes x115   3gp
+ 38 Amulets    cotton bowtie                                 Yes x197   1gp
+ 39 Amulets    silk bowtie                                   Yes x170   1gp+50sp
+ 40 Amulets    velvet bowtie                                 Yes x182   1gp+50sp
+ 41 Amulets    broadcloth bowtie                             Yes x198   2gp
+ 42 Amulets    satin tie                                     Yes x185   1gp
+ 43 Amulets    silk tie                                      Yes x171   1gp+50sp
+ 44 Amulets    hemp tie                                      Yes x190   1gp+50sp
+ 45 Amulets    spidersilk tie                                Yes x184   2gp
+ 46 Amulets    leather tie                                   Yes x194   2gp
+
+ne
+>[Market, Cricket's Bottoms Up.]
+
+Every manner of lower body wear can be found in this area of the market. A makeshift dressing room has been set up off to the side, allowing customers the chance to assure a perfect fit. A tall human merchant helps prospective buyers decide on the perfect look and fit.
+
+This area is illuminated.
+You see the 1st anthian forester.
+Obvious paths: southwest* west* northwest*.
+>
+A human noble just wandered in in front of you at 3 UDs!
+nw
+[Market, Sappling's Cloaks.]
+
+A beautiful young Firian smiles as she neatly embroiders fancy stitches onto a regal looking cloak.  All manners of capes, cloaks and jackets are on display here. Each item is carefully displayed so that each ray of sunlight glistens off the items, making them shimmer and glow.
+
+This area is illuminated.
+Obvious paths: southeast* southwest* west*.
+w
+>[Market, Fashions of the Woodland.]
+
+This area is, by far, the richest in the market. Deeply colored tapestries hang amidst the branches and displays. Slender young females display beautiful dresses and gowns, while stately looking gentlemen and powerful looking mages display richly detailed robes. Kindly looking clerics proudly display garments bearing their deities colors. A small crowd of onlookers "ooh's" and "aah's" as each new item is displayed.
+
+This area is illuminated.
+Obvious paths: east* southeast* southwest*.
+se
+>[Treehaven, Clothing and Colors Market]
+
+Spiraling through the branches in this part of the tree, a small clothing and coloring market has been set up. A rare and breathtaking golden moonflower vine has grown around the trunk of the Mother Tree. Thick and leafy branches have grown in an intricate pattern of walkways and railings. A few of the softer ones have formed themselves into soft places to sit and rest. Curious forest animals sit on the outer limbs, watching all those who pass through the area. The delicate scents of the tree drifts carelessly on the ever-present breeze. The air is cool up here and the views are clear and beyond breathtaking.  Some twisted green leaf steps and some breathtaking golden moonflower vines are here.
+
+This area is illuminated.
+You see the 1st human noble.
+Obvious paths: northeast* east* southeast* southwest* west* northwest*.
+l at vi
+>I don't see what you are referring to.
+>
+The human noble wanders out via the twisted green leaf steps.
+l at moo
+It looks like some breathtaking golden moonflower vines.
+go moo
+l in moo
+>>You have to open it first before you can see what is inside!
+go st
+>[Treehaven, Second Tier]
+
+Stretching out above you is a large platform made of twisted limbs and leaves. The platform is quite huge and takes up most of the branch space in this area. Set directly over the platform, a rather large branch has grown out. The large green leaves on the branch fan out to create a cool and shady canopy. Black and brown spotted mushrooms grown along the trunk and glisten softly with dew.  Some twisted green leaf steps are here.
+
+This area is illuminated.
+You see the 1st human noble.
+Obvious paths: north* south*.
+n
+>[Treehaven, Second Tier]
+
+The solid branch below you bends upwards suddenly.  Sturdy horizontal branches grow out from above the bend forming a natural ladder towards the platform of boughs above you.  A thick leafy vine runs upwards providing a handhold for those that require it. Out to the Northwest, the wide crown of a sister tree stretches out towards the sky. Young green branches from both trees can be seen reaching for each other. For now, the branches do not yet touch, but in time it is quite clear they will merge together.
+
+This area is illuminated.
+Obvious paths: northeast* south*.
+ne
+>[Treehaven, Second Tier]
+
+During the day pale beams of sunlight, and at night moonlight, peek through the canopy of yellow flowers above you.  The delicate pale flowers are entwined with the woven canopy of slender branches forming a natural ceiling far overhead.  A soft breeze sets a thousand deep green leaves waving back and forth flooding the area with the reflected light of their gentle shimmering motion.
+
+This area is illuminated.
+Obvious paths: east* southwest*.
+e
+>[Treehaven, Second Tier]
+
+Natural handholds have formed on this part of the Mother Tree. The handholds lead up to a small flat platform. A bright blue bird has made her nest out on the smaller limbs of this area. She quietly watches you as you pass by, making sure she does not reveal the tiny treasures beneath her. Black and red butterflies can be seen flitting around pale yellow flowers that shimmer softly and kiss the deep green branches.  Some deep hand holds going up are here.
+
+This area is illuminated.
+Obvious paths: east* west*.
+go han
+>[Taralin's Healing Services and Herbs.]
+
+The pungent aroma of drying herbs and flowers wafts all about this open area. Carefully tied to the branches overhead, several freshly cut herbs and plants hang so they can dry. Sweet smelling flowers are pleasantly arranged in a clear crystal vase that sits on top of a glass display case. A tiny bell hangs on a silver stand. Next to the stand sits a tiny sign written in common: "Please ring for service". Out of sight, a cheerful humming is heard. Soft cotton mats are placed carefully to the side and offer a place for injured travelers to rest and receive healing.  Some deep hand holds going down are here.
+
+This area is illuminated.
+Obvious paths: None.
+shop list all
+>We don't do business with your kind here!
+flai
+>You flail your arms about wildly.
+grunt a string of curses in Oog-ra...
+>You grunt a string of curses in Oog-ra...
+go han
+>[Treehaven, Second Tier]
+
+Natural handholds have formed on this part of the Mother Tree. The handholds lead up to a small flat platform. A bright blue bird has made her nest out on the smaller limbs of this area. She quietly watches you as you pass by, making sure she does not reveal the tiny treasures beneath her. Black and red butterflies can be seen flitting around pale yellow flowers that shimmer softly and kiss the deep green branches.  Some deep hand holds going up are here.
+
+This area is illuminated.
+Obvious paths: east* west*.
+e
+>[Treehaven, Second Tier]
+
+Your view through the leafy branches to your north opens over a sea of forest trees stretching into the distance.  On clear days breathtaking views can be seen of the snow peaked mountain range far in the distance. A blue winged falcon glides on the thermals above the edge of the tree tops below you, with a sudden dive it plummets through a canopy of leaves to seek it's prey.  Your own path leads you up against the side of the mother tree, still enormously wide even at this height.
+
+This area is illuminated.
+Obvious paths: southeast* west*.
+se
+>[Treehaven, Second Tier]
+
+Small, tender green branches have started to weave themselves into an intricate pattern. They are twisting as they grow in an upward direction. While these branches are still tender, the obvious structure of stairs is very clear in their design. In time, these branches will rise up into the higher branches of the Mother Tree.
+
+This area is illuminated.
+Obvious paths: south* northwest*.
+s
+>[Treehaven, Second Tier]
+
+Delicate, silvery blue, leaves grow into a soft velvety ladder that leads to the canopy above. The broad platform below you continues to spiral around the massive trunk of the Mother Tree. The air is cool and refreshing this high up and carries with it the aromatic scent of wet leaves, moss and grass. The earthen smells coupled with the soft sounds of nature lend a relaxing feel to the air. Elindale's loving touch is evident in the living walkways and platforms all around you.  A silvery blue leaf ladder is here.
+
+This area is illuminated.
+Obvious paths: north* south*.
+s
+>[Treehaven, Second Tier]
+
+A twisted notch in the trunk of the mother tree faintly resembles the face of a bearded old man. Creases and lines in the bark are the wrinkles and cares on this old man's face. Two black burn marks serve as eyes and a thick growth of moss as his beard. A large bump is his nose and a small squirrel hole is his smiling mouth. A dull, tense, feeling permeates the air around this area of the tree.
+
+This area is illuminated.
+Obvious paths: north* southwest*.
+n
+>[Treehaven, Second Tier]
+
+Delicate, silvery blue, leaves grow into a soft velvety ladder that leads to the canopy above. The broad platform below you continues to spiral around the massive trunk of the Mother Tree. The air is cool and refreshing this high up and carries with it the aromatic scent of wet leaves, moss and grass. The earthen smells coupled with the soft sounds of nature lend a relaxing feel to the air. Elindale's loving touch is evident in the living walkways and platforms all around you.  A silvery blue leaf ladder is here.
+
+This area is illuminated.
+Obvious paths: north* south*.
+go lad
+>[Laiani's Pile of Pelts.]
+
+Displayed amid the branches are all manners and types of furs and skins. Skins of various animals have been made into pieces of armor, each sized to fit any race. A young apprentice wanders the area, making sure all the furs are in good shape. He smiles at you pleasantly and asks if you need any assistance. A delicate, amber colored, ribbon has been tied around the thick girth of the Mother Tree. This ribbon serves as a reminder and memorial to the fur shop of old, and the merchants who ran it.  A silvery blue leaf ladder is here.
+
+This room is illuminated.
+Obvious exits: None.
+shop list all
+>
+Id# Item Type  Item Name                                     New Amount Value
+--- ---------- --------------------------------------------- --- ------ -----
+  1 Helms      black bear scalp cowl                         Yes x49    1gp
+  2 Cloaks     spotted leopardskin pelt                      Yes x49    4gp
+  3 Helms      spotted leopard scalp hood                    Yes x49    2gp
+  4 Cloaks     light grey wolf fur                           Yes x47    1gp+50sp
+  5 Helms      light grey wolf scalp cap                     Yes x49    75sp
+  6 Rings      bleached vertebra                             Yes x41    50sp
+  7 Helms      horned deer skull                             Yes x48    2gp
+  8 Amulets    small feathered talisman                      Yes x47    1gp
+  9 Misc       striped tigerskin rug                         Yes x50    15gp
+ 10 Misc       giant stuffed black bear                      Yes x49    200gp
+ 11 Misc       stuffed boar                                  Yes x50    75gp
+ 12 Misc       stuffed golden eagle                          Yes x49    10gp
+ 13 Wpn/Sharp  serrated mantis blade                         Yes x49    50gp
+ 14 Armor      heavy grey wolfskin tunic                     Yes x49    2gp
+ 15 Armor      light furry black bearskin armor              Yes x50    30gp
+ 16 Armor      heavy furry black bearskin armor              Yes x49    30gp
+ 17 Armor      giant furry black bearskin armor              Yes x50    30gp
+ 18 Armor      light green mantis carapace                   Yes x50    40gp
+ 19 Armor      heavy green mantis carapace                   Yes x47    40gp
+ 20 Armor      giant green mantis carapace                   Yes x50    40gp
+
+shop ex 17
+>You examine the giant furry black bearskin armor...
+
+It is in new condition.
+It weighs about 10.0 lbs (at human size)
+It has an amazing protection value.
+
+shop ex 20
+>You examine the giant green mantis carapace...
+
+It is in new condition.
+It weighs about 12.5 lbs (at human size)
+It has an amazing protection value.
+
+go lad
+>[Treehaven, Second Tier]
+
+Delicate, silvery blue, leaves grow into a soft velvety ladder that leads to the canopy above. The broad platform below you continues to spiral around the massive trunk of the Mother Tree. The air is cool and refreshing this high up and carries with it the aromatic scent of wet leaves, moss and grass. The earthen smells coupled with the soft sounds of nature lend a relaxing feel to the air. Elindale's loving touch is evident in the living walkways and platforms all around you.  A silvery blue leaf ladder is here.
+
+This area is illuminated.
+Obvious paths: north* south*.
+l
+[Delania's Armor and Weaponry]
+
+Soft light filters through the canopy of branches and leaves overhead. The light shimmers and reflects off carefully displayed pieces of armor and weaponry. A young Firian lad stands ready to help assist those who would like to try on an item. The look of determination and eagerness shows on this young apprentice's face. While not yet strong enough to wield some of the larger pieces, it is clear that in time this young Firian will be quite strong indeed.  A rough jagged wooden staircase is here.
+
+This area is illuminated.
+Obvious paths: None.
+shop list all
+>
+Id# Item Type  Item Name                                     New Amount Value
+--- ---------- --------------------------------------------- --- ------ -----
+  1 Shields    ivory studded leather buckler                 Yes x100   2gp+50sp
+  2 Shields    mottled tortoise shell                        Yes x181   12gp+50sp
+  3 Shields    unicorn emblazoned steelwood kite shield      Yes x130   12gp+50sp
+  4 Wpn/Thrust short wooden and copper twisted spear         Yes x146   3gp
+  5 Wpn/Thrust wooden handled iron pike                      Yes x179   12gp
+  6 Wpn/Thrust spiral tipped steel lance                     Yes x163   50gp
+  7 Wpn/Blunt  short iron banded wooden mace                 Yes x144   4gp
+  8 Wpn/Blunt  bear etched iron war-club                     Yes x167   12gp
+  9 Wpn/Blunt  leather-handled steel morning star            Yes x165   50gp
+ 10 Wpn/Blunt  two-handed serpentine steelwood maul          Yes x184   25gp
+ 11 Wpn/Sharp  short celestial etched silver flame dagger    Yes x124   5gp
+ 12 Wpn/Sharp  jade-hilted steel leaf-shaped knife           Yes x150   10gp
+ 13 Wpn/Sharp  opal-hilted carbide crescent moon sword       Yes x123   25gp
+ 14 Wpn/Sharp  blackened serrated mantis blade               Yes x151   35gp
+ 15 Wpn/Sharp  Firian crafted steel broad axe                Yes x144   50gp
+ 16 Wpn/Sharp  two-handed emerald-hilted jagged steel war blade Yes x170   100gp
+ 17 Armor      heavy loose fitted buckskin jerkin            Yes x196   15gp
+ 18 Armor      heavy bone studded leather hauberk            Yes x194   25gp
+ 19 Armor      heavy intricately woven bearskin jerkin       Yes x198   30gp
+ 20 Armor      heavy ivy etched ivory breastplate            Yes x183   40gp
+ 21 Armor      heavy green mantis carapace                   Yes x196   40gp
+ 22 Armor      heavy forest green steelwood brigandine       Yes x153   100gp
+ 23 Armor      light loose fitted buckskin jerkin            Yes x199   15gp
+ 24 Armor      light bone studded leather hauberk            Yes x198   25gp
+ 25 Armor      light intricately woven bearskin jerkin       Yes x199   30gp
+ 26 Armor      light ivy etched ivory breastplate            Yes x193   40gp
+ 27 Armor      light green mantis carapace                   Yes x200   40gp
+ 28 Armor      light forest green steelwood brigandine       Yes x186   100gp
+ 29 Armor      giant loose fitted buckskin jerkin            Yes x200   15gp
+ 30 Armor      giant bone studded leather hauberk            Yes x200   25gp
+ 31 Armor      giant intricately woven bearskin jerkin       Yes x200   30gp
+ 32 Armor      giant ivy etched ivory breastplate            Yes x200   40gp
+ 33 Armor      giant green mantis carapace                   Yes x200   40gp
+ 34 Armor      giant forest green steelwood brigandine       Yes x200   100gp
+ 35 Misc       certificate for a crystalla short weapon      Yes x2     1500gp
+ 36 Misc       certificate for a crystalla hand-and-a-half weapon Yes x3     2000gp
+ 37 Misc       certificate for a crystalla two-handed weapon Yes x3     3000gp
+ 38 Misc       certificate for a morbius suit of armor       Yes x3     5000gp
+
+shop ex 9
+>You examine the leather-handled steel morning star...
+
+It is in new condition.
+It weighs about 4.5 lbs (at human size)
+It is a hand-and-a-half blunt weapon.
+It is not balanced for throwing.
+It has a great damage capability.
+
+shop ex 10
+>You examine the two-handed serpentine steelwood maul...
+
+It is in new condition.
+It weighs about 8.5 lbs (at human size)
+It is a two-handed blunt weapon.
+It is not balanced for throwing.
+It has a high damage capability.
+
+l
+>[Delania's Armor and Weaponry]
+
+Soft light filters through the canopy of branches and leaves overhead. The light shimmers and reflects off carefully displayed pieces of armor and weaponry. A young Firian lad stands ready to help assist those who would like to try on an item. The look of determination and eagerness shows on this young apprentice's face. While not yet strong enough to wield some of the larger pieces, it is clear that in time this young Firian will be quite strong indeed.  A rough jagged wooden staircase is here.
+
+This area is illuminated.
+Obvious paths: None.
+go st
+>[Treehaven, Second Tier]
+
+Rough and thick limbs have grown in a jagged way. Each limb has grown crooked and crosswise, creating an odd but firm staircase. Out a little ways into the thinner branches, a large stubby branch has grown into an odd shape. From this vantage point it appears that the branch is a small bear, standing in a defiant stance. The detail and curve of its body is unmistakable. The bear almost appears lifelike, and it is only by the fact that a small yellow bird has decided to rest on the bears head, that you are brought back to the realization that he is not real.  A rough jagged wooden staircase is here.
+
+This area is illuminated.
+Obvious paths: east* west*.
+w
+>[Treehaven, Second Tier]
+
+A shimmering cascade of mist can be seen from this area. The mist rises high over the canopy of the forest, its source being the waterfall to the west. The almost silent sound of the waterfall touches the tips of your hearing. On busy religious and political days, this sound is nonexistent. A soft bench, made of the living branches and leaves of the Mother Tree, has grown near the edge of the platform. It offers weary travelers a place to sit quietly and admire the beauty of the forest below. Thick limbs help provide a natural railing here, as in all the other parts of the tree.  A long soft leaf bench is here.
+
+This area is illuminated.
+Obvious paths: east* northwest*.
+l at be
+>It looks like a bone pitch black bearskin berserker's cloak.
+
+There appears to be something inside.
+l at ben
+>It looks like a long soft leaf bench.
+nw
+>[Treehaven, Second Tier]
+
+An intricately woven staircase, made entirely of living leaves and limbs, gracefully descends to the main platform below. Stretching out before you, the grand limbs and branches of the Mother Tree extend out into the open air beyond. The view of the Caersech is breathtaking from this vantage point. Directly west the outline of Spur can be seen on the horizon. Shimmering lights glisten off the river below and bring a sparkle of beauty to this haven in the trees.  An intricately woven leaf stairway leading down is here.
+
+This area is illuminated.
+Obvious paths: north* southeast*.
+go st
+>[Treehaven, Main Platform]
+
+Thick and strong limbs have reached out from the base of the Mother Tree. The hearty limbs have twisted and woven themselves into an intricate staircase. Other limbs have woven into a firm and solid platform. Smaller, tenderer, limbs have gracefully grown up around the railing. Bright green leaves fan out between the gaps, and create a cool and shady walkway. The railing itself, made of interwoven strips of oak and maple, creates a lovely barrier to allow one to admire the forest below, but not fall to their death.  An intricately woven leaf stairway leading up is here.
+
+This area is illuminated.
+You see the 1st anthian bard.
+Obvious paths: north* southeast*.
+se
+>[Treehaven, Main Platform]
+
+Interwoven wooden railings encircle the edge of this area, serving as a barrier between the new platform and the drop to the ground. Someone has carefully planted flowers and vegetables in hanging pots all along the railing. Several small limbs have begun to sprout out of the Mother Tree and are beginning to weave into an intricate walkway. Stunning images of the forest are amazing from this vantage point.  A large wooden ladder, some hanging flower pots, and some hanging vegetable pots are here.
+
+This area is illuminated.
+You see the 1st shadowless anthian bard.
+Obvious paths: east* northwest*.
+go lad
+>[Lothar's Locks]
+
+Clutter covers the tables behind the workbench standing just inside the entrance. Several lock-picking tools of indiscernible make hang on pegs on the wall around the small shop.  A pine workbench and a large wooden ladder are here.
+
+This room is illuminated.
+In the room is Callik the Noble Fir Elf.
+Obvious exits: None.
+sal
+>You salute.
+sal
+>You salute.
+go lad
+>[Treehaven, Main Platform]
+
+Interwoven wooden railings encircle the edge of this area, serving as a barrier between the new platform and the drop to the ground. Someone has carefully planted flowers and vegetables in hanging pots all along the railing. Several small limbs have begun to sprout out of the Mother Tree and are beginning to weave into an intricate walkway. Stunning images of the forest are amazing from this vantage point.  A large wooden ladder, some hanging flower pots, and some hanging vegetable pots are here.
+
+This area is illuminated.
+You see the 1st shadowless anthian bard.
+Obvious paths: east* northwest*.
+e
+>[Treehaven, Main Platform]
+
+The branches of this tree have begun to grow through the wooden platform. The limbs have begun to twist and turn, forming their own natural base. Soft leaves create a cushion and boast several small buds. The former bank is almost completely covered by vines and moss. Intricately crafted stairs lead from the platform to the new building that resides in the upper branches.  An open door and a freshly painted wooden sign are here.
+
+This area is illuminated.
+Obvious paths: northeast* west*.
+go door
+>[Gaspar's Grog and Grub.]
+
+Four sturdy walls and a roof of woven branches enclose this small tavern. From the forest floor, winding their way around the trunk of the Mother Tree, a set of intricately railed steps serve as the entrance and exit of the town of Treehaven. Strangers arriving at the top of the steps find themselves under the watchful eye of patrons seated at tables positioned about the light, airy room. A set of oak steps lead up to the new Council chambers.  An ivory inlaid pine bar, a wooden stool, a long weathered wooden bench, a long musty wooden table, some steps circling the tree, some freshly crafted oak steps, an open door, a paper covered posting board, and a gilt framed painting on the wall are here.
+
+This room is illuminated.
+Obvious exits: None.
+go st
+go ste
+>>[Steps.]
+
+The latticework surrounding and covering the spiral staircase is finely crafted. The intertwining beams seem to weave a delicate pattern above you, accenting the view of the forest floor. Soft, new, growth can be seen all over the forest below. A small mound of moss has slowly begun to cover the old inn, creating a fuzzy green mound. A large pile of Elven rope sits near the silent Golem. This creature of Elindale helps defend the city by retrieving the rope that people have pushed down to the forest below.  Some steps circling the tree and a freshly carved wooden sign are here.
+
+This area is illuminated.
+You see the 1st wooden golem.
+Obvious paths: None.
+go el
+>I don't see what you are referring to.
+go ste
+>[Gaspar's Grog and Grub.]
+
+Four sturdy walls and a roof of woven branches enclose this small tavern. From the forest floor, winding their way around the trunk of the Mother Tree, a set of intricately railed steps serve as the entrance and exit of the town of Treehaven. Strangers arriving at the top of the steps find themselves under the watchful eye of patrons seated at tables positioned about the light, airy room. A set of oak steps lead up to the new Council chambers.  An ivory inlaid pine bar, a wooden stool, a long weathered wooden bench, a long musty wooden table, some steps circling the tree, some freshly crafted oak steps, an open door, a paper covered posting board, and a gilt framed painting on the wall are here.
+
+This room is illuminated.
+Obvious exits: None.
+go ste
+>[Steps.]
+
+The latticework surrounding and covering the spiral staircase is finely crafted. The intertwining beams seem to weave a delicate pattern above you, accenting the view of the forest floor. Soft, new, growth can be seen all over the forest below. A small mound of moss has slowly begun to cover the old inn, creating a fuzzy green mound. A large pile of Elven rope sits near the silent Golem. This creature of Elindale helps defend the city by retrieving the rope that people have pushed down to the forest below.  Some steps circling the tree and a freshly carved wooden sign are here.
+
+This area is illuminated.
+You see the 1st wooden golem.
+Obvious paths: None.
+>
+The wooden golem gestures to someone and nods.
+re si
+
+The freshly carved wooden sign reads:
+"Please PUSH the ROPE down if you wish to leave. 
+Please do not pull the cord, you will confuse the poor Golem and he won't let anyone down for a while. Thank you! 
+~*Laiani*~"
+>
+The wooden golem gestures to someone and nods.
+push ro
+
+The Elven rope descends to the forest floor below.
+go el
+>[Hope's Path.]
+
+Carefully winding its way up the base of the tree, and wrapping itself around the stairs, a flowering jasmine vine grows tall and lush. Dark scars from a past fire are almost hidden under tufts of fresh growth and moss. A large gap, nearly sixteen feet in distance, rests between the base of a set of stairs and the forest floor. A long moonsilver cord hangs down the side of the tree. If one pulls it, the long Elven rope will descend from above, allowing them to enter the great city of Treehaven. Bright green leaves of clover have begun springing up through the ashy soil in conjunction with soft moss to lend a durable cushion to this well-traveled spot.  Some vine-covered steps circling the tree, a freshly painted wooden sign, a healthy green patch of clover, a flowing marble fountain, some clover shaped stones, some sweet scented flowering jasmine vines, a long woven moonsilver cord, and an Elven rope are here.
+
+This area is illuminated.
+Obvious paths: north* east* south* west*.
+inv
+>Items carried:
+  A smooth handled wooden torch [0.1 lbs].
+  A blood-stained wool skirt [0.1 lbs].
+  A large hammered copper shield [4.2 lbs].
+  Some heavy black and gold iron platemail [65.0 lbs].
+  A bone pitch black bearskin berserker's cloak [7.6 lbs].
+  A wooden bow [3.5 lbs].
+  A two-handed iron maul [9.8 lbs].
+  A large magnificent grey obsidian figurine [0.1 lbs].
+  A spent fine rolled cigar [0.1 lbs].
+  An open large pitch black leather backpack [146.0 lbs].
+  A damaged quiver of bark arrows [0.4 lbs].
+  A quiver of bark arrows [0.4 lbs].
+  An open large frayed burlap rucksack [6.2 lbs].
+  An open large frayed pitch black burlap rucksack [2.1 lbs].
+  An open leather trimmed canvas rucksack [0.2 lbs].
+  Some giant bone trimmed steel plate armor [122.5 lbs].
+  A squirming knotted belt of live rats [0.1 lbs].
+  An open pitch black leather healer's bag [4.8 lbs].
+  A twinkling pitch black strand of love beads [0.5 lbs].
+
+You have 65 silver pieces and 65 gold pieces.
+
+This gives you a total net worth of 6565 silver.
+
+Your inventory totals 374.9 lbs.

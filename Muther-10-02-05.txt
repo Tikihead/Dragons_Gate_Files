@@ -1,0 +1,4286 @@
+
+The silvery timber wolf raises its muzzle to sniff the air.
+
+Mariskia just placed a two-handed obsidian-inlaid shadowy black crystalla claymore within her open large white leather backpack.
+
+Shaleu just dropped an open fishing gear.
+
+Tiruna smiles at Thallion.
+
+Thallion nods to Tiruna.
+l in fis
+Inside the open fishing gear you see a thin bamboo fishing pole, a thin bamboo fishing pole, a thin bamboo fishing pole, a thin bamboo fishing pole, a thin bamboo fishing pole, a thin bamboo fishing pole, a thin bamboo fishing pole, a thin bamboo fishing pole, a thin bamboo fishing pole, a thin bamboo fishing pole, and a thin bamboo fishing pole.
+>
+Shaleu says in Leuian, "get a pole from the gear"
+
+Mariskia removes her heavy midnight blue steelwood brigandine.
+
+Kenetic squints at the open fishing gear bending it slightly to test it's strength.
+get fis from fis
+You remove the thin bamboo fishing pole from the open fishing gear.
+>
+Mariskia just placed a heavy midnight blue steelwood brigandine within her open large white leather backpack.
+get pol from fis
+It's closed!
+>
+Kenetic grumbles.
+
+Siobahn just removed a thin bamboo fishing pole from within the open fishing gear.
+
+Thallion says to Tiruna in Leuian, "I'm Thal"
+
+Retta raises an eyebrow.
+
+Tiruna just removed a thin bamboo fishing pole from within the open fishing gear.
+
+Kierra says in Leuian, "i can't guarentee you won't get wet"
+ready fis
+The thin bamboo fishing pole is now your ready weapon.
+[5 sec. delay]
+>
+Shaleu offers something to Siobahn.
+
+Tiruna says in Leuian, "'a pleasure"
+
+Siobahn says to Shaleu in Leuian, "I grabbed one."
+
+Tiruna says in Leuian, "I'm Tiruna"
+
+Kierra grins mischeviously.
+
+Siobahn smiles to Shaleu.
+
+Thallion leans on Runningdeer.
+
+Siobahn taps the open fishing gear.
+stat
+OR:   3  DR: 90  Move Rate: 5/5 UDs  Dam Bonus: Low/None  Stance: Normal
+
+You are in the center of the area!
+You are seated.
+
+  ::: Equipment Readied :::
+
+  A thin bamboo fishing pole.
+  A light forest green steelwood brigandine.
+  A long pitch black bone nose piercing.
+  A long blood-stained render skin cape.
+  A Leuian Pride ring.
+  An oak ring of Elindale.
+  A pair of pitch black bearskin pants.
+>
+Shaleu just dropped a thin bamboo fishing pole.
+
+Shaleu just dropped a thin bamboo fishing pole.
+
+Retta just removed a thin bamboo fishing pole from within the open fishing gear.
+
+Kenetic taps the open fishing gear.
+
+Runningdeer purrs.
+
+Thallion says to Tiruna in Leuian, "Nice to meet you"
+
+Kenetic taps the thin bamboo fishing pole.
+
+Kierra just picked up an open fishing gear.
+
+The silvery timber wolf draws its lips back from its teeth in a snarl.
+
+Thallion asks Runningdeer in Leuian, "you going to fish for us dear?"
+rai hand with fis
+You raise your hand with the thin bamboo fishing pole.
+>
+Thallion grins at Runningdeer.
+
+Kandil just picked up a thin bamboo fishing pole.
+
+Runningdeer says to Thallion in Leuian, "been an long time"
+
+Kandil stores her lacquered cedar flute.
+
+Tiruna says in Leuian, "glad to see you found your way, Thallion"
+
+Tiruna nods up and down.
+rai hand paw quietly
+
+Thallion grins at Runningdeer.
+You raise your hand paw quietly.
+>
+Kandil readies a thin bamboo fishing pole.
+
+Retta taps the thin bamboo fishing pole.
+
+Thallion exclaims to Runningdeer in Leuian, "you'll do fine!"
+' how does this work?
+
+Muther asks in Leuian, " how does this work?"
+>
+Siobahn readies a thin bamboo fishing pole.
+gla at fis
+You glance at the thin bamboo fishing pole.
+>
+Tiruna readies a thin bamboo fishing pole.
+
+Shaleu just picked up a thin bamboo fishing pole.
+
+Runningdeer nuzzles Thallion.
+
+Siobahn squints at the thin bamboo fishing pole.
+
+Kierra just closed the open fishing gear.
+
+Thallion says to Tiruna in Leuian, "Thanks I wouldn't have without Runningdeer and Retta though"
+
+Retta readies a thin bamboo fishing pole.
+
+Shaleu withdraws her earlier offer.
+l
+
+Kierra's stomach growls.
+
+Kenetic's stomach growls.
+[Village.]
+
+The chipped bark path widens to encompass a broad square between the peaked roofs of the village homes, the larger storefronts, and several communal buildings that all surround a magnificent fountain crafted from local sandstone. The multi-tiered fountain flows with pure, clean springwater and provides seating around its broad base.  The towering trees surround the village, enclosing the square in a living frame.  To the west is a sturdy building with its door perpetually ajar. A line of Leuian children trots off towards the north, bearing their lessons. The faint ding of nautical bells flows in on the breeze from the northwest.   A flowing gold-flecked sandstone fountain is here.
+
+This area is illuminated.
+You see the 1st silvery timber wolf (wearing a small gold collar).
+In the area are Mariskia the Noble Leuian, Hott the Noble Leuian (seated), Siobahn the Leuian (seated), Runningdeer the Leuian (seated), Retta the Leuian (seated), Kierra the Leuian (seated), Thallion the Novice Leuian (seated), Kenetic the Leuian, Tiruna the Noble Leuian (seated), Shaleu the Leuian, Kandil the Leuian (seated), and Lthe the Leuian (seated).
+Obvious paths: north* northeast* east* southeast* south* southwest* west*.
+>
+Kandil smiles.
+
+Kierra ties a closed fishing gear to her belt.
+tact
+Standing in this rank is:
+Mariskia, Hott, Siobahn, Runningdeer, Retta, Muther, Kierra, Thallion, Kenetic, Tiruna, Shaleu, Kandil, Lthe, silvery timber wolf
+>
+Tiruna beams at Runningdeer and Retta.
+
+Retta smiles at Tiruna.
+
+Kenetic just removed an Elven waybread from within his flowing pitch black satin hooded robe.
+You see Kenetic take a bite of his Elven waybread.
+
+Kenetic hiccups.
+
+Shaleu says in Leuian, "everyone have a pole"
+You see Kenetic take a bite of his Elven waybread.
+
+Kenetic belches.
+stand silently
+You stand up silently.
+>You see Kenetic take a bite of his Elven waybread.
+
+Kenetic belches.
+
+Kenetic says in Leuian, "scuse me"
+You see Kenetic take a bite of his Elven waybread.
+
+Kenetic hiccups.
+ret 5
+You retreat 5 UDs to the rear!
+[3 sec. delay]
+>You see Kenetic eat the last of his Elven waybread.
+
+Kenetic belches.
+
+Runningdeer shakes her head from side to side.
+k hot
+tact
+You must move closer to your opponent's rank to engage in combat.
+>
+Kenetic says in Leuian, "scuse me"
+Standing in front of you at 5 UDs, is:
+Mariskia, Hott, Siobahn, Runningdeer, Retta, Kierra, Thallion, Kenetic, Tiruna, Shaleu, Kandil, Lthe, silvery timber wolf
+Standing in this rank is:
+Muther
+>
+Lthe asks in Leuian, "a pole?"
+
+ ** You are fully rested.
+adv 5
+You advance another 5 UDs!
+>
+Kandil waves her thin bamboo fishing pole.
+
+Retta taps the thin bamboo fishing pole.
+
+Shaleu says in Leuian, "any poles left in the fishing gear bag"
+
+Lthe says in Leuian, "gotta spear"
+
+Lthe smiles.
+
+Shaleu offers something to Lthe.
+l in bac
+Inside the open large leather backpack you see some heavy blood red lacquered bone scale mail, some light greying studded leather armor, an open raccoonskin pack, a heavy studded leather mail, an iron morningstar, a flowing pitch black satin noble's cloak, a wood club, a cold cherry tart, a half-eaten fresh baked apple pie, and a white wax candle.
+>
+Lthe accepts Shaleu's offer.
+
+Tiruna nods up and down.
+
+Thallion removes his heavy studded leather mail.
+
+Shaleu says in Leuian, "who has the gear bag"
+
+Lthe ponders the meaning of the universe for a moment.
+rem ren
+You remove your long blood-stained render skin cape.
+>
+Siobahn gestures to Kierra.
+get no from bac
+
+Lthe says in Leuian, "not much of a weapon, I think."
+You remove the flowing pitch black satin noble's cloak from your open large leather backpack.
+wear no
+>You need to remove your current helm first.
+>
+Kierra says in Leuian, "oops"
+
+Kierra says in Leuian, "i don't want it"
+
+Siobahn nods to Lthe in agreement.
+wear nob
+You put on your flowing pitch black satin noble's cloak.
+>
+Kierra unfastens her closed fishing gear.
+
+Kierra just dropped a closed fishing gear.
+
+Lthe readies a thin bamboo fishing pole.
+
+Tiruna just opened the closed fishing gear.
+
+The silvery timber wolf draws its lips back from its teeth in a snarl.
+
+Kierra says in Leuian, "i just wanted  pole"
+
+Shaleu just picked up an open fishing gear.
+
+Kandil just placed a tapered applewood mandolin within her open large leather backpack.
+
+Lthe ponders the meaning of the universe for a moment.
+put pan in bac
+You place the colorful bamboo panpipes within your open large leather backpack.
+>
+Thallion swishes his tail.
+
+Kandil just placed an empty bottle of sparkling water within her open large leather backpack.
+
+Shaleu says in Leuian, "ok this is the plan we are going to the Pier"
+foll sha
+You follow Shaleu.
+>
+Thallion says to Shaleu in Leuian, "I'll take one I guess, I'll give it a try"
+
+Shaleu says in Leuian, "remember that Bass that swims there"
+
+Shaleu just removed a thin bamboo fishing pole from within her open fishing gear.
+stat
+OR:   3  DR: 90  Move Rate: 5/5 UDs  Dam Bonus: Low/None  Stance: Normal
+
+You are in the center of the area!
+
+  ::: Equipment Readied :::
+
+  A thin bamboo fishing pole.
+  A light forest green steelwood brigandine.
+  A long pitch black bone nose piercing.
+  A flowing pitch black satin noble's cloak.
+  A Leuian Pride ring.
+  An oak ring of Elindale.
+  A pair of pitch black bearskin pants.
+rem fis
+>You remove your thin bamboo fishing pole.
+stat
+>OR:  30  DR: 117  Move Rate: 5/5 UDs  Dam Bonus: Low/None  Stance: Normal
+
+You are in the center of the area!
+
+  ::: Equipment Readied :::
+
+  A light forest green steelwood brigandine.
+  A long pitch black bone nose piercing.
+  A flowing pitch black satin noble's cloak.
+  A Leuian Pride ring.
+  An oak ring of Elindale.
+  A pair of pitch black bearskin pants.
+>
+Tiruna says in Leuian, "and I think Kierra needs one too"
+
+Kierra says in Leuian, "i'll have one to please"
+
+Kandil exclaims to Shaleu in Leuian, "the biggun!"
+ready mor
+The damaged iron morningstar is now your ready weapon.
+[8 sec. delay]
+stat
+>OR:  18  DR: 105  Move Rate: 5/5 UDs  Dam Bonus: Low/None  Stance: Normal
+
+You are in the center of the area!
+
+  ::: Equipment Readied :::
+
+  A damaged iron morningstar.
+  A light forest green steelwood brigandine.
+  A long pitch black bone nose piercing.
+  A flowing pitch black satin noble's cloak.
+  A Leuian Pride ring.
+  An oak ring of Elindale.
+  A pair of pitch black bearskin pants.
+>
+Siobahn stands up.
+rem mor
+
+Kierra nuzzles Shaleu.
+
+Shaleu offers something to Thallion.
+
+Lthe waves her thin bamboo fishing pole.
+ready fis
+
+Runningdeer stands up.
+
+Thallion accepts Shaleu's offer.
+
+Tiruna says in Leuian, "ole Murky"
+
+Thallion stands up.
+
+Lthe grins.
+You return your damaged iron morningstar.
+The thin bamboo fishing pole is now your ready weapon.
+[5 sec. delay]
+>
+Tiruna stands up.
+
+Kandil grins to Lthe.
+
+Thallion readies a thin bamboo fishing pole.
+
+Shaleu says in Leuian, "well we are going to see if you can catch him"
+
+Kierra stands up.
+
+Runningdeer is now following Shaleu.
+
+Lthe waves her thin bamboo fishing pole at Kandil.
+
+Shaleu says in Leuian, "so follow up "
+
+Siobahn is now following Shaleu.
+
+Tiruna is now following Shaleu.
+
+Kierra is now following Shaleu.
+
+Kandil stands up.
+show group
+Siobahn is in your group.
+Runningdeer is in your group.
+Retta is in your group.
+Kierra is in your group.
+Thallion is in your group.
+Tiruna is in your group.
+Shaleu is in your group.
+Your group has 8 people!
+>
+Lthe stands up.
+
+Hott stands up.
+
+Kandil is now following Shaleu.
+tact
+Standing in this rank is:
+Mariskia, Hott, Siobahn, Runningdeer, Retta, Muther, Kierra, Thallion, Tiruna, Shaleu, Kandil, Lthe, silvery timber wolf
+>
+Lthe is now following Shaleu.
+
+Retta smiles at Mariskia.
+
+Hott is now following Shaleu.
+
+Tiruna sighs.
+
+Retta stands up.
+
+Thallion asks in Leuian, "what if we catch a wahle?"
+
+Thallion says in Leuian, "whale"
+show group
+Hott is in your group.
+Siobahn is in your group.
+Runningdeer is in your group.
+Retta is in your group.
+Kierra is in your group.
+Thallion is in your group.
+Tiruna is in your group.
+Shaleu is in your group.
+Kandil is in your group.
+Lthe is in your group.
+Your group has 11 people!
+>
+You follow Shaleu north...
+
+[Village.]
+
+An immense, smoothed river boulder deposited by the river, eons ago, is imbedded in the soft loam of the forest floor and blocks the view of the river to the north. A few giant trees have grown bent around its rounded shape and an innovative homeowner has taken advantage of the resulting shelter. Built carefully among the trees in the lee of the rock, stands a magnificent example of the same peaked wooden beam homes that dot the entire forest. One fledgling tree pokes its head through a well-planned hole in the roof.  A pair of closed magnificent carved steelwood doors, a slippery downhill path, and a stack of rocks are here.
+
+This area is illuminated.
+You see the 1st silvery timber wolf (wearing a small gold collar).
+In the area are Hott the Noble Leuian, Siobahn the Leuian, Runningdeer the Leuian, Retta the Leuian, Kierra the Leuian, Thallion the Novice Leuian, Tiruna the Noble Leuian, Shaleu the Leuian, Kandil the Leuian, and Lthe the Leuian.
+Obvious paths: east* southeast* south* southwest* west* northwest*.
+
+Runningdeer giggles.
+
+Retta says to Thallion, "it'll throw you back"
+
+You follow Shaleu northwest...
+
+[Village.]
+
+The houses grow more abundant as the path meanders further around the park. Rows of homes border the park and stretch back amongst the low hills towards the inner part of the island. The light is brighter here, as the canopy of trees thins to allow an expanse of sky to open directly over the middle of the village. Two Leuian adolescents chat and laugh amongst themselves as they casually stroll down the path to the pier, kicking a stone between them.  Some sandy wooden steps are here.
+
+This area is illuminated.
+You see the 1st silvery timber wolf (wearing a small gold collar).
+In the area are Hott the Noble Leuian, Siobahn the Leuian, Runningdeer the Leuian, Retta the Leuian, Kierra the Leuian, Thallion the Novice Leuian, Tiruna the Noble Leuian, Shaleu the Leuian, Kandil the Leuian, and Lthe the Leuian.
+Obvious paths: southeast* south* west* northwest*.
+l s
+[Village.]
+
+A row of smaller cottages with tiny gardens flanks the path on the western edge of a massive river-smoothed boulder. Cheerfully painted wooden mailboxes sprout from the stone curbs, planted to overflowing with crimson poppies and dark green creeping charley vines. The peaked roofs of the small homes are no less spectacular than those of the larger dwellings. Skillful carvings cover the balustrades that support the roofs, creating beautiful, comfortable porches. The cozy homes are bustling with the busy lives of several families.  A closed arched hand-carved wooden door is here.
+
+This area is illuminated.
+Obvious paths: north* east* west*.
+>
+Lthe says in Leuian, "I could practice shields with this"
+
+You follow Shaleu northwest...
+
+[Village.]
+
+The bark path skirts the lagoon here and connects the docks to the rest of the village. A few bright wildflowers decorate the edge and dance in the light breeze. Weary sailors amble up the road after returning from a long voyage with their duffels thrown over their backs. Further down the road, the lighthouse is barely visible along the shoreline. Although difficult to see from here, its light shines like a beacon of hope to all the river. A giggling band of khits rushes towards the pier in hopes of catching a glimpse of some of the noble ships docked there. A group of Leuians sit near a few large rocks by the docks, mending nets and singing songs with one another as they wave to the returning fleets.
+
+This area is illuminated.
+You see the 1st silvery timber wolf (wearing a small gold collar).
+In the area are Hott the Noble Leuian, Siobahn the Leuian, Runningdeer the Leuian, Retta the Leuian, Kierra the Leuian, Thallion the Novice Leuian, Tiruna the Noble Leuian, Shaleu the Leuian, Kandil the Leuian, and Lthe the Leuian.
+Obvious paths: north* southeast* northwest*.
+' left someone?
+
+Muther asks in Leuian, " left someone?"
+>
+You follow Shaleu north...
+
+[Village.]
+
+The thick, tarred pylons of a long wooden pier poke through the surface of the calm lagoon interrupting the flat, mirrored reflection of the wharf storefronts and dry-docked ships. Here, the wheel hits the rub where the fleets converge, merchant ships load and unload, and individuals fish or relax. There are dozens of tables for display of wares awaiting the return of the fishing fleet. Behind each table lies a workspace open to a gully below for the disposal of scraps, where gulls and terns scavenge for tasty tid-bits. Several long shoremen await the lowering of the gangplank of another vessel with empty carts and drays. The stiff breeze off the river invigorates the hustle of the wharf.
+
+This area is illuminated.
+You see the 1st silvery timber wolf (wearing a small gold collar).
+In the area are Hott the Noble Leuian, Siobahn the Leuian, Runningdeer the Leuian, Retta the Leuian, Kierra the Leuian, Thallion the Novice Leuian, Tiruna the Noble Leuian, Shaleu the Leuian, Kandil the Leuian, and Lthe the Leuian.
+Obvious paths: south* northwest*.
+
+You follow Shaleu south...
+
+[Village.]
+
+The bark path skirts the lagoon here and connects the docks to the rest of the village. A few bright wildflowers decorate the edge and dance in the light breeze. Weary sailors amble up the road after returning from a long voyage with their duffels thrown over their backs. Further down the road, the lighthouse is barely visible along the shoreline. Although difficult to see from here, its light shines like a beacon of hope to all the river. A giggling band of khits rushes towards the pier in hopes of catching a glimpse of some of the noble ships docked there. A group of Leuians sit near a few large rocks by the docks, mending nets and singing songs with one another as they wave to the returning fleets.
+
+This area is illuminated.
+You see the 1st silvery timber wolf (wearing a small gold collar).
+In the area are Hott the Noble Leuian, Siobahn the Leuian, Runningdeer the Leuian, Retta the Leuian, Kierra the Leuian, Thallion the Novice Leuian, Tiruna the Noble Leuian, Shaleu the Leuian, Kandil the Leuian, and Lthe the Leuian.
+Obvious paths: north* southeast* northwest*.
+
+Hott says in Leuian, "better learn how to swin then"
+
+You follow Shaleu southeast...
+
+[Village.]
+
+The houses grow more abundant as the path meanders further around the park. Rows of homes border the park and stretch back amongst the low hills towards the inner part of the island. The light is brighter here, as the canopy of trees thins to allow an expanse of sky to open directly over the middle of the village. Two Leuian adolescents chat and laugh amongst themselves as they casually stroll down the path to the pier, kicking a stone between them.  Some sandy wooden steps are here.
+
+This area is illuminated.
+You see the 1st silvery timber wolf (wearing a small gold collar).
+In the area are Hott the Noble Leuian, Siobahn the Leuian, Runningdeer the Leuian, Retta the Leuian, Kierra the Leuian, Thallion the Novice Leuian, Tiruna the Noble Leuian, Shaleu the Leuian, Kandil the Leuian, and Lthe the Leuian.
+Obvious paths: southeast* south* west* northwest*.
+
+You follow Shaleu southeast...
+
+[Village.]
+
+An immense, smoothed river boulder deposited by the river, eons ago, is imbedded in the soft loam of the forest floor and blocks the view of the river to the north. A few giant trees have grown bent around its rounded shape and an innovative homeowner has taken advantage of the resulting shelter. Built carefully among the trees in the lee of the rock, stands a magnificent example of the same peaked wooden beam homes that dot the entire forest. One fledgling tree pokes its head through a well-planned hole in the roof.  A pair of closed magnificent carved steelwood doors, a slippery downhill path, and a stack of rocks are here.
+
+This area is illuminated.
+You see the 1st silvery timber wolf (wearing a small gold collar).
+In the area are Mariskia the Noble Leuian, Hott the Noble Leuian, Siobahn the Leuian, Runningdeer the Leuian, Retta the Leuian, Kierra the Leuian, Thallion the Novice Leuian, Tiruna the Noble Leuian, Shaleu the Leuian, Kandil the Leuian, and Lthe the Leuian.
+Obvious paths: east* southeast* south* southwest* west* northwest*.
+tact
+Standing in this rank is:
+Mariskia, Hott, Siobahn, Runningdeer, Retta, Muther, Kierra, Thallion, Tiruna, Shaleu, Kandil, Lthe, silvery timber wolf
+>
+You follow Shaleu south...
+
+[Village.]
+
+The chipped bark path widens to encompass a broad square between the peaked roofs of the village homes, the larger storefronts, and several communal buildings that all surround a magnificent fountain crafted from local sandstone. The multi-tiered fountain flows with pure, clean springwater and provides seating around its broad base.  The towering trees surround the village, enclosing the square in a living frame.  To the west is a sturdy building with its door perpetually ajar. A line of Leuian children trots off towards the north, bearing their lessons. The faint ding of nautical bells flows in on the breeze from the northwest.   A flowing gold-flecked sandstone fountain is here.
+
+This area is illuminated.
+You see the 1st silvery timber wolf (wearing a small gold collar).
+In the area are Hott the Noble Leuian, Siobahn the Leuian, Runningdeer the Leuian, Retta the Leuian, Kierra the Leuian, Thallion the Novice Leuian, Tiruna the Noble Leuian, Shaleu the Leuian, Kandil the Leuian, and Lthe the Leuian.
+Obvious paths: north* northeast* east* southeast* south* southwest* west*.
+show group
+
+Mariskia just entered from the north.
+Hott is in your group.
+Siobahn is in your group.
+Runningdeer is in your group.
+Retta is in your group.
+Kierra is in your group.
+Thallion is in your group.
+Tiruna is in your group.
+Shaleu is in your group.
+Kandil is in your group.
+Lthe is in your group.
+Your group has 11 people!
+>
+Tiruna searches the area.
+gri
+You grin.
+>
+Mariskia is now following Shaleu.
+
+Retta says, "Damn it, I don't know how to swim"
+
+Yinnin reveals himself.
+
+Yinnin sneezes.
+
+Mariskia says in Leuian, "you forgot me"
+
+Retta tickles Mariskia.
+
+Yinnin curses loudly.
+
+Yinnin just went east.
+
+Runningdeer chuckles.
+
+Siobahn glances eastwards.
+
+You follow Shaleu north...
+
+[Village.]
+
+An immense, smoothed river boulder deposited by the river, eons ago, is imbedded in the soft loam of the forest floor and blocks the view of the river to the north. A few giant trees have grown bent around its rounded shape and an innovative homeowner has taken advantage of the resulting shelter. Built carefully among the trees in the lee of the rock, stands a magnificent example of the same peaked wooden beam homes that dot the entire forest. One fledgling tree pokes its head through a well-planned hole in the roof.  A pair of closed magnificent carved steelwood doors, a slippery downhill path, and a stack of rocks are here.
+
+This area is illuminated.
+You see the 1st silvery timber wolf (wearing a small gold collar).
+In the area are Mariskia the Noble Leuian, Hott the Noble Leuian, Siobahn the Leuian, Runningdeer the Leuian, Retta the Leuian, Kierra the Leuian, Thallion the Novice Leuian, Tiruna the Noble Leuian, Shaleu the Leuian, Kandil the Leuian, and Lthe the Leuian.
+Obvious paths: east* southeast* south* southwest* west* northwest*.
+l e
+
+Kandil asks in Leuian, "what was that?"
+[Village.]
+
+An asymmetric row of wooden-beamed homes blend into the surrounding forest of giant trees seamlessly.  If it were not for the stacked rock markings, the park area to the south would be indistinguishable from the village area to the west. 
+
+This area is illuminated.
+Obvious paths: east* southeast* southwest* west*.
+>
+You follow Shaleu northwest...
+
+[Village.]
+
+The houses grow more abundant as the path meanders further around the park. Rows of homes border the park and stretch back amongst the low hills towards the inner part of the island. The light is brighter here, as the canopy of trees thins to allow an expanse of sky to open directly over the middle of the village. Two Leuian adolescents chat and laugh amongst themselves as they casually stroll down the path to the pier, kicking a stone between them.  Some sandy wooden steps are here.
+
+This area is illuminated.
+You see the 1st silvery timber wolf (wearing a small gold collar).
+In the area are Mariskia the Noble Leuian, Hott the Noble Leuian, Siobahn the Leuian, Runningdeer the Leuian, Retta the Leuian, Kierra the Leuian, Thallion the Novice Leuian, Tiruna the Noble Leuian, Shaleu the Leuian, Kandil the Leuian, and Lthe the Leuian.
+Obvious paths: southeast* south* west* northwest*.
+
+Siobahn frowns lightly.
+
+You follow Shaleu northwest...
+
+[Village.]
+
+The bark path skirts the lagoon here and connects the docks to the rest of the village. A few bright wildflowers decorate the edge and dance in the light breeze. Weary sailors amble up the road after returning from a long voyage with their duffels thrown over their backs. Further down the road, the lighthouse is barely visible along the shoreline. Although difficult to see from here, its light shines like a beacon of hope to all the river. A giggling band of khits rushes towards the pier in hopes of catching a glimpse of some of the noble ships docked there. A group of Leuians sit near a few large rocks by the docks, mending nets and singing songs with one another as they wave to the returning fleets.
+
+This area is illuminated.
+You see the 1st silvery timber wolf (wearing a small gold collar).
+In the area are Mariskia the Noble Leuian, Hott the Noble Leuian, Siobahn the Leuian, Runningdeer the Leuian, Retta the Leuian, Kierra the Leuian, Thallion the Novice Leuian, Tiruna the Noble Leuian, Shaleu the Leuian, Kandil the Leuian, and Lthe the Leuian.
+Obvious paths: north* southeast* northwest*.
+
+Tiruna says in Leuian, "one of our kyn"
+
+You follow Shaleu north...
+
+[Village.]
+
+The thick, tarred pylons of a long wooden pier poke through the surface of the calm lagoon interrupting the flat, mirrored reflection of the wharf storefronts and dry-docked ships. Here, the wheel hits the rub where the fleets converge, merchant ships load and unload, and individuals fish or relax. There are dozens of tables for display of wares awaiting the return of the fishing fleet. Behind each table lies a workspace open to a gully below for the disposal of scraps, where gulls and terns scavenge for tasty tid-bits. Several long shoremen await the lowering of the gangplank of another vessel with empty carts and drays. The stiff breeze off the river invigorates the hustle of the wharf.
+
+This area is illuminated.
+You see the 1st silvery timber wolf (wearing a small gold collar).
+In the area are Mariskia the Noble Leuian, Hott the Noble Leuian, Siobahn the Leuian, Runningdeer the Leuian, Retta the Leuian, Kierra the Leuian, Thallion the Novice Leuian, Tiruna the Noble Leuian, Shaleu the Leuian, Kandil the Leuian, and Lthe the Leuian.
+Obvious paths: south* northwest*.
+
+You follow Shaleu northwest...
+
+[Pier.]
+
+Three old fishermen sit on wobbly stools in the middle of the pier discussing fishtails with one another and how they each nearly captured "Ol' Murky". The lighthouse, now clearly in view, stands proudly as the guardian of the river. The riverbottom is visible through the crystal clear water, as is an extremely large bass that has tucked itself behind one of the pilings. To the southeast, the huge trees on the shore part to show a peek of the golden sand beach.
+
+This area is illuminated.
+You see the 1st silvery timber wolf (wearing a small gold collar).
+In the area are Mariskia the Noble Leuian, Hott the Noble Leuian, Siobahn the Leuian, Runningdeer the Leuian, Retta the Leuian, Kierra the Leuian, Thallion the Novice Leuian, Tiruna the Noble Leuian, Shaleu the Leuian, Kandil the Leuian, and Lthe the Leuian.
+Obvious paths: north* southeast*.
+
+Retta says to Kandil, "it looked like a kyn"
+
+Kandil nods to Retta.
+
+Lthe says in Leuian, "twas Yinnin"
+
+Mariskia says in Leuian, "i thought he was outkast"
+
+Siobahn raises an eyebrow.
+
+Lthe shakes her head from side to side.
+
+Tiruna says in Leuian, "nope"
+
+Kandil yells in Leuian, "he Yinnin"
+
+Shaleu says in Leuian, "no not yet"
+
+Shaleu says in Leuian, "and I hope never but"
+
+Shaleu says in Leuian, "ok kyn"
+list
+You listen intently.
+l
+>
+Shaleu says in Leuian, "there is old Murky"
+[Pier.]
+
+Three old fishermen sit on wobbly stools in the middle of the pier discussing fishtails with one another and how they each nearly captured "Ol' Murky". The lighthouse, now clearly in view, stands proudly as the guardian of the river. The riverbottom is visible through the crystal clear water, as is an extremely large bass that has tucked itself behind one of the pilings. To the southeast, the huge trees on the shore part to show a peek of the golden sand beach.
+
+This area is illuminated.
+You see the 1st silvery timber wolf (wearing a small gold collar).
+In the area are Mariskia the Noble Leuian, Hott the Noble Leuian, Siobahn the Leuian, Runningdeer the Leuian, Retta the Leuian, Kierra the Leuian, Thallion the Novice Leuian, Tiruna the Noble Leuian, Shaleu the Leuian, Kandil the Leuian, and Lthe the Leuian.
+Obvious paths: north* southeast*.
+>
+Runningdeer nuzzles Thallion.
+
+Thallion purrs.
+l se
+[Village.]
+
+The thick, tarred pylons of a long wooden pier poke through the surface of the calm lagoon interrupting the flat, mirrored reflection of the wharf storefronts and dry-docked ships. Here, the wheel hits the rub where the fleets converge, merchant ships load and unload, and individuals fish or relax. There are dozens of tables for display of wares awaiting the return of the fishing fleet. Behind each table lies a workspace open to a gully below for the disposal of scraps, where gulls and terns scavenge for tasty tid-bits. Several long shoremen await the lowering of the gangplank of another vessel with empty carts and drays. The stiff breeze off the river invigorates the hustle of the wharf.
+
+This area is illuminated.
+Obvious paths: south* northwest*.
+>
+Shaleu says in Leuian, "if you catch him it is 500 gold"
+l n
+[End of Pier.]
+
+The sturdy oak planks of the pier creak harmoniously with every wave and every footfall. A young Leuian sitting over to one side of the pier hums quietly as he hangs another fish on his stringer. Two redwood benches that line the thick timber rails are set perfectly to allow a more intimate view of the river and the lighthouse further downriver.  A weathered hand-carved redwood bench and a weathered hand-carved redwood bench are here.
+
+This area is illuminated.
+Obvious paths: south*.
+l
+>[Pier.]
+
+Three old fishermen sit on wobbly stools in the middle of the pier discussing fishtails with one another and how they each nearly captured "Ol' Murky". The lighthouse, now clearly in view, stands proudly as the guardian of the river. The riverbottom is visible through the crystal clear water, as is an extremely large bass that has tucked itself behind one of the pilings. To the southeast, the huge trees on the shore part to show a peek of the golden sand beach.
+
+This area is illuminated.
+You see the 1st silvery timber wolf (wearing a small gold collar).
+In the area are Mariskia the Noble Leuian, Hott the Noble Leuian, Siobahn the Leuian, Runningdeer the Leuian, Retta the Leuian, Kierra the Leuian, Thallion the Novice Leuian, Tiruna the Noble Leuian, Shaleu the Leuian, Kandil the Leuian, and Lthe the Leuian.
+Obvious paths: north* southeast*.
+>
+Shaleu says in Leuian, "otherwise the one who catches the most"
+fish
+
+Retta says to Shaleu, "hmmm alrightly than"
+Ignoring unknown command, "fish."
+>
+Kandil says in Leuian, "gold in the bank"
+
+Shaleu says in Leuian, "will get 400 gold"
+
+Tiruna glances at the thin bamboo fishing pole.
+
+Kandil nods firmly.
+
+Mariskia asks in Leuian, "so how do we do it?"
+
+Siobahn asks in Leuian, "We have to stick to using a pole?"
+
+Thallion asks in Leuian, "what if we catch him and catch the most? or is it over if we catch him?"
+
+Kandil asks Shaleu in Leuian, "which end of the pole do i hit em with?"
+
+Kierra says in Leuian, "pole please"
+
+Siobahn glances at the thin bamboo fishing pole.
+
+Shaleu says in Leuian, "yes"
+
+Shaleu says in Leuian, "everyone got a pole"
+
+Retta taps the thin bamboo fishing pole.
+
+Shaleu just removed a thin bamboo fishing pole from within her open fishing gear.
+
+Kierra says in Leuian, "nope"
+
+Shaleu readies a thin bamboo fishing pole.
+
+Mariskia readies a thin bamboo fishing pole.
+l at mu
+You find something suitably reflective and gaze into it...
+
+You look like a 6'0" standard mature delicate boned, very muscular bodied Leuian Cleric.
+You have very long, dredded, kinky white fur, with widely spaced white eyes, and look disheveled.
+You appear to be puzzled right now.
+You can be attacked by other players.
+You appear to be in perfect health.
+There is a shining gold emblem affixed to your clothing.
+
+Physical appearance:
+
+You see a grizzled old Khat, with an old scar across his white nose..
+
+                        Visible Equipment
+A thin bamboo fishing pole                         (right hand)
+A light forest green steelwood brigandine          (armor)
+A long pitch black bone nose piercing              (on head)
+A flowing pitch black satin noble's cloak          (over armor)
+A Leuian Pride ring                                (ring (left))
+An oak ring of Elindale                            (ring (left))
+A pair of pitch black bearskin pants               (pants)
+
+You have been bestowed the following title(s):
+  Noble of the Realm
+
+info rune
+>
+You have prepared the following corridors...
+
+Corridor   Name                 Name       Al #cast
+1          Healer's touch       (ht      )[N] 3887
+2          Touch of illness     (it      )[N] 599
+3          Righteous globe      (lg      )[N] 2
+4          Holy water           (hm      )[N] 595
+5          Vigor touch          (vt      )[N] 1599
+6          Light dart           (ld      )[N] 102
+7          Holy cloud           (hc      )[N] 54
+8          Holy sight           (hs      )[N] 22
+9          Curse of the wise    (mc      )[N] 1
+10         Arrow of light       (la      )[N] 1
+11         Movement curse       (mvc     )[N] 1
+12         Curse of weakness    (sc      )[N] 1
+13         Mist of obscurity    (hmm     )[N] 1
+14         Bear of Elindale     (hb      )[N] 1
+15         Light bolt           (lb      )[N] 1
+16         Presence of Elindale (ddb     )[N] 4
+17         Healing dew          (mb      )[N] 149
+18         Refreshing dew       (eb      )[N] 18
+
+invo hs at mu
+>You cannot have anything in your hands but a torch when spellcasting!
+rem fis
+>You remove your thin bamboo fishing pole.
+invo hs at mu
+>
+A number of glowing holy sigils begin to swirl about you.
+Weaving those runes cost you 4 FPs.
+
+You feel more tired.
+[5 sec. delay]
+>
+ ** You are fully rested.
+
+Shaleu offers something to Kierra.
+rteady fis
+
+The holy sigils encircle your head and your eyes are suddenly filled with a holy light! Your vision sharpens and you feel focused upon your target!
+Ignoring unknown command, "rteady."
+>
+Kierra accepts Shaleu's offer.
+ready fis
+The thin bamboo fishing pole is now your ready weapon.
+[5 sec. delay]
+>
+Shaleu says in Leuian, "wait"
+
+Kierra nuzzles Shaleu.
+
+You expend 1 fatigue keeping up the holy sight on yourself.
+
+Kierra says in Leuian, "thanks"
+
+You expend 1 fatigue keeping up the holy sight on yourself.
+
+You expend 1 fatigue keeping up the holy sight on yourself.
+
+Shaleu says in Leuian, "give that one back"
+
+You expend 1 fatigue keeping up the holy sight on yourself.
+
+ ** You are fully rested.
+
+Retta says to Runningdeer, "your grandkhat will be most dissapointed to miss this"
+
+You expend 1 fatigue keeping up the holy sight on yourself.
+
+Kierra offers something to Shaleu.
+
+You expend 1 fatigue keeping up the holy sight on yourself.
+
+Lthe just placed a short black talon within her open multicolored patched cotton carry-all.
+
+You expend 1 fatigue keeping up the holy sight on yourself.
+
+Shaleu accepts Kierra's offer.
+
+Runningdeer says in Leuian, "I dont have a pole"
+info mag
+
+You have the following elemental runes available to you...
+
+   heal        - 100 weaves remain   illness     -   7 weaves remain
+   light       -  82 weaves remain   mental      -  99 weaves remain
+   holy        -  94 weaves remain   vigor       -  87 weaves remain
+   strength    -  99 weaves remain   movement    -  98 weaves remain
+   translocation - 100 weaves remain   fear        - 100 weaves remain
+   detect      - 100 weaves remain   create      - 100 weaves remain
+   death       -  96 weaves remain   order       - 100 weaves remain
+   destroy     -  96 weaves remain   medicine    -  53 weaves remain
+   energy      -  82 weaves remain
+
+You may use the following modifier runes upon them...
+
+ small       average    
+
+You may use them with the following shapes...
+
+ armor       arrow       aura        being       bolt        cloud      
+ curse       dart        globe       hand        shield      sight      
+ spray       touch       mist        word        bear       
+See INFO RUNESPELLS for memorized corridors.
+
+>
+You expend 1 fatigue keeping up the holy sight on yourself.
+
+Kierra nuzzles Runningdeer.
+
+Shaleu offers something to Kierra.
+
+You expend 1 fatigue keeping up the holy sight on yourself.
+
+The holy light within your eyes dims and fades away.
+
+Runningdeer purrs.
+
+Kierra accepts Shaleu's offer.
+
+ ** Current fatigue: 63 out of 64
+
+Thallion swishes his tail.
+rem fis
+
+Runningdeer swishes her tail.
+You remove your thin bamboo fishing pole.
+>
+Kandil just placed a chilled glass of herbal tea within her open leather trimmed canvas rucksack.
+
+Lthe just placed an oak-handled iron spiked aclys within her open large leather backpack.
+
+Kierra readies a thin bamboo fishing pole.
+
+Lthe just placed a short bronze dagger within her open multicolored patched cotton carry-all.
+
+Siobahn just placed a wickedly spiked steel war mace within her open large leather backpack.
+l in pac
+Inside the open raccoonskin pack you see some Leuian lobster lasagna.
+>
+Kandil just placed some slightly dented steel pots and pans within her open large leather backpack.
+
+Siobahn just placed a wickedly spiked steel war mace within her open large leather backpack.
+
+Siobahn just placed a damaged light studded leather mail within her open large leather backpack.
+
+Thallion nuzzles Runningdeer.
+
+Siobahn just placed a wooden shield within her open large leather backpack.
+
+ ** You are fully rested.
+l n
+[End of Pier.]
+
+The sturdy oak planks of the pier creak harmoniously with every wave and every footfall. A young Leuian sitting over to one side of the pier hums quietly as he hangs another fish on his stringer. Two redwood benches that line the thick timber rails are set perfectly to allow a more intimate view of the river and the lighthouse further downriver.  A weathered hand-carved redwood bench and a weathered hand-carved redwood bench are here.
+
+This area is illuminated.
+Obvious paths: south*.
+>
+Siobahn swishes her tail lightly.
+
+Shaleu searches the area.
+
+  She finds a large striped bass.
+
+  She finds a thin silver steelhead fish.
+
+  She finds a large silver salmon.
+
+  She finds a pink salmon.
+
+  She finds a large striped bass.
+
+  She finds a thin silver steelhead fish.
+
+  She finds a thin silver steelhead fish.
+
+  She finds a thin silver steelhead fish.
+
+  She finds a large black bass.
+
+  She finds a thin silver steelhead fish.
+
+  She finds a pink salmon.
+
+  She finds a long red and yellow steelhead.
+invo hs at 
+I don't see what you are referring to.
+>
+Mariskia just picked up a thin silver steelhead fish.
+invo hs at mu
+
+A number of glowing holy sigils begin to swirl about you.
+
+h
+sk
+You feel a surge of magick infuse your runeweave!
+Weaving those runes cost you 4 FPs.
+
+You feel more tired.
+[5 sec. delay]
+>
+The silvery timber wolf raises its muzzle to sniff the air.
+You have no apparent injuries, but look tired.
+
+HP: 163/163  Ftg:  60/ 64
+>
+Skill                     Remain Level
+ Clawing                   1932   10    
+ First Aid                 102    2     
+ Spellcasting              1388   11    
+ Blunt Weapons             652    6     
+ Channeling                471    10    
+ Identify Weapon Quality   244    3     
+ Brawling                  106    2     
+ Shield Parry              481    5     
+ Throw Weapons             104    2     
+ Swimming                  67     1     
+ Identify Gems/Minerals    100    1     
+ Turn Undead               289    3     
+ Hiding                    174    3     
+ Stealth                   98     1     
+ Play Instruments          837    7     
+
+>
+Siobahn just picked up a large striped bass.
+
+Mariskia just picked up a thin silver steelhead fish.
+ready fis
+
+Mariskia just picked up a thin silver steelhead fish.
+
+Siobahn just picked up a large striped bass.
+
+The holy sigils encircle your head and your eyes are suddenly filled with a holy light! Your vision sharpens and you feel focused upon your target!
+
+Mariskia just picked up a thin silver steelhead fish.
+
+Siobahn ponders the meaning of the universe for a moment.
+The thin bamboo fishing pole is now your ready weapon.
+[5 sec. delay]
+>
+Mariskia just picked up a thin silver steelhead fish.
+
+Shaleu searches the area.
+
+  She finds a pink salmon.
+
+  She finds a large silver salmon.
+
+  She finds a thin silver steelhead fish.
+
+Mariskia just picked up a thin silver steelhead fish.
+
+You expend 1 fatigue keeping up the holy sight on yourself.
+
+Mariskia just picked up a long red and yellow steelhead.
+
+Retta just picked up a large silver salmon.
+
+Thallion just picked up a pink salmon.
+get sa
+
+Mariskia just picked up a pink salmon.
+
+Hott just picked up a large black bass.
+You pick up a large silver salmon.
+get fis
+>
+Mariskia just picked up a pink salmon.
+I see no "fis" in the room!
+>
+You expend 1 fatigue keeping up the holy sight on yourself.
+l
+[Pier.]
+
+Three old fishermen sit on wobbly stools in the middle of the pier discussing fishtails with one another and how they each nearly captured "Ol' Murky". The lighthouse, now clearly in view, stands proudly as the guardian of the river. The riverbottom is visible through the crystal clear water, as is an extremely large bass that has tucked itself behind one of the pilings. To the southeast, the huge trees on the shore part to show a peek of the golden sand beach.
+
+This area is illuminated.
+You see the 1st silvery timber wolf (wearing a small gold collar).
+In the area are Mariskia the Noble Leuian, Hott the Noble Leuian, Siobahn the Leuian, Runningdeer the Leuian, Retta the Leuian, Kierra the Leuian, Thallion the Novice Leuian, Tiruna the Noble Leuian, Shaleu the Leuian, Kandil the Leuian, and Lthe the Leuian.
+Obvious paths: north* southeast*.
+>
+Runningdeer claps.
+
+You expend 1 fatigue keeping up the holy sight on yourself.
+
+Shaleu searches the area.
+
+  She finds a large black bass.
+
+  She finds a large silver salmon.
+
+  She finds a long red and yellow steelhead.
+
+Mariskia just picked up a large silver salmon.
+
+Kandil just picked up a large black bass.
+get sa
+
+You expend 1 fatigue keeping up the holy sight on yourself.
+I see no "sa" in the room!
+>
+Thallion just picked up a long red and yellow steelhead.
+
+ ** Current fatigue: 60 out of 64
+get st
+I see no "st" in the room!
+>
+Tiruna searches the area.
+
+You expend 1 fatigue keeping up the holy sight on yourself.
+
+Mariskia searches the area.
+
+  She finds a large striped bass.
+
+You expend 1 fatigue keeping up the holy sight on yourself.
+
+Shaleu searches the area.
+
+  She finds a rainbow trout.
+get ba
+
+Siobahn just picked up a large striped bass.
+I see no "ba" in the room!
+>
+Runningdeer searches the area.
+
+Retta just picked up a rainbow trout.
+get tr
+I see no "tr" in the room!
+>
+You expend 1 fatigue keeping up the holy sight on yourself.
+
+Hott searches the area.
+
+You expend 1 fatigue keeping up the holy sight on yourself.
+
+Siobahn searches the area.
+
+You expend 1 fatigue keeping up the holy sight on yourself.
+
+The holy light within your eyes dims and fades away.
+
+Thallion searches the area.
+
+Shaleu searches the area.
+
+Lthe searches the area.
+get ba 
+get tr 
+get sa 
+I see no "ba" in the room!
+
+Kierra says in Leuian, "how do you get it"
+
+Siobahn searches the area.
+I see no "tr" in the room!
+I see no "sa" in the room!
+>
+Tiruna searches the area.
+
+Hott searches the area.
+
+Siobahn searches the area.
+
+Kierra searches the area.
+
+Kandil searches the area.
+
+Thallion searches the area.
+
+Shaleu searches the area.
+
+Tiruna searches the area.
+
+Hott searches the area.
+
+Lthe searches the area.
+
+Kierra searches the area.
+sear room for 
+You search the area thoroughly.
+
+  You find a large black bass.
+[15 sec. delay]
+how
+>You howl.
+>
+Retta just picked up a large black bass.
+
+Shaleu says in Leuian, "keep at it"
+get ba
+
+Kandil searches the area.
+
+Mariskia searches the area.
+
+Retta searches the area.
+
+Tiruna searches the area.
+
+Shaleu says in Leuian, "Muther got it"
+
+Hott searches the area.
+
+Siobahn searches the area.
+
+Kierra searches the area.
+I see no "ba" in the room!
+>
+Thallion searches the area.
+sear room for 
+
+Siobahn searches the area.
+You search the area thoroughly.
+
+You find nothing of interest.
+[15 sec. delay]
+>
+ ** You are fully rested.
+rem fis
+
+Kandil searches the area.
+
+Retta searches the area.
+
+Tiruna searches the area.
+
+Mariskia searches the area.
+
+  She finds a rainbow trout.
+
+Siobahn searches the area.
+
+Hott searches the area.
+
+Kierra searches the area.
+invo hs at mu
+
+Siobahn searches the area.
+
+Thallion searches the area.
+
+Shaleu searches the area.
+You remove your thin bamboo fishing pole.
+
+Mariskia just picked up a rainbow trout.
+
+A number of glowing holy sigils begin to swirl about you.
+
+h
+sk
+You feel a surge of magick infuse your runeweave!
+Weaving those runes cost you 4 FPs.
+
+You feel more tired.
+[5 sec. delay]
+>You have no apparent injuries, but look tired.
+
+HP: 163/163  Ftg:  60/ 64
+>
+Skill                     Remain Level
+ Clawing                   1932   10    
+ First Aid                 102    2     
+ Spellcasting              1388   11    
+ Blunt Weapons             652    6     
+ Channeling                471    10    
+ Identify Weapon Quality   244    3     
+ Brawling                  106    2     
+ Shield Parry              481    5     
+ Throw Weapons             104    2     
+ Swimming                  67     1     
+ Identify Gems/Minerals    100    1     
+ Turn Undead               289    3     
+ Hiding                    174    3     
+ Stealth                   98     1     
+ Play Instruments          837    7     
+
+>
+Kandil searches the area.
+
+Siobahn searches the area.
+
+Retta searches the area.
+
+Runningdeer searches the area.
+
+The holy sigils encircle your head and your eyes are suddenly filled with a holy light! Your vision sharpens and you feel focused upon your target!
+sear room for 
+
+Hott searches the area.
+
+  He finds a long red and yellow steelhead.
+You search the area thoroughly.
+
+You find nothing of interest.
+[15 sec. delay]
+>
+Siobahn searches the area.
+
+Kierra searches the area.
+
+Tiruna just picked up a long red and yellow steelhead.
+
+You expend 1 fatigue keeping up the holy sight on yourself.
+
+Thallion searches the area.
+invo hs at mu
+
+Siobahn searches the area.
+
+You expend 1 fatigue keeping up the holy sight on yourself.
+
+Kandil searches the area.
+
+  She finds a large silver salmon.
+
+Thallion searches the area.
+
+Tiruna says in Leuian, "got one of those slippery suckers"
+
+Mariskia just picked up a large silver salmon.
+
+Siobahn searches the area.
+
+You expend 1 fatigue keeping up the holy sight on yourself.
+
+A number of glowing holy sigils begin to swirl about you.
+
+h
+sk
+You feel a surge of magick infuse your runeweave!
+Weaving those runes cost you 4 FPs.
+
+You feel more tired.
+[5 sec. delay]
+There already seems to be a spell of that type in effect.
+
+The runespell loses integrity and dissipates!
+>You have no apparent injuries, but look tired.
+
+HP: 163/163  Ftg:  57/ 64
+>
+Skill                     Remain Level
+ Clawing                   1932   10    
+ First Aid                 102    2     
+ Spellcasting              1388   11    
+ Blunt Weapons             652    6     
+ Channeling                471    10    
+ Identify Weapon Quality   244    3     
+ Brawling                  106    2     
+ Shield Parry              481    5     
+ Throw Weapons             104    2     
+ Swimming                  67     1     
+ Identify Gems/Minerals    100    1     
+ Turn Undead               289    3     
+ Hiding                    174    3     
+ Stealth                   98     1     
+ Play Instruments          837    7     
+
+>
+Hott searches the area.
+
+Tiruna searches the area.
+sear room for 
+
+Retta searches the area.
+
+  She finds a pink salmon.
+
+You expend 1 fatigue keeping up the holy sight on yourself.
+You search the area thoroughly.
+
+You find nothing of interest.
+[15 sec. delay]
+>
+Mariskia just picked up a pink salmon.
+
+Kandil searches the area.
+
+You expend 1 fatigue keeping up the holy sight on yourself.
+
+Kierra searches the area.
+
+Thallion searches the area.
+
+Siobahn searches the area.
+sear room for 
+
+You expend 1 fatigue keeping up the holy sight on yourself.
+
+Kandil searches the area.
+
+Siobahn searches the area.
+
+Hott searches the area.
+
+Tiruna searches the area.
+
+Retta searches the area.
+
+You expend 1 fatigue keeping up the holy sight on yourself.
+You search the area thoroughly.
+
+You find nothing of interest.
+[15 sec. delay]
+>
+Kandil searches the area.
+
+Siobahn searches the area.
+
+Kierra searches the area.
+
+You expend 1 fatigue keeping up the holy sight on yourself.
+
+Siobahn searches the area.
+
+Kandil searches the area.
+
+You expend 1 fatigue keeping up the holy sight on yourself.
+
+The holy light within your eyes dims and fades away.
+sear room for ba
+sear room for tr
+sear room for ste
+
+Hott searches the area.
+
+Tiruna searches the area.
+
+ ** Current fatigue: 55 out of 64
+
+Siobahn searches the area.
+You search the area thoroughly.
+
+You find nothing of interest.
+[5 sec. delay]
+
+Kandil searches the area.
+
+Runningdeer searches the area.
+
+  She finds a pink salmon.
+
+Mariskia says in Leuian, "it is who finds it searching or who picks it up"
+
+Retta just picked up a pink salmon.
+
+Kierra searches the area.
+
+Siobahn searches the area.
+
+Retta searches the area.
+You search the area thoroughly.
+
+You find nothing of interest.
+[5 sec. delay]
+
+Kandil searches the area.
+
+Hott searches the area.
+
+Siobahn searches the area.
+You search the area thoroughly.
+
+You find nothing of interest.
+[5 sec. delay]
+>
+Tiruna searches the area.
+
+Retta tickles Runningdeer.
+
+Retta chuckles.
+
+Kandil searches the area.
+
+Runningdeer tickles Retta.
+inv
+Items carried:
+  An oak ring of Elindale [0.1 lbs].
+  An open large leather backpack [29.2 lbs].
+  A long pitch black bone nose piercing [0.5 lbs].
+  An open leather healer's bag [0.1 lbs].
+  A thin bamboo fishing pole [0.2 lbs].
+  A Leuian Pride ring [0.0 lbs].
+  A light forest green steelwood brigandine [22.0 lbs].
+  An oak-handled iron spiked aclys [2.2 lbs].
+  A cold cherry tart [0.1 lbs].
+  A leafy branch [0.0 lbs].
+  A large silver salmon [0.1 lbs].
+  An open raccoonskin pack [0.3 lbs].
+  A fine Leuian porcelain plate [0.3 lbs].
+  A damaged iron morningstar [3.0 lbs].
+  An ancient gleaming carbide shield [5.6 lbs].
+  A pair of pitch black bearskin pants [0.1 lbs].
+  A flowing pitch black satin noble's cloak [0.1 lbs].
+  A long blood-stained render skin cape [0.3 lbs].
+
+You have 50 silver pieces and 0 gold pieces.
+
+This gives you a total net worth of 50 silver.
+
+Your inventory totals 64.7 lbs.
+>
+Siobahn searches the area.
+
+Kierra searches the area.
+
+Thallion searches the area.
+
+Kandil searches the area.
+
+Mariskia says in Leuian, "which is the winner, the searcher or the one who picks up the most"
+
+Siobahn searches the area.
+
+Retta searches the area.
+
+Runningdeer giggles.
+
+Hott searches the area.
+
+Tiruna searches the area.
+
+Mariskia searches the area.
+
+Kandil searches the area.
+
+Siobahn searches the area.
+throw sal at hot
+
+Retta says to Mariskia, "good question"
+You throw your large silver salmon at Hott.  It bounces off with little obvious effect.
+>
+Shaleu says in Leuian, "the latter"
+
+Runningdeer searches the area.
+
+Kierra searches the area.
+
+Runningdeer laughs.
+chu
+You chuckle.
+>
+Kandil laughs.
+
+Thallion searches the area.
+
+Retta searches the area.
+
+Tiruna just picked up a large silver salmon.
+
+Kandil searches the area.
+sear room for 
+You search the area thoroughly.
+
+You find nothing of interest.
+[15 sec. delay]
+>
+Siobahn searches the area.
+
+Tiruna sticks her tongue out at you.
+
+Kierra chuckles softly.
+
+Kierra searches the area.
+gri
+You grin.
+sear room for 
+>
+Hott searches the area.
+
+Runningdeer searches the area.
+
+Kandil says to Tiruna in Leuian, "Your Fish"
+
+Kandil grins to Tiruna.
+You search the area thoroughly.
+
+You find nothing of interest.
+[15 sec. delay]
+>
+Shaleu says in Leuian, "the latter"
+
+Siobahn just dropped a large striped bass.
+
+Mariskia searches the area.
+
+Siobahn just dropped a large striped bass.
+
+Siobahn just dropped a large striped bass.
+
+Retta searches the area.
+
+Kierra searches the area.
+
+Mariskia searches the area.
+
+Siobahn searches the area.
+
+Tiruna searches the area.
+
+ ** You are fully rested.
+invo hs at kan
+
+Hott searches the area.
+
+Runningdeer searches the area.
+
+Kandil searches the area.
+
+A number of glowing holy sigils begin to swirl about Muther.
+
+h
+sk
+You feel a surge of magick infuse your runeweave!
+Weaving those runes cost you 4 FPs.
+
+You feel more tired.
+[5 sec. delay]
+>You have no apparent injuries, but look tired.
+
+HP: 163/163  Ftg:  60/ 64
+>
+Skill                     Remain Level
+ Clawing                   1932   10    
+ First Aid                 102    2     
+ Spellcasting              1387   11    
+ Blunt Weapons             652    6     
+ Channeling                471    10    
+ Identify Weapon Quality   244    3     
+ Brawling                  106    2     
+ Shield Parry              481    5     
+ Throw Weapons             104    2     
+ Swimming                  67     1     
+ Identify Gems/Minerals    100    1     
+ Turn Undead               289    3     
+ Hiding                    174    3     
+ Stealth                   98     1     
+ Play Instruments          837    7     
+
+invo hs at ki
+>
+The holy sigils encircle Kandil's head and her eyes are suddenly filled with a holy light! 
+
+Retta just picked up a large striped bass.
+
+Kierra searches the area.
+
+  She finds a large silver salmon.
+
+A number of glowing holy sigils begin to swirl about Muther.
+
+h
+sk
+You feel a surge of magick infuse your runeweave!
+Weaving those runes cost you 4 FPs.
+
+You feel more tired.
+[5 sec. delay]
+>You have no apparent injuries, but look tired.
+
+HP: 163/163  Ftg:  56/ 64
+>
+Skill                     Remain Level
+ Clawing                   1932   10    
+ First Aid                 102    2     
+ Spellcasting              1386   11    
+ Blunt Weapons             652    6     
+ Channeling                471    10    
+ Identify Weapon Quality   244    3     
+ Brawling                  106    2     
+ Shield Parry              481    5     
+ Throw Weapons             104    2     
+ Swimming                  67     1     
+ Identify Gems/Minerals    100    1     
+ Turn Undead               289    3     
+ Hiding                    174    3     
+ Stealth                   98     1     
+ Play Instruments          837    7     
+
+>
+Retta just picked up a large striped bass.
+
+Siobahn searches the area.
+
+Retta just picked up a large striped bass.
+
+Tiruna searches the area.
+
+Runningdeer searches the area.
+
+You expend 1 fatigue keeping up the holy sight on Kandil.
+
+Hott searches the area.
+invo hs at tir
+
+The holy sigils encircle Kierra's head and her eyes are suddenly filled with a holy light! 
+
+A number of glowing holy sigils begin to swirl about Muther.
+Weaving those runes cost you 4 FPs.
+
+You feel more tired.
+[5 sec. delay]
+>
+Kandil searches the area.
+
+  She finds a pink salmon.
+
+Retta just picked up a large silver salmon.
+invo hs at th
+
+Kandil grins to you.
+
+Thallion searches the area.
+
+You expend 1 fatigue keeping up the holy sight on Kandil.
+
+Retta chuckles.
+
+You expend 1 fatigue keeping up the holy sight on Kierra.
+
+The holy sigils encircle Tiruna's head and her eyes are suddenly filled with a holy light! 
+
+Mariskia just picked up a pink salmon.
+
+A number of glowing holy sigils begin to swirl about Muther.
+Weaving those runes cost you 4 FPs.
+
+You feel more tired.
+[5 sec. delay]
+h
+>You have no apparent injuries, but look tired.
+
+HP: 163/163  Ftg:  45/ 64
+>
+Kierra searches the area.
+
+You expend 1 fatigue keeping up the holy sight on Kandil.
+
+Thallion searches the area.
+
+You expend 1 fatigue keeping up the holy sight on Kierra.
+
+You expend 1 fatigue keeping up the holy sight on Tiruna.
+
+Siobahn searches the area.
+
+The holy sigils encircle Thallion's head and his eyes are suddenly filled with a holy light! 
+
+Tiruna searches the area.
+
+Runningdeer searches the area.
+
+Hott searches the area.
+
+You expend 1 fatigue keeping up the holy sight on Kandil.
+
+You expend 1 fatigue keeping up the holy sight on Kierra.
+
+You expend 1 fatigue keeping up the holy sight on Tiruna.
+invo hs at run
+
+A number of glowing holy sigils begin to swirl about Muther.
+
+h
+sk
+You feel a surge of magick infuse your runeweave!
+Weaving those runes cost you 4 FPs.
+
+You feel more tired.
+[5 sec. delay]
+>
+Kandil searches the area.
+You have no apparent injuries, but look fatigued.
+
+HP: 163/163  Ftg:  39/ 64
+>
+Skill                     Remain Level
+ Clawing                   1932   10    
+ First Aid                 102    2     
+ Spellcasting              1383   11    
+ Blunt Weapons             652    6     
+ Channeling                471    10    
+ Identify Weapon Quality   244    3     
+ Brawling                  106    2     
+ Shield Parry              481    5     
+ Throw Weapons             104    2     
+ Swimming                  67     1     
+ Identify Gems/Minerals    100    1     
+ Turn Undead               289    3     
+ Hiding                    174    3     
+ Stealth                   98     1     
+ Play Instruments          837    7     
+
+>
+You expend 1 fatigue keeping up the holy sight on Thallion.
+
+You expend 1 fatigue keeping up the holy sight on Kandil.
+
+Mariskia searches the area.
+
+Siobahn leans on the thin bamboo fishing pole.
+
+The holy sigils encircle Runningdeer's head and her eyes are suddenly filled with a holy light! 
+
+You expend 1 fatigue keeping up the holy sight on Kierra.
+
+You expend 1 fatigue keeping up the holy sight on Tiruna.
+invo eb at mu
+
+Wisps of shimmering blue mist begin to trail from you fingertips.
+
+h
+sk
+You feel a surge of magick infuse your runeweave!
+Weaving those runes cost you 3 FPs.
+
+You feel more tired.
+[11 sec. delay]
+>
+You expend 1 fatigue keeping up the holy sight on Thallion.
+
+Thallion searches the area.
+
+Kandil searches the area.
+You have no apparent injuries, but look fatigued.
+
+HP: 163/163  Ftg:  31/ 64
+>
+Skill                     Remain Level
+ Clawing                   1932   10    
+ First Aid                 102    2     
+ Spellcasting              1383   11    
+ Blunt Weapons             652    6     
+ Channeling                471    10    
+ Identify Weapon Quality   244    3     
+ Brawling                  106    2     
+ Shield Parry              481    5     
+ Throw Weapons             104    2     
+ Swimming                  67     1     
+ Identify Gems/Minerals    100    1     
+ Turn Undead               289    3     
+ Hiding                    174    3     
+ Stealth                   98     1     
+ Play Instruments          837    7     
+
+>
+Kierra searches the area.
+
+You expend 1 fatigue keeping up the holy sight on Kandil.
+
+Mariskia searches the area.
+
+You expend 1 fatigue keeping up the holy sight on Runningdeer.
+
+You expend 1 fatigue keeping up the holy sight on Kierra.
+
+You expend 1 fatigue keeping up the holy sight on Tiruna.
+
+Runningdeer searches the area.
+
+You expend 1 fatigue keeping up the holy sight on Thallion.
+
+Retta searches the area.
+
+Tiruna searches the area.
+
+  She finds a long red and yellow steelhead.
+
+Kandil searches the area.
+
+You expend 1 fatigue keeping up the holy sight on Kandil.
+
+You expend 1 fatigue keeping up the holy sight on Runningdeer.
+
+You expend 1 fatigue keeping up the holy sight on Kierra.
+
+You expend 1 fatigue keeping up the holy sight on Tiruna.
+
+Mariskia searches the area.
+
+Hott searches the area.
+
+The blue mist swirls about you and covers your skin with refreshing dew drops!
+
+h
+You feel invigorated!
+
+The dew upon you is quickly absorbed into your skin.
+
+You expend 1 fatigue keeping up the holy sight on Thallion.
+You have no apparent injuries, but look tired.
+
+HP: 163/163  Ftg:  46/ 64
+>
+You expend 1 fatigue keeping up the holy sight on Kandil.
+
+Kandil searches the area.
+invo eb at mu
+
+Wisps of shimmering blue mist begin to trail from you fingertips.
+Weaving those runes cost you 3 FPs.
+
+You feel more tired.
+[11 sec. delay]
+>
+You expend 1 fatigue keeping up the holy sight on Runningdeer.
+
+You expend 1 fatigue keeping up the holy sight on Kierra.
+
+You expend 1 fatigue keeping up the holy sight on Tiruna.
+
+Kierra searches the area.
+
+You expend 1 fatigue keeping up the holy sight on Thallion.
+l
+[Pier.]
+
+Three old fishermen sit on wobbly stools in the middle of the pier discussing fishtails with one another and how they each nearly captured "Ol' Murky". The lighthouse, now clearly in view, stands proudly as the guardian of the river. The riverbottom is visible through the crystal clear water, as is an extremely large bass that has tucked itself behind one of the pilings. To the southeast, the huge trees on the shore part to show a peek of the golden sand beach.  A long red and yellow steelhead is here.
+
+This area is illuminated.
+You see the 1st silvery timber wolf (wearing a small gold collar).
+In the area are Mariskia the Noble Leuian, Hott the Noble Leuian, Siobahn the Leuian, Runningdeer the Leuian, Retta the Leuian, Kierra the Leuian, Thallion the Novice Leuian, Tiruna the Noble Leuian, Shaleu the Leuian, Kandil the Leuian, and Lthe the Leuian.
+Obvious paths: north* southeast*.
+>
+Mariskia just picked up a long red and yellow steelhead.
+
+Siobahn searches the area.
+
+You expend 1 fatigue keeping up the holy sight on Kandil.
+
+The holy light within Kandil's eyes dims and fades away.
+
+You expend 1 fatigue keeping up the holy sight on Runningdeer.
+
+You expend 1 fatigue keeping up the holy sight on Kierra.
+
+Thallion searches the area.
+
+You expend 1 fatigue keeping up the holy sight on Tiruna.
+
+Kandil searches the area.
+
+Runningdeer searches the area.
+
+Mariskia beams.
+
+You expend 1 fatigue keeping up the holy sight on Thallion.
+invo hs at si
+
+The blue mist swirls about you and covers your skin with refreshing dew drops!
+
+h
+You feel invigorated!
+
+The dew upon you is quickly absorbed into your skin.
+You have no apparent injuries, but look tired.
+
+HP: 163/163  Ftg:  50/ 64
+invo hs at ma
+
+Hott searches the area.
+
+You expend 1 fatigue keeping up the holy sight on Runningdeer.
+
+Retta searches the area.
+
+A number of glowing holy sigils begin to swirl about Muther.
+
+h
+sk
+You feel a surge of magick infuse your runeweave!
+Weaving those runes cost you 4 FPs.
+
+You feel more tired.
+[5 sec. delay]
+
+You expend 1 fatigue keeping up the holy sight on Kierra.
+
+The holy light within Kierra's eyes dims and fades away.
+
+You expend 1 fatigue keeping up the holy sight on Tiruna.
+You have no apparent injuries, but look fatigued.
+
+HP: 163/163  Ftg:  43/ 64
+
+Skill                     Remain Level
+ Clawing                   1932   10    
+ First Aid                 102    2     
+ Spellcasting              1382   11    
+ Blunt Weapons             652    6     
+ Channeling                471    10    
+ Identify Weapon Quality   244    3     
+ Brawling                  106    2     
+ Shield Parry              481    5     
+ Throw Weapons             104    2     
+ Swimming                  67     1     
+ Identify Gems/Minerals    100    1     
+ Turn Undead               289    3     
+ Hiding                    174    3     
+ Stealth                   98     1     
+ Play Instruments          837    7     
+
+
+Thallion searches the area.
+
+You expend 1 fatigue keeping up the holy sight on Thallion.
+
+Tiruna taps her polished red leather thigh-high boots on the ground.
+
+Kandil searches the area.
+l
+[Pier.]
+
+Three old fishermen sit on wobbly stools in the middle of the pier discussing fishtails with one another and how they each nearly captured "Ol' Murky". The lighthouse, now clearly in view, stands proudly as the guardian of the river. The riverbottom is visible through the crystal clear water, as is an extremely large bass that has tucked itself behind one of the pilings. To the southeast, the huge trees on the shore part to show a peek of the golden sand beach.
+
+This area is illuminated.
+You see the 1st silvery timber wolf (wearing a small gold collar).
+In the area are Mariskia the Noble Leuian, Hott the Noble Leuian, Siobahn the Leuian, Runningdeer the Leuian, Retta the Leuian, Kierra the Leuian, Thallion the Novice Leuian, Tiruna the Noble Leuian, Shaleu the Leuian, Kandil the Leuian, and Lthe the Leuian.
+Obvious paths: north* southeast*.
+
+The holy sigils encircle Siobahn's head and her eyes are suddenly filled with a holy light! 
+
+Siobahn removes her thin bamboo fishing pole.
+
+You expend 1 fatigue keeping up the holy sight on Runningdeer.
+
+You expend 1 fatigue keeping up the holy sight on Tiruna.
+
+The holy light within Tiruna's eyes dims and fades away.
+
+ ** Current fatigue: 40 out of 64
+
+A number of glowing holy sigils begin to swirl about Muther.
+Weaving those runes cost you 4 FPs.
+
+You feel more tired.
+[5 sec. delay]
+>
+Kierra searches the area.
+
+You expend 1 fatigue keeping up the holy sight on Thallion.
+
+Thallion searches the area.
+
+Kandil searches the area.
+
+Tiruna says in Leuian, "oh MURKEEEEY"
+
+The holy sigils encircle Mariskia's head and her eyes are suddenly filled with a holy light! 
+
+You expend 1 fatigue keeping up the holy sight on Siobahn.
+
+You expend 1 fatigue keeping up the holy sight on Runningdeer.
+
+Runningdeer searches the area.
+
+Siobahn searches the area.
+
+You expend 1 fatigue keeping up the holy sight on Thallion.
+invo hs at sha
+
+Hott searches the area.
+
+The silvery timber wolf raises its muzzle to sniff the air.
+
+You expend 1 fatigue keeping up the holy sight on Mariskia.
+
+You expend 1 fatigue keeping up the holy sight on Siobahn.
+
+You expend 1 fatigue keeping up the holy sight on Runningdeer.
+
+A number of glowing holy sigils begin to swirl about Muther.
+
+h
+sk
+You feel a surge of magick infuse your runeweave!
+Weaving those runes cost you 4 FPs.
+
+You feel more tired.
+[5 sec. delay]
+>You have no apparent injuries, but look haggard.
+
+HP: 163/163  Ftg:  25/ 64
+>
+Skill                     Remain Level
+ Clawing                   1932   10    
+ First Aid                 102    2     
+ Spellcasting              1380   11    
+ Blunt Weapons             652    6     
+ Channeling                471    10    
+ Identify Weapon Quality   244    3     
+ Brawling                  106    2     
+ Shield Parry              481    5     
+ Throw Weapons             104    2     
+ Swimming                  67     1     
+ Identify Gems/Minerals    100    1     
+ Turn Undead               289    3     
+ Hiding                    174    3     
+ Stealth                   98     1     
+ Play Instruments          837    7     
+
+>
+Mariskia searches the area.
+
+Tiruna searches the area.
+
+Shaleu grins.
+
+You expend 1 fatigue keeping up the holy sight on Thallion.
+invo eb at mu
+
+Siobahn searches the area.
+
+Thallion searches the area.
+
+You expend 1 fatigue keeping up the holy sight on Mariskia.
+
+You expend 1 fatigue keeping up the holy sight on Siobahn.
+
+You expend 1 fatigue keeping up the holy sight on Runningdeer.
+
+The holy light within Runningdeer's eyes dims and fades away.
+
+Kierra searches the area.
+
+The holy sigils encircle Shaleu's head and her eyes are suddenly filled with a holy light! 
+
+Wisps of shimmering blue mist begin to trail from you fingertips.
+
+h
+sk
+You feel a surge of magick infuse your runeweave!
+Weaving those runes cost you 3 FPs.
+
+You feel more tired.
+[11 sec. delay]
+>You have no apparent injuries, but look haggard.
+
+HP: 163/163  Ftg:  22/ 64
+>
+Skill                     Remain Level
+ Clawing                   1932   10    
+ First Aid                 102    2     
+ Spellcasting              1380   11    
+ Blunt Weapons             652    6     
+ Channeling                471    10    
+ Identify Weapon Quality   244    3     
+ Brawling                  106    2     
+ Shield Parry              481    5     
+ Throw Weapons             104    2     
+ Swimming                  67     1     
+ Identify Gems/Minerals    100    1     
+ Turn Undead               289    3     
+ Hiding                    174    3     
+ Stealth                   98     1     
+ Play Instruments          837    7     
+
+>
+Mariskia searches the area.
+
+You expend 1 fatigue keeping up the holy sight on Thallion.
+
+Kandil searches the area.
+
+Siobahn searches the area.
+
+Runningdeer searches the area.
+
+You expend 1 fatigue keeping up the holy sight on Mariskia.
+
+You expend 1 fatigue keeping up the holy sight on Siobahn.
+
+Thallion searches the area.
+
+You expend 1 fatigue keeping up the holy sight on Shaleu.
+invo eb at mu
+
+Retta searches the area.
+
+You expend 1 fatigue keeping up the holy sight on Thallion.
+
+Mariskia searches the area.
+
+Hott searches the area.
+
+Kandil searches the area.
+
+You expend 1 fatigue keeping up the holy sight on Mariskia.
+
+You expend 1 fatigue keeping up the holy sight on Siobahn.
+
+The blue mist swirls about you and covers your skin with refreshing dew drops!
+
+h
+You feel invigorated!
+
+The dew upon you is quickly absorbed into your skin.
+
+Tiruna searches the area.
+
+You expend 1 fatigue keeping up the holy sight on Shaleu.
+You have no apparent injuries, but look fatigued.
+
+HP: 163/163  Ftg:  39/ 64
+
+Thallion searches the area.
+
+Wisps of shimmering blue mist begin to trail from you fingertips.
+
+h
+sk
+You feel a surge of magick infuse your runeweave!
+Weaving those runes cost you 3 FPs.
+
+You feel more tired.
+[11 sec. delay]
+>
+You expend 1 fatigue keeping up the holy sight on Thallion.
+You have no apparent injuries, but look fatigued.
+
+HP: 163/163  Ftg:  35/ 64
+>
+Skill                     Remain Level
+ Clawing                   1932   10    
+ First Aid                 102    2     
+ Spellcasting              1380   11    
+ Blunt Weapons             652    6     
+ Channeling                471    10    
+ Identify Weapon Quality   244    3     
+ Brawling                  106    2     
+ Shield Parry              481    5     
+ Throw Weapons             104    2     
+ Swimming                  67     1     
+ Identify Gems/Minerals    100    1     
+ Turn Undead               289    3     
+ Hiding                    174    3     
+ Stealth                   98     1     
+ Play Instruments          837    7     
+
+>
+Mariskia searches the area.
+
+Tiruna says in Leuian, "dang things are hiding"
+
+Kierra searches the area.
+
+You expend 1 fatigue keeping up the holy sight on Mariskia.
+
+You expend 1 fatigue keeping up the holy sight on Siobahn.
+
+Siobahn searches the area.
+
+You expend 1 fatigue keeping up the holy sight on Shaleu.
+sear room for 
+
+You expend 1 fatigue keeping up the holy sight on Thallion.
+
+The holy light within Thallion's eyes dims and fades away.
+
+Thallion searches the area.
+
+Runningdeer searches the area.
+
+You expend 1 fatigue keeping up the holy sight on Mariskia.
+
+You expend 1 fatigue keeping up the holy sight on Siobahn.
+
+Retta searches the area.
+
+You expend 1 fatigue keeping up the holy sight on Shaleu.
+
+Mariskia searches the area.
+
+Siobahn searches the area.
+
+The blue mist swirls about you and covers your skin with refreshing dew drops!
+
+h
+You feel invigorated!
+
+The dew upon you is quickly absorbed into your skin.
+You have no apparent injuries, but look tired.
+
+HP: 163/163  Ftg:  53/ 64
+
+Hott searches the area.
+You search the area thoroughly.
+
+You find nothing of interest.
+[15 sec. delay]
+>
+Siobahn grumbles.
+
+Tiruna searches the area.
+
+You expend 1 fatigue keeping up the holy sight on Mariskia.
+
+You expend 1 fatigue keeping up the holy sight on Siobahn.
+
+You expend 1 fatigue keeping up the holy sight on Shaleu.
+
+Mariskia searches the area.
+
+Siobahn searches the area.
+
+Kierra searches the area.
+
+You expend 1 fatigue keeping up the holy sight on Mariskia.
+
+You expend 1 fatigue keeping up the holy sight on Siobahn.
+
+The holy light within Siobahn's eyes dims and fades away.
+
+You expend 1 fatigue keeping up the holy sight on Shaleu.
+sear room for 
+
+Runningdeer searches the area.
+
+You expend 1 fatigue keeping up the holy sight on Mariskia.
+
+The holy light within Mariskia's eyes dims and fades away.
+
+You expend 1 fatigue keeping up the holy sight on Shaleu.
+
+Mariskia says in Leuian, "what a fun game"
+
+Hott searches the area.
+You search the area thoroughly.
+
+You find nothing of interest.
+[15 sec. delay]
+>
+Tiruna searches the area.
+
+You expend 1 fatigue keeping up the holy sight on Shaleu.
+wrin whiskers in amusement
+You wrinkle your nose whiskers in amusement.
+>
+Kierra searches the area.
+
+Retta searches the area.
+
+You expend 1 fatigue keeping up the holy sight on Shaleu.
+
+The holy light within Shaleu's eyes dims and fades away.
+
+Runningdeer searches the area.
+
+Thallion searches the area.
+sear room for 
+
+Kandil searches the area.
+You search the area thoroughly.
+
+You find nothing of interest.
+[15 sec. delay]
+h
+>
+Hott searches the area.
+
+  He finds a thin silver steelhead fish.
+
+ ** Current fatigue: 51 out of 64
+You have no apparent injuries, but look tired.
+
+HP: 163/163  Ftg:  51/ 64
+>
+Thallion searches the area.
+appl to ho
+You applaud to Hott.
+>
+Tiruna just picked up a thin silver steelhead fish.
+
+Kandil searches the area.
+
+Kierra searches the area.
+
+Thallion says in Leuian, "maybe we caught them all"
+
+Tiruna searches the area.
+
+Runningdeer searches the area.
+
+Kandil searches the area.
+
+Thallion searches the area.
+sear room for 
+
+Mariskia searches the area.
+
+Hott searches the area.
+
+  He finds a long red and yellow steelhead.
+You search the area thoroughly.
+
+You find nothing of interest.
+[15 sec. delay]
+>
+Kandil searches the area.
+
+Retta just picked up a long red and yellow steelhead.
+
+Thallion searches the area.
+
+Kierra searches the area.
+gri to ho
+
+Mariskia searches the area.
+
+Tiruna searches the area.
+You grin to Hott.
+>
+Runningdeer chuckles.
+
+Runningdeer searches the area.
+
+Thallion searches the area.
+
+Siobahn searches the area.
+
+Retta searches the area.
+sear room for 
+
+Mariskia searches the area.
+
+Hott searches the area.
+You search the area thoroughly.
+
+You find nothing of interest.
+[15 sec. delay]
+>
+Kandil searches the area.
+
+Kierra searches the area.
+l
+[Pier.]
+
+Three old fishermen sit on wobbly stools in the middle of the pier discussing fishtails with one another and how they each nearly captured "Ol' Murky". The lighthouse, now clearly in view, stands proudly as the guardian of the river. The riverbottom is visible through the crystal clear water, as is an extremely large bass that has tucked itself behind one of the pilings. To the southeast, the huge trees on the shore part to show a peek of the golden sand beach.
+
+This area is illuminated.
+You see the 1st silvery timber wolf (wearing a small gold collar).
+In the area are Mariskia the Noble Leuian, Hott the Noble Leuian, Siobahn the Leuian, Runningdeer the Leuian, Retta the Leuian, Kierra the Leuian, Thallion the Novice Leuian, Tiruna the Noble Leuian, Shaleu the Leuian, Kandil the Leuian, and Lthe the Leuian.
+Obvious paths: north* southeast*.
+>
+Mariskia searches the area.
+
+Thallion searches the area.
+
+Runningdeer searches the area.
+
+Shaleu searches the area.
+sear room for 
+
+Mariskia searches the area.
+
+  She finds a large black bass.
+
+Hott searches the area.
+You search the area thoroughly.
+
+You find nothing of interest.
+[15 sec. delay]
+>
+Retta just picked up a large black bass.
+appl to ma
+You applaud to Mariskia.
+>
+Retta searches the area.
+
+Kandil searches the area.
+
+Kierra searches the area.
+
+Shaleu says in Leuian, "get Murky"
+
+Mariskia exclaims in Leuian, "hurray!"
+
+Siobahn searches the area.
+
+Runningdeer searches the area.
+sear room for 
+
+Tiruna says in Leuian, "obviously we are great at searching"
+
+Siobahn searches the area.
+You search the area thoroughly.
+
+You find nothing of interest.
+[15 sec. delay]
+>
+Hott searches the area.
+
+Shaleu says in Leuian, "other wise the one that gets the most"
+
+Thallion searches the area.
+
+Kandil searches the area.
+l
+[Pier.]
+
+Three old fishermen sit on wobbly stools in the middle of the pier discussing fishtails with one another and how they each nearly captured "Ol' Murky". The lighthouse, now clearly in view, stands proudly as the guardian of the river. The riverbottom is visible through the crystal clear water, as is an extremely large bass that has tucked itself behind one of the pilings. To the southeast, the huge trees on the shore part to show a peek of the golden sand beach.
+
+This area is illuminated.
+You see the 1st silvery timber wolf (wearing a small gold collar).
+In the area are Mariskia the Noble Leuian, Hott the Noble Leuian, Siobahn the Leuian, Runningdeer the Leuian, Retta the Leuian, Kierra the Leuian, Thallion the Novice Leuian, Tiruna the Noble Leuian, Shaleu the Leuian, Kandil the Leuian, and Lthe the Leuian.
+Obvious paths: north* southeast*.
+>
+Mariskia searches the area.
+
+Tiruna searches the area.
+
+  She finds a thin silver steelhead fish.
+
+Siobahn searches the area.
+gri to ti
+You grin to Tiruna.
+>
+Retta just picked up a thin silver steelhead fish.
+
+Runningdeer searches the area.
+
+Retta searches the area.
+
+Kandil searches the area.
+
+ ** Current fatigue: 59 out of 64
+
+Tiruna searches the area.
+
+Siobahn searches the area.
+sear room for fis
+You search the area thoroughly.
+
+You find nothing of interest.
+[5 sec. delay]
+>
+Mariskia searches the area.
+
+Hott searches the area.
+
+Kierra searches the area.
+
+Kandil searches the area.
+
+Tiruna searches the area.
+
+Thallion searches the area.
+sear room for ba
+You search the area thoroughly.
+
+You find nothing of interest.
+[5 sec. delay]
+>
+Mariskia searches the area.
+
+Runningdeer searches the area.
+
+Tiruna searches the area.
+
+Kandil searches the area.
+sear room for tr
+
+Siobahn searches the area.
+
+Tiruna says in Leuian, "okay I'll search, you guys grab"
+sear room for stee
+You search the area thoroughly.
+
+You find nothing of interest.
+[5 sec. delay]
+
+Retta searches the area.
+
+Thallion grins.
+
+Hott searches the area.
+
+Siobahn searches the area.
+
+Kandil searches the area.
+
+Tiruna searches the area.
+info rune
+You search the area thoroughly.
+
+You find nothing of interest.
+[5 sec. delay]
+>
+You have prepared the following corridors...
+
+Corridor   Name                 Name       Al #cast
+1          Healer's touch       (ht      )[N] 3887
+2          Touch of illness     (it      )[N] 599
+3          Righteous globe      (lg      )[N] 2
+4          Holy water           (hm      )[N] 595
+5          Vigor touch          (vt      )[N] 1599
+6          Light dart           (ld      )[N] 102
+7          Holy cloud           (hc      )[N] 54
+8          Holy sight           (hs      )[N] 34
+9          Curse of the wise    (mc      )[N] 1
+10         Arrow of light       (la      )[N] 1
+11         Movement curse       (mvc     )[N] 1
+12         Curse of weakness    (sc      )[N] 1
+13         Mist of obscurity    (hmm     )[N] 1
+14         Bear of Elindale     (hb      )[N] 1
+15         Light bolt           (lb      )[N] 1
+16         Presence of Elindale (ddb     )[N] 4
+17         Healing dew          (mb      )[N] 149
+18         Refreshing dew       (eb      )[N] 22
+
+>
+Kierra says in Leuian, "ok"
+
+Siobahn searches the area.
+
+Kandil searches the area.
+
+Tiruna searches the area.
+
+Mariskia nods ys.
+
+Runningdeer searches the area.
+
+Shaleu searches the area.
+invo ddb at muther
+
+You clasp your hands together and begin to recite a sacred Elindalian prayer.
+Weaving those runes cost you 5 FPs.
+
+You feel more tired.
+[11 sec. delay]
+>
+Siobahn searches the area.
+
+Kandil searches the area.
+
+Hott searches the area.
+
+Tiruna searches the area.
+
+Retta searches the area.
+
+Siobahn searches the area.
+
+Kandil searches the area.
+invo hs at 
+
+Thallion says in Leuian, "i think we caught them all"
+
+A gust of wind begins to swirl about you as your eyes are suddenly filled with a holy light! You can feel the presence of Elindale flow through you as the swirling wind spins rapidly around you speeding up your movements...
+
+The world seems to move in slow motion around you as you feel yourself suddenly speed up!
+
+Runningdeer searches the area.
+I don't see what you are referring to.
+>
+Siobahn searches the area.
+invo hs at mu
+
+You expend 1 fatigue keeping up the presence of Elindale on yourself.
+
+A number of glowing holy sigils begin to swirl about you.
+Weaving those runes cost you 4 FPs.
+
+You feel more tired.
+[4 sec. delay]
+>
+Kandil searches the area.
+
+Hott searches the area.
+
+Tiruna searches the area.
+
+Siobahn searches the area.
+sear room for 
+
+Retta searches the area.
+
+The holy sigils encircle your head and your eyes are suddenly filled with a holy light! Your vision sharpens and you feel focused upon your target!
+
+You expend 1 fatigue keeping up the presence of Elindale on yourself.
+You search the area thoroughly.
+
+You find nothing of interest.
+[14 sec. delay]
+>
+Siobahn searches the area.
+
+You expend 1 fatigue keeping up the holy sight on yourself.
+
+You expend 1 fatigue keeping up the presence of Elindale on yourself.
+
+Runningdeer searches the area.
+
+Kandil searches the area.
+sear room for 
+
+You expend 1 fatigue keeping up the holy sight on yourself.
+
+You expend 1 fatigue keeping up the presence of Elindale on yourself.
+
+The holy light within your eyes slowly dims and fades away.
+
+Your speed returns to normal.
+
+Siobahn searches the area.
+
+Hott searches the area.
+
+Tiruna searches the area.
+You search the area thoroughly.
+
+You find nothing of interest.
+[15 sec. delay]
+>
+Kandil searches the area.
+
+Retta searches the area.
+l
+
+You expend 1 fatigue keeping up the holy sight on yourself.
+[Pier.]
+
+Three old fishermen sit on wobbly stools in the middle of the pier discussing fishtails with one another and how they each nearly captured "Ol' Murky". The lighthouse, now clearly in view, stands proudly as the guardian of the river. The riverbottom is visible through the crystal clear water, as is an extremely large bass that has tucked itself behind one of the pilings. To the southeast, the huge trees on the shore part to show a peek of the golden sand beach.
+
+This area is illuminated.
+You see the 1st silvery timber wolf (wearing a small gold collar).
+In the area are Mariskia the Noble Leuian, Hott the Noble Leuian, Siobahn the Leuian, Runningdeer the Leuian, Retta the Leuian, Kierra the Leuian, Thallion the Novice Leuian, Tiruna the Noble Leuian, Shaleu the Leuian, Kandil the Leuian, and Lthe the Leuian.
+Obvious paths: north* southeast*.
+>
+ ** Current fatigue: 55 out of 64
+
+Kandil searches the area.
+
+Runningdeer searches the area.
+
+You expend 1 fatigue keeping up the holy sight on yourself.
+
+Thallion holds the long red and yellow steelhead close to run and makes it act like it kisses her.
+
+Thallion grins.
+ready fis
+
+Siobahn searches the area.
+
+You expend 1 fatigue keeping up the holy sight on yourself.
+
+Runningdeer shrieks.
+
+The silvery timber wolf draws its lips back from its teeth in a snarl.
+
+Tiruna searches the area.
+The thin bamboo fishing pole is now your ready weapon.
+[5 sec. delay]
+>
+Runningdeer giggles.
+sear room for 
+
+You expend 1 fatigue keeping up the holy sight on yourself.
+
+Hott searches the area.
+
+Retta searches the area.
+
+Kandil laughs.
+You search the area thoroughly.
+
+You find nothing of interest.
+[15 sec. delay]
+>
+Runningdeer searches the area.
+
+Kandil giggles.
+
+You expend 1 fatigue keeping up the holy sight on yourself.
+stat
+OR:  10  DR: 90  Move Rate: 5/5 UDs  Dam Bonus: Low/None  Stance: Normal
+
+You are in the center of the area!
+
+  ::: Equipment Readied :::
+
+  A thin bamboo fishing pole.
+  A light forest green steelwood brigandine.
+  A long pitch black bone nose piercing.
+  A flowing pitch black satin noble's cloak.
+  A Leuian Pride ring.
+  An oak ring of Elindale.
+  A pair of pitch black bearskin pants.
+>
+Retta snickers.
+
+Kierra searches the area.
+rem fis
+
+Siobahn searches the area.
+sear room for 
+
+You expend 1 fatigue keeping up the holy sight on yourself.
+
+Shaleu searches the area.
+
+Tiruna searches the area.
+
+Runningdeer pokes Thallion.
+
+Thallion searches the area.
+
+Hott searches the area.
+
+You expend 1 fatigue keeping up the holy sight on yourself.
+
+The holy light within your eyes dims and fades away.
+
+Shaleu searches the area.
+
+Thallion grins at Runningdeer.
+You remove your thin bamboo fishing pole.
+
+Retta searches the area.
+
+Mariskia twitches her tail and starts to count all the fish she has.
+
+Runningdeer searches the area.
+You search the area thoroughly.
+
+You find nothing of interest.
+[15 sec. delay]
+>
+Tiruna purrs and dangles the tip of her fishing pole down into the water.
+
+Shaleu searches the area.
+
+Kandil says in Leuian, "fishy kissies"
+
+Thallion searches the area.
+
+Siobahn searches the area.
+
+Kandil laughs.
+
+Shaleu searches the area.
+
+Thallion ponders the meaning of the universe for a moment.
+
+Runningdeer pokes Kandil.
+' this area has been fished out
+
+Muther says in Leuian, " this area has been fished out"
+>
+Hott searches the area.
+
+Tiruna searches the area.
+
+Thallion says to Tiruna in Leuian, "hmm"
+
+Tiruna nods.
+
+Kandil giggles.
+
+Shaleu searches the area.
+
+Retta says to Kandil, "seems so"
+
+Runningdeer searches the area.
+
+Retta chuckles.
+l
+[Pier.]
+
+Three old fishermen sit on wobbly stools in the middle of the pier discussing fishtails with one another and how they each nearly captured "Ol' Murky". The lighthouse, now clearly in view, stands proudly as the guardian of the river. The riverbottom is visible through the crystal clear water, as is an extremely large bass that has tucked itself behind one of the pilings. To the southeast, the huge trees on the shore part to show a peek of the golden sand beach.
+
+This area is illuminated.
+You see the 1st silvery timber wolf (wearing a small gold collar).
+In the area are Mariskia the Noble Leuian, Hott the Noble Leuian, Siobahn the Leuian, Runningdeer the Leuian, Retta the Leuian, Kierra the Leuian, Thallion the Novice Leuian, Tiruna the Noble Leuian, Shaleu the Leuian, Kandil the Leuian, and Lthe the Leuian.
+Obvious paths: north* southeast*.
+>
+Shaleu says in Leuian, "5 more minutes"
+
+Retta searches the area.
+
+Shaleu says in Leuian, "keep a fishing"
+
+Siobahn asks in Leuian, "Any at the end of the pier?"
+sear room for 
+You search the area thoroughly.
+
+You find nothing of interest.
+[15 sec. delay]
+>
+Siobahn swishes her tail.
+
+Kandil searches the area.
+
+  She finds a thin silver steelhead fish.
+
+Tiruna searches the area.
+
+The silvery timber wolf lifts its muzzle and howls mournfully.
+
+Thallion grins and puts the tip of his tail in the water, to see if a fish bites it.
+
+Kierra's stomach growls.
+
+Shaleu's stomach growls.
+
+Siobahn searches the area.
+
+Hott searches the area.
+
+Runningdeer searches the area.
+
+Mariskia just picked up a thin silver steelhead fish.
+whist
+You whistle.
+>
+Retta searches the area.
+
+ ** Current fatigue: 57 out of 64
+sear room for 
+
+Siobahn searches the area.
+
+Shaleu grins at you.
+You search the area thoroughly.
+
+You find nothing of interest.
+[15 sec. delay]
+info rune
+>
+You have prepared the following corridors...
+
+Corridor   Name                 Name       Al #cast
+1          Healer's touch       (ht      )[N] 3887
+2          Touch of illness     (it      )[N] 599
+3          Righteous globe      (lg      )[N] 2
+4          Holy water           (hm      )[N] 595
+5          Vigor touch          (vt      )[N] 1599
+6          Light dart           (ld      )[N] 102
+7          Holy cloud           (hc      )[N] 54
+8          Holy sight           (hs      )[N] 35
+9          Curse of the wise    (mc      )[N] 1
+10         Arrow of light       (la      )[N] 1
+11         Movement curse       (mvc     )[N] 1
+12         Curse of weakness    (sc      )[N] 1
+13         Mist of obscurity    (hmm     )[N] 1
+14         Bear of Elindale     (hb      )[N] 1
+15         Light bolt           (lb      )[N] 1
+16         Presence of Elindale (ddb     )[N] 5
+17         Healing dew          (mb      )[N] 149
+18         Refreshing dew       (eb      )[N] 22
+
+>
+Kierra searches the area.
+
+Kandil searches the area.
+
+Tiruna searches the area.
+
+Siobahn searches the area.
+
+Hott searches the area.
+
+Runningdeer searches the area.
+
+Siobahn searches the area.
+
+Thallion asks Runningdeer in Leuian, "thik I can catch a fish this way?"
+lg
+Ignoring unknown command, "lg."
+>
+Mariskia searches the area.
+invo lg
+
+Tiruna twitches her tail and bobs the tip of her fishing pole up and down teasing the fish.
+
+Retta searches the area.
+
+You bow your head and begin to whisper a sacred prayer.
+
+h
+sk
+You feel a surge of magick infuse your runeweave!
+Weaving those runes cost you 4 FPs.
+
+You feel more tired.
+[4 sec. delay]
+>You have no apparent injuries, but look tired.
+
+HP: 163/163  Ftg:  57/ 64
+>
+Skill                     Remain Level
+ Clawing                   1932   10    
+ First Aid                 102    2     
+ Spellcasting              1380   11    
+ Blunt Weapons             652    6     
+ Channeling                471    10    
+ Identify Weapon Quality   244    3     
+ Brawling                  106    2     
+ Shield Parry              481    5     
+ Throw Weapons             104    2     
+ Swimming                  67     1     
+ Identify Gems/Minerals    100    1     
+ Turn Undead               289    3     
+ Hiding                    174    3     
+ Stealth                   98     1     
+ Play Instruments          837    7     
+
+>
+Siobahn searches the area.
+
+  She finds a rainbow trout.
+
+Kierra searches the area.
+
+Kandil searches the area.
+
+Runningdeer tickles Thallion.
+
+You are suddenly surrounded by a sphere of righteous light!  You can feel the power of your deity's will flow through you...
+
+Tiruna searches the area.
+
+Mariskia searches the area.
+sear room for 
+
+Hott searches the area.
+You search the area thoroughly.
+
+You find nothing of interest.
+[15 sec. delay]
+>
+Thallion searches the area.
+
+Runningdeer searches the area.
+
+Shaleu searches the area.
+
+Siobahn searches the area.
+
+Thallion grins.
+
+You expend 1 fatigue keeping up the righteous globe on yourself.
+sear room for 
+
+Mariskia searches the area.
+
+Siobahn searches the area.
+
+Shaleu searches the area.
+
+Retta just picked up a rainbow trout.
+
+You expend 1 fatigue keeping up the righteous globe on yourself.
+
+Retta searches the area.
+
+Kierra searches the area.
+
+Kandil searches the area.
+
+Mariskia searches the area.
+
+Tiruna searches the area.
+
+Siobahn searches the area.
+
+You expend 1 fatigue keeping up the righteous globe on yourself.
+
+Hott searches the area.
+You search the area thoroughly.
+
+You find nothing of interest.
+[15 sec. delay]
+>
+Runningdeer searches the area.
+
+Mariskia searches the area.
+
+You expend 1 fatigue keeping up the righteous globe on yourself.
+
+Siobahn searches the area.
+
+Shaleu disbands her group.
+sear room for bas
+sear room for trou
+sear room for stee
+
+Shaleu just went southeast.
+
+Mariskia searches the area.
+
+You expend 1 fatigue keeping up the righteous globe on yourself.
+
+Kierra searches the area.
+
+Kandil searches the area.
+
+Thallion purrs.
+
+Siobahn searches the area.
+
+Retta searches the area.
+
+Tiruna searches the area.
+
+Hott searches the area.
+
+You expend 1 fatigue keeping up the righteous globe on yourself.
+You search the area thoroughly.
+
+You find nothing of interest.
+[5 sec. delay]
+
+Mariskia searches the area.
+
+Runningdeer searches the area.
+
+Siobahn searches the area.
+
+Thallion searches the area.
+
+You expend 1 fatigue keeping up the righteous globe on yourself.
+You search the area thoroughly.
+
+You find nothing of interest.
+[5 sec. delay]
+
+Mariskia searches the area.
+
+Siobahn searches the area.
+
+You expend 1 fatigue keeping up the righteous globe on yourself.
+
+Kierra searches the area.
+
+  She finds a pink salmon.
+
+Thallion searches the area.
+
+Kandil searches the area.
+You search the area thoroughly.
+
+You find nothing of interest.
+[5 sec. delay]
+appl
+>You applaud.
+>
+Tiruna just picked up a pink salmon.
+
+Mariskia searches the area.
+
+Siobahn searches the area.
+sear room for bas
+sear room for trou
+sear room for stee
+
+Runningdeer searches the area.
+
+You expend 1 fatigue keeping up the righteous globe on yourself.
+
+ ** Current fatigue: 56 out of 64
+
+Thallion searches the area.
+
+Kierra says in Leuian, "i'm enjoying just being with kyn"
+You search the area thoroughly.
+
+You find nothing of interest.
+[5 sec. delay]
+
+Retta searches the area.
+
+Siobahn searches the area.
+
+You expend 1 fatigue keeping up the righteous globe on yourself.
+
+The sphere of light about you dims and fades away.
+
+Thallion nods.
+
+Retta smiles at Kierra.
+
+Kandil grins to Kierra.
+
+Tiruna just placed a large silver salmon within her open supple leather supply bag.
+You search the area thoroughly.
+
+You find nothing of interest.
+[5 sec. delay]
+
+Kierra searches the area.
+
+Thallion is now following Runningdeer.
+
+Kandil searches the area.
+
+Siobahn searches the area.
+
+Thallion searches the area.
+nod yes to ki , dreadlocks swinging gently
+You nod up and down to Kierra, dreadlocks swinging gently.
+
+Runningdeer searches the area.
+You search the area thoroughly.
+
+You find nothing of interest.
+[5 sec. delay]
+sear room for bas
+sear room for trou
+sear room for stee
+>
+Runningdeer nuzzles Thallion.
+
+Hott searches the area.
+
+Siobahn searches the area.
+
+Kandil says to Kierra in Leuian, "well do that later try to win now"
+You search the area thoroughly.
+
+You find nothing of interest.
+[5 sec. delay]
+
+Tiruna searches the area.
+
+Siobahn searches the area.
+
+Retta searches the area.
+
+  She finds a pink salmon.
+
+Kandil grins to Kierra.
+
+Kierra searches the area.
+
+Mariskia just picked up a pink salmon.
+
+The silvery timber wolf draws its lips back from its teeth in a snarl.
+You search the area thoroughly.
+
+You find nothing of interest.
+[5 sec. delay]
+
+Thallion searches the area.
+
+Runningdeer searches the area.
+
+Hott searches the area.
+
+Kandil searches the area.
+You search the area thoroughly.
+
+You find nothing of interest.
+[5 sec. delay]
+sear room for 
+>
+Thallion searches the area.
+info
+
+You are Muther Gunn, a delicate boned and very muscular bodied 45 year old Entropic Male mature Leuian Cleric of the Order of the Heart.  You are 6'0" and weigh 181 lbs.  You are satiated.  You are sloshing.
+
+HP: 163 of 163  Ftg:  59 of  64  Carry: 64.6 of 227.0 lbs.
+
+ Str   Int   Wis   Dex   Agi   Con   Cha   Wil   Voi   Per   App
+Aver  Fair  Good  Aver  Good  Good  Good  Good  Good  Fair  Fair  
+
+Use: INFO <subject> for more info.
+(Valid subjects: RELIGION, MAGICK, LANGUAGES, MARTIALARTS, MONEY, RUNESPELLS, TITLES, DISGUISE, PSIONICS)
+
+
+Kierra searches the area.
+You search the area thoroughly.
+
+You find nothing of interest.
+[15 sec. delay]
+>
+Siobahn searches the area.
+
+Thallion searches the area.
+
+Tiruna searches the area.
+
+Runningdeer searches the area.
+
+Kandil searches the area.
+
+Hott searches the area.
+
+Shaleu's group just entered from the southeast.
+
+Var readies a thin bamboo fishing pole.
+
+Siobahn searches the area.
+
+Thallion searches the area.
+
+Retta searches the area.
+
+Kierra searches the area.
+
+Shaleu says in Leuian, "here is another to join"
+sear room for 
+You search the area thoroughly.
+
+You find nothing of interest.
+[15 sec. delay]
+>
+Siobahn searches the area.
+
+Thallion searches the area.
+bow to var deeply, with great respect.
+You bow to Var deeply, with great respect.
+sear room for 
+>
+Siobahn searches the area.
+
+Hott searches the area.
+
+Tiruna grins at Var.
+
+Thallion searches the area.
+
+  He finds a large striped bass.
+
+Mariskia just picked up a large striped bass.
+
+Siobahn searches the area.
+
+Kierra searches the area.
+appl to th
+You applaud to Thallion.
+
+ ** Current fatigue: 63 out of 64
+
+Retta searches the area.
+
+Shaleu disbands her group.
+
+Runningdeer searches the area.
+You search the area thoroughly.
+
+You find nothing of interest.
+[15 sec. delay]
+>
+Thallion searches the area.
+
+Shaleu just went southeast.
+
+Siobahn searches the area.
+
+  She finds a large black bass.
+
+Mariskia just picked up a large black bass.
+
+Thallion searches the area.
+
+Hott searches the area.
+gri to si
+You grin to Siobahn.
+sear room for 
+>
+Siobahn shrugs lightly.
+
+Kierra searches the area.
+
+ ** You are fully rested.
+
+Kandil searches the area.
+
+Thallion searches the area.
+
+Siobahn searches the area.
+
+Runningdeer searches the area.
+You search the area thoroughly.
+
+You find nothing of interest.
+[15 sec. delay]
+>
+Tiruna searches the area.
+squin
+You squint.
+>
+Thallion searches the area.
+sear room for 
+
+Siobahn searches the area.
+
+Hott searches the area.
+
+Thallion searches the area.
+
+Siobahn searches the area.
+
+Kandil searches the area.
+
+Kierra searches the area.
+
+Runningdeer searches the area.
+You search the area thoroughly.
+
+You find nothing of interest.
+[15 sec. delay]
+>
+Tiruna searches the area.
+
+Thallion searches the area.
+
+Siobahn searches the area.
+
+Kandil smiles to Var.
+sear room for 
+
+Thallion searches the area.
+
+Siobahn searches the area.
+
+Hott just dropped a large black bass.
+
+Kandil searches the area.
+
+  She finds a rainbow trout.
+
+Retta just picked up a large black bass.
+
+Kierra searches the area.
+
+Thallion searches the area.
+
+Siobahn searches the area.
+
+Runningdeer searches the area.
+
+Retta just picked up a rainbow trout.
+You search the area thoroughly.
+
+You find nothing of interest.
+[15 sec. delay]
+gri to ka
+>You grin to Kandil.
+>
+Kandil giggles.
+
+Thallion searches the area.
+
+Siobahn searches the area.
+
+Tiruna just dropped a long red and yellow steelhead.
+sear room for 
+
+Tiruna just dropped a thin silver steelhead fish.
+
+Thallion searches the area.
+
+Siobahn searches the area.
+
+Retta just picked up a long red and yellow steelhead.
+
+Kierra searches the area.
+
+Runningdeer searches the area.
+You search the area thoroughly.
+
+You find nothing of interest.
+[15 sec. delay]
+>
+Kandil searches the area.
+
+The silvery timber wolf bristles its fur and utters a low 'whuf'.
+
+Thallion searches the area.
+
+Mariskia asks Tiruna in Leuian, "why you dropping?"
+forage
+
+Siobahn searches the area.
+
+  She finds a long red and yellow steelhead.
+Ignoring unknown command, "forage."
+>
+Thallion kisses the long red and yellow steelhead.
+gri to si
+You grin to Siobahn.
+sear room for 
+>
+Retta just picked up a long red and yellow steelhead.
+
+Hott searches the area.
+
+Siobahn searches the area.
+
+Thallion searches the area.
+
+Mariskia says in Leuian, "i am full"
+
+Kierra searches the area.
+
+  She finds a large black bass.
+
+Tiruna says in Leuian, "cuz I only got 2 anyways"
+
+Shaleu just entered from the southeast.
+
+Runningdeer searches the area.
+You search the area thoroughly.
+
+You find nothing of interest.
+[15 sec. delay]
+>
+Retta just picked up a large black bass.
+
+Siobahn searches the area.
+
+Thallion searches the area.
+
+Siobahn nods to Tiruna.
+
+Kandil says in Leuian, "fishy kisses again"
+' dont eat em yet
+
+Muther says in Leuian, " dont eat em yet"
+fai
+>You faint dead away.
+>
+Hott searches the area.
+
+Tiruna searches the area.
+
+Kandil glances at Thallion.
+
+Siobahn searches the area.
+
+Thallion searches the area.
+stand silently
+
+You regain consciousness.
+
+Runningdeer searches the area.
+
+Var searches the area.
+You stand up silently.
+>
+Mariskia says in Leuian, "i can' get anymore"
+
+Kandil searches the area.
+sear room for 
+
+Siobahn searches the area.
+You search the area thoroughly.
+
+You find nothing of interest.
+[15 sec. delay]
+>You see Thallion take a bite of his pink salmon.
+
+Shaleu says in Leuian, "2 more minutes"
+
+ ** You are fully rested.
+
+Tiruna says in Leuian, "well search for your other kyn"
+
+Mariskia just placed a white velvet sash within her open large white leather backpack.
+
+Siobahn searches the area.
+
+Tiruna searches the area.
+
+Runningdeer tickles Thallion.
+
+Tiruna says in Leuian, "so they can grab"
+
+Thallion grins and sneaks a bite of his salmon.
+
+Mariskia just picked up a thin silver steelhead fish.
+
+Siobahn searches the area.
+sear room for 
+
+Var searches the area.
+
+Runningdeer searches the area.
+
+Mariskia searches the area.
+You search the area thoroughly.
+
+You find nothing of interest.
+[15 sec. delay]
+>
+Kandil searches the area.
+
+Thallion leans on Runningdeer.
+gri to th
+You grin to Thallion.
+>
+Shaleu says in Leuian, "remember the one with the most gets 400 gold"
+
+Siobahn searches the area.
+
+Retta searches the area.
+
+Tiruna searches the area.
+
+Thallion exclaims to Runningdeer in Leuian, "I didn't do anything!"
+sear room for 
+
+Siobahn searches the area.
+
+Var gapes.
+
+Thallion searches the area.
+
+Var whines.
+
+Runningdeer searches the area.
+
+Var searches the area.
+
+Mariskia just placed a brilliant white ivory ring of Rinanni within her open large white leather backpack.
+
+Var snickers.
+You search the area thoroughly.
+
+  You find a long red and yellow steelhead.
+[15 sec. delay]
+>
+Kandil searches the area.
+
+Mariskia just placed a ruby and diamond ring within her open large white leather backpack.
+
+Kierra says to Thallion in Leuian, "that is what wolf want to do"
+
+Mariskia just picked up a long red and yellow steelhead.
+
+Thallion searches the area.
+how
+You howl.
+>
+Tiruna says in Leuian, "whispr var I'll search just grab"
+
+Tiruna searches the area.
+sear room for 
+
+Shaleu nuzzles Var.
+
+Thallion searches the area.
+
+Thallion grins at Kierra.
+
+Hott searches the area.
+
+Runningdeer searches the area.
+
+Var asks Shaleu in Leuian, "can i run to the store ? "
+
+Siobahn says in Leuian, "I think if we play again it should be the person that finds the most."
+You search the area thoroughly.
+
+You find nothing of interest.
+[15 sec. delay]
+>
+Shaleu searches the area.
+
+  She finds a large striped bass.
+
+Var snickers.
+
+Siobahn chuckles softly.
+
+Retta just picked up a large striped bass.
+
+Siobahn searches the area.
+
+Thallion searches the area.
+
+Tiruna searches the area.
+sear room for 
+
+Kandil searches the area.
+
+Var searches the area.
+
+Siobahn searches the area.
+
+Shaleu says in Leuian, "start grabbing"
+
+Siobahn says in Leuian, "That seems to be the hardest part."
+
+Hott searches the area.
+
+Runningdeer searches the area.
+You search the area thoroughly.
+
+You find nothing of interest.
+[15 sec. delay]
+>
+Shaleu searches the area.
+
+Siobahn searches the area.
+
+Thallion searches the area.
+
+Mariskia searches the area.
+' thirty seconds
+
+Muther says in Leuian, " thirty seconds"
+>
+Retta searches the area.
+
+Tiruna searches the area.
+sear room for 
+
+Siobahn searches the area.
+
+  She finds a thin silver steelhead fish.
+
+Thallion searches the area.
+
+Mariskia searches the area.
+
+Var searches the area.
+
+Kandil searches the area.
+
+Kierra just picked up a thin silver steelhead fish.
+
+Var says in Leuian, "saw a fish market not long ago ... too bad i can't remeber where"
+
+Hott searches the area.
+wrin whiskers in amusement
+
+Var snickers.
+You wrinkle your nose whiskers in amusement.
+
+Runningdeer searches the area.
+
+The silvery timber wolf raises its muzzle to sniff the air.
+
+Siobahn searches the area.
+
+Thallion searches the area.
+You search the area thoroughly.
+
+You find nothing of interest.
+[15 sec. delay]
+>
+Shaleu searches the area.
+sear room for 
+
+Siobahn searches the area.
+
+Thallion searches the area.
+
+Tiruna searches the area.
+
+Var searches the area.
+
+Kandil searches the area.
+
+Hott searches the area.
+
+Siobahn searches the area.
+
+Thallion searches the area.
+
+Runningdeer searches the area.
+
+Retta searches the area.
+sear room for 
+You search the area thoroughly.
+
+You find nothing of interest.
+[15 sec. delay]
+
+Shaleu searches the area.
+
+Siobahn searches the area.
+
+Thallion searches the area.
+
+Tiruna searches the area.
+
+Var searches the area.
+
+Siobahn searches the area.
+
+Kandil searches the area.
+
+Hott searches the area.
+
+Thallion searches the area.
+
+Runningdeer searches the area.
+sear room for 
+
+Siobahn searches the area.
+You search the area thoroughly.
+
+You find nothing of interest.
+[15 sec. delay]
+sear room for 
+
+Thallion searches the area.
+
+Shaleu says in Leuian, "ok time is up"
+q c
+
+Shaleu says in Leuian, "follow me"
+
+ ** Command Queue Cleared.
+>
+Var searches the area.
+
+Siobahn is now following Shaleu.
+foll sha
+
+Mariskia is now following Shaleu.
+
+Retta is now following Shaleu.
+
+Tiruna is now following Shaleu.
+
+Kandil is now following Shaleu.
+
+Hott is now following Shaleu.
+
+Runningdeer searches the area.
+
+Kierra is now following Shaleu.
+
+Var is now following Shaleu.
+You follow Shaleu.
+tact
+>Standing in this rank is:
+Var, Mariskia, Hott, Siobahn, Runningdeer, Retta, Muther, Kierra, Thallion, Tiruna, Shaleu, Kandil, Lthe, silvery timber wolf
+>
+Thallion nuzzles Runningdeer.
+show group
+
+Shaleu says in Leuian, "did not get murky"
+Var is in your group.
+Mariskia is in your group.
+Hott is in your group.
+Siobahn is in your group.
+Retta is in your group.
+Kierra is in your group.
+Tiruna is in your group.
+Shaleu is in your group.
+Kandil is in your group.
+Your group has 10 people!
+>
+Lthe is now following Shaleu.
+
+Runningdeer purrs.
+
+Tiruna says to Runningdeer in Leuian, "it's all fished out"
+
+You follow Shaleu southeast...
+
+[Village.]
+
+The thick, tarred pylons of a long wooden pier poke through the surface of the calm lagoon interrupting the flat, mirrored reflection of the wharf storefronts and dry-docked ships. Here, the wheel hits the rub where the fleets converge, merchant ships load and unload, and individuals fish or relax. There are dozens of tables for display of wares awaiting the return of the fishing fleet. Behind each table lies a workspace open to a gully below for the disposal of scraps, where gulls and terns scavenge for tasty tid-bits. Several long shoremen await the lowering of the gangplank of another vessel with empty carts and drays. The stiff breeze off the river invigorates the hustle of the wharf.
+
+This area is illuminated.
+You see the 1st silvery timber wolf (wearing a small gold collar).
+In the area are Var the Leuian, Mariskia the Noble Leuian, Hott the Noble Leuian, Siobahn the Leuian, Retta the Leuian, Kierra the Leuian, Tiruna the Noble Leuian, Shaleu the Leuian, Kandil the Leuian, Lthe the Leuian, and Tchori the Leuian.
+Obvious paths: south* northwest*.
+
+You follow Shaleu south...
+
+[Village.]
+
+The bark path skirts the lagoon here and connects the docks to the rest of the village. A few bright wildflowers decorate the edge and dance in the light breeze. Weary sailors amble up the road after returning from a long voyage with their duffels thrown over their backs. Further down the road, the lighthouse is barely visible along the shoreline. Although difficult to see from here, its light shines like a beacon of hope to all the river. A giggling band of khits rushes towards the pier in hopes of catching a glimpse of some of the noble ships docked there. A group of Leuians sit near a few large rocks by the docks, mending nets and singing songs with one another as they wave to the returning fleets.
+
+This area is illuminated.
+You see the 1st silvery timber wolf (wearing a small gold collar).
+In the area are Var the Leuian, Mariskia the Noble Leuian, Hott the Noble Leuian, Siobahn the Leuian, Retta the Leuian, Kierra the Leuian, Tiruna the Noble Leuian, Shaleu the Leuian, Kandil the Leuian, and Lthe the Leuian.
+Obvious paths: north* southeast* northwest*.
+' left 3
+
+Muther says in Leuian, " left 3"
+>
+You follow Shaleu northwest...
+
+[Village.]
+
+The tidy rows of well-tended yards lead down a slope to the edge of the island where the chipped bark path widens to accomodate the entrance to a large redwood building. The school buildling is square with a large grassy yard, perfectly situated for dozens of small Leuians to run around and practice their various drills and lessons. A tall white-furred Leuian stands just outside the main door and greets each student by name and with a respectful nod.  A large airy redwood school house is here.
+
+This area is illuminated.
+You see the 1st silvery timber wolf (wearing a small gold collar).
+In the area are Var the Leuian, Mariskia the Noble Leuian, Hott the Noble Leuian, Siobahn the Leuian, Retta the Leuian, Kierra the Leuian, Tiruna the Noble Leuian, Shaleu the Leuian, Kandil the Leuian, and Lthe the Leuian.
+Obvious paths: southeast*.
+
+You follow Shaleu southeast...
+
+[Village.]
+
+The bark path skirts the lagoon here and connects the docks to the rest of the village. A few bright wildflowers decorate the edge and dance in the light breeze. Weary sailors amble up the road after returning from a long voyage with their duffels thrown over their backs. Further down the road, the lighthouse is barely visible along the shoreline. Although difficult to see from here, its light shines like a beacon of hope to all the river. A giggling band of khits rushes towards the pier in hopes of catching a glimpse of some of the noble ships docked there. A group of Leuians sit near a few large rocks by the docks, mending nets and singing songs with one another as they wave to the returning fleets.
+
+This area is illuminated.
+You see the 1st silvery timber wolf (wearing a small gold collar).
+In the area are Var the Leuian, Mariskia the Noble Leuian, Hott the Noble Leuian, Siobahn the Leuian, Retta the Leuian, Kierra the Leuian, Tiruna the Noble Leuian, Shaleu the Leuian, Kandil the Leuian, and Lthe the Leuian.
+Obvious paths: north* southeast* northwest*.
+
+You follow Shaleu north...
+
+[Village.]
+
+The thick, tarred pylons of a long wooden pier poke through the surface of the calm lagoon interrupting the flat, mirrored reflection of the wharf storefronts and dry-docked ships. Here, the wheel hits the rub where the fleets converge, merchant ships load and unload, and individuals fish or relax. There are dozens of tables for display of wares awaiting the return of the fishing fleet. Behind each table lies a workspace open to a gully below for the disposal of scraps, where gulls and terns scavenge for tasty tid-bits. Several long shoremen await the lowering of the gangplank of another vessel with empty carts and drays. The stiff breeze off the river invigorates the hustle of the wharf.
+
+This area is illuminated.
+You see the 1st silvery timber wolf (wearing a small gold collar).
+In the area are Var the Leuian, Mariskia the Noble Leuian, Hott the Noble Leuian, Siobahn the Leuian, Runningdeer the Leuian, Retta the Leuian, Kierra the Leuian, Thallion the Novice Leuian, Tiruna the Noble Leuian, Shaleu the Leuian, Kandil the Leuian, Lthe the Leuian, and Tchori the Leuian.
+Obvious paths: south* northwest*.
+gri
+You grin.
+>
+You follow Shaleu northwest...
+
+[Pier.]
+
+Three old fishermen sit on wobbly stools in the middle of the pier discussing fishtails with one another and how they each nearly captured "Ol' Murky". The lighthouse, now clearly in view, stands proudly as the guardian of the river. The riverbottom is visible through the crystal clear water, as is an extremely large bass that has tucked itself behind one of the pilings. To the southeast, the huge trees on the shore part to show a peek of the golden sand beach.
+
+This area is illuminated.
+You see the 1st silvery timber wolf (wearing a small gold collar).
+In the area are Var the Leuian, Mariskia the Noble Leuian, Hott the Noble Leuian, Siobahn the Leuian, Retta the Leuian, Kierra the Leuian, Tiruna the Noble Leuian, Shaleu the Leuian, Kandil the Leuian, and Lthe the Leuian.
+Obvious paths: north* southeast*.
+
+Kandil says in Leuian, "darn fish"
+show group
+
+Shaleu says in Leuian, "are we all following"
+
+Runningdeer's group just entered from the southeast.
+Var is in your group.
+Mariskia is in your group.
+Hott is in your group.
+Siobahn is in your group.
+Retta is in your group.
+Kierra is in your group.
+Tiruna is in your group.
+Shaleu is in your group.
+Kandil is in your group.
+Lthe is in your group.
+Your group has 11 people!
+>
+Shaleu says in Leuian, "are we all following"
+
+Runningdeer is now following Shaleu.
+tact
+Standing in this rank is:
+Var, Mariskia, Hott, Siobahn, Runningdeer, Retta, Muther, Kierra, Thallion, Tiruna, Shaleu, Kandil, Lthe, silvery timber wolf
+>
+Tiruna says in Leuian, "he didn't get to be that old without being smart"
+
+You follow Shaleu southeast...
+
+[Village.]
+
+The thick, tarred pylons of a long wooden pier poke through the surface of the calm lagoon interrupting the flat, mirrored reflection of the wharf storefronts and dry-docked ships. Here, the wheel hits the rub where the fleets converge, merchant ships load and unload, and individuals fish or relax. There are dozens of tables for display of wares awaiting the return of the fishing fleet. Behind each table lies a workspace open to a gully below for the disposal of scraps, where gulls and terns scavenge for tasty tid-bits. Several long shoremen await the lowering of the gangplank of another vessel with empty carts and drays. The stiff breeze off the river invigorates the hustle of the wharf.
+
+This area is illuminated.
+You see the 1st silvery timber wolf (wearing a small gold collar).
+In the area are Var the Leuian, Mariskia the Noble Leuian, Hott the Noble Leuian, Siobahn the Leuian, Runningdeer the Leuian, Retta the Leuian, Kierra the Leuian, Thallion the Novice Leuian, Tiruna the Noble Leuian, Shaleu the Leuian, Kandil the Leuian, Lthe the Leuian, and Tchori the Leuian.
+Obvious paths: south* northwest*.
+
+Runningdeer chuckles.
+
+You follow Shaleu south...
+
+[Village.]
+
+The bark path skirts the lagoon here and connects the docks to the rest of the village. A few bright wildflowers decorate the edge and dance in the light breeze. Weary sailors amble up the road after returning from a long voyage with their duffels thrown over their backs. Further down the road, the lighthouse is barely visible along the shoreline. Although difficult to see from here, its light shines like a beacon of hope to all the river. A giggling band of khits rushes towards the pier in hopes of catching a glimpse of some of the noble ships docked there. A group of Leuians sit near a few large rocks by the docks, mending nets and singing songs with one another as they wave to the returning fleets.
+
+This area is illuminated.
+You see the 1st silvery timber wolf (wearing a small gold collar).
+In the area are Var the Leuian, Mariskia the Noble Leuian, Hott the Noble Leuian, Siobahn the Leuian, Runningdeer the Leuian, Retta the Leuian, Kierra the Leuian, Thallion the Novice Leuian, Tiruna the Noble Leuian, Shaleu the Leuian, Kandil the Leuian, and Lthe the Leuian.
+Obvious paths: north* southeast* northwest*.
+
+Runningdeer blushes.
+
+Retta nods to Tiruna.
+tact
+Standing in this rank is:
+Var, Mariskia, Hott, Siobahn, Runningdeer, Retta, Muther, Kierra, Thallion, Tiruna, Shaleu, Kandil, Lthe, silvery timber wolf
+>
+You follow Shaleu southeast...
+
+[Village.]
+
+The houses grow more abundant as the path meanders further around the park. Rows of homes border the park and stretch back amongst the low hills towards the inner part of the island. The light is brighter here, as the canopy of trees thins to allow an expanse of sky to open directly over the middle of the village. Two Leuian adolescents chat and laugh amongst themselves as they casually stroll down the path to the pier, kicking a stone between them.  Some sandy wooden steps are here.
+
+This area is illuminated.
+You see the 1st silvery timber wolf (wearing a small gold collar).
+In the area are Var the Leuian, Mariskia the Noble Leuian, Hott the Noble Leuian, Siobahn the Leuian, Runningdeer the Leuian, Retta the Leuian, Kierra the Leuian, Thallion the Novice Leuian, Tiruna the Noble Leuian, Shaleu the Leuian, Kandil the Leuian, and Lthe the Leuian.
+Obvious paths: southeast* south* west* northwest*.
+
+You follow Shaleu through some sandy wooden steps...
+
+[Protected Cove.]
+
+Beyond the embrace of the forest, a warm golden sand beach has gathered in the backflow of a protected cove. Above, fern fronds, vines, and the exposed roots of the giant conifers dangle over the edge of a short steppe that protects the village from floods.  A walkway created by dual rows of pitch torches lead to a large, communal sand pit. Circling the pit are several large logs evenly spaced for those who come to catch the night's events or simply sit and relax.   Some sandy wooden steps, a cool clear lagoon, a blazing crackling fire pit, a fish shaped copper platter, a finely woven reed placemat, an open linen lined reed bread basket, an open ice filled oak drink chest, a smooth pearlescent glass bowl, a copper handled reed dessert tray, and a red and white linen covered picnic table are here.
+
+This area is illuminated.
+You see the 1st silvery timber wolf (wearing a small gold collar).
+In the area are Var the Leuian, Mariskia the Noble Leuian, Hott the Noble Leuian, Siobahn the Leuian, Runningdeer the Leuian, Retta the Leuian, Kierra the Leuian, Thallion the Novice Leuian, Tiruna the Noble Leuian, Shaleu the Leuian, Kandil the Leuian, and Lthe the Leuian.
+Obvious paths: southeast*.
+
+Kandil smiles.
+
+The silvery timber wolf lifts its muzzle and howls mournfully.
+
+Tiruna exclaims in Leuian, "food!"
+
+Tchori just entered through some sandy wooden steps.
+
+Tiruna howls.
+
+Var just removed a large goblet of Saldean white lightnin' from within his open large leather backpack.
+
+Tiruna hugs Tchori.
+l in bas
+I don't see what you are referring to.
+>
+Var purrs.
+
+Shaleu says in Leuian, "ok now"
+
+Kierra nuzzles Tiruna.
+
+Var hugs the large goblet of Saldean white lightnin'.
+
+Retta chuckles.
+
+Tchori smiles.
+l in bre
+Inside the open linen lined reed bread basket you see a crispy salted breadstick, a crispy salted breadstick, a crispy salted breadstick, a crispy salted breadstick, a crispy salted breadstick, a crispy salted breadstick, a crispy salted breadstick, a crispy salted breadstick, a crispy salted breadstick, a crispy salted breadstick, and a crispy salted breadstick.
+>You see Var take a drink from his large goblet of Saldean white lightnin'.
+
+Var coughs.
+
+Shaleu says in Leuian, "lets count the fish"
+
+Tchori hugs Tiruna.
+
+Var winces.
+You see Var take a drink from his large goblet of Saldean white lightnin'.
+
+Runningdeer nuzzles Thallion.
+
+Var winces.
+l in dri
+There is nothing inside that.
+l
+>[Protected Cove.]
+
+Beyond the embrace of the forest, a warm golden sand beach has gathered in the backflow of a protected cove. Above, fern fronds, vines, and the exposed roots of the giant conifers dangle over the edge of a short steppe that protects the village from floods.  A walkway created by dual rows of pitch torches lead to a large, communal sand pit. Circling the pit are several large logs evenly spaced for those who come to catch the night's events or simply sit and relax.   Some sandy wooden steps, a cool clear lagoon, a blazing crackling fire pit, a fish shaped copper platter, a finely woven reed placemat, an open linen lined reed bread basket, an open ice filled oak drink chest, a smooth pearlescent glass bowl, a copper handled reed dessert tray, and a red and white linen covered picnic table are here.
+
+This area is illuminated.
+You see the 1st silvery timber wolf (wearing a small gold collar).
+In the area are Var the Leuian, Mariskia the Noble Leuian, Hott the Noble Leuian, Siobahn the Leuian, Runningdeer the Leuian, Retta the Leuian, Kierra the Leuian, Thallion the Novice Leuian, Tiruna the Noble Leuian, Shaleu the Leuian, Kandil the Leuian, Lthe the Leuian, and Tchori the Leuian.
+Obvious paths: southeast*.
+>You see Var take a drink from his large goblet of Saldean white lightnin'.
+
+Var coughs.
+l in che
+I don't see what you are referring to.
+>
+Var hiccups.
+
+Crax just entered from the southeast.
+
+Retta asks Shaleu, "want me to drop em?"
+
+Tiruna says in Leuian, "that's some whicked stuff Var"
+l in des
+Inside the copper handled reed dessert tray you see a cup of creamy butterscotch pudding, a cup of creamy butterscotch pudding, a cup of creamy butterscotch pudding, a cup of creamy butterscotch pudding, a cup of creamy butterscotch pudding, a cup of creamy butterscotch pudding, a cup of creamy butterscotch pudding, a cup of creamy butterscotch pudding, a cup of creamy butterscotch pudding, a cup of creamy butterscotch pudding, a cup of creamy butterscotch pudding, a cup of creamy butterscotch pudding, a cup of creamy butterscotch pudding, a cup of creamy butterscotch pudding, a cup of rich chocolate pudding, a cup of rich chocolate pudding, a cup of rich chocolate pudding, a cup of rich chocolate pudding, a cup of rich chocolate pudding, a cup of rich chocolate pudding, a cup of rich chocolate pudding, a cup of rich chocolate pudding, a cup of rich chocolate pudding, a cup of rich chocolate pudding, a cup of rich chocolate pudding, a cup of rich chocolate pudding, a cup of rich chocolate pudding, a cup of rich chocolate pudding, a cup of rich chocolate pudding, a cup of rich chocolate pudding, a cup of sweet vanilla pudding, a cup of sweet vanilla pudding, a cup of sweet vanilla pudding, a cup of sweet vanilla pudding, a cup of sweet vanilla pudding, a cup of sweet vanilla pudding, a cup of sweet vanilla pudding, a cup of sweet vanilla pudding, a cup of sweet vanilla pudding, a cup of sweet vanilla pudding, a cup of sweet vanilla pudding, a cup of sweet vanilla pudding, a cup of sweet vanilla pudding, a cup of sweet vanilla pudding, a cup of sweet vanilla pudding, a cup of sweet vanilla pudding, a cup of sweet vanilla pudding, a cup of sweet vanilla pudding, a cup of sweet vanilla pudding, and a cup of sweet vanilla pudding.
+>
+Tiruna says in Leuian, "wicked"
+
+Var nods to Tiruna.
+
+Var beams.
+
+Var hiccups.
+l
+[Protected Cove.]
+
+Beyond the embrace of the forest, a warm golden sand beach has gathered in the backflow of a protected cove. Above, fern fronds, vines, and the exposed roots of the giant conifers dangle over the edge of a short steppe that protects the village from floods.  A walkway created by dual rows of pitch torches lead to a large, communal sand pit. Circling the pit are several large logs evenly spaced for those who come to catch the night's events or simply sit and relax.   Some sandy wooden steps, a cool clear lagoon, a blazing crackling fire pit, a fish shaped copper platter, a finely woven reed placemat, an open linen lined reed bread basket, an open ice filled oak drink chest, a smooth pearlescent glass bowl, a copper handled reed dessert tray, and a red and white linen covered picnic table are here.
+
+This area is illuminated.
+You see the 1st silvery timber wolf (wearing a small gold collar).
+In the area are Var the Leuian, Mariskia the Noble Leuian, Hott the Noble Leuian, Runningdeer the Leuian, Retta the Leuian, Kierra the Leuian, Thallion the Novice Leuian, Crax the Leuian, Tiruna the Noble Leuian, Shaleu the Leuian, Kandil the Leuian, Lthe the Leuian, and Tchori the Leuian.
+Obvious paths: southeast*.
+>
+Siobahn just appeared.
+
+Shaleu says in Leuian, "one at a time say in th platter"
+
+Siobahn is now following Shaleu.
+
+Retta just placed a large black bass within a fish shaped copper platter.
+
+Retta just placed a large striped bass within a fish shaped copper platter.
+l in plat
+
+Retta just placed a large striped bass within a fish shaped copper platter.
+Inside the fine Leuian porcelain plate you see a ripe orange mango, a fine linen napkin, an orange roasted duckling breast, a spicy deep fried catfish, and a seasoned wild rice.
+>
+Retta just placed a large striped bass within a fish shaped copper platter.
+
+Retta just placed a large black bass within a fish shaped copper platter.
+
+Retta just placed a large black bass within a fish shaped copper platter.
+
+Retta just placed a large black bass within a fish shaped copper platter.
+
+Retta just placed a large striped bass within a fish shaped copper platter.
+
+Lthe removes her thin bamboo fishing pole.
+rem fis
+I don't see what you are referring to.
+>
+Retta just placed a long red and yellow steelhead within a fish shaped copper platter.
+
+Kandil removes her thin bamboo fishing pole.
+off fis to sha
+You offer Shaleu a thin bamboo fishing pole.
+
+>
+Retta just placed a thin silver steelhead fish within a fish shaped copper platter.
+
+Retta just placed a long red and yellow steelhead within a fish shaped copper platter.
+
+Var hiccups.
+
+Retta just placed a long red and yellow steelhead within a fish shaped copper platter.
+
+Tiruna just dropped a thin bamboo fishing pole.
+
+Retta just placed a large silver salmon within a fish shaped copper platter.
+
+Retta just placed a pink salmon within a fish shaped copper platter.
+
+Retta just placed a large silver salmon within a fish shaped copper platter.
+
+Shaleu says in Leuian, "someone counting"
+
+Retta just placed a fat grilled trout within a fish shaped copper platter.
+
+Retta just placed a rainbow trout within a fish shaped copper platter.
+
+Tiruna just dropped a pink salmon.
+
+Runningdeer says in Leuian, "15"
+
+Retta just placed a rainbow trout within a fish shaped copper platter.
+
+Retta just placed a rainbow trout within a fish shaped copper platter.
+
+Retta says, "that's it"
+
+Var hiccups.
+
+Shaleu says in Leuian, "next"
+
+Var passes out!
+    Var stumbles and falls down!
+
+Var just lost consciousness.
+
+Var snores loudly.
+
+Kierra's stomach growls.
+
+Runningdeer says in Leuian, "17"
+
+Runningdeer tickles Var.
+
+Var regains consciousness.
+
+Var snickers.
+
+Var stands up.
+
+Tiruna says in Leuian, "told you it was wicked stuff"
+l
+[Protected Cove.]
+
+Beyond the embrace of the forest, a warm golden sand beach has gathered in the backflow of a protected cove. Above, fern fronds, vines, and the exposed roots of the giant conifers dangle over the edge of a short steppe that protects the village from floods.  A walkway created by dual rows of pitch torches lead to a large, communal sand pit. Circling the pit are several large logs evenly spaced for those who come to catch the night's events or simply sit and relax.   Some sandy wooden steps, a cool clear lagoon, a blazing crackling fire pit, a fish shaped copper platter, a finely woven reed placemat, an open linen lined reed bread basket, an open ice filled oak drink chest, a smooth pearlescent glass bowl, a copper handled reed dessert tray, a red and white linen covered picnic table, a thin bamboo fishing pole, and a pink salmon are here.
+
+This area is illuminated.
+You see the 1st silvery timber wolf (wearing a small gold collar).
+In the area are Var the Leuian, Mariskia the Noble Leuian, Hott the Noble Leuian, Siobahn the Leuian, Runningdeer the Leuian, Retta the Leuian, Kierra the Leuian, Thallion the Novice Leuian, Crax the Leuian, Tiruna the Noble Leuian, Shaleu the Leuian, Kandil the Leuian, Lthe the Leuian, and Tchori the Leuian.
+Obvious paths: southeast*.
+>
+Tchori's head suddenly begins glowing. He places a hand upon his chest. The glow travels down an arm to his hand. The glow quickly spreads over Tchori's entire body, then fades away.
+
+
+Mariskia says in Leuian, "can't count the grilled one, you now"
+
+Var hugs the large goblet of Saldean white lightnin'.
+
+Runningdeer rolls on the floor laughing.
+
+Retta says, "mar"
+
+Runningdeer sits up.
+
+Kandil says in Leuian, "15"
+
+Retta just removed a rainbow trout from within the fish shaped copper platter.
+
+Shaleu says in Leuian, "no"
+
+Shaleu says in Leuian, "just the ones caught"
+
+Retta just placed a rainbow trout within a fish shaped copper platter.
+drop fis
+You drop a thin bamboo fishing pole.
+>
+Retta says, "Yea there was one that didn't belong"
+tick sal
+You tickle the pink salmon.
+>
+Shaleu says in Leuian, "kandil is 15"
+
+Kandil says in Leuian, "14 then"
+
+Shaleu just dropped an open fishing gear.
+
+Kierra just dropped a thin bamboo fishing pole.
+
+Shaleu says in Leuian, "you can put the poles in the fishing gear"
+
+Kandil says to Shaleu in Leuian, "no i have one i counting for yah"
+
+Tiruna says in Leuian, "come on now, I know we can count better than that"
+
+Shaleu says in Leuian, "so whe can fish again"
+
+Runningdeer says in Leuian, "I count 18"
+
+Tiruna just picked up a thin bamboo fishing pole.
+
+Tchori stores his red wooden drum with tzeagle hide.
+
+Retta nods to Runningdeer.
+
+Kandil gasps.
+
+Retta says, "removing the grilled one"
+
+Siobahn just placed a thin bamboo fishing pole within an open fishing gear.
+bow silently
+You bow silently.
+>
+Kandil says in Leuian, "then i retire as counter"
+
+Tchori squints.
+
+Tchori smiles.
+
+Kandil grins.
+
+Tchori bows to you.
+
+Shaleu says in Leuian, "Sio how many"
+bow to tc
+You bow to Tchori.
+>
+Tiruna offers something to Shaleu.
+
+Mariskia says in Leuian, "so retta what is your count"
+se
+Use the LEAVE command to leave the group first.
+>
+Kierra nuzzles Tchori.
+leav
+You leave the group.
+se
+>
+Var removes his thin bamboo fishing pole.
+[Forest Fringe.]
+
+Few tall trees can root in the sandy soil so near the river bank.  Scraggly waterberry bushes tenaciously hold to the shifting loam between the smoothed river boulders riddled with cracked quartz and feldspar.  An obscured path leads into the darker fringes of the forest and up the steppe to the village.
+
+This area is illuminated.
+Obvious paths: southeast* northwest*.
+hide
+>You slip into the shadows!
+q c
+>
+ ** Command Queue Cleared.
+duck quickly out of sight ...
+quit
+>You reveal yourself!
+You duck quickly out of sight ...
+>
+    Dragon's Gate Menu
+
+ 1. Explore Dragon's Gate.
+ 2. Create, Delete, or View a character.
+ 3. Select current character.
+ 4. Display notices and version notes.
+16. Disconnect.
+
+Your active character is: Muther Gunn
+
+Your selection? 
+16
+
+ ** Goodbye from Mythic Entertainment! **
