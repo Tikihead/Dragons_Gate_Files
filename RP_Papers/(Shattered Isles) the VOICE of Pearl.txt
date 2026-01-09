@@ -651,7 +651,7 @@ shopper, all without the annoying taxes charged by the
 infamous Archai Trading Company...
 
 ********************************************
-¥¥¥¥¥¥ - The Goblin Market - ¥¥¥¥¥¥
+Â¥Â¥Â¥Â¥Â¥Â¥ - The Goblin Market - Â¥Â¥Â¥Â¥Â¥Â¥
 ********************************************
 some soft soled black leather shoes
 some soft black cotton fingerless gloves
@@ -701,7 +701,7 @@ a short wire-wrapped leather handled steel stiletto
 a short tri-bladed steel claw dagger
 
 ********************************************
-¥¥¥¥¥¥ - The Goblin Market - ¥¥¥¥¥¥
+Â¥Â¥Â¥Â¥Â¥Â¥ - The Goblin Market - Â¥Â¥Â¥Â¥Â¥Â¥
 ********************************************
 
 If you are interested in procuring anything on the list,
@@ -2290,30 +2290,30 @@ The Harvest Festival Peddle items and their winners and costs are as follows:
 
 __________________________________________________________
 
-• a wide-limbed polished teak short-bow &an extra-large quiver of steel broadhead yew arrows
+Â• a wide-limbed polished teak short-bow &an extra-large quiver of steel broadhead yew arrows
 was won by Kaiya the Avardi for 3200 doubloons.
 
-• a leather-padded green dragon-etched thoraxium arm guard was won by Garaven the Verdani for 4500 doubloons.
+Â• a leather-padded green dragon-etched thoraxium arm guard was won by Garaven the Verdani for 4500 doubloons.
 
-• a smooth mahogany-handled upswept palm blacksteel skinner was won by Garaven the Verdani for 12,000 doubloons.
+Â• a smooth mahogany-handled upswept palm blacksteel skinner was won by Garaven the Verdani for 12,000 doubloons.
 
-• a bronze-buckled stretched elk hide satchel was won by Trystan the Humani for 500 doubloons.
+Â• a bronze-buckled stretched elk hide satchel was won by Trystan the Humani for 500 doubloons.
 
-• a teak-hilted serrated back-edged crudesteel machete was won by Nykliox the Gargoyle for 700 doubloons.
+Â• a teak-hilted serrated back-edged crudesteel machete was won by Nykliox the Gargoyle for 700 doubloons.
 ( an apparent goblin prejudice was in effect as Crudesteel is a Goblin-made metal, and stronger than steel)
 
-• a steel-riveted hardened leather bow sling was won by Kaiya the Avardi for 2500 doubloons.
+Â• a steel-riveted hardened leather bow sling was won by Kaiya the Avardi for 2500 doubloons.
 
-• a teak-handled vine-engraved electrum forest axe was won by Geel the Gavial for 30,000 doubloons.
+Â• a teak-handled vine-engraved electrum forest axe was won by Geel the Gavial for 30,000 doubloons.
 
-• a green chitin-shielded warthog hide back scabbard was won by Nykliox the Gargoyle for 100 doubloons.
+Â• a green chitin-shielded warthog hide back scabbard was won by Nykliox the Gargoyle for 100 doubloons.
 
-• an extra-large quiver of steel bodkin head cedar arrows was won by Geel the Gavial for 10,000 doubloons.
+Â• an extra-large quiver of steel bodkin head cedar arrows was won by Geel the Gavial for 10,000 doubloons.
 
-• a ivory-gripped wolf-enscupted redwood recurve bow & an extra-large quiver of steel-barbed osage arrows
+Â• a ivory-gripped wolf-enscupted redwood recurve bow & an extra-large quiver of steel-barbed osage arrows
 was won by Kaiya the Avardi for 30,000 doubloons.
 
-• an extra-large quiver of steel-tipped hickory darts & an ornately-carved eagle feather-adorned teak blowgun
+Â• an extra-large quiver of steel-tipped hickory darts & an ornately-carved eagle feather-adorned teak blowgun
 was won by Seren the Avardi for 6000 doubloons.
 __________________________________________________________________________________
 
@@ -2377,21 +2377,21 @@ The following is a list of the items offered, along with the bid winners, and wh
 
 ____________________________________________________________________________
 
-• a niello-handled steel spiked mace was sold to the Verdani Rochiriel for 400 doubloons.
-• a leather-wrapped orichalcum cudgel was sold to the Sylvan Flynt for 500 doubloons.
-• a basket-hilted serrated orichalcum rapier was sold to the Human Zoe for 500 doubloons.
-• a two-handed acid-etched mahogany handled steel maul was sold to the Verdani Rochiriel for 500 doubloons.
+Â• a niello-handled steel spiked mace was sold to the Verdani Rochiriel for 400 doubloons.
+Â• a leather-wrapped orichalcum cudgel was sold to the Sylvan Flynt for 500 doubloons.
+Â• a basket-hilted serrated orichalcum rapier was sold to the Human Zoe for 500 doubloons.
+Â• a two-handed acid-etched mahogany handled steel maul was sold to the Verdani Rochiriel for 500 doubloons.
 
-• a troll-bone handled crudesteel sickle was sold to the Vukasin Leto for 2100 doubloons.
+Â• a troll-bone handled crudesteel sickle was sold to the Vukasin Leto for 2100 doubloons.
 
-•an intricately-carved ebony-handled mahogany walking stick
+Â•an intricately-carved ebony-handled mahogany walking stick
 holding an ebony handled electrum bodkin was sold to the Verdani Rochiriel for 15,000 doubloons.
 
 
-• a two-handed osage pole-mounted blacksteel sovnya was sold to the Gavial Geel for 51,000 doubloons.
+Â• a two-handed osage pole-mounted blacksteel sovnya was sold to the Gavial Geel for 51,000 doubloons.
 
 
-• a polished hickory back-sheath holding a hickory and blacksteel-handled electrum scimitar
+Â• a polished hickory back-sheath holding a hickory and blacksteel-handled electrum scimitar
 was sold to the Gavial Geel for 180,000 doubloons.
 
 ______________________________________________________________________________
@@ -2480,19 +2480,19 @@ AFTER a person had won their bid! ( all prices are in Doubloons).
 
 _________________________________________________________________________________
 
-• a gold-buckled alligator skin scabbard sold to Kreve for 4500 (containing a lattice knuckle-guarded arcsilver backsword ).
-• a crimson ribbon-tied black silk hooded cloak sold to Rochiriel for 5000 (containing a slender leather-gripped spiked orichalcum mace).
-• a gray-banded black brushed sheepskin fedora sold to Trystan for 1000 ( possibly enchanted to make one more Charismatic)
-• some long black silk lace gloves sold to Wren for 10,000 (*** the item inside was not shown to others).
-• a black leather-fringed steel scabbard sold to Kreve for 15,000 (containing a long thin cup-hilted blacksteel rapier.
-• a hardened rippled wyvernskin rucksack. sold to kaiah for 20,000 (*** the item inside was not shown to others).
-• some soft knee-high black rabbit fur boots sold to Menfanous for 5000 (containing a short twisted leather-handled blacksteel stiletto).
-• a thin flowing emerald green silk cloak sold to Trystan for 7000 (containing a short rune-inscribed double edged arcsilver athame).
-• some sleek fingerless black leather gloves sold to Spits for 12.000 (containing a short side-handled arcsilver punch dagger ).
-• a battle-scarred troll bone bracer sold to Wren for 6000 (*** the item inside was not shown to others).
-• a gray-veiled black crushed velvet hennin sold to Rochiriel for 500 ( possibly enchanted to make one more Charismatic)
-• some red and tan striped calf-high snakeskin boots sold to Spits for 4000 (containing a short snakeskin-wrapped orichalcum misericorde).
-• an electrum-riveted black leather scabbard sold to Rquiem for 60,000 (containing an elaborate band-hilted electrum longsword).
+Â• a gold-buckled alligator skin scabbard sold to Kreve for 4500 (containing a lattice knuckle-guarded arcsilver backsword ).
+Â• a crimson ribbon-tied black silk hooded cloak sold to Rochiriel for 5000 (containing a slender leather-gripped spiked orichalcum mace).
+Â• a gray-banded black brushed sheepskin fedora sold to Trystan for 1000 ( possibly enchanted to make one more Charismatic)
+Â• some long black silk lace gloves sold to Wren for 10,000 (*** the item inside was not shown to others).
+Â• a black leather-fringed steel scabbard sold to Kreve for 15,000 (containing a long thin cup-hilted blacksteel rapier.
+Â• a hardened rippled wyvernskin rucksack. sold to kaiah for 20,000 (*** the item inside was not shown to others).
+Â• some soft knee-high black rabbit fur boots sold to Menfanous for 5000 (containing a short twisted leather-handled blacksteel stiletto).
+Â• a thin flowing emerald green silk cloak sold to Trystan for 7000 (containing a short rune-inscribed double edged arcsilver athame).
+Â• some sleek fingerless black leather gloves sold to Spits for 12.000 (containing a short side-handled arcsilver punch dagger ).
+Â• a battle-scarred troll bone bracer sold to Wren for 6000 (*** the item inside was not shown to others).
+Â• a gray-veiled black crushed velvet hennin sold to Rochiriel for 500 ( possibly enchanted to make one more Charismatic)
+Â• some red and tan striped calf-high snakeskin boots sold to Spits for 4000 (containing a short snakeskin-wrapped orichalcum misericorde).
+Â• an electrum-riveted black leather scabbard sold to Rquiem for 60,000 (containing an elaborate band-hilted electrum longsword).
 
 __________________________________________________________________________________________________________
 
@@ -3429,7 +3429,7 @@ The VOICE of Pearl!
 
 
 ********************************************************************************
-¸.ø¤>*<¤ø.¸.ø¤>*<¤ø.¸.ø¤>*<¤ø.¸.ø¤>*<¤ø.¸¸.ø¤>*<¤ø.¸.ø¤>*<¤ø.
+Â¸.Ã¸Â¤>*<Â¤Ã¸.Â¸.Ã¸Â¤>*<Â¤Ã¸.Â¸.Ã¸Â¤>*<Â¤Ã¸.Â¸.Ã¸Â¤>*<Â¤Ã¸.Â¸Â¸.Ã¸Â¤>*<Â¤Ã¸.Â¸.Ã¸Â¤>*<Â¤Ã¸.
 ********************************************************************************
 * Advertisement: Prema's Saloon
 *
@@ -3440,12 +3440,12 @@ The VOICE of Pearl!
 * ~Now Hiring - Must be over fifteen.
 
 ********************************************************************************
-¸.ø¤>*<¤ø.¸.ø¤>*<¤ø.¸.ø¤>*<¤ø.¸.ø¤>*<¤ø.¸¸.ø¤>*<¤ø.¸.ø¤>*<¤ø.
+Â¸.Ã¸Â¤>*<Â¤Ã¸.Â¸.Ã¸Â¤>*<Â¤Ã¸.Â¸.Ã¸Â¤>*<Â¤Ã¸.Â¸.Ã¸Â¤>*<Â¤Ã¸.Â¸Â¸.Ã¸Â¤>*<Â¤Ã¸.Â¸.Ã¸Â¤>*<Â¤Ã¸.
 ********************************************************************************
 
 
 ********************************************************************************
-¸.ø¤>*<¤ø.¸.ø¤>*<¤ø.¸.ø¤>*<¤ø.¸.ø¤>*<¤ø.¸¸.ø¤>*<¤ø.¸.ø¤>*<¤ø.
+Â¸.Ã¸Â¤>*<Â¤Ã¸.Â¸.Ã¸Â¤>*<Â¤Ã¸.Â¸.Ã¸Â¤>*<Â¤Ã¸.Â¸.Ã¸Â¤>*<Â¤Ã¸.Â¸Â¸.Ã¸Â¤>*<Â¤Ã¸.Â¸.Ã¸Â¤>*<Â¤Ã¸.
 ********************************************************************************
 * Manske's Stock
 *
@@ -3455,7 +3455,7 @@ The VOICE of Pearl!
 * that he has crafted for the discerning buyer. Don't Wait!
 * get your unique item now while they are still in stock!
 ********************************************************************************
-¸.ø¤>*<¤ø.¸.ø¤>*<¤ø.¸.ø¤>*<¤ø.¸.ø¤>*<¤ø.¸¸.ø¤>*<¤ø.¸.ø¤>*<¤ø.
+Â¸.Ã¸Â¤>*<Â¤Ã¸.Â¸.Ã¸Â¤>*<Â¤Ã¸.Â¸.Ã¸Â¤>*<Â¤Ã¸.Â¸.Ã¸Â¤>*<Â¤Ã¸.Â¸Â¸.Ã¸Â¤>*<Â¤Ã¸.Â¸.Ã¸Â¤>*<Â¤Ã¸.
 ********************************************************************************
 
 
@@ -3492,7 +3492,7 @@ The VOICE of Pearl!
 
 
 ********************************************************************************
-¸.ø¤>*<¤ø.¸.ø¤>*<¤ø.¸.ø¤>*<¤ø.¸.ø¤>*<¤ø.¸¸.ø¤>*<¤ø.¸.ø¤>*<¤ø.
+Â¸.Ã¸Â¤>*<Â¤Ã¸.Â¸.Ã¸Â¤>*<Â¤Ã¸.Â¸.Ã¸Â¤>*<Â¤Ã¸.Â¸.Ã¸Â¤>*<Â¤Ã¸.Â¸Â¸.Ã¸Â¤>*<Â¤Ã¸.Â¸.Ã¸Â¤>*<Â¤Ã¸.
 ********************************************************************************
 * Advertisement: Prema's Saloon
 *
@@ -3503,12 +3503,12 @@ The VOICE of Pearl!
 * ~Now Hiring - Must be over fifteen.
 
 ********************************************************************************
-¸.ø¤>*<¤ø.¸.ø¤>*<¤ø.¸.ø¤>*<¤ø.¸.ø¤>*<¤ø.¸¸.ø¤>*<¤ø.¸.ø¤>*<¤ø.
+Â¸.Ã¸Â¤>*<Â¤Ã¸.Â¸.Ã¸Â¤>*<Â¤Ã¸.Â¸.Ã¸Â¤>*<Â¤Ã¸.Â¸.Ã¸Â¤>*<Â¤Ã¸.Â¸Â¸.Ã¸Â¤>*<Â¤Ã¸.Â¸.Ã¸Â¤>*<Â¤Ã¸.
 ********************************************************************************
 
 
 ********************************************************************************
-¸.ø¤>*<¤ø.¸.ø¤>*<¤ø.¸.ø¤>*<¤ø.¸.ø¤>*<¤ø.¸¸.ø¤>*<¤ø.¸.ø¤>*<¤ø.
+Â¸.Ã¸Â¤>*<Â¤Ã¸.Â¸.Ã¸Â¤>*<Â¤Ã¸.Â¸.Ã¸Â¤>*<Â¤Ã¸.Â¸.Ã¸Â¤>*<Â¤Ã¸.Â¸Â¸.Ã¸Â¤>*<Â¤Ã¸.Â¸.Ã¸Â¤>*<Â¤Ã¸.
 ********************************************************************************
 * Manske's Stock
 *
@@ -3518,7 +3518,7 @@ The VOICE of Pearl!
 * that he has crafted for the discerning buyer. Don't Wait!
 * get your unique item now while they are still in stock!
 ********************************************************************************
-¸.ø¤>*<¤ø.¸.ø¤>*<¤ø.¸.ø¤>*<¤ø.¸.ø¤>*<¤ø.¸¸.ø¤>*<¤ø.¸.ø¤>*<¤ø.
+Â¸.Ã¸Â¤>*<Â¤Ã¸.Â¸.Ã¸Â¤>*<Â¤Ã¸.Â¸.Ã¸Â¤>*<Â¤Ã¸.Â¸.Ã¸Â¤>*<Â¤Ã¸.Â¸Â¸.Ã¸Â¤>*<Â¤Ã¸.Â¸.Ã¸Â¤>*<Â¤Ã¸.
 ********************************************************************************
 
 
@@ -3555,7 +3555,7 @@ The VOICE of Pearl!
 
 
 ********************************************************************************
-¸.ø¤>*<¤ø.¸.ø¤>*<¤ø.¸.ø¤>*<¤ø.¸.ø¤>*<¤ø.¸¸.ø¤>*<¤ø.¸.ø¤>*<¤ø.
+Â¸.Ã¸Â¤>*<Â¤Ã¸.Â¸.Ã¸Â¤>*<Â¤Ã¸.Â¸.Ã¸Â¤>*<Â¤Ã¸.Â¸.Ã¸Â¤>*<Â¤Ã¸.Â¸Â¸.Ã¸Â¤>*<Â¤Ã¸.Â¸.Ã¸Â¤>*<Â¤Ã¸.
 ********************************************************************************
 * Advertisement: Prema's Saloon
 *
@@ -3566,12 +3566,12 @@ The VOICE of Pearl!
 * ~Now Hiring - Must be over fifteen.
 
 ********************************************************************************
-¸.ø¤>*<¤ø.¸.ø¤>*<¤ø.¸.ø¤>*<¤ø.¸.ø¤>*<¤ø.¸¸.ø¤>*<¤ø.¸.ø¤>*<¤ø.
+Â¸.Ã¸Â¤>*<Â¤Ã¸.Â¸.Ã¸Â¤>*<Â¤Ã¸.Â¸.Ã¸Â¤>*<Â¤Ã¸.Â¸.Ã¸Â¤>*<Â¤Ã¸.Â¸Â¸.Ã¸Â¤>*<Â¤Ã¸.Â¸.Ã¸Â¤>*<Â¤Ã¸.
 ********************************************************************************
 
 
 ********************************************************************************
-¸.ø¤>*<¤ø.¸.ø¤>*<¤ø.¸.ø¤>*<¤ø.¸.ø¤>*<¤ø.¸¸.ø¤>*<¤ø.¸.ø¤>*<¤ø.
+Â¸.Ã¸Â¤>*<Â¤Ã¸.Â¸.Ã¸Â¤>*<Â¤Ã¸.Â¸.Ã¸Â¤>*<Â¤Ã¸.Â¸.Ã¸Â¤>*<Â¤Ã¸.Â¸Â¸.Ã¸Â¤>*<Â¤Ã¸.Â¸.Ã¸Â¤>*<Â¤Ã¸.
 ********************************************************************************
 * Manske's Stock
 *
@@ -3581,7 +3581,7 @@ The VOICE of Pearl!
 * that he has crafted for the discerning buyer. Don't Wait!
 * get your unique item now while they are still in stock!
 ********************************************************************************
-¸.ø¤>*<¤ø.¸.ø¤>*<¤ø.¸.ø¤>*<¤ø.¸.ø¤>*<¤ø.¸¸.ø¤>*<¤ø.¸.ø¤>*<¤ø.
+Â¸.Ã¸Â¤>*<Â¤Ã¸.Â¸.Ã¸Â¤>*<Â¤Ã¸.Â¸.Ã¸Â¤>*<Â¤Ã¸.Â¸.Ã¸Â¤>*<Â¤Ã¸.Â¸Â¸.Ã¸Â¤>*<Â¤Ã¸.Â¸.Ã¸Â¤>*<Â¤Ã¸.
 ********************************************************************************
 
 
@@ -3617,7 +3617,7 @@ The VOICE of Pearl!
 
 
 ********************************************************************************
-¸.ø¤>*<¤ø.¸.ø¤>*<¤ø.¸.ø¤>*<¤ø.¸.ø¤>*<¤ø.¸¸.ø¤>*<¤ø.¸.ø¤>*<¤ø.
+Â¸.Ã¸Â¤>*<Â¤Ã¸.Â¸.Ã¸Â¤>*<Â¤Ã¸.Â¸.Ã¸Â¤>*<Â¤Ã¸.Â¸.Ã¸Â¤>*<Â¤Ã¸.Â¸Â¸.Ã¸Â¤>*<Â¤Ã¸.Â¸.Ã¸Â¤>*<Â¤Ã¸.
 ********************************************************************************
 * Advertisement: Land & Sea Property Exchange Furniture Peddle
 *
@@ -3628,12 +3628,12 @@ The VOICE of Pearl!
 * Come to the Peddle !
 *
 ********************************************************************************
-¸.ø¤>*<¤ø.¸.ø¤>*<¤ø.¸.ø¤>*<¤ø.¸.ø¤>*<¤ø.¸¸.ø¤>*<¤ø.¸.ø¤>*<¤ø.
+Â¸.Ã¸Â¤>*<Â¤Ã¸.Â¸.Ã¸Â¤>*<Â¤Ã¸.Â¸.Ã¸Â¤>*<Â¤Ã¸.Â¸.Ã¸Â¤>*<Â¤Ã¸.Â¸Â¸.Ã¸Â¤>*<Â¤Ã¸.Â¸.Ã¸Â¤>*<Â¤Ã¸.
 ********************************************************************************
 
 
 ********************************************************************************
-¸.ø¤>*<¤ø.¸.ø¤>*<¤ø.¸.ø¤>*<¤ø.¸.ø¤>*<¤ø.¸¸.ø¤>*<¤ø.¸.ø¤>*<¤ø.
+Â¸.Ã¸Â¤>*<Â¤Ã¸.Â¸.Ã¸Â¤>*<Â¤Ã¸.Â¸.Ã¸Â¤>*<Â¤Ã¸.Â¸.Ã¸Â¤>*<Â¤Ã¸.Â¸Â¸.Ã¸Â¤>*<Â¤Ã¸.Â¸.Ã¸Â¤>*<Â¤Ã¸.
 ********************************************************************************
 * Advertisement: Prema's Saloon
 *
@@ -3644,12 +3644,12 @@ The VOICE of Pearl!
 * ~Now Hiring - Must be over fifteen.
 
 ********************************************************************************
-¸.ø¤>*<¤ø.¸.ø¤>*<¤ø.¸.ø¤>*<¤ø.¸.ø¤>*<¤ø.¸¸.ø¤>*<¤ø.¸.ø¤>*<¤ø.
+Â¸.Ã¸Â¤>*<Â¤Ã¸.Â¸.Ã¸Â¤>*<Â¤Ã¸.Â¸.Ã¸Â¤>*<Â¤Ã¸.Â¸.Ã¸Â¤>*<Â¤Ã¸.Â¸Â¸.Ã¸Â¤>*<Â¤Ã¸.Â¸.Ã¸Â¤>*<Â¤Ã¸.
 ********************************************************************************
 
 
 ********************************************************************************
-¸.ø¤>*<¤ø.¸.ø¤>*<¤ø.¸.ø¤>*<¤ø.¸.ø¤>*<¤ø.¸¸.ø¤>*<¤ø.¸.ø¤>*<¤ø.
+Â¸.Ã¸Â¤>*<Â¤Ã¸.Â¸.Ã¸Â¤>*<Â¤Ã¸.Â¸.Ã¸Â¤>*<Â¤Ã¸.Â¸.Ã¸Â¤>*<Â¤Ã¸.Â¸Â¸.Ã¸Â¤>*<Â¤Ã¸.Â¸.Ã¸Â¤>*<Â¤Ã¸.
 ********************************************************************************
 * Advertisement: Manske's Stock
 *
@@ -3659,7 +3659,7 @@ The VOICE of Pearl!
 * that he has crafted for the discerning buyer. Don't Wait!
 * get your unique item now while they are still in stock!
 ********************************************************************************
-¸.ø¤>*<¤ø.¸.ø¤>*<¤ø.¸.ø¤>*<¤ø.¸.ø¤>*<¤ø.¸¸.ø¤>*<¤ø.¸.ø¤>*<¤ø.
+Â¸.Ã¸Â¤>*<Â¤Ã¸.Â¸.Ã¸Â¤>*<Â¤Ã¸.Â¸.Ã¸Â¤>*<Â¤Ã¸.Â¸.Ã¸Â¤>*<Â¤Ã¸.Â¸Â¸.Ã¸Â¤>*<Â¤Ã¸.Â¸.Ã¸Â¤>*<Â¤Ã¸.
 ********************************************************************************
 
 
@@ -3690,7 +3690,7 @@ The VOICE of Pearl!
 
 
 ********************************************************************************
-¸.ø¤>*<¤ø.¸.ø¤>*<¤ø.¸.ø¤>*<¤ø.¸.ø¤>*<¤ø.¸¸.ø¤>*<¤ø.¸.ø¤>*<¤ø.
+Â¸.Ã¸Â¤>*<Â¤Ã¸.Â¸.Ã¸Â¤>*<Â¤Ã¸.Â¸.Ã¸Â¤>*<Â¤Ã¸.Â¸.Ã¸Â¤>*<Â¤Ã¸.Â¸Â¸.Ã¸Â¤>*<Â¤Ã¸.Â¸.Ã¸Â¤>*<Â¤Ã¸.
 ********************************************************************************
 * Advertisement: Prema's Saloon
 *
@@ -3701,12 +3701,12 @@ The VOICE of Pearl!
 * ~Now Hiring - Must be over fifteen.
 
 ********************************************************************************
-¸.ø¤>*<¤ø.¸.ø¤>*<¤ø.¸.ø¤>*<¤ø.¸.ø¤>*<¤ø.¸¸.ø¤>*<¤ø.¸.ø¤>*<¤ø.
+Â¸.Ã¸Â¤>*<Â¤Ã¸.Â¸.Ã¸Â¤>*<Â¤Ã¸.Â¸.Ã¸Â¤>*<Â¤Ã¸.Â¸.Ã¸Â¤>*<Â¤Ã¸.Â¸Â¸.Ã¸Â¤>*<Â¤Ã¸.Â¸.Ã¸Â¤>*<Â¤Ã¸.
 ********************************************************************************
 
 
 ********************************************************************************
-¸.ø¤>*<¤ø.¸.ø¤>*<¤ø.¸.ø¤>*<¤ø.¸.ø¤>*<¤ø.¸¸.ø¤>*<¤ø.¸.ø¤>*<¤ø.
+Â¸.Ã¸Â¤>*<Â¤Ã¸.Â¸.Ã¸Â¤>*<Â¤Ã¸.Â¸.Ã¸Â¤>*<Â¤Ã¸.Â¸.Ã¸Â¤>*<Â¤Ã¸.Â¸Â¸.Ã¸Â¤>*<Â¤Ã¸.Â¸.Ã¸Â¤>*<Â¤Ã¸.
 ********************************************************************************
 * Advertisement: Manske's Stock
 *
@@ -3716,7 +3716,7 @@ The VOICE of Pearl!
 * that he has crafted for the discerning buyer. Don't Wait!
 * get your unique item now while they are still in stock!
 ********************************************************************************
-¸.ø¤>*<¤ø.¸.ø¤>*<¤ø.¸.ø¤>*<¤ø.¸.ø¤>*<¤ø.¸¸.ø¤>*<¤ø.¸.ø¤>*<¤ø.
+Â¸.Ã¸Â¤>*<Â¤Ã¸.Â¸.Ã¸Â¤>*<Â¤Ã¸.Â¸.Ã¸Â¤>*<Â¤Ã¸.Â¸.Ã¸Â¤>*<Â¤Ã¸.Â¸Â¸.Ã¸Â¤>*<Â¤Ã¸.Â¸.Ã¸Â¤>*<Â¤Ã¸.
 ********************************************************************************
 
 
