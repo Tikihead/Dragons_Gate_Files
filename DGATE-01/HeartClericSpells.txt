@@ -1,0 +1,65 @@
+
+Cleric of the Order of the Heart. 
+You have the following elemental runes available to you...
+
+   heal        - 100 weaves remain   illness     -  90 weaves remain
+   light       -  99 weaves remain   vigor       - 100 weaves remain
+   sleep       - 100 weaves remain   fatigue     - 100 weaves remain
+   charm       - 100 weaves remain   darkness    -  92 weaves remain
+   holy        - 100 weaves remain   water       - 100 weaves remain
+   translocation -  98 weaves remain   movement    -  94 weaves remain
+   cure        - 100 weaves remain   mental      -  94 weaves remain
+   energy      -  64 weaves remain   medicine    -  98 weaves remain
+   destroy     - 100 weaves remain   death       - 100 weaves remain
+   blindness   -  80 weaves remain   strength    - 100 weaves remain
+   divine      -  96 weaves remain   remedy      -  99 weaves remain
+   comfort     -  99 weaves remain   create      - 100 weaves remain
+   cure-all    -  97 weaves remain
+
+You may use the following modifier runes upon them...
+
+ small       average    
+
+You may use them with the following shapes...
+
+ armor       arrow       aura        being       bolt        cloud      
+ curse       dart        globe       ring        shield      sight      
+ spray       touch       mist        word        drake       bear       
+
+See INFO RUNESPELLS for memorized corridors.
+
+info rune
+>
+You have prepared the following corridors...
+
+Corridor   Name                 Name       Al #cast
+1          Healer's touch       (ht      )[N] 2877
+2          Vigor touch          (vt      )[N] 2973
+3          Touch of illness     (it      )[N] 110
+4          Light dart           (ld      )[N] 80
+5          Light bolt           (lb      )[N] 1
+6          Holy cloud           (hc      )[N] 503
+7          Arrow of light       (la      )[N] 73
+8          Holy armor           (ha      )[N] 433
+9          Righteous globe      (lg      )[N] 106
+10         Holy water           (hm      )[N] 4283
+11         Gate of Elindale     (tran    )[N] 1
+12         Secian forgiveness   (ca      )[N] 1798
+13         Holy sight           (hs      )[N] 247
+14         Curse of the wise    (mc      )[N] 895
+15         Presence of Elindale (ddb     )[N] 61
+16         Healing dew          (mb      )[N] 1502
+17         Refreshing dew       (eb      )[N] 2926
+18         Curse of blindness   (bc      )[N] 406
+19         Movement curse       (mv      )[N] 52
+20         Curse of weakness    (sc      )[N] 57
+21         Bear of Elindale     (hb      )[N] 1
+22         Mist of obscurity    (hmm     )[N] 2
+23         Divine presence      (dp      )[N] 3
+24         Divine blessing      (dw      )[N] 1
+25         Healing rain         (rb      )[N] 1
+26         Refreshing spray     (cb      )[N] 1
+27         Shield of light      (cls     )[N] 1
+28         Ring of health       (hhr     )[N] 1
+29         Rejuvenation ring    (hcr     )[N] 1
+30         Sacred rejuvenation  (cas     )[N] 2
