@@ -1,0 +1,4191 @@
+time
+It is currently 08:31 PM.
+
+who
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+    Currently Connected
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+  Aegys Redbow
+  Arik Agni
+  Bjeorn Bayouwolf
+  Darkness Moonsorrow
+  Derigaaz Abraxis
+  Desmond Delavan
+  Driag Terrale
+  Harru Shadowstalker
+  Karrl Garlakk
+  Kassi Boyd
+  Kurapiira Mako
+  Kynea Blackarrow
+  Lawson Jones
+  Lilia Lacey
+  Maria Saldis
+  Osangar Ishtar
+  Owen Davintar
+  Rinaukas Sveltewood
+  Rosh Ambo
+  Rukshana Qari
+  Salevos Fereni
+  Seren Prilos
+  Tizzarios Tokoran
+  Vynter Wintz
+  Wayvan Argent
+  Wirovel Sunnefi
+  Wollmaus Eisenhart
+
+    [27 total]
+
+l at m 
+
+You see Maria the adult Silvarin.
+She is 5' 7" tall with a well toned build, straight, black hair, green eyes, and pale skin.
+She bears the mark of Thaessilgan.
+She is currently in a distant mood.
+
+Description:
+She appears to be stern and serious, not a crease on her face or hair out of place, but there is warmth to her eyes that betrays a softer, compassionate nature under the cold façade.
+
+
+She is carrying:
+ -an emerald green silk surcoat                                         (torso)
+ -a pearl collar necklace                                              (around neck)
+ -a pair of buttery-soft pale leather leggings                         (legs)
+ -a pair of black leather ankle boots                                  (feet)
+ -an open black leather bookbag                                         (on back)
+ -a silk carrying case                                                 (on belt)
+ -a forest green brass-buttoned empire-waist tweed frock coat          (cloak)
+ -a delicate starsilver ring bracelet                                  (around wrist)
+ -a delicate silver ear cuff with dangling chains and emerald drops    (on ears)
+
+
+
+l at d 
+
+You see Desmond the adult Silvarin.
+He is 5' 10" tall with a lithe build, straight, black hair, pale green eyes, and deeply tanned skin.
+He bears the mark of Johara.
+He is currently in a neutral mood.
+
+Description:
+His hooded cloak casts a slight shadow over his already deeply tanned face, concealing his facial features.
+
+
+He is carrying:
+ -a smooth obsidian-inlaid shadowsteel poignard      (right hand)
+ -a polished steel heater                            (left hand)
+ -a shadowy obsidian inlaid leather stealth armor    (torso)
+ -a loose fitting smoky-gray silk woven shirt        (torso)
+ -a pair of black cotton pants                       (legs)
+ -a sturdy pair of black boots                       (feet)
+ -a black doeskin arrow shoulderbelt                 (on back)
+ -a black leather belt                               (around waist)
+ -a well forged scabbard                             (on belt)
+ -a long grey hooded assassin's cloak                (cloak)
+ -a shadowy obsidian inlaid leather bracer           (around wrist)
+
+
+
+l at s 
+
+You see Seren the adolescent Human.
+He is 6' 0" tall with a muscular build, cropped, black hair, deep blue eyes, and lightly tanned skin.
+He bears the mark of Karishta.
+He is currently in a neutral mood.
+
+Description:
+An average looking young man with a shy smile and a quiet confidence.
+
+
+He is carrying:
+ -a red satin shirt                                   (torso)
+ -a flaming rune etched starsilver ring               (finger)
+ -a black leather necklace with starsilver accents    (around neck)
+ -a black satin brocade pants                         (legs)
+ -a highly polished black leather boots               (feet)
+ -a closed gold threaded dark velvet beltpouch        (on belt)
+ -a slate blue ivory-buttoned satin cape              (cloak)
+
+
+
+l at l 
+
+You see Lilia the adolescent Fae.
+She is 1' 8" tall with a lithe build, wavy, purple hair, ocean blue eyes, and pale skin.
+She bears the mark of Cassien.
+She is currently in a thoughtful mood.
+
+Description:
+Her dark plum colored hair is pulled up into a high-knotted pony tail that is decorated with a small ringlet of sparkling gems and ribbons
+
+
+She is carrying:
+ -a heavy starsteel battlemail                                  (torso)
+ -a pair of lovely silken slippers                              (feet)
+ -a some sparkling wing streamers                               (on back)
+ -a closed gold threaded dark velvet beltpouch                  (on belt)
+ -a great golden lion's mane                                    (cloak)
+ -a glittering diamond nose stud                                (on nose)
+ -a white muslin empire dress with dainty blue shoulder caps    (torso)
+
+
+
+l at ka 
+
+You see Karrl the adult Galirrim.
+He is 9' 2" tall with a muscular build, bluish black fur, brown eyes, and gray skin.
+He bears the mark of Eyranas.
+He is currently in a friendly mood.
+
+Description:
+Big and hairy.
+
+
+He is carrying:
+ -a damaged stack of roughly sanded black cherry wood throwing darts    (both hands)
+ -a blood-stained brown plaid great battle kilt                         (legs)
+ -an open old burlap rucksack                                            (on back)
+ -a green jade Ei'talian tree leaf replica                              (around waist)
+
+
+
+l
+
+[Religious Council, High Chamber]
+A large chamber opens up from the archway, expansive in height and width. Banners hang from every wall depicting religious scenes and the symbols of the Gods. Three white-wash pillars are set into the walls on either side of the room, signifying the six religions that uphold the council. A raise platform in the center of the room houses a tall round table with six chairs. Other wooden chairs have been placed around the dais, facing the high table of the religious council.
+
+The area is illuminated.
+
+In this room you see: Karrl the Galirrim,  Lilia the Fae,  Seren the Human,  Desmond the Silvarin (sitting down),  Maria the Silvarin
+Obvious exits are: archway
+
+gla around
+You glance around.
+
+Lilia shoots Kurapiira a dazzling smile.
+
+Desmond unfastens his polished steel heater.
+
+grin
+You grin.
+
+Desmond sheathes his smooth obsidian-inlaid shadowsteel poignard.
+
+l at ku 
+
+You see Kurapiira the elderly Fae.
+She is 1' 10" tall with a lithe build, dreadlocked, white hair, deep blue eyes, and black skin.
+She bears the mark of Eyranas.
+She is currently in a determined mood.
+
+
+A sleeve of multi-colored dragons twists down her left arm from shoulder to wrist.
+
+A small deep blue pentagram is tattooed upon the neck.
+
+On her cheek is a small Tsakaxhua tribal tattoo.
+
+Centered on her forehead is tattooed the Mark of Morana.
+
+Description:
+....White dreadlocks contrast sharply with shiny black skin, while multi-colored tattoos and smoky deep blue eyes, full of magic, add a hint of color to this old, wise Fae...
+
+
+She is carrying:
+ -a golden siren hair-infused driftwood divination stave    (right hand)
+ -a scuffed harpy-headed oak walking stick                  (left hand)
+ -a light irratacite chainmail                              (torso)
+ -a black pongee silk camisole                              (torso)
+ -a glittering spirit-touched arrowhead on a chain          (around neck)
+ -a wild blue dyed silkroot waist wrap                      (legs)
+ -a pair of soft padded dancer's foot thongs                (feet)
+ -an open lacquered dark brown maple scroll case             (on belt)
+ -a loose layer-hemmed dusky blue pashmina banyan           (cloak)
+ -a golden brass belly chain                                (around waist)
+ -a set of stiff boar skin wrist wraps                      (around wrist)
+ -a pair of dangling crackle-quartz skulls                  (on ears)
+ -a glittering icicle-shaped crystal septum piercing        (on nose)
+ -a slightly dangling gold coiled snake eyebrow ring        (on face)
+ -a pair of emerald inlaid moonsilver wingclips             (wings)
+
+
+
+Lilia sits down in her chair.
+
+ ** Zelvan Toryn just arrived in the world [NEW PLAYER]
+
+Seren sits down.
+
+Desmond asks, "Let's all have a seat?"
+
+nod
+You nod.
+
+l
+
+[Religious Council, High Chamber]
+A large chamber opens up from the archway, expansive in height and width. Banners hang from every wall depicting religious scenes and the symbols of the Gods. Three white-wash pillars are set into the walls on either side of the room, signifying the six religions that uphold the council. A raise platform in the center of the room houses a tall round table with six chairs. Other wooden chairs have been placed around the dais, facing the high table of the religious council.
+
+The area is illuminated.
+
+In this room you see: Karrl the Galirrim,  Lilia the Fae (sitting down),  Seren the Human (sitting down),  Desmond the Silvarin (sitting down),  Maria the Silvarin
+Obvious exits are: archway
+
+Desmond says to Karrl, "No need for you to sit on the floor. The Archon isn't here. You can take his seat"
+
+Karrl says to Desmond, "I'm good"
+
+grunt to de
+You grunt to Desmond.
+
+Maria sits down.
+
+A small brown sparrow appears before your eyes, chirruping and trilling birdsong sounds that seem to resemble the voice of Bjeorn saying, "good eve faithful, I will pray for the preservers and wish them luck in the great god council, and may you all be blessed with the foresight of Eyridane.".
+The image of the sparrow vanishes.
+
+Desmond says, "I suppose this is just to have a discussion on how we will conduct and operate in future business."
+
+'d, A good beggining
+You say to Desmond, "A good beggining"
+
+nod softly
+You nod softly.
+
+Desmond says, "We can discuss other matters of business after it has been established"
+
+'d, Do you have any ideas ,,?
+You ask Desmond, "Do you have any ideas ,,?"
+
+list to d
+You listen intently to Desmond.
+
+Desmond says, "I would suggest that we not be too formal in our meetings. We should discuss things openly."
+
+nod softly
+You nod softly.
+
+who
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+    Currently Connected
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+  Aegys Redbow
+  Arik Agni
+  Bjeorn Bayouwolf
+  Darkness Moonsorrow
+  Derigaaz Abraxis
+  Desmond Delavan
+  Driag Terrale
+  Elethene Coelm
+  Harru Shadowstalker
+  Karrl Garlakk
+  Kassi Boyd
+  Kurapiira Mako
+  Kynea Blackarrow
+  Lawson Jones
+  Lilia Lacey
+  Maria Saldis
+  Osangar Ishtar
+  Owen Davintar
+  Rinaukas Sveltewood
+  Rosh Ambo
+  Rukshana Qari
+  Salevos Fereni
+  Seren Prilos
+  Tizzarios Tokoran
+  Vynter Wintz
+  Wayvan Argent
+  Wirovel Sunnefi
+  Wollmaus Eisenhart
+  Zelvan Toryn
+
+    [29 total]
+
+Seren nods and says, "Agreed".
+
+Lilia nods.
+
+Desmond says, "We are all here to see to the needs of our temples and represent them within the corruptness of the merchant council"
+
+grin to d
+You grin to Desmond.
+
+nod in agreement
+You nod in agreement.
+
+Maria says, "as long as there are structured agenda items.."
+
+Desmond says, "If any of you are taking notes, I would appreciate it if you left that last bit out of any public postings"
+
+Maria says, "random chit chatting.. is not productive"
+
+ ** Derigaaz Abraxis just left the world.
+
+nod
+You nod.
+
+ ** Zelvan Toryn just left the world.
+
+ ** Zelvan Toryn just arrived in the world [NEW PLAYER]
+
+Desmond says, "I would propose that each temple bring forth any business and in turn we would go around the table and express our own opinions of it with the final word being spoken by the one that brought it to the table"
+
+nod thoughtfully
+You nod thoughtfully.
+
+Desmond says, "but as I said, not too formal"
+
+'d, would you go first?
+You ask Desmond, "would you go first?"
+
+smi to d
+You smile to Desmond.
+
+Desmond shrugs.
+
+ ** Maria Saldis just left the world.
+
+l
+
+[Religious Council, High Chamber]
+A large chamber opens up from the archway, expansive in height and width. Banners hang from every wall depicting religious scenes and the symbols of the Gods. Three white-wash pillars are set into the walls on either side of the room, signifying the six religions that uphold the council. A raise platform in the center of the room houses a tall round table with six chairs. Other wooden chairs have been placed around the dais, facing the high table of the religious council.
+
+The area is illuminated.
+
+In this room you see: Karrl the Galirrim,  Lilia the Fae (sitting down),  Seren the Human (sitting down),  Desmond the Silvarin (sitting down)
+Obvious exits are: archway
+
+Desmond says, "All matters will be attended to and each would have a turn. The order is of little significance"
+
+nod softly
+You nod softly.
+
+ ** Syth Mytra just arrived in the world
+
+Desmond glances towards the empty chair.
+
+' The Archon will not make it, it appears
+You say, "The Archon will not make it, it appears"
+
+pon
+You ponder a moment.
+
+l in boo
+Inside the open black leather bookbag you see: crisp sheet of cream parchment, closed cream-colored envelope, closed broken cream-colored envelope, simple white feather quill, small black inkwell, open hardback cotton-covered notebook, broken crisp sheet of cream parchment, copper tipped black stylus, open thick silver-clasped leather journal, closed yellowed codex of incantations
+
+' do any have business they wish to speak of?
+You ask, "do any have business they wish to speak of?"
+
+gla around
+You glance around.
+
+Desmond says, "For those who do not know, it is within our positions to make motions and petitions for land to the Merchant Council"
+
+nod to d
+You nod to Desmond.
+
+ ** Maria Saldis just arrived in the world
+
+
+Maria just appeared.
+
+Maria sighs.
+
+comf ma
+You comfort Maria.
+
+Desmond says, "All matters will be attended to and each would have a turn. The order is of little significance"
+
+Desmond says, "For those who do not know, it is within our positions to make motions and petitions for land to the Merchant Council"
+
+nod to ma
+You nod to Maria.
+
+Maria nods to Seren.
+
+Seren glances at Maria and smiles.
+
+stret
+You stretch.
+
+' I have a few things I'd like to discuss...
+You say, "I have a few things I'd like to discuss..."
+
+rai
+You raise an eyebrow.
+
+Desmond says, "It would benefit each member of this council to bring up any concerns that they may wish to bring up at tomorrows meeting"
+
+nod
+You nod.
+
+'d, Will the merchant Council regognise only temple Leaders?
+You ask Desmond, "Will the merchant Council regognise only temple Leaders?"
+
+rai
+You raise an eyebrow.
+
+ ** Derigaaz Abraxis just arrived in the world
+
+l
+
+[Religious Council, High Chamber]
+A large chamber opens up from the archway, expansive in height and width. Banners hang from every wall depicting religious scenes and the symbols of the Gods. Three white-wash pillars are set into the walls on either side of the room, signifying the six religions that uphold the council. A raise platform in the center of the room houses a tall round table with six chairs. Other wooden chairs have been placed around the dais, facing the high table of the religious council.
+
+The area is illuminated.
+
+In this room you see: Karrl the Galirrim,  Lilia the Fae (sitting down),  Seren the Human (sitting down),  Desmond the Silvarin (sitting down),  Maria the Silvarin (sitting down)
+Obvious exits are: archway
+
+Desmond says to Kurapiira, "I would suggest that if someone else need to take your place, you provide notice to this council that they may vouch for them"
+
+ ** Versius Ultum just arrived in the world [NEW PLAYER]
+
+nod
+You nod.
+
+' So noted
+You say, "So noted"
+
+
+Desmond says, "I would hope that anyone who walks into the merchant council posing as a representative of my temple would be questioned"
+
+chu wryly
+You chuckle wryly.
+
+Desmond says, "I am sure the rest of you would agree"
+
+Seren smiles slightly.
+
+Seren nods his head up and down.
+
+Lilia nods firmly.
+
+nod
+You nod.
+
+' And the same to be held for changes in Temple Leadership?
+You ask, "And the same to be held for changes in Temple Leadership?"
+
+Maria says, "I may not make the start of the meeting and the only other from my temple is unable to attend"
+
+Maria frowns.
+
+nod to ma
+You nod to Maria.
+
+Desmond says to Maria, "I am unsure that you will be let in if you are late"
+
+'m, I can speak for you, and Karrl can speak for temple Eyuranas if you wish
+You say to Maria, "I can speak for you, and Karrl can speak for temple Eyuranas if you wish"
+
+Desmond says, "In the past, they have locked the door at the time of the meeting"
+
+nod to ma
+You nod to Maria.
+
+nod to d
+You nod to Desmond.
+
+Karrl says, "not going to be at meeting tomorrow"
+
+nod to ka
+You nod to Karrl.
+
+ ** Syth Mytra just left the world.
+
+' I could vote for her ..in absentia..if we knew the motions ahead of time
+You say, "I could vote for her ..in absentia..if we knew the motions ahead of time"
+
+furr
+You furrow your brow.
+
+ ** Savos Black just arrived in the world
+
+Maria says, "then I will have to brief Miss Elethene Coelm"
+
+nod to ma
+You nod to Maria.
+
+Seren glances at Maria and nods.
+
+Desmond says to Kurapiira, "I do not think that would be apropriate."
+
+' She will represent you then?
+You ask, "She will represent you then?"
+
+nod to de in demural
+You nod to Desmond in demural.
+
+Maria says, "if I am unable, I must speak with her first"
+
+nod
+You nod.
+
+Desmond asks Kurapiira, "You had something to discuss?"
+
+Maria says, "if nobody objects that is, Rukshana would be my first choice but she is unable, my Arbiters are out of pocket.. we are running pretty thin these days"
+
+nod to ma
+You nod to Maria.
+
+nod to d
+You nod to Desmond.
+
+' I can't remember, are the votes in the Merchant Council silent ones?
+You ask, "I can't remember, are the votes in the Merchant Council silent ones?"
+
+furr
+You furrow your brow.
+
+Desmond says to Kurapiira, "No"
+
+Maria says, "Not at all"
+
+nod
+You nod.
+
+ ** Osangar Ishtar just left the world.
+
+ ** Darkness Moonsorrow just left the world.
+
+' I have nothing further 
+You say, "I have nothing further"
+
+Desmond nods.
+
+Maria says, "I have a concern"
+
+ ** Primum Hherotes just arrived in the world
+
+list to ma
+You listen intently to Maria.
+
+Maria says, "there has been a sales tax imposed on items"
+
+nod softly
+You nod softly.
+
+Maria says, "to cover the cost of guards"
+
+Maria says, "however, at the last merchant meeting, they levied taxes on the temples for the same thing"
+
+Maria says, "and I saw no results, the guards were not trained nor increased"
+
+Desmond asks, "Did they collect on it?"
+
+ ** Rinaukas Sveltewood just left the world.
+
+Desmond says, "I did not turn over any coins to the council"
+
+'d, I spoke to Ayaliute, but she never came to colloect
+You say to Desmond, "I spoke to Ayaliute, but she never came to colloect"
+
+nod thoughtfully
+You nod thoughtfully.
+
+Desmond nods.
+
+Desmond asks, "Then we should motion for that levy to be removed?"
+
+shru
+You shrug.
+
+Lilia asks, "I do know that there is a new guards barraks, perhaps the coins went in for that?"
+
+ ** Darkness Moonsorrow just arrived in the world
+
+' it seems the tax has replaced it, yes
+You say, "it seems the tax has replaced it, yes"
+
+nod to l
+You nod to Lilia.
+
+Maria says, "no, I suppose they did not, we wound up pooling our money with temple Aedron for for the apprenticeship funds"
+
+ ** Savos Black just left the world.
+
+Desmond says, "I do not see it as the position of the temples to pay for the city's protection"
+
+Maria says, "I tried several times to pay it"
+
+ ** Tizzarios Tokoran just left the world.
+
+nod thoughtfully
+You nod thoughtfully.
+
+Karrl says, "our lizards say guards do nothing to stop killers in streets"
+
+nod to ka
+You nod to Karrl.
+
+Karrl shrugs.
+
+set mood conc
+Unknown mood 'conc'.
+
+Karrl says, "no guards came to protect our temple"
+
+Desmond asks, "Then who will make that motion?"
+
+Karrl says, "nor in town when fire salamanders came"
+
+nod to ka
+You nod to Karrl.
+
+Lilia says, "That is mostly because the killers tumble down and pretend to be the victims when the guards come, which confuses the guards into attacking the innocents"
+
+nod to lil
+You nod to Lilia.
+
+Karrl asks, "more taxes so there are more dumb guards?"
+
+smir
+You smirk.
+
+Maria frowns.
+
+ ** Lucifer Voractis just arrived in the world
+
+'ka, perhaps we should motion that the guards be romved from Hero's rest?
+You ask Karrl, "perhaps we should motion that the guards be romved from Hero's rest?"
+
+rai at ka
+You raise an eyebrow at Karrl.
+
+Seren glances at you.
+
+Karrl says to Kurapiira, "for all good they do"
+
+nod thoughtfully
+You nod thoughtfully.
+
+Desmond asks, "are they city guards?"
+
+Karrl says to Kurapiira, "probably just city spies"
+
+' Hired by the land owner i believe
+You say, "Hired by the land owner i believe"
+
+nod to ka
+You nod to Karrl.
+
+ ** Charity Manson just arrived in the world
+
+Desmond asks, "Do you refer to the knights of the estate in hero's rest?"
+
+nod to d
+You nod to Desmond.
+
+'d, a temple Eyranas matter it seems
+reli
+You say to Desmond, "a temple Eyranas matter it seems"
+
+Unknown command "reli"
+
+Desmond says, "You should then petition the land owner and not the council"
+
+nod
+You nod.
+
+l
+
+[Religious Council, High Chamber]
+A large chamber opens up from the archway, expansive in height and width. Banners hang from every wall depicting religious scenes and the symbols of the Gods. Three white-wash pillars are set into the walls on either side of the room, signifying the six religions that uphold the council. A raise platform in the center of the room houses a tall round table with six chairs. Other wooden chairs have been placed around the dais, facing the high table of the religious council.
+
+The area is illuminated.
+
+In this room you see: Karrl the Galirrim,  Lilia the Fae (sitting down),  Seren the Human (sitting down),  Desmond the Silvarin (sitting down),  Maria the Silvarin (sitting down)
+Obvious exits are: archway
+
+Karrl asks, "if our temple taxed for guards, will they come protect us too?"
+
+nod to ka thoughtfully
+You nod to Karrl thoughtfully.
+
+Desmond asks Karrl, "Did they come during your last attack?"
+
+'ka, a good point
+You say to Karrl, "a good point"
+
+Karrl says, "no"
+
+Karrl asks, "so we can get no protection for free, why pay?"
+
+nod
+You nod.
+
+'ka, is the tax in Hero's Rest too?
+You ask Karrl, "is the tax in Hero's Rest too?"
+
+furr
+You furrow your brow.
+
+Karrl shrugs.
+
+Desmond says, "then I suppose we all know which way you will vote on the matter"
+
+Karrl nods.
+
+nod
+You nod.
+
+Karrl says, "maybe we charge tax next time we save city from burning from fake Karishtans"
+
+grin to ka
+You grin to Karrl.
+
+Karrl shrugs again.
+
+Seren chuckles softly.
+
+Desmond says to Karrl, "Good luck with that"
+
+grin wryly
+You grin wryly.
+
+'d, Has your temple investigation been concluded?
+You ask Desmond, "Has your temple investigation been concluded?"
+
+rai at d
+You raise an eyebrow at Desmond.
+
+Desmond raises an eyebrow.
+
+ ** Breyer Calexis just arrived in the world
+
+Desmond asks Kurapiira, "Care to elaborate?"
+
+'d, You posted a note about certain members of your temple, and an investigation on our posting board?
+You ask Desmond, "You posted a note about certain members of your temple, and an investigation on our posting board?"
+
+rai
+You raise an eyebrow.
+
+list to d
+You listen intently to Desmond.
+
+l
+
+[Religious Council, High Chamber]
+A large chamber opens up from the archway, expansive in height and width. Banners hang from every wall depicting religious scenes and the symbols of the Gods. Three white-wash pillars are set into the walls on either side of the room, signifying the six religions that uphold the council. A raise platform in the center of the room houses a tall round table with six chairs. Other wooden chairs have been placed around the dais, facing the high table of the religious council.
+
+The area is illuminated.
+
+In this room you see: Karrl the Galirrim,  Lilia the Fae (sitting down),  Seren the Human (sitting down),  Desmond the Silvarin (sitting down),  Maria the Silvarin (sitting down)
+Obvious exits are: archway
+
+Desmond says to Kurapiira, "A temple matter. The investigation was concluded."
+
+nod
+You nod.
+
+' the Council thanks you for your swift action
+You say, "the Council thanks you for your swift action"
+
+bow her head to Desmond
+You bow her head to Desmond.
+
+Desmond says, "Let me speak on this.."
+
+list
+You listen intently.
+
+ ** Ches Saras just arrived in the world
+
+Desmond ponders a moment.
+
+Desmond says, "On second thought...I will not."
+
+chu
+You chuckle.
+
+Seren smirks.
+
+nod to d
+You nod to Desmond.
+
+'s, Has Temple Karishta had any information on the Orbs that were used in the fire attack?
+You ask Seren, "Has Temple Karishta had any information on the Orbs that were used in the fire attack?"
+
+rai at ser
+You raise an eyebrow at Seren.
+
+Seren shakes his head from side to side to you.
+
+Seren says, "I have looked at one"
+
+Desmond stands up.
+
+Desmond retreats 2 units.
+
+Desmond sits down back in his chair.
+
+Seren says, "But it's origins are still a mystery"
+
+'s, Was the Karishtan symbol not on it?
+You ask Seren, "Was the Karishtan symbol not on it?"
+
+rai
+You raise an eyebrow.
+
+Desmond whispers to you, "I will speak with you privately"
+
+Seren opens his closed gold threaded dark velvet beltpouch.
+
+Karrl nods to you.
+
+Seren removes his charred glass summoning orb from his open gold threaded dark velvet beltpouch.
+
+Seren wields his charred glass summoning orb.
+
+wh to d as you wish
+You whisper "as you wish" to Desmond.
+
+gla at se
+You glance at Seren.
+
+l at s 
+
+You see Seren the adolescent Human.
+He is 6' 0" tall with a muscular build, cropped, black hair, deep blue eyes, and lightly tanned skin.
+He bears the mark of Karishta.
+He is currently in a neutral mood.
+
+Description:
+An average looking young man with a shy smile and a quiet confidence.
+
+
+He is carrying:
+ -a charred glass summoning orb                       (right hand)
+ -a red satin shirt                                   (torso)
+ -a flaming rune etched starsilver ring               (finger)
+ -a black leather necklace with starsilver accents    (around neck)
+ -a black satin brocade pants                         (legs)
+ -a highly polished black leather boots               (feet)
+ -an open gold threaded dark velvet beltpouch          (on belt)
+ -a slate blue ivory-buttoned satin cape              (cloak)
+
+
+
+Seren taps his charred glass summoning orb and says, "As you can see, the symbol is of a swirling void.
+
+Lilia muses quietly as she leans back in her chair.
+
+l at or on ser
+You examine the charred glass summoning orb on Seren...
+
+A smoking, ruined and charred object that seems to have once had a powerful summoning enchantment placed on it. A tiny symbol of a swirling void is inscribed.
+
+nod to se
+You nod to Seren.
+
+Seren glances at you and says, "I have seen the other one you mention as well".
+
+rai at s
+You raise an eyebrow at Seren.
+
+list
+You listen intently.
+
+Desmond raises an eyebrow.
+
+ ** Charity Manson just left the world.
+
+Seren shakes his head from side to side and says, "But I can offer little else on the subject".
+
+furr
+You furrow your brow.
+
+ ** Vega Ramirez just arrived in the world
+
+Karrl asks Desmond, "your temple has many smart ones, maybe you ask them to investigate fake Karishta orbs too, yeah?"
+
+ ** Lawson Jones just left the world.
+
+ ** Rosh Ambo just left the world.
+
+nod to ka
+You nod to Karrl.
+
+Desmond says to Karrl, "I do not know where to begin with such an investigation"
+
+' All temple should look into this matter
+You say, "All temple should look into this matter"
+
+gla around the room
+You glance around the room.
+
+Seren nods his head up and down and says, "The temple isn't completed with it's ivestigation".
+
+nod to se
+You nod to Seren.
+
+Lilia nods.
+
+Karrl says, "sometimes end more important than beginning"
+
+nod to ka
+You nod to Karrl.
+
+l
+
+[Religious Council, High Chamber]
+A large chamber opens up from the archway, expansive in height and width. Banners hang from every wall depicting religious scenes and the symbols of the Gods. Three white-wash pillars are set into the walls on either side of the room, signifying the six religions that uphold the council. A raise platform in the center of the room houses a tall round table with six chairs. Other wooden chairs have been placed around the dais, facing the high table of the religious council.
+
+The area is illuminated.
+
+In this room you see: Karrl the Galirrim,  Lilia the Fae (sitting down),  Seren the Human (sitting down),  Desmond the Silvarin (sitting down),  Maria the Silvarin (sitting down)
+Obvious exits are: archway
+
+Desmond says, "Agreed."
+
+Seren removes his charred glass summoning orb.
+
+ ** Wirovel Sunnefi just left the world.
+
+Seren puts his charred glass summoning orb in his open gold threaded dark velvet beltpouch.
+
+Seren closes his open gold threaded dark velvet beltpouch.
+
+'ka, any more objects recovered in attacks will be held for the Preservers, yes?
+You ask Karrl, "any more objects recovered in attacks will be held for the Preservers, yes?"
+
+Desmond says to Karrl, "Though I would suggest we not jump to conclusions that they are fake"
+
+rai at ka
+You raise an eyebrow at Karrl.
+
+nod to de
+You nod to Desmond.
+
+Seren glances at Desmond quickly.
+
+Karrl shrugs.
+
+ ** Vega Ramirez just left the world.
+
+l
+ ** Veronikita Trudeque just arrived in the world
+
+
+[Religious Council, High Chamber]
+A large chamber opens up from the archway, expansive in height and width. Banners hang from every wall depicting religious scenes and the symbols of the Gods. Three white-wash pillars are set into the walls on either side of the room, signifying the six religions that uphold the council. A raise platform in the center of the room houses a tall round table with six chairs. Other wooden chairs have been placed around the dais, facing the high table of the religious council.
+
+The area is illuminated.
+
+In this room you see: Karrl the Galirrim,  Lilia the Fae (sitting down),  Seren the Human (sitting down),  Desmond the Silvarin (sitting down),  Maria the Silvarin (sitting down)
+Obvious exits are: archway
+
+Desmond says to Seren, "Though it may not be sanctioned by your temple, followers of my temple have performed deeds in the past that were not sanctioned"
+
+nod thoughtfully
+You nod thoughtfully.
+
+Seren nods his head up and down.
+
+Desmond says to Seren, "I know what it is like to take blame for something that was not of your own doing"
+
+l
+
+[Religious Council, High Chamber]
+A large chamber opens up from the archway, expansive in height and width. Banners hang from every wall depicting religious scenes and the symbols of the Gods. Three white-wash pillars are set into the walls on either side of the room, signifying the six religions that uphold the council. A raise platform in the center of the room houses a tall round table with six chairs. Other wooden chairs have been placed around the dais, facing the high table of the religious council.
+
+The area is illuminated.
+
+In this room you see: Karrl the Galirrim,  Lilia the Fae (sitting down),  Seren the Human (sitting down),  Desmond the Silvarin (sitting down),  Maria the Silvarin (sitting down)
+Obvious exits are: archway
+
+Karrl says, "square full of Karishta when attacks happen, they seem to help fight it..."
+
+nod to ka
+You nod to Karrl.
+
+Seren says to Karrl, "I was there as well"
+
+Lilia nods.
+
+ ** Primum Hherotes just left the world.
+
+Lilia says, "Seren and a few others came to defend my Lord's temple when it was invaded"
+
+Seren glances at Lilia and smiles.
+
+Karrl asks, "no Joharans in square, must have been temple meeting then, yeah?"
+
+Karrl shrugs.
+
+Maria raises an eyebrow.
+
+Desmond asks Karrl, "How often are there Joharans in the square?"
+
+ ** Darkness Moonsorrow just left the world.
+
+Desmond says to Karrl, "You have childish logic"
+
+grunt
+You grunt.
+
+Maria says, "quite a bit"
+
+Karrl snorts.
+
+nod to ma
+You nod to Maria.
+
+Maria says, "I pass many often in the square"
+
+Seren nods and says, "I as well".
+
+Desmond says, "Likely on their way to the tavern then"
+
+Karrl says, "yeah"
+
+Seren chuckles.
+
+Desmond says, "The tavern was attacked as well, I might add"
+
+Karrl asks, "Karisthan goblins?"
+
+Seren seems annoyed.
+
+ ** Saphina Wispercian just arrived in the world
+
+'s, We shall hope for better progress on this matter at the next meeting, as the Eyranas temple seemed to be a target of the fire attacks
+You say to Seren, "We shall hope for better progress on this matter at the next meeting, as the Eyranas temple seemed to be a target of the fire attacks"
+
+rai at s hoefully
+You raise an eyebrow at Seren hoefully.
+
+Seren nods.
+
+rai at s hopefully
+You raise an eyebrow at Seren hopefully.
+
+ ** Breyer Calexis just left the world.
+
+cou
+You cough.
+
+nod softly
+You nod softly.
+
+'l, How is  your Temple doing?..Settling in well?
+You ask Lilia, "How is your Temple doing?..Settling in well?"
+
+Desmond raises an eyebrow at you.
+
+list o l
+You listen intently o l.
+
+list to li
+You listen intently to Lilia.
+
+Lilia nods.
+
+Seren glances at you then looks over at Lilia.
+
+l
+
+[Religious Council, High Chamber]
+A large chamber opens up from the archway, expansive in height and width. Banners hang from every wall depicting religious scenes and the symbols of the Gods. Three white-wash pillars are set into the walls on either side of the room, signifying the six religions that uphold the council. A raise platform in the center of the room houses a tall round table with six chairs. Other wooden chairs have been placed around the dais, facing the high table of the religious council.
+
+The area is illuminated.
+
+In this room you see: Karrl the Galirrim,  Lilia the Fae (sitting down),  Seren the Human (sitting down),  Desmond the Silvarin (sitting down),  Maria the Silvarin (sitting down)
+Obvious exits are: archway
+
+Lilia says, "With the stock fully finished within the Peacock inn and the stage in the Theatre of Marr nearly finished, we are doing quite well ourselves"
+
+nod to l
+You nod to Lilia.
+
+Lilia says, "other than the attack that fell within the temple"
+
+nod thoughtfully
+You nod thoughtfully.
+
+'m, Was your temple attacked also?
+You ask Maria, "Was your temple attacked also?"
+
+rai at m
+You raise an eyebrow at Maria.
+
+Seren says to Kurapiira, "We checked all the other temples after Lilia's was attacked"
+
+nod to se
+You nod to Seren.
+
+list
+You listen intently.
+
+Lilia says, "I made a quick sweep through all the temples, I believe, before I had felt the danger lurking within my Lords"
+
+Lilia nods.
+
+nod
+You nod.
+
+Seren says, "It seems the Cassien temple was the only one targeted in the city"
+
+' Interesting
+You say, "Interesting"
+
+Lilia says, "Obviously trying to rob our riches"
+
+chu to li
+You chuckle to Lilia.
+
+l
+
+[Religious Council, High Chamber]
+A large chamber opens up from the archway, expansive in height and width. Banners hang from every wall depicting religious scenes and the symbols of the Gods. Three white-wash pillars are set into the walls on either side of the room, signifying the six religions that uphold the council. A raise platform in the center of the room houses a tall round table with six chairs. Other wooden chairs have been placed around the dais, facing the high table of the religious council.
+
+The area is illuminated.
+
+In this room you see: Karrl the Galirrim,  Lilia the Fae (sitting down),  Seren the Human (sitting down),  Desmond the Silvarin (sitting down),  Maria the Silvarin (sitting down)
+Obvious exits are: archway
+
+' Any other thoughts or comcerns before the meeting tommorow?
+You ask, "Any other thoughts or comcerns before the meeting tommorow?"
+
+' we each have a seat and half vote at that meeting
+You say, "we each have a seat and half vote at that meeting"
+
+nod softly
+You nod softly.
+
+Desmond says, "We must decide on matters that fall solely to this council"
+
+gla at d
+You glance at Desmond.
+
+nod
+You nod.
+
+ ** Lawson Jones just arrived in the world
+
+'d, Are there any mtions that might be made tommorrow that will affect the Temples i wonder..?
+You ask Desmond, "Are there any mtions that might be made tommorrow that will affect the Temples i wonder..?"
+
+pon
+You ponder a moment.
+
+Desmond says, "for example, if we are to punish a member of our temples, it is the position of this council to assign it appropriately"
+
+gla at d
+You glance at Desmond.
+
+' Each temple will conduct it's own internal affairs?..as i believe you have already done?
+You ask, "Each temple will conduct it's own internal affairs?..as i believe you have already done?"
+
+smir
+You smirk.
+
+Desmond says, "Yet there are six members and this could result in a tie"
+
+Desmond says to Kurapiira, "No crime was committed in that affair"
+
+' I see
+You say, "I see"
+
+gla
+You glance.
+
+Desmond says to Kurapiira, "Was it appropriate? Not at all but there was no punishable offense"
+
+Desmond says, "and has been dealt with in that regard"
+
+nod thoughtfully
+You nod thoughtfully.
+
+Desmond says, "the religious council can make a case to turn matters over from the Court of Peers"
+
+nod to des
+You nod to Desmond.
+
+Lilia asks, "I hope you will forgive me as this is my first meeting and I am still learning what all is required of me. If punishments are decided by this council, how does it fair with other situations, such as if a person is wishing to give up their ties to their temple for another?"
+
+rai at l
+You raise an eyebrow at Lilia.
+
+Desmond says, "I would suggest that as a tie breaker, so to speak, that the vote of the temple follower no be included in the case of a tie"
+
+Desmond says to Lilia, "That would be between that person and their god"
+
+Lilia nods.
+
+Lilia says, "I thought as much, but I wished to address it"
+
+Desmond says, "They will need others to vouch for them"
+
+Desmond says, "but that is an individual temple matter and not a concern of this council"
+
+Lilia nods.
+
+Lilia says, "thank you"
+
+gla at d
+You glance at Desmond.
+
+'d, will the Travers Scourge appeal for a Court of Peers if they are captured?
+You ask Desmond, "will the Travers Scourge appeal for a Court of Peers if they are captured?"
+
+' Since the attacks are on temples
+You say, "Since the attacks are on temples"
+
+gla
+You glance.
+
+Desmond says, "They can request for such"
+
+' It is within our interest to pursue them
+You say, "It is within our interest to pursue them"
+
+nod
+You nod.
+
+Seren asks Kurapiira, "Have new charges been brought against them?"
+
+Desmond says, "If they do not, we can request for it"
+
+'s, I think the investigation continues
+You say to Seren, "I think the investigation continues"
+
+ ** Primum Hherotes just arrived in the world
+
+roll to s
+You roll your eyes to Seren.
+
+Maria says, "yes, nothing can be done until an arrest is made"
+
+nod to d
+You nod to Desmond.
+
+nod to ma
+You nod to Maria.
+
+Maria says, "and one of the gang, I am told, is godless"
+
+scof
+You scoff.
+
+ ** Zelvan Toryn just left the world.
+
+l
+
+[Religious Council, High Chamber]
+A large chamber opens up from the archway, expansive in height and width. Banners hang from every wall depicting religious scenes and the symbols of the Gods. Three white-wash pillars are set into the walls on either side of the room, signifying the six religions that uphold the council. A raise platform in the center of the room houses a tall round table with six chairs. Other wooden chairs have been placed around the dais, facing the high table of the religious council.
+
+The area is illuminated.
+
+In this room you see: Karrl the Galirrim,  Lilia the Fae (sitting down),  Seren the Human (sitting down),  Desmond the Silvarin (sitting down),  Maria the Silvarin (sitting down)
+Obvious exits are: archway
+
+ ** Driag Terrale just left the world.
+
+emo ponder thoughtfully
+You ponder thoughtfully.
+
+Seren says, "I'm sure they will be part of tomorrows meeting"
+
+nod to se
+You nod to Seren.
+
+Desmond asks, "Then are we in agreement of my proposal for a tie-breaker?"
+
+Seren glances at Desmond.
+
+'d, how did that go again?
+You ask Desmond, "how did that go again?"
+
+Desmond says, "I am open to other suggestions"
+
+list
+You listen intently.
+
+ ** Kemuel Bartimeus just arrived in the world
+
+Seren says, "I dislike the idea of leaving a temple memember in anothers hands"
+
+Desmond says to Seren, "It will be that way regardless"
+
+Desmond says to Seren, "It is the responsibility of this council"
+
+Seren glances around the room slowly and says, "But I have little fear that this group would make any foolish decisions".
+
+nod to se
+You nod to Seren.
+
+Maria smiles.
+
+Seren nods to Desmond and says, "I will agree with your suggestion".
+
+'d, can you state it again please?
+You ask Desmond, "can you state it again please?"
+
+Desmond says, "It would be unwise for this council to propose harsh penalties lest it should happen to one of their own members"
+
+sp f
+You are now speaking Feyrie.
+
+'l, did you understand what he was proposing?
+You ask Lilia in Feyrie, "did you understand what he was proposing?"
+
+rai to l
+You raise an eyebrow to Lilia.
+
+Lilia says in Feyrie, "I understood he wanted us to vote on it, but not what would happen if there was a tie"
+
+' me either
+You say in Feyrie, "me either"
+
+nod
+You nod.
+
+Desmond says, "should it fall upon us to set judgement, in the case of a tie vote, the temple of the one to be judged will forfeit their vote"
+
+Lilia says, "ah"
+
+sp c
+You are now speaking Common.
+
+nod
+You nod.
+
+ ** Veronikita Trudeque just left the world unexpectedly.
+
+' Seconded
+You say, "Seconded"
+
+gla at s
+You glance at Seren.
+
+' or thirded
+You say, "or thirded"
+
+chu
+You chuckle.
+
+Desmond says, "this can be changed in the future if a better alternative is presented"
+
+ ** Veronikita Trudeque just arrived in the world
+
+nod softly
+You nod softly.
+
+Seren nods and says, "of course".
+
+Lilia nods.
+
+wh to ka are you okay ?, being within these walls for so long?..I miss the scent of trees in the city..
+You whisper "are you okay ?, being within these walls for so long?..I miss the scent of trees in the city.." to Karrl.
+
+Karrl whispers to you, "must go soon"
+
+nod to ka
+You nod to Karrl.
+
+lean ka
+You lean on Karrl.
+
+Karrl grins at you.
+
+smi at ka gently, winking..
+You smile at Karrl gently, winking..
+
+Desmond says, "in all other matters, if put to a vote, I would suggest that there must be a majority for it to be ruled in favor"
+
+nod in agreement
+You nod in agreement.
+
+Seren nods.
+
+Desmond says, "and each temple will be given three days to respond with their vote"
+
+Desmond says, "whether present or absent from the meeting"
+
+'d, a week perhaps?
+You ask Desmond, "a week perhaps?"
+
+ ** Harru Shadowstalker just left the world.
+
+' Some may need longer
+You say, "Some may need longer"
+
+Desmond says to Kurapiira, "a week is a long time for some things"
+
+'d, we need to seek out faithful's thoughts
+You say to Desmond, "we need to seek out faithful's thoughts"
+
+nod softly
+You nod softly.
+
+Desmond says, "Then perhaps the length of time will be determined on an individual basis"
+
+Maria asks, "perhaps it can be determined on a case by case basis?"
+
+Maria nods to Desmond.
+
+nod in agreement
+You nod in agreement.
+
+Karrl tilts back his head, letting loose a series of howls that echo in the distance.
+
+gla at ka
+You glance at Karrl.
+
+rai
+You raise an eyebrow.
+
+Maria says, "I am able to speak for my Temple, but I know others might not"
+
+Desmond says, "Is there anything else? I have brought up everything I wished to discuss."
+
+' As have I
+You say, "As have I"
+
+gla around
+You glance around.
+
+list
+You listen intently.
+
+l
+
+[Religious Council, High Chamber]
+A large chamber opens up from the archway, expansive in height and width. Banners hang from every wall depicting religious scenes and the symbols of the Gods. Three white-wash pillars are set into the walls on either side of the room, signifying the six religions that uphold the council. A raise platform in the center of the room houses a tall round table with six chairs. Other wooden chairs have been placed around the dais, facing the high table of the religious council.
+
+The area is illuminated.
+
+In this room you see: Karrl the Galirrim,  Lilia the Fae (sitting down),  Seren the Human (sitting down),  Desmond the Silvarin (sitting down),  Maria the Silvarin (sitting down)
+Obvious exits are: archway
+
+Seren shakes his head from side to side.
+
+nod to se
+You nod to Seren.
+
+list to l
+You listen intently to Lilia.
+
+Lilia shakes her head from side to side.
+
+Karrl tilts back his head, letting loose a series of howls that echo in the distance.
+
+list to ma
+You listen intently to Maria.
+
+Desmond says, "The one last thing..."
+
+Karrl shakes his head from side to side.
+
+nod
+You nod.
+
+list to d
+You listen intently to Desmond.
+
+Desmond says, "I will be motioning to the council that we be allowed a presence in all future council meetings where things related to our temples are discussed whether or not we are given a vote at that meeting"
+
+nod to d
+You nod to Desmond.
+
+Lilia nods.
+
+' We should support that, thogh i fear it will be in vain
+You say, "We should support that, thogh i fear it will be in vain"
+
+nod softly
+You nod softly.
+
+Seren nods.
+
+Desmond says, "Now..that is really all"
+
+nod 
+You nod.
+
+stand
+You stand up.
+
+Desmond stands up.
+
+Maria stands up.
+
+Seren stands up.
+
+Desmond says, "Thank you all for coming"
+
+' Thank you all for coming, See you all tommorrow?
+You ask, "Thank you all for coming, See you all tommorrow?"
+
+Holding out his arms, Karrl becomes as still as a tree. A small gust of wind blows some leaves around his feet.
+
+nod to d
+You nod to Desmond.
+
+Desmond says, "any of you may call a meeting at any time"
+
+Maria asks Seren, "you wished to talk?"
+
+wav to ka
+You wave to Karrl.
+
+Karrl waves to you.
+
+Seren nods to Maria.
+
+Maria follows Seren.
+
+Suddenly, foliage begins to grow around Karrl as it starts to glow an eerie blue. After a brief pause, Karrl suddenly disappears in a burst of leaves before they settle on the ground.
+
+Maria glances.
+
+Seren says to Lilia, "I hope to see you later"
+
+ ** Karrl Garlakk just left the world.
+
+Maria says, "and you Salevos"
+
+Lilia smiles.
+
+Seren glances at Maria quickly.
+
+l
+
+[Religious Council, High Chamber]
+A large chamber opens up from the archway, expansive in height and width. Banners hang from every wall depicting religious scenes and the symbols of the Gods. Three white-wash pillars are set into the walls on either side of the room, signifying the six religions that uphold the council. A raise platform in the center of the room houses a tall round table with six chairs. Other wooden chairs have been placed around the dais, facing the high table of the religious council.
+
+The area is illuminated.
+
+In this room you see: Lilia the Fae (sitting down),  Seren the Human,  Desmond the Silvarin,  Maria the Silvarin
+Obvious exits are: archway
+
+Desmond has invited you to follow them.
+
+Lilia stands up.
+
+rai
+You raise an eyebrow.
+
+Maria says to Seren, "he is always in my shadow it seems"
+
+foll d
+You follow Desmond.
+
+Seren mumbles.
+
+Desmond's group just went through the archway.
+
+You follow Desmond...
+
+
+[Religious Council, Interior Hall]
+A narrow hall spans the distance between the atrium and the council chamber through the arch to the north. Plain wooden doors, each one looking almost identical except for the etching of the coat-of-arms of each respective religion, flank the hallway. A steel chandelier hangs from the ceiling, housing the flickering flame of candles.
+
+The area is illuminated.
+
+In this room you see: Desmond the Silvarin
+Obvious exits are: south, closed Thaessian symbol-etched door, closed Joharan symbol-etched door, closed Aederite symbol-etched door, closed Cassite symbol-etched door, archway, closed Karishtan symbol-etched door, closed Eyranian symbol-etched door
+
+Desmond opens the closed Joharan symbol-etched door.
+
+Desmond's group just went through the open Joharan symbol-etched door.
+
+You follow Desmond...
+
+
+[Office of the Avatar]
+A very simple, neat, and clean desk housing only one small bound volume of known species and an inkwell sits at the side of the room. The rest of the room is spotlessly bare, save for a brocade tapestry mural depicting a city tangled in a spiderweb, its black widow mistress looming to the side of the cloth. A recently dusted bookshelf houses various novels and scholarly volumes.
+
+The area is illuminated.
+
+In this room you see: Desmond the Silvarin
+Obvious exits are: open Joharan symbol-etched door
+
+Desmond closes the open Joharan symbol-etched door.
+
+Desmond disbands his group.
+
+smi to d
+You smile to Desmond.
+
+Desmond says to Kurapiira, "Something you should be aware of"
+
+'d, may I sit?
+You ask Desmond, "may I sit?"
+
+smi softly
+You smile softly.
+
+Desmond says, "please"
+
+Desmond gestures.
+
+sit quietly
+ ** Primum Hherotes just left the world.
+
+You sit down quietly.
+
+list to d
+You listen intently to Desmond.
+
+Desmond sits down.
+
+Desmond says to Kurapiira, "In the past, lies have been tossed around in regards to certain members of my temple"
+
+nod to d
+ ** Lucifer Voractis just left the world unexpectedly.
+
+You nod to Desmond.
+
+ ** Lucifer Voractis just arrived in the world
+
+Desmond says, "As I stated in the meeting, no crime was committed"
+
+' Ah
+You say, "Ah"
+
+nod thoughtfully
+You nod thoughtfully.
+
+Desmond says, "Attending other temple's meetings is not a crime"
+
+nod to d
+You nod to Desmond.
+
+' It seems it is a practice
+You say, "It seems it is a practice"
+
+chu to k
+You chuckle to yourself.
+
+Desmond says, "Though it may not be welcomed by the other temples, I see nothing wrong with it"
+
+nod thoughtfully
+You nod thoughtfully.
+
+Desmond says to Kurapiira, "The other matter is that of the whisperings"
+
+rai at d
+You raise an eyebrow at Desmond.
+
+Desmond says, "The intent of them bears no significance since it is now in the past"
+
+nod to d
+You nod to Desmond.
+
+Desmond says, "but I should warn you that I believe that the truth was spoken to the other Preserver"
+
+furr
+You furrow your brow.
+
+' how so?
+You ask, "how so?"
+
+' karishta?
+You ask, "karishta?"
+
+ ** Lucifer Voractis just left the world unexpectedly.
+
+Desmond raises an eyebrow.
+
+Desmond says, "Karrl..."
+
+' the truth about waht?
+You ask, "the truth about waht?"
+
+Desmond sighs.
+
+' The orbs being Karishtan?
+You ask, "The orbs being Karishtan?"
+
+Desmond asks Kurapiira, "Are you not in the loop?"
+
+nod no to d
+You shake your head from side to side to Desmond.
+
+Desmond says to Kurapiira, "this has nothing to do with that"
+
+list
+You listen intently.
+
+Desmond says, "this is in regards to the investigation that was conducted by my temple"
+
+' ah
+You say, "ah"
+
+nod to d
+You nod to Desmond.
+
+ ** Primum Hherotes just arrived in the world
+
+Desmond says, "Furthermore, when things started to turn on that person..."
+
+rai
+You raise an eyebrow.
+
+list
+You listen intently.
+
+Desmond says, "I was praying in my temple and noticed a note was dropped into our donation box"
+
+Desmond says, "I have held onto this for quite some time"
+
+Desmond removes his thin sheet of sheepskin parchment from his open large canvas haversack.
+
+Desmond removes his thin sheet of sheepskin parchment from his open large canvas haversack.
+
+nod thoughtfully
+You nod thoughtfully.
+
+Desmond offers you a thin sheet of sheepskin parchment.
+
+acc
+You accept Desmond's offer.
+
+read shee
+The writing on the thin sheet of sheepskin parchment appears to be in a language you can't understand.
+
+' what language is it in?
+You ask, "what language is it in?"
+
+l at shee 
+It looks like a thin sheet of sheepskin parchment.
+It looks like it has something written on it.
+The thin sheet of sheepskin parchment appears to be in perfect condition.
+
+off shee to d
+You offer the thin sheet of sheepskin parchment to Desmond.
+
+Desmond says, "Dakoetish"
+
+nod
+You nod.
+
+Desmond says, "my apologies"
+
+Desmond glances at his thin sheet of sheepskin parchment.
+
+' a strong hand
+You say, "a strong hand"
+
+nod
+You nod.
+
+Desmond accepts your offer.
+
+Desmond says, "it is a poem"
+
+rai
+You raise an eyebrow.
+
+Desmond says, "Beware of the ones who follow the Two."
+
+furr
+You furrow your brow.
+
+Desmond says, "For they look to point the finger at you."
+
+Desmond says, "Deep in the forest they give you the blame,"
+
+Desmond says, "They curse and spit as they mention your name."
+
+rai
+You raise an eyebrow.
+
+Desmond says, "signed by.. -A Friend."
+
+set mood ?
+The following is a list of moods you can select from:
+absent-minded, affectionate, aloof, amazed, ambivalent, amused, angry, annoyed, apathetic, apprehensive, awestruck, bashful, bemused, benevolent, black, blissful, blue, bored, calculating, calm, cautious, chagrined, chaotic, chivalrous, closed, cold, condescending, confident, confused, content, covert, creative, curious, cynical, dark, defeated, depressed, despairing, desperate, determined, distant, dominating, dreamy, driven, ecstatic, edgy, flaming-mad, flirtatious, frantic, friendly, frightened, frustrated, furious, giving, governing, grim, grumpy, happy, hesitant, hopeful, hopeless, impatient, interested, jocular, joking, joyful, lazy, leery, lethargic, loving, malevolent, malicious, manic, masked, mirthful, mischievous, nauseous, negative, nervous, neutral, nonchalant, objective, open, orderly, panicky, partying, passionate, patient, pensive, petrified, petulant, placid, playful, positive, preoccupied, productive, prophetic, puzzled, queasy, quizzical, raving-mad, reserved, sad, scared, scatter-brained, secretive, seductive, self-loathing, sensual, shocked, shy, silly, sleepy, snippy, snotty, spurned, stressed-out, submissive, sullen, tentative, thoughtful, tired, troubled, upset, vengeful, wary, weary, whiny, willy-nilly, worried, wrathful
+
+set mood curious
+Your mood is now curious.
+
+Desmond nods.
+
+' Very strange
+You say, "Very strange"
+
+Desmond says to Kurapiira, "Further..."
+
+Desmond puts his thin sheet of sheepskin parchment in his open large canvas haversack.
+
+Desmond says, "I found this one in your temple's donation box shortly after"
+
+rai
+You raise an eyebrow.
+
+gla at d
+Desmond says, "This one is in common"
+
+You glance at Desmond.
+
+Desmond offers you a thin sheet of sheepskin parchment.
+
+acc
+You accept Desmond's offer.
+
+read shee
+Written on the thin sheet of sheepskin parchment in Common is the following:
+
+    
+    Beware the black widow spider, 
+    Its web always grows tighter, 
+    Deep in the shadowy dark, 
+    Now you and yours become the mark. 
+    -A Friend. 
+    
+
+chu
+You chuckle.
+
+' the same hand?
+You ask, "the same hand?"
+
+off shee to d
+You offer the thin sheet of sheepskin parchment to Desmond.
+
+Desmond says, "It would appear"
+
+Desmond accepts your offer.
+
+nod thoughtfully
+You nod thoughtfully.
+
+The closed Joharan symbol-etched door just opened.
+
+gla
+You glance.
+
+l through d 
+You look through the open Joharan symbol-etched door...
+
+
+[Religious Council, Interior Hall]
+A narrow hall spans the distance between the atrium and the council chamber through the arch to the north. Plain wooden doors, each one looking almost identical except for the etching of the coat-of-arms of each respective religion, flank the hallway. A steel chandelier hangs from the ceiling, housing the flickering flame of candles.
+
+The area is illuminated.
+
+Obvious exits are: south, closed Thaessian symbol-etched door, open Joharan symbol-etched door, closed Aederite symbol-etched door, closed Cassite symbol-etched door, archway, closed Karishtan symbol-etched door, closed Eyranian symbol-etched door
+
+Desmond searches the room carefully.
+
+Salevos steps out from the shadows.
+
+Salevos says, "Apologies."
+
+l
+
+[Office of the Avatar]
+A very simple, neat, and clean desk housing only one small bound volume of known species and an inkwell sits at the side of the room. The rest of the room is spotlessly bare, save for a brocade tapestry mural depicting a city tangled in a spiderweb, its black widow mistress looming to the side of the cloth. A recently dusted bookshelf houses various novels and scholarly volumes.
+
+The area is illuminated.
+
+In this room you see: Desmond the Silvarin (sitting down),  Salevos the Aka'thri
+Obvious exits are: open Joharan symbol-etched door
+
+Salevos just went through the open Joharan symbol-etched door.
+
+The open Joharan symbol-etched door just closed.
+
+nod
+You nod.
+
+Desmond nods.
+
+l
+
+[Office of the Avatar]
+A very simple, neat, and clean desk housing only one small bound volume of known species and an inkwell sits at the side of the room. The rest of the room is spotlessly bare, save for a brocade tapestry mural depicting a city tangled in a spiderweb, its black widow mistress looming to the side of the cloth. A recently dusted bookshelf houses various novels and scholarly volumes.
+
+The area is illuminated.
+
+In this room you see: Desmond the Silvarin (sitting down)
+Obvious exits are: closed Joharan symbol-etched door
+
+Desmond says to Kurapiira, "As I was saying, truth was spoken in whispers but someone else was making an attempt to cause tensions between our temples"
+
+nod to d
+You nod to Desmond.
+
+'Not hard to do, on the worst of days
+You say, "Not hard to do, on the worst of days"
+
+chu softly
+You chuckle softly.
+
+Desmond nods.
+
+Desmond says to Kurapiira, "That was all."
+
+nod to d
+You nod to Desmond.
+
+Desmond puts his thin sheet of sheepskin parchment in his open large canvas haversack.
+
+'d, Thank you for the warning, it seems we should be more alert
+You say to Desmond, "Thank you for the warning, it seems we should be more alert"
+
+nod to ku
+You nod to yourself.
+
+stand
+You stand up.
+
+Desmond says, "I apologize for entering your temple unannounce"
+
+bow to d
+You bow to Desmond.
+
+' It matters not, we have many visitors
+You say, "It matters not, we have many visitors"
+
+chu
+You chuckle.
+
+' beware the wrath of the wolves tho
+You say, "beware the wrath of the wolves tho"
+
+Desmond says, "though I thought it would be more detrimental that it were found and perhaps acted upon"
+
+nod to d
+You nod to Desmond.
+
+Desmond says to Kurapiira, "Yes, I got the memo"
+
+Desmond removes his thin sheet of sheepskin parchment from his open large canvas haversack.
+
+chu
+Desmond taps his thin sheet of sheepskin parchment.
+
+You chuckle.
+
+Desmond puts his thin sheet of sheepskin parchment in his open large canvas haversack.
+
+l
+
+[Office of the Avatar]
+A very simple, neat, and clean desk housing only one small bound volume of known species and an inkwell sits at the side of the room. The rest of the room is spotlessly bare, save for a brocade tapestry mural depicting a city tangled in a spiderweb, its black widow mistress looming to the side of the cloth. A recently dusted bookshelf houses various novels and scholarly volumes.
+
+The area is illuminated.
+
+In this room you see: Desmond the Silvarin (sitting down)
+Obvious exits are: closed Joharan symbol-etched door
+
+Desmond stands up.
+
+Desmond says to Kurapiira, "Thank you for your time"
+
+Desmond opens the closed Joharan symbol-etched door.
+
+' I'll see you tommorow at the meeting then?
+You ask, "I'll see you tommorow at the meeting then?"
+
+bow to d
+Desmond nods to you.
+
+You bow to Desmond.
+
+nod
+You nod.
+
+wav
+You wave.
+
+go door
+
+[Religious Council, Interior Hall]
+A narrow hall spans the distance between the atrium and the council chamber through the arch to the north. Plain wooden doors, each one looking almost identical except for the etching of the coat-of-arms of each respective religion, flank the hallway. A steel chandelier hangs from the ceiling, housing the flickering flame of candles.
+
+The area is illuminated.
+
+Obvious exits are: south, open Thaessian symbol-etched door, open Joharan symbol-etched door, closed Aederite symbol-etched door, closed Cassite symbol-etched door, archway, closed Karishtan symbol-etched door, closed Eyranian symbol-etched door
+
+s
+
+[Religious Council, Atrium]
+The entrance room of the wooden building is high-domed in its ceiling, painted with a mural of the heavens. Unadorned wooden walls lead north through a hall, into the interior of the council. Two simple glass-pane windows give view of the walkway and courtyard outside. A long dark brown runner leads from the doorway to the north, covering the hard pine floor.
+
+The area is illuminated.
+
+Obvious exits are: north, open simple wooden door
+
+s
+I don't see what exit you're referring to.
+
+s
+I don't see what exit you're referring to.
+
+go door
+
+[Religious Council, Walkway]
+Three shallow steps of shale lead up to the large building of the religious council. Two topiaries flank the steps, shaped like persons in prayer with their hands raised to the sky. A thick brass doorknocker, etched with the symbols of each God and Goddess, takes up the center of the simple wooden door. Two small pathways lead east and west through the courtyard lawn.
+
+The area is illuminated.
+
+Obvious exits are: west, south, east, open simple wooden door
+
+ ** Breyer Calexis just arrived in the world
+
+s
+
+[Religious Council, Walkway]
+The shale stone underfoot that makes the pathway is dull, yet clean. The trappings of the landscaped courtyard are simple, yet elegant with well-placed flowers and shrubbery to add splashes of color to the dark green flora. A massive white pillar, holding the statue of Aederon, takes up a good deal of ground on the west side of the walkway.
+
+The area is illuminated.
+
+Obvious exits are: south, north
+
+s
+
+[Religious Council, Walkway]
+The polished silver gate on gold hinges opens into a neatly landscaped courtyard. Low rectangular hedges line the walkway and lead towards the tall wooden building of the religious council in the north. Robed passersby, clutching religious texts and symbols, hurry by with the swiftness and devotion of students of faith.
+
+The area is illuminated.
+
+Obvious exits are: north, closed polished silver gate
+
+s
+I don't see what exit you're referring to.
+
+go gate
+op gate
+go gate
+You cannot walk through the closed polished silver gate!
+
+You open the closed polished silver gate.
+
+
+[Pantheon Row]
+The walls of the city are visible to the east, some movement, most likely by the city guards who stand watch atop the walls can barely be made out. A tall wooden building etched with godly symbols, animals and a myriad of colors stands behind a ten foot tall iron gate which lines the northern side of the road and merges with a silver gate on gold hinges. Mounted on the gate is a small placard that reads "Religious Council".
+
+The area is illuminated.
+
+In this room you see: 1st urdaian city guard
+Obvious exits are: west, east, open polished silver gate
+
+ ** Rukshana Qari just left the world.
+
+w
+ ** Breyer Calexis just left the world.
+
+w
+
+[Pantheon Row]
+Trees of all shapes and sizes line the road on both sides, their roots at time protruding from the soft ground. A small but functional bench sits centered in a beautiful flower garden on the southern side, while a beautifully ornate birdbath filled with clear water sits to the north.
+
+The area is illuminated.
+
+Obvious exits are: west, east
+
+w
+
+[Pantheon Row]
+A large amethyst colored building with a tall steeple stands on the northern side of the road sporting a pulsating purple hue. Two glowing orbs hover aside an opalescent blue door. Immediately south a shiny and highly reflective glass building glimmers in all its splendor confidently. Upon closer inspection the outline of a glass mirror can be seen camouflaged with the rest of the building, which appears to allow entrance.
+
+The area is illuminated.
+
+Obvious exits are: west, east, closed blue door, closed mirrored door
+
+w
+
+[Pantheon Row]
+To the east the temple of Johara glistens tenderly, its strong silver exterior walls reaching out tempting closer inspection by passers by. Centered under an intricately etched silver awning, a shimmering brass door provides passage.
+
+The area is illuminated.
+
+In this room you see: 1st urdaian junior guard
+Obvious exits are: west, east, open brass door
+
+w
+
+[Pantheon Row]
+Standing tall on both sides of the neatly kept road are two large temples. To the south, constructed in cream colored alabaster, trimmed in gold, and accented with a flawless goldstone door is the temple of Thaessilgan. To the north, an ivory building which is trimmed with vermilion etchings, offset by a gleaming white arch, is the temple of Aederon.
+
+The area is illuminated.
+
+Obvious exits are: west, east, open flawless goldstone door, gleaming white arch
+
+
+[Pantheon Row]
+Religious patrons of all races pass up and down the road to their prospective temples. Pantheon leaders gather about to discuss the latest teachings of their faiths in friendly debate. Neatly trimmed bushes some blooming some dormant extend outward east and west. A large board has been staked into the ground on a thick oak pole. It houses the many letters and correspondences of the members of each faith in carefully partitioned areas.
+
+The area is illuminated.
+
+In this room are: large gold-leafed gilt edge ledger board
+Obvious exits are: west, east
+
+set vis 1
+invo 30
+You focus your mind inward, bringing back the memory of a foreign place.
+
+You kneel on the ground with your head bowed downwards and your arms raised slightly.
+h
+Invoking this spell cost you 12 mana and 20 faith.
+[15 sec. delay]
+
+HP:  142/142  Ftg:  51/51  MP:  67/79
+
+
+ ** Lizzie Zchultz just arrived in the world
+
+trans in 10
+gla
+You glance.
+
+chu
+You chuckle.
+
+trans in 5
+caress arrow
+gest mysteriously...
+You caress your glittering spirit-touched arrowhead on a chain.
+
+You gesture mysteriously...
+
+You suddenly disappear in a flash of light, leaving just a faint symbol of a white wolf behind.
+
+
+[Sanctuary of Eyridane and Morana]
+The small path ends as the trees part, revealing a small clearing. Sunlight filters down from above, splashing the vibrant green grass and wildflowers. The noise of the central part of the grove all but fades away in this quiet sanctuary. An altar of stone rests in the center of the small clearing of verdant grass. Tangled vines have grown wild across the hard stone and though no markings can be seen, it is obvious that this is a place sacred to the twin goddesses of nature. Overhead the soft warbling of songbirds blends with the chirping crickets below into a sublime symphony of sounds. Small trinkets of adoration and worship have been left at the base of the altar, each one a symbol of devotion to their beloved gods.
+
+The area is illuminated.
+
+In this room you see: Bjeorn the Galirrim, 1st estate knight
+In this room are: simple stone altar
+Obvious exits are: west, an arch of twisting branches
+
+win in pain...
+You appear in a bright flash of light, momentarily silhouetted by a white wolf.
+
+You wince in pain...
+
+smi to b
+You smile to Bjeorn.
+
+hu b
+ ** Arik Agni just left the world.
+
+You hug Bjeorn.
+
+Bjeorn howls to you.
+
+' Merry meet
+You say, "Merry meet"
+
+' It is Finally over
+You say, "It is Finally over"
+
+flai
+You flail your arms.
+
+Bjeorn says, "hello little pretty"
+
+chu to b
+You chuckle to Bjeorn.
+
+The estate knight makes a few practice swings with his pike, before resting the butt on the ground, and leaning on the sturdy weapon.
+
+The 1st estate knight just wandered west.
+
+Bjeorn asks, "how was the council then?"
+
+' well enough
+You say, "well enough"
+
+gla west
+You glance west.
+
+Bjeorn asks, "any trouble from the avatar?"
+
+nod no
+You shake your head from side to side.
+
+Bjeorn nods.
+
+ ** Lucifer Voractis just arrived in the world
+
+' He was on his best behaviour
+You say, "He was on his best behaviour"
+
+chu
+You chuckle.
+
+ ** Versius Ultum just left the world.
+
+ ** Versius Ultum just arrived in the world [NEW PLAYER]
+
+Bjeorn says, "good, he is mine to deal with anyway"
+
+Bjeorn chortles.
+
+ ** Veronikita Trudeque just left the world.
+
+ ** Veronikita Trudeque just arrived in the world
+
+' we were thinking of getting the tax and guards removed from hero's Rest
+You say, "we were thinking of getting the tax and guards removed from hero's Rest"
+
+Bjeorn nods.
+
+rai at b
+You raise an eyebrow at Bjeorn.
+
+Bjeorn says, "good idea"
+
+' A Temple matter for next week perhaps?
+You ask, "A Temple matter for next week perhaps?"
+
+grin
+You grin.
+
+Bjeorn says, "surely"
+
+beam
+You beam.
+
+l in sat
+Inside the open plain scuffed black courier's satchel you see: silk carrying case, simple tin lockpick, open torn cloth sack
+
+get sac from sat
+You remove the open torn cloth sack from your open plain scuffed black courier's satchel.
+
+l in sac
+Inside the open torn cloth sack you see: some gently glowing soothe crystals, some gently glowing soothe crystals, some gently glowing soothe crystals, some gently glowing soothe crystals
+
+ ** Veronikita Trudeque just left the world.
+
+off sac to b
+You offer the open torn cloth sack to Bjeorn.
+
+' can you use these at all?
+You ask, "can you use these at all?"
+
+Bjeorn asks, "I was just resting here before...what's this?"
+
+Bjeorn accepts your offer.
+
+grin
+You grin.
+
+Bjeorn asks, "are they magic?"
+
+Bjeorn blinks.
+
+' I was getting ready for class, and got those
+You say, "I was getting ready for class, and got those"
+
+' you eat them for health
+You say, "you eat them for health"
+
+Bjeorn exclaims, "excellent!"
+
+' very nice ones
+You say, "very nice ones"
+
+grin
+You grin.
+
+Bjeorn beams toothily.
+
+' golems in the burial mounds have em
+You say, "golems in the burial mounds have em"
+
+wink
+You wink.
+
+Bjeorn says, "burial mounds..."
+
+nod
+You nod.
+
+Bjeorn asks, "on the way to the heros rest?"
+
+' have you been there
+You say, "have you been there"
+
+nod yes to b
+You nod your head up and down to Bjeorn.
+
+Bjeorn says, "through the tarnished gate? yes I have"
+
+grin
+You grin.
+
+who
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+    Currently Connected
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+  Aegys Redbow
+  Bjeorn Bayouwolf
+  Ches Saras
+  Derigaaz Abraxis
+  Desmond Delavan
+  Elethene Coelm
+  Kassi Boyd
+  Kemuel Bartimeus
+  Kurapiira Mako
+  Kynea Blackarrow
+  Lawson Jones
+  Lilia Lacey
+  Lizzie Zchultz
+  Lucifer Voractis
+  Maria Saldis
+  Owen Davintar
+  Primum Hherotes
+  Salevos Fereni
+  Saphina Wispercian
+  Seren Prilos
+  Versius Ultum
+  Vynter Wintz
+  Wayvan Argent
+  Wollmaus Eisenhart
+
+    [24 total]
+
+Bjeorn says, "I just got done on a long scouting trip"
+
+rai hopefully
+You raise an eyebrow hopefully.
+
+Bjeorn shakes his head from side to side.
+
+set mood ex
+Unknown mood 'ex'.
+
+Bjeorn sighs deeply.
+
+snap
+You snap your fingers.
+
+sigh too
+You sigh too.
+
+Bjeorn says, "only finding dead ends"
+
+nod to b
+You nod to Bjeorn.
+
+' soon
+You say, "soon"
+
+pac
+You pace back and forth.
+
+l
+
+[Sanctuary of Eyridane and Morana]
+The small path ends as the trees part, revealing a small clearing. Sunlight filters down from above, splashing the vibrant green grass and wildflowers. The noise of the central part of the grove all but fades away in this quiet sanctuary. An altar of stone rests in the center of the small clearing of verdant grass. Tangled vines have grown wild across the hard stone and though no markings can be seen, it is obvious that this is a place sacred to the twin goddesses of nature. Overhead the soft warbling of songbirds blends with the chirping crickets below into a sublime symphony of sounds. Small trinkets of adoration and worship have been left at the base of the altar, each one a symbol of devotion to their beloved gods.
+
+The area is illuminated.
+
+In this room you see: Bjeorn the Galirrim
+In this room are: simple stone altar
+Obvious exits are: west, an arch of twisting branches
+
+Bjeorn says, "I worry..."
+
+nod to b
+You nod to Bjeorn.
+
+' Any word from the Lost ones?
+You ask, "Any word from the Lost ones?"
+
+Bjeorn says, "about the pack and our survival, future"
+
+nod to b
+You nod to Bjeorn.
+
+Bjeorn shakes his head from side to side.
+
+shiv
+You shiver.
+
+Bjeorn says, "Raa is dead"
+
+rai at b
+You raise an eyebrow at Bjeorn.
+
+stare
+You stare.
+
+' You have seen?
+You ask, "You have seen?"
+
+stare
+You stare.
+
+Bjeorn says, "she would answer me if she were alive"
+
+Bjeorn shakes his head from side to side.
+
+furr
+You furrow your brow.
+
+' then there is still hope
+You say, "then there is still hope"
+
+set mood wor
+Your mood is now worried.
+
+Bjeorn says, "many are gone and even Karrl and Harru are troubled I can tell"
+
+nod to b
+You nod to Bjeorn.
+
+'b, do we need more pack hunts?
+You ask Bjeorn, "do we need more pack hunts?"
+
+furr
+You furrow your brow.
+
+Bjeorn says to Kurapiira, "we have almost never hunted as a pack"
+
+nod
+You nod.
+
+Bjeorn says, "once or twice maybe"
+
+' Perhaps that is the problem
+You say, "Perhaps that is the problem"
+
+rai at b
+You raise an eyebrow at Bjeorn.
+
+' the bonds of the pack are weak
+You say, "the bonds of the pack are weak"
+
+nod softly
+You nod softly.
+
+who
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+    Currently Connected
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+  Aegys Redbow
+  Bjeorn Bayouwolf
+  Ches Saras
+  Derigaaz Abraxis
+  Desmond Delavan
+  Elethene Coelm
+  Kassi Boyd
+  Kemuel Bartimeus
+  Kurapiira Mako
+  Kynea Blackarrow
+  Lawson Jones
+  Lilia Lacey
+  Lizzie Zchultz
+  Lucifer Voractis
+  Maria Saldis
+  Owen Davintar
+  Primum Hherotes
+  Salevos Fereni
+  Saphina Wispercian
+  Seren Prilos
+  Versius Ultum
+  Vynter Wintz
+  Wayvan Argent
+  Wollmaus Eisenhart
+
+    [24 total]
+
+Bjeorn says, "maybe part of it, but I am not sure"
+
+nod softly
+You nod softly.
+
+Bjeorn says to Kurapiira, "Im not as smart as you"
+
+chu to b
+You chuckle to Bjeorn.
+
+tick b
+You tickle Bjeorn.
+
+Bjeorn says, "this head is for fighting not thinking"
+
+Bjeorn chortles.
+
+grin
+You grin.
+
+l
+
+[Sanctuary of Eyridane and Morana]
+The small path ends as the trees part, revealing a small clearing. Sunlight filters down from above, splashing the vibrant green grass and wildflowers. The noise of the central part of the grove all but fades away in this quiet sanctuary. An altar of stone rests in the center of the small clearing of verdant grass. Tangled vines have grown wild across the hard stone and though no markings can be seen, it is obvious that this is a place sacred to the twin goddesses of nature. Overhead the soft warbling of songbirds blends with the chirping crickets below into a sublime symphony of sounds. Small trinkets of adoration and worship have been left at the base of the altar, each one a symbol of devotion to their beloved gods.
+
+The area is illuminated.
+
+In this room you see: Bjeorn the Galirrim
+In this room are: simple stone altar
+Obvious exits are: west, an arch of twisting branches
+
+Bjeorn says to Kurapiira, "only time will see I think"
+
+nod softly
+You nod softly.
+
+Bjeorn says, "I am strong, nothing can stop me"
+
+' we must not give up hope
+You say, "we must not give up hope"
+
+Bjeorn says, "if I am the last one standing I will be then"
+
+'b, your fathe would be proud
+You say to Bjeorn, "your fathe would be proud"
+
+nod to b
+You nod to Bjeorn.
+
+Bjeorn gloats.
+
+grin
+You grin.
+
+who
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+    Currently Connected
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+  Aegys Redbow
+  Bjeorn Bayouwolf
+  Ches Saras
+  Derigaaz Abraxis
+  Desmond Delavan
+  Elethene Coelm
+  Kassi Boyd
+  Kemuel Bartimeus
+  Kurapiira Mako
+  Kynea Blackarrow
+  Lawson Jones
+  Lilia Lacey
+  Lizzie Zchultz
+  Lucifer Voractis
+  Maria Saldis
+  Owen Davintar
+  Primum Hherotes
+  Salevos Fereni
+  Saphina Wispercian
+  Seren Prilos
+  Versius Ultum
+  Vynter Wintz
+  Wayvan Argent
+  Wollmaus Eisenhart
+
+    [24 total]
+
+stret
+You stretch.
+
+Bjeorn says to Kurapiira, "I'm feeling a bit tired I may rest a bit"
+
+' and another meeting tommorrow
+You say, "and another meeting tommorrow"
+
+nod to b
+You nod to Bjeorn.
+
+Bjeorn asks Kurapiira, "merchant?"
+
+[HELPME] - Lucifer has asked for help on the following: is there a reason why i wouldnt be getting any parry usage with a new character
+
+nod yes to b
+You nod your head up and down to Bjeorn.
+
+Bjeorn says to Kurapiira, "I will be around if you need an escort, bodyguard, or champion"
+
+Bjeorn winks.
+
+grin
+You grin.
+
+nod to b
+You nod to Bjeorn.
+
+beam
+You beam.
+
+' thank you
+You say, "thank you"
+
+Bjeorn says to Kurapiira, "I would champion you anytime little magic one"
+
+grin
+You grin.
+
+beam
+You beam.
+
+hum softly to herself
+You hum softly to herself.
+
+l
+
+[Sanctuary of Eyridane and Morana]
+The small path ends as the trees part, revealing a small clearing. Sunlight filters down from above, splashing the vibrant green grass and wildflowers. The noise of the central part of the grove all but fades away in this quiet sanctuary. An altar of stone rests in the center of the small clearing of verdant grass. Tangled vines have grown wild across the hard stone and though no markings can be seen, it is obvious that this is a place sacred to the twin goddesses of nature. Overhead the soft warbling of songbirds blends with the chirping crickets below into a sublime symphony of sounds. Small trinkets of adoration and worship have been left at the base of the altar, each one a symbol of devotion to their beloved gods.
+
+The area is illuminated.
+
+In this room you see: Bjeorn the Galirrim
+In this room are: simple stone altar
+Obvious exits are: west, an arch of twisting branches
+
+Bjeorn says to Kurapiira, "I will dream of serving you and the faith in battle, and soon I will see you again"
+
+' i hope so
+You say, "i hope so"
+
+beam
+You beam.
+
+hu b
+You hug Bjeorn.
+
+Bjeorn kneels and hugs Kurapiira.
+
+hum softly to herself
+You hum softly to herself.
+
+Bjeorn kneels at the simple stone altar.
+
+As Bjeorn kneels, demonstrating his devotion, a tiny white flower bud opens on the simple stone altar.
+
+gla
+You glance.
+
+nod once
+You nod once.
+
+Bjeorn howls softly at altar.
+
+ ** Bjeorn Bayouwolf just left the world.
+
+A fox squirrel just entered through the an arch of twisting branches.
+
+l
+
+[Sanctuary of Eyridane and Morana]
+The small path ends as the trees part, revealing a small clearing. Sunlight filters down from above, splashing the vibrant green grass and wildflowers. The noise of the central part of the grove all but fades away in this quiet sanctuary. An altar of stone rests in the center of the small clearing of verdant grass. Tangled vines have grown wild across the hard stone and though no markings can be seen, it is obvious that this is a place sacred to the twin goddesses of nature. Overhead the soft warbling of songbirds blends with the chirping crickets below into a sublime symphony of sounds. Small trinkets of adoration and worship have been left at the base of the altar, each one a symbol of devotion to their beloved gods.
+
+The area is illuminated.
+
+In this room you see: 1st fox squirrel
+In this room are: simple stone altar
+Obvious exits are: west, an arch of twisting branches
+
+del
+You may act at any time!
+You may gain uses again in another 0 hours, 19 minutes, 31 seconds.
+
+who
+[HELPME] - Lucifer has closed their helpme request.
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+    Currently Connected
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+  Aegys Redbow
+  Ches Saras
+  Derigaaz Abraxis
+  Desmond Delavan
+  Elethene Coelm
+  Kassi Boyd
+  Kemuel Bartimeus
+  Kurapiira Mako
+  Kynea Blackarrow
+  Lawson Jones
+  Lilia Lacey
+  Lizzie Zchultz
+  Lucifer Voractis
+  Maria Saldis
+  Owen Davintar
+  Primum Hherotes
+  Salevos Fereni
+  Saphina Wispercian
+  Seren Prilos
+  Versius Ultum
+  Vynter Wintz
+  Wayvan Argent
+  Wollmaus Eisenhart
+
+    [23 total]
+
+The fox squirrel darts across the ground, his puffy tail arched, as he searches for fallen nuts.
+
+set vis 2
+invo 30
+You focus your mind inward, bringing back the memory of a foreign place.
+
+You kneel on the ground with your head bowed downwards and your arms raised slightly.
+h
+Invoking this spell cost you 12 mana and 20 faith.
+[15 sec. delay]
+
+HP:  142/142  Ftg:  51/51  MP:  67/79
+
+
+trans in 10
+fav
+You are a follower of Eyranas.
+
+You currently hold 233733 favor.
+
+trans in 5
+ ** Lilia Lacey just left the world.
+
+caress arrow
+gest mysteriously...
+You caress your glittering spirit-touched arrowhead on a chain.
+
+You gesture mysteriously...
+
+You suddenly disappear in a flash of light, leaving just a faint symbol of a white wolf behind.
+
+
+[Urda Town Square Center]
+On this site, a fierce battle for control of the great city was waged, and on this site is where its citizens now celebrate that victory. Statues of the fallen heroes, and great leaders of the alliance adorn the tops of grand marble archways that scatter over the square. They stand ever vigilant against any unseen enemy. The people of Urda flock here to barter and trade, to converse with friends, or just relax near the fountain and have a game of chess. Benches and tables dot the landscape near the edge of the fountain. Hawkers of all type roll through this area with their wares, hoping to make a few coins. The many languages of races and guilds reverberate off the storefronts of the surrounding Merchant Square where a constant foot traffic ebbs and flows, making this the heart of the city.
+
+The area is illuminated.
+
+In this room you see: Lawson the Human,  Lizzie the Goblin
+In this room are: large wooden bulletin board
+Obvious exits are: northwest, west, southwest, south, southeast, east, northeast, north
+
+win in pain...
+You appear in a bright flash of light, momentarily silhouetted by a white wolf.
+
+You wince in pain...
+
+grit
+You grit your teeth.
+
+Lizzie glares.
+
+Lizzie retreats 2 units.
+
+gla
+You glance.
+
+fly up 5
+t
+You are currently standing 4 units behind center.
+
+Standing 1 units in front of you:
+Lawson
+Standing in your rank:
+Lizzie, Kurapiira
+
+
+gla down
+You glance down.
+
+Lawson says to Lizzie, "I don't get half of what you're sayin'."
+
+mon
+You are currently carrying 9 crowns and 89 marks.
+This gives you a combined wealth of 989 marks.
+
+Lizzie glares up.
+
+Primum just entered from the northeast.
+
+chu delicately , brushing back her long kinky dreadlocked white hair
+You chuckle delicately , brushing back her long kinky dreadlocked white hair.
+
+Lizzie says to Lawson, "lige I give zee poobz"
+
+Primum nods to you.
+
+smi to p
+You smile to Primum.
+
+Primum smiles.
+
+l
+
+[Urda Town Square Center]
+On this site, a fierce battle for control of the great city was waged, and on this site is where its citizens now celebrate that victory. Statues of the fallen heroes, and great leaders of the alliance adorn the tops of grand marble archways that scatter over the square. They stand ever vigilant against any unseen enemy. The people of Urda flock here to barter and trade, to converse with friends, or just relax near the fountain and have a game of chess. Benches and tables dot the landscape near the edge of the fountain. Hawkers of all type roll through this area with their wares, hoping to make a few coins. The many languages of races and guilds reverberate off the storefronts of the surrounding Merchant Square where a constant foot traffic ebbs and flows, making this the heart of the city.
+
+The area is illuminated.
+
+In this room you see: Lawson the Human,  Lizzie the Goblin,  Primum the Seraphim
+In this room are: large wooden bulletin board
+Obvious exits are: northwest, west, southwest, south, southeast, east, northeast, north
+
+l at li 
+
+You see Lizzie the adult Goblin.
+He is 3' 8" tall with a lithe build, greasy, coppery red hair, orangish red eyes, and yellowish green skin.
+He bears the mark of Johara.
+He is currently in a neutral mood.
+
+
+He is carrying:
+ -a mirrored steel broadsword            (right hand)
+ -a polished danacite parrying dagger    (left hand)
+ -a coral studded lionskin jerkin        (torso)
+ -a simple cotton shirt                  (torso)
+ -a pair of itchy wool gloves            (hands)
+ -a pair of tattered cotton pants        (legs)
+ -a pair of molding leather boots        (feet)
+ -a soiled old coat                      (cloak)
+
+
+
+ ** Aegys Redbow just left the world unexpectedly.
+
+Primum ponders a moment.
+
+Lizzie says, "kup, yooz gonzpired againzt me yooz ztingin floozy"
+
+Lizzie pokes his crisp sheet of cream parchment angrily.
+
+rai at l
+You raise an eyebrow at Lawson.
+
+Lizzie glares at you.
+
+'la, did you understand that?
+You ask Lawson, "did you understand that?"
+
+Lawson shrugs helplessly.
+
+gla at li
+You glance at Lizzie.
+
+Saphina just entered from the southeast.
+
+Saphina just went west.
+
+Lizzie says to Kurapiira, "yez agt ztoopid. yooz loog zee part"
+
+Primum taps Lizzie.
+
+ ** Aegys Redbow just arrived in the world
+
+An urdaian junior guard just entered from the southwest.
+
+Primum says, "Be careful..."
+
+Lizzie gapes at Primum.
+
+grin to li
+You grin to Lizzie.
+
+The urdaian junior guard scans the area with his sharp Zacotl eyes.
+
+l
+
+[Urda Town Square Center]
+On this site, a fierce battle for control of the great city was waged, and on this site is where its citizens now celebrate that victory. Statues of the fallen heroes, and great leaders of the alliance adorn the tops of grand marble archways that scatter over the square. They stand ever vigilant against any unseen enemy. The people of Urda flock here to barter and trade, to converse with friends, or just relax near the fountain and have a game of chess. Benches and tables dot the landscape near the edge of the fountain. Hawkers of all type roll through this area with their wares, hoping to make a few coins. The many languages of races and guilds reverberate off the storefronts of the surrounding Merchant Square where a constant foot traffic ebbs and flows, making this the heart of the city.
+
+The area is illuminated.
+
+In this room you see: Lawson the Human,  Lizzie the Goblin,  Primum the Seraphim, 1st urdaian junior guard
+In this room are: large wooden bulletin board
+Obvious exits are: northwest, west, southwest, south, southeast, east, northeast, north
+
+Lizzie asks Primum, "why yooz gun murder zee gobbie, perzy?"
+
+Lizzie asks Primum, "Yooz pig nozed toadzz faze?"
+
+gla at gua
+You glance at the 1st urdaian junior guard.
+
+mon
+You are currently carrying 9 crowns and 89 marks.
+This gives you a combined wealth of 989 marks.
+
+h
+HP:  142/142  Ftg:  51/51  MP:  79/79
+
+
+Lizzie says to Primum, "yooz know I wuzz ropt, YOOZ knowz Lizzie cheated"
+
+A debonair nobleman just entered the room right next to you.
+
+list to li
+You listen intently to Lizzie.
+
+Lizzie says to Primum, "yoosz led it habben"
+
+'li, they didn't let you perform?
+Lizzie spits angrily.
+
+You ask Lizzie, "they didn't let you perform?"
+
+The urdaian junior guard scans the area with his sharp Zacotl eyes.
+
+Lizzie says to Kurapiira, "zat rite"
+
+The 1st debonair nobleman just wandered west.
+
+nod to li
+You nod to Lizzie.
+
+Saphina just entered from the west.
+
+Saphina just went east.
+
+'li, just curious..what was your act?
+You ask Lizzie, "just curious..what was your act?"
+
+The 1st urdaian junior guard just wandered south.
+
+l
+
+[Urda Town Square Center]
+On this site, a fierce battle for control of the great city was waged, and on this site is where its citizens now celebrate that victory. Statues of the fallen heroes, and great leaders of the alliance adorn the tops of grand marble archways that scatter over the square. They stand ever vigilant against any unseen enemy. The people of Urda flock here to barter and trade, to converse with friends, or just relax near the fountain and have a game of chess. Benches and tables dot the landscape near the edge of the fountain. Hawkers of all type roll through this area with their wares, hoping to make a few coins. The many languages of races and guilds reverberate off the storefronts of the surrounding Merchant Square where a constant foot traffic ebbs and flows, making this the heart of the city.
+
+The area is illuminated.
+
+In this room you see: Lawson the Human,  Lizzie the Goblin,  Primum the Seraphim
+In this room are: large wooden bulletin board
+Obvious exits are: northwest, west, southwest, south, southeast, east, northeast, north
+
+Lizzie says to Kurapiira, "zee amazin' trigz"
+
+Lizzie gloats.
+
+rai
+You raise an eyebrow.
+
+Primum glances down at Lizzie.
+
+ ** Saphina Wispercian just left the world.
+
+grin
+You grin.
+
+Lizzie exclaims, "wate, dun triez to diztagt!"
+
+Lizzie glares at you.
+
+grin
+You grin.
+
+bate at l
+You bat your eyes at Lawson.
+
+grin
+You grin.
+
+fly down 10
+You trim your wings and descend 10 feet.
+[3 sec. delay]
+
+lean p
+You lean on Primum.
+
+t
+You are currently standing 4 units behind center.
+
+Standing at center:
+Primum
+Standing 1 units in front of you:
+Lawson
+Standing in your rank:
+Lizzie, Kurapiira
+
+
+Lizzie slaps his crisp sheet of cream parchment repeatedly.
+
+grin to li
+You grin to Lizzie.
+
+Lizzie pushes his crisp sheet of cream parchment in Primum's face.
+
+Primum smiles slightly.
+
+Lawson says in Dakoetish, "Vyuj qqisws' kz crz, hrwmsl."
+
+Lizzie glares at Primum.
+
+Lizzie yells to Primum, "do yooz chob!"
+
+list o la
+You listen intently o la.
+
+Primum ponders a moment.
+
+list to la
+You listen intently to Lawson.
+
+l
+
+[Urda Town Square Center]
+On this site, a fierce battle for control of the great city was waged, and on this site is where its citizens now celebrate that victory. Statues of the fallen heroes, and great leaders of the alliance adorn the tops of grand marble archways that scatter over the square. They stand ever vigilant against any unseen enemy. The people of Urda flock here to barter and trade, to converse with friends, or just relax near the fountain and have a game of chess. Benches and tables dot the landscape near the edge of the fountain. Hawkers of all type roll through this area with their wares, hoping to make a few coins. The many languages of races and guilds reverberate off the storefronts of the surrounding Merchant Square where a constant foot traffic ebbs and flows, making this the heart of the city.
+
+The area is illuminated.
+
+In this room you see: Lawson the Human,  Lizzie the Goblin,  Primum the Seraphim
+In this room are: large wooden bulletin board
+Obvious exits are: northwest, west, southwest, south, southeast, east, northeast, north
+
+A debonair nobleman just entered from the northeast.
+
+Lawson says to Kurapiira, "Got a friend in the shadows, I think."
+
+ ** Kassi Boyd just left the world.
+
+Lizzie says to Lawson, "zpoogy"
+
+Primum searches the room carefully.
+
+Primum ponders a moment.
+
+ ** Aegys Redbow just left the world.
+
+'p, i think he wants you to watch him do his act
+You say to Primum, "i think he wants you to watch him do his act"
+
+grin to p
+You grin to Primum.
+
+Lizzie says to Kurapiira, "lizzen. Iz gun mage zat cheadz Kazzi miserable till zee dayz it diez"
+
+The debonair nobleman tips his hat to a female passerby.
+
+Lizzie nods cruelly.
+
+rai at li
+You raise an eyebrow at Lizzie.
+
+Lizzie exclaims to Primum, "yooz here zat, Perzy. till zee day id diez!"
+
+Lizzie glares and spits close to insane.
+
+A debonair nobleman just entered from the southwest.
+
+Primum says to Lizzie, "hmmm we shall see"
+
+'li, maybe you should ask her to let you perform in the tavern
+You say to Lizzie, "maybe you should ask her to let you perform in the tavern"
+
+Lawson asks Primum, "Your name Percy, friend?"
+
+rai at li
+You raise an eyebrow at Lizzie.
+
+Salevos just entered from the southeast.
+
+mon
+You are currently carrying 9 crowns and 89 marks.
+This gives you a combined wealth of 989 marks.
+
+Lizzie says to Primum, "o' yez, wez devinidely zee"
+
+An urdaian senior guard just entered the room 6 units in front of you.
+
+Lizzie cackles maliciously.
+
+The debonair nobleman tips his hat to a female passerby.
+
+l
+The 2nd debonair nobleman just wandered south.
+
+The 1st urdaian senior guard just wandered southwest.
+
+
+[Urda Town Square Center]
+On this site, a fierce battle for control of the great city was waged, and on this site is where its citizens now celebrate that victory. Statues of the fallen heroes, and great leaders of the alliance adorn the tops of grand marble archways that scatter over the square. They stand ever vigilant against any unseen enemy. The people of Urda flock here to barter and trade, to converse with friends, or just relax near the fountain and have a game of chess. Benches and tables dot the landscape near the edge of the fountain. Hawkers of all type roll through this area with their wares, hoping to make a few coins. The many languages of races and guilds reverberate off the storefronts of the surrounding Merchant Square where a constant foot traffic ebbs and flows, making this the heart of the city.
+
+The area is illuminated.
+
+In this room you see: Lawson the Human,  Lizzie the Goblin,  Primum the Seraphim,  Salevos the Aka'thri, 1st debonair nobleman
+In this room are: large wooden bulletin board
+Obvious exits are: northwest, west, southwest, south, southeast, east, northeast, north
+
+The debonair nobleman tips his hat to a female passerby.
+
+Lawson nods to Salevos.
+
+Someone glances at Salevos.
+
+Salevos nods to Lawson.
+
+Primum searches the room carefully.
+
+Primum ponders a moment.
+
+gla into the shadows
+You glance into the shadows.
+
+squin
+You squint.
+
+Salevos asks Lawson in Dakoetish, "fiw yns vayrwo z unsxkmrb pxtoxsz?"
+
+ ** Lilia Lacey just arrived in the world
+
+Lizzie says to Kurapiira, "mebbe ztoopid Kazzi zhould beg vorgivenezz from zee godz an pay Lizzie vivty grownz abolog grownz"
+
+Lizzie spits.
+
+rai at li
+You raise an eyebrow at Lizzie.
+
+The 1st debonair nobleman just wandered northeast.
+
+Lawson says to Salevos in Dakoetish, "byeg, ds vtztifkywww foz, qq vrnrl. Sxuvmmrw' vv aibu Pjpmux'w kos pobul."
+
+' Maybe she will, did you ask her?
+You ask, "Maybe she will, did you ask her?"
+
+Lizzie says to Kurapiira, "Iz nod zee wun what did zee cheading"
+
+Salevos nods to Lawson.
+
+nod to li
+You nod to Lizzie.
+
+Lizzie says to Kurapiira, "IZ zhoved zee zheet in zee fazez of all zer. I wuzz ingored. zee ztinkin'; raziztz"
+
+Lawson asks Lizzie, "Offended the Gods themselves, did she?"
+
+Salevos says in Dakoetish, "ar."
+
+Salevos just went west.
+
+Lizzie pokes his crisp sheet of cream parchment wildly.
+
+'li, and thoise attacks upon your person
+You say to Lizzie, "and thoise attacks upon your person"
+
+stare at li
+You stare at Lizzie.
+
+' Dastasrdly i say
+You say, "Dastasrdly i say"
+
+nod yes to li
+You nod your head up and down to Lizzie.
+
+Lizzie exclaims, "hek, Iz wuzz BEGGED to pervorm, zenI wuzz ZHUNNEd made zee MOGGERIEZ!"
+
+Lizzie glares.
+
+An urdaian city guard just entered from the north.
+
+nod yes to li
+You nod your head up and down to Lizzie.
+
+Lizzie exclaims to Kurapiira, "bud po' Kazzi, zhe zee nize guy, rite? HAH!"
+
+chu softly
+You chuckle softly.
+
+Lizzie says to Kurapiira, "zhe zee ztingin' betrayin,. floozy, harlod wenge"
+
+The urdaian city guard patrols the streets vigilantly, his hand on the hilt of his sword.
+
+Lizzie glares.
+
+Primum glances up.
+
+nod
+You nod.
+
+Lizzie says to Primum, "zhe zee ovizial Urda wenge"
+
+'li, did you piss her off?
+You ask Lizzie, "did you piss her off?"
+
+Lizzie exclaims, "Kazzi zee Wendge!"
+
+chu to li
+You chuckle to Lizzie.
+
+inv
+
+You are currently holding:
+
+ ====== Containers ======
+  -open black leather pack (8.66 lbs)
+  -closed large durable burlap travel pack (2.6 lbs)
+  -open plain scuffed black courier's satchel (0.83 lbs)
+  -open lacquered dark brown maple scroll case (1.5 lbs)
+  -gem-studded carry-all (0.4 lbs)
+  -open black leather bookbag (3.22 lbs)
+
+ ====== Weapons ======
+  -golden siren hair-infused driftwood divination stave (0.3 lbs)
+
+ ====== Other ======
+  -golden brass belly chain (0.0 lbs)
+  -pair of dangling crackle-quartz skulls (0.07 lbs)
+  -slightly dangling gold coiled snake eyebrow ring (0.07 lbs)
+  -glittering icicle-shaped crystal septum piercing (0.1 lbs)
+  -scuffed harpy-headed oak walking stick (5.0 lbs)
+  -glittering spirit-touched arrowhead on a chain (0.3 lbs)
+  -set of stiff boar skin wrist wraps (0.0 lbs)
+  -pair of emerald inlaid moonsilver wingclips (0.3 lbs)
+
+ ====== Lights ======
+  -phosphorescent mossy geode (0.1 lbs)
+
+ ====== Clothing ======
+  -wild blue dyed silkroot waist wrap (0.17 lbs)
+  -pair of dark brown cotton leggings (0.3 lbs)
+  -loose layer-hemmed dusky blue pashmina banyan (0.1 lbs)
+  -black pongee silk camisole (0.1 lbs)
+  -emerald inlaid holly and red berry tiara (0.1 lbs)
+  -pair of soft padded dancer's foot thongs (0.1 lbs)
+
+ ====== Armors ======
+  -light irratacite chainmail (3.33 lbs)
+
+ (27.65 / 104 lbs being carried)
+
+ You currently have 89 marks and 9 crowns.
+
+Lizzie says to Kurapiira, "zgrew zat, I wuzz peeing zee gobbie"
+
+The 1st urdaian city guard just wandered northwest.
+
+chu to ku
+You chuckle to yourself.
+
+nod yes to li
+You nod your head up and down to Lizzie.
+
+Lizzie asks Kurapiira, "yooz invide zee gobbie, zen ged all whiney aboud zee gobbiez talgin' too mudge?"
+
+'li, true true
+You say to Lizzie, "true true"
+
+nod yes to li
+You nod your head up and down to Lizzie.
+
+Lizzie says to Kurapiira, "zen yooz ged zee elvez to ZTAB ZEE KJNIVEZ"
+
+Lizzie says to Primum, "and yooz juzt ztandz zer, yooz razizt"
+
+flai to li
+You flail your arms to Lizzie.
+
+' and if you had performes..
+You say, "and if you had performes.."
+
+Lizzie stares at you.
+
+gla at li
+You glance at Lizzie.
+
+'li, why, you might have...won!
+You exclaim to Lizzie, "why, you might have...won!"
+
+stare
+You stare.
+
+l
+
+[Urda Town Square Center]
+On this site, a fierce battle for control of the great city was waged, and on this site is where its citizens now celebrate that victory. Statues of the fallen heroes, and great leaders of the alliance adorn the tops of grand marble archways that scatter over the square. They stand ever vigilant against any unseen enemy. The people of Urda flock here to barter and trade, to converse with friends, or just relax near the fountain and have a game of chess. Benches and tables dot the landscape near the edge of the fountain. Hawkers of all type roll through this area with their wares, hoping to make a few coins. The many languages of races and guilds reverberate off the storefronts of the surrounding Merchant Square where a constant foot traffic ebbs and flows, making this the heart of the city.
+
+The area is illuminated.
+
+In this room you see: Lawson the Human,  Lizzie the Goblin,  Primum the Seraphim
+In this room are: large wooden bulletin board
+Obvious exits are: northwest, west, southwest, south, southeast, east, northeast, north
+
+Lizzie says to Kurapiira, "I wuzz denied zee pervormanzez witout announzmentz or warnin'z"
+
+nod to li
+You nod to Lizzie.
+
+Lizzie says to Kurapiira, "zee gontezt wuzz rigged"
+
+Lawson says, "A thousand crowns lost."
+
+'li, did you pay to get in the show?
+You ask Lizzie, "did you pay to get in the show?"
+
+nod yes to la
+You nod your head up and down to Lawson.
+
+Lawson says, "A sadder story never told."
+
+chu to la
+You chuckle to Lawson.
+
+A scruffy goblin citizen just entered from the north.
+
+Lizzie says to Kurapiira, "zat ztupid elvez zat gant hold zee knivez wiout gutting himzelvez won zee moniez"
+
+Lizzie yells, "WUT ZEE ZUPRIZE"
+
+nod to li
+You nod to Lizzie.
+
+chu to li
+You chuckle to Lizzie.
+
+'li, the same one who kept attacking you?
+You ask Lizzie, "the same one who kept attacking you?"
+
+Lizzie says to Lawson, "zgrew YOOZ, yooz damn dirdy abez"
+
+Primum grits his teeth.
+
+Lizzie asks Lawson, "idz hokayz id happenz to zee gobbiez, rite?"
+
+Lawson says, "Was a bit peculiar, I'll give ya that."
+
+'li, and no punishment for Wayvan?
+You ask Lizzie, "and no punishment for Wayvan?"
+
+Lizzie says to Lawson, "I meanz, id juzt zee gobbiez. Zgrew zem guyz"
+
+rai at li
+You raise an eyebrow at Lizzie.
+
+Lawson says, "Him workin' for the man who owned the build, who was himself a judge."
+
+Lizzie says to Lawson, "yez, zhoggin'"
+
+chu
+You chuckle.
+
+Lizzie spits and dribbles.
+
+The 1st scruffy goblin citizen just wandered north.
+
+'li, you should go to the Peacock and demand justice
+You say to Lizzie, "you should go to the Peacock and demand justice"
+
+nod to li
+You nod to Lizzie.
+
+An elegant noblewoman just entered from the north.
+
+Lizzie says to Lawson, "alzo, he ztabbes my azzoziate what wuzz ezzential to Lizziez ppervormanze. ZAT NOD ZEE GOINZIDENZE"
+
+A bulky varanus citizen just entered from the northeast.
+
+nod to li
+You nod to Lizzie.
+
+l
+
+[Urda Town Square Center]
+On this site, a fierce battle for control of the great city was waged, and on this site is where its citizens now celebrate that victory. Statues of the fallen heroes, and great leaders of the alliance adorn the tops of grand marble archways that scatter over the square. They stand ever vigilant against any unseen enemy. The people of Urda flock here to barter and trade, to converse with friends, or just relax near the fountain and have a game of chess. Benches and tables dot the landscape near the edge of the fountain. Hawkers of all type roll through this area with their wares, hoping to make a few coins. The many languages of races and guilds reverberate off the storefronts of the surrounding Merchant Square where a constant foot traffic ebbs and flows, making this the heart of the city.
+
+The area is illuminated.
+
+In this room you see: Lawson the Human,  Lizzie the Goblin,  Primum the Seraphim, 1st elegant noblewoman, 1st bulky varanus citizen
+In this room are: large wooden bulletin board
+Obvious exits are: northwest, west, southwest, south, southeast, east, northeast, north
+
+An urdaian senior guard just entered the room 1 units behind you.
+
+Lizzie says to Lawson, "'o Iz gun ged juztizz. yooz bedga"
+
+Lawson says to Lizzie, "Take it to the merchant council tomorrow. I reckon they'll table all other issues until this one is resolved."
+
+Lizzie says to Primum, "wit o' witout yooz helb, Perzy"
+
+grin to la
+You grin to Lawson.
+
+nod yes to li
+You nod your head up and down to Lizzie.
+
+The 1st urdaian senior guard just wandered northeast.
+
+'li, come to the meeting tommorrow
+You say to Lizzie, "come to the meeting tommorrow"
+
+flai to li
+You flail your arms to Lizzie.
+
+Lizzie says, "Iz eggzpegt none of yooz raziztz to dezdifiez on Lizziez behalvez"
+
+Lizzie glares around.
+
+'li, weren't there Other goblins in the show?
+You ask Lizzie, "weren't there Other goblins in the show?"
+
+rai at li
+You raise an eyebrow at Lizzie.
+
+'li, it must be personal
+You say to Lizzie, "it must be personal"
+
+The 1st elegant noblewoman just wandered west.
+
+nod yes to li
+You nod your head up and down to Lizzie.
+
+The 1st bulky varanus citizen just wandered east.
+
+Lizzie says to Kurapiira, "yez, nize habby liddle good gobbiez zat fold zer handz an' zmile nize an' polide-lige"
+
+beam to li
+You beam to Lizzie.
+
+Lizzie spits disgustedly.
+
+chu
+You chuckle.
+
+l
+
+[Urda Town Square Center]
+On this site, a fierce battle for control of the great city was waged, and on this site is where its citizens now celebrate that victory. Statues of the fallen heroes, and great leaders of the alliance adorn the tops of grand marble archways that scatter over the square. They stand ever vigilant against any unseen enemy. The people of Urda flock here to barter and trade, to converse with friends, or just relax near the fountain and have a game of chess. Benches and tables dot the landscape near the edge of the fountain. Hawkers of all type roll through this area with their wares, hoping to make a few coins. The many languages of races and guilds reverberate off the storefronts of the surrounding Merchant Square where a constant foot traffic ebbs and flows, making this the heart of the city.
+
+The area is illuminated.
+
+In this room you see: Lawson the Human,  Lizzie the Goblin,  Primum the Seraphim
+In this room are: large wooden bulletin board
+Obvious exits are: northwest, west, southwest, south, southeast, east, northeast, north
+
+Lizzie says to Kurapiira, "bring zhame on zee gobbie raze"
+
+' but they did so well
+You say, "but they did so well"
+
+rai at li
+You raise an eyebrow at Lizzie.
+
+l
+
+[Urda Town Square Center]
+On this site, a fierce battle for control of the great city was waged, and on this site is where its citizens now celebrate that victory. Statues of the fallen heroes, and great leaders of the alliance adorn the tops of grand marble archways that scatter over the square. They stand ever vigilant against any unseen enemy. The people of Urda flock here to barter and trade, to converse with friends, or just relax near the fountain and have a game of chess. Benches and tables dot the landscape near the edge of the fountain. Hawkers of all type roll through this area with their wares, hoping to make a few coins. The many languages of races and guilds reverberate off the storefronts of the surrounding Merchant Square where a constant foot traffic ebbs and flows, making this the heart of the city.
+
+The area is illuminated.
+
+In this room you see: Lawson the Human,  Lizzie the Goblin,  Primum the Seraphim
+In this room are: large wooden bulletin board
+Obvious exits are: northwest, west, southwest, south, southeast, east, northeast, north
+
+Lizzie says to Kurapiira, "of gourze, Iz dun give two poobz wut zoz gobbiez did"
+
+chu to li
+You chuckle to Lizzie.
+
+A fidgety zacotl citizen just entered the room 2 units in front of you.
+
+Lizzie says to Primum, "not two poobz"
+
+'li, what cha gonna do then?
+You ask Lizzie, "what cha gonna do then?"
+
+list to li
+You listen intently to Lizzie.
+
+The fidgety zacotl citizen ruffles its feathers.
+
+Lizzie says to Kurapiira, "Iz pee habby to attend zee razizt meetingz"
+
+beam to li
+You beam to Lizzie.
+
+The 1st fidgety zacotl citizen just wandered south.
+
+' Good1
+You say, "Good1"
+
+nod yes to li
+You nod your head up and down to Lizzie.
+
+Lizzie says to Kurapiira, "gimme detailz"
+
+Lizzie listens intently.
+
+' Tommorrow..7 bells
+You say, "Tommorrow..7 bells"
+
+Lizzie says, "yez, yez"
+
+Lizzie exclaims, "where?!?!"
+
+Lizzie flails his arms.
+
+' In the merchant council ...area
+You say, "In the merchant council ...area"
+
+furr
+You furrow your brow.
+
+chu
+You chuckle.
+
+l sw
+You look southwest...
+
+
+[Talioun March]
+Just off the center of the town, a gleaming, highly polished marble walkway, gilded by high arches wreathed in sculpted friezes of different races and religions. The marble roadway to the southwest leads into the justice center.
+
+The area is illuminated.
+
+In this room you see: 1st urdaian city guard, 2nd urdaian city guard
+Obvious exits are: southwest, east, northeast, north
+
+Lizzie asks, "where zee heg iz zat?"
+
+poi southwest
+You point southwest.
+
+Lizzie stares southwest.
+
+' end of that street
+You say, "end of that street"
+
+Lizzie says, "O' iz pee zer, chubbeh"
+
+grin
+You grin.
+
+Lizzie says to Primum, "yooz pee widnezz"
+
+'li, Ill be on the council
+You say to Lizzie, "Ill be on the council"
+
+A roving stray dog just entered from the east.
+
+wink to li
+You wink to Lizzie.
+
+Primum stares at Lizzie.
+
+A fidgety zacotl citizen just entered from the west.
+
+Lizzie asks Primum, "yooz zink yooz can manadge zee trooth ONZE in yooz ztinkin' livez?!?!?"
+
+Lizzie flails his arms at Primum.
+
+chu to p
+You chuckle to Primum.
+
+l
+
+[Urda Town Square Center]
+On this site, a fierce battle for control of the great city was waged, and on this site is where its citizens now celebrate that victory. Statues of the fallen heroes, and great leaders of the alliance adorn the tops of grand marble archways that scatter over the square. They stand ever vigilant against any unseen enemy. The people of Urda flock here to barter and trade, to converse with friends, or just relax near the fountain and have a game of chess. Benches and tables dot the landscape near the edge of the fountain. Hawkers of all type roll through this area with their wares, hoping to make a few coins. The many languages of races and guilds reverberate off the storefronts of the surrounding Merchant Square where a constant foot traffic ebbs and flows, making this the heart of the city.
+
+The area is illuminated.
+
+In this room you see: Lawson the Human,  Lizzie the Goblin,  Primum the Seraphim, 1st roving stray dog, 1st fidgety zacotl citizen
+In this room are: large wooden bulletin board
+Obvious exits are: northwest, west, southwest, south, southeast, east, northeast, north
+
+The fidgety zacotl citizen ruffles its feathers.
+
+'la, you going to be there?
+You ask Lawson, "you going to be there?"
+
+A debonair nobleman just entered the room 4 units in front of you.
+
+Growling softly, the roving stray dog turns its attention to something unseen.
+
+Lizzie says to Kurapiira, "Perzy mite pee crazeh, but hez not zat bad zee egg"
+
+Primum pets the roving stray dog.
+
+Lizzie stares at Primum.
+
+nod to li
+You nod to Lizzie.
+
+The debonair nobleman tips his hat to a female passerby.
+
+The 1st debonair nobleman just wandered east.
+
+An urdaian city guard just entered from the west.
+
+Lizzie says to Kurapiira, "viezty. I lige zat"
+
+Lawson says to Kurapiira, "Yes, ma'am, I reckon."
+
+beam to la
+You beam to Lawson.
+
+The 1st roving stray dog just wandered southwest.
+
+mon
+You are currently carrying 9 crowns and 89 marks.
+This gives you a combined wealth of 989 marks.
+
+l
+
+[Urda Town Square Center]
+On this site, a fierce battle for control of the great city was waged, and on this site is where its citizens now celebrate that victory. Statues of the fallen heroes, and great leaders of the alliance adorn the tops of grand marble archways that scatter over the square. They stand ever vigilant against any unseen enemy. The people of Urda flock here to barter and trade, to converse with friends, or just relax near the fountain and have a game of chess. Benches and tables dot the landscape near the edge of the fountain. Hawkers of all type roll through this area with their wares, hoping to make a few coins. The many languages of races and guilds reverberate off the storefronts of the surrounding Merchant Square where a constant foot traffic ebbs and flows, making this the heart of the city.
+
+The area is illuminated.
+
+In this room you see: Lawson the Human,  Lizzie the Goblin,  Primum the Seraphim, 1st fidgety zacotl citizen, 1st urdaian city guard
+In this room are: large wooden bulletin board
+Obvious exits are: northwest, west, southwest, south, southeast, east, northeast, north
+
+The fidgety zacotl citizen ruffles its feathers.
+
+The 1st fidgety zacotl citizen just wandered north.
+
+ ** Lilia Lacey just left the world.
+
+Lizzie exclaims to Kurapiira, "Iz will eggzpoze zee razizt cheedz for wut zee pee!"
+
+The urdaian city guard patrols the streets vigilantly, his hand on the hilt of his sword.
+
+Lizzie nods resolutely.
+
+nod to li
+You nod to Lizzie.
+
+' I can't wait
+You say, "I can't wait"
+
+beam to li
+You beam to Lizzie.
+
+Lizzie says to Kurapiira, "yez, eggzting az hek"
+
+Lizzie cackles.
+
+'li, bring your gobbie witnessess too
+You say to Lizzie, "bring your gobbie witnessess too"
+
+nod yes to li
+You nod your head up and down to Lizzie.
+
+The 1st urdaian city guard just wandered south.
+
+Lizzie says, "O' zee vigtim of waynoze will pee zer"
+
+Lizzie says, "Wez HATE Waynoze"
+
+nod to li
+You nod to Lizzie.
+
+Lizzie says, "An' Kazzi zee gud widge of zee zewerz"
+
+Lizzie spits angrily.
+
+'li, merchants..cheating!..who would believe it!
+You exclaim to Lizzie, "merchants..cheating!..who would believe it!"
+
+nod to li
+You nod to Lizzie.
+
+Lizzie exclaims, "Zee Wenge of Ulda!"
+
+Lizzie yells, "HARLOD OF ZEE LANDZ"
+
+gasp
+You gasp.
+
+who
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+    Currently Connected
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+  Ches Saras
+  Derigaaz Abraxis
+  Desmond Delavan
+  Elethene Coelm
+  Kemuel Bartimeus
+  Kurapiira Mako
+  Kynea Blackarrow
+  Lawson Jones
+  Lizzie Zchultz
+  Lucifer Voractis
+  Maria Saldis
+  Owen Davintar
+  Primum Hherotes
+  Salevos Fereni
+  Seren Prilos
+  Versius Ultum
+  Vynter Wintz
+  Wayvan Argent
+  Wollmaus Eisenhart
+
+    [19 total]
+
+Lizzie says to Lawson, "alzo, zhe peez ztanding ub. I zaw it"
+
+ ** Garn Thorn just arrived in the world
+
+Lizzie gloats.
+
+stare at li
+You stare at Lizzie.
+
+chu behind her hand
+You chuckle behind her hand.
+
+Lawson asks Lizzie, "That so?"
+
+Primum puts his knight sealed silver trimmed scroll in his open simple leather backpack.
+
+Lizzie says to Lawson, "o' yez"
+
+Primum closes his open simple leather backpack.
+
+Lizzie says to Lawson, "zhameful"
+
+del
+You may act at any time!
+
+l
+
+[Urda Town Square Center]
+On this site, a fierce battle for control of the great city was waged, and on this site is where its citizens now celebrate that victory. Statues of the fallen heroes, and great leaders of the alliance adorn the tops of grand marble archways that scatter over the square. They stand ever vigilant against any unseen enemy. The people of Urda flock here to barter and trade, to converse with friends, or just relax near the fountain and have a game of chess. Benches and tables dot the landscape near the edge of the fountain. Hawkers of all type roll through this area with their wares, hoping to make a few coins. The many languages of races and guilds reverberate off the storefronts of the surrounding Merchant Square where a constant foot traffic ebbs and flows, making this the heart of the city.
+
+The area is illuminated.
+
+In this room you see: Lawson the Human,  Lizzie the Goblin,  Primum the Seraphim
+In this room are: large wooden bulletin board
+Obvious exits are: northwest, west, southwest, south, southeast, east, northeast, north
+
+' i'll go check the council rooms
+You say, "i'll go check the council rooms"
+
+Lizzie says, "zee grievenzez zhall pee anzered"
+
+nod to li
+You nod to Lizzie.
+
+An urdaian city guard just entered from the east.
+
+sal to gu
+You salute to the 1st urdaian city guard.
+
+Primum searches the room carefully.
+
+sw
+sw
+
+[Talioun March]
+Just off the center of the town, a gleaming, highly polished marble walkway, gilded by high arches wreathed in sculpted friezes of different races and religions. The marble roadway to the southwest leads into the justice center.
+
+The area is illuminated.
+
+Obvious exits are: southwest, east, northeast, north
+
+sw
+sw
+
+[Talioun March]
+Brightly woven banners of every religion, race, and represented guilds wave along the roadway on tall pennants. Guards are stationed every ten feet, standing at attention near an archway through which the pathway moves. Respectfully, there are no merchants or peddlers selling wares along this street.
+
+The area is illuminated.
+
+Obvious exits are: southwest, northeast
+
+sw
+
+[Talioun March]
+City workers deftly polish the marble walkway with rags and scrub brushes. Others collect what little refuses has blown onto the walkway, making this the cleanest part of the city by far. The marble slabs of the walkway are joined together by thin, gold grouting. The path seems to blaze in the light of the sun and lamps.
+
+The area is illuminated.
+
+Obvious exits are: southwest, northeast
+
+sw
+
+[Talioun March]
+The large columns of the judicial forum rise up to the southwest, high on a hill with steps squared all around it. A few ministers, judges, and barristers walk towards the Judicial Forum holding ledgers and satchels of papers. The guards watch closely at anyone passing by.
+
+The area is illuminated.
+
+In this room you see: 1st urdaian senior guard
+Obvious exits are: southwest, northeast
+
+sw
+sw
+
+[Talioun March]
+The steps of the Judicial Forum rise up into the high-columned building where the guild offices and court of peers are situated. Orators can be heard from different angles of the Forum as guards hustle on their patrols around the area. The marble building is kept remarkably pristine and shining by constant effort from the city workers.
+
+The area is illuminated.
+
+In this room you see: 1st urdaian city guard
+Obvious exits are: northeast, steps
+
+I don't see what exit you're referring to.
+
+I don't see what exit you're referring to.
+
+I don't see what exit you're referring to.
+
+go st
+
+[Judicial Forum, Common Room]
+A spacious room opens up, surrounded by thick marble columns. Barristers and judges speak with one another in the hallways towards guild rooms and the court of peers. Citizens sit on marble benches outside of the guild rooms, waiting for their pleas to be heard before entering the court.
+
+The area is illuminated.
+
+In this room you see: 1st fidgety zacotl citizen, 1st scruffy goblin citizen
+Obvious exits are: west, southwest, south, east, vaulted double doors, steps
+
+go door
+
+[Court of Peers]
+The doors open into a high-vaulted room, cramped with sections of long, uncomfortable wooden benches. The room is stuffy, as the stone building has been windowed with thick pane glass with bars over them. A wooden judiciary box is centered in the front of the room where a court of peers will hear the case and pleas of defendants and plaintiffs.
+
+The area is illuminated.
+
+Obvious exits are: vaulted double doors
+
+go door
+
+[Judicial Forum, Common Room]
+A spacious room opens up, surrounded by thick marble columns. Barristers and judges speak with one another in the hallways towards guild rooms and the court of peers. Citizens sit on marble benches outside of the guild rooms, waiting for their pleas to be heard before entering the court.
+
+The area is illuminated.
+
+In this room you see: 1st fidgety zacotl citizen, 1st scruffy goblin citizen
+Obvious exits are: west, southwest, south, east, vaulted double doors, steps
+
+ ** Kinson Darkfist just arrived in the world
+
+e
+
+[Lockpicker's Union]
+A single desk and chair, neatly stacked with legible parchments and scrolls, dominate the small office. A single map of Urda, extremely detailed and marked with unusual symbols is hung on the back wall. Members of the union pass in and out of the office quickly, quietly speaking with the guild leader.
+
+The area is illuminated.
+
+Obvious exits are: west
+
+w
+
+[Judicial Forum, Common Room]
+A spacious room opens up, surrounded by thick marble columns. Barristers and judges speak with one another in the hallways towards guild rooms and the court of peers. Citizens sit on marble benches outside of the guild rooms, waiting for their pleas to be heard before entering the court.
+
+The area is illuminated.
+
+In this room you see: 1st fidgety zacotl citizen, 1st scruffy goblin citizen
+Obvious exits are: west, southwest, south, east, vaulted double doors, steps
+
+w
+
+[Conclave of Fighters]
+This sparse room is decorated with a single antique circle shield and a long silver spear. A simple stone desk centers the room with a small chair behind it. Warriors and Berzerkers shuffle in and out of the room to speak with the political leader of their guild.
+
+The area is illuminated.
+
+Obvious exits are: east
+
+e
+
+[Judicial Forum, Common Room]
+A spacious room opens up, surrounded by thick marble columns. Barristers and judges speak with one another in the hallways towards guild rooms and the court of peers. Citizens sit on marble benches outside of the guild rooms, waiting for their pleas to be heard before entering the court.
+
+The area is illuminated.
+
+In this room you see: 1st fidgety zacotl citizen, 1st scruffy goblin citizen
+Obvious exits are: west, southwest, south, east, vaulted double doors, steps
+
+sw
+
+[Center of Communal Cognition]
+Throw pillows have been settled around a large round table which barely rises from the floor. Psions wishing to speak with their guild leader quietly take a seat on one of the pillows and close their eyes. They seem to be discussing matters with one another in a silent communion of minds. A detailed mural on the back wall depicts the chakras for the mental disciplines.
+
+The area is illuminated.
+
+Obvious exits are: northeast
+
+ne
+
+[Judicial Forum, Common Room]
+A spacious room opens up, surrounded by thick marble columns. Barristers and judges speak with one another in the hallways towards guild rooms and the court of peers. Citizens sit on marble benches outside of the guild rooms, waiting for their pleas to be heard before entering the court.
+
+The area is illuminated.
+
+In this room you see: 1st fidgety zacotl citizen, 1st scruffy goblin citizen
+Obvious exits are: west, southwest, south, east, vaulted double doors, steps
+
+se
+I don't see what exit you're referring to.
+
+s
+
+[Ministry of Runic Convergence]
+The small, cramped office of the guild leader of Elementalists is covered in parchment hangings of runes, magical sigils, and enchanted inscriptions. Small bits of runes and magical artifacts litter the tiny desk, covered or covering different papers and rolled pieces of hide. Magical scrolls are hung from the ceiling, their symbols ignited by elemental power.
+
+The area is illuminated.
+
+Obvious exits are: north
+
+n
+
+[Judicial Forum, Common Room]
+A spacious room opens up, surrounded by thick marble columns. Barristers and judges speak with one another in the hallways towards guild rooms and the court of peers. Citizens sit on marble benches outside of the guild rooms, waiting for their pleas to be heard before entering the court.
+
+The area is illuminated.
+
+In this room you see: 1st fidgety zacotl citizen, 1st scruffy goblin citizen
+Obvious exits are: west, southwest, south, east, vaulted double doors, steps
+
+go st
+
+[Talioun March]
+The steps of the Judicial Forum rise up into the high-columned building where the guild offices and court of peers are situated. Orators can be heard from different angles of the Forum as guards hustle on their patrols around the area. The marble building is kept remarkably pristine and shining by constant effort from the city workers.
+
+The area is illuminated.
+
+In this room you see: 1st urdaian city guard, 2nd urdaian city guard
+Obvious exits are: northeast, steps
+
+ ** Drieh Riz just arrived in the world
+
+ne
+ne
+
+[Talioun March]
+The large columns of the judicial forum rise up to the southwest, high on a hill with steps squared all around it. A few ministers, judges, and barristers walk towards the Judicial Forum holding ledgers and satchels of papers. The guards watch closely at anyone passing by.
+
+The area is illuminated.
+
+In this room you see: 1st urdaian senior guard
+Obvious exits are: southwest, northeast
+
+ne
+
+[Talioun March]
+City workers deftly polish the marble walkway with rags and scrub brushes. Others collect what little refuses has blown onto the walkway, making this the cleanest part of the city by far. The marble slabs of the walkway are joined together by thin, gold grouting. The path seems to blaze in the light of the sun and lamps.
+
+The area is illuminated.
+
+Obvious exits are: southwest, northeast
+
+
+[Talioun March]
+Brightly woven banners of every religion, race, and represented guilds wave along the roadway on tall pennants. Guards are stationed every ten feet, standing at attention near an archway through which the pathway moves. Respectfully, there are no merchants or peddlers selling wares along this street.
+
+The area is illuminated.
+
+Obvious exits are: southwest, northeast
+
+ne
+
+[Talioun March]
+Just off the center of the town, a gleaming, highly polished marble walkway, gilded by high arches wreathed in sculpted friezes of different races and religions. The marble roadway to the southwest leads into the justice center.
+
+The area is illuminated.
+
+Obvious exits are: southwest, east, northeast, north
+
+ne
+
+[Urda Town Square Center]
+On this site, a fierce battle for control of the great city was waged, and on this site is where its citizens now celebrate that victory. Statues of the fallen heroes, and great leaders of the alliance adorn the tops of grand marble archways that scatter over the square. They stand ever vigilant against any unseen enemy. The people of Urda flock here to barter and trade, to converse with friends, or just relax near the fountain and have a game of chess. Benches and tables dot the landscape near the edge of the fountain. Hawkers of all type roll through this area with their wares, hoping to make a few coins. The many languages of races and guilds reverberate off the storefronts of the surrounding Merchant Square where a constant foot traffic ebbs and flows, making this the heart of the city.
+
+The area is illuminated.
+
+In this room you see: Lizzie the Goblin, 1st urdaian city guard
+In this room are: large wooden bulletin board
+Obvious exits are: northwest, west, southwest, south, southeast, east, northeast, north
+
+nod
+You nod.
+
+Lawson just entered from the north.
+
+Lizzie exclaims, "iz go!"
+
+beam
+You beam.
+
+l
+
+[Urda Town Square Center]
+On this site, a fierce battle for control of the great city was waged, and on this site is where its citizens now celebrate that victory. Statues of the fallen heroes, and great leaders of the alliance adorn the tops of grand marble archways that scatter over the square. They stand ever vigilant against any unseen enemy. The people of Urda flock here to barter and trade, to converse with friends, or just relax near the fountain and have a game of chess. Benches and tables dot the landscape near the edge of the fountain. Hawkers of all type roll through this area with their wares, hoping to make a few coins. The many languages of races and guilds reverberate off the storefronts of the surrounding Merchant Square where a constant foot traffic ebbs and flows, making this the heart of the city.
+
+The area is illuminated.
+
+In this room you see: Lizzie the Goblin,  Lawson the Human, 1st urdaian city guard
+In this room are: large wooden bulletin board
+Obvious exits are: northwest, west, southwest, south, southeast, east, northeast, north
+
+Lizzie exclaims to Kurapiira, "zankz for zee time!"
+
+sal to li
+You salute to Lizzie.
+
+Lawson just went south.
+
+ ** Lawson Jones just left the world.
+
+Lizzie bows around awkwardly.
+
+l
+
+[Urda Town Square Center]
+On this site, a fierce battle for control of the great city was waged, and on this site is where its citizens now celebrate that victory. Statues of the fallen heroes, and great leaders of the alliance adorn the tops of grand marble archways that scatter over the square. They stand ever vigilant against any unseen enemy. The people of Urda flock here to barter and trade, to converse with friends, or just relax near the fountain and have a game of chess. Benches and tables dot the landscape near the edge of the fountain. Hawkers of all type roll through this area with their wares, hoping to make a few coins. The many languages of races and guilds reverberate off the storefronts of the surrounding Merchant Square where a constant foot traffic ebbs and flows, making this the heart of the city.
+
+The area is illuminated.
+
+In this room you see: Lizzie the Goblin, 1st urdaian city guard
+In this room are: large wooden bulletin board
+Obvious exits are: northwest, west, southwest, south, southeast, east, northeast, north
+
+Lizzie just went south.
+
+grin
+You grin.
+
+inv
+
+You are currently holding:
+
+ ====== Containers ======
+  -open black leather pack (8.66 lbs)
+  -closed large durable burlap travel pack (2.6 lbs)
+  -open plain scuffed black courier's satchel (0.83 lbs)
+  -open lacquered dark brown maple scroll case (1.5 lbs)
+  -gem-studded carry-all (0.4 lbs)
+  -open black leather bookbag (3.22 lbs)
+
+ ====== Weapons ======
+  -golden siren hair-infused driftwood divination stave (0.3 lbs)
+
+ ====== Other ======
+  -golden brass belly chain (0.0 lbs)
+  -pair of dangling crackle-quartz skulls (0.07 lbs)
+  -slightly dangling gold coiled snake eyebrow ring (0.07 lbs)
+  -glittering icicle-shaped crystal septum piercing (0.1 lbs)
+  -scuffed harpy-headed oak walking stick (5.0 lbs)
+  -glittering spirit-touched arrowhead on a chain (0.3 lbs)
+  -set of stiff boar skin wrist wraps (0.0 lbs)
+  -pair of emerald inlaid moonsilver wingclips (0.3 lbs)
+
+ ====== Lights ======
+  -phosphorescent mossy geode (0.1 lbs)
+
+ ====== Clothing ======
+  -wild blue dyed silkroot waist wrap (0.17 lbs)
+  -pair of dark brown cotton leggings (0.3 lbs)
+  -loose layer-hemmed dusky blue pashmina banyan (0.1 lbs)
+  -black pongee silk camisole (0.1 lbs)
+  -emerald inlaid holly and red berry tiara (0.1 lbs)
+  -pair of soft padded dancer's foot thongs (0.1 lbs)
+
+ ====== Armors ======
+  -light irratacite chainmail (3.33 lbs)
+
+ (27.65 / 104 lbs being carried)
+
+ You currently have 89 marks and 9 crowns.
+
+put boo in sat
+You put the open black leather bookbag in your open plain scuffed black courier's satchel.
+
+ ** Lizzie Zchultz just left the world.
+
+The urdaian city guard patrols the streets vigilantly, his hand on the hilt of his sword.
+
+who
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+    Currently Connected
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+  Ches Saras
+  Derigaaz Abraxis
+  Desmond Delavan
+  Drieh Riz
+  Elethene Coelm
+  Garn Thorn
+  Kemuel Bartimeus
+  Kinson Darkfist
+  Kurapiira Mako
+  Kynea Blackarrow
+  Lucifer Voractis
+  Maria Saldis
+  Owen Davintar
+  Primum Hherotes
+  Salevos Fereni
+  Seren Prilos
+  Versius Ultum
+  Vynter Wintz
+  Wayvan Argent
+  Wollmaus Eisenhart
+
+    [20 total]
+
+A debonair nobleman just entered from the south.
+
+The 1st urdaian city guard just wandered south.
+
+A debonair nobleman just entered from the southeast.
+
+e
+
+[Merchant Square]
+The neat brick storefront of shops peak out around the perimeter of the cobblestone square along with neatly manicured hedges with trees spaced between them. Detailed arches, sculpted in the memory of iconic leaders that fought for Urda's freedom, decorate the busy square. The Eastern Cross leads travelers to the east gate and towards the Bloodlands.
+
+The area is illuminated.
+
+In this room are: eastern monument
+Obvious exits are: northwest, west, southwest, south, east, north
+
+n
+
+[Merchant Square]
+The corner of the cobblestone square comes to a halt in front of a pillared, marble building accented by tall trees braided with wildflowers. The moderate sized building frames a shiny brass door on which the words "Urda Merchants Council" are etched. Bushes trimmed and cut into various shapes, edge the buildings face. A small path to the northeast, lined with black wrought iron lamps leads towards a beautiful courtyard.
+
+The area is illuminated.
+
+In this room are: northeastern monument
+Obvious exits are: west, southwest, south, walkway, closed door
+
+land
+Diving downwards, you deftly extend your wings and touch down gracefully.
+
+hide
+You fail to hide.
+[2 sec. delay]
+
+hide
+You fail to hide.
+[2 sec. delay]
+
+hide
+hide
+hide
+You fail to hide.
+[2 sec. delay]
+
+You fail to hide.
+[2 sec. delay]
+
+grit
+You grit your teeth.
+
+You slip into the shadows.
+[3 sec. delay]
+
+que clear
+Your command queue has been cleared.
+
+quit
+
+ =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+  Welcome to Isles of Aedin!
+        Version - BETA
+ =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+  
+  Please select your choice: 
+         1. ) Enter World
+         2. ) Create Character
+         3. ) Change Active Character
+         4. ) Delete Character
+         5. ) View Character
+         6. ) Account Preferences
+         7. ) Vote for Isles of Aedin!
+         0. ) Exit
+                
+  Current Character -  Kurapiira 
+Kurapiira
+  
+Logname: Kurapiira
+0
+Closed Kurapiira-offerings.txt on file 1
