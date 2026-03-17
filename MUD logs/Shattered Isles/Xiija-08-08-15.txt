@@ -1,0 +1,5346 @@
+l
+
+
+
+[Alumni Pavilion.]
+
+A small canary yellow tablecloth-covered refreshment table greets guests as they enter the bright and colorful oval tent.  Within the central presentation area, surrounded by a short pine partition, are several tables bearing mysterious objects shrouded by crisp, white linen cloths.  A blue-painted podium, that has been placed upon a large circular sandstone dais, is positioned directly in front of a dark canvas curtain.  Bright red wooden bleachers, arranged in a semicircle, offer spectators a bird's eye view of the activities below.  You notice an Academy-crested polished silver cookie tray, a large academy-crested polished silver punch bowl, an iron-banded wooden barrel, a red-striped canvas tent flap, a small canary yellow tablecloth-covered refreshment table, a blue-painted pine podium, an Academy-crested polished silver drink tray, a large green cloth-covered pine table, a silver platter, a silver platter, a silver platter, and a silver platter.
+
+Also here: Gant the Human, Champion Blink the Avardi (lying down) on some bright red wooden bleachers, Trystan the Human, Kasiya the Human (seated) on some bright red wooden bleachers, and Kaiya the Avardi (seated) 
+
+Obvious Exits: none
+
+
+Trystan gestures at a silver platter.
+
+Kaiya gets a frosted glass plate from a silver platter.
+
+Trystan says, "Help yourselves to the refreshments."
+
+A town crier can be heard shouting in the distance, "Alumni Day festivities start at eight and a half bells in the Alumni Pavillion near the nothern intersection of the Academy! All are welcome big and small! Come see for yourself and have a ball!"
+
+Kaiya says, "Oooh."
+
+Kasiya gets a frosted glass plate from a silver platter.
+
+Trystan gestures at a large academy-crested polished silver punch bowl.
+
+Kasiya exclaims, "Oh!"
+flai
+
+You flail your arms.
+
+who
+[ARRIVALS] 'Malek has logged out.'
+   Players Currently Online: 
+ =============================
+
+   Gant the Human                                              
+   Kasiya the Human                                            
+   Garaven the Verdani                                         
+   Xiija the Sylph                                             
+   Brooke the Bolinau                                          
+   Thyia the Human                                             
+   Bihi the Bolinau                                            
+   Kaiya the Avardi                                            
+   Blink the Avardi                                            
+   Bocon the Devalin                                           
+   Geel the Gavial                                             
+   Trystan the Human                                           
+   Faylen the Human                                            
+
+go ten
+
+
+
+[Summoner Street, Northern Intersection.]
+
+A great oak door is recessed into the massive stone edifice of the Preceptor's Hall.  Street lanterns enchanted with light illuminate the paths heading toward the marketplace, the local post office, and the healer.  The grand exterior of the area's main hall stands triumphant at the end of the street.  The elegance of its carved patterns and trim reflects in the stonework of nearby buildings.  A large multicolored tent has been set up at the edge of the intersection.  A large banner has been stretched above the entrance announcing, "Alumni Day at the Academy, Eighth of Verdi!"  You notice a multi-colored canvas tent, and a red-striped canvas tent flap.
+
+Also here: an academy guard, and Faylen the Human 
+
+Obvious Exits: west, east, south, and north. 
+
+cac
+
+Faylen leaves northeast.
+<HP: 157/157 ST: 123/123>
+You cackle.
+s
+
+
+
+[Summoner Street.]
+
+Novice warriors and other students scurry together down the road toward the academy outlands in search of prey to test each others' skills.  The street is teeming with young adventurers seeking an outlet for the newly gained abilities they have learned.  A wrought iron lantern is here, casting an illuminating glow over the street.
+
+Obvious Exits: south, and north. 
+
+s
+
+
+
+[Summoner Street.]
+
+The stone pathway leading away from the academy crossroads is filled with young adventures on their way to further their studies at the Preceptor's Hall.  The steady sound of swords clanking against each other can be heard in the distance to the north.  A wrought iron lantern casts an illuminating glow over the street.
+
+Obvious Exits: south, and north. 
+
+s
+
+
+
+[Academy Crossroads.]
+
+A large marble fountain anchors the central crossroads of the academy, right at the heart of the marketplace.  Rainbow mists float through the air, reflecting any available light.  Smooth, white stone neatly paves the circular roadway encompassing the fountain.  To the north, a looming stone structure rises above the cityscape in grandiose form.  Constant traffic of locals and adventurers heading toward the north lends to the building's purpose as the academy school, while many others take advantage of the services available nearby.  You notice a simple stone bench, and a wooden directional signpost.
+
+Obvious Exits: west, east, south, and north. 
+
+e
+
+
+
+[Market Square East.]
+
+The eastern end of the market is covered in heavy traffic between the academy depository to the north and Sedrin's pawnshop to the south.  Adventurers stumble through carrying as much loot as possible after a successful hunt in the outlands.  Several other buildings line the busy square and a road branches off to the southeast.
+
+Also here: an academy guard 
+
+Obvious Exits: southeast, northeast, west, east, south, and north. 
+
+n
+
+
+
+[Academy Depository, Entrance.]
+
+The slight peak of the academy depository rises in the middle of its white stone face above.  Only its heavy steel door offers a visual break in its bleak design.  The sound of coins clattering against the wooden counter can be heard from inside.  Adventurer's promptly pass by to visit the clerk to deposit their earnings for the day or exchange foreign currencies for doubloons.  You notice an open large steel door.
+
+Also here: a young adventurer 
+
+Obvious Exits: south. 
+
+n
+
+
+
+[Academy Depository.]
+
+A lone clerk handles all the dealings from behind a wooden counter at the north end.  Adventurers come and go, few spending time chatting before storing the more valuable spoils of their yield and returning to their lessons.  You notice an open large steel door, and a freshly-carved wooden sign.
+
+Also here: a depository clerk, and Bihi the Bolinau 
+
+Obvious Exits: none
+
+<HP: 157/157 ST: 123/123>
+who
+[ARRIVALS] 'Malek has logged on.'
+   Players Currently Online: 
+ =============================
+
+   Gant the Human                                              
+   Kasiya the Human                                            
+   Garaven the Verdani                                         
+   Xiija the Sylph                                             
+   Brooke the Bolinau                                          
+   Thyia the Human                                             
+   Bihi the Bolinau                                            
+   Kaiya the Avardi                                            
+   Blink the Avardi                                            
+   Bocon the Devalin                                           
+   Geel the Gavial                                             
+   Trystan the Human                                           
+   Faylen the Human                                            
+   Malek the Gargoyle                                          
+
+with cusion
+
+who
+[ARRIVALS] 'Bihi has logged out.'
+Bihi departs from the world.
+That doesn't appear to be available.  Try LIST.
+   Players Currently Online: 
+ =============================
+
+   Gant the Human                                              
+   Kasiya the Human                                            
+   Garaven the Verdani                                         
+   Xiija the Sylph                                             
+   Brooke the Bolinau                                          
+   Thyia the Human                                             
+   Kaiya the Avardi                                            
+   Blink the Avardi                                            
+   Bocon the Devalin                                           
+   Geel the Gavial                                             
+   Trystan the Human                                           
+   Faylen the Human                                            
+   Malek the Gargoyle                                          
+
+with floor
+
+That doesn't appear to be available.  Try LIST.
+list
+
+You review your account with a depository clerk.
+
+Safety Deposit Box Contents                                           
+===========================
+box on
+
+a garlic necklace (1.0 lb)                                            
+a silver-trimmed niello chestplate (16.0 lbs)                         
+some etched wooden prayer beads (1.0 lb)                              
+a long fur-lined cotton coat (1.0 lb)                                 
+a leather-braided wristband (1.0 lb)                                  
+some soft buckskin gloves (1.0 lb)                                    
+a supple leather book satchel (1.0 lb)                                
+some weathered woven hemp moccasins (1.0 lb)                          
+a long fur-lined cotton coat (1.0 lb)                                 
+some deep purple cotton robes (1.0 lb)                                
+a patched tribal shaman's silk sarkari (1.0 lb)                       
+a leaf-embroidered canvas smoking pouch (1.0 lb)                      
+a golden feather-embossed moss green samite chipao (2.0 lbs)          
+a feather-pinned velvet fedora (1.0 lb)                               
+some falcon feather-adorned ivory prayer beads (1.0 lb)               
+a frilly soft pink satin tutu (1.0 lb)                                
+a hemp alchemist's satchel (2.0 lbs)                                  
+a large burlap miner's bag (4.0 lbs)                                  
+a snug wolf fang-clasped soft black leather knapsack (3.0 lbs)        
+a large canvas traveler's pack (4.0 lbs)                              
+a medium sturdy canvas knapsack (3.0 lbs)                             
+a small canvas foraging bag (2.0 lbs)                                 
+a small cotton herb pouch (1.0 lb)                                    
+an academy-crested iron shield (3.0 lbs)                              
+a small round wooden shield (1.0 lb)                                  
+a steel tower shield (3.0 lbs)                                        
+a dapper black broadcloth cloak (1.0 lb)                              
+a quiver of oak darts (1.0 lb)                                        
+a quiver of oak darts (1.0 lb)                                        
+a quiver of oak darts (1.0 lb)                                        
+a quiver of feather-adorned darts (1.0 lb)                            
+a quiver of oak darts (1.0 lb)                                        
+a quiver of oak darts (1.0 lb)                                        
+a quiver of oak darts (1.0 lb)                                        
+a quiver of pine arrows (1.0 lb)                                      
+a quiver of pine arrows (1.0 lb)                                      
+a hook-handled canvas umbrella (1.0 lb)                               
+a bright orange pumpkin face cotton pillow case (1.0 lb)              
+a glass jar (1.0 lb)                                                  
+a jeweled sable fur handbag (2.0 lbs)                                 
+a supple leather ingredients bag (2.0 lbs)                            
+a Tallwood Forest-embroidered linen herb satchet (2.0 lbs)            
+a small potion-inscribed tome (1.0 lb)                                
+a glass jar (1.0 lb)                                                  
+a small leather smoking pouch (1.0 lb)                                
+a multicolored woven hemp bag (1.0 lb)                                
+a polished rounded blue marble salt box (2.0 lbs)                     
+a clay jar of black paint (1.0 lb)                                    
+a cup of intensely robust dark nilgiri tea (1.0 lb)                   
+a small pewter cauldron (1.0 lb)                                      
+a creepy skeleton hand-shaped bone mug of blood red punch (1.0 lb)    
+a Torrentine River-etched copper cooking pot (1.0 lb)                 
+a jug of distilled coconut feni (1.0 lb)                              
+a small cup of dried cherry-flavored green coffee (1.0 lb)            
+a creepy skeleton hand-shaped bone mug of blood red punch (1.0 lb)    
+a leather waterskin (1.0 lb)                                          
+a colorful glass vial (1.0 lb)                                        
+an ivory drinking horn (2.0 lbs)                                      
+a tarnished silver flask (1.0 lb)                                     
+a tankard of harbor pale ale (1.0 lb)                                 
+a cup of hot Tetherian-bean coffee (1.0 lb)                           
+a bottle of dark rum (1.0 lb)                                         
+a tarnished silver flask (1.0 lb)                                     
+a mug of lavender-infused honey milk tea (1.0 lb)                     
+a hand-painted porcelain cup of red roobios tea (1.0 lb)              
+a cup of potent valerian root tea (1.0 lb)                            
+a cup of coffee (1.0 lb)                                              
+a cup of hot Tetherian-bean coffee (1.0 lb)                           
+an etched tin canteen (1.0 lb)                                        
+a creepy skeleton hand-shaped bone mug of blood red punch (1.0 lb)    
+a sturdy tin pot (1.0 lb)                                             
+a frozen colorful fruit-infused snowcone (1.0 lb)                     
+a small succulent peach (0.0 lbs)                                     
+a bundle of garlic (3.0 lbs)                                          
+some pungent blue thistle pipe tobacco (1.0 lb)                       
+a bundle of basil (3.0 lbs)                                           
+an egg (1.0 lb)                                                       
+a bundle of eggs (17.0 lbs)                                           
+a reddish-green apple (1.0 lb)                                        
+a bundle of seaweed (3.0 lbs)                                         
+a bundle of mushrooms (18.0 lbs)                                      
+an egg (1.0 lb)                                                       
+some spider legs (1.0 lb)                                             
+a bundle of carrots (15.0 lbs)                                        
+a bundle of herring (8.0 lbs)                                         
+some squishy worms (1.0 lb)                                           
+a bundle of salmon (12.0 lbs)                                         
+some milk (1.0 lb)                                                    
+a bundle of mushrooms (16.0 lbs)                                      
+a bundle of halibut (4.0 lbs)                                         
+a bundle of herbs (18.0 lbs)                                          
+a bundle of carrots (15.0 lbs)                                        
+some milk (1.0 lb)                                                    
+a frog tongue (1.0 lb)                                                
+some dried brown pipeweed (1.0 lb)                                    
+some glistening leeches (1.0 lb)                                      
+a bundle of herring (5.0 lbs)                                         
+some dried brown pipeweed (1.0 lb)                                    
+a bundle of basil (6.0 lbs)                                           
+some halibut (1.0 lb)                                                 
+some spider legs (1.0 lb)                                             
+a bundle of herbs (10.0 lbs)                                          
+a bundle of cod (3.0 lbs)                                             
+a bundle of blackberries (4.0 lbs)                                    
+a bundle of halibut (2.0 lbs)                                         
+a bundle of corn (7.0 lbs)                                            
+a bundle of cod (7.0 lbs)                                             
+a bundle of flounder (4.0 lbs)                                        
+a bundle of mushrooms (11.0 lbs)                                      
+a bundle of okra (8.0 lbs)                                            
+a bundle of carrots (10.0 lbs)                                        
+a bundle of basil (10.0 lbs)                                          
+some milk (1.0 lb)                                                    
+a bundle of catfish (9.0 lbs)                                         
+some peppermint (1.0 lb)                                              
+a bundle of snapper (5.0 lbs)                                         
+some milk (1.0 lb)                                                    
+a bundle of flounder (3.0 lbs)                                        
+a bundle of halibut (3.0 lbs)                                         
+a bundle of halibut (17.0 lbs)                                        
+some milk (1.0 lb)                                                    
+a bundle of meat (1.0 lb)                                             
+a bundle of mutton (2.0 lbs)                                          
+some milk (1.0 lb)                                                    
+a bundle of flounder (4.0 lbs)                                        
+a bundle of boysenberries (60.0 lbs)                                  
+a pinch of salt (1.0 lb)                                              
+some halibut (1.0 lb)                                                 
+a bundle of herbs (15.0 lbs)                                          
+a bundle of ginger (2.0 lbs)                                          
+a bundle of potatoes (4.0 lbs)                                        
+a bundle of strawberries (75.0 lbs)                                   
+a bundle of salt (10.0 lbs)                                           
+some milk (1.0 lb)                                                    
+a bundle of thyme (3.0 lbs)                                           
+some iridescent slugs (1.0 lb)                                        
+some milk (1.0 lb)                                                    
+a bundle of mutton (4.0 lbs)                                          
+a bundle of cod (5.0 lbs)                                             
+a bundle of trout (13.0 lbs)                                          
+an egg (1.0 lb)                                                       
+some sweet mulberry leaf pipe tobacco (1.0 lb)                        
+a bundle of herring (2.0 lbs)                                         
+some flounder (1.0 lb)                                                
+a bundle of basil (3.0 lbs)                                           
+some milk (1.0 lb)                                                    
+some milk (1.0 lb)                                                    
+a bundle of grouper (4.0 lbs)                                         
+a bundle of potatoes (8.0 lbs)                                        
+a bundle of salmon (15.0 lbs)                                         
+a bundle of herring (3.0 lbs)                                         
+a chipped bolinau tooth (1.0 lb)                                      
+a small jade dragon figurine (1.0 lb)                                 
+a white-streaked lavender orchid (1.0 lb)                             
+a Pearl-engraved platinum coin (1.0 lb)                               
+a thin bone toothpick (1.0 lb)                                        
+a Pearl-engraved platinum coin (1.0 lb)                               
+a thin bone toothpick (1.0 lb)                                        
+a troll bone sylph figurine (3.0 lbs)                                 
+a pristine feather quill (1.0 lb)                                     
+a small glass inkwell (1.0 lb)                                        
+a fresh four leaf clover (1.0 lb)                                     
+an ochre-spotted mountain troll heart (1.0 lb)                        
+an iron chiseling spike (1.0 lb)                                      
+a black frizzled quill (1.0 lb)                                       
+a durable sharpening stone (2.0 lbs)                                  
+a blood-soaked cotton rag (1.0 lb)                                    
+a feather quill (1.0 lb)                                              
+a corked glass bottle (1.0 lb)                                        
+a rough green serpent scale (1.0 lb)                                  
+a corked glass bottle (1.0 lb)                                        
+a crusty gavial toenail (1.0 lb)                                      
+a human spiritual doll (1.0 lb)                                       
+a hand-carved teak wyvern (1.0 lb)                                    
+a long-stemmed porcelain calabash pipe (1.0 lb)                       
+a glass hookah (1.0 lb)                                               
+a petrified troll skull hookah (1.0 lb)                               
+a bundle of fur (1.0 lb)                                              
+some peacock feathers (1.0 lb)                                        
+a pile of bolinau bones (1.0 lb)                                      
+a bundle of hide (3.0 lbs)                                            
+some pine (1.0 lb)                                                    
+some snakeskin (1.0 lb)                                               
+a bundle of amber (2.0 lbs)                                           
+a bundle of straw (3.0 lbs)                                           
+a bundle of feathers (9.0 lbs)                                        
+some snakeskin (1.0 lb)                                               
+a pile of sheep bones (1.0 lb)                                        
+a bundle of pumice (43.0 lbs)                                         
+a bundle of hemp (13.0 lbs)                                           
+a bundle of turquoise (8.0 lbs)                                       
+a glass vial of red elixir (1.0 lb)                                   
+a glass bottle of red elixir (1.0 lb)                                 
+a glass bottle of blue elixir (1.0 lb)                                
+a small green-labeled glass bottle (1.0 lb)                           
+a glass flask of red elixir (1.0 lb)                                  
+a glass bottle of blue elixir (1.0 lb)                                
+a glass bottle of red elixir (1.0 lb)                                 
+a glass bottle of red elixir (1.0 lb)                                 
+a glass vial of red elixir (1.0 lb)                                   
+a glass bottle of red elixir (1.0 lb)                                 
+a glass bottle of red elixir (1.0 lb)                                 
+a glass bottle of blue elixir (1.0 lb)                                
+a glass bottle of red elixir (1.0 lb)                                 
+a simple birch bow (2.0 lbs)                                          
+a bamboo-sheathed osage blowgun (2.0 lbs)                             
+a bone dagger (1.0 lb)                                                
+an icy snowball (1.0 lb)                                              
+an icy snowball (1.0 lb)                                              
+an icy snowball (1.0 lb)                                              
+an icy snowball (1.0 lb)                                              
+a wooden staff (2.0 lbs)                                              
+an icy snowball (1.0 lb)                                              
+
+
+Current balance: 10500 doubloons.
+Current Bank Balances: Xiija
+Pearl    10500
+RumVillage    0
+TOTAL: 10500
+box off
+
+who
+[ARRIVALS] 'Seren has logged on.'
+
+   Players Currently Online: 
+ =============================
+
+   Gant the Human                                              
+   Kasiya the Human                                            
+   Garaven the Verdani                                         
+   Xiija the Sylph                                             
+   Brooke the Bolinau                                          
+   Thyia the Human                                             
+   Kaiya the Avardi                                            
+   Blink the Avardi                                            
+   Bocon the Devalin                                           
+   Geel the Gavial                                             
+   Trystan the Human                                           
+   Faylen the Human                                            
+   Malek the Gargoyle                                          
+   Seren the Avardi                                            
+
+with troll skull
+
+You withdraw a petrified troll skull hookah from your account.
+A depository clerk says to you,  "Thank you for your trust."
+
+who
+[ARRIVALS] 'Rochiriel has logged on.'
+with pipewee
+
+   Players Currently Online: 
+ =============================
+
+   Gant the Human                                              
+   Kasiya the Human                                            
+   Garaven the Verdani                                         
+   Xiija the Sylph                                             
+   Brooke the Bolinau                                          
+   Thyia the Human                                             
+   Kaiya the Avardi                                            
+   Blink the Avardi                                            
+   Bocon the Devalin                                           
+   Geel the Gavial                                             
+   Trystan the Human                                           
+   Faylen the Human                                            
+   Malek the Gargoyle                                          
+   Seren the Avardi                                            
+   Rochiriel the Verdani                                       
+
+You withdraw some dried brown pipeweed from your account.
+A depository clerk says to you,  "Thank you for your trust."
+s
+
+
+
+[Academy Depository, Entrance.]
+
+The slight peak of the academy depository rises in the middle of its white stone face above.  Only its heavy steel door offers a visual break in its bleak design.  The sound of coins clattering against the wooden counter can be heard from inside.  Adventurer's promptly pass by to visit the clerk to deposit their earnings for the day or exchange foreign currencies for doubloons.  You notice an open large steel door.
+
+Also here: a young adventurer, and an academy guard 
+
+Obvious Exits: south. 
+
+s
+
+
+
+[Market Square East.]
+
+The eastern end of the market is covered in heavy traffic between the academy depository to the north and Sedrin's pawnshop to the south.  Adventurers stumble through carrying as much loot as possible after a successful hunt in the outlands.  Several other buildings line the busy square and a road branches off to the southeast.
+
+Obvious Exits: southeast, northeast, west, east, south, and north. 
+
+w
+
+
+
+[Academy Crossroads.]
+
+A large marble fountain anchors the central crossroads of the academy, right at the heart of the marketplace.  Rainbow mists float through the air, reflecting any available light.  Smooth, white stone neatly paves the circular roadway encompassing the fountain.  To the north, a looming stone structure rises above the cityscape in grandiose form.  Constant traffic of locals and adventurers heading toward the north lends to the building's purpose as the academy school, while many others take advantage of the services available nearby.  You notice a simple stone bench, and a wooden directional signpost.
+
+Obvious Exits: west, east, south, and north. 
+
+n
+
+
+
+[Summoner Street.]
+
+The stone pathway leading away from the academy crossroads is filled with young adventures on their way to further their studies at the Preceptor's Hall.  The steady sound of swords clanking against each other can be heard in the distance to the north.  A wrought iron lantern casts an illuminating glow over the street.
+
+Obvious Exits: south, and north. 
+
+n
+
+
+
+[Summoner Street.]
+
+Novice warriors and other students scurry together down the road toward the academy outlands in search of prey to test each others' skills.  The street is teeming with young adventurers seeking an outlet for the newly gained abilities they have learned.  A wrought iron lantern is here, casting an illuminating glow over the street.
+
+Obvious Exits: south, and north. 
+
+n
+
+
+
+[Summoner Street, Northern Intersection.]
+
+A great oak door is recessed into the massive stone edifice of the Preceptor's Hall.  Street lanterns enchanted with light illuminate the paths heading toward the marketplace, the local post office, and the healer.  The grand exterior of the area's main hall stands triumphant at the end of the street.  The elegance of its carved patterns and trim reflects in the stonework of nearby buildings.  A large multicolored tent has been set up at the edge of the intersection.  A large banner has been stretched above the entrance announcing, "Alumni Day at the Academy, Eighth of Verdi!"  You notice a multi-colored canvas tent, and a red-striped canvas tent flap.
+
+Also here: an academy guard 
+
+Obvious Exits: west, east, south, and north. 
+
+ne
+
+
+
+[Alumni Pavilion.]
+
+A small canary yellow tablecloth-covered refreshment table greets guests as they enter the bright and colorful oval tent.  Within the central presentation area, surrounded by a short pine partition, are several tables bearing mysterious objects shrouded by crisp, white linen cloths.  A blue-painted podium, that has been placed upon a large circular sandstone dais, is positioned directly in front of a dark canvas curtain.  Bright red wooden bleachers, arranged in a semicircle, offer spectators a bird's eye view of the activities below.  You notice an Academy-crested polished silver cookie tray, a large academy-crested polished silver punch bowl, an iron-banded wooden barrel, a red-striped canvas tent flap, a small canary yellow tablecloth-covered refreshment table, a blue-painted pine podium, an Academy-crested polished silver drink tray, a large green cloth-covered pine table, a silver platter, a silver platter, a silver platter, and a silver platter.
+
+Also here: Gant the Human, Champion Blink the Avardi (lying down) on some bright red wooden bleachers, Trystan the Human, Kasiya the Human (seated) on some bright red wooden bleachers, Kaiya the Avardi (seated), Faylen the Human, and Seren the Avardi 
+
+Obvious Exits: none
+
+
+Kasiya asks, "Hm. Are there glasses to get some of the drink with?"
+
+Trystan says, "Speaking of which."
+
+Seren smiles at Trystan.
+
+Blink exclaims to Seren, "Check it out!"
+
+Blink gives a thick bird-stenciled vellum manual to Seren.
+
+Blink says, "Oops."
+
+Trystan says to Seren, "You were the first answer to the trivia questions."
+
+Blink says, "Give that back please."
+
+Blink says, "Wrong item."
+
+Seren says, "Oo very nice."
+grin
+
+You grin.
+Blink gives a frosted bird-shaped sugar cookie to Seren.
+
+Kaiya exclaims, "There were trivia questions?!"
+
+Kasiya exclaims, "There were?!"
+hold hook
+
+You can't hold a petrified troll skull hookah.Try WEARing it.
+[Delay: 3.0 sec.]
+
+Kasiya gets a frosted bird-shaped sugar cookie from an Academy-crested polished silver cookie tray.
+
+Trystan asks, "Name that chef?"
+wear hook
+
+A petrified troll skull hookah looks empty.
+[Delay: 3.0 sec.]
+
+
+Kasiya says, "Uh."
+
+Kaiya squints at Trystan.
+
+Seren gives a thick bird-stenciled vellum manual to Blink.
+put pipw hook
+
+You don't seem to be carrying that.
+
+Blink says to Seren, "Thanks."
+
+Kaiya says, "Seren. Duh."
+
+Trystan gestures and says, "and more to come later."
+inv
+Inventory:
+
+a petrified troll skull hookah (1.0 lb)
+ some dried brown pipeweed (1.0 lb)
+ 
+Currency: 163 doubloons
+
+Carrying: 86 items (40.0 | 81.0) lbs.
+
+
+Kasiya says, "No idea."
+
+Kasiya grins.
+
+Trystan chuckles.
+put pipewee hook
+
+You put some dried brown pipeweed in a petrified troll skull hookah.
+wear hook
+
+You light up a petrified troll skull hookah.
+[Delay: 3.0 sec.]
+
+
+Blink says, "Now I can learn some new bird calls."
+
+Blink removes a large plush blue twill sleeping bag.
+Blink holds a thick bird-stenciled vellum manual.
+
+inh deeply
+l
+
+
+
+[Alumni Pavilion.]
+
+A small canary yellow tablecloth-covered refreshment table greets guests as they enter the bright and colorful oval tent.  Within the central presentation area, surrounded by a short pine partition, are several tables bearing mysterious objects shrouded by crisp, white linen cloths.  A blue-painted podium, that has been placed upon a large circular sandstone dais, is positioned directly in front of a dark canvas curtain.  Bright red wooden bleachers, arranged in a semicircle, offer spectators a bird's eye view of the activities below.  You notice an Academy-crested polished silver cookie tray, a large academy-crested polished silver punch bowl, an iron-banded wooden barrel, a red-striped canvas tent flap, a small canary yellow tablecloth-covered refreshment table, a blue-painted pine podium, an Academy-crested polished silver drink tray, a large green cloth-covered pine table, a silver platter, a silver platter, a silver platter, and a silver platter.
+
+exhale slowly, smoke drifting from her nostrils...
+Also here: Gant the Human, Champion Blink the Avardi (lying down) on some bright red wooden bleachers, Trystan the Human, Kasiya the Human (seated) on some bright red wooden bleachers, Kaiya the Avardi (seated), Faylen the Human, and Seren the Avardi 
+
+Obvious Exits: none
+
+You exhale slowly, smoke drifting from her nostrils...
+
+Kaiya says to you, "You own the oddest things."
+cac kai
+
+You cackle at Kaiya.
+
+Kaiya glances to the troll skull hookah.
+
+Seren removes a short silverwood-handled steel boning knife.
+
+inh deeply
+emo bows her head , long grey dreadlocks faliing over her glazed eyes as she exhales....
+You puff on a petrified troll skull hookah.
+
+You inhale deeply.
+
+Xiija bows her head , long grey dreadlocks faliing over her glazed eyes as she exhales....
+
+Trystan glances at you.
+rem hook
+
+You remove a petrified troll skull hookah.
+[Delay: 3.0 sec.]
+
+hum happily
+
+You hum happily.
+
+Trystan asks you, "Can you count to twenty two?"
+' almost?
+
+You ask, "Almost?"
+
+Trystan nods slowly.
+l
+
+
+
+[Alumni Pavilion.]
+
+A small canary yellow tablecloth-covered refreshment table greets guests as they enter the bright and colorful oval tent.  Within the central presentation area, surrounded by a short pine partition, are several tables bearing mysterious objects shrouded by crisp, white linen cloths.  A blue-painted podium, that has been placed upon a large circular sandstone dais, is positioned directly in front of a dark canvas curtain.  Bright red wooden bleachers, arranged in a semicircle, offer spectators a bird's eye view of the activities below.  You notice an Academy-crested polished silver cookie tray, a large academy-crested polished silver punch bowl, an iron-banded wooden barrel, a red-striped canvas tent flap, a small canary yellow tablecloth-covered refreshment table, a blue-painted pine podium, an Academy-crested polished silver drink tray, a large green cloth-covered pine table, a silver platter, a silver platter, a silver platter, and a silver platter.
+
+Also here: Gant the Human, Champion Blink the Avardi (lying down) on some bright red wooden bleachers, Trystan the Human, Kaiya the Avardi (seated), Faylen the Human, Seren the Avardi, and Kasiya the Human (seated) 
+
+Obvious Exits: none
+
+
+Kasiya asks, "Almost? Why not past it?"
+chu
+
+You chuckle.
+
+Bocon arrives from the southwest.
+
+Trystan says to you, "I guess alomst will have to due."
+
+Kasiya looks confused.
+
+Kaiya says to Kasiya, "Not enough toes."
+smi boc
+
+You smile at Bocon.
+l
+
+
+
+[Alumni Pavilion.]
+
+A small canary yellow tablecloth-covered refreshment table greets guests as they enter the bright and colorful oval tent.  Within the central presentation area, surrounded by a short pine partition, are several tables bearing mysterious objects shrouded by crisp, white linen cloths.  A blue-painted podium, that has been placed upon a large circular sandstone dais, is positioned directly in front of a dark canvas curtain.  Bright red wooden bleachers, arranged in a semicircle, offer spectators a bird's eye view of the activities below.  You notice an Academy-crested polished silver cookie tray, a large academy-crested polished silver punch bowl, an iron-banded wooden barrel, a red-striped canvas tent flap, a small canary yellow tablecloth-covered refreshment table, a blue-painted pine podium, an Academy-crested polished silver drink tray, a large green cloth-covered pine table, a silver platter, a silver platter, a silver platter, and a silver platter.
+
+Also here: Gant the Human, Champion Blink the Avardi (lying down) on some bright red wooden bleachers, Trystan the Human, Kaiya the Avardi (seated), Faylen the Human, Seren the Avardi, Empyrion Bocon the Devalin, and Kasiya the Human (seated) 
+
+Obvious Exits: none
+
+
+Bocon smiles lightly.
+
+Blink warbles.
+
+Kasiya furrows a brow.
+
+Kasiya says, "Not enough toes... oh my."
+say boc Merry Meet Empyrion
+
+You say to Bocon, "Merry Meet Empyrion."
+chu kas
+
+You chuckle at Kasiya.
+
+Trystan says to Bocon, "Help yourself to the refreshments, Empyrion."
+
+Trystan gestures at a silver platter.
+
+Trystan points at a large academy-crested polished silver punch bowl.
+
+Bocon says to you, "Good evening."
+l tabl
+
+It looks like a small canary yellow tablecloth-covered refreshment table. Various trays of food and drink surround a large polished silver punch bowl.
+
+
+Kasiya stands up.
+
+Kasiya bows to Bocon.
+
+Garaven arrives from the southwest.
+Rochiriel arrives from the southwest.
+
+Blink gets some leek and potato soup from a frosted glass plate.
+
+Kasiya sits on some bright red wooden bleachers.
+smi
+
+You smile.
+Blink gets a silver spoon from a frosted glass plate.
+l
+
+Rochiriel smiles.
+
+
+
+[Alumni Pavilion.]
+
+A small canary yellow tablecloth-covered refreshment table greets guests as they enter the bright and colorful oval tent.  Within the central presentation area, surrounded by a short pine partition, are several tables bearing mysterious objects shrouded by crisp, white linen cloths.  A blue-painted podium, that has been placed upon a large circular sandstone dais, is positioned directly in front of a dark canvas curtain.  Bright red wooden bleachers, arranged in a semicircle, offer spectators a bird's eye view of the activities below.  You notice an Academy-crested polished silver cookie tray, a large academy-crested polished silver punch bowl, an iron-banded wooden barrel, a red-striped canvas tent flap, a small canary yellow tablecloth-covered refreshment table, a blue-painted pine podium, an Academy-crested polished silver drink tray, a large green cloth-covered pine table, a silver platter, a silver platter, a silver platter, and a silver platter.
+
+Also here: Gant the Human, Champion Blink the Avardi (lying down) on some bright red wooden bleachers, Trystan the Human, Kaiya the Avardi (seated), Faylen the Human, Seren the Avardi, Empyrion Bocon the Devalin, Kasiya the Human (seated) on some bright red wooden bleachers, Ra'daji Garaven the Verdani, and Rochiriel the Verdani 
+
+Obvious Exits: none
+
+
+Blink removes a thick bird-stenciled vellum manual.
+Blink holds a silver spoon.
+
+Trystan nods to Garaven and smiles at Rochiriel.
+l bar
+
+It looks like an iron-banded wooden barrel full of water for cooking or drinking.
+Inside you see:
+
+some water
+ 
+
+Blink says, "Sluuuurp."
+l cooki
+
+It looks like an Academy-crested polished silver cookie tray.
+Inside you see:
+
+a frosted bird-shaped sugar cookie
+ a frosted bird-shaped sugar cookie
+ a frosted bird-shaped sugar cookie
+ a frosted bird-shaped sugar cookie
+ a frosted bird-shaped sugar cookie
+ a frosted bird-shaped sugar cookie
+ a frosted bird-shaped sugar cookie
+ 
+
+Blink eats the last of some leek and potato soup.
+
+
+Rochiriel smiles at Trystan.
+Garaven glances around.
+
+Trystan says, "Just the two I've been waiting for."
+
+Garaven nods to Trystan.
+
+Bocon chuckles.
+get cooki cooki
+
+You get a frosted bird-shaped sugar cookie from an Academy-crested polished silver cookie tray.
+
+Trystan unlocks a blue-painted pine podium.
+
+Trystan opens a blue-painted pine podium.
+
+Trystan gets an obsidian-trimmed basket-hilted blacksteel cutlass from a blue-painted pine podium.
+
+Kaiya beams at Rochiriel.
+<HP: 157/157 ST: 123/123>
+Trystan closes a blue-painted pine podium.
+l
+
+
+
+[Alumni Pavilion.]
+
+A small canary yellow tablecloth-covered refreshment table greets guests as they enter the bright and colorful oval tent.  Within the central presentation area, surrounded by a short pine partition, are several tables bearing mysterious objects shrouded by crisp, white linen cloths.  A blue-painted podium, that has been placed upon a large circular sandstone dais, is positioned directly in front of a dark canvas curtain.  Bright red wooden bleachers, arranged in a semicircle, offer spectators a bird's eye view of the activities below.  You notice an Academy-crested polished silver cookie tray, a large academy-crested polished silver punch bowl, an iron-banded wooden barrel, a red-striped canvas tent flap, a small canary yellow tablecloth-covered refreshment table, a blue-painted pine podium, an Academy-crested polished silver drink tray, a large green cloth-covered pine table, a silver platter, a silver platter, a silver platter, and a silver platter.
+
+Also here: Gant the Human, Champion Blink the Avardi (lying down) on some bright red wooden bleachers, Trystan the Human, Kaiya the Avardi (seated), Faylen the Human, Seren the Avardi, Empyrion Bocon the Devalin, Kasiya the Human (seated) on some bright red wooden bleachers, Ra'daji Garaven the Verdani, and Rochiriel the Verdani 
+
+Obvious Exits: none
+
+
+Trystan locks a blue-painted pine podium.
+
+Garaven says, "Very...colorful."
+
+Kaiya waves to Garaven.
+' Merry Meet!
+
+You exclaim, "Merry Meet!"
+
+Rochiriel glances around.
+
+Bocon chuckles.
+eat cooki
+
+You take a bite of a frosted bird-shaped sugar cookie.
+[Delay: 2.0 sec.]
+
+
+Trystan shows an obsidian-trimmed basket-hilted blacksteel cutlass to Rochiriel.
+
+Garaven nods to Kaiya.
+
+Trystan shows an obsidian-trimmed basket-hilted blacksteel cutlass to Garaven.
+
+Rochiriel nods.
+
+Rochiriel says to Trystan, "Thank you prelate."
+
+Trystan puts an obsidian-trimmed basket-hilted blacksteel cutlass in a rune etched arcsilver-inlaid steel scabbard.
+l refr
+
+Trystan nods to Rochiriel and says, "of course."
+It looks like a small canary yellow tablecloth-covered refreshment table. Various trays of food and drink surround a large polished silver punch bowl.
+
+
+Bocon gets a frosted bird-shaped sugar cookie from an Academy-crested polished silver cookie tray.
+
+Garaven ponders.
+
+Kasiya takes a bite of a frosted bird-shaped sugar cookie.
+l drink
+
+It looks like an Academy-crested polished silver drink tray.
+Inside you see:
+
+a cup of chilled light red fruit punch
+ a cup of chilled light red fruit punch
+ a cup of chilled light red fruit punch
+ a cup of chilled light red fruit punch
+ a cup of chilled light red fruit punch
+ a cup of chilled light red fruit punch
+ a cup of chilled light red fruit punch
+ a cup of chilled light red fruit punch
+ a cup of chilled light red fruit punch
+ a cup of chilled light red fruit punch
+ 
+l serv
+
+You don't see that here!
+
+Bocon says, "Bird shaped.."
+
+Trystan chuckles.
+
+Garaven says, "No mistaking that mark."
+Faylen leaves southwest.
+l tray
+
+It looks like an Academy-crested polished silver cookie tray.
+Inside you see:
+
+a frosted bird-shaped sugar cookie
+ a frosted bird-shaped sugar cookie
+ a frosted bird-shaped sugar cookie
+ a frosted bird-shaped sugar cookie
+ a frosted bird-shaped sugar cookie
+ 
+
+Bocon glances at Blink.
+
+Trystan asks, "Name that bird?"
+
+Bocon chuckles.
+
+Bocon takes a bite of a frosted bird-shaped sugar cookie.
+eat cooki
+
+You take a bite of a frosted bird-shaped sugar cookie.
+[Delay: 2.0 sec.]
+
+
+who
+[ARRIVALS] 'Faylen has logged out.'
+   Players Currently Online: 
+ =============================
+
+   Gant the Human                                              
+   Kasiya the Human                                            
+   Garaven the Verdani                                         
+   Xiija the Sylph                                             
+   Brooke the Bolinau                                          
+   Thyia the Human                                             
+   Kaiya the Avardi                                            
+   Blink the Avardi                                            
+   Bocon the Devalin                                           
+   Geel the Gavial                                             
+   Trystan the Human                                           
+   Malek the Gargoyle                                          
+   Seren the Avardi                                            
+   Rochiriel the Verdani                                       
+
+Rochiriel says to Bocon, "Good Evening Empyrion."
+
+Bocon takes a bite of a frosted bird-shaped sugar cookie.
+
+Bocon bows.
+inv
+Inventory:
+
+a petrified troll skull hookah (1.0 lb)
+ (burning) a frosted bird-shaped sugar cookie (1.0 lb)
+ 
+Currency: 163 doubloons
+
+Carrying: 86 items (40.0 | 81.0) lbs.
+
+
+Rochiriel says to Bocon, "I am glad to see you well."
+
+Bocon says to Rochiriel, "Good evening."
+douse hook
+
+Huh?
+
+Bocon says to Rochiriel, "Yes, I am not dead."
+
+Bocon says, "Bery good."
+
+Garaven says to Bocon, "We had a pool going."
+
+Rochiriel chuckles.
+
+who
+[ARRIVALS] 'Ayderias has logged on.'
+
+   Players Currently Online: 
+ =============================
+
+   Gant the Human                                              
+   Kasiya the Human                                            
+   Garaven the Verdani                                         
+   Xiija the Sylph                                             
+   Brooke the Bolinau                                          
+   Thyia the Human                                             
+   Kaiya the Avardi                                            
+   Blink the Avardi                                            
+   Bocon the Devalin                                           
+   Geel the Gavial                                             
+   Trystan the Human                                           
+   Malek the Gargoyle                                          
+   Seren the Avardi                                            
+   Rochiriel the Verdani                                       
+   Ayderias the Avardi                                         
+
+
+Rochiriel snaps her fingers.
+
+Bocon asks, "Oh?"
+wear hook
+
+A petrified troll skull hookah looks empty.
+[Delay: 3.0 sec.]
+
+
+Kasiya puts some thigh high supple whaleskin fishing waders in an academy-issue canvas backpack.
+
+A petrified troll skull hookah burns out.
+inv
+Inventory:
+
+a petrified troll skull hookah (1.0 lb)
+ a frosted bird-shaped sugar cookie (1.0 lb)
+ 
+Currency: 163 doubloons
+
+Carrying: 86 items (40.0 | 81.0) lbs.
+
+
+Rochiriel glances at Garaven and smiles.
+
+Trystan says, "I had complete faith."
+put hook sat
+
+You put a petrified troll skull hookah in a grimy worn leather satchel.
+
+Garaven smirks.
+
+Bocon laughs.
+
+Trystan nods firmly.
+
+Trystan glances at Kasiya and grins.
+inv
+Inventory:
+
+a frosted bird-shaped sugar cookie (1.0 lb)
+ 
+Currency: 163 doubloons
+
+Carrying: 86 items (40.0 | 81.0) lbs.
+
+
+Bocon says, "Yes...I am sure."
+
+Trystan says to Kasiya, "Nice choice."
+l sat
+
+It looks like a grimy worn leather satchel.
+Inside you see:
+
+an elm tackle box
+ a Dragon's Peak fire-branded teak recipe kit
+ a small raven black seven demon silk bag
+ a squat burlap fishing bag
+ a loosely-tied leather fish sack
+ a supple black leather apothecary bag
+ a petrified troll skull hookah
+ 
+
+Kasiya smiles at Trystan.
+
+Kasiya says to Trystan, "Thank you. I like them."
+
+Trystan nods to Kasiya.
+
+Kasiya puts some feathered nickel fishing lures in an academy-issue canvas backpack.
+
+Rochiriel gets a cup of chilled light red fruit punch from an Academy-crested polished silver drink tray.
+
+Rochiriel takes a drink from a cup of chilled light red fruit punch.
+
+Rochiriel says, "Mmmm very sweet."
+
+Kasiya gets a cup of chilled light red fruit punch from an Academy-crested polished silver drink tray.
+
+Bocon says to Rochiriel, "I made some silverware for everyone....I think...."
+
+Seren gets a cup of chilled light red fruit punch from an Academy-crested polished silver drink tray.
+
+Blink gets a cup of chilled light red fruit punch from an Academy-crested polished silver drink tray.
+
+Trystan grins.
+
+Gant leans against the bright red wooden bleachers.
+<HP: 157/157 ST: 123/123>
+Bocon ponders.
+
+Blink takes a drink from a cup of chilled light red fruit punch.
+
+Bocon says, "Maybe..."
+
+Rochiriel chuckles.
+
+Garaven asks, "Were we supposed to bring something?"
+
+Blink takes a drink from a sturdy stoneware mug of cold fresh milk.
+
+Garaven furrows his brow.
+eat cook
+
+You eat the last of a frosted bird-shaped sugar cookie.
+[Delay: 2.0 sec.]
+
+
+Rochiriel says to Bocon, "I have a very nice set that Seren made for me thanks."
+
+Bocon nods.
+
+Blink opens a silver-buckled leather satchel.
+
+Trystan chuckles.
+
+Rochiriel smiles at Seren.
+
+Rochiriel asks Seren, "How are you this evening?"
+
+Blink gets a small loaf of cracked rye bread from a frosted glass plate.
+
+Blink takes a bite of a small loaf of cracked rye bread.
+
+Blink takes a drink from a cup of chilled light red fruit punch.
+
+Kasiya gets a silver spoon from a frosted glass plate.
+
+Kasiya holds a silver spoon.
+l
+
+
+
+[Alumni Pavilion.]
+
+A small canary yellow tablecloth-covered refreshment table greets guests as they enter the bright and colorful oval tent.  Within the central presentation area, surrounded by a short pine partition, are several tables bearing mysterious objects shrouded by crisp, white linen cloths.  A blue-painted podium, that has been placed upon a large circular sandstone dais, is positioned directly in front of a dark canvas curtain.  Bright red wooden bleachers, arranged in a semicircle, offer spectators a bird's eye view of the activities below.  You notice an Academy-crested polished silver cookie tray, a large academy-crested polished silver punch bowl, an iron-banded wooden barrel, a red-striped canvas tent flap, a small canary yellow tablecloth-covered refreshment table, a blue-painted pine podium, an Academy-crested polished silver drink tray, a large green cloth-covered pine table, a silver platter, a silver platter, a silver platter, and a silver platter.
+
+Also here: Gant the Human, Champion Blink the Avardi (lying down) on some bright red wooden bleachers, Kaiya the Avardi (seated), Seren the Avardi, Empyrion Bocon the Devalin, Ra'daji Garaven the Verdani, Rochiriel the Verdani, Trystan the Human, and Kasiya the Human (seated) 
+
+Obvious Exits: none
+
+Seren says to Rochiriel, "Doing well thanks... wasnt sure Id be able to make it tonight."
+stat
+You are Xiija Anzu, a 55 year old female Sylph Priest.
+You are 1 feet 9 inches tall and weigh 19 pounds.
+You are a follower of Aerthane.
+You are carrying 39 of a maximum 81 pounds.
+You are in perfect health.
+You are fully rested.
+
+Attack: 60 | Defense: 163 | Position: Flying
+
+Strength       : 12/25
+Intelligence   : 20/25
+Dexterity      : 15/25
+Constitution   : 13/25
+Charisma       : 16/25
+Wisdom         : 15/25
+
+
+Head            : a ragged eagle feather and goat fur headdress
+Head            : some purple thread-tied blessed silver charms
+Ears            : a blackened cursed vampire bone earring
+Ears            : a bone earring
+Neck            : a carved old teak tribal kami talisman
+Neck            : a weathered teak shamanic voodoo fetish
+Body            : a grimy worn leather satchel
+Body            : a dark brown formal Sylvan batik itai
+Torso           : some tribal-etched steel scalemail
+Left wrist      : a smooth cherrywood bracelet
+Left finger     : a smooth ebony ring
+Waist           : a tooled leather sailors weapon harness
+Waist           : a wyvern-painted leather junk sack
+Feet            : a tinkling silver-belled jade anklet
+Wield           : a battered teak baji totem staff
+Held            : a tiki-carved parrot-feathered scorched teak tribal shield
+Face            : a blackened leather shaman's wyvern-head death mask
+Face            : a smooth silver lip ring
+Nose            : a tribal-scrimshawed bone septum piercing
+
+
+Kasiya gets some rosemary chicken from a frosted glass plate.
+
+Seren says, "Im glad im here."
+l xii
+
+Xiija looks like a slender 55 year old female Sylph.
+She has silvery eyes and very long, dreaded, platinum blonde hair.
+She is 1 feet 9 inches tall and weighs 19 pounds.
+She has an aura of Aerthane.
+Xiija is in perfect health.
+
+Dirty silvery dreadlocks fall across her face, obscuring intense eyes, one white, one silvery-grey from your view
+
+Visible Tattoos:
+
+A sleeve of multi-colored dragons twists down her left arm from shoulder to wrist.
+A small deep blue pentagram is tattooed upon her neck.
+On her left cheek is a small tribal tattoo.
+Centered on her forehead is tattooed the Mark of Aerthane.
+Up the inside of her right forearm is a tattoo of a black Caduceus with bloody wings.
+Across her back is tattoo'd - 'Revenge'.
+
+She is wearing:
+
+Head            : a ragged eagle feather and goat fur headdress
+Head            : some purple thread-tied blessed silver charms
+Ears            : a blackened cursed vampire bone earring
+Ears            : a bone earring
+Neck            : a carved old teak tribal kami talisman
+Neck            : a weathered teak shamanic voodoo fetish
+Body            : a grimy worn leather satchel
+Body            : a dark brown formal Sylvan batik itai
+Torso           : some tribal-etched steel scalemail
+Left wrist      : a smooth cherrywood bracelet
+Left finger     : a smooth ebony ring
+Waist           : a tooled leather sailors weapon harness
+Waist           : a wyvern-painted leather junk sack
+Feet            : a tinkling silver-belled jade anklet
+Wield           : a battered teak baji totem staff
+Held            : a tiki-carved parrot-feathered scorched teak tribal shield
+Face            : a blackened leather shaman's wyvern-head death mask
+Face            : a smooth silver lip ring
+Nose            : a tribal-scrimshawed bone septum piercing
+
+
+Trystan leaves southwest.
+
+Trystan arrives from the southwest.
+
+Rochiriel says to Seren, "I am glad you did."
+Kasiya eats the last of some rosemary chicken.
+
+l
+
+
+
+[Alumni Pavilion.]
+
+A small canary yellow tablecloth-covered refreshment table greets guests as they enter the bright and colorful oval tent.  Within the central presentation area, surrounded by a short pine partition, are several tables bearing mysterious objects shrouded by crisp, white linen cloths.  A blue-painted podium, that has been placed upon a large circular sandstone dais, is positioned directly in front of a dark canvas curtain.  Bright red wooden bleachers, arranged in a semicircle, offer spectators a bird's eye view of the activities below.  You notice an Academy-crested polished silver cookie tray, a large academy-crested polished silver punch bowl, an iron-banded wooden barrel, a red-striped canvas tent flap, a small canary yellow tablecloth-covered refreshment table, a blue-painted pine podium, an Academy-crested polished silver drink tray, a large green cloth-covered pine table, a silver platter, a silver platter, a silver platter, and a silver platter.
+
+Also here: Gant the Human, Champion Blink the Avardi (lying down) on some bright red wooden bleachers, Kaiya the Avardi (seated), Seren the Avardi, Empyrion Bocon the Devalin, Ra'daji Garaven the Verdani, Rochiriel the Verdani, Kasiya the Human (seated), and Trystan the Human 
+
+Obvious Exits: none
+
+
+Blink chirrups at Seren.
+
+Trystan asks Seren, "Will Geel be joining us?"
+l 2.plat
+
+It looks like a silver platter. 
+Inside you see:
+
+a frosted glass plate
+ a frosted glass plate
+ a frosted glass plate
+ a frosted glass plate
+ 
+
+Rochiriel glances at Trystan.
+l 3.plat
+
+It looks like a silver platter. 
+Inside you see:
+
+a frosted glass plate
+ a frosted glass plate
+ a frosted glass plate
+ a frosted glass plate
+ 
+
+Rochiriel chuckles.
+
+Seren says to Trystan, "I have no idea... probably not."
+l 4.plat
+
+It looks like a silver platter. 
+Inside you see:
+
+a frosted glass plate
+ a frosted glass plate
+ a frosted glass plate
+ a frosted glass plate
+ 
+
+Trystan nods to Seren.
+l plat
+
+It looks like a silver platter. 
+Inside you see:
+
+a frosted glass plate
+ 
+
+Kasiya gets a small loaf of cracked rye bread from a frosted glass plate.
+get plate 4.plat
+You get a frosted glass plate from a silver platter.
+
+Seren says, "Hes so fussy."
+l plate
+
+It looks like a frosted glass plate.
+Inside you see:
+
+a silver spoon
+ some bacon deviled eggs
+ some rosemary chicken
+ an apple tart
+ a small loaf of cracked rye bread
+ some leek and potato soup
+ some Ravenswood stew
+ 
+
+Rochiriel says to Trystan, "I am sure he sends his warmest gavial greetings."
+
+Blink grins.
+
+Bocon chuckles.
+
+Trystan chuckles.
+<HP: 157/157 ST: 123/123>
+Kasiya grins.
+
+Kasiya takes a bite of a small loaf of cracked rye bread.
+
+Trystan says, "I had nothing to do with it."
+
+Trystan says, "I would like to welcome everybody this evening. There are some refreshments in the platters provided by Mrs. Seren Brin, so please help yourself if you haven't already."
+
+Seren grins.
+get egg plate
+
+You get some bacon deviled eggs from a frosted glass plate.
+eat egg
+
+You take a bite of some bacon deviled eggs.
+
+[Delay: 2.0 sec.]
+
+hum xii
+
+You hum at yourself.
+appl ser softly
+
+You applaud Seren softly.
+
+Rochiriel says to you, "Very appropriate."
+
+Rochiriel chuckles.
+grin roc
+
+You grin at Rochiriel.
+
+Trystan smiles at Seren and claps.
+
+Seren says, "Thanks."
+
+Bocon gets a frosted glass plate from a silver platter.
+l
+
+
+
+[Alumni Pavilion.]
+
+A small canary yellow tablecloth-covered refreshment table greets guests as they enter the bright and colorful oval tent.  Within the central presentation area, surrounded by a short pine partition, are several tables bearing mysterious objects shrouded by crisp, white linen cloths.  A blue-painted podium, that has been placed upon a large circular sandstone dais, is positioned directly in front of a dark canvas curtain.  Bright red wooden bleachers, arranged in a semicircle, offer spectators a bird's eye view of the activities below.  You notice an Academy-crested polished silver cookie tray, a large academy-crested polished silver punch bowl, an iron-banded wooden barrel, a red-striped canvas tent flap, a small canary yellow tablecloth-covered refreshment table, a blue-painted pine podium, an Academy-crested polished silver drink tray, a large green cloth-covered pine table, a silver platter, a silver platter, a silver platter, and a silver platter.
+
+Also here: Gant the Human, Champion Blink the Avardi (lying down) on some bright red wooden bleachers, Kaiya the Avardi (seated), Seren the Avardi, Empyrion Bocon the Devalin, Ra'daji Garaven the Verdani, Rochiriel the Verdani, Kasiya the Human (seated), and Trystan the Human 
+
+Obvious Exits: none
+
+
+Trystan says, "Thank you."
+who
+
+   Players Currently Online: 
+ =============================
+
+   Gant the Human                                              
+   Kasiya the Human                                            
+   Garaven the Verdani                                         
+   Xiija the Sylph                                             
+   Brooke the Bolinau                                          
+   Thyia the Human                                             
+   Kaiya the Avardi                                            
+   Blink the Avardi                                            
+   Bocon the Devalin                                           
+   Geel the Gavial                                             
+   Trystan the Human                                           
+   Malek the Gargoyle                                          
+   Seren the Avardi                                            
+   Rochiriel the Verdani                                       
+   Ayderias the Avardi                                         
+
+
+Trystan says, "I would like to also thank the ATC for providing us this tent to meet in as well as the cutlass to be given away later."
+
+Rochiriel leans over to whisper in Xiija's ear.
+
+Bocon gets some Ravenswood stew from a frosted glass plate.
+rai
+
+You raise an eyebrow.
+listen
+
+You listen.
+
+Bocon eats the last of some Ravenswood stew.
+
+
+
+Kasiya gets some Ravenswood stew from a frosted glass plate.
+
+Kasiya takes a drink from a cup of chilled light red fruit punch.
+
+Trystan asks, "Should we wait?"
+
+Trystan glances around the tent.
+l
+
+
+
+[Alumni Pavilion.]
+
+A small canary yellow tablecloth-covered refreshment table greets guests as they enter the bright and colorful oval tent.  Within the central presentation area, surrounded by a short pine partition, are several tables bearing mysterious objects shrouded by crisp, white linen cloths.  A blue-painted podium, that has been placed upon a large circular sandstone dais, is positioned directly in front of a dark canvas curtain.  Bright red wooden bleachers, arranged in a semicircle, offer spectators a bird's eye view of the activities below.  You notice an Academy-crested polished silver cookie tray, a large academy-crested polished silver punch bowl, an iron-banded wooden barrel, a red-striped canvas tent flap, a small canary yellow tablecloth-covered refreshment table, a blue-painted pine podium, an Academy-crested polished silver drink tray, a large green cloth-covered pine table, a silver platter, a silver platter, a silver platter, and a silver platter.
+
+Also here: Gant the Human, Champion Blink the Avardi (lying down) on some bright red wooden bleachers, Kaiya the Avardi (seated), Seren the Avardi, Empyrion Bocon the Devalin, Ra'daji Garaven the Verdani, Rochiriel the Verdani, Kasiya the Human (seated), and Trystan the Human 
+
+Obvious Exits: none
+
+
+Rochiriel whispers to you, "You had better think twice about what you publish and whom you may anger.".
+
+Trystan gets a polished nickel coin from a drawstring-tied blue and white striped cotton bag.
+<HP: 157/157 ST: 123/123>
+Trystan gets a polished nickel coin from a drawstring-tied blue and white striped cotton bag.
+Trystan gets a polished nickel coin from a drawstring-tied blue and white striped cotton bag.(8)
+glan roc
+
+You glance at Rochiriel.
+cac
+
+You cackle.
+
+Kasiya says, "Oh. Hmm."
+
+Trystan says, "I can hand these out while we wait."
+
+Rochiriel whispers to you, "I am understanding Geel however is not so understanding.".
+
+grin Rochiriel softly, winking..
+Rochiriel smiles at you.
+
+You grin at Rochiriel softly, winking..
+Blink says, "Oh neat. Souvenirs."
+
+Ayderias arrives from the southwest.
+
+Trystan nods to Blink.
+whisper roc that is a human or goblin paper, if ya refering to the Voice
+
+You whisper to Rochiriel, "That is a human or goblin paper, if ya refering to the Voice.".
+
+Trystan smiles at Ayderias.
+
+Blink says to Ayderias, "Whoah."
+
+Garaven nods to Ayderias.
+
+Ayderias bows to Trystan.
+
+Blink greets Ayderias.
+smi ayd
+
+You smile at Ayderias.
+
+Trystan bows to Ayderias.
+
+Kasiya smiles.
+
+Trystan says to Ayderias, "Good evening my lord."
+
+Ayderias says, "Good evening. I hope I am not interrupting."
+
+Rochiriel whispers to you, "You can hide all you want but most know it is you.".
+
+Garaven chuckles.
+
+Kasiya stands up.
+
+Kasiya bows to Ayderias.
+
+Kasiya sits on some bright red wooden bleachers.
+
+Trystan says, "I was just about to hand out some coins, help yourself to the refreshments."
+
+who
+[ARRIVALS] 'Malek has logged on.'
+who
+[ARRIVALS] 'Malek has logged out.'
+   Players Currently Online: 
+ =============================
+
+   Gant the Human                                              
+   Kasiya the Human                                            
+   Garaven the Verdani                                         
+   Xiija the Sylph                                             
+   Brooke the Bolinau                                          
+   Thyia the Human                                             
+   Kaiya the Avardi                                            
+   Blink the Avardi                                            
+   Bocon the Devalin                                           
+   Geel the Gavial                                             
+   Trystan the Human                                           
+   Malek the Gargoyle                                          
+   Seren the Avardi                                            
+   Rochiriel the Verdani                                       
+   Ayderias the Avardi                                         
+
+   Players Currently Online: 
+ =============================
+
+   Gant the Human                                              
+   Kasiya the Human                                            
+   Garaven the Verdani                                         
+   Xiija the Sylph                                             
+   Brooke the Bolinau                                          
+   Thyia the Human                                             
+   Kaiya the Avardi                                            
+   Blink the Avardi                                            
+   Bocon the Devalin                                           
+   Geel the Gavial                                             
+   Trystan the Human                                           
+   Malek the Gargoyle                                          
+   Seren the Avardi                                            
+   Rochiriel the Verdani                                       
+   Ayderias the Avardi                                         
+
+
+Trystan gestures at a silver platter.
+
+Rochiriel says to Ayderias, "As always a late start."
+
+Rochiriel chuckles.
+
+Ayderias gazes at Kasiya.
+whisp roc ooo really! , how fun! ... i wish i was that famous
+
+You whisper to Rochiriel, "Ooo really! , how fun! ... I wish I was that famous.".
+Ayderias smiles at Kasiya as he returns the bow.
+
+Kasiya says, "Hello, sir."
+cac xii
+
+You cackle at yourself.
+
+Rochiriel whispers to you, "I am not trying to scare you just warn you for your own good.".
+
+Trystan gives a polished nickel coin to Rochiriel.
+
+Ayderias asks Rochiriel, "Excellent. Do I still qualify for the weapon then?"
+
+Rochiriel says to Trystan, "Thank you."
+
+Trystan gives a polished nickel coin to Kasiya.
+
+Trystan gives a polished nickel coin to Ayderias.
+
+Gant raises an eyebrow.
+whisp roc there is a human that recruits here in academy for the paper.... how odd
+
+You whisper to Rochiriel, "There is a human that recruits here in academy for the paper.... how odd.".
+Trystan gives a polished nickel coin to Bocon.
+
+
+Trystan gives a polished nickel coin to you.
+
+Trystan gives a polished nickel coin to Seren.
+grin try
+
+You grin at Trystan.
+
+Trystan gives a polished nickel coin to Kaiya.
+
+Trystan gives a polished nickel coin to Blink.
+
+Trystan gives a polished nickel coin to Gant.
+say ayd its Cursed!
+
+You exclaim to Ayderias, "Its Cursed!"
+Trystan glances at Garaven.
+
+Kasiya brings the coin up to her face to have a closer look. Her eyes light up.
+
+Garaven gives a cup of hot Tetherian-bean coffee to Rochiriel.
+
+Kasiya says, "This is very nicely made."
+
+Rochiriel chuckles.
+
+Kaiya thanks Trystan.
+
+Trystan gives a polished nickel coin to Garaven.
+
+Seren says, "Very nice."
+rub coin
+
+You rub a polished nickel coin.
+Garaven nods to Trystan.
+
+Blink says, "Oh neat. I have the entire collection of coins now."
+
+Trystan asks, "Everyone get a coin?"
+
+Ayderias says to Kasiya, "I do not recall meeting you before. I am Ayderias Clarveu, emissary of Aerthane."
+
+Trystan grins at Blink.
+l
+
+
+
+[Alumni Pavilion.]
+
+A small canary yellow tablecloth-covered refreshment table greets guests as they enter the bright and colorful oval tent.  Within the central presentation area, surrounded by a short pine partition, are several tables bearing mysterious objects shrouded by crisp, white linen cloths.  A blue-painted podium, that has been placed upon a large circular sandstone dais, is positioned directly in front of a dark canvas curtain.  Bright red wooden bleachers, arranged in a semicircle, offer spectators a bird's eye view of the activities below.  You notice an Academy-crested polished silver cookie tray, a large academy-crested polished silver punch bowl, an iron-banded wooden barrel, a red-striped canvas tent flap, a small canary yellow tablecloth-covered refreshment table, a blue-painted pine podium, an Academy-crested polished silver drink tray, a large green cloth-covered pine table, a silver platter, a silver platter, a silver platter, and a silver platter.
+
+Also here: Gant the Human, Champion Blink the Avardi (lying down) on some bright red wooden bleachers, Kaiya the Avardi (seated), Seren the Avardi, Empyrion Bocon the Devalin, Ra'daji Garaven the Verdani, Rochiriel the Verdani, Kasiya the Human (seated) on some bright red wooden bleachers, Trystan the Human, and Emissary Ayderias the Avardi 
+
+Obvious Exits: none
+
+hov lower
+
+You hover lower.
+whisp roc see the human at the  side over there?
+
+You whisper to Rochiriel, "See the human at the side over there?".
+
+Garaven squints at a polished nickel coin.
+wink roc
+
+You wink at Rochiriel.
+
+Trystan gets a polished nickel coin from a drawstring-tied blue and white striped cotton bag.
+
+Trystan gets a polished nickel coin from a drawstring-tied blue and white striped cotton bag.
+Blink gets some huge spread out polychromatic feathered wings from a silver-buckled leather satchel.
+
+Trystan gets a polished nickel coin from a drawstring-tied blue and white striped cotton bag.
+
+Trystan gets a polished nickel coin from a drawstring-tied blue and white striped cotton bag.
+
+Trystan gets a polished nickel coin from a drawstring-tied blue and white striped cotton bag.
+
+Blink puts on some huge spread out polychromatic feathered wings.
+
+Rochiriel whispers to you, "Then you are being framed by another I suppose.".
+
+Garaven opens a large wolf-embroidered white leather haversack.
+Trystan says, "Okay then."
+
+Rochiriel nods to you.
+
+Rochiriel smiles.
+nod  thoughtfully
+
+You nod thoughtfully.
+
+Garaven gets some tortoise shell reading glasses from a large wolf-embroidered white leather haversack.
+
+Blink flaps.
+
+Garaven puts on some tortoise shell reading glasses.
+
+Trystan says, "Part of this evening is to give you a better glimpse into some of the craft trades available to you as well as to answer your questions, so please don't hesitate to ask."
+
+Garaven peers at a polished nickel coin.
+
+Kasiya says to Ayderias, "I am Kasiya. Nothing very important yet."
+l
+
+
+
+[Alumni Pavilion.]
+
+A small canary yellow tablecloth-covered refreshment table greets guests as they enter the bright and colorful oval tent.  Within the central presentation area, surrounded by a short pine partition, are several tables bearing mysterious objects shrouded by crisp, white linen cloths.  A blue-painted podium, that has been placed upon a large circular sandstone dais, is positioned directly in front of a dark canvas curtain.  Bright red wooden bleachers, arranged in a semicircle, offer spectators a bird's eye view of the activities below.  You notice an Academy-crested polished silver cookie tray, a large academy-crested polished silver punch bowl, an iron-banded wooden barrel, a red-striped canvas tent flap, a small canary yellow tablecloth-covered refreshment table, a blue-painted pine podium, an Academy-crested polished silver drink tray, a large green cloth-covered pine table, a silver platter, a silver platter, a silver platter, and a silver platter.
+
+Also here: Gant the Human, Champion Blink the Avardi (lying down) on some bright red wooden bleachers, Kaiya the Avardi (seated), Seren the Avardi, Empyrion Bocon the Devalin, Ra'daji Garaven the Verdani, Emissary Rochiriel the Verdani, Kasiya the Human (seated) on some bright red wooden bleachers, Trystan the Human, and Emissary Ayderias the Avardi 
+
+Obvious Exits: none
+
+
+Ayderias chuckles softly.
+
+Trystan smiles at Kasiya.
+
+Trystan says, "Yet."
+
+Ayderias says to Kasiya, "It is the yet that matters."
+nod try
+
+You nod to Trystan.
+Trystan nods his head up and down.
+
+Trystan says, "Now that the first challenge of winning the sword is met, I will share with you the second challenge. In honor of the twenty second year of King Sauntere the 8th's reign, the third challenge will not begin until the ATC has been mentioned twenty two times."
+murm about having loads of materials, and no idea what to do with them
+
+You murmur about having loads of materials, and no idea what to do with them.
+
+Kasiya smiles at Ayderias.
+
+Kaiya says, "ATC."
+chu try
+
+You chuckle at Trystan.
+
+Kaiya says, "ATC."
+
+Kaiya says, "ATC."
+Kasiya tilts her head.
+' twenty two!
+
+You exclaim, "Twenty two!"
+
+Kaiya grins at you.
+
+Trystan squints at you.
+flai
+
+You flail your arms.
+
+Rochiriel asks, "The ATC?"
+
+Trystan says, "Archai Trading Company."
+
+Blink asks, "The AFC?"
+
+Gant ponders.
+
+Ayderias asks Trystan, "Who is providing the weapon?"
+
+Kasiya asks, "What is the ATC?"
+
+Trystan says, "The very same."
+
+Garaven asks Trystan, "Was that in general, or you mentioning it?"
+
+Rochiriel says to Ayderias, "The ATC."
+cac softly
+
+You cackle softly.
+
+Garaven raises an eyebrow.
+
+Ayderias grins at Rochiriel.
+
+Kaiya says, "I want to join the ATC one day."
+
+Kaiya says, "But I don't know if the ATC will take me."
+
+Bocon blanches.
+<HP: 157/157 ST: 123/123>
+Ayderias smiles at Kaiya.
+
+Trystan says to Garaven, "The second challenge began at 8 1/2 bells."
+
+Kaiya says, "I don't quite know if I have what the ATC requires."
+
+Kaiya says, "Damn those ATC people and their skills."
+
+Kasiya frowns to herself, worrying her lower lip.
+
+Trystan chuckles at Kaiya.
+
+Kaiya says, "But still, to join the ATC would be a dream."
+
+Bocon asks Kaiya, "Are you breathing?"
+
+Kaiya says, "Oh how I dream of the ATC."
+
+Trystan glances at you and asks, "are you keeping up?"
+
+Kaiya grins at Bocon.
+
+Bocon smirks.
+say try ten and three
+
+You say to Trystan, "Ten and three."
+wink
+
+Kaiya says, "I'm fulfilling the challenge of honoring the ATC."
+You wink.
+
+Rochiriel says to Kaiya, "I hear the ATC are real money makers."
+
+Kasiya says, "What are they? I feel silly, but I don't know what the ATC is."
+
+Kaiya says, "I remember the first day I found the ATC office."
+
+Kasiya says, "Or who. The ATC sound powerful."
+
+Kaiya says to Rochiriel, "I'd love to make as much money as the ATC."
+
+Rochiriel chuckles.
+
+Trystan leans on a blue-painted pine podium with a grin on his face as he watches the exchange.
+
+Kaiya says to Kasiya, "The ATC is in charge of all of the Trade of Pearl."
+
+Gant stares.
+
+Kaiya says, "Or something like that. Important, the ATC."
+
+Bocon says, "The ATC do not understand how to use their power correctly."
+
+Kasiya says, "Oh. Wealthy probably, then."
+
+Bocon smirks.
+
+Kaiya says, "Yes, very wealthy, the ATC."
+' twenty two!
+
+You exclaim, "Twenty two!"
+flai try
+
+You flail your arms at Trystan.
+Ayderias says to Kasiya, "Not to worry. It's all around us and most take who they are for granted. The Archai Trading Company controls most of the world's trade on the seas and is headquartered in Pearl."
+Kasiya says, "Power can corrupt, you know."
+
+Garaven says, "Finally."
+
+Rochiriel says to Bocon, "Afterall they are the ATC."
+
+Kaiya asks, "Have we said ATC twenty two times yet?"
+
+Bocon chuckles.
+agree kai , her tribal-scrimshawed bone septum piercing winking in the light..
+
+You nod your head up and down to Kaiya , her tribal-scrimshawed bone septum piercing winking in the light..
+Trystan chuckles.
+
+Kaiya claps.
+cur the ATC
+
+You curse the ATC.
+
+Trystan glances at you.
+snic
+
+You snicker.
+Rochiriel chuckles.
+
+Trystan says, "Well done."
+
+Kaiya snickers at you.
+
+Trystan bows gracefully to the crowd.
+
+Rochiriel says to you, "That didn't count."
+snap
+
+You snap your fingers.
+
+Rochiriel says, "The cursing."
+
+Rochiriel chuckles.
+
+Trystan says, "With out further delay, I would like to introduce you to our first presenter, Empyrion Bocon Lampor, leader of the temple of Pyrous."
+
+Kasiya says to Ayderias, "Oh. I knew I had heard of them, but well ... I couldn't remember who they were. I agree that people in power mostly don't know how to use it well."
+
+Garaven claps.
+appl boc
+
+You applaud Bocon.
+
+Kasiya smiles.
+
+Blink claps.
+
+Kaiya claps politely for Bocon.
+
+Bocon says to Trystan, "Thank you..."
+
+Kasiya claps at Bocon.
+Rochiriel claps at Bocon.
+Trystan gestures at Bocon and takes a step back.
+
+Gant gazes at Bocon.
+whist boc
+
+You whistle at Bocon.
+l gant
+
+Gant looks like a muscular 24 year old male Human.
+He has dark green eyes and short, messy, dark brown hair.
+He is 6 feet 10 inches tall and weighs 250 pounds.
+He has an aura of Pyrous.
+Gant is in perfect health.
+
+
+
+He is wearing:
+
+Back            : a thick steel-ringed black leather sword frog
+Back            : an academy-issue canvas backpack
+Body            : a floor-length dark crimson broadcloth cloak
+Torso           : a stout tan cotton shirt
+Hands           : some steel-studded black leather vambraces
+Legs            : some dark grey wool trousers
+Feet            : some steel-cuffed black leather boots
+Shoulders       : some bone-trimmed black hardened leather pauldrons
+
+
+Bocon says, "I have been requested to speak to you all about the fine art of blacksmithing...I am glad to do so."
+beam
+
+You beam.
+
+Bocon drops a silver treasure chest.
+
+Bocon drops a silver treasure chest.
+glan
+
+You glance.
+
+Kaiya gasps and leans in to listen to Bocon more attently.
+
+Bocon opens a silver treasure chest.
+
+Bocon opens a silver treasure chest.
+l ches
+
+It looks like a silver treasure chest. 
+Inside you see:
+
+a silver bowl
+ a silver fork
+ a silver plate
+ a silver plate
+ a silver platter
+ a silver platter
+ a silver platter
+ a silver bowl
+ a silver bowl
+ a silver fork
+ a silver chalice
+ a silver platter
+ a silver fork
+ a silver spoon
+ a silver chalice
+ a silver plate
+ a silver plate
+ a silver platter
+ a silver spoon
+ a silver platter
+ a silver platter
+ 
+
+Ayderias smiles at Bocon.
+whist
+
+You whistle.
+glan into the chests
+
+You glance into the chests.
+
+Bocon says, "These are some silverwares and other table items that you may have."
+
+Kasiya nods to Ayderias knowingly.
+
+Bocon gestures.
+
+who
+[ARRIVALS] 'Aruskin has logged on.'
+get for ches
+
+   Players Currently Online: 
+ =============================
+
+   Gant the Human                                              
+   Kasiya the Human                                            
+   Garaven the Verdani                                         
+   Xiija the Sylph                                             
+   Brooke the Bolinau                                          
+   Thyia the Human                                             
+   Kaiya the Avardi                                            
+   Blink the Avardi                                            
+   Bocon the Devalin                                           
+   Geel the Gavial                                             
+   Trystan the Human                                           
+   Seren the Avardi                                            
+   Rochiriel the Verdani                                       
+   Ayderias the Avardi                                         
+   Malek the Gargoyle                                          
+   Aruskin the Avardi                                          
+
+You get a silver fork from a silver treasure chest.
+
+Ayderias asks Bocon, "Did you make these?"
+hug fork
+
+You hug a silver fork.
+
+Kasiya says, "Wow. So much silver."
+
+Bocon says, "They are made with the art of blacksmithing, along with that chest."
+l 2.ches
+
+It looks like a silver treasure chest. 
+Inside you see:
+
+a silver platter
+ a silver plate
+ a silver plate
+ a silver plate
+ a silver platter
+ a silver platter
+ a silver platter
+ a silver plate
+ a silver plate
+ a silver platter
+ a silver plate
+ a silver plate
+ a silver plate
+ a silver spoon
+ a silver chalice
+ a silver spoon
+ a silver spoon
+ a silver chalice
+ a silver spoon
+ a silver spoon
+ a silver bowl
+ a silver spoon
+ a silver spoon
+ a silver chalice
+ a silver chalice
+ a silver bowl
+ a silver chalice
+ a silver chalice
+ a silver chalice
+ a silver chalice
+ a silver chalice
+ a silver chalice
+ a silver spoon
+ a silver spoon
+ a silver spoon
+ a silver fork
+ a silver fork
+ a silver fork
+ a silver fork
+ a silver fork
+ a silver fork
+ a silver fork
+ a silver fork
+ a silver fork
+ a silver lantern
+ a silver lantern
+ a silver lantern
+ a silver bowl
+ a silver bowl
+ a silver bowl
+ a silver bowl
+ a silver bowl
+ a silver bowl
+ a silver bowl
+ 
+
+Kaiya gets a silver chalice from a silver treasure chest.
+
+Trystan glances at Kasiya and nods.
+
+Seren says, "Blacksmithing is wonderful."
+
+Bocon nods.
+say ser plates for you!
+
+You exclaim to Seren, "Plates for you!"
+
+Kasiya gets a silver chalice from a silver treasure chest.
+
+Trystan says, "I like the chest."
+poi 2.ches
+
+You point .
+
+Kaiya runs her hands over the chalice, feeling every detail.
+hold fork
+
+You remove a tiki-carved parrot-feathered scorched teak tribal shield.
+You hold a silver fork.
+[Delay: 3.0 sec.]
+
+
+Blink gets a silver spoon from a silver treasure chest.
+
+Bocon says, "It is useful for many things indeed."
+
+Blink gets a silver fork from a silver treasure chest.
+l plate
+
+It looks like a frosted glass plate.
+Inside you see:
+
+a silver spoon
+ some rosemary chicken
+ an apple tart
+ a small loaf of cracked rye bread
+ some leek and potato soup
+ some Ravenswood stew
+ 
+
+Bocon opens an iron tool box.
+
+Kasiya holds the chalice in both hands, running her fingers over its surface, and eyeing it.
+
+Bocon gets a copper blacksmith hammer from an iron tool box.
+
+Aruskin arrives from the southwest.
+Bocon holds a copper blacksmith hammer.
+smi aru
+
+A town crier can be heard shouting in the distance, "Students young and old are asked to gather in the academy for Alumni Day celebrations! You'll find the tent just north of the crossroads!"
+You smile at Aruskin.
+wear tribal
+
+You remove a silver fork.
+You hold a tiki-carved parrot-feathered scorched teak tribal shield.
+[Delay: 3.0 sec.]
+
+
+Kasiya says, "There is so much here."
+put for sat
+
+You put a silver fork in a grimy worn leather satchel.
+
+Kaiya raises her hand.
+
+who
+[ARRIVALS] 'Malek has logged out.'
+
+   Players Currently Online: 
+ =============================
+
+   Gant the Human                                              
+   Kasiya the Human                                            
+   Garaven the Verdani                                         
+   Xiija the Sylph                                             
+   Brooke the Bolinau                                          
+   Thyia the Human                                             
+   Kaiya the Avardi                                            
+   Blink the Avardi                                            
+   Bocon the Devalin                                           
+   Geel the Gavial                                             
+   Trystan the Human                                           
+   Seren the Avardi                                            
+   Rochiriel the Verdani                                       
+   Ayderias the Avardi                                         
+   Aruskin the Avardi                                          
+
+l sat
+
+It looks like a grimy worn leather satchel.
+Inside you see:
+
+an elm tackle box
+ a Dragon's Peak fire-branded teak recipe kit
+ a small raven black seven demon silk bag
+ a squat burlap fishing bag
+ a loosely-tied leather fish sack
+ a supple black leather apothecary bag
+ a petrified troll skull hookah
+ a silver fork
+ 
+
+Bocon says, "I didn't have much time to make them, or I would have made more items..."
+
+Aruskin sits on some bright red wooden bleachers.
+chu boc
+
+You chuckle at Bocon.
+l junk
+
+It looks like a wyvern-painted leather junk sack.
+Inside you see:
+
+an academy-issue canvas satchel
+ a Pearl-stamped paper envelope
+ a tin flask of brandy
+ a small granular ball of pollen
+ a beautiful rose quartz
+ a beautiful rose quartz
+ an uncut beige quartz
+ a rotting human finger
+ a small granular ball of pollen
+ a smooth purple quartz
+ a small granular ball of pollen
+ a circular-cut garnet
+ some shimmering remnants
+ a smooth purple quartz
+ an uncut beige quartz
+ a polished red garnet
+ a small faceted garnet
+ a small granular ball of pollen
+ a rotting human finger
+ a pristine white opal
+ a chipped pink quartz
+ a smooth purple quartz
+ a chipped pink quartz
+ a deep red garnet
+ a beautiful rose quartz
+ a translucent pink quartz
+ an uncut beige quartz
+ a chipped pink quartz
+ a beautiful rose quartz
+ an uncut beige quartz
+ a small granular ball of pollen
+ a circular-cut garnet
+ a deep red garnet
+ a lustrous purple garnet
+ a smooth purple quartz
+ a chipped pink quartz
+ a chintzy tin lockpick
+ a deep red garnet
+ a transcribed recipe
+ a small parchment
+ 
+
+Bocon says, "Anyways.."
+
+Ayderias takes a drink from a cup of strong black tea.
+
+Kasiya says to Bocon, "More? There is so much! I don't want to take all your beautiful work."
+Kaiya waves at Aruskin with the hand that isn't in the air.
+
+Blink says, "Oops. I have a silver spoon."
+
+Kasiya covers her mouth, blushing slightly.
+
+Garaven smirks.
+
+Bocon says to Kasiya, "You are very charming with your words."
+<HP: 157/157 ST: 123/123>
+Blink puts a silver spoon in a silver treasure chest.
+get par junk
+
+You get a small parchment from a wyvern-painted leather junk sack.
+l par
+
+It looks like a small parchment addressed to Xiija Anzu in regards to the fish available at the docks.  You may READ it.
+
+Blink removes a silver spoon.
+
+Seren says, "You can never have too many silver spoons."
+read par
+
+A small parchment reads, "
+___________________________________________________________
+
+Xiija Anzu,
+You'll find cod, flounder, herring, or halibut along both lengths of the dock.  There is no telling which will bite when.  Any point values you attribute to them are purely your decision.  I would suggest a short while for setup and allowing the ferry to bring any stragglers, as well as a half hour to give out prizes, mingle, and get everyone to Alumni Day.  Whatever time in between would be the time limit you impose for the contest.
+
+Merchant Charlat Reycroft
+___________________________________________________________
+"
+
+Trystan grins at Seren.
+
+Kaiya waves her arm in the air.
+
+Rochiriel chuckles.
+
+Kasiya gets a silver fork from a silver treasure chest.
+
+Kasiya gets a silver plate from a silver treasure chest.
+
+Blink says to Seren, "I can. I barely eat."
+l
+
+
+
+[Alumni Pavilion.]
+
+A small canary yellow tablecloth-covered refreshment table greets guests as they enter the bright and colorful oval tent.  Within the central presentation area, surrounded by a short pine partition, are several tables bearing mysterious objects shrouded by crisp, white linen cloths.  A blue-painted podium, that has been placed upon a large circular sandstone dais, is positioned directly in front of a dark canvas curtain.  Bright red wooden bleachers, arranged in a semicircle, offer spectators a bird's eye view of the activities below.  You notice an Academy-crested polished silver cookie tray, a large academy-crested polished silver punch bowl, an iron-banded wooden barrel, a red-striped canvas tent flap, a small canary yellow tablecloth-covered refreshment table, a blue-painted pine podium, an Academy-crested polished silver drink tray, a large green cloth-covered pine table, a silver platter, a silver platter, a silver platter, a silver platter, a silver treasure chest, and a silver treasure chest.
+
+Also here: Gant the Human, Champion Blink the Avardi (lying down) on some bright red wooden bleachers, Kaiya the Avardi (seated), Seren the Avardi, Empyrion Bocon the Devalin, Ra'daji Garaven the Verdani, Emissary Rochiriel the Verdani, Kasiya the Human (seated) on some bright red wooden bleachers, Trystan the Human, Emissary Ayderias the Avardi, and Aruskin the Avardi (seated) on some bright red wooden bleachers 
+
+Obvious Exits: none
+
+glan roc
+
+You glance at Rochiriel.
+give par gant
+
+You give a small parchment to Gant.
+
+Seren says to Blink, "Now true... ive seen you with the cookies."
+
+Gant reads a small parchment.
+say gant sometime this wek
+
+You say to Gant, "Sometime this wek."
+
+Bocon says, "In order to blacksmith, you must obtain raw ores from the mines. You can either do this yourself, or buy them from others."
+Garaven takes a drink from a cup of hot Tetherian-bean coffee.
+wink gant
+
+You wink at Gant.
+
+Gant ponders.
+say boc is it hard to mine it?
+
+You ask Bocon, "Is it hard to mine it?"
+Bocon drops a bundle of silver.
+
+Kasiya says, "Ooh."
+
+Kasiya says, "Wow, that is a lot of silver."
+
+Bocon says to you, "I guess if you are small and weak."
+
+Kasiya gets a silver bowl from a silver treasure chest.
+
+Blink says, "It's hard to learn to mine is all. They make you dig dirt."
+nod  thoughtfully
+
+You nod thoughtfully.
+
+who
+[ARRIVALS] 'Thyia has logged out.'
+   Players Currently Online: 
+ =============================
+
+   Gant the Human                                              
+   Kasiya the Human                                            
+   Garaven the Verdani                                         
+   Xiija the Sylph                                             
+   Brooke the Bolinau                                          
+   Kaiya the Avardi                                            
+   Blink the Avardi                                            
+   Bocon the Devalin                                           
+   Geel the Gavial                                             
+   Trystan the Human                                           
+   Seren the Avardi                                            
+   Rochiriel the Verdani                                       
+   Ayderias the Avardi                                         
+   Aruskin the Avardi                                          
+
+
+Kaiya says, "Digging dirt is easy."
+
+Blink says, "Yuck."
+
+Kasiya says, "I think I tried it, but I couldn't mine yet. I have the tools in my pack."
+
+Kaiya asks, "How many mining lessons do you need to learn how to be a blacksmith?"
+
+Blink says, "I split my hands open that day. Yikes."
+
+Bocon ponders.
+
+Kaiya says to Blink, "Wimp."
+
+Rochiriel says to you, "You may need to lift more than a pound or two."
+
+Kasiya winces.
+
+Trystan smirks.
+
+Rochiriel chuckles.
+
+Blink screeches at Kaiya.
+
+Kasiya says, "I can dig in the dirt, that is about all..."
+
+Kaiya sticks her tongue out at Blink.
+
+Bocon says, "It has been so long, I honestly cannot remember the exact time."
+
+Kasiya covers her ears.
+
+Kaiya sighs at Bocon.
+
+Bocon says, "It does not take too long, however."
+Kasiya gets a silver lantern from a silver treasure chest.
+
+Trystan chuckles.
+
+who
+[ARRIVALS] 'Oland has logged on.'
+
+   Players Currently Online: 
+ =============================
+
+   Gant the Human                                              
+   Kasiya the Human                                            
+   Garaven the Verdani                                         
+   Xiija the Sylph                                             
+   Brooke the Bolinau                                          
+   Kaiya the Avardi                                            
+   Blink the Avardi                                            
+   Bocon the Devalin                                           
+   Geel the Gavial                                             
+   Trystan the Human                                           
+   Seren the Avardi                                            
+   Rochiriel the Verdani                                       
+   Ayderias the Avardi                                         
+   Aruskin the Avardi                                          
+   Oland the Dwarf                                             
+
+
+Kasiya says, "Hmm. Lantern."
+
+Kasiya asks Bocon, "What other things can you make?"
+
+It is nighttime.
+
+Blink says, "Yeah, Sandy Point is a good digging spot though."
+
+The jarring clang from a bell tower marks the top of the hour.
+
+Bocon says, "Yes, lanterns."
+
+Blink says, "Near three bridges."
+
+who
+[ARRIVALS] 'Theodrick has logged on.'
+The bell tower clangs for a second time.
+<HP: 157/157 ST: 123/123>
+   Players Currently Online: 
+ =============================
+
+   Gant the Human                                              
+   Kasiya the Human                                            
+   Garaven the Verdani                                         
+   Xiija the Sylph                                             
+   Brooke the Bolinau                                          
+   Kaiya the Avardi                                            
+   Blink the Avardi                                            
+   Bocon the Devalin                                           
+   Geel the Gavial                                             
+   Trystan the Human                                           
+   Seren the Avardi                                            
+   Rochiriel the Verdani                                       
+   Ayderias the Avardi                                         
+   Aruskin the Avardi                                          
+   Oland the Dwarf                                             
+   Theodrick the Dwarf                                         
+
+
+The bell tower clangs for a third time.
+
+Bocon exclaims, "Many things!"
+
+The bell tower clangs for a fourth time.
+
+The bell tower clangs for a fifth time.
+
+The bell tower clangs for a sixth time.
+<HP: 157/157 ST: 123/123>
+Kaiya says to Blink, "Don't give away my spot."
+
+The bell tower clangs for a seventh time.
+Kasiya says, "The only place I know to practice is the cave with the lizards. I thought maybe near the lake as well."
+
+The bell tower clangs for an eighth time.
+
+The bell tower clangs for a ninth time.
+
+Bocon says to Kaiya, "Many things like you see in the chest, plus the chest and other types of boxes."
+
+Ayderias says to Kaiya, "With a name like Sandy Point, I can't imagine it is a well kept secret."
+
+Kaiya nods to Kasiya.
+
+Bocon laughs.
+
+Blink grins.
+
+Garaven chuckles at Ayderias.
+
+Trystan chuckles.
+say boc you made the chest too?
+
+You ask Bocon, "You made the chest too?"
+stare chest
+
+You stare at a silver treasure chest.
+
+Kaiya exclaims to Ayderias, "Shush!"
+whist
+
+You whistle.
+
+Bocon says, "I can."
+
+Kasiya takes a drink from a cup of chilled light red fruit punch.
+
+Kasiya takes a bite of a small loaf of cracked rye bread.
+
+Garaven takes a drink from a cup of hot Tetherian-bean coffee.
+
+Kaiya asks, "Do you learn smelting before or after blacksmithing?"
+
+Blink takes a drink from a cup of chilled light red fruit punch.
+
+Blink takes a drink from a sturdy stoneware mug of cold fresh milk.
+
+Bocon says, "I can also make jewelry chests, cigarette cases and small chests."
+' ooOoo
+
+You say, "OoOoo."
+clap
+
+Kasiya asks, "Can you make jewelry too?"
+You clap.
+
+Kasiya says, "I might just because Kasiya, the Water Mage who loves to craft all sorts of things..."
+
+Kasiya says, "Become. Pardon me."
+
+Bocon says to Kasiya, "I have been dabbling in such an area, but I am still far too novice to make anything presentable."
+grin kasi
+
+You grin at Kasiya.
+
+Kasiya nods.
+
+Kasiya grins at you.
+
+Trystan grins.
+say kasi get a proper chest for your loot
+
+You say to Kasiya, "Get a proper chest for your loot."
+
+Kasiya grins.
+
+Kasiya asks, "Uh ... where?"
+
+who
+[ARRIVALS] 'Flynt has logged on.'
+   Players Currently Online: 
+ =============================
+
+   Gant the Human                                              
+   Kasiya the Human                                            
+   Garaven the Verdani                                         
+   Xiija the Sylph                                             
+   Brooke the Bolinau                                          
+   Kaiya the Avardi                                            
+   Blink the Avardi                                            
+   Bocon the Devalin                                           
+   Geel the Gavial                                             
+   Trystan the Human                                           
+   Seren the Avardi                                            
+   Rochiriel the Verdani                                       
+   Ayderias the Avardi                                         
+   Aruskin the Avardi                                          
+   Oland the Dwarf                                             
+   Theodrick the Dwarf                                         
+   Flynt the Sylph                                             
+
+poi boc
+
+You point at Bocon.
+
+Kasiya says, "Oh, of course."
+Kaiya says, "I spent weeks getting ten lessons in stone scultpting because I thought it'd lead to jewelry."
+
+Kaiya sighs.
+
+Kaiya says, "So much stoe."
+
+Kasiya says, "Awww."
+
+Kasiya comforts Kaiya.
+grin kai
+
+You grin at Kaiya.
+
+Bocon says, "It is good to have the proper tools create such items, as using your bare hands is normally painful."
+l
+
+
+
+[Alumni Pavilion.]
+
+A small canary yellow tablecloth-covered refreshment table greets guests as they enter the bright and colorful oval tent.  Within the central presentation area, surrounded by a short pine partition, are several tables bearing mysterious objects shrouded by crisp, white linen cloths.  A blue-painted podium, that has been placed upon a large circular sandstone dais, is positioned directly in front of a dark canvas curtain.  Bright red wooden bleachers, arranged in a semicircle, offer spectators a bird's eye view of the activities below.  You notice an Academy-crested polished silver cookie tray, a large academy-crested polished silver punch bowl, an iron-banded wooden barrel, a red-striped canvas tent flap, a small canary yellow tablecloth-covered refreshment table, a blue-painted pine podium, an Academy-crested polished silver drink tray, a large green cloth-covered pine table, a silver platter, a silver platter, a silver platter, a silver platter, a silver treasure chest, a silver treasure chest, and a bundle of silver.
+
+Also here: Gant the Human, Champion Blink the Avardi (lying down) on some bright red wooden bleachers, Kaiya the Avardi (seated), Seren the Avardi, Empyrion Bocon the Devalin, Ra'daji Garaven the Verdani, Emissary Rochiriel the Verdani, Kasiya the Human (seated) on some bright red wooden bleachers, Trystan the Human, Emissary Ayderias the Avardi, and Aruskin the Avardi (seated) on some bright red wooden bleachers 
+
+Obvious Exits: none
+
+
+Bocon pokes a copper blacksmith hammer.
+listen boc
+
+You listen to Bocon.
+Kasiya winces.
+
+Kasiya says, "That would be very dangerous to bare hands. They wouldn't survive."
+inv
+Inventory:
+
+a frosted glass plate (7.0 lbs)
+ some bacon deviled eggs (1.0 lb)
+ a polished nickel coin (1.0 lb)
+ 
+Currency: 163 doubloons
+
+Carrying: 94 items (49.0 | 81.0) lbs.
+
+
+Kaiya says, "Unless they were Geel's."
+
+Bocon says, "It is difficult to mold hot metals with hands...."
+nod  thoughtfully
+
+You nod thoughtfully.
+
+Kasiya asks, "Do you have to know ... other types of trades before you can learn how to mine and smelt and so on?"
+
+Bocon says, "Just how to mine and dig your own ores."
+
+Kaiya says to Kasiya, "Work with digging. You'll get to mining."
+
+Kasiya grimaces, hugging herself.
+
+Kasiya nods.
+
+Bocon says, "But it comes rather quickly."
+l
+
+
+
+[Alumni Pavilion.]
+
+A small canary yellow tablecloth-covered refreshment table greets guests as they enter the bright and colorful oval tent.  Within the central presentation area, surrounded by a short pine partition, are several tables bearing mysterious objects shrouded by crisp, white linen cloths.  A blue-painted podium, that has been placed upon a large circular sandstone dais, is positioned directly in front of a dark canvas curtain.  Bright red wooden bleachers, arranged in a semicircle, offer spectators a bird's eye view of the activities below.  You notice an Academy-crested polished silver cookie tray, a large academy-crested polished silver punch bowl, an iron-banded wooden barrel, a red-striped canvas tent flap, a small canary yellow tablecloth-covered refreshment table, a blue-painted pine podium, an Academy-crested polished silver drink tray, a large green cloth-covered pine table, a silver platter, a silver platter, a silver platter, a silver platter, a silver treasure chest, a silver treasure chest, and a bundle of silver.
+
+Also here: Gant the Human, Champion Blink the Avardi (lying down) on some bright red wooden bleachers, Kaiya the Avardi (seated), Seren the Avardi, Empyrion Bocon the Devalin, Ra'daji Garaven the Verdani, Emissary Rochiriel the Verdani, Kasiya the Human (seated) on some bright red wooden bleachers, Trystan the Human, Emissary Ayderias the Avardi, and Aruskin the Avardi (seated) on some bright red wooden bleachers 
+
+Obvious Exits: none
+
+
+Kasiya says, "Skin wouldn't last."
+
+Kaiya squints at Bocon.
+<HP: 157/157 ST: 123/123>
+Kasiya nods to Bocon.
+
+Kasiya says, "Maybe..."
+
+Flynt arrives from the southwest.
+
+Trystan glances at Flynt and winks.
+
+Flynt smiles.
+smi fly
+
+You smile at Flynt.
+
+Garaven nods to Flynt.
+
+Flynt sits on some bright red wooden bleachers.
+
+Bocon says, "This art is not for those who give up early. You will make mistakes and work hard."
+
+Flynt grins at Garaven.
+murm fly in Sylvan
+whisper fly they are just doing the blacksmith demonstration
+
+You murmur to Flynt in Sylvan.
+You whisper to Flynt, "They are just doing the blacksmith demonstration.".
+nod fly
+
+You nod to Flynt.
+
+Rochiriel smiles at Flynt.
+
+Blink says, "Yikes. Work."
+
+Rochiriel chuckles at Blink.
+
+Garaven smirks.
+
+Bocon says, "My lord blesses me with very hot flames, so I can make wonderful items."
+
+Kasiya nods solemnly.
+smi boc
+
+You smile at Bocon.
+say boc does being Pyrousian help?
+
+You ask Bocon, "Does being Pyrousian help?"
+furr
+
+You furrow your brow.
+
+Flynt whispers to you, "Hmmm. Not sure if I am up for blacksmithing or not.".
+nod fly
+
+You nod to Flynt.
+
+Bocon asks you, "Perhaps. Care to try?"
+
+Bocon smiles.
+disagree boc
+
+You shake your head from side to side to Bocon.
+cac
+
+You cackle.
+
+Bocon grins.
+
+Rochiriel says to Bocon, "I hear Xiija is up for auction to the highest bidder."
+chu roc
+
+You chuckle at Rochiriel.
+Rochiriel chuckles.
+
+Kasiya says, "All that fire. Would it be wrong if I wanted to try? I know what some people say about Kaleith and pyrous."
+
+Bocon says, "Safety is also needed, the sparks from hammering can burn your face."
+glan kasi
+
+You glance at Kasiya.
+
+Bocon puts on a full-faced deep red garnet encrusted arcsilver flame mask.
+
+Kasiya says, "But I am confused by ..."
+whist boc
+
+You whistle at Bocon.
+
+Kasiya falls silent, flushing deeply.
+
+Bocon taps some deep crimson soft leather flame-embroidered gloves.
+l
+
+
+
+[Alumni Pavilion.]
+
+A small canary yellow tablecloth-covered refreshment table greets guests as they enter the bright and colorful oval tent.  Within the central presentation area, surrounded by a short pine partition, are several tables bearing mysterious objects shrouded by crisp, white linen cloths.  A blue-painted podium, that has been placed upon a large circular sandstone dais, is positioned directly in front of a dark canvas curtain.  Bright red wooden bleachers, arranged in a semicircle, offer spectators a bird's eye view of the activities below.  You notice an Academy-crested polished silver cookie tray, a large academy-crested polished silver punch bowl, an iron-banded wooden barrel, a red-striped canvas tent flap, a small canary yellow tablecloth-covered refreshment table, a blue-painted pine podium, an Academy-crested polished silver drink tray, a large green cloth-covered pine table, a silver platter, a silver platter, a silver platter, a silver platter, a silver treasure chest, a silver treasure chest, and a bundle of silver.
+
+Also here: Gant the Human, Champion Blink the Avardi (lying down) on some bright red wooden bleachers, Kaiya the Avardi (seated), Seren the Avardi, Empyrion Bocon the Devalin, Ra'daji Garaven the Verdani, Emissary Rochiriel the Verdani, Kasiya the Human (seated) on some bright red wooden bleachers, Trystan the Human, Emissary Ayderias the Avardi, Aruskin the Avardi (seated) on some bright red wooden bleachers, and Flynt the Sylph (seated) on some bright red wooden bleachers 
+
+Obvious Exits: none
+
+
+Bocon says, "Gloves and a mask should be worn."
+<HP: 157/157 ST: 123/123>
+Kasiya looks on in intrigue at the mask.
+
+Rochiriel says to Kasiya, "There are other Kalesians that have learned the craft of blacksmithing."
+murm fly in Sylvan
+whisper fly the sword they have, it's not a cursed one i guess..
+
+You murmur to Flynt in Sylvan.
+You whisper to Flynt, "The sword they have, it's not a cursed one I guess..".
+
+Bocon nods.
+shru fly
+
+You shrug at Flynt.
+
+Bocon says, "Though they are not as blessed by the flames."
+nod boc
+
+You nod to Bocon.
+
+Blink says, "Oh I'll bid if Xiija is up for sale."
+
+Ayderias says to Kasiya, "The elements are esstential to our world, even if not favored by our individual faiths."
+grunt bli
+
+You grunt at Blink.
+
+Blink says, "I need to hang a Sylph in a cave you see."
+
+Bocon says to Blink, "Cheap price."
+flai
+
+You flail your arms.
+
+Blink says, "IT is for science."
+
+Trystan glances at Blink.
+
+Kasiya nods to Ayderias softly.
+
+Bocon nods.
+
+Rochiriel exclaims to Blink, "Sold!"
+
+Flynt gapes at Blink.
+
+Rochiriel says, "One doubloon."
+
+Rochiriel nods firmly.
+
+Blink gives 1 doubloon to Rochiriel.
+
+Garaven whistles.
+
+Bocon says, "You will require a hot fire and raw ores to begin your crafting."
+
+Ayderias frowns at Blink.
+
+Bocon points at a bundle of silver.
+nod boc
+
+You nod to Bocon.
+
+Bocon kneels.
+glan roc and Blink
+
+You glance at Rochiriel and Blink.
+
+Blink says, "She will not be harmed. I'm merely going to study how the air currents hit her wings."
+
+Bocon starts smithing a silver jewelry chest.
+
+Bocon continues forging a silver jewelry chest.
+
+Bocon says, "I will make a chest for you....hopefully....."
+fan
+
+You fan your wings.
+
+Rochiriel exclaims to Bocon, "My that does look dangerous!"
+
+Bocon continues forging a silver jewelry chest.
+fan helping the flames go brighter...
+
+You fan your wings helping the flames go brighter...
+l
+
+
+
+[Alumni Pavilion.]
+
+A small canary yellow tablecloth-covered refreshment table greets guests as they enter the bright and colorful oval tent.  Within the central presentation area, surrounded by a short pine partition, are several tables bearing mysterious objects shrouded by crisp, white linen cloths.  A blue-painted podium, that has been placed upon a large circular sandstone dais, is positioned directly in front of a dark canvas curtain.  Bright red wooden bleachers, arranged in a semicircle, offer spectators a bird's eye view of the activities below.  You notice an Academy-crested polished silver cookie tray, a large academy-crested polished silver punch bowl, an iron-banded wooden barrel, a red-striped canvas tent flap, a small canary yellow tablecloth-covered refreshment table, a blue-painted pine podium, an Academy-crested polished silver drink tray, a large green cloth-covered pine table, a silver platter, a silver platter, a silver platter, a silver platter, a silver treasure chest, a silver treasure chest, and a bundle of silver.
+
+Also here: Gant the Human, Champion Blink the Avardi (lying down) on some bright red wooden bleachers, Kaiya the Avardi (seated), Seren the Avardi, Empyrion Bocon the Devalin (kneeling), Ra'daji Garaven the Verdani, Emissary Rochiriel the Verdani, Kasiya the Human (seated) on some bright red wooden bleachers, Trystan the Human, Emissary Ayderias the Avardi, Aruskin the Avardi (seated) on some bright red wooden bleachers, and Flynt the Sylph (seated) on some bright red wooden bleachers 
+
+Obvious Exits: none
+
+
+Bocon says, "Please keep your face away from the sparks."
+
+Bocon continues forging a silver jewelry chest.
+stare
+
+You stare.
+
+Rochiriel backs up slightly.
+' it bends so easy when it is hot!
+
+You exclaim, "It bends so easy when it is hot!"
+Bocon is nearly done forging a silver jewelry chest.
+Bocon is done smithing a silver jewelry chest.
+
+Blink edges away.
+
+Bocon coughs.
+
+Kasiya keeps her face turned just enough to hopefully keep from getting sparked on.
+
+Blink says, "Yeah keep those sparks away from my feathers."
+
+Bocon says, "Even masters of the art do fail."
+grin bli
+
+You grin at Blink.
+nod boc
+
+You nod to Bocon.
+
+Kasiya turns her head to watch. She smiles as she spots the chest.
+
+Bocon says, "But these are items that are very difficult to make, even for me."
+l
+
+
+
+[Alumni Pavilion.]
+
+A small canary yellow tablecloth-covered refreshment table greets guests as they enter the bright and colorful oval tent.  Within the central presentation area, surrounded by a short pine partition, are several tables bearing mysterious objects shrouded by crisp, white linen cloths.  A blue-painted podium, that has been placed upon a large circular sandstone dais, is positioned directly in front of a dark canvas curtain.  Bright red wooden bleachers, arranged in a semicircle, offer spectators a bird's eye view of the activities below.  You notice an Academy-crested polished silver cookie tray, a large academy-crested polished silver punch bowl, an iron-banded wooden barrel, a red-striped canvas tent flap, a small canary yellow tablecloth-covered refreshment table, a blue-painted pine podium, an Academy-crested polished silver drink tray, a large green cloth-covered pine table, a silver platter, a silver platter, a silver platter, a silver platter, a silver treasure chest, a silver treasure chest, and a bundle of silver.
+
+Also here: Gant the Human, Champion Blink the Avardi (lying down) on some bright red wooden bleachers, Kaiya the Avardi (seated), Seren the Avardi, Empyrion Bocon the Devalin (kneeling), Ra'daji Garaven the Verdani, Emissary Rochiriel the Verdani, Kasiya the Human (seated) on some bright red wooden bleachers, Trystan the Human, Emissary Ayderias the Avardi, Aruskin the Avardi (seated) on some bright red wooden bleachers, and Flynt the Sylph (seated) on some bright red wooden bleachers 
+
+Obvious Exits: none
+
+
+Bocon starts smithing a silver jewelry chest.
+
+Bocon continues forging a silver jewelry chest.
+
+Trystan grins at Bocon.
+
+Bocon says, "You must take great care while you round the metal."
+
+Bocon continues forging a silver jewelry chest.
+
+Bocon says, "Or it will break."
+
+Kasiya bites her lip.
+nod  thoughtfully
+
+You nod thoughtfully.
+
+Bocon continues forging a silver jewelry chest.
+' is that Silerford Silver?
+
+You ask, "Is that Silerford Silver?"
+glan
+
+You glance.
+
+Bocon says, "Noooooooo."
+
+Bocon is nearly done forging a silver jewelry chest.
+Bocon is done smithing a silver jewelry chest.
+
+Ayderias grins at you.
+pon 
+
+You ponder.
+
+Bocon says, "There we go."
+l
+
+
+
+[Alumni Pavilion.]
+
+A small canary yellow tablecloth-covered refreshment table greets guests as they enter the bright and colorful oval tent.  Within the central presentation area, surrounded by a short pine partition, are several tables bearing mysterious objects shrouded by crisp, white linen cloths.  A blue-painted podium, that has been placed upon a large circular sandstone dais, is positioned directly in front of a dark canvas curtain.  Bright red wooden bleachers, arranged in a semicircle, offer spectators a bird's eye view of the activities below.  You notice an Academy-crested polished silver cookie tray, a large academy-crested polished silver punch bowl, an iron-banded wooden barrel, a red-striped canvas tent flap, a small canary yellow tablecloth-covered refreshment table, a blue-painted pine podium, an Academy-crested polished silver drink tray, a large green cloth-covered pine table, a silver platter, a silver platter, a silver platter, a silver platter, a silver treasure chest, a silver treasure chest, a bundle of silver, and a silver jewelry chest.
+
+Also here: Gant the Human, Champion Blink the Avardi (lying down) on some bright red wooden bleachers, Kaiya the Avardi (seated), Seren the Avardi, Empyrion Bocon the Devalin (kneeling), Ra'daji Garaven the Verdani, Emissary Rochiriel the Verdani, Kasiya the Human (seated) on some bright red wooden bleachers, Trystan the Human, Emissary Ayderias the Avardi, Aruskin the Avardi (seated) on some bright red wooden bleachers, and Flynt the Sylph (seated) on some bright red wooden bleachers 
+
+Obvious Exits: none
+
+
+Bocon gets a silver jewelry chest.
+
+Kasiya smiles at Bocon.
+
+Bocon stands up.
+appl
+
+You applaud.
+
+Seren says, "Beautiful work."
+
+Trystan applauds.
+
+Bocon gives a silver jewelry chest to Kasiya.
+' nicely done!
+
+You exclaim, "Nicely done!"
+
+Flynt says, "Very nice."
+
+Flynt nods his head up and down.
+
+Blink applauds.
+say kasi put all those gems innit
+
+You say to Kasiya, "Put all those gems innit."
+cac
+
+You cackle.
+
+Bocon says, "These items take far more ore to make than most others."
+
+Ayderias says to Bocon, "Excellent work."
+
+Kaiya asks, "How much ore for the chest?"
+
+Trystan nods his head up and down.
+
+Bocon says to Ayderias, "Thank you."
+
+Bocon bows.
+
+Garaven says, "Very nice."
+say boc how much gold for the chest?
+
+You ask Bocon, "How much gold for the chest?"
+cac
+
+You cackle.
+
+Bocon says to Kaiya, "It is a gift."
+
+Bocon asks Trystan, "Do you want me to smelt something?"
+l
+
+
+
+[Alumni Pavilion.]
+
+A small canary yellow tablecloth-covered refreshment table greets guests as they enter the bright and colorful oval tent.  Within the central presentation area, surrounded by a short pine partition, are several tables bearing mysterious objects shrouded by crisp, white linen cloths.  A blue-painted podium, that has been placed upon a large circular sandstone dais, is positioned directly in front of a dark canvas curtain.  Bright red wooden bleachers, arranged in a semicircle, offer spectators a bird's eye view of the activities below.  You notice an Academy-crested polished silver cookie tray, a large academy-crested polished silver punch bowl, an iron-banded wooden barrel, a red-striped canvas tent flap, a small canary yellow tablecloth-covered refreshment table, a blue-painted pine podium, an Academy-crested polished silver drink tray, a large green cloth-covered pine table, a silver platter, a silver platter, a silver platter, a silver platter, a silver treasure chest, a silver treasure chest, and a bundle of silver.
+
+Also here: Gant the Human, Champion Blink the Avardi (lying down) on some bright red wooden bleachers, Kaiya the Avardi (seated), Seren the Avardi, Empyrion Bocon the Devalin, Ra'daji Garaven the Verdani, Emissary Rochiriel the Verdani, Kasiya the Human (seated) on some bright red wooden bleachers, Trystan the Human, Emissary Ayderias the Avardi, Aruskin the Avardi (seated) on some bright red wooden bleachers, and Flynt the Sylph (seated) on some bright red wooden bleachers 
+
+Obvious Exits: none
+
+
+Trystan asks, "Me?"
+
+Trystan says, "Whatever you like."
+
+Ayderias asks Bocon, "Is silver used to make any other metals we know?"
+
+who
+[ARRIVALS] 'Theodrick has logged out.'
+
+   Players Currently Online: 
+ =============================
+
+   Gant the Human                                              
+   Kasiya the Human                                            
+   Garaven the Verdani                                         
+   Xiija the Sylph                                             
+   Brooke the Bolinau                                          
+   Kaiya the Avardi                                            
+   Blink the Avardi                                            
+   Bocon the Devalin                                           
+   Geel the Gavial                                             
+   Trystan the Human                                           
+   Seren the Avardi                                            
+   Rochiriel the Verdani                                       
+   Ayderias the Avardi                                         
+   Aruskin the Avardi                                          
+   Oland the Dwarf                                             
+   Flynt the Sylph                                             
+
+
+Bocon says, "Smelting is somewhat useful as well, if you wish to make other things."
+rai ayd
+
+You raise an eyebrow at Ayderias.
+
+Bocon says to Ayderias, "Indeed."
+
+Kasiya says to Bocon, "Could I pay you something for the set of silver I got from the chest? Bowl, plate, fork... chalice."
+
+Kasiya blushes.
+
+Kaiya says to Bocon, "No, I meant how many did it take to make."
+
+Bocon says to Kasiya, "Pay me in respect for the art."
+smi
+
+You smile.
+l
+
+
+
+[Alumni Pavilion.]
+
+A small canary yellow tablecloth-covered refreshment table greets guests as they enter the bright and colorful oval tent.  Within the central presentation area, surrounded by a short pine partition, are several tables bearing mysterious objects shrouded by crisp, white linen cloths.  A blue-painted podium, that has been placed upon a large circular sandstone dais, is positioned directly in front of a dark canvas curtain.  Bright red wooden bleachers, arranged in a semicircle, offer spectators a bird's eye view of the activities below.  You notice an Academy-crested polished silver cookie tray, a large academy-crested polished silver punch bowl, an iron-banded wooden barrel, a red-striped canvas tent flap, a small canary yellow tablecloth-covered refreshment table, a blue-painted pine podium, an Academy-crested polished silver drink tray, a large green cloth-covered pine table, a silver platter, a silver platter, a silver platter, a silver platter, a silver treasure chest, a silver treasure chest, and a bundle of silver.
+
+Also here: Gant the Human, Champion Blink the Avardi (lying down) on some bright red wooden bleachers, Kaiya the Avardi (seated), Seren the Avardi, Empyrion Bocon the Devalin, Ra'daji Garaven the Verdani, Emissary Rochiriel the Verdani, Kasiya the Human (seated) on some bright red wooden bleachers, Trystan the Human, Emissary Ayderias the Avardi, Aruskin the Avardi (seated) on some bright red wooden bleachers, and Flynt the Sylph (seated) on some bright red wooden bleachers 
+
+Obvious Exits: none
+
+l bund
+
+It looks like a 72 pound bundle of silver.
+
+Bocon says, "If you mix the right amounts of silver and copper..."
+
+Bocon drops a bundle of copper.
+
+Bocon starts smelting niello.
+stare
+
+You stare.
+' what .. IS that?
+
+You ask, "What .. IS that?"
+
+Flynt says, "Ahhhh."
+
+Kasiya blinks.
+
+Kasiya asks, "Wh-what?"
+
+Blink asks, "Isn't platinum silver and gold?"
+
+Bocon continues smelting some niello.
+
+Bocon shakes his head from side to side.
+
+Garaven says to Blink, "Platinum is not an alloy."
+Bocon is about halfway through smelting some niello.
+say bli isn't Arcsilver, lighting and silver?
+
+You ask Blink, "Isn't Arcsilver, lighting and silver?"
+
+Blink says, "Oh."
+
+Kasiya asks, "What ... is ... that?"
+
+Kasiya asks, "The other metal?"
+
+Bocon continues smelting some niello.
+
+Flynt says, "That is quite interesting."
+
+Bocon says, "This is a metal called Niello."
+
+Bocon says, "Hopefully."
+
+Kasiya says, "Oh, wow..."
+
+Kasiya grins at Bocon.
+
+Kasiya nods.
+
+Bocon is done smelting niello.
+
+Bocon starts smelting niello.
+
+Bocon nods.
+l
+
+
+
+[Alumni Pavilion.]
+
+A small canary yellow tablecloth-covered refreshment table greets guests as they enter the bright and colorful oval tent.  Within the central presentation area, surrounded by a short pine partition, are several tables bearing mysterious objects shrouded by crisp, white linen cloths.  A blue-painted podium, that has been placed upon a large circular sandstone dais, is positioned directly in front of a dark canvas curtain.  Bright red wooden bleachers, arranged in a semicircle, offer spectators a bird's eye view of the activities below.  You notice an Academy-crested polished silver cookie tray, a large academy-crested polished silver punch bowl, an iron-banded wooden barrel, a red-striped canvas tent flap, a small canary yellow tablecloth-covered refreshment table, a blue-painted pine podium, an Academy-crested polished silver drink tray, a large green cloth-covered pine table, a silver platter, a silver platter, a silver platter, a silver platter, a silver treasure chest, a silver treasure chest, a bundle of silver, a bundle of copper, and some niello.
+
+Also here: Gant the Human, Champion Blink the Avardi (lying down) on some bright red wooden bleachers, Kaiya the Avardi (seated), Seren the Avardi, Empyrion Bocon the Devalin, Ra'daji Garaven the Verdani, Emissary Rochiriel the Verdani, Kasiya the Human (seated) on some bright red wooden bleachers, Trystan the Human, Emissary Ayderias the Avardi, Aruskin the Avardi (seated) on some bright red wooden bleachers, and Flynt the Sylph (seated) on some bright red wooden bleachers 
+
+Obvious Exits: none
+
+glan nie
+
+You glance at some niello.
+appl
+
+You applaud.
+
+Bocon says, "I will make a few."
+
+Rochiriel claps at Bocon.
+
+Bocon continues smelting some niello.
+Kasiya exclaims, "Ooh. Nicely done!"
+
+Kasiya applauds.
+
+Bocon says, "Thank you."
+' that would come in handy if you give it to a merchant who makes armor
+
+You say, "That would come in handy if you give it to a merchant who makes armor."
+
+Bocon is about halfway through smelting some niello.
+nod  thoughtfully
+
+You nod thoughtfully.
+
+Bocon says, "Indeed."
+
+Bocon continues smelting some niello.
+
+Bocon says, "Smelting consumes more thatn it produces however."
+win
+
+You wince.
+
+Bocon is done smelting niello.
+
+Kasiya opens a silver jewelry chest.
+' Pyrous takes his due?
+
+You ask, "Pyrous takes his due?"
+grin boc
+
+You grin at Bocon.
+
+Kasiya closes a silver jewelry chest.
+
+Kasiya sighs wistfully.
+
+Kasiya says, "Softly Jewelry. Someday, perhaps."
+
+Bocon says, "As you can see, I have used one of each ore and it produces one of the prodect."
+nod  thoughtfully
+
+You nod thoughtfully.
+
+Kasiya nods curiously.
+
+Ayderias says, "Fascinating."
+l
+
+
+
+[Alumni Pavilion.]
+
+A small canary yellow tablecloth-covered refreshment table greets guests as they enter the bright and colorful oval tent.  Within the central presentation area, surrounded by a short pine partition, are several tables bearing mysterious objects shrouded by crisp, white linen cloths.  A blue-painted podium, that has been placed upon a large circular sandstone dais, is positioned directly in front of a dark canvas curtain.  Bright red wooden bleachers, arranged in a semicircle, offer spectators a bird's eye view of the activities below.  You notice an Academy-crested polished silver cookie tray, a large academy-crested polished silver punch bowl, an iron-banded wooden barrel, a red-striped canvas tent flap, a small canary yellow tablecloth-covered refreshment table, a blue-painted pine podium, an Academy-crested polished silver drink tray, a large green cloth-covered pine table, a silver platter, a silver platter, a silver platter, a silver platter, a silver treasure chest, a silver treasure chest, a bundle of silver, a bundle of copper, some niello, and some niello.
+
+Also here: Gant the Human, Champion Blink the Avardi (lying down) on some bright red wooden bleachers, Kaiya the Avardi (seated), Seren the Avardi, Empyrion Bocon the Devalin, Ra'daji Garaven the Verdani, Emissary Rochiriel the Verdani, Kasiya the Human (seated) on some bright red wooden bleachers, Trystan the Human, Emissary Ayderias the Avardi, Aruskin the Avardi (seated) on some bright red wooden bleachers, and Flynt the Sylph (seated) on some bright red wooden bleachers 
+
+Obvious Exits: none
+
+
+Bocon gets a bundle of silver.
+
+Bocon gets a bundle of copper.
+
+Bocon gets some niello.
+
+Bocon gets some niello.
+
+Bocon nods.
+' they cool down fast
+
+You say, "They cool down fast."
+grin
+
+You grin.
+
+Bocon says, "No, but heat does not bother me...."
+pon that
+
+You ponder that.
+
+Trystan gestures at an iron-banded wooden barrel.
+murm about Devalin
+
+You murmur about Devalin.
+
+Kasiya says, "Oh hmm..."
+
+Trystan applauds Bocon.
+appl boc
+
+You applaud Bocon.
+
+Rochiriel applauds Bocon.
+l
+
+Bocon says, "That is all. I will field any questions if there are any."
+
+
+[Alumni Pavilion.]
+
+A small canary yellow tablecloth-covered refreshment table greets guests as they enter the bright and colorful oval tent.  Within the central presentation area, surrounded by a short pine partition, are several tables bearing mysterious objects shrouded by crisp, white linen cloths.  A blue-painted podium, that has been placed upon a large circular sandstone dais, is positioned directly in front of a dark canvas curtain.  Bright red wooden bleachers, arranged in a semicircle, offer spectators a bird's eye view of the activities below.  You notice an Academy-crested polished silver cookie tray, a large academy-crested polished silver punch bowl, an iron-banded wooden barrel, a red-striped canvas tent flap, a small canary yellow tablecloth-covered refreshment table, a blue-painted pine podium, an Academy-crested polished silver drink tray, a large green cloth-covered pine table, a silver platter, a silver platter, a silver platter, a silver platter, a silver treasure chest, and a silver treasure chest.
+
+Also here: Gant the Human, Champion Blink the Avardi (lying down) on some bright red wooden bleachers, Kaiya the Avardi (seated), Seren the Avardi, Empyrion Bocon the Devalin, Ra'daji Garaven the Verdani, Emissary Rochiriel the Verdani, Kasiya the Human (seated) on some bright red wooden bleachers, Trystan the Human, Emissary Ayderias the Avardi, Aruskin the Avardi (seated) on some bright red wooden bleachers, and Flynt the Sylph (seated) on some bright red wooden bleachers 
+
+Obvious Exits: none
+
+
+Bocon bows.
+
+Bocon says, "Thank you."
+
+Seren says to Bocon, "You do beautiful work."
+
+Bocon says to Seren, "Thank you."
+
+Trystan asks, "Questions anyone?"
+
+Rochiriel shakes her head from side to side.
+
+Ayderias says to Bocon, "I had no idea how skilled you were at your craft."
+say boc why do they call it Blacksmithing, not bluesmithing or somethyng?
+
+You ask Bocon, "Why do they call it Blacksmithing, not bluesmithing or somethyng?"
+
+Flynt says, "Yes."
+
+Kaiya asks, "How many ore did it take to make the chest?"
+
+Kasiya asks, "After mining, I would learn ... what?"
+chu
+
+You chuckle.
+
+Blink asks Bocon, "Uh, can you make copper wire?"
+
+Bocon says to Ayderias, "I am not typically very social....."
+
+Trystan chuckles.
+
+Ayderias asks Bocon, "Do you have future plans to specialize in any particular type of metalwork?"
+
+Flynt asks Bocon, "Have you found any other metal combinations that make alloys?"
+
+Flynt fidgets.
+poi fly
+
+You point at Flynt.
+
+Garaven chuckles.
+
+Flynt says to Ayderias, "My pardon."
+
+Trystan flips a coin to Aruskin and another to Flynt.
+
+Trystan gives a polished nickel coin to Aruskin.
+
+Bocon says to Kaiya, "Blacksmithing and from blacksmithing, smelting."
+
+Trystan gives a polished nickel coin to Flynt.
+
+Flynt chuckles.
+
+Blink says to Aruskin, "Oh hi."
+Flynt grins at Trystan.
+
+Ayderias smiles at Flynt.
+grit coin
+
+You grit your teeth on a polished nickel coin.
+nod
+
+You nod.
+put coi sat
+
+You put a polished nickel coin in a grimy worn leather satchel.
+
+Rochiriel takes a drink from a cup of hot Tetherian-bean coffee.
+
+Bocon says to Ayderias, "I am going to work on more intricate pieces of jewlery, as soon as I can figure out how to properly make such delicate items."
+
+Ayderias says to Bocon, "After this display, I am certain you will take to it well."
+
+Bocon says, "I can make Niello, Bronze, Brass and Pewter at the moment."
+
+Bocon says to Ayderias, "Thank you for your confidence."
+
+Flynt says to Bocon, "Fantastic."
+
+Bocon says, "Smelting takes an enormous amount of work, as it comsumes double the materials."
+
+Ayderias says to Bocon, "There may be a demand for bronze to cast a new bell for Pearl."
+
+Trystan chuckles.
+chu ayd
+
+You chuckle at Ayderias.
+
+Rochiriel nods her head up and down.
+
+Trystan asks, "Is there anybody here that hasn't been to Pearl?"
+
+Bocon says to Ayderias, "Yes, I read of such things."
+inv
+Inventory:
+
+a frosted glass plate (7.0 lbs)
+ some bacon deviled eggs (1.0 lb)
+ 
+Currency: 163 doubloons
+
+Carrying: 94 items (49.0 | 81.0) lbs.
+
+eat egg
+
+You take a bite of some bacon deviled eggs.
+
+[Delay: 2.0 sec.]
+
+
+Bocon says, "I am sure the ATC would love to work with me, as much as I'd LOVE to work with them."
+
+Trystan chuckles at Bocon.
+Bocon smiles slowly.
+' twenty three
+
+You say, "Twenty three."
+
+Garaven grins at Bocon.
+cou
+
+You cough.
+
+Ayderias smirks.
+
+Kasiya takes a bite of a small loaf of cracked rye bread.
+
+Bocon removes a full-faced deep red garnet encrusted arcsilver flame mask.
+
+Rochiriel takes a drink from a cup of hot Tetherian-bean coffee.
+glan try
+
+You glance at Trystan.
+
+Bocon removes a copper blacksmith hammer.
+
+Bocon puts a copper blacksmith hammer in an iron tool box.
+
+Trystan says, "Everybody put their hands together and thank the Empyrion."
+appl boc
+
+You applaud Bocon.
+
+Rochiriel applauds Bocon.
+clap
+
+You clap.
+Bocon says, "You can also make these tool boxes and other tools."
+
+Ayderias applauds.
+
+Kaiya claps politely for Bocon.
+
+Garaven claps at Bocon.
+
+Blink chirps at Bocon.
+
+Aruskin applauds.
+Bocon says, "The end."
+
+Seren applauds.
+
+Bocon bows.
+
+Kasiya smiles.
+Garaven chuckles.
+
+Ayderias chuckles softly.
+
+Kasiya claps at Bocon.
+say boc do you sell those hammers?
+
+You ask Bocon, "Do you sell those hammers?"
+
+Trystan bows to Bocon and says, "Thank you very much for presenting."
+rai
+
+You raise an eyebrow.
+
+Bocon smiles as he moves to the back of the room.
+
+Trystan unlocks a blue-painted pine podium.
+
+Trystan gets a silver platter.
+
+Trystan opens a blue-painted pine podium.
+
+Bocon says to you, "I can make some for you if you wish."
+
+Trystan puts a silver platter in a blue-painted pine podium.
+beam boc
+
+You beam at Bocon.
+
+Trystan gets a bundle of ivory from a blue-painted pine podium.
+
+Trystan closes a blue-painted pine podium.
+
+Trystan drops a bundle of ivory.
+l ivory
+
+It looks like a 50 pound bundle of ivory.
+l
+
+
+
+[Alumni Pavilion.]
+
+A small canary yellow tablecloth-covered refreshment table greets guests as they enter the bright and colorful oval tent.  Within the central presentation area, surrounded by a short pine partition, are several tables bearing mysterious objects shrouded by crisp, white linen cloths.  A blue-painted podium, that has been placed upon a large circular sandstone dais, is positioned directly in front of a dark canvas curtain.  Bright red wooden bleachers, arranged in a semicircle, offer spectators a bird's eye view of the activities below.  You notice an Academy-crested polished silver cookie tray, a large academy-crested polished silver punch bowl, an iron-banded wooden barrel, a red-striped canvas tent flap, a small canary yellow tablecloth-covered refreshment table, a blue-painted pine podium, an Academy-crested polished silver drink tray, a large green cloth-covered pine table, a silver platter, a silver platter, a silver platter, a silver treasure chest, a silver treasure chest, and a bundle of ivory.
+
+Also here: Gant the Human, Champion Blink the Avardi (lying down) on some bright red wooden bleachers, Kaiya the Avardi (seated), Seren the Avardi, Empyrion Bocon the Devalin, Ra'daji Garaven the Verdani, Emissary Rochiriel the Verdani, Kasiya the Human (seated) on some bright red wooden bleachers, Trystan the Human, Emissary Ayderias the Avardi, Aruskin the Avardi (seated) on some bright red wooden bleachers, and Flynt the Sylph (seated) on some bright red wooden bleachers 
+
+Obvious Exits: none
+
+
+Trystan says, "Now for those crafters out there that like bone."
+
+Trystan gestures at a bundle of ivory.
+
+Trystan says, "Or ivory."
+' ivory!
+
+You exclaim, "Ivory!"
+stare
+
+You stare.
+
+Kaiya claps.
+
+Kaiya exclaims, "Where in the world do you find ivory?!"
+
+Trystan asks, "At the end of Hawkers Alley there is a tower. The floor of this tower has a mosaic inlay, who can tell me what the inlay depicts?"
+say kai whales
+
+You say to Kaiya, "Whales."
+
+Flynt chuckles.
+
+Kaiya says, "Oh."
+
+Rochiriel ponders.
+
+Kaiya asks Trystan, "Whales?"
+pon too
+
+You ponder too.
+
+Rochiriel asks, "King Sauntere?"
+
+Kaiya twiddles her fingers.
+
+Kasiya says, "Oh no. I don't remember..."
+
+who
+[ARRIVALS] 'Geel has logged out.'
+
+   Players Currently Online: 
+ =============================
+
+   Gant the Human                                              
+   Kasiya the Human                                            
+   Garaven the Verdani                                         
+   Xiija the Sylph                                             
+   Brooke the Bolinau                                          
+   Kaiya the Avardi                                            
+   Blink the Avardi                                            
+   Bocon the Devalin                                           
+   Trystan the Human                                           
+   Seren the Avardi                                            
+   Rochiriel the Verdani                                       
+   Ayderias the Avardi                                         
+   Aruskin the Avardi                                          
+   Oland the Dwarf                                             
+   Flynt the Sylph                                             
+
+
+Blink asks, "Uh merchants?"
+Trystan furrows his brow.
+say a map of the isle
+
+You say, "A map of the isle."
+
+Kaiya says, "I don't even know what Hawkers Alley is..."
+
+Trystan points at you.
+
+Ayderias chuckles.
+
+Kasiya says, "It's close by."
+
+Trystan exclaims, "Winner!"
+
+Kasiya grins.
+beam
+
+You beam.
+' the only mosaic in town
+
+You say, "The only mosaic in town."
+nod  thoughtfully
+
+You nod thoughtfully.
+
+Trystan says to you, "I'll you move the bone later I guess."
+grin
+
+You grin.
+
+Trystan shakes his head from side to side and grins.
+
+Trystan says, "Okay then, for a similar bundle as this one..."
+
+Trystan gestures at a bundle of ivory.
+
+Trystan says, "Name the three royal lines."
+' erm
+
+You say, "Erm."
+
+Kaiya snorts.
+glan
+You glance.
+
+Trystan glances around the audience.
+
+Trystan asks, "Really?"
+
+Rochiriel says, "Basyseian, sauntere, davidicus."
+
+Trystan grins at Rochiriel.
+poi
+
+You point.
+
+Trystan exclaims, "Winner!"
+
+Rochiriel smiles at Trystan.
+
+Garaven claps at Rochiriel.
+
+Trystan says to Rochiriel, "You may have this bundle if you like."
+appl softly
+
+You applaud softly.
+
+Rochiriel gets a bundle of ivory.
+
+Trystan grins.
+
+Rochiriel says to Trystan, "Thank you."
+
+Ayderias says to Kaiya, "Hawker's Alley is southeast of the crossroads I believe. A place to buy materials if you aren't the adventurous type."
+nod ayd
+
+You nod to Ayderias.
+
+Garaven says to Rochiriel, "You've retained your lessons well."
+
+Kaiya says, "Oh. I've actually been there many times."
+
+Kaiya twiddles her fingers.
+
+Trystan says, "And that tower also houses the ATC and crafting academy."
+
+Rochiriel beams at Garaven.
+
+Rochiriel says to Garaven, "I had a great teacher."
+' twenty four
+
+You say, "Twenty four."
+glan
+
+You glance.
+
+Garaven says to Rochiriel, "Indeed."
+
+Bocon chuckles.
+
+Trystan says, "Moving on then..."
+murm fly in Sylvan
+whisper fly cn you carve ivory?
+
+You murmur to Flynt in Sylvan.
+You whisper to Flynt, "Cn you carve ivory?".
+
+Kaiya asks Ayderias, "Here in the Academy or on Pearl?"
+rai fly
+
+You raise an eyebrow at Flynt.
+
+Flynt ponders.
+
+Kasiya asks, "Hmm. Crafting academy?"
+
+Ayderias says to Kaiya, "Here."
+
+Kasiya asks, "Really? Where?"
+
+Kaiya nods.
+
+Rochiriel says to Kaiya, "Perhaps I may show you after we are done here."
+
+Trystan chuckles.
+
+Flynt murmurs to you in Sylvan.
+
+Trystan says, "I'm pleased to introduce you to another temple leader as our second presenter. Ra'daji Garaven Azahar from the temple of Tetherias."
+
+Flynt whispers to you, "Never tried.".
+
+Kaiya says, "I've been there. Just didn't know what it's called."
+nod fly
+
+You nod to Flynt.
+
+Trystan gestures at Garaven.
+
+Garaven coughs.
+
+Kaiya claps politely for Garaven.
+appl gar
+
+You applaud Garaven.
+
+Ayderias smiles at Garaven.
+
+Ayderias listens to Garaven.
+
+Trystan moves away from the podium.
+
+Ayderias takes a drink from a cup of strong black tea.
+
+Rochiriel says to Kasiya, "Perhaps I may show you after we are done here."
+
+Garaven makes his way up to the podium.
+
+Bocon smiles at Garaven.
+
+Garaven glances around.
+
+Garaven gets a bamboo stool from a claw-clasped black dire wolf fur-lined leather backpack.
+
+Garaven drops a bamboo stool.
+
+Garaven sits on a bamboo stool.
+
+Rochiriel gets a niello-inlaid trumpeting elephant-etched persarium bouche from a silky ermine fur-lined green velvet satchel.
+
+Garaven says, "Now then."
+
+Rochiriel gets a birch bark-handled iron skinning knife from a whittled bone knife sheath.
+
+Rochiriel gives a birch bark-handled iron skinning knife to Garaven.
+
+who
+[ARRIVALS] 'Rin has logged on.'
+   Players Currently Online: 
+ =============================
+
+   Gant the Human                                              
+   Kasiya the Human                                            
+   Garaven the Verdani                                         
+   Xiija the Sylph                                             
+   Brooke the Bolinau                                          
+   Kaiya the Avardi                                            
+   Blink the Avardi                                            
+   Bocon the Devalin                                           
+   Trystan the Human                                           
+   Seren the Avardi                                            
+   Rochiriel the Verdani                                       
+   Ayderias the Avardi                                         
+   Aruskin the Avardi                                          
+   Oland the Dwarf                                             
+   Flynt the Sylph                                             
+   Rin the Bolinau                                             
+
+
+Garaven says, "The first, most practical application of wood carving."
+
+Garaven taps a bamboo stool.
+
+Rochiriel smiles at Garaven.
+
+Garaven says, "A place to sit."
+
+Kaiya grins.
+grin gar
+
+You grin at Garaven.
+
+Trystan chuckles.
+<HP: 157/157 ST: 123/123>
+Garaven says to Rochiriel, "Thank you."
+
+Flynt ponders.
+l
+
+
+
+[Alumni Pavilion.]
+
+A small canary yellow tablecloth-covered refreshment table greets guests as they enter the bright and colorful oval tent.  Within the central presentation area, surrounded by a short pine partition, are several tables bearing mysterious objects shrouded by crisp, white linen cloths.  A blue-painted podium, that has been placed upon a large circular sandstone dais, is positioned directly in front of a dark canvas curtain.  Bright red wooden bleachers, arranged in a semicircle, offer spectators a bird's eye view of the activities below.  You notice an Academy-crested polished silver cookie tray, a large academy-crested polished silver punch bowl, an iron-banded wooden barrel, a red-striped canvas tent flap, a small canary yellow tablecloth-covered refreshment table, a blue-painted pine podium, an Academy-crested polished silver drink tray, a large green cloth-covered pine table, a silver platter, a silver platter, a silver platter, a silver treasure chest, a silver treasure chest, and a bamboo stool.
+
+Also here: Gant the Human, Champion Blink the Avardi (lying down) on some bright red wooden bleachers, Kaiya the Avardi (seated), Seren the Avardi, Empyrion Bocon the Devalin, Ra'daji Garaven the Verdani (seated) on a bamboo stool, Emissary Rochiriel the Verdani, Kasiya the Human (seated) on some bright red wooden bleachers, Trystan the Human, Emissary Ayderias the Avardi, Aruskin the Avardi (seated) on some bright red wooden bleachers, and Flynt the Sylph (seated) on some bright red wooden bleachers 
+
+Obvious Exits: none
+
+
+Garaven says, "It is amazing how many places around town have nowhere good to sit."
+chu  gently
+
+You chuckle gently.
+
+Garaven says, "While not as flashy or lucrative as some other trades, woodcarving is possibly the most practical."
+
+Garaven drops a bundle of spruce.
+l barr
+
+It looks like an iron-banded wooden barrel full of water for cooking or drinking.
+Inside you see:
+
+some water
+ 
+
+Bocon ponders.
+
+who
+[ARRIVALS] 'Oland has logged out.'
+   Players Currently Online: 
+ =============================
+
+   Gant the Human                                              
+   Kasiya the Human                                            
+   Garaven the Verdani                                         
+   Xiija the Sylph                                             
+   Brooke the Bolinau                                          
+   Kaiya the Avardi                                            
+   Blink the Avardi                                            
+   Bocon the Devalin                                           
+   Trystan the Human                                           
+   Seren the Avardi                                            
+   Rochiriel the Verdani                                       
+   Ayderias the Avardi                                         
+   Aruskin the Avardi                                          
+   Flynt the Sylph                                             
+   Rin the Bolinau                                             
+
+l
+
+
+
+[Alumni Pavilion.]
+
+A small canary yellow tablecloth-covered refreshment table greets guests as they enter the bright and colorful oval tent.  Within the central presentation area, surrounded by a short pine partition, are several tables bearing mysterious objects shrouded by crisp, white linen cloths.  A blue-painted podium, that has been placed upon a large circular sandstone dais, is positioned directly in front of a dark canvas curtain.  Bright red wooden bleachers, arranged in a semicircle, offer spectators a bird's eye view of the activities below.  You notice an Academy-crested polished silver cookie tray, a large academy-crested polished silver punch bowl, an iron-banded wooden barrel, a red-striped canvas tent flap, a small canary yellow tablecloth-covered refreshment table, a blue-painted pine podium, an Academy-crested polished silver drink tray, a large green cloth-covered pine table, a silver platter, a silver platter, a silver platter, a silver treasure chest, a silver treasure chest, a bamboo stool, and a bundle of spruce.
+
+Also here: Gant the Human, Champion Blink the Avardi (lying down) on some bright red wooden bleachers, Kaiya the Avardi (seated), Seren the Avardi, Empyrion Bocon the Devalin, Ra'daji Garaven the Verdani (seated) on a bamboo stool, Emissary Rochiriel the Verdani, Kasiya the Human (seated) on some bright red wooden bleachers, Trystan the Human, Emissary Ayderias the Avardi, Aruskin the Avardi (seated) on some bright red wooden bleachers, and Flynt the Sylph (seated) on some bright red wooden bleachers 
+
+Obvious Exits: none
+
+
+Kasiya says, "Oh."
+
+Garaven says, "Easy to gather, and requires nothing much besides the wood you use."
+
+Kasiya nods happily.
+
+who
+[ARRIVALS] 'Oland has logged on.'
+   Players Currently Online: 
+ =============================
+
+   Gant the Human                                              
+   Kasiya the Human                                            
+   Garaven the Verdani                                         
+   Xiija the Sylph                                             
+   Brooke the Bolinau                                          
+   Kaiya the Avardi                                            
+   Blink the Avardi                                            
+   Bocon the Devalin                                           
+   Trystan the Human                                           
+   Seren the Avardi                                            
+   Rochiriel the Verdani                                       
+   Ayderias the Avardi                                         
+   Aruskin the Avardi                                          
+   Flynt the Sylph                                             
+   Rin the Bolinau                                             
+   Oland the Dwarf                                             
+
+
+Blink says, "Yeah it looks like the ferry guy bought a new bench."
+
+Garaven starts carving a large spruce chest.
+grin bli
+
+You grin at Blink.
+nod
+
+You nod.
+
+Kaiya says, "Easy to gather my ass."
+
+Kaiya hmphs.
+cac kai
+
+You cackle at Kaiya.
+
+Trystan grins.
+
+Bocon laughs.
+
+Garaven chuckles.
+
+Seren grins.
+
+Garaven is carving a large spruce chest.
+
+Ayderias asks, "Where do you find spruce?"
+
+Garaven says to Ayderias, "Good question."
+
+Kaiya says, "Chopping wood makes me what to gouge my eyes out."
+
+Garaven continues carving a large spruce chest.
+grin kai
+
+You grin at Kaiya.
+
+Garaven says, "Spruce, as well as cedar and yew can be found far to the north in Stirling Forest."
+
+Garaven is nearly finished carving a large spruce chest.
+Garaven is done carving a large spruce chest.
+l
+
+
+
+[Alumni Pavilion.]
+
+A small canary yellow tablecloth-covered refreshment table greets guests as they enter the bright and colorful oval tent.  Within the central presentation area, surrounded by a short pine partition, are several tables bearing mysterious objects shrouded by crisp, white linen cloths.  A blue-painted podium, that has been placed upon a large circular sandstone dais, is positioned directly in front of a dark canvas curtain.  Bright red wooden bleachers, arranged in a semicircle, offer spectators a bird's eye view of the activities below.  You notice an Academy-crested polished silver cookie tray, a large academy-crested polished silver punch bowl, an iron-banded wooden barrel, a red-striped canvas tent flap, a small canary yellow tablecloth-covered refreshment table, a blue-painted pine podium, an Academy-crested polished silver drink tray, a large green cloth-covered pine table, a silver platter, a silver platter, a silver platter, a silver treasure chest, a silver treasure chest, a bamboo stool, a bundle of spruce, and a large spruce chest.
+
+Also here: Gant the Human, Champion Blink the Avardi (lying down) on some bright red wooden bleachers, Kaiya the Avardi (seated), Seren the Avardi, Empyrion Bocon the Devalin, Ra'daji Garaven the Verdani (seated) on a bamboo stool, Emissary Rochiriel the Verdani, Kasiya the Human (seated) on some bright red wooden bleachers, Trystan the Human, Emissary Ayderias the Avardi, Aruskin the Avardi (seated) on some bright red wooden bleachers, and Flynt the Sylph (seated) on some bright red wooden bleachers 
+
+Obvious Exits: none
+
+
+Aruskin says, "Also by Gopher mansion."
+
+Kaiya says, "Ravenwood has some lovely hickory."
+glan spruce chest
+
+You glance at a bundle of spruce chest.
+
+Kaiya nods firmly.
+grunt
+
+You grunt.
+
+Aruskin says, "Most any wood will be found by gopher mansion."
+l plate
+
+It looks like a frosted glass plate.
+Inside you see:
+
+a silver spoon
+ some rosemary chicken
+ an apple tart
+ a small loaf of cracked rye bread
+ some leek and potato soup
+ some Ravenswood stew
+ 
+get rave plate
+
+You get some Ravenswood stew from a frosted glass plate.
+
+Garaven says, "Ah. Ravenswood has an even more precious wood."
+rai gar
+
+You raise an eyebrow at Garaven.
+
+Kaiya asks, "Oh?"
+eat stew
+
+You eat the last of some Ravenswood stew.
+
+
+[Delay: 2.0 sec.]
+
+
+Garaven drops a bundle of ebony.
+
+Kaiya says, "Ah."
+whist
+
+You whistle.
+
+Kaiya nods.
+
+Garaven gets a bundle of spruce.
+stare ebo
+
+You stare at a bundle of ebony.
+
+Rochiriel chuckles.
+
+Garaven starts carving an ebony wand.
+l
+
+
+
+[Alumni Pavilion.]
+
+A small canary yellow tablecloth-covered refreshment table greets guests as they enter the bright and colorful oval tent.  Within the central presentation area, surrounded by a short pine partition, are several tables bearing mysterious objects shrouded by crisp, white linen cloths.  A blue-painted podium, that has been placed upon a large circular sandstone dais, is positioned directly in front of a dark canvas curtain.  Bright red wooden bleachers, arranged in a semicircle, offer spectators a bird's eye view of the activities below.  You notice an Academy-crested polished silver cookie tray, a large academy-crested polished silver punch bowl, an iron-banded wooden barrel, a red-striped canvas tent flap, a small canary yellow tablecloth-covered refreshment table, a blue-painted pine podium, an Academy-crested polished silver drink tray, a large green cloth-covered pine table, a silver platter, a silver platter, a silver platter, a silver treasure chest, a silver treasure chest, a bamboo stool, a large spruce chest, and a bundle of ebony.
+
+Also here: Gant the Human, Champion Blink the Avardi (lying down) on some bright red wooden bleachers, Kaiya the Avardi (seated), Seren the Avardi, Empyrion Bocon the Devalin, Ra'daji Garaven the Verdani (seated) on a bamboo stool, Emissary Rochiriel the Verdani, Kasiya the Human (seated) on some bright red wooden bleachers, Trystan the Human, Emissary Ayderias the Avardi, Aruskin the Avardi (seated) on some bright red wooden bleachers, and Flynt the Sylph (seated) on some bright red wooden bleachers 
+
+Obvious Exits: none
+
+l xii
+
+Xiija looks like a slender 55 year old female Sylph.
+She has silvery eyes and very long, dreaded, platinum blonde hair.
+She is 1 feet 9 inches tall and weighs 19 pounds.
+She has an aura of Aerthane.
+Xiija is in perfect health.
+
+Dirty silvery dreadlocks fall across her face, obscuring intense eyes, one white, one silvery-grey from your view
+
+Visible Tattoos:
+
+A sleeve of multi-colored dragons twists down her left arm from shoulder to wrist.
+A small deep blue pentagram is tattooed upon her neck.
+On her left cheek is a small tribal tattoo.
+Centered on her forehead is tattooed the Mark of Aerthane.
+Up the inside of her right forearm is a tattoo of a black Caduceus with bloody wings.
+Across her back is tattoo'd - 'Revenge'.
+
+She is wearing:
+
+Head            : a ragged eagle feather and goat fur headdress
+Head            : some purple thread-tied blessed silver charms
+Ears            : a blackened cursed vampire bone earring
+Ears            : a bone earring
+Neck            : a carved old teak tribal kami talisman
+Neck            : a weathered teak shamanic voodoo fetish
+Body            : a grimy worn leather satchel
+Body            : a dark brown formal Sylvan batik itai
+Torso           : some tribal-etched steel scalemail
+Left wrist      : a smooth cherrywood bracelet
+Left finger     : a smooth ebony ring
+Waist           : a tooled leather sailors weapon harness
+Waist           : a wyvern-painted leather junk sack
+Feet            : a tinkling silver-belled jade anklet
+Wield           : a battered teak baji totem staff
+Held            : a tiki-carved parrot-feathered scorched teak tribal shield
+Face            : a blackened leather shaman's wyvern-head death mask
+Face            : a smooth silver lip ring
+Nose            : a tribal-scrimshawed bone septum piercing
+
+rub ring
+
+You rub a smooth ebony ring.
+
+Flynt says, "Wow."
+
+Garaven is about halfway through carving an ebony wand.
+
+Ayderias says, "Seems like a soothing trade to practice."
+l
+
+
+
+[Alumni Pavilion.]
+
+A small canary yellow tablecloth-covered refreshment table greets guests as they enter the bright and colorful oval tent.  Within the central presentation area, surrounded by a short pine partition, are several tables bearing mysterious objects shrouded by crisp, white linen cloths.  A blue-painted podium, that has been placed upon a large circular sandstone dais, is positioned directly in front of a dark canvas curtain.  Bright red wooden bleachers, arranged in a semicircle, offer spectators a bird's eye view of the activities below.  You notice an Academy-crested polished silver cookie tray, a large academy-crested polished silver punch bowl, an iron-banded wooden barrel, a red-striped canvas tent flap, a small canary yellow tablecloth-covered refreshment table, a blue-painted pine podium, an Academy-crested polished silver drink tray, a large green cloth-covered pine table, a silver platter, a silver platter, a silver platter, a silver treasure chest, a silver treasure chest, a bamboo stool, a large spruce chest, and a bundle of ebony.
+
+Also here: Gant the Human, Champion Blink the Avardi (lying down) on some bright red wooden bleachers, Kaiya the Avardi (seated), Seren the Avardi, Empyrion Bocon the Devalin, Ra'daji Garaven the Verdani (seated) on a bamboo stool, Emissary Rochiriel the Verdani, Kasiya the Human (seated) on some bright red wooden bleachers, Trystan the Human, Emissary Ayderias the Avardi, Aruskin the Avardi (seated) on some bright red wooden bleachers, and Flynt the Sylph (seated) on some bright red wooden bleachers 
+
+Obvious Exits: none
+
+
+Kaiya squints over at Ayderias.
+
+Garaven says, "Indeed it is. I find the chopping and carving to be very relaxing."
+
+Garaven continues carving an ebony wand.
+
+Ayderias says to Kaiya, "After it is already gathered, of course."
+
+Kaiya nods firmly.
+
+Trystan grins.
+
+Bocon says, "Very nice material. My personal favorite wood."
+
+Kasiya asks, "How do you learn how to carve ...?"
+Garaven chuckles.
+
+Garaven is done carving an ebony wand.
+
+Kasiya takes a bite of a small loaf of cracked rye bread.
+
+Kasiya says, "Wow."
+
+Trystan says to Garaven, "I think I remember when you decided to take up the craft."
+
+Ayderias says to Kasiya, "I've no idea, but I suspect it comes naturally after chopping down large amounts of wood."
+
+Garaven nods to Ayderias.
+
+Kaiya says to Kasiya, "By chopping."
+
+Garaven says, "Indeed."
+
+Kaiya says to Kasiya, "Which you learn from ten lessons in another trade, like skinning or foraging."
+
+Garaven says, "With woodcarving you can make chests, shields, stools, and other useful items."
+
+Garaven starts carving a smooth ebony bracelet.
+l
+
+
+
+[Alumni Pavilion.]
+
+A small canary yellow tablecloth-covered refreshment table greets guests as they enter the bright and colorful oval tent.  Within the central presentation area, surrounded by a short pine partition, are several tables bearing mysterious objects shrouded by crisp, white linen cloths.  A blue-painted podium, that has been placed upon a large circular sandstone dais, is positioned directly in front of a dark canvas curtain.  Bright red wooden bleachers, arranged in a semicircle, offer spectators a bird's eye view of the activities below.  You notice an Academy-crested polished silver cookie tray, a large academy-crested polished silver punch bowl, an iron-banded wooden barrel, a red-striped canvas tent flap, a small canary yellow tablecloth-covered refreshment table, a blue-painted pine podium, an Academy-crested polished silver drink tray, a large green cloth-covered pine table, a silver platter, a silver platter, a silver platter, a silver treasure chest, a silver treasure chest, a bamboo stool, a large spruce chest, a bundle of ebony, and an ebony wand.
+
+Also here: Gant the Human, Champion Blink the Avardi (lying down) on some bright red wooden bleachers, Kaiya the Avardi (seated), Seren the Avardi, Empyrion Bocon the Devalin, Ra'daji Garaven the Verdani (seated) on a bamboo stool, Emissary Rochiriel the Verdani, Kasiya the Human (seated) on some bright red wooden bleachers, Trystan the Human, Emissary Ayderias the Avardi, Aruskin the Avardi (seated) on some bright red wooden bleachers, and Flynt the Sylph (seated) on some bright red wooden bleachers 
+
+Obvious Exits: none
+
+
+Garaven says, "And jewelry as well."
+smi
+
+You smile.
+
+Garaven is about halfway through carving a smooth ebony bracelet.
+
+Garaven gets a bundle of ebony.
+
+Aruskin says, "You can also make wands and wandcases, which are not useful items."
+
+Garaven scoffs at Aruskin.
+
+Rochiriel scoffs at Aruskin.
+Kaiya grins at Aruskin.
+
+Bocon snickers.
+
+Trystan laughs.
+
+Garaven continues carving a smooth ebony bracelet.
+
+Garaven says to Aruskin, "You are not a mage."
+
+Blink scoffs.
+
+Rochiriel says to Aruskin, "They make excellent paper weights."
+
+Blink gets a birch wand from a silver-buckled leather satchel.
+
+Aruskin says, "I've not had any mages buy any from me."
+
+Kaiya says, "You can make walking sticks to whack people with."
+Blink holds a birch wand.
+<HP: 157/157 ST: 123/123>
+Garaven is done carving a smooth ebony bracelet.
+
+Garaven taps a long redwood walking stick.
+
+Kasiya exclaims, "Oh!"
+Trystan chuckles.
+
+Flynt grins.
+
+Kaiya grins at Garaven.
+
+Flynt says, "Excellent."
+
+Kasiya says, "Bracelet..."
+
+Blink says, "Whoah."
+l
+
+
+
+[Alumni Pavilion.]
+
+A small canary yellow tablecloth-covered refreshment table greets guests as they enter the bright and colorful oval tent.  Within the central presentation area, surrounded by a short pine partition, are several tables bearing mysterious objects shrouded by crisp, white linen cloths.  A blue-painted podium, that has been placed upon a large circular sandstone dais, is positioned directly in front of a dark canvas curtain.  Bright red wooden bleachers, arranged in a semicircle, offer spectators a bird's eye view of the activities below.  You notice an Academy-crested polished silver cookie tray, a large academy-crested polished silver punch bowl, an iron-banded wooden barrel, a red-striped canvas tent flap, a small canary yellow tablecloth-covered refreshment table, a blue-painted pine podium, an Academy-crested polished silver drink tray, a large green cloth-covered pine table, a silver platter, a silver platter, a silver platter, a silver treasure chest, a silver treasure chest, a bamboo stool, a large spruce chest, an ebony wand, and a smooth ebony bracelet.
+
+Also here: Gant the Human, Champion Blink the Avardi (lying down) on some bright red wooden bleachers, Kaiya the Avardi (seated), Seren the Avardi, Empyrion Bocon the Devalin, Ra'daji Garaven the Verdani (seated) on a bamboo stool, Emissary Rochiriel the Verdani, Kasiya the Human (seated) on some bright red wooden bleachers, Trystan the Human, Emissary Ayderias the Avardi, Aruskin the Avardi (seated) on some bright red wooden bleachers, and Flynt the Sylph (seated) on some bright red wooden bleachers 
+
+Obvious Exits: none
+
+
+Bocon says, "Nice."
+
+Blink snaps his fingers.
+
+Garaven gets a smooth ebony bracelet.
+
+Blink removes a birch wand.
+
+Garaven gives a smooth ebony bracelet to Kasiya.
+Blink puts a birch wand in a silver-buckled leather satchel.
+
+Garaven says, "Feel free to take any of the items."
+
+Kasiya blinks, her eyes going wide.
+l
+
+
+
+[Alumni Pavilion.]
+
+A small canary yellow tablecloth-covered refreshment table greets guests as they enter the bright and colorful oval tent.  Within the central presentation area, surrounded by a short pine partition, are several tables bearing mysterious objects shrouded by crisp, white linen cloths.  A blue-painted podium, that has been placed upon a large circular sandstone dais, is positioned directly in front of a dark canvas curtain.  Bright red wooden bleachers, arranged in a semicircle, offer spectators a bird's eye view of the activities below.  You notice an Academy-crested polished silver cookie tray, a large academy-crested polished silver punch bowl, an iron-banded wooden barrel, a red-striped canvas tent flap, a small canary yellow tablecloth-covered refreshment table, a blue-painted pine podium, an Academy-crested polished silver drink tray, a large green cloth-covered pine table, a silver platter, a silver platter, a silver platter, a silver treasure chest, a silver treasure chest, a bamboo stool, a large spruce chest, and an ebony wand.
+
+Also here: Gant the Human, Champion Blink the Avardi (lying down) on some bright red wooden bleachers, Kaiya the Avardi (seated), Seren the Avardi, Empyrion Bocon the Devalin, Ra'daji Garaven the Verdani (seated) on a bamboo stool, Emissary Rochiriel the Verdani, Kasiya the Human (seated) on some bright red wooden bleachers, Trystan the Human, Emissary Ayderias the Avardi, Aruskin the Avardi (seated) on some bright red wooden bleachers, and Flynt the Sylph (seated) on some bright red wooden bleachers 
+
+Obvious Exits: none
+
+
+Kasiya says, "Thank you! It's beautiful."
+
+Garaven says, "Oh, and even shoes."
+
+Kaiya gets an ebony wand.
+
+Kaiya gives an ebony wand to Aruskin.
+
+Kasiya puts on a smooth ebony bracelet.
+
+Kaiya cackles.
+
+Garaven drops a bundle of oak.
+grin
+
+You grin.
+
+Garaven starts carving a pair of oak sabots.
+
+Flynt chuckles.
+glan
+
+You glance.
+
+Trystan grins at Aruskin.
+squin gar
+
+You squint at Garaven.
+
+Seren says, "All kinds of good things."
+
+Garaven is about halfway through carving a pair of oak sabots.
+
+Garaven says, "Indeed."
+say gar what in the wynds is ... that .. gonna be?
+
+You ask Garaven, "What in the wynds is ... that .. gonna be?"
+
+Garaven says, "The large chest can also hold about a hundred pounds or so."
+
+Garaven continues carving a pair of oak sabots.
+whist 
+
+You whistle.
+
+Garaven says to you, "A small boat for you."
+
+Garaven is done carving a pair of oak sabots.
+chu gar
+
+You chuckle at Garaven.
+
+Garaven snaps his fingers.
+l
+
+
+
+[Alumni Pavilion.]
+
+A small canary yellow tablecloth-covered refreshment table greets guests as they enter the bright and colorful oval tent.  Within the central presentation area, surrounded by a short pine partition, are several tables bearing mysterious objects shrouded by crisp, white linen cloths.  A blue-painted podium, that has been placed upon a large circular sandstone dais, is positioned directly in front of a dark canvas curtain.  Bright red wooden bleachers, arranged in a semicircle, offer spectators a bird's eye view of the activities below.  You notice an Academy-crested polished silver cookie tray, a large academy-crested polished silver punch bowl, an iron-banded wooden barrel, a red-striped canvas tent flap, a small canary yellow tablecloth-covered refreshment table, a blue-painted pine podium, an Academy-crested polished silver drink tray, a large green cloth-covered pine table, a silver platter, a silver platter, a silver platter, a silver treasure chest, a silver treasure chest, a bamboo stool, a large spruce chest, and a bundle of oak.
+
+Also here: Gant the Human, Champion Blink the Avardi (lying down) on some bright red wooden bleachers, Kaiya the Avardi (seated), Seren the Avardi, Empyrion Bocon the Devalin, Ra'daji Garaven the Verdani (seated) on a bamboo stool, Emissary Rochiriel the Verdani, Kasiya the Human (seated) on some bright red wooden bleachers, Trystan the Human, Emissary Ayderias the Avardi, Aruskin the Avardi (seated) on some bright red wooden bleachers, and Flynt the Sylph (seated) on some bright red wooden bleachers 
+
+Obvious Exits: none
+
+
+Garaven starts carving a pair of oak clogs.
+l chest
+
+It looks like a silver treasure chest. 
+Inside you see:
+
+a silver bowl
+ a silver plate
+ a silver platter
+ a silver platter
+ a silver platter
+ a silver bowl
+ a silver bowl
+ a silver platter
+ a silver chalice
+ a silver plate
+ a silver plate
+ a silver platter
+ a silver spoon
+ a silver platter
+ a silver platter
+ a silver spoon
+ 
+
+Rochiriel says, "I would like to caution all those that wish to learn this craft. Don't carve anywhere near the kitchen or you will be eating shavings for weeks."
+
+Rochiriel chuckles.
+
+Garaven smirks.
+
+Bocon chuckles.
+l 3.ches
+
+It looks like a large spruce chest. 
+a large spruce chest is closed.
+
+Trystan grins.
+
+Garaven says, "Yes indeed."
+
+Seren grins.
+
+Garaven is about halfway through carving a pair of oak clogs.
+grin roc
+
+You grin at Rochiriel.
+
+Bocon says, "I hear they are full of minerals though."
+
+Kaiya says, "And if you carve in the Trade Depot, Geel will harass you until you learn how to carve darts."
+chu
+
+You chuckle.
+
+Garaven continues carving a pair of oak clogs.
+
+Garaven laughs.
+
+Rochiriel says to Bocon, "Very chewey."
+
+Bocon chuckles.
+
+Flynt laughs.
+get 3.ches
+
+You get a large spruce chest.
+inv
+Inventory:
+
+a frosted glass plate (6.0 lbs)
+ some bacon deviled eggs (1.0 lb)
+ a large spruce chest (4.0 lbs)
+ 
+Currency: 163 doubloons
+
+Carrying: 94 items (52.0 | 81.0) lbs.
+
+
+Garaven says to Kaiya, "He will likely harass you anyways."
+
+Garaven is done carving a pair of oak clogs.
+pant
+
+You pant.
+drop chest
+
+You drop a large spruce chest.
+
+Seren says, "So true."
+
+Garaven winks at Seren.
+
+Rin arrives from the southwest.
+
+Trystan asks, "Any questions?"
+
+Seren chuckles.
+Garaven gets a pair of oak clogs.
+smi rin
+
+You smile at Rin.
+
+Blink grins.
+
+
+Garaven gives a pair of oak clogs to you.
+
+Rin says, "Oh, hello."
+grin gar
+
+You grin at Garaven.
+Trystan smiles at Rin and says, "Welcome... ."
+
+Kasiya says, "Very nice..."
+say gar most kind!
+
+You exclaim to Garaven, "Most kind!"
+
+Kaiya says to Garaven, "True."
+
+Garaven says to you, "Just your style."
+wear clog
+
+You put on a pair of oak clogs.
+[Delay: 3.0 sec.]
+
+beam
+
+You beam.
+
+Seren smiles at Rin.
+' fits too!
+
+You exclaim, "Fits too!"
+hum gar
+
+You hum at Garaven.
+Garaven grins.
+say gar you have a good eye
+
+You say to Garaven, "You have a good eye."
+Kasiya asks, "So ... you just gather enough wood, and eventually you just decide to try carving someday?"
+
+Rochiriel asks Trystan, "Will you carry the chest for Xiija too?"
+
+Rin asks, "Umm, do any of you know where I can sell some fur?"
+say roc it is too big for me to use
+
+You say to Rochiriel, "It is too big for me to use."
+
+Kaiya says to Kasiya, "Pretty much."
+flai roc
+
+You flail your arms at Rochiriel.
+grin
+
+You grin.
+
+Trystan says to Rochiriel, "It is my lot in life it seems."
+
+Garaven says to Kasiya, "Something like that. More like the more you understand the wood, the more you know what to do with it."
+
+Kaiya says to Rin, "Unfortunately you cannot sell it."
+
+Rin nods.
+say rin to a tailor..
+
+You say to Rin, "To a tailor.."
+pon
+
+You ponder.
+
+Blink says to Rin, "Uh not sure you can sell it over here now. There's a place near Pearl."
+
+Rin says, "Ah, I see."
+
+Kaiya says to Rin, "Right. Can't sell it to any store. Other individuals may want to buy it."
+
+Trystan flips a coin to Rin.
+
+Trystan gives a polished nickel coin to Rin.
+
+Blink says to Rin, "Well east of Pearl that is. Three bridges."
+
+Rochiriel asks you, "Perhaps you can use it as a house?"
+say bli they stopped buying
+
+You say to Blink, "They stopped buying."
+
+Kaiya says to Blink, "Don't think you can sell it anywhere, now."
+chu roc
+
+You chuckle at Rochiriel.
+
+Blink says to you, "When was that? I tested it last week. Someone claimed they weren't buying and I showed them they were."
+
+Rochiriel eyes Xiija then the chest.
+
+Rin asks Trystan, "This is for the fur?"
+
+Kasiya nods to Garaven.
+
+Kaiya says to Rin, "Or, if you're going to be interested in becoming a tailor in the future, you can store it in your bank."
+
+Garaven asks, "Anyone want anything in particular? Or any questions?"
+
+Trystan says to Rin, "Just a token to remember the night by."
+
+Kasiya asks Garaven, "I have some wood, if you would like it?"
+
+Rin exclaims to Trystan, "Oh, thank you very much!"
+
+Ayderias says to Blink, "To most merchants, raw materials are of little value until they are crafted into something."
+Trystan nods to Rin.
+
+Bocon says to Garaven, "I'd like a life-size statue of myself."
+
+inv
+Trystan asks Garaven, "Do you buy wood?"
+Inventory:
+
+a frosted glass plate (6.0 lbs)
+ some bacon deviled eggs (1.0 lb)
+ 
+Currency: 163 doubloons
+
+Carrying: 94 items (50.0 | 81.0) lbs.
+
+chu boc
+
+You chuckle at Bocon.
+
+Kasiya asks Garaven, "Do you get good at making more intricate things over time and with practice?"
+say rin how much do you have?
+
+You ask Rin, "How much do you have?"
+
+Garaven says to Bocon, "One day, perhaps."
+
+Bocon grins.
+
+Ayderias says to Blink, "You may still find those willing to buy, but that's likely because the ATC hasn't applied enough pressure to them."
+
+Blink says, "Oh."
+
+Trystan gestures at you.
+
+Trystan says to you, "The count."
+
+Rochiriel says to Kasiya, "He has made me a beautiful cherrywood jewelry box."
+' twenty five!
+
+You exclaim, "Twenty five!"
+
+Trystan nods.
+flai try
+
+Kaiya says to Rin, "If you have feathers or bone, I'll buy those from you."
+You flail your arms at Trystan.
+
+Garaven says to Kasiya, "The best I can do as of now is the chest."
+
+Blink says, "Well if you are lucky, maybe the Mrs. Brin fur dress company will buy it."
+
+Rin says, "Well, I suppose I'll have to make money for arrows some other way..."
+say rin how much do you have?
+
+You ask Rin, "How much do you have?"
+
+Garaven says, "I can make over twenty different types of items though."
+
+Seren chuckles.
+whist gar
+
+You whistle at Garaven.
+
+Kasiya smiles at Garaven.
+
+Ayderias says to Trystan, "I suspect your sponsers will be pleased with the level of interest in crafting this evening."
+
+Garaven starts carving an oak shield.
+Rin says, "Eh, just one for now. I was just wondering if I coukd stock up amd sell a bulk at once."
+agree ayd , dreadlocks softly falling over a shoulder ...
+
+You nod your head up and down to Ayderias , dreadlocks softly falling over a shoulder ...
+
+
+Trystan grins at Ayderias.
+nod rin
+
+You nod to Rin.
+
+Bocon holds a twisted twelve-ringed holy persarium khakkhara.
+
+Blink gets a frost troll bone sternum from a silver-buckled leather satchel.
+Blink gets a frost troll bone femur from a silver-buckled leather satchel.
+Blink gets a frost troll bone skull from a silver-buckled leather satchel.
+Blink gets a frost troll bone pelvis from a silver-buckled leather satchel.
+
+Blink drops a frost troll bone sternum.
+Blink drops a frost troll bone femur.
+Garaven is carving an oak shield.
+Blink drops a frost troll bone skull.
+Blink drops a frost troll bone pelvis.
+
+Kaiya says to Garaven, "I think you're miscounting. I can make over twenty different items."
+<HP: 157/157 ST: 123/123>
+Blink bundles some troll bone.
+say rin bank it till the market shifts
+
+You say to Rin, "Bank it till the market shifts."
+
+Rin nods.
+
+Blink starts scrimshawing a troll bone gavial figurine.
+
+Garaven continues carving an oak shield.
+
+Garaven asks Kaiya, "I said over, didn't I?"
+
+Kasiya says, "Whoa. That is different."
+
+Kaiya grins at Garaven.
+
+Ayderias nods his head up and down to Kasiya.
+
+Blink is scrimshawing a troll bone gavial figurine.
+
+Kaiya says, "Then you're being modest."
+
+Garaven is nearly finished carving an oak shield.
+Garaven is done carving an oak shield.
+
+Trystan exclaims, "Put your hands together for Garaven the wood carver!"
+
+Garaven shrugs.
+
+Trystan applauds Garaven.
+
+Rochiriel applauds.
+Bocon applauds.
+
+Blink continues scrimshawing a troll bone gavial figurine.
+
+Kasiya claps happily, offering another warm smile.
+
+Seren applauds.
+
+Rin ponders.
+Bocon says, "VEry nice."
+
+Kaiya applauds Garaven.
+appl gar
+
+You applaud Garaven.
+
+Garaven gets a bundle of oak.
+
+Bocon nods.
+Kasiya gets a small adventurer's sack from an academy-issue canvas backpack.
+clap
+
+You clap.
+
+Blink chirrups at Garaven.
+Flynt applauds.
+
+Rin asks, "What about fish?"
+
+Trystan exclaims, "And fish!"
+
+Kaiya says, "Fish you can sell at the docks."
+<HP: 157/157 ST: 123/123>
+Trystan claps again.
+
+Garaven says, "Thank you all."
+
+Blink is nearly finished scrimshawing a troll bone gavial figurine.
+Blink is done scrimshawing a troll bone gavial figurine.
+
+Kasiya puts a small adventurer's sack in an academy-issue canvas backpack.
+
+Kasiya gets a small canvas foraging bag from an academy-issue canvas backpack.
+
+Trystan nods to Garaven.
+
+Kasiya gets a bundle of cypress from a small canvas foraging bag.
+Blink gets a troll bone gavial figurine.
+
+Rin says, "Ah, there we go."
+
+Garaven walks back over to Rochiriel.
+Trystan says to Garaven, "Thank you very much."
+
+Flynt grins at Garaven.
+say rin harbor masters office buys fish
+
+You say to Rin, "Harbor masters office buys fish."
+Seren says to Garaven, "Very nice work."
+
+Blink gives a troll bone gavial figurine to Kasiya.
+
+Flynt raises an eyebrow at you.
+
+Garaven says to Seren, "Thank you."
+smi
+
+You smile.
+
+Trystan asks, "How about another trivia question?"
+poi try
+
+You point at Trystan.
+
+Flynt says to you, "They do? I thought the Fishery buys the fisf."
+
+Flynt coughs.
+
+Flynt says, "Fish."
+
+Trystan says, "Fish."
+
+Trystan squints at Flynt.
+
+Rin says, "Thank you for the advice, everyone."
+
+Flynt hiccups.
+
+Ayderias listens to Trystan.
+
+Trystan grins at Rin.
+
+Kaiya says, "If you head straight east from the fisherman at the docks, that's where you sell fish."
+say fly same building
+
+You say to Flynt, "Same building."
+
+Flynt nods to Kaiya.
+
+Trystan asks, "Who can tell me what's carved into the rim of the marble fountain in the center of Pearl?"
+
+Flynt says to Kaiya, "That is the fishery."
+inv
+Inventory:
+
+a frosted glass plate (6.0 lbs)
+ some bacon deviled eggs (1.0 lb)
+ 
+Currency: 163 doubloons
+
+Carrying: 94 items (50.0 | 81.0) lbs.
+
+
+Trystan unlocks a blue-painted pine podium.
+
+Trystan opens a blue-painted pine podium.
+give 100 rin
+You give 100 doubloons to Rin.
+
+Kaiya says to Trystan, "A pearl."
+
+Aruskin says, "A sun dial."
+wink
+
+You wink.
+
+Kaiya nods firmly.
+
+Flynt points at Aruskin.
+
+Trystan gets a bundle of troll bone from a blue-painted pine podium.
+
+Trystan closes a blue-painted pine podium.
+
+Trystan howls at Aruskin.
+
+Trystan drops a bundle of troll bone.
+say try a fish
+
+You say to Trystan, "A fish."
+
+Flynt laughs.
+
+who
+[ARRIVALS] 'Omizer has logged on.'
+   Players Currently Online: 
+ =============================
+
+   Gant the Human                                              
+   Kasiya the Human                                            
+   Garaven the Verdani                                         
+   Xiija the Sylph                                             
+   Brooke the Bolinau                                          
+   Kaiya the Avardi                                            
+   Blink the Avardi                                            
+   Bocon the Devalin                                           
+   Trystan the Human                                           
+   Seren the Avardi                                            
+   Rochiriel the Verdani                                       
+   Ayderias the Avardi                                         
+   Aruskin the Avardi                                          
+   Flynt the Sylph                                             
+   Rin the Bolinau                                             
+   Oland the Dwarf                                             
+   Omizer the Devalin                                          
+
+cac
+
+You cackle.
+Garaven says, "A duck."
+
+Trystan exclaims, "A hundred pounds of troll bone just for you!"
+
+Bocon laughs.
+
+Aruskin raises an eyebrow.
+
+Aruskin says, "I hope its been cleaned."
+
+Ayderias asks, "Have they been cleaned?"
+
+Rin chuckles.
+snic
+
+You snicker.
+
+Ayderias smirks at Aruskin.
+
+Kaiya snickers at both Ayderias and Aruskin.
+Trystan chuckles at Aruskin.
+
+Flynt says to Aruskin, "By a Vukasin."
+
+Bocon says, "That's a lot of dead trolls."
+
+Kaiya says, "Prissy men."
+
+Flynt ducks.
+
+Aruskin says, "Although, come to think of it . . ."
+say rin get a plate 
+poi tray
+
+You say to Rin, "Get a plate."
+You point at an Academy-crested polished silver cookie tray.
+
+Trystan gestures at Kaiya.
+
+Ayderias says to Bocon, "Not nearly enough."
+
+Rin asks, "I take it this is a popular spot to socialize then?"
+
+Aruskin says, "Maybe I could use it to grow my own troll."
+
+Trystan says to Aruskin, "It is a sundial, well done."
+Garaven grins at Rin.
+get cook cook
+
+You get a frosted bird-shaped sugar cookie from an Academy-crested polished silver cookie tray.
+eat cook
+
+You take a bite of a frosted bird-shaped sugar cookie.
+[Delay: 2.0 sec.]
+
+
+Kaiya says to Rin, "There's a festival type thing going on tonight."
+
+Garaven says to Rin, "It is a festival event, of sorts."
+
+Aruskin says to Trystan, "Yep, it is a sundial placed in the shade of a fountain."
+
+Kaiya says to Rin, "On any other day, this place is like a ghost town."
+
+Aruskin says to Trystan, "That is, it is a useless sundial."
+
+Trystan says, "One more then."
+
+Rin asks, "Ah, I will try to stay around for it. What is it exactly?"
+l
+
+
+
+[Alumni Pavilion.]
+
+A small canary yellow tablecloth-covered refreshment table greets guests as they enter the bright and colorful oval tent.  Within the central presentation area, surrounded by a short pine partition, are several tables bearing mysterious objects shrouded by crisp, white linen cloths.  A blue-painted podium, that has been placed upon a large circular sandstone dais, is positioned directly in front of a dark canvas curtain.  Bright red wooden bleachers, arranged in a semicircle, offer spectators a bird's eye view of the activities below.  You notice an Academy-crested polished silver cookie tray, a large academy-crested polished silver punch bowl, an iron-banded wooden barrel, a red-striped canvas tent flap, a small canary yellow tablecloth-covered refreshment table, a blue-painted pine podium, an Academy-crested polished silver drink tray, a large green cloth-covered pine table, a silver platter, a silver platter, a silver platter, a silver treasure chest, a silver treasure chest, a bamboo stool, a large spruce chest, some troll bone, an oak shield, and a bundle of troll bone.
+
+Also here: Gant the Human, Seren the Avardi, Empyrion Bocon the Devalin, Ra'daji Garaven the Verdani (seated) on a bamboo stool, Emissary Rochiriel the Verdani, Kasiya the Human (seated) on some bright red wooden bleachers, Trystan the Human, Emissary Ayderias the Avardi, Aruskin the Avardi (seated) on some bright red wooden bleachers, Flynt the Sylph (seated) on some bright red wooden bleachers, Rin the Bolinau, Kaiya the Avardi (seated), and Champion Blink the Avardi (lying down) 
+
+Obvious Exits: none
+
+
+Blink says to you, "That is Aviacide."
+grin bli
+
+You grin at Blink.
+
+Ayderias says to Rin, "The crossroads of the academy would be the most common I imagine, or the tavern to the northwest of it. There's a ferry that runs back and forth to Pearl where you can find others."
+
+Trystan asks, "What is the statue in the domed foyer in Preceptor's Hall?"
+
+Kasiya groans.
+sy try big?
+
+Huh?
+
+Flynt chuckles.
+say try big?
+
+You ask Trystan, "Big?"
+
+Rochiriel asks, "A troll?"
+
+Kasiya exclaims, "I don't remember, and I just walked there!"
+
+Flynt laughs.
+
+Aruskin asks, "Isn't that supposed to be Ivan?"
+<HP: 157/157 ST: 123/123>
+Kaiya asks, "King Sauntere?"
+
+Trystan grins.
+
+Trystan says, "Wow."
+Ayderias raises his hand.
+
+Flynt stands up.
+
+Flynt leaves southwest.
+' like a huge wyvern ... but bigger
+
+You say, "Like a huge wyvern ... but bigger."
+
+Kaiya exclaims, "He's cheating!"
+nod  thoughtfully
+
+You nod thoughtfully.
+
+Trystan chuckles.
+
+Ayderias grins at you.
+
+Kasiya nods solemnly.
+
+Trystan asks, "No one?"
+Kaiya says, "A golem."
+
+Rochiriel says, "He's smart."
+
+Flynt arrives from the southwest.
+
+Flynt says, "Hah."
+' what is bigger than a wyvern?
+
+You ask, "What is bigger than a wyvern?"
+
+Kaiya says, "The golem machine."
+
+Flynt snickers.
+
+Garaven says, "A duck."
+
+Flynt says, "Nopes."
+
+Blink says, "A thunderbird."
+
+Flynt says, "Golden Dragon."
+poi fly
+
+You point at Flynt.
+
+Trystan gestures at Flynt.
+
+Kasiya says, "He walked out of here."
+Flynt says, "Course I cheated."
+' yah, one o those
+
+You say, "Yah, one o those."
+
+Ayderias asks Flynt, "However did you guess?"
+
+Flynt says, "I went and looked."
+
+Flynt snickers.
+
+Kasiya peers at Flynt.
+
+Trystan grins.
+
+Ayderias chuckles.
+
+Kasiya says, "TEhat is not right."
+
+Flynt laughs.
+
+Garaven says, "Didn't say it was against the rules."
+l sat
+
+It looks like a grimy worn leather satchel.
+Inside you see:
+
+an elm tackle box
+ a Dragon's Peak fire-branded teak recipe kit
+ a small raven black seven demon silk bag
+ a squat burlap fishing bag
+ a loosely-tied leather fish sack
+ a supple black leather apothecary bag
+ a petrified troll skull hookah
+ a polished nickel coin
+ a silver fork
+ 
+
+Bocon laughs.
+
+Flynt says to Trystan, "Ask another."
+
+Kaiya says, "Damn cheating priests."
+Trystan says, "True."
+<HP: 157/157 ST: 123/123>
+Ayderias says, "A statue of the last gold dragon, to be more accurate."
+
+Trystan unlocks a blue-painted pine podium.
+
+Rochiriel says, "He was the first one with the correct answer."
+
+Trystan opens a blue-painted pine podium.
+
+Kasiya asks, "I am seirous. No cheating allowed. What happened to honor?"
+
+Trystan gets a bundle of bone from a blue-painted pine podium.
+
+Trystan closes a blue-painted pine podium.
+
+Trystan drops a bundle of bone.
+
+Trystan says, "Just regual bone then."
+
+Trystan gestures at Flynt.
+
+Flynt laughs.
+
+Garaven smirks.
+
+Kasiya says, "Whoa, that is a lot of bone."
+grin
+
+You grin.
+
+Bocon says, "I thought it was a clever use of the lack of rules."
+
+Kaiya says to Aruskin, "Get your troll bone."
+chu boc
+
+Trystan says, "Exactly."
+You chuckle at Bocon.
+
+Flynt says to Trystan, "Ask another if you can. Give it away."
+
+Trystan gestures at Bocon.
+
+Garaven says to Bocon, "Indeed."
+
+Trystan asks, "Ask another question no one knows the answer to?"
+
+Aruskin gets a bundle of troll bone.
+
+Trystan smirks.
+
+Bocon laughs.
+
+Flynt snickers.
+
+Trystan says, "Our third presenter of the night is the wife of the Ra'daji, Emissary Rochiriel Azahar. Everyone put your hands together and give her a warm welcome."
+
+Flynt says, "Ok. I win via innitiative then."
+
+Kaiya cheers for Rochiriel.
+
+Kaiya gets some troll bone.
+
+Trystan smiles at Rochiriel as he steps back.
+
+Aruskin applauds.
+say fly how many Verdani does it take to ...
+
+You say to Flynt, "How many Verdani does it take to ..."
+
+Blink claps.
+appl
+
+You applaud.
+Bocon claps.
+
+Seren applauds.
+
+Kaiya drops some troll bone.
+
+Rin claps.
+Kasiya smiles.
+clap
+
+Rochiriel says, "Thank you."
+<HP: 157/157 ST: 123/123>
+You clap.
+
+Kasiya claps at Rochiriel.
+
+Ayderias smiles at Rochiriel.
+
+Rochiriel steps forward.
+
+Garaven applauds Rochiriel.
+whist roc
+
+You whistle at Rochiriel.
+
+Flynt says to Trystan, "I'll need help with that bundle if you would be so kind."
+
+Flynt fidgets.
+
+Rochiriel drops a bundle of sand.
+
+Trystan says to Flynt, "Of course."
+l
+
+
+
+[Alumni Pavilion.]
+
+A small canary yellow tablecloth-covered refreshment table greets guests as they enter the bright and colorful oval tent.  Within the central presentation area, surrounded by a short pine partition, are several tables bearing mysterious objects shrouded by crisp, white linen cloths.  A blue-painted podium, that has been placed upon a large circular sandstone dais, is positioned directly in front of a dark canvas curtain.  Bright red wooden bleachers, arranged in a semicircle, offer spectators a bird's eye view of the activities below.  You notice an Academy-crested polished silver cookie tray, a large academy-crested polished silver punch bowl, an iron-banded wooden barrel, a red-striped canvas tent flap, a small canary yellow tablecloth-covered refreshment table, a blue-painted pine podium, an Academy-crested polished silver drink tray, a large green cloth-covered pine table, a silver platter, a silver platter, a silver platter, a silver treasure chest, a silver treasure chest, a bamboo stool, a large spruce chest, an oak shield, a bundle of bone, some troll bone, and a bundle of sand.
+
+Also here: Gant the Human, Seren the Avardi, Empyrion Bocon the Devalin, Ra'daji Garaven the Verdani (seated) on a bamboo stool, Emissary Rochiriel the Verdani, Kasiya the Human (seated) on some bright red wooden bleachers, Trystan the Human, Emissary Ayderias the Avardi, Aruskin the Avardi (seated) on some bright red wooden bleachers, Rin the Bolinau, Kaiya the Avardi (seated), Champion Blink the Avardi (lying down), and Flynt the Sylph 
+
+Obvious Exits: none
+
+
+Flynt grins.
+
+Rochiriel says, "I have learned the craft of glass blowing."
+
+Trystan grins at Rochiriel.
+<HP: 157/157 ST: 123/123>
+Kaiya beams.
+say rin you can make more as a mule around here than you can hunting
+
+You say to Rin, "You can make more as a mule around here than you can hunting."
+cou
+
+You cough.
+
+Rochiriel says, "And patience for digging sand."
+appl roc
+
+You applaud Rochiriel.
+
+Kaiya grins at Rochiriel.
+
+Bocon chuckles.
+
+Flynt nods his head up and down.
+
+Garaven grins.
+
+Rochiriel asks, "Sandy point?"
+
+Rochiriel says, "I dig there."
+
+The jarring clang from a bell tower marks the top of the hour.
+
+Kaiya says, "I spent all of yesterday trying to dig for sand near the river and couldn't find any."
+
+Rochiriel asks, "Shattered lake shore?"
+The bell tower clangs for a second time.
+glan
+
+You glance.
+
+The bell tower clangs for a third time.
+
+The bell tower clangs for a fourth time.
+
+Blink says, "Oh wow. Everyone is moving to sandy point now."
+
+The bell tower clangs for a fifth time.
+
+Rochiriel says, "I dig there too."
+l
+
+
+
+[Alumni Pavilion.]
+
+A small canary yellow tablecloth-covered refreshment table greets guests as they enter the bright and colorful oval tent.  Within the central presentation area, surrounded by a short pine partition, are several tables bearing mysterious objects shrouded by crisp, white linen cloths.  A blue-painted podium, that has been placed upon a large circular sandstone dais, is positioned directly in front of a dark canvas curtain.  Bright red wooden bleachers, arranged in a semicircle, offer spectators a bird's eye view of the activities below.  You notice an Academy-crested polished silver cookie tray, a large academy-crested polished silver punch bowl, an iron-banded wooden barrel, a red-striped canvas tent flap, a small canary yellow tablecloth-covered refreshment table, a blue-painted pine podium, an Academy-crested polished silver drink tray, a large green cloth-covered pine table, a silver platter, a silver platter, a silver platter, a silver treasure chest, a silver treasure chest, a bamboo stool, a large spruce chest, an oak shield, a bundle of bone, some troll bone, and a bundle of sand.
+
+Also here: Gant the Human, Seren the Avardi, Empyrion Bocon the Devalin, Ra'daji Garaven the Verdani (seated) on a bamboo stool, Emissary Rochiriel the Verdani, Kasiya the Human (seated) on some bright red wooden bleachers, Trystan the Human, Emissary Ayderias the Avardi, Aruskin the Avardi (seated) on some bright red wooden bleachers, Rin the Bolinau, Kaiya the Avardi (seated), Champion Blink the Avardi (lying down), and Flynt the Sylph 
+
+Obvious Exits: none
+
+
+The bell tower clangs for a sixth time.
+
+The bell tower clangs for a seventh time.
+
+The bell tower clangs for an eighth time.
+
+The bell tower clangs for a ninth time.
+
+Rochiriel says, "Anywhere there is a body of water with a shoreline you might find sand there."
+
+The bell tower clangs for a tenth time.
+
+Rochiriel says, "Of course you may find loud mouthed frogs too."
+' you diggers will get us a new lake soon at Sandy point
+
+You say, "You diggers will get us a new lake soon at Sandy point."
+murm
+
+You murmur.
+
+Bocon laughs.
+l
+
+
+
+[Alumni Pavilion.]
+
+A small canary yellow tablecloth-covered refreshment table greets guests as they enter the bright and colorful oval tent.  Within the central presentation area, surrounded by a short pine partition, are several tables bearing mysterious objects shrouded by crisp, white linen cloths.  A blue-painted podium, that has been placed upon a large circular sandstone dais, is positioned directly in front of a dark canvas curtain.  Bright red wooden bleachers, arranged in a semicircle, offer spectators a bird's eye view of the activities below.  You notice an Academy-crested polished silver cookie tray, a large academy-crested polished silver punch bowl, an iron-banded wooden barrel, a red-striped canvas tent flap, a small canary yellow tablecloth-covered refreshment table, a blue-painted pine podium, an Academy-crested polished silver drink tray, a large green cloth-covered pine table, a silver platter, a silver platter, a silver platter, a silver treasure chest, a silver treasure chest, a bamboo stool, a large spruce chest, an oak shield, a bundle of bone, some troll bone, and a bundle of sand.
+
+Also here: Gant the Human, Seren the Avardi, Empyrion Bocon the Devalin, Ra'daji Garaven the Verdani (seated) on a bamboo stool, Emissary Rochiriel the Verdani, Kasiya the Human (seated) on some bright red wooden bleachers, Trystan the Human, Emissary Ayderias the Avardi, Aruskin the Avardi (seated) on some bright red wooden bleachers, Rin the Bolinau, Kaiya the Avardi (seated), Champion Blink the Avardi (lying down), and Flynt the Sylph 
+
+Obvious Exits: none
+
+
+Rochiriel starts shaping a glass devalin figurine.
+inv
+Inventory:
+
+a frosted glass plate (6.0 lbs)
+ some bacon deviled eggs (1.0 lb)
+ a frosted bird-shaped sugar cookie (1.0 lb)
+ 
+Currency: 63 doubloons
+
+Carrying: 95 items (51.0 | 81.0) lbs.
+
+
+Rochiriel is shaping a glass devalin figurine.
+
+Rochiriel says, "You can make all sorts of things from figurines to vases."
+
+Rochiriel continues shaping a glass devalin figurine.
+say roc you need as hot a fire as blacksmithing?
+
+You ask Rochiriel, "You need as hot a fire as blacksmithing?"
+
+Ayderias furrows his brow.
+
+Rochiriel says, "Plates, cups, chalices."
+
+Rochiriel is nearly finished shaping a glass devalin figurine.
+Rochiriel is done shaping a glass devalin figurine.
+
+Ayderias asks Trystan, "Did the small lake near Outlast survive the earthquake?"
+l
+
+
+
+[Alumni Pavilion.]
+
+A small canary yellow tablecloth-covered refreshment table greets guests as they enter the bright and colorful oval tent.  Within the central presentation area, surrounded by a short pine partition, are several tables bearing mysterious objects shrouded by crisp, white linen cloths.  A blue-painted podium, that has been placed upon a large circular sandstone dais, is positioned directly in front of a dark canvas curtain.  Bright red wooden bleachers, arranged in a semicircle, offer spectators a bird's eye view of the activities below.  You notice an Academy-crested polished silver cookie tray, a large academy-crested polished silver punch bowl, an iron-banded wooden barrel, a red-striped canvas tent flap, a small canary yellow tablecloth-covered refreshment table, a blue-painted pine podium, an Academy-crested polished silver drink tray, a large green cloth-covered pine table, a silver platter, a silver platter, a silver platter, a silver treasure chest, a silver treasure chest, a bamboo stool, a large spruce chest, an oak shield, a bundle of bone, some troll bone, a bundle of sand, and a glass devalin figurine.
+
+Also here: Gant the Human, Seren the Avardi, Empyrion Bocon the Devalin, Ra'daji Garaven the Verdani (seated) on a bamboo stool, Emissary Rochiriel the Verdani, Kasiya the Human (seated) on some bright red wooden bleachers, Trystan the Human, Emissary Ayderias the Avardi, Aruskin the Avardi (seated) on some bright red wooden bleachers, Rin the Bolinau, Kaiya the Avardi (seated), Champion Blink the Avardi (lying down), and Flynt the Sylph 
+
+Obvious Exits: none
+
+glan deva
+
+You glance at a glass devalin figurine.
+
+Rochiriel says to Ayderias, "Yes it did."
+whist
+
+You whistle.
+clap
+
+You clap.
+
+Rochiriel gets a glass devalin figurine.
+
+Rin says, "I'll be back in a bit."
+nod rin
+
+You nod to Rin.
+
+Ayderias says, "There may be sand there as well."
+
+Rochiriel gives a glass devalin figurine to Bocon.
+
+Ayderias smiles at Rin.
+
+Rin waves to everyone.
+
+Bocon beams.
+
+Flynt smiles at Rin.
+
+Rochiriel says to Bocon, "The perfect image of you."
+
+Garaven waves to Rin.
+
+Rin says, "Have a good time while I'm gone."
+grin boc
+
+You grin at Bocon.
+
+Bocon says to Rochiriel, "This is very detailed, great work."
+inv
+Inventory:
+
+a frosted glass plate (6.0 lbs)
+ some bacon deviled eggs (1.0 lb)
+ a frosted bird-shaped sugar cookie (1.0 lb)
+ 
+Currency: 63 doubloons
+
+Carrying: 95 items (51.0 | 81.0) lbs.
+
+
+Rin leaves southwest.
+
+Garaven says, "Not quite life-sized, though."
+
+Rochiriel starts shaping a frosted glass hookah.
+
+Flynt grins.
+
+Bocon says, "That's a lot of sand."
+lean in
+
+You lean in.
+
+Rochiriel says to Garaven, "I would need more sand."
+hov closer
+
+You hover closer.
+
+Rochiriel chuckles.
+
+Bocon snickers.
+
+Garaven grins.
+
+Rochiriel is shaping a frosted glass hookah.
+' now that is useful!
+
+You exclaim, "Now that is useful!"
+beam
+
+You beam.
+
+Rochiriel continues shaping a frosted glass hookah.
+
+Rochiriel says, "The temperature of the fire is not as important as a steady hand."
+nod roc
+
+You nod to Rochiriel.
+
+Rochiriel says, "Molten glass hurts."
+' and no special gloves?
+
+You ask, "And no special gloves?"
+
+Rochiriel is nearly finished shaping a frosted glass hookah.
+Rochiriel is done shaping a frosted glass hookah.
+l roc
+
+Rochiriel looks like an able-bodied 86 year old female Verdani.
+She has hazel eyes and very long, braided, golden blonde hair.
+She is 6 feet 3 inches tall and weighs 133 pounds.
+She has an aura of Tetherias.
+Rochiriel is in perfect health.
+
+
+
+She is wearing:
+
+Head            : an exquisitely-detailed trumpeting elephant ivory circlet
+Neck            : a niello-inlaid silverwood tree-engraved silver medallion
+Body            : a silky ermine fur-lined green velvet satchel
+Body            : some gold rune embroidered flowing carmine satin robes
+Left wrist      : a smooth mesquite bracelet
+Left finger     : an brilliant emerald-studded white gold ring
+Right finger    : an elegant hand-carved trumpeting elephant ivory mage ring
+Right finger    : an amethyst-encrusted silver ring
+Waist           : a nautical-knotted leather key chain
+Waist           : a leather weapon harness
+Waist           : a whittled bone knife sheath
+Feet            : some black dire-wolf fur-lined leather boots
+
+Closed Xiija-offerings.txt on file 1

@@ -1,0 +1,2723 @@
+l
+
+
+
+[Pillars of Aerthane.]
+
+The overlooking corner of the stone slab descends into a square auditorium with wide steps suitable for seating.  The rows of steps face a white marble topped altar at the center.  A swirled gray and white marble pillar stands at the corner with a supporting trellis connecting it to evenly spaced pillars along the perimeter.  Each pillar has been polished on one side to a brilliant shine, while the opposite side that faces the valley depicts intricately carved totems of fierce birds of prey.  You notice an arcsilver-veined white marble topped altar.
+
+Also here: an Aerthanian templar (seated) on some wide marble steps, Ciciliah the Sylph (flying), Seren the Avardi, Lord Ayderias the Avardi (seated) on some wide marble steps, Champion Blink the Avardi (lying down), and Trystan the Human (seated) on some wide marble steps 
+
+Obvious Exits: east. 
+
+
+Blink whistles.
+
+Seren says, "A lot of mountains."
+whisp xii Ayderias says, "More than half the isle is made up of the Aerwasi mountain range."
+
+You whisper to yourself, "Ayderias says, More than half the isle is made up of the Aerwasi mountain range.".
+
+Ayderias nods to Seren.
+
+Ayderias says, "These mountains are mostly inhabitable with little access to those outside of Argali and Sylves."
+hum
+
+You hum.
+
+Ayderias says, "And the occasional gargoyle."
+grunt
+
+You grunt.
+
+Blink says to Ayderias, "Are they riddled with Dwarves? Geel said that happens on their mountains."
+chu
+
+You chuckle.
+
+Blink says to Ayderias, "Like inside em."
+
+Ayderias says to Blink, "Thankfully not."
+
+Blink grins.
+l alt
+
+It looks like an arcsilver-veined white marble topped altar supported by fluted pedestals at each corner. The face has been relief carved with two white dragons clutching each others talons as they tumble in a midair dance. Arcsilver veins running through crushed black granite backdrop the sculpture, bursting into a flash of lightning as it catches any errant ray of light.
+
+Ayderias says, "The climate doesn't sit well with them."
+
+A light wind blows from the east.
+The wind gusts around you.
+
+Blink says, "Oh wow."
+
+Trystan glances up and smiles.
+
+Blink says, "That tickles my feathers."
+
+Trystan grins at Blink.
+
+Ayderias says, "The southeastern end of the isle at the base of the aerwasi range is a river valley that was once a part of the archai valley we are on the fringes of here."
+hum xii
+
+You hum at yourself.
+
+Blink asks, "Oh nice. Good farmland huh?"
+
+Seren says, "So they probably can grow wheat."
+
+Ayderias says, "The elevation gain from sea level inlaid toward the mountains is minimal until the reach the cliffs."
+
+Ayderias says, "Plenty of farmland along the river banks."
+
+Seren nods.
+
+Blink asks, "Oh, any good plains for cruising?"
+
+Ayderias says to Blink, "Not as much as you'd find here in New Archai."
+
+who
+[ARRIVALS] 'Jakkal has logged out.'
+   Players Currently Online: 
+ =============================
+
+   Spits the Goblin                                            
+   Mavin the Sylph                                             
+   Wren the Human                                              
+   Eabo the Goblin                                             
+   Seren the Avardi                                            
+   Ayderias the Avardi                                         
+   Ciciliah the Sylph                                          
+   Xiija the Sylph                                             
+   Blink the Avardi                                            
+   Duron the Bolinau                                           
+   Trystan the Human                                           
+   Kreve the Argali                                            
+
+
+Ayderias says, "The merchant ship we'll be sending our message aboard will be docking at the southeastern harbor of Port Hildebrandt."
+
+Ayderias says, "This is an Archai Trading Company port, named after an early pioneer that established the first routes between Aerthane of New Archai after the Shattering."
+nod  thoughtfully
+
+You nod thoughtfully.
+
+Seren asks, "Is it a big port?"
+
+Ayderias says, "I'm afraid I don't know much about her, other than her name, Jacalyn Hildebrandt, and that she was aerthanian."
+smi
+
+You smile.
+
+Ayderias nods to Seren.
+
+Ayderias says, "The biggest of the ATC ports on the other isles."
+say ayd is it close to a river?
+
+You ask Ayderias, "Is it close to a river?"
+
+Seren nods.
+
+who
+[ARRIVALS] 'Wren has logged out.'
+   Players Currently Online: 
+ =============================
+
+   Spits the Goblin                                            
+   Mavin the Sylph                                             
+   Eabo the Goblin                                             
+   Seren the Avardi                                            
+   Ayderias the Avardi                                         
+   Ciciliah the Sylph                                          
+   Xiija the Sylph                                             
+   Blink the Avardi                                            
+   Duron the Bolinau                                           
+   Trystan the Human                                           
+   Kreve the Argali                                            
+
+
+Ayderias says, "Also the last to subject to ATC control, excluding the Kalesians who have yet to open up to trade."
+grin
+
+You grin.
+
+Ayderias says to you, "It is not. There is a small bay of water at the southern end of the Aerwasi mountains. Within that cove is the ATC port."
+nod  thoughtfully
+
+You nod thoughtfully.
+
+Ayderias says, "There is however an Aerthanian port further up the coast near a river."
+poi ayd
+
+You point at Ayderias.
+nod
+
+You nod.
+
+Ayderias says, "White oak harbor, located at the mouth of the Tanasi river."
+nod softly
+
+You nod softly.
+
+Ayderias says, "This entire region is known as the Tanasi river valley."
+
+Ayderias says, "Which, as some of you may know, is the capitol city of Aeran."
+' Tanasi?
+
+You ask, "Tanasi?"
+
+who
+[ARRIVALS] 'Duron has logged out.'
+   Players Currently Online: 
+ =============================
+
+   Spits the Goblin                                            
+   Mavin the Sylph                                             
+   Eabo the Goblin                                             
+   Seren the Avardi                                            
+   Ayderias the Avardi                                         
+   Ciciliah the Sylph                                          
+   Xiija the Sylph                                             
+   Blink the Avardi                                            
+   Trystan the Human                                           
+   Kreve the Argali                                            
+
+
+Ayderias says, "Excuse it, Aeran is located in the Tanasi river valley."
+nod
+
+You nod.
+
+Ayderias says, "It is nestled into the protection of the mountains quite well."
+
+Ayderias says, "The Tanasi river passes through it on its way to sea."
+smi
+
+You smile.
+
+Ayderias says, "Both ports also lead into Aeran."
+
+Ayderias says, "And if you wish to go anywhere else on the isle, you have to pass through Aeran to get there."
+
+Blink asks, "Aeran?"
+
+Seren asks, "Aeran is the capital city yes?"
+agree ser thoughtfully
+
+You nod your head up and down to Seren thoughtfully.
+Ayderias nods to Blink and Seren.
+
+Seren nods.
+Blink says, "Oh neat."
+
+Blink asks, "How many people in Aeran? Is it the biggest city?"
+
+Ayderias says, "Indeed. There was a period before the Shattering that the city was more commonly referred to as Aerthane, but all records indicate this ended when the isle adopted the name."
+
+Ayderias says to Blink, "It is the largest city on the isle. I could only speculate at how many live there now. It's been some twenty five years since I have visited."
+
+Ayderias says, "Not as large as Pearl."
+say bli prolly mostly Avardi
+
+You say to Blink, "Prolly mostly Avardi."
+grunt
+
+You grunt.
+say try and some humans
+
+You say to Trystan, "And some humans."
+Blink says to Ayderias, "Oh well just a guess? I think there's around ten thousand in Pearl I heard."
+cac
+
+You cackle.
+
+Ayderias says to you, "Indeed, though it is not an Avardi city. It has always been a melting pot."
+Trystan says to you, "And sylphs."
+grin
+
+You grin.
+
+Trystan chuckles at you.
+
+Ayderias says to you, "You may know this already, but there is a unique population of sylves in the mountains."
+agree ayd , smiling...
+
+You nod your head up and down to Ayderias , smiling...
+
+Blink asks, "Yeah you gotta have Humans. Who is going to sell your stuff for you?"
+chu bli
+
+You chuckle at Blink.
+
+Trystan sighs.
+
+Trystan says, "And keep track of everything."
+
+Trystan gestures.
+
+Ayderias smiles at Trystan.
+
+Ayderias says, "For those of us without wings, the only clear way into the mountains is along the Ayuwasi Arm."
+
+Blink pets some huge spread out polychromatic feathered wings.
+
+Ayderias says, "It is a steadily rising mountain slope that extends from the northeastern side of Aeran, curving around and along a ridge above the cliffs."
+
+Blink flaps.
+grin
+
+You grin.
+
+Blink says, "Hmmmm, that may be hard on the tourists. I may have to rethink my plans."
+
+Ayderias says, "The ridge, affectionately called Tempest Ridge, is not always an easy pass."
+
+Ayderias says, "It covers the length of the mountain range though as it wraps around the valley."
+
+The wind gusts die down.
+
+Seren asks, "Are there any cities or towns in the mountains? along that ridge?"
+
+Ayderias says, "Once you are at the center of the isle, there is a passage through the mountains to a small basin lake community where a tribe of argali and a pocket of sylves have co-existed for centuries."
+
+Ayderias nods to Seren.
+
+Blink says, "Oh wow."
+
+Ayderias says, "Aerzette Lake is the largest of these mountain villages. The only one worth visiting for trade."
+
+Ciciliah hiccups.
+Ciciliah takes a drink from a tankard of orange blossom ale.
+
+Blink says, "That's perfect. Tourists like to look at natives."
+
+Ayderias says, "It's a story I intend to research further. I do not know how the sylves came to live with the argali there, but they have formed a tight bond not seen anywhere else in the world."
+
+who
+[ARRIVALS] 'Spits has logged out.'
+   Players Currently Online: 
+ =============================
+
+   Mavin the Sylph                                             
+   Eabo the Goblin                                             
+   Seren the Avardi                                            
+   Ayderias the Avardi                                         
+   Ciciliah the Sylph                                          
+   Xiija the Sylph                                             
+   Blink the Avardi                                            
+   Trystan the Human                                           
+   Kreve the Argali                                            
+
+
+who
+[ARRIVALS] 'Spits has logged on.'
+
+   Players Currently Online: 
+ =============================
+
+   Spits the Goblin                                            
+   Mavin the Sylph                                             
+   Eabo the Goblin                                             
+   Seren the Avardi                                            
+   Ayderias the Avardi                                         
+   Ciciliah the Sylph                                          
+   Xiija the Sylph                                             
+   Blink the Avardi                                            
+   Trystan the Human                                           
+   Kreve the Argali                                            
+
+
+Ayderias says, "So much so that Astraevans of each race have moved there over the years and established a small temple following."
+
+Ayderias says to Seren, "There are three major peaks that surround Aerzette. There are other villages scattered around there, but not easily accessible."
+
+Seren nods.
+
+Ayderias says, "I am certain there are argali all over the region."
+
+Ayderias says, "The ones at Aerzette are unique in that they do not move seasonally."
+
+Blink asks, "Any Avardi living out that way?"
+
+Ayderias nods to Blink.
+
+Trystan asks, "Why would the Astraevans care about that community?"
+
+Seren asks, "So quite a few are nomads then?"
+
+Seren asks, "At least in the mountains?"
+
+Ayderias says to Trystan, "Sylves and Argali were both heavily invested in Astraeva's fight against Itzal. I suppose with our own living there it became a welcoming home for those who did not care for Pearl."
+
+Ayderias nods to Seren.
+nod ayd
+
+You nod to Ayderias.
+
+Ayderias says to Trystan, "Perhaps families were relocated there for protection. I am not sure how far back this union goes."
+
+Trystan nods to Ayderias.
+
+Seren says, "Its very interesting."
+' does this community have a town or village name ?
+
+You ask, "Does this community have a town or village name ?"
+
+Ayderias says to Seren, "There's a few camps in the region that are used during the spring and summer months. I do not know about the fall and winter."
+
+Blink says to you, "Yeah maybe some Argali will adopt you. Neat."
+
+Trystan says to you, "You can't go."
+cac
+
+You cackle.
+Ayderias says to you, "If they call it anything beyond Aerzette I do not know."
+
+Trystan shakes his head from side to side to you.
+
+Ayderias says, "As I said, there are three main peaks surrounding the lake. As far as I know it takes a skilled climber or wings to reach their summits."
+beam
+
+You beam.
+l
+
+
+
+[Pillars of Aerthane.]
+
+The overlooking corner of the stone slab descends into a square auditorium with wide steps suitable for seating.  The rows of steps face a white marble topped altar at the center.  A swirled gray and white marble pillar stands at the corner with a supporting trellis connecting it to evenly spaced pillars along the perimeter.  Each pillar has been polished on one side to a brilliant shine, while the opposite side that faces the valley depicts intricately carved totems of fierce birds of prey.  You notice an arcsilver-veined white marble topped altar.
+
+Also here: an Aerthanian templar (seated) on some wide marble steps, Ciciliah the Sylph (flying), Seren the Avardi, Lord Ayderias the Avardi (seated) on some wide marble steps, Champion Blink the Avardi (lying down), and Trystan the Human (seated) on some wide marble steps 
+
+Obvious Exits: east. 
+
+
+Blink says, "Oh wow. If my magic doesn't shape up, I may need to start practicing climbing."
+
+Ayderias says, "Mount Inoli, Synalei, and Aenohli."
+
+Blink says, "I gotta see that."
+
+In the distance, the clang from a bell tower marks the top of the hour.
+
+Ayderias says, "From these you can see the Zephyr coast. As close as any of us will likely ever get to that side of the mountains."
+
+In the distance, the bell tower clangs for a second time.
+grunt
+
+You grunt.
+
+In the distance, the bell tower clangs for a third time.
+
+Ayderias mutters quietly.
+
+In the distance, the bell tower clangs for a fourth time.
+
+In the distance, the bell tower clangs for a fifth time.
+
+In the distance, the bell tower clangs for a sixth time.
+
+In the distance, the bell tower clangs for a seventh time.
+
+In the distance, the bell tower clangs for an eighth time.
+
+In the distance, the bell tower clangs for a ninth time.
+
+In the distance, the bell tower clangs for a tenth time.
+
+Blink says, "Oh do not count on it. I'm going to go everywhere."
+
+Trystan says, "One more."
+
+In the distance, the bell tower clangs for an eleventh time.
+emo makes an arcane gesture with her left hand 
+In the distance, the bell tower ringer falls!
+
+Xiija makes an arcane gesture with her left hand.
+Inventory:
+
+
+Currency: 228 doubloons
+
+Carrying: 108 items (60.0 | 81.0) lbs.
+
+
+Ayderias grins at Blink.
+murm
+
+You murmur.
+
+Ayderias says, "There is an abandoned mining operation on the southwestern side of the isle, the stem of the leaf."
+rai
+
+You raise an eyebrow.
+
+Ayderias says, "I've heard you could reach tempest ridge from it, but it has been out of use for centuries."
+
+Ayderias says, "A most difficult cove to navigate."
+
+Ayderias says, "Akulla cove."
+
+Ayderias says, "Humans called it White Owl, though I do not know why."
+glan try
+
+You glance at Trystan.
+rai
+
+You raise an eyebrow.
+
+Trystan glances at you.
+
+Trystan says to you, "I didn't name it."
+
+Trystan smiles wryly.
+
+Blink says, "Oh well Humans can be weird. That's a good name though."
+
+Ayderias says, "A ship graveyard mostly for those who made the mistake of venturing into the cove due to the fog disguising the outer banks."
+
+Blink hoots.
+murm ...shipwreck cove!
+
+You murmur ...shipwreck cove!
+glan
+
+You glance.
+cou
+
+You cough.
+
+Ayderias says, "Something else I learned during my research is that there is an apparent fascination with the fox in the mountains."
+l
+
+
+
+[Pillars of Aerthane.]
+
+The overlooking corner of the stone slab descends into a square auditorium with wide steps suitable for seating.  The rows of steps face a white marble topped altar at the center.  A swirled gray and white marble pillar stands at the corner with a supporting trellis connecting it to evenly spaced pillars along the perimeter.  Each pillar has been polished on one side to a brilliant shine, while the opposite side that faces the valley depicts intricately carved totems of fierce birds of prey.  You notice an arcsilver-veined white marble topped altar.
+
+Also here: an Aerthanian templar (seated) on some wide marble steps, Ciciliah the Sylph (flying), Seren the Avardi, Lord Ayderias the Avardi (seated) on some wide marble steps, Champion Blink the Avardi (lying down), and Trystan the Human (seated) on some wide marble steps 
+
+Obvious Exits: east. 
+
+pon that
+
+You ponder that.
+
+Ayderias says, "One of the few animal representations that isn't winged."
+' Aruskin will love that
+
+You say, "Aruskin will love that."
+grin
+
+You grin.
+
+Ayderias says, "The two outer mountains surrounding Aerzette lake translate to black fox and white fox."
+
+Blink says, "Oh wow. Poor guys."
+
+Seren says, "Probably loved for its beautiful fur."
+
+Ayderias says, "Mt. Inoli and Mt. Aenohli."
+
+Ayderias furrows his brow at a tanned leather leaf-embroidered vellum tome.
+nod ayd
+
+You nod to Ayderias.
+
+Ayderias asks Seren, "Has this helped?"
+
+Seren says, "Oh yes."
+
+Blink nods his head up and down.
+
+Ayderias smiles.
+<HP: 157/157 ST: 124/124>
+Seren says, "Quite a bit yes."
+
+Ayderias closes a tanned leather leaf-embroidered vellum tome.
+
+Ayderias gives a tanned leather leaf-embroidered vellum tome to Seren.
+
+Blink says, "Yeah, I'm gonna have good dreams tonight."
+
+Ayderias gets a tanned leather leaf-embroidered vellum tome from a brass-buckled leather emissary satchel.
+
+Ayderias gives a tanned leather leaf-embroidered vellum tome to Blink.
+grin
+
+You grin.
+
+Ayderias gets a tanned leather leaf-embroidered vellum tome from a brass-buckled leather emissary satchel.
+
+
+Ayderias gives a tanned leather leaf-embroidered vellum tome to you.
+
+Ayderias gets a tanned leather leaf-embroidered vellum tome from a brass-buckled leather emissary satchel.
+beam ayd
+
+You beam at Ayderias.
+thank ayd
+
+You thank Ayderias.
+
+Ayderias gives a tanned leather leaf-embroidered vellum tome to Ciciliah.
+Seren says, "Thank you.. this is wonderful."
+
+Ayderias gets a tanned leather leaf-embroidered vellum tome from a brass-buckled leather emissary satchel.
+op tome
+
+You open a tanned leather leaf-embroidered vellum tome.
+l tom
+
+It looks like a tanned leather leaf-embroidered vellum tome.  The leaf-shaped leather patch across its surface is marked with burned symbols and connecting inked lines. White lettering down the spine of the tome reads, "Exploring Aerthane Isle."
+Inside you see:
+
+
+
+Ayderias gives a tanned leather leaf-embroidered vellum tome to Trystan.
+read tom
+
+There is nothing written on a tanned leather leaf-embroidered vellum tome.
+clo tome
+
+You close a tanned leather leaf-embroidered vellum tome.
+
+Trystan reads a tanned leather leaf-embroidered vellum tome.
+
+Ayderias asks Trystan, "Would you be so kind as to deliver one to our resident fox?"
+get apo sat
+
+You get a supple black leather apothecary bag from a grimy worn leather satchel.
+
+Ayderias gets an open timeworn silver water lily-etched skin tome from a brass-buckled leather emissary satchel.
+<HP: 157/157 ST: 124/124>
+Ciciliah blinks.
+get head apo
+
+You get a petrified shrunken gavial head from a supple black leather apothecary bag.
+
+Ayderias furrows his brow at an open timeworn silver water lily-etched skin tome.
+put tom head
+
+A petrified shrunken gavial head is full.
+
+Ayderias puts an open timeworn silver water lily-etched skin tome in a brass-buckled leather emissary satchel.
+
+Trystan grins at Ayderias and says, "of course."
+put head apo
+You put a petrified shrunken gavial head in a supple black leather apothecary bag.
+
+Ayderias gets a tanned leather leaf-embroidered vellum tome from a brass-buckled leather emissary satchel.
+put tom sat
+
+You put a tanned leather leaf-embroidered vellum tome in a grimy worn leather satchel.
+put apo sat
+
+You put a supple black leather apothecary bag in a grimy worn leather satchel.
+
+Ayderias gives a tanned leather leaf-embroidered vellum tome to Trystan.
+
+Ciciliah reads a tanned leather leaf-embroidered vellum tome.
+
+Trystan says, "Might as well make it two, one for the lil fox."
+
+Trystan asks, "Can a bolinau be a fox?"
+
+Blink says to Ayderias, "Oh wow, thanks."
+
+Ayderias gets a tanned leather leaf-embroidered vellum tome from a brass-buckled leather emissary satchel.
+
+Ayderias gives a tanned leather leaf-embroidered vellum tome to Trystan.
+
+Blink opens a tanned leather leaf-embroidered vellum tome.
+
+Trystan says to Ayderias, "Thank you."
+
+Ayderias says to Trystan, "I'm sure they can blend in."
+
+Trystan smirks at Ayderias.
+
+Blink reads a tanned leather leaf-embroidered vellum tome.
+lean forward
+
+You lean forward.
+
+Seren says, "I wonder if we could get a scribe to letter all these names on our map of the isle thats in the post office."
+whisp ayd are there mountains on the northern most point of the isle there?
+
+You whisper to Ayderias, "Are there mountains on the northern most point of the isle there?".
+nod ser
+
+You nod to Seren.
+
+Ayderias says to Seren, "I will be adding my own request for charts to be sent over."
+
+Seren says, "Id be more than happy to pay them to do that."
+
+Blink says to Ayderias, "Oh yeah, before I forget. Tell em about the dragons and wyverns and stuff. It's like important."
+say ser hire a Bihi
+
+You say to Seren, "Hire a Bihi."
+
+Ayderias whispers to you, "The three I named are on the western side, middle of the isle.".
+nod  thoughtfully
+
+You nod thoughtfully.
+
+Ciciliah glances at Blink.
+
+Ayderias raises an eyebrow at Blink.
+
+Blink says, "Er well dragon, singular."
+
+Blink says, "Yeah, that Wyvern was harassing me last week by the way."
+glan bli
+
+You glance at Blink.
+
+Ayderias says to Blink, "Perhaps you should be the one telling us."
+
+Blink says, "Oh well it somehow knew I was talking about dragons to someone."
+
+Blink says, "I was just joking around. But it got really excited and like....rifled my mind. They've done that to me before. It's kinda annoying. Like they are using your brain as a book."
+
+Blink says, "Like going through the pages."
+
+Ayderias says, "Ah yes. There have been a number of reports of certain thoughts triggering a nearby wyvern to take notice."
+
+Ciciliah ponders.
+
+Blink says, "Then it got annoyed. I think because it realized I hadn't actually met a white dragon."
+
+Trystan says, "It's been some time since the lance has been mentioned."
+
+Blink says, "After reading that from my thoughts."
+
+Ayderias says to Blink, "I've no idea how their ability works or their limitations, but it seems clear they have some power over the mind."
+
+Ciciliah says, "I saw one the other night."
+
+Blink says, "Yeah it was pretty weird. I think I was in the Bandit or something."
+
+Ayderias blinks at Ciciliah.
+
+Seren asks Ciciliah, "A wyvern?"
+
+Blink says, "I seriously doubt it was spying inside the building. They must hear far off sometimes."
+
+Ciciliah nods to Seren.
+
+Seren asks, "Where did you see it?"
+
+Blink says to Ciciliah, "Oh wow."
+
+Ciciliah says, "From the square."
+
+Ciciliah points upward.
+
+Seren asks, "What was it doing... just flying over?"
+
+Blink removes a large plush blue twill sleeping bag.
+Blink holds a small electric blue leather-covered yarn ball.
+
+Ciciliah shakes her head from side to side.
+
+Ciciliah says, "Don't know."
+
+Seren asks Ciciliah, "Did it enter your mind?"
+
+Ciciliah nods her head up and down.
+shiv
+
+You shiver.
+
+Seren says, "Ugh."
+rub tali
+
+You rub a carved old teak tribal kami talisman.
+murm
+
+You murmur.
+
+Ciciliah says, "I wasn't sure if it was really happening or if I had gone mad."
+
+Ciciliah says, "Still not entirely certain either way."
+
+Ciciliah glances.
+chu cic
+
+You chuckle at Ciciliah.
+
+Blink says, "It's real."
+
+Seren says, "I think they've done that to a few."
+
+Blink says, "We will not haul you off to the funny farm."
+
+Ayderias says to Ciciliah, "It must be comforting to know others here have experienced the same."
+
+Blink says, "We only do that with Trystan."
+
+Ciciliah nods to Ayderias.
+chu
+
+You chuckle.
+
+Ciciliah exclaims to Ayderias, "Yah!"
+
+Trystan chuckles.
+l sat
+
+It looks like a grimy worn leather satchel.
+Inside you see:
+
+a ragged eagle feather and goat fur headdress
+ a loosely-tied leather fish sack
+ a burlap-patched leather harvest satchel
+ a patched leather pelt sack
+ a small raven black seven demon silk bag
+ a supple black leather apothecary bag
+ some vibrant purple hard candy
+ an oversized chicken egg
+ a fresh four leaf clover
+ some troll bone
+ a tanned leather leaf-embroidered vellum tome
+ 
+
+Ciciliah says, "Also still terrifying."
+
+Blink says, "Yeah they like to bug Geel."
+
+Ayderias says, "As far as I know they have yet to make any real advancement. It's not even clear what their intent is."
+
+Trystan says to Ciciliah, "You get used to after awhile."
+
+Ciciliah shudders.
+
+Trystan says, "They still search for the spear."
+
+Blink says to Ayderias, "I think killing dragons is high on their list."
+
+Ayderias says, "They seem to linger within the valley and test the defenses of the city from time to time."
+
+Trystan gestures at Blink.
+
+Trystan asks, "Test?"
+
+Trystan chuckles.
+
+Blink says, "It said things now and again."
+
+Trystan nods to Blink.
+
+Blink says, "They sound kinda like Goblins in your head."
+i wonder if they are being hunted as well
+Inventory:
+
+
+Currency: 228 doubloons
+
+Carrying: 109 items (61.0 | 81.0) lbs.
+
+'i wonder if they are being hunted as well
+
+You say, "I wonder if they are being hunted as well."
+
+Ayderias says to Blink, "I would not wish that on anyone."
+
+Blink says, "Oh well the fire dragon in the area was definitely fighting them."
+
+Blink says, "The thing is I don't think dragons feed on them."
+
+Blink says, "Any more than mages do."
+
+Blink says, "But Wyverns feed on dragons as well as mages."
+
+Ciciliah blinks.
+
+Blink says, "So it's like they are the agressors. Do not blame the dragon."
+
+who
+[ARRIVALS] 'Pyratherndar has logged on.'
+
+   Players Currently Online: 
+ =============================
+
+   Spits the Goblin                                            
+   Mavin the Sylph                                             
+   Eabo the Goblin                                             
+   Seren the Avardi                                            
+   Ayderias the Avardi                                         
+   Ciciliah the Sylph                                          
+   Xiija the Sylph                                             
+   Blink the Avardi                                            
+   Trystan the Human                                           
+   Kreve the Argali                                            
+   Pyratherndar the Vukasin                                    
+
+
+Ayderias says to you, "I've wondered that myself. It seems strange that a telepathy potion has been supplied not long after a few corpses showed up."
+nod ayd slowly
+
+You nod to Ayderias slowly.
+get apo sat
+
+You get a supple black leather apothecary bag from a grimy worn leather satchel.
+
+Blink says, "Although he did wreck one of the King's ships. He burned it."
+get head apo
+
+You get a petrified shrunken gavial head from a supple black leather apothecary bag.
+get grey head
+
+You don't see 'grey' in a petrified shrunken gavial head.
+l head
+
+It looks like a petrified shrunken gavial head.
+Inside you see:
+
+a glass vial of slimy gray sludge
+ a human spiritual doll
+ an ochre-spotted mountain troll heart
+ 
+get slud head
+
+You get a glass vial of slimy gray sludge from a petrified shrunken gavial head.
+poi slud
+
+You point at a glass vial of slimy gray sludge.
+sniff slud
+
+You sniff a glass vial of slimy gray sludge.
+A glass vial of slimy gray sludge has a glass smell.
+shiv
+
+You shiver.
+put slud head
+
+You put a glass vial of slimy gray sludge in a petrified shrunken gavial head.
+put head apo
+
+You put a petrified shrunken gavial head in a supple black leather apothecary bag.
+
+Ciciliah wrinkles her nose at you.
+put apo sat
+
+You put a supple black leather apothecary bag in a grimy worn leather satchel.
+
+Blink says to you, "Oh wow you got your shrunken head."
+
+Trystan says, "All fear the sylph."
+
+Trystan squints at you.
+
+Ciciliah hiccups.
+Ciciliah takes a drink from a tankard of orange blossom ale.
+say bli had it a while, from the bosun on the Revenge
+
+You say to Blink, "Had it a while, from the bosun on the Revenge."
+grunt try
+
+You grunt at Trystan.
+
+Blink says to you, "It's like no need to shrink my head. It's going to dissolve into mist soon."
+chu  gently
+
+You chuckle gently.
+
+Ayderias takes a drink from a steaming mug of white willowbark tea.
+l
+
+
+
+[Pillars of Aerthane.]
+
+The overlooking corner of the stone slab descends into a square auditorium with wide steps suitable for seating.  The rows of steps face a white marble topped altar at the center.  A swirled gray and white marble pillar stands at the corner with a supporting trellis connecting it to evenly spaced pillars along the perimeter.  Each pillar has been polished on one side to a brilliant shine, while the opposite side that faces the valley depicts intricately carved totems of fierce birds of prey.  You notice an arcsilver-veined white marble topped altar.
+
+Also here: an Aerthanian templar (seated) on some wide marble steps, Ciciliah the Sylph (flying), Seren the Avardi, Lord Ayderias the Avardi (seated) on some wide marble steps, Champion Blink the Avardi (lying down), and Trystan the Human (seated) on some wide marble steps 
+
+Obvious Exits: east. 
+
+
+Trystan stands up.
+
+who
+[ARRIVALS] 'Mavin has logged out.'
+who
+[ARRIVALS] 'Pyratherndar has logged out.'
+   Players Currently Online: 
+ =============================
+
+   Spits the Goblin                                            
+   Eabo the Goblin                                             
+   Seren the Avardi                                            
+   Ayderias the Avardi                                         
+   Ciciliah the Sylph                                          
+   Xiija the Sylph                                             
+   Blink the Avardi                                            
+   Trystan the Human                                           
+   Kreve the Argali                                            
+
+   Players Currently Online: 
+ =============================
+
+   Spits the Goblin                                            
+   Eabo the Goblin                                             
+   Seren the Avardi                                            
+   Ayderias the Avardi                                         
+   Ciciliah the Sylph                                          
+   Xiija the Sylph                                             
+   Blink the Avardi                                            
+   Trystan the Human                                           
+   Kreve the Argali                                            
+
+
+Blink sits up.
+
+Ayderias says, "With your permission, I will send our collective thoughts aboard the merchant ship in the hopes that it will reach Aerthane safely."
+beam ayd
+
+You beam at Ayderias.
+Blink nods his head up and down.
+say ayd granted?
+
+You ask Ayderias, "Granted?"
+cac
+
+You cackle.
+
+grin Ayderias softly, winking..
+Ayderias smiles at you.
+
+Seren says, "Yes."
+
+Trystan grins at you.
+
+You grin at Ayderias softly, winking..
+
+Trystan says to Ayderias, "What she said."
+' so much information! i need to write it all down
+
+You say, "So much information! I need to write it all down."
+nod  thoughtfully
+
+You nod thoughtfully.
+
+Trystan says to Ayderias, "Thank you for sharing with us my lord."
+stand
+
+You stand up.
+bow ayd 
+
+You bow to Ayderias.
+
+Ayderias says to Trystan, "It has been my pleasure."
+sit step
+
+You sit on some wide marble steps.
+
+Blink applauds Ayderias.
+appl
+
+You applaud.
+
+Seren says, "Yes thank you very much."
+
+Trystan asks, "Does anyone have anything to share before we conclude things?"
+say try party for the Longest Nyte?
+
+You ask Trystan, "Party for the Longest Nyte?"
+whin
+
+You whine.
+
+Blink says, "Oh. I have a double hunt Tuesday."
+
+Trystan gestures at Blink.
+beam bli
+
+You beam at Blink.
+appl bli
+
+You applaud Blink.
+Trystan says, "Nine and eleven bells at the Bandit."
+
+Ayderias asks Blink, "Might I make a suggestion for you and others that have experienced wyvern encounters?"
+
+Blink says, "It's like be there, or be broke."
+rai ayd
+
+You raise an eyebrow at Ayderias.
+listen ayd
+
+You listen to Ayderias.
+
+Blink says to Ayderias, "Oh sure."
+
+Ayderias says, "It seems they pick up on your thoughts of certain things. Have you tried to continue that line of thinking once you've been contacted? Maybe there is more we can learn."
+
+Trystan tilts his head to Ayderias.
+
+Ciciliah ponders hard.
+
+Trystan asks Ayderias, "I take it you haven't had the experience yet?"
+
+Blink says, "Oh okay. Well I'm pretty sure they are interested in dragons and that spear Faran and Nick had."
+
+Trystan glances at Blink and says, "There's another."
+
+Blink says, "The problem is once it read my mind, it knew I hadn't met an actual white dragon. So it's hard to fool em."
+
+Seren says, "I think thats true the one time they contacted me I told them to get out and stay out and they havent been back."
+
+Ayderias says to Blink, "If that's the case, and if you can do so safely, try to relay that to them next time. See if you can draw their focus."
+chu ser
+
+You chuckle at Seren.
+
+Ayderias says to Trystan, "I have not had the pleasure."
+
+Trystan says, "Everytime has come with some amount of pain."
+
+Blink says, "Yeah safely is the key word there."
+
+Trystan gestures at Blink.
+say ser you used your mynd talk n em?
+
+You ask Seren, "You used your mynd talk n em?"
+
+Ciciliah scratches her head.
+
+Blink says, "I kinda don't want them interested in me."
+
+Ayderias nods to Blink.
+
+Blink says, "I in fact do not want to be snack food."
+
+Trystan says, "That kinda pain is the bodies way of telling you you're being stupid and in danger."
+
+Ciciliah asks, "You think we can do mind talk??"
+grin try
+
+You grin at Trystan.
+
+Ciciliah gapes.
+
+Blink says to Ciciliah, "Oh yeah we can."
+
+Seren says to you, "No they just entered my mind and I just talked to them."
+
+Ayderias says, "I will do what research I can, but my thought is there must be a way to block their thoughts."
+
+Trystan raises an eyebrow at Seren.
+say ser how odd
+
+You say to Seren, "How odd."
+
+Blink says to Ciciliah, "There's a mage spell."
+say cici are you a mage?
+
+You ask Ciciliah, "Are you a mage?"
+
+Trystan grins at you.
+
+Ciciliah nods to you.
+beam
+
+You beam.
+say ayd metal helms!
+
+You exclaim to Ayderias, "Metal helms!"
+' mebbe tin?
+
+You ask, "Mebbe tin?"
+pon that
+
+You ponder that.
+
+who
+[ARRIVALS] 'Pyratherndar has logged on.'
+   Players Currently Online: 
+ =============================
+
+   Spits the Goblin                                            
+   Eabo the Goblin                                             
+   Seren the Avardi                                            
+   Ayderias the Avardi                                         
+   Ciciliah the Sylph                                          
+   Xiija the Sylph                                             
+   Blink the Avardi                                            
+   Trystan the Human                                           
+   Kreve the Argali                                            
+   Pyratherndar the Vukasin                                    
+
+
+Blink says to Ayderias, "Yeah find out what blocks our spell."
+
+Seren says, "Yes I dislike anyone rummaging around in my head."
+
+Blink says to Ayderias, "That may tell you."
+say cici wrap your head in tin!
+
+You exclaim to Ciciliah, "Wrap your head in tin!"
+caca
+
+Huh?
+cac
+
+You cackle.
+
+Blink asks Ayderias, "How about lead?"
+
+Ayderias says to Blink, "We may need more information from them to understand that, but I will certainly see what I can find out."
+
+Ciciliah ponders that.
+
+Ciciliah says to you, "I think it might be unwise."
+
+Trystan says to Ayderias, "Perhaps something to add to your letter."
+grin cici
+
+You grin at Ciciliah.
+
+Ayderias says, "I am not overly fond of wearing metal over my head if I need to harness electricity."
+
+Blink says, "There's some weird connection between wyverns and dragons. And a connection between dragons and the magic of mages."
+
+Ciciliah nods to Ayderias.
+
+Blink says, "Our spell came perhaps due to the Wyverns awakening."
+chu ayd
+
+You chuckle at Ayderias.
+
+Ciciliah gasps.
+
+Trystan asks Blink, "Always had it within you but just didn't know it?"
+
+Blink says, "Oh it's not too bad. It kinda wakes you up."
+' the Closed Council meeting is in a se'n-nyte?
+
+You ask, "The Closed Council meeting is in a se'n-nyte?"
+
+Blink taps a horned and beaked persarium helm.
+
+Ayderias says to Blink, "It's been known to happen before."
+
+Ayderias says, "A great deal of magical presence was lost when the dragons left the world."
+
+Blink says, "Yeah I got hit once by real natural lightning when I was hunting statues. It was fun."
+nod
+
+You nod.
+
+Trystan furrows his brow at Blink.
+say try Now i understand ..
+
+You say to Trystan, "Now I understand .."
+glan bli
+
+You glance at Blink.
+cac
+
+You cackle.
+
+Trystan nods to you.
+
+Ayderias smirks.
+hum bli
+
+You hum at Blink.
+
+Trystan asks, "Anyone else?"
+
+Blink says, "Yeah so we may get a ton of magic when all the dragons get here."
+
+Blink says, "Neat."
+
+Ayderias says to Trystan, "I did not intend to reopen that discussion."
+
+Trystan chuckles at Ayderias.
+
+Blink says, "Then we'll form a dragons and mages council, and like hold parties or something."
+
+Trystan says, "Blu uh huh."
+say bli they tried that once i hear
+
+You say to Blink, "They tried that once I hear."
+pon
+
+You ponder.
+
+Trystan says to Blink, "Sit up while I pray."
+
+Blink says to you, "Oh wow."
+stand
+
+You stand up.
+knee
+
+You kneel.
+
+Blink says to Trystan, "I am already sitting up."
+l
+
+
+
+[Pillars of Aerthane.]
+
+The overlooking corner of the stone slab descends into a square auditorium with wide steps suitable for seating.  The rows of steps face a white marble topped altar at the center.  A swirled gray and white marble pillar stands at the corner with a supporting trellis connecting it to evenly spaced pillars along the perimeter.  Each pillar has been polished on one side to a brilliant shine, while the opposite side that faces the valley depicts intricately carved totems of fierce birds of prey.  You notice an arcsilver-veined white marble topped altar.
+
+Also here: an Aerthanian templar (seated) on some wide marble steps, Ciciliah the Sylph (flying), Seren the Avardi, Lord Ayderias the Avardi (seated) on some wide marble steps, Champion Blink the Avardi (seated), and Trystan the Human 
+
+Obvious Exits: east. 
+
+
+Trystan grins at Blink.
+
+Ayderias lowers his head.
+emo bows her head
+
+Xiija bows her head.
+
+Trystan bows his head.
+
+Blink bows his head.
+
+Trystan says, "Goddess, watch over you beloved ones as they leave this temple. Keep them safe under your watchful eye and ever let them feel your presence with each gift of breath taken."
+
+Trystan says, "May the winds guide us on our journeys and always bring us back here."
+
+Trystan raises his head.
+
+Trystan says, "Thank you all for coming this evening."
+Aermen
+
+Huh?
+'Aermen
+
+You say, "Aermen."
+who
+[ARRIVALS] 'Requiem has logged on.'
+
+   Players Currently Online: 
+ =============================
+
+   Spits the Goblin                                            
+   Eabo the Goblin                                             
+   Seren the Avardi                                            
+   Ayderias the Avardi                                         
+   Ciciliah the Sylph                                          
+   Xiija the Sylph                                             
+   Blink the Avardi                                            
+   Trystan the Human                                           
+   Kreve the Argali                                            
+   Pyratherndar the Vukasin                                    
+   Requiem the Vukasin                                         
+
+cou
+
+You cough.
+say thanks for a wonderful evening!
+
+You exclaim, "Thanks for a wonderful evening!"
+Flashes of heat lightning illuminate the sky in the distance while thin wisps of cloud briefly soften the moon's full gaze.
+
+Blink exclaims, "Neat!"
+
+Seren smiles.
+say bli get your equiptment quick
+
+You say to Blink, "Get your equiptment quick."
+cac
+
+You cackle.
+
+Blink removes a small electric blue leather-covered yarn ball.
+Blink holds a three-cupped iron anemometer.
+
+Seren says, "Thank you for all the information."
+beam
+
+You beam.
+
+Ayderias says, "It's been my pleasure to share it with you all."
+smi ayd
+
+You smile at Ayderias.
+
+Trystan says to Ciciliah, "If you have any questions about anything, this is the crowd to ask."
+
+Ayderias says, "Do be safe as the nights grow longer."
+
+Blink says to you, "OKay let's get some rope and string you to one of these pillars up there."
+smi ayd
+
+You smile at Ayderias.
+flai bli
+
+You flail your arms at Blink.
+
+Trystan says to Ciciliah, "We're blessed with outstanding crafters."
+say cici see!
+
+You exclaim to Ciciliah, "See!"
+
+Ciciliah beams at Trystan.
+
+Trystan chuckles.
+grunt bli
+
+You grunt at Blink.
+
+Trystan says to you, "I've a ward for that."
+
+Blink says to Ayderias, "Thank you so much."
+
+Ayderias smiles at Blink.
+chu try
+
+You chuckle at Trystan.
+
+Trystan winks at you and says, "I'll show you later."
+say ayd yes, many thanks!
+
+You exclaim to Ayderias, "Yes, many thanks!"
+grin try
+
+You grin at Trystan.
+
+
+An Aerthanian templar stands up.
+
+Trystan applauds Ayderias.
+appl ayd
+
+You applaud Ayderias.
+
+An Aerthanian templar says to Ayderias, "Yes. Thanks."
+stand
+
+You stand up.
+fly
+emo fans her multicolored wings swiftly, hovering...
+You launch into the air with a powerful downward thrust of your wings.
+
+Xiija fans her multicolored wings swiftly, hovering...
+
+Ayderias stands up.
+
+Trystan says to Ciciliah, "Ayderias and Blink are our two emissaries."
+
+Ayderias bows politely.
+l
+
+
+
+[Pillars of Aerthane.]
+
+The overlooking corner of the stone slab descends into a square auditorium with wide steps suitable for seating.  The rows of steps face a white marble topped altar at the center.  A swirled gray and white marble pillar stands at the corner with a supporting trellis connecting it to evenly spaced pillars along the perimeter.  Each pillar has been polished on one side to a brilliant shine, while the opposite side that faces the valley depicts intricately carved totems of fierce birds of prey.  You notice an arcsilver-veined white marble topped altar.
+
+Also here: an Aerthanian templar, Ciciliah the Sylph (flying), Seren the Avardi, Lord Ayderias the Avardi, Champion Blink the Avardi (seated), and Trystan the Human 
+
+Obvious Exits: east. 
+
+
+Ciciliah says to Trystan, "Ohhh."
+
+Ciciliah glances.
+
+Trystan squints at an Aerthanian templar.
+
+An Aerthanian templar fidgets.
+
+Trystan says to Blink, "See you tomorrow night I hope."
+beam
+
+You beam.
+Blink says to Trystan, "Okay."
+
+Seren says, "Well Im off to home."
+
+Trystan asks Blink, "Try not to forget this one, yes?"
+
+Ayderias smiles at Seren.
+
+Blink nods his head up and down.
+say ser Nyte!
+
+You exclaim to Seren, "Nyte!"
+
+Seren says, "You all take good care."
+
+Ayderias says to Seren, "Good evening."
+
+Trystan waves to Seren.
+
+Seren waves.
+
+Blink says, "Yeah I got Mr. Fork reminding me."
+
+Seren leaves east.
+
+Trystan says, "Right."
+
+Trystan says, "Mr. Dependable."
+
+Blink grins.
+
+
+An Aerthanian templar leaves east.
+
+Blink says, "It's like if I forget, I'll get hit by forked lightning."
+
+who
+[ARRIVALS] 'Seren has logged out.'
+   Players Currently Online: 
+ =============================
+
+   Spits the Goblin                                            
+   Eabo the Goblin                                             
+   Ayderias the Avardi                                         
+   Ciciliah the Sylph                                          
+   Xiija the Sylph                                             
+   Blink the Avardi                                            
+   Trystan the Human                                           
+   Kreve the Argali                                            
+   Pyratherndar the Vukasin                                    
+   Requiem the Vukasin                                         
+
+
+Trystan asks, "Who mentioned a party for the longest night?"
+cac
+
+You cackle.
+
+Ayderias says to Ciciliah, "I look forward to seeing you around. Enjoy the rest of your evening."
+
+Ciciliah smiles at Ayderias.
+
+Ayderias says to Trystan, "Thank you for bringing the flock together."
+
+Ciciliah says to Ayderias, "You as well."
+
+Trystan says to Ayderias, "Thank you."
+
+Blink salutes to Ayderias.
+
+grin Ayderias delicately , blushing
+Ayderias smiles at you.
+
+You grin at Ayderias delicately , blushing.
+
+Ayderias bows.
+
+Blink stands up.
+Ayderias leaves east.
+emo bows her head
+
+Xiija bows her head.
+
+Blink screeches.
+
+Blink clatters his talons.
+
+Ciciliah glances.
+
+Blink flaps his wings.
+
+Trystan says to Ciciliah, "You're more than welcome on the hunt tomorrow."
+' what times are the hunts?
+
+You ask, "What times are the hunts?"
+
+Trystan says, "Nine and eleven."
+
+Blink says, "9 And 11."
+nod
+
+You nod.
+' gotcha
+
+You say, "Gotcha."
+
+Ciciliah blinks at Trystan cluelessly.
+
+Ciciliah exclaims, "Okay!"
+say cici an easy ten hundreds or two
+
+You say to Ciciliah, "An easy ten hundreds or two."
+wink
+
+You wink.
+
+Trystan says, "I'll see you all later, still a few things to be done before the nights over."
+
+Blink nods his head up and down.
+
+Blink says, "Good night everyone."
+wav try
+
+You wave to Trystan.
+bundle all 
+
+land
+You must land first.
+Ciciliah waves to Trystan.
+
+emo flitters her multicolored wings softly before folding them closed...
+furl gently.
+You dive out of the air and land safely.
+
+Xiija flitters her multicolored wings softly before folding them closed...
+
+You furl your wings gently.
+
+Trystan says to you, "Don't be such a stranger."
+Blessed Be
+
+Huh?
+
+Blink chirrups.
+'Blessed Be
+
+You say, "Blessed Be."
+
+hug try
+
+You hug Trystan.
+cac
+
+You cackle.
+grin Trystan wryly
+
+You grin at Trystan wryly.
+
+Thin, opalescent runes form an illuminated gate in front of Blink before he steps through it and disappears.
+A translucent barrier surges with energy as an incantation is disrupted.
+A translucent barrier surges with energy as an incantation is disrupted.
+blink
+
+You blink.
+l
+
+
+
+[Pillars of Aerthane.]
+
+The overlooking corner of the stone slab descends into a square auditorium with wide steps suitable for seating.  The rows of steps face a white marble topped altar at the center.  A swirled gray and white marble pillar stands at the corner with a supporting trellis connecting it to evenly spaced pillars along the perimeter.  Each pillar has been polished on one side to a brilliant shine, while the opposite side that faces the valley depicts intricately carved totems of fierce birds of prey.  You notice an arcsilver-veined white marble topped altar.
+
+Also here: Ciciliah the Sylph (flying), and Trystan the Human 
+
+Obvious Exits: east. 
+
+
+Ciciliah glances.
+fly
+
+exhale slowly, gritting her teeth...
+stand
+fly
+You attempt to launch into flight, but stumble and fall down.
+You exhale slowly, gritting her teeth...
+
+You stand up.
+
+emo shakes her head , long grey dreadlocks faliing over her eyes as she curses....
+stand
+fly
+You attempt to launch into flight, but stumble and fall down.
+Xiija shakes her head , long grey dreadlocks faliing over her eyes as she curses....
+
+You stand up.
+
+emo winces & rubs her butt...
+stand
+fly
+You attempt to launch into flight, but stumble and fall down.
+Xiija winces & rubs her butt...
+
+You stand up.
+
+exhale slowly, gritting her teeth...
+stand
+fly
+You attempt to launch into flight, but stumble and fall down.
+You exhale slowly, gritting her teeth...
+
+You stand up.
+
+emo fans her multicolored wings swiftly, hovering...
+You launch into the air with a powerful downward thrust of your wings.
+
+Xiija fans her multicolored wings swiftly, hovering...
+stare
+
+You stare.
+
+Ciciliah blinks at you.
+' wyngs!
+
+You exclaim, "Wyngs!"
+Trystan tilts his head to the side.
+cur
+
+You curse.
+
+Ciciliah comforts you.
+say cici i need wyng oil apparently
+
+You say to Ciciliah, "I need wyng oil apparently."
+murm
+
+You murmur.
+
+Trystan says, "Also known as whiskey."
+cac try
+
+You cackle at Trystan.
+Trystan nods his head up and down.
+' shush you
+
+You say, "Shush you."
+snic
+
+You snicker.
+
+Trystan chuckles.
+
+Trystan says, "Night you two."
+
+who
+[ARRIVALS] 'Blink has logged out.'
+
+   Players Currently Online: 
+ =============================
+
+   Spits the Goblin                                            
+   Eabo the Goblin                                             
+   Ayderias the Avardi                                         
+   Ciciliah the Sylph                                          
+   Xiija the Sylph                                             
+   Trystan the Human                                           
+   Kreve the Argali                                            
+   Pyratherndar the Vukasin                                    
+   Requiem the Vukasin                                         
+
+
+Trystan leaves east.
+' Nyte
+
+You say, "Nyte."
+l
+
+
+
+[Pillars of Aerthane.]
+
+The overlooking corner of the stone slab descends into a square auditorium with wide steps suitable for seating.  The rows of steps face a white marble topped altar at the center.  A swirled gray and white marble pillar stands at the corner with a supporting trellis connecting it to evenly spaced pillars along the perimeter.  Each pillar has been polished on one side to a brilliant shine, while the opposite side that faces the valley depicts intricately carved totems of fierce birds of prey.  You notice an arcsilver-veined white marble topped altar.
+
+Also here: Ciciliah the Sylph (flying) 
+
+Obvious Exits: east. 
+
+grin
+
+You grin.
+
+who
+[ARRIVALS] 'Ayderias has logged out.'
+
+   Players Currently Online: 
+ =============================
+
+   Spits the Goblin                                            
+   Eabo the Goblin                                             
+   Ciciliah the Sylph                                          
+   Xiija the Sylph                                             
+   Trystan the Human                                           
+   Kreve the Argali                                            
+   Pyratherndar the Vukasin                                    
+   Requiem the Vukasin                                         
+
+
+Ciciliah stretches her limbs out.
+say cici okay, you explorin?.. or want a ride anywhere?
+
+You ask Ciciliah, "Okay, you explorin?.. or want a ride anywhere?"
+
+Ciciliah exclaims to you, "Don't know!"
+cac
+
+You cackle.
+
+Ciciliah shrugs both shoulders.
+' i show you the shortcut in here?
+
+You ask, "I show you the shortcut in here?"
+grin
+
+You grin.
+
+Ciciliah ponders.
+lead ci
+
+You request Ciciliah to join your group.
+
+Ciciliah follows you.
+poi
+
+You point.
+e
+
+
+
+[Pillars of Aerthane.]
+
+Two marble busts sit atop pedestals resting between the perimeter of pillars.  Each bust displays detailed sculpting highlighting every facial feature of the immortalized figures.  A framed archway extends between two columns to the east with a stone slab across the top.  To the west, steps descend into an auditorium that overlooks much of the countryside.  You notice a carved marble archway.
+
+Obvious Exits: west, and south. 
+
+Ciciliah flies in from the west.
+poi
+
+You point.
+e
+
+
+
+[Aerthane Atrium, Entrance.]
+
+Smoothed walls of alabaster rest between the marble pillars which form a foundation for the ceiling. Between the western pillars, marble has been chiseled and smoothed into an arched entryway that connects the enclosed area with the rest of the temple. Marble slabs line the eastern wall, carved into steps up to a doorway above. To the south, the narrow hallway expands into an open air library atrium.  You notice some marble steps, a wooden posting board, and a carved marble archway.
+
+Obvious Exits: south. 
+
+Ciciliah flies in from the west.
+poi
+
+You point.
+s
+
+
+
+[Aerthane Atrium.]
+
+A spacious glass atrium with blue sky ferns and white carnation flowers in stone pots surrounds a fountain at its center. The fountain's base is octagonal-shaped and made of polished grey marble, streaked with white veins. Water trickles down a jagged rock formation at its center, resembling the steep cliffs of a mountain rising out of the ocean.  Benches carved of walnut and bound with polished iron surround the outer walls of the atrium, atop floors of white and gray mosaic tile. Above, a wooden loft runs around the base of the dome ceiling, with intricately carved alcoves containing countless volumes and tomes.  More alcoves are set further up the wall towards the atrium skylight where books showing more obvious signs of age are stored. The atrium's skylight consists of large triangular panels, some clear glass, some frosted, while others are empty in a pattern. At its center, a large circular opening allows for sun and moonlight to illuminate the area, as well as access for winged visitors.  You notice a satin-draped pedestaled glass display case, and a gray and white marble fountain.
+
+Also here: an Aerthanian templar 
+
+Obvious Exits: east, and north. 
+
+Ciciliah flies in from the north.
+poi up
+
+You point up.
+u
+
+
+
+[Atrium Library.]
+
+Alcoves cut deep into the tower walls have been aligned around the tower, connected by a railed wooden walkway.  The center of the room is left open, providing a view of the fountain below as well as an unobstructed view of the skylight above from ground level.  Each alcove is lined with shelves containing a wealth of literature.  Small walnut writing desks pressed against the wall between the shelves provide quiet places to read from the nearby collection.  You notice an open carved walnut door.
+
+Obvious Exits: none
+
+[Below...] Ciciliah flies up.
+Ciciliah flies in from below.
+poi up
+
+You point up.
+u
+
+
+
+[High in the Sky.]
+
+Below the top of the tower, alcoves cut deep into the tower walls have been aligned, connected by a railed wooden walkway.  The center of the room is left open, providing a view of the fountain as well as an unobstructed view of the skylight above from ground level.
+
+Obvious Exits: west. 
+
+Ciciliah flies in from below.
+cac
+
+You cackle.
+w
+
+
+
+[High in the Sky.]
+
+Far below, marble pillars extend out across a stone platform atop the hill.  The slab of stone rises several feet from the earth, with a wide staircase leading up to a small enclosed entrance.  At its center, a white stone tower rises from the pillars.
+
+Obvious Exits: down, west, and east. 
+
+Ciciliah flies in from the east.
+w
+
+
+
+[High in the Sky.]
+
+A white fence at the edge of both sides of the road far below divides the dirt from the grassy foothills extending in either direction.  The path ascends around a steeper hill toward a structure at its summit.
+
+Obvious Exits: down, and east. 
+
+Ciciliah flies in from the east.
+d
+
+
+
+[Above Aerthane Hill, Gate.]
+
+A white wooden fence at the edge of both sides of the road below divides the smooth, compacted dirt from the grassy foothills extending in either direction.  The path ascends around a steeper hill toward a structure at its summit.
+
+Obvious Exits: northeast, and down. 
+
+Ciciliah flies in from above.
+d
+
+
+
+[Aerthane Hill, Gate.]
+
+A white wooden fence at the edge of both sides of the road divides the smooth, compacted dirt from the grassy foothills extending in either direction.  The path ascends around a steeper hill toward a structure at its summit.  You notice an open white painted iron gate.
+
+Obvious Exits: northeast. 
+
+Ciciliah flies in from above.
+
+Ciciliah beams.
+' Gate!
+
+You exclaim, "Gate!"
+
+who
+[ARRIVALS] 'Trystan has logged out.'
+   Players Currently Online: 
+ =============================
+
+   Spits the Goblin                                            
+   Eabo the Goblin                                             
+   Ciciliah the Sylph                                          
+   Xiija the Sylph                                             
+   Kreve the Argali                                            
+   Pyratherndar the Vukasin                                    
+   Requiem the Vukasin                                         
+
+cac
+
+You cackle.
+' only flyers can do it
+
+You say, "Only flyers can do it."
+wink
+
+You wink.
+
+Ciciliah exclaims to you, "Thanks!"
+beam
+
+You beam.
+
+Ciciliah glances upward.
+' so, you been to rum village?
+
+You ask, "So, you been to rum village?"
+glan up
+
+You glance up.
+
+Ciciliah ponders.
+inv
+Inventory:
+
+
+Currency: 228 doubloons
+
+Carrying: 109 items (61.0 | 81.0) lbs.
+
+
+A violet-breasted robin flies in from the northeast.
+whist rob
+
+You whistle at a violet-breasted robin.
+
+Ciciliah says, "Once? I think."
+nod
+
+You nod.
+' mkay
+
+You say, "Mkay."
+who
+
+   Players Currently Online: 
+ =============================
+
+   Spits the Goblin                                            
+   Eabo the Goblin                                             
+   Ciciliah the Sylph                                          
+   Xiija the Sylph                                             
+   Kreve the Argali                                            
+   Pyratherndar the Vukasin                                    
+   Requiem the Vukasin                                         
+
+' you meetin the Gobbie now?
+
+You ask, "You meetin the Gobbie now?"
+l
+
+
+
+[Aerthane Hill, Gate.]
+
+A white wooden fence at the edge of both sides of the road divides the smooth, compacted dirt from the grassy foothills extending in either direction.  The path ascends around a steeper hill toward a structure at its summit.  You notice an open white painted iron gate.
+
+Also here: Ciciliah the Sylph (flying), and a violet-breasted robin 
+
+Obvious Exits: northeast. 
+
+
+Ciciliah says to you, "Maybe! He usually finds me."
+cac
+
+A violet-breasted robin flies up.
+You cackle.
+u
+
+
+
+[Above Aerthane Hill, Gate.]
+
+A white wooden fence at the edge of both sides of the road below divides the smooth, compacted dirt from the grassy foothills extending in either direction.  The path ascends around a steeper hill toward a structure at its summit.
+
+Also here: a violet-breasted robin 
+
+Obvious Exits: northeast, and down. 
+
+[Below...] Ciciliah flies up.
+Ciciliah flies in from below.
+flai rob
+
+You flail your arms at a violet-breasted robin.
+Ciciliah says, "Which is why I stay to the air."
+
+Ciciliah winks.
+cac cici
+
+You cackle at Ciciliah.
+
+Ciciliah hums at a violet-breasted robin.
+' well, you  gonna sleep, or shop?.. wanna hunt?
+
+You ask, "Well, you gonna sleep, or shop?.. wanna hunt?"
+shru
+
+You shrug.
+
+Ciciliah exclaims to you, "Sure! All the things!"
+cac
+
+You cackle.
+
+Ciciliah nods her head up and down.
+' you any good with the undead?
+
+You ask, "You any good with the undead?"
+
+Ciciliah nods to you.
+grin
+
+You grin.
+' can ya carry alot?
+
+You ask, "Can ya carry alot?"
+snic
+
+You snicker.
+
+Ciciliah wrinkles her nose.
+
+Ciciliah shakes her head from side to side.
+grunt
+
+You grunt.
+' me either
+
+You say, "Me either."
+sigh
+
+You sigh.
+
+Ciciliah says, "Let's see the square."
+' mkay
+
+You say, "Mkay."
+
+Ciciliah asks, "Maybe we'll get lucky?"
+pray divine Victory Tunnel, Entrance
+
+
+
+A translucent barrier surges with energy as an incantation is disrupted.
+[Delay: 6.0 sec.]
+
+pray divine Victory Tunnel, Entrance
+
+
+
+You pray to Aerthane for a divine pathway to a distant location.
+A blinding, divine pathway appears here.
+A translucent barrier surges with energy as an incantation is disrupted.
+[Delay: 6.0 sec.]
+
+go here
+
+
+
+[Victory Tunnel, Entrance.]
+
+Statues honoring Astraeva are set in front of murals depicting her influence over historic battles on the ledge above the tunnel entrance.  The tunnel has been constructed to cut through the middle of a large sandstone government building to the southwest.
+
+Obvious Exits: southwest, northeast, and there. 
+
+Ciciliah flies in from a divine path.
+
+Ciciliah peers at you.
+sw
+
+
+
+[Victory Tunnel.]
+
+Paintings of various sceneries line the brick walls.  Canvases of faraway lands fill the tunnel with a rainbow of colors.  Vague representations of each elemental god have been depicted along with their respective islands.
+
+Obvious Exits: southwest, and northeast. 
+
+Ciciliah flies in from the northeast.
+sw
+
+
+
+[Victory Tunnel.]
+
+Dwarven craftsmanship is present throughout the sandstone tunnel.  The arched ceiling mimics the decorative brick pattern that paves the street below.  Along the walls are various paintings offering a view into the early lives of the city's founders.
+
+Obvious Exits: southwest, and northeast. 
+
+Ciciliah flies in from the northeast.
+sw
+
+
+[Victory Tunnel, Entrance.]
+
+A sandstone structure of dwarven design hunches over the road to the northeast, creating a tunnel.  The arched entrance is framed with symmetrical sandstone squares that meet at a decorative keystone.  Potted ferns sit at the base of the building on either side of the street.  The center of the city opens up to the southwest.  You notice a closed towering reinforced steel gate.
+
+Also here: an overfed rock pigeon 
+
+Obvious Exits: southwest, northeast, and west. 
+
+Ciciliah flies in from the northeast.
+sw
+
+
+[City of Pearl, Center.]
+
+Granting an uninhibited view of the bustling shipping industry, a stone seawall bevels out behind a long crescent bench and creates a half-moon addition to the congested crossroads at the heart of the city.  The vast water of the bay expands beyond the southern stone wall.  Ships of all sizes pass by the seafront as they make their way in and out of the harbor to the south.  The streets head in many directions, as well as a tunnel to the northeast.  At the center of the intersection is an elegantly carved monument of a giant pearl atop a tall obelisk.  The base of the centerpiece rests at the bottom of a shallow fountain that has a burning spear pointing down into the water.  A small stone sundial has been carved on the rim of the fountain.  You notice a wooden directional signpost.
+
+Also here: Eabo the Goblin, and Pyratherndar the Vukasin 
+
+Obvious Exits: southwest, southeast, northwest, northeast, west, east, and north. 
+
+Ciciliah flies in from the northeast.
+cac
+
+You cackle.
+
+Ciciliah points.
+
+Pyratherndar says, "Meeting is over."
+
+Eabo glances up.
+
+Ciciliah exclaims, "Told ya!"
+l py
+
+Pyratherndar looks like a stout 26 year old female Vukasin.
+She has light gray eyes and long, wavy, honey brown fur.
+She is 7 feet 3 inches tall and weighs 242 pounds.
+She has an aura of Pyrous.
+Pyratherndar is in perfect health.
+
+
+
+She is wearing:
+
+Ears            : a hardened leather earcuff
+Neck            : a bone necklace
+Back            : a purple leather-fringed canvas backpack
+Torso           : a hammered bronze chestplate
+Torso           : a dark grey wool tunic
+Left wrist      : a smooth poplar bracelet
+Right wrist     : a smooth poplar bracelet
+Waist           : a leather weapon harness
+Waist           : a patched leather pelt sack
+Legs            : some dark grey wool trousers
+Feet            : some dull black leather boots
+Wield           : a short tin skinning knife
+Held            : a short cobalt hatchet
+
+chu
+
+You chuckle.
+say eab who's your friend?
+
+You ask Eabo, "Who's your friend?"
+glan pyr
+
+You glance at Pyratherndar.
+
+Eabo says, "Oh! sorryz."
+
+Ciciliah hiccups.
+Ciciliah takes a drink from a tankard of orange blossom ale.
+
+Eabo says to you, "Diz Pyratherndar."
+say pyr HI!
+
+You exclaim to Pyratherndar, "HI!"
+' Merry Meet!
+
+You exclaim, "Merry Meet!"
+grin
+
+You grin.
+
+Eabo says to Pyratherndar, "Diz Xiija."
+
+Pyratherndar says, "Hi."
+say pyr i'm Xiija,  this is Cici
+
+You say to Pyratherndar, "I'm Xiija, this is Cici."
+gest cici
+
+You gesture at Ciciliah.
+
+Eabo grins.
+
+Pyratherndar says to you, "'Merry Met."
+beam
+
+You beam.
+
+Ciciliah exclaims to you, "She knows me!"
+l
+
+
+
+[City of Pearl, Center.]
+
+Granting an uninhibited view of the bustling shipping industry, a stone seawall bevels out behind a long crescent bench and creates a half-moon addition to the congested crossroads at the heart of the city.  The vast water of the bay expands beyond the southern stone wall.  Ships of all sizes pass by the seafront as they make their way in and out of the harbor to the south.  The streets head in many directions, as well as a tunnel to the northeast.  At the center of the intersection is an elegantly carved monument of a giant pearl atop a tall obelisk.  The base of the centerpiece rests at the bottom of a shallow fountain that has a burning spear pointing down into the water.  A small stone sundial has been carved on the rim of the fountain.  You notice a wooden directional signpost.
+
+Also here: Eabo the Goblin, Pyratherndar the Vukasin, and Ciciliah the Sylph (flying) 
+
+Obvious Exits: southwest, southeast, northwest, northeast, west, east, and north. 
+
+
+Eabo says to you, "Deyz knowz each uderz."
+
+Pyratherndar says, "Xi I know Cici."
+' oh
+
+You say, "Oh."
+flai
+
+You flail your arms.
+cac
+
+You cackle.
+
+Pyratherndar winces.
+
+Ciciliah giggles.
+
+Ciciliah hiccups.
+
+Pyratherndar grins.
+
+Eabo says to you, "Uz allz in Cadamy togetherz."
+Ciciliah glances.
+' aha
+
+You say, "Aha."
+nod  thoughtfully
+
+You nod thoughtfully.
+
+Ciciliah blushes a faint rosey hue.
+
+Pyratherndar says, "Oh she has been in the orange blossm."
+chu
+
+You chuckle.
+agree pyr , her tribal-scrimshawed bone septum piercing winking in the light..
+
+You nod your head up and down to Pyratherndar , her tribal-scrimshawed bone septum piercing winking in the light..
+
+Ciciliah glances at Pyratherndar.
+
+Pyratherndar blushes.
+l sat
+
+It looks like a grimy worn leather satchel.
+Inside you see:
+
+a ragged eagle feather and goat fur headdress
+ a loosely-tied leather fish sack
+ a burlap-patched leather harvest satchel
+ a patched leather pelt sack
+ a small raven black seven demon silk bag
+ a supple black leather apothecary bag
+ some vibrant purple hard candy
+ an oversized chicken egg
+ a fresh four leaf clover
+ some troll bone
+ a tanned leather leaf-embroidered vellum tome
+ 
+
+Ciciliah raises the tankard in her hand.
+' i got to unload this dang book .. heavy
+
+You say, "I got to unload this dang book .. heavy."
+lose cici
+
+You remove Ciciliah from your group.
+
+' be ryte backf
+
+You say, "Be ryte backf."
+Ciciliah nods to you.
+flai
+
+You flail your arms.
+nw
+
+
+
+[Bayesian Court, Bank Entrance.]
+
+Along the entrance of the bank are massive stone pillars that create a lavish backdrop to the busy courtyard.  Interlocking stone pavers, laid out in extravagant patterns, stretch out in every direction.  Iron lamp posts and transplanted dogwood trees lie evenly spread out along the plaza with flat slabs of marble serving as benches between them.  You notice an open engraved silver door.
+
+Obvious Exits: southeast, and north. 
+
+nw
+
+
+
+[New Archai Depository.]
+
+A well-dressed bank teller sits comfortably behind a counter at the center of the room.  Just beyond the teller, a paneled half-wall separates the customer area from a large circular steel vault door built into the rear of the building.  You notice an open engraved silver door, and a closed large circular steel vault.
+
+Also here: a nicely-dressed bank teller 
+
+Obvious Exits: none
+
+get tom sat
+
+You get a tanned leather leaf-embroidered vellum tome from a grimy worn leather satchel.
+dep tome
+
+You deposit a tanned leather leaf-embroidered vellum tome into your account.
+A nicely-dressed bank teller says to you,  "Thank you, a tanned leather leaf-embroidered vellum tome is safe with us."
+get headd sat
+
+You get a ragged eagle feather and goat fur headdress from a grimy worn leather satchel.
+dep headd
+
+You deposit a ragged eagle feather and goat fur headdress into your account.
+A nicely-dressed bank teller says to you,  "Thank you, a ragged eagle feather and goat fur headdress is safe with us."
+l sat
+
+It looks like a grimy worn leather satchel.
+Inside you see:
+
+a loosely-tied leather fish sack
+ a burlap-patched leather harvest satchel
+ a patched leather pelt sack
+ a small raven black seven demon silk bag
+ a supple black leather apothecary bag
+ some vibrant purple hard candy
+ an oversized chicken egg
+ a fresh four leaf clover
+ some troll bone
+ 
+get har sat
+
+You get a burlap-patched leather harvest satchel from a grimy worn leather satchel.
+dep harv
+
+You deposit a burlap-patched leather harvest satchel into your account.
+A nicely-dressed bank teller says to you,  "Thank you, a burlap-patched leather harvest satchel is safe with us."
+get egg sat
+
+You get an oversized chicken egg from a grimy worn leather satchel.
+dep egg
+
+You deposit an oversized chicken egg into your account.
+A nicely-dressed bank teller says to you,  "Thank you, an oversized chicken egg is safe with us."
+get trol sat
+
+You get some troll bone from a grimy worn leather satchel.
+dep tro
+
+You deposit some troll bone into your account.
+A nicely-dressed bank teller says to you,  "Thank you, some troll bone is safe with us."
+l sat
+
+It looks like a grimy worn leather satchel.
+Inside you see:
+
+a loosely-tied leather fish sack
+ a patched leather pelt sack
+ a small raven black seven demon silk bag
+ a supple black leather apothecary bag
+ some vibrant purple hard candy
+ a fresh four leaf clover
+ 
+inv
+Inventory:
+
+
+Currency: 228 doubloons
+
+Carrying: 104 items (56.0 | 81.0) lbs.
+
+se
+
+
+
+[Bayesian Court, Bank Entrance.]
+
+Along the entrance of the bank are massive stone pillars that create a lavish backdrop to the busy courtyard.  Interlocking stone pavers, laid out in extravagant patterns, stretch out in every direction.  Iron lamp posts and transplanted dogwood trees lie evenly spread out along the plaza with flat slabs of marble serving as benches between them.  You notice an open engraved silver door.
+
+Obvious Exits: southeast, and north. 
+
+se
+
+
+
+[City of Pearl, Center.]
+
+Granting an uninhibited view of the bustling shipping industry, a stone seawall bevels out behind a long crescent bench and creates a half-moon addition to the congested crossroads at the heart of the city.  The vast water of the bay expands beyond the southern stone wall.  Ships of all sizes pass by the seafront as they make their way in and out of the harbor to the south.  The streets head in many directions, as well as a tunnel to the northeast.  At the center of the intersection is an elegantly carved monument of a giant pearl atop a tall obelisk.  The base of the centerpiece rests at the bottom of a shallow fountain that has a burning spear pointing down into the water.  A small stone sundial has been carved on the rim of the fountain.  You notice a wooden directional signpost.
+
+Also here: Eabo the Goblin, Pyratherndar the Vukasin, and Ciciliah the Sylph (flying) 
+
+Obvious Exits: southwest, southeast, northwest, northeast, west, east, and north. 
+
+nod
+
+You nod.
+
+Ciciliah exclaims, "I guess others have heard the wyverns!"
+
+grin Eabo softly, winking..
+Eabo smiles at you as she flies in.
+
+You grin at Eabo softly, winking..
+
+Pyratherndar says, "Yes."
+nod cici
+
+You nod to Ciciliah.
+
+Pyratherndar says, "But we are the only ones I know of that is has talked to."
+shiv
+
+You shiver.
+
+Pyratherndar sits down so not to feel so tall.
+
+Pyratherndar sits down.
+rub tali 
+emo makes the gesture against evil spirits
+
+You rub a carved old teak tribal kami talisman.
+Xiija makes the gesture against evil spirits.
+
+Ciciliah giggles softly.
+
+Eabo says to Pyratherndar, "Whatz else did it sayz to yooz? I'z not surez I heardz allz."
+listen
+
+You listen.
+
+The ferry from the academy comes into view across the bay.
+
+Pyratherndar says, "It told me that they are out, they are awake and they are here."
+l pyr
+
+Pyratherndar looks like a stout 26 year old female Vukasin.
+She has light gray eyes and long, wavy, honey brown fur.
+She is 7 feet 3 inches tall and weighs 242 pounds.
+She has an aura of Pyrous.
+Pyratherndar is in perfect health.
+
+
+
+She is wearing:
+
+Ears            : a hardened leather earcuff
+Neck            : a bone necklace
+Back            : a purple leather-fringed canvas backpack
+Torso           : a hammered bronze chestplate
+Torso           : a dark grey wool tunic
+Left wrist      : a smooth poplar bracelet
+Right wrist     : a smooth poplar bracelet
+Waist           : a leather weapon harness
+Waist           : a patched leather pelt sack
+Legs            : some dark grey wool trousers
+Feet            : some dull black leather boots
+Wield           : a short tin skinning knife
+Held            : a short cobalt hatchet
+
+
+Ciciliah nods to Pyratherndar.
+
+Eabo ponders a few moments.
+
+Pyratherndar says, "They are going to take Pearl."
+
+An elegant mistress arrives from the east.
+say pyr are yo a mage too?
+
+You ask Pyratherndar, "Are yo a mage too?"
+
+An elegant mistress leaves northeast.
+glan northeast
+
+You glance northeast.
+
+Pyratherndar says, "Yes ma'am."
+
+The jarring clang from a bell tower marks the top of the hour.
+nod  thoughtfully
+
+You nod thoughtfully.
+
+The bell tower clangs for a second time.
+
+The bell tower clangs for a third time.
+
+The bell tower clangs for a fourth time.
+
+The bell tower clangs for a fifth time.
+
+The bell tower clangs for a sixth time.
+
+The bell tower clangs for a seventh time.
+
+Pyratherndar says, "I am a fire mage."
+
+The bell tower clangs for an eighth time.
+
+Ciciliah rubs her temples with two fingers.
+
+The bell tower clangs for a ninth time.
+
+The bell tower clangs for a tenth time.
+
+The bell tower clangs for an eleventh time.
+
+Eabo grumbles towards the bell tower.
+
+The bell tower clangs for a twelfth time.
+emo makes an arcane gesture with her left hand \n \n The bell tower ringer falls from the tower!
+
+Xiija makes an arcane gesture with her left hand 
+ 
+ The bell tower ringer falls from the tower!
+Pyratherndar says, "Those bells need cotton put in them."
+murm
+
+You murmur.
+
+Ciciliah glances.
+
+Eabo blinks.
+glan up
+
+You glance up.
+
+Pyratherndar says, "Oh heck ya."
+whist innocently
+
+You whistle innocently.
+
+Ciciliah stares.
+
+Eabo says, "I'z reallyz wish dat wyvern had landedz a bit harder on it lastz night."
+cac eab
+
+You cackle at Eabo.
+
+Ciciliah nods to Eabo.
+l
+
+
+
+[City of Pearl, Center.]
+
+Granting an uninhibited view of the bustling shipping industry, a stone seawall bevels out behind a long crescent bench and creates a half-moon addition to the congested crossroads at the heart of the city.  The vast water of the bay expands beyond the southern stone wall.  Ships of all sizes pass by the seafront as they make their way in and out of the harbor to the south.  The streets head in many directions, as well as a tunnel to the northeast.  At the center of the intersection is an elegantly carved monument of a giant pearl atop a tall obelisk.  The base of the centerpiece rests at the bottom of a shallow fountain that has a burning spear pointing down into the water.  A small stone sundial has been carved on the rim of the fountain.  You notice a wooden directional signpost.
+
+Also here: Eabo the Goblin, Pyratherndar the Vukasin (seated), and Ciciliah the Sylph (flying) 
+
+Obvious Exits: southwest, southeast, northwest, northeast, west, east, and north. 
+
+
+Pyratherndar says, "I have been asked to try and collect thoughts of the night it spoke."
+
+Eabo glances at Pyratherndar.
+
+Ciciliah ponders.
+glan cici
+
+You glance at Ciciliah.
+
+Pyratherndar says, "Not a easy task."
+
+Ciciliah says, "I gotta figure out how to talk with my head."
+
+Eabo says to Pyratherndar, "Wellz yooz knowz my thoughtz.. I'z dare."
+
+Eabo shrugs.
+grin
+
+You grin.
+nod cici
+
+You nod to Ciciliah.
+
+Ciciliah shrugs helplessly.
+
+Pyratherndar says, "Telekensis."
+
+Pyratherndar says, "I wish I could do that too."
+' you can buy a potion that lasts a minit
+
+You say, "You can buy a potion that lasts a minit."
+cac
+
+You cackle.
+
+Pyratherndar says, "There is supposte to be a potion you can drink."
+nod pyr
+
+You nod to Pyratherndar.
+
+Ciciliah blinks.
+
+Ciciliah exclaims, "Oh!"
+<HP: 157/157 ST: 124/124>
+Eabo says to you, "For somez."
+
+The ferry heading to the academy drops below the horizon.
+
+Pyratherndar says, "I'm sory."
+
+Eabo humphs.
+' ten hundreds in price
+
+You say, "Ten hundreds in price."
+
+Pyratherndar nods her head up and down.
+win
+
+You wince.
+
+Ciciliah groans quietly.
+
+Eabo says to Pyratherndar, "I'z not tinkz yooz do anyting."
+
+Pyratherndar nods ok.
+l
+
+
+
+[City of Pearl, Center.]
+
+Granting an uninhibited view of the bustling shipping industry, a stone seawall bevels out behind a long crescent bench and creates a half-moon addition to the congested crossroads at the heart of the city.  The vast water of the bay expands beyond the southern stone wall.  Ships of all sizes pass by the seafront as they make their way in and out of the harbor to the south.  The streets head in many directions, as well as a tunnel to the northeast.  At the center of the intersection is an elegantly carved monument of a giant pearl atop a tall obelisk.  The base of the centerpiece rests at the bottom of a shallow fountain that has a burning spear pointing down into the water.  A small stone sundial has been carved on the rim of the fountain.  You notice a wooden directional signpost.
+
+Also here: Eabo the Goblin, Pyratherndar the Vukasin (seated), and Ciciliah the Sylph (flying) 
+
+Obvious Exits: southwest, southeast, northwest, northeast, west, east, and north. 
+
+
+Pyratherndar opens a purple leather-fringed canvas backpack.
+
+Ciciliah opens an academy-issue canvas satchel.
+
+Ciciliah puts a slender-handled pine butterfly net in an academy-issue canvas satchel.
+
+Ciciliah removes a tankard of orange blossom ale.
+Ciciliah holds a round garnet-encrusted copper targe.
+
+Eabo says to you, "I'z triez dat potionz once. It not workz for me."
+win
+
+You wince.
+
+who
+[ARRIVALS] 'Kreve has logged out.'
+
+   Players Currently Online: 
+ =============================
+
+   Spits the Goblin                                            
+   Eabo the Goblin                                             
+   Ciciliah the Sylph                                          
+   Xiija the Sylph                                             
+   Pyratherndar the Vukasin                                    
+   Requiem the Vukasin                                         
+
+snap
+
+You snap your fingers.
+
+Ciciliah ponders.
+
+Pyratherndar says to you, "I thought he was going to die."
+chu  delicately , brushing back her long kinky dreadlocked silvery hair
+
+You chuckle delicately , brushing back her long kinky dreadlocked silvery hair.
+' yah, it hurts, or so they say
+
+You say, "Yah, it hurts, or so they say."
+
+Ciciliah puts a tanned leather leaf-embroidered vellum tome in an academy-issue canvas satchel.
+
+Pyratherndar says, "I talk in my head all the time just no one else can hear it."
+snic
+
+You snicker.
+
+Ciciliah giggles at Pyratherndar.
+
+Eabo snickers at Pyratherndar and smiles.
+
+Pyratherndar says, "It is the only way I get the answers I want."
+grin
+
+You grin.
+
+Pyratherndar grins.
+
+Eabo says to Pyratherndar, "Wellz... longz az yooz don' arguez too much."
+chu eab
+
+You chuckle at Eabo.
+
+Pyratherndar says, "Na just casionally."
+
+Pyratherndar says, "That gets messy quick cause then you dont know who won."
+time

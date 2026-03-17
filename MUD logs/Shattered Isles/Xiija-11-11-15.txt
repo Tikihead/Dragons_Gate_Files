@@ -1,0 +1,1460 @@
+l
+
+
+
+[Pearlean Pavilion.]
+
+A spacious pavilion lined with interlocking red and black stones surrounded by walls of white lattice and creeping vines.  Smells of lavender mixed with fragrant rose blooms and creeping jasmine permeate the area.  Separate patios extend to both the east and west, each one distinguished by the type of vine and shrubs woven between cross-patterned lattice walls.  Flat marble slabs cut into benches surround a small fountain with a statue of a female figure cloaked in robe at its center.  You notice an arrow-shaped wooden sign, a rose trellis, and a small marble fountain.
+
+Also here: Eabo the Goblin, Geel the Gavial (seated) on a marble slab bench, Seren the Avardi, Rone the Devalin, Trystan the Human, Master Chef Brooke the Bolinau, Merchant Ernest the Human, Ra'daji Garaven the Verdani, and Emissary Rochiriel the Verdani (seated) on a marble slab bench 
+
+Obvious Exits: west, and south. 
+
+who
+
+   Players Currently Online: 
+ =============================
+
+   Spits the Goblin                                            
+   Kaiah the Human                                             
+   Wren the Human                                              
+   Seren the Avardi                                            
+   Eabo the Goblin                                             
+   Geel the Gavial                                             
+   Mordecai the Human                                          
+   Brooke the Bolinau                                          
+   Rone the Devalin                                            
+   Xiija the Sylph                                             
+   Ernest the Human                                            
+   Garaven the Verdani                                         
+   Trystan the Human                                           
+   Rochiriel the Verdani                                       
+   Kadwick the Human                                           
+
+
+Brooke says, "Everything you see tonight will be available for purchase at the end."
+
+Spits arrives from the south.
+inv
+Inventory:
+
+a pewter chalice (1.0 lb)
+ 
+Currency: 351 doubloons
+
+Carrying: 107 items (56.0 | 81.0) lbs.
+
+wav spi
+
+You wave to Spits.
+l
+
+
+
+[Pearlean Pavilion.]
+
+A spacious pavilion lined with interlocking red and black stones surrounded by walls of white lattice and creeping vines.  Smells of lavender mixed with fragrant rose blooms and creeping jasmine permeate the area.  Separate patios extend to both the east and west, each one distinguished by the type of vine and shrubs woven between cross-patterned lattice walls.  Flat marble slabs cut into benches surround a small fountain with a statue of a female figure cloaked in robe at its center.  You notice an arrow-shaped wooden sign, a rose trellis, and a small marble fountain.
+
+Also here: Eabo the Goblin, Geel the Gavial (seated) on a marble slab bench, Seren the Avardi, Rone the Devalin, Trystan the Human, Master Chef Brooke the Bolinau, Merchant Ernest the Human, Ra'daji Garaven the Verdani, Emissary Rochiriel the Verdani (seated) on a marble slab bench, and Spits the Goblin 
+
+Obvious Exits: west, and south. 
+
+
+Brooke says, "Quantities are only limited by the number of folks that want to buy each dish."
+
+Spits grins.
+
+Spits waves to you.
+
+Spits spits.
+
+Spits sits down.
+adj band
+
+You adjust a purple cotton bandana.
+
+Brooke says, "Now then. I have two rules tonight."
+
+Brooke exclaims, "No drooling....that's just gross!"
+grunt
+
+You grunt.
+
+Geel glances at Ernest.
+actions
+
+ADJUST          AGREE           APPLAUD         BABBLE          BARE            BARK            BAT             
+BEAM            BECKON          BEG             BELCH           BLANCH          BLINK           BLOW            
+BLUSH           BOUNCE          BOW             BRISTLE         BURP            CACKLE          CARESS          
+CHEER           CHOKE           CHORTLE         CHUCKLE         CLAP            COMFORT         CONSOLE         
+COUGH           COWER           CRACK           CRINGE          CROSS           CRY             CURSE           
+DANCE           DISAGREE        DROOL           DUCK            EXHALE          EYE             FAN             
+FIDGET          FIST            FLAIL           FLEX            FLICK           FLINCH          FLIRT           
+FROWN           FURL            FURROW          GAG             GAPE            GASP            GAZE            
+GESTURE         GIGGLE          GLANCE          GLARE           GLOAT           GLOWER          GNASH           
+GREET           GRIMACE         GRIN            GRIT            GROAN           GROVEL          GROWL           
+GRUMBLE         GRUNT           GUFFAW          GULP            GUSH            HAND            HICCUP          
+HISS            HOP             HOVER           HOWL            HUG             HUM             IGNORE          
+INHALE          LAUGH           LEAN            LEER            LICK            LISTEN          MOAN            
+MUMBLE          MURMUR          MUTTER          NARROW          NOD             NOD NO          NOD YES         
+NUDGE           PACE            PANT            PAT             PEER            PESTER          PET             
+PINCH           POINT           POKE            PONDER          POUT            PROD            PURR            
+RAISE           RAMBLE          ROLL            RUB             RUMBLE          SALUTE          SCOFF           
+SCOWL           SCRATCH         SHAKE           SHIVER          SHRIEK          SHRUG           SHUDDER         
+SHUFFLE         SIGH            SLAP            SMILE           SNAP            SNARL           SNICKER         
+SNIFFLE         SNORT           SNUGGLE         SOB             SPIT            SQUEAL          SQUINT          
+SQUIRM          STARE           STOMP           STRETCH         SWISH           SWOON           TAP             
+TAP FOOT        TAUNT           TICKLE          TILT            TOUCH           TWITCH          UNFURL          
+WAVE            WHIMPER         WHINE           WHISTLE         WINCE           WINK            WRINKLE         
+YAWN
+
+
+Some unique examples:
+
+BARE            - You bare your teeth...
+BAT             - You bat your eyes...
+CRACK           - You crack your knuckles...
+CROSS           - You cross your fingers...
+FIST            - You shake your fist...
+FLAIL           - You flail your arms...
+FLICK           - You flick your tongue...
+GNASH           - You gnash your teeth...
+GRIT            - You grit your teeth...
+HAND            - You raise your hand...
+NARROW          - You narrow your eyes...
+NOD NO/DISAGREE - You shake your head from side to side...
+NOD YES/AGREE   - You nod your head up and down...
+RAISE           - You raise an eyebrow...
+ROLL            - You roll your eyes...
+SHAKE           - You shake...
+TAP FOOT        - You tap your foot on the ground...
+TILT            - You tilt your head to the side...
+TWITCH          - You twitch your tail...
+WRINKLE         - You wrinkle your nose...
+
+To target with an action, type: [ACTION NAME] [TARGET NAME] [ADDITIONAL DESCRIPTIVE TEXT].
+Note that prepositions (AT, TO, and ON) are NOT required to target something or someone.
+
+Most ACTIONS are open ended, players are encouraged to enter additional text following a target or action.
+
+IMPORTANT:  Players must stay In Character with actions.  It is available to help enhance RP and must be 
+used responsibly.  Do not act out something your character is not capable of doing, such as giving an item
+to another player, attacking them, or otherwise mimicking game commands.  Abuse will result in severe
+player discipline, including, but not limited to, potential loss of account, banning, or even the loss of
+the command for the entire community.
+
+Geel flicks his tongue.
+Garaven says to Brooke, "Verdani don't drool."
+
+Brooke says, "And no asking how I managed to aquire the things you see here tonight."
+
+Trystan chuckles.
+
+Brooke glances around nervously.
+l
+
+
+
+[Pearlean Pavilion.]
+
+A spacious pavilion lined with interlocking red and black stones surrounded by walls of white lattice and creeping vines.  Smells of lavender mixed with fragrant rose blooms and creeping jasmine permeate the area.  Separate patios extend to both the east and west, each one distinguished by the type of vine and shrubs woven between cross-patterned lattice walls.  Flat marble slabs cut into benches surround a small fountain with a statue of a female figure cloaked in robe at its center.  You notice an arrow-shaped wooden sign, a rose trellis, and a small marble fountain.
+
+Also here: Eabo the Goblin, Geel the Gavial (seated) on a marble slab bench, Seren the Avardi, Rone the Devalin, Trystan the Human, Master Chef Brooke the Bolinau, Merchant Ernest the Human, Ra'daji Garaven the Verdani, Emissary Rochiriel the Verdani (seated) on a marble slab bench, and Spits the Goblin (seated) 
+
+Obvious Exits: west, and south. 
+
+
+Brooke asks, "Shall we get this thing started?"
+agree broo , smiling...
+
+You nod your head up and down to Brooke , smiling...
+
+Brooke says, "First up we have dishes of Pyrous."
+
+Spits grins.
+
+Brooke asks, "Why is Pyrous first you ask?"
+
+Eabo shakes his head from side to side.
+
+Brooke says, "Because I said so that's why."
+snic
+
+You snicker.
+
+Brooke nods firmly.
+
+Garaven smirks.
+l broo
+
+Brooke looks like a muscular 50 year old female Bolinau.
+She has dark brown eyes and medium length, neat, light brown hair.
+She is 3 feet 9 inches tall and weighs 95 pounds.
+She has an aura of Itzal.
+Brooke is in perfect health.
+
+Neat and clean, not a single hair out of place, she constantly scans her surroundings with her warm, chocolate brown eyes. Taking in every detail, she quietly hums to herself, her nose twitching rapidly. Her wide smile draws attention to her perfectly aligned front teeth as they protrude greatly over her bottom lip. Her warm round face shows deep lines around her mouth created by years of happiness and contentment.
+
+She is wearing:
+
+Head            : a black pinstripe twill chef toque
+Body            : a massive traveling culinarist black leather chef bag
+Torso           : a pristine crossover collar tyrian purple cotton chef jacket
+Legs            : some neatly-pressed black pinstripe twill chef pants
+Feet            : some polished black leather boots
+
+l
+
+
+
+[Pearlean Pavilion.]
+
+A spacious pavilion lined with interlocking red and black stones surrounded by walls of white lattice and creeping vines.  Smells of lavender mixed with fragrant rose blooms and creeping jasmine permeate the area.  Separate patios extend to both the east and west, each one distinguished by the type of vine and shrubs woven between cross-patterned lattice walls.  Flat marble slabs cut into benches surround a small fountain with a statue of a female figure cloaked in robe at its center.  You notice an arrow-shaped wooden sign, a rose trellis, and a small marble fountain.
+
+Also here: Eabo the Goblin, Geel the Gavial (seated) on a marble slab bench, Seren the Avardi, Rone the Devalin, Trystan the Human, Master Chef Brooke the Bolinau, Merchant Ernest the Human, Ra'daji Garaven the Verdani, Emissary Rochiriel the Verdani (seated) on a marble slab bench, and Spits the Goblin (seated) 
+
+Obvious Exits: west, and south. 
+
+
+Garaven leans on an intricately-carved ebony-handled mahogany walking stick.
+
+Geel flicks his tongue.
+l ron
+
+Rone looks like a wiry 25 year old male Devalin.
+He has pitch black eyes and is bald.
+He is 6 foot tall and weighs 160 pounds.
+He has an aura of Pyrous.
+Rone is in perfect health.
+
+Sun bleached leather skin scar his body from head to toe. You can't help but notice a lack of front teeth and his left eye.
+
+He is wearing:
+
+Eyes            : a dull wyvern embossed black leather eye patch
+Back            : a backpack
+Torso           : some light copper armor
+Torso           : a dark grey wool tunic
+Legs            : some sleek side-braided tanned buckskin breeches
+Feet            : some dull black leather boots
+Wield           : a short ebony-handled steel dirk
+
+
+Brooke says, "Black cherry trees are considered precious family heirlooms in higher elevations of the Girammar Mountains of Pyrous. With a lifespan of over three hundred years, they are often handed down from generation to generation. For many families the black cherry crop is their only source of income in such a harsh environment. They use the trees fruit for cooking, home brews of liquor, and even in rare cases poisons. It was a difficult decision for me to make. Having to choose only a few things to share with you tonight."
+rai
+
+You raise an eyebrow.
+
+Brooke says, "Trust me I had to sample each home brew of liquor and wine multiple times……er um I mean food."
+grin
+
+You grin.
+
+Ernest squints at Brooke suspiciously.
+
+Brooke says, "Yeah anyway....let's move on."
+
+who
+[ARRIVALS] 'Menfanous has logged on.'
+
+   Players Currently Online: 
+ =============================
+
+   Spits the Goblin                                            
+   Kaiah the Human                                             
+   Wren the Human                                              
+   Seren the Avardi                                            
+   Eabo the Goblin                                             
+   Geel the Gavial                                             
+   Mordecai the Human                                          
+   Brooke the Bolinau                                          
+   Rone the Devalin                                            
+   Xiija the Sylph                                             
+   Ernest the Human                                            
+   Garaven the Verdani                                         
+   Trystan the Human                                           
+   Rochiriel the Verdani                                       
+   Kadwick the Human                                           
+   Menfanous the Dwarf                                         
+
+
+Brooke flails her arms.
+say broo will there be samples tonyte?
+
+You ask Brooke, "Will there be samples tonyte?"
+grip spoon
+
+You grip a bone spoon.
+
+Ernest listens.
+
+Menfanous arrives from the south.
+wav men
+
+You wave to Menfanous.
+
+Menfanous waves.
+
+Brooke says to Ernest, "Don't you be pretending you don't sample every food you can get yer grubby little hands on."
+
+Brooke laughs.
+
+Spits stands up.
+
+Spits leaves south.
+smir
+
+You smirk.
+
+who
+[ARRIVALS] 'Spits has logged out.'
+   Players Currently Online: 
+ =============================
+
+   Kaiah the Human                                             
+   Wren the Human                                              
+   Seren the Avardi                                            
+   Eabo the Goblin                                             
+   Geel the Gavial                                             
+   Mordecai the Human                                          
+   Brooke the Bolinau                                          
+   Rone the Devalin                                            
+   Xiija the Sylph                                             
+   Ernest the Human                                            
+   Garaven the Verdani                                         
+   Trystan the Human                                           
+   Rochiriel the Verdani                                       
+   Kadwick the Human                                           
+   Menfanous the Dwarf                                         
+
+
+Menfanous bows to Brooke.
+
+Ernest mutters at Brooke.
+
+Brooke says to Menfanous, "Welcome....come on it and have a seat."
+
+Menfanous waves to Rochiriel.
+
+Rochiriel smiles at Menfanous.
+l men
+
+Menfanous looks like an able-bodied 35 year old male Dwarf.
+He has emerald green eyes, collar length, neatly kept, sandy blonde hair, and a triple tied, sandy blonde beard.
+He is 4 feet 1 inch tall and weighs 152 pounds.
+He has an aura of Astraeva.
+Menfanous is in perfect health.
+
+this dwarf is very tall for his race. He has hypnotic green eyes that appear to be kind and welcoming. He appears to be self confident but not arrogant. He has a small scar above his right eye.
+
+He is wearing:
+
+Head            : a niello trimmed hammered blacksteel helm
+Neck            : a dangling gold-chained orange coral sun pendant
+Neck            : a two-crossed hammers-charmed gold herringbone chain
+Body            : a brass-buckled leather emissary satchel
+Torso           : some dwarven crafted blacksteel battle plate
+Torso           : a heavy black leather blacksmith's apron
+Torso           : a pitch black cotton doublet
+Hands           : a niello trimmed hammered blacksteel gauntlets
+Hands           : some black heavy leather gloves
+Legs            : a brown leather-waisted green wool kilt
+Feet            : some ridged alligator skin boots
+Held            : a cylindrical umbo-centered blacksteel knight's scutum
+
+
+who
+[ARRIVALS] 'Spits has logged on.'
+   Players Currently Online: 
+ =============================
+
+   Kaiah the Human                                             
+   Wren the Human                                              
+   Seren the Avardi                                            
+   Eabo the Goblin                                             
+   Geel the Gavial                                             
+   Mordecai the Human                                          
+   Brooke the Bolinau                                          
+   Rone the Devalin                                            
+   Xiija the Sylph                                             
+   Ernest the Human                                            
+   Garaven the Verdani                                         
+   Trystan the Human                                           
+   Rochiriel the Verdani                                       
+   Kadwick the Human                                           
+   Menfanous the Dwarf                                         
+   Spits the Goblin                                            
+
+
+Spits arrives from the south.
+
+Rochiriel says to Menfanous, "Good Evening."
+
+Spits sits down.
+
+Menfanous says to Brooke, "Thank you."
+
+Menfanous sits down.
+
+Brooke rummages around through her crates.
+glan away as Menfanous' kilt almost flashes her a view of something...
+
+You glance away as Menfanous' kilt almost flashes her a view of something...
+blu
+
+You blush.
+l
+
+
+
+[Pearlean Pavilion.]
+
+A spacious pavilion lined with interlocking red and black stones surrounded by walls of white lattice and creeping vines.  Smells of lavender mixed with fragrant rose blooms and creeping jasmine permeate the area.  Separate patios extend to both the east and west, each one distinguished by the type of vine and shrubs woven between cross-patterned lattice walls.  Flat marble slabs cut into benches surround a small fountain with a statue of a female figure cloaked in robe at its center.  You notice an arrow-shaped wooden sign, a rose trellis, and a small marble fountain.
+
+Also here: Eabo the Goblin, Geel the Gavial (seated) on a marble slab bench, Seren the Avardi, Rone the Devalin, Trystan the Human, Master Chef Brooke the Bolinau, Merchant Ernest the Human, Ra'daji Garaven the Verdani, Emissary Rochiriel the Verdani (seated) on a marble slab bench, Merchant Menfanous the Dwarf (seated), and Spits the Goblin (seated) 
+
+Obvious Exits: west, and south. 
+
+
+Eabo cranes his neck to see in the crates.
+mum eab .. i guess that is a no on samples
+
+You mumble to Eabo .. I guess that is a no on samples.
+
+Brooke says, "Who ever had the genus idea to put everything in matching crates."
+
+Brooke mutters.
+rem spoo
+
+You remove a bone spoon.
+[Delay: 3.0 sec.]
+
+put spoo sat
+
+You put a bone spoon in a grimy worn leather satchel.
+
+Trystan smirks.
+
+Eabo bites his bone spoon.
+
+Ernest says to you, "I think she said we'd all get some if we behaved."
+beam ern
+
+You beam at Ernest.
+
+Brooke says, "First up we have a sweet treat."
+emo perks up
+
+Xiija perks up.
+
+Ernest eats the last of a slice of lemon pound cake.
+
+Ernest frowns.
+
+Ernest asks Brooke, "Any cake?"
+
+Brooke gets some milk chocolate covered cherry cordials from a large pine food crate.
+rai
+
+You raise an eyebrow.
+
+Brooke says, "That's right folks straight from the mountains of pyrous."
+
+Brooke shows some milk chocolate covered cherry cordials to Eabo.
+
+Brooke shows some milk chocolate covered cherry cordials to Geel.
+
+Geel wrinkles his nose.
+
+Brooke shows some milk chocolate covered cherry cordials to Seren.
+
+Brooke shows some milk chocolate covered cherry cordials to you.
+Twelve perfect treats nestled closely together in a vellum lined pine box. Firm ripe cherries de pitted and filled with a rich sweet cordial center, all dipped in creamy milk chocolate.  Only the short firm stems poke out of the thick chocolate coating that has been dusted with a fine cocoa powder.
+
+Brooke shows some milk chocolate covered cherry cordials to Rone.
+
+Brooke shows some milk chocolate covered cherry cordials to Trystan.
+
+Ernest says, "I am willing to test these for poison if it helps."
+say try a good bribe for you know who...
+
+You say to Trystan, "A good bribe for you know who..."
+rai try
+
+You raise an eyebrow at Trystan.
+
+Brooke shows some milk chocolate covered cherry cordials to Ernest.
+chu ern
+
+You chuckle at Ernest.
+
+Eabo licks his lips.
+
+Brooke shows some milk chocolate covered cherry cordials to Garaven.
+
+Brooke shows some milk chocolate covered cherry cordials to Rochiriel.
+
+Brooke shows some milk chocolate covered cherry cordials to Menfanous.
+
+Trystan chuckles.
+
+Brooke shows some milk chocolate covered cherry cordials to Spits.
+
+Spits sniffs around.
+
+Spits says, "Smelz like dat chocolates."
+grin
+
+You grin.
+l spit
+
+Spits looks like a burly 19 year old male Goblin.
+He has steel gray eyes and short, wild, dark gray hair.
+He is 2 feet 10 inches tall and weighs 121 pounds.
+He has an aura of Pyrous.
+Spits is in perfect health.
+
+
+
+He is wearing:
+
+Back            : a grimy snot-covered academy-issued canvas backpack
+Torso           : a filthy blood-splattered steel breastplate
+Torso           : a dark grey wool tunic
+Hands           : some sleek fingerless black leather gloves
+Waist           : a leather weapon harness
+Legs            : some dark grey wool trousers
+Feet            : some red and tan striped calf-high snakeskin boots
+Wield           : a short snakeskin-wrapped orichalcum misericorde
+Held            : a slender tin sailor's knife
+
+
+Brooke says, "To speed things up I will allow one of every dish to be passed around the room so that you all may have a good look."
+
+Brooke exclaims to Ernest, "No drooling!"
+
+Eabo asks, "Tastinz okeyz?"
+grin eab
+
+You grin at Eabo.
+
+Trystan says to Eabo, "Only if you hadn't asked."
+
+Eabo sighs.
+
+Brooke says, "Our next item from the isle of Pyrous is a bottle of deep burgundy cherry bourbon liquor."
+whist
+
+You whistle.
+
+Ernest says, "I bet that's a smooth drink."
+
+Brooke says, "Made from the finest cherries and aged to perfection."
+l
+
+
+
+[Pearlean Pavilion.]
+
+A spacious pavilion lined with interlocking red and black stones surrounded by walls of white lattice and creeping vines.  Smells of lavender mixed with fragrant rose blooms and creeping jasmine permeate the area.  Separate patios extend to both the east and west, each one distinguished by the type of vine and shrubs woven between cross-patterned lattice walls.  Flat marble slabs cut into benches surround a small fountain with a statue of a female figure cloaked in robe at its center.  You notice an arrow-shaped wooden sign, a rose trellis, and a small marble fountain.
+
+Also here: Eabo the Goblin, Geel the Gavial (seated) on a marble slab bench, Seren the Avardi, Rone the Devalin, Trystan the Human, Master Chef Brooke the Bolinau, Merchant Ernest the Human, Ra'daji Garaven the Verdani, Emissary Rochiriel the Verdani (seated) on a marble slab bench, Merchant Menfanous the Dwarf (seated), and Spits the Goblin (seated) 
+
+Obvious Exits: west, and south. 
+
+
+Brooke says, "These here bottles are the best of what I tasted. Althought after the first few samples I had a hard time remembering so...."
+
+Brooke chuckles.
+
+Brooke says, "This I won't be passin round on account it is a limited stock."
+
+Brooke says, "Now then the final dish selected from Pyrous is a plate of blazing blackened chicken potzi."
+
+Eabo asks, "Yooz burntz it?"
+
+Eabo raises an eyebrow.
+
+Brooke laughs.
+
+Menfanous laughs.
+
+Menfanous shakes his head from side to side.
+
+Brooke says, "Now This dish requires both an amazing amount of patience and a superb knowledge of cooking over searing hot coals. This is no ordinary campfire chicken. One must create this delectable masterpiece by carefully nurturing wood coals to a uniform white hot color absent of flame. It is only when this feat is accomplished that the well-seasoned chicken is ready to be placed directly on the coals. It is only by direct and instant heat transfer from the coals into the meat that the crispy charred exterior can be formed."
+
+Brooke gets a plate of blazing blackened chicken potzi from a large pine food crate.
+
+Brooke says, "Oh boy let me tell you how great this here chicken tastes."
+
+Brooke rubs her belly.
+
+Brooke shows a plate of blazing blackened chicken potzi to Eabo.
+
+Menfanous smiles at Brooke.
+
+Brooke gives a plate of blazing blackened chicken potzi to Eabo.
+
+Brooke says to Eabo, "Please pass that round."
+
+Eabo nods.
+
+
+Eabo gives a plate of blazing blackened chicken potzi to you.
+l
+
+
+
+[Pearlean Pavilion.]
+
+A spacious pavilion lined with interlocking red and black stones surrounded by walls of white lattice and creeping vines.  Smells of lavender mixed with fragrant rose blooms and creeping jasmine permeate the area.  Separate patios extend to both the east and west, each one distinguished by the type of vine and shrubs woven between cross-patterned lattice walls.  Flat marble slabs cut into benches surround a small fountain with a statue of a female figure cloaked in robe at its center.  You notice an arrow-shaped wooden sign, a rose trellis, and a small marble fountain.
+
+Also here: Eabo the Goblin, Geel the Gavial (seated) on a marble slab bench, Seren the Avardi, Rone the Devalin, Trystan the Human, Master Chef Brooke the Bolinau, Merchant Ernest the Human, Ra'daji Garaven the Verdani, Emissary Rochiriel the Verdani (seated) on a marble slab bench, Merchant Menfanous the Dwarf (seated), and Spits the Goblin (seated) 
+
+Obvious Exits: west, and south. 
+
+sniff chick
+
+You sniff a plate of blazing blackened chicken potzi.
+A plate of blazing blackened chicken potzi has a chicken smell.
+give geel chic
+
+You don't see 'chic' here.
+
+Brooke says, "No tastin on account of its gross to share a plate with the whole city."
+inv
+Inventory:
+
+a pewter chalice (1.0 lb)
+ a plate of blazing blackened chicken potzi (1.0 lb)
+ 
+Currency: 351 doubloons
+
+Carrying: 108 items (57.0 | 81.0) lbs.
+
+give plate geel
+
+You give a plate of blazing blackened chicken potzi to Geel.
+
+Menfanous nods yes brooke.
+
+Geel says to you, "Thank you."
+
+Geel sniffs a plate of blazing blackened chicken potzi.
+
+Geel flicks his tongue the tip quivering rapidly up and down before being drawn back into his mouth.
+smi
+You smile.
+
+Menfanous says to Geel, "That be some gud stuff."
+
+Geel says, "Well now."
+
+Geel gives a plate of blazing blackened chicken potzi to Seren.
+
+Geel says, "These pyresian eat real foods after all."
+
+Seren says, "Very nice."
+
+Menfanous nods to Geel.
+
+Brooke chuckles.
+
+Seren gives a plate of blazing blackened chicken potzi to Rochiriel.
+say brook i expected more hot pepper stuff from pyrous
+
+You say to Brooke, "I expected more hot pepper stuff from pyrous."
+furr
+
+You furrow your brow.
+
+Rochiriel sniffs a plate of blazing blackened chicken potzi.
+
+Rochiriel gives a plate of blazing blackened chicken potzi to Garaven.
+
+Rochiriel says, "Very nice."
+
+Rochiriel smiles at Garaven.
+
+Garaven sniffs a plate of blazing blackened chicken potzi.
+
+Garaven nods.
+l
+
+
+
+[Pearlean Pavilion.]
+
+A spacious pavilion lined with interlocking red and black stones surrounded by walls of white lattice and creeping vines.  Smells of lavender mixed with fragrant rose blooms and creeping jasmine permeate the area.  Separate patios extend to both the east and west, each one distinguished by the type of vine and shrubs woven between cross-patterned lattice walls.  Flat marble slabs cut into benches surround a small fountain with a statue of a female figure cloaked in robe at its center.  You notice an arrow-shaped wooden sign, a rose trellis, and a small marble fountain.
+
+Also here: Eabo the Goblin, Geel the Gavial (seated) on a marble slab bench, Seren the Avardi, Rone the Devalin, Trystan the Human, Master Chef Brooke the Bolinau, Merchant Ernest the Human, Ra'daji Garaven the Verdani, Emissary Rochiriel the Verdani (seated) on a marble slab bench, Merchant Menfanous the Dwarf (seated), and Spits the Goblin (seated) 
+
+Obvious Exits: west, and south. 
+
+
+Garaven gives a plate of blazing blackened chicken potzi to Menfanous.
+
+Geel asks Seren, "You will learn how to make this type of fire, yes?"
+
+Menfanous says to Brooke, "Gud ta be seein stuff from me homeland."
+
+Trystan grins.
+
+Seren says to Geel, "Yes of course."
+
+Brooke says to you, "In actuality I found spicier stuff on the isle of Tetherias."
+
+Geel nods his head up and down.
+rai broo
+
+You raise an eyebrow at Brooke.
+pon that
+
+You ponder that.
+
+Menfanous gives a plate of blazing blackened chicken potzi to Ernest.
+
+Geel chuckles.
+
+Geel says to Garaven, "So naive."
+
+Garaven smirks.
+
+Brooke says, "Next up we have dishes native to the isle of Aerthane."
+beam
+
+You beam.
+l
+
+
+
+[Pearlean Pavilion.]
+
+A spacious pavilion lined with interlocking red and black stones surrounded by walls of white lattice and creeping vines.  Smells of lavender mixed with fragrant rose blooms and creeping jasmine permeate the area.  Separate patios extend to both the east and west, each one distinguished by the type of vine and shrubs woven between cross-patterned lattice walls.  Flat marble slabs cut into benches surround a small fountain with a statue of a female figure cloaked in robe at its center.  You notice an arrow-shaped wooden sign, a rose trellis, and a small marble fountain.
+
+Also here: Eabo the Goblin, Geel the Gavial (seated) on a marble slab bench, Seren the Avardi, Rone the Devalin, Trystan the Human, Master Chef Brooke the Bolinau, Merchant Ernest the Human, Ra'daji Garaven the Verdani, Emissary Rochiriel the Verdani (seated) on a marble slab bench, Merchant Menfanous the Dwarf (seated), and Spits the Goblin (seated) 
+
+Obvious Exits: west, and south. 
+
+
+Brooke says, "As you can imagine some of the more popular dishes on the isle of Aerthane are centered on various nuts and seeds. The mineral rich soil all along the Tanasi river provides fertile soil required for farming. Some of the more popular crops include a large variety of squash such as pumpkin and butternut squash."
+
+Menfanous wrinkles his nose.
+
+Brooke says, "What I didn't know was the incredible amount of nuts on the isle of Aerthane."
+
+Garaven chuckles.
+glan broo
+
+You glance at Brooke.
+
+Eabo snickers quietly.
+
+Ernest furrows his brow.
+
+Geel says to Menfanous, "Stiff upper lip old friend, I am sure they have game animals on Aerthane as well."
+
+Brooke says, "No...No... we are not talking about the local nuts like round here."
+smir
+
+You smirk.
+
+Trystan glances at you.
+
+Ernest says, "Oh I get it."
+
+Ernest chortles.
+
+Trystan chuckles.
+
+Brooke says, "We are talking peanuts, walnuts, pine nuts and in some cases almonds. Did you know that a peanut in not actually a nut? It is in fact a seed. Which could explain why the more avian oriented residents flock to it so readily."
+
+Brooke nods firmly.
+
+Geel says, "Blink does not know what he is missing."
+chu
+
+You chuckle.
+
+Brooke says, "The first dish I have is a plate of garlic infused sesame peanut noodles."
+
+Brooke gets a plate of garlic infused sesame peanut noodles from a large pine food crate.
+
+Brooke gives a plate of garlic infused sesame peanut noodles to Eabo.
+
+Brooke says to Eabo, "Thank you dear."
+
+Menfanous says to Geel, "He will be upset ta be knowin he missed it."
+
+Eabo nods to Brooke.
+
+Eabo sniffs a plate of garlic infused sesame peanut noodles.
+
+
+Eabo gives a plate of garlic infused sesame peanut noodles to you.
+
+Geel says to Menfanous, "Perhaps we can save him some."
+sniff nood
+
+You sniff a plate of garlic infused sesame peanut noodles.
+A plate of garlic infused sesame peanut noodles has a peanuts smell.
+beam
+
+You beam.
+
+Menfanous nods to Geel.
+give noo try
+
+You give a plate of garlic infused sesame peanut noodles to Trystan.
+' now Taht smells good
+
+You say, "Now Taht smells good."
+hic
+
+You hiccup.
+
+Trystan gives a plate of garlic infused sesame peanut noodles to Garaven.
+
+Brooke glances at you.
+
+Garaven sniffs a plate of garlic infused sesame peanut noodles.
+
+Garaven shrugs.
+
+Brooke says to you, "Good thing your sittin."
+grin
+
+You grin.
+
+Geel asks Brooke, "Sampling the cordial perhaps?"
+
+Garaven gives a plate of garlic infused sesame peanut noodles to Rochiriel.
+
+Geel tilts his head to the side.
+
+Rochiriel sniffs a plate of garlic infused sesame peanut noodles.
+
+Rochiriel says to Garaven, "Hmmm what an odd dish."
+
+Rochiriel shrugs.
+
+Garaven says, "Indeed."
+
+Rochiriel gives a plate of garlic infused sesame peanut noodles to Seren.
+
+Seren gives a plate of garlic infused sesame peanut noodles to Geel.
+
+Geel says to Seren, "Thank you."
+
+Geel sniffs a plate of garlic infused sesame peanut noodles.
+
+Geel flicks his tongue.
+
+Geel says, "Hmmmm."
+
+Brooke says, "Now then the next item we have is a delicious bowl of roasted butternut squash and black bean salad."
+
+Geel gives a plate of garlic infused sesame peanut noodles to Menfanous.
+
+Menfanous sniffs a plate of garlic infused sesame peanut noodles.
+
+Menfanous says, "Strange."
+
+Spits raises an eyebrow.
+
+Menfanous asks, "Who has not yet been seeim this?"
+
+Spits says, "Mez."
+
+Brooke says, "Let me tell you what..... I have never tasted such a thing as that there butternut squash."
+
+Menfanous gives a plate of garlic infused sesame peanut noodles to Spits.
+
+Spits nods to Menfanous.
+
+Brooke gets a bowl of roasted butternut squash and black bean salad from a large pine food crate.
+
+Spits sniffs a plate of garlic infused sesame peanut noodles.
+
+Spits gives a plate of garlic infused sesame peanut noodles to Ernest.
+
+Brooke examines the bowl carefully.
+
+Brooke says, "I still ain't sure what makes that there cheese blue but they seem to like it just fine."
+
+Brooke gives a bowl of roasted butternut squash and black bean salad to Eabo.
+
+Geel asks Seren, "Do you know?"
+
+Eabo sniffs a bowl of roasted butternut squash and black bean salad.
+inv
+Inventory:
+
+a pewter chalice (1.0 lb)
+ 
+Currency: 351 doubloons
+
+Carrying: 107 items (56.0 | 81.0) lbs.
+
+
+Seren says to Geel, "Yes but I'll tell you later."
+
+Eabo says, "Wowzz... strongz."
+
+Brooke says, "This next one pains me to pieces to sell to all of yall."
+
+
+Eabo gives a bowl of roasted butternut squash and black bean salad to you.
+l bowl
+
+It looks like a bowl of roasted butternut squash and black bean salad. Sweet roasted butternut squash, black beans and freshly chopped baby arugula is topped with a light dressing of vinegar, mustard and a smidgeon of honey. Crushed walnuts and crumbled blue cheese have been lightly sprinkled on top.
+Seren says to Geel, "Its very good."
+
+Geel says to Seren, "Well I have no doubt, I do like cheeses."
+show bowl try
+You show a bowl of roasted butternut squash and black bean salad to Trystan.
+give bowl spit
+
+You give a bowl of roasted butternut squash and black bean salad to Spits.
+
+Brooke says, "It just might be the end all be all of pies."
+
+Brooke gets a slice of whipped cream topped pumpkin pie from a large pine food crate.
+' Pie!
+
+You exclaim, "Pie!"
+stare
+
+You stare.
+
+Brooke exclaims, "Look at this!"
+
+Trystan says to you, "We'll need extras."
+
+Brooke asks, "Have you ever seen such light and fluffy whipped cream?"
+grin try
+
+You grin at Trystan.
+
+Brooke laughs.
+
+Ernest fidgets.
+
+Brooke asks, "Do you know that someone tried to get my chefs to make some pies for a local temple?"
+
+Brooke exclaims, "Well I put the kaibosh on that one right away!"
+
+Brooke nods firmly.
+
+Eabo sighs.
+
+Geel asks Brooke, "What is a kaibosh?"
+
+Geel flicks his tongue.
+
+Trystan asks, "Something you put in a pipe?"
+
+Geel furrows his brow.
+
+Menfanous asks Geel, "Sausage?"
+
+Menfanous ponders.
+
+Spits ponders.
+
+Geel says to Menfanous, "Delicious. all right then."
+
+Brooke says to Geel, "A kaibosh is the sound your fist makes when it connects with it's target."
+
+Geel says to Brooke, "Ah. Yes I know that sound well."
+murm broo
+
+You murmur to Brooke.
+
+Brooke demonstraights a right hook.
+
+Eabo ducks.
+
+Brooke laughs.
+
+Spits gives a bowl of roasted butternut squash and black bean salad to Seren.
+
+Trystan says to you, "Like when you make bread."
+
+Brooke says to Eabo, "Oh sorry....didn't think you were that close."
+nod  thoughtfully
+
+You nod thoughtfully.
+
+Seren gives a bowl of roasted butternut squash and black bean salad to Geel.
+
+Geel says to Seren, "Thank you."
+
+Eabo grins slightly.
+
+Brooke gives a slice of whipped cream topped pumpkin pie to Eabo.
+
+Geel sniffs a bowl of roasted butternut squash and black bean salad.
+
+Brooke smiles at Eabo.
+
+Eabo sniffs a slice of whipped cream topped pumpkin pie.
+
+Geel frowns.
+
+Geel sniffs a bowl of roasted butternut squash and black bean salad.
+
+Eabo says, "Mmmmmmm...."
+
+Geel flicks his tongue the tip quivering rapidly up and down before being drawn back into his mouth.
+
+Geel says, "What a delightfully earthy aroma."
+<HP: 157/157 ST: 125/125>
+
+Eabo gives a slice of whipped cream topped pumpkin pie to you.
+
+Geel gives a bowl of roasted butternut squash and black bean salad to Rochiriel.
+
+Brooke grins at Geel.
+
+Ernest asks you, "Can I uh, see that pie?"
+
+Rochiriel sniffs a bowl of roasted butternut squash and black bean salad.
+grin ern
+
+You grin at Ernest.
+
+Menfanous exclaims to Ernest, "Dont be eatin it!"
+say ern you go last!... just incase
+
+You say to Ernest, "You go last!... just incase."
+snic
+
+You snicker.
+Ernest scoffs.
+
+Eabo stiffles a snicker.
+
+Ernest says, "Of course not."
+
+Rochiriel gives a bowl of roasted butternut squash and black bean salad to Garaven.
+stare pie
+
+You stare at a tribal-scrimshawed bone septum piercing.
+roll
+
+You roll your eyes.
+inv
+Inventory:
+
+a pewter chalice (1.0 lb)
+ a slice of whipped cream topped pumpkin pie (1.0 lb)
+ 
+Currency: 351 doubloons
+
+Carrying: 108 items (57.0 | 81.0) lbs.
+
+stare pump
+
+You stare at a slice of whipped cream topped pumpkin pie.
+give pump ser
+
+You give a slice of whipped cream topped pumpkin pie to Seren.
+
+Brooke exclaims to Ernest, "Don't you dare eat my pie!"
+
+Brooke shakes her fist at Ernest.
+
+Garaven gives a bowl of roasted butternut squash and black bean salad to Menfanous.
+
+Seren gives a slice of whipped cream topped pumpkin pie to Geel.
+l
+
+
+
+[Pearlean Pavilion.]
+
+A spacious pavilion lined with interlocking red and black stones surrounded by walls of white lattice and creeping vines.  Smells of lavender mixed with fragrant rose blooms and creeping jasmine permeate the area.  Separate patios extend to both the east and west, each one distinguished by the type of vine and shrubs woven between cross-patterned lattice walls.  Flat marble slabs cut into benches surround a small fountain with a statue of a female figure cloaked in robe at its center.  You notice an arrow-shaped wooden sign, a rose trellis, and a small marble fountain.
+
+Also here: Eabo the Goblin, Geel the Gavial (seated) on a marble slab bench, Seren the Avardi, Trystan the Human, Master Chef Brooke the Bolinau, Merchant Ernest the Human, Ra'daji Garaven the Verdani, Emissary Rochiriel the Verdani (seated) on a marble slab bench, Merchant Menfanous the Dwarf (seated), and Spits the Goblin (seated) 
+
+Obvious Exits: west, and south. 
+
+Menfanous ponders.
+
+Geel says to Seren, "Thank you."
+
+Menfanous sniffs a bowl of roasted butternut squash and black bean salad.
+
+Geel sniffs a slice of whipped cream topped pumpkin pie.
+
+Geel wrinkles his nose.
+
+Geel grunts.
+
+Geel gives a slice of whipped cream topped pumpkin pie to Rochiriel.
+
+Seren says, "Boy thats just wonderful."
+
+Rochiriel sniffs a slice of whipped cream topped pumpkin pie.
+
+Rochiriel says, "Hmm a sweet smell indeed."
+
+Rochiriel gives a slice of whipped cream topped pumpkin pie to Garaven.
+
+Garaven sniffs a slice of whipped cream topped pumpkin pie.
+
+Menfanous gives a bowl of roasted butternut squash and black bean salad to Spits.
+
+Ernest stares intently as the pie passes hands.
+blush as her stomach growls a little
+
+You blush as her stomach growls a little.
+
+grin Brooke delicately , blushing
+Brooke smiles at you.
+
+You grin at Brooke delicately , blushing.
+dri chal
+
+You take a drink from a pewter chalice.
+[Delay: 3.0 sec.]
+
+
+Garaven gives a slice of whipped cream topped pumpkin pie to Menfanous.
+
+Menfanous sniffs a slice of whipped cream topped pumpkin pie.
+
+Brooke asks, "Are we ready to move on?"
+
+Menfanous wrinkles his nose.
+nod broo
+
+You nod to Brooke.
+
+Menfanous taps spitz.
+
+Spits nods to Menfanous.
+
+Eabo asks, "Yooz gotz du pie toppin wit out du pie?"
+chu eab
+
+You chuckle at Eabo.
+
+Menfanous gives a slice of whipped cream topped pumpkin pie to Spits.
+
+Spits gives a bowl of roasted butternut squash and black bean salad to Ernest.
+
+Brooke asks Eabo, "You mean the whipped cream by itself?"
+
+Eabo nods his head up and down to Brooke.
+
+Ernest asks Spits, "What is this?"
+
+Ernest gives a bowl of roasted butternut squash and black bean salad to Brooke.
+
+Menfanous says to Ernest, "It be some kind of butter thing."
+
+Menfanous shrugs.
+
+Ernest says, "Doesn't look like pie."
+
+Brooke says to Eabo, "Oh yeah I could make that for you easy! Don't need no peddle to do that."
+
+Spits says to Ernest, "Da squash 'n beanz saladz."
+stare eab
+
+You stare at Eabo.
+
+Eabo grins at Brooke.
+
+who
+[ARRIVALS] 'Mordecai has logged out.'
+   Players Currently Online: 
+ =============================
+
+   Kaiah the Human                                             
+   Wren the Human                                              
+   Seren the Avardi                                            
+   Eabo the Goblin                                             
+   Geel the Gavial                                             
+   Brooke the Bolinau                                          
+   Rone the Devalin                                            
+   Xiija the Sylph                                             
+   Ernest the Human                                            
+   Garaven the Verdani                                         
+   Trystan the Human                                           
+   Rochiriel the Verdani                                       
+   Kadwick the Human                                           
+   Menfanous the Dwarf                                         
+   Spits the Goblin                                            
+
+
+Spits sniffs a slice of whipped cream topped pumpkin pie.
+say eab that would be like, ... Sly bait
+
+You say to Eabo, "That would be like, ... Sly bait."
+Trystan asks Eabo, "Why just the topping?"
+grin eab
+
+You grin at Eabo.
+
+Brooke says to Eabo, "In a few weeks I'm planning on taking personal orders for food."
+
+Trystan glances at you and grins.
+' Syl bait
+
+You say, "Syl bait."
+cou
+
+You cough.
+
+Spits licks his lips before he can start drooling.
+
+Eabo says to Brooke, "Okeyz... tankz."
+
+Brooke says, "On to the isle of Kalieth."
+l
+
+
+
+[Pearlean Pavilion.]
+
+A spacious pavilion lined with interlocking red and black stones surrounded by walls of white lattice and creeping vines.  Smells of lavender mixed with fragrant rose blooms and creeping jasmine permeate the area.  Separate patios extend to both the east and west, each one distinguished by the type of vine and shrubs woven between cross-patterned lattice walls.  Flat marble slabs cut into benches surround a small fountain with a statue of a female figure cloaked in robe at its center.  You notice an arrow-shaped wooden sign, a rose trellis, and a small marble fountain.
+
+Also here: Eabo the Goblin, Geel the Gavial (seated) on a marble slab bench, Seren the Avardi, Trystan the Human, Master Chef Brooke the Bolinau, Merchant Ernest the Human, Ra'daji Garaven the Verdani, Emissary Rochiriel the Verdani (seated) on a marble slab bench, Merchant Menfanous the Dwarf (seated), and Spits the Goblin (seated) 
+
+Obvious Exits: west, and south. 
+
+
+Spits asks, "Whoz not sniffin da piez yet?"
+Brooke says, "Albino ice crabs are found exclusively on the northern ice sheets of Kalieth. Large in both size and numbers they are one of the more dangerous crustaceans of the isle. From the stories I was told these land and sea dwellers can be up to an arm's length in diameter when full grown. Typically the locals will hunt them in larger groups for safety."
+
+who
+[ARRIVALS] 'Charlat has logged on.'
+   Players Currently Online: 
+ =============================
+
+   Kaiah the Human                                             
+   Wren the Human                                              
+   Seren the Avardi                                            
+   Eabo the Goblin                                             
+   Geel the Gavial                                             
+   Brooke the Bolinau                                          
+   Rone the Devalin                                            
+   Xiija the Sylph                                             
+   Ernest the Human                                            
+   Garaven the Verdani                                         
+   Trystan the Human                                           
+   Rochiriel the Verdani                                       
+   Kadwick the Human                                           
+   Menfanous the Dwarf                                         
+   Spits the Goblin                                            
+   Charlat the Bolinau                                         
+
+
+Trystan waves to Spits.
+
+Spits gives a slice of whipped cream topped pumpkin pie to Trystan.
+murm here comes the fish
+
+You murmur here comes the fish.
+
+Brooke says, "Nothing is worse than having a chunk taken out of your rump with a sharp pincher when you're not looking."
+chu broo
+
+You chuckle at Brooke.
+
+Charlat arrives from the south.
+
+Geel says, "Such imagry."
+
+Menfanous waves to Charlat.
+
+Charlat beams at Brooke.
+wav char
+
+You wave to Charlat.
+
+Brooke beams at Charlat.
+
+Garaven asks, "Does it hurt less if you witness it?"
+
+Charlat waves to Menfanous.
+
+Brooke laughs at Garaven.
+chu gar
+
+You chuckle at Garaven.
+
+Charlat waves to you.
+l char
+
+Charlat looks like a slender 53 year old female Bolinau.
+She has dark brown eyes and collar length, wavy, dark gray hair.
+She is 3 feet 7 inches tall and weighs 88 pounds.
+She has an aura of Kaleith.
+Charlat is in perfect health.
+
+Walking on her laces, this bolinau struts around when she moves, her dress bouncing against her knees. Some glass trinkets are tied into a few braids in her collar-length dark gray hair. Her clothes are worn-looking, especially the soles of her boots.
+
+She is wearing:
+
+Body            : a blue and white butterfly designed sundress
+Left wrist      : a shiny orichalcum bangle
+Right wrist     : a shiny electrum bangle
+Legs            : some argyle wool socks
+Feet            : some untied black leather boots
+
+say char ryte on tyme
+
+You say to Charlat, "Ryte on tyme."
+
+Brooke says, "It is pretty amusing to see one of them suckers in hot persuit of a nydine hunter."
+say char he is unloadin the Kaleith crate now
+
+You say to Charlat, "He is unloadin the Kaleith crate now."
+
+Trystan glances at Ernest and hesitantly extends the pie.
+
+Trystan gives a slice of whipped cream topped pumpkin pie to Ernest.
+stare ern
+
+You stare at Ernest.
+
+Ernest says, "Finally."
+
+Ernest takes a bite of a slice of whipped cream topped pumpkin pie.
+cac
+
+You cackle.
+
+Brooke stares at Trystan.
+shri
+
+You shriek.
+
+Menfanous flails his arms.
+
+Charlat exclaims to you, "The company keeps us in the dark sometimes!"
+
+Garaven chuckles.
+' Pie snacker!
+
+You exclaim, "Pie snacker!"
+
+Ernest says to Brooke, "You were so right."
+
+Brooke exclaims to Trystan, "Now why did you have to go and do that!"
+poi ern
+
+You point at Ernest.
+
+Brooke flails her arms.
+
+Trystan gestures.
+
+Eabo plants his face in his palm.
+
+Garaven says to Brooke, "You look surprised."
+grin char
+
+You grin at Charlat.
+
+Menfanous says to Ernest, "That be 15000 doubloons."
+snic men
+
+You snicker at Menfanous.
+
+Ernest says, "Sure sure, worth every doubloon."
+
+Brooke says to Ernest, "You are too much sometimes."
+
+grin Menfanous wryly
+Menfanous smiles at you.
+
+Ernest licks the whipped cream from his lips.
+
+You grin at Menfanous wryly.
+
+Brooke gets a large pile of steamed albino ice crab legs in garlic sauce from a large pine food crate.
+whist
+
+You whistle.
+
+Geel says to Menfanous, "I believe things are starting to look up."
+
+Menfanous nods to Geel.
+say try i bet that crab will go for a pretty price
+
+You say to Trystan, "I bet that crab will go for a pretty price."
+Brooke says, "This here is a dish prepared from the finest of albino ice crabs."
+
+Ernest says to Eabo, "If pie goes around again, I definitely recommend it."
+snic ern
+
+You snicker at Ernest.
+Eabo grins at Ernest and shakes his head.
+
+Menfanous ponders.
+
+Brooke gives a large pile of steamed albino ice crab legs in garlic sauce to Eabo.
+
+Menfanous asks, "What be A L b I n o?"
+
+Eabo sniffs a large pile of steamed albino ice crab legs in garlic sauce.
+
+Charlat exclaims to Brooke, "You got a hold of those?!"
+
+Brooke says to Menfanous, "They are all white from head to toe...er um claw."
+
+Ernest says to Menfanous, "It's like a dwarf with no beard."
+
+Brooke nods her head up and down.
+
+Menfanous gasps.
+
+Menfanous asks, "There be such a thing?"
+
+
+Eabo gives a large pile of steamed albino ice crab legs in garlic sauce to you.
+
+Charlat says, "Can only get those in one place that I know of."
+grin
+
+You grin.
+
+Menfanous ponders.
+
+Brooke exclaims to Charlat, "And before you ask I already made a rule against askin how!"
+hold crab
+You hold a large pile of steamed albino ice crab legs in garlic sauce.
+[Delay: 3.0 sec.]
+
+l crab
+
+It looks like a large pile of seamed albino ice crab legs in garlic sauce. A large slit has been carefully cut into the hard outer shell of the legs. A suculent garlic butter pools in the center of the plate providing the perfect spot for dipping the tender meat.
+
+Brooke glares at Charlat.
+how
+
+You howl.
+' foodfyte!
+
+You exclaim, "Foodfyte!"
+
+Menfanous ducks.
+<HP: 157/157 ST: 125/125>
+Trystan ducks.
+throw crab gee
+
+Eabo dodges slightly.
+
+Brooke beams at Charlat.
+rem crab
+Menfanous exclaims, "No throwin the cuisines!"
+who
+[ARRIVALS] 'Alexis has logged on.'
+Brooke says to Charlat, "I have plenty to share."
+Closed Xiija-offerings.txt on file 1
+time

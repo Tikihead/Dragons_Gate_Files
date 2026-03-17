@@ -1,0 +1,1785 @@
+l
+
+
+
+[Conciliatory Chamber.]
+
+A long, oval table stretches the width of the room, behind it sit rigid, ebony chairs aligned in a row.  In front of the council table is an ebony podium at which those addressing the conclave may stand.  A large, crystal chandelier hangs down at the center, its glow providing ample light during proceedings.  A portrait of the king sitting upon his throne overlooks the chamber from the back wall.  You notice an ebony podium, an engraved cylindrical brass dispenser, an open thick ebony door, and a carved cherrywood cabinet.
+
+Also here: Emissary Menfanous the Dwarf (seated) at an oval ebony table, Rochiriel the Verdani (seated) at an oval ebony table, Trystan the Human, Emissary Eleanora the Dwarf (seated) at an oval ebony table, Emissary Wren the Human (seated) at an oval ebony table, Kaiya the Avardi, Knight Marshal Cascius the Human, Emissary Ayderias the Avardi (seated) at an oval ebony table, and Bihi the Bolinau 
+
+Obvious Exits: none
+
+
+Bihi says, "His Majesty had a lot to say in it, but I wish to remind the Conclave of one duty he gave to this conclave."
+
+Bihi says, "He admonished you to bring concerns about the way the realm is run to him. I wish for you to express a concern to him."
+
+who
+[ARRIVALS] 'Oland has logged on.'
+   Players Currently Online: 
+ =============================
+
+   Kaiya the Avardi                                            
+   Flynt the Sylph                                             
+   Menfanous the Dwarf                                         
+   Xiija the Sylph                                             
+   Rochiriel the Verdani                                       
+   Wren the Human                                              
+   Garaven the Verdani                                         
+   Ivan the Argali                                             
+   Ayderias the Avardi                                         
+   Trystan the Human                                           
+   Eleanora the Dwarf                                          
+   Cascius the Human                                           
+   Bihi the Bolinau                                            
+   Geel the Spirit                                             
+   Oland the Dwarf                                             
+
+
+Bihi says, "He wrote... let me quote him... It is your job to pass these concerns of misconduct on to your king for."
+
+Bihi says, "Judgment."
+shiv as a shadow passes over her face, listening...
+
+You shiver as a shadow passes over her face, listening...
+glan door
+
+You glance at an open thick ebony door.
+
+Rochiriel asks Bihi, "What is it that you wish for us to express concern over?"
+who
+
+   Players Currently Online: 
+ =============================
+
+   Kaiya the Avardi                                            
+   Flynt the Sylph                                             
+   Menfanous the Dwarf                                         
+   Xiija the Sylph                                             
+   Rochiriel the Verdani                                       
+   Wren the Human                                              
+   Garaven the Verdani                                         
+   Ivan the Argali                                             
+   Ayderias the Avardi                                         
+   Trystan the Human                                           
+   Eleanora the Dwarf                                          
+   Cascius the Human                                           
+   Bihi the Bolinau                                            
+   Geel the Gavial                                             
+   Oland the Dwarf                                             
+
+
+Bihi says, "I am very concerned about the arbitrary lynching and caging of random Goblins, apparently in response to Yiri's recent crimes. I feel this is a miscarriage of judgment."
+
+Bihi says, "(Nervously) of justice... sorry."
+
+Wren peers at Kaiya and smirks slightly.
+
+Rochiriel nods to Bihi.
+
+Bihi says, "I request you consider this matter carefully and pass those concerns onto His Majesty."
+
+Bihi puts a charcoal drawn blueprint in an academy-issue canvas backpack.
+
+Cascius says to Bihi, "Any crimes against goblins have likely been by other goblins. Careful what accusations you make of the crown."
+
+Rochiriel says, "Is there anything else anyone here would like to add on this topic."
+
+who
+[ARRIVALS] 'Enid has logged on.'
+   Players Currently Online: 
+ =============================
+
+   Kaiya the Avardi                                            
+   Flynt the Sylph                                             
+   Menfanous the Dwarf                                         
+   Xiija the Sylph                                             
+   Rochiriel the Verdani                                       
+   Wren the Human                                              
+   Garaven the Verdani                                         
+   Ivan the Argali                                             
+   Ayderias the Avardi                                         
+   Trystan the Human                                           
+   Eleanora the Dwarf                                          
+   Cascius the Human                                           
+   Bihi the Bolinau                                            
+   Geel the Gavial                                             
+   Enid the Sylph                                              
+   Oland the Dwarf                                             
+
+
+Rochiriel glances around the room.
+
+Bihi says to Cascius, "I make NO accusations on the Crown, sir, but on his misguided servants."
+ l xii
+
+Xiija looks like a slender 55 year old female Sylph.
+She has silvery eyes and very long, dreaded, platinum blonde hair.
+She is 1 feet 9 inches tall and weighs 19 pounds.
+She has an aura of Aerthane.
+Xiija is in perfect health.
+
+Dirty silvery dreadlocks fall across her face, obscuring intense eyes, one white, one silvery-grey from your view
+
+Visible Tattoos:
+
+A sleeve of multi-colored dragons twists down her left arm from shoulder to wrist.
+A small deep blue pentagram is tattooed upon her neck.
+On her left cheek is a small tribal tattoo.
+Centered on her forehead is tattooed the Mark of Aerthane.
+Up the inside of her right forearm is a tattoo of a black Caduceus with bloody wings.
+Across her back is tattoo'd - 'Revenge'.
+
+She is wearing:
+
+Head            : a gold-beaded white cotton headscarf
+Head            : some purple thread-tied blessed silver charms
+Ears            : a blackened cursed vampire bone earring
+Neck            : a formal Sylvan batik erimaki hemp scarf
+Neck            : a small stained glass-charmed necklace
+Body            : a grimy worn leather satchel
+Body            : a dark brown formal Sylvan batik itai
+Left wrist      : a smooth cherrywood bracelet
+Left finger     : a smooth ebony ring
+Waist           : a tooled leather sailors weapon harness
+Waist           : a wyvern-painted leather junk sack
+Feet            : a tinkling silver-belled jade anklet
+Face            : a blackened leather shaman's wyvern-head death mask
+Face            : a smooth silver lip ring
+Nose            : a tribal-scrimshawed bone septum piercing
+
+
+Kaiya chews on her lip, glancing between Bihi and Cascius.
+
+Rochiriel says to Bihi, "Thank you for your time and effort. Your proposal will be spoken of and voted on at our closed conclave meeting in two weeks time."
+
+who
+[ARRIVALS] 'Torin has logged on.'
+   Players Currently Online: 
+ =============================
+
+   Kaiya the Avardi                                            
+   Flynt the Sylph                                             
+   Menfanous the Dwarf                                         
+   Xiija the Sylph                                             
+   Rochiriel the Verdani                                       
+   Wren the Human                                              
+   Garaven the Verdani                                         
+   Ivan the Argali                                             
+   Ayderias the Avardi                                         
+   Trystan the Human                                           
+   Eleanora the Dwarf                                          
+   Cascius the Human                                           
+   Bihi the Bolinau                                            
+   Geel the Gavial                                             
+   Enid the Sylph                                              
+   Oland the Dwarf                                             
+   Torin the Argali                                            
+
+
+Bihi bows.
+
+Cascius says to Bihi, "To imply his knight marshals are to blame is to question the King's authority and judgment."
+
+Bihi steps back from the podium.
+
+Rochiriel says, "I have two proposals I would like to put forth tonight if I may."
+
+Ayderias says to Cascius, "I'm quite sure he is merely a concerned citizen."
+listen roc
+
+You listen to Rochiriel.
+
+Rochiriel gets a business document from a brass-buckled leather emissary satchel.
+Rochiriel gets a business document from a brass-buckled leather emissary satchel.(11)
+
+Ayderias takes a drink from a steaming cup of creamed coffee.
+
+Rochiriel gives a business document to Ayderias.
+
+Rochiriel puts a business document in a brass-buckled leather emissary satchel.
+
+Rochiriel gives a business document to Eleanora.
+
+Rochiriel gives a business document to Menfanous.
+
+Menfanous smiles.
+
+Menfanous reads a business document.
+
+Rochiriel puts a business document in a brass-buckled leather emissary satchel.
+
+Rochiriel puts a business document in a brass-buckled leather emissary satchel.
+
+Ayderias reads a business document.
+
+Menfanous reads a business document.
+
+Rochiriel puts a business document in a brass-buckled leather emissary satchel.
+
+Rochiriel gives a business document to Wren.
+
+Rochiriel puts a business document in a brass-buckled leather emissary satchel.
+
+Rochiriel asks, "Have I missed anybody present?"
+
+Eleanora reads a business document.
+
+Rochiriel says, "This proposal is in reguards to the town bell."
+
+Rochiriel reads a business document.
+
+Trystan grins.
+
+Rochiriel says, "I propose that the current town bell be replaced with a smaller version. This will help lower the volume of the bell ringing to mark the hour. Currently the ringing of the bell can be heard as far away as the outpost. Those unfortunate enough to be standing in town center when the bell begins to ring have suffered great hearing loss as well as debilitating migraines. Downsizing the bell is the least we can due to ease the pain and suffering of Pearlean citizens."
+appl roc
+
+You applaud Rochiriel.
+
+Rochiriel says, "On a side note this may be the reason marshals throught the city are not responding to citizens pleas for help appropriately. Given that they are within the city the majority of the time they may be unable to hear citizens pleas for help due to the residual ringing in their ears."
+beam
+
+You beam.
+
+grin Rochiriel softly, winking..
+Rochiriel smiles at you.
+You grin at Rochiriel softly, winking..
+
+Trystan applauds.
+
+Ayderias says to Rochiriel, "A great deal of work went into repairing the current bell for use."
+
+Menfanous says, "Iactually be havin a citizen come see me and Eleanora bout this very thing."
+
+Rochiriel asks, "Is there anything others wish to add on this topic?"
+
+Menfanous raises his hand.
+
+Rochiriel asks Menfanous, "Yes?"
+
+Eleanora nods to Menfanous.
+
+Wren says, "You'll find no opposition from me. That damned bell is startling every time."
+
+Ayderias asks Rochiriel, "I admire your orderly efforts, but perhaps we can allow for a discussion before wrapping a topic up?"
+
+Menfanous says, "As I was sayin we behabbin a citizen come see us durin emissary hours one day bout this.."
+
+It is nighttime.
+
+The jarring clang from a bell tower marks the top of the hour.
+
+The bell tower clangs for a second time.
+win
+
+You wince.
+
+The bell tower clangs for a third time.
+
+Menfanous says, "The poor old lady be sayin the bell wakesher up constantly."
+
+Trystan smirks.
+
+Rochiriel says to Ayderias, "Yes That is why I asked for others input."
+
+The bell tower clangs for a fourth time.
+clap hands to her ears
+
+You clap hands to her ears.
+
+The bell tower clangs for a fifth time.
+
+Menfanous sighs.
+
+The bell tower clangs for a sixth time.
+
+The bell tower clangs for a seventh time.
+
+Menfanous moans covering his ears.
+
+The bell tower clangs for an eighth time.
+
+Rochiriel gestures at the people in the room.
+
+The bell tower clangs for a ninth time.
+
+Ayderias asks, "Is there any doubt as to what hour it is?"
+' cant it just ring the top of the hour?
+
+You ask, "Cant it just ring the top of the hour?"
+shiv
+
+You shiver.
+
+Menfanous says, "I am sorry you probably could not behearin me over the bell."
+
+Menfanous says, "The poor old lady be sayin the bell wakesher up constantly."
+grin men
+
+You grin at Menfanous.
+
+Rochiriel nods to Menfanous.
+
+Rochiriel says to Menfanous, "Thank you for repeating yourself. I didn't hear."
+
+Rochiriel chuckles.
+
+Menfanous nods to Rochiriel.
+
+Menfanous says, "She be hopinwe could be findin a solution ta this problem."
+whisp try i have a chisel, just need a good hammer...
+
+You whisper to Trystan, "I have a chisel, just need a good hammer...".
+grin try
+
+You grin at Trystan.
+
+Trystan nods to you.
+
+Rochiriel says to Ayderias, "I am not aware of how much time or effort went into fixing the current bell for use."
+
+who
+[ARRIVALS] 'Enid has logged out.'
+
+   Players Currently Online: 
+ =============================
+
+   Kaiya the Avardi                                            
+   Flynt the Sylph                                             
+   Menfanous the Dwarf                                         
+   Xiija the Sylph                                             
+   Rochiriel the Verdani                                       
+   Wren the Human                                              
+   Garaven the Verdani                                         
+   Ivan the Argali                                             
+   Ayderias the Avardi                                         
+   Trystan the Human                                           
+   Eleanora the Dwarf                                          
+   Cascius the Human                                           
+   Bihi the Bolinau                                            
+   Geel the Gavial                                             
+   Oland the Dwarf                                             
+   Torin the Argali                                            
+
+
+Trystan whispers to you, "Plan B.".
+wink try
+
+You wink at Trystan.
+
+Trystan asks, "I'm not sure how we ever survided without it?"
+chu  gently
+
+You chuckle gently.
+
+Menfanous says to Rochiriel, "That be all I have."
+
+Ayderias says to Rochiriel, "It's quite alright. I've heard many say they don't like the reminder. The bell did not ring for at least fifteen years."
+
+Rochiriel says to Ayderias, "Perhaps a compromise may be reached to allow for most to be satisfied."
+
+Trystan says, "Though it did make for a nice wyvern perch the other evening."
+
+Menfanous nods to Trystan.
+
+Ayderias raises an eyebrow at Trystan.
+
+Eleanora says, "Not sure it be worth the bronze to be replacing that old bell. There surely be history there--something to be asking a curator."
+
+Rochiriel says to Eleanora, "Hopefully the King appoints one soon."
+
+Rochiriel smiles at Eleanora.
+
+Bihi says, "One could just reduce the energy of the clapper strike, not replace the whole bell."
+
+Rochiriel says to Bihi, "That is a good idea."
+
+Rochiriel asks, "Are there any others that would like to speak on this subject?"
+
+Wren shakes her head from side to side.
+
+Ayderias nods n.
+
+Rochiriel gets a Pearl-stamped paper envelope from a silky ermine fur-lined green velvet satchel.
+
+Ayderias mutters quietly and shakes his head.
+
+Rochiriel says, "Then if I may present my last proposal."
+
+Ayderias puts a business document in a brass-buckled leather emissary satchel.
+
+Rochiriel says, "Unless of course there are others that wish to do so first."
+
+Ayderias takes a drink from a steaming cup of creamed coffee.
+
+Rochiriel puts a business document in a brass-buckled leather emissary satchel.
+Rochiriel puts a business document in a brass-buckled leather emissary satchel.(2)
+
+Cascius says to Rochiriel, "I've a message to deliver when it is convenient for the Conclave to receive it."
+
+Rochiriel opens a Pearl-stamped paper envelope.
+
+Rochiriel says to Cascius, "Certainly."
+
+Rochiriel asks Cascius, "Perhaps you may convey your message while I pass out the documents?"
+
+Rochiriel gets a Pearl-stamped paper envelope from a brass-buckled leather emissary satchel.
+
+Cascius nods to Rochiriel.
+
+Rochiriel puts a Pearl-stamped paper envelope in a brass-buckled leather emissary satchel.
+
+Rochiriel gets a business document from a Pearl-stamped paper envelope.
+Rochiriel gets a business document from a Pearl-stamped paper envelope.(11)
+
+Ivan arrives through a thick ebony door.
+
+Cascius says to Rochiriel, "This may take a moment. It's far more exciting than whatever you've written."
+
+Rochiriel chuckles.
+
+Ivan glances around the room.
+
+Kaiya raises an eyebrow.
+
+Rochiriel says to Cascius, "I am certain it is."
+
+Eleanora blinks at Ivan and ponders.
+
+Ivan says, "My apologizes for the interruption."
+
+Cascius says, "You recently requested of the Archai Trading Company a method in which to communicate with one another."
+smi iva
+
+You smile at Ivan.
+
+Eleanora furrows her brow in thought.
+
+Cascius glances at Ivan briefly.
+listen cas
+
+You listen to Cascius.
+
+Cascius ponders briefly before shaking his head.
+
+Eleanora gazes at Ivan and furrows her brow.
+
+Ivan glances at Eleanora.
+
+Wren peers at Ivan curiously, head tilted to one side.
+
+Cascius says, "The crown had already tasked the ATC's alchemists with this, and I bring with me an example of there work for you all to see."
+
+Rochiriel smiles at Cascius.
+
+Ivan asks Eleanora, "Is that you, Eleanora?"
+
+Cascius coughs politely.
+
+Ivan chuckles.
+
+Menfanous smiles.
+
+Eleanora says to Ivan, "It be me."
+stare cas
+
+You stare at Cascius.
+
+Ivan says to Eleanora, "Your beard has grown since last we met."
+
+Eleanora says to Ivan, "I don't reca-."
+say cas you have such a potion?
+
+You ask Cascius, "You have such a potion?"
+who
+[ARRIVALS] 'Geel has logged out.'
+   Players Currently Online: 
+ =============================
+
+   Kaiya the Avardi                                            
+   Flynt the Sylph                                             
+   Menfanous the Dwarf                                         
+   Xiija the Sylph                                             
+   Rochiriel the Verdani                                       
+   Wren the Human                                              
+   Garaven the Verdani                                         
+   Ivan the Argali                                             
+   Ayderias the Avardi                                         
+   Trystan the Human                                           
+   Eleanora the Dwarf                                          
+   Cascius the Human                                           
+   Bihi the Bolinau                                            
+   Oland the Dwarf                                             
+   Torin the Argali                                            
+
+
+Eleanora glances casius.
+
+Eleanora glances at Cascius.
+
+Menfanous listens to casc.
+
+Menfanous listens to Cascius.
+
+Rochiriel says to Cascius, "I am sure the citizens of Pearl will be glad to see such a potion."
+
+Cascius asks you, "I do. Would you care to volunteer to test it?"
+
+Kaiya nods her head up and down to Rochiriel.
+
+grin Rochiriel delicately , blushing
+Rochiriel smiles at you.
+
+You grin at Rochiriel delicately , blushing.
+
+Cascius says, "I've brought three in case the first volunteer has an adverse reaction."
+disagree cas
+
+You shake your head from side to side to Cascius.
+
+Wren grins at Cascius wryly.
+poi kai
+
+You point at Kaiya.
+
+Kaiya says, "I'll volunteer."
+
+Ivan furrows his brow at Cascius.
+
+Kaiya grins over at Xiija.
+
+Kaiya says to you, "Wimp."
+
+Cascius says, "I've been instructed to inform you all that their is a slight side effect, but it passes."
+smir
+
+You smirk.
+Rochiriel asks Trystan, "In case this goes wrong please be ready to heal yes?"
+
+Cascius says, "And you may not ask what is contains."
+smi try
+
+You smile at Trystan.
+glan cas
+
+You glance at Cascius.
+
+Rochiriel chuckles.
+pon that
+
+You ponder that.
+
+Trystan says, "A potion would be wiser."
+
+Cascius squints at Kaiya.
+get apo sat
+
+You get a supple black leather apothecary bag from a grimy worn leather satchel.
+
+Kaiya gets a glass bottle of red elixir from a small adventurer's sack.
+op apo
+You open a supple black leather apothecary bag.
+get gree apo
+
+You don't see 'gree' in a supple black leather apothecary bag.
+get yell apo
+
+You don't see 'yell' in a supple black leather apothecary bag.
+l apo
+
+It looks like a supple black leather apothecary bag.
+Inside you see:
+
+a glass bottle of red elixir
+ a glass bottle of blue elixir
+ 
+
+Kaiya tries hard not to squint back at Cascius. She barely manages.
+disagree try
+
+You shake your head from side to side to Trystan.
+put apo sat
+
+You put a supple black leather apothecary bag in a grimy worn leather satchel.
+
+Rochiriel glances around the room with a look of amusement on her face.
+
+Ivan makes his way over to Eleanora through the crowd.
+
+Wren glances at Ivan through the corner of her eye.
+
+Cascius asks you, "Are you unwilling?"
+say cas i am SO unwilling
+
+You say to Cascius, "I am SO unwilling."
+Eleanora says to Ivan, "I don't be placing ye, but ye be quite familiar."
+
+Ivan grunts at Eleanora.
+
+Cascius shrugs at you.
+
+Rochiriel says to Cascius, "I believe that Kaiya has expressed her willingness."
+
+Cascius gives a dark green residue-covered glass vial to Kaiya.
+
+Trystan chuckles at Rochiriel.
+
+Kaiya thanks Cascius.
+
+Ivan asks Eleanora, "Have I changed so much in fifteen years?"
+
+Cascius says to Kaiya, "The crown thanks you for volunteering."
+
+Kaiya says, "The Crown is quite welcome."
+
+Cascius says, "We've yet to test it."
+
+Kaiya takes a drink from a dark green residue-covered glass vial.
+
+Kaiya closes her eyes and focuses on the thoughts surrounding her.
+sniff kai
+
+You sniff Kaiya.
+Kaiya smells pretty sweaty.
+
+Kaiya cringes and clutches her head to silence the voices.
+Pray HealingTouch kai
+
+
+
+You pray to Aerthane, delivering a light healing touch to Kaiya.
+[Delay: 4.0 sec.]
+
+
+Trystan murmurs.
+
+Trystan prays to Aerthane for divine sight, but the request goes unanswered.
+
+Trystan prays to Aerthane for divine sight.
+Trystan's eyes begin to glow as he studies his surroundings.
+rai try
+
+You raise an eyebrow at Trystan.
+
+Kaiya cringes and clutches her head to silence the voices.
+
+Ayderias asks Kaiya, "Are you well?"
+
+Kaiya takes a drink from a glass bottle of red elixir.
+
+
+Rochiriel asks Kaiya, "Can you contact anyone?"
+Pray HealingTouch kai
+
+Kaiya is fully healed.
+[Delay: 4.0 sec.]
+
+
+Kaiya shakes her head.
+
+Kaiya cringes and clutches her head to silence the voices.
+
+Ivan glances at Kaiya.
+
+Kaiya says, "I hear a lot of voices.... but can't reach anyone."
+
+Eleanora says, "That shaggy, sable fur-."
+
+Eleanora gasps at Kaiya.
+Pray HealingTouch kai
+
+
+
+You pray to Aerthane, delivering a light healing touch to Kaiya.
+[Delay: 4.0 sec.]
+
+
+Ivan asks Eleanora, "It is I. Ivan! Had you thought me dead?"
+
+Kaiya rubs her temples.
+
+Kaiya says, "It's passed."
+Pray HealingTouch kai
+
+Kaiya is fully healed.
+[Delay: 4.0 sec.]
+
+
+Cascius grumbles quietly.
+say try it seems a poison of sorts?
+
+You ask Trystan, "It seems a poison of sorts?"
+
+Cascius glances at Ivan sharply.
+
+Trystan nods to you.
+' but .... odd
+
+You say, "But .... odd."
+furr try
+
+You furrow your brow at Trystan.
+
+Menfanous says, "I be thinkin the potion be needin some adjustin."
+
+Cascius says, "Another volunteer then."
+
+Trystan nods to Cascius.
+
+Eleanora exclaims to Ivan, "That be right, Ivan the argali!"
+
+Cascius gives a dark green residue-covered glass vial to Trystan.
+
+Ivan chuckles.
+eye try
+
+You eye Trystan.
+
+who
+[ARRIVALS] 'Blink has logged on.'
+   Players Currently Online: 
+ =============================
+
+   Kaiya the Avardi                                            
+   Flynt the Sylph                                             
+   Menfanous the Dwarf                                         
+   Xiija the Sylph                                             
+   Rochiriel the Verdani                                       
+   Wren the Human                                              
+   Garaven the Verdani                                         
+   Ivan the Argali                                             
+   Ayderias the Avardi                                         
+   Trystan the Human                                           
+   Eleanora the Dwarf                                          
+   Cascius the Human                                           
+   Bihi the Bolinau                                            
+   Oland the Dwarf                                             
+   Torin the Argali                                            
+   Blink the Avardi                                            
+
+Trystan waves his hand over the vial and murmurs a quick prayer.
+pray disease ward 
+
+Ayderias asks Ivan, "Truly? How long has it been?"
+
+
+You pray to Aerthane for protection from diseases, but your request goes unanswered.
+[Delay: 5.0 sec.]
+
+pray disease ward 
+
+Trystan takes a drink from a dark green residue-covered glass vial.
+
+Trystan closes his eyes and focuses on the thoughts surrounding him.
+
+
+
+You pray to Aerthane, tracing a protective outline around yourself.
+[Delay: 5.0 sec.]
+
+<HP: 157/157 ST: 119/123>
+Ivan exclaims, "No other, indeed!"
+
+Ivan grins at Ayderias.
+
+Rochiriel says to Ivan, "As much as I am glad you two have been reunited do try to keep it down-."
+
+Trystan cringes and clutches his head to silence the voices.
+listen
+
+You listen.
+
+Trystan thinks to you, "Hello dark one."
+
+
+Ivan says, "Fifteen...maybe sixteen year now."
+<HP: 157/157 ST: 123/123>
+Cascius raises an eyebrow at Trystan.
+agree try , smiling...
+
+You nod your head up and down to Trystan , smiling...
+
+Trystan cringes and clutches his head to silence the voices.
+' i hear you!
+
+You exclaim, "I hear you!"
+
+Trystan says, "It does what's intended."
+stare try
+
+You stare at Trystan.
+
+Trystan rubs his temple.
+
+Rochiriel applauds.
+
+Trystan cringes and clutches his head to silence the voices.
+say cas i'll give ya fifty doubloons for one of those?
+
+You ask Cascius, "I'll give ya fifty doubloons for one of those?"
+
+Ivan says to Ayderias, "Still as old as ever, I see."
+
+Rochiriel asks Trystan, "It looks to be quite painfull is it not?"
+
+Ivan grins at Ayderias.
+
+Cascius smirks at you.
+Pray HealingTouch try
+
+Trystan is fully healed.
+[Delay: 4.0 sec.]
+
+Eleanora says to Ivan, "I be glad to be seeing ye again, fifteen or sixteen years ye say..."
+
+Trystan says to Rochiriel, "But passes quickly enough."
+
+Cascius says to you, "The distribution of these will be left to the ATC now that we know they work."
+
+Rochiriel nods.
+' Now?
+
+You ask, "Now?"
+stare cas
+
+You stare at Cascius.
+
+Trystan rubs his temple again then quickl drops his hand to his side.
+
+Cascius says, "I was only given a small sample."
+
+Eleanora says, "The nights be waiting for no one."
+
+Ivan says to Eleanora, "That damned blockade."
+say cas and no word on the .... ingredients?
+
+You ask Cascius, "And no word on the .... ingredients?"
+
+Wren says, "It seems unpleasant, but the formula can be refined over time. This is what the citizens wanted, at least."
+
+Cascius asks you, "Does it matter so long as it works?"
+
+Cascius says, "You have asked and your King has delivered."
+say cas well, as long as it's not Syl blood
+
+You say to Cascius, "Well, as long as it's not Syl blood."
+
+Trystan nods firmly.
+
+Rochiriel says to Cascius, "Please send a message of thanks to both the ATC and the crown for the speed at which they have accepted our request."
+flai cas
+
+You flail your arms at Cascius.
+
+Trystan applauds.
+
+Menfanous mumbles about thoughts in his head.
+
+Ayderias says to Cascius, "Are you quite done? A ghost has visited us this evening."
+l
+
+
+
+[Conciliatory Chamber.]
+
+A long, oval table stretches the width of the room, behind it sit rigid, ebony chairs aligned in a row.  In front of the council table is an ebony podium at which those addressing the conclave may stand.  A large, crystal chandelier hangs down at the center, its glow providing ample light during proceedings.  A portrait of the king sitting upon his throne overlooks the chamber from the back wall.  You notice an ebony podium, an engraved cylindrical brass dispenser, an open thick ebony door, and a carved cherrywood cabinet.
+
+Also here: Emissary Menfanous the Dwarf (seated) at an oval ebony table, Rochiriel the Verdani (seated) at an oval ebony table, Emissary Ayderias the Avardi (seated) at an oval ebony table, Bihi the Bolinau, Emissary Eleanora the Dwarf (seated), Knight Marshal Cascius the Human, Ivan the Argali, Emissary Wren the Human (seated), Kaiya the Avardi, and Trystan the Human 
+
+Obvious Exits: none
+
+
+Ivan chuckles at Ayderias.
+furr
+
+You furrow your brow.
+
+Ivan says, "Not completely white yet."
+
+Blink arrives through a thick ebony door.
+
+Blink says, "Hi."
+
+Menfanous asks Rochiriel, "Ok ye have a proposal?"
+
+Rochiriel asks Ivan, "Would you mind introducing yourself sir?"
+
+Blink says, "PHew, made it."
+
+Blink sits at an oval ebony table.
+say bih what if it contains ... Bolinau blood?
+
+You ask Bihi, "What if it contains ... Bolinau blood?"
+
+Ayderias asks Ivan, "How is it you survived the plague?"
+smi bli
+
+You smile at Blink.
+
+Wren raises an eyebrow at Ivan as her attention returns to the argali.
+
+Trystan raises an eyebrow at Blink and then starts to chuckle.
+
+Kaiya says to Blink, "You've missed everything."
+
+Menfanous opens a brass-buckled leather emissary satchel.
+
+Blink waves to you.
+
+Blink says to Kaiya, "Oh wow."
+
+Menfanous puts a business document in a brass-buckled leather emissary satchel.
+
+Menfanous puts a business document in a brass-buckled leather emissary satchel.
+
+Bihi says to you, "There's been enough shed lately."
+
+Blink says to Kaiya, "I'll have to catch in the paper then."
+nod nih softly
+
+You nod nih softly.
+nod bih softly
+
+You nod to Bihi softly.
+
+Blink gives a neatly wrapped present to Bihi.
+
+Kaiya says to Blink, "They've developed a potion so you mages won't be bothered so often anymore."
+
+Blink says to Bihi, "Well since you are here..."
+
+Wren tilts her head to Blink.
+
+Your natural defenses against disease take over.
+
+Bihi says to Blink, "I don't know who to give it to."
+
+Blink says to Kaiya, "Oh wow, they did it."
+
+Blink says to Kaiya, "We are free."
+
+Ivan says to Ayderias, "We Argali are quite sturdy folk, as you know. It helps my home village in the Crowns is very well isolated and self-sufficent."
+
+who
+[ARRIVALS] 'Oland has logged out.'
+   Players Currently Online: 
+ =============================
+
+   Kaiya the Avardi                                            
+   Flynt the Sylph                                             
+   Menfanous the Dwarf                                         
+   Xiija the Sylph                                             
+   Rochiriel the Verdani                                       
+   Wren the Human                                              
+   Garaven the Verdani                                         
+   Ivan the Argali                                             
+   Ayderias the Avardi                                         
+   Trystan the Human                                           
+   Eleanora the Dwarf                                          
+   Cascius the Human                                           
+   Bihi the Bolinau                                            
+   Torin the Argali                                            
+   Blink the Avardi                                            
+
+
+Kaiya grins at Blink.
+
+Rochiriel gives a business document to Eleanora.
+
+Rochiriel gives a business document to Menfanous.
+
+Menfanous reads a business document.
+
+Rochiriel gives a business document to Ayderias.
+
+Eleanora reads a business document.
+
+Rochiriel gives a business document to Blink.
+
+Ivan says, "I leave to make sure my family was afe and could not return."
+Rochiriel gives a business document to Wren.
+
+Ivan grunts.
+
+Rochiriel puts a business document in a brass-buckled leather emissary satchel.
+
+Rochiriel puts a business document in a brass-buckled leather emissary satchel.
+
+Rochiriel puts a business document in a brass-buckled leather emissary satchel.
+
+Ayderias says to Ivan, "I'm afraid another has taken up your position while you were absent."
+
+Rochiriel puts a business document in a brass-buckled leather emissary satchel.
+
+Ivan asks Eleanora, "Where is Tietjen? And Velsa? And more importatly, Bouldermoore?"
+
+Ivan says to Ayderias, "I have heard."
+
+Ivan chuckles.
+
+Wren frowns at Ivan lightly.
+l
+
+
+
+[Conciliatory Chamber.]
+
+A long, oval table stretches the width of the room, behind it sit rigid, ebony chairs aligned in a row.  In front of the council table is an ebony podium at which those addressing the conclave may stand.  A large, crystal chandelier hangs down at the center, its glow providing ample light during proceedings.  A portrait of the king sitting upon his throne overlooks the chamber from the back wall.  You notice an ebony podium, an engraved cylindrical brass dispenser, an open thick ebony door, and a carved cherrywood cabinet.
+
+Also here: Emissary Menfanous the Dwarf (seated) at an oval ebony table, Rochiriel the Verdani (seated) at an oval ebony table, Emissary Ayderias the Avardi (seated) at an oval ebony table, Bihi the Bolinau, Emissary Eleanora the Dwarf (seated), Knight Marshal Cascius the Human, Ivan the Argali, Emissary Wren the Human (seated), Kaiya the Avardi, Trystan the Human, and Champion Blink the Avardi (seated) at an oval ebony table 
+
+Obvious Exits: none
+
+
+Wren asks Ivan, "Are you referring to Velsia, or Isvela?"
+
+Ivan says to Ayderias, "My old apprenctice has done well for himself I hear."
+
+Bihi asks Cascius, "I have something for the Royal Library. Might you pass it on?"
+whisp cas you still have one left?
+
+You whisper to Cascius, "You still have one left?".
+
+Rochiriel says, "The last proposal I have for this evening is a proposal to limit the number of proposals that may be submitted each month."
+
+Rochiriel reads a business document.
+
+Cascius glances at you briefly.
+
+Wren chuckles at Rochiriel.
+
+Rochiriel says, "In an effort to give each proposal it's due attention I request that a limit put on the amount of proposals that may be submitted each open meeting. My suggestion is the limit be put at 6 per month. Historically each proposal takes anywhere from 10-20 minutes to debate and hold a vote. In some cases proposals have taken up to 60 full minutes to debate. Using 20 minutes as an average time to debate the 6 proposals, each closed conclave meeting would last an average of 2 hours."
+
+Menfanous listens to Rochiriel.
+
+Ivan says to Wren, "I do not know those names."
+nod roc
+
+You nod to Rochiriel.
+
+Rochiriel says, "To prevent any one individual from monopolizing the proposals for the month, I suggest that each proposal be presented one at a time. This will give others a chance to present their first one before a second one is presented by that individual. An example of this would be."
+
+Rochiriel reads a business document.
+
+Ivan furrows his brow.
+
+Wren says to Ivan, "I thought perhaps I heard you wrong, I've never encountered a Velsa."
+
+Wren listens to Rochiriel.
+
+Rochiriel says, "I am in no way suggesting that a time limit be placed on the debate or voting of each proposal. Debate should be allowed to be as short or as long as needed to thouroghly discuss each proposal at hand."
+
+Kaiya raises a hand as she listens to Rochiriel.
+
+Cascius says to Bihi, "This would be a job for your new curator, when that announcement is made."
+
+Rochiriel asks Kaiya, "Yes?"
+whisp try how was it?
+
+You whisper to Trystan, "How was it?".
+
+Ivan says, "Maybe I hould not be interrupting business."
+
+Ivan glances at Rochiriel.
+
+Kaiya asks, "What would stop someone from presenting six proposals before anyone else raises their hand?"
+
+Rochiriel glances at Ivan.
+
+Trystan whispers to you, "Annoyingly painful and yes to the poison thought, but worth it I think.".
+nod  thoughtfully
+
+You nod thoughtfully.
+
+Ivan chuckles.
+
+Ayderias asks Ivan, "You've waited so long. Would it be terribly rude of us to ask you to wait a moment more?"
+
+Ivan says to Ayderias, "Not at all."
+
+Rochiriel says to Kaiya, "That was the second thing I addressed."
+Wren says to Kaiya, "I believe they'd be presented one at a time, once per Emissary."
+
+Menfanous says, "Kayia cause we can only bepresenten one at a time so all have to be presenten one afore the next be presented."
+
+Rochiriel chuckles.
+stand
+
+You stand up.
+fly
+emo fans her multicolored wings swiftly, hovering...
+You launch into the air with a powerful downward thrust of your wings.
+
+Wren grins at Rochiriel wryly.
+
+Ivan asks Rochiriel, "I am quite sorry. Forgive me, no?"
+
+Xiija fans her multicolored wings swiftly, hovering...
+
+Kaiya says, "Ah, missed that part. My apologies."
+
+Menfanous smiles at Kaiya.
+
+Rochiriel says to Ivan, "Certainly."
+hov closer to Cascius
+
+You hover closer to Cascius.
+whisp cas wanna sell it?
+
+You whisper to Cascius, "Wanna sell it?".
+
+Rochiriel asks Kaiya, "Did you have any other questions?"
+bat cas
+
+You bat your eyes at Cascius.
+
+Kaiya shakes her head.
+Rochiriel smiles at Kaiya.
+
+Cascius swats at Xiija lightly.
+flai
+
+You flail your arms.
+land
+
+emo flitters her multicolored wings softly before folding them closed...
+furl gently.
+You dive out of the air and land safely.
+
+Xiija flitters her multicolored wings softly before folding them closed...
+
+Ivan glances around briefly and sits on the floor.
+
+Ivan sits down.
+You furl your wings gently.
+
+Cascius asks you, "You were not brave enough to try it but now you want one?"
+emo sits close to Trystan
+
+Xiija sits close to Trystan.
+sit
+
+You sit down.
+
+Trystan chuckles.
+murm cas
+
+You murmur to Cascius.
+
+Rochiriel says, "This proposal is simply to allow for ample discussion on each topic brought forth."
+say cas you dont get to be old by being a fool
+
+You say to Cascius, "You dont get to be old by being a fool."
+smir
+
+You smirk.
+
+Kaiya sighs and raises her hand again.
+
+Trystan murmurs 'no, but it's more fun'.
+
+Ayderias says to Rochiriel, "I think a limit per citizen might be the better way to go."
+gri
+
+You grit your teeth.
+
+Wren laughs at you softly before a hand moves to cover her mouth.
+
+Rochiriel asks Kaiya, "Yes?"
+
+Rochiriel says to Ayderias, "Perhaps that would work as well."
+
+Ayderias listens to Kaiya.
+nod ayd
+
+You nod to Ayderias.
+
+Menfanous says to Ayderias, "What if we have 12 citizens ere and all present one in one night, at 20 to 30 minutes per dat be like 3 and 1/2 hours."
+
+Kaiya asks, "What happens if there are more than six proposals? Let's pretend that Bihi here has five all by his lonesome. I have one, Xiija has one. Emissary Wren has one. Would Bihi have to choose three of his five so that it's fair?"
+
+Rochiriel says to Ayderias, "Although that wouldn't allow for times when only a few citizens have something to bring forth."
+
+Kaiya sighs at Ayderias.
+
+Kaiya says to Ayderias, "Didn't let me go first."
+
+who
+[ARRIVALS] 'Flynt has logged out.'
+   Players Currently Online: 
+ =============================
+
+   Kaiya the Avardi                                            
+   Menfanous the Dwarf                                         
+   Xiija the Sylph                                             
+   Rochiriel the Verdani                                       
+   Wren the Human                                              
+   Garaven the Verdani                                         
+   Ivan the Argali                                             
+   Ayderias the Avardi                                         
+   Trystan the Human                                           
+   Eleanora the Dwarf                                          
+   Cascius the Human                                           
+   Bihi the Bolinau                                            
+   Torin the Argali                                            
+   Blink the Avardi                                            
+
+
+Kaiya hmphs.
+
+who
+[ARRIVALS] 'Flynt has logged on.'
+
+   Players Currently Online: 
+ =============================
+
+   Kaiya the Avardi                                            
+   Flynt the Sylph                                             
+   Menfanous the Dwarf                                         
+   Xiija the Sylph                                             
+   Rochiriel the Verdani                                       
+   Wren the Human                                              
+   Garaven the Verdani                                         
+   Ivan the Argali                                             
+   Ayderias the Avardi                                         
+   Trystan the Human                                           
+   Eleanora the Dwarf                                          
+   Cascius the Human                                           
+   Bihi the Bolinau                                            
+   Torin the Argali                                            
+   Blink the Avardi                                            
+
+
+Rochiriel says to Kaiya, "Yes he would have to hold onto his others until the following month."
+
+Ayderias says to Kaiya, "My apologies."
+
+Kaiya says, "I would suggest a two limit per person, with up to six total per month."
+
+Rochiriel says to Kaiya, "At that point he would need to consider those which he feels most important."
+
+Kaiya nods.
+' all proposals go thru Emissaries first? .. then they decide?
+
+You ask, "All proposals go thru Emissaries first? .. then they decide?"
+
+Menfanous says, "Sorry I mean like 6 hours."
+furr
+
+You furrow your brow.
+
+Ayderias says, "Given the significance your voice can have here, I see no reason why someone needs to focus on more than one proposal at a time."
+nod ayd
+
+You nod to Ayderias.
+
+Rochiriel says to you, "I don't think that is necessary."
+nod  thoughtfully
+
+You nod thoughtfully.
+
+Kaiya asks Ayderias, "What if I have two completely different ideas?"
+
+Blink reads a business document.
+
+Ivan asks, "Could one not also convince another to propose for them if they have more than one?"
+
+Ivan shrugs.
+
+Trystan gestures at Ivan.
+
+Rochiriel nods yes ivan.
+
+Trystan says, "So a rule that's easy enough to get around."
+Ayderias says, "We are here to listen to the people's concerns. If you truly wish to make the city better, you will endure the time it takes to see your multiple proposals through over more than one meeting."
+<HP: 157/157 ST: 123/123>
+Ivan asks, "It is seeming that if an issue is important another should be willing, no?"
+
+Blink says, "Yeah, you could hire a lawyer too."
+
+Kaiya says, "But why would that be needed if the cap of six hadn't been met yet? That just seems silly."
+appl ayd
+
+You applaud Ayderias.
+
+Trystan grins at Blink.
+
+Bihi whispers to you, "Did you get a chance to talk to Ayderias about the sanctuary issue?".
+whisp bih not yet
+
+You whisper to Bihi, "Not yet.".
+
+Blink says, "Each faith also has two Emissaries."
+
+Ayderias says to Rochiriel, "I find it hard to take someone seriously when they bring five proposals to the table."
+
+Rochiriel says to Ayderias, "As do I."
+
+Kaiya says, "For some people, weekends aren't easy to be around for. I wasn't able to make the last Conclave meeting. So if I had two proposals, and lets pretend only four had been made the month prior, one of which was mine, I would have been forced to wait two full months to present my second, just out of a silly rule."
+
+Eleanora says to Ivan, "Gone be the days of swift conclave meetings, not that you may recall."
+
+Kaiya says, "Because I wasn't able to make it to the meeting."
+
+Ivan chuckles at Eleanora.
+
+Ayderias says to Kaiya, "That is what your emissary is for."
+grin ele
+
+You grin at Eleanora.
+
+Blink says to Kaiya, "Or you could ask your Emissary."
+
+Kaiya asks, "Then why let anyone make a proposal, if that is what Emissaries are for?"
+
+Blink says to Ayderias, "Oh, I owe you a milk or something. Sorry to step on you."
+
+Kaiya scratches her head.
+
+Trystan says, "Or we can ask ours to vote against limits."
+say kai pay the Voice to print it for you?
+
+You ask Kaiya, "Pay the Voice to print it for you?"
+
+Ayderias says to Kaiya, "We are here to assist you."
+
+Ivan asks Eleanora, "Did not all proposals go through emissaries first before the meeting then?"
+
+Ayderias says to Kaiya, "If you cannot make it, I will make your proposal on your behalf."
+smi ayd
+
+You smile at Ayderias.
+
+Trystan says, "This does seem an odd day for these meetings."
+
+Ayderias says, "Or Emissary Walkabout."
+
+Kaiya says to Ayderias, "Thank you. These are all just hypotheticals. Reasoning things out in my head."
+
+Ayderias nods.
+say try there is somethyng in the aer tonyte
+
+You say to Trystan, "There is somethyng in the aer tonyte."
+
+Trystan nods to you.
+
+Kaiya says, "Alright, I'm done babbling."
+Blink says, "This rule does have ways to get around, but implementing it may still speed things up. Some simply may choose not to do more than one proposal."
+
+Rochiriel says to Kaiya, "All good questions."
+
+Kaiya smiles at Rochiriel.
+
+Eleanora says to Ivan, "Tat be what emissary hours are for, to be givin' advice and assistance for proposals."
+
+Ayderias says, "We do not wish to limit the voices of the people. Only give each proposal the time it deserves. We cannot do this when we are overwhelmed."
+
+Wren nods to Ayderias.
+
+Rochiriel says to Kaiya, "That is what these open meetings are for. To hear the voice of the people."
+
+Trystan chuckles.
+
+Ivan grunts.
+
+Eleanora says to Ivan, "These days though, many folks bring their own ideas straight to the meetings."
+
+Rochiriel nods her head up and down.
+
+Rochiriel says to Ivan, "It is encouraged."
+
+Kaiya twiddles her thumbs.
+' perhaps a docet, with proposals stacked up , and extra Conclave meetings if it gets too full?
+
+You ask, "Perhaps a docet, with proposals stacked up , and extra Conclave meetings if it gets too full?"
+
+Ivan says to Eleanora, "I always had Bouldermoore deal with you politicians on busine matters."
+
+Ivan chuckles.
+
+Kaiya grins at Ayderias.
+
+Ayderias says to Ivan, "You see where that has gotten him."
+
+who
+[ARRIVALS] 'Torin has logged out.'
+   Players Currently Online: 
+ =============================
+
+   Kaiya the Avardi                                            
+   Flynt the Sylph                                             
+   Menfanous the Dwarf                                         
+   Xiija the Sylph                                             
+   Rochiriel the Verdani                                       
+   Wren the Human                                              
+   Garaven the Verdani                                         
+   Ivan the Argali                                             
+   Ayderias the Avardi                                         
+   Trystan the Human                                           
+   Eleanora the Dwarf                                          
+   Cascius the Human                                           
+   Bihi the Bolinau                                            
+   Blink the Avardi                                            
+
+
+Trystan steps up to the podium.
+
+Blink says to Ayderias, "Oh yes, pardon me Emissary Clarveu. But before I forget, this page is from Ivan. He thinks it may be good for the museum."
+
+Rochiriel says to you, "Perhaps we can address that if and when it happens."
+si roc
+
+You are already seated.
+
+Ivan says to Ayderias, "From what I have heard, too busy."
+smi roc
+
+You smile at Rochiriel.
+
+Blink gives a ripped and yellowed vellum page to Ayderias.
+
+Ayderias raises an eyebrow at Blink.
+
+Rochiriel asks Trystan, "Do you have something you would like to say?"
+
+Wren peers at Ayderias intently.
+
+Ayderias squints at a ripped and yellowed vellum page.
+
+Wren asks Ayderias, "What's it say?"
+
+Trystan nods.
+
+Ayderias reads a torn vellum page.
+
+Trystan points at Ivan.
+
+Trystan says, "To help the others out, may I introduce Ivan Drovosik, recently from the Crowns and formerly of the Land and Sea Exchange."
+<HP: 157/157 ST: 123/123>
+Ayderias reads a ripped and yellowed vellum page.
+
+Bihi whispers to you, "I HATE these meetings.".
+smi try
+
+You smile at Trystan.
+
+Blink waves to Ivan.
+wav iva
+
+You wave to Ivan.
+
+Kaiya waves to Ivan.
+agree bih , her tribal-scrimshawed bone septum piercing winking in the light..
+
+You nod your head up and down to Bihi , her tribal-scrimshawed bone septum piercing winking in the light..
+
+Ayderias says, "It appears to be written in the same hand as the one from the Silverford mine."
+
+Blink says to Ivan, "Yeah welcome back to Pearl."
+
+Ivan grins at Trystan.
+
+Kaiya peers over at Ayderias.
+Ivan stands up.
+
+Rochiriel says to Ivan, "Welcome Ivan."
+
+Ivan bows.
+
+Ayderias asks Ivan, "Where did you find this?"
+
+Wren tilts her head to Ivan.
+
+Kaiya asks Ayderias, "May I see it?"
+
+Trystan steps back.
+
+Wren asks Ivan, "You're in the same business as Bouldermoore?"
+
+Ivan says to Ayderias, "It was on the road from the Crowns."
+
+Rochiriel says to Trystan, "Thank you Prelate."
+
+Trystan nods to Rochiriel.
+
+Trystan gestures and says, "Someone hadta do it."
+grin try
+
+You grin at Trystan.
+
+Rochiriel says to Trystan, "I was trying to get him to do it but was ignored."
+say cas do you carry word to the Crown at all?
+
+You ask Cascius, "Do you carry word to the Crown at all?"
+
+Rochiriel chuckles.
+
+Ivan says, "I found it in some bushes. beneath a rock an ogre had fell over."
+
+Ayderias says, "It says, and I quote, "I've done it! No longer will the ogres terrorize the mines. I succeeded where a dozen brave knights couldn't and I'll be the ones the bards sing about. Gather 'round and listen to the legend of Clyde Silverford! I rather like the sound of that.""
+
+Cascius asks you, "Why would I do such a thing?"
+grunt
+
+You grunt.
+
+Kaiya frowns.
+Ivan nods to Wren I am... or was.
+
+Ayderias furrows his brow.
+
+Wren asks Ivan, "What brings you back to the city then, ey?"
+say cas i merely wished to express thanks for such swift response to our problem
+
+You say to Cascius, "I merely wished to express thanks for such swift response to our problem."
+
+Bihi says, "I don't recall any bard-song about Clyde Silverford."
+blu
+
+You blush.
+
+Kaiya says, "That's because they were all slaughtered before they could write a song."
+
+Ivan says to Wren, "This has always been my home. Aside from where I grew up of course."
+
+Ayderias says, "It certainly seems to match the story. I've requested access to the King's library to see what else I could find on the story."
+
+Blink says, "Perhaps it fell off the journal. I recall they were worried it may fall apart."
+
+Rochiriel asks Ayderias, "Will you keep us informed if you do find anything of interest?"
+
+Ayderias smiles at Rochiriel.
+
+Ayderias says to Rochiriel, "I will indeed."
+
+who
+[ARRIVALS] 'Geel has logged on.'
+   Players Currently Online: 
+ =============================
+
+   Kaiya the Avardi                                            
+   Flynt the Sylph                                             
+   Menfanous the Dwarf                                         
+   Xiija the Sylph                                             
+   Rochiriel the Verdani                                       
+   Wren the Human                                              
+   Garaven the Verdani                                         
+   Ivan the Argali                                             
+   Ayderias the Avardi                                         
+   Trystan the Human                                           
+   Eleanora the Dwarf                                          
+   Cascius the Human                                           
+   Bihi the Bolinau                                            
+   Blink the Avardi                                            
+   Geel the Gavial                                             
+
+
+Ayderias says to Blink, "Perhaps so."
+
+Ivan says to Wren, "It would be nice to erhaps get back into things as well."
+
+Ayderias says, "There were only two pages that remained, at least that were turned in."
+
+Kaiya says to Ayderias, "It could have been from the journal before we got our hands on it."
+
+Ayderias ponders thoughtfully.
+
+Kaiya says, "The journal seemed super old."
+
+Ayderias says to Kaiya, "I suppose so."
+whisp try i have to leave ...
+
+You whisper to Trystan, "I have to leave ...".
+Wren says to Ivan, "Your timing is.. Curious. Perhaps we might speak at some point."
+
+Rochiriel asks, "I wonder if others were lost as well?"
+
+Ayderias says, "Shame we do not have more to piece together the story with."
+
+Bihi says, "I found a vellum page a while back... seemed to have nothing of importance on it."
+
+Wren tilts her head to Bihi.
+
+Kaiya says to Rochiriel, "I would wager it likely. Most people don't write only two pages in a journal."
+
+Ivan says to Wren, "Curious? The blockade only recently was removed."
+
+Rochiriel asks Bihi, "Do you still have it?"
+
+Ayderias asks Ivan, "May I hang on to this page to compare it to the others?"
+
+Trystan whispers to you, "Do you need me to do anything?".
+
+Wren peers at Ivan and smiles lightly.
+agree try , dreadlocks softly falling over a shoulder ...
+
+You nod your head up and down to Trystan , dreadlocks softly falling over a shoulder ...
+Ivan says to Ayderias, "Of course! You know I am not on for books."
+Bihi says to Rochiriel, "Maybe, in my vault or cottage. I'd have to look."
+
+Ivan chuckles.
+
+Wren says to Ivan, "I'll explain later, mister Drovosik."
+
+Ayderias smiles at Ivan.
+
+Ivan nods to Wren.
+
+Ayderias says to Ivan, "You did such a splendid job with my study. I would have suggested otherwise."
+whisp try can you ask on my behalf , i have some fines money ready .. whom do i pay it to?
+
+You whisper to Trystan, "Can you ask on my behalf , I have some fines money ready .. whom do I pay it to?".
+
+Blink takes a drink from a sturdy stoneware mug of cold fresh milk.
+
+Rochiriel asks Bihi, "Perhaps if you find it you may allow Emissary Clarveu to look at it?"
+
+Ivan asks Ayderias, "I make what holds books well, no?"
+
+grin Trystan wryly
+Trystan smiles at you and nods.
+You grin at Trystan wryly.
+
+Ivan grins.
+
+Ayderias says to Bihi, "I would be very interested in seeing this page and comparing it to the others."
+stand
+
+You stand up.
+
+who
+[ARRIVALS] 'Geel has logged out.'
+hug try about the shoulders
+   Players Currently Online: 
+ =============================
+
+   Kaiya the Avardi                                            
+   Flynt the Sylph                                             
+   Menfanous the Dwarf                                         
+   Xiija the Sylph                                             
+   Rochiriel the Verdani                                       
+   Wren the Human                                              
+   Garaven the Verdani                                         
+   Ivan the Argali                                             
+   Ayderias the Avardi                                         
+   Trystan the Human                                           
+   Eleanora the Dwarf                                          
+   Cascius the Human                                           
+   Bihi the Bolinau                                            
+   Blink the Avardi                                            
+
+You hug Trystan about the shoulders.
+fly
+
+emo fans her multicolored wings swiftly, hovering...
+You launch into the air with a powerful downward thrust of your wings.
+Ayderias smiles at Ivan.
+
+Xiija fans her multicolored wings swiftly, hovering...
+wink
+
+You wink.
+go door
+
+
+
+[Conciliatory Chamber, Entrance.]
+
+The marble-floored hallway leads to an thick ebony door with a polished brass lock, a sign upon it proclaims what lies on the other side.  A pair of brass sconces illuminate the wall.  An ornate brass plaque hangs in the light next to the chamber, each of the fourteen representatives engraved on small granite slabs or a blank spot indicating a slot to be filled.  You notice an open thick ebony door.
+
+Obvious Exits: west. 
+
+w
+
+
+
+[Conclave, Grand Foyer.]
+
+The wide open design of the foyer is enhanced by stately white floors and walls, streaks of deep gray running throughout the marble.  Smooth ebony railings and rungs run down either side of the large stairway as it turns, leading to the next floor up.  On the curved wall at the top of the stairs is a large portrait of the king on his throne with a gold scepter at his side.  You notice an open gold-paneled oak door, and a spiraling marble staircase.
+
+Obvious Exits: northwest, east, and south. 
+
+s
+
+
+
+[Conclave Scribe.]
+
+A short winding path, shaped by leaning stacks of paper, leads to the scribe's desk.  On the desk lies piles of vellum and other sheets for writing upon.  A sign rests on the desk indicating the prices for service and writing supplies.  You notice an ornate rosewood desk sign.
+
+Also here: a frazzled scribe 
+
+Obvious Exits: north. 
+
+n
+
+
+
+[Conclave, Grand Foyer.]
+
+The wide open design of the foyer is enhanced by stately white floors and walls, streaks of deep gray running throughout the marble.  Smooth ebony railings and rungs run down either side of the large stairway as it turns, leading to the next floor up.  On the curved wall at the top of the stairs is a large portrait of the king on his throne with a gold scepter at his side.  You notice an open gold-paneled oak door, and a spiraling marble staircase.
+
+Obvious Exits: northwest, east, and south. 
+
+go door
+
+
+
+[Conclave Courtyard.]
+
+The white stone building, home to the conclave, serves as a central location for the diplomatic offices of each of the six religions on Archai.  Of sound dwarven design, the architectural feat is built across the road that runs northeast to the main city gate.  You notice an open gold-paneled oak door.
+
+Obvious Exits: south. 
+
+
+Light wisps of clouds obscure the sky.
+s
+
+
+
+[Conclave Courtyard.]
+
+The stone-paved courtyard leads toward a tall, white stone building. Stone columns on either side of the entrance support a steel gateway connecting the secluded structure to the rest of the city.  A number of windows can be seen to the northeast and far to the north.  The structure stands over a tunnel for the street that passes underneath and exits the city.  Manicured hedges decorate each end of the building.  You notice an open towering reinforced steel gate.
+
+Also here: a portly town crier 
+
+Obvious Exits: north. 
+
+go gate
+
+
+
+[Victory Tunnel, Entrance.]
+
+A sandstone structure of dwarven design hunches over the road to the northeast, creating a tunnel.  The arched entrance is framed with symmetrical sandstone squares that meet at a decorative keystone.  Potted ferns sit at the base of the building on either side of the street.  The center of the city opens up to the southwest.  You notice an open towering reinforced steel gate.
+
+Obvious Exits: southwest, northeast, and west. 
+
+sw
+
+
+
+[City of Pearl, Center.]
+
+Granting an uninhibited view of the bustling shipping industry, a stone seawall bevels out behind a long crescent bench and creates a half-moon addition to the congested crossroads at the heart of the city.  The vast water of the bay expands beyond the southern stone wall.  Ships of all sizes pass by the seafront as they make their way in and out of the harbor to the south.  The streets head in many directions, as well as a tunnel to the northeast.  At the center of the intersection is an elegantly carved monument of a giant pearl atop a tall obelisk.  The base of the centerpiece rests at the bottom of a shallow fountain that has a burning spear pointing down into the water.  A small stone sundial has been carved on the rim of the fountain.  You notice a wooden directional signpost.
+
+Also here: a gold-robed priest 
+
+Obvious Exits: southwest, southeast, northwest, northeast, west, east, and north. 
+
+u
+
+
+
+[Above City of Pearl.]
+
+A stone seawall bevels out from the street below, creating a half-moon addition to the always congested crossroads at the heart of the city.  The vast water of the bay expands beyond that southern stone wall.  Ships of all sizes pass by the seafront as they make their way in and out of the harbor to the south.  At the center of the intersection is an elegantly carved monument of a giant pearl atop a tall obelisk.  The base of the centerpiece rests at the bottom of a fountain.
+
+Obvious Exits: southwest, southeast, northwest, northeast, down, up, west, east, and north. 
+
+quit
+
+y
+Quit -- are you sure (Y/N)?You depart from the world.
+Closed Xiija-offerings.txt on file 1
