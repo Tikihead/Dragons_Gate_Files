@@ -1,0 +1,442 @@
+time
+It is currently 07:04 PM.
+
+l
+
+[Ondine's Fountain]
+The source of the spring's fresh water is here, the liquid bubbling up from deep within the womb of the world. A beautiful naiad sits on a large, flat rock, bathing in the warmth of the sun as it filters through the metallic foliage of the golden oak. Her hair a deep blue and her skin a dozen shades paler. Within her eyes, the observant might notice a swirling vortex of turquoise and cerulean, like the meeting of sky and sea. A few exotic trinkets and useful items have been laid out on the rock around her, as if she were seeking to set up a shop.
+
+The area is illuminated.
+The area is filled with water.
+
+In this room you see: 1st ancient dryad Tithorea, 1st water sprite, 2nd water sprite
+Obvious exits are: southwest, southeast
+
+Tithorea leans against her ancient golden oak tree and begins to sing softly, giving praise to the Twins with her musical voice. As she sings her prayers to the Twins, her tree, the great golden oak, begins to rustle softly, as if trying to sway to her song.
+
+The water sprite giggles softly as it summons a globe of water and throws it to the ground, splashing everyone nearby.
+
+l at tree 
+I don't see what you're referring to.
+
+l at gol 
+I don't see what you're referring to.
+
+l at oak 
+I don't see what you're referring to.
+
+The water sprite giggles softly as it summons a globe of water and throws it to the ground, splashing everyone nearby.
+
+The 2nd water sprite just wandered southeast.
+
+l at an 
+I don't see what you're referring to.
+
+ ** Zaph Woligh just left the world.
+
+pon softly
+You ponder a moment softly.
+
+l
+
+[Ondine's Fountain]
+The source of the spring's fresh water is here, the liquid bubbling up from deep within the womb of the world. A beautiful naiad sits on a large, flat rock, bathing in the warmth of the sun as it filters through the metallic foliage of the golden oak. Her hair a deep blue and her skin a dozen shades paler. Within her eyes, the observant might notice a swirling vortex of turquoise and cerulean, like the meeting of sky and sea. A few exotic trinkets and useful items have been laid out on the rock around her, as if she were seeking to set up a shop.
+
+The area is illuminated.
+The area is filled with water.
+
+In this room you see: 1st ancient dryad Tithorea, 1st water sprite
+Obvious exits are: southwest, southeast
+
+Tithorea leans against her ancient golden oak tree and begins to sing softly, giving praise to the Twins with her musical voice. As she sings her prayers to the Twins, her tree, the great golden oak, begins to rustle softly, as if trying to sway to her song.
+
+The water sprite giggles softly as it summons a globe of water and throws it to the ground, splashing everyone nearby.
+
+The 1st water sprite just wandered southeast.
+
+ ** Kalma Deatacita just arrived in the world
+
+sear
+You begin searching the room...
+[15 sec. delay]
+
+sear
+que clear
+Your command queue has been cleared.
+
+tou t
+You touch the ancient dryad Tithorea.
+
+ ** Kylon Mindreaver just arrived in the world
+
+l at t 
+You see an ancient dryad Tithorea.
+
+A wild mane of tangled blonde hair tumbles down this delicate, willowy creature's back as she moves with a fluid-like grace. Bright, brown eyes the color of oaken bark gaze at the world with naive intelligence. A faint smile stretches her pale, pink lips as she adjusts the vines twining around her body.
+
+It appears to be carrying: 
+         some crowns
+         some marks
+
+
+It looks to be in perfect health.
+It looks non-aggressive.
+It looks like it will be nearly impossible for you to hit.
+It looks like it will be difficult to penetrate its resistance.
+
+Tithorea leans against her ancient golden oak tree and begins to sing softly, giving praise to the Twins with her musical voice. As she sings her prayers to the Twins, her tree, the great golden oak, begins to rustle softly, as if trying to sway to her song.
+
+ ** Kalma Deatacita just left the world.
+
+A water sprite just entered from the southeast.
+
+hum softly
+You hum softly.
+
+l
+
+[Ondine's Fountain]
+The source of the spring's fresh water is here, the liquid bubbling up from deep within the womb of the world. A beautiful naiad sits on a large, flat rock, bathing in the warmth of the sun as it filters through the metallic foliage of the golden oak. Her hair a deep blue and her skin a dozen shades paler. Within her eyes, the observant might notice a swirling vortex of turquoise and cerulean, like the meeting of sky and sea. A few exotic trinkets and useful items have been laid out on the rock around her, as if she were seeking to set up a shop.
+
+The area is illuminated.
+The area is filled with water.
+
+In this room you see: 1st ancient dryad Tithorea, 1st water sprite
+Obvious exits are: southwest, southeast
+
+Tithorea leans against her ancient golden oak tree and begins to sing softly, giving praise to the Twins with her musical voice. As she sings her prayers to the Twins, her tree, the great golden oak, begins to rustle softly, as if trying to sway to her song.
+
+ ** Kalma Deatacita just arrived in the world
+
+nod softly
+You nod softly.
+
+The water sprite giggles softly as it summons a globe of water and throws it to the ground, splashing everyone nearby.
+
+wav to t
+You wave to the 1st ancient dryad Tithorea.
+
+ ** Daphne Thames just left the world.
+
+set vis 1
+invo 30
+You focus your mind inward, bringing back the memory of a foreign place.
+
+You kneel on the ground with your head bowed downwards and your arms raised slightly.
+h
+Invoking this spell cost you 12 mana and 20 faith.
+[15 sec. delay]
+
+HP:  142/142  Ftg:  51/51  MP:  68/80
+
+
+ ** Zenni Drabrock just arrived in the world
+
+trans in 10
+trans in 5
+ ** Thorn Adaymis just arrived in the world
+
+rub arrow
+gest mysteriously...
+You rub your glittering spirit-touched arrowhead on a chain.
+
+You gesture mysteriously...
+
+You suddenly disappear in a flash of light, leaving just a faint symbol of a white wolf behind.
+
+
+[Sanctuary of Eyridane and Morana]
+The small path ends as the trees part, revealing a small clearing. Sunlight filters down from above, splashing the vibrant green grass and wildflowers. The noise of the central part of the grove all but fades away in this quiet sanctuary. An altar of stone rests in the center of the small clearing of verdant grass. Tangled vines have grown wild across the hard stone and though no markings can be seen, it is obvious that this is a place sacred to the twin goddesses of nature. Overhead the soft warbling of songbirds blends with the chirping crickets below into a sublime symphony of sounds. Small trinkets of adoration and worship have been left at the base of the altar, each one a symbol of devotion to their beloved gods.
+
+The area is illuminated.
+
+In this room are: simple stone altar
+Obvious exits are: west, an arch of twisting branches
+
+win in pain...
+You appear in a bright flash of light, momentarily silhouetted by a white wolf.
+
+You wince in pain...
+
+go ar
+
+[Natures Evolution]
+Twisted vines wrapped in ivy create a large circle in the center of the forested area. Several hollow trees sit askew on the outside border of the circle, large openings allowing for passage inside them. Several individuals dressed in green hooded robes stand beside their trees escorting prospective students in and out.
+
+The area is illuminated.
+
+In this room you see: 1st estate knight
+Obvious exits are: west, an arch of twisting branches
+
+w
+
+[Eyranas Garden]
+A small grotto green with life provides a place of peace and serenity.  A small wooden table made of thin planks of wood sits before two wooden benches on either side. A green candle burns casting the aroma of baby pine to the area. Neatly placed stone benches have been placed strategically among the elegant grotto proving resting places for parishioners. A small path which leads west provides exit into the main temple area.
+
+The area is illuminated.
+
+Obvious exits are: east, small path
+
+go p
+
+[Temple of the Eyranas]
+Amazingly the interior of the temple is teaming with life. Birds fly freely amongst the tall trees and shrubs which give the appearance of the outside instead of in. Small animals scurry across the ground in an almost permanent state of play. A large fountain set in the center of the area spouts water high into the air which then settles back into the fountain without even the smallest splash. Statues of the Goddess's lie scattered among the various ponds and gardens of the temple. A small grassy pasture free of any growth takes its place on the northeastern side of the temple which sits beneath a beautiful green, moss covered altar. A gaggle of bushes trimmed to portray letters spells out the word "Life" in the northwestern corner of the temple. A small path that leads through some thick overgrowth to the west provides passage to another room. To the south an overgrown arch provides exit back to the street.
+
+The area is illuminated.
+
+In this room are: moss-covered green marble altar
+Obvious exits are: small path
+
+sit
+You sit down.
+
+Train on-Stance?
+l at Kurapiira 
+
+You see Kurapiira the elderly Fae.
+She is 1' 10" tall with a lithe build, dreadlocked, white hair, deep blue eyes, and black skin.
+She bears the mark of Eyranas.
+She is currently in a nervous mood.
+
+
+A sleeve of multi-colored dragons twists down her left arm from shoulder to wrist.
+
+A small deep blue pentagram is tattooed upon the neck.
+
+On her cheek is a small Tsakaxhua tribal tattoo.
+
+Centered on her forehead is tattooed the Mark of Morana.
+
+Description:
+....White dreadlocks contrast sharply with shiny black skin, while multi-colored tattoos and smoky deep blue eyes, full of magic, add a hint of color to this old, wise Fae...
+
+
+She is carrying:
+ -an aquamarine embedded copper epee                                              (right hand)
+ -an etched silver targe                                                          (left hand)
+ -a light irratacite chainmail                                                   (torso)
+ -a whipcord-braided square jet-buttoned merino sark                             (torso)
+ -a supple brown doeskin archer's wrist guards                                   (hands)
+ -a glittering spirit-touched arrowhead on a chain                               (around neck)
+ -an amber studded bleached whale bone helmet                                     (head)
+ -a wild blue dyed silkroot waist wrap                                           (legs)
+ -a pair of soft padded dancer's foot thongs                                     (feet)
+ -a closed lacquered dark brown maple scroll case                                (on belt)
+ -a long eagle feather shaman's cape with square platinum beads on the collar    (cloak)
+ -a golden brass belly chain                                                     (around waist)
+ -a single platinum-inlaid bird vertebrae hoop earring                           (on ears)
+ -a glittering icicle-shaped crystal septum piercing                             (on nose)
+ -a smooth silver lip ring                                                       (on face)
+ -a traditional Vorngar leather battle dress                                     (torso)
+ -a pair of emerald inlaid moonsilver wingclips                                  (wings)
+
+
+
+who
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+    Currently Connected
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+  Carin Rean
+  Dalzen Clinas
+  Desmond Delavan
+  Gashashaslk Avane
+  Harion Fooshin
+  Jinx Sottle
+  Kalma Deatacita
+  Kurapiira Mako
+  Kylon Mindreaver
+  Lizzie Zchultz
+  Monzal Alale
+  Owen Davintar
+  Rogzel Amberglow
+  Salevos Fereni
+  Seren Prilos
+  Stilatis Steelfang
+  Thesus Dunum
+  Thorn Adaymis
+  Varek Ardel
+  Versul Yerros
+  Waysai Moonscall
+  Wirovel Myhi
+  Wollmaus Eisenhart
+  Zenni Drabrock
+
+    [24 total]
+
+invo 25 Kura
+invo 25 kura
+sk clerical
+You start to vocalize a request to Eyranas. After the first word, a large white wolf begins to appear on the ground underneath Kurapiira.
+h
+Invoking this spell cost you 5 mana and 1 faith.
+[4 sec. delay]
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Skill                Uses     Level
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Clerical Magic       6799      40
+
+
+HP:  142/142  Ftg:  51/51  MP:  75/80
+
+
+The white wolf underneath Kurapiira begins to glow a radiant blue for a few moments before fading back into obscurity.
+
+h
+You feel replenished!
+
+invo 25 kura
+sk clerical
+You start to vocalize a request to Eyranas. After the first word, a large white wolf begins to appear on the ground underneath Kurapiira.
+h
+Invoking this spell cost you 5 mana and 1 faith.
+[4 sec. delay]
+
+HP:  142/142  Ftg:  51/51  MP:  75/80
+
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Skill                Uses     Level
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Clerical Magic       6798      40
+
+
+HP:  142/142  Ftg:  51/51  MP:  75/80
+
+
+The white wolf underneath Kurapiira begins to glow a radiant blue for a few moments before fading back into obscurity.
+
+h
+You feel replenished!
+
+invo 25 kura
+sk clerical
+You start to vocalize a request to Eyranas. After the first word, a large white wolf begins to appear on the ground underneath Kurapiira.
+h
+Invoking this spell cost you 5 mana and 1 faith.
+[4 sec. delay]
+
+HP:  142/142  Ftg:  51/51  MP:  75/80
+
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Skill                Uses     Level
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Clerical Magic       6797      40
+
+
+HP:  142/142  Ftg:  51/51  MP:  75/80
+
+
+The white wolf underneath Kurapiira begins to glow a radiant blue for a few moments before fading back into obscurity.
+
+h
+You feel replenished!
+
+HP:  142/142  Ftg:  51/51  MP:  80/80
+
+
+invo 25 kura
+sk clerical
+You start to vocalize a request to Eyranas. After the first word, a large white wolf begins to appear on the ground underneath Kurapiira.
+h
+Invoking this spell cost you 5 mana and 1 faith.
+[4 sec. delay]
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Skill                Uses     Level
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Clerical Magic       6796      40
+
+
+HP:  142/142  Ftg:  51/51  MP:  75/80
+
+
+The white wolf underneath Kurapiira begins to glow a radiant blue for a few moments before fading back into obscurity.
+
+h
+You feel replenished!
+
+ ** Falin Urtek just arrived in the world
+
+HP:  142/142  Ftg:  51/51  MP:  80/80
+
+
+invo 25 kura
+sk clerical
+You start to vocalize a request to Eyranas. After the first word, a large white wolf begins to appear on the ground underneath Kurapiira.
+h
+Invoking this spell cost you 5 mana and 1 faith.
+[4 sec. delay]
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Skill                Uses     Level
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Clerical Magic       6795      40
+
+
+HP:  142/142  Ftg:  51/51  MP:  75/80
+
+
+The white wolf underneath Kurapiira begins to glow a radiant blue for a few moments before fading back into obscurity.
+
+h
+You feel replenished!
+
+HP:  142/142  Ftg:  51/51  MP:  80/80
+
+
+invo 25 kura
+sk clerical
+You start to vocalize a request to Eyranas. After the first word, a large white wolf begins to appear on the ground underneath Kurapiira.
+h
+Invoking this spell cost you 5 mana and 1 faith.
+[4 sec. delay]
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Skill                Uses     Level
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Clerical Magic       6794      40
+
+
+HP:  142/142  Ftg:  51/51  MP:  75/80
+
+
+The white wolf underneath Kurapiira begins to glow a radiant blue for a few moments before fading back into obscurity.
+
+h
+You feel replenished!
+
+HP:  142/142  Ftg:  51/51  MP:  80/80
+
+
+invo 25 kura
+sk clerical
+You start to vocalize a request to Eyranas. After the first word, a large white wolf begins to appear on the ground underneath Kurapiira.
+h
+Invoking this spell cost you 5 mana and 1 faith.
+[4 sec. delay]
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Skill                Uses     Level
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Clerical Magic       6793      40
+
+
+HP:  142/142  Ftg:  51/51  MP:  75/80
+
+
+The white wolf underneath Kurapiira begins to glow a radiant blue for a few moments before fading back into obscurity.
+
+h
+You feel replenished!
+
+time

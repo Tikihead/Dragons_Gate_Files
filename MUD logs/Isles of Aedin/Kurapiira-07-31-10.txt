@@ -1,0 +1,2914 @@
+time
+It is currently 07:16 PM.
+
+l
+
+[The Lonely Moon: Stars Club, Tavern]
+Behind the heavy oak door, the dimly-lit room opens into a spacious tavern full of glass-topped, lacquered wooden tables and cushioned chairs. A beautifully polished bar, carved with star and tree shapes, is set against the northern wall. Behind the bar top, bottles of liquor, kegs of beer, and all manner of alcoholic beverage are lined up, tapped and waiting for patrons. High-backed stools are set against the bar, allowing patrons to mingle with one another. The cacophonous sounds of talking, laughing, and whispering fill the packed room. The hearty aroma of well-cooked food wafts from the kitchen entrance behind the bar. Servers and bartenders move swiftly back and forth from the tavern to the kitchen. A T-shaped stage is centered at the eastern wall, and though the barmaids and barkeeps continue to move quickly, refilling drinks or bringing food in and out from the kitchen behind the bar, a reverent silence spreads over the customers as entertainers take the stage. Portraits of various famous adventurers decorate the walls, yet the most pronounced portrait of the owner has been hung behind the bar.
+
+The area is illuminated.
+
+In this room you see: Vesper the Silvarin,  Luc the Human (sitting down),  Kyra the Silvarin,  Ad'in the Dragon,  Gilraen the Silvarin,  Aero the Fae,  Heath the Aka'thri,  Glinka the Fae (flying 10 feet above the ground),  Hans the Galirrim (sitting down),  Trey the Duskwen,  Mike the Seraphim,  Throwback the Fae,  Lex the Varanus (sitting down)
+Obvious exits are: open heavy oak door
+
+l at ves
+
+You see Vesper the young Silvarin.
+She is 5' 4" tall with a slender build, curly, red hair, dark gray eyes, and alabaster skin.
+She bears the mark of Eyranas.
+She is currently in a tired mood.
+
+A twisted, dead black oak tree being struck by lightning has been tattooed on her right bicep.
+
+Description:
+Mahogany red hair is pinned up in luminous curls which halo her heart-shaped, high cheek-boned face. Loose curls escape around her delicate, pointed ears and thick lashes edge her mercury eyes.
+
+
+She is carrying:
+ -an adorable fuzzy bunny doll                                               (both hands)
+ -a lacey, pleated, diamond and silver appliqued polonaise                  (torso)
+ -a pair of white, kidskin brass-buttoned gauntlets                         (hands)
+ -a rope of creamy, glistening pearls                                       (around neck)
+ -a wide, diamond-fringed soft black hood                                   (head)
+ -a some billowy, layered silver petticoats                                 (legs)
+ -an open star embossed, glittering diamond and ivory beaded silk sporran    (on belt)
+ -an opalescent, midnight black surplice of stars                            (cloak)
+ -a glinting strand of pale blue sea opals                                  (around wrist)
+ -a pair of large, alabaster pearl teardrop earrings                        (on ears)
+ -a dainty, moonstone starburst nose ring                                   (on nose)
+ -a pair of moonsilver-framed, delicate reading glasses                     (on face)
+
+
+
+** ALPHA CHAT -- Lex says, "missing so many people... it saddens me"
+
+l at lu
+
+You see Luc the adult Human.
+He is 5' 9" tall with a lithe build, pulled back, black hair, hazel eyes, and tanned skin.
+He bears the mark of Johara.
+He is currently in a despairing mood.
+
+On his temples near the hairline are twin black widows with ruby-red backs, their spidery legs reaching up into his hair.
+
+Description:
+Hardened muscles lie underneath his clothes. His movements are a bit slower than normal, as if to hide his true speed and grace.
+
+
+He is carrying:
+ -a simple wooden buckler                                 (left hand)
+ -a polished urdaian steel battle mail                    (torso)
+ -a blue linen tunic with gold stitching on the collar    (torso)
+ -a pair of steel knuckled leather gauntlets              (hands)
+ -a black satin brocade pants                             (legs)
+ -a pair of steel toe banded leather boots                (feet)
+ -a green cotton belt                                     (around waist)
+ -a closed bird bone pipe kit                             (on belt)
+ -a full-length onyx clasped hooded shadowsilk cloak      (cloak)
+
+
+
+l
+
+[The Lonely Moon: Stars Club, Tavern]
+Behind the heavy oak door, the dimly-lit room opens into a spacious tavern full of glass-topped, lacquered wooden tables and cushioned chairs. A beautifully polished bar, carved with star and tree shapes, is set against the northern wall. Behind the bar top, bottles of liquor, kegs of beer, and all manner of alcoholic beverage are lined up, tapped and waiting for patrons. High-backed stools are set against the bar, allowing patrons to mingle with one another. The cacophonous sounds of talking, laughing, and whispering fill the packed room. The hearty aroma of well-cooked food wafts from the kitchen entrance behind the bar. Servers and bartenders move swiftly back and forth from the tavern to the kitchen. A T-shaped stage is centered at the eastern wall, and though the barmaids and barkeeps continue to move quickly, refilling drinks or bringing food in and out from the kitchen behind the bar, a reverent silence spreads over the customers as entertainers take the stage. Portraits of various famous adventurers decorate the walls, yet the most pronounced portrait of the owner has been hung behind the bar.
+
+The area is illuminated.
+
+In this room you see: Vesper the Silvarin,  Luc the Human (sitting down),  Kyra the Silvarin,  Ad'in the Dragon,  Gilraen the Silvarin,  Aero the Fae,  Heath the Aka'thri,  Glinka the Fae (flying 10 feet above the ground),  Hans the Galirrim (sitting down),  Trey the Duskwen,  Mike the Seraphim,  Throwback the Fae,  Lex the Varanus (sitting down)
+Obvious exits are: open heavy oak door
+
+l at ky
+
+You see Kyra the adolescent Silvarin.
+She is 5' 7" tall with a lithe build, braided, white hair, dark green eyes, and lightly tanned skin.
+She bears the mark of Eyranas.
+She is currently in a calculating mood.
+
+
+She is carrying:
+ -a green cotton tunic              (torso)
+ -a pair of green cotton pants      (legs)
+ -a plain sandals                   (feet)
+ -an open simple leather backpack    (on back)
+ -a black sash                      (around waist)
+
+
+
+Aero blinks.
+
+l at ad
+
+You see Ad'in the adult Dragon.
+He is 49' 9" tall with a lithe build, brilliant sapphire eyes, and dusky black scales.
+He bears no god mark.
+He is currently in a confused mood.
+
+
+He is carrying:
+ -a BFG-9000    (both hands)
+
+
+
+Trey cackles at Heath.
+
+l
+
+[The Lonely Moon: Stars Club, Tavern]
+Behind the heavy oak door, the dimly-lit room opens into a spacious tavern full of glass-topped, lacquered wooden tables and cushioned chairs. A beautifully polished bar, carved with star and tree shapes, is set against the northern wall. Behind the bar top, bottles of liquor, kegs of beer, and all manner of alcoholic beverage are lined up, tapped and waiting for patrons. High-backed stools are set against the bar, allowing patrons to mingle with one another. The cacophonous sounds of talking, laughing, and whispering fill the packed room. The hearty aroma of well-cooked food wafts from the kitchen entrance behind the bar. Servers and bartenders move swiftly back and forth from the tavern to the kitchen. A T-shaped stage is centered at the eastern wall, and though the barmaids and barkeeps continue to move quickly, refilling drinks or bringing food in and out from the kitchen behind the bar, a reverent silence spreads over the customers as entertainers take the stage. Portraits of various famous adventurers decorate the walls, yet the most pronounced portrait of the owner has been hung behind the bar.
+
+The area is illuminated.
+
+In this room you see: Vesper the Silvarin,  Luc the Human (sitting down),  Kyra the Silvarin,  Ad'in the Dragon,  Gilraen the Silvarin,  Aero the Fae,  Heath the Aka'thri,  Glinka the Fae (flying 10 feet above the ground),  Hans the Galirrim (sitting down),  Trey the Duskwen,  Mike the Seraphim,  Throwback the Fae,  Lex the Varanus (sitting down)
+Obvious exits are: open heavy oak door
+
+
+Aero asks, "lex Like who?"
+
+l at gil
+
+You see Gilraen the young Silvarin.
+He is 5' 10" tall with a well toned build, straight, white hair, dark green eyes, and tanned skin.
+He bears the mark of Cassien.
+He is currently in a bored mood.
+
+He has had the following titles bestowed upon him:
+  -Apprentice
+
+He is carrying:
+ -a charred dagger                   (right hand)
+ -a damaged parrying dagger          (left hand)
+ -a simple leather armor             (torso)
+ -a simple cotton shirt              (torso)
+ -a long, wide, red satin bandana    (head)
+ -a pair of black cotton pants       (legs)
+ -a pair of black combat boots       (feet)
+
+
+
+l at ae
+
+You see Aero the young Fae.
+He is 1' 4" tall with a slender build, cropped, platinum blonde hair, crystal blue eyes, and pale skin.
+He bears the mark of Johara.
+He is currently in a neutral mood.
+
+
+He is carrying:
+ -a star-hilted bloodsteel colichemarde    (right hand)
+ -a skull-etched dull yellow carapace      (torso)
+ -a simple cotton shirt                    (torso)
+ -a pair of tattered cotton pants          (legs)
+
+
+
+l
+
+[The Lonely Moon: Stars Club, Tavern]
+Behind the heavy oak door, the dimly-lit room opens into a spacious tavern full of glass-topped, lacquered wooden tables and cushioned chairs. A beautifully polished bar, carved with star and tree shapes, is set against the northern wall. Behind the bar top, bottles of liquor, kegs of beer, and all manner of alcoholic beverage are lined up, tapped and waiting for patrons. High-backed stools are set against the bar, allowing patrons to mingle with one another. The cacophonous sounds of talking, laughing, and whispering fill the packed room. The hearty aroma of well-cooked food wafts from the kitchen entrance behind the bar. Servers and bartenders move swiftly back and forth from the tavern to the kitchen. A T-shaped stage is centered at the eastern wall, and though the barmaids and barkeeps continue to move quickly, refilling drinks or bringing food in and out from the kitchen behind the bar, a reverent silence spreads over the customers as entertainers take the stage. Portraits of various famous adventurers decorate the walls, yet the most pronounced portrait of the owner has been hung behind the bar.
+
+The area is illuminated.
+
+In this room you see: Vesper the Silvarin,  Luc the Human (sitting down),  Kyra the Silvarin,  Ad'in the Dragon,  Gilraen the Silvarin,  Aero the Fae,  Heath the Aka'thri,  Glinka the Fae (flying 10 feet above the ground),  Hans the Galirrim (sitting down),  Trey the Duskwen,  Mike the Seraphim,  Throwback the Fae,  Lex the Varanus (sitting down)
+Obvious exits are: open heavy oak door
+
+
+Lex says to Aero, "beor, sammoth"
+
+Lex shrugs.
+
+l at he
+
+You see Heath the mature Aka'thri.
+He is 5' 7" tall with a muscular build, None, silvery gray fur, amber eyes, and gray skin.
+He bears the mark of Eyranas.
+He is currently in a neutral mood.
+
+He has had the following titles bestowed upon him:
+  -Apprentice
+
+He is carrying:
+ -a simple cotton shirt              (torso)
+ -a pair of tattered cotton pants    (legs)
+
+
+
+l at gl
+
+You see Glinka the adolescent Fae.
+She is 1' 10" tall with a slender build, dreadlocked, white hair, crystal blue eyes, and pale skin.
+She bears the mark of Cassien.
+She is currently in a sleepy mood.
+
+Description:
+She is shivering in the cold wynd to Valhalla
+
+
+She is carrying:
+ -a bouquet of colorful flowers                     (right hand)
+ -a damaged simple wooden buckler                   (left hand)
+ -a thick hawthorn armor                            (torso)
+ -a whale-bone inlaid, floral brocade bustier       (torso)
+ -a twisted gold and silver torc                    (around neck)
+ -a pair of hip-tied billowy wyrmsilk pantaloons    (legs)
+ -a pair of white thigh high boots                  (feet)
+ -a some sparkling wing streamers                   (on back)
+ -a tarnished gold belly chain                      (around waist)
+ -a glittering diamond nose stud                    (on nose)
+ -a black cotton face mask                          (on face)
+
+
+
+Kyra retreats 2 units.
+
+
+Lex asks, "victor?"
+
+l
+
+[The Lonely Moon: Stars Club, Tavern]
+Behind the heavy oak door, the dimly-lit room opens into a spacious tavern full of glass-topped, lacquered wooden tables and cushioned chairs. A beautifully polished bar, carved with star and tree shapes, is set against the northern wall. Behind the bar top, bottles of liquor, kegs of beer, and all manner of alcoholic beverage are lined up, tapped and waiting for patrons. High-backed stools are set against the bar, allowing patrons to mingle with one another. The cacophonous sounds of talking, laughing, and whispering fill the packed room. The hearty aroma of well-cooked food wafts from the kitchen entrance behind the bar. Servers and bartenders move swiftly back and forth from the tavern to the kitchen. A T-shaped stage is centered at the eastern wall, and though the barmaids and barkeeps continue to move quickly, refilling drinks or bringing food in and out from the kitchen behind the bar, a reverent silence spreads over the customers as entertainers take the stage. Portraits of various famous adventurers decorate the walls, yet the most pronounced portrait of the owner has been hung behind the bar.
+
+The area is illuminated.
+
+In this room you see: Vesper the Silvarin,  Luc the Human (sitting down),  Kyra the Silvarin,  Ad'in the Dragon,  Gilraen the Silvarin,  Aero the Fae,  Heath the Aka'thri,  Glinka the Fae (flying 10 feet above the ground),  Hans the Galirrim (sitting down),  Trey the Duskwen,  Mike the Seraphim,  Throwback the Fae,  Lex the Varanus (sitting down)
+Obvious exits are: open heavy oak door
+
+
+Aero says to Lex, "Oh, them..."
+
+
+Lex says, "eleni"
+
+Lex laughs.
+
+
+Ad'in says, "Sammoth is going to be here in a min, I just bitched him out."
+
+l at hans
+Kyra whispers to you, "Long time no see! It's Nyoko."
+
+
+You see Hans the adult Galirrim.
+He is 10' 1" tall with a muscular build, perfectly white fur, amber eyes, and deep blue skin.
+He bears the mark of Eyranas.
+He is currently in a neutral mood.
+
+
+He is carrying:
+ -a pair of tattered cotton pants    (legs)
+
+
+
+Ad'in nods.
+
+l at tr
+
+You see Trey the adult Duskwen.
+He is 5' 10" tall with a muscular build, dreadlocked, bluish black hair, black eyes, and black skin.
+He bears the mark of Johara.
+He is currently in a neutral mood.
+
+
+He is carrying:
+ -a polished urdaian steel battle mail               (torso)
+ -a skull embossed black leather tunic               (torso)
+ -a pair of burnished dark brown leather breeches    (legs)
+ -a pair of calf-high, cuffed hunting boots          (feet)
+ -a green doeskin arrow shoulderbelt                 (on back)
+ -a supple leather patchwork cape                    (cloak)
+
+
+
+l
+
+[The Lonely Moon: Stars Club, Tavern]
+Behind the heavy oak door, the dimly-lit room opens into a spacious tavern full of glass-topped, lacquered wooden tables and cushioned chairs. A beautifully polished bar, carved with star and tree shapes, is set against the northern wall. Behind the bar top, bottles of liquor, kegs of beer, and all manner of alcoholic beverage are lined up, tapped and waiting for patrons. High-backed stools are set against the bar, allowing patrons to mingle with one another. The cacophonous sounds of talking, laughing, and whispering fill the packed room. The hearty aroma of well-cooked food wafts from the kitchen entrance behind the bar. Servers and bartenders move swiftly back and forth from the tavern to the kitchen. A T-shaped stage is centered at the eastern wall, and though the barmaids and barkeeps continue to move quickly, refilling drinks or bringing food in and out from the kitchen behind the bar, a reverent silence spreads over the customers as entertainers take the stage. Portraits of various famous adventurers decorate the walls, yet the most pronounced portrait of the owner has been hung behind the bar.
+
+The area is illuminated.
+
+In this room you see: Vesper the Silvarin,  Luc the Human (sitting down),  Kyra the Silvarin,  Ad'in the Dragon,  Gilraen the Silvarin,  Aero the Fae,  Heath the Aka'thri,  Glinka the Fae (flying 10 feet above the ground),  Hans the Galirrim (sitting down),  Trey the Duskwen,  Mike the Seraphim,  Throwback the Fae,  Lex the Varanus (sitting down)
+Obvious exits are: open heavy oak door
+
+
+Lex says, "she promised to come back, she never did"
+
+
+Vesper says, "If anyone is hidden in this room... don't be."
+
+Luc grins at Ad'in.
+
+Lex chuckles.
+
+l at mik
+
+You see Mike the adult Seraphim.
+He is 6' 9" tall with a muscular build, untamed, platinum blonde hair, glowing white eyes, and lightly tanned skin.
+He bears the mark of Thaessilgan.
+He is currently in a neutral mood.
+
+He has had the following titles bestowed upon him:
+  -Apprentice
+
+He is carrying:
+ -an untucked deep blue button up collared shirt    (torso)
+ -a black and silver Rolex watch                   (hands)
+ -a silver engvraved thumb ring                    (finger)
+ -a simple silver cross                            (around neck)
+ -a slightly faded blue jeans                      (legs)
+ -a pair of schnazzy Rockports                     (feet)
+ -a black Armani Mandarin-cut suit jacket          (cloak)
+
+
+
+l at thr
+
+You see Throwback the adult Fae.
+He is 1' 8" tall with a lithe build, dreadlocked, forest green hair, forest green eyes, and lavendar skin.
+He bears the mark of Eyranas.
+He is currently in a neutral mood.
+
+He has had the following titles bestowed upon him:
+  -Apprentice
+
+He is carrying:
+ -a simple cotton shirt              (torso)
+ -a pair of tattered cotton pants    (legs)
+
+
+
+Luc glances at Vesper.
+
+l
+
+[The Lonely Moon: Stars Club, Tavern]
+Behind the heavy oak door, the dimly-lit room opens into a spacious tavern full of glass-topped, lacquered wooden tables and cushioned chairs. A beautifully polished bar, carved with star and tree shapes, is set against the northern wall. Behind the bar top, bottles of liquor, kegs of beer, and all manner of alcoholic beverage are lined up, tapped and waiting for patrons. High-backed stools are set against the bar, allowing patrons to mingle with one another. The cacophonous sounds of talking, laughing, and whispering fill the packed room. The hearty aroma of well-cooked food wafts from the kitchen entrance behind the bar. Servers and bartenders move swiftly back and forth from the tavern to the kitchen. A T-shaped stage is centered at the eastern wall, and though the barmaids and barkeeps continue to move quickly, refilling drinks or bringing food in and out from the kitchen behind the bar, a reverent silence spreads over the customers as entertainers take the stage. Portraits of various famous adventurers decorate the walls, yet the most pronounced portrait of the owner has been hung behind the bar.
+
+The area is illuminated.
+
+In this room you see: Vesper the Silvarin,  Luc the Human (sitting down),  Kyra the Silvarin,  Ad'in the Dragon,  Gilraen the Silvarin,  Aero the Fae,  Heath the Aka'thri,  Glinka the Fae (flying 10 feet above the ground),  Hans the Galirrim (sitting down),  Trey the Duskwen,  Mike the Seraphim,  Throwback the Fae,  Lex the Varanus (sitting down)
+Obvious exits are: open heavy oak door
+
+ ** Sammoth Stoneclaw just arrived in the world
+
+l at le
+
+You see Lex the adolescent Varanus.
+She is 6' 11" tall with a lithe build, silvery eyes, and dark russet scales.
+She bears the mark of Thaessilgan.
+She is currently in a confused mood.
+
+Description:
+Her shoulders are hunched over as if she is trying to disguise her towering height, and her face is hidden behind shadowy veils, leaving only her eyes visible to glow with an unsettling inner light.
+
+
+She is carrying:
+ -a perfectly molded vallinium battlemail       (torso)
+ -a front-laced dark red tunic shirt            (torso)
+ -a pair of fingerless, wyrmsilk gauntlets      (hands)
+ -a pair of black cotton pants                  (legs)
+ -a pair of supple black goblin skin boots      (feet)
+ -an open gold threaded dark velvet beltpouch    (on belt)
+ -a beautiful billowing black velvet mantle     (cloak)
+ -a red sash                                    (around waist)
+ -a black cotton face mask                      (on face)
+
+
+
+l
+
+[The Lonely Moon: Stars Club, Tavern]
+Behind the heavy oak door, the dimly-lit room opens into a spacious tavern full of glass-topped, lacquered wooden tables and cushioned chairs. A beautifully polished bar, carved with star and tree shapes, is set against the northern wall. Behind the bar top, bottles of liquor, kegs of beer, and all manner of alcoholic beverage are lined up, tapped and waiting for patrons. High-backed stools are set against the bar, allowing patrons to mingle with one another. The cacophonous sounds of talking, laughing, and whispering fill the packed room. The hearty aroma of well-cooked food wafts from the kitchen entrance behind the bar. Servers and bartenders move swiftly back and forth from the tavern to the kitchen. A T-shaped stage is centered at the eastern wall, and though the barmaids and barkeeps continue to move quickly, refilling drinks or bringing food in and out from the kitchen behind the bar, a reverent silence spreads over the customers as entertainers take the stage. Portraits of various famous adventurers decorate the walls, yet the most pronounced portrait of the owner has been hung behind the bar.
+
+The area is illuminated.
+
+In this room you see: Vesper the Silvarin,  Luc the Human (sitting down),  Kyra the Silvarin,  Ad'in the Dragon,  Gilraen the Silvarin,  Aero the Fae,  Heath the Aka'thri,  Glinka the Fae (flying 10 feet above the ground),  Hans the Galirrim (sitting down),  Trey the Duskwen,  Mike the Seraphim,  Throwback the Fae,  Lex the Varanus (sitting down)
+Obvious exits are: open heavy oak door
+
+** ALPHA CHAT -- Sammoth says, "Whoa."
+
+Mike nods to Throwback.
+
+Sammoth just appeared in a flash of light.
+
+Throwback grins.
+
+
+Luc says, "i might have to leave half way through, depends on when the ribs get done"
+
+** ALPHA CHAT -- Sammoth says, "Yo, what up hippies?"
+
+Luc howls at Sammoth.
+
+l at sa
+
+You see Sammoth the adult Galirrim.
+He is 11' 0" tall with a muscular build, glossy black fur, ruby red eyes, and deeply tanned skin.
+He bears the mark of Eyranas.
+He is currently in a calm mood.
+
+
+He is carrying:
+ -a fetter bound, moonsteel grand klaive    (both hands)
+ -a tight red leather warrior's briefs      (legs)
+ -a wide black leather baldric              (on back)
+ -a red and black striped war paint         (on face)
+
+
+
+Lex pulls on Sammoth.
+
+
+Vesper says to Sammoth, "GET OVER HERE"
+
+Lex holds Sammoth.
+
+Sammoth chuckles.
+
+Sammoth hugs Lex tightly.
+
+flai to lu
+You flail your arms to Luc.
+
+Lex grins.
+
+Luc flails his arms at you.
+
+Sammoth hugs Vesper 'till she pops!.
+
+Vesper giggles.
+
+Lex chuckles.
+
+
+Luc asks Sammoth, "what no hug for me?"
+
+Luc snorts.
+
+
+Luc says, "ass"
+
+Lex snickers at Luc.
+
+
+Sammoth says, "I didn't see you there..."
+
+Kyra hugs Luc as tight as she can.
+
+who
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+    Currently Connected
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+Gilraen Odo
+Gast Ironmaw
+Trey Falgar
+Luc Moloson
+Kurapiira Mako
+Vesper Yvaine
+Hans Wolfgang
+Glinka Dragondsfriend
+Lex Alkaline
+Kyra Okami
+Ad'in Ubah
+Throwback Dufae
+Karl Goldminer
+Aero Manzer
+Heath Fane
+Mike Rao
+Sammoth Stoneclaw
+
+    [17 total]
+
+Lex rolls her eyes.
+
+Luc winks at Kyra.
+
+Sammoth mutters damn kids....
+
+** ALPHA CHAT -- Vesper says, "KARL AND GAST... do you wish to come to the RP meeting?"
+
+
+Luc says to Sammoth, "nevermind, i got it"
+
+Sammoth hugs Luc.
+
+Luc grins.
+
+Kyra bats her eyes at Luc.
+
+l
+
+[The Lonely Moon: Stars Club, Tavern]
+Behind the heavy oak door, the dimly-lit room opens into a spacious tavern full of glass-topped, lacquered wooden tables and cushioned chairs. A beautifully polished bar, carved with star and tree shapes, is set against the northern wall. Behind the bar top, bottles of liquor, kegs of beer, and all manner of alcoholic beverage are lined up, tapped and waiting for patrons. High-backed stools are set against the bar, allowing patrons to mingle with one another. The cacophonous sounds of talking, laughing, and whispering fill the packed room. The hearty aroma of well-cooked food wafts from the kitchen entrance behind the bar. Servers and bartenders move swiftly back and forth from the tavern to the kitchen. A T-shaped stage is centered at the eastern wall, and though the barmaids and barkeeps continue to move quickly, refilling drinks or bringing food in and out from the kitchen behind the bar, a reverent silence spreads over the customers as entertainers take the stage. Portraits of various famous adventurers decorate the walls, yet the most pronounced portrait of the owner has been hung behind the bar.
+
+The area is illuminated.
+
+In this room you see: Vesper the Silvarin,  Luc the Human (sitting down),  Kyra the Silvarin,  Ad'in the Dragon,  Gilraen the Silvarin,  Aero the Fae,  Heath the Aka'thri,  Glinka the Fae (flying 10 feet above the ground),  Hans the Galirrim (sitting down),  Trey the Duskwen,  Mike the Seraphim,  Throwback the Fae,  Lex the Varanus (sitting down),  Sammoth the Galirrim
+Obvious exits are: open heavy oak door
+
+** ALPHA CHAT -- Karl says, "Sure"
+
+Luc cackles.
+
+who
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+    Currently Connected
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+Gilraen Odo
+Gast Ironmaw
+Trey Falgar
+Luc Moloson
+Kurapiira Mako
+Vesper Yvaine
+Hans Wolfgang
+Glinka Dragondsfriend
+Lex Alkaline
+Kyra Okami
+Ad'in Ubah
+Throwback Dufae
+Karl Goldminer
+Aero Manzer
+Heath Fane
+Mike Rao
+Sammoth Stoneclaw
+
+    [17 total]
+
+
+Lex says to Luc, "me thinks you got a groupie"
+
+Karl just appeared in a flash of light.
+
+Hans hugs Luc with twp hands around his throat.
+
+** ALPHA CHAT -- Gast says, "ill pass"
+
+
+Luc says, "ok, back to bein quiet"
+
+** ALPHA CHAT -- Vesper says, "Ok.."
+
+l at kar
+
+You see Karl the mature Human.
+He is 5' 8" tall with a gaunt build, cropped, white hair, pale blue eyes, and pale skin.
+He bears the mark of Johara.
+He is currently in a neutral mood.
+
+He has had the following titles bestowed upon him:
+  -Apprentice
+
+He is carrying:
+ -a simple cotton shirt              (torso)
+ -a pair of tattered cotton pants    (legs)
+
+
+
+
+Karl says, "No Lex in TSC. I'm hurt."
+
+Luc flails his arms at Hans.
+
+Karl sighs.
+
+Lex laughs.
+
+Luc chokes Hans.
+
+Vesper grins.
+
+
+Lex says, "i was told that vesper would poof people"
+
+Lex sniffles.
+
+Lex hugs Karl.
+
+chu
+You chuckle.
+
+
+Vesper exclaims to Lex, "I did!"
+
+
+Lex exclaims to Vesper, "but.. but.. i let someone down!"
+
+Lex flails her arms.
+
+Mike ponders a moment.
+
+
+Trey says, "gast is sitting right next to me he said he will just watch my screen lol"
+
+
+Vesper says to Lex, "Tough noogies"
+
+
+Aero says to Lex, "Won't be the last time."
+
+
+Karl says, "Well just as well. The knees go fast in Humans."
+
+Lex whines at Vesper.
+
+Aero comforts Lex.
+
+Karl sits down.
+
+Luc raises an eyebrow.
+
+
+Lex exclaims to Vesper, "no more Kurmthas for you!"
+
+Lex pouts.
+
+Vesper pets Lex.
+
+
+Luc says to Trey, "tell him i said hey"
+
+
+Luc says, "well"
+
+
+Luc says, "i mean"
+
+
+Luc exclaims, "HEY DUDE!"
+
+
+Vesper says to Lex, "That just means no Kurmthas for ANYONE"
+
+Kyra snickers.
+
+Lex whines at Vesper and pouts in a corner.
+
+Sammoth comforts Lex.
+
+ ** Gast Ironmaw just left the world.
+
+Trey waves at Luc.
+
+
+Vesper yells, "OK EVERYONE!"
+
+Luc blinks.
+
+Luc shudders.
+
+
+Vesper says, "I'm going to ask that you keep talkies to a minimum while we get this going"
+
+Kyra hums then runs her fingers across her lips like a zipper.
+
+Luc stands up.
+
+Luc retreats 3 units.
+
+Luc sits down.
+
+
+Mike says, "By minimum, we mean none."
+
+
+Mike says, "Keep it in whispers, avoid emotes for the sake of good logs. :)"
+
+ ** Mordin Thark just arrived in the world
+
+
+Vesper says, "What we're going to be doing is setting up a list of questions, so if you have a question, whisper to me and I will keep hands"
+
+wh to mike are you logging the meeting?
+Mike is too far away to whisper to.
+
+l
+
+[The Lonely Moon: Stars Club, Tavern]
+Behind the heavy oak door, the dimly-lit room opens into a spacious tavern full of glass-topped, lacquered wooden tables and cushioned chairs. A beautifully polished bar, carved with star and tree shapes, is set against the northern wall. Behind the bar top, bottles of liquor, kegs of beer, and all manner of alcoholic beverage are lined up, tapped and waiting for patrons. High-backed stools are set against the bar, allowing patrons to mingle with one another. The cacophonous sounds of talking, laughing, and whispering fill the packed room. The hearty aroma of well-cooked food wafts from the kitchen entrance behind the bar. Servers and bartenders move swiftly back and forth from the tavern to the kitchen. A T-shaped stage is centered at the eastern wall, and though the barmaids and barkeeps continue to move quickly, refilling drinks or bringing food in and out from the kitchen behind the bar, a reverent silence spreads over the customers as entertainers take the stage. Portraits of various famous adventurers decorate the walls, yet the most pronounced portrait of the owner has been hung behind the bar.
+
+The area is illuminated.
+
+In this room you see: Vesper the Silvarin,  Luc the Human (sitting down),  Kyra the Silvarin,  Ad'in the Dragon,  Gilraen the Silvarin,  Aero the Fae,  Heath the Aka'thri,  Glinka the Fae (flying 10 feet above the ground),  Hans the Galirrim (sitting down),  Trey the Duskwen,  Throwback the Fae,  Lex the Varanus (sitting down),  Sammoth the Galirrim,  Karl the Human (sitting down),  Mike the Seraphim
+Obvious exits are: open heavy oak door
+
+
+Aero asks, "Uhh before we start just to avoid tact dancing can everyone move to center of the room then, in case we need to whisper without chasing each other around?"
+
+adv ves
+You advance 2 units.
+
+Glinka advances 2 units.
+
+Sammoth retreats 3 units.
+
+Luc stands up.
+
+Vesper nods to Aero.
+
+Luc advances 5 units.
+
+Aero advances 2 units.
+
+beam
+You beam.
+
+Lex stands up.
+
+Lex advances 3 units.
+
+
+Aero says, "Or go to Vesper"
+
+Aero nods.
+
+Lex sits down.
+
+Throwback advances 2 units.
+
+sit
+You sit down.
+
+Luc retreats 3 units.
+
+Luc pets Vesper.
+
+Lex rolls her eyes.
+
+Lex stands up.
+
+Luc sits down.
+
+Throwback sits down.
+
+Lex retreats 3 units.
+
+Vesper grumbles.
+
+Kyra advances 2 units.
+
+Lex sits down.
+
+sit
+You are already sitting.
+
+sit
+You are already sitting.
+
+Kyra advances 3 units.
+
+Trey advances 2 units.
+
+Diving downwards, Glinka deftly extends her wings and touches down gracefully.
+
+Mike ponders a moment.
+
+Glinka sits down.
+
+Kyra sits down.
+
+Gilraen retreats 2 units.
+
+ ** Devin Falcoon just arrived in the world
+
+Vesper glances.
+
+Gilraen advances 1 units.
+
+Devin just appeared in a flash of light.
+
+Heath advances 2 units.
+
+Hans stands up.
+
+
+Mike says, "Alright, let's try this."
+
+Hans advances 1 units.
+
+l at de
+
+You see Devin the mature Vorngar.
+She is 4' 5" tall with a well toned build, wavy, white hair, sapphire blue eyes, and ruddy skin.
+She bears the mark of Thaessilgan.
+She is currently in a neutral mood.
+
+
+She is carrying:
+ -a serrated hyena engraved obsidian broadsword    (right hand)
+ -a serrated obsidian parrying dagger              (left hand)
+ -a banded black leather armor                     (torso)
+ -a rabid bunny costume                            (torso)
+
+
+
+Hans sits down.
+
+
+Mike says, "Everyone advance or retreat to me."
+
+
+Devin asks, "am I late?"
+
+
+Mike exclaims, "Go!"
+
+
+Lex says to Devin, "yes"
+
+Kyra stands up.
+
+Devin advances 3 units.
+
+
+Vesper says to Devin, "YES"
+
+Kyra babbles at Mike.
+
+Throwback stands up.
+
+Luc stands up.
+
+Sammoth advances 1 units.
+
+Vesper glares at Devin.
+
+Hans stands up.
+
+Kyra retreats 2 units.
+
+Hans advances 1 units.
+
+Throwback retreats 2 units.
+
+Hans sits down.
+
+tac
+You are currently standing 3 units behind center.
+
+Standing 8 units in front of you:
+Ad'in
+Standing at center:
+Heath, Trey
+Standing 1 units in front of you:
+Kyra, Hans, Throwback, Sammoth, Karl, Mike, Devin
+Standing in your rank:
+Vesper, Luc, Kurapiira, Gilraen, Aero, Glinka, Lex
+
+
+Luc sighs at Mike.
+
+Throwback sits down.
+
+Kyra sits down.
+
+Luc sits down.
+
+Trey retreats 2 units.
+
+Heath retreats 2 units.
+
+Aero advances 1 units.
+
+Lex stands up.
+
+Lex advances 1 units.
+
+Lex grumbles.
+
+Lex sits down.
+
+Ad'in retreats 8 units.
+
+
+Mike says, "Awesome, everyone is in range of a whisper now."
+
+
+Mike says, "Alright guys, first thing's first - if you have a question, please whisper your your question to Vesper."
+
+
+Vesper says, "Okies. So If you have a question, whisper to me and I'll add you on the list and call you."
+
+Mordin just appeared in a flash of light.
+
+Vesper nods to Devin.
+
+l at mor
+
+You see Mordin the adolescent Goblin.
+He is 3' 3" tall with a well toned build, messy, forest green hair, dark green eyes, and yellowish green skin.
+He bears the mark of Cassien.
+He is currently in a neutral mood.
+
+He has had the following titles bestowed upon him:
+  -Apprentice
+
+He is carrying:
+ -a simple cotton shirt              (torso)
+ -a pair of tattered cotton pants    (legs)
+
+
+
+Kyra hugs Mordin then sits quietly as was asked..
+
+
+Vesper asks Mordin, "Mind tacting to us?"
+
+Vesper smiles at Mordin.
+
+
+Vesper says, "Just to clarify, whisper to me that you have a question, not the question itself."
+
+Vesper nods to Devin.
+
+
+Vesper exclaims, "First question, GLINKA!"
+
+
+Glinka says, "woohoo"
+
+Devin slaps Luc.
+
+
+Glinka says, "i've had some folks mention stuff like auto-standing, and trigger actions"
+
+
+Glinka asks, "any problems with stuff like that?"
+
+Glinka raises an eyebrow.
+
+Glinka leans on you.
+
+
+Ad'in says, "So, this is sort of a grey area."
+
+Glinka nods.
+
+
+Ad'in says, "Basically, triggers that grant an unfair advantage by doing things at superhuman speed are not allowed."
+
+
+Ad'in says, "Things like sitting outside a bank with a pickpocket trigger."
+
+Glinka nods.
+
+
+Ad'in says, "Triggers like you have, for example, responding to hugs or whatever are fine."
+
+
+Mordin says, "walks into the tavern, looking around with his green goblin eyes and finds himself a table to sit at. He raises a hand to order a drink from the bartender before taking words. "Greetings, travellers.""
+
+Glinka nods.
+
+
+Ad'in says, "The grey area is in fighting monsters. Triggers that basically amount to auto hunting are not allowed."
+
+
+Glinka asks, "wold auto stand after a tackle be okay?"
+
+
+Ad'in says, "Anything else is probably okay."
+
+Glinka nods.
+
+
+Sammoth exclaims, "NO!"
+
+Sammoth grunts.
+
+Glinka pokes Sammoth.
+
+
+Ad'in says, "You won't get banned over it, but insta reacting to that sort of thing probably isn't a good idea in terms of imersion."
+
+Glinka nods.
+
+
+Glinka says, "kk..done"
+
+Vesper nods.
+
+
+Vesper says, "Ok, Next is Throwback, Please ask your question."
+
+
+Throwback says, "maybe just what sort of stuff an average person around here would know. Celeberties, recent history, important people, stuff like that."
+
+Throwback shrugs.
+
+
+Mike says, "I'll take this one."
+
+Throwback grins.
+
+
+Mike says, "Basically, anything that is public knowledge (on the website) is free game for players to know."
+
+
+Mike says, "You could hypotheically play someone more ignorant, if you so desired, but if it's posted on the boards, that information is available to be learned relatively easily."
+
+
+Mike says, "Ultimately, it'd be a good idea to justify your knowledges - it might be a little unrealistic for a dwarf to know the deep dark secrets of the elves - but if you so desire to write a backstory that makes sense, you're welcome to do so."
+
+
+Mike says, "You could be a dwarf with a minor in elven history, for example."
+
+Vesper nods to Lex.
+
+
+Mike asks Throwback, "Did I miss anything?"
+
+
+Throwback asks, "so there is a college type of educational system then?"
+
+
+Vesper says to Throwback, "There is a loose collection of knowledge in the Isle of Parndin in the Imperial City of Danewyr"
+
+
+Vesper says to Throwback, "If you take a look at the Archspire page on the website, it gives a brief description of the library history and what it might contain"
+
+Throwback nods.
+
+
+Mike says, "The minor in elven history was a joke, if you were wondering."
+
+
+Throwback says, "ah"
+
+
+Throwback says, "that was it then. Thank you."
+
+
+Vesper says, "I want to make a point that we are seriously encouraging players to come up with lore stories, customs, tenets, and history for the world as well. All things might not be considered "truth" but there's no reason someone couldn't believe them as such"
+
+
+Vesper says, "Ok. Next we have Sammoth. Please state your question"
+
+Vesper nods to Trey.
+
+
+Sammoth asks, "My question is, Who were the Galateans? Were they human? Where did they come from? Were they divinely inspired? What led to their eventual downfall? And why as a Galirrim would I care that some humanoids built another city?"
+
+Vesper nods to Karl.
+
+set mood ?
+Warning: You have been idle for 15 minutes. If you do not respond in another 5 minutes, you will be automatically kicked.
+
+The following is a list of moods you can select from:
+absent-minded, affectionate, aloof, ambivalent, amused, angry, annoyed, apathetic, bashful, bemused, benevolent, black, blissful, blue, bored, calculating, calm, cautious, chagrined, chaotic, chivalrous, closed, cold, condescending, confused, covert, creative, dark, despairing, desperate, distant, dominating, dreamy, driven, ecstatic, edgy, flaming-mad, flirtatious, frantic, friendly, frightened, frustrated, furious, giving, governing, grim, grumpy, happy, hesitant, hopeful, hopeless, impatient, jocular, joking, joyful, lazy, leery, lethargic, loving, malevolent, malicious, manic, masked, mirthful, mischievous, negative, nervous, neutral, objective, open, orderly, panicky, partying, passionate, patient, pensive, petrified, placid, playful, positive, productive, prophetic, raving-mad, reserved, sad, scared, scared, scatter-brained, secretive, seductive, self-loathing, sensual, shy, silly, sleepy, snippy, snotty, spurned, stressed-out, submissive, tentative, thoughtful, tired, troubled, upset, vengeful, wary, whiny, willy-nilly, wrathful
+
+
+Mike says, "With regards to the empire itself, it was a predominantly human society - there were silvarin, vorngar, and other races, but it was most defintely a human majority."
+
+
+Mike says, "As a Galarrim, you're dealing with two main points here - first off, as servants of the Twins, the construction of huge sprawling metropolises hcreate several conflicts with the natural order of things."
+
+
+Mike says, "Furthermore, the Galarrim were one of the main opponents of the Galatean empire at several points, including right before the creation of the alliance."
+
+
+Mike says, "The Galarrim were one of the few races that truly slowed down the march of the Galatean empire, after all."
+
+
+Mike asks Sammoth, "Cover it all?"
+
+
+Ad'in says, "To elaborate just a little bit... as the Galateans were marching their way along, building Urda, etc, the Galirrim were one of the last free socities, able to resist due to numerous factors. And they were instrumental in the coming war as well."
+
+
+Mike says, "A lot of this information is covered in the lore posted on the website."
+
+Ad'in nods.
+
+
+Ad'in says, "There's a pretty good writeup of it here"
+
+
+Ad'in says, "http://islesofaedin.com/?page_id=277"
+
+ ** Mordin Thark just left the world unexpectedly.
+
+ ** Mordin Thark just arrived in the world
+
+
+Mordin just appeared.
+
+Luc just left the group.
+
+ ** Luc Moloson just left the world.
+
+ ** Raelon Delnt just arrived in the world
+
+
+Vesper says to Devin, "Ok. Please ask your question"
+
+
+Devin says, "I just want to make a point regarding the use of auto-triggers and scripts. If you are using a trigger to circumvent or work around mechanics, you probably shouldn't be doing it. As an example, it is possible to make a script telling you that you have been pickpocketed even if you didn't actua"
+
+
+Devin says, "actually see it happen"
+
+ ** Xilsker Listope just arrived in the world
+
+
+Devin asks Ad'in, "am I right on that?"
+
+** ALPHA CHAT -- Glinka says, "Raelon and Xilsker...meeting is in the lonely moon inn"
+
+
+Devin asks, "my question, however, is if it is ok to use the various scripts I've made such as the coin flipper, dice roller or roulette table?"
+
+** ALPHA CHAT -- Raelon says, "Ooo... a meeting! I only I knew how to get outta this training area"
+
+Raelon just appeared in a flash of light.
+
+Raelon grins.
+
+** ALPHA CHAT -- Glinka says, "vesper can poof ya if you want to come"
+
+
+Raelon says, "Thank ya"
+
+** ALPHA CHAT -- Kyra says, "Like that."
+
+Raelon sits down.
+
+l ar ra
+Incorrect syntax. ie, look [at|through] [target|exit]
+
+l at ra
+
+You see Raelon the adult Aka'thri.
+He is 5' 5" tall with a well toned build, straight, purplish black fur, silvery blue eyes, and tan skin.
+He bears the mark of Eyranas.
+He is currently in a neutral mood.
+
+He has had the following titles bestowed upon him:
+  -Apprentice
+
+He is carrying:
+ -a studded bearskin jerkin          (torso)
+ -a simple cotton shirt              (torso)
+ -a pair of tattered cotton pants    (legs)
+
+
+
+
+Ad'in says, "Yes, those sorts of scripts are okay."
+
+Xilsker just entered through the open heavy oak door.
+
+Raelon stands up.
+
+l at xi
+
+You see Xilsker the young Seraphim.
+He is 5' 10" tall with a lithe build, cropped, platinum blonde hair, faded silver eyes, and tan skin.
+He bears the mark of Aederon.
+He is currently in a neutral mood.
+
+
+He is carrying:
+ -an intricately etched steel scimitar    (right hand)
+ -a polished brass shield                (left hand)
+ -a polished brass platemail             (torso)
+ -a pair of tattered cotton pants        (legs)
+
+
+
+Vesper smiles at Xilsker.
+
+
+Ad'in says, "They are simply elaborate smile magic designed to enhance an experience - nothing mechanical is exploited or advantage gained."
+
+Raelon advances 2 units.
+
+Raelon sits down.
+
+Xilsker nods.
+
+
+Ad'in says, "Actually, let's go ahead and address scripting in general since we're on the topic."
+
+
+Ad'in says, "Scripting generally is not encouraged, but is okay. AFK scripting, however, is NOT okay by any regard. I can't stress enough how serious we are about this, and the punishments for being caught doing it are pretty severe."
+
+
+Ad'in says, "Any scripting designed to gain an advantage (kind of like the triggers that react faster than a human can) are not allowed."
+
+
+Ad'in says, "However, for repetitive tasks, it's okay."
+
+Glinka raises an eyebrow hand.
+
+Glinka coughs.
+
+
+Ad'in says, "To give you idea, we're talking punishments like skill resets on 2nd offenses. Just don't do it - it's not worth it for you or me."
+
+Vesper nods to Devin.
+
+
+Glinka asks, "how about speedwalking scripts?"
+
+
+Ad'in exclaims, "Again... not encouraged, but fine. We want people to see the world we have worked so hard on, and new things will be popping up pretty regularly that you might miss!"
+
+Glinka nods.
+
+
+Ad'in asks Devin, "That answer your question?"
+
+Devin nods to Ad'in.
+
+
+Vesper says, "Ok. Next is Lex. Please state your question"
+
+
+Lex says, "I know there was talk awhile ago about a possible Wiki page that could have intro info for new players as well as RP stuff. I'm hoping something is possible to allow players to edit it so that IC info can be added, sort of like combining dgates 30 billion pages that you had to search for ages for"
+
+
+Lex says, "into a single page, so you can find what you need"
+
+
+Lex says, "would something like that be possible without having people exploit the OOC knowledge"
+
+
+Vesper says to Lex, "It's important to note that all things we put on our website will be common knowledge to any character that reads it."
+
+Lex nods.
+
+
+Vesper says, "We fully endorse a wiki page if the players want to make one and fill it with IC information. There can even be an OOC wiki for mechanics, like we have the info boards"
+
+
+Lex says, "I mean a seperate page, similar to info boards, but combines the secian and dragon books, the khat scriptures etc."
+
+Lex nods.
+
+
+Mike says, "We actually did create a wikipage, we just haven't gotten to the point where we have enough of a population to launch it off the ground."
+
+
+Vesper says, "Yes. If players wish to make a wiki page to combine all of the knowledge they want to share, then they may"
+
+
+Mike says, "Let me send you guys a link - it's a completely blank wikipage at the point, but if it launches, it would be staff moderated."
+
+
+Vesper says, "But also, any knowledge posted ICly will be able to be used ICly, so if you have knowledge that you don't want to be public, you shouldn't post it there, or you should post the site that has it and only characters who would know that knowledge may have to have passwords for whatever site that mi"
+
+
+Vesper says, "Whatever site that might be"
+
+
+Heath says, "Passwords are tacky, you need to trust the players to be adults"
+
+Vesper shrugs.
+
+
+Lex asks, "that was part of it, can people be trusted not to meta-game so to speak?"
+
+
+Vesper says, "That's entirely up to the players. If they have a message boards for a Silvarin sect and they want to put passwords on it, that's up to them"
+
+Closed Kurapiira-offerings.txt on file 1
+Connected to host 98.223.191.174
+Opened Kurapiira-offerings.txt as file 1
+Login:
+Kurapiira
+Password:
+zazax
+
+
+That account was already logged in and has been disconnected. Please contact danldoyle on AIM or daniel.l.doyle@gmail.com via e-mail if this continues to be a problem.
+Closed Kurapiira-offerings.txt on file 1
+Connected to host 98.223.191.174
+Opened Kurapiira-offerings.txt as file 1
+Login:
+Kurapiira
+Password:
+zazax
+
+ =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+  Welcome to Isles of Aedin!
+        Version - ALPHA
+
+  New Website: http://islesofaedin.com
+ =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+  
+  Please select your choice: 
+         1. ) Enter World
+         2. ) Create Character
+         3. ) Change Active Character
+         4. ) Delete Character
+         0. ) Exit
+                
+  Current Character -  Kurapiira 
+Kurapiira
+  
+Logname: Kurapiira
+1
+Welcome to Aedin!
+
+It is currently 07:40 PM.
+
+You are inside and cannot see the sky.
+
+
+[The Lonely Moon: Stars Club, Tavern]
+Behind the heavy oak door, the dimly-lit room opens into a spacious tavern full of glass-topped, lacquered wooden tables and cushioned chairs. A beautifully polished bar, carved with star and tree shapes, is set against the northern wall. Behind the bar top, bottles of liquor, kegs of beer, and all manner of alcoholic beverage are lined up, tapped and waiting for patrons. High-backed stools are set against the bar, allowing patrons to mingle with one another. The cacophonous sounds of talking, laughing, and whispering fill the packed room. The hearty aroma of well-cooked food wafts from the kitchen entrance behind the bar. Servers and bartenders move swiftly back and forth from the tavern to the kitchen. A T-shaped stage is centered at the eastern wall, and though the barmaids and barkeeps continue to move quickly, refilling drinks or bringing food in and out from the kitchen behind the bar, a reverent silence spreads over the customers as entertainers take the stage. Portraits of various famous adventurers decorate the walls, yet the most pronounced portrait of the owner has been hung behind the bar.
+
+The area is illuminated.
+
+In this room you see: Vesper the Silvarin,  Kyra the Silvarin (sitting down),  Ad'in the Dragon,  Gilraen the Silvarin,  Aero the Fae,  Heath the Aka'thri,  Glinka the Fae (sitting down),  Hans the Galirrim (sitting down),  Trey the Duskwen,  Throwback the Fae (sitting down),  Lex the Varanus (sitting down),  Sammoth the Galirrim,  Karl the Human (sitting down),  Mike the Seraphim,  Devin the Vorngar,  Mordin the Goblin,  Raelon the Aka'thri (sitting down),  Xilsker the Seraphim
+Obvious exits are: open heavy oak door
+
+
+Vesper says to Lex, "We can't enforce that entirely. Anything on our website will be common IC knowledge, but it would be difficult for us to manage player pages that contain IC knowledge that they may not want other characters to know"
+
+Lex nods.
+
+
+Lex says, "okay"
+
+ ** Glinka Dragondsfriend just left the world unexpectedly.
+
+ ** Glinka Dragondsfriend just arrived in the world
+
+
+Glinka just appeared.
+
+
+Vesper asks Lex, "Does that answer your question?"
+
+Lex nods.
+
+Vesper nods.
+
+
+Vesper says, "Next is Heath. Please state your question."
+
+
+Heath asks, "City population? Current form of rule, governor, king, autonomous collective, religious theocracy? or are the merchant councilmen referenced on the website the actual leaders? Justice system planned, or can we just try to kill those who annoy us?"
+
+
+Heath asks, "and can we multi kill anyone who uses the term khat IC?"
+
+Throwback chuckles.
+
+time
+time
+It is currently 07:41 PM.
+
+
+Ad'in says, "Actually, let me address THAT real quick."
+
+
+Ad'in says, "Some people have gotten the idea, especially because of things like syntax, etc. that his is DG2. It is -not- DG2. We're not affiliated with those guys in any way. Faes are not Secians, Aka'thri are not Leuians, etc."
+
+
+Ad'in says, "Just getting that out there in case there's confusion."
+
+
+Ad'in says, "So DG specific things such as the term "khat" or whatever aren't really appropriate. I suspect that your comment was mostly in jest, but I wanted to seize that opportunity."
+
+Ad'in winks at Heath.
+
+
+Heath says, "I was dead serious"
+
+Heath nods.
+
+
+Mike says, "Alright guys, city population."
+
+
+Mike says, "There are lots of people. The end."
+
+Kyra snickers.
+
+
+Heath says, "Way to commit"
+
+
+Vesper says to Heath, "To further answer the question, Urda the city has a Merchant's Council which acts as its government"
+
+Heath snickers.
+
+
+Vesper says to Heath, "There is a large writeup of the government listed on the website"
+
+
+Vesper says to Heath, "It describes all of the city positions with the council and describes the religious council to a lesser extent"
+
+
+Heath says, "I read that, but it wasn't clear if the council reported to anyone"
+
+
+Vesper says, "The council reports to the council"
+
+
+Vesper says, "THEY are the government. There is no singular governor or king"
+
+Heath nods.
+
+
+Vesper says, "Urda, as a collective city melting pot thing, is headed by the council to represent diverse interests"
+
+
+Vesper says, "And to tie in Lex's mind question, when we enter beta we will open the council elections to players if they wish to apply for such, but some will be ERC characters"
+
+Vesper nods to Glinka.
+
+Glinka nods.
+
+
+Vesper says, "Honestly, the sooner we get players on the council and in positions of power, the better"
+
+
+Vesper says, "We don't want to make hundreds of ERCs to do stuff. We want you to do stuff"
+
+
+Vesper asks Heath, "Answer your question?"
+
+ ** Sammoth Stoneclaw just left the world unexpectedly.
+
+
+Heath says, "except the justice part"
+
+Vesper raises an eyebrow.
+
+
+Mike says, "Joking aside, the population of Urda hovers around 45k."
+
+
+Heath asks, "is murder or theft punished, or do we just sort it out individually?"
+
+
+Vesper says to Heath, "Also a good question. Complaints and problems can go to the Lord General of the Militia and the Court of Peers"
+
+Heath nods.
+
+
+Heath exclaims, "thanks much, next!"
+
+
+Vesper says, "Also, temple positions will eventually be headed by players"
+
+
+Vesper says to Heath, "If you read the Governing Bodies of Urda, it will give you all the information you're asking about"
+
+
+Vesper says, "It's here: http://islesofaedin.com/?page_id=378"
+
+l
+
+[The Lonely Moon: Stars Club, Tavern]
+Behind the heavy oak door, the dimly-lit room opens into a spacious tavern full of glass-topped, lacquered wooden tables and cushioned chairs. A beautifully polished bar, carved with star and tree shapes, is set against the northern wall. Behind the bar top, bottles of liquor, kegs of beer, and all manner of alcoholic beverage are lined up, tapped and waiting for patrons. High-backed stools are set against the bar, allowing patrons to mingle with one another. The cacophonous sounds of talking, laughing, and whispering fill the packed room. The hearty aroma of well-cooked food wafts from the kitchen entrance behind the bar. Servers and bartenders move swiftly back and forth from the tavern to the kitchen. A T-shaped stage is centered at the eastern wall, and though the barmaids and barkeeps continue to move quickly, refilling drinks or bringing food in and out from the kitchen behind the bar, a reverent silence spreads over the customers as entertainers take the stage. Portraits of various famous adventurers decorate the walls, yet the most pronounced portrait of the owner has been hung behind the bar.
+
+The area is illuminated.
+
+In this room you see: Vesper the Silvarin,  Kyra the Silvarin (sitting down),  Ad'in the Dragon,  Gilraen the Silvarin,  Aero the Fae,  Heath the Aka'thri,  Hans the Galirrim (sitting down),  Trey the Duskwen,  Throwback the Fae (sitting down),  Lex the Varanus (sitting down),  Karl the Human (sitting down),  Mike the Seraphim,  Devin the Vorngar,  Mordin the Goblin,  Raelon the Aka'thri (sitting down),  Xilsker the Seraphim,  Glinka the Fae (sitting down)
+Obvious exits are: open heavy oak door
+
+
+Vesper says, "Next question is Trey. Please state your question."
+
+
+Trey asks, "two questions. First is there any plans for more staff written history and lore to be added to the webpage and second, How do you know if someone is running an illegal script?"
+
+
+Ad'in says, "Illegal scripts are generally detectable, though there is no perfect mechanism for it. There is a lot of... human involvement."
+
+
+Ad'in says, "For example, even well designed scripts are predictable in nature, using regularly timed things or reacting very quickly to events."
+
+
+Ad'in says, "The simplest way, though, is simply the AFK test. If you fail to respond to someone giving you a "poke" in some way, that is deemed to be AFK scripting."
+
+
+Ad'in says, "You will have a reasonable period of time to respond, so it's not truly worrysome that it will get lost in the scroll if you're paying attention."
+
+
+Ad'in says, "Multiple pokes, etc."
+
+
+Trey asks, "i guess i was more refering to hunting scripts that someone can just run while they sit here and watch the screen. are those allowed?"
+
+
+Ad'in asks, "But, since I know none of you will be using them, it's not really an issue, right?"
+
+Ad'in winks at Trey.
+
+
+Ad'in says, "Yeah, those are ones that are harder to detect. I'm not going to lie and say that I will catch every single person every single time."
+
+
+Trey says, "i dont know how to use them."
+
+
+Ad'in says, "A large part of it is "honor system", but that is also in part why the punishments are so harsh."
+
+
+Ad'in asks, "I think that answers that part of the question?"
+
+Trey nods at Ad'in.
+
+
+Vesper says to Trey, "We are constantly writing up new lore and history for the world. We would definitely welcome player input whenever they would like to contribute. We think of new things all the time, and would like for you to help shape the world as well."
+
+
+Vesper says to Trey, "A lot of things we are leaving open ended so that we have room to make up new things"
+
+
+Trey says to Vesper, "i know for myself I would love to write some stuff but i'd like a starting point or reference"
+
+ ** Luc Moloson just arrived in the world
+
+
+Luc just appeared.
+
+
+Vesper says, "Also, lore and history can be collaborated with current lore and history -- e.i., you can make stories from those as well"
+
+ ** Moxii Meistlyn just arrived in the world
+
+
+Vesper says to Trey, "If you have stories and stuff please send me a line and I'll help you out"
+
+Trey nods at Vesper.
+
+** ALPHA CHAT -- Moxii says, ":squint:"
+
+ ** Raelon Delnt just left the world unexpectedly.
+
+ ** Raelon Delnt just arrived in the world
+
+
+Raelon just appeared.
+
+** ALPHA CHAT -- Glinka says, "meeting in moon inn...vesper can poof you here"
+
+
+Vesper says, "Always keep in mind that "LORE" deals with a lot of misinformation"
+
+Moxii just appeared in a flash of light.
+
+** ALPHA CHAT -- Lex says, "welcome back Mox!"
+
+Moxii beams.
+
+l at mox
+Moxii sits down.
+
+
+You see Moxii the young Galirrim.
+She is 9' 4" tall with a lithe build, glossy black fur, violet eyes, and lightly tanned skin.
+She bears the mark of Eyranas.
+She is currently in a neutral mood.
+
+
+She is carrying:
+ -a simple cotton shirt              (torso)
+ -a pair of tattered cotton pants    (legs)
+
+
+
+
+Trey says to Vesper, "i dont want to waste my time writing something up that is not in line with the vision staff may have had for a race or religion"
+
+Vesper nods to Trey.
+
+
+Vesper says, "I can definitely work with anyone who has ideas"
+
+
+Vesper says, "I'll help you shape it to work within our vision for the world and even if we don't completely agree, we'll try to work it in"
+
+
+Trey says, "alright. thats it thanks"
+
+
+Vesper says, "Also, specifically right now, we are working on temples and structure, so if you would like to take a role in shaping temple hierarchy, send us your ideas and we'll take a look at them."
+
+ ** Mordin Thark just left the world unexpectedly.
+
+ ** Mordin Thark just arrived in the world
+
+
+Mordin just appeared.
+
+
+Vesper asks Trey, "Good?"
+
+Trey nods.
+
+
+Trey says, "thanks"
+
+
+Vesper says to Karl, "You are next. Please state your question."
+
+Karl nods.
+
+
+Vesper says, "Real quick. Anyone who has ideas and stories they would like to have help working on, please send me an email at vespeyre@gmail.com"
+
+Vesper listens intently to Karl.
+
+l
+
+[The Lonely Moon: Stars Club, Tavern]
+Behind the heavy oak door, the dimly-lit room opens into a spacious tavern full of glass-topped, lacquered wooden tables and cushioned chairs. A beautifully polished bar, carved with star and tree shapes, is set against the northern wall. Behind the bar top, bottles of liquor, kegs of beer, and all manner of alcoholic beverage are lined up, tapped and waiting for patrons. High-backed stools are set against the bar, allowing patrons to mingle with one another. The cacophonous sounds of talking, laughing, and whispering fill the packed room. The hearty aroma of well-cooked food wafts from the kitchen entrance behind the bar. Servers and bartenders move swiftly back and forth from the tavern to the kitchen. A T-shaped stage is centered at the eastern wall, and though the barmaids and barkeeps continue to move quickly, refilling drinks or bringing food in and out from the kitchen behind the bar, a reverent silence spreads over the customers as entertainers take the stage. Portraits of various famous adventurers decorate the walls, yet the most pronounced portrait of the owner has been hung behind the bar.
+
+The area is illuminated.
+
+In this room you see: Vesper the Silvarin,  Kyra the Silvarin (sitting down),  Ad'in the Dragon,  Gilraen the Silvarin,  Aero the Fae,  Heath the Aka'thri,  Hans the Galirrim (sitting down),  Trey the Duskwen,  Throwback the Fae (sitting down),  Lex the Varanus (sitting down),  Karl the Human (sitting down),  Mike the Seraphim,  Devin the Vorngar,  Xilsker the Seraphim,  Glinka the Fae (sitting down),  Luc the Human (sitting down),  Raelon the Aka'thri (sitting down),  Moxii the Galirrim (sitting down),  Mordin the Goblin
+Obvious exits are: open heavy oak door
+
+Vesper nods to Heath.
+
+
+Karl says, "As the game opens, are there any major events going on or having happened recently, other than the appearance of the Urgons appearing? Any major enemies or threats to the city? Anything really that can help us get into the right frame of mind as things open? The mood of the populace, etc."
+
+Vesper nods to Xilsker.
+
+
+Mike says, "With regards to events, we've got lots of them planned out - I'd say we've got something on the order of two years of scenerio/plot planned out right now."
+
+
+Mike says, "Most of the stuff is really open ended and non-linear, so we can take them in a variety of different directions."
+
+
+Mike says, "So really, keep in mind, the direction of the world is in your hands."
+
+
+Mike says, "The current populace is several generations removed from the end of the great war (about 2.5 human generations)."
+
+
+Mike says, "So the nature of the populace is still one where people are recovering, from the war, relatively positive, yet not completely out of the woods."
+
+
+Mike says, "Our setting is still in war-recovery mode - the people are finally out of a generations long war..."
+
+
+Mike says, "Unfortunately, with the end of the war, we've seen the dissolution of alliances, such that racial and religious tensions are again becoming major issues."
+
+
+Mike says, "The very first event going on is the festival of lights... IBoth our characters and the players will be celebrating open beta of the game."
+
+Mike winks.
+
+
+Mike says, "We'd love to support a completely player-driven scenerio, if the initiative is shown."
+
+
+Mike asks Karl, "Good?"
+
+
+Karl says, "Yep. Thank you."
+
+Karl smiles.
+
+
+Mike asks Vesper, "Who's next?"
+
+
+Vesper says to Luc, "You are next. Please state your question."
+
+
+Ad'in exclaims, "We can't really go too much more with the festival... but there will definitely be some interesting events going on. You'll just have to play to find out!"
+
+
+Ad'in says, "Sorry... go into too much more*"
+
+Vesper listens intently to Luc.
+
+
+Luc says, "I was curious about the hierarchy of the temple, like how will it be structured? Will ERCs run the temples at first? Will the gods actually interact with the populace? Oh, and will the Religous Council only have seats as half votes on the Merchant Council, or will they be more important in running"
+
+
+Luc says, "the city"
+
+Vesper nods to Throwback.
+
+l
+
+[The Lonely Moon: Stars Club, Tavern]
+Behind the heavy oak door, the dimly-lit room opens into a spacious tavern full of glass-topped, lacquered wooden tables and cushioned chairs. A beautifully polished bar, carved with star and tree shapes, is set against the northern wall. Behind the bar top, bottles of liquor, kegs of beer, and all manner of alcoholic beverage are lined up, tapped and waiting for patrons. High-backed stools are set against the bar, allowing patrons to mingle with one another. The cacophonous sounds of talking, laughing, and whispering fill the packed room. The hearty aroma of well-cooked food wafts from the kitchen entrance behind the bar. Servers and bartenders move swiftly back and forth from the tavern to the kitchen. A T-shaped stage is centered at the eastern wall, and though the barmaids and barkeeps continue to move quickly, refilling drinks or bringing food in and out from the kitchen behind the bar, a reverent silence spreads over the customers as entertainers take the stage. Portraits of various famous adventurers decorate the walls, yet the most pronounced portrait of the owner has been hung behind the bar.
+
+The area is illuminated.
+
+In this room you see: Vesper the Silvarin,  Kyra the Silvarin (sitting down),  Ad'in the Dragon,  Gilraen the Silvarin,  Aero the Fae,  Heath the Aka'thri,  Hans the Galirrim (sitting down),  Trey the Duskwen,  Throwback the Fae (sitting down),  Lex the Varanus (sitting down),  Karl the Human (sitting down),  Mike the Seraphim,  Devin the Vorngar,  Xilsker the Seraphim,  Glinka the Fae (sitting down),  Luc the Human (sitting down),  Raelon the Aka'thri (sitting down),  Moxii the Galirrim (sitting down),  Mordin the Goblin
+Obvious exits are: open heavy oak door
+
+
+Vesper says, "Ok. So, like we said a bit earlier, temple hierarchy is currently being thought of, but if you have input, please send us your ideas (vespeyre@gmail.com) and we will try to incorporate them, or work with you on them"
+
+Luc nods.
+
+
+Luc says, "sorry, was afk and literally just got back"
+
+
+Vesper says, "Furthermore, ERCs will initially be running the temples UNLESS there is a strong character rallying for that specific leader"
+
+
+Vesper says, "That's ok. Also, Thaessilgan, Karishta, Aederon, and Ty'ghat are pretty solid right now in our writeups, the others are still being worked on"
+
+
+Vesper says, "As the Governing Bodies document states, the Religious council is only given half votes when deciding the future of the city"
+
+
+Vesper says, "The key to the religious council votes is for a specific merchant council representative to champion for the religions"
+
+
+Vesper says, "What this means is that if you sneaky sneaky religious people want something and you can convince a merchants council rep to support you and get further support from other reps, then you are solid"
+
+Heath coughs bribes.
+
+Vesper nods her head up and down.
+
+Vesper points to Heath.
+
+
+Luc asks, "and about the gods actually interacting? or will they just drop dragon poop from the sky?"
+
+
+Vesper says, "The major point of this city is that is it entirely run via commerce and Mercantilism. It is not a religious city, but the religions are still given some input"
+
+
+Vesper says to Luc, "Gods might interact sparingly and without obvious direction, so we're not going to have Aederon jump from the sky on a flying owl and hand you the keys to the temple"
+
+Luc nods.
+
+
+Vesper asks Luc, "Done?"
+
+
+Luc says, "for now"
+
+Luc nods.
+
+
+Vesper says to Heath, "Please state your question."
+
+
+Heath asks, "I see a festival coming up, will there item creation guidelines posted before that, so we can speed along any anticipated merchant dealings?"
+
+
+Heath asks, "like description/material/item name equals 15/15/15 characters?"
+
+
+Heath asks, "that kind of thing?"
+
+
+Vesper says, "There are no limitations within reason. We don't have a system where we cannot put certain words in the description"
+
+
+Heath says, "so no stupid set adjective chart"
+
+Vesper nods to Heath.
+
+
+Heath says, "thanks"
+
+
+Ad'in says, "Yes... everything is very open here. You can make anything anything, pretty much. Like Vesper said... within reason. Don't have your item name be 200 characters long."
+
+
+Vesper says to Heath, "You can pretty much make up anything you want within reason. I don't want to see items ranging a paragraph long, and the syntax should make sense, but it's pretty open"
+
+
+Vesper says, "Yeah.. what the dragon said"
+
+Vesper points at Ad'in.
+
+
+Heath says, "Nifty"
+
+
+Devin says, "wow, you guys said the exact same thing"
+
+
+Vesper asks Heath, "Good?"
+
+Heath nods.
+
+
+Vesper says to Devin, "We mind melded. It was glorious."
+
+
+Ad'in says, "We're actually the same person."
+
+
+Devin exclaims, "I knew it!"
+
+
+Vesper says to Xilsker, "You are up next. Please state your question"
+
+Devin grins at Aero.
+
+ ** Mordin Thark just left the world unexpectedly.
+
+l
+
+[The Lonely Moon: Stars Club, Tavern]
+Behind the heavy oak door, the dimly-lit room opens into a spacious tavern full of glass-topped, lacquered wooden tables and cushioned chairs. A beautifully polished bar, carved with star and tree shapes, is set against the northern wall. Behind the bar top, bottles of liquor, kegs of beer, and all manner of alcoholic beverage are lined up, tapped and waiting for patrons. High-backed stools are set against the bar, allowing patrons to mingle with one another. The cacophonous sounds of talking, laughing, and whispering fill the packed room. The hearty aroma of well-cooked food wafts from the kitchen entrance behind the bar. Servers and bartenders move swiftly back and forth from the tavern to the kitchen. A T-shaped stage is centered at the eastern wall, and though the barmaids and barkeeps continue to move quickly, refilling drinks or bringing food in and out from the kitchen behind the bar, a reverent silence spreads over the customers as entertainers take the stage. Portraits of various famous adventurers decorate the walls, yet the most pronounced portrait of the owner has been hung behind the bar.
+
+The area is illuminated.
+
+In this room you see: Vesper the Silvarin,  Kyra the Silvarin (sitting down),  Ad'in the Dragon,  Gilraen the Silvarin,  Aero the Fae,  Heath the Aka'thri,  Hans the Galirrim (sitting down),  Trey the Duskwen,  Throwback the Fae (sitting down),  Lex the Varanus (sitting down),  Karl the Human (sitting down),  Mike the Seraphim,  Devin the Vorngar,  Xilsker the Seraphim,  Glinka the Fae (sitting down),  Luc the Human (sitting down),  Raelon the Aka'thri (sitting down),  Moxii the Galirrim (sitting down)
+Obvious exits are: open heavy oak door
+
+ ** Mordin Thark just arrived in the world
+
+
+Mordin just appeared.
+
+
+Xilsker says, "Luc asked a portion of my question, but I will just paste the whole thing anyways as there was still something I wanted covered."
+
+
+Xilsker says, "I apologize for anything that is redundant."
+
+Vesper nods.
+
+
+Xilsker says, "I have a question regarding player religious roleplay and how it is, for lack of a better term, moderated. Towards the end of dgate, in the final year or two, there were multiple characters that blatantly disregarded the pretty much set in stone laws that defined their religions. For example"
+
+
+Xilsker says, "OH"
+
+
+Xilsker says, "Okay, I guess that is too long."
+
+
+Xilsker says, "One moment."
+
+Vesper grins.
+
+
+Xilsker says, "Allow me again to try this newfangled copy paste ability."
+
+Vesper nods to Xilsker.
+
+
+Xilsker says, "I have a question regarding player religious roleplay and how it is, for lack of a better term, moderated. Towards the end of dgate, in the final year or two, there were multiple characters that blatantly disregarded the pretty much set in stone laws that defined their religions."
+
+
+Xilsker says, "For example, Odarians that publicly murdered people, stole from people, and stole from their own temple coffers."
+
+
+Xilsker says, "At this point in the game the staff had taken a largely hands off approach in no longer having the gods 'speak' to the players or show up in their weekly (or even yearly) lives, which they had done previously, especially near the end of AOL-Dgate and the early years of Web-Dgate."
+
+
+Xilsker says, "I felt this caused for some infuriating moments where said examples would have been tossed out of the temple by the gods themselves."
+
+
+Xilsker says, "But there was never really any intervention or punishment and the most that came of it was us mocking them for their blatant breaking of specific insertwhateverGodtheyfollowed roleplay at OOC Games or on various boards."
+
+
+Xilsker asks, "Will the staff here be having a more hands on approach in having the Gods interact with players in forms of temple meetings, visions, punishments, or whatever may have you?"
+
+
+Xilsker says, "Please enjoy my mini novel."
+
+Ad'in smiles.
+
+
+Ad'in says, "That's a great question. The short answer is - absolutely."
+
+Aero laughs.
+
+
+Ad'in says, "I have played a number of games, DG included, where too much of a laissez faire attitude basically means it becomes a chatroom, not an RPG."
+
+
+Ad'in says, "I'll stick to DG examples since you sound like you were a player from there."
+
+Xilsker nods.
+
+
+Ad'in says, "There is no such thing as a Tarr Galirrim, or whatever they were called."
+
+
+Ad'in says, "Those that stray are hunted down and exterminated."
+
+
+Ad'in says, "We will be pushing for people in positions of power to enforce these sorts of things. Random murderers in Thaesilgan's temple will be expected to be dealt with IC, and if the people in charge fail to act upon it then staff will step in to begin dealing with it."
+
+Xilsker nods.
+
+
+Ad'in says, "Now, with that being said, we -are- trying to leave things largey in the hands of players. We don't want to have a puppet show where staff basically pushes everyone around."
+
+
+Ad'in says, "We just will step in as needed to keep things going along the intended route."
+
+
+Xilsker says, "Understandable. I am all for having player enforced rp, but near the end it felt like players that tried, specifically in Odarous' temple as that is the example I used, couldn't actually expell people who were blatant in their disregard for that specific roleplay."
+
+
+Xilsker says, "And had no support from staff."
+
+Ad'in nods.
+
+
+Ad'in says, "Yes, we plan to give real power to players in positions of power."
+
+Xilsker nods.
+
+
+Ad'in says, "People on the council can set taxes. High Priests can excommunicate. Etc etc."
+
+You hear a crack of thunder in the distance.
+
+
+Ad'in says, "And if you have ideas for this, by all means let us know and we'll see how we can get them incorporated. I can't stress enough how important input from the players have been in forming this game thus far."
+
+Xilsker nods.
+
+
+Ad'in says, "So in short - yes, stricter RP guidelines, but at the same time also trying to give players freedom."
+
+Ad'in grins.
+
+
+Xilsker says, "Thank you."
+
+
+Ad'in says, "Kind of paradoxical, but I hope it makes sense."
+
+
+Ad'in asks, "Does that answer your question?"
+
+
+Xilsker says, "It does, and yes, it also answers my question. Thank you for your time."
+
+
+Vesper says, "Alright. Next is Throwback. Please state your question."
+
+
+Throwback asks, "Do Fae and/or Seraphim die of old age?"
+
+
+Ad'in asks, "Actually... would you mind if I broadened that to death in general?"
+
+
+Throwback says to Ad'in, "that would be awesome"
+
+Throwback grins.
+
+smi at 
+Glinka is looking at you.
+
+You smile at.
+
+
+Ad'in says, "To answer your question - all races besides Eternals die of old age. Eternals are the oldest dragons."
+
+
+Ad'in says, "What is old age varies from race to race."
+
+
+Ad'in asks, "It naturally comes up - why when I die do I not stay dead?"
+
+ ** Mike Rao just left the world unexpectedly.
+
+
+Ad'in says, "In Aedin, everyone's death is fated. When you die, if it is not your time, your soul can return to its body either naturally or through the assistance of your deity."
+
+
+Ad'in says, "If it is your time, your soul departs to the umbral realm and remains there."
+
+
+Ad'in says, "So... you never know when you were supposed to die versus when you happened to die."
+
+Ad'in winks.
+
+
+Ad'in says, "And thus want to avoid death at all costs."
+
+Glinka raises a hand.
+
+
+Ad'in asks Glinka, "Yes?"
+
+
+Glinka asks, "you mean our character has a chance at permadeath?"
+
+Ad'in grins.
+
+
+Ad'in says, "I was waiting for that."
+
+Glinka stares.
+
+
+Ad'in says, "No, mechanically there is no permadeath unless the player wishes it."
+
+
+Vesper says to Glinka, "He is all-knowing"
+
+
+Glinka says, "whew"
+
+
+Ad'in says, "However, that is the roleplay reasoning behind death."
+
+Glinka nods her head up and down to Vesper.
+
+
+Glinka says, "kk"
+
+
+Ad'in says, "However, if you wish to retire a character, it is a great way to explain how they disappear forever, as well as explaining why everyone from the past 3000 years isn't still here."
+
+Throwback chuckles.
+
+Glinka nods.
+
+
+Ad'in asks Throwback, "Does that answer your question?"
+
+
+Throwback says to Ad'in, "yes, and then some. Thank you very much."
+
+Throwback snaps his fingers.
+
+
+Throwback says, "actually..."
+
+
+Throwback asks, "age tables or some such on the website?"
+
+Throwback bats his eyes.
+
+
+Ad'in says, "No, but we can certainly add them."
+
+
+Throwback says, "thanks. Would be helpful."
+
+
+Throwback says, "that's it."
+
+stat
+You are Kurapiira the Fae Cleric. You are 15 years old.
+You are currently a follower of Eyranas.
+You are starving!
+You are dangerously dehydrated!
+
+Attack Rating: 175
+Max Tact Move: 8
+Current Stance: neutral
+
+You are currently seated.
+
+Str ****            | Dex *****           | 
+Qui ******          | Con ****            | 
+Pie ****            | Int **********      | 
+Per *****           | Wil ****            | 
+
+You are currently carrying:
+ -a Vorngarian embossed steel tipped cudgel.    (right hand)
+ -a multicolored woven grass tunic    (torso)
+ -a feather and alligator tooth necklace    (around neck)
+ -a tangled pile of limp greenish brown vine-like hair    (head)
+ -a feather-adorned beaded grass skirt    (legs)
+ -a shimmering opal-inlaid Silvarin star badge    (around waist)
+ -a long eagle feather shaman's cape with square platinum beads on the collar    (cloak)
+ -a gold belly chain    (around waist)
+ -a single platinum-inlaid bird vertebrae hoop earring    (on ears)
+ -a polished black bird claw nose ring    (on nose)
+ -a shimmering, silver-flecked crescent moon lip ring    (on face)
+
+
+ ** Mike Rao just arrived in the world
+
+
+Mike just appeared.
+
+
+Vesper says, "Ok. Next is Luc. Please state your question"
+
+
+Luc says, "With the crafting system, how will be limited as far as RP items? And with that, what about custom weapons and armor? For example, if I were a weaponsmith and wanted to make an entricately carved steel falchion? Will be limited on what we can customize within the system? And if so, on what? Just we"
+
+Luc coughs.
+
+
+Luc asks, "Just weapons and armor, or RP items too?"
+
+
+Vesper says, "Foremost, the crafting system is still not set in stone and we are still creating it so a lot of things could definitely be added or expanded upon at a later date"
+
+Luc nods.
+
+
+Vesper says, "There are several different professions... almost anything could probably be made. It won't be entirely freeform and there will be some basis for all of it, but there will be a degree of customization with things you find interacting with what you craft"
+
+Ad'in nods.
+
+
+Vesper says, "For example, if you found a large pile of sparkling sapphires, it might give you the sparkling modifier when using it in whatever you're crafting"
+
+
+Ad'in says, "To expand upon it a bit, there is a set of rules you have to work in. We can't have people just free form entering whatever name they want or we'll have people calling a wooden hunk of junk the flaming sword of eternity."
+
+Luc nods.
+
+Vesper nods to Glinka.
+
+
+Luc says, "i understand that part"
+
+
+Vesper asks Luc, "That answer your question?"
+
+
+Ad'in says, "But otherwise, yes. The plan is to have "shapes" for lack of a better term, then all the materials that you put into it determine a lot of the description."
+
+
+Ad'in says, "If you make a sword and use iron as the material, you have an iron sword. A very basic and contrived example, I know."
+
+Luc nods.
+
+
+Luc asks, "but will we be able to modify it? Aero and I discussed this earlier, like if we bought a whetstone, a tool that could act as a material to add "sharpened" to make it a sharpened iron sword?"
+
+
+Luc says, "or bought engraving tools, to allow engraving, etc. The tools could be used up after certain uses"
+
+
+Ad'in says, "That's not something we have talked about - basically worried about creation for now."
+
+Ad'in grins.
+
+Luc nods.
+
+
+Ad'in says, "But that's a good idea that we'll consider."
+
+Luc nods.
+
+
+Luc says, "i'm done"
+
+
+Vesper says, "Ok. Lex go ahead"
+
+
+Vesper says, "Also, I'm calling 5 minute warning"
+
+Lex nods.
+
+
+Lex says, "Alrighty, I have a couple of follow up questions on some stuff that was mentioned.."
+
+
+Devin says to Vesper, "I can stick around and answer questions/make stuff up if you have somewhere to be"
+
+Vesper chuckles.
+
+
+Vesper says to Devin, "We just need to wind it down. We can hold another one"
+
+Ad'in nods.
+
+Vesper listens intently to Lex.
+
+
+Lex says, "first taxes were brought up, how would a fully character run council put that into the game, second awhile ago it was mentioned that some people might be labeled a "master crafter" and be given the ability to freeform and hold peddles so the staff doesnt have to"
+
+
+Ad'in says, "We can hold as many of these as are needed. We have all commented on how thrilled we are at the response."
+
+Ad'in winks.
+
+Vesper grins at Lex.
+
+
+Lex asks, "and finally, can we have a diagram timeline added to the website so its easier at a glance to understand whats going on during what era?"
+
+
+Vesper says to Lex, "So the crafting system is something we devised that will have code support later"
+
+
+Vesper says, "So will taxes"
+
+Lex nods.
+
+
+Vesper says, "If you have the title "Merchant Council Representative" you will be able to update texes and change them for the region which the council is controlling, in this case, Urda"
+
+Lex nods.
+
+Ad'in nods.
+
+
+Lex asks, "and how does this "tax people"?"
+
+Vesper glances to Ad'in.
+
+
+Lex asks, "those who own property, who buy and sells things?"
+
+
+Ad'in says, "This is part of what I was mentioning in give power directly into player's hands, with minimal need for staff intervention."
+
+Lex chuckles.
+
+
+Ad'in says, "Taxes, for example, will automatically apply to store bought goods within the controlled region."
+
+Lex nods.
+
+
+Vesper says, "Housing will still go through Elders"
+
+
+Ad'in says, "If something costs 1 crown and tax is set to 10%, it will cost 1 crown + 10 marks now."
+
+
+Lex says, "okay"
+
+
+Ad'in says, "It's entirely up to the people of Urda how they want their taxes to work, what they will be spent on, etc. Well... more the Council, but it is an elected position."
+
+Lex nods.
+
+
+Ad'in says, "Plenty of possibility for dissent and corruption there."
+
+
+Vesper says, "Also, in regards to "Master Crafter" that is something the player can claim. Keep in mind that with the crafting system, you will be able to make items, but not always fully customizable. You can take crafted items to renaming peddles to do some elder fun on them, though"
+
+ ** Mordin Thark just left the world unexpectedly.
+
+Lex nods.
+
+
+Vesper says, "If you really want to do something custom, you can "order" something from the elders from "somewhere far far away" and then sell it"
+
+
+Ad'in says, "To clarify, order the material that grants you exactly what you're looking for."
+
+
+Vesper says, "We're more than happy to work with players who set themselves up as merchants"
+
+Lex nods.
+
+
+Lex says, "excellent"
+
+
+Lex asks, "does this mean though, that all players can master all crafts, or are there limitations?"
+
+ ** Mordin Thark just arrived in the world
+
+
+Mordin just appeared.
+
+
+Vesper says, "Furthering that, there might be some ERCs *cough* Ayaliute *cough* who would sponsor player merchants as apprentices and the like"
+
+Vesper nods to Aero.
+
+l
+
+[The Lonely Moon: Stars Club, Tavern]
+Behind the heavy oak door, the dimly-lit room opens into a spacious tavern full of glass-topped, lacquered wooden tables and cushioned chairs. A beautifully polished bar, carved with star and tree shapes, is set against the northern wall. Behind the bar top, bottles of liquor, kegs of beer, and all manner of alcoholic beverage are lined up, tapped and waiting for patrons. High-backed stools are set against the bar, allowing patrons to mingle with one another. The cacophonous sounds of talking, laughing, and whispering fill the packed room. The hearty aroma of well-cooked food wafts from the kitchen entrance behind the bar. Servers and bartenders move swiftly back and forth from the tavern to the kitchen. A T-shaped stage is centered at the eastern wall, and though the barmaids and barkeeps continue to move quickly, refilling drinks or bringing food in and out from the kitchen behind the bar, a reverent silence spreads over the customers as entertainers take the stage. Portraits of various famous adventurers decorate the walls, yet the most pronounced portrait of the owner has been hung behind the bar.
+
+The area is illuminated.
+
+In this room you see: Vesper the Silvarin,  Kyra the Silvarin (sitting down),  Ad'in the Dragon,  Gilraen the Silvarin,  Aero the Fae,  Heath the Aka'thri,  Hans the Galirrim (sitting down),  Trey the Duskwen,  Throwback the Fae (sitting down),  Lex the Varanus (sitting down),  Karl the Human (sitting down),  Devin the Vorngar,  Xilsker the Seraphim,  Glinka the Fae (sitting down),  Luc the Human (sitting down),  Raelon the Aka'thri (sitting down),  Moxii the Galirrim (sitting down),  Mike the Seraphim,  Mordin the Goblin
+Obvious exits are: open heavy oak door
+
+
+Ad'in says, "Crafting will be implemented in a hopefully soon expansion along with the concept of subclassing. Not warriors picking up elementalist spells, but more along the lines of hobbies."
+
+Lex nods.
+
+
+Lex says, "sounds good"
+
+
+Ad'in says, "Characters can opt to pick up something like Weaponcrafting as their subclass, or something entirely different. There is no one general "crafting" skill."
+
+
+Ad'in says, "And the hobbies are planned to extend to more than just crafting, as well."
+
+
+Karl asks, "So no crafstman class, just various classes doing this?"
+
+
+Ad'in says, "We had considered the "merchant" class, but really it didn't stand on its own unless all it did was craft, and it almost begged for OOC things to make it work."
+
+
+Ad'in says, "For example, how does a novice merchant even get started? He would have to have someone give him money."
+
+
+Ad'in says, "So we decided to move it out into this sort of subclassing. Not all classes can take all trades, however. It makes no sense for an Elementalist to be making broadswords."
+
+Lex chuckles.
+
+Glinka nods.
+
+
+Ad'in says, "And you can only pick 1 at that, so if you're making armor, you're not making weapons."
+
+ ** Raelon Delnt just left the world.
+
+
+Devin asks Ad'in, "what if someone were to establish themselved as a merchant...could they then be given the oppurtunity to train another subclass based on RP?"
+
+
+Ad'in says, "And lastly, to quell any concerns, we're planning for most shops to only go up to the 40 or so range, leaving the best stuff to be purchased via peddles or, better yet, player merchants."
+
+Aero sighs.
+
+
+Ad'in says, "And double lastly... player made items will generally be superior in some way to their respective counterparts, whether through being unique, being more durable, slightly better stats, etc."
+
+
+Ad'in says, "We really, really want to encourage player driven economics."
+
+Lex nods slowly.
+
+
+Ad'in says, "Okay. I'm done babbling now."
+
+Ad'in grins.
+
+
+Lex asks, "and what about tailoring.. does anything make it "better"?"
+
+
+Vesper says, "I also get tired of making all the stuff..."
+
+Lex chuckles.
+
+
+Lex says to Vesper, "thats why i asked if there would be a select few who can free craft"
+
+
+Ad'in says to Lex, "For clothes making? You get the ability to make more exotic things, as clothing really doesn't have any meaningful stats."
+
+
+Vesper says to Lex, "I feel like clothing will be on the backburner as a profession"
+
+Lex nods.
+
+
+Lex says, "alright"
+
+smi at 
+Glinka is looking at you.
+
+You smile at.
+
+
+Aero asks, "i assume tailoring will cover bags/backpacks and things of that sort as well?"
+
+
+Vesper says to Aero, "Most likely"
+
+Aero nods.
+
+
+Ad'in says to Devin, "And... likely not, unless there is some really good reaosn, and it would require staff intervention."
+
+
+Ad'in asks, "That answer the question?"
+
+Devin nods to Ad'in.
+
+Lex nods.
+
+
+Devin asks, "exotic things such as pink thongs?"
+
+
+Vesper says, "Oh, also. If your character does become a merchant, or if you're just some guy who buys lots of unique things at peddles and then turns around and wants to have your own peddle, shoot us an email and we'll hook you up with advert on the calendar and the like"
+
+Devin glances at Ad'in.
+
+
+Ad'in says, "And of course, everything is very much welcome to input and suggestions. Just saying that again to drive it home."
+
+Lex rolls her eyes.
+
+
+Ad'in says to Devin, "Umm... not quite."
+
+Ad'in winks at Devin.
+
+
+Lex asks, "oh, will anything be useable to alter an item's shape?"
+
+
+Lex asks, "or how will we tell if it can?"
+
+Vesper nods to Devin.
+
+Vesper pokes Devin.
+
+
+Ad'in says to Lex, "That's related to the issue of expanding crafting for modifications - not something we have discussed at any length. Shapes gained are based on level."
+
+Lex nods.
+
+
+Lex says, "okay"
+
+
+Devin asks, "Can we avoid the use of the forums to be used as a buy/sell location?"
+
+
+Vesper asks Devin, "What do you suggest be used then?"
+
+
+Devin says to Vesper, "I explained to Mike in our meeting as to the exact reason"
+
+
+Devin says to Vesper, "I can't really say why here"
+
+Vesper nods.
+
+
+Vesper says, "Well, I don't see why forums couldn't be used as a Merchant's Corner. For instance, there is a buy/sell forum right now."
+
+
+Vesper asks Glinka, "You had a question yes?"
+
+Vesper listens intently to Glinka.
+
+
+Karl says, "The only ic reason I could think of is if the merchant council forbid it."
+
+
+Glinka asks, "will scenarios that were run in alpha be replayed?..like opening the gates..or the wyrmsilk stuff etc? do we take anythyng from alpha to beta?"
+
+
+Glinka says, "done"
+
+
+Ad'in says, "Generally, no. Alpha to beta is a clear wipe."
+
+Glinka nods.
+
+
+Ad'in says, "However, we do have a set of small rewards for dedicated alpha players."
+
+
+Ad'in says, "Those players will start with a few small tokens of appreciation, such as a small amount of levels, a bit of money, and an RP trinket."
+
+Trey drools.
+
+
+Devin says, "that's good...the only reason I've stuck around this whole time was for a trinket"
+
+Lex snickers.
+
+Ad'in chuckles.
+
+Moxii grins.
+
+Vesper pokes Devin.
+
+
+Glinka asks, "so no temple leaders, no merchant seats..we start all that over..yes?"
+
+Devin pinches Vesper.
+
+Vesper nods to Glinka.
+
+Glinka nods.
+
+
+Glinka says, "kk"
+
+
+Ad'in asks, "This is for 2 reasons - a big thank you to everyone who has helped out and stuck with us (main reason) and so that on launch we don't have 400 or 500 people in Travers all vying for those cadets. We're going to have 400 or 500 people, right?"
+
+Ad'in glances.
+
+Glinka grins to Ad'in.
+
+Luc grins.
+
+ ** Saeahu Stormchaser just arrived in the world
+
+
+Ad'in says, "Okay, bad dragon joke time is over."
+
+Vesper snickers.
+
+
+Trey says, "at least 400"
+
+
+Ad'in asks, "That answer your question?"
+
+
+Glinka says, "yes"
+
+** ALPHA CHAT -- Saeahu says, ""
+
+
+Vesper says, "I believe this concludes our meeting for tonight folks"
+
+l
+
+[The Lonely Moon: Stars Club, Tavern]
+Behind the heavy oak door, the dimly-lit room opens into a spacious tavern full of glass-topped, lacquered wooden tables and cushioned chairs. A beautifully polished bar, carved with star and tree shapes, is set against the northern wall. Behind the bar top, bottles of liquor, kegs of beer, and all manner of alcoholic beverage are lined up, tapped and waiting for patrons. High-backed stools are set against the bar, allowing patrons to mingle with one another. The cacophonous sounds of talking, laughing, and whispering fill the packed room. The hearty aroma of well-cooked food wafts from the kitchen entrance behind the bar. Servers and bartenders move swiftly back and forth from the tavern to the kitchen. A T-shaped stage is centered at the eastern wall, and though the barmaids and barkeeps continue to move quickly, refilling drinks or bringing food in and out from the kitchen behind the bar, a reverent silence spreads over the customers as entertainers take the stage. Portraits of various famous adventurers decorate the walls, yet the most pronounced portrait of the owner has been hung behind the bar.
+
+The area is illuminated.
+
+In this room you see: Vesper the Silvarin,  Kyra the Silvarin (sitting down),  Ad'in the Dragon,  Gilraen the Silvarin,  Aero the Fae,  Heath the Aka'thri,  Hans the Galirrim (sitting down),  Trey the Duskwen,  Throwback the Fae (sitting down),  Lex the Varanus (sitting down),  Karl the Human (sitting down),  Devin the Vorngar,  Xilsker the Seraphim,  Glinka the Fae (sitting down),  Luc the Human (sitting down),  Moxii the Galirrim (sitting down),  Mike the Seraphim,  Mordin the Goblin
+Obvious exits are: open heavy oak door
+
+Ad'in nods.
+
+Luc stands up.
+
+Glinka smiles.
+
+Trey applauds.
+
+
+Vesper says, "I really REALLY REEEAAALLY want to thank everyone for coming"
+
+Luc stretches languidly.
+
+Lex stands up.
+
+Karl stands up.
+
+
+Ad'in says, "Yes... a deepest thank you from all of us here. It means a ton."
+
+Luc howls.
+
+
+Kyra exclaims, "Thanks much for the meeting!"
+
+Hans stands up.
+
+Moxii grins.
+
+
+Vesper says, "I would hug you all and molest you all if I could in thanks for coming, but I might get in trouble"
+
+
+Trey says, "we want to thank you for making this game possible"
+
+
+Heath says, "thanks for the info"
+
+
+Glinka says, "i posted in general disscussion area..for any other questions folks want to discuss"
+
+Vesper snickers at Luc.
+
+Luc grins at Vesper.
+
+Moxii leans on Lex.
+
+Lex grunts at Moxii.
+
+
+Vesper asks Devin, "Do you mind posting the meeting notes?"
+
+Lex glances around.
+
+Devin nods to Vesper.
+
+Vesper smiles at Devin.
+
+
+Devin says, "will take me a day or so to clean them up"
+
+
+Ad'in says, "We'll be hosting a couple more of these throughout the week, so if you have more questions or folks didn't make it to this one, we'll snag them the second time around."
+
+
+Vesper says, "That's ok"
+
+Lex glances around.
+
+Lex ponders a moment.
+
+Kyra is no longer following Vesper.
+
+Moxii yawns.
+
+
+Lex asks, "so.. games?"
+
+Lex raises an eyebrow.
+
+Ad'in laughs.
+
+Vesper disbands her group.
+
+
+Heath says, "Night all"
+
+Glinka grins to Lex.
+
+Heath waves.
+
+Heath just went through the open heavy oak door.
+
+Vesper groans at Lex.
+
+** ALPHA CHAT -- Saeahu says, "where is everybody?"
+
+Glinka waves.
+
+Devin follows Vesper.
+
+Lex laughs.
+
+ ** Heath Fane just left the world.
+
+
+Vesper says to Lex, "Tomorrow"
+
+
+Ad'in exclaims, "I would, but I am just exhausted. Been coding for hours!"
+
+Hans just went through the open heavy oak door.
+
+Lex whines at Vesper.
+
+** ALPHA CHAT -- Glinka says, "just had an rp meeting"
+
+Throwback waves.
+
+
+Ad'in exclaims, "But yes, come tomorrow for the last round of UGGA!"
+
+** ALPHA CHAT -- Glinka says, "moon club"
+
+** ALPHA CHAT -- Saeahu says, "i missed it?"
+
+** ALPHA CHAT -- Luc says, "by about 30 seconds, yeah"
+
+** ALPHA CHAT -- Lex says, "8:30 eastern"
+
+** ALPHA CHAT -- Lex says, "yarp"
+
+Luc howls at Ad'in.
+
+** ALPHA CHAT -- Saeahu says, "drats"
+
+ ** Throwback Dufae just left the world.
+
+Devin disappears in a flash of light.
+
+
+Ad'in exclaims, "Thanks all!"
+
+Luc leans on Kyra.
+
+
+Ad'in says, "I think we're done here."
+
+Luc yawns.
+
+** ALPHA CHAT -- Devin says, "actually missed it by 2 hours, 10 minutes and 30 seconds"
+
+** ALPHA CHAT -- Glinka says, "will be more meeting later"
+
+Trey waves.
+
+Ad'in waves.
+
+
+Lex says, "thanks"
+
+Luc salutes to Trey.
+
+Lex waves.
+
+Glinka waves.
+
+Mordin follows Kyra.
+
+Xilsker just went through the open heavy oak door.
+
+ ** Trey Falgar just left the world.
+
+ ** Xilsker Listope just left the world.
+
+
+Moxii says, "Yaaaaaay I can't wait for beta."
+
+
+Moxii says, "Woot woot."
+
+Lex nods to Moxii.
+
+Aero smiles at Moxii.
+
+Lex smiles.
+
+
+Luc exclaims, "I GET A TRINKET!"
+
+Luc howls.
+
+Lex chuckles.
+
+
+Kyra says, "Laters guys! I'm going to show the newbie around! And Luc...."
+
+
+Moxii says, "Murr. I want a trinket."
+
+Moxii pouts.
+
+Luc raises an eyebrow at Kyra.
+
+Kyra hugs Luc with a kiss on the cheek.
+
+
+Glinka asks, "a trinket per character?..or a trinket per player?"
+
+Glinka glances at Luc.
+
+
+Aero says, "per player"
+
+Luc howls.
+
+Glinka cackles.
+
+Glinka pokes Aero.
+
+Luc winks at Kyra.
+
+Lex chuckles.
+
+Aero pokes Glinka.
+
+Aero grins.
+
+Kyra cackles then runs away.
+
+Lex glances at Luc.
+
+Kyra stands up.
+
+Kyra's group just went through the open heavy oak door.
+
+Luc flails his arms at Lex.
+
+
+Aero says to Glinka, "Otherwise you'd have like 500"
+
+
+Luc exclaims to Lex, "i did nothin!"
+
+
+Lex says to Luc, "better watch out, that one has crazy eyes"
+
+
+Luc says, "i'm innocent"
+
+Glinka cackles.
+
+Lex winks at Luc.
+
+
+Ad'in says, "Per character. Basically per account, so 1."
+
+Moxii snickers.
+
+
+Aero says to Glinka, "Not to mention Devin's cleric army of trinkets"
+
+Luc cackles.
+
+Glinka flails her arms to Ad'in.
+
+Glinka nods her head up and down to Aero.
+
+
+Glinka says, "i have 5 accounts"
+
+
+Moxii says, "Now I have to actually start thinking about what sort of character I want to play."
+
+Glinka grins to Ad'in.
+
+Moxii ponders a moment.
+
+Moxii blinks at Glinka.
+
+
+Luc says to Moxii, "don't hurt yourself"
+
+Aero grins at Moxii.
+
+Lex chuckles at Moxii.
+
+Luc grins at Moxii.
+
+Moxii snorts.
+
+
+Aero says to Moxii, "Figured that out months ago, i'm just kind of undecided on name at this point"
+
+
+Lex says, "I just donno what sort of trinket i'd want"
+
+Lex ponders a moment.
+
+Lex shrugs.
+
+Aero glances at Lex.
+
+Lex shrugs.
+
+
+Glinka says to Lex, "get a scar"
+
+Lex laughs.
+
+
+Aero asks Lex, "Crotchless panties?"
+
+Aero hums.
+
+Lex rolls her eyes.
+
+
+Lex says to Aero, "you wish"
+
+Lex ponders a moment.
+
+Lex frowns.
+
+Aero laughs.
+
+
+Lex says, "yea.. i suppose you do.."
+
+Lex winks at Aero.
+
+
+Ad'in says to Lex, "We're going to give you the "Most Accused of Overpowered" badge."
+
+
+Moxii says, "Hummmm."
+
+Moxii howls.
+
+Lex cackles madly.
+
+Glinka cackles to Lex.
+
+Lex nods to Ad'in.
+
+
+Karl says, "Nerf Lex, please."
+
+Lex groans.
+
+Ad'in grins.
+
+time
+time
+It is currently 09:30 PM.
+
+l at v
+
+You see Valhad the adolescent Vorngar.
+He is 4' 3" tall with a muscular build, straight, dull black hair, sapphire blue eyes, and tanned skin.
+He bears the mark of Thaessilgan.
+He is currently in a neutral mood.
+
+
+He is carrying:
+ -a ruby and emerald inlaid broadsword                             (right hand)
+ -a water logged wooden plank of destiny                           (left hand)
+ -a bloodstained spiked unholy black damascus plate battle mail    (torso)
+ -a simple cotton shirt                                            (torso)
+ -a thick full plated headcrusher helm                             (head)
+ -a pair of tattered cotton pants                                  (legs)
+ -a bloodstained stone wyrm embossed war greaves                   (feet)
+
+
+
+Valhad performs a calculated strike with his ruby and emerald inlaid broadsword at Devin!
+It is a fair blow to her right arm!
+
+
+time

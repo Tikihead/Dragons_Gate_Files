@@ -1,0 +1,1497 @@
+time
+You are inside and cannot see the sky.
+It is currently 09:59 AM.
+
+Desmond closes the open Joharan symbol-etched door.
+
+moan softly
+You moan softly.
+
+Desmond kneels down and pushes Kurapiira into the backpack.
+
+Desmond has invited you to follow them.
+
+foll d
+You follow Desmond.
+
+stand
+You stand up.
+[1 sec delay]
+
+Desmond picks up the open simple leather backpack.
+
+Desmond closes his open simple leather backpack.
+
+Desmond asks Slevin, "Help me with this?"
+
+l
+
+[Office of the Avatar]
+A very simple, neat, and clean desk housing only one small bound volume of known species and an inkwell sits at the side of the room. The rest of the room is spotlessly bare, save for a brocade tapestry mural depicting a city tangled in a spiderweb, its black widow mistress looming to the side of the cloth. A recently dusted bookshelf houses various novels and scholarly volumes.
+
+The area is illuminated.
+
+In this room you see: Slevin the Urgon,  Desmond the Silvarin
+Obvious exits are: closed Joharan symbol-etched door
+
+moan softly
+You moan softly.
+
+Slevin picks up the simple leather backpack.
+
+Desmond opens the closed Joharan symbol-etched door.
+
+Desmond's group just went through the open Joharan symbol-etched door.
+
+You follow Desmond...
+
+
+[Religious Council, Interior Hall]
+A narrow hall spans the distance between the atrium and the council chamber through the arch to the north. Plain wooden doors, each one looking almost identical except for the etching of the coat-of-arms of each respective religion, flank the hallway. A steel chandelier hangs from the ceiling, housing the flickering flame of candles.
+
+The area is illuminated.
+
+In this room you see: Desmond the Silvarin,  Slevin the Urgon
+Obvious exits are: south, closed Thaessian symbol-etched door, open Joharan symbol-etched door, closed Aederite symbol-etched door, closed Cassite symbol-etched door, archway, closed Karishtan symbol-etched door, closed Eyranian symbol-etched door
+
+Desmond's group just went south.
+
+You follow Desmond...
+
+
+[Religious Council, Atrium]
+The entrance room of the wooden building is high-domed in its ceiling, painted with a mural of the heavens. Unadorned wooden walls lead north through a hall, into the interior of the council. Two simple glass-pane windows give view of the walkway and courtyard outside. A long dark brown runner leads from the doorway to the north, covering the hard pine floor.
+
+The area is illuminated.
+
+In this room you see: Desmond the Silvarin,  Slevin the Urgon
+Obvious exits are: north, closed simple wooden door
+
+Desmond opens the closed simple wooden door.
+
+Desmond's group just went through the open simple wooden door.
+
+You follow Desmond...
+
+
+[Religious Council, Walkway]
+Three shallow steps of shale lead up to the large building of the religious council. Two topiaries flank the steps, shaped like persons in prayer with their hands raised to the sky. A thick brass doorknocker, etched with the symbols of each God and Goddess, takes up the center of the simple wooden door. Two small pathways lead east and west through the courtyard lawn.
+
+The area is illuminated.
+
+In this room you see: Desmond the Silvarin,  Slevin the Urgon
+Obvious exits are: west, south, east, open simple wooden door
+
+Desmond's group just went south.
+
+You follow Desmond...
+
+
+[Religious Council, Walkway]
+The shale stone underfoot that makes the pathway is dull, yet clean. The trappings of the landscaped courtyard are simple, yet elegant with well-placed flowers and shrubbery to add splashes of color to the dark green flora. A massive white pillar, holding the statue of Aederon, takes up a good deal of ground on the west side of the walkway.
+
+The area is illuminated.
+
+In this room you see: Desmond the Silvarin,  Slevin the Urgon
+Obvious exits are: south, north
+
+Desmond's group just went south.
+
+You follow Desmond...
+
+
+[Religious Council, Walkway]
+The polished silver gate on gold hinges opens into a neatly landscaped courtyard. Low rectangular hedges line the walkway and lead towards the tall wooden building of the religious council in the north. Robed passersby, clutching religious texts and symbols, hurry by with the swiftness and devotion of students of faith.
+
+The area is illuminated.
+
+In this room you see: Desmond the Silvarin,  Slevin the Urgon
+Obvious exits are: north, closed polished silver gate
+
+Desmond opens the closed polished silver gate.
+
+Desmond's group just went through the open polished silver gate.
+
+You follow Desmond...
+
+
+[Pantheon Row]
+The walls of the city are visible to the east, some movement, most likely by the city guards who stand watch atop the walls can barely be made out. A tall wooden building etched with godly symbols, animals and a myriad of colors stands behind a ten foot tall iron gate which lines the northern side of the road and merges with a silver gate on gold hinges. Mounted on the gate is a small placard that reads "Religious Council".
+
+The area is illuminated.
+
+In this room you see: Desmond the Silvarin,  Slevin the Urgon
+Obvious exits are: west, east, open polished silver gate
+
+Desmond's group just went west.
+
+You follow Desmond...
+
+
+[Pantheon Row]
+Trees of all shapes and sizes line the road on both sides, their roots at time protruding from the soft ground. A small but functional bench sits centered in a beautiful flower garden on the southern side, while a beautifully ornate birdbath filled with clear water sits to the north.
+
+The area is illuminated.
+
+In this room you see: Desmond the Silvarin,  Slevin the Urgon
+Obvious exits are: west, east
+
+Desmond's group just went west.
+
+You follow Desmond...
+
+
+[Pantheon Row]
+A large amethyst colored building with a tall steeple stands on the northern side of the road sporting a pulsating purple hue. Two glowing orbs hover aside an opalescent blue door. Immediately south a shiny and highly reflective glass building glimmers in all its splendor confidently. Upon closer inspection the outline of a glass mirror can be seen camouflaged with the rest of the building, which appears to allow entrance.
+
+The area is illuminated.
+
+In this room you see: Desmond the Silvarin,  Slevin the Urgon, 1st curious busybody
+Obvious exits are: west, east, closed blue door, closed mirrored door
+
+Desmond's group just went west.
+
+You follow Desmond...
+
+
+[Pantheon Row]
+To the east the temple of Johara glistens tenderly, its strong silver exterior walls reaching out tempting closer inspection by passers by. Centered under an intricately etched silver awning, a shimmering brass door provides passage.
+
+The area is illuminated.
+
+In this room you see: Desmond the Silvarin,  Slevin the Urgon
+Obvious exits are: west, east, open brass door
+
+Desmond's group just went through the open brass door.
+
+You follow Desmond...
+
+
+[Temple of Johara]
+Looking more like an upscale gambling hall than a place of worship, ones eyes are drawn to no specific area. Large crystalline chandeliers hang dramatically from the gold-leafed ceiling, lighting numerous tables set up for games of chance. A gold double-sided scale sits atop of a highly polished, ornate walnut table. A law book is set on one side, while the other is weighed down by an assortment of rubies, emeralds, diamonds, sapphires, gold rings and pearls which spill out onto the table in a chaotic heap. Set in one shadowy corner, a dark marble statue of the Goddess Johara gleams invitingly for closer inspection. In one hand she holds a pair of ruby die displaying snake eyes. The other hand proudly holds an upside-down gold plated tarot card of a knight holding a sword. A brass door etched with Johara's likeness leads back onto the street.
+
+The area is illuminated.
+
+In this room you see: Desmond the Silvarin,  Slevin the Urgon
+In this room are: ruby-entwined glittering golden altar
+Obvious exits are: thick, golden velvet curtain, open brass door
+
+Desmond's group just went through the statue.
+
+You follow Desmond...
+
+It is too dark to see!
+
+Desmond's group just went west.
+
+You follow Desmond...
+
+It is too dark to see!
+
+Desmond's group just went west.
+
+You follow Desmond...
+
+It is too dark to see!
+
+Desmond's group just went west.
+
+You follow Desmond...
+
+
+[Coldwater Junction]
+A busted pipe, eaten through with rust and covered in silt, allows gushing water to burst from a corner where two stone walls meet. The water is nearly freezing in temperature and passersby tip-toe around the puddles and stream of running water which collects in the basin of the floor. The main tunnel continues to the south as a causeway shoots off to the east.
+
+The area is illuminated.
+
+In this room you see: Desmond the Silvarin,  Slevin the Urgon
+Obvious exits are: south, east, north
+
+Desmond's group just went north.
+
+You follow Desmond...
+
+
+[Dank Tunnel]
+The stone ceiling slopes upwards nearer a junction and the center of the locale. A rotting wooden box, lifted on stilts to keep it away from the stagnant runoff water, displays a series of curiously colorful, yet appetizing-looking mushrooms. A raggedy Aka'thri, fur matted and dandruff-ridden, sits behind the mushroom stand, yowling about their benefits, flavor, and shapes.
+
+The area is illuminated.
+
+In this room you see: Desmond the Silvarin,  Slevin the Urgon
+Obvious exits are: south, north
+
+Desmond's group just went north.
+
+You follow Desmond...
+
+
+[Dank Tunnel]
+The putrid stench of life in close quarters and without ventilation wafts throughout the underground. An old iron coat rack stands by the side of a wall, covered with filthy, moth-eaten, and threadbare outer garments. Inhabitants of the underground shamble past it, sometimes adding coats, and sometimes removing them.
+
+The area is illuminated.
+
+In this room you see: Desmond the Silvarin,  Slevin the Urgon
+Obvious exits are: south, north
+
+Desmond's group just went north.
+
+You follow Desmond...
+
+
+[Dank Tunnel]
+Swathes of what was once bright paint covers the gloomy gray stone cobbles of the tunnel walls. Incomprehensible shapes and figures, faded and damaged by the constant humidity and passage of water, decorates the ceiling, floor, and walls where the inhabitants of the underground have placed them. A small shrine to Aederon sits on the wayside of the tunnel, damaged and covered in graffiti. A bright white paint covers most of the graffiti with the word, "Baelros."
+
+The area is illuminated.
+
+In this room you see: Desmond the Silvarin,  Slevin the Urgon
+Obvious exits are: south, north
+
+Desmond's group just went north.
+
+You follow Desmond...
+
+
+[Dank Tunnel]
+Make-shift hovels, covered with damp ragged pieces of cloth, litter the sides of the tunnel, attempting to avoid the slanted middle where the passage of sewer water trickles. Stacked rows of old brick enclose the different hovels where the owners have tried to create some semblance of a yard. A large number of footprints are in the area, some leading towards the west wall of the sewer.
+
+The area is illuminated.
+
+In this room you see: Desmond the Silvarin,  Slevin the Urgon
+Obvious exits are: south, north
+
+groan
+You groan.
+
+Desmond searches the room carefully.
+
+Desmond searches the room carefully.
+
+Desmond says to Slevin, "Make sure she does not wake"
+
+Desmond searches the room carefully.
+
+Desmond opens the closed old iron banded hatch.
+
+Desmond's group just went through the open old iron banded hatch.
+
+You follow Desmond...
+
+
+[Bazaar Entrance]
+The tunnel is wide here and is very clean and well lit by undercity standards. Several mean looking guards of various races stand about, weapons in hand as they eye those coming and going. Through the center of the tunnel, crowds of cloaked traders bump and push their way through the main portal of the bazaar, their heads lowered and coin-purses held close.
+
+The area is illuminated.
+
+In this room you see: Desmond the Silvarin,  Slevin the Urgon, 1st leather cloaked enforcer
+Obvious exits are: west, open old iron banded hatch
+
+Desmond's group just went west.
+
+You follow Desmond...
+
+
+[Northeast Bazaar Heart]
+The tunnel widens considerably, even as space becomes less available. Crowds try to push their way toward the Bazaar Heart, sometimes getting in scuffles with those trying to leave. Knots of desperate children clad in rags wave trinkets at passersby, while a long string of street performers vie for precious tunnel space and attention. Where the space can be found, vendors have set up small stalls, selling everything from mushrooms to bone knives. A cacophony of shouts from the southwest floods the tunnel.
+
+The area is illuminated.
+
+In this room you see: Desmond the Silvarin,  Slevin the Urgon, 1st masked trader
+Obvious exits are: west, east
+
+Desmond's group just went west.
+
+You follow Desmond...
+
+
+[Weapon Dealer]
+The crowd jostles around the spectacle of two Human toughs tied together by a sash and dueling with curved knives. It appears to be a product demonstration of sorts, since a nearby obese Duskwen chants the merits of the weapons being used in the duel. The sleeves of his midnight silk shirt are rolled up, displaying wicked scars on forearms and hands, and demonstrating that he is quite acquainted with his own product. Laid out on black and crimson velvet are a wide variety of short blades, thrusts, and off hand blades.
+
+The area is illuminated.
+
+In this room you see: Desmond the Silvarin,  Slevin the Urgon, 1st sewer weasel, 2nd sewer weasel
+Obvious exits are: west, south, east
+
+Desmond's group just went south.
+
+You follow Desmond...
+
+
+[Bazaar Heart]
+Several tunnels empty into an enormous circular tunnel section with a high domed ceiling. Within the chamber, a labyrinth of stalls and tents winds throughout, giving those of the wrong side of the law a place to sell their goods. Hawkers try to outshout their rivals, while artists and acrobats beg for attention. Merchants jostle for space on large tables, as urchins race in to grab their share of goods. What little security is available is provided by roving bands of Human toughs. Flaunting their curved knives and red bandanas, they hassle an Urgon attempting to sell Human flesh. Near the center of the vault ceiling, the color has faded out of the stone, leaving behind the ghost of a shape that resembles a large white heart.
+
+The area is illuminated.
+
+In this room you see: Desmond the Silvarin,  Slevin the Urgon
+Obvious exits are: south, north
+
+Desmond's group just went south.
+
+You follow Desmond...
+
+
+[Undercity Garments]
+A large area has been cleared of stalls in this part of the tunnel where a mountain of mushroom fiber crates threatens to topple into the yard. Wooden mannequins dressed in various outfits have been set up on the other side of the tunnel, some pierced by arrows and bolts. Customers crowd around a rack of clothing, attempting to haggle or secure a discounted piece. The proprietor, a scowling dark-skinned Silvarin, watches his stock carefully. A large, muscular looking Aka'thri stands nearby, a spear held in his hands.
+
+The area is illuminated.
+
+In this room you see: Desmond the Silvarin,  Slevin the Urgon, 1st masked trader, 1st grimy mercenary
+Obvious exits are: west, east, north
+
+Desmond's group just went west.
+
+You follow Desmond...
+
+
+[Tattoo Parlor]
+Most of the tunnel here has been sectioned off by clotheslines covered in blue and red handkerchiefs. The lead tattooist, a Silvarin with vines winding down her cheeks, applies flames to the side of a man's neck. Rowdy gangs of Human bandit types wait their turn impatiently and loudly compare ideas. A harried-looking Human woman in a beige robe constantly checks on those laying down on rough woolen blankets in another part of the yard.
+
+The area is illuminated.
+
+In this room you see: Desmond the Silvarin,  Slevin the Urgon
+Obvious exits are: west, east
+
+Desmond's group just went east.
+
+You follow Desmond...
+
+
+[Undercity Garments]
+A large area has been cleared of stalls in this part of the tunnel where a mountain of mushroom fiber crates threatens to topple into the yard. Wooden mannequins dressed in various outfits have been set up on the other side of the tunnel, some pierced by arrows and bolts. Customers crowd around a rack of clothing, attempting to haggle or secure a discounted piece. The proprietor, a scowling dark-skinned Silvarin, watches his stock carefully. A large, muscular looking Aka'thri stands nearby, a spear held in his hands.
+
+The area is illuminated.
+
+In this room you see: Desmond the Silvarin,  Slevin the Urgon, 1st masked trader, 1st grimy mercenary
+Obvious exits are: west, east, north
+
+Desmond's group just went east.
+
+You follow Desmond...
+
+
+[Crossroad Tunnel]
+The stalls have thinned out in this part of the tunnel and moldy canvas tents have sprung up all over, nearly blocking the passage. A pair of goblin merchants shrilly argue with some of the scavenger residents, demanding they move their tents. A poor young Human girl has taken advantage of the situation to set up a flower cart nearby, artlessly calling out the merits of her wares.
+
+The area is illuminated.
+
+In this room you see: Desmond the Silvarin,  Slevin the Urgon, 1st grimy mercenary
+Obvious exits are: west, south, east
+
+Desmond's group just went south.
+
+You follow Desmond...
+
+
+[Courier's]
+At one end of a long wooden stall, an exuberant young Human man hands off bags and packages to the breathless urchins that race up costantly. As an urchin sprints away, a cranky mature Human man calls out threats , even as he bitterly haggles over the cost of a fine leather case with a squinting Vorngar. Nearby, a pair of Human street bandits compare various loot sacks.
+
+The area is illuminated.
+
+In this room you see: Desmond the Silvarin,  Slevin the Urgon, 1st grimy mercenary
+Obvious exits are: south, north
+
+emote flutters her wings softly, stirring...
+You flutters her wings softly, stirring...
+
+Slevin says, "she will not we hit hear really hard"
+
+Slevin coughs.
+
+The grimy mercenary runs a hand through her hair nonchalantly.
+
+Slevin says, "her"
+
+Desmond punches the backpack hard.
+
+Desmond's group just went north.
+
+You follow Desmond...
+
+
+[Crossroad Tunnel]
+The stalls have thinned out in this part of the tunnel and moldy canvas tents have sprung up all over, nearly blocking the passage. A pair of goblin merchants shrilly argue with some of the scavenger residents, demanding they move their tents. A poor young Human girl has taken advantage of the situation to set up a flower cart nearby, artlessly calling out the merits of her wares.
+
+The area is illuminated.
+
+In this room you see: Desmond the Silvarin,  Slevin the Urgon, 1st leather cloaked enforcer, 1st masked trader
+Obvious exits are: west, south, east
+
+Desmond's group just went west.
+
+You follow Desmond...
+
+
+[Undercity Garments]
+A large area has been cleared of stalls in this part of the tunnel where a mountain of mushroom fiber crates threatens to topple into the yard. Wooden mannequins dressed in various outfits have been set up on the other side of the tunnel, some pierced by arrows and bolts. Customers crowd around a rack of clothing, attempting to haggle or secure a discounted piece. The proprietor, a scowling dark-skinned Silvarin, watches his stock carefully. A large, muscular looking Aka'thri stands nearby, a spear held in his hands.
+
+The area is illuminated.
+
+In this room you see: Desmond the Silvarin,  Slevin the Urgon, 1st grimy mercenary
+Obvious exits are: west, east, north
+
+Desmond's group just went west.
+
+You follow Desmond...
+
+
+[Tattoo Parlor]
+Most of the tunnel here has been sectioned off by clotheslines covered in blue and red handkerchiefs. The lead tattooist, a Silvarin with vines winding down her cheeks, applies flames to the side of a man's neck. Rowdy gangs of Human bandit types wait their turn impatiently and loudly compare ideas. A harried-looking Human woman in a beige robe constantly checks on those laying down on rough woolen blankets in another part of the yard.
+
+The area is illuminated.
+
+In this room you see: Desmond the Silvarin,  Slevin the Urgon
+Obvious exits are: west, east
+
+Desmond's group just went east.
+
+You follow Desmond...
+
+
+[Undercity Garments]
+A large area has been cleared of stalls in this part of the tunnel where a mountain of mushroom fiber crates threatens to topple into the yard. Wooden mannequins dressed in various outfits have been set up on the other side of the tunnel, some pierced by arrows and bolts. Customers crowd around a rack of clothing, attempting to haggle or secure a discounted piece. The proprietor, a scowling dark-skinned Silvarin, watches his stock carefully. A large, muscular looking Aka'thri stands nearby, a spear held in his hands.
+
+The area is illuminated.
+
+In this room you see: Desmond the Silvarin,  Slevin the Urgon, 1st grimy mercenary
+Obvious exits are: west, east, north
+
+Desmond's group just went north.
+
+You follow Desmond...
+
+
+[Bazaar Heart]
+Several tunnels empty into an enormous circular tunnel section with a high domed ceiling. Within the chamber, a labyrinth of stalls and tents winds throughout, giving those of the wrong side of the law a place to sell their goods. Hawkers try to outshout their rivals, while artists and acrobats beg for attention. Merchants jostle for space on large tables, as urchins race in to grab their share of goods. What little security is available is provided by roving bands of Human toughs. Flaunting their curved knives and red bandanas, they hassle an Urgon attempting to sell Human flesh. Near the center of the vault ceiling, the color has faded out of the stone, leaving behind the ghost of a shape that resembles a large white heart.
+
+The area is illuminated.
+
+In this room you see: Desmond the Silvarin,  Slevin the Urgon, 1st masked trader
+Obvious exits are: south, north
+
+Desmond's group just went south.
+
+You follow Desmond...
+
+
+[Undercity Garments]
+A large area has been cleared of stalls in this part of the tunnel where a mountain of mushroom fiber crates threatens to topple into the yard. Wooden mannequins dressed in various outfits have been set up on the other side of the tunnel, some pierced by arrows and bolts. Customers crowd around a rack of clothing, attempting to haggle or secure a discounted piece. The proprietor, a scowling dark-skinned Silvarin, watches his stock carefully. A large, muscular looking Aka'thri stands nearby, a spear held in his hands.
+
+The area is illuminated.
+
+In this room you see: Desmond the Silvarin,  Slevin the Urgon, 1st grimy mercenary
+Obvious exits are: west, east, north
+
+Desmond's group just went west.
+
+You follow Desmond...
+
+
+[Tattoo Parlor]
+Most of the tunnel here has been sectioned off by clotheslines covered in blue and red handkerchiefs. The lead tattooist, a Silvarin with vines winding down her cheeks, applies flames to the side of a man's neck. Rowdy gangs of Human bandit types wait their turn impatiently and loudly compare ideas. A harried-looking Human woman in a beige robe constantly checks on those laying down on rough woolen blankets in another part of the yard.
+
+The area is illuminated.
+
+In this room you see: Desmond the Silvarin,  Slevin the Urgon
+Obvious exits are: west, east
+
+Desmond's group just went west.
+
+You follow Desmond...
+
+
+[Cutthroat Square]
+Noise reverberates off the walls as the tunnel widens into a crowded, stuffy chamber. Mobs of shadowy, cloaked figures fill most of this large space, seeking employment for their various illicit trades. On an improvised stage of stall boards, a band of highwaymen with spiked beards roar offers of work. Near the center of the chamber, an Aka'thri pirate crew is having a shouting match with some bandits over the remains of a bonfire that's been doused by the pirates.
+
+The area is illuminated.
+
+In this room you see: Desmond the Silvarin,  Slevin the Urgon, 1st masked trader, 2nd masked trader
+Obvious exits are: west, south, east, creaky swinging door
+
+Desmond's group just went west.
+
+You follow Desmond...
+
+
+[Snooker Hall]
+The clack of snooker balls striking each other is accompanied by slurred singing and boisterous chatter in this large weathered canvas tent. A gang of Human men and women wearing identical leather armor and skull embossed headrags laughingly lay out a drunken comrade on one of the green cloth covered tables. A scrawny Varanus pool champion holds court in the far corner, hissing as he bests another Human bandit. A surly Vorngar in battered bronze chainmail dispenses tankards of beer along with curses.
+
+The area is illuminated.
+
+In this room you see: Desmond the Silvarin,  Slevin the Urgon, 1st sewer weasel
+Obvious exits are: west, east, north
+
+Desmond's group just went north.
+
+You follow Desmond...
+
+
+[The Acolyte's Emporium]
+Strange mists swirl and obscure vision in this eerie chamber. Men and women wearing black robes and runic sigils mingle or mix mysterious brews in large, smoking cauldrons. A trio of Goblins diligently slice various plants, while an albino Duskwen stocks bottles behind a makeshift counter made up of stalagmites and old wooden crates. A glossy black obsidian orb is suspended from the ceiling by chains, swinging back and forth and casting shadows.
+
+The area is illuminated.
+
+In this room you see: Desmond the Silvarin,  Slevin the Urgon
+Obvious exits are: south, closed enforced steel door
+
+Desmond searches the room carefully.
+
+Desmond searches the room carefully.
+
+Desmond searches the room carefully.
+
+A leather cloaked enforcer just entered the room 9 units in front of you.
+
+help emote
+The following is a list of the emotes available:
+applaud, babble, bare, bateyes, beam, beg, belch, blanch, blink, blow, blush, bow, bristle, burp, cackle, caress, chant, cheer, chew, choke, chortle, chuckle, clap, comfort, cough, cower, cringe, cross, crouch, cry, cuddle, curse, curtsey, dance, dismiss, drool, duck, exhale, faint, fall, fidget, flail, flex, flinch, flirt, frown, furrow, gape, gasp, gawk, gaze, gesture, giggle, glance, glare, gloat, glower, gnash, gnaw, greet, grimace, grin, grit, groan, grovel, growl, grumble, grunt, guffaw, gulp, handhold, hiccup, hiss, hobble, hold, hop, howl, hug, hum, ignore, inhale, jump, kick, kiss, kneel, laugh, lean, leer, lick, limp, listen, moan, mumble, murmur, mutter, nod, nuzzle, pace, pant, peer, perk, pet, pinch, plead, point, poke, ponder, pounce, pout, pull, punch, purr, push, raise, raisehand, roar, roll, rotfl, rub, salute, scoff, scowl, scratch, scream, shift, shiver, shriek, shrug, shudder, shuffle, sigh, slap, smile, smirk, snap, snarl, sneer, sneeze, snicker, sniff, sniffle, snort, snuggle, sob, spit, squeal, squint, squirm, stare, stick, stiffen, stomp, stretch, study, stumble, swoon, tackle, tap, tapfoot, taunt, tease, thank, tickle, tilt, touch, tremble, vomit, wave, weep, whimper, whine, whistle, wince, wink, wrinkle, yawn
+
+Desmond opens the closed enforced steel door.
+
+The 1st leather cloaked enforcer just wandered through the open enforced steel door.
+
+Desmond's group just went through the open enforced steel door.
+
+You follow Desmond...
+
+
+[Hidden Laboratory]
+Various sketches of half finished mechanical devices and a variety of papers with scribbled mathematical formulas are lying unkempt all over a rune carved, oak table that sits in the far right corner of the room. Frost covered oak wall shelves hang above a small, but wide work bench. On the shelves lay various odd looking tools, labeled with runic carvings, that are ready to be put to use. Large black scorch marks litter the floor where various experiments obviously went awry. On the far left of the room is a table with a complicated looking alchemy set with many different sizes of test tubes and vials that look to contain some kind of viscous liquid, that bubbles violently within, sending small bits of the sinister looking fluid spraying in random directions, causing small sizzling and sounds from what was hit. Painted on the roof of the room is a magnificent, massive umber Hydra, surrounded by a circle and a 5 pointed star with umber rooks at each of the stars corners. The entire room is almost uncomfortably chilly, as a very slight fog consumes the room, keeping it at the current temperature. A small rune engraved wrought-iron stand sits in the center of the room. A schematic sits on the stand.
+
+The area is illuminated.
+
+In this room you see: Desmond the Silvarin,  Slevin the Urgon, 1st leather cloaked enforcer
+In this room are: sinister-looking rune covered contraption, unremarkable rune-engraved small moonsilver cube
+Obvious exits are: open enforced steel door
+
+Desmond nods to the 1st leather cloaked enforcer.
+
+Desmond closes the open enforced steel door.
+
+Desmond picks up the unremarkable rune-engraved small moonsilver cube.
+
+The leather cloaked enforcer surveys the area, glaring dangerously.
+
+Desmond nods toward the shadows.
+
+l at cub on des
+You examine the unremarkable rune-engraved small moonsilver cube on Desmond...
+
+Faintly glimmering runes have been etched into the surface of the seemingly unremarkable cube. The runes seem to move while growing stronger, flickering brightly in the pressence of Fae.
+
+Baelros steps out from the shadows.
+
+Baelros nods.
+
+Desmond drops a closed simple leather backpack on the ground.
+
+Desmond says to Slevin, "Hit her again"
+
+emote whimpers softly
+You whimpers softly.
+
+The leather cloaked enforcer surveys the area, glaring dangerously.
+
+Baelros stares at you.
+
+Slevin kicks the simple leather backpack with a powerful blow.
+
+Desmond opens his closed simple leather backpack.
+
+Desmond asks Baelros, "Shall we?"
+
+emote falls out of the backpack
+You falls out of the backpack.
+
+lie
+You lie down.
+
+Baelros says to Desmond, "We shall."
+
+Desmond kneels down and picks up Kurapiira and throws her onto the table.
+
+moan in pain
+You moan in pain.
+
+The leather cloaked enforcer surveys the area, glaring dangerously.
+
+Desmond spreads her arms and legs, placing them into the bindings.
+
+Desmond holds his unremarkable rune-engraved small moonsilver cube and places it into the slot.
+
+l
+
+[Hidden Laboratory]
+Various sketches of half finished mechanical devices and a variety of papers with scribbled mathematical formulas are lying unkempt all over a rune carved, oak table that sits in the far right corner of the room. Frost covered oak wall shelves hang above a small, but wide work bench. On the shelves lay various odd looking tools, labeled with runic carvings, that are ready to be put to use. Large black scorch marks litter the floor where various experiments obviously went awry. On the far left of the room is a table with a complicated looking alchemy set with many different sizes of test tubes and vials that look to contain some kind of viscous liquid, that bubbles violently within, sending small bits of the sinister looking fluid spraying in random directions, causing small sizzling and sounds from what was hit. Painted on the roof of the room is a magnificent, massive umber Hydra, surrounded by a circle and a 5 pointed star with umber rooks at each of the stars corners. The entire room is almost uncomfortably chilly, as a very slight fog consumes the room, keeping it at the current temperature. A small rune engraved wrought-iron stand sits in the center of the room. A schematic sits on the stand.
+
+The area is illuminated.
+
+In this room you see: Baelros the Duskwen,  Desmond the Silvarin,  Slevin the Urgon, 1st leather cloaked enforcer
+In this room are: sinister-looking rune covered contraption, open simple leather backpack
+Obvious exits are: closed enforced steel door
+
+l at cont 
+This wicked looking device exhales small spurts of cold mist from areas around the main structure. The outside and insides of the cold iron structures are completely covered with intricate, glowing runic carvings and have a red and green light indicator protruding at the top. At the front of the device is a small, very cold, steel table, just the right size for both small and large Fae. Magical iron bindings are set in the opened positions, ready to bind the legs, arms and head of the Fae unlucky enough to have gotten caught. Gleaming, tiny steel arms protrude from the sides and front of the table where the Fae's appendages and head are forcefully held into place. The gleaming steel arms are fitted with very tiny needles that are connected to transparent tubes that run into the main body of the device. Through a small window of the main body of the device, you can observe the inner workings of the processing phase. The transparent tubes ends right above a small runic funnel that then transfers the liquid into a small cube, magically suspended inside of the main processing chamber. Each individual wall of the chamber is carved with small runic symbols of each of the four elements. A very small, looping and twisting, steel pipe leads out of the suspended cube and down to the bottom of the processing chamber where various small devices wait to refine and finish the process and deliver the final product. A small tube leads from the small devices to a faucet. The faucet handle is labeled with "On" and "Off" with direction arrows pointing the proper way. A small, cube shaped key slot is embedded into the side of the device.
+
+
+Desmond turns the cube slightly.
+
+The leather cloaked enforcer surveys the area, glaring dangerously.
+
+Baelros circles the table as he watches Kurapiira curiously.
+
+The machine whirs and whines as it starts up, cold puffs of vapor rise from the top and fill the room with a cold fog. ÊThe magical bindings clamp down hard on Kurapiira's arms, legs and head, binding them firmly in place.
+
+The small steel arms lower slowly, as the tiny needles are painfully inserted into Kurapiira's skin.
+
+Desmond disbands his group.
+
+ ** Wirovel Sunnyfi just arrived in the world
+
+trembl unconsciously
+You tremble unconsciously.
+
+Desmond steps out from the shadows.
+
+The clear tubes start to fill as they siphon the blood from Kurapiira, running it into the processing chamber. ÊThe inner walls of the machine start to glow brightly, illuminating the insides, as the blood is drained into the funnel and down into the processing cube.
+
+ ** Rukshana Qari just left the world.
+
+The leather cloaked enforcer surveys the area, glaring dangerously.
+
+The cube begins to vibrate intensly as the small runic carvings start to move around the outside of the cube. ÊThe liquid from the cube is slowly drained and works its way down the piping and into the small containers that rest on the bottom of the machine.
+
+bla , her skin turning lighter..
+You blanch , her skin turning lighter..
+
+Desmond asks Baelros, "Perhaps the Fae will learn her lesson and not go snooping where she does not belong?"
+
+The glowing illumination from inside the machine dies down gradually and the small cube inside stops moving. The light from on top of the machine turns from red to green. ÊThe small steel arms slowly retract back to their normal positions as the cold fog from the machine stops spurting out.
+
+The leather cloaked enforcer surveys the area, glaring dangerously.
+
+Baelros says to Desmond, "If she does not, then she will be responsible for the consequences upon her race."
+
+Desmond removes a bottle from his open rucksack.
+
+Desmond kneels down next to the contraption, placing the bottle under the faucet.
+
+Desmond turns the handle of the faucet to the "On" position. Essence flows in a steady stream into the vial, filling it completely.
+
+Desmond turns the handle tightly to the "Off" position.
+
+trem slightly
+You tremble slightly.
+
+ ** Amarie Sourin just left the world.
+
+Desmond holds his bottle of purified essence up and examines it.
+
+The leather cloaked enforcer surveys the area, glaring dangerously.
+
+Desmond says to Baelros, "It seems to have worked rather nicely"
+
+ ** Galen Marek just left the world.
+
+h
+HP:  142/142  Ftg:  51/51  MP:  81/81
+
+
+Desmond pushes you off the table.
+
+Baelros says to Desmond, "Indeed it has. This will be a most welcomed addition to our business. Well done."
+
+moan softly , her wings shrivelling up upon themselves
+You moan softly , her wings shrivelling up upon themselves.
+
+Baelros glances at you briefly.
+
+The leather cloaked enforcer surveys the area, glaring dangerously.
+
+Slevin asks Desmond, "what should we do with her?"
+
+Slevin glances over at Kurapiira.
+
+Desmond asks Slevin, "Will you drop her off at the orphanage?"
+
+ ** Amarie Sourin just arrived in the world
+
+stat
+You are Kurapiira Mako the Fae Cleric. You are 37 years old.
+You are currently a follower of Eyranas.
+You are ravenously hungry.
+You are pleasantly satiated.
+
+Attack Rating: 24
+Max Tact Move: 9
+Current Stance: neutral
+
+You are currently lying down.
+
+       Racial / Overall
+
+ -Str: High     (Decent)     -Dex: Amazing  (High)      
+ -Qui: Great    (High)       -Con: Good     (Decent)    
+ -Pie: Amazing  (Great)      -Int: Awful    (Average)   
+ -Per: Low      (Low)        -Wil: Great    (Great)     
+
+You are currently carrying:
+ -a beryl-hilted mother-of-pearl tipped rapier    (right hand)
+ -an etched silver targe    (left hand)
+ -a light irratacite chainmail    (torso)
+ -a whipcord-braided square jet-buttoned merino sark    (torso)
+ -a supple brown doeskin archer's wrist guards    (hands)
+ -a glittering spirit-touched arrowhead on a chain    (around neck)
+ -a circlet of exquisite silvery willow leaves    (head)
+ -a wild blue dyed silkroot waist wrap    (legs)
+ -a pair of soft padded dancer's foot thongs    (feet)
+ -a closed lacquered dark brown maple scroll case    (on belt)
+ -a long eagle feather shaman's cape with square platinum beads on the collar    (cloak)
+ -a golden brass belly chain    (around waist)
+ -a single platinum-inlaid bird vertebrae hoop earring    (on ears)
+ -a glittering icicle-shaped crystal septum piercing    (on nose)
+ -a smooth silver lip ring    (on face)
+ -a traditional Vorngar leather battle dress    (torso)
+ -a pair of emerald inlaid moonsilver wingclips    (wings)
+
+
+Slevin says, "yes of course"
+
+Desmond nods to Slevin.
+
+The leather cloaked enforcer surveys the area, glaring dangerously.
+
+Desmond holds the open simple leather backpack open.
+
+emote is lifted up.. stand
+You is lifted up.. stand.
+
+stand
+You stand up.
+[1 sec delay]
+
+l
+
+[Hidden Laboratory]
+Various sketches of half finished mechanical devices and a variety of papers with scribbled mathematical formulas are lying unkempt all over a rune carved, oak table that sits in the far right corner of the room. Frost covered oak wall shelves hang above a small, but wide work bench. On the shelves lay various odd looking tools, labeled with runic carvings, that are ready to be put to use. Large black scorch marks litter the floor where various experiments obviously went awry. On the far left of the room is a table with a complicated looking alchemy set with many different sizes of test tubes and vials that look to contain some kind of viscous liquid, that bubbles violently within, sending small bits of the sinister looking fluid spraying in random directions, causing small sizzling and sounds from what was hit. Painted on the roof of the room is a magnificent, massive umber Hydra, surrounded by a circle and a 5 pointed star with umber rooks at each of the stars corners. The entire room is almost uncomfortably chilly, as a very slight fog consumes the room, keeping it at the current temperature. A small rune engraved wrought-iron stand sits in the center of the room. A schematic sits on the stand.
+
+The area is illuminated.
+
+In this room you see: Baelros the Duskwen,  Desmond the Silvarin,  Slevin the Urgon, 1st leather cloaked enforcer
+In this room are: sinister-looking rune covered contraption, open simple leather backpack
+Obvious exits are: closed enforced steel door
+
+foll sl
+You follow Slevin.
+
+Slevin nods.
+
+Slevin picks up the open simple leather backpack.
+
+moan groggily
+You moan groggily.
+
+Slevin closes his open simple leather backpack.
+
+The leather cloaked enforcer surveys the area, glaring dangerously.
+
+Slevin disbands his group.
+
+Desmond opens the closed enforced steel door.
+
+The 1st leather cloaked enforcer just wandered through the open enforced steel door.
+
+Slevin stares.
+
+set desc She seems to be quite pale, as if a part of her is...missing
+Your description has been updated:
+She seems to be quite pale, as if a part of her is...missing
+
+ ** Corc Handherd just left the world.
+
+Slevin has invited you to follow them.
+
+foll sl
+You follow Slevin.
+
+Slevin's group just went through the open enforced steel door.
+
+You follow Slevin...
+
+
+[The Acolyte's Emporium]
+Strange mists swirl and obscure vision in this eerie chamber. Men and women wearing black robes and runic sigils mingle or mix mysterious brews in large, smoking cauldrons. A trio of Goblins diligently slice various plants, while an albino Duskwen stocks bottles behind a makeshift counter made up of stalagmites and old wooden crates. A glossy black obsidian orb is suspended from the ceiling by chains, swinging back and forth and casting shadows.
+
+The area is illuminated.
+
+In this room you see: Slevin the Urgon, 1st leather cloaked enforcer
+Obvious exits are: south, open enforced steel door
+
+Slevin's group just went south.
+
+You follow Slevin...
+
+
+[Snooker Hall]
+The clack of snooker balls striking each other is accompanied by slurred singing and boisterous chatter in this large weathered canvas tent. A gang of Human men and women wearing identical leather armor and skull embossed headrags laughingly lay out a drunken comrade on one of the green cloth covered tables. A scrawny Varanus pool champion holds court in the far corner, hissing as he bests another Human bandit. A surly Vorngar in battered bronze chainmail dispenses tankards of beer along with curses.
+
+The area is illuminated.
+
+In this room you see: Slevin the Urgon
+Obvious exits are: west, east, north
+
+Slevin's group just went east.
+
+You follow Slevin...
+
+
+[Cutthroat Square]
+Noise reverberates off the walls as the tunnel widens into a crowded, stuffy chamber. Mobs of shadowy, cloaked figures fill most of this large space, seeking employment for their various illicit trades. On an improvised stage of stall boards, a band of highwaymen with spiked beards roar offers of work. Near the center of the chamber, an Aka'thri pirate crew is having a shouting match with some bandits over the remains of a bonfire that's been doused by the pirates.
+
+The area is illuminated.
+
+In this room you see: Slevin the Urgon, 1st sewer weasel, 1st grimy mercenary, 1st masked trader
+Obvious exits are: west, south, east, creaky swinging door
+
+Slevin's group just went east.
+
+You follow Slevin...
+
+
+[Tattoo Parlor]
+Most of the tunnel here has been sectioned off by clotheslines covered in blue and red handkerchiefs. The lead tattooist, a Silvarin with vines winding down her cheeks, applies flames to the side of a man's neck. Rowdy gangs of Human bandit types wait their turn impatiently and loudly compare ideas. A harried-looking Human woman in a beige robe constantly checks on those laying down on rough woolen blankets in another part of the yard.
+
+The area is illuminated.
+
+In this room you see: Slevin the Urgon, 1st leather cloaked enforcer
+Obvious exits are: west, east
+
+Slevin's group just went east.
+
+You follow Slevin...
+
+
+[Undercity Garments]
+A large area has been cleared of stalls in this part of the tunnel where a mountain of mushroom fiber crates threatens to topple into the yard. Wooden mannequins dressed in various outfits have been set up on the other side of the tunnel, some pierced by arrows and bolts. Customers crowd around a rack of clothing, attempting to haggle or secure a discounted piece. The proprietor, a scowling dark-skinned Silvarin, watches his stock carefully. A large, muscular looking Aka'thri stands nearby, a spear held in his hands.
+
+The area is illuminated.
+
+In this room you see: Slevin the Urgon, 1st masked trader
+Obvious exits are: west, east, north
+
+Slevin's group just went east.
+
+You follow Slevin...
+
+
+[Crossroad Tunnel]
+The stalls have thinned out in this part of the tunnel and moldy canvas tents have sprung up all over, nearly blocking the passage. A pair of goblin merchants shrilly argue with some of the scavenger residents, demanding they move their tents. A poor young Human girl has taken advantage of the situation to set up a flower cart nearby, artlessly calling out the merits of her wares.
+
+The area is illuminated.
+
+In this room you see: Slevin the Urgon, 1st masked trader
+Obvious exits are: west, south, east
+
+Slevin's group just went west.
+
+You follow Slevin...
+
+
+[Undercity Garments]
+A large area has been cleared of stalls in this part of the tunnel where a mountain of mushroom fiber crates threatens to topple into the yard. Wooden mannequins dressed in various outfits have been set up on the other side of the tunnel, some pierced by arrows and bolts. Customers crowd around a rack of clothing, attempting to haggle or secure a discounted piece. The proprietor, a scowling dark-skinned Silvarin, watches his stock carefully. A large, muscular looking Aka'thri stands nearby, a spear held in his hands.
+
+The area is illuminated.
+
+In this room you see: Slevin the Urgon, 1st masked trader
+Obvious exits are: west, east, north
+
+Slevin's group just went north.
+
+You follow Slevin...
+
+
+[Bazaar Heart]
+Several tunnels empty into an enormous circular tunnel section with a high domed ceiling. Within the chamber, a labyrinth of stalls and tents winds throughout, giving those of the wrong side of the law a place to sell their goods. Hawkers try to outshout their rivals, while artists and acrobats beg for attention. Merchants jostle for space on large tables, as urchins race in to grab their share of goods. What little security is available is provided by roving bands of Human toughs. Flaunting their curved knives and red bandanas, they hassle an Urgon attempting to sell Human flesh. Near the center of the vault ceiling, the color has faded out of the stone, leaving behind the ghost of a shape that resembles a large white heart.
+
+The area is illuminated.
+
+In this room you see: Slevin the Urgon, 1st grimy mercenary
+Obvious exits are: south, north
+
+Slevin's group just went north.
+
+You follow Slevin...
+
+
+[Weapon Dealer]
+The crowd jostles around the spectacle of two Human toughs tied together by a sash and dueling with curved knives. It appears to be a product demonstration of sorts, since a nearby obese Duskwen chants the merits of the weapons being used in the duel. The sleeves of his midnight silk shirt are rolled up, displaying wicked scars on forearms and hands, and demonstrating that he is quite acquainted with his own product. Laid out on black and crimson velvet are a wide variety of short blades, thrusts, and off hand blades.
+
+The area is illuminated.
+
+In this room you see: Slevin the Urgon, 1st leather cloaked enforcer
+Obvious exits are: west, south, east
+
+Slevin's group just went east.
+
+You follow Slevin...
+
+
+[Northeast Bazaar Heart]
+The tunnel widens considerably, even as space becomes less available. Crowds try to push their way toward the Bazaar Heart, sometimes getting in scuffles with those trying to leave. Knots of desperate children clad in rags wave trinkets at passersby, while a long string of street performers vie for precious tunnel space and attention. Where the space can be found, vendors have set up small stalls, selling everything from mushrooms to bone knives. A cacophony of shouts from the southwest floods the tunnel.
+
+The area is illuminated.
+
+In this room you see: Slevin the Urgon, 1st sewer weasel
+Obvious exits are: west, east
+
+Slevin's group just went east.
+
+You follow Slevin...
+
+
+[Bazaar Entrance]
+The tunnel is wide here and is very clean and well lit by undercity standards. Several mean looking guards of various races stand about, weapons in hand as they eye those coming and going. Through the center of the tunnel, crowds of cloaked traders bump and push their way through the main portal of the bazaar, their heads lowered and coin-purses held close.
+
+The area is illuminated.
+
+In this room you see: Slevin the Urgon, 1st grimy mercenary, 1st sewer weasel
+Obvious exits are: west, closed old iron banded hatch
+
+Slevin opens the closed old iron banded hatch.
+
+Slevin's group just went through the open old iron banded hatch.
+
+You follow Slevin...
+
+
+[Dank Tunnel]
+Make-shift hovels, covered with damp ragged pieces of cloth, litter the sides of the tunnel, attempting to avoid the slanted middle where the passage of sewer water trickles. Stacked rows of old brick enclose the different hovels where the owners have tried to create some semblance of a yard. A large number of footprints are in the area, some leading towards the west wall of the sewer.
+
+The area is illuminated.
+
+In this room you see: Slevin the Urgon
+Obvious exits are: south, north
+
+Slevin's group just went south.
+
+You follow Slevin...
+
+
+[Dank Tunnel]
+Swathes of what was once bright paint covers the gloomy gray stone cobbles of the tunnel walls. Incomprehensible shapes and figures, faded and damaged by the constant humidity and passage of water, decorates the ceiling, floor, and walls where the inhabitants of the underground have placed them. A small shrine to Aederon sits on the wayside of the tunnel, damaged and covered in graffiti. A bright white paint covers most of the graffiti with the word, "Baelros."
+
+The area is illuminated.
+
+In this room you see: Slevin the Urgon
+Obvious exits are: south, north
+
+Slevin's group just went south.
+
+You follow Slevin...
+
+
+[Dank Tunnel]
+The putrid stench of life in close quarters and without ventilation wafts throughout the underground. An old iron coat rack stands by the side of a wall, covered with filthy, moth-eaten, and threadbare outer garments. Inhabitants of the underground shamble past it, sometimes adding coats, and sometimes removing them.
+
+The area is illuminated.
+
+In this room you see: Slevin the Urgon
+Obvious exits are: south, north
+
+Slevin's group just went south.
+
+You follow Slevin...
+
+
+[Dank Tunnel]
+The stone ceiling slopes upwards nearer a junction and the center of the locale. A rotting wooden box, lifted on stilts to keep it away from the stagnant runoff water, displays a series of curiously colorful, yet appetizing-looking mushrooms. A raggedy Aka'thri, fur matted and dandruff-ridden, sits behind the mushroom stand, yowling about their benefits, flavor, and shapes.
+
+The area is illuminated.
+
+In this room you see: Slevin the Urgon
+Obvious exits are: south, north
+
+Slevin's group just went south.
+
+You follow Slevin...
+
+
+[Coldwater Junction]
+A busted pipe, eaten through with rust and covered in silt, allows gushing water to burst from a corner where two stone walls meet. The water is nearly freezing in temperature and passersby tip-toe around the puddles and stream of running water which collects in the basin of the floor. The main tunnel continues to the south as a causeway shoots off to the east.
+
+The area is illuminated.
+
+In this room you see: Slevin the Urgon
+Obvious exits are: south, east, north
+
+Slevin's group just went south.
+
+You follow Slevin...
+
+
+[Dank Tunnel]
+Series of old plywood structures, propped up by stones, held together by twine, and swathed in old linens resembling window curtains sprawl out, oddly enough, in neat rows. It appears that the inhabitants of the underground, though destitute, strive for some order of their lodgings.
+
+
+The area is illuminated.
+
+In this room you see: Slevin the Urgon
+Obvious exits are: south, north
+
+Slevin's group just went south.
+
+You follow Slevin...
+
+
+[Underground Vault]
+The northern tunnel opens into a spacious, circular center with a high domed ceiling. Embedded in the cobbles of the upper walls and ceiling are intricate and colorful tiles, set to depict different pictures of mushrooms, water wells, and a small race of what could only be described as rattlings. The tiles above appear to be faded in color, and several of the different tiles in the expansive mosaic have fallen and been lost. In the center of the floor, directly beneath the center of the ceiling is a relatively well-kept statue. To the southwest the beginnings of a new tunnel is evident. A slime-coated ladder to the south aids travelers up into an enormous steel pipe.
+
+
+The area is illuminated.
+
+In this room you see: Slevin the Urgon
+Obvious exits are: west, southwest, north, slime-covered ladder
+
+Slevin's group just went west.
+
+You follow Slevin...
+
+It is too dark to see!
+
+Slevin's group just went west.
+
+You follow Slevin...
+
+It is too dark to see!
+
+Slevin's group just went west.
+
+You follow Slevin...
+
+It is too dark to see!
+
+groan softly
+You groan softly.
+
+Slevin's group just went west.
+
+You follow Slevin...
+
+It is too dark to see!
+
+Slevin's group just went through the rickety wooden ladder.
+
+You follow Slevin...
+
+It is too dark to see!
+
+Slevin's group just went through the dark narrow alleyway.
+
+You follow Slevin...
+
+
+[Popper Street]
+A shadowy back alley winds its way between the crumbling stone walls of two old storefronts. The abandoned stores have boards over their broken windows and pebbles litter the front porches. One of the roofs have begun to fall into the inside of the store, as wooden beams can be seen dangling down towards the floor through cracks in the wooden boards outside.
+
+The area is illuminated.
+
+In this room you see: Slevin the Urgon
+Obvious exits are: west, east, dark narrow alleyway
+
+Slevin's group just went east.
+
+You follow Slevin...
+
+
+[Popper Street]
+A broken wooden gate swings erratically on its hinges, banging against the old iron lock. Though there is a slight wind, it would not be enough to make the gate swing that hard. Passing the gate, denizens notice three small Zacotl children roughly swinging the gate to make the noise and entertain themselves without parental supervision.
+
+The area is illuminated.
+
+In this room you see: Slevin the Urgon
+Obvious exits are: west, east
+
+Slevin's group just went east.
+
+You follow Slevin...
+
+
+[Popper Street]
+High-pitched dog growls can be heard from the back of a shady building. The rafters on the roof has fallen in, along with some of the wooden shingles. A young man smiles kindly as the soldiers pass the house by; he enters the house where a young woman can be seen holding a child and attempting to shush the canines. Old bones and scraps are strewn about the front yard beneath a clothes line.
+
+The area is illuminated.
+
+In this room you see: Slevin the Urgon
+Obvious exits are: west, east
+
+Slevin's group just went east.
+
+You follow Slevin...
+
+
+[Popper Street]
+Near the main road, a well-dressed Silvarin gentleman sits at the side of Popper Street, nonchalantly reading the local newspaper for the latest issues and rumors. A group of children, diverse in their races, scuffle up to him and beg him for a mark. The Silvarin gives each child a crown and, left to himself and cheers of the children, he reads his paper. The soldiers pass him by quietly, moving on to the Southern Cross Road. A newly built plain, brown building has been erected to the north of the main street where the sounds of children can be heard.
+
+The area is illuminated.
+
+In this room you see: Slevin the Urgon
+Obvious exits are: west, east, north
+
+Slevin's group just went north.
+
+You follow Slevin...
+
+
+[Urda Orphanage Walkway]
+The dimly lit walkway is constructed of pale white cobblestone. To the south the wrought iron gate stands tall adorned with vines snaking their way up and across the gaps in its framework. The cobblestone walkway starts at the gate and winds north towards the orphanage itself. Adjacent to the walkway are open grassy fields that small children chase each other through. Further east and west are lined by tall shrubs which seem to serve as impassable barriers herding children and by-passers alike towards a distant two story brown building.
+
+The area is illuminated.
+
+In this room you see: Slevin the Urgon
+Obvious exits are: south, north
+
+Slevin's group just went north.
+
+You follow Slevin...
+
+
+[Urda Orphanage]
+A cobblestone pathway terminates at two granite steps that lead up to a covered porch on the south face of the two story brown brick building with white trimming. The hedges which bound the open grassy fields on both sides of the orphanage extend to the back of the building. On the east side of the building a dark twisting tree with no leaves extends four snaking arms in roughly each of the ordinal directions. The tree doesn't provide very much shade at the tips, but young children can be seen from time to time chasing each other around the base of the tree in complete shade. Occasionally, adolescent Zacotl and Fae can be seen chasing each other while deftly flying between the branches. On the south side of the building the granite porch extends for three quarters of the building and meets a portion of the building which juts out to terminate the porch. The porch's roof is supported by five large white Doric columns that terminate just outside the bounds of the granite porch. The portion of the building which meets the porch is surrounded by massive windows surrounded by white plaster on both the South and East aspect. The building projects itself further laterally and vertically than it seems to at a distance. The roof of the building is two large peaks and one smaller peak that covers the corner portion of the building. The roof itself is made of red ceramic tiles and two large brick chimneys extend themselves in transverse orientation on the east and west side of the building. There are children playing outside the orphanage and a flattened baseline of conglomerated noises which emanates from inside the building itself.
+
+The area is illuminated.
+
+In this room you see: Slevin the Urgon
+Obvious exits are: south, a large set of thick wooden double doors
+
+Slevin looks around.
+
+Slevin opens his closed simple leather backpack.
+
+Slevin drops a open simple leather backpack on the ground.
+
+ ** Amarie Sourin just left the world.
+
+disb 
+emote falls to the ground 
+lie
+You falls to the ground.
+
+You are no longer following Slevin.
+
+You lie down.
+
+moan softly
+You moan softly.
+
+l
+
+[Urda Orphanage]
+A cobblestone pathway terminates at two granite steps that lead up to a covered porch on the south face of the two story brown brick building with white trimming. The hedges which bound the open grassy fields on both sides of the orphanage extend to the back of the building. On the east side of the building a dark twisting tree with no leaves extends four snaking arms in roughly each of the ordinal directions. The tree doesn't provide very much shade at the tips, but young children can be seen from time to time chasing each other around the base of the tree in complete shade. Occasionally, adolescent Zacotl and Fae can be seen chasing each other while deftly flying between the branches. On the south side of the building the granite porch extends for three quarters of the building and meets a portion of the building which juts out to terminate the porch. The porch's roof is supported by five large white Doric columns that terminate just outside the bounds of the granite porch. The portion of the building which meets the porch is surrounded by massive windows surrounded by white plaster on both the South and East aspect. The building projects itself further laterally and vertically than it seems to at a distance. The roof of the building is two large peaks and one smaller peak that covers the corner portion of the building. The roof itself is made of red ceramic tiles and two large brick chimneys extend themselves in transverse orientation on the east and west side of the building. There are children playing outside the orphanage and a flattened baseline of conglomerated noises which emanates from inside the building itself.
+
+The area is illuminated.
+
+In this room are: open simple leather backpack
+Obvious exits are: south, a large set of thick wooden double doors
+
+l in bac
+Inside the open simple leather backpack you see:
+ 
+ (0 total lbs)
+
+l
+
+[Urda Orphanage]
+A cobblestone pathway terminates at two granite steps that lead up to a covered porch on the south face of the two story brown brick building with white trimming. The hedges which bound the open grassy fields on both sides of the orphanage extend to the back of the building. On the east side of the building a dark twisting tree with no leaves extends four snaking arms in roughly each of the ordinal directions. The tree doesn't provide very much shade at the tips, but young children can be seen from time to time chasing each other around the base of the tree in complete shade. Occasionally, adolescent Zacotl and Fae can be seen chasing each other while deftly flying between the branches. On the south side of the building the granite porch extends for three quarters of the building and meets a portion of the building which juts out to terminate the porch. The porch's roof is supported by five large white Doric columns that terminate just outside the bounds of the granite porch. The portion of the building which meets the porch is surrounded by massive windows surrounded by white plaster on both the South and East aspect. The building projects itself further laterally and vertically than it seems to at a distance. The roof of the building is two large peaks and one smaller peak that covers the corner portion of the building. The roof itself is made of red ceramic tiles and two large brick chimneys extend themselves in transverse orientation on the east and west side of the building. There are children playing outside the orphanage and a flattened baseline of conglomerated noises which emanates from inside the building itself.
+
+The area is illuminated.
+
+In this room are: open simple leather backpack
+Obvious exits are: south, a large set of thick wooden double doors
+
+shiv once
+You shiver once.
+
+grim, raising her head..
+Unknown command "grim,"
+
+grim , raising her head..
+You grimace , raising her head..
+
+blink her eyes, groggily
+You blink her eyes, groggily.
+
+trem
+You tremble.
+
+set mood scare
+Your mood is now scared.
+
+' what...
+You say, "what..."
+
+ ** Galen Marek just arrived in the world
+
+gla down at herself
+You glance down at herself.
+
+shiv
+You shiver.
+
+trem
+You tremble.
+
+gla back at her wings..
+You glance back at her wings..
+
+ ** Amarie Sourin just arrived in the world
+
+cry softly
+You cry softly.
+
+l
+
+[Urda Orphanage]
+A cobblestone pathway terminates at two granite steps that lead up to a covered porch on the south face of the two story brown brick building with white trimming. The hedges which bound the open grassy fields on both sides of the orphanage extend to the back of the building. On the east side of the building a dark twisting tree with no leaves extends four snaking arms in roughly each of the ordinal directions. The tree doesn't provide very much shade at the tips, but young children can be seen from time to time chasing each other around the base of the tree in complete shade. Occasionally, adolescent Zacotl and Fae can be seen chasing each other while deftly flying between the branches. On the south side of the building the granite porch extends for three quarters of the building and meets a portion of the building which juts out to terminate the porch. The porch's roof is supported by five large white Doric columns that terminate just outside the bounds of the granite porch. The portion of the building which meets the porch is surrounded by massive windows surrounded by white plaster on both the South and East aspect. The building projects itself further laterally and vertically than it seems to at a distance. The roof of the building is two large peaks and one smaller peak that covers the corner portion of the building. The roof itself is made of red ceramic tiles and two large brick chimneys extend themselves in transverse orientation on the east and west side of the building. There are children playing outside the orphanage and a flattened baseline of conglomerated noises which emanates from inside the building itself.
+
+The area is illuminated.
+
+In this room are: open simple leather backpack
+Obvious exits are: south, a large set of thick wooden double doors
+
+stand woozily, almost falling..
+You stand up woozily, almost falling...
+[1 sec delay]
+
+inh  sharply at the pain
+You inhale sharply at the pain.
+
+grit
+You grit your teeth.
+
+l
+
+[Urda Orphanage]
+A cobblestone pathway terminates at two granite steps that lead up to a covered porch on the south face of the two story brown brick building with white trimming. The hedges which bound the open grassy fields on both sides of the orphanage extend to the back of the building. On the east side of the building a dark twisting tree with no leaves extends four snaking arms in roughly each of the ordinal directions. The tree doesn't provide very much shade at the tips, but young children can be seen from time to time chasing each other around the base of the tree in complete shade. Occasionally, adolescent Zacotl and Fae can be seen chasing each other while deftly flying between the branches. On the south side of the building the granite porch extends for three quarters of the building and meets a portion of the building which juts out to terminate the porch. The porch's roof is supported by five large white Doric columns that terminate just outside the bounds of the granite porch. The portion of the building which meets the porch is surrounded by massive windows surrounded by white plaster on both the South and East aspect. The building projects itself further laterally and vertically than it seems to at a distance. The roof of the building is two large peaks and one smaller peak that covers the corner portion of the building. The roof itself is made of red ceramic tiles and two large brick chimneys extend themselves in transverse orientation on the east and west side of the building. There are children playing outside the orphanage and a flattened baseline of conglomerated noises which emanates from inside the building itself.
+
+The area is illuminated.
+
+In this room are: open simple leather backpack
+Obvious exits are: south, a large set of thick wooden double doors
+
+gla around
+You glance around.
+
+groan
+You groan.
+
+knee down
+You kneel down.
+
+pant
+You pant.
+
+l at k 
+
+You see Kurapiira the elderly Fae.
+She is 1' 10" tall with a lithe build, dreadlocked, white hair, deep blue eyes, and black skin.
+She bears the mark of Eyranas.
+She is currently in a scared mood.
+
+
+A sleeve of multi-colored dragons twists down her left arm from shoulder to wrist.
+
+A small deep blue pentagram is tattooed upon the neck.
+
+On her cheek is a small Tsakaxhua tribal tattoo.
+
+Centered on her forehead is tattooed the Mark of Morana.
+
+Description:
+She seems to be quite pale, as if a part of her is...missing
+
+
+She is carrying:
+ -a beryl-hilted mother-of-pearl tipped rapier                                   (right hand)
+ -an etched silver targe                                                          (left hand)
+ -a light irratacite chainmail                                                   (torso)
+ -a whipcord-braided square jet-buttoned merino sark                             (torso)
+ -a supple brown doeskin archer's wrist guards                                   (hands)
+ -a glittering spirit-touched arrowhead on a chain                               (around neck)
+ -a circlet of exquisite silvery willow leaves                                   (head)
+ -a wild blue dyed silkroot waist wrap                                           (legs)
+ -a pair of soft padded dancer's foot thongs                                     (feet)
+ -a closed lacquered dark brown maple scroll case                                (on belt)
+ -a long eagle feather shaman's cape with square platinum beads on the collar    (cloak)
+ -a golden brass belly chain                                                     (around waist)
+ -a single platinum-inlaid bird vertebrae hoop earring                           (on ears)
+ -a glittering icicle-shaped crystal septum piercing                             (on nose)
+ -a smooth silver lip ring                                                       (on face)
+ -a traditional Vorngar leather battle dress                                     (torso)
+ -a pair of emerald inlaid moonsilver wingclips                                  (wings)
+
+
+
+sit 
+You sit down.
+
+bow her head
+You bow her head.
+
+grim
+You grimace.
+
+set desc She seems to be quite pale, as if a part of her is...missing...small needle marks can be clearly seen..
+Your description has been updated:
+She seems to be quite pale, as if a part of her is...missing...small needle marks can be clearly seen..
+
+grim
+You grimace.
+
+stand unsteadily
+You stand up unsteadily.
+[1 sec delay]
+
+l
+
+[Urda Orphanage]
+A cobblestone pathway terminates at two granite steps that lead up to a covered porch on the south face of the two story brown brick building with white trimming. The hedges which bound the open grassy fields on both sides of the orphanage extend to the back of the building. On the east side of the building a dark twisting tree with no leaves extends four snaking arms in roughly each of the ordinal directions. The tree doesn't provide very much shade at the tips, but young children can be seen from time to time chasing each other around the base of the tree in complete shade. Occasionally, adolescent Zacotl and Fae can be seen chasing each other while deftly flying between the branches. On the south side of the building the granite porch extends for three quarters of the building and meets a portion of the building which juts out to terminate the porch. The porch's roof is supported by five large white Doric columns that terminate just outside the bounds of the granite porch. The portion of the building which meets the porch is surrounded by massive windows surrounded by white plaster on both the South and East aspect. The building projects itself further laterally and vertically than it seems to at a distance. The roof of the building is two large peaks and one smaller peak that covers the corner portion of the building. The roof itself is made of red ceramic tiles and two large brick chimneys extend themselves in transverse orientation on the east and west side of the building. There are children playing outside the orphanage and a flattened baseline of conglomerated noises which emanates from inside the building itself.
+
+The area is illuminated.
+
+In this room are: open simple leather backpack
+Obvious exits are: south, a large set of thick wooden double doors
+
+hold doo
+You hold the a large set of thick wooden double doors.
+
+pant
+You pant.
+
+go door
+
+[Urda Orphanage Foyer]
+Children of all ages and races can be seen milling about the anteroom of the Urda Orphanage. Some of the younger children can be seen sitting in circles while others head towards the entrance to play outside. The adolescent children can be seen walking with a purpose between the rooms of the orphanage as if they have somewhere they are expected to be. The hall itself is composed of the same brown bricks which adorn the outer face of the building and floor is constructed of ironwood timber. The west side of the building houses a large circular stairwell. The stairs extend upwards and downwards while small alcoves house flaming braziers that follow the track of the stairs in each direction. Some of the orphans can be seen heading up the stairs but only the adults who take care of the children can be seen heading down. The other side of the building is composed of three large sets of stone arches. Noise from various activities can be heard extending from the west most wooden arches, but there is very little that can be heard from the most eastern arch which is noticeably smaller than the other two.
+
+The area is illuminated.
+
+In this room you see: 1st Zacotl orphan child, 1st Fae toddler
+In this room are: gold plaque, silver plaque
+Obvious exits are: large stone archway, circular stairway, large set of thick wooden double doors, large stone archway, circular stairway, small stone archway
+
+'t, run..
+You say to the Fae toddler, "run.."
+
+go ar
+
+[Urda Orphanage Great Hall]
+The great hall of the orphanage is bounded on one end by the large stone archway and by a simple wooden door at the other. The hall itself is filled with orphans of varied ages. Small children sit in groups closer to the main anteroom of the orphanage itself. Some of the older children are gathered in middle of the room and set about various tasks. An adolescent Vorngar sits near the center of the room inspecting a steel sword and shielding looking to discern the secrets of its construction. A few feet away two orphans, Duskwen and Human, can be seen circling each other with wooden swords extended. They are each clothed in heavy padding and take occasional timid jabs at each other. A young Fae boy is huddled next two girls and conjures a small horse made entirely of flames, one of the girls not amused quickly squelches it with quick burst of magical created water. A teenage Silvarin and a slightly smaller Zacotl stand at the far end of the hallway competing with each other to hit two targets which stand near the posterior wall of the building. Various community members from craftsmen to clergy wander through the hall giving children helpful instructions in the various activities occurring throughout the hall.
+
+The area is illuminated.
+
+Obvious exits are: simple wooden door, large stone archway
+
+go door
+
+[Urda Orphanage Garden]
+The hedges which encompass the grounds meet behind the building. Children of different races can be seen planting crops or in the various stages of taking care of them. A branching tomato vine grows up the back side of the massive two story brick building. The sprouts of what will someday be towering fruit trees can be seen scattered throughout the field. Growing near one side of the building are several spice plants. They're isolated from the other plants and there is one human adolescent who seems to be paying them particular attention and harvesting various leaves and roots into glass jars for storage. From time to time an adult woman can be seen walking through and talking to the children about how to care for the plants and grow their own food. A small pen with several goats and chickens can be seen at the far edge of the garden and restricted by the hedges coming together to form the Northeast corner of the property.
+
+The area is illuminated.
+
+Obvious exits are: simple wooden door
+
+go door
+
+[Urda Orphanage Great Hall]
+The great hall of the orphanage is bounded on one end by the large stone archway and by a simple wooden door at the other. The hall itself is filled with orphans of varied ages. Small children sit in groups closer to the main anteroom of the orphanage itself. Some of the older children are gathered in middle of the room and set about various tasks. An adolescent Vorngar sits near the center of the room inspecting a steel sword and shielding looking to discern the secrets of its construction. A few feet away two orphans, Duskwen and Human, can be seen circling each other with wooden swords extended. They are each clothed in heavy padding and take occasional timid jabs at each other. A young Fae boy is huddled next two girls and conjures a small horse made entirely of flames, one of the girls not amused quickly squelches it with quick burst of magical created water. A teenage Silvarin and a slightly smaller Zacotl stand at the far end of the hallway competing with each other to hit two targets which stand near the posterior wall of the building. Various community members from craftsmen to clergy wander through the hall giving children helpful instructions in the various activities occurring throughout the hall.
+
+The area is illuminated.
+
+Obvious exits are: simple wooden door, large stone archway
+
+go ar
+
+[Urda Orphanage Foyer]
+Children of all ages and races can be seen milling about the anteroom of the Urda Orphanage. Some of the younger children can be seen sitting in circles while others head towards the entrance to play outside. The adolescent children can be seen walking with a purpose between the rooms of the orphanage as if they have somewhere they are expected to be. The hall itself is composed of the same brown bricks which adorn the outer face of the building and floor is constructed of ironwood timber. The west side of the building houses a large circular stairwell. The stairs extend upwards and downwards while small alcoves house flaming braziers that follow the track of the stairs in each direction. Some of the orphans can be seen heading up the stairs but only the adults who take care of the children can be seen heading down. The other side of the building is composed of three large sets of stone arches. Noise from various activities can be heard extending from the west most wooden arches, but there is very little that can be heard from the most eastern arch which is noticeably smaller than the other two.
+
+The area is illuminated.
+
+In this room you see: 1st Zacotl orphan child, 1st Fae toddler
+In this room are: gold plaque, silver plaque
+Obvious exits are: large stone archway, circular stairway, large set of thick wooden double doors, large stone archway, circular stairway, small stone archway
+
+pant
+You pant.
+
+pant
+You pant.
+
+l through 2 ar
+You look through the large stone archway...
+
+
+[Urda Orphanage Dining Hall]
+A large dining hall spread out before you. There are four rows of wooden benches when have attached benches that spread the entire length of the hall. A small corner at the back of the room is sectioned off and appears to be where some of the children and one of the adults are preparing food for the other children. The other orphans wait patiently in line and all share in the food that their efforts in the garden helped yield. There are large candelabras which sit every few feet and serve to illuminate the drab and plain dining hall. Next to the candles are large pitchers of clear water, occasionally one of the elder boys can be seen with a glass of wine. At the front of the room sits a large granite dais with several wooden chairs. This dais is where the headmaster dines and can often be seen entertaining guests of honor such as patrons who help to support the orphanage. The noise from all the conversation in the room can best be termed a dull roar. All of the sounds seem to flow together without any one voice being distinguished from the rest.
+
+The area is illuminated.
+
+Obvious exits are: large stone archway
+
+l
+
+[Urda Orphanage Foyer]
+Children of all ages and races can be seen milling about the anteroom of the Urda Orphanage. Some of the younger children can be seen sitting in circles while others head towards the entrance to play outside. The adolescent children can be seen walking with a purpose between the rooms of the orphanage as if they have somewhere they are expected to be. The hall itself is composed of the same brown bricks which adorn the outer face of the building and floor is constructed of ironwood timber. The west side of the building houses a large circular stairwell. The stairs extend upwards and downwards while small alcoves house flaming braziers that follow the track of the stairs in each direction. Some of the orphans can be seen heading up the stairs but only the adults who take care of the children can be seen heading down. The other side of the building is composed of three large sets of stone arches. Noise from various activities can be heard extending from the west most wooden arches, but there is very little that can be heard from the most eastern arch which is noticeably smaller than the other two.
+
+The area is illuminated.
+
+In this room you see: 1st Zacotl orphan child, 1st Fae toddler
+In this room are: gold plaque, silver plaque
+Obvious exits are: large stone archway, circular stairway, large set of thick wooden double doors, large stone archway, circular stairway, small stone archway
+
+The 1st Fae toddler just wandered through the small stone archway.
+
+l through do 
+You look through the large set of thick wooden double doors...
+
+
+[Urda Orphanage]
+A cobblestone pathway terminates at two granite steps that lead up to a covered porch on the south face of the two story brown brick building with white trimming. The hedges which bound the open grassy fields on both sides of the orphanage extend to the back of the building. On the east side of the building a dark twisting tree with no leaves extends four snaking arms in roughly each of the ordinal directions. The tree doesn't provide very much shade at the tips, but young children can be seen from time to time chasing each other around the base of the tree in complete shade. Occasionally, adolescent Zacotl and Fae can be seen chasing each other while deftly flying between the branches. On the south side of the building the granite porch extends for three quarters of the building and meets a portion of the building which juts out to terminate the porch. The porch's roof is supported by five large white Doric columns that terminate just outside the bounds of the granite porch. The portion of the building which meets the porch is surrounded by massive windows surrounded by white plaster on both the South and East aspect. The building projects itself further laterally and vertically than it seems to at a distance. The roof of the building is two large peaks and one smaller peak that covers the corner portion of the building. The roof itself is made of red ceramic tiles and two large brick chimneys extend themselves in transverse orientation on the east and west side of the building. There are children playing outside the orphanage and a flattened baseline of conglomerated noises which emanates from inside the building itself.
+
+The area is illuminated.
+
+Obvious exits are: south, a large set of thick wooden double doors
+
+go do
+
+[Urda Orphanage]
+A cobblestone pathway terminates at two granite steps that lead up to a covered porch on the south face of the two story brown brick building with white trimming. The hedges which bound the open grassy fields on both sides of the orphanage extend to the back of the building. On the east side of the building a dark twisting tree with no leaves extends four snaking arms in roughly each of the ordinal directions. The tree doesn't provide very much shade at the tips, but young children can be seen from time to time chasing each other around the base of the tree in complete shade. Occasionally, adolescent Zacotl and Fae can be seen chasing each other while deftly flying between the branches. On the south side of the building the granite porch extends for three quarters of the building and meets a portion of the building which juts out to terminate the porch. The porch's roof is supported by five large white Doric columns that terminate just outside the bounds of the granite porch. The portion of the building which meets the porch is surrounded by massive windows surrounded by white plaster on both the South and East aspect. The building projects itself further laterally and vertically than it seems to at a distance. The roof of the building is two large peaks and one smaller peak that covers the corner portion of the building. The roof itself is made of red ceramic tiles and two large brick chimneys extend themselves in transverse orientation on the east and west side of the building. There are children playing outside the orphanage and a flattened baseline of conglomerated noises which emanates from inside the building itself.
+
+The area is illuminated.
+
+Obvious exits are: south, a large set of thick wooden double doors
+
+s
+
+[Urda Orphanage Walkway]
+The dimly lit walkway is constructed of pale white cobblestone. To the south the wrought iron gate stands tall adorned with vines snaking their way up and across the gaps in its framework. The cobblestone walkway starts at the gate and winds north towards the orphanage itself. Adjacent to the walkway are open grassy fields that small children chase each other through. Further east and west are lined by tall shrubs which seem to serve as impassable barriers herding children and by-passers alike towards a distant two story brown building.
+
+The area is illuminated.
+
+Obvious exits are: south, north
+
+s
+
+[Popper Street]
+Near the main road, a well-dressed Silvarin gentleman sits at the side of Popper Street, nonchalantly reading the local newspaper for the latest issues and rumors. A group of children, diverse in their races, scuffle up to him and beg him for a mark. The Silvarin gives each child a crown and, left to himself and cheers of the children, he reads his paper. The soldiers pass him by quietly, moving on to the Southern Cross Road. A newly built plain, brown building has been erected to the north of the main street where the sounds of children can be heard.
+
+The area is illuminated.
+
+In this room you see: 1st urdaian guardian knight
+Obvious exits are: west, east, north
+
+hol kn
+You hold the urdaian guardian knight.
+
+cry softly
+You cry softly.
+
+ ** Morgrim Bloodomen just arrived in the world
+
+time

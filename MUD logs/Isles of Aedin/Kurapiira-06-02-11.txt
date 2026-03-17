@@ -1,0 +1,418 @@
+time
+It is currently 07:58 PM.
+
+l
+
+[Religious Council, High Chamber]
+A large chamber opens up from the archway, expansive in height and width. Banners hang from every wall depicting religious scenes and the symbols of the Gods. Three white-wash pillars are set into the walls on either side of the room, signifying the six religions that uphold the council. A raise platform in the center of the room houses a tall round table with six chairs. Other wooden chairs have been placed around the dais, facing the high table of the religious council.
+
+The area is illuminated.
+
+In this room you see: Rukshana the Silvarin,  Primum the Seraphim,  Wollmaus the Vorngar (sitting down),  Darkness the Seraphim
+Obvious exits are: archway
+
+Wollmaus closes his open gold threaded dark velvet beltpouch.
+
+Rukshana says, "I took this, to prevent others from aquiring it and pretending to be of the guard."
+
+Primum nods.
+
+Rukshana offers something to Primum.
+
+Primum accepts Rukshana's offer.
+
+Primum nods.
+
+Darkness asks Rukshana, "anything strange about the body?"
+
+Primum says to Rukshana, "A wise desicion"
+
+Rukshana says to Darkness, "Beyond being killed, I did not see any abnormal signs."
+
+Darkness nods and somewhat relaxes.
+
+Wayvan's group just entered through the archway.
+
+l
+
+[Religious Council, High Chamber]
+A large chamber opens up from the archway, expansive in height and width. Banners hang from every wall depicting religious scenes and the symbols of the Gods. Three white-wash pillars are set into the walls on either side of the room, signifying the six religions that uphold the council. A raise platform in the center of the room houses a tall round table with six chairs. Other wooden chairs have been placed around the dais, facing the high table of the religious council.
+
+The area is illuminated.
+
+In this room you see: Rukshana the Silvarin,  Primum the Seraphim,  Wollmaus the Vorngar (sitting down),  Darkness the Seraphim,  Wayvan the Silvarin,  Roszcha the Fae,  Falin the Vorngar
+Obvious exits are: archway
+
+Darkness glances towards the back wall and takes up an unobtrusive position leaning against it.
+
+Darkness retreats 1 units.
+
+t
+You are currently standing 5 units behind center.
+
+Standing 9 units in front of you:
+Primum
+Standing at center:
+Wayvan
+Standing 3 units in front of you:
+Falin
+Standing 2 units in front of you:
+Roszcha
+Standing 1 units in front of you:
+Wollmaus
+Standing in your rank:
+Rukshana, Darkness, Kurapiira
+
+
+Falin sheathes his mirrored steel broadsword.
+
+Primum says to Wayvan, "Master Wayvan...Greetings."
+
+Primum bows slightly.
+
+Primum nods to Falin.
+
+Elyjha just entered through the archway.
+
+toff
+Unknown command "toff"
+
+Primum nods to Roszcha.
+
+Wayvan says, "Hello"
+
+Wayvan nods.
+
+invo 17
+You place your hands to your lips and inaudibly murmurs a prayer to Eyranas.
+h
+Invoking this spell cost you 5 mana.
+[5 sec. delay]
+
+HP:  142/142  Ftg:  51/51  MP:  77/80
+
+
+l
+Your entire body begins to exude a shining light from deep within.
+
+
+[Religious Council, High Chamber]
+A large chamber opens up from the archway, expansive in height and width. Banners hang from every wall depicting religious scenes and the symbols of the Gods. Three white-wash pillars are set into the walls on either side of the room, signifying the six religions that uphold the council. A raise platform in the center of the room houses a tall round table with six chairs. Other wooden chairs have been placed around the dais, facing the high table of the religious council.
+
+The area is illuminated.
+
+In this room you see: Rukshana the Silvarin,  Primum the Seraphim,  Wollmaus the Vorngar (sitting down),  Darkness the Seraphim,  Wayvan the Silvarin,  Roszcha the Fae,  Falin the Vorngar,  Elyjha the Human
+Obvious exits are: archway
+
+ ** Lawson Jones just left the world.
+
+ ** Corydais Carr just arrived in the world [NEW PLAYER]
+
+sear for del
+You begin searching the room...
+[7 sec. delay]
+
+sear for del
+You begin searching the room...
+  You find Karrl!
+[7 sec. delay]
+
+Falin searches the room carefully.
+
+You exert an additional 1 mana maintaining the Spiritual Splendor.
+
+smi softly
+You smile softly.
+
+Elyjha raises an eyebrow.
+
+Karrl steps out from the shadows.
+
+Karrl grunts.
+
+Primum nods to Karrl.
+
+You exert an additional 1 mana maintaining the Spiritual Splendor.
+
+l
+
+[Religious Council, High Chamber]
+A large chamber opens up from the archway, expansive in height and width. Banners hang from every wall depicting religious scenes and the symbols of the Gods. Three white-wash pillars are set into the walls on either side of the room, signifying the six religions that uphold the council. A raise platform in the center of the room houses a tall round table with six chairs. Other wooden chairs have been placed around the dais, facing the high table of the religious council.
+
+The area is illuminated.
+
+In this room you see: Rukshana the Silvarin,  Primum the Seraphim,  Wollmaus the Vorngar (sitting down),  Darkness the Seraphim,  Karrl the Galirrim,  Wayvan the Silvarin,  Roszcha the Fae,  Falin the Vorngar,  Elyjha the Human
+Obvious exits are: archway
+
+You exert an additional 1 mana maintaining the Spiritual Splendor.
+
+Karrl nods to Primum.
+
+turn   reb
+Invalid syntax. Try 'help turn' for more information.
+
+ ** Liseti Maradar just arrived in the world
+
+t
+You are currently standing 5 units behind center.
+
+Standing 9 units in front of you:
+Primum
+Standing at center:
+Wayvan
+Standing 3 units in front of you:
+Falin
+Standing 2 units in front of you:
+Roszcha
+Standing 1 units in front of you:
+Wollmaus, Karrl
+Standing in your rank:
+Rukshana, Darkness, Kurapiira, Elyjha
+
+
+ ** Aethlyn Boreas just left the world.
+
+You exert an additional 1 mana maintaining the Spiritual Splendor.
+
+You exert an additional 1 mana maintaining the Spiritual Splendor.
+
+shift forward
+You shift your weight forward.
+
+lean ka
+You lean on Karrl.
+
+
+Desmond steps out from the shadows.
+
+You exert an additional 1 mana maintaining the Spiritual Splendor.
+
+wh to ka a strange meeting with only our temple represented
+You whisper "a strange meeting with only our temple represented" to Karrl.
+
+ ** Lasilvia Morino just left the world.
+
+gla
+You glance.
+
+You exert an additional 1 mana maintaining the Spiritual Splendor.
+
+l
+
+[Religious Council, High Chamber]
+A large chamber opens up from the archway, expansive in height and width. Banners hang from every wall depicting religious scenes and the symbols of the Gods. Three white-wash pillars are set into the walls on either side of the room, signifying the six religions that uphold the council. A raise platform in the center of the room houses a tall round table with six chairs. Other wooden chairs have been placed around the dais, facing the high table of the religious council.
+
+The area is illuminated.
+
+In this room you see: Rukshana the Silvarin,  Primum the Seraphim,  Wollmaus the Vorngar (sitting down),  Darkness the Seraphim,  Karrl the Galirrim,  Wayvan the Silvarin,  Roszcha the Fae,  Falin the Vorngar,  Elyjha the Human,  Desmond the Silvarin
+Obvious exits are: archway
+
+Karrl shrugs.
+
+Karrl nods.
+
+'de, Avatar
+You say to Desmond, "Avatar"
+
+You exert an additional 1 mana maintaining the Spiritual Splendor.
+
+nod
+You nod.
+
+Primum nods to Desmond.
+
+You exert an additional 1 mana maintaining the Spiritual Splendor.
+
+ ** Aegys Redbow just arrived in the world
+
+You exert an additional 1 mana maintaining the Spiritual Splendor.
+
+You exert an additional 1 mana maintaining the Spiritual Splendor.
+
+ ** Blackbreeze Aman just left the world.
+
+ ** Blackbreeze Aman just arrived in the world [NEW PLAYER]
+
+LIGHT DOWN IN 5**************************
+ ** Blackbreeze Aman just left the world.
+
+You exert an additional 1 mana maintaining the Spiritual Splendor.
+
+The spiritual light coming from you dims before fading away entirely a moment later.
+
+Desmond says, "It would seem that some do not take their position seriously enough to be here on time, including the one who called this meeting."
+
+nod to des softly
+You nod to Desmond softly.
+
+ ** Relsim Malowel just left the world.
+
+l
+
+[Religious Council, High Chamber]
+A large chamber opens up from the archway, expansive in height and width. Banners hang from every wall depicting religious scenes and the symbols of the Gods. Three white-wash pillars are set into the walls on either side of the room, signifying the six religions that uphold the council. A raise platform in the center of the room houses a tall round table with six chairs. Other wooden chairs have been placed around the dais, facing the high table of the religious council.
+
+The area is illuminated.
+
+In this room you see: Rukshana the Silvarin,  Primum the Seraphim,  Wollmaus the Vorngar (sitting down),  Darkness the Seraphim,  Karrl the Galirrim,  Wayvan the Silvarin,  Roszcha the Fae,  Falin the Vorngar,  Elyjha the Human,  Desmond the Silvarin
+Obvious exits are: archway
+
+stat
+You are Kurapiira Mako the Fae Cleric. You are 37 years old.
+You are currently a follower of Eyranas.
+You are starving!
+You are bloated!
+
+Attack Rating: 24
+Max Tact Move: 9
+Current Stance: neutral
+
+You are currently seated.
+
+       Racial / Overall
+
+ -Str: High     (Decent)     -Dex: Amazing  (High)      
+ -Qui: Great    (High)       -Con: Good     (Decent)    
+ -Pie: Amazing  (Great)      -Int: Awful    (Average)   
+ -Per: Low      (Low)        -Wil: Great    (Great)     
+
+You are currently carrying:
+ -an aquamarine embedded copper epee    (right hand)
+ -an etched silver targe    (left hand)
+ -a light irratacite chainmail    (torso)
+ -a whipcord-braided square jet-buttoned merino sark    (torso)
+ -a supple brown doeskin archer's wrist guards    (hands)
+ -a glittering spirit-touched arrowhead on a chain    (around neck)
+ -an amber studded bleached whale bone helmet    (head)
+ -a wild blue dyed silkroot waist wrap    (legs)
+ -a pair of soft padded dancer's foot thongs    (feet)
+ -a closed lacquered dark brown maple scroll case    (on belt)
+ -a long eagle feather shaman's cape with square platinum beads on the collar    (cloak)
+ -a golden brass belly chain    (around waist)
+ -a single platinum-inlaid bird vertebrae hoop earring    (on ears)
+ -a glittering icicle-shaped crystal septum piercing    (on nose)
+ -a smooth silver lip ring    (on face)
+ -a traditional Vorngar leather battle dress    (torso)
+ -a pair of emerald inlaid moonsilver wingclips    (wings)
+
+
+l
+
+[Religious Council, High Chamber]
+A large chamber opens up from the archway, expansive in height and width. Banners hang from every wall depicting religious scenes and the symbols of the Gods. Three white-wash pillars are set into the walls on either side of the room, signifying the six religions that uphold the council. A raise platform in the center of the room houses a tall round table with six chairs. Other wooden chairs have been placed around the dais, facing the high table of the religious council.
+
+The area is illuminated.
+
+In this room you see: Rukshana the Silvarin,  Primum the Seraphim,  Wollmaus the Vorngar (sitting down),  Darkness the Seraphim,  Karrl the Galirrim,  Wayvan the Silvarin,  Roszcha the Fae,  Falin the Vorngar,  Elyjha the Human,  Desmond the Silvarin
+Obvious exits are: archway
+
+rem helm
+You remove your amber studded bleached whale bone helmet.
+
+sigh softly
+You sigh softly.
+
+ ** Gritza Fruz just arrived in the world
+
+' There have been...visions...are we here to discuss them?
+You ask, "There have been...visions...are we here to discuss them?"
+
+rai
+You raise an eyebrow.
+
+ ** Sleyd Silverkin just arrived in the world
+
+l
+
+[Religious Council, High Chamber]
+A large chamber opens up from the archway, expansive in height and width. Banners hang from every wall depicting religious scenes and the symbols of the Gods. Three white-wash pillars are set into the walls on either side of the room, signifying the six religions that uphold the council. A raise platform in the center of the room houses a tall round table with six chairs. Other wooden chairs have been placed around the dais, facing the high table of the religious council.
+
+The area is illuminated.
+
+In this room you see: Rukshana the Silvarin,  Primum the Seraphim,  Wollmaus the Vorngar (sitting down),  Darkness the Seraphim,  Karrl the Galirrim,  Wayvan the Silvarin,  Roszcha the Fae,  Falin the Vorngar,  Elyjha the Human,  Desmond the Silvarin
+Obvious exits are: archway
+
+Desmond seems annoyed.
+
+Darkness seems closed.
+
+nod
+You nod.
+
+stand
+You stand up.
+
+set vis 1
+invo 30
+You focus your mind inward, bringing back the memory of a foreign place.
+
+You kneel on the ground with your head bowed downwards and your arms raised slightly.
+h
+Invoking this spell cost you 12 mana and 20 faith.
+[15 sec. delay]
+
+HP:  142/142  Ftg:  51/51  MP:  68/80
+
+
+trans in 10
+' good day to you all then
+You say, "good day to you all then"
+
+bow her head
+You bow her head.
+
+trans in 5
+rub arrow
+gest mysteriously...
+You rub your glittering spirit-touched arrowhead on a chain.
+
+You gesture mysteriously...
+
+You suddenly disappear in a flash of light, leaving just a faint symbol of a white wolf behind.
+
+
+[Sanctuary of Eyridane and Morana]
+The small path ends as the trees part, revealing a small clearing. Sunlight filters down from above, splashing the vibrant green grass and wildflowers. The noise of the central part of the grove all but fades away in this quiet sanctuary. An altar of stone rests in the center of the small clearing of verdant grass. Tangled vines have grown wild across the hard stone and though no markings can be seen, it is obvious that this is a place sacred to the twin goddesses of nature. Overhead the soft warbling of songbirds blends with the chirping crickets below into a sublime symphony of sounds. Small trinkets of adoration and worship have been left at the base of the altar, each one a symbol of devotion to their beloved gods.
+
+The area is illuminated.
+
+In this room are: simple stone altar
+Obvious exits are: west, an arch of twisting branches
+
+win in pain...
+You appear in a bright flash of light, momentarily silhouetted by a white wolf.
+
+You wince in pain...
+
+go ar
+
+[Natures Evolution]
+Twisted vines wrapped in ivy create a large circle in the center of the forested area. Several hollow trees sit askew on the outside border of the circle, large openings allowing for passage inside them. Several individuals dressed in green hooded robes stand beside their trees escorting prospective students in and out.
+
+The area is illuminated.
+
+Obvious exits are: west, an arch of twisting branches
+
+w
+
+[Eyranas Garden]
+A small grotto green with life provides a place of peace and serenity.  A small wooden table made of thin planks of wood sits before two wooden benches on either side. A green candle burns casting the aroma of baby pine to the area. Neatly placed stone benches have been placed strategically among the elegant grotto proving resting places for parishioners. A small path which leads west provides exit into the main temple area.
+
+The area is illuminated.
+
+Obvious exits are: east, small path
+
+go pa
+
+[Temple of the Eyranas]
+Amazingly the interior of the temple is teaming with life. Birds fly freely amongst the tall trees and shrubs which give the appearance of the outside instead of in. Small animals scurry across the ground in an almost permanent state of play. A large fountain set in the center of the area spouts water high into the air which then settles back into the fountain without even the smallest splash. Statues of the Goddesses lie scattered among the various ponds and gardens of the temple. A small grassy pasture free of any growth takes its place on the northeastern side of the temple which sits beneath a beautiful green, moss covered altar. A small path leads through some thick overgrowth and provides passage back to the rest of the temple.
+
+The area is illuminated.
+
+In this room are: moss-covered green marble altar
+Obvious exits are: small path
+
+sit
+You sit down.
+
+time

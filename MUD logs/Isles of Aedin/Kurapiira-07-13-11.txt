@@ -1,0 +1,5680 @@
+time
+You are inside and cannot see the sky.
+It is currently 08:16 AM.
+
+Murassa is looking at you.
+
+l at k 
+
+You see Kurapiira the elderly Fae.
+She is 1' 10" tall with a lithe build, dreadlocked, white hair, deep blue eyes, and black skin.
+She bears the mark of Eyranas.
+She is currently in a wary mood.
+
+
+A sleeve of multi-colored dragons twists down her left arm from shoulder to wrist.
+
+A small deep blue pentagram is tattooed upon the neck.
+
+On her cheek is a small Tsakaxhua tribal tattoo.
+
+Centered on her forehead is tattooed the Mark of Morana.
+
+Up the inside of her right forearm is a tattoo of a black Caduceus with bloody wings.
+
+Description:
+She seems to be a little pale, ..small needle marks are fading from her skin....
+
+
+She is carrying:
+ -an etched silver targe                                   (left hand)
+ -a light irratacite chainmail                            (torso)
+ -a whipcord-braided square jet-buttoned merino sark      (torso)
+ -a glittering spirit-touched arrowhead on a chain        (around neck)
+ -a wild blue dyed silkroot waist wrap                    (legs)
+ -a set of stiff boar skin wrist wraps                    (around wrist)
+ -a single platinum-inlaid bird vertebrae hoop earring    (on ears)
+ -a glittering icicle-shaped crystal septum piercing      (on nose)
+ -a smooth silver lip ring                                (on face)
+ -a traditional Vorngar leather battle dress              (torso)
+
+
+
+beam to m
+You beam to Murassa.
+
+Murassa nods firmly.
+
+A red masked juggler just entered the room 2 units in front of you.
+
+' it is..perfect!
+You exclaim, "it is..perfect!"
+
+beam to m
+You beam to Murassa.
+
+The red masked juggler throws a few balls into the air and expertly juggles them.
+
+The green masked juggler does a few acrobatics.
+
+Murassa says, "A most exquissite canvasss..."
+
+' My thanks, Master
+You say, "My thanks, Master"
+
+ ** Razo Gazzlo just left the world.
+
+Murassa says, "It iss our pleasure."
+
+smi to m
+You smile to Murassa.
+
+Murassa smiles broadly, bowing.
+
+ ** Wollmaus Eisenhart just left the world.
+
+' What may i pay you for this lovely piece?
+You ask, "What may i pay you for this lovely piece?"
+
+Murassa says, "Just eighty crownsss for our mossst loyal customer."
+
+nod softly
+You nod softly.
+
+' i shall return
+You say, "i shall return"
+
+set vis 2
+invo 30
+You focus your mind inward, bringing back the memory of a foreign place.
+
+You kneel on the ground with your head bowed downwards and your arms raised slightly.
+h
+Invoking this spell cost you 12 mana and 20 faith.
+[15 sec. delay]
+
+HP:  142/142  Ftg:  51/51  MP:  69/81
+
+
+trans in 10
+trans in 5
+The red masked juggler does a few acrobatics.
+
+rub arrow
+gest mysteriously...
+You rub your glittering spirit-touched arrowhead on a chain.
+
+You gesture mysteriously...
+
+You suddenly disappear in a flash of light, leaving just a faint symbol of a white wolf behind.
+
+
+[Urda Town Square Center]
+On this site, a fierce battle for control of the great city was waged, and on this site is where its citizens now celebrate that victory. Statues of the fallen heroes, and great leaders of the alliance adorn the tops of grand marble archways that scatter over the square. They stand ever vigilant against any unseen enemy. The people of Urda flock here to barter and trade, to converse with friends, or just relax near the fountain and have a game of chess. Benches and tables dot the landscape near the edge of the fountain. Hawkers of all type roll through this area with their wares, hoping to make a few coins. The many languages of races and guilds reverberate off the storefronts of the surrounding Merchant Square where a constant foot traffic ebbs and flows, making this the heart of the city.
+
+The area is illuminated.
+
+In this room you see: Kylon the Human, 1st squirrel
+In this room are: large wooden bulletin board
+Obvious exits are: northwest, west, southwest, south, southeast, east, northeast, north
+
+win in pain...
+You appear in a bright flash of light, momentarily silhouetted by a white wolf.
+
+You wince in pain...
+
+stand
+You stand up.
+[1 sec delay]
+
+e
+
+[Merchant Square]
+A small sign has been set in front of the nearby shop fronts, listing the shops within: Mucky Duck Outfitters. The neat brick storefront of shops peak out around the perimeter of the cobblestone square along with neatly manicured hedges with trees spaced between them. Detailed arches, sculpted in the memory of iconic leaders that fought for Urda's freedom, decorate the busy square. The Eastern Cross leads travelers to the east gate and towards the Bloodlands. A freshly painted clapboard building, styled like a ship, faces southwards towards the street.
+
+The area is illuminated.
+
+In this room you see: 1st urdaian guardian knight
+In this room are: eastern monument
+Obvious exits are: northwest, west, southwest, south, east, north, open polished elmwood ship helm door
+
+ne
+I don't see what exit you're referring to.
+
+n
+
+[Merchant Square]
+The corner of the cobblestone square comes to a halt in front of a pillared, marble building accented by tall trees braided with wildflowers. The moderate sized building frames a shiny brass door on which the words "Urda Merchants Council" are etched. Bushes trimmed and cut into various shapes, edge the buildings face. A small path to the northeast, lined with black wrought iron lamps leads towards a beautiful courtyard.
+
+The area is illuminated.
+
+In this room are: northeastern monument
+Obvious exits are: west, southwest, south, walkway, closed door
+
+An elegant noblewoman just entered through the walkway.
+
+go wa
+
+[Courtyard]
+A shimmering fountain expels water in an umbrella shaped spray. Small fish of gold, red, yellow and blue dart about playfully beneath it. Green lily pads and various other pond flora float delicately amongst the water  occasionally playing host to frogs and turtles that wander through. Three large benches made of wood and stone have been placed around the fountains circumference. A elegant building sitting on the south side of the courtyard displays a black marble sign etched in gold lettering which reads "Bank of Urda."
+urda
+
+The area is illuminated.
+
+Obvious exits are: open door, walkway
+
+go door
+
+[Bank of Urda]
+urda
+Ornate marble floors intersect with gray marble walls lit by highly polished copper oil lamps. Several counters line the eastern and western walls organized neatly with parchment and quills. Bank tellers sit behind clean counters counting coins for patrons and fetching bank boxes. A city guard sits beside the frequently opening and closing brass door on the northern wall.
+
+The area is illuminated.
+
+In this room you see: 1st fidgety zacotl citizen
+Obvious exits are: open door
+
+The fidgety zacotl citizen ruffles its feathers.
+
+bank with 80 crowns
+The teller makes a couple of notes in the account book, then hands you your withdrawl of 80 crowns and 0 marks.
+mon
+
+You now currently hold a balance of 30100 marks with this branch.
+
+CURRENT BANK BALANCES
+trav    1500
+urda    30100
+hero    113427
+TOTAL:  145027
+temple: 27800
+MYGOLD: 117227
+You are currently carrying 80 crowns and 264 marks.
+This gives you a combined wealth of 8264 marks.
+
+mon
+You are currently carrying 80 crowns and 264 marks.
+This gives you a combined wealth of 8264 marks.
+
+w
+w
+I don't see what exit you're referring to.
+
+I don't see what exit you're referring to.
+
+go door
+
+[Courtyard]
+A shimmering fountain expels water in an umbrella shaped spray. Small fish of gold, red, yellow and blue dart about playfully beneath it. Green lily pads and various other pond flora float delicately amongst the water  occasionally playing host to frogs and turtles that wander through. Three large benches made of wood and stone have been placed around the fountains circumference. A elegant building sitting on the south side of the courtyard displays a black marble sign etched in gold lettering which reads "Bank of Urda."
+urda
+
+The area is illuminated.
+
+Obvious exits are: open door, walkway
+
+go wa
+
+[Merchant Square]
+The corner of the cobblestone square comes to a halt in front of a pillared, marble building accented by tall trees braided with wildflowers. The moderate sized building frames a shiny brass door on which the words "Urda Merchants Council" are etched. Bushes trimmed and cut into various shapes, edge the buildings face. A small path to the northeast, lined with black wrought iron lamps leads towards a beautiful courtyard.
+
+The area is illuminated.
+
+In this room you see: 1st elegant noblewoman
+In this room are: northeastern monument
+Obvious exits are: west, southwest, south, walkway, closed door
+
+w
+w
+
+[Merchant Square]
+A small sign has been set in front of the store fronts, listing the nearby shops: Malinar's Magic and Talafon's Weapons. Smoke steadily rises from the chimneys of this massive stone building on the north side of the well maintained square. Through the open facade, young Vorngar can be seen pumping the bellows while the master heats a rod of glowing iron within the forge.  The clanking sound of metal on metal can be heard as the gifted apprentices create and sharpen weapons of all types. The hot fires of the forge radiate all around. A large sign mounted above a tall studded iron door clearly reads, "Talafon's Weapons and Armor".  On the south side of the road a small colorful building reflects light cast from two glowing orbs mounted on each side of a glittering portal floating between a silver archway. Above the archway a small, but functional sign reads, "Malinar's Magic and Mayhem".
+
+The area is illuminated.
+
+In this room you see: 1st urdaian city guard
+In this room are: northern monument
+Obvious exits are: west, southwest, south, southeast, east, north, open iron door, portal
+
+
+[Merchant Square]
+A small sign has been set out in front of the store fronts, listing the nearby shops: Rachelle's Fashions and Double Boil. The neatly manicured stone square bustles with activity as the sounds of the market resonate excitedly. Travelers, merchants, and city residents gather in a foray of discussion over their latest purchases as the varying smells of cured leathers, hot metal, and baked spices mingle overhead in the air. A small shop constructed in black shingles attempts to blend into the shadows on the southern side of the street, its large wooden door beckoning patrons to enter. A small wooden sign posted above the door reads "Double Boil."
+
+The area is illuminated.
+
+In this room are: northwestern monument
+Obvious exits are: south, southeast, east, door, open elaborate set of walnut double doors
+
+s
+s
+
+[Merchant Square]
+A small sign has been set in front of the nearby store fronts, listing the nearby shops: Tillie's Trinkets, Liddie's Lights, and the Soles of Urda. The north side of the the square elegantly frames a beautiful multicolored storefront. Small and manicured green and red shrubbery have taken purchase beside a impeccably clean glass door. In the front window what appears to be swirling and swaying light spells     "L i d d i e s". Directly south of the storefront, the square displays a deteriorating wooden shop. White painted wood peels with age and piles of dirt accumulate along the shop front. A ragged sign which hangs from only one chain above the cracked and knotty wooden door reads "Tillie's Trinkets and Treasures." A newly varnished storefront with a beaded glass curtain sits next to Tillie's.
+doorz 1 lights, doorz 2 sell
+
+The area is illuminated.
+
+In this room are: western monument
+Obvious exits are: west, south, southeast, east, northeast, north, open warped wooden door, open white glass door, glass beaded curtain
+
+s
+s
+
+[Talioun March]
+Just off the center of the town, a gleaming, highly polished marble walkway, gilded by high arches wreathed in sculpted friezes of different races and religions. The marble roadway to the southwest leads into the justice center.
+
+The area is illuminated.
+
+Obvious exits are: southwest, east, northeast, north
+
+s
+s
+I don't see what exit you're referring to.
+
+s
+I don't see what exit you're referring to.
+
+I don't see what exit you're referring to.
+
+e
+I don't see what exit you're referring to.
+
+I don't see what exit you're referring to.
+
+s
+
+[Merchant Square]
+A small sign has been set in front of the nearby store fronts, listing the local shops: Regal Fashion, Banafin's Bakery, and Sadie's General Store. An eye-catching black striped tiger is emblazoned on the facade of lacquered wooden building on the south side of the square. Its shoulders raised high, and face frozen in a fierce roar. Through the many, high-arched, steel frame windows, a wooden figure can be seen wearing the latest gentleman's fashion. Grey smoke rises from a single stone chimney. A simple plaque hanging from a twisted wrought iron rod reads, "Regal Fashion". Smooth stone steps lead to the entrance. On the east side of the street a large brick chimney funnels white billowy smoke into the air projecting the aroma of fresh baked goods into the area. Through the large bay window a burly human man can be seen kneading and forming dough and placing his creations into an oven. The heavy mahogany door is propped seemingly propped to allow for relief from the ovens intense heat. A quaint barn faces the square from the west side of the street, its interior remodeled into a storefront, as seen through its large bay window.
+
+The area is illuminated.
+
+In this room are: southern monument
+Obvious exits are: northwest, west, south, east, northeast, north, open crooked red barn door, open mahogany door, steps
+
+s
+
+[Southern Cross Road]
+Cobblestone streets void of dirt and litter extend north and south. Sounds of chatter and laughter can be heard clearly to the north and muffled sounds of horse hooves and creaky wagon wheels to the south. The occasional city waste engineer passes by to check the large black iron trashcan siting on the eastern side of the road.
+
+The area is illuminated.
+
+Obvious exits are: south, north
+
+s
+
+[Southern Cross Road]
+Beneath a large pecan tree a small garden sits on the western side of the road accompanied by a small marble bench. Birds can be heard fluttering through the dense leaves as they chase each other in organized play.
+
+The area is illuminated.
+
+Obvious exits are: south, north
+
+s
+
+[Southern Cross Road]
+The cobblestone road is trimmed on both sides by short, well manicured shrubs of deep green. A wooden bird house mounted on a tall thin mahogany post decorates the road on the eastern side.
+
+The area is illuminated.
+
+In this room are: small wooden birdhouse
+Obvious exits are: south, north
+
+s
+s
+
+[Southern Cross Road]
+A small brick walkway heading east snakes its way through green grasses and tall bushes. Smoke hovers contently above the tall bushes and the delicate smell of nuts roasting tints the air.
+
+The area is illuminated.
+
+In this room you see: 1st urdaian city guard
+Obvious exits are: south, north, walkway
+
+s
+
+[Southern Cross Road]
+The cobblestone road continues north towards the market square and the center of the city. Large arches in the shape of notable historical figures from the battle to recover the City of Urda from the Empire can be seen in the distance.
+
+The area is illuminated.
+
+Obvious exits are: south, north
+
+s
+s
+s
+
+[Southern Cross Road]
+The cobblestone street displays wear in some areas due to the frequent traffic both adventurer and merchant who travel from the city of Travers. A large wooden bulletin with remnants of old parchment paper, makes its home on the western side of the road. Frequently new postings can be found advertising services, festivals and other city happenings.
+
+The area is illuminated.
+
+In this room are: large wooden bulletin board
+Obvious exits are: south, north
+
+s
+
+[Southern Cross Road]
+Oak trees and Birch trees which house several types of wildlife line the east and west side of the street.  A few small but functional benches are scattered neatly amongst the trees to allow for rest and relaxation. Hanging from a metal pole on the east side of the road is a small black sign with white lettering that reads "This road maintained by the Urda Merchants Council"
+
+The area is illuminated.
+
+Obvious exits are: south, north
+
+
+[Southern Cross Road]
+City guards pass by frequently as they make their rounds. To the west the roof of a large building can be seen peaking over a few trees. A small man made waterfall feeds a small pond which bubbles happily on the eastern edge of the road.
+
+The area is illuminated.
+
+Obvious exits are: south, north
+
+
+[Southern Cross Road]
+Neatly kept cobblestones lead north and south the cracks between them free of dirt and debris. The large black gate which allows entrance to the city from Travers towers above several trees to the south. To the north the road curves slightly then begins to straighten. The road both north and south is lined on either side by brass lanterns which hang close to the ground from dark walnut posts allowing for plenty of light even on the darkest nights. To the west and the east a neat but narrower road appears to parallel the tall city walls which dots the sky in the distance.
+
+The area is illuminated.
+
+Obvious exits are: west, south, east, north
+
+s
+go gate
+
+[Urda, Southern Gatehouse]
+The large black southern gates of Urda are strongly reinforced doors of wood that can be closed and bolted by a large beam. Crossed bands of iron plates are bolted to the door, giving them a look of appreciable weight and sturdiness. The cobblestones here are in poor condition, worn by heavy use and travel. Painted on the stone wall by the door, is a simple mural of Human traders traveling across Windgard.
+
+The area is illuminated.
+
+Obvious exits are: north, gate
+
+I don't see what exit you're referring to.
+
+I don't see what exit you're referring to.
+
+
+[Hollowbend Road]
+The southern gatehouse stands before the cobblestone road, intimidating, yet welcoming to adventurers and travelers. The city lights illuminate the stone road, shining off the different colors of the cobbles. The road continues south towards Travers.
+
+The area is illuminated.
+
+Obvious exits are: southwest, south, gate
+
+s
+
+[Hollowbend Road]
+The bustling of the city can be heard to the north, barely muffled by the stone walls surrounding it. Up ahead, guards check the passage of travelers and tradesmen as they pass into the city proper, most likely coming from Travers in the south.
+
+The area is illuminated.
+
+In this room you see: 1st weary traveler
+Obvious exits are: south, north, open freshly painted festive gate
+
+s
+s
+
+[Hollowbend Road]
+The thick stone walls of Urda tower above to the north as the road fades away in the distance towards the south. Clack-clacking can be heard whenever carters pass by, droving their animals along the cobblestone road to the gates of the city.
+
+The area is illuminated.
+
+Obvious exits are: south, north
+
+
+[Hollowbend Road]
+While the cobblestone road has been weathered with wagon-ruts and stains, not a single weed is left to grow between the cracks. Imperiously tall lanterns line the road as it stretches northward to Urda.
+
+The area is illuminated.
+
+Obvious exits are: south, north
+
+n
+
+[Hollowbend Road]
+The thick stone walls of Urda tower above to the north as the road fades away in the distance towards the south. Clack-clacking can be heard whenever carters pass by, droving their animals along the cobblestone road to the gates of the city.
+
+The area is illuminated.
+
+Obvious exits are: south, north
+
+n
+
+[Hollowbend Road]
+The bustling of the city can be heard to the north, barely muffled by the stone walls surrounding it. Up ahead, guards check the passage of travelers and tradesmen as they pass into the city proper, most likely coming from Travers in the south.
+
+The area is illuminated.
+
+In this room you see: 1st weary traveler
+Obvious exits are: south, north, open freshly painted festive gate
+
+go gate
+
+[Festival of Lights, Center]
+The massive silver twined gates open into a circular clearing where a marble statue has been raised on a pedestal in the center of a large bonfire. Strings of hanging lights edge the beaten grass pathway and picnic tables have been placed around the clearing at a safe enough distance from the bonfire. A raised wooden platform sits off to the western side of the bonfire, topped with a banner reading, "WELCOME TO THE FESTIVAL OF LIGHTS!"
+
+The area is illuminated.
+
+In this room you see: 1st blue masked juggler, 2nd blue masked juggler
+Obvious exits are: south, north, open freshly painted festive gate
+
+w
+I don't see what exit you're referring to.
+
+s
+
+[Festival of Lights]
+The well traveled grass path continues south, cutting a swath through the myriad stalls and tents. Adventurers and townsfolk weave in and out of the foot traffic towards the peddlers tent in the south, or towards the beverages and shops in the north.
+
+The area is illuminated.
+
+In this room you see: 1st green masked juggler, 1st red masked juggler, 2nd red masked juggler, 3rd red masked juggler
+Obvious exits are: south, north
+
+s
+
+[Festival of Lights, Path of Rememberance]
+Along the pathway brilliant lanterns, artfully crafted from translucent sandsteel, have been placed upon expertly sculpted soapstone columns, reaching about waist-high to the average human. Each lantern is set in the shape and colors of a race or god and flickers with wisps of eldritch flame.
+
+The area is illuminated.
+
+In this room you see: 1st red masked juggler
+Obvious exits are: south, north
+
+s
+s
+
+[Festival of Lights, Path of Rememberance]
+Overhead, a series of thin arches, crafted from the pliable yet resilient Silvawood trees, leads amblers down the pathway towards the peddler's tent. The glowing lanterns at the side of the path illuminate the ground in glows of silvers, greens, golds, reds, violets, and blues.
+
+The area is illuminated.
+
+Obvious exits are: south, north
+
+s
+
+[Festival of Lights, Path of Rememberance]
+The glow of the lanterns in so many colors gently basks the pathway in a culmination of the spectrum, shining a soft white light upon the ground. The Silvawood arches stretch north, as a series of opulent golden arches with silver ribbons woven around them continues south, leading travelers towards the tent.
+
+The area is illuminated.
+
+Obvious exits are: south, north
+
+s
+s
+
+[Festival of Lights, Path of Rememberance]
+The golden arches end at the mouth of a massive pavilion tent, stretching high into the sky and topped with a large glowing lantern that boasts the sigil of the Alliance. A pennant for the City of Urda, and a pennant for the Merchant's Council flap together in the breeze on either side of the lantern. The violet and red striped tent stretches out to the east and west and shadows can be seen on the walls of the people within them.
+
+The area is illuminated.
+
+In this room you see: 1st red masked juggler
+Obvious exits are: north, massive pavilion tent flap
+
+s
+I don't see what exit you're referring to.
+
+I don't see what exit you're referring to.
+
+I don't see what exit you're referring to.
+
+go fl
+
+[Peddler's Tent]
+The expansive tent covers a good deal of ground in the southern edge of the festival. Silver poles entwined by gold ribbons help to support the large pavilion. Merchants and travelers alike mingle within the tent, discussing the wares they will later be selling.
+
+The area is illuminated.
+
+Obvious exits are: northwest, northeast, massive pavilion tent flap
+
+ ** Juju Slithern just left the world.
+
+go ne 
+op sc
+I don't see what exit you're referring to.
+
+I don't see what you're referring to.
+
+ne
+
+[Peddler's Tent, Auctioneer's Corner]
+The northeastern half of the tent has been sectioned off by beautiful teak and rice paper screens, creating a more private room in the east. This area of the tent appears to be a common waiting room for whatever is transpiring in the east. An auctioneer's podium stands to the north of the room along with rows of high-backed stools for bidders.
+
+The area is illuminated.
+
+In this room you see: Liv the Duskwen,  Asher the Duskwen,  Alva the Seraphim (sitting down),  Bestin the Fae
+Obvious exits are: southwest, closed beautiful teak and rice paper sectioning screen
+
+op sc
+You open the closed beautiful teak and rice paper sectioning screen.
+
+go sc
+
+[Peddler's Tent, Private Room]
+Thick clouds of incense roll about within the confines of the tent. A sparking black lantern emits a subdued glow throughout the room. Thick sheathes of draped silk hang from the ceiling, further obstructing the light. An exquisite polar bear rug covers most of the floor, and delicately embroidered throw pillows create seating. Voices can be heard over the height of the sectioning screen in the other part of the tent where bidders and auctioneers exchange coin and wares.
+
+The area is illuminated.
+
+In this room you see: Murassa the Urgon
+Obvious exits are: open beautiful teak and rice paper sectioning screen
+
+off 80 crowns to m
+You offer 80 crowns to Murassa.
+
+Murassa accepts your offer.
+
+Murassa bows to you.
+
+beam
+You beam.
+
+Murassa says, "Our thankss."
+
+bow to m
+You bow to Murassa.
+
+' a pleasure, as always
+You say, "a pleasure, as always"
+
+wav
+You wave.
+
+beam
+You beam.
+
+go sc
+
+[Peddler's Tent, Auctioneer's Corner]
+The northeastern half of the tent has been sectioned off by beautiful teak and rice paper screens, creating a more private room in the east. This area of the tent appears to be a common waiting room for whatever is transpiring in the east. An auctioneer's podium stands to the north of the room along with rows of high-backed stools for bidders.
+
+The area is illuminated.
+
+In this room you see: Liv the Duskwen,  Asher the Duskwen,  Alva the Seraphim (sitting down),  Bestin the Fae
+Obvious exits are: southwest, open beautiful teak and rice paper sectioning screen
+
+nod to as
+You nod to Asher.
+
+Asher tilts his head to one side.
+
+Bestin is looking at you.
+
+Asher nods.
+
+Asher just went through the open beautiful teak and rice paper sectioning screen.
+
+l at ku 
+
+You see Kurapiira the elderly Fae.
+She is 1' 10" tall with a lithe build, dreadlocked, white hair, deep blue eyes, and black skin.
+She bears the mark of Eyranas.
+She is currently in a wary mood.
+
+
+A sleeve of multi-colored dragons twists down her left arm from shoulder to wrist.
+
+A small deep blue pentagram is tattooed upon the neck.
+
+On her cheek is a small Tsakaxhua tribal tattoo.
+
+Centered on her forehead is tattooed the Mark of Morana.
+
+Up the inside of her right forearm is a tattoo of a black Caduceus with bloody wings.
+
+Description:
+She seems to be a little pale, ..small needle marks are fading from her skin....
+
+
+She is carrying:
+ -an etched silver targe                                   (left hand)
+ -a light irratacite chainmail                            (torso)
+ -a whipcord-braided square jet-buttoned merino sark      (torso)
+ -a glittering spirit-touched arrowhead on a chain        (around neck)
+ -a wild blue dyed silkroot waist wrap                    (legs)
+ -a set of stiff boar skin wrist wraps                    (around wrist)
+ -a single platinum-inlaid bird vertebrae hoop earring    (on ears)
+ -a glittering icicle-shaped crystal septum piercing      (on nose)
+ -a smooth silver lip ring                                (on face)
+ -a traditional Vorngar leather battle dress              (torso)
+
+
+
+smi to bes
+You smile to Bestin.
+
+The open beautiful teak and rice paper sectioning screen just closed.
+
+' who has the line?
+You ask, "who has the line?"
+
+Alva asks, "what say the list?"
+
+Liv says, "Asher did."
+
+smi impishly
+You smile impishly.
+
+A green masked juggler just entered the room 2 units behind you.
+
+Bestin says to Kurapiira in Feyrie, "That's very lovely"
+
+The green masked juggler throws a few balls into the air and experly juggles them.
+
+time
+time
+You follow Set...
+
+
+[Hollowbend Road]
+The road bows slightly curving itself around a very large oak tree that stands tall to the east that is surrounded by a flowerbed of dark rich soil.  A very large ceramic bowl mounted on a marble pillar stands beside the tree filled with crystal clear water.  Some white and black splotches on the bowl and pillar indicate that birds frequently perch there to bathe.
+
+The area is illuminated.
+
+In this room you see: Set the Urgon,  Geza the Urgon,  Falin the Vorngar
+Obvious exits are: northwest, southeast
+
+A few wispy clouds here and there, but otherwise the sky is clear.
+It is currently 09:09 AM.
+
+Geza's muscles atrophy for a moment as the divine strength leaves her.
+
+Set's group just went northwest.
+
+You follow Set...
+
+
+[Hollowbend Road]
+Continuing to the north and southeast the road rises and falls slightly over uneven ground. The cobblestones a bit shifted provide some uneven footing.
+
+The area is illuminated.
+
+In this room you see: Set the Urgon,  Geza the Urgon,  Falin the Vorngar
+Obvious exits are: southwest, southeast, north
+
+Geza intones a mighty battle call to Johara, clenching her fists to her side.
+
+Set's group just went north.
+
+You follow Set...
+
+
+[Hollowbend Road]
+Three nicely carved wooden benches sit on the western side of the road.  A large sign mounted on a narrow pole on the eastern side of the road, written in common reads "Urda north, Travers south and east".
+
+The area is illuminated.
+
+In this room you see: Set the Urgon,  Geza the Urgon,  Falin the Vorngar
+Obvious exits are: south, north
+
+Set's group just went north.
+
+You follow Set...
+
+
+[Hollowbend Road]
+The subtle sounds of what appears to be voices can be heard to the north.  A large wall can be seen in the distance which frames a large iron gate, towering above the horizon.
+
+The area is illuminated.
+
+In this room you see: Set the Urgon,  Geza the Urgon,  Falin the Vorngar, 1st deer
+Obvious exits are: south, northeast
+
+You exert an additional 1 mana maintaining the Ward of the Faithful.
+
+Set's group just went northeast.
+
+You follow Set...
+
+
+[Hollowbend Road]
+As the road continues both northeast and southeast, the city walls become more evident and defined.  The road here is worn slightly from the constant foot traffic which occurs between Urda and Travers.  The sounds of carriage wheels echo however, their distance and direction is indeterminable.
+
+The area is illuminated.
+
+In this room you see: Set the Urgon,  Geza the Urgon,  Falin the Vorngar
+Obvious exits are: southwest, northeast
+
+Set's group just went northeast.
+
+You follow Set...
+
+
+[Hollowbend Road]
+Small trees and shrubs line the roadway.  City guards can be seen perched on the wall to the north adorned in armor.  Pockmarks in the cobblestone indicate that the road may need some repairs soon.
+
+The area is illuminated.
+
+In this room you see: Set the Urgon,  Geza the Urgon,  Falin the Vorngar, 1st deer
+Obvious exits are: southwest, northeast
+
+Set's group just went northeast.
+
+You follow Set...
+
+
+[Hollowbend Road]
+Large and deep creases in the road extend north and south as if worn by wagon wheels.   Some large piles of donkey dung sit scattered on the western side of the road, being circled strategically by flies.  A large wooden pole tipped with a brass lantern on the eastern side of the road sheds light on the road in the night.
+
+The area is illuminated.
+
+In this room you see: Set the Urgon,  Geza the Urgon,  Falin the Vorngar, 1st traveling merchant, 2nd traveling merchant
+Obvious exits are: southwest, north
+
+Set's group just went north.
+
+You follow Set...
+
+
+[Hollowbend Road]
+The deep creases continue north and south.   Two large poles which flank the road east and west contain brass lanterns their glass tainted black from the flames which burn in the evening and into the night.
+
+The area is illuminated.
+
+In this room you see: Set the Urgon,  Geza the Urgon,  Falin the Vorngar, 1st deer
+Obvious exits are: south, north
+
+Set's group just went north.
+
+You follow Set...
+
+
+[Hollowbend Road]
+Two stone benches sit beside the road both east and west.  Pebbles lie in a pile beneath them seemingly emptied from the boots and shoes of weary travelers.
+
+The area is illuminated.
+
+In this room you see: Set the Urgon,  Geza the Urgon,  Falin the Vorngar, 1st traveling merchant
+Obvious exits are: south, north
+
+Set's group just went north.
+
+You follow Set...
+
+
+[Hollowbend Road]
+While the cobblestone road has been weathered with wagon-ruts and stains, not a single weed is left to grow between the cracks. Imperiously tall lanterns line the road as it stretches northward to Urda.
+
+The area is illuminated.
+
+In this room you see: Set the Urgon,  Geza the Urgon,  Falin the Vorngar
+Obvious exits are: south, north
+
+Swirling rings of energy bracelet Geza arms, increasing her muscle mass.
+
+Set's group just went north.
+
+You follow Set...
+
+
+[Hollowbend Road]
+The thick stone walls of Urda tower above to the north as the road fades away in the distance towards the south. Clack-clacking can be heard whenever carters pass by, droving their animals along the cobblestone road to the gates of the city.
+
+The area is illuminated.
+
+In this room you see: Set the Urgon,  Geza the Urgon,  Falin the Vorngar, 1st traveling merchant
+Obvious exits are: south, north
+
+You exert an additional 1 mana maintaining the Holy Armor.
+
+Set's group just went north.
+
+You follow Set...
+
+
+[Hollowbend Road]
+The bustling of the city can be heard to the north, barely muffled by the stone walls surrounding it. Up ahead, guards check the passage of travelers and tradesmen as they pass into the city proper, most likely coming from Travers in the south.
+
+The area is illuminated.
+
+In this room you see: Set the Urgon,  Geza the Urgon,  Falin the Vorngar
+Obvious exits are: south, north, closed freshly painted festive gate
+
+Set's group just went north.
+
+You follow Set...
+
+
+[Hollowbend Road]
+The southern gatehouse stands before the cobblestone road, intimidating, yet welcoming to adventurers and travelers. The city lights illuminate the stone road, shining off the different colors of the cobbles. The road continues south towards Travers.
+
+The area is illuminated.
+
+In this room you see: Set the Urgon,  Geza the Urgon,  Falin the Vorngar
+Obvious exits are: southwest, south, gate
+
+Set's group just went through the gate.
+
+You follow Set...
+
+
+[Urda, Southern Gatehouse]
+The large black southern gates of Urda are strongly reinforced doors of wood that can be closed and bolted by a large beam. Crossed bands of iron plates are bolted to the door, giving them a look of appreciable weight and sturdiness. The cobblestones here are in poor condition, worn by heavy use and travel. Painted on the stone wall by the door, is a simple mural of Human traders traveling across Windgard.
+
+The area is illuminated.
+
+In this room you see: Set the Urgon,  Geza the Urgon,  Falin the Vorngar
+Obvious exits are: north, gate
+
+Set's group just went north.
+
+You follow Set...
+
+
+[Southern Cross Road]
+Neatly kept cobblestones lead north and south the cracks between them free of dirt and debris. The large black gate which allows entrance to the city from Travers towers above several trees to the south. To the north the road curves slightly then begins to straighten. The road both north and south is lined on either side by brass lanterns which hang close to the ground from dark walnut posts allowing for plenty of light even on the darkest nights. To the west and the east a neat but narrower road appears to parallel the tall city walls which dots the sky in the distance.
+
+The area is illuminated.
+
+In this room you see: Set the Urgon,  Geza the Urgon,  Falin the Vorngar, 1st scruffy goblin citizen, 1st urdaian guardian knight
+Obvious exits are: west, south, east, north
+
+Set's group just went north.
+
+You follow Set...
+
+
+[Southern Cross Road]
+City guards pass by frequently as they make their rounds. To the west the roof of a large building can be seen peaking over a few trees. A small man made waterfall feeds a small pond which bubbles happily on the eastern edge of the road.
+
+The area is illuminated.
+
+In this room you see: Set the Urgon,  Geza the Urgon,  Falin the Vorngar
+Obvious exits are: south, north
+
+Set's group just went north.
+
+You follow Set...
+
+
+[Southern Cross Road]
+Oak trees and Birch trees which house several types of wildlife line the east and west side of the street.  A few small but functional benches are scattered neatly amongst the trees to allow for rest and relaxation. Hanging from a metal pole on the east side of the road is a small black sign with white lettering that reads "This road maintained by the Urda Merchants Council"
+
+The area is illuminated.
+
+In this room you see: Set the Urgon,  Geza the Urgon,  Falin the Vorngar
+Obvious exits are: south, north
+
+Set's group just went north.
+
+You follow Set...
+
+
+[Southern Cross Road]
+The cobblestone street displays wear in some areas due to the frequent traffic both adventurer and merchant who travel from the city of Travers. A large wooden bulletin with remnants of old parchment paper, makes its home on the western side of the road. Frequently new postings can be found advertising services, festivals and other city happenings.
+
+The area is illuminated.
+
+In this room you see: Set the Urgon,  Geza the Urgon,  Falin the Vorngar
+In this room are: large wooden bulletin board
+Obvious exits are: south, north
+
+Set's group just went north.
+
+You follow Set...
+
+
+[Southern Cross Road]
+The cobblestone road continues north towards the market square and the center of the city. Large arches in the shape of notable historical figures from the battle to recover the City of Urda from the Empire can be seen in the distance.
+
+The area is illuminated.
+
+In this room you see: Set the Urgon,  Geza the Urgon,  Falin the Vorngar
+Obvious exits are: south, north
+
+Set's group just went north.
+
+You follow Set...
+
+
+[Southern Cross Road]
+A small brick walkway heading east snakes its way through green grasses and tall bushes. Smoke hovers contently above the tall bushes and the delicate smell of nuts roasting tints the air.
+
+The area is illuminated.
+
+In this room you see: Set the Urgon,  Geza the Urgon,  Falin the Vorngar, 1st lanky youthful herald
+Obvious exits are: south, north, walkway
+
+Set's group just went north.
+
+You follow Set...
+
+
+[Southern Cross Road]
+The cobblestone road is trimmed on both sides by short, well manicured shrubs of deep green. A wooden bird house mounted on a tall thin mahogany post decorates the road on the eastern side.
+
+The area is illuminated.
+
+In this room you see: Set the Urgon,  Geza the Urgon,  Falin the Vorngar
+In this room are: small wooden birdhouse
+Obvious exits are: south, north
+
+Set's group just went north.
+
+You follow Set...
+
+
+[Southern Cross Road]
+Beneath a large pecan tree a small garden sits on the western side of the road accompanied by a small marble bench. Birds can be heard fluttering through the dense leaves as they chase each other in organized play.
+
+The area is illuminated.
+
+In this room you see: Set the Urgon,  Geza the Urgon,  Falin the Vorngar, 1st elegant noblewoman
+Obvious exits are: south, north
+
+Set's group just went north.
+
+You follow Set...
+
+
+[Southern Cross Road]
+Cobblestone streets void of dirt and litter extend north and south. Sounds of chatter and laughter can be heard clearly to the north and muffled sounds of horse hooves and creaky wagon wheels to the south. The occasional city waste engineer passes by to check the large black iron trashcan siting on the eastern side of the road.
+
+The area is illuminated.
+
+In this room you see: Set the Urgon,  Geza the Urgon,  Falin the Vorngar
+Obvious exits are: south, north
+
+Set's group just went north.
+
+You follow Set...
+
+
+[Merchant Square]
+A small sign has been set in front of the nearby store fronts, listing the local shops: Regal Fashion, Banafin's Bakery, and Sadie's General Store. An eye-catching black striped tiger is emblazoned on the facade of lacquered wooden building on the south side of the square. Its shoulders raised high, and face frozen in a fierce roar. Through the many, high-arched, steel frame windows, a wooden figure can be seen wearing the latest gentleman's fashion. Grey smoke rises from a single stone chimney. A simple plaque hanging from a twisted wrought iron rod reads, "Regal Fashion". Smooth stone steps lead to the entrance. On the east side of the street a large brick chimney funnels white billowy smoke into the air projecting the aroma of fresh baked goods into the area. Through the large bay window a burly human man can be seen kneading and forming dough and placing his creations into an oven. The heavy mahogany door is propped seemingly propped to allow for relief from the ovens intense heat. A quaint barn faces the square from the west side of the street, its interior remodeled into a storefront, as seen through its large bay window.
+
+The area is illuminated.
+
+In this room you see: Set the Urgon,  Geza the Urgon,  Falin the Vorngar, 1st urdaian city guard, 2nd urdaian city guard
+In this room are: southern monument
+Obvious exits are: northwest, west, south, east, northeast, north, open crooked red barn door, open mahogany door, steps
+
+invo 27
+You clasp both hands in front of you and begin an incantation to Eyranas.
+h
+Invoking this spell cost you 10 mana and 2 faith.
+[6 sec. delay]
+
+HP:  142/142  Ftg:  50/51  MP:  71/81
+
+
+Set's group just went north.
+
+You follow Set...
+
+
+[Urda Town Square Center]
+On this site, a fierce battle for control of the great city was waged, and on this site is where its citizens now celebrate that victory. Statues of the fallen heroes, and great leaders of the alliance adorn the tops of grand marble archways that scatter over the square. They stand ever vigilant against any unseen enemy. The people of Urda flock here to barter and trade, to converse with friends, or just relax near the fountain and have a game of chess. Benches and tables dot the landscape near the edge of the fountain. Hawkers of all type roll through this area with their wares, hoping to make a few coins. The many languages of races and guilds reverberate off the storefronts of the surrounding Merchant Square where a constant foot traffic ebbs and flows, making this the heart of the city.
+
+The area is illuminated.
+
+In this room you see: Kylon the Human,  Meyalon the Duskwen (sitting down),  Set the Urgon,  Geza the Urgon,  Falin the Vorngar
+In this room are: large wooden bulletin board, some marks, some marks
+Obvious exits are: northwest, west, southwest, south, southeast, east, northeast, north
+
+You exert an additional 1 mana maintaining the Ward of the Faithful.
+
+gla
+You glance.
+
+diag all
+diag Kurapiira
+h
+Waves of healing energy emanate from you and wash over your allies.
+
+You feel healthier!
+
+You examine all the people in the room...
+
+You examine Kylon. He appears to be in good health.
+You examine Meyalon. He appears to be in good health.
+You examine Set. He appears to be in good health.
+You examine Geza. She appears to be in good health.
+You examine Falin. He appears to be in good health.
+
+You examine Kurapiira.
+She appears to be in good health. She seems tired. She seems reduced..
+
+
+
+HP:  142/142  Ftg:  49/51  MP:  72/81
+
+
+Geza glances around.
+
+Set squints.
+
+You exert an additional 1 mana maintaining the Holy Armor.
+
+Geza asks, "wehre?"
+
+murm to kura
+You murmur to yourself.
+
+Geza cackles madly.
+
+grin to ge
+You grin to Geza.
+
+l e
+You look east...
+
+
+[Merchant Square]
+A small sign has been set in front of the nearby shop fronts, listing the shops within: Mucky Duck Outfitters. The neat brick storefront of shops peak out around the perimeter of the cobblestone square along with neatly manicured hedges with trees spaced between them. Detailed arches, sculpted in the memory of iconic leaders that fought for Urda's freedom, decorate the busy square. The Eastern Cross leads travelers to the east gate and towards the Bloodlands. A freshly painted clapboard building, styled like a ship, faces southwards towards the street.
+
+The area is illuminated.
+
+In this room you see: 1st elegant noblewoman
+In this room are: eastern monument
+Obvious exits are: northwest, west, southwest, south, east, north, open polished elmwood ship helm door
+
+l w
+You look west...
+
+
+[Merchant Square]
+A small sign has been set in front of the nearby store fronts, listing the nearby shops: Tillie's Trinkets, Liddie's Lights, and the Soles of Urda. The north side of the the square elegantly frames a beautiful multicolored storefront. Small and manicured green and red shrubbery have taken purchase beside a impeccably clean glass door. In the front window what appears to be swirling and swaying light spells     "L i d d i e s". Directly south of the storefront, the square displays a deteriorating wooden shop. White painted wood peels with age and piles of dirt accumulate along the shop front. A ragged sign which hangs from only one chain above the cracked and knotty wooden door reads "Tillie's Trinkets and Treasures." A newly varnished storefront with a beaded glass curtain sits next to Tillie's.
+doorz 1 lights, doorz 2 sell
+
+The area is illuminated.
+
+In this room are: western monument
+Obvious exits are: west, south, southeast, east, northeast, north, open warped wooden door, open white glass door, glass beaded curtain
+
+Geza picks up some marks.
+
+l n
+ARMOR DOWN IN 5,
+You look north...
+
+
+[Merchant Square]
+A small sign has been set in front of the store fronts, listing the nearby shops: Malinar's Magic and Talafon's Weapons. Smoke steadily rises from the chimneys of this massive stone building on the north side of the well maintained square. Through the open facade, young Vorngar can be seen pumping the bellows while the master heats a rod of glowing iron within the forge.  The clanking sound of metal on metal can be heard as the gifted apprentices create and sharpen weapons of all types. The hot fires of the forge radiate all around. A large sign mounted above a tall studded iron door clearly reads, "Talafon's Weapons and Armor".  On the south side of the road a small colorful building reflects light cast from two glowing orbs mounted on each side of a glittering portal floating between a silver archway. Above the archway a small, but functional sign reads, "Malinar's Magic and Mayhem".
+
+The area is illuminated.
+
+In this room are: northern monument
+Obvious exits are: west, southwest, south, southeast, east, north, open iron door, portal
+
+Geza picks up some marks.
+
+You exert an additional 1 mana maintaining the Ward of the Faithful.
+
+l
+The barrier of holy energy surrounding Geza disappears in a flash.
+
+
+[Urda Town Square Center]
+On this site, a fierce battle for control of the great city was waged, and on this site is where its citizens now celebrate that victory. Statues of the fallen heroes, and great leaders of the alliance adorn the tops of grand marble archways that scatter over the square. They stand ever vigilant against any unseen enemy. The people of Urda flock here to barter and trade, to converse with friends, or just relax near the fountain and have a game of chess. Benches and tables dot the landscape near the edge of the fountain. Hawkers of all type roll through this area with their wares, hoping to make a few coins. The many languages of races and guilds reverberate off the storefronts of the surrounding Merchant Square where a constant foot traffic ebbs and flows, making this the heart of the city.
+
+The area is illuminated.
+
+In this room you see: Kylon the Human,  Meyalon the Duskwen (sitting down),  Set the Urgon,  Geza the Urgon,  Falin the Vorngar
+In this room are: large wooden bulletin board
+Obvious exits are: northwest, west, southwest, south, southeast, east, northeast, north
+
+Kylon says, "The visions were quite painful."
+
+You exert an additional 1 mana maintaining the Holy Armor.
+
+The holy armor surrounding you flickers and then disappears.
+
+invo 4 g
+Raising one hand to the heavens, you lower your head in prayer to Eyranas.
+h
+Invoking this spell cost you 8 mana.
+[6 sec. delay]
+
+HP:  142/142  Ftg:  50/51  MP:  71/81
+
+
+invo 13
+Set says to Falin, "It must not think highly of Falin's counting ability."
+
+A barrier of holy energy surrounds Geza, swirling and shimmering slowly.
+
+You fold your hands in front of you in silent prayer.
+h
+Invoking this spell cost you 6 mana.
+[4 sec. delay]
+
+HP:  142/142  Ftg:  49/51  MP:  67/81
+
+
+Set cackles softly.
+
+An ethereal suit of glimmering armor surrounds you in a holy glow.
+Y
+
+Geza grins at Set.
+
+Geza cackles.
+
+The black panther floats out of Falin, returning him to his original self.
+
+invo 25 Kura
+You start to vocalize a request to Eyranas. After the first word, a large white wolf begins to appear on the ground underneath Kurapiira.
+h
+Invoking this spell cost you 5 mana and 1 faith.
+[4 sec. delay]
+
+Falin lifts his hands into the air, invoking the might of Cassien.
+
+HP:  142/142  Ftg:  51/51  MP:  64/81
+
+
+The white wolf underneath Kurapiira begins to glow a radiant blue for a few moments before fading back into obscurity.
+
+h
+You feel replenished!
+
+HP:  142/142  Ftg:  50/51  MP:  81/81
+
+
+Set asks Kylon, "What did it see?"
+
+Set raises an eyebrow at Kylon.
+
+diag all
+diag Kurapiira
+h
+You examine all the people in the room...
+
+You examine Kylon. He appears to be in good health.
+You examine Meyalon. He appears to be in good health.
+You examine Set. He appears to be in good health.
+You examine Geza. She appears to be in good health.
+You examine Falin. He appears to be in good health. He seems reduced.
+
+You examine Kurapiira.
+She appears to be in good health. She seems tired..
+
+
+
+HP:  142/142  Ftg:  50/51  MP:  81/81
+
+
+A great black panther streaks from the heavens and into Falin, imbuing him with the strength and focus of Cassien.
+
+A dark blue orb appears in Falin's hand, shimmering faintly in the ambient light as it revolves slowly.
+
+Falin places his hand to his chest. The dark blue orb is absorbed into him, causing his torso to glow sapphire for a brief moment.
+
+You exert an additional 1 mana maintaining the Ward of the Faithful.
+
+The holy armor surrounding Meyalon flickers and then disappears.
+
+Meyalon folds his hands in front of him in silent prayer.
+
+You exert an additional 1 mana maintaining the Holy Armor.
+
+time
+time
+A few wispy clouds here and there, but otherwise the sky is clear.
+It is currently 09:56 AM.
+
+l at ran 
+
+You see Rane the adult Human.
+He is 6' 0" tall with a well toned build, pulled back, black hair, deep blue eyes, and tanned skin.
+He bears the mark of Ty'ghat.
+He is currently in a nauseous mood.
+
+
+Mirrored on both his arms and neck are white burn marks forming detailed archaic symbols in elaborate spiraling patterns.
+
+Description:
+This tall Human carries himself with great dignity, in an almost haughty demeanor, reflected in his poise and actions. His sharply defined features and tall frame are practically statuesque.
+
+
+He is carrying:
+ -a razor-sharp starsteel short sword        (right hand)
+ -a heavy starsteel battlemail               (torso)
+ -an emerald green silk surcoat               (torso)
+ -a green tourmaline ring                    (finger)
+ -a plain copper band                        (finger)
+ -a spiraling obsidian void symbol           (around neck)
+ -a pair of black cotton pants               (legs)
+ -a pair of black combat boots               (feet)
+ -a black leather belt                       (around waist)
+ -a well forged scabbard                     (on belt)
+ -a pair of rawhide forearm splint guards    (around wrist)
+
+
+
+l at mar 
+
+You see Mardek the middle-aged Duskwen.
+He is 5' 8" tall with a well toned build, oiled, glossy black hair, silvery eyes, and black skin.
+He bears the mark of Ty'ghat.
+He is currently in a dark mood.
+
+Description:
+He has carved demonic runes of power and sacrifice all over his body. The cuts ooze blood tainted with dark energy.
+
+
+He is carrying:
+ -a black ebony cane sword                     (right hand)
+ -a phosphorescent mossy geode                 (left hand)
+ -a skull-etched dull yellow carapace          (torso)
+ -an acid etched band of cool platinum          (finger)
+ -a pair of black cotton pants                 (legs)
+ -a sturdy pair of black boots                 (feet)
+ -a well forged scabbard                       (on belt)
+ -a red cotton sash                            (around waist)
+ -a pair of bone-backed snakeskin gauntlets    (around wrist)
+
+
+
+l
+
+[Travers Town Square]
+Small marble benches are scattered neatly about the square welcoming travelers to take a seat or to possibly empty pebbles from their boots. Cobblestone streets decorate the square alternating from browns to reds in a random pattern. Small statues of the world's races stand behind each bench as if standing sentinel. Tall lamp posts with wrought iron lanterns look down on the neat and clean streets. An occasional waste engineer wanders through, sweeping up dirt and trash into tin dustpans. Tucked away in a corner is an old door leading to a rundown store. The loud echoing of dripping water can be heard coming from a metal grate which is recessed into the street.
+
+The area is illuminated.
+
+In this room you see: Aeron the Vorngar,  Rane the Human,  Mardek the Duskwen (holding a flaming phosphorescent mossy geode),  Eidag the Human,  Liv the Duskwen,  Gashashaslk the Varanus,  Afti the Varanus,  Primum the Seraphim,  Harru the Galirrim, 1st animated training dummy corpse (laying on the ground), 2nd animated training dummy corpse (laying on the ground), 1st city waste engineer
+In this room are: golden directional sign
+Obvious exits are: northwest, south, southeast, east, northeast, north, closed grate, open off-center wooden door
+
+Rane inhales.
+
+Mardek grins madly at Kurapiira.
+
+Liv says to Mardek, "You do not understand. I -cannot- spill your blood."
+
+gla
+You glance.
+
+set mood war
+Your mood is now wary.
+
+Aeron says, "I was willing to fight for this land, even with my limited skill."
+
+The city waste engineer happily picks up some trash on the side of the road.
+
+Mardek asks Kurapiira, "Feeling better?"
+
+Harru searches the room carefully.
+
+Mardek snickers softly.
+
+Gashashaslk searches the room carefully.
+
+Gashashaslk says, "Legless in them shadders."
+
+The 1st city waste engineer just wandered southeast.
+
+Set just entered from the north.
+
+gla
+You glance.
+
+bla
+You blanch.
+
+Liv says to Mardek, "Curious that your kind seem to villify me for it so."
+
+Aeron searches the room carefully.
+
+Rane says to Primum, "You will have your ultimatium since You are here as an authority of Urda"
+
+n
+
+[North Street]
+A slightly cracked aggregate road that has been richly decorated, in an earthly manner, marks the southern most end of North Street. A lone lamp post stands on the side of the road, its broken lantern barely attached and hanging askew. In the adjacent building three panes of the large front window have been cracked by what one can only speculate to be stones.
+
+
+The area is illuminated.
+
+Obvious exits are: south, north
+
+n
+n
+
+[North Street]
+The dilapidated look of North street is a reminder of better times. The remains of an old wooden vendor stand lies broken and rotting on the east side of the street. A single black lamp post, that used to cast light upon this portion of the street, lies bent at an odd angle as if twisted by some unseen force.
+
+The area is illuminated.
+
+Obvious exits are: south, north
+
+n
+
+[North Street]
+Allowing two or more carts to pass each other, North Street opens up to its greatest width. The skeleton of a small building lies crumbled on the western side of the street. Across from the building a small trash bin of red colored wrought iron stands silently, as if welcoming waste. Sitting next to the bin is a small black wooden bench.
+
+The area is illuminated.
+
+Obvious exits are: south, north
+
+n
+
+[North Street]
+An all but deserted portion of North Street is only occupied by a small wooden newspaper stand on the eastern side of the road. A few reasonably clean papers blow around the base of the empty stand allowing one to assume it has been recently filled. Human sized footprints come out of the north, circle around the stand and then disappear to the south.
+
+The area is illuminated.
+
+Obvious exits are: south, north
+
+n
+n
+
+[North Street]
+North Street is both desolate and narrow at this juncture. If there were once buildings, they have long since decayed and collapsed into ruin. The only discernible objects on the road are the lamp posts. Each is in surprisingly good shape, their brass lanterns polished and glowing.
+
+The area is illuminated.
+
+Obvious exits are: south, north
+
+n
+
+[North Street]
+Weeds grow haphazardly out of the cracks in the roadway. The squawking of several black birds can be heard coming from a pile of debris to the west. Just beyond the debris stands a dilapidated old wooden sign pointing north. In common, the words "Villinbury Graveyard," are printed upon it in large red letters.
+
+The area is illuminated.
+
+Obvious exits are: south, north
+
+n
+
+[North Street]
+The road slants down slightly to the north. A sign directing travelers. The sign which sits stalwart on the east side of the road reads in common "north, graveyard northwest, City of Urda". Dust and dirt is kicked up by small gusts of wind that seemingly come out of nowhere. A small vindinberry tree grows wildly on the western side of the road, its twisted and warped branches play home to a large hay birds nest.
+
+The area is illuminated.
+
+Obvious exits are: northwest, south, north
+
+
+[Graveyard Gate]
+Smells of rotting flesh contaminate the air and an out of place calmness dominates the area. A quick wisp of cold air races by carrying with it the sound of soft whimpers.  A large black wrought iron gate is here.
+
+
+The area is illuminated.
+
+Obvious exits are: south, gate
+
+I don't see what exit you're referring to.
+
+go gate
+
+[Graveyard Entrance]
+A menacing wrought iron gate rises from the ground. Those graves that are still discernible are strewn with dilapidated and broken white lattice. Against the old fence are rotting roses which cover most of the rusted entryway coldly. The weed pocked gravel pathway is lined with small dead shrubs.
+
+The area is illuminated.
+
+In this room you see: 1st grave robber, 2nd grave robber
+Obvious exits are: northwest, northeast, gate
+
+ne
+
+[Ancient Graveyard Path]
+Faded tombstones line the old and dilapidated path. The smell of rotting flesh permeates the area. Several tall Oak trees tower over the path concealing both sunlight and moonlight. The leaves shake with the slightest of breezes and the moaning of the old branches cry out in a plaintive voice of lost hope.
+
+
+The area is illuminated.
+
+In this room you see: 1st grave robber
+Obvious exits are: southwest, north
+
+n
+A grave robber follows you into the room.
+
+nw
+
+[Ancient Graveyard]
+Paralleling the widening path are empty holes in the ground. The realization that these empty holes once held not only a coffin, but a body, becomes abundantly clear by the broken wood and scattered bone fragments still lying around. The large oak trees that surround these desecrated graves stand silently, their only purpose to drop their leaves and fill in the gaping holes.
+
+
+The area is illuminated.
+
+In this room you see: 1st grave robber
+In this room are: large oak tree
+Obvious exits are: northwest, south
+
+
+[Graveyard Commons]
+A large hole lies in the center of the path. Surrounding the hole are rotting corpses artistically displayed in different positions. Whomever placed them here did so in in a ritualistic manner. Over-grown rats chew at the marred flesh of the corpses and then scurry off into the darkness.
+
+
+The area is illuminated.
+
+In this room you see: 1st grave robber, 1st grave imp
+Obvious exits are: west, southwest, southeast, north
+
+n
+n
+
+[Courtyard]
+A quaint courtyard, though scorched, stands isolated from the rest of the graveyard. A slight hint of singing birds can be heard in the distance. Against the tree line sits a small black granite bench. An old fountain, full of black water, buzzing with mosquitoes and smelling of a city sewer, stands in the center of the area. A large mausoleum can be seen to the north.
+
+The area is illuminated.
+
+Obvious exits are: south, north
+
+
+[Mausoleum Entrance]
+A large marble mausoleum stands boldly gazing over the cemetery. Blackness is all that can be seen through the open entryway. A small stone plaque, that looks new compared to the rest of the mausoleum, is tacked to the entryway. Upon closer inspection you can see words engraved deep into the stone that read "Hone thy skills well adventurer before entering this place, for inside exists an evil of great power." Some stairs leading down are here.
+
+
+The area is illuminated.
+
+In this room you see: 1st grave robber
+Obvious exits are: south, stairs
+
+go st
+
+[Mausoleum]
+Pitch dark and cold, the air is heavy and the smell of rotting flesh emanates throughout the hall. Crackling sounds can be heard in the distance but it is difficult to discern what direction they are coming from. The walls are covered with black mold and the moisture from them drips ominously onto the ground. A single wooden torch burns softly, casting shadows upon the opposing wall.
+
+The area is illuminated.
+
+In this room you see: 1st grave robber
+Obvious exits are: west, northeast, stairs
+
+w
+w
+w
+A grave robber follows you into the room.
+
+It is too dark to see!
+
+It is too dark to see!
+
+The 1st zombie spits a glob of foul smelling green snot at you!
+It is a solid blow to your left arm!
+Your light irratacite chainmail absorbs some of the damage.
+h
+You take 2 damage!
+
+HP:  140/142  Ftg:  51/51  MP:  81/81
+
+
+A zombie follows you into the room.
+
+It is too dark to see!
+
+rem tar
+I don't see what you're referring to.
+
+wear ge
+l
+You light your phosphorescent mossy geode.
+
+The 1st zombie advances towards you.
+
+l
+
+[Mausoleum]
+The air is completely still. Not even the smallest speck of dust is being disturbed. Piled in the corner are shattered bones covered in blood. Wafting from the bones is the odor of rotting flesh and without an adequate breeze the smell stagnates. What sounds like soft, steady breathing echoes off the blackened walls from an unseen source.
+
+The area is illuminated.
+
+In this room you see: 1st zombie
+Obvious exits are: east
+
+
+[Mausoleum]
+The air is completely still. Not even the smallest speck of dust is being disturbed. Piled in the corner are shattered bones covered in blood. Wafting from the bones is the odor of rotting flesh and without an adequate breeze the smell stagnates. What sounds like soft, steady breathing echoes off the blackened walls from an unseen source.
+
+The area is illuminated.
+
+In this room you see: 1st zombie
+Obvious exits are: east
+
+The 1st zombie claws at you!
+It is a solid blow to your left arm!
+Your light irratacite chainmail absorbs some of the damage.
+h
+You take 2 damage!
+
+HP:  138/142  Ftg:  49/51  MP:  81/81
+
+
+Train on-Stance?
+l at Kurapiira 
+
+You see Kurapiira the elderly Fae.
+She is 1' 10" tall with a lithe build, dreadlocked, white hair, deep blue eyes, and black skin.
+She bears the mark of Eyranas.
+She is currently in a wary mood.
+
+
+A sleeve of multi-colored dragons twists down her left arm from shoulder to wrist.
+
+A small deep blue pentagram is tattooed upon the neck.
+
+On her cheek is a small Tsakaxhua tribal tattoo.
+
+Centered on her forehead is tattooed the Mark of Morana.
+
+Up the inside of her right forearm is a tattoo of a black Caduceus with bloody wings.
+
+Description:
+She seems to be a little pale, ..small needle marks are fading from her skin....
+
+
+She is carrying:
+ -a beryl-hilted mother-of-pearl tipped rapier            (right hand)
+ -a phosphorescent mossy geode                            (left hand)
+ -a light irratacite chainmail                            (torso)
+ -a whipcord-braided square jet-buttoned merino sark      (torso)
+ -a glittering spirit-touched arrowhead on a chain        (around neck)
+ -a wild blue dyed silkroot waist wrap                    (legs)
+ -a set of stiff boar skin wrist wraps                    (around wrist)
+ -a single platinum-inlaid bird vertebrae hoop earring    (on ears)
+ -a glittering icicle-shaped crystal septum piercing      (on nose)
+ -a smooth silver lip ring                                (on face)
+ -a traditional Vorngar leather battle dress              (torso)
+
+
+
+TARGET IS : z 
+turn z   reb
+sk turn
+fav
+turn z   reb
+You call out in the name of Eyranas and point at the 1st zombie.
+The zombie cowers from the sudden image of a white wolf.
+Turning the zombie cost you 3 favors.
+[5 sec. delay]
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Skill                Uses     Level
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Turn Undead           133      17
+
+
+You are a follower of Eyranas.
+
+You currently hold 325341 favor.
+
+que clear
+invo 32 z 
+Your command queue has been cleared.
+
+Your eyes begin to glow with a divinely powerful inner light as you focus on the zombie.
+h
+Invoking this spell cost you 8 mana and 3 faith.
+[5 sec. delay]
+
+HP:  141/142  Ftg:  51/51  MP:  73/81
+
+
+TARGET IS : z 
+turn z   reb
+The inner light suddenly vanishes from your eyes with a spoken holy word. Moments later, a searing blast of perfectly white light flashes through the area around the zombie.
+
+sk Parry
+The 1st zombie claws at you, but you parry the blow with your beryl-hilted mother-of-pearl tipped rapier!
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Skill                Uses     Level
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Parry                 CAP      15
+
+
+sk turn
+fav
+turn z   reb
+You call out in the name of Eyranas and point at the 1st zombie.
+The zombie cowers from the sudden image of a white wolf.
+Turning the zombie cost you 2 favors.
+[5 sec. delay]
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Skill                Uses     Level
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Turn Undead           132      17
+
+
+You are a follower of Eyranas.
+
+You currently hold 325336 favor.
+
+invo 15 z 
+sk Parry
+The 1st zombie claws at you, but you parry the blow with your beryl-hilted mother-of-pearl tipped rapier!
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Skill                Uses     Level
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Parry                 CAP      15
+
+
+sk turn
+fav
+turn z   reb
+You call out in the name of Eyranas and point at the 1st zombie.
+The zombie cowers from the sudden image of a white wolf.
+Turning the zombie cost you 2 favors.
+[5 sec. delay]
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Skill                Uses     Level
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Turn Undead           131      17
+
+
+You are a follower of Eyranas.
+
+You currently hold 325334 favor.
+
+You raise one hand towards the heavens as a direct ray of light shines down from above upon it.
+h
+Invoking this spell cost you 5 mana.
+[4 sec. delay]
+
+HP:  141/142  Ftg:  51/51  MP:  71/81
+
+
+You extend your other hand towards the zombie and a surge of blinding light rushes out to envelop it.
+
+sk turn
+fav
+turn z   reb
+You call out in the name of Eyranas and point at the 1st zombie.
+The zombie cowers from the sudden image of a white wolf.
+Turning the zombie cost you 1 favors.
+[5 sec. delay]
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Skill                Uses     Level
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Turn Undead           130      17
+
+
+You are a follower of Eyranas.
+
+You currently hold 325333 favor.
+
+The 1st zombie claws at you!
+It is a solid blow to your torso!
+Your light irratacite chainmail absorbs all of the damage.
+h
+You take no damage!
+
+HP:  141/142  Ftg:  50/51  MP:  72/81
+
+
+sk turn
+fav
+turn z   reb
+You call out in the name of Eyranas and point at the 1st zombie.
+The zombie cowers from the sudden image of a white wolf.
+Turning the zombie cost you 1 favors.
+[5 sec. delay]
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Skill                Uses     Level
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Turn Undead           129      17
+
+
+You are a follower of Eyranas.
+
+You currently hold 325332 favor.
+
+sk turn
+fav
+turn z   reb
+You call out in the name of Eyranas and point at the 1st zombie.
+The zombie cowers from the sudden image of a white wolf.
+Turning the zombie cost you 1 favors.
+[5 sec. delay]
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Skill                Uses     Level
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Turn Undead           128      17
+
+
+You are a follower of Eyranas.
+
+You currently hold 325331 favor.
+
+sk turn
+fav
+turn z   reb
+You call out in the name of Eyranas and point at the 1st zombie.
+The zombie cowers from the sudden image of a white wolf.
+Turning the zombie cost you 1 favors.
+[5 sec. delay]
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Skill                Uses     Level
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Turn Undead           127      17
+
+
+You are a follower of Eyranas.
+
+You currently hold 325330 favor.
+
+sk turn
+fav
+turn z   reb
+You call out in the name of Eyranas and point at the 1st zombie.
+The zombie cowers from the sudden image of a white wolf.
+Turning the zombie cost you 1 favors.
+[5 sec. delay]
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Skill                Uses     Level
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Turn Undead           126      17
+
+
+You are a follower of Eyranas.
+
+You currently hold 325329 favor.
+
+sk turn
+fav
+turn z   reb
+You call out in the name of Eyranas and point at the 1st zombie.
+The zombie cowers from the sudden image of a white wolf.
+Turning the zombie cost you 1 favors.
+[5 sec. delay]
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Skill                Uses     Level
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Turn Undead           125      17
+
+
+You are a follower of Eyranas.
+
+You currently hold 325328 favor.
+
+sk turn
+fav
+turn z   reb
+You call out in the name of Eyranas and point at the 1st zombie.
+The zombie cowers from the sudden image of a white wolf.
+Turning the zombie cost you 1 favors.
+[5 sec. delay]
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Skill                Uses     Level
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Turn Undead           124      17
+
+
+You are a follower of Eyranas.
+
+You currently hold 325327 favor.
+
+The 1st zombie bites at you!
+It is a solid blow to your right arm!
+Your light irratacite chainmail absorbs some of the damage.
+h
+You take 2 damage!
+
+HP:  140/142  Ftg:  49/51  MP:  79/81
+
+
+sk turn
+fav
+turn z   reb
+You call out in the name of Eyranas and point at the 1st zombie.
+The zombie cowers from the sudden image of a white wolf.
+Turning the zombie cost you 1 favors.
+[5 sec. delay]
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Skill                Uses     Level
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Turn Undead           123      17
+
+
+You are a follower of Eyranas.
+
+You currently hold 325326 favor.
+
+sk turn
+fav
+turn z   reb
+You call out in the name of Eyranas and point at the 1st zombie.
+The zombie cowers from the sudden image of a white wolf.
+Turning the zombie cost you 1 favors.
+[5 sec. delay]
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Skill                Uses     Level
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Turn Undead           122      17
+
+
+You are a follower of Eyranas.
+
+You currently hold 325325 favor.
+
+sk Parry
+The 1st zombie bites at you, but you parry the blow with your beryl-hilted mother-of-pearl tipped rapier!
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Skill                Uses     Level
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Parry                 CAP      15
+
+
+sk turn
+fav
+turn z   reb
+You call out in the name of Eyranas and point at the 1st zombie.
+The zombie cowers from the sudden image of a white wolf.
+Turning the zombie cost you 1 favors.
+[5 sec. delay]
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Skill                Uses     Level
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Turn Undead           121      17
+
+
+You are a follower of Eyranas.
+
+You currently hold 325324 favor.
+
+sk turn
+fav
+turn z   reb
+You call out in the name of Eyranas and point at the 1st zombie.
+The zombie cowers from the sudden image of a white wolf.
+Turning the zombie cost you 1 favors.
+[5 sec. delay]
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Skill                Uses     Level
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Turn Undead           120      17
+
+
+You are a follower of Eyranas.
+
+You currently hold 325323 favor.
+
+sk turn
+fav
+turn z   reb
+You call out in the name of Eyranas and point at the 1st zombie.
+The zombie cowers from the sudden image of a white wolf.
+Turning the zombie cost you 1 favors.
+[5 sec. delay]
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Skill                Uses     Level
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Turn Undead           119      17
+
+
+You are a follower of Eyranas.
+
+You currently hold 325322 favor.
+
+sk Parry
+The 1st zombie claws at you, but you parry the blow with your beryl-hilted mother-of-pearl tipped rapier!
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Skill                Uses     Level
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Parry                 CAP      15
+
+
+sk turn
+fav
+turn z   reb
+You call out in the name of Eyranas and point at the 1st zombie.
+The zombie cowers from the sudden image of a white wolf.
+Turning the zombie cost you 1 favors.
+[5 sec. delay]
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Skill                Uses     Level
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Turn Undead           118      17
+
+
+You are a follower of Eyranas.
+
+You currently hold 325321 favor.
+
+sk turn
+fav
+turn z   reb
+You call out in the name of Eyranas and point at the 1st zombie.
+The zombie cowers from the sudden image of a white wolf.
+Turning the zombie cost you 1 favors.
+[5 sec. delay]
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Skill                Uses     Level
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Turn Undead           117      17
+
+
+You are a follower of Eyranas.
+
+You currently hold 325320 favor.
+
+l
+
+[Mausoleum]
+The air is completely still. Not even the smallest speck of dust is being disturbed. Piled in the corner are shattered bones covered in blood. Wafting from the bones is the odor of rotting flesh and without an adequate breeze the smell stagnates. What sounds like soft, steady breathing echoes off the blackened walls from an unseen source.
+
+The area is illuminated.
+
+In this room you see: 1st zombie
+Obvious exits are: east
+
+sk turn
+fav
+turn z   reb
+You call out in the name of Eyranas and point at the 1st zombie.
+The zombie cowers from the sudden image of a white wolf.
+Turning the zombie cost you 1 favors.
+[5 sec. delay]
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Skill                Uses     Level
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Turn Undead           116      17
+
+
+You are a follower of Eyranas.
+
+You currently hold 325319 favor.
+
+sk Evade
+The 1st zombie claws at you, but you evade the strike!
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Skill                Uses     Level
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Evade                 280      18
+
+
+sk turn
+fav
+turn z   reb
+You call out in the name of Eyranas and point at the 1st zombie.
+The zombie cowers from the sudden image of a white wolf.
+Turning the zombie cost you 1 favors.
+[5 sec. delay]
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Skill                Uses     Level
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Turn Undead           115      17
+
+
+You are a follower of Eyranas.
+
+You currently hold 325318 favor.
+
+sk turn
+fav
+turn z   reb
+You call out in the name of Eyranas and point at the 1st zombie.
+The zombie cowers from the sudden image of a white wolf.
+Turning the zombie cost you 1 favors.
+[5 sec. delay]
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Skill                Uses     Level
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Turn Undead           114      17
+
+
+You are a follower of Eyranas.
+
+You currently hold 325317 favor.
+
+sk Evade
+The 1st zombie claws at you, but you evade the strike!
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Skill                Uses     Level
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Evade                 279      18
+
+
+sk turn
+fav
+turn z   reb
+You call out in the name of Eyranas and point at the 1st zombie.
+The zombie cowers from the sudden image of a white wolf.
+Turning the zombie cost you 1 favors.
+[5 sec. delay]
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Skill                Uses     Level
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Turn Undead           113      17
+
+
+You are a follower of Eyranas.
+
+You currently hold 325316 favor.
+
+sk turn
+fav
+turn z   reb
+You call out in the name of Eyranas and point at the 1st zombie.
+The zombie cowers from the sudden image of a white wolf.
+Turning the zombie cost you 1 favors.
+[5 sec. delay]
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Skill                Uses     Level
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Turn Undead           112      17
+
+
+You are a follower of Eyranas.
+
+You currently hold 325315 favor.
+
+Your phosphorescent mossy geode flickers for a few moments.
+
+sk turn
+fav
+turn z   reb
+You call out in the name of Eyranas and point at the 1st zombie.
+The zombie cowers from the sudden image of a white wolf.
+Turning the zombie cost you 1 favors.
+[5 sec. delay]
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Skill                Uses     Level
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Turn Undead           111      17
+
+
+You are a follower of Eyranas.
+
+You currently hold 325314 favor.
+
+sk Evade
+The 1st zombie bites at you, but you evade the strike!
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Skill                Uses     Level
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Evade                 278      18
+
+
+sk turn
+fav
+turn z   reb
+You call out in the name of Eyranas and point at the 1st zombie.
+The zombie cowers from the sudden image of a white wolf.
+Turning the zombie cost you 1 favors.
+[5 sec. delay]
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Skill                Uses     Level
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Turn Undead           110      17
+
+
+You are a follower of Eyranas.
+
+You currently hold 325313 favor.
+
+que clear
+Your command queue has been cleared.
+
+invo 17
+lyte ON
+sk Parry
+The 1st zombie claws at you, but you parry the blow with your beryl-hilted mother-of-pearl tipped rapier!
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Skill                Uses     Level
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Parry                 CAP      15
+
+
+You call upon the Eyranas to light your way.
+h
+Invoking this spell cost you 5 mana.
+[5 sec. delay]
+
+HP:  142/142  Ftg:  50/51  MP:  76/81
+
+
+rem ge
+A soft glow fills the air around you
+
+sk Evade
+The 1st zombie claws at you, but you evade the strike!
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Skill                Uses     Level
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Evade                 277      18
+
+
+You extinguish your phosphorescent mossy geode.
+
+wear tar
+You fasten your etched silver targe to your arm.
+[2 sec. delay]
+
+l
+
+[Mausoleum]
+The air is completely still. Not even the smallest speck of dust is being disturbed. Piled in the corner are shattered bones covered in blood. Wafting from the bones is the odor of rotting flesh and without an adequate breeze the smell stagnates. What sounds like soft, steady breathing echoes off the blackened walls from an unseen source.
+
+The area is illuminated.
+
+In this room you see: 1st zombie
+Obvious exits are: east
+
+TARGET IS : z 
+turn z   reb
+sk turn
+fav
+turn z   reb
+You call out in the name of Eyranas and point at the 1st zombie.
+The zombie cowers from the sudden image of a white wolf.
+Turning the zombie cost you 1 favors.
+[5 sec. delay]
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Skill                Uses     Level
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Turn Undead           109      17
+
+
+You are a follower of Eyranas.
+
+You currently hold 325312 favor.
+
+sk Shield
+The 1st zombie bites at you, but you block the attack with your etched silver targe!
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Skill                Uses     Level
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Shield               1751      18
+
+
+sk turn
+fav
+turn z   reb
+You call out in the name of Eyranas and point at the 1st zombie.
+The zombie cowers from the sudden image of a white wolf.
+Turning the zombie cost you 1 favors.
+[5 sec. delay]
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Skill                Uses     Level
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Turn Undead           108      17
+
+
+You are a follower of Eyranas.
+
+You currently hold 325311 favor.
+
+You exert an additional 1 mana maintaining the Spiritual Splendor.
+
+sk turn
+fav
+turn z   reb
+You call out in the name of Eyranas and point at the 1st zombie.
+The zombie cowers from the sudden image of a white wolf.
+Turning the zombie cost you 1 favors.
+[5 sec. delay]
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Skill                Uses     Level
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Turn Undead           107      17
+
+
+You are a follower of Eyranas.
+
+You currently hold 325310 favor.
+
+sk
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Skill                Uses     Level
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Blades               1100        11
+  Blunts                518         8
+  Bow                   500         5
+  Clerical Magic       6999        41
+  Evade                 277        18
+  First Aid             198         3
+  Hiding                245         5
+  Instruments           294         3
+  Parry                 CAP        15
+  Polearms              221         5
+  Shield               1751        18
+  Stealth                94         1
+  Throwing              500         5
+  Thrusts               326         7
+  Turn Undead           107        17
+  Swimming               67         1
+
+
+sk Shield
+The 1st zombie bites at you, but you block the attack with your etched silver targe!
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Skill                Uses     Level
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Shield               1750      18
+
+
+sk turn
+fav
+turn z   reb
+You call out in the name of Eyranas and point at the 1st zombie.
+The zombie cowers from the sudden image of a white wolf.
+Turning the zombie cost you 1 favors.
+[5 sec. delay]
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Skill                Uses     Level
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Turn Undead           106      17
+
+
+You are a follower of Eyranas.
+
+You currently hold 325309 favor.
+
+que clear
+Your command queue has been cleared.
+
+rem tar
+sk Shield
+The 1st zombie claws at you, but you block the attack with your etched silver targe!
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Skill                Uses     Level
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Shield               1749      18
+
+
+You unfasten your etched silver targe.
+[2 sec. delay]
+
+weaar ge
+Unknown command "weaar"
+
+lyte OFF
+wear ge
+You exert an additional 1 mana maintaining the Spiritual Splendor.
+
+l
+You light your phosphorescent mossy geode.
+
+
+[Mausoleum]
+The air is completely still. Not even the smallest speck of dust is being disturbed. Piled in the corner are shattered bones covered in blood. Wafting from the bones is the odor of rotting flesh and without an adequate breeze the smell stagnates. What sounds like soft, steady breathing echoes off the blackened walls from an unseen source.
+
+The area is illuminated.
+
+In this room you see: 1st zombie
+Obvious exits are: east
+
+sk Evade
+The 1st zombie bites at you, but you evade the strike!
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Skill                Uses     Level
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Evade                 276      18
+
+
+TARGET IS : z 
+turn z   reb
+sk turn
+fav
+turn z   reb
+You call out in the name of Eyranas and point at the 1st zombie.
+The zombie cowers from the sudden image of a white wolf.
+Turning the zombie cost you 1 favors.
+[5 sec. delay]
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Skill                Uses     Level
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Turn Undead           105      17
+
+
+You are a follower of Eyranas.
+
+You currently hold 325308 favor.
+
+sk turn
+fav
+turn z   reb
+You call out in the name of Eyranas and point at the 1st zombie.
+The zombie cowers from the sudden image of a white wolf.
+Turning the zombie cost you 1 favors.
+[5 sec. delay]
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Skill                Uses     Level
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Turn Undead           104      17
+
+
+You are a follower of Eyranas.
+
+You currently hold 325307 favor.
+
+sk Parry
+The 1st zombie claws at you, but you parry the blow with your beryl-hilted mother-of-pearl tipped rapier!
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Skill                Uses     Level
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Parry                 CAP      15
+
+
+sk turn
+fav
+turn z   reb
+You call out in the name of Eyranas and point at the 1st zombie.
+The zombie cowers from the sudden image of a white wolf.
+Turning the zombie cost you 1 favors.
+[5 sec. delay]
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Skill                Uses     Level
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Turn Undead           103      17
+
+
+You are a follower of Eyranas.
+
+You currently hold 325306 favor.
+
+You exert an additional 1 mana maintaining the Spiritual Splendor.
+
+sk Parry
+The 1st zombie bites at you, but you parry the blow with your beryl-hilted mother-of-pearl tipped rapier!
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Skill                Uses     Level
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Parry                 CAP      15
+
+
+sk turn
+fav
+turn z   reb
+You call out in the name of Eyranas and point at the 1st zombie.
+The zombie cowers from the sudden image of a white wolf.
+Turning the zombie cost you 1 favors.
+[5 sec. delay]
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Skill                Uses     Level
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Turn Undead           102      17
+
+
+You are a follower of Eyranas.
+
+You currently hold 325305 favor.
+
+sk turn
+fav
+turn z   reb
+You call out in the name of Eyranas and point at the 1st zombie.
+The zombie cowers from the sudden image of a white wolf.
+Turning the zombie cost you 1 favors.
+[5 sec. delay]
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Skill                Uses     Level
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Turn Undead           101      17
+
+
+You are a follower of Eyranas.
+
+You currently hold 325304 favor.
+
+sk turn
+fav
+turn z   reb
+You call out in the name of Eyranas and point at the 1st zombie.
+The zombie cowers from the sudden image of a white wolf.
+Turning the zombie cost you 1 favors.
+[5 sec. delay]
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Skill                Uses     Level
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Turn Undead           100      17
+
+
+You are a follower of Eyranas.
+
+You currently hold 325303 favor.
+
+You exert an additional 1 mana maintaining the Spiritual Splendor.
+
+sk Evade
+The 1st zombie bites at you, but you evade the strike!
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Skill                Uses     Level
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Evade                 275      18
+
+
+sk turn
+fav
+turn z   reb
+You call out in the name of Eyranas and point at the 1st zombie.
+The zombie cowers from the sudden image of a white wolf.
+Turning the zombie cost you 1 favors.
+[5 sec. delay]
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Skill                Uses     Level
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Turn Undead            99      17
+
+
+You are a follower of Eyranas.
+
+You currently hold 325302 favor.
+
+sk turn
+fav
+turn z   reb
+You call out in the name of Eyranas and point at the 1st zombie.
+The zombie cowers from the sudden image of a white wolf.
+Turning the zombie cost you 1 favors.
+[5 sec. delay]
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Skill                Uses     Level
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Turn Undead            98      17
+
+
+You are a follower of Eyranas.
+
+You currently hold 325301 favor.
+
+sk turn
+fav
+turn z   reb
+You call out in the name of Eyranas and point at the 1st zombie.
+The zombie cowers from the sudden image of a white wolf.
+Turning the zombie cost you 1 favors.
+[5 sec. delay]
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Skill                Uses     Level
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Turn Undead            97      17
+
+
+You are a follower of Eyranas.
+
+You currently hold 325300 favor.
+
+You exert an additional 1 mana maintaining the Spiritual Splendor.
+
+sk turn
+fav
+turn z   reb
+You call out in the name of Eyranas and point at the 1st zombie.
+The zombie cowers from the sudden image of a white wolf.
+Turning the zombie cost you 1 favors.
+[5 sec. delay]
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Skill                Uses     Level
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Turn Undead            96      17
+
+
+You are a follower of Eyranas.
+
+You currently hold 325299 favor.
+
+sk turn
+fav
+turn z   reb
+You call out in the name of Eyranas and point at the 1st zombie.
+The zombie cowers from the sudden image of a white wolf.
+Turning the zombie cost you 1 favors.
+[5 sec. delay]
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Skill                Uses     Level
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Turn Undead            95      17
+
+
+You are a follower of Eyranas.
+
+You currently hold 325298 favor.
+
+sk turn
+fav
+turn z   reb
+You call out in the name of Eyranas and point at the 1st zombie.
+The zombie cowers from the sudden image of a white wolf.
+Turning the zombie cost you 1 favors.
+[5 sec. delay]
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Skill                Uses     Level
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Turn Undead            94      17
+
+
+You are a follower of Eyranas.
+
+You currently hold 325297 favor.
+
+You exert an additional 1 mana maintaining the Spiritual Splendor.
+
+sk turn
+fav
+turn z   reb
+You call out in the name of Eyranas and point at the 1st zombie.
+The zombie cowers from the sudden image of a white wolf.
+Turning the zombie cost you 1 favors.
+[5 sec. delay]
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Skill                Uses     Level
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Turn Undead            93      17
+
+
+You are a follower of Eyranas.
+
+You currently hold 325296 favor.
+
+who
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+    Currently Connected
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+  Aegys Redbow
+  Aeron Delmar
+  Afti Sektah
+  Akhen Netan
+  Amarie Sourin
+  Anton Zimyani
+  Asher Leshrak
+  Eidag Alduam
+  Galen Marek
+  Gashashaslk Avane
+  Geza Slentik
+  Goro Dreadmouth
+  Harru Shadowstalker
+  Jaquellyn Rhiel
+  Kassi Boyd
+  Kurapiira Mako
+  Liria Damir
+  Liv Tarqel
+  Mardek Thanes
+  Primum Hherotes
+  Psyia Cass
+  Rane Valicet
+  Rigel Betelgeuze
+  Rukshana Qari
+  Salevos Fereni
+  Set Ungalithe
+  Sitias Delakor
+  Uthil Orletlarn
+  Varek Ardel
+  Vashane Nilan
+  Wirovel Sunnyfi
+
+    [31 total]
+
+sk turn
+fav
+turn z   reb
+You call out in the name of Eyranas and point at the 1st zombie.
+The zombie cowers from the sudden image of a white wolf.
+Turning the zombie cost you 1 favors.
+[5 sec. delay]
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Skill                Uses     Level
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Turn Undead            92      17
+
+
+You are a follower of Eyranas.
+
+You currently hold 325295 favor.
+
+sk turn
+fav
+turn z   reb
+You call out in the name of Eyranas and point at the 1st zombie.
+The zombie cowers from the sudden image of a white wolf.
+Turning the zombie cost you 1 favors.
+[5 sec. delay]
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Skill                Uses     Level
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Turn Undead            91      17
+
+
+You are a follower of Eyranas.
+
+You currently hold 325294 favor.
+
+You exert an additional 1 mana maintaining the Spiritual Splendor.
+
+sk turn
+fav
+turn z   reb
+You call out in the name of Eyranas and point at the 1st zombie.
+The zombie cowers from the sudden image of a white wolf.
+Turning the zombie cost you 1 favors.
+[5 sec. delay]
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Skill                Uses     Level
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Turn Undead            90      17
+
+
+You are a follower of Eyranas.
+
+You currently hold 325293 favor.
+
+sk Parry
+The 1st zombie bites at you, but you parry the blow with your beryl-hilted mother-of-pearl tipped rapier!
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Skill                Uses     Level
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Parry                 CAP      15
+
+
+sk turn
+fav
+turn z   reb
+You call out in the name of Eyranas and point at the 1st zombie.
+The zombie cowers from the sudden image of a white wolf.
+Turning the zombie cost you 1 favors.
+[5 sec. delay]
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Skill                Uses     Level
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Turn Undead            89      17
+
+
+You are a follower of Eyranas.
+
+You currently hold 325292 favor.
+
+You exert an additional 1 mana maintaining the Spiritual Splendor.
+
+sk turn
+fav
+turn z   reb
+You call out in the name of Eyranas and point at the 1st zombie.
+The zombie cowers from the sudden image of a white wolf.
+Turning the zombie cost you 1 favors.
+[5 sec. delay]
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Skill                Uses     Level
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Turn Undead            88      17
+
+
+You are a follower of Eyranas.
+
+You currently hold 325291 favor.
+
+A grave robber just entered from the east.
+
+sk turn
+fav
+turn z   reb
+You call out in the name of Eyranas and point at the 1st zombie.
+The zombie cowers from the sudden image of a white wolf.
+Turning the zombie cost you 1 favors.
+[5 sec. delay]
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Skill                Uses     Level
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Turn Undead            87      17
+
+
+You are a follower of Eyranas.
+
+You currently hold 325290 favor.
+
+sk turn
+fav
+turn z   reb
+You call out in the name of Eyranas and point at the 1st zombie.
+The zombie cowers from the sudden image of a white wolf.
+Turning the zombie cost you 1 favors.
+[5 sec. delay]
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Skill                Uses     Level
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Turn Undead            86      17
+
+
+You are a follower of Eyranas.
+
+You currently hold 325289 favor.
+
+You exert an additional 1 mana maintaining the Spiritual Splendor.
+
+sk turn
+fav
+turn z   reb
+You call out in the name of Eyranas and point at the 1st zombie.
+The zombie cowers from the sudden image of a white wolf.
+Turning the zombie cost you 1 favors.
+[5 sec. delay]
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Skill                Uses     Level
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Turn Undead            85      17
+
+
+You are a follower of Eyranas.
+
+You currently hold 325288 favor.
+
+sk turn
+fav
+turn z   reb
+You call out in the name of Eyranas and point at the 1st zombie.
+The zombie cowers from the sudden image of a white wolf.
+Turning the zombie cost you 1 favors.
+[5 sec. delay]
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Skill                Uses     Level
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Turn Undead            84      17
+
+
+You are a follower of Eyranas.
+
+You currently hold 325287 favor.
+
+The 1st zombie bites at you!
+It is a solid blow to your right leg!
+Your light irratacite chainmail absorbs all of the damage.
+h
+You take no damage!
+
+HP:  142/142  Ftg:  51/51  MP:  81/81
+
+
+sk turn
+fav
+turn z   reb
+You call out in the name of Eyranas and point at the 1st zombie.
+The zombie cowers from the sudden image of a white wolf.
+Turning the zombie cost you 1 favors.
+[5 sec. delay]
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Skill                Uses     Level
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Turn Undead            83      17
+
+
+You are a follower of Eyranas.
+
+You currently hold 325286 favor.
+
+You exert an additional 1 mana maintaining the Spiritual Splendor.
+
+sk turn
+fav
+turn z   reb
+You call out in the name of Eyranas and point at the 1st zombie.
+The zombie cowers from the sudden image of a white wolf.
+Turning the zombie cost you 1 favors.
+[5 sec. delay]
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Skill                Uses     Level
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Turn Undead            82      17
+
+
+You are a follower of Eyranas.
+
+You currently hold 325285 favor.
+
+The 1st zombie claws at you!
+It is a solid blow to your head!
+Your light irratacite chainmail absorbs some of the damage.
+h
+You take 3 damage!
+
+HP:  139/142  Ftg:  49/51  MP:  81/81
+
+
+sk turn
+fav
+turn z   reb
+You call out in the name of Eyranas and point at the 1st zombie.
+The zombie cowers from the sudden image of a white wolf.
+Turning the zombie cost you 1 favors.
+[5 sec. delay]
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Skill                Uses     Level
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Turn Undead            81      17
+
+
+You are a follower of Eyranas.
+
+You currently hold 325284 favor.
+
+sk turn
+fav
+turn z   reb
+You call out in the name of Eyranas and point at the 1st zombie.
+The zombie cowers from the sudden image of a white wolf.
+Turning the zombie cost you 1 favors.
+[5 sec. delay]
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Skill                Uses     Level
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Turn Undead            80      17
+
+
+You are a follower of Eyranas.
+
+You currently hold 325283 favor.
+
+You exert an additional 1 mana maintaining the Spiritual Splendor.
+
+sk turn
+fav
+turn z   reb
+You call out in the name of Eyranas and point at the 1st zombie.
+The zombie cowers from the sudden image of a white wolf.
+Turning the zombie cost you 1 favors.
+[5 sec. delay]
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Skill                Uses     Level
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Turn Undead            79      17
+
+
+You are a follower of Eyranas.
+
+You currently hold 325282 favor.
+
+sk turn
+fav
+turn z   reb
+You call out in the name of Eyranas and point at the 1st zombie.
+The zombie cowers from the sudden image of a white wolf.
+Turning the zombie cost you 1 favors.
+[5 sec. delay]
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Skill                Uses     Level
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Turn Undead            78      17
+
+
+You are a follower of Eyranas.
+
+You currently hold 325281 favor.
+
+sk turn
+fav
+turn z   reb
+You call out in the name of Eyranas and point at the 1st zombie.
+The zombie cowers from the sudden image of a white wolf.
+Turning the zombie cost you 2 favors.
+[5 sec. delay]
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Skill                Uses     Level
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Turn Undead            77      17
+
+
+You are a follower of Eyranas.
+
+You currently hold 325279 favor.
+
+You exert an additional 1 mana maintaining the Spiritual Splendor.
+
+The holy light around you fades softly away.
+
+sk turn
+fav
+turn z   reb
+You call out in the name of Eyranas and point at the 1st zombie.
+The zombie cowers from the sudden image of a white wolf.
+Turning the zombie cost you 2 favors.
+[5 sec. delay]
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Skill                Uses     Level
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Turn Undead            76      17
+
+
+You are a follower of Eyranas.
+
+You currently hold 325277 favor.
+
+sk turn
+fav
+turn z   reb
+You call out in the name of Eyranas and point at the 1st zombie.
+The zombie cowers from the sudden image of a white wolf.
+Turning the zombie cost you 2 favors.
+[5 sec. delay]
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Skill                Uses     Level
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Turn Undead            75      17
+
+
+You are a follower of Eyranas.
+
+You currently hold 325275 favor.
+
+sk turn
+fav
+turn z   reb
+You call out in the name of Eyranas and point at the 1st zombie.
+The zombie cowers from the sudden image of a white wolf.
+Turning the zombie cost you 2 favors.
+[5 sec. delay]
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Skill                Uses     Level
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Turn Undead            74      17
+
+
+You are a follower of Eyranas.
+
+You currently hold 325273 favor.
+
+invo 15 z 
+sk turn
+fav
+turn z   reb
+You call out in the name of Eyranas and point at the 1st zombie.
+The zombie cowers from the sudden image of a white wolf.
+Turning the zombie cost you 2 favors.
+[5 sec. delay]
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Skill                Uses     Level
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Turn Undead            73      17
+
+
+You are a follower of Eyranas.
+
+You currently hold 325271 favor.
+
+You raise one hand towards the heavens as a direct ray of light shines down from above upon it.
+h
+Invoking this spell cost you 5 mana.
+[4 sec. delay]
+
+HP:  142/142  Ftg:  49/51  MP:  76/81
+
+
+You extend your other hand towards the zombie and a surge of blinding light rushes out to envelop it.
+
+sk Parry
+The 1st zombie bites at you, but you parry the blow with your beryl-hilted mother-of-pearl tipped rapier!
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Skill                Uses     Level
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Parry                 CAP      15
+
+
+sk turn
+fav
+turn z   reb
+You call out in the name of Eyranas and point at the 1st zombie.
+The zombie cowers from the sudden image of a white wolf.
+Turning the zombie cost you 1 favors.
+[5 sec. delay]
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Skill                Uses     Level
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Turn Undead            72      17
+
+
+You are a follower of Eyranas.
+
+You currently hold 325270 favor.
+
+sk turn
+fav
+turn z   reb
+You call out in the name of Eyranas and point at the 1st zombie.
+The zombie cowers from the sudden image of a white wolf.
+Turning the zombie cost you 1 favors.
+[5 sec. delay]
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Skill                Uses     Level
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Turn Undead            71      17
+
+
+You are a follower of Eyranas.
+
+You currently hold 325269 favor.
+
+sk turn
+fav
+turn z   reb
+You call out in the name of Eyranas and point at the 1st zombie.
+The zombie cowers from the sudden image of a white wolf.
+Turning the zombie cost you 1 favors.
+[5 sec. delay]
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Skill                Uses     Level
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Turn Undead            70      17
+
+
+You are a follower of Eyranas.
+
+You currently hold 325268 favor.
+
+sk turn
+fav
+turn z   reb
+You call out in the name of Eyranas and point at the 1st zombie.
+The zombie cowers from the sudden image of a white wolf.
+Turning the zombie cost you 1 favors.
+[5 sec. delay]
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Skill                Uses     Level
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Turn Undead            69      17
+
+
+You are a follower of Eyranas.
+
+You currently hold 325267 favor.
+
+The 1st zombie bites at you!
+It is a solid blow to your right arm!
+Your light irratacite chainmail absorbs some of the damage.
+h
+You take 4 damage!
+
+HP:  138/142  Ftg:  50/51  MP:  81/81
+
+
+sk turn
+fav
+turn z   reb
+You call out in the name of Eyranas and point at the 1st zombie.
+The zombie cowers from the sudden image of a white wolf.
+Turning the zombie cost you 1 favors.
+[5 sec. delay]
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Skill                Uses     Level
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Turn Undead            68      17
+
+
+You are a follower of Eyranas.
+
+You currently hold 325266 favor.
+
+sk Evade
+The 1st zombie bites at you, but you evade the strike!
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Skill                Uses     Level
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Evade                 274      18
+
+
+sk turn
+fav
+turn z   reb
+You call out in the name of Eyranas and point at the 1st zombie.
+The zombie cowers from the sudden image of a white wolf.
+Turning the zombie cost you 1 favors.
+[5 sec. delay]
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Skill                Uses     Level
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Turn Undead            67      17
+
+
+You are a follower of Eyranas.
+
+You currently hold 325265 favor.
+
+sk turn
+fav
+turn z   reb
+You call out in the name of Eyranas and point at the 1st zombie.
+The zombie cowers from the sudden image of a white wolf.
+Turning the zombie cost you 1 favors.
+[5 sec. delay]
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Skill                Uses     Level
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Turn Undead            66      17
+
+
+You are a follower of Eyranas.
+
+You currently hold 325264 favor.
+
+sk Evade
+The 1st zombie bites at you, but you evade the strike!
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Skill                Uses     Level
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Evade                 273      18
+
+
+sk turn
+fav
+turn z   reb
+You call out in the name of Eyranas and point at the 1st zombie.
+The zombie cowers from the sudden image of a white wolf.
+Turning the zombie cost you 1 favors.
+[5 sec. delay]
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Skill                Uses     Level
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Turn Undead            65      17
+
+
+You are a follower of Eyranas.
+
+You currently hold 325263 favor.
+
+sk turn
+fav
+turn z   reb
+You call out in the name of Eyranas and point at the 1st zombie.
+The zombie cowers from the sudden image of a white wolf.
+Turning the zombie cost you 1 favors.
+[5 sec. delay]
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Skill                Uses     Level
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Turn Undead            64      17
+
+
+You are a follower of Eyranas.
+
+You currently hold 325262 favor.
+
+sk turn
+fav
+turn z   reb
+You call out in the name of Eyranas and point at the 1st zombie.
+The zombie cowers from the sudden image of a white wolf.
+Turning the zombie cost you 1 favors.
+[5 sec. delay]
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Skill                Uses     Level
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Turn Undead            63      17
+
+
+You are a follower of Eyranas.
+
+You currently hold 325261 favor.
+
+sk turn
+fav
+turn z   reb
+You call out in the name of Eyranas and point at the 1st zombie.
+The zombie cowers from the sudden image of a white wolf.
+Turning the zombie cost you 1 favors.
+[5 sec. delay]
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Skill                Uses     Level
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Turn Undead            62      17
+
+
+You are a follower of Eyranas.
+
+You currently hold 325260 favor.
+
+sk turn
+fav
+turn z   reb
+You call out in the name of Eyranas and point at the 1st zombie.
+The zombie cowers from the sudden image of a white wolf.
+Turning the zombie cost you 1 favors.
+[5 sec. delay]
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Skill                Uses     Level
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Turn Undead            61      17
+
+
+You are a follower of Eyranas.
+
+You currently hold 325259 favor.
+
+The 1st zombie claws at you!
+It is a solid blow to your right arm!
+Your light irratacite chainmail absorbs some of the damage.
+h
+You take 4 damage!
+
+HP:  138/142  Ftg:  51/51  MP:  81/81
+
+
+sk turn
+fav
+turn z   reb
+You call out in the name of Eyranas and point at the 1st zombie.
+The zombie cowers from the sudden image of a white wolf.
+Turning the zombie cost you 1 favors.
+[5 sec. delay]
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Skill                Uses     Level
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Turn Undead            60      17
+
+
+You are a follower of Eyranas.
+
+You currently hold 325258 favor.
+
+sk turn
+fav
+turn z   reb
+You call out in the name of Eyranas and point at the 1st zombie.
+The zombie cowers from the sudden image of a white wolf.
+Turning the zombie cost you 1 favors.
+[5 sec. delay]
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Skill                Uses     Level
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Turn Undead            59      17
+
+
+You are a follower of Eyranas.
+
+You currently hold 325257 favor.
+
+sk turn
+fav
+turn z   reb
+You call out in the name of Eyranas and point at the 1st zombie.
+The zombie cowers from the sudden image of a white wolf.
+Turning the zombie cost you 1 favors.
+[5 sec. delay]
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Skill                Uses     Level
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Turn Undead            58      17
+
+
+You are a follower of Eyranas.
+
+You currently hold 325256 favor.
+
+sk turn
+fav
+turn z   reb
+You call out in the name of Eyranas and point at the 1st zombie.
+The zombie cowers from the sudden image of a white wolf.
+Turning the zombie cost you 1 favors.
+[5 sec. delay]
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Skill                Uses     Level
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Turn Undead            57      17
+
+
+You are a follower of Eyranas.
+
+You currently hold 325255 favor.
+
+sk turn
+fav
+turn z   reb
+You call out in the name of Eyranas and point at the 1st zombie.
+The zombie cowers from the sudden image of a white wolf.
+Turning the zombie cost you 1 favors.
+[5 sec. delay]
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Skill                Uses     Level
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Turn Undead            56      17
+
+
+You are a follower of Eyranas.
+
+You currently hold 325254 favor.
+
+sk turn
+fav
+turn z   reb
+You call out in the name of Eyranas and point at the 1st zombie.
+The zombie cowers from the sudden image of a white wolf.
+Turning the zombie cost you 1 favors.
+[5 sec. delay]
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Skill                Uses     Level
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Turn Undead            55      17
+
+
+You are a follower of Eyranas.
+
+You currently hold 325253 favor.
+
+A zombie just entered the room 2 units in front of you.
+
+sk turn
+fav
+turn z   reb
+You call out in the name of Eyranas and point at the 1st zombie.
+The zombie cowers from the sudden image of a white wolf.
+Turning the zombie cost you 1 favors.
+[5 sec. delay]
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Skill                Uses     Level
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Turn Undead            54      17
+
+
+You are a follower of Eyranas.
+
+You currently hold 325252 favor.
+
+The 2nd zombie advances towards you.
+
+sk turn
+fav
+turn z   reb
+You call out in the name of Eyranas and point at the 1st zombie.
+The zombie cowers from the sudden image of a white wolf.
+Turning the zombie cost you 1 favors.
+[5 sec. delay]
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Skill                Uses     Level
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Turn Undead            53      17
+
+
+You are a follower of Eyranas.
+
+You currently hold 325251 favor.
+
+The 1st grave robber just wandered east.
+
+sk Parry
+The 2nd zombie bites at you, but you parry the blow with your beryl-hilted mother-of-pearl tipped rapier!
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Skill                Uses     Level
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Parry                 CAP      15
+
+
+sk turn
+fav
+turn z   reb
+You call out in the name of Eyranas and point at the 1st zombie.
+The zombie cowers from the sudden image of a white wolf.
+Turning the zombie cost you 1 favors.
+[5 sec. delay]
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Skill                Uses     Level
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Turn Undead            52      17
+
+
+You are a follower of Eyranas.
+
+You currently hold 325250 favor.
+
+sk Parry
+The 2nd zombie claws at you, but you parry the blow with your beryl-hilted mother-of-pearl tipped rapier!
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Skill                Uses     Level
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Parry                 CAP      15
+
+
+sk turn
+fav
+turn z   reb
+You call out in the name of Eyranas and point at the 1st zombie.
+The zombie cowers from the sudden image of a white wolf.
+Turning the zombie cost you 1 favors.
+[5 sec. delay]
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Skill                Uses     Level
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Turn Undead            51      17
+
+
+You are a follower of Eyranas.
+
+You currently hold 325249 favor.
+
+sk Evade
+The 1st zombie claws at you, but you evade the strike!
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Skill                Uses     Level
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Evade                 272      18
+
+
+sk turn
+fav
+turn z   reb
+You call out in the name of Eyranas and point at the 1st zombie.
+The zombie cowers from the sudden image of a white wolf.
+Turning the zombie cost you 1 favors.
+[5 sec. delay]
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Skill                Uses     Level
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Turn Undead            50      17
+
+
+You are a follower of Eyranas.
+
+You currently hold 325248 favor.
+
+Your phosphorescent mossy geode flickers for a few moments.
+
+sk Parry
+The 2nd zombie bites at you, but you parry the blow with your beryl-hilted mother-of-pearl tipped rapier!
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Skill                Uses     Level
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Parry                 CAP      15
+
+
+sk turn
+fav
+turn z   reb
+You call out in the name of Eyranas and point at the 1st zombie.
+The zombie cowers from the sudden image of a white wolf.
+Turning the zombie cost you 1 favors.
+[5 sec. delay]
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Skill                Uses     Level
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Turn Undead            49      17
+
+
+You are a follower of Eyranas.
+
+You currently hold 325247 favor.
+
+sk Evade
+The 2nd zombie claws at you, but you evade the strike!
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Skill                Uses     Level
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Evade                 271      18
+
+
+sk turn
+fav
+turn z   reb
+You call out in the name of Eyranas and point at the 1st zombie.
+The zombie cowers from the sudden image of a white wolf.
+Turning the zombie cost you 1 favors.
+[5 sec. delay]
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Skill                Uses     Level
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Turn Undead            48      17
+
+
+You are a follower of Eyranas.
+
+You currently hold 325246 favor.
+
+sk Evade
+The 2nd zombie claws at you, but you evade the strike!
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Skill                Uses     Level
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Evade                 270      18
+
+
+sk turn
+fav
+turn z   reb
+You call out in the name of Eyranas and point at the 1st zombie.
+The zombie cowers from the sudden image of a white wolf.
+Turning the zombie cost you 1 favors.
+[5 sec. delay]
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Skill                Uses     Level
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Turn Undead            47      17
+
+
+You are a follower of Eyranas.
+
+You currently hold 325245 favor.
+
+sk Evade
+The 2nd zombie bites at you, but you evade the strike!
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Skill                Uses     Level
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Evade                 269      18
+
+
+sk turn
+fav
+turn z   reb
+You call out in the name of Eyranas and point at the 1st zombie.
+The zombie cowers from the sudden image of a white wolf.
+Turning the zombie cost you 1 favors.
+[5 sec. delay]
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Skill                Uses     Level
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Turn Undead            46      17
+
+
+You are a follower of Eyranas.
+
+You currently hold 325244 favor.
+
+sk Parry
+The 2nd zombie claws at you, but you parry the blow with your beryl-hilted mother-of-pearl tipped rapier!
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Skill                Uses     Level
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Parry                 CAP      15
+
+
+sk turn
+fav
+turn z   reb
+You call out in the name of Eyranas and point at the 1st zombie.
+The zombie cowers from the sudden image of a white wolf.
+Turning the zombie cost you 1 favors.
+[5 sec. delay]
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Skill                Uses     Level
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Turn Undead            45      17
+
+
+You are a follower of Eyranas.
+
+You currently hold 325243 favor.
+
+sk turn
+fav
+turn z   reb
+You call out in the name of Eyranas and point at the 1st zombie.
+The zombie cowers from the sudden image of a white wolf.
+Turning the zombie cost you 1 favors.
+[5 sec. delay]
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Skill                Uses     Level
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Turn Undead            44      17
+
+
+You are a follower of Eyranas.
+
+You currently hold 325242 favor.
+
+sk Evade
+The 2nd zombie bites at you, but you evade the strike!
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Skill                Uses     Level
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Evade                 268      18
+
+
+sk Parry
+The 1st zombie bites at you, but you parry the blow with your beryl-hilted mother-of-pearl tipped rapier!
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Skill                Uses     Level
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Parry                 CAP      15
+
+
+sk turn
+fav
+turn z   reb
+You call out in the name of Eyranas and point at the 1st zombie.
+The zombie cowers from the sudden image of a white wolf.
+Turning the zombie cost you 1 favors.
+[5 sec. delay]
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Skill                Uses     Level
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Turn Undead            43      17
+
+
+You are a follower of Eyranas.
+
+You currently hold 325241 favor.
+
+sk Evade
+The 2nd zombie bites at you, but you evade the strike!
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Skill                Uses     Level
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Evade                 267      18
+
+
+sk turn
+fav
+turn z   reb
+You call out in the name of Eyranas and point at the 1st zombie.
+The zombie cowers from the sudden image of a white wolf.
+Turning the zombie cost you 1 favors.
+[5 sec. delay]
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Skill                Uses     Level
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Turn Undead            42      17
+
+
+You are a follower of Eyranas.
+
+You currently hold 325240 favor.
+
+The 2nd zombie claws at you!
+It is a solid blow to your right leg!
+Your light irratacite chainmail absorbs some of the damage.
+h
+You take 1 damage!
+
+HP:  141/142  Ftg:  51/51  MP:  81/81
+
+
+sk turn
+fav
+turn z   reb
+You call out in the name of Eyranas and point at the 1st zombie.
+The zombie cowers from the sudden image of a white wolf.
+Turning the zombie cost you 1 favors.
+[5 sec. delay]
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Skill                Uses     Level
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Turn Undead            41      17
+
+
+You are a follower of Eyranas.
+
+You currently hold 325239 favor.
+
+sk Parry
+The 2nd zombie claws at you, but you parry the blow with your beryl-hilted mother-of-pearl tipped rapier!
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Skill                Uses     Level
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Parry                 CAP      15
+
+
+sk turn
+fav
+turn z   reb
+You call out in the name of Eyranas and point at the 1st zombie.
+The zombie cowers from the sudden image of a white wolf.
+Turning the zombie cost you 1 favors.
+[5 sec. delay]
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Skill                Uses     Level
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Turn Undead            40      17
+
+
+You are a follower of Eyranas.
+
+You currently hold 325238 favor.
+
+sk Parry
+The 2nd zombie claws at you, but you parry the blow with your beryl-hilted mother-of-pearl tipped rapier!
+
+sk turn
+fav
+turn z   reb
+You call out in the name of Eyranas and point at the 1st zombie.
+The zombie cowers from the sudden image of a white wolf.
+Turning the zombie cost you 1 favors.
+[5 sec. delay]
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Skill                Uses     Level
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Parry                 CAP      15
+
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Skill                Uses     Level
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Turn Undead            39      17
+
+
+You are a follower of Eyranas.
+
+You currently hold 325237 favor.
+
+sk Evade
+The 1st zombie bites at you, but you evade the strike!
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Skill                Uses     Level
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Evade                 266      18
+
+
+sk turn
+fav
+turn z   reb
+You call out in the name of Eyranas and point at the 1st zombie.
+The zombie cowers from the sudden image of a white wolf.
+Turning the zombie cost you 1 favors.
+[5 sec. delay]
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Skill                Uses     Level
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Turn Undead            38      17
+
+
+You are a follower of Eyranas.
+
+You currently hold 325236 favor.
+
+ ** Rukshana Qari just left the world.
+
+sk Parry
+The 2nd zombie claws at you, but you parry the blow with your beryl-hilted mother-of-pearl tipped rapier!
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Skill                Uses     Level
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Parry                 CAP      15
+
+
+sk turn
+fav
+turn z   reb
+You call out in the name of Eyranas and point at the 1st zombie.
+The zombie cowers from the sudden image of a white wolf.
+Turning the zombie cost you 1 favors.
+[5 sec. delay]
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Skill                Uses     Level
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Turn Undead            37      17
+
+
+You are a follower of Eyranas.
+
+You currently hold 325235 favor.
+
+sk Parry
+The 2nd zombie bites at you, but you parry the blow with your beryl-hilted mother-of-pearl tipped rapier!
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Skill                Uses     Level
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Parry                 CAP      15
+
+
+sk turn
+fav
+turn z   reb
+You call out in the name of Eyranas and point at the 1st zombie.
+The zombie cowers from the sudden image of a white wolf.
+Turning the zombie cost you 1 favors.
+[5 sec. delay]
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Skill                Uses     Level
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Turn Undead            36      17
+
+
+You are a follower of Eyranas.
+
+You currently hold 325234 favor.
+
+sk Evade
+The 2nd zombie claws at you, but you evade the strike!
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Skill                Uses     Level
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Evade                 265      18
+
+
+The 1st zombie claws at you!
+It is a solid blow to your left arm!
+Your light irratacite chainmail absorbs some of the damage.
+h
+You take 2 damage!
+
+HP:  140/142  Ftg:  50/51  MP:  81/81
+
+
+sk turn
+fav
+turn z   reb
+You call out in the name of Eyranas and point at the 1st zombie.
+The zombie cowers from the sudden image of a white wolf.
+Turning the zombie cost you 1 favors.
+[5 sec. delay]
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Skill                Uses     Level
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Turn Undead            35      17
+
+
+You are a follower of Eyranas.
+
+You currently hold 325233 favor.
+
+sk Parry
+The 2nd zombie claws at you, but you parry the blow with your beryl-hilted mother-of-pearl tipped rapier!
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Skill                Uses     Level
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Parry                 CAP      15
+
+
+sk turn
+fav
+turn z   reb
+You call out in the name of Eyranas and point at the 1st zombie.
+The zombie cowers from the sudden image of a white wolf.
+Turning the zombie cost you 1 favors.
+[5 sec. delay]
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Skill                Uses     Level
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Turn Undead            34      17
+
+
+You are a follower of Eyranas.
+
+You currently hold 325232 favor.
+
+The 2nd zombie bites at you!
+It is a solid blow to your left leg!
+Your light irratacite chainmail absorbs some of the damage.
+h
+You take 2 damage!
+
+HP:  138/142  Ftg:  51/51  MP:  81/81
+
+
+sk turn
+fav
+turn z   reb
+You call out in the name of Eyranas and point at the 1st zombie.
+The zombie cowers from the sudden image of a white wolf.
+Turning the zombie cost you 1 favors.
+[5 sec. delay]
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Skill                Uses     Level
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Turn Undead            33      17
+
+
+You are a follower of Eyranas.
+
+You currently hold 325231 favor.
+
+sk turn
+fav
+turn z   reb
+You call out in the name of Eyranas and point at the 1st zombie.
+The zombie cowers from the sudden image of a white wolf.
+Turning the zombie cost you 1 favors.
+[5 sec. delay]
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Skill                Uses     Level
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Turn Undead            32      17
+
+
+You are a follower of Eyranas.
+
+You currently hold 325230 favor.
+
+sk Parry
+The 2nd zombie bites at you, but you parry the blow with your beryl-hilted mother-of-pearl tipped rapier!
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Skill                Uses     Level
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Parry                 CAP      15
+
+
+sk turn
+fav
+turn z   reb
+You call out in the name of Eyranas and point at the 1st zombie.
+The zombie cowers from the sudden image of a white wolf.
+Turning the zombie cost you 1 favors.
+[5 sec. delay]
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Skill                Uses     Level
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Turn Undead            31      17
+
+
+You are a follower of Eyranas.
+
+You currently hold 325229 favor.
+
+sk Parry
+The 2nd zombie bites at you, but you parry the blow with your beryl-hilted mother-of-pearl tipped rapier!
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Skill                Uses     Level
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Parry                 CAP      15
+
+
+sk turn
+fav
+turn z   reb
+You call out in the name of Eyranas and point at the 1st zombie.
+The zombie cowers from the sudden image of a white wolf.
+Turning the zombie cost you 1 favors.
+[5 sec. delay]
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Skill                Uses     Level
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Turn Undead            30      17
+
+
+You are a follower of Eyranas.
+
+You currently hold 325228 favor.
+
+sk Parry
+The 2nd zombie claws at you, but you parry the blow with your beryl-hilted mother-of-pearl tipped rapier!
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Skill                Uses     Level
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Parry                 CAP      15
+
+
+sk turn
+fav
+turn z   reb
+You call out in the name of Eyranas and point at the 1st zombie.
+The zombie cowers from the sudden image of a white wolf.
+Turning the zombie cost you 1 favors.
+[5 sec. delay]
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Skill                Uses     Level
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Turn Undead            29      17
+
+
+You are a follower of Eyranas.
+
+You currently hold 325227 favor.
+
+sk Parry
+The 2nd zombie bites at you, but you parry the blow with your beryl-hilted mother-of-pearl tipped rapier!
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Skill                Uses     Level
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Parry                 CAP      15
+
+
+sk turn
+fav
+turn z   reb
+You call out in the name of Eyranas and point at the 1st zombie.
+The zombie cowers from the sudden image of a white wolf.
+Turning the zombie cost you 1 favors.
+[5 sec. delay]
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Skill                Uses     Level
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Turn Undead            28      17
+
+
+You are a follower of Eyranas.
+
+You currently hold 325226 favor.
+
+sk Evade
+The 1st zombie bites at you, but you evade the strike!
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Skill                Uses     Level
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Evade                 264      18
+
+
+The 2nd zombie bites at you!
+It is a solid blow to your left leg!
+Your light irratacite chainmail absorbs all of the damage.
+h
+You take no damage!
+
+sk turn
+fav
+turn z   reb
+You call out in the name of Eyranas and point at the 1st zombie.
+The zombie cowers from the sudden image of a white wolf.
+Turning the zombie cost you 1 favors.
+[5 sec. delay]
+
+HP:  141/142  Ftg:  51/51  MP:  81/81
+
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Skill                Uses     Level
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Turn Undead            27      17
+
+
+You are a follower of Eyranas.
+
+You currently hold 325225 favor.
+
+The 1st zombie claws at you!
+It is a solid blow to your left arm!
+Your light irratacite chainmail absorbs some of the damage.
+h
+You take 4 damage!
+
+HP:  137/142  Ftg:  50/51  MP:  81/81
+
+
+sk turn
+fav
+turn z   reb
+You call out in the name of Eyranas and point at the 1st zombie.
+The zombie cowers from the sudden image of a white wolf.
+Turning the zombie cost you 1 favors.
+[5 sec. delay]
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Skill                Uses     Level
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Turn Undead            26      17
+
+
+You are a follower of Eyranas.
+
+You currently hold 325224 favor.
+
+sk Parry
+The 2nd zombie claws at you, but you parry the blow with your beryl-hilted mother-of-pearl tipped rapier!
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Skill                Uses     Level
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Parry                 CAP      15
+
+
+sk turn
+fav
+turn z   reb
+You call out in the name of Eyranas and point at the 1st zombie.
+The zombie cowers from the sudden image of a white wolf.
+Turning the zombie cost you 1 favors.
+[5 sec. delay]
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Skill                Uses     Level
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Turn Undead            25      17
+
+
+You are a follower of Eyranas.
+
+You currently hold 325223 favor.
+
+sk Parry
+The 2nd zombie bites at you, but you parry the blow with your beryl-hilted mother-of-pearl tipped rapier!
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Skill                Uses     Level
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Parry                 CAP      15
+
+
+sk turn
+fav
+turn z   reb
+You call out in the name of Eyranas and point at the 1st zombie.
+The zombie cowers from the sudden image of a white wolf.
+Turning the zombie cost you 1 favors.
+[5 sec. delay]
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Skill                Uses     Level
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Turn Undead            24      17
+
+
+You are a follower of Eyranas.
+
+You currently hold 325222 favor.
+
+The 2nd zombie bites at you!
+It is a solid blow to your left arm!
+Your light irratacite chainmail absorbs some of the damage.
+h
+You take 4 damage!
+
+HP:  136/142  Ftg:  51/51  MP:  81/81
+
+
+sk Parry
+The 1st zombie bites at you, but you parry the blow with your beryl-hilted mother-of-pearl tipped rapier!
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Skill                Uses     Level
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Parry                 CAP      15
+
+
+sk turn
+fav
+turn z   reb
+You call out in the name of Eyranas and point at the 1st zombie.
+The zombie cowers from the sudden image of a white wolf.
+Turning the zombie cost you 1 favors.
+[5 sec. delay]
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Skill                Uses     Level
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Turn Undead            23      17
+
+
+You are a follower of Eyranas.
+
+You currently hold 325221 favor.
+
+sk Evade
+The 2nd zombie claws at you, but you evade the strike!
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Skill                Uses     Level
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Evade                 263      18
+
+
+sk turn
+fav
+turn z   reb
+You call out in the name of Eyranas and point at the 1st zombie.
+The zombie cowers from the sudden image of a white wolf.
+Turning the zombie cost you 1 favors.
+[5 sec. delay]
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Skill                Uses     Level
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Turn Undead            22      17
+
+
+You are a follower of Eyranas.
+
+You currently hold 325220 favor.
+
+The 2nd zombie bites at you!
+It is a solid blow to your torso!
+Your light irratacite chainmail absorbs some of the damage.
+h
+You take 3 damage!
+
+HP:  133/142  Ftg:  51/51  MP:  81/81
+
+
+sk turn
+fav
+turn z   reb
+You call out in the name of Eyranas and point at the 1st zombie.
+The zombie cowers from the sudden image of a white wolf.
+Turning the zombie cost you 1 favors.
+[5 sec. delay]
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Skill                Uses     Level
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Turn Undead            21      17
+
+
+You are a follower of Eyranas.
+
+You currently hold 325219 favor.
+
+sk turn
+fav
+turn z   reb
+You call out in the name of Eyranas and point at the 1st zombie.
+The zombie cowers from the sudden image of a white wolf.
+Turning the zombie cost you 1 favors.
+[5 sec. delay]
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Skill                Uses     Level
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Turn Undead            20      17
+
+
+You are a follower of Eyranas.
+
+You currently hold 325218 favor.
+
+sk Evade
+The 2nd zombie bites at you, but you evade the strike!
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Skill                Uses     Level
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Evade                 262      18
+
+
+sk turn
+fav
+turn z   reb
+You call out in the name of Eyranas and point at the 1st zombie.
+The zombie cowers from the sudden image of a white wolf.
+Turning the zombie cost you 1 favors.
+[5 sec. delay]
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Skill                Uses     Level
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Turn Undead            19      17
+
+
+You are a follower of Eyranas.
+
+You currently hold 325217 favor.
+
+sk Parry
+The 2nd zombie bites at you, but you parry the blow with your beryl-hilted mother-of-pearl tipped rapier!
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Skill                Uses     Level
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Parry                 CAP      15
+
+
+sk turn
+fav
+turn z   reb
+You call out in the name of Eyranas and point at the 1st zombie.
+The zombie cowers from the sudden image of a white wolf.
+Turning the zombie cost you 1 favors.
+[5 sec. delay]
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Skill                Uses     Level
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Turn Undead            18      17
+
+
+You are a follower of Eyranas.
+
+You currently hold 325216 favor.
+
+sk Evade
+The 2nd zombie claws at you, but you evade the strike!
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Skill                Uses     Level
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Evade                 261      18
+
+
+The 1st zombie bites at you!
+It is a solid blow to your left leg!
+Your light irratacite chainmail absorbs some of the damage.
+h
+You take 4 damage!
+
+HP:  132/142  Ftg:  50/51  MP:  81/81
+
+
+sk turn
+fav
+turn z   reb
+You call out in the name of Eyranas and point at the 1st zombie.
+The zombie cowers from the sudden image of a white wolf.
+Turning the zombie cost you 1 favors.
+[5 sec. delay]
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Skill                Uses     Level
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Turn Undead            17      17
+
+
+You are a follower of Eyranas.
+
+You currently hold 325215 favor.
+
+sk Parry
+The 2nd zombie bites at you, but you parry the blow with your beryl-hilted mother-of-pearl tipped rapier!
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Skill                Uses     Level
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Parry                 CAP      15
+
+
+sk turn
+fav
+turn z   reb
+You call out in the name of Eyranas and point at the 1st zombie.
+The zombie cowers from the sudden image of a white wolf.
+Turning the zombie cost you 1 favors.
+[5 sec. delay]
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Skill                Uses     Level
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Turn Undead            16      17
+
+
+You are a follower of Eyranas.
+
+You currently hold 325214 favor.
+
+sk Evade
+The 2nd zombie claws at you, but you evade the strike!
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Skill                Uses     Level
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Evade                 260      18
+
+
+sk turn
+fav
+turn z   reb
+You call out in the name of Eyranas and point at the 1st zombie.
+The zombie cowers from the sudden image of a white wolf.
+Turning the zombie cost you 1 favors.
+[5 sec. delay]
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Skill                Uses     Level
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Turn Undead            15      17
+
+
+You are a follower of Eyranas.
+
+You currently hold 325213 favor.
+
+sk Parry
+The 1st zombie bites at you, but you parry the blow with your beryl-hilted mother-of-pearl tipped rapier!
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Skill                Uses     Level
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Parry                 CAP      15
+
+
+sk turn
+fav
+turn z   reb
+You call out in the name of Eyranas and point at the 1st zombie.
+The zombie cowers from the sudden image of a white wolf.
+Turning the zombie cost you 1 favors.
+[5 sec. delay]
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Skill                Uses     Level
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Turn Undead            14      17
+
+
+You are a follower of Eyranas.
+
+You currently hold 325212 favor.
+
+The 2nd zombie bites at you!
+It is a solid blow to your left leg!
+Your light irratacite chainmail absorbs all of the damage.
+h
+You take no damage!
+
+HP:  132/142  Ftg:  50/51  MP:  81/81
+
+
+sk turn
+fav
+turn z   reb
+You call out in the name of Eyranas and point at the 1st zombie.
+The zombie cowers from the sudden image of a white wolf.
+Turning the zombie cost you 1 favors.
+[5 sec. delay]
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Skill                Uses     Level
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Turn Undead            13      17
+
+
+You are a follower of Eyranas.
+
+You currently hold 325211 favor.
+
+sk Parry
+The 2nd zombie bites at you, but you parry the blow with your beryl-hilted mother-of-pearl tipped rapier!
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Skill                Uses     Level
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Parry                 CAP      15
+
+
+sk Evade
+The 1st zombie claws at you, but you evade the strike!
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Skill                Uses     Level
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Evade                 259      18
+
+
+sk turn
+fav
+turn z   reb
+You call out in the name of Eyranas and point at the 1st zombie.
+The zombie cowers from the sudden image of a white wolf.
+Turning the zombie cost you 1 favors.
+[5 sec. delay]
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Skill                Uses     Level
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Turn Undead            12      17
+
+
+You are a follower of Eyranas.
+
+You currently hold 325210 favor.
+
+The 2nd zombie bites at you!
+It is a solid blow to your left leg!
+Your light irratacite chainmail absorbs some of the damage.
+h
+You take 1 damage!
+
+HP:  134/142  Ftg:  51/51  MP:  81/81
+
+
+sk turn
+fav
+turn z   reb
+You call out in the name of Eyranas and point at the 1st zombie.
+The zombie cowers from the sudden image of a white wolf.
+Turning the zombie cost you 1 favors.
+[5 sec. delay]
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Skill                Uses     Level
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Turn Undead            11      17
+
+
+You are a follower of Eyranas.
+
+You currently hold 325209 favor.
+
+sk Parry
+The 2nd zombie bites at you, but you parry the blow with your beryl-hilted mother-of-pearl tipped rapier!
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Skill                Uses     Level
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Parry                 CAP      15
+
+
+sk turn
+fav
+turn z   reb
+You call out in the name of Eyranas and point at the 1st zombie.
+The zombie cowers from the sudden image of a white wolf.
+Turning the zombie cost you 1 favors.
+[5 sec. delay]
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Skill                Uses     Level
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Turn Undead            10      17
+
+
+You are a follower of Eyranas.
+
+You currently hold 325208 favor.
+
+sk Parry
+The 2nd zombie bites at you, but you parry the blow with your beryl-hilted mother-of-pearl tipped rapier!
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Skill                Uses     Level
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Parry                 CAP      15
+
+
+sk turn
+fav
+turn z   reb
+You call out in the name of Eyranas and point at the 1st zombie.
+The zombie cowers from the sudden image of a white wolf.
+Turning the zombie cost you 1 favors.
+[5 sec. delay]
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Skill                Uses     Level
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Turn Undead             9      17
+
+
+You are a follower of Eyranas.
+
+You currently hold 325207 favor.
+
+sk turn
+fav
+turn z   reb
+You call out in the name of Eyranas and point at the 1st zombie.
+The zombie cowers from the sudden image of a white wolf.
+Turning the zombie cost you 1 favors.
+[5 sec. delay]
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Skill                Uses     Level
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Turn Undead             8      17
+
+
+You are a follower of Eyranas.
+
+You currently hold 325206 favor.
+
+sk Parry
+The 2nd zombie claws at you, but you parry the blow with your beryl-hilted mother-of-pearl tipped rapier!
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Skill                Uses     Level
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Parry                 CAP      15
+
+
+sk turn
+fav
+turn z   reb
+You call out in the name of Eyranas and point at the 1st zombie.
+The zombie cowers from the sudden image of a white wolf.
+Turning the zombie cost you 1 favors.
+[5 sec. delay]
+
+ ** Set Ungalithe just left the world.
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Skill                Uses     Level
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Turn Undead             7      17
+
+
+You are a follower of Eyranas.
+
+You currently hold 325205 favor.
+
+sk Parry
+The 2nd zombie claws at you, but you parry the blow with your beryl-hilted mother-of-pearl tipped rapier!
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Skill                Uses     Level
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Parry                 CAP      15
+
+
+The 1st zombie bites at you!
+It is a solid blow to your right leg!
+Your light irratacite chainmail absorbs some of the damage.
+h
+You take 3 damage!
+
+HP:  134/142  Ftg:  51/51  MP:  81/81
+
+
+sk turn
+fav
+turn z   reb
+You call out in the name of Eyranas and point at the 1st zombie.
+The zombie cowers from the sudden image of a white wolf.
+Turning the zombie cost you 1 favors.
+[5 sec. delay]
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Skill                Uses     Level
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Turn Undead             6      17
+
+
+You are a follower of Eyranas.
+
+You currently hold 325204 favor.
+
+sk Evade
+The 2nd zombie claws at you, but you evade the strike!
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Skill                Uses     Level
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Evade                 258      18
+
+
+sk turn
+fav
+turn z   reb
+You call out in the name of Eyranas and point at the 1st zombie.
+The zombie cowers from the sudden image of a white wolf.
+Turning the zombie cost you 1 favors.
+[5 sec. delay]
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Skill                Uses     Level
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Turn Undead             5      17
+
+
+You are a follower of Eyranas.
+
+You currently hold 325203 favor.
+
+The 2nd zombie bites at you!
+It is a solid blow to your left leg!
+Your light irratacite chainmail absorbs all of the damage.
+h
+You take no damage!
+
+HP:  134/142  Ftg:  49/51  MP:  81/81
+
+
+sk turn
+fav
+turn z   reb
+You call out in the name of Eyranas and point at the 1st zombie.
+The zombie cowers from the sudden image of a white wolf.
+Turning the zombie cost you 1 favors.
+[5 sec. delay]
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Skill                Uses     Level
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Turn Undead             4      17
+
+
+You are a follower of Eyranas.
+
+You currently hold 325202 favor.
+
+l
+
+[Mausoleum]
+The air is completely still. Not even the smallest speck of dust is being disturbed. Piled in the corner are shattered bones covered in blood. Wafting from the bones is the odor of rotting flesh and without an adequate breeze the smell stagnates. What sounds like soft, steady breathing echoes off the blackened walls from an unseen source.
+
+The area is illuminated.
+
+In this room you see: 1st zombie, 2nd zombie
+Obvious exits are: east
+
+sk Evade
+The 1st zombie claws at you, but you evade the strike!
+
+The 2nd zombie claws at you!
+It is a solid blow to your right leg!
+Your light irratacite chainmail absorbs some of the damage.
+h
+You take 1 damage!
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Skill                Uses     Level
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Evade                 257      18
+
+
+sk turn
+fav
+turn z   reb
+You call out in the name of Eyranas and point at the 1st zombie.
+The zombie cowers from the sudden image of a white wolf.
+Turning the zombie cost you 1 favors.
+[5 sec. delay]
+
+HP:  133/142  Ftg:  51/51  MP:  81/81
+
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Skill                Uses     Level
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Turn Undead             3      17
+
+
+You are a follower of Eyranas.
+
+You currently hold 325201 favor.
+
+The 1st zombie bites at you!
+It is a solid blow to your right arm!
+Your light irratacite chainmail absorbs some of the damage.
+h
+You take 2 damage!
+
+HP:  131/142  Ftg:  50/51  MP:  81/81
+
+
+sk turn
+fav
+turn z   reb
+You call out in the name of Eyranas and point at the 1st zombie.
+The zombie cowers from the sudden image of a white wolf.
+Turning the zombie cost you 1 favors.
+[5 sec. delay]
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Skill                Uses     Level
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Turn Undead             2      17
+
+
+You are a follower of Eyranas.
+
+You currently hold 325200 favor.
+
+sk Parry
+The 2nd zombie claws at you, but you parry the blow with your beryl-hilted mother-of-pearl tipped rapier!
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Skill                Uses     Level
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Parry                 CAP      15
+
+
+sk turn
+fav
+turn z   reb
+You call out in the name of Eyranas and point at the 1st zombie.
+The zombie cowers from the sudden image of a white wolf.
+Turning the zombie cost you 1 favors.
+[5 sec. delay]
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Skill                Uses     Level
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Turn Undead             1      17
+
+
+You are a follower of Eyranas.
+
+You currently hold 325199 favor.
+
+The 2nd zombie claws at you!
+It is a solid blow to your right arm!
+Your light irratacite chainmail absorbs some of the damage.
+h
+You take 4 damage!
+
+HP:  127/142  Ftg:  49/51  MP:  81/81
+
+
+sk Evade
+The 1st zombie bites at you, but you evade the strike!
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Skill                Uses     Level
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Evade                 256      18
+
+
+sk turn
+fav
+turn z   reb
+You call out in the name of Eyranas and point at the 1st zombie.
+The zombie cowers from the sudden image of a white wolf.
+Turning the zombie cost you 2 favors.
+[5 sec. delay]
+
+You feel ready to advance in Turn Undead.
+train off
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Skill                Uses     Level
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Turn Undead             0      17
+
+
+You are a follower of Eyranas.
+
+You currently hold 325197 favor.
+
+The 2nd zombie claws at you, but you parry the blow with your beryl-hilted mother-of-pearl tipped rapier!
+
+set vis 1
+invo 30
+You focus your mind inward, bringing back the memory of a foreign place.
+
+You call out in the name of Eyranas and point at the 1st zombie.
+The zombie cowers from the sudden image of a white wolf.
+Turning the zombie cost you 2 favors.
+[5 sec. delay]
+
+que clear
+Your command queue has been cleared.
+
+The 2nd zombie claws at you, but you parry the blow with your beryl-hilted mother-of-pearl tipped rapier!
+
+The 1st zombie bites at you, but you evade the strike!
+
+The 2nd zombie claws at you, but you evade the strike!
+
+set vis 1
+invo 30
+You focus your mind inward, bringing back the memory of a foreign place.
+
+You kneel on the ground with your head bowed downwards and your arms raised slightly.
+h
+Invoking this spell cost you 12 mana and 20 faith.
+[15 sec. delay]
+
+HP:  130/142  Ftg:  51/51  MP:  69/81
+
+
+The 1st zombie claws at you!
+It is a solid blow to your torso!
+Your light irratacite chainmail absorbs some of the damage.
+h
+You take 3 damage!
+
+HP:  127/142  Ftg:  51/51  MP:  69/81
+
+
+trans in 10
+The 2nd zombie claws at you, but you parry the blow with your beryl-hilted mother-of-pearl tipped rapier!
+
+The 1st zombie bites at you!
+It is a solid blow to your left arm!
+Your light irratacite chainmail absorbs some of the damage.
+h
+You take 4 damage!
+
+HP:  123/142  Ftg:  50/51  MP:  70/81
+
+
+trans in 5
+The 2nd zombie claws at you, but you evade the strike!
+
+rub arrow
+gest mysteriously...
+You rub your glittering spirit-touched arrowhead on a chain.
+
+The 1st zombie bites at you!
+It is a solid blow to your torso!
+Your light irratacite chainmail absorbs some of the damage.
+h
+You take 2 damage!
+
+You gesture mysteriously...
+
+HP:  124/142  Ftg:  51/51  MP:  72/81
+
+
+You suddenly disappear in a flash of light, leaving just a faint symbol of a white wolf behind.
+
+
+[Sanctuary of Eyridane and Morana]
+The small path ends as the trees part, revealing a small clearing. Sunlight filters down from above, splashing the vibrant green grass and wildflowers. The noise of the central part of the grove all but fades away in this quiet sanctuary. An altar of stone rests in the center of the small clearing of verdant grass. Tangled vines have grown wild across the hard stone and though no markings can be seen, it is obvious that this is a place sacred to the twin goddesses of nature. Overhead the soft warbling of songbirds blends with the chirping crickets below into a sublime symphony of sounds. Small trinkets of adoration and worship have been left at the base of the altar, each one a symbol of devotion to their beloved gods.
+
+The area is illuminated.
+
+In this room are: simple stone altar
+Obvious exits are: west, an arch of twisting branches
+
+win in pain...
+You appear in a bright flash of light, momentarily silhouetted by a white wolf.
+
+You wince in pain...
+
+go ar
+
+[Natures Evolution]
+Twisted vines wrapped in ivy create a large circle in the center of the forested area. Several hollow trees sit askew on the outside border of the circle, large openings allowing for passage inside them. Several individuals dressed in green hooded robes stand beside their trees escorting prospective students in and out.
+
+The area is illuminated.
+
+Obvious exits are: west, an arch of twisting branches
+
+sk
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Skill                Uses     Level
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Blades               1100        11
+  Blunts                518         8
+  Bow                   500         5
+  Clerical Magic       6998        41
+  Evade                 253        18
+  First Aid             198         3
+  Hiding                245         5
+  Instruments           294         3
+  Parry                 CAP        15
+  Polearms              221         5
+  Shield               1749        18
+  Stealth                94         1
+  Throwing              500         5
+  Thrusts               326         7
+  Turn Undead             0        17
+  Swimming               67         1
+
+
+train list
+del
+You cannot do that in combat!
+
+You may act at any time!
+You are in combat for another 11 second(s).
+
+Your phosphorescent mossy geode flickers for a few moments.
+
+rem ge
+You extinguish your phosphorescent mossy geode.
+
+train list
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+    Available Skills To Learn
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+    Skills Already Known
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+   4.) Blades 
+   5.) Blunts 
+   6.) Bow 
+   8.) Clerical Magic 
+   12.) Evade 
+   13.) First Aid 
+   16.) Hiding 
+   19.) Instruments 
+   24.) Parry 
+   27.) Polearms 
+   31.) Shield 
+   33.) Stealth 
+   35.) Throwing 
+   36.) Thrusts 
+   38.) Turn Undead 
+   44.) Swimming 
+
+
+stat
+train raise 38
+You are Kurapiira Mako the Fae Cleric. You are 37 years old.
+You are currently a follower of Eyranas.
+You are starving!
+You are dangerously dehydrated!
+
+Attack Rating: 24
+Max Tact Move: 9
+Current Stance: neutral
+
+You are currently flying 10 feet above the ground.
+
+       Racial / Overall
+
+ -Str: High     (Decent)     -Dex: Amazing  (High)      
+ -Qui: Great    (Great)      -Con: Good     (Decent)    
+ -Pie: Amazing  (Great)      -Int: Awful    (Average)   
+ -Per: Low      (Low)        -Wil: Great    (Great)     
+
+You are currently carrying:
+ -a beryl-hilted mother-of-pearl tipped rapier    (right hand)
+ -a light irratacite chainmail    (torso)
+ -a whipcord-braided square jet-buttoned merino sark    (torso)
+ -a glittering spirit-touched arrowhead on a chain    (around neck)
+ -a wild blue dyed silkroot waist wrap    (legs)
+ -a set of stiff boar skin wrist wraps    (around wrist)
+ -a single platinum-inlaid bird vertebrae hoop earring    (on ears)
+ -a glittering icicle-shaped crystal septum piercing    (on nose)
+ -a smooth silver lip ring    (on face)
+ -a traditional Vorngar leather battle dress    (torso)
+
+
+You do not have the required 6 crowns and 0 marks to advance in this skill.
+
+go ar
+
+[Sanctuary of Eyridane and Morana]
+The small path ends as the trees part, revealing a small clearing. Sunlight filters down from above, splashing the vibrant green grass and wildflowers. The noise of the central part of the grove all but fades away in this quiet sanctuary. An altar of stone rests in the center of the small clearing of verdant grass. Tangled vines have grown wild across the hard stone and though no markings can be seen, it is obvious that this is a place sacred to the twin goddesses of nature. Overhead the soft warbling of songbirds blends with the chirping crickets below into a sublime symphony of sounds. Small trinkets of adoration and worship have been left at the base of the altar, each one a symbol of devotion to their beloved gods.
+
+The area is illuminated.
+
+In this room are: simple stone altar
+Obvious exits are: west, an arch of twisting branches
+
+w
+w
+
+[Pathway Through the Trees]
+A small gap through the tangled trees allows passage to the quiet haven of the Druids and the Twins' other worshipers. The path is narrow and vines hang low, entangling all but the most wary, or welcome visitors.
+
+The area is illuminated.
+
+In this room are: simple sparrow-stamped wooden donation box
+Obvious exits are: west, east
+
+
+[Secluded Grove]
+Trees have grown into a natural wall, protecting the clearing from any unwanted visitors. Vines have been woven through the tangled branches of the trees, blocking the rest of the forest from view. Soft grass peppered with patches of clover grows underfoot, and a small, brown rabbit nibbles contentedly on the green stalks.  A small group of sturdy Galirrim has gathered around a small spring of crystal clear water. Enchanting scents of cooking food waft through the air from a painted-wood tavern, closely followed by the sound merry laughter.
+
+The area is illuminated.
+
+In this room are: small spring of crystal clear water
+Obvious exits are: west, east, painted wooden door, slender gap in the wall of trees, gravel road
+
+go r
+
+[Traders Clearing]
+Wagon tracks run through the rocky road, ending just before a row of wooden cabins. Signs hang over the door of the three largest, revealing that they house various shops catering to both the residents of the estate and the many travelers that pass through. The sound of hammer meeting anvil come from the nearest, steel door, while bright lights dance behind the window of the closer wooden door. A simple sign above the far oaken door suggests that it leads to a bank. A display window beside the bank reveals that even a clothing shop is present.
+
+The area is illuminated.
+
+Obvious exits are: closed towering pine door, steel door, flight of spiral stairs, simple wooden door, oak door, gravel path, white washed door
+
+go 4 d
+
+[Secluded Grove Bank]
+hero
+A single Duskwen stands beside a row of solid, metal coffers locked securely, he greets an approaching Zacotl warmly, and accepts his heavy pouch of crowns as he makes a notation in his leather-bound ledger, before locking the golden coins away in one of his impenetrable chests. Meanwhile, a hulking Varanus is bent over a small coffer as he locks away precious treasures, lest they be stolen.
+
+The area is illuminated.
+
+Obvious exits are: an oak door
+
+bank with 6 crowns
+The teller makes a couple of notes in the account book, then hands you your withdrawl of 6 crowns and 0 marks.
+mon
+
+You now currently hold a balance of 112827 marks with this branch.
+
+CURRENT BANK BALANCES
+trav    1500
+urda    30100
+hero    112827
+TOTAL:  144427
+temple: 27800
+MYGOLD: 116627
+You are currently carrying 6 crowns and 264 marks.
+This gives you a combined wealth of 864 marks.
+
+go door
+
+[Traders Clearing]
+Wagon tracks run through the rocky road, ending just before a row of wooden cabins. Signs hang over the door of the three largest, revealing that they house various shops catering to both the residents of the estate and the many travelers that pass through. The sound of hammer meeting anvil come from the nearest, steel door, while bright lights dance behind the window of the closer wooden door. A simple sign above the far oaken door suggests that it leads to a bank. A display window beside the bank reveals that even a clothing shop is present.
+
+The area is illuminated.
+
+Obvious exits are: closed towering pine door, steel door, flight of spiral stairs, simple wooden door, oak door, gravel path, white washed door
+
+go p
+
+[Secluded Grove]
+Trees have grown into a natural wall, protecting the clearing from any unwanted visitors. Vines have been woven through the tangled branches of the trees, blocking the rest of the forest from view. Soft grass peppered with patches of clover grows underfoot, and a small, brown rabbit nibbles contentedly on the green stalks.  A small group of sturdy Galirrim has gathered around a small spring of crystal clear water. Enchanting scents of cooking food waft through the air from a painted-wood tavern, closely followed by the sound merry laughter.
+
+The area is illuminated.
+
+In this room are: small spring of crystal clear water
+Obvious exits are: west, east, painted wooden door, slender gap in the wall of trees, gravel road
+
+e
+
+[Pathway Through the Trees]
+A small gap through the tangled trees allows passage to the quiet haven of the Druids and the Twins' other worshipers. The path is narrow and vines hang low, entangling all but the most wary, or welcome visitors.
+
+The area is illuminated.
+
+In this room are: simple sparrow-stamped wooden donation box
+Obvious exits are: west, east
+
+e
+
+[Sanctuary of Eyridane and Morana]
+The small path ends as the trees part, revealing a small clearing. Sunlight filters down from above, splashing the vibrant green grass and wildflowers. The noise of the central part of the grove all but fades away in this quiet sanctuary. An altar of stone rests in the center of the small clearing of verdant grass. Tangled vines have grown wild across the hard stone and though no markings can be seen, it is obvious that this is a place sacred to the twin goddesses of nature. Overhead the soft warbling of songbirds blends with the chirping crickets below into a sublime symphony of sounds. Small trinkets of adoration and worship have been left at the base of the altar, each one a symbol of devotion to their beloved gods.
+
+The area is illuminated.
+
+In this room are: simple stone altar
+Obvious exits are: west, an arch of twisting branches
+
+go ar
+
+[Natures Evolution]
+Twisted vines wrapped in ivy create a large circle in the center of the forested area. Several hollow trees sit askew on the outside border of the circle, large openings allowing for passage inside them. Several individuals dressed in green hooded robes stand beside their trees escorting prospective students in and out.
+
+The area is illuminated.
+
+Obvious exits are: west, an arch of twisting branches
+
+train list
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+    Available Skills To Learn
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+    Skills Already Known
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+   4.) Blades 
+   5.) Blunts 
+   6.) Bow 
+   8.) Clerical Magic 
+   12.) Evade 
+   13.) First Aid 
+   16.) Hiding 
+   19.) Instruments 
+   24.) Parry 
+   27.) Polearms 
+   31.) Shield 
+   33.) Stealth 
+   35.) Throwing 
+   36.) Thrusts 
+   38.) Turn Undead 
+   44.) Swimming 
+
+
+stat
+train raise 38
+You are Kurapiira Mako the Fae Cleric. You are 37 years old.
+You are currently a follower of Eyranas.
+You are starving!
+You are dangerously dehydrated!
+
+Attack Rating: 24
+Max Tact Move: 9
+Current Stance: neutral
+
+You are currently flying 10 feet above the ground.
+
+       Racial / Overall
+
+ -Str: High     (Decent)     -Dex: Amazing  (High)      
+ -Qui: Great    (Great)      -Con: Good     (Decent)    
+ -Pie: Amazing  (Great)      -Int: Awful    (Average)   
+ -Per: Low      (Low)        -Wil: Great    (Great)     
+
+You are currently carrying:
+ -a beryl-hilted mother-of-pearl tipped rapier    (right hand)
+ -a light irratacite chainmail    (torso)
+ -a whipcord-braided square jet-buttoned merino sark    (torso)
+ -a glittering spirit-touched arrowhead on a chain    (around neck)
+ -a wild blue dyed silkroot waist wrap    (legs)
+ -a set of stiff boar skin wrist wraps    (around wrist)
+ -a single platinum-inlaid bird vertebrae hoop earring    (on ears)
+ -a glittering icicle-shaped crystal septum piercing    (on nose)
+ -a smooth silver lip ring    (on face)
+ -a traditional Vorngar leather battle dress    (torso)
+
+
+(Your use lockout has been increased by 5 hour(s) and 0 minute(s).)
+
+You hand the trainer the 6 crowns and 0 marks required and step out into the training area to begin practice...
+
+sk
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Skill                Uses     Level
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Blades               1100        11
+  Blunts                518         8
+  Bow                   500         5
+  Clerical Magic       6998        41
+  Evade                 253        18
+  First Aid             198         3
+  Hiding                245         5
+  Instruments           294         3
+  Parry                 CAP        15
+  Polearms              221         5
+  Shield               1749        18
+  Stealth                94         1
+  Throwing              500         5
+  Thrusts               326         7
+  Turn Undead          1800        18
+  Swimming               67         1
+
+
+who
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+    Currently Connected
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+  Aegys Redbow
+  Aeron Delmar
+  Afti Sektah
+  Akhen Netan
+  Amarie Sourin
+  Anton Zimyani
+  Asher Leshrak
+  Eidag Alduam
+  Galen Marek
+  Gashashaslk Avane
+  Geza Slentik
+  Goro Dreadmouth
+  Harru Shadowstalker
+  Jaquellyn Rhiel
+  Kassi Boyd
+  Kurapiira Mako
+  Liria Damir
+  Liv Tarqel
+  Malbec Black
+  Mardek Thanes
+  Primum Hherotes
+  Rane Valicet
+  Rigel Betelgeuze
+  Salevos Fereni
+  Sitias Delakor
+  Uthil Orletlarn
+  Varek Ardel
+  Vashane Nilan
+  Wirovel Sunnyfi
+
+    [29 total]
+
+A blue jay just entered the room 6 units in front of you.
+
+The blue jay lands on a nearby branch, his feathers puffing up as he tilts his head to the side and studies his surroundings intently.
+
+hide
+You cannot hide while flying!
+
+land
+Diving downwards, you deftly extend your wings and touch down gracefully.
+
+hide
+You fail to hide.
+[2 sec. delay]
+
+ret 5 
+You can only move backwards another 2 units in this room!
+
+You retreat 2 units.
+[3 sec. delay]
+
+hide
+The 1st blue jay just wandered through the an arch of twisting branches.
+
+You fail to hide.
+[2 sec. delay]
+
+hide
+hide
+You fail to hide.
+[2 sec. delay]
+
+hide
+You fail to hide.
+[2 sec. delay]
+
+hide
+hide
+hide
+hide
+You fail to hide.
+[2 sec. delay]
+
+hide
+You fail to hide.
+[2 sec. delay]
+
+You fail to hide.
+[2 sec. delay]
+
+l
+
+[Natures Evolution]
+Twisted vines wrapped in ivy create a large circle in the center of the forested area. Several hollow trees sit askew on the outside border of the circle, large openings allowing for passage inside them. Several individuals dressed in green hooded robes stand beside their trees escorting prospective students in and out.
+
+The area is illuminated.
+
+Obvious exits are: west, an arch of twisting branches
+
+You fail to hide.
+[2 sec. delay]
+
+w
+You slip into the shadows.
+[3 sec. delay]
+
+que clear
+Your command queue has been cleared.
+
+quit
+
+ =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+  Welcome to Isles of Aedin!
+        Version - BETA
+ =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+  
+  Please select your choice: 
+         1. ) Enter World
+         2. ) Create Character
+         3. ) Change Active Character
+         4. ) Delete Character
+         5. ) View Character
+         6. ) Account Preferences
+         7. ) Vote for Isles of Aedin!
+         0. ) Exit
+                
+  Current Character -  Kurapiira 
+Kurapiira
+  
+Logname: Kurapiira
+0
+Closed Kurapiira-offerings.txt on file 1
