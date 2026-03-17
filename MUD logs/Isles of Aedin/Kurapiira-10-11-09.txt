@@ -1,0 +1,2786 @@
+time
+It is currently 11:19 PM.
+
+Sammoth's group just went east.
+
+You follow Sammoth...
+
+
+[Planted field]
+Several acres of wheat and barley span out on either side of the road. Low rock walls and irrigation ditches divide the fields neatly into almost perfect rectangles. A poorly constructed bucket and lever system allows water to be moved from area to area as needed,and with little difficulty.  
+
+The area is illuminated.
+
+In this room you see: Sammoth the Rock Troll
+In this room are: broken simple leather armor
+Obvious exits are: east, west
+
+Sammoth's group just went east.
+
+You follow Sammoth...
+
+
+[Hard dirt road]
+Plowed fields and crops stretch out as far as the eye can see on one side of the road. On the other, a deep ditch separates the road from a cluster of oak and ash trees. Cattails line the ditch bank, their brown flowers with their yellow spikes towering over the road.
+
+The area is illuminated.
+
+In this room you see: Sammoth the Rock Troll
+Obvious exits are: east, west
+
+Sammoth's group just went east.
+
+You follow Sammoth...
+
+
+[Hard dirt road]
+Years of traffic from wagon, wheel barrow, and horse have left deep ruts in the hard-packed dirt road. The rains of this area allow these deep ruts to become a muddy trap for wagon and unwary traveler alike. Tall grass hides a broad ditch to one side.
+
+The area is illuminated.
+
+In this room you see: Merau the Terrak (holding a flaming wooden torch),  Sammoth the Rock Troll, 1st bandit, 2nd bandit
+Obvious exits are: northeast, west
+
+The 2nd bandit attacks Merau with its hardened steel stiletto!
+It is a solid blow to her right leg!
+
+Merau is surrounded by a dull golden glow.
+
+A bandit just entered the room 1 units behind you.
+
+Merau bites at the 1st bandit!
+The attack misses!
+
+l at sa
+
+You see Sammoth the adult Rock Troll.
+He is 6' 3" tall with a muscular build, dreadlocked, bluish black hair, ruby red eyes, and reddish brown skin.
+He bears the mark of Aypas.
+He is currently in a neutral mood.
+
+Description:
+This Troll has clearly seen battle before. Scars appear all over his body. Deep claw marks form an X across his upper torso..
+
+
+He is carrying:
+ -a dragon hilted broadsword     (both hands)
+ -a sparkling pluronium chain mail       (torso)
+ -a black broadcloth trousers    (legs)
+ -a pair of black combat boots   (feet)
+ -a open simple leather backpack         (on back)
+ -a black leather belt   (around waist)
+ -a well forged scabbard         (on belt)
+
+
+
+Sammoth's group just went northeast.
+
+You follow Sammoth...
+
+
+[Road ]
+Continuing to the north and southeast the road rises and falls slightly over uneven ground. The cobblestones a bit shifted provide some uneven footing.
+
+The area is illuminated.
+
+In this room you see: Sammoth the Rock Troll
+Obvious exits are: north, southeast, southwest
+
+Sammoth's group just went southwest.
+
+You follow Sammoth...
+
+
+[Hard dirt road]
+Years of traffic from wagon, wheel barrow, and horse have left deep ruts in the hard-packed dirt road. The rains of this area allow these deep ruts to become a muddy trap for wagon and unwary traveler alike. Tall grass hides a broad ditch to one side.
+
+The area is illuminated.
+
+In this room you see: Merau the Terrak (holding a flaming wooden torch),  Sammoth the Rock Troll, 1st bandit, 2nd bandit, 3rd bandit
+Obvious exits are: northeast, west
+
+The 1st bandit attacks Merau with its hardened steel stiletto, but she evades the strike.
+
+k b
+Your target is too far away!
+tact
+
+You are currently standing 1 units behind center.
+
+Standing 4 units in front of you:
+Merau, bandit
+Standing 1 units behind you:
+bandit
+Standing in your rank:
+Sammoth, Kurapiira
+Standing 1 units behind you:
+bandit
+
+
+The 2nd bandit attacks Merau with its hardened steel stiletto!
+It is a solid blow to her head!
+
+Merau is surrounded by a dull golden glow.
+
+The 3rd bandit advances towards Merau.
+
+ ** Lothar Talon just left the world.
+
+Sammoth's group just went west.
+
+You follow Sammoth...
+
+
+[Hard dirt road]
+Plowed fields and crops stretch out as far as the eye can see on one side of the road. On the other, a deep ditch separates the road from a cluster of oak and ash trees. Cattails line the ditch bank, their brown flowers with their yellow spikes towering over the road.
+
+The area is illuminated.
+
+In this room you see: Sammoth the Rock Troll
+Obvious exits are: east, west
+
+Sammoth's group just went west.
+
+You follow Sammoth...
+
+
+[Planted field]
+Several acres of wheat and barley span out on either side of the road. Low rock walls and irrigation ditches divide the fields neatly into almost perfect rectangles. A poorly constructed bucket and lever system allows water to be moved from area to area as needed,and with little difficulty.  
+
+The area is illuminated.
+
+In this room you see: Sammoth the Rock Troll, 1st cow
+In this room are: broken simple leather armor
+Obvious exits are: east, west
+
+l
+
+[Planted field]
+Several acres of wheat and barley span out on either side of the road. Low rock walls and irrigation ditches divide the fields neatly into almost perfect rectangles. A poorly constructed bucket and lever system allows water to be moved from area to area as needed,and with little difficulty.  
+
+The area is illuminated.
+
+In this room you see: Sammoth the Rock Troll, 1st cow
+In this room are: broken simple leather armor
+Obvious exits are: east, west
+
+Sammoth taps his foot.
+
+Sammoth grunts.
+
+cac
+You cackle.
+
+ ** Darthain Farlong just arrived in the world
+
+dan the Hiwayman dance
+You dance the Hiwayman dance.
+
+l at k
+
+You see Kurapiira the young Fey.
+She is 1' 10" tall with a lithe build, dreadlocked, purplish black hair, forest green eyes, and lavendar skin.
+She bears the mark of Tevleh.
+She is currently in a scared mood.
+
+Description:
+She has a tatto of the letters XJS on her neck in deep purple.
+
+
+She is carrying:
+ -a gleaming silver haubergen    (right hand)
+ -a standard lantern     (left hand)
+ -a green turtle shell armor     (torso)
+ -a tattered bustier     (torso)
+ -a emerald ring         (finger)
+ -a pewter pentagram     (around neck)
+ -a pair of emerald green leggings       (legs)
+ -a pair of white thigh high boots       (feet)
+ -a open gem pouch       (on belt)
+ -a gold belly chain     (around waist)
+
+
+
+stat
+You are Kurapiira the Fey Cleric. You are 22 years old.
+You are currently a follower of Tevleh.
+You are starving!
+You are dangerously dehydrated!
+
+Attack Rating: 52
+Max Tact Move: 8
+
+You are currently flying 5 feet above the ground.
+
+Str *******       | Dex ******        | 
+Qui *******       | Con ******        | 
+Pie ********      | Int *******       | 
+Per *********     | Cha **********    | 
+App ***           | Res ********************************| 
+
+You are currently carrying:
+ -a gleaming silver haubergen    (right hand)
+ -a standard lantern    (left hand)
+ -a green turtle shell armor    (torso)
+ -a tattered bustier    (torso)
+ -an emerald ring    (finger)
+ -a pewter pentagram    (around neck)
+ -a pair of emerald green leggings    (legs)
+ -a pair of white thigh high boots    (feet)
+ -an open gem pouch    (on belt)
+ -a gold belly chain    (around waist)
+
+
+sk
+Sammoth applauds.
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+  Skill           Uses    Level
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+  Blades           182    2
+  Blunts           700    7
+  Bow               73    1
+  Clerical Magic     0   20
+  Evade            255   15
+  First Aid        238    4
+  Hiding           873    9
+  Instruments      100    1
+  Parry              0   16
+  Polearms        1191   15
+  Shield          1500   15
+  Stealth          897    9
+  Throwing          85    1
+  Thrusts          100    1
+  Turn Undead      352    7
+
+
+
+spel
+The following are the spells you know:
+  1.) Cure Wounds
+  2.) Plague Touch
+  3.) Invigorate
+  4.) Minor Curse
+  5.) Mana Restoration
+  6.) Divine Restoration
+  7.) Fear of the Gods
+  8.) Inflict Wounds
+  9.) Holy Shield
+  10.) Holy Wrath
+  11.) Healing Aura
+  12.) Afflict Life
+  13.) Aura of Fortitude
+  14.) Afflict Movement
+  15.) Divine Bolt
+  16.) Greater Mana Restoration
+
+
+inv
+
+You are currently holding:
+ -open recruit backpack (15.0 lbs)
+ -pair of emerald green leggings (0.0 lbs)
+ -open gem pouch (1.7 lbs)
+ -pair of white thigh high boots (0.0 lbs)
+ -open recruit backpack (0.34 lbs)
+ -gold belly chain (0.03 lbs)
+ -emerald ring (0.03 lbs)
+ -open recruit backpack (7.33 lbs)
+ -open simple leather backpack (1.99 lbs)
+ -pewter pentagram (0.5 lbs)
+ -tattered bustier (0.0 lbs)
+ -open simple leather backpack (11.33 lbs)
+ -open large bag (1.33 lbs)
+ -green turtle shell armor (2.67 lbs)
+ -gleaming silver haubergen (2.33 lbs)
+ -standard lantern (0.33 lbs)
+ (44.91 / 86.0 lbs being carried)
+
+ You currently have 551 marks and 0 crowns.
+mon
+
+You are currently carrying 0 Crowns and 551 Marks.
+This gives you a combined wealth of 551 marks.
+
+l
+
+[Planted field]
+Several acres of wheat and barley span out on either side of the road. Low rock walls and irrigation ditches divide the fields neatly into almost perfect rectangles. A poorly constructed bucket and lever system allows water to be moved from area to area as needed,and with little difficulty.  
+
+The area is illuminated.
+
+In this room you see: Sammoth the Rock Troll, 1st cow
+In this room are: broken simple leather armor
+Obvious exits are: east, west
+
+pet c
+You pet the cow.
+
+Sammoth's group just went east.
+
+You follow Sammoth...
+
+
+[Hard dirt road]
+Plowed fields and crops stretch out as far as the eye can see on one side of the road. On the other, a deep ditch separates the road from a cluster of oak and ash trees. Cattails line the ditch bank, their brown flowers with their yellow spikes towering over the road.
+
+The area is illuminated.
+
+In this room you see: Sammoth the Rock Troll, 1st bandit
+Obvious exits are: east, west
+
+The 1st bandit advances towards you.
+
+Sammoth performs a reverse slash with his dragon hilted broadsword at the 1st bandit!
+It is a solid blow to its head!
+
+
+k b
+You perform a reverse swing with your gleaming silver haubergen at the 1st bandit!
+k b 
+It is a well executed blow to its right leg!
+[5 sec. delay]
+
+The 1st bandit attacks Sammoth with its hardened steel stiletto, but the blow is turned away by his dragon hilted broadsword.
+
+Sammoth performs a vicious hack with his dragon hilted broadsword at the 1st bandit!
+It is a powerful blow to its torso!
+
+
+You perform a simple crush with your gleaming silver haubergen at the 1st bandit!
+k b 
+It is a well executed blow to its neck!
+[5 sec. delay]
+
+The 1st bandit attacks Sammoth with its hardened steel stiletto!
+It is a solid blow to his right arm!
+
+
+Sammoth performs a downwards laceration with his dragon hilted broadsword at the 1st bandit!
+It is a well executed blow to its left leg!
+
+
+stat
+You are Kurapiira the Fey Cleric. You are 22 years old.
+You are currently a follower of Tevleh.
+You are starving!
+You are dangerously dehydrated!
+
+Attack Rating: 52
+Max Tact Move: 8
+
+You are currently flying 5 feet above the ground.
+
+Str *******       | Dex ******        | 
+Qui *******       | Con ******        | 
+Pie ********      | Int *******       | 
+Per *********     | Cha **********    | 
+App ***           | Res ********************************| 
+
+You are currently carrying:
+ -a gleaming silver haubergen    (right hand)
+ -a standard lantern    (left hand)
+ -a green turtle shell armor    (torso)
+ -a tattered bustier    (torso)
+ -an emerald ring    (finger)
+ -a pewter pentagram    (around neck)
+ -a pair of emerald green leggings    (legs)
+ -a pair of white thigh high boots    (feet)
+ -an open gem pouch    (on belt)
+ -a gold belly chain    (around waist)
+
+
+You perform a resounding smash with your gleaming silver haubergen at the 1st bandit!
+k b 
+The attack misses!
+[5 sec. delay]
+
+The 1st bandit attacks Sammoth with its hardened steel stiletto!
+It is a solid blow to his right arm!
+
+
+q c
+Your command queue has been cleared.
+
+Sammoth performs a calculated strike with his dragon hilted broadsword at the 1st bandit!
+It is a strong blow to its torso!
+
+
+diag all
+h
+You examine all the people in the room...
+
+You examine Sammoth. He looks weakened. He seems tired.
+
+
+HP:  91/91  Ftg:  51/59  MP:  67/67
+
+
+k b
+You perform a powerful blow with your gleaming silver haubergen at the 1st bandit!
+k b 
+The attack misses!
+[5 sec. delay]
+
+The 1st bandit attacks Sammoth with its hardened steel stiletto!
+It is a solid blow to his head!
+
+
+Sammoth performs a reverse slash with his dragon hilted broadsword at the 1st bandit!
+It is a strong blow to its left arm!
+The bandit is knocked back!
+
+
+The bandit grunts loudly and falls to the ground dead.
+
+diag all
+h
+Your target is already dead!
+q c
+zh
+
+You examine all the people in the room...
+
+You examine Sammoth. He looks weakened. He seems tired.
+
+
+HP:  91/91  Ftg:  47/59  MP:  67/67
+
+
+Your command queue has been cleared.
+
+Unknown command "zh"
+
+invo 3 sa
+A dull green aura begins to form around you as you offer a silent prayer to Tevleh.
+Invoking this spell cost you 5 mana.
+[5 sec. delay]
+
+The aura around you emanates outwards and is absorbed into you.
+
+You feel energized!
+h
+h
+
+
+HP:  91/91  Ftg:  57/59  MP:  64/67
+
+
+
+HP:  91/91  Ftg:  57/59  MP:  64/67
+
+
+Sammoth begins looting the bandit corpse.
+
+He picks up some marks.
+
+A cow just entered from the west.
+
+invo 13 sa
+You point towards Sammoth and a faint aura appears around both of them.
+Invoking this spell cost you 6 mana and 1 faith.
+[5 sec. delay]
+
+l
+
+[Hard dirt road]
+Plowed fields and crops stretch out as far as the eye can see on one side of the road. On the other, a deep ditch separates the road from a cluster of oak and ash trees. Cattails line the ditch bank, their brown flowers with their yellow spikes towering over the road.
+
+The area is illuminated.
+
+In this room you see: Sammoth the Rock Troll, 1st cow
+In this room are: hardened steel stiletto
+Obvious exits are: east, west
+
+A bandit just entered the room 1 units behind you.
+
+k b
+You perform a powerful blow with your gleaming silver haubergen at the 1st bandit!
+k b 
+The attack misses!
+[5 sec. delay]
+
+The aura absorbs into Sammoth and vanishes as a image of an oak tree appears over him.
+diag all
+h
+
+You examine all the people in the room...
+
+You examine Sammoth. He looks weakened.
+
+
+HP:  91/91  Ftg:  55/59  MP:  63/67
+
+
+The 1st bandit attacks you with its hardened steel stiletto, but you parry the blow with your gleaming silver haubergen!
+
+You perform a simple crush with your gleaming silver haubergen at the 1st bandit!
+k b 
+The attack misses!
+[5 sec. delay]
+
+The 1st bandit attacks you with its hardened steel stiletto!
+It is a solid blow to your right arm!
+Your green turtle shell armor absorbs some of the damage.
+You take 6 damage!
+h
+
+
+HP:  85/91  Ftg:  51/59  MP:  67/67
+
+
+You perform a simple crush with your gleaming silver haubergen at the 1st bandit!
+k b 
+The attack misses!
+[5 sec. delay]
+
+The 1st bandit attacks you with its hardened steel stiletto, but you evade the strike!
+
+You perform a simple crush with your gleaming silver haubergen at the 1st bandit!
+k b 
+It is a glancing blow to its left arm!
+[5 sec. delay]
+
+Sammoth performs a vicious hack with his dragon hilted broadsword at the 1st bandit!
+It is a powerful blow to its neck!
+
+
+say Sammoth!..help help
+You say, "Sammoth!..help help"
+
+cac
+You cackle.
+
+The 1st bandit attacks Sammoth with its hardened steel stiletto, but he evades the strike.
+
+You perform a powerful blow with your gleaming silver haubergen at the 1st bandit!
+k b 
+The attack misses!
+[5 sec. delay]
+
+Sammoth performs a vicious hack with his dragon hilted broadsword at the 1st bandit!
+It is a well executed blow to its torso!
+The bandit is knocked back!
+
+
+Sammoth cackles.
+
+The 1st bandit advances towards Sammoth.
+
+You perform a powerful blow with your gleaming silver haubergen at the 1st bandit!
+k b 
+The attack misses!
+[5 sec. delay]
+
+Sammoth performs a reverse slash with his dragon hilted broadsword at the 1st bandit!
+It is a fair blow to its right arm!
+
+
+The 1st bandit attacks Sammoth with its hardened steel stiletto!
+It is a solid blow to his left leg!
+
+
+Your standard lantern flickers for a few moments.
+
+k b
+Merau just entered from the east.
+
+A bandit enters, following Merau.
+
+A bandit enters, following Merau.
+
+The 2nd bandit blocks Merau from leaving!
+
+You perform a simple crush with your gleaming silver haubergen at the 1st bandit!
+k b 
+It is a perfect blow to its neck, sending it reeling!
+[5 sec. delay]
+
+Sammoth performs a vicious hack with his dragon hilted broadsword at the 1st bandit!
+It is a powerful blow to its neck!
+
+
+The 3rd bandit attacks Merau with its hardened steel stiletto, but she evades the strike.
+
+The 2nd bandit blocks Merau from leaving!
+
+The 2nd bandit blocks Merau from leaving!
+
+The 1st bandit attacks Sammoth with its hardened steel stiletto!
+It is a solid blow to his right arm!
+
+
+Merau just went east.
+
+The 2nd bandit advances towards you.
+
+Merau just entered from the east.
+
+The 3rd bandit blocks Merau from leaving!
+
+q c
+Your command queue has been cleared.
+
+The 3rd bandit blocks Merau from leaving!
+
+fly up 5
+Sammoth performs a reverse slash with his dragon hilted broadsword at the 1st bandit!
+It is a strong blow to its left arm!
+The bandit is knocked back!
+The bandit stumbles and falls down!
+
+
+The 3rd bandit attacks Merau with its hardened steel stiletto!
+It is a solid blow to her left arm!
+
+Merau is surrounded by a dull golden glow.
+
+The bandit grunts loudly and falls to the ground dead.
+
+Merau just went east.
+
+A bandit follows Merau.
+
+With a couple of powerful strokes, you rise 5 feet in the air!
+[5 sec. delay]
+
+The 2nd bandit attacks Sammoth with its hardened steel stiletto, but he evades the strike.
+
+k b
+Your target is already dead!
+q c
+zh
+
+Your command queue has been cleared.
+
+Unknown command "zh"
+
+The 2nd bandit attacks Sammoth with its hardened steel stiletto!
+It is a solid blow to his right arm!
+
+
+diag all
+h
+You examine all the people in the room...
+
+You examine Sammoth. He looks weakened. He seems tired.
+
+
+HP:  90/91  Ftg:  40/59  MP:  67/67
+
+
+l
+
+[Hard dirt road]
+Plowed fields and crops stretch out as far as the eye can see on one side of the road. On the other, a deep ditch separates the road from a cluster of oak and ash trees. Cattails line the ditch bank, their brown flowers with their yellow spikes towering over the road.
+
+The area is illuminated.
+
+In this room you see: Sammoth the Rock Troll, 1st cow, 1st bandit corpse, 2nd bandit
+In this room are: hardened steel stiletto
+Obvious exits are: east, west
+
+Sammoth begins looting the bandit corpse.
+
+He picks up some marks.
+
+The 1st bandit attacks Sammoth with its hardened steel stiletto!
+It is a solid blow to his left leg!
+
+
+invo 13 k
+You point towards Kurapiira and a faint aura appears around both of them.
+Invoking this spell cost you 6 mana and 1 faith.
+[5 sec. delay]
+
+Sammoth performs a downwards laceration with his dragon hilted broadsword at the 1st bandit!
+It is a well executed blow to its left leg!
+The bandit is knocked back!
+The bandit stumbles and falls down!
+
+
+The 1st bandit stands up.
+
+The aura absorbs into Kurapiira and vanishes as a image of an oak tree appears over her.
+diag all
+h
+
+You feel energized!
+h
+h
+
+You examine all the people in the room...
+
+You examine Sammoth. He looks weakened. He seems tired.
+
+
+HP:  91/91  Ftg:  56/59  MP:  65/67
+
+
+
+HP:  91/91  Ftg:  56/59  MP:  65/67
+
+
+
+HP:  91/91  Ftg:  56/59  MP:  65/67
+
+
+Sammoth performs a vicious hack with his dragon hilted broadsword at the 1st bandit!
+It is a glancing blow to its torso!
+The bandit is knocked back!
+The bandit stumbles and falls down!
+
+
+The 1st bandit stands up.
+
+k b
+You perform a uppercut with your gleaming silver haubergen at the 1st bandit!
+k b 
+It is a strong blow to its right arm!
+[5 sec. delay]
+
+The 1st bandit advances towards Sammoth.
+
+Sammoth performs a simple cut with his dragon hilted broadsword at the 1st bandit!
+It is a powerful blow to its neck!
+
+
+You perform a powerful blow with your gleaming silver haubergen at the 1st bandit!
+k b 
+It is a decent blow to its left leg!
+[5 sec. delay]
+
+The 1st bandit attacks Sammoth with its hardened steel stiletto, but the blow is turned away by his dragon hilted broadsword.
+
+Sammoth performs a simple cut with his dragon hilted broadsword at the 1st bandit!
+It is a solid blow to its right leg!
+
+
+You perform a powerful blow with your gleaming silver haubergen at the 1st bandit!
+k b 
+The attack misses!
+[5 sec. delay]
+
+The 1st bandit attacks Sammoth with its hardened steel stiletto, but the blow is turned away by his dragon hilted broadsword.
+
+Sammoth performs a reverse slash with his dragon hilted broadsword at the 1st bandit!
+It is a decent blow to its right arm!
+
+
+The bandit grunts loudly and falls to the ground dead.
+
+q c
+Your command queue has been cleared.
+
+diag all
+h
+You examine all the people in the room...
+
+You examine Sammoth. He looks weakened. He seems winded.
+
+
+HP:  91/91  Ftg:  48/59  MP:  67/67
+
+
+invo 13 sa
+You point towards Sammoth and a faint aura appears around both of them.
+Invoking this spell cost you 6 mana and 1 faith.
+[5 sec. delay]
+
+Sammoth begins looting the bandit corpse.
+
+He picks up some marks.
+
+Sammoth picks up the hardened steel stiletto.
+
+Sammoth picks up the hardened steel stiletto.
+
+Sammoth picks up the hardened steel stiletto.
+
+The aura absorbs into Sammoth and vanishes as a image of an oak tree appears over him.
+diag all
+h
+
+You examine all the people in the room...
+
+You examine Sammoth. He looks weakened. He seems tired.
+
+
+HP:  91/91  Ftg:  52/59  MP:  65/67
+
+
+Sammoth puts his hardened steel stiletto in his open silver-trimmed storage chest.
+
+Sammoth puts his hardened steel stiletto in his open silver-trimmed storage chest.
+
+Sammoth puts his hardened steel stiletto in his open silver-trimmed storage chest.
+
+Sammoth puts his hardened steel stiletto in his open silver-trimmed storage chest.
+
+Sammoth puts his hardened steel stiletto in his open silver-trimmed storage chest.
+
+Sammoth puts his hardened steel stiletto in his open silver-trimmed storage chest.
+
+Sammoth puts his hardened steel stiletto in his open silver-trimmed storage chest.
+
+l
+
+[Hard dirt road]
+Plowed fields and crops stretch out as far as the eye can see on one side of the road. On the other, a deep ditch separates the road from a cluster of oak and ash trees. Cattails line the ditch bank, their brown flowers with their yellow spikes towering over the road.
+
+The area is illuminated.
+
+In this room you see: Sammoth the Rock Troll, 1st cow
+Obvious exits are: east, west
+
+A bandit just entered from the east.
+
+Sammoth performs a calculated strike with his dragon hilted broadsword at the 1st bandit!
+It is a powerful blow to its torso!
+
+
+k b
+You perform a uppercut with your gleaming silver haubergen at the 1st bandit!
+k b 
+The attack misses!
+[5 sec. delay]
+
+The 1st bandit advances towards Sammoth.
+
+You perform a uppercut with your gleaming silver haubergen at the 1st bandit!
+k b 
+The attack misses!
+[5 sec. delay]
+
+Sammoth performs a vicious hack with his dragon hilted broadsword at the 1st bandit!
+It is a well executed blow to its head!
+
+
+The 1st bandit attacks Sammoth with its hardened steel stiletto!
+It is a solid blow to his right arm!
+
+
+You perform a uppercut with your gleaming silver haubergen at the 1st bandit!
+k b 
+The attack misses!
+[5 sec. delay]
+
+Sammoth performs a cross-body slash with his dragon hilted broadsword at the 1st bandit!
+It is a well executed blow to its left arm!
+
+
+The 1st bandit attacks Sammoth with its hardened steel stiletto, but the blow is turned away by his dragon hilted broadsword.
+
+You perform a simple crush with your gleaming silver haubergen at the 1st bandit!
+k b 
+The attack misses!
+[5 sec. delay]
+
+Sammoth performs a calculated strike with his dragon hilted broadsword at the 1st bandit!
+It is a decent blow to its right arm!
+
+
+The 1st bandit attacks Sammoth with its hardened steel stiletto!
+It is a solid blow to his torso!
+
+
+You perform a powerful blow with your gleaming silver haubergen at the 1st bandit!
+k b 
+The attack misses!
+[5 sec. delay]
+
+Sammoth performs a reverse slash with his dragon hilted broadsword at the 1st bandit!
+It is a well executed blow to its right arm!
+
+
+The 1st bandit attacks Sammoth with its hardened steel stiletto, but the blow is turned away by his dragon hilted broadsword.
+
+You perform a resounding smash with your gleaming silver haubergen at the 1st bandit!
+k b 
+The attack misses!
+[5 sec. delay]
+
+Sammoth performs a downwards laceration with his dragon hilted broadsword at the 1st bandit!
+It is a strong blow to its right leg!
+The bandit is knocked back!
+
+
+The 1st bandit attacks Sammoth with its hardened steel stiletto!
+It is a solid blow to his right arm!
+
+
+q c
+Your command queue has been cleared.
+
+diag all
+h
+You examine all the people in the room...
+
+You examine Sammoth. He looks weakened. He seems winded.
+
+
+HP:  91/91  Ftg:  40/59  MP:  67/67
+
+
+invo 13 sa
+You point towards Sammoth and a faint aura appears around both of them.
+Invoking this spell cost you 6 mana and 1 faith.
+[5 sec. delay]
+
+invo 13 sa
+The 1st bandit attacks Sammoth with its hardened steel stiletto, but the blow is turned away by his dragon hilted broadsword.
+
+Sammoth performs a vicious hack with his dragon hilted broadsword at the 1st bandit!
+It is a well executed blow to its left arm!
+
+
+The bandit grunts loudly and falls to the ground dead.
+
+The 1st cow just wandered west.
+
+The aura absorbs into Sammoth and vanishes as a image of an oak tree appears over him.
+diag all
+h
+
+You point towards Sammoth and a faint aura appears around both of them.
+Invoking this spell cost you 6 mana and 1 faith.
+[5 sec. delay]
+
+You examine all the people in the room...
+
+You examine Sammoth. He looks weakened. He seems winded.
+
+
+HP:  91/91  Ftg:  40/59  MP:  57/67
+
+
+Sammoth begins looting the bandit corpse.
+
+He picks up some marks.
+
+The aura absorbs into Sammoth and vanishes as a image of an oak tree appears over him.
+diag all
+h
+
+You examine all the people in the room...
+
+You examine Sammoth. He looks weakened. He seems tired.
+
+
+HP:  91/91  Ftg:  44/59  MP:  59/67
+
+
+invo 13 k
+You point towards Kurapiira and a faint aura appears around both of them.
+Invoking this spell cost you 6 mana and 1 faith.
+[5 sec. delay]
+
+The aura absorbs into Kurapiira and vanishes as a image of an oak tree appears over her.
+diag all
+h
+
+You feel energized!
+h
+h
+
+You examine all the people in the room...
+
+You examine Sammoth. He looks weakened. He seems tired.
+
+
+HP:  91/91  Ftg:  56/59  MP:  57/67
+
+
+
+HP:  91/91  Ftg:  56/59  MP:  57/67
+
+
+
+HP:  91/91  Ftg:  56/59  MP:  57/67
+
+
+Sammoth picks up the hardened steel stiletto.
+
+Sammoth's group just went east.
+
+You follow Sammoth...
+
+
+[Hard dirt road]
+Years of traffic from wagon, wheel barrow, and horse have left deep ruts in the hard-packed dirt road. The rains of this area allow these deep ruts to become a muddy trap for wagon and unwary traveler alike. Tall grass hides a broad ditch to one side.
+
+The area is illuminated.
+
+In this room you see: Sammoth the Rock Troll, 1st bandit
+Obvious exits are: northeast, west
+
+k b
+Your target is too far away!
+tact
+
+You are currently standing 1 units behind center.
+
+Standing 4 units in front of you:
+bandit
+Standing in your rank:
+Sammoth, Kurapiira
+
+
+The 1st bandit advances towards Sammoth.
+
+k b
+You perform a uppercut with your gleaming silver haubergen at the 1st bandit!
+k b 
+The attack misses!
+[5 sec. delay]
+
+Sammoth performs a downwards laceration with his dragon hilted broadsword at the 1st bandit!
+It is a well executed blow to its torso!
+The bandit is knocked back!
+
+
+The 1st bandit attacks Sammoth with its hardened steel stiletto, but the blow is turned away by his dragon hilted broadsword.
+
+You perform a reverse swing with your gleaming silver haubergen at the 1st bandit!
+k b 
+It is a fair blow to its head!
+[5 sec. delay]
+
+Sammoth performs a simple cut with his dragon hilted broadsword at the 1st bandit!
+It is a strong blow to its left arm!
+
+
+A bandit just entered the room right next to you.
+
+The 1st bandit attacks Sammoth with its hardened steel stiletto, but the blow is turned away by his dragon hilted broadsword.
+
+You perform a reverse swing with your gleaming silver haubergen at the 1st bandit!
+k b 
+The attack misses!
+[5 sec. delay]
+
+Sammoth performs a calculated strike with his dragon hilted broadsword at the 1st bandit!
+It is a solid blow to its chest!
+
+
+The 2nd bandit attacks Sammoth with its hardened steel stiletto!
+It is a solid blow to his right arm!
+
+
+The 1st bandit attacks Sammoth with its hardened steel stiletto, but he evades the strike.
+
+You perform a reverse swing with your gleaming silver haubergen at the 1st bandit!
+k b 
+It is a well executed blow to its right leg!
+[5 sec. delay]
+
+Sammoth performs a cross-body slash with his dragon hilted broadsword at the 1st bandit!
+It is a fair blow to its right arm!
+The bandit is knocked back!
+The bandit stumbles and falls down!
+
+
+The 2nd bandit attacks Sammoth with its hardened steel stiletto!
+It is a solid blow to his left leg!
+
+
+The 1st bandit stands up.
+
+You perform a uppercut with your gleaming silver haubergen at the 1st bandit!
+k b 
+The attack misses!
+[5 sec. delay]
+
+Sammoth performs a reverse slash with his dragon hilted broadsword at the 1st bandit!
+It is a strong blow to its left arm!
+
+
+q c
+Your command queue has been cleared.
+
+The 1st bandit advances towards Sammoth.
+
+The 2nd bandit attacks Sammoth with its hardened steel stiletto, but the blow is turned away by his dragon hilted broadsword.
+
+diag all
+h
+You examine all the people in the room...
+
+You examine Sammoth. He looks weakened. He seems winded.
+
+
+HP:  91/91  Ftg:  47/59  MP:  67/67
+
+
+invo 13 sa
+You point towards Sammoth and a faint aura appears around both of them.
+Invoking this spell cost you 6 mana and 1 faith.
+[5 sec. delay]
+
+Sammoth performs a cross-body slash with his dragon hilted broadsword at the 1st bandit!
+It is a strong blow to its right leg!
+
+
+The bandit grunts loudly and falls to the ground dead.
+
+invo 13 sa
+The 2nd bandit attacks Sammoth with its hardened steel stiletto, but the blow is turned away by his dragon hilted broadsword.
+
+The aura absorbs into Sammoth and vanishes as a image of an oak tree appears over him.
+diag all
+h
+
+You point towards Sammoth and a faint aura appears around both of them.
+Invoking this spell cost you 6 mana and 1 faith.
+[5 sec. delay]
+
+You examine all the people in the room...
+
+You examine Sammoth. He looks weakened. He seems tired.
+
+
+HP:  91/91  Ftg:  47/59  MP:  57/67
+
+
+The 2nd bandit attacks Sammoth with its hardened steel stiletto!
+It is a solid blow to his torso!
+
+
+Sammoth begins looting the bandit corpse.
+
+He picks up some marks.
+
+The aura absorbs into Sammoth and vanishes as a image of an oak tree appears over him.
+diag all
+h
+
+You examine all the people in the room...
+
+You examine Sammoth. He looks weakened. He seems tired.
+
+
+HP:  91/91  Ftg:  51/59  MP:  59/67
+
+
+k b
+You perform a resounding smash with your gleaming silver haubergen at the 1st bandit!
+k b 
+The attack misses!
+[5 sec. delay]
+
+Sammoth performs a calculated strike with his dragon hilted broadsword at the 1st bandit!
+It is a decent blow to its right arm!
+The bandit is knocked back!
+
+
+The 1st bandit attacks Sammoth with its hardened steel stiletto, but he evades the strike.
+
+You perform a uppercut with your gleaming silver haubergen at the 1st bandit!
+k b 
+The attack misses!
+[5 sec. delay]
+
+Sammoth performs a cross-body slash with his dragon hilted broadsword at the 1st bandit!
+It is a strong blow to its torso!
+The bandit is knocked back!
+The bandit stumbles and falls down!
+
+
+The 1st bandit stands up.
+
+You perform a uppercut with your gleaming silver haubergen at the 1st bandit!
+k b 
+The attack misses!
+[5 sec. delay]
+
+Sammoth performs a simple cut with his dragon hilted broadsword at the 1st bandit!
+It is a powerful blow to its chest!
+
+
+The 1st bandit advances towards Sammoth.
+
+The 1st bandit attacks Sammoth with its hardened steel stiletto, but the blow is turned away by his dragon hilted broadsword.
+
+You perform a resounding smash with your gleaming silver haubergen at the 1st bandit!
+k b 
+It is a well executed blow to its right arm!
+[5 sec. delay]
+
+Sammoth performs a calculated strike with his dragon hilted broadsword at the 1st bandit!
+It is a fair blow to its head!
+
+
+The 1st bandit attacks Sammoth with its hardened steel stiletto, but he evades the strike.
+
+You perform a resounding smash with your gleaming silver haubergen at the 1st bandit!
+k b 
+The attack misses!
+[5 sec. delay]
+
+q c
+Sammoth performs a downwards laceration with his dragon hilted broadsword at the 1st bandit!
+It is a fair blow to its neck!
+The bandit is knocked back!
+The bandit stumbles and falls down!
+
+
+Your command queue has been cleared.
+
+diag all
+h
+You examine all the people in the room...
+
+You examine Sammoth. He looks weakened. He seems tired.
+
+
+HP:  91/91  Ftg:  39/59  MP:  67/67
+
+
+The 1st bandit attacks Sammoth with its hardened steel stiletto!
+It is a solid blow to his head!
+
+
+Sammoth performs a simple cut with his dragon hilted broadsword at the 1st bandit!
+It is a decent blow to its left leg!
+
+
+invo 13 sa
+The bandit grunts loudly and falls to the ground dead.
+
+You point towards Sammoth and a faint aura appears around both of them.
+Invoking this spell cost you 6 mana and 1 faith.
+[5 sec. delay]
+
+The aura absorbs into Sammoth and vanishes as a image of an oak tree appears over him.
+diag all
+h
+
+Sammoth begins looting the bandit corpse.
+
+He picks up some marks.
+
+You examine all the people in the room...
+
+You examine Sammoth. He looks weakened. He seems tired.
+
+
+HP:  91/91  Ftg:  39/59  MP:  65/67
+
+
+Sammoth picks up the hardened steel stiletto.
+
+Sammoth picks up the hardened steel stiletto.
+
+invo 13 k
+You point towards Kurapiira and a faint aura appears around both of them.
+Invoking this spell cost you 6 mana and 1 faith.
+[5 sec. delay]
+
+The aura absorbs into Kurapiira and vanishes as a image of an oak tree appears over her.
+diag all
+h
+
+You feel energized!
+h
+h
+
+You examine all the people in the room...
+
+You examine Sammoth. He looks weakened. He seems tired.
+
+
+HP:  91/91  Ftg:  55/59  MP:  63/67
+
+
+
+HP:  91/91  Ftg:  55/59  MP:  63/67
+
+
+
+HP:  91/91  Ftg:  55/59  MP:  63/67
+
+
+l
+
+[Hard dirt road]
+Years of traffic from wagon, wheel barrow, and horse have left deep ruts in the hard-packed dirt road. The rains of this area allow these deep ruts to become a muddy trap for wagon and unwary traveler alike. Tall grass hides a broad ditch to one side.
+
+The area is illuminated.
+
+In this room you see: Sammoth the Rock Troll
+Obvious exits are: northeast, west
+
+say so far they got the cleric thyng workin purty good
+Sammoth puts his hardened steel stiletto in his open silver-trimmed storage chest.
+
+You say, "so far they got the cleric thyng workin purty good"
+
+Sammoth puts his hardened steel stiletto in his open silver-trimmed storage chest.
+
+Sammoth puts his hardened steel stiletto in his open silver-trimmed storage chest.
+
+Sammoth smiles.
+
+
+Sammoth says, "Goood"
+
+grin 
+You grin.
+
+Sammoth's group just went west.
+
+You follow Sammoth...
+
+
+[Hard dirt road]
+Plowed fields and crops stretch out as far as the eye can see on one side of the road. On the other, a deep ditch separates the road from a cluster of oak and ash trees. Cattails line the ditch bank, their brown flowers with their yellow spikes towering over the road.
+
+The area is illuminated.
+
+In this room you see: Sammoth the Rock Troll, 1st cow, 1st bandit
+Obvious exits are: east, west
+
+nos
+Unknown command "nos"
+
+Sammoth performs a cross-body slash with his dragon hilted broadsword at the 1st bandit!
+It is a solid blow to its right leg!
+
+
+The 1st bandit advances towards Sammoth.
+
+nod
+You nod.
+
+k b
+You perform a reverse swing with your gleaming silver haubergen at the 1st bandit!
+k b 
+The attack misses!
+[5 sec. delay]
+
+The 1st bandit attacks Sammoth with its hardened steel stiletto, but the blow is turned away by his dragon hilted broadsword.
+
+Sammoth performs a calculated strike with his dragon hilted broadsword at the 1st bandit!
+It is a well executed blow to its head!
+The bandit is knocked back!
+
+
+You perform a powerful blow with your gleaming silver haubergen at the 1st bandit!
+k b 
+The attack misses!
+[5 sec. delay]
+
+The 1st bandit attacks Sammoth with its hardened steel stiletto!
+It is a solid blow to his left leg!
+
+
+Sammoth performs a downwards laceration with his dragon hilted broadsword at the 1st bandit!
+It is a powerful blow to its head!
+
+
+You perform a resounding smash with your gleaming silver haubergen at the 1st bandit!
+k b 
+The attack misses!
+[5 sec. delay]
+
+The 1st bandit attacks Sammoth with its hardened steel stiletto, but the blow is turned away by his dragon hilted broadsword.
+
+Sammoth performs a downwards laceration with his dragon hilted broadsword at the 1st bandit!
+It is a powerful blow to its right leg!
+
+
+You perform a reverse swing with your gleaming silver haubergen at the 1st bandit!
+k b 
+The attack misses!
+[5 sec. delay]
+
+The 1st bandit attacks Sammoth with its hardened steel stiletto, but the blow is turned away by his dragon hilted broadsword.
+
+Sammoth performs a downwards laceration with his dragon hilted broadsword at the 1st bandit!
+It is a decent blow to its right leg!
+The bandit is knocked back!
+
+
+You perform a reverse swing with your gleaming silver haubergen at the 1st bandit!
+k b 
+It is a decent blow to its neck!
+[5 sec. delay]
+
+The 1st bandit advances towards Sammoth.
+
+Sammoth performs a calculated strike with his dragon hilted broadsword at the 1st bandit!
+It is a glancing blow to its head!
+The bandit is knocked back!
+The bandit stumbles and falls down!
+
+
+The bandit grunts loudly and falls to the ground dead.
+
+q c
+Your command queue has been cleared.
+
+diag all
+h
+You examine all the people in the room...
+
+You examine Sammoth. He looks weakened. He seems tired.
+
+
+HP:  91/91  Ftg:  47/59  MP:  67/67
+
+
+invo 13 sa
+You point towards Sammoth and a faint aura appears around both of them.
+Invoking this spell cost you 6 mana and 1 faith.
+[5 sec. delay]
+
+The aura absorbs into Sammoth and vanishes as a image of an oak tree appears over him.
+diag all
+h
+
+You examine all the people in the room...
+
+You examine Sammoth. He appears to be in good health. He seems tired.
+
+
+HP:  91/91  Ftg:  51/59  MP:  63/67
+
+
+Sammoth begins looting the bandit corpse.
+
+He picks up some marks.
+
+l
+
+[Hard dirt road]
+Plowed fields and crops stretch out as far as the eye can see on one side of the road. On the other, a deep ditch separates the road from a cluster of oak and ash trees. Cattails line the ditch bank, their brown flowers with their yellow spikes towering over the road.
+
+The area is illuminated.
+
+In this room you see: Sammoth the Rock Troll, 1st cow
+In this room are: hardened steel stiletto
+Obvious exits are: east, west
+
+Your standard lantern flickers for a few moments.
+
+l at sa
+
+You see Sammoth the adult Rock Troll.
+He is 6' 3" tall with a muscular build, dreadlocked, bluish black hair, ruby red eyes, and reddish brown skin.
+He bears the mark of Aypas.
+He is currently in a neutral mood.
+
+Description:
+This Troll has clearly seen battle before. Scars appear all over his body. Deep claw marks form an X across his upper torso..
+
+
+He is carrying:
+ -a dragon hilted broadsword     (both hands)
+ -a sparkling pluronium chain mail       (torso)
+ -a black broadcloth trousers    (legs)
+ -a pair of black combat boots   (feet)
+ -a open simple leather backpack         (on back)
+ -a black leather belt   (around waist)
+ -a well forged scabbard         (on belt)
+
+
+
+Sammoth picks up the hardened steel stiletto.
+
+say no sheilds for you?
+You ask, "no sheilds for you?"
+
+Sammoth puts his hardened steel stiletto in his open silver-trimmed storage chest.
+
+Sammoth snickers.
+
+grin 
+You grin.
+
+
+Sammoth asks, "Huh?"
+
+chu softly
+You chuckle softly.
+
+Sammoth's group just went east.
+
+You follow Sammoth...
+
+
+[Hard dirt road]
+Years of traffic from wagon, wheel barrow, and horse have left deep ruts in the hard-packed dirt road. The rains of this area allow these deep ruts to become a muddy trap for wagon and unwary traveler alike. Tall grass hides a broad ditch to one side.
+
+The area is illuminated.
+
+In this room you see: Sammoth the Rock Troll, 1st bandit, 2nd bandit
+Obvious exits are: northeast, west
+
+The 2nd bandit attacks Sammoth with its hardened steel stiletto!
+It is a solid blow to his left leg!
+
+
+k b
+You perform a reverse swing with your gleaming silver haubergen at the 1st bandit!
+k b 
+The attack misses!
+[5 sec. delay]
+
+The 1st bandit advances towards Sammoth.
+
+Sammoth performs a cross-body slash with his dragon hilted broadsword at the 1st bandit!
+It is a powerful blow to its right arm!
+
+
+The 2nd bandit attacks Sammoth with its hardened steel stiletto, but the blow is turned away by his dragon hilted broadsword.
+
+You perform a resounding smash with your gleaming silver haubergen at the 1st bandit!
+k b 
+The attack misses!
+[5 sec. delay]
+
+The 1st bandit attacks Sammoth with its hardened steel stiletto!
+It is a solid blow to his right leg!
+
+
+Merau just entered from the northeast.
+
+Sammoth performs a downwards laceration with his dragon hilted broadsword at the 1st bandit!
+It is a strong blow to its torso!
+
+
+Merau just went west.
+
+The 2nd bandit attacks Sammoth with its hardened steel stiletto!
+It is a solid blow to his right leg!
+
+
+You perform a uppercut with your gleaming silver haubergen at the 1st bandit!
+k b 
+It is a decent blow to its torso!
+[5 sec. delay]
+
+The 1st bandit attacks Sammoth with its hardened steel stiletto!
+It is a solid blow to his left arm!
+
+
+Sammoth performs a simple cut with his dragon hilted broadsword at the 1st bandit!
+It is a well executed blow to its left leg!
+The bandit is knocked back!
+
+
+The 2nd bandit attacks Sammoth with its hardened steel stiletto, but the blow is turned away by his dragon hilted broadsword.
+
+You perform a simple crush with your gleaming silver haubergen at the 1st bandit!
+k b 
+It is a powerful blow to its chest!
+[5 sec. delay]
+
+The 1st bandit attacks Sammoth with its hardened steel stiletto, but he evades the strike.
+
+Sammoth performs a vicious hack with his dragon hilted broadsword at the 1st bandit!
+It is a well executed blow to its right leg!
+
+
+The 2nd bandit attacks Sammoth with its hardened steel stiletto!
+It is a solid blow to his right arm!
+
+
+You perform a uppercut with your gleaming silver haubergen at the 1st bandit!
+k b 
+It is a strong blow to its chest!
+[5 sec. delay]
+
+The bandit grunts loudly and falls to the ground dead.
+
+q c
+Your command queue has been cleared.
+
+Merau just entered from the west.
+
+diag all
+h
+You examine all the people in the room...
+
+You examine Sammoth. He looks weakened. He seems tired.
+You examine Merau. She appears to be in good health. She seems tired.
+
+
+HP:  91/91  Ftg:  47/59  MP:  67/67
+
+
+Merau just went northeast.
+
+The 2nd bandit attacks Sammoth with its hardened steel stiletto, but the blow is turned away by his dragon hilted broadsword.
+
+Merau just entered from the northeast.
+
+Merau just went west.
+
+invo 13 sa
+You point towards Sammoth and a faint aura appears around both of them.
+Invoking this spell cost you 6 mana and 1 faith.
+[5 sec. delay]
+
+The 2nd bandit attacks Sammoth with its hardened steel stiletto, but the blow is turned away by his dragon hilted broadsword.
+
+The aura absorbs into Sammoth and vanishes as a image of an oak tree appears over him.
+diag all
+h
+
+You examine all the people in the room...
+
+You examine Sammoth. He looks weakened.
+
+
+HP:  91/91  Ftg:  51/59  MP:  63/67
+
+
+The 2nd bandit attacks Sammoth with its hardened steel stiletto, but the blow is turned away by his dragon hilted broadsword.
+
+k 2 b
+Sammoth begins looting the bandit corpse.
+
+He picks up some marks.
+
+
+I don't see what you're referring to.
+
+The 1st bandit attacks Sammoth with its hardened steel stiletto, but the blow is turned away by his dragon hilted broadsword.
+
+Sammoth performs a vicious hack with his dragon hilted broadsword at the 1st bandit!
+It is a decent blow to its neck!
+The bandit is knocked back!
+The bandit stumbles and falls down!
+
+
+k b
+You perform a uppercut with your gleaming silver haubergen at the 1st bandit!
+k b 
+The attack misses!
+[5 sec. delay]
+
+The 1st bandit stands up.
+
+Sammoth performs a downwards laceration with his dragon hilted broadsword at the 1st bandit!
+It is a solid blow to its neck!
+
+
+You perform a reverse swing with your gleaming silver haubergen at the 1st bandit!
+k b 
+It is a strong blow to its neck!
+[5 sec. delay]
+
+The 1st bandit advances towards Sammoth.
+
+Sammoth performs a reverse slash with his dragon hilted broadsword at the 1st bandit!
+It is a fair blow to its right leg!
+
+
+The 1st bandit attacks Sammoth with its hardened steel stiletto!
+It is a solid blow to his left arm!
+
+
+You perform a uppercut with your gleaming silver haubergen at the 1st bandit!
+k b 
+It is a decent blow to its head!
+[5 sec. delay]
+
+Sammoth performs a cross-body slash with his dragon hilted broadsword at the 1st bandit!
+It is a decent blow to its chest!
+
+
+The 1st bandit attacks Sammoth with its hardened steel stiletto, but the blow is turned away by his dragon hilted broadsword.
+
+You perform a uppercut with your gleaming silver haubergen at the 1st bandit!
+k b 
+It is a solid blow to its right arm!
+[5 sec. delay]
+
+Sammoth performs a downwards laceration with his dragon hilted broadsword at the 1st bandit!
+The attack misses!
+
+The 1st bandit attacks Sammoth with its hardened steel stiletto!
+It is a solid blow to his left arm!
+
+
+You perform a resounding smash with your gleaming silver haubergen at the 1st bandit!
+k b 
+The attack misses!
+[5 sec. delay]
+
+Merau just entered from the west.
+
+Merau just went northeast.
+
+Sammoth performs a cross-body slash with his dragon hilted broadsword at the 1st bandit!
+It is a glancing blow to its right leg!
+
+
+The bandit grunts loudly and falls to the ground dead.
+
+Your target is already dead!
+q c
+zh
+
+Your command queue has been cleared.
+
+Unknown command "zh"
+
+q c
+Your command queue has been cleared.
+
+diag all
+h
+You examine all the people in the room...
+
+You examine Sammoth. He looks weakened. He seems tired.
+
+
+HP:  91/91  Ftg:  43/59  MP:  67/67
+
+
+invo 13 k
+You point towards Kurapiira and a faint aura appears around both of them.
+Invoking this spell cost you 6 mana and 1 faith.
+[5 sec. delay]
+
+A bandit just entered the room right next to you.
+
+The aura absorbs into Kurapiira and vanishes as a image of an oak tree appears over her.
+diag all
+h
+
+You feel energized!
+h
+h
+
+You examine all the people in the room...
+
+You examine Sammoth. He looks weakened. He seems tired.
+
+
+HP:  91/91  Ftg:  59/59  MP:  63/67
+
+
+
+HP:  91/91  Ftg:  59/59  MP:  63/67
+
+
+
+HP:  91/91  Ftg:  59/59  MP:  63/67
+
+
+k b
+Your target is already dead!
+q c
+zh
+
+Your command queue has been cleared.
+
+Unknown command "zh"
+
+k 2 b
+The 2nd bandit attacks Sammoth with its hardened steel stiletto!
+It is a solid blow to his torso!
+
+
+You perform a simple crush with your gleaming silver haubergen at the 2nd bandit!
+k b 
+The attack misses!
+[5 sec. delay]
+
+Your target is already dead!
+q c
+zh
+
+The 2nd bandit attacks Sammoth with its hardened steel stiletto, but the blow is turned away by his dragon hilted broadsword.
+
+Your command queue has been cleared.
+
+Unknown command "zh"
+
+The 2nd bandit attacks Sammoth with its hardened steel stiletto, but the blow is turned away by his dragon hilted broadsword.
+
+TARGET IS : 2 b
+k 2 b
+You perform a powerful blow with your gleaming silver haubergen at the 2nd bandit!
+k 2 b
+The attack misses!
+[5 sec. delay]
+
+The 2nd bandit attacks Sammoth with its hardened steel stiletto!
+It is a solid blow to his left leg!
+
+
+You perform a reverse swing with your gleaming silver haubergen at the 2nd bandit!
+k 2 b
+The attack misses!
+[5 sec. delay]
+
+diag all
+h
+You examine all the people in the room...
+
+You examine Sammoth. He looks weakened. He seems tired.
+
+
+HP:  91/91  Ftg:  51/59  MP:  67/67
+
+
+The 2nd bandit attacks Sammoth with its hardened steel stiletto!
+It is a solid blow to his torso!
+
+
+You perform a reverse swing with your gleaming silver haubergen at the 2nd bandit!
+k 2 b
+It is a solid blow to its right arm!
+[5 sec. delay]
+
+diag all
+h
+You examine all the people in the room...
+
+You examine Sammoth. He looks weakened. He seems tired.
+
+
+HP:  91/91  Ftg:  51/59  MP:  67/67
+
+
+The 2nd bandit attacks Sammoth with its hardened steel stiletto!
+It is a solid blow to his right leg!
+
+
+You perform a reverse swing with your gleaming silver haubergen at the 2nd bandit!
+k 2 b
+It is a well executed blow to its right arm!
+[5 sec. delay]
+
+diag all
+h
+You examine all the people in the room...
+
+You examine Sammoth. He looks weakened. He seems tired.
+
+
+HP:  91/91  Ftg:  47/59  MP:  67/67
+
+
+The 2nd bandit attacks Sammoth with its hardened steel stiletto!
+It is a solid blow to his right arm!
+
+
+Sammoth begins looting the bandit corpse.
+
+He picks up some marks.
+
+
+I don't see what you're referring to.
+
+Sammoth performs a vicious hack with his dragon hilted broadsword at the 1st bandit!
+It is a glancing blow to its neck!
+The bandit is knocked back!
+The bandit stumbles and falls down!
+
+
+k b
+The 1st bandit attacks Sammoth with its hardened steel stiletto!
+It is a solid blow to his right arm!
+
+
+You perform a simple crush with your gleaming silver haubergen at the 1st bandit!
+k 2 b
+It is a strong blow to its left leg!
+[5 sec. delay]
+
+q c
+Your command queue has been cleared.
+
+Sammoth performs a calculated strike with his dragon hilted broadsword at the 1st bandit!
+It is a solid blow to its torso!
+
+
+TARGET IS : b 
+diag all
+h
+You examine all the people in the room...
+
+You examine Sammoth. He looks weakened. He seems tired.
+
+
+HP:  91/91  Ftg:  47/59  MP:  67/67
+
+
+The 1st bandit attacks Sammoth with its hardened steel stiletto!
+It is a solid blow to his left arm!
+
+
+Sammoth performs a downwards laceration with his dragon hilted broadsword at the 1st bandit!
+It is a powerful blow to its right leg!
+
+
+k b
+You perform a reverse swing with your gleaming silver haubergen at the 1st bandit!
+k b 
+It is a solid blow to its left leg!
+[5 sec. delay]
+
+The bandit grunts loudly and falls to the ground dead.
+
+A bandit just entered the room 2 units behind you.
+
+smirk
+You smirk.
+
+Your target is already dead!
+q c
+zh
+
+Your command queue has been cleared.
+
+Unknown command "zh"
+
+k b
+Your target is already dead!
+q c
+zh
+
+Your command queue has been cleared.
+
+Unknown command "zh"
+
+The 2nd bandit advances towards Sammoth.
+
+k 2 b
+You perform a powerful blow with your gleaming silver haubergen at the 2nd bandit!
+k b 
+It is a glancing blow to its left arm!
+[5 sec. delay]
+
+The 2nd bandit attacks Sammoth with its hardened steel stiletto, but the blow is turned away by his dragon hilted broadsword.
+
+Sammoth begins looting the bandit corpse.
+
+He picks up some marks.
+
+k 2 b
+You perform a resounding smash with your gleaming silver haubergen at the 1st bandit!
+k b 
+The attack misses!
+[5 sec. delay]
+
+
+Sammoth asks, "What?"
+
+The 1st bandit attacks Sammoth with its hardened steel stiletto!
+It is a solid blow to his head!
+
+
+Sammoth's eyes widen and his pupils constrict as he lets out a wild howl.
+
+cac
+You cackle.
+
+Sammoth performs a simple cut with his dragon hilted broadsword at the 1st bandit!
+It is a well executed blow to its neck!
+The bandit is knocked back!
+
+
+k b
+
+I don't see what you're referring to.
+
+You perform a uppercut with your gleaming silver haubergen at the 1st bandit!
+k b 
+It is a well executed blow to its torso!
+[5 sec. delay]
+
+Sammoth performs a calculated strike with his dragon hilted broadsword at the 1st bandit!
+It is a solid blow to its torso!
+The bandit is knocked back!
+The bandit stumbles and falls down!
+
+
+The 1st bandit stands up.
+
+Sammoth performs a cross-body slash with his dragon hilted broadsword at the 1st bandit!
+It is a strong blow to its neck!
+The bandit is knocked back!
+
+
+The 1st bandit advances towards Sammoth.
+
+You perform a simple crush with your gleaming silver haubergen at the 1st bandit!
+k b 
+It is a glancing blow to its torso!
+[5 sec. delay]
+
+Sammoth performs a calculated strike with his dragon hilted broadsword at the 1st bandit!
+It is a fair blow to its head!
+The bandit is knocked back!
+
+
+The 1st bandit attacks Sammoth with its hardened steel stiletto, but the blow is turned away by his dragon hilted broadsword.
+
+say you still eatin that pizza?
+You ask, "you still eatin that pizza?"
+
+grin to sa
+You grin to Sammoth.
+
+You perform a uppercut with your gleaming silver haubergen at the 1st bandit!
+k b 
+The attack misses!
+[5 sec. delay]
+
+Sammoth performs a vicious hack with his dragon hilted broadsword at the 1st bandit!
+It is a strong blow to its chest!
+The bandit is knocked back!
+
+
+The bandit grunts loudly and falls to the ground dead.
+
+diag all
+h
+
+Sammoth says, "haha"
+
+You examine all the people in the room...
+
+You examine Sammoth. He looks weakened. He seems winded.
+
+
+HP:  91/91  Ftg:  35/59  MP:  67/67
+
+
+Your target is already dead!
+q c
+zh
+
+invo 13 sa
+Your command queue has been cleared.
+
+Unknown command "zh"
+
+You point towards Sammoth and a faint aura appears around both of them.
+Invoking this spell cost you 6 mana and 1 faith.
+[5 sec. delay]
+
+invo 13 sa
+Sammoth begins looting the bandit corpse.
+
+He picks up some marks.
+
+Sammoth calms down and appears to regain his self control.
+
+The aura absorbs into Sammoth and vanishes as a image of an oak tree appears over him.
+diag all
+h
+
+You point towards Sammoth and a faint aura appears around both of them.
+Invoking this spell cost you 6 mana and 1 faith.
+[5 sec. delay]
+
+Sammoth picks up the hardened steel stiletto.
+
+You examine all the people in the room...
+
+You examine Sammoth. He looks weakened. He seems winded.
+
+
+HP:  91/91  Ftg:  39/59  MP:  57/67
+
+
+Sammoth picks up the hardened steel stiletto.
+
+Sammoth picks up the hardened steel stiletto.
+
+Sammoth picks up the hardened steel stiletto.
+
+The aura absorbs into Sammoth and vanishes as a image of an oak tree appears over him.
+diag all
+h
+
+You examine all the people in the room...
+
+You examine Sammoth. He looks weakened. He seems winded.
+
+
+HP:  91/91  Ftg:  39/59  MP:  59/67
+
+
+invo 13 sa
+You point towards Sammoth and a faint aura appears around both of them.
+Invoking this spell cost you 6 mana and 1 faith.
+[5 sec. delay]
+
+Sammoth puts his hardened steel stiletto in his open silver-trimmed storage chest.
+
+Sammoth puts his hardened steel stiletto in his open silver-trimmed storage chest.
+
+Sammoth puts his hardened steel stiletto in his open silver-trimmed storage chest.
+
+Sammoth puts his hardened steel stiletto in his open silver-trimmed storage chest.
+
+Sammoth's group just went west.
+
+You follow Sammoth...
+
+
+[Hard dirt road]
+Plowed fields and crops stretch out as far as the eye can see on one side of the road. On the other, a deep ditch separates the road from a cluster of oak and ash trees. Cattails line the ditch bank, their brown flowers with their yellow spikes towering over the road.
+
+The area is illuminated.
+
+In this room you see: Sammoth the Rock Troll
+Obvious exits are: east, west
+
+The aura absorbs into Sammoth and vanishes as a image of an oak tree appears over him.
+diag all
+h
+
+You examine all the people in the room...
+
+You examine Sammoth. He looks weakened. He seems tired.
+
+
+HP:  91/91  Ftg:  39/59  MP:  55/67
+
+
+Sammoth's group just went west.
+
+You follow Sammoth...
+
+
+[Planted field]
+Several acres of wheat and barley span out on either side of the road. Low rock walls and irrigation ditches divide the fields neatly into almost perfect rectangles. A poorly constructed bucket and lever system allows water to be moved from area to area as needed,and with little difficulty.  
+
+The area is illuminated.
+
+In this room you see: Sammoth the Rock Troll, 1st cow
+In this room are: broken simple leather armor
+Obvious exits are: east, west
+
+A bandit just entered the room 4 units in front of you.
+
+Sammoth's group just went west.
+
+You follow Sammoth...
+
+
+[Dirt road]
+A sizable vegetable garden lines one side of the road, an irrigation ditch and picket fence segregating it from other fields and the road. Long, straight rows of beans, potatoes,turnips,and lettuce have been meticulously tended,ensuring no weeds could rob the plants of valuable nutrients. A small fenced pasture houses several cows on the other side of the road which moo ominously.  
+
+The area is illuminated.
+
+In this room you see: Sammoth the Rock Troll
+Obvious exits are: east, west
+
+Sammoth's group just went east.
+
+You follow Sammoth...
+
+
+[Planted field]
+Several acres of wheat and barley span out on either side of the road. Low rock walls and irrigation ditches divide the fields neatly into almost perfect rectangles. A poorly constructed bucket and lever system allows water to be moved from area to area as needed,and with little difficulty.  
+
+The area is illuminated.
+
+In this room you see: Sammoth the Rock Troll, 1st cow, 1st bandit
+Obvious exits are: east, west
+
+Sammoth's group just went east.
+
+You follow Sammoth...
+
+
+[Hard dirt road]
+Plowed fields and crops stretch out as far as the eye can see on one side of the road. On the other, a deep ditch separates the road from a cluster of oak and ash trees. Cattails line the ditch bank, their brown flowers with their yellow spikes towering over the road.
+
+The area is illuminated.
+
+In this room you see: Sammoth the Rock Troll, 1st bandit
+Obvious exits are: east, west
+
+Sammoth's group just went east.
+
+A bandit follows Sammoth.
+
+You follow Sammoth...
+
+
+[Hard dirt road]
+Years of traffic from wagon, wheel barrow, and horse have left deep ruts in the hard-packed dirt road. The rains of this area allow these deep ruts to become a muddy trap for wagon and unwary traveler alike. Tall grass hides a broad ditch to one side.
+
+The area is illuminated.
+
+In this room you see: Sammoth the Rock Troll, 1st bandit
+Obvious exits are: northeast, west
+
+k b
+You perform a reverse swing with your gleaming silver haubergen at the 1st bandit!
+k b 
+The attack misses!
+[5 sec. delay]
+
+The 1st bandit advances towards Sammoth.
+
+The 1st bandit attacks Sammoth with its hardened steel stiletto!
+It is a solid blow to his right arm!
+
+
+You perform a simple crush with your gleaming silver haubergen at the 1st bandit!
+k b 
+It is a well executed blow to its torso!
+[5 sec. delay]
+
+The 1st bandit attacks Sammoth with its hardened steel stiletto!
+It is a solid blow to his left leg!
+
+
+You perform a simple crush with your gleaming silver haubergen at the 1st bandit!
+k b 
+The attack misses!
+[5 sec. delay]
+
+The 1st bandit attacks Sammoth with its hardened steel stiletto!
+It is a solid blow to his right arm!
+
+
+Sammoth's eyes widen and his pupils constrict as he lets out a wild howl.
+
+You perform a powerful blow with your gleaming silver haubergen at the 1st bandit!
+k b 
+The attack misses!
+[5 sec. delay]
+
+The 1st bandit attacks Sammoth with its hardened steel stiletto!
+It is a solid blow to his head!
+
+
+You perform a reverse swing with your gleaming silver haubergen at the 1st bandit!
+k b 
+The attack misses!
+[5 sec. delay]
+
+how to sa
+You howl to Sammoth.
+
+The 1st bandit attacks Sammoth with its hardened steel stiletto!
+It is a solid blow to his head!
+
+
+Your standard lantern flickers for a few moments.
+
+You perform a resounding smash with your gleaming silver haubergen at the 1st bandit!
+k b 
+The attack misses!
+[5 sec. delay]
+
+l at b
+You see a bandit.
+
+Dressed in all black and masked the bandit sports dark black leather gloves.  
+
+It appears to be carrying: 
+         some marks
+         hardened steel stiletto
+
+
+It looks slightly wounded.
+It looks aggressive.
+
+
+The 1st bandit attacks Sammoth with its hardened steel stiletto, but the blow is turned away by his dragon hilted broadsword.
+
+You perform a powerful blow with your gleaming silver haubergen at the 1st bandit!
+k b 
+The attack misses!
+[5 sec. delay]
+
+diag all
+h
+You examine all the people in the room...
+
+You examine Sammoth. He looks weakened. He seems tired.
+
+
+HP:  91/91  Ftg:  23/59  MP:  67/67
+
+
+The 1st bandit attacks Sammoth with its hardened steel stiletto!
+It is a solid blow to his right leg!
+
+
+q c
+You perform a uppercut with your gleaming silver haubergen at the 1st bandit!
+k b 
+It is a decent blow to its head!
+[5 sec. delay]
+
+Your command queue has been cleared.
+
+invo 7 b
+Sammoth performs a cross-body slash with his dragon hilted broadsword at the 1st bandit!
+It is a solid blow to its neck!
+The bandit is knocked back!
+
+
+The 1st bandit attacks Sammoth with its hardened steel stiletto!
+It is a solid blow to his left leg!
+
+
+You perform a uppercut with your gleaming silver haubergen at the 1st bandit!
+k b 
+The attack misses!
+[5 sec. delay]
+
+Sammoth performs a downwards laceration with his dragon hilted broadsword at the 1st bandit!
+It is a glancing blow to its right leg!
+The bandit is knocked back!
+
+
+q c
+Your command queue has been cleared.
+
+Sammoth performs a reverse slash with his dragon hilted broadsword at the 1st bandit!
+It is a powerful blow to its torso!
+
+
+diag all
+h
+The 1st bandit advances towards Sammoth.
+
+You examine all the people in the room...
+
+You examine Sammoth. He looks weakened. He seems tired.
+
+
+HP:  91/91  Ftg:  19/59  MP:  67/67
+
+
+k b
+Sammoth performs a downwards laceration with his dragon hilted broadsword at the 1st bandit!
+It is a well executed blow to its left arm!
+
+
+The 1st bandit attacks Sammoth with its hardened steel stiletto, but the blow is turned away by his dragon hilted broadsword.
+
+You perform a reverse swing with your gleaming silver haubergen at the 1st bandit!
+k b 
+It is a glancing blow to its right arm!
+[5 sec. delay]
+
+Sammoth performs a downwards laceration with his dragon hilted broadsword at the 1st bandit!
+It is a solid blow to its head!
+The bandit is knocked back!
+
+
+The bandit grunts loudly and falls to the ground dead.
+
+Your target is already dead!
+q c
+zh
+
+Your command queue has been cleared.
+
+Unknown command "zh"
+
+diag all
+h
+You examine all the people in the room...
+
+You examine Sammoth. He looks weakened. He seems winded.
+
+
+HP:  91/91  Ftg:  19/59  MP:  67/67
+
+
+invo 13 sa
+You point towards Sammoth and a faint aura appears around both of them.
+Invoking this spell cost you 6 mana and 1 faith.
+[5 sec. delay]
+
+invo 13 sa
+The aura absorbs into Sammoth and vanishes as a image of an oak tree appears over him.
+diag all
+h
+
+You point towards Sammoth and a faint aura appears around both of them.
+Invoking this spell cost you 6 mana and 1 faith.
+[5 sec. delay]
+
+Sammoth calms down and appears to regain his self control.
+
+You examine all the people in the room...
+
+You examine Sammoth. He looks weakened. He seems fatigued.
+
+
+HP:  91/91  Ftg:  23/59  MP:  57/67
+
+
+The aura absorbs into Sammoth and vanishes as a image of an oak tree appears over him.
+diag all
+h
+
+You examine all the people in the room...
+
+You examine Sammoth. He looks weakened. He seems winded.
+
+
+HP:  91/91  Ftg:  23/59  MP:  59/67
+
+
+invo 13 sa
+You point towards Sammoth and a faint aura appears around both of them.
+Invoking this spell cost you 6 mana and 1 faith.
+[5 sec. delay]
+
+The aura absorbs into Sammoth and vanishes as a image of an oak tree appears over him.
+diag all
+h
+
+You examine all the people in the room...
+
+You examine Sammoth. He looks weakened. He seems winded.
+
+
+HP:  91/91  Ftg:  27/59  MP:  57/67
+
+
+invo 13 sa
+You point towards Sammoth and a faint aura appears around both of them.
+Invoking this spell cost you 6 mana and 1 faith.
+[5 sec. delay]
+
+Sammoth begins looting the bandit corpse.
+
+He picks up some marks.
+
+Sammoth picks up the hardened steel stiletto.
+
+The aura absorbs into Sammoth and vanishes as a image of an oak tree appears over him.
+diag all
+h
+
+You examine all the people in the room...
+
+You examine Sammoth. He looks weakened. He seems tired.
+
+
+HP:  91/91  Ftg:  27/59  MP:  53/67
+
+
+invo 13 sa
+You point towards Sammoth and a faint aura appears around both of them.
+Invoking this spell cost you 6 mana and 1 faith.
+[5 sec. delay]
+
+The aura absorbs into Sammoth and vanishes as a image of an oak tree appears over him.
+diag all
+h
+
+You examine all the people in the room...
+
+You examine Sammoth. He looks weakened.
+
+
+HP:  91/91  Ftg:  31/59  MP:  51/67
+
+
+invo 13 k
+You point towards Kurapiira and a faint aura appears around both of them.
+Invoking this spell cost you 6 mana and 1 faith.
+[5 sec. delay]
+
+The aura absorbs into Kurapiira and vanishes as a image of an oak tree appears over her.
+diag all
+h
+
+You feel energized!
+h
+h
+
+You examine all the people in the room...
+
+You examine Sammoth. He looks weakened.
+
+
+HP:  91/91  Ftg:  43/59  MP:  47/67
+
+
+
+HP:  91/91  Ftg:  43/59  MP:  47/67
+
+
+
+HP:  91/91  Ftg:  43/59  MP:  47/67
+
+
+invo 3 k
+A dull green aura begins to form around you as you offer a silent prayer to Tevleh.
+Invoking this spell cost you 5 mana.
+[5 sec. delay]
+
+The aura around you emanates outwards and is absorbed into you.
+
+You feel energized!
+h
+h
+
+
+HP:  91/91  Ftg:  53/59  MP:  48/67
+
+
+
+HP:  91/91  Ftg:  53/59  MP:  48/67
+
+
+mtt k
+Unknown command "mtt"
+
+invo 16 k
+You press your hands together and whisper a brief request to Tevleh.
+Invoking this spell cost you 6 mana.
+[6 sec. delay]
+
+Sammoth's group just went west.
+
+You follow Sammoth...
+
+
+[Hard dirt road]
+Plowed fields and crops stretch out as far as the eye can see on one side of the road. On the other, a deep ditch separates the road from a cluster of oak and ash trees. Cattails line the ditch bank, their brown flowers with their yellow spikes towering over the road.
+
+The area is illuminated.
+
+In this room you see: Sammoth the Rock Troll, 1st bandit
+Obvious exits are: east, west
+
+Your hands begin to shine a brilliant white before the glow spreads to your whole body before suddenly disappearing.
+
+You feel replenished!
+h
+h
+
+The 1st bandit advances towards Sammoth.
+
+
+HP:  91/91  Ftg:  57/59  MP:  67/67
+
+
+
+HP:  91/91  Ftg:  57/59  MP:  67/67
+
+
+Sammoth performs a calculated strike with his dragon hilted broadsword at the 1st bandit!
+It is a powerful blow to its torso!
+The bandit is knocked back!
+The bandit stumbles and falls down!
+
+
+k b
+You perform a reverse swing with your gleaming silver haubergen at the 1st bandit!
+k b 
+The attack misses!
+[5 sec. delay]
+
+The 1st bandit attacks Sammoth with its hardened steel stiletto, but the blow is turned away by his dragon hilted broadsword.
+
+Sammoth performs a cross-body slash with his dragon hilted broadsword at the 1st bandit!
+It is a decent blow to its neck!
+
+
+You perform a reverse swing with your gleaming silver haubergen at the 1st bandit!
+k b 
+The attack misses!
+[5 sec. delay]
+
+The 1st bandit stands up.
+
+Sammoth performs a vicious hack with his dragon hilted broadsword at the 1st bandit!
+It is a glancing blow to its right arm!
+
+
+You perform a uppercut with your gleaming silver haubergen at the 1st bandit!
+k b 
+The attack misses!
+[5 sec. delay]
+
+The 1st bandit attacks Sammoth with its hardened steel stiletto, but he evades the strike.
+
+Sammoth performs a cross-body slash with his dragon hilted broadsword at the 1st bandit!
+It is a powerful blow to its chest!
+The bandit is knocked back!
+The bandit stumbles and falls down!
+
+
+You perform a reverse swing with your gleaming silver haubergen at the 1st bandit!
+k b 
+It is a decent blow to its torso!
+[5 sec. delay]
+
+The 1st bandit stands up.
+
+Sammoth performs a simple cut with his dragon hilted broadsword at the 1st bandit!
+It is a well executed blow to its left leg!
+The bandit is knocked back!
+The bandit stumbles and falls down!
+
+
+The 1st bandit stands up.
+
+You perform a powerful blow with your gleaming silver haubergen at the 1st bandit!
+k b 
+It is a well executed blow to its left arm!
+[5 sec. delay]
+
+q c
+The 1st bandit advances towards Sammoth.
+
+Your command queue has been cleared.
+
+diag all
+h
+You examine all the people in the room...
+
+You examine Sammoth. He looks weakened. He seems tired.
+
+
+HP:  91/91  Ftg:  45/59  MP:  67/67
+
+
+Sammoth performs a simple cut with his dragon hilted broadsword at the 1st bandit!
+It is a glancing blow to its left leg!
+
+
+The bandit grunts loudly and falls to the ground dead.
+
+invo 13 sa
+You point towards Sammoth and a faint aura appears around both of them.
+Invoking this spell cost you 6 mana and 1 faith.
+[5 sec. delay]
+
+The aura absorbs into Sammoth and vanishes as a image of an oak tree appears over him.
+diag all
+h
+
+You examine all the people in the room...
+
+You examine Sammoth. He looks weakened. He seems tired.
+
+
+HP:  91/91  Ftg:  45/59  MP:  63/67
+
+
+Sammoth begins looting the bandit corpse.
+
+l
+He picks up some marks.
+
+
+[Hard dirt road]
+Plowed fields and crops stretch out as far as the eye can see on one side of the road. On the other, a deep ditch separates the road from a cluster of oak and ash trees. Cattails line the ditch bank, their brown flowers with their yellow spikes towering over the road.
+
+The area is illuminated.
+
+In this room you see: Sammoth the Rock Troll
+In this room are: hardened steel stiletto
+Obvious exits are: east, west
+
+Sammoth picks up the hardened steel stiletto.
+
+Sammoth's group just went west.
+
+You follow Sammoth...
+
+
+[Planted field]
+Several acres of wheat and barley span out on either side of the road. Low rock walls and irrigation ditches divide the fields neatly into almost perfect rectangles. A poorly constructed bucket and lever system allows water to be moved from area to area as needed,and with little difficulty.  
+
+The area is illuminated.
+
+In this room you see: Sammoth the Rock Troll, 1st cow, 1st bandit
+Obvious exits are: east, west
+
+The 1st bandit advances towards Sammoth.
+
+Sammoth performs a reverse slash with his dragon hilted broadsword at the 1st bandit!
+It is a well executed blow to its chest!
+
+
+k b
+You perform a resounding smash with your gleaming silver haubergen at the 1st bandit!
+k b 
+It is a strong blow to its head!
+[5 sec. delay]
+
+The 1st bandit attacks Sammoth with its hardened steel stiletto!
+It is a solid blow to his right arm!
+
+
+Sammoth performs a simple cut with his dragon hilted broadsword at the 1st bandit!
+It is a solid blow to its neck!
+The bandit is knocked back!
+
+
+You perform a reverse swing with your gleaming silver haubergen at the 1st bandit!
+k b 
+The attack misses!
+[5 sec. delay]
+
+The 1st bandit attacks Sammoth with its hardened steel stiletto, but the blow is turned away by his dragon hilted broadsword.
+
+Sammoth performs a calculated strike with his dragon hilted broadsword at the 1st bandit!
+It is a powerful blow to its right leg!
+
+
+You perform a powerful blow with your gleaming silver haubergen at the 1st bandit!
+k b 
+It is a fair blow to its right leg!
+[5 sec. delay]
+
+The 1st bandit attacks Sammoth with its hardened steel stiletto, but he evades the strike.
+
+Sammoth performs a vicious hack with his dragon hilted broadsword at the 1st bandit!
+It is a powerful blow to its torso!
+The bandit is knocked back!
+The bandit stumbles and falls down!
+
+
+You perform a resounding smash with your gleaming silver haubergen at the 1st bandit!
+k b 
+It is a well executed blow to its left leg!
+[5 sec. delay]
+
+The 1st bandit stands up.
+
+Sammoth performs a calculated strike with his dragon hilted broadsword at the 1st bandit!
+It is a fair blow to its neck!
+The bandit is knocked back!
+The bandit stumbles and falls down!
+
+
+The bandit grunts loudly and falls to the ground dead.
+
+q c
+Your command queue has been cleared.
+
+diag all
+h
+You examine all the people in the room...
+
+You examine Sammoth. He looks weakened. He seems tired.
+
+
+HP:  91/91  Ftg:  41/59  MP:  67/67
+
+
+invo 13 sa
+You point towards Sammoth and a faint aura appears around both of them.
+Invoking this spell cost you 6 mana and 1 faith.
+[5 sec. delay]
+
+time

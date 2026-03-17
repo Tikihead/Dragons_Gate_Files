@@ -1,0 +1,2067 @@
+time
+
+HP:  142/142  Ftg:  46/48  MP:  38/76
+
+
+
+HP:  142/142  Ftg:  46/48  MP:  38/76
+
+
+It is currently 11:42 PM.
+
+The 1st troll warrior bites at Harru!
+It is a solid blow to his torso!
+
+
+You exert an additional 1 mana maintaining the Bolster.
+
+Bjeorn picks up some crowns.
+
+l
+
+[Warcamp]
+Thick underbrush has been pushed aside forming what can only be explained as makeshift beds which remain scattered about.  The sounds of cracking and popping can be heard to the west.
+
+The area is illuminated.
+
+In this room you see: Bjeorn the Galirrim,  Harru the Galirrim, 1st troll warrior
+In this room are: rotting deer haunch, closed brushed copper coffer, closed embossed iron box, some marks
+Obvious exits are: northwest, west, east, northeast, north
+
+Harru claws at the 1st troll warrior!
+It is a fair blow to its left leg!
+  The troll warrior is knocked back!
+
+
+Harru claws at the 1st troll warrior!
+It is a glancing blow to its right arm!
+  The troll warrior is knocked back!
+
+
+Bjeorn picks up some marks.
+
+You exert an additional 1 mana maintaining the Revival.
+
+diag all
+h
+You examine all the people in the room...
+
+You examine Bjeorn. He appears to be in good health. He seems tired.
+He has the following wounds: a small laceration on his head
+You examine Harru. He looks injured. He seems tired.
+He has the following wounds: a tiny puncture on his left leg, a small laceration on his left leg, a small laceration on his right leg, a tiny puncture on his right leg
+
+
+HP:  142/142  Ftg:  48/48  MP:  38/76
+
+
+say damn
+You say, "damn"
+
+The 1st troll warrior punches at Harru!
+It is a solid blow to his torso!
+
+
+Harru claws at the 1st troll warrior!
+It is a fair blow to its neck!
+
+
+Harru claws at the 1st troll warrior!
+It is a solid blow to its torso!
+  The troll warrior is knocked back!
+
+
+You exert an additional 1 mana maintaining the Revival.
+
+The healthy glow in Harru's skin fades away.
+
+diag all
+h
+You examine all the people in the room...
+
+You examine Bjeorn. He appears to be in good health. He seems tired.
+He has the following wounds: a small laceration on his head
+You examine Harru. He looks injured. He seems tired.
+He has the following wounds: a tiny puncture on his left leg, a small laceration on his left leg, a small laceration on his right leg, a tiny puncture on his right leg, a tiny contusion on his torso
+
+
+HP:  142/142  Ftg:  47/48  MP:  39/76
+
+
+invo 21 h
+You kneel and begin a prayer to Eyranas. A small ray of light begins to shine from above on Harru.
+Invoking this spell cost you 8 mana.
+[6 sec. delay]
+
+The 1st troll warrior bites at Harru!
+It is a solid blow to his torso!
+
+
+Harru claws at the 1st troll warrior!
+It is a strong blow to its left arm!
+  The troll warrior is knocked back!
+  The troll warrior stumbles and falls down!
+
+
+Harru claws at the 1st troll warrior!
+It is a fair blow to its head!
+
+
+You exert an additional 1 mana maintaining the Bolster.
+
+The troll warrior grunts as it rubs the top of its hairless head, then topples over to the ground in a heap.
+
+Bjeorn says, "hrm"
+
+The ray of light shining on Harru strengthens and intensifies, gleaming brilliant once before fading away. In its wake, Harru's skin adopts a faint glow.
+
+invo 27
+You clasp both hands in front of you and begin an incantation to Eyranas.
+Invoking this spell cost you 10 mana and 2 faith.
+[6 sec. delay]
+
+Harru howls.
+
+invo 25 Kura
+You exert an additional 1 mana maintaining the Bolster.
+
+diag all
+h
+You examine all the people in the room...
+
+You examine Bjeorn. He appears to be in good health.
+He has the following wounds: a small laceration on his head
+You examine Harru. He looks injured. He seems tired.
+He has the following wounds: a small laceration on his left leg, a small laceration on his right leg, a tiny puncture on his right leg, a tiny contusion on his torso
+
+
+HP:  142/142  Ftg:  47/48  MP:  25/76
+LOW MANA
+
+
+You exert an additional 1 mana maintaining the Revival.
+
+You start to vocalize a request to Eyranas. After the first word, a large white wolf begins to appear on the ground underneath Kurapiira.
+Invoking this spell cost you 5 mana and 1 faith.
+[4 sec. delay]
+
+diag all
+h
+Waves of healing energy emanate from you and wash over your allies.
+
+h
+You feel healthier!
+
+You examine all the people in the room...
+
+You examine Bjeorn. He appears to be in good health.
+He has the following wounds: a small laceration on his head
+You examine Harru. He looks injured. He seems tired.
+He has the following wounds: a small laceration on his left leg, a small laceration on his right leg, a tiny puncture on his right leg, a tiny contusion on his torso
+
+
+HP:  142/142  Ftg:  47/48  MP:  19/76
+LOW MANA
+
+
+
+HP:  142/142  Ftg:  47/48  MP:  19/76
+LOW MANA
+
+
+Bjeorn begins looting the troll warrior corpse.
+He picks up some marks.
+He picks up some crowns.
+
+invo 26 h
+The white wolf underneath Kurapiira begins to glow a radiant blue for a few moments before fading back into obscurity.
+
+h
+You feel replenished!
+
+
+HP:  142/142  Ftg:  47/48  MP:  47/76
+
+
+Bits of soothing golden energy begin to converge in front of you, forming into a sphere of light.
+Invoking this spell cost you 10 mana and 5 faith.
+[8 sec. delay]
+
+You exert an additional 1 mana maintaining the Revival.
+
+A hedge troll just entered the room 8 units in front of you.
+
+You hear a crack of thunder in the distance.
+
+You exert an additional 1 mana maintaining the Revival.
+
+You exert an additional 1 mana maintaining the Bolster.
+
+invo 26 h
+diag all
+h
+The golden sphere of light in front of you travels out and envelops Harru in an comforting aura, greatly accelerating his healing.
+
+You examine all the people in the room...
+
+You examine Bjeorn. He appears to be in good health.
+He has the following wounds: a small laceration on his head
+You examine Harru. He looks weakened. He seems tired.
+He has the following wounds: a tiny laceration on his left leg, a tiny laceration on his right leg
+
+
+HP:  142/142  Ftg:  48/48  MP:  38/76
+
+
+Bits of soothing golden energy begin to converge in front of you, forming into a sphere of light.
+Invoking this spell cost you 10 mana and 5 faith.
+[8 sec. delay]
+
+You exert an additional 1 mana maintaining the Revival.
+
+The healthy glow in Harru's skin fades away.
+
+The 1st hedge troll advances towards Bjeorn.
+
+Harru calms down and appears to regain his self control.
+
+You exert an additional 1 mana maintaining the Bolster.
+
+The 1st hedge troll advances towards Bjeorn.
+
+diag all
+h
+The golden sphere of light in front of you travels out and envelops Harru in an comforting aura, greatly accelerating his healing.
+
+You examine all the people in the room...
+
+You examine Bjeorn. He appears to be in good health.
+He has the following wounds: a small laceration on his head
+You examine Harru. He looks weakened. He seems winded.
+
+
+HP:  142/142  Ftg:  46/48  MP:  30/76
+LOW MANA
+
+
+Harru claws at the 1st hedge troll!
+It is a glancing blow to its left leg!
+
+
+Harru claws at the 1st hedge troll!
+It is a fair blow to its neck!
+
+
+say i wonder if the city is alright
+You say, "i wonder if the city is alright"
+
+diag all
+h
+The 1st hedge troll claw at Harru!
+It is a solid blow to his head!
+
+
+howl to Harru
+Harru's eyes widen and his pupils constrict as he lets out a wild howl.
+
+You examine all the people in the room...
+
+You examine Bjeorn. He appears to be in good health.
+He has the following wounds: a small laceration on his head
+You examine Harru. He looks weakened. He seems winded.
+
+
+HP:  142/142  Ftg:  46/48  MP:  30/76
+LOW MANA
+
+
+You howl to Harru.
+
+Bjeorn says, "the second that has tested me"
+
+Harru claws at the 1st hedge troll!
+It is a solid blow to its torso!
+  The hedge troll is knocked back!
+
+
+Harru claws at the 1st hedge troll!
+It is a fair blow to its left arm!
+  The hedge troll is knocked back!
+
+
+invo 21 h
+You kneel and begin a prayer to Eyranas. A small ray of light begins to shine from above on Harru.
+Invoking this spell cost you 8 mana.
+[6 sec. delay]
+
+The 1st hedge troll claw at Harru!
+It is a solid blow to his right arm!
+
+
+Harru says, "hope it burns"
+
+You exert an additional 1 mana maintaining the Bolster.
+
+Harru claws at the 1st hedge troll!
+It is a strong blow to its right arm!
+
+
+Harru claws at the 1st hedge troll!
+It is a decent blow to its right leg!
+
+
+The ray of light shining on Harru strengthens and intensifies, gleaming brilliant once before fading away. In its wake, Harru's skin adopts a faint glow.
+
+chu
+You chuckle.
+
+Bjeorn picks up the closed brushed copper coffer.
+
+The 1st hedge troll claw at Harru!
+It is a solid blow to his head!
+
+
+diag all
+h
+You examine all the people in the room...
+
+You examine Bjeorn. He appears to be in good health.
+He has the following wounds: a tiny laceration on his head
+You examine Harru. He looks weakened. He seems winded.
+He has the following wounds: a tiny puncture on his right arm, a tiny puncture on his head
+
+
+HP:  142/142  Ftg:  46/48  MP:  27/76
+LOW MANA
+
+
+You exert an additional 1 mana maintaining the Bolster.
+
+invo 26 h
+Bits of soothing golden energy begin to converge in front of you, forming into a sphere of light.
+Invoking this spell cost you 10 mana and 5 faith.
+[8 sec. delay]
+
+You exert an additional 1 mana maintaining the Revival.
+
+Harru claws at the 1st hedge troll!
+It is a fair blow to its left leg!
+  The hedge troll is knocked back!
+
+
+invo 21 h
+Harru claws at the 1st hedge troll!
+It is a glancing blow to its torso!
+  The hedge troll is knocked back!
+
+
+The 1st hedge troll advances towards Harru.
+
+Bjeorn puts his closed brushed copper coffer in his open large durable burlap travel pack.
+
+invo 25 Kura
+l
+
+[Warcamp]
+Thick underbrush has been pushed aside forming what can only be explained as makeshift beds which remain scattered about.  The sounds of cracking and popping can be heard to the west.
+
+The area is illuminated.
+
+In this room you see: Bjeorn the Galirrim,  Harru the Galirrim, 1st hedge troll
+In this room are: rotting deer haunch, closed embossed iron box, set of thick hairy ogre skins
+Obvious exits are: northwest, west, east, northeast, north
+
+You exert an additional 1 mana maintaining the Revival.
+
+The 1st hedge troll claw at Harru!
+It is a solid blow to his right leg!
+
+
+Harru claws at the 1st hedge troll!
+It is a strong blow to its right leg!
+  The hedge troll is knocked back!
+
+
+Harru claws at the 1st hedge troll!
+It is a well executed blow to its head!
+
+
+That target is already under the influence of an effect like this.
+
+diag all
+h
+The golden sphere of light in front of you travels out and envelops Harru in an comforting aura, greatly accelerating his healing.
+
+You start to vocalize a request to Eyranas. After the first word, a large white wolf begins to appear on the ground underneath Kurapiira.
+Invoking this spell cost you 5 mana and 1 faith.
+[4 sec. delay]
+
+You examine all the people in the room...
+
+You examine Bjeorn. He appears to be in good health.
+He has the following wounds: a tiny laceration on his head
+You examine Harru. He looks weakened. He seems winded.
+
+
+HP:  142/142  Ftg:  47/48  MP:  13/76
+LOW MANA
+
+
+With a loud thud the troll falls to the ground motionless.
+
+Bjeorn picks up the closed embossed iron box.
+
+You exert an additional 1 mana maintaining the Revival.
+
+The white wolf underneath Kurapiira begins to glow a radiant blue for a few moments before fading back into obscurity.
+
+h
+You feel replenished!
+
+
+HP:  142/142  Ftg:  46/48  MP:  45/76
+
+
+invo 25 Kura
+You start to vocalize a request to Eyranas. After the first word, a large white wolf begins to appear on the ground underneath Kurapiira.
+Invoking this spell cost you 5 mana and 1 faith.
+[4 sec. delay]
+
+Bjeorn opens his closed embossed iron box.
+
+diag all
+h
+You examine all the people in the room...
+
+You examine Bjeorn. He appears to be in good health.
+He has the following wounds: a tiny laceration on his head
+You examine Harru. He looks weakened. He seems winded.
+
+
+HP:  142/142  Ftg:  46/48  MP:  40/76
+
+
+You exert an additional 1 mana maintaining the Revival.
+
+The healthy glow in Harru's skin fades away.
+
+The white wolf underneath Kurapiira begins to glow a radiant blue for a few moments before fading back into obscurity.
+
+h
+You feel replenished!
+
+
+HP:  142/142  Ftg:  46/48  MP:  64/76
+
+
+diag all
+h
+You examine all the people in the room...
+
+You examine Bjeorn. He appears to be in good health.
+You examine Harru. He appears to be in good health. He seems winded.
+
+
+HP:  142/142  Ftg:  48/48  MP:  66/76
+
+
+invo 11 h
+Harru picks up the set of thick hairy ogre skins.
+
+You call out to Eyranas and raise your hands slightly upwards.
+Invoking this spell cost you 5 mana.
+[4 sec. delay]
+
+invo 11 h
+Harru puts his set of thick hairy ogre skins in his open embossed iron box.
+
+invo 25 Kura
+diag all
+h
+A magnificent green and blue aura surrounds Harru in a revitalizing swirl of energy before disappearing.
+
+You examine all the people in the room...
+
+You examine Bjeorn. He appears to be in good health.
+You examine Harru. He appears to be in good health. He seems tired.
+
+
+HP:  142/142  Ftg:  47/48  MP:  63/76
+
+
+You call out to Eyranas and raise your hands slightly upwards.
+Invoking this spell cost you 5 mana.
+[4 sec. delay]
+
+l
+
+[Warcamp]
+Thick underbrush has been pushed aside forming what can only be explained as makeshift beds which remain scattered about.  The sounds of cracking and popping can be heard to the west.
+
+The area is illuminated.
+
+In this room you see: Bjeorn the Galirrim,  Harru the Galirrim, 1st hedge troll corpse (laying on the ground)
+In this room are: rotting deer haunch
+Obvious exits are: northwest, west, east, northeast, north
+
+Bjeorn removes 1 crown from his open embossed iron box.
+
+diag all
+h
+You examine all the people in the room...
+
+You examine Bjeorn. He appears to be in good health.
+You examine Harru. He appears to be in good health. He seems tired.
+
+
+HP:  142/142  Ftg:  46/48  MP:  60/76
+
+
+diag all
+h
+A magnificent green and blue aura surrounds Harru in a revitalizing swirl of energy before disappearing.
+
+You examine all the people in the room...
+
+You examine Bjeorn. He appears to be in good health.
+You examine Harru. He appears to be in good health. He seems tired.
+
+
+HP:  142/142  Ftg:  46/48  MP:  60/76
+
+
+You start to vocalize a request to Eyranas. After the first word, a large white wolf begins to appear on the ground underneath Kurapiira.
+Invoking this spell cost you 5 mana and 1 faith.
+[4 sec. delay]
+
+Harru calms down and appears to regain his self control.
+
+A gluttonous troll just entered the room 7 units in front of you.
+
+The white wolf underneath Kurapiira begins to glow a radiant blue for a few moments before fading back into obscurity.
+
+h
+You feel replenished!
+
+
+HP:  142/142  Ftg:  48/48  MP:  74/76
+
+
+Bjeorn removes 46 marks from his open embossed iron box.
+
+invo 4 b
+Raising one hand to the heavens, you lower your head in prayer to Eyranas.
+Invoking this spell cost you 8 mana.
+[6 sec. delay]
+
+The 2nd gluttonous troll advances towards Bjeorn.
+
+Bjeorn puts his open brushed copper box in his open embossed iron box.
+
+invo 21 b
+The 2nd gluttonous troll advances towards Bjeorn.
+
+A barrier of holy energy surrounds Bjeorn, swirling and shimmering slowly.
+
+Harru claws at the 2nd gluttonous troll!
+It is a well executed blow to its right arm!
+  The gluttonous troll is knocked back!
+
+
+Harru claws at the 2nd gluttonous troll!
+It is a strong blow to its left arm!
+
+
+ ** Gomakotsu Ignaytia just arrived in the world
+
+You kneel and begin a prayer to Eyranas. A small ray of light begins to shine from above on Bjeorn.
+Invoking this spell cost you 8 mana.
+[6 sec. delay]
+
+diag all
+h
+The 2nd gluttonous troll claws at Harru, but he evades the strike.
+
+You examine all the people in the room...
+
+You examine Bjeorn. He appears to be in good health.
+You examine Harru. He appears to be in good health. He seems tired.
+
+
+HP:  142/142  Ftg:  46/48  MP:  62/76
+
+
+The ray of light shining on Bjeorn strengthens and intensifies, gleaming brilliant once before fading away. In its wake, Bjeorn's skin adopts a faint glow.
+
+invo 25 Kura
+You start to vocalize a request to Eyranas. After the first word, a large white wolf begins to appear on the ground underneath Kurapiira.
+Invoking this spell cost you 5 mana and 1 faith.
+[4 sec. delay]
+
+Harru claws at the 2nd gluttonous troll!
+It is a fair blow to its torso!
+
+
+Harru claws at the 2nd gluttonous troll!
+It is a glancing blow to its chest!
+
+
+Bjeorn begins looting the hedge troll corpse.
+He picks up some marks.
+He picks up some crowns.
+
+The 1st gluttonous troll claws at Harru!
+It is a solid blow to his right arm!
+
+
+l
+The white wolf underneath Kurapiira begins to glow a radiant blue for a few moments before fading back into obscurity.
+
+h
+You feel replenished!
+
+
+[Warcamp]
+Thick underbrush has been pushed aside forming what can only be explained as makeshift beds which remain scattered about.  The sounds of cracking and popping can be heard to the west.
+
+The area is illuminated.
+
+In this room you see: Bjeorn the Galirrim,  Harru the Galirrim, 1st gluttonous troll
+In this room are: rotting deer haunch, short pointed ogre rib, flint-chipped sharp edged ogre bone forearm
+Obvious exits are: northwest, west, east, northeast, north
+
+
+HP:  142/142  Ftg:  47/48  MP:  76/76
+
+
+You exert an additional 1 mana maintaining the Revival.
+
+Bjeorn picks up the flint-chipped sharp edged ogre bone forearm.
+
+diag all
+h
+You examine all the people in the room...
+
+You examine Bjeorn. He appears to be in good health.
+You examine Harru. He looks weakened. He seems tired.
+He has the following wounds: a tiny puncture on his right arm
+
+
+HP:  142/142  Ftg:  47/48  MP:  75/76
+
+
+Bjeorn puts his flint-chipped sharp edged ogre bone forearm in his open embossed iron coffer.
+
+The 1st gluttonous troll claws at Harru!
+It is a solid blow to his right leg!
+
+
+You exert an additional 1 mana maintaining the Revival.
+
+Bjeorn picks up the short pointed ogre rib.
+
+Harru says to the gluttonous troll, "neener neener"
+
+Harru claws at the 1st gluttonous troll!
+It is a glancing blow to its torso!
+
+
+Harru claws at the 1st gluttonous troll!
+It is a decent blow to its head!
+
+
+Bjeorn puts his short pointed ogre rib in his open embossed iron coffer.
+
+You exert an additional 1 mana maintaining the Ward of the Faithful.
+
+grin 
+You grin.
+
+You exert an additional 1 mana maintaining the Revival.
+
+The 1st gluttonous troll claws at Harru!
+It is a solid blow to his left leg!
+
+
+howl to Harru
+Harru's eyes widen and his pupils constrict as he lets out a wild howl.
+
+Bjeorn performs a calculated strike with his smooth-handled red maplewood spear at the 1st gluttonous troll!
+It is a well executed blow to its torso!
+  The gluttonous troll is knocked back!
+
+
+You howl to Harru.
+
+diag all
+h
+You examine all the people in the room...
+
+You examine Bjeorn. He appears to be in good health. He seems tired.
+You examine Harru. He looks weakened. He seems tired.
+He has the following wounds: a tiny puncture on his left leg
+
+
+HP:  142/142  Ftg:  48/48  MP:  74/76
+
+
+invo 21 h
+You kneel and begin a prayer to Eyranas. A small ray of light begins to shine from above on Harru.
+Invoking this spell cost you 8 mana.
+[6 sec. delay]
+
+You exert an additional 1 mana maintaining the Revival.
+
+The healthy glow in Bjeorn's skin fades away.
+
+Bjeorn performs a cross-body slash with his smooth-handled red maplewood spear at the 1st gluttonous troll!
+It is a fair blow to its right leg!
+  The gluttonous troll is knocked back!
+
+
+The 1st gluttonous troll advances towards Harru.
+
+Harru claws at the 1st gluttonous troll!
+It is a fair blow to its right arm!
+
+
+Harru claws at the 1st gluttonous troll!
+It is a fair blow to its right arm!
+  The gluttonous troll is knocked back!
+
+
+invo 21 b
+The troll farts loudly casting a pungent stench across the area.
+
+You kneel and begin a prayer to Eyranas. A small ray of light begins to shine from above on Bjeorn.
+Invoking this spell cost you 8 mana.
+[6 sec. delay]
+
+The ray of light shining on Harru strengthens and intensifies, gleaming brilliant once before fading away. In its wake, Harru's skin adopts a faint glow.
+
+l
+
+[Warcamp]
+Thick underbrush has been pushed aside forming what can only be explained as makeshift beds which remain scattered about.  The sounds of cracking and popping can be heard to the west.
+
+The area is illuminated.
+
+In this room you see: Bjeorn the Galirrim,  Harru the Galirrim, 1st gluttonous troll corpse (laying on the ground)
+In this room are: rotting deer haunch
+Obvious exits are: northwest, west, east, northeast, north
+
+Bjeorn begins looting the gluttonous troll corpse.
+
+
+You exert an additional 1 mana maintaining the Revival.
+
+The ray of light shining on Bjeorn strengthens and intensifies, gleaming brilliant once before fading away. In its wake, Bjeorn's skin adopts a faint glow.
+
+diag all
+h
+You examine all the people in the room...
+
+You examine Bjeorn. He appears to be in good health. He seems tired.
+You examine Harru. He appears to be in good health. He seems tired.
+He has the following wounds: a tiny puncture on his left leg
+
+
+HP:  142/142  Ftg:  48/48  MP:  62/76
+
+
+Bjeorn picks up the closed polished ebonwood box.
+
+help dispel
+No help available for dispel. For a list of available commands, use help.
+
+You exert an additional 1 mana maintaining the Ward of the Faithful.
+
+You exert an additional 1 mana maintaining the Revival.
+
+You exert an additional 1 mana maintaining the Revival.
+
+help
+The following is a list of available commands. For more information on a particular one, use help <command>. You may also use 'help emote' for a list of available emotes or 'help spell' for a list of spells.
+
+Commands: ", ', absorb, accept, acidspit, advance, alias, assist, attack, bank, bite, break, buglist, bugreport, callshot, claw, close, command, constrict, contact, delay, demonblood, diagnose, disband, disguise, donate, drink, drop, e, eat, fly, follow, get, go, group, health, help, hide, inventory, invoke, kill, land, lead, lie, lock, look, manifest, martial, money, n, ne, nw, offer, open, picklock, pickpocket, play, pray, psionics, put, queue, rage, read, ready, release, religion, remove, retreat, reveal, s, say, se, search, set, sheathe, shop, sit, skill, speak, spells, split, stance, stand, statistics, strip, sw, tactical, take, throw, time, track, train, treat, turn, typo, unlock, unmask, unready, vinculum, visualize, w, warcry, wear, weather, whisper, who, withdraw, wolfsong, yell
+
+You exert an additional 1 mana maintaining the Revival.
+
+You exert an additional 1 mana maintaining the Revival.
+
+Bjeorn puts his closed polished ebonwood box in his open large durable burlap travel pack.
+
+You exert an additional 1 mana maintaining the Revival.
+
+The healthy glow in Harru's skin fades away.
+
+You exert an additional 1 mana maintaining the Revival.
+
+You exert an additional 1 mana maintaining the Revival.
+
+The healthy glow in Bjeorn's skin fades away.
+
+demonblood
+You have no demon ancestry to channel.
+
+Harru calms down and appears to regain his self control.
+
+You exert an additional 1 mana maintaining the Ward of the Faithful.
+
+diag all
+h
+You examine all the people in the room...
+
+You examine Bjeorn. He appears to be in good health.
+You examine Harru. He appears to be in good health. He seems winded.
+He has the following wounds: a tiny puncture on his left leg
+
+
+HP:  142/142  Ftg:  46/48  MP:  63/76
+
+
+Bjeorn says, "very well let's check the scar of urda, then I must sleep my friends"
+
+nod softly
+You nod softly.
+
+diag all
+h
+You examine all the people in the room...
+
+You examine Bjeorn. He appears to be in good health.
+You examine Harru. He appears to be in good health. He seems winded.
+
+
+HP:  142/142  Ftg:  47/48  MP:  67/76
+
+
+Bjeorn's group just went northwest.
+
+You follow Bjeorn...
+
+
+[Burning Clearing]
+The burnt grass smolders lightly as white smoke bellows up into the air, like a feather on the wind.
+
+The area is illuminated.
+
+In this room you see: Bjeorn the Galirrim,  Harru the Galirrim
+Obvious exits are: south, southeast, east, northeast
+
+invo 25 Kura
+Bjeorn's group just went northeast.
+
+You follow Bjeorn...
+
+
+[Clearing]
+The smell of smoke strengthens and can be seen rising to the south. The ocassional loud yawp can be heard though it's location cannot be pinpointed.
+
+The area is illuminated.
+
+In this room you see: Bjeorn the Galirrim,  Harru the Galirrim, 1st hedge troll
+Obvious exits are: southwest, south, southeast, north
+
+You start to vocalize a request to Eyranas. After the first word, a large white wolf begins to appear on the ground underneath Kurapiira.
+Invoking this spell cost you 5 mana and 1 faith.
+[4 sec. delay]
+
+Bjeorn's group just went north.
+
+You follow Bjeorn...
+
+
+[Clearing]
+The hard packed road widens slightly to the south, providing easy travel.  Though still evident the undergrowth and brush appears to have been recently cleared though the reason for their removal is unknown.
+
+The area is illuminated.
+
+In this room you see: Bjeorn the Galirrim,  Harru the Galirrim
+Obvious exits are: northwest, south, northeast, north
+
+Bjeorn's group just went north.
+
+You follow Bjeorn...
+
+
+[Clearing]
+It appears as if the undergrowth has been recently cleared as evidenced by the ability to see the hard packed dirt road underfoot.  Amongst the large bushes several pieces of what appears to be fur appear to have been snagged upon their long sharp branches.
+
+The area is illuminated.
+
+In this room you see: Bjeorn the Galirrim,  Harru the Galirrim
+Obvious exits are: northwest, west, south, east, northeast, north
+
+The white wolf underneath Kurapiira begins to glow a radiant blue for a few moments before fading back into obscurity.
+
+h
+You feel replenished!
+
+
+HP:  142/142  Ftg:  46/48  MP:  76/76
+
+
+Bjeorn's group just went north.
+
+You follow Bjeorn...
+
+
+[Clearing]
+Large piles of excrement pockmark the landscape and play host to swarms of buzzing flies looking for their next meal.
+
+The area is illuminated.
+
+In this room you see: Bjeorn the Galirrim,  Harru the Galirrim, 1st gluttonous troll
+Obvious exits are: northwest, west, southwest, south, southeast, east, northeast, north
+
+The 1st gluttonous troll claws at Bjeorn!
+It is a solid blow to his head!
+
+Bjeorn is surrounded by a dull golden glow.
+
+Bjeorn's group just went north.
+
+A gluttonous troll follows Bjeorn.
+
+You follow Bjeorn...
+
+
+[Overgrowth]
+The brush and undergrowth that has made home in this area appears to be dying, their leaves and needles falling upon the ground leaving thick piles.
+
+The area is illuminated.
+
+In this room you see: Bjeorn the Galirrim,  Harru the Galirrim, 1st gluttonous troll
+Obvious exits are: northwest, west, southwest, south, southeast, east, northeast, north
+
+Bjeorn's group just went northwest.
+
+You follow Bjeorn...
+
+
+[Overgrowth]
+Anorexic and brittle branches reach across the path snagging the clothes of the adventurers who have take to this area to hunt.
+
+The area is illuminated.
+
+In this room you see: Bjeorn the Galirrim,  Harru the Galirrim
+Obvious exits are: south, southeast, east
+
+diag all
+h
+You examine all the people in the room...
+
+You examine Bjeorn. He looks weakened.
+You examine Harru. He appears to be in good health. He seems winded.
+
+
+HP:  142/142  Ftg:  46/48  MP:  76/76
+
+
+Bjeorn's group just went south.
+
+You follow Bjeorn...
+
+
+[Overgrowth]
+The undergrowth snakes across the narrow path exposing its sharp thorns and heavy burrs.  A pungent odor has hitchhiked on the tail of transient breezes which shake and rattle the scattered brush.
+
+The area is illuminated.
+
+In this room you see: Bjeorn the Galirrim,  Harru the Galirrim, 1st hedge troll
+Obvious exits are: west, south, southeast, east, northeast, north
+
+You exert an additional 1 mana maintaining the Ward of the Faithful.
+
+The barrier of holy energy surrounding Bjeorn disappears in a flash.
+
+Bjeorn's group just went west.
+
+You follow Bjeorn...
+
+
+[Hedgerow]
+To the west the hedgerow turns into a twisted maze of overgrown brush and thick undergrowth.  Insects and small animals can be seen twisting and weaving through the undergrowth searching for food. To the west the twisted undergrowth turns to neatly planted trees and bushes.
+
+The area is illuminated.
+
+In this room you see: Bjeorn the Galirrim,  Harru the Galirrim
+Obvious exits are: west, east
+
+Bjeorn's group just went west.
+
+You follow Bjeorn...
+
+
+[Hedgerow]
+As the path widens the dirt has turned green with a heavy growth of grass.  The soft grass gives way underfoot and shows signs of wear due to the foot traffic of adventurers who have passed through as evidenced by a narrow path worn in the grass.
+
+The area is illuminated.
+
+In this room you see: Bjeorn the Galirrim,  Harru the Galirrim
+Obvious exits are: west, east
+
+Bjeorn's group just went west.
+
+You follow Bjeorn...
+
+
+[Hedgerow]
+Small, medium and large bushes line the left and right side of the path as if planted their intentionally.  The various branches twist and wind together forming a thick impassable wall to the north and the south.
+
+The area is illuminated.
+
+In this room you see: Bjeorn the Galirrim,  Harru the Galirrim
+Obvious exits are: west, east
+
+invo 11 h
+You call out to Eyranas and raise your hands slightly upwards.
+Invoking this spell cost you 5 mana.
+[4 sec. delay]
+
+Bjeorn's group just went west.
+
+You follow Bjeorn...
+
+
+[Hedgerow]
+Thick brown and green bushes have taken purchase amongst the hard packed dirt. The sound of rustling can be heard amongst the bushes as small birds and insects scurry in and out of the twisted branches.
+
+The area is illuminated.
+
+In this room you see: Bjeorn the Galirrim,  Harru the Galirrim, 1st troll warrior
+Obvious exits are: west, east
+
+Bjeorn's group just went west.
+
+You follow Bjeorn...
+
+
+[Village Path]
+At a bend in the path a large boulder has been placed where two tree-trunk like legs protrude from beneath it, the rest of the body obviously squished. In a display of grotesque humor, a smiling face has been painted on the boulder in red stain, and stick arms drawn on the side of it. A narrow path leads off to the west
+
+The area is illuminated.
+
+In this room you see: Bjeorn the Galirrim,  Harru the Galirrim
+Obvious exits are: southwest, east, north
+
+Bjeorn's group just went north.
+
+invo 4 b
+You follow Bjeorn...
+
+
+[Village Path]
+Weeds and grass grow in odd zig-zag patterns as if someone attempted to weed them from the walkway but was distracted and forgot. Dried blood spatters mark the ground where a pike has been planted, tied with the detached, dangling arms of an ogre.
+
+The area is illuminated.
+
+In this room you see: Bjeorn the Galirrim,  Harru the Galirrim
+Obvious exits are: south, north
+
+Bjeorn's group just went north.
+
+You follow Bjeorn...
+
+
+[Village Path]
+Wild ululations pierce the air, coming from the direction of the sprawled village clearing in the southwest. Huge boulders line the pathway, as equally large ditches seem to pock-mark the path and cause travel to be precarious. A large tree limb pike sits at the side of the path, topped with the decaying torso of an ogre, its ribcage seemingly smashed in.
+
+The area is illuminated.
+
+In this room you see: Bjeorn the Galirrim,  Harru the Galirrim
+Obvious exits are: south, north
+
+diag all
+h
+A magnificent green and blue aura surrounds Harru in a revitalizing swirl of energy before disappearing.
+
+Raising one hand to the heavens, you lower your head in prayer to Eyranas.
+Invoking this spell cost you 8 mana.
+[6 sec. delay]
+
+You examine all the people in the room...
+
+You examine Bjeorn. He appears to be in good health.
+You examine Harru. He appears to be in good health. He seems tired.
+
+
+HP:  142/142  Ftg:  47/48  MP:  64/76
+
+
+Bjeorn's group just went north.
+
+You follow Bjeorn...
+
+
+[Village Path]
+A muddy path, marked by ditches that look as if made by the removal of an entire tree trunk, leads toward a vague clearing surrounded by poorly-built and ill-placed structures. A pike built from the stripped shaft of a tree limb has been planted at the side of the path, topped with the rotting, emaciated head of an ogre.
+
+The area is illuminated.
+
+In this room you see: Bjeorn the Galirrim,  Harru the Galirrim
+Obvious exits are: south, overgrown path
+
+Bjeorn's group just went through the overgrown path.
+
+You follow Bjeorn...
+
+
+[Overgrown Path]
+Wider yet fiercely overgrown, the path plays host to a plethora of life as evidenced by the rushing sounds of movement in the undergrowth.  Verdant bushes and trees, though only slightly taller than a Rock troll, form a canopy above, blocking the sky from view. Another path, its vegetation trampled, leads towards the south.
+
+The area is illuminated.
+
+In this room you see: Bjeorn the Galirrim,  Harru the Galirrim
+Obvious exits are: west, east, trampled path
+
+invo 25 Kura
+Bjeorn's group just went east.
+
+You follow Bjeorn...
+
+
+[Overgrown Path]
+Though passable the narrow path provides for limited movement for anything larger than a rabbit.  Sticks and twigs, provided by thin anorexic trees and bushes, spring back as travelers pass through, often snagging dangling equipment, hair or clothing. Twigs snap and crack with every step.
+
+The area is illuminated.
+
+In this room you see: Bjeorn the Galirrim,  Harru the Galirrim
+Obvious exits are: west, east
+
+Bjeorn's group just went east.
+
+You follow Bjeorn...
+
+
+[Overgrown Path]
+Grossly overgrown, the path though slightly worn from travel proves difficult to maneuver.  Long braided tangles of weaved vine and brier interlock forming trip hazards in the undergrowth. The ground bounces with each step as the undergrowth springs back against its opposing force.
+
+The area is illuminated.
+
+In this room you see: Bjeorn the Galirrim,  Harru the Galirrim
+Obvious exits are: west, east
+
+Bjeorn's group just went east.
+
+You follow Bjeorn...
+
+
+[Dirt Road]
+Small un-manicured shrubs line the roadway east and west growing so out of control that they intertwine roughly. Some branches have grown wildly across the road connecting with their opposing side creating a canopy. a small narrow overgrown path branches off to the west.
+
+The area is illuminated.
+
+In this room you see: Bjeorn the Galirrim,  Harru the Galirrim
+Obvious exits are: west, south, north
+
+A barrier of holy energy surrounds Bjeorn, swirling and shimmering slowly.
+
+You start to vocalize a request to Eyranas. After the first word, a large white wolf begins to appear on the ground underneath Kurapiira.
+Invoking this spell cost you 5 mana and 1 faith.
+[4 sec. delay]
+
+stat
+Bjeorn's group just went south.
+
+You follow Bjeorn...
+
+
+[Dirt Road]
+To the north, a large gate can be seen in the distance flanked by a large stone wall.  To the southeast a large stump sits beside the road. Large ruts in the word indicate that this road is traveled not only by foot but by wagon as well. A few potholes have formed on the eastern side of the path.
+
+The area is illuminated.
+
+In this room you see: Bjeorn the Galirrim,  Harru the Galirrim
+Obvious exits are: southeast, north
+
+You are Kurapiira Mako the Fae Cleric. You are 50 years old.
+You are currently a follower of Eyranas.
+You are starving!
+You are dangerously dehydrated!
+
+Attack Rating: 35
+Max Tact Move: 9
+Current Stance: neutral
+
+You are currently flying 20 feet above the ground.
+
+Str ****            | Dex ********        | 
+Qui ********        | Con *****           | 
+Pie ********        | Int ******          | 
+Per ***             | Wil *******         | 
+
+You are currently carrying:
+ -a blackened steel machete    (right hand)
+ -a swirling spirit-shaped lantern    (left hand)
+ -a coral plated lionskin jerkin    (torso)
+ -a black pongee silk camisole    (torso)
+ -a holy evergreen Eyranas prayer bead strand    (around neck)
+ -a pair of smooth obsidian hair sticks    (head)
+ -a pair of sleek black cotton leggings    (legs)
+ -an open black leather pack    (on back)
+ -a golden brass belly chain    (around waist)
+ -a luminous amethyst and moonsilver crescent-shaped hoop earrings    (on ears)
+ -a jade and yellow gold sun nose stud    (on nose)
+ -a smooth silver lip ring    (on face)
+
+
+Bjeorn's group just went southeast.
+
+You follow Bjeorn...
+
+
+[Dirt Road]
+As the wagon marks continue the road, though still travelable is littered with deep holes, some old some new filled with grey rocks.  A small pile of grey rocks sits on the eastern side of the road. 
+
+The area is illuminated.
+
+In this room you see: Bjeorn the Galirrim,  Harru the Galirrim
+Obvious exits are: northwest, southeast
+
+Bjeorn's group just went southeast.
+
+You follow Bjeorn...
+
+
+[Dirt Road]
+Some small weeds have taken purchase in the dirt on the eastern side of the road.  A few tall trees stand scattered about randomly; their long branches extending across the road.  A small curve in the path heads northwest around a very large stump.
+
+The area is illuminated.
+
+In this room you see: Bjeorn the Galirrim,  Harru the Galirrim
+Obvious exits are: northwest, west, south
+
+Bjeorn's group just went south.
+
+fly down 10
+You follow Bjeorn...
+
+
+[Dirt Road]
+Small healthy trees stand a long side the road to the east and west.  The road grooved by what appears to be the wheels of wagons continues to the north and south. 
+
+The area is illuminated.
+
+In this room you see: Bjeorn the Galirrim,  Harru the Galirrim
+Obvious exits are: south, north
+
+The white wolf underneath Kurapiira begins to glow a radiant blue for a few moments before fading back into obscurity.
+
+h
+You feel replenished!
+
+Bjeorn's group just went south.
+
+You follow Bjeorn...
+
+
+[Dirt Road]
+The road continues north and south to the east a large forest outlines the horizon and extends out of site.  A small but functional wooden bench, roughly carved, sits on the western side of the road.
+
+The area is illuminated.
+
+In this room you see: Bjeorn the Galirrim,  Harru the Galirrim
+Obvious exits are: south, north
+
+Bjeorn's group just went south.
+
+You follow Bjeorn...
+
+
+[Dirt Road]
+The dirt road lined by small shrubs and wild flowers heads northward.  To the south, the northern gatehouse of Urda welcomes traders and patrons alike.
+
+The area is illuminated.
+
+In this room you see: Bjeorn the Galirrim,  Harru the Galirrim
+Obvious exits are: north, gate
+
+
+HP:  142/142  Ftg:  48/48  MP:  76/76
+
+
+You trim your wings and descend 10 feet.
+[3 sec. delay]
+
+Bjeorn's group just went through the gate.
+
+You follow Bjeorn...
+
+
+[Urda, Northern Gatehouse]
+Guards and soldiers stand near their guard tower, carefully scrutinizing entrants into the city. Carters, wagon trains, and small caravans speak to the guards before they are allowed to enter the city. Groups of people pass by the gatehouse quietly, anxious excitement in their eyes for the wares they will be able to buy and peddle.
+
+The area is illuminated.
+
+In this room you see: Bjeorn the Galirrim,  Harru the Galirrim
+Obvious exits are: south, gate
+
+Bjeorn's group just went south.
+
+You follow Bjeorn...
+
+
+[Northern Cross Road]
+The smooth stone walkway of the main road continues to the north, leading outside of the city of Urda. Pedestrians and wagons bustle by towards the south, venturing to the heart of the city and the thriving trading central of the Merchant Run.
+
+The area is illuminated.
+
+In this room you see: Bjeorn the Galirrim,  Harru the Galirrim, 1st elegant noblewoman
+Obvious exits are: west, south, east, north
+
+Bjeorn's group just went south.
+
+You follow Bjeorn...
+
+
+[Northern Cross Road]
+The road has cracked here in the main stretch, seemingly from the pressure of severe heat against severe cooling. Guards frown at the crack as they investigate the scene, noting a few spent runestones on the side of the road. Pedestrians walk by without a second thought.
+
+The area is illuminated.
+
+In this room you see: Bjeorn the Galirrim,  Harru the Galirrim
+Obvious exits are: south, north
+
+Bjeorn's group just went south.
+
+You follow Bjeorn...
+
+
+[Northern Cross Road]
+As the road continues to the north, closer to the outskirts of the city, a faint path can be seen to the west, leading into Thorntree Hill. Not much can be seen down the densely packed forested road, but travelers move off to the east to go to their homes.
+
+
+The area is illuminated.
+
+In this room you see: Bjeorn the Galirrim,  Harru the Galirrim
+Obvious exits are: west, south, east, north
+
+Bjeorn's group just went south.
+
+You follow Bjeorn...
+
+
+[Northern Cross Road]
+Two benches sit on the eastern side of the main road, poised before a stone table where a chessboard has been left. The players seem to have gone for the day, leaving behind an unfinished game. Travelers walk to the north with their parcels and purchases in hand, as others move swiftly to the south for unfinished business.
+
+The area is illuminated.
+
+In this room you see: Bjeorn the Galirrim,  Harru the Galirrim
+Obvious exits are: south, north
+
+Bjeorn's group just went south.
+
+You follow Bjeorn...
+
+
+[Northern Cross Road]
+The quiet pathway of North Lorimar Square opens to the west, as some denizens amble towards their homes or unfinished properties. A few carters bring shipments of stone, mortar, and wood to the landowners, transporting it all the way from the southern countryside. A few guards walk slowly along the main road, nodding politely to passersby.
+
+The area is illuminated.
+
+In this room you see: Bjeorn the Galirrim,  Harru the Galirrim
+Obvious exits are: west, south, north
+
+Bjeorn's group just went south.
+
+say whew
+You follow Bjeorn...
+
+
+[Northern Cross Road]
+The quietness of the road in the north is almost astounding, compared to the bustle and boisterous activity in the south of the city. Still, occasional street vendors range up and down the Northern Cross Road, tempting pedestrians as they go on their way home.
+
+The area is illuminated.
+
+In this room you see: Bjeorn the Galirrim,  Harru the Galirrim
+Obvious exits are: south, north
+
+You say, "whew"
+
+Bjeorn's group just went south.
+
+You follow Bjeorn...
+
+
+[Northern Cross Road]
+The reverberating song of chanting, hymnals, and prayer can be heard to the east where the great temples lie. A massive marble arch beckons parishioners from the main road to the places of worship beyond. To the west, South Lorimar Square offers some landowners a place of rest if their new homes are completed.
+
+The area is illuminated.
+
+In this room you see: Bjeorn the Galirrim,  Harru the Galirrim, 1st scruffy goblin citizen
+Obvious exits are: west, south, east, north
+
+Bjeorn's group just went south.
+
+You follow Bjeorn...
+
+
+[Northern Cross Road]
+The smooth cobblestones of the main road are marked with wagon ruts, worn into the stone over time of carting goods in and out of the city proper. The road is less congested to the north, as tired patrons amble home after a busy day of shopping in the south Merchant Run. Guards eyeball a few Goblins who scamper from the town square.
+
+The area is illuminated.
+
+In this room you see: Bjeorn the Galirrim,  Harru the Galirrim
+Obvious exits are: south, north
+
+Bjeorn's group just went south.
+
+You follow Bjeorn...
+
+
+[Northern Cross Road]
+The bustle and activity of the city square echoes from the south, as well as the not-too-far-off noises of the Merchant Run. To the north, pedestrians amble on their way home up to the residential districts of the city. Town criers dash from place to place, as guards, soldiers, merchants, and inhabitants alike rush about on their business.
+
+The area is illuminated.
+
+In this room you see: Bjeorn the Galirrim,  Harru the Galirrim
+Obvious exits are: south, north
+
+Bjeorn's group just went south.
+
+You follow Bjeorn...
+
+
+[Urda Town Square Center]
+The former site of a fierce battle for control of this great city was waged here, and on this site is where it's citizens celebrate that victory. Statues of the fallen heroes, and great leaders of the alliance adorn the tops of grand marble archways leading in all directions. They stand ever vigilant against any unseen enemy. The people of Urda flock here to barter and trade, to converse with friends, or just relax near the fountain and have a game of chess. Benches and tables dot the landscape near the edge of the fountain. Hawkers of all type roll through this area with their wares, hoping to make a few coins. Languages of all races are spoken here. The sheer din of the crowd reverberates throughout the area. Passersby stop to admire the detail of the arches as they enter and exit the city square.
+
+The area is illuminated.
+
+In this room you see: Bjeorn the Galirrim,  Harru the Galirrim
+In this room are: eastern monument, southwestern monument, northwestern monument, southern monument, large wooden bulletin board, southeastern monument, northern monument, western monument, northeastern monument
+Obvious exits are: west, southwest, south, east, north
+
+diag all
+h
+You examine all the people in the room...
+
+You examine Bjeorn. He appears to be in good health.
+You examine Harru. He appears to be in good health. He seems tired.
+
+
+HP:  142/142  Ftg:  46/48  MP:  76/76
+
+
+Bjeorn searches the room carefully.
+
+You exert an additional 1 mana maintaining the Ward of the Faithful.
+
+gla about
+You glance about.
+
+ ** Gomakotsu Ignaytia just left the world.
+
+wear pent
+You already have something equipped in your around neck.
+
+unready stran
+You remove your holy evergreen Eyranas prayer bead strand.
+
+Harru whistles innocently.
+
+wear pent
+You slip the pewter pentagram over your head.
+
+gla
+You glance.
+
+You exert an additional 1 mana maintaining the Ward of the Faithful.
+
+An urdaian junior guard just entered from the west.
+
+set mood war
+Your mood is now wary.
+
+Your swirling spirit-shaped lantern flickers for a few moments.
+
+Bjeorn says, "earlier when they all came they were proceeded by black rain from black clouds"
+
+nod to b
+You nod to Bjeorn.
+
+say perhaops just to open the gateway
+You say, "perhaops just to open the gateway"
+
+furr
+You furrow your brow.
+
+You exert an additional 1 mana maintaining the Ward of the Faithful.
+
+Harru says, "purple rain better"
+
+grin to h
+You grin to Harru.
+
+Bjeorn says to Harru, "and they dont just attack here, they attacked heros rest as well"
+
+scow
+You scowl.
+
+set mood ?
+The following is a list of moods you can select from:
+absent-minded, affectionate, aloof, ambivalent, amused, angry, annoyed, apathetic, bashful, bemused, benevolent, black, blissful, blue, bored, calculating, calm, cautious, chagrined, chaotic, chivalrous, closed, cold, condescending, confused, covert, creative, dark, despairing, desperate, distant, dominating, dreamy, driven, ecstatic, edgy, flaming-mad, flirtatious, frantic, friendly, frightened, frustrated, furious, giving, governing, grim, grumpy, happy, hesitant, hopeful, hopeless, impatient, jocular, joking, joyful, lazy, leery, lethargic, loving, malevolent, malicious, manic, masked, mirthful, mischievous, negative, nervous, neutral, objective, open, orderly, panicky, partying, passionate, patient, pensive, petrified, placid, playful, positive, productive, prophetic, raving-mad, reserved, sad, scared, scared, scatter-brained, secretive, seductive, self-loathing, sensual, shy, silly, sleepy, snippy, snotty, spurned, stressed-out, submissive, tentative, thoughtful, tired, troubled, upset, vengeful, wary, whiny, willy-nilly, wrathful
+
+You exert an additional 1 mana maintaining the Ward of the Faithful.
+
+The barrier of holy energy surrounding Bjeorn disappears in a flash.
+
+Bjeorn's group just went north.
+
+You follow Bjeorn...
+
+
+[Northern Cross Road]
+The bustle and activity of the city square echoes from the south, as well as the not-too-far-off noises of the Merchant Run. To the north, pedestrians amble on their way home up to the residential districts of the city. Town criers dash from place to place, as guards, soldiers, merchants, and inhabitants alike rush about on their business.
+
+The area is illuminated.
+
+In this room you see: Bjeorn the Galirrim,  Harru the Galirrim
+Obvious exits are: south, north
+
+Bjeorn's group just went north.
+
+You follow Bjeorn...
+
+
+[Northern Cross Road]
+The smooth cobblestones of the main road are marked with wagon ruts, worn into the stone over time of carting goods in and out of the city proper. The road is less congested to the north, as tired patrons amble home after a busy day of shopping in the south Merchant Run. Guards eyeball a few Goblins who scamper from the town square.
+
+The area is illuminated.
+
+In this room you see: Bjeorn the Galirrim,  Harru the Galirrim
+Obvious exits are: south, north
+
+Bjeorn's group just went north.
+
+You follow Bjeorn...
+
+
+[Northern Cross Road]
+The reverberating song of chanting, hymnals, and prayer can be heard to the east where the great temples lie. A massive marble arch beckons parishioners from the main road to the places of worship beyond. To the west, South Lorimar Square offers some landowners a place of rest if their new homes are completed.
+
+The area is illuminated.
+
+In this room you see: Bjeorn the Galirrim,  Harru the Galirrim
+Obvious exits are: west, south, east, north
+
+Bjeorn's group just went north.
+
+You follow Bjeorn...
+
+
+[Northern Cross Road]
+The quietness of the road in the north is almost astounding, compared to the bustle and boisterous activity in the south of the city. Still, occasional street vendors range up and down the Northern Cross Road, tempting pedestrians as they go on their way home.
+
+The area is illuminated.
+
+In this room you see: Bjeorn the Galirrim,  Harru the Galirrim
+Obvious exits are: south, north
+
+Bjeorn's group just went north.
+
+You follow Bjeorn...
+
+
+[Northern Cross Road]
+The quiet pathway of North Lorimar Square opens to the west, as some denizens amble towards their homes or unfinished properties. A few carters bring shipments of stone, mortar, and wood to the landowners, transporting it all the way from the southern countryside. A few guards walk slowly along the main road, nodding politely to passersby.
+
+The area is illuminated.
+
+In this room you see: Bjeorn the Galirrim,  Harru the Galirrim, 1st urdaian junior guard
+Obvious exits are: west, south, north
+
+Bjeorn's group just went north.
+
+You follow Bjeorn...
+
+
+[Northern Cross Road]
+Two benches sit on the eastern side of the main road, poised before a stone table where a chessboard has been left. The players seem to have gone for the day, leaving behind an unfinished game. Travelers walk to the north with their parcels and purchases in hand, as others move swiftly to the south for unfinished business.
+
+The area is illuminated.
+
+In this room you see: Bjeorn the Galirrim,  Harru the Galirrim
+Obvious exits are: south, north
+
+set mood ddark
+Unknown mood 'ddark'.
+
+Bjeorn's group just went north.
+
+You follow Bjeorn...
+
+
+[Northern Cross Road]
+As the road continues to the north, closer to the outskirts of the city, a faint path can be seen to the west, leading into Thorntree Hill. Not much can be seen down the densely packed forested road, but travelers move off to the east to go to their homes.
+
+
+The area is illuminated.
+
+In this room you see: Bjeorn the Galirrim,  Harru the Galirrim, 1st crafty, obese merchant
+Obvious exits are: west, south, east, north
+
+Bjeorn's group just went north.
+
+You follow Bjeorn...
+
+
+[Northern Cross Road]
+The road has cracked here in the main stretch, seemingly from the pressure of severe heat against severe cooling. Guards frown at the crack as they investigate the scene, noting a few spent runestones on the side of the road. Pedestrians walk by without a second thought.
+
+The area is illuminated.
+
+In this room you see: Bjeorn the Galirrim,  Harru the Galirrim
+Obvious exits are: south, north
+
+Bjeorn's group just went north.
+
+You follow Bjeorn...
+
+
+[Northern Cross Road]
+The smooth stone walkway of the main road continues to the north, leading outside of the city of Urda. Pedestrians and wagons bustle by towards the south, venturing to the heart of the city and the thriving trading central of the Merchant Run.
+
+The area is illuminated.
+
+In this room you see: Bjeorn the Galirrim,  Harru the Galirrim
+Obvious exits are: west, south, east, north
+
+Harru says, "they knew I was in trainer"
+
+Bjeorn's group just went north.
+
+You follow Bjeorn...
+
+
+[Urda, Northern Gatehouse]
+Guards and soldiers stand near their guard tower, carefully scrutinizing entrants into the city. Carters, wagon trains, and small caravans speak to the guards before they are allowed to enter the city. Groups of people pass by the gatehouse quietly, anxious excitement in their eyes for the wares they will be able to buy and peddle.
+
+The area is illuminated.
+
+In this room you see: Bjeorn the Galirrim,  Harru the Galirrim, 1st elegant noblewoman
+Obvious exits are: south, gate
+
+set mood dark
+Your mood is now dark.
+
+Bjeorn chuckles.
+
+Bjeorn's group just went through the gate.
+
+You follow Bjeorn...
+
+
+[Dirt Road]
+The dirt road lined by small shrubs and wild flowers heads northward.  To the south, the northern gatehouse of Urda welcomes traders and patrons alike.
+
+The area is illuminated.
+
+In this room you see: Bjeorn the Galirrim,  Harru the Galirrim
+Obvious exits are: north, gate
+
+Bjeorn's group just went north.
+
+You follow Bjeorn...
+
+
+[Dirt Road]
+The road continues north and south to the east a large forest outlines the horizon and extends out of site.  A small but functional wooden bench, roughly carved, sits on the western side of the road.
+
+The area is illuminated.
+
+In this room you see: Bjeorn the Galirrim,  Harru the Galirrim
+Obvious exits are: south, north
+
+Bjeorn's group just went north.
+
+You follow Bjeorn...
+
+
+[Dirt Road]
+Small healthy trees stand a long side the road to the east and west.  The road grooved by what appears to be the wheels of wagons continues to the north and south. 
+
+The area is illuminated.
+
+In this room you see: Bjeorn the Galirrim,  Harru the Galirrim
+Obvious exits are: south, north
+
+Bjeorn's group just went north.
+
+You follow Bjeorn...
+
+
+[Dirt Road]
+Some small weeds have taken purchase in the dirt on the eastern side of the road.  A few tall trees stand scattered about randomly; their long branches extending across the road.  A small curve in the path heads northwest around a very large stump.
+
+The area is illuminated.
+
+In this room you see: Bjeorn the Galirrim,  Harru the Galirrim
+Obvious exits are: northwest, west, south
+
+Bjeorn's group just went west.
+
+You follow Bjeorn...
+
+
+[Shady Tree Road]
+A long, winding path cuts away from the main road, the gravel giving way to rocky soil. In the far distance, the trail disappears beyond a thick line of trees.
+
+The area is illuminated.
+
+In this room you see: Bjeorn the Galirrim,  Harru the Galirrim
+Obvious exits are: northwest, east
+
+Bjeorn's group just went northwest.
+
+You follow Bjeorn...
+
+
+[Shady Tree Road]
+Fields of grass frame the pathway, wildflowers wave gently as a breeze blows by. A small mouse scuttles by, his long whiskers twitching.
+
+The area is illuminated.
+
+In this room you see: Bjeorn the Galirrim,  Harru the Galirrim
+Obvious exits are: west, southeast
+
+Bjeorn's group just went west.
+
+You follow Bjeorn...
+
+
+[Shady Tree Road]
+The sound of softly shifting water can be heard from somewhere nearby, but the source can't be seen. A brightly colored cardinal flaps by overhead, his crimson feathers dazzling against the blue sky.
+
+The area is illuminated.
+
+In this room you see: Bjeorn the Galirrim,  Harru the Galirrim
+Obvious exits are: east, north
+
+Bjeorn's group just went north.
+
+You follow Bjeorn...
+
+
+[Shady Tree Road]
+A few, scattered trees have sprung up around the trail, though still young, the trees have already been claimed by various songbirds. A large pair of wings overhead cast a shadow on the ground, at first it seems to be nothing more than a bird of prey, but closer inspection reveals it to be a Zacotl on her way to the nearby city.
+
+The area is illuminated.
+
+In this room you see: Bjeorn the Galirrim,  Harru the Galirrim
+Obvious exits are: south, north
+
+Bjeorn's group just went north.
+
+You follow Bjeorn...
+
+
+[Shady Tree Road]
+Much of the tall grass here has been flattened by the passage of some bulky creature. A single footprint in the midst of the crushed greenery suggests it was far larger than an ordinary bear.
+
+The area is illuminated.
+
+In this room you see: Bjeorn the Galirrim,  Harru the Galirrim
+Obvious exits are: south, north
+
+Bjeorn's group just went north.
+
+You follow Bjeorn...
+
+
+[Shady Tree Road]
+Rocks pepper the otherwise smooth surface of the dirt road. Faint wagon tracks cut through the loose soil, suggesting that traders have come this way before.
+
+The area is illuminated.
+
+In this room you see: Bjeorn the Galirrim,  Harru the Galirrim
+Obvious exits are: west, south
+
+Bjeorn's group just went west.
+
+You follow Bjeorn...
+
+
+[Shady Tree Road]
+The path arches up beside a towering tree, the roots pushing through the soil as if seeking to trip inattentive travelers. The skin of the thick root is scrapped and scared; obviously some have fallen for its trap.
+
+The area is illuminated.
+
+In this room you see: Bjeorn the Galirrim,  Harru the Galirrim
+Obvious exits are: west, east
+
+Bjeorn's group just went west.
+
+You follow Bjeorn...
+
+
+[Shady Tree Road]
+Hoof beats can be heard in the distance to the west, followed by the clanking of metal. It sounds as if a small group of knights are patrolling the small road.
+
+The area is illuminated.
+
+In this room you see: Bjeorn the Galirrim,  Harru the Galirrim
+Obvious exits are: west, east
+
+Bjeorn's group just went west.
+
+You follow Bjeorn...
+
+
+[Shady Tree Road]
+A group of knights clad in armor that once gleamed in the light, now dusty from the road, sit atop their powerful steeds, keeping a wary eye out for thieves and brigands. Their leader says something under his breath to the others, and they burst into laughter.
+
+The area is illuminated.
+
+In this room you see: Bjeorn the Galirrim,  Harru the Galirrim
+Obvious exits are: west, east
+
+Bjeorn's group just went west.
+
+You follow Bjeorn...
+
+
+[Shady Tree Road]
+The edge of the thick forest is close enough that the sound of songbirds and crickets can be heard. A large flock of brown feathered doves suddenly burst from the cover of the trees in a cloud of frantically flapping wings.
+
+The area is illuminated.
+
+In this room you see: Bjeorn the Galirrim,  Harru the Galirrim
+Obvious exits are: west, east
+
+Bjeorn's group just went west.
+
+You follow Bjeorn...
+
+
+[Shady Tree Road]
+Fields of wildflowers grow right up to the wall of trees, their bright petals vying for the attention of the bees and butterflies that flit from flower to flower.
+
+The area is illuminated.
+
+In this room you see: Bjeorn the Galirrim,  Harru the Galirrim
+Obvious exits are: west, east
+
+Bjeorn's group just went west.
+
+You follow Bjeorn...
+
+
+[Shady Tree Road]
+A tawny colored feral cat, her eyes the color of saffron, crouches low in the field, staring intently at her prey, an unsuspecting vole. With shocking speed, the small cat leaps forward, and snaps up the vole in her mouth, devouring her meal in seconds.
+
+The area is illuminated.
+
+In this room you see: Bjeorn the Galirrim,  Harru the Galirrim
+Obvious exits are: west, east
+
+Bjeorn's group just went west.
+
+You follow Bjeorn...
+
+
+[Shady Tree Road]
+A small bed of bright red flowers stand starkly out from the waves of pale pinks, purples, and yellows. Their delicate petals folded open, as if offering invitation to be smelled.
+
+The area is illuminated.
+
+In this room you see: Bjeorn the Galirrim,  Harru the Galirrim
+Obvious exits are: west, east
+
+Bjeorn's group just went west.
+
+You follow Bjeorn...
+
+
+[Shady Tree Road]
+The sweet scent of wild roses mingle with the cloying smell of honeysuckle into a wonderful perfume. A small hedgehog has buried himself amongst the nearby rosebushes, safely tucked behind the plant's thorny branches.
+
+The area is illuminated.
+
+In this room you see: Bjeorn the Galirrim,  Harru the Galirrim
+Obvious exits are: west, east
+
+Bjeorn's group just went west.
+
+You follow Bjeorn...
+
+
+[Shady Tree Road]
+A golden eagle, his feathers shimmering brilliantly in the light, swoops at the ground, his great wings tucked back, as he dives for his prey, a nearby unlucky squirrel who ventured too far from the safety of the trees.
+
+The area is illuminated.
+
+In this room you see: Bjeorn the Galirrim,  Harru the Galirrim
+Obvious exits are: east, north
+
+Bjeorn's group just went north.
+
+You follow Bjeorn...
+
+
+[Shady Tree Road]
+A short snake, his scales ringed in green, red, and white, sits on a small rock beside the path, sunning himself on the warm stone. He seems surprisingly unconcerned about predators, no doubt his bright coloring warns most off.
+
+The area is illuminated.
+
+In this room you see: Bjeorn the Galirrim,  Harru the Galirrim
+Obvious exits are: south, north
+
+Bjeorn's group just went north.
+
+You follow Bjeorn...
+
+
+[Shady Tree Road]
+Short trees have begun to sprout up more commonly closer to the forest, their gnarled branches reaching for the sunlight. Some have found themselves beset by deer, who venture out of the nearby woods searching for the tender leaves of the short trees.
+
+The area is illuminated.
+
+In this room you see: Bjeorn the Galirrim,  Harru the Galirrim
+Obvious exits are: south, north
+
+Bjeorn's group just went north.
+
+You follow Bjeorn...
+
+
+[Shady Tree Road]
+The wide path begins to narrow as it heads into the forest to the west. In the distance to the southeast, a large group of wagons, no doubt part of a merchant caravan, are gathered outside the gates of Urda.
+
+The area is illuminated.
+
+In this room you see: Bjeorn the Galirrim,  Harru the Galirrim
+Obvious exits are: south, north
+
+Bjeorn's group just went north.
+
+You follow Bjeorn...
+
+
+[Shady Tree Road]
+The sea of grasses and wildflowers suddenly breaks against the barrier of ancient trees, their height alone clue enough of the forest's age. The soft buzzing of a nearby beehive can be heard over the prolific twittering of songbirds within the forest.
+
+The area is illuminated.
+
+In this room you see: Bjeorn the Galirrim,  Harru the Galirrim
+Obvious exits are: south, north
+
+Bjeorn's group just went north.
+
+You follow Bjeorn...
+
+
+[Wooded Path]
+A small path breaks through a nearby stand of trees, leading deep into the woods. The trees loom far overhead, casting a dark shadow across the rocky terrain and the soft sounds of chirping insects and whistling birds can be heard coming from the shadowy forest.
+
+The area is illuminated.
+
+In this room you see: Bjeorn the Galirrim,  Harru the Galirrim
+Obvious exits are: south, north
+
+Bjeorn's group just went north.
+
+You follow Bjeorn...
+
+
+[Wooded Path]
+Faint hoof prints dot the soft soil of the forest path, suggesting that this was once a simple game trail. A small stand of clover has managed to survive in the dim light and a pair of young rabbits nibble at the patch of vegetation.
+
+The area is illuminated.
+
+In this room you see: Bjeorn the Galirrim,  Harru the Galirrim
+Obvious exits are: south, north
+
+Bjeorn's group just went north.
+
+You follow Bjeorn...
+
+
+[Wooded Path]
+Far overhead a large winged hawk cries aloud with a piercing shriek, his rusty feathers glinting like copper in the light, as he glides easily through the air. With a startling suddenness, he tilts his wings and veers out of sight as a flock of dark crows abruptly fill the sky.
+
+The area is illuminated.
+
+In this room you see: Bjeorn the Galirrim,  Harru the Galirrim
+Obvious exits are: south, north
+
+Bjeorn's group just went north.
+
+You follow Bjeorn...
+
+
+[Wooded Path]
+A fallen log blocks most of the path, its rotting bark covered in lush green moss. Scrapes mar the otherwise smooth carpet of moss, suggesting that the most determined travelers who could walk around the log, found a way over it.
+
+The area is illuminated.
+
+In this room you see: Bjeorn the Galirrim,  Harru the Galirrim
+Obvious exits are: northwest, south
+
+Bjeorn's group just went northwest.
+
+You follow Bjeorn...
+
+
+[Wooded Path]
+Light streams through the thick foliage of the trees, and as the wind blows through the forest, flecks of light and shadow dance along the narrow path. A young doe, her coat still speckled with small white dots, creeps cautiously from the tree line, wary for predators.
+
+The area is illuminated.
+
+In this room you see: Bjeorn the Galirrim,  Harru the Galirrim
+Obvious exits are: southeast, north
+
+Bjeorn's group just went north.
+
+You follow Bjeorn...
+
+
+[Wooded Path]
+Vines hang freely from treetop branches, some growing so long that they brush the ground. A forgotten wool cap is tangled in one cluster of green vines, no doubt lost when an unwary traveler became entangled in the vegetation.
+
+The area is illuminated.
+
+In this room you see: Bjeorn the Galirrim,  Harru the Galirrim
+Obvious exits are: south, north
+
+Bjeorn's group just went north.
+
+You follow Bjeorn...
+
+
+[Wooded Path]
+The path begins to narrow, making further passage more difficult. Overhead the tree's branches form an arcing tunnel, blocking all but the most stubborn sunlight from finding its way to the forest floor.
+
+The area is illuminated.
+
+In this room you see: Bjeorn the Galirrim,  Harru the Galirrim
+Obvious exits are: west, south
+
+Bjeorn's group just went west.
+
+You follow Bjeorn...
+
+
+[Wooded Path]
+The whistles of small songbirds abruptly end as something large passes through the trees just out of sight. In an instant the rustling of the fast moving predator ceases soon followed by the calls of birds, each chirping with renewed vigor as if to make up for their momentary pause.
+
+The area is illuminated.
+
+In this room you see: Bjeorn the Galirrim,  Harru the Galirrim
+Obvious exits are: west, east
+
+Bjeorn's group just went west.
+
+You follow Bjeorn...
+
+
+[Wooded Path]
+Oak, beech, and maple trees tower far overhead, their great boughs reaching toward the bright sun, and casting dark shadows on the thick undergrowth. Short shrubs vie desperately for the few flecks of sunlight able to penetrate the thick canopy above.
+
+The area is illuminated.
+
+In this room you see: Bjeorn the Galirrim,  Harru the Galirrim
+Obvious exits are: west, east
+
+time

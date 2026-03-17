@@ -1,0 +1,401 @@
+time
+It is currently 09:02 PM.
+
+say cueernt shops list
+You say, "cueernt shops list"
+
+l
+
+[Regal Fashion]
+A simple dark woolen rug sits on the polished hardwood floor just inside the entrance. An attendant is busily hanging a cloak and hat, of a patron already arrived, on a gnarled wooden rack. A handsome man carefully looks himself over in a large brass filigree trimmed mirror. The smell of scented woods, burning in the small fireplace, waft throughout the room. A simple wooden door is here.
+
+The area is illuminated.
+
+Obvious exits are: open door
+
+shop list
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ #  Name                                              Wgt   Cost
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ 0   twisted gold and silver torc                      0.0   5000 marks
+ 1   green and blue tartan great kilt                  0.0   1000 marks
+ 2   jewel encrusted twisted silver armlet             0.03   2000 marks
+ 3   twisted brass snake head tipped armlet            0.03   4000 marks
+ 4   Knee high laced doeskin boots                     0.03   70 marks
+ 5   Knee high laced leather sandals                   0.03   150 marks
+ 6   calf high sturdy black leather boots              0.03   200 marks
+ 7   highly polished black leather boots               0.03   2800 marks
+ 8   supple brown leather gloves                       0.03   75 marks
+ 9   elbow length rabbit fur trimmed gloves            0.03   2000 marks
+ 10  long, wide, red satin bandana                     0.03   30 marks
+ 11  cardinal feathered woodsman's cap                 0.03   50 marks
+ 12  dark blue wool beret                              0.03   500 marks
+ 13  brown velvet knee breeches                        0.03   100 marks
+ 14  black satin brocade pants                         0.03   100 marks
+ 15  tight red leather warrior's briefs                0.03   120 marks
+ 16  loose fitting forest green suede pants            0.03   600 marks
+ 17  simple cotton laced shirt                         0.03   20 marks
+ 18  brown leather over tunic                          0.03   60 marks
+ 19  long brocade black wool vest                      0.03   75 marks
+ 20  white wool owl emblazoned tunic                   0.03   500 marks
+ 21  white wool owl emblazoned tunic                   0.03   500 marks
+ 22  short sleeve brown suede jerkin                   0.03   500 marks
+ 23  skull embossed black leather tunic                0.03   1000 marks
+ 24  padded dark green wool gambeson                   0.03   1000 marks
+ 25  supple brown leather, heavily buckled jerkin      0.03   3000 marks
+ 26  wide black leather baldric                        0.33   500 marks
+
+
+time
+time
+It is currently 09:02 PM.
+
+l
+
+[Liddies Galleria of Lights]
+Rays of light criss-cross one another like a complicated needlepoint pattern. Through a translucent curtain that hangs neatly from a glowing rod on the eastern side of the shop; soft clanking can be heard. A lighted counter top displays intricate light sources radiating a rainbow glow. The shopkeeper, a pale skinned, red headed Human female, manipulates what appears to be thin strips of brass into a U shaped mold. A glass door is here.
+
+The area is illuminated.
+
+Obvious exits are: open door
+
+shop list
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ #  Name                                              Wgt   Cost
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ 0  large wax candle                                  0.13   70 marks
+ 1  plain old lantern                                 1.67   105 marks
+ 2  neatly crafted cherry wood torch                  1.0   350 marks
+ 3  bronze oil lamp                                   1.67   560 marks
+ 4  rapidly pulsating green orb                       0.67   2380 marks
+ 5  swirling ring of light                            1.0   4100 marks
+ 6  glowing diamond bar                               1.67   4200 marks
+ 7  cold ball of flame                                1.67   5000 marks
+
+
+time
+time
+It is currently 09:02 PM.
+
+l
+
+[Tillie's Trinkets and Treasures]
+The dimly lit and disorganized shop looks as if ransacked by bandits. Boxes filled with all kinds of things lie strewn about the floor. Glass cases display items stacked atop of items, making viewing difficult. A toothy human female with messy, dirty, black hair scurries about the shop pushing boxes up against the wall in order to allow passage to other areas of the shop. A knotty wooden door is here
+
+The area is illuminated.
+
+Obvious exits are: open door
+
+shop list
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ #  Name                                              Wgt   Cost
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ 0  filthy orange parasol                             2.22   300 marks
+ 1  tarnished gold belly chain                        0.02   400 marks
+ 2  dirty rainbow colored kilt                        0.0   700 marks
+ 3  halfway empty notepad                             0.0   300 marks
+ 4  pair of rundown black pleated dresspants          0.0   400 marks
+ 5  pair of intricatley crafted black satin slippers  0.0   1000 marks
+
+
+time
+time
+It is currently 09:03 PM.
+
+l
+
+[Talafon's Weapons and Armor]
+A small breeze circulates a bit of fresh air through this smoky shop. Hanging upon neatly organized display racks,from floor to ceiling, are weapons and armors of all shapes and sizes. A stocky red-haired Vorgnar woman works tirelessly polishing a new blade. A loud shout,in her native tongue, summons a young attendant who rushes in from behind a curtain on the far wall. He takes the freshly polished blade, nods respectfully and disappears again behind the curtain. A studded iron door is here.
+
+The area is illuminated.
+
+In this room you see: 1st urdaian junior guard
+Obvious exits are: open door
+
+shop list
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ #  Name                                              Wgt   Cost
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ 0   quiver of stone tipped wooden arrows              0.67   10 marks
+ 1   polished brass platemail                          5.0   800 marks
+ 2   thick hawthorn armor                              3.33   875 marks
+ 3   polished urdaian steel battle mail                5.0   21000 marks
+ 4   nicely etched wooden long bow                     1.33   210 marks
+ 5   polished brass shield                             2.0   600 marks
+ 6   polished urdaian steel shield                     4.0   21000 marks
+ 7   pile of bronze throwing hatchets                  3.33   875 marks
+ 8   chipped parrying dagger                           1.33   350 marks
+ 9   rusty iron sword                                  0.67   105 marks
+ 10  tin slayers sword                                 1.67   560 marks
+ 11  intricately etched steel scimitar                 2.0   1001 marks
+ 12  Vorngarian embossed steel tipped cudgel.          2.0   1800 marks
+ 13  shiny silver warhammer                            2.33   2000 marks
+ 14  chipped wooden spear                              1.0   70 marks
+ 15  balanced silver two-handed sword                  3.33   1000 marks
+ 16  sharp silver spear                                1.33   1200 marks
+ 17  two handed barbed steel crowbill                  3.33   1730 marks
+ 18  ebony handled steel great sword                   3.33   2380 marks
+
+
+time
+time
+It is currently 09:03 PM.
+
+l
+
+[Malinar's Magic and Mayhem]
+The rapidly pulsing portal glows circumspectly upon etched maize-colored walls. Items display themselves suspended above ornate emerald encrusted shelves unassisted. The air, alive with sounds of wind blowing and fires burning, cuts through the room as if summoned by obscure forces. A petite female Duskwen stands behind a meticulously organized blown glass counter. With a wave of her neatly manicured hand she summons several minerals and roots and mixes them methodically in a beaker of clear fluid which begins to glow green.
+
+The area is illuminated.
+
+In this room you see: 1st urdaian junior guard
+Obvious exits are: portal
+
+shop list
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ #  Name                                              Wgt   Cost
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ 0   tiger shaped amber locket                         0.0   2000 marks
+ 1   some bone-lined heavy robes                       3.33   953 marks
+ 2   sturdy, light jerkin of scorpion carapaces        3.33   1830 marks
+ 3   shiny carburised wriggling creeper exoskeleton    3.33   4500 marks
+ 4   slightly rusted anchor emblem                     0.03   45 marks
+ 5   translucent feather emblem                        0.03   45 marks
+ 6   tarnished boulder emblem                          0.03   45 marks
+ 7   plain red torch emblem                            0.03   45 marks
+ 8   moss-covered geode runestone                      0.03   85 marks
+ 9   glimmering star-shaped garnet runestone           0.03   85 marks
+ 10  cloudy crescent-shaped aquamarine runestone       0.03   85 marks
+ 11  clear cloud-shaped quartz runestone               0.03   85 marks
+ 12  blackened rune-emblazoned iron boar               0.03   130 marks
+ 13  platinum rune-emblazoned steel hawk               0.03   130 marks
+ 14  silver rune-emblazoned alabaster dolphin          0.03   130 marks
+ 15  golden rune-emblazoned silver firefly             0.03   130 marks
+ 16  fluttering, multicolored air rune                 0.03   200 marks
+ 17  vibrating, dull black earth rune                  0.03   200 marks
+ 18  blazing, ash-covered fire rune                    0.03   200 marks
+ 19  rippling, sea-foam covered water rune             0.03   200 marks
+
+
+time
+time
+It is currently 09:04 PM.
+
+l
+
+[Double Boil]
+Stone walls glow dimly by torchlight. The adamant glow of a large black cauldron churns with anticipation from the stoking hot red coals beneath it. Mason jars, filled with ingredients ranging from spider legs to ghoul spit, sit atop long oak shelves mounted on the eastern and western walls. Steam flows contently out of the bubbling water, casting a strange scent muddled by the stale air of the shop. A large, heavy wooden door creaks as it opens and closes in unison with the comings and goings of patrons who pass through.
+
+The area is illuminated.
+
+Obvious exits are: door
+
+shop list
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ #  Name                                              Wgt   Cost
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ 0  smoking blue vial                                 0.0   20 marks
+ 1  smoking red vial                                  0.0   20 marks
+ 2  smoking purple vial                               0.0   20 marks
+ 3  smoking blue vial                                 0.0   20 marks
+ 4  large smoking red vial                            0.0   30 marks
+ 5  large smoking blue vial                           0.0   30 marks
+ 6  large smoking purple vial                         0.0   30 marks
+
+
+time
+time
+It is currently 09:05 PM.
+
+l
+
+[Hot Roasted Nuts]
+A small vendors stand sits in the center of an elegant green grotto. A friendly Fae smiles gracefully as she offers hot roasted nuts to her customers.
+
+The area is illuminated.
+
+Obvious exits are: walkway
+
+shop list
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ #  Name                                              Wgt   Cost
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ 0  honey roasted peanuts                             0.0   40 marks
+ 1  honey roasted almonds                             0.0   50 marks
+ 2  hot and spicy cashews                             0.0   60 marks
+
+
+time
+time
+It is currently 09:05 PM.
+
+l
+
+[The Seaming Stars Tailor Shoppe]
+A lovely hearth, crafted from sea stones and minor gems dominates the back center wall of the room. The mantle is draped in swathes of different colored and diversely textured fabrics. A large display window holds several mannequins on a deep, wide, ledge, artfully exhibited to catch the perfect position of light and atmosphere for the eyes of prospective customers. Unique glass bowls, each holding a distinctive, yet elegantly blended assortment of potpourri, are set about the room intermittently dispersing pleasing aromas. Varieties of fabrics have been neatly stacked in overhead cubbies, while jewels, gemstones, polished bone, and metals have been sorted by shape, size, and color behind locked cases and glass boxes. Each mannequin has a beautifully designed necklace about it, and other finished jewelry pieces have been tacked to placards indicating their price, or hung on knobbed pegs. Well-cobbled shoes and boots have been arrayed on clothed tables and cushioned stools. Brocade armchairs and full-length mirrors have been strategically placed throughout the store for the convenience of customers. A pearl and moonstone-beaded, moire-satin curtain separates the shop from the dressing room.
+
+The area is illuminated.
+
+In this room you see: 1st fidgety zacotl citizen
+Obvious exits are: east, beaded satin curtain
+
+shop list
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ #  Name                                              Wgt   Cost
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ 0  blue linen tunic with gold stitching on the collar0.03   2000 marks
+ 1  pair of hip-tied billowy wyrmsilk pantaloons      0.03   3000 marks
+ 2  thick, swagged forest green deerskin pallium      0.03   3500 marks
+ 3  pair of dusty brown leather calf boots            0.03   2800 marks
+ 4  pair of burnished, spike-studded wyrmhide gauntlets0.03   4000 marks
+ 5  slanted, jeweled linen turban                     0.03   2200 marks
+
+
+time
+time
+It is currently 09:05 PM.
+
+l
+
+[The Lonely Moon: Stars Club, Tavern]
+Behind the heavy oak door, the dimly-lit room opens into a spacious tavern full of glass-topped, lacquered wooden tables and cushioned chairs. A beautifully polished bar, carved with star and tree shapes, is set against the northern wall. Behind the bar top, bottles of liquor, kegs of beer, and all manner of alcoholic beverage are lined up, tapped and waiting for patrons. High-backed stools are set against the bar, allowing patrons to mingle with one another. The cacophonous sounds of talking, laughing, and whispering fill the packed room. The hearty aroma of well-cooked food wafts from the kitchen entrance behind the bar. Servers and bartenders move swiftly back and forth from the tavern to the kitchen. A T-shaped stage is centered at the eastern wall, and though the barmaids and barkeeps continue to move quickly, refilling drinks or bringing food in and out from the kitchen behind the bar, a reverent silence spreads over the customers as entertainers take the stage. Portraits of various famous adventurers decorate the walls, yet the most pronounced portrait of the owner has been hung behind the bar.
+
+The area is illuminated.
+
+In this room you see: 1st burly, duskwen bouncer
+Obvious exits are: open heavy oak door
+
+shop list
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ #  Name                                              Wgt   Cost
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ 0   freshly baked brown bread with butter             0.03   30 marks
+ 1   shot of black rotgut                              0.03   30 marks
+ 2   thick, spiced shoulder of mutton                  0.03   35 marks
+ 3   goat cheese and arugula salad                     0.03   40 marks
+ 4   cup of mulled Silvarin honey brew                 0.03   55 marks
+ 5   broccoli cheddar soup in a sourdough bread bowl   0.03   65 marks
+ 6   glass of chilled white frost wine                 0.03   68 marks
+ 7   flute of honey gold Zacotl mead                   0.03   70 marks
+ 8   golden brown turkey leg                           0.03   75 marks
+ 9   juicy ground beef patty with baccon               0.03   80 marks
+ 10  stein of black chocolate stout                    0.03   80 marks
+ 11  frosted glass of spicy mole margarita             0.03   80 marks
+ 12  pint of ruby-red toffee strong ale                0.03   110 marks
+ 13  basket of crispy, battered haddock and chips      0.03   120 marks
+ 14  chicken fingers with ale-battered potato wedges   0.03   130 marks
+ 15  bubbling, beefy shepherd's daughter's pie         0.03   134 marks
+ 16  plate of farfalle tomato pasta with pine nuts     0.03   150 marks
+
+
+time
+time
+It is currently 09:08 PM.
+
+l
+
+[The Adventurous Sprite!]
+Adorning the walls are racks of weapons, and clothing. Patrons stand in front of highly polished brass mirrors admiring themselves in possible purchases. Behind the rounded wooden counter a mature Fae shopkeeper can be seen handing a package to a new customer. With a smile and a nod he sends them on their way.
+
+The area is illuminated.
+
+Obvious exits are: open knotty wooden door
+
+shop list
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ #  Name                                              Wgt   Cost
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ 0   pair of opalescent, unicorn-shaped earrings       0.0   10000 marks
+ 1   black face paint                                  0.0   3000 marks
+ 2   red and black striped war paint                   0.0   4000 marks
+ 3   glittering diamond nose stud                      0.0   7500 marks
+ 4   fiery red and gold mages robes                    0.03   2500 marks
+ 5   shimmering gold silk cloak with an oak leaf clasp 0.03   12000 marks
+ 6   pair of clear glass slippers                      0.03   4000 marks
+ 7   pair of soft leather moccasins                    0.03   4500 marks
+ 8   pair of split-sole black leather shoes            0.03   5000 marks
+ 9   pair of beaded deerskin moccasins                 0.03   6000 marks
+ 10  pair of sapphire encrusted butterfly barrettes    0.03   5000 marks
+ 11  tight black matte leather leggings                0.03   3000 marks
+ 12  sleeveless black matte leather shirt              0.03   2500 marks
+ 13  some sparkling wing streamers                     0.03   3000 marks
+ 14  dark rune-inscribed dagger                        1.67   1050 marks
+ 15  jade encrusted falchion                           1.67   1520 marks
+ 16  jeweled, basket-hilted steel rapier               1.67   2000 marks
+ 17  silver and gold inlaid wand                       1.67   2000 marks
+ 18  bell-hilted steel epee                            1.67   2730 marks
+ 19  glowing, eagle-tipped crystal staff               3.33   1075 marks
+
+
+time
+time
+It is currently 09:09 PM.
+
+l
+
+[Dagurne's Archery and Fletching]
+A very frail-looking, graying old Goblin ranger sits comfortably on the log of an old elm tree. He has piles of different types of wood neatly stacked around him, and with his deft, agile hands, he fletches arrows in masterfully straight shafts. A small fire and a kettle of water sit to one side of him; he occasionally pours water over a thick flat stone from the fire, creating steam. He then shapes the wood for bows, or works out the knobby parts of arrows. Wood shavings, sandstones, sinews and cordage for bowstrings, and polishing rags lay all around him. Finished products are stacked carefully on one of the crumbling sides of the old building which he has set his shop in.
+
+The area is illuminated.
+
+Obvious exits are: street
+
+shop list
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ #  Name                                              Wgt   Cost
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ 0   quiver of fang-tipped elm arrows                  0.67   117 marks
+ 1   quiver of feather-notched bone arrows             0.67   343 marks
+ 2   quiver of shining, silver-capped yew arrows       0.67   486 marks
+ 3   obsidian-tipped oak bolts                         0.67   586 marks
+ 4   quiver of spiral snake-entwined ibex horn arrows  0.67   610 marks
+ 5   fragrant lemonwood compact bow                    1.67   550 marks
+ 6   sparrow-etched osage wood flatbow                 1.67   1875 marks
+ 7   ruby-tipped ebony crossbow                        1.67   2530 marks
+ 8   emerald-inlaid Silvawood composite bow            1.67   2730 marks
+ 9   highly polished oxhorn hwal bow                   1.67   6200 marks
+ 10  green doeskin arrow shoulderbelt                  0.17   2000 marks
+ 11  rough, granulated sanding stone                   0.07   500 marks
+
+
+time
+time
+It is currently 09:10 PM.
+
+l
+
+[Back Alley Bargains]
+Planks of wood have been draped over the jagged, crumbling walls of two old buildings, creating a dead end in the alley. A devilishly handsome Duskwen shopkeeper fawns over his "gently used" wares. All manner of clothing, armor, weaponry, and accessories hang from pegs in the store.
+
+The area is illuminated.
+
+Obvious exits are: dark, narrow alleyway
+
+shop list
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ #  Name                                              Wgt   Cost
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ 0  supple leather patchwork cape                     0.03   5000 marks
+ 1  pair of calf-high, cuffed hunting boots           0.03   5000 marks
+ 2  pair of fingerless black doeskin gloves           0.03   2500 marks
+ 3  shadowy black cotton hood                         0.03   3000 marks
+ 4  pair of burnished dark brown leather breeches     0.03   4000 marks
+ 5  ivory, ebon-slashed sleeved doublet               0.03   7500 marks
+ 6  slinky, crimson and black bodysuit                0.03   7500 marks
+ 7  mottled Varanus skin front-lace jerkin            0.03   10000 marks
+ 8  hydra-headed steel lockpick                       0.0   5000 marks
+
+
+time

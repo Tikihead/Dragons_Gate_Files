@@ -1,0 +1,5169 @@
+time
+It is currently 03:11 PM.
+
+Jonathan raises a hand and holds it over his eyes, glancing skyward.
+
+l
+
+[South Street]
+The road narrows slightly allowing room for a beautiful pond which sits on the eastern side of the road. Ducks paddle around leisurely and enjoy the tepid water. Brass lamp posts, with green glass lanterns, are situated around the pond keeping it lit even during the evening hours.
+
+The area is illuminated.
+
+In this room you see: Jonathan the Cyrwian,  Beor the Rock Troll
+In this room are: small polished metal sign
+Obvious exits are: north, south, wooden wagon door with steps
+
+l at b
+
+You see Beor the adolescent Rock Troll.
+He is 7' 0" tall with a muscular build, untamed, purplish black hair, violet eyes, and gray skin.
+He bears the mark of Boerhund.
+He is currently in a pensive mood.
+
+Description:
+Big, bad, buff, bulging, belching, behemoth.
+
+
+He is carrying:
+ -a light blue shimmering chainmail      (torso)
+ -a emerald ring         (finger)
+ -a divinely made fake ring      (finger)
+ -a gold chain   (around neck)
+ -a horned war helmet    (head)
+ -a family crested multi-colored kilt    (legs)
+ -a pair of black combat boots   (feet)
+ -a leather bandolier    (on belt)
+
+
+
+l at j
+
+You see Jonathan the adult Cyrwian.
+He is 6' 3" tall with a muscular build, pulled back, ginger hair, deep blue eyes, and lightly tanned skin.
+He bears no god mark.
+He is currently in a happy mood.
+
+Description:
+Before you stands a tall, extremely muscular red headed male. Each exposed arm is perfectly sculpted through years in the blacksmithing trade, the skin almost permanently dyed black with soot.
+
+He has had the following titles bestowed upon him:
+  -Apprentice
+
+He is carrying:
+ -a well-worn blacksmithing hammer       (right hand)
+ -a torn and tattered soot stained white sleveless shirt         (torso)
+ -a thin golden chain    (around neck)
+ -a pair of tinted smithing specs        (head)
+ -a pair of loose jet black cotton pants         (legs)
+ -a thick leather workman's belt         (around waist)
+
+
+
+Beor removes his claw handed spike from his leather bandolier.
+
+Beor removes his water logged wooden plank of destiny from his leather bandolier.
+
+Beor removes his sharpened miners pick from his leather bandolier.
+
+inv
+
+You are currently holding:
+ -pair of emerald green leggings (0.0 lbs)
+ -pair of white thigh high boots (0.0 lbs)
+ -gold belly chain (0.03 lbs)
+ -pewter pentagram (0.5 lbs)
+ -open black leather book bag (9.62 lbs)
+ -open black leather pack (15.19 lbs)
+ -open black leather pack (3.27 lbs)
+ -open black leather pack (1.0 lbs)
+ -open black leather pack (6.0 lbs)
+ -banded black leather armor (2.33 lbs)
+ -gleaming silver haubergen (2.33 lbs)
+ -damaged simple wooden buckler (0.17 lbs)
+ -bright red candied apple on a stick (0.008 lbs)
+ -warm brown cotton cloak (0.0 lbs)
+ -water logged wooden plank of destiny (1.33 lbs)
+ -jaunty fedora (0.0 lbs)
+ -simple wooden bow (1.33 lbs)
+ -standard lantern (0.33 lbs)
+ -orange handled leather whip (0.67 lbs)
+ -handful of pumpkin shaped gummies (0.0002 lbs)
+ (44.1082 / 86.0 lbs being carried)
+
+mon
+ You currently have 53 marks and 314 crowns.
+
+You are currently carrying 314 Crowns and 53 Marks.
+This gives you a combined wealth of 31453 marks.
+
+Beor removes his light blue shimmering chainmail.
+
+off sti to b
+You offer the bright red candied apple on a stick to Beor.
+
+grin 
+You grin.
+
+eat gu
+You take a bite of your handful of pumpkin shaped gummies.
+
+A small grey wolf cub runs up to you holding a sign which reads: "Jonathan 'VAllTrades will be fixing up your armor and weapons a few paces south of the Town Square right now!! Don't miss out!" before wagging its tail and running off.
+
+Beor accepts your offer.
+
+who
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+    Currently Connected
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+Jonathan 'Valltrades
+Kurapiira Mako
+Beor Baktukk
+Ad'in Ubah
+Merau Lastdawn
+Garlin Caw
+
+    [6 total]
+
+
+Beor says to Kurapiira, "thanks"
+
+Beor smiles.
+
+say suresure
+You say, "suresure"
+
+grin 
+You grin.
+
+Beor takes a bite of his bright red candied apple on a stick.
+
+'j, do you resize stuff?
+You ask to Jonathan, "do you resize stuff?"
+
+Beor removes his horned war helmet.
+
+
+Jonathan says to Kurapiira, "O'course, if'n you need somethin to be resized."
+
+nod
+You nod.
+
+wink at Jonathan
+grin at Jonathan wryly
+Jonathan smiles at you.
+
+You wink at Jonathan.
+
+You grin at Jonathan wryly.
+
+smi to j
+You smile to Jonathan.
+
+l
+
+[South Street]
+The road narrows slightly allowing room for a beautiful pond which sits on the eastern side of the road. Ducks paddle around leisurely and enjoy the tepid water. Brass lamp posts, with green glass lanterns, are situated around the pond keeping it lit even during the evening hours.
+
+The area is illuminated.
+
+In this room you see: Jonathan the Cyrwian,  Beor the Rock Troll
+In this room are: small polished metal sign
+Obvious exits are: north, south, wooden wagon door with steps
+
+hum
+You hum.
+
+inv
+
+You are currently holding:
+ -pair of emerald green leggings (0.0 lbs)
+ -pair of white thigh high boots (0.0 lbs)
+ -gold belly chain (0.03 lbs)
+ -pewter pentagram (0.5 lbs)
+ -open black leather book bag (9.62 lbs)
+ -open black leather pack (15.19 lbs)
+ -open black leather pack (3.27 lbs)
+ -open black leather pack (1.0 lbs)
+ -open black leather pack (6.0 lbs)
+ -banded black leather armor (2.33 lbs)
+ -gleaming silver haubergen (2.33 lbs)
+ -damaged simple wooden buckler (0.17 lbs)
+ -warm brown cotton cloak (0.0 lbs)
+ -water logged wooden plank of destiny (1.33 lbs)
+ -jaunty fedora (0.0 lbs)
+ -simple wooden bow (1.33 lbs)
+ -standard lantern (0.33 lbs)
+ -orange handled leather whip (0.67 lbs)
+ -handful of pumpkin shaped gummies (0.0002 lbs)
+ (44.1002 / 86.0 lbs being carried)
+
+mon
+ You currently have 53 marks and 314 crowns.
+
+You are currently carrying 314 Crowns and 53 Marks.
+This gives you a combined wealth of 31453 marks.
+
+
+Jonathan exclaims, "All right, I s'pose we should be getin' on with the show now!"
+
+ ** Juju Slithern just arrived in the world
+
+grin 
+You grin.
+
+***** RELOADING NPCs *****
+
+Beor salutes.
+
+
+Jonathan asks, "Who's first of ye?"
+
+Beor points at you.
+
+poi at b
+You point at Beor.
+
+cac
+You cackle.
+
+Beor grins toothily.
+
+Jonathan chuckles.
+
+l
+
+[South Street]
+The road narrows slightly allowing room for a beautiful pond which sits on the eastern side of the road. Ducks paddle around leisurely and enjoy the tepid water. Brass lamp posts, with green glass lanterns, are situated around the pond keeping it lit even during the evening hours.
+
+The area is illuminated.
+
+In this room you see: Jonathan the Cyrwian,  Beor the Rock Troll
+In this room are: small polished metal sign
+Obvious exits are: north, south, wooden wagon door with steps
+
+say trolls first
+You say, "trolls first"
+
+
+Beor says, "I'll go first if you wish"
+
+nod yes
+You nod your head up and down.
+
+Beor nods.
+
+Jonathan nods at Beor.
+
+say allways send in the trolls first
+You say, "allways send in the trolls first"
+
+nod yes
+You nod your head up and down.
+
+cac
+Beor smirks at you.
+
+You cackle.
+
+
+Jonathan says to Beor, "Well follow me right inna my workshop then, big fella."
+
+Jonathan gestures.
+
+Beor follows Jonathan.
+
+Jonathan's group just went through the wooden wagon door with steps.
+
+l
+
+[South Street]
+The road narrows slightly allowing room for a beautiful pond which sits on the eastern side of the road. Ducks paddle around leisurely and enjoy the tepid water. Brass lamp posts, with green glass lanterns, are situated around the pond keeping it lit even during the evening hours.
+
+The area is illuminated.
+
+In this room are: small polished metal sign
+Obvious exits are: north, south, wooden wagon door with steps
+
+land
+You are already on the ground.
+
+l at d
+I don't see what you're referring to.
+
+l d
+
+[Shanty Ol' Wagon]
+The first thing one can't help but notice upon entry of this large wagon is the overpowering stench of burning metals. To the right sits a giant kiln, its glory hole blazing fire ready for the next piece to be put in. Just in front of the kiln sits a large black anvil, a large piece of Terrak armor draped over its center. Along the other walls study mahogany tables sit covered in either half-finished weapons or various tools of the trade. Higher up on the walls, a few masterpieces hang amongst some perfectly crafted horseshoes. The floor is covered in soot making it seem almost black, footprints and scuff marks showing a bit of the brown wooden floor below.
+
+The area is illuminated.
+
+In this room you see: Jonathan the Cyrwian,  Beor the Rock Troll, 1st wolf cub
+Obvious exits are: wooden wagon door with steps
+
+ ** Garlin Caw just left the world.
+
+ ** Valhad Celtrik just arrived in the world
+
+who
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+    Currently Connected
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+Jonathan 'Valltrades
+Kurapiira Mako
+Valhad Celtrik
+Beor Baktukk
+Ad'in Ubah
+Juju Slithern
+Merau Lastdawn
+
+    [7 total]
+
+alphasay Lack the Black-smith is in travers
+** ALPHA CHAT -- Kurapiira says, "Lack the Black-smith is in travers"
+
+alphasay Jack
+** ALPHA CHAT -- Kurapiira says, "Jack"
+
+Valhad just entered from the north.
+
+smi
+You smile.
+
+l
+
+[South Street]
+The road narrows slightly allowing room for a beautiful pond which sits on the eastern side of the road. Ducks paddle around leisurely and enjoy the tepid water. Brass lamp posts, with green glass lanterns, are situated around the pond keeping it lit even during the evening hours.
+
+The area is illuminated.
+
+In this room you see: Valhad the Mynarian
+In this room are: small polished metal sign
+Obvious exits are: north, south, wooden wagon door with steps
+
+poi at v
+You point at Valhad.
+
+say You
+You say, "You"
+
+
+Valhad asks, "Me?"
+
+Merau just entered from the north.
+
+say ...are next
+You say, "...are next"
+
+cac
+You cackle.
+
+Valhad points at Merau.
+
+
+Valhad says to Merau, "You are next."
+
+Valhad nods.
+
+say he is third
+You say, "he is third"
+
+
+Merau says, "haha"
+
+
+Valhad says, "I'm third"
+
+say the line is..Kura..Val..Merau
+You say, "the line is..Kura..Val..Merau"
+
+cac
+You cackle.
+
+rai at v
+You raise an eyebrow at Valhad.
+
+
+Valhad says, "Oh, Kura, Merau, then me then"
+
+Valhad grins.
+
+say kk
+You say, "kk"
+
+A city waste engineer just entered from the north.
+
+poi at en
+You point at the 1st city waste engineer.
+
+say then you
+You say, "then you"
+
+nod yes to en
+You nod your head up and down to the 1st city waste engineer.
+
+Valhad whispers to you, "I was going to wait til tonight, babysitting right now and i don't want to go in there if i'm going to have to get up and chase the kid around."
+
+Merau advances 4 units.
+
+Merau bites at the 1st city waste engineer!
+It is a solid blow to its chest!
+HITCOUNTER : 11
+
+
+wh to v heh
+You whisper "heh" to Valhad.
+
+The 1st city waste engineer attacks Merau with its sturdy shovel!
+It is a solid blow to her head!
+
+
+Merau bites at the 1st city waste engineer!
+It is a strong blow to its right arm!
+HITCOUNTER : 12
+The city waste engineer is knocked back!
+The city waste engineer stumbles and falls down!
+
+
+The 1st city waste engineer attacks Merau with its sturdy shovel, but the attack is blocked by her simple wooden buckler.
+
+Merau bites at the 1st city waste engineer!
+It is a decent blow to its head!
+
+
+The 1st city waste engineer stands up.
+
+pet en
+You pet the city waste engineer.
+
+Merau bites at the 1st city waste engineer!
+It is a strong blow to its torso!
+The city waste engineer is knocked back!
+The city waste engineer stumbles and falls down!
+
+
+The city waste engineer gasps out, "I just wanted to clean your trash!" and falls to the ground.
+
+Merau begins looting the city waste engineer corpse.
+
+She picks up some marks.
+
+gasp
+You gasp.
+
+blan
+You blanch.
+
+Merau picks up the sturdy shovel.
+
+
+Merau says, "Now i can dig Fey graves"
+
+Merau taps the sturdy shovel.
+
+shri
+You shriek.
+
+shiv
+You shiver.
+
+
+Merau says, "Lucky for you i can't use this"
+
+grin 
+You grin.
+
+
+Merau says, "Stupid long claws"
+
+Merau drops a sturdy shovel on the ground.
+
+l at k
+
+You see Kurapiira the young Fey.
+She is 1' 10" tall with a lithe build, dreadlocked, purplish black hair, forest green eyes, and lavendar skin.
+She bears the mark of Tevleh.
+She is currently in a calculating mood.
+
+Description:
+She has a tattoo of a fey with broken wyngs across her back.
+
+
+She is carrying:
+ -a gleaming silver haubergen    (right hand)
+ -a damaged simple wooden buckler        (left hand)
+ -a banded black leather armor   (torso)
+ -a pewter pentagram     (around neck)
+ -a jaunty fedora        (head)
+ -a pair of emerald green leggings       (legs)
+ -a pair of white thigh high boots       (feet)
+ -a open black leather book bag  (on back)
+ -a warm brown cotton cloak      (cloak)
+ -a gold belly chain     (around waist)
+
+
+
+inv
+
+You are currently holding:
+ -pair of emerald green leggings (0.0 lbs)
+ -pair of white thigh high boots (0.0 lbs)
+ -gold belly chain (0.03 lbs)
+ -pewter pentagram (0.5 lbs)
+ -open black leather book bag (9.62 lbs)
+ -open black leather pack (15.19 lbs)
+ -open black leather pack (3.27 lbs)
+ -open black leather pack (1.0 lbs)
+ -open black leather pack (6.0 lbs)
+ -banded black leather armor (2.33 lbs)
+ -gleaming silver haubergen (2.33 lbs)
+ -damaged simple wooden buckler (0.17 lbs)
+ -warm brown cotton cloak (0.0 lbs)
+ -water logged wooden plank of destiny (1.33 lbs)
+ -jaunty fedora (0.0 lbs)
+ -simple wooden bow (1.33 lbs)
+ -standard lantern (0.33 lbs)
+ -orange handled leather whip (0.67 lbs)
+ -handful of pumpkin shaped gummies (0.0002 lbs)
+ (44.1002 / 86.0 lbs being carried)
+
+mon
+ You currently have 53 marks and 314 crowns.
+
+You are currently carrying 314 Crowns and 53 Marks.
+This gives you a combined wealth of 31453 marks.
+
+put fed in 2 pac
+You must unequip the jaunty fedora first.
+
+unready fed
+You remove your jaunty fedora.
+
+put fed in 2 pac
+You put the jaunty fedora in your open black leather pack.
+
+l at gu
+Orange squishy and chewy candies, the size of a grape and shaped like a pumpkin.
+The handful of pumpkin shaped gummies appears to be in perfect condition.
+
+put gu in 2 pac
+You put the handful of pumpkin shaped gummies in your open black leather pack.
+
+inv
+
+You are currently holding:
+ -pair of emerald green leggings (0.0 lbs)
+ -pair of white thigh high boots (0.0 lbs)
+ -gold belly chain (0.03 lbs)
+ -pewter pentagram (0.5 lbs)
+ -open black leather book bag (9.62 lbs)
+ -open black leather pack (15.19 lbs)
+ -open black leather pack (3.2702 lbs)
+ -open black leather pack (1.0 lbs)
+ -open black leather pack (6.0 lbs)
+ -banded black leather armor (2.33 lbs)
+ -gleaming silver haubergen (2.33 lbs)
+ -damaged simple wooden buckler (0.17 lbs)
+ -warm brown cotton cloak (0.0 lbs)
+ -water logged wooden plank of destiny (1.33 lbs)
+ -simple wooden bow (1.33 lbs)
+ -standard lantern (0.33 lbs)
+ -orange handled leather whip (0.67 lbs)
+ (44.1002 / 86.0 lbs being carried)
+
+mon
+ You currently have 53 marks and 314 crowns.
+
+You are currently carrying 314 Crowns and 53 Marks.
+This gives you a combined wealth of 31453 marks.
+
+put clo in 2 pac
+You must unequip the warm brown cotton cloak first.
+
+unready clo
+You remove your warm brown cotton cloak.
+
+put clo in 2 pac
+You put the warm brown cotton cloak in your open black leather pack.
+
+l at m
+
+You see Merau the young Terrak.
+She is 6' 5" tall with a well toned build, metallic gold eyes, and silvery blue scales.
+She bears no god mark.
+She is currently in a neutral mood.
+
+
+She is carrying:
+ -a simple wooden buckler        (left hand)
+ -a open simple leather backpack         (on back)
+
+
+
+l
+
+[South Street]
+The road narrows slightly allowing room for a beautiful pond which sits on the eastern side of the road. Ducks paddle around leisurely and enjoy the tepid water. Brass lamp posts, with green glass lanterns, are situated around the pond keeping it lit even during the evening hours.
+
+The area is illuminated.
+
+In this room you see: Valhad the Mynarian,  Merau the Terrak
+In this room are: small polished metal sign, sturdy shovel
+Obvious exits are: north, south, wooden wagon door with steps
+
+ ** Juju Slithern just left the world.
+
+l at k
+
+You see Kurapiira the young Fey.
+She is 1' 10" tall with a lithe build, dreadlocked, purplish black hair, forest green eyes, and lavendar skin.
+She bears the mark of Tevleh.
+She is currently in a calculating mood.
+
+Description:
+She has a tattoo of a fey with broken wyngs across her back.
+
+
+She is carrying:
+ -a gleaming silver haubergen    (right hand)
+ -a damaged simple wooden buckler        (left hand)
+ -a banded black leather armor   (torso)
+ -a pewter pentagram     (around neck)
+ -a pair of emerald green leggings       (legs)
+ -a pair of white thigh high boots       (feet)
+ -a open black leather book bag  (on back)
+ -a gold belly chain     (around waist)
+
+
+
+unready arm
+You unbuckle your banded black leather armor and sling it on your back.
+[5 sec. delay]
+
+Merau removes her Chokeweed flower from her open simple leather backpack.
+
+put ar in 3 pac
+You put the banded black leather armor in your open black leather pack.
+
+l in 3 pac
+Inside the open black leather pack you see: banded black leather armor
+
+Merau chokes the Chokeweed flower.
+
+get ar fom 4 pac
+Syntax: get <item> [from <container>]
+
+grin 
+You grin.
+
+get ar from 4 pac
+You remove the green turtle shell armor from your open black leather pack.
+
+l at k
+
+You see Kurapiira the young Fey.
+She is 1' 10" tall with a lithe build, dreadlocked, purplish black hair, forest green eyes, and lavendar skin.
+She bears the mark of Tevleh.
+She is currently in a calculating mood.
+
+Description:
+She has a tattoo of a fey with broken wyngs across her back.
+
+
+She is carrying:
+ -a gleaming silver haubergen    (right hand)
+ -a damaged simple wooden buckler        (left hand)
+ -a pewter pentagram     (around neck)
+ -a pair of emerald green leggings       (legs)
+ -a pair of white thigh high boots       (feet)
+ -a open black leather book bag  (on back)
+ -a gold belly chain     (around waist)
+
+
+
+l at si
+The sign reads:
+
+Welcome to Jonathan's Shanty Ol' Wagon!
+
+You will be able to alter up to FOUR of your armor OR weapon pieces.
+
+There will be NO alterations to any kind of Dragon material.
+There will be NO alterations that aren't within reason of the world.
+
+Each alteration will cost:
+50 crowns per armor piece
+80 crowns per weapon piece
+
+Please sit outside the wagon and BEHAVE until your turn. I am an experienced blacksmith and I will not hesitate to put anyone in line!
+
+mon
+You are currently carrying 314 Crowns and 53 Marks.
+This gives you a combined wealth of 31453 marks.
+
+ ** Bebe Lestrange just arrived in the world
+
+Bebe just entered from the north.
+
+acc offer from Bebe
+sp
+say Thankies!
+smi at Bebe impishly, tossing her long soft hair back...
+hug Bebe softly, her long long hair falling all over the place...
+time
+Bebe offers you 46 Crowns.
+
+You accept Bebe's offer.
+
+You know the following languages:
+  -Common
+  -Ancestral
+
+
+You exclaim, "Thankies!"
+
+You smile at Bebe impishly, tossing her long soft hair back....
+
+You hug Bebe softly, her long long hair falling all over the place....
+
+It is currently 03:19 PM.
+
+Bebe cackles.
+
+A city waste engineer just entered from the north.
+
+Valhad chuckles.
+
+Bebe blinks out of existence.
+
+ ** Bebe Lestrange just left the world.
+
+The city waste engineer happily picks up some trash on the side of the road.
+
+mmmm
+Unknown command "mmmm"
+
+The 1st city waste engineer just wandered through wooden wagon door with steps.
+
+mon
+You are currently carrying 360 Crowns and 53 Marks.
+This gives you a combined wealth of 36053 marks.
+
+hum
+You hum.
+
+
+Ad'in asks, "This is where the cool kids meet, right?"
+
+say yupyup
+You say, "yupyup"
+
+
+Merau says, "I need to go then"
+
+grin to ad
+You grin to Ad'in.
+
+l
+
+[South Street]
+The road narrows slightly allowing room for a beautiful pond which sits on the eastern side of the road. Ducks paddle around leisurely and enjoy the tepid water. Brass lamp posts, with green glass lanterns, are situated around the pond keeping it lit even during the evening hours.
+
+The area is illuminated.
+
+In this room you see: Ad'in the Dragon,  Valhad the Mynarian,  Merau the Terrak
+In this room are: small polished metal sign, sturdy shovel
+Obvious exits are: north, south, wooden wagon door with steps
+
+chu to m
+You chuckle to Merau.
+
+mon
+You are currently carrying 360 Crowns and 53 Marks.
+This gives you a combined wealth of 36053 marks.
+
+say i am gonna be SO broke now
+You say, "i am gonna be SO broke now"
+
+pout
+You pout.
+
+A city waste engineer just entered through the wooden wagon door with steps.
+
+hol en
+You hold the city waste engineer.
+
+say BOB
+You say, "BOB"
+
+flai at en
+You flail your arms at the 1st city waste engineer.
+
+
+Merau says, "Good"
+
+say bob..gimme some crowms
+You say, "bob..gimme some crowms"
+
+pok en
+You poke the city waste engineer.
+
+cac
+You cackle.
+
+cur at en
+You curse at the 1st city waste engineer.
+
+mum
+You mumble.
+
+l
+
+[South Street]
+The road narrows slightly allowing room for a beautiful pond which sits on the eastern side of the road. Ducks paddle around leisurely and enjoy the tepid water. Brass lamp posts, with green glass lanterns, are situated around the pond keeping it lit even during the evening hours.
+
+The area is illuminated.
+
+In this room you see: Ad'in the Dragon,  Valhad the Mynarian,  Merau the Terrak, 1st city waste engineer
+In this room are: small polished metal sign, sturdy shovel
+Obvious exits are: north, south, wooden wagon door with steps
+
+The 1st city waste engineer just wandered north.
+
+unready h
+You sheathe your gleaming silver haubergen.
+[2 second delay]
+
+A city waste engineer just entered from the north.
+
+A city waste engineer just entered from the north.
+
+l s
+
+[South Street]
+A large yellow house with white gables stands behind a tall, black, arched wrought iron gate. The intricate gate stretches across the drive. A gold plated sign attached to the surrounding fence states in common, "Talran Levandigon, Mayor." Two lanterns, each affixed to either side of the gate cast a pale amber glow across South Street.
+
+
+The area is illuminated.
+
+Obvious exits are: north, south
+
+l
+
+[South Street]
+The road narrows slightly allowing room for a beautiful pond which sits on the eastern side of the road. Ducks paddle around leisurely and enjoy the tepid water. Brass lamp posts, with green glass lanterns, are situated around the pond keeping it lit even during the evening hours.
+
+The area is illuminated.
+
+In this room you see: Ad'in the Dragon,  Valhad the Mynarian,  Merau the Terrak, 1st city waste engineer, 2nd city waste engineer
+In this room are: small polished metal sign, sturdy shovel
+Obvious exits are: north, south, wooden wagon door with steps
+
+l d
+
+[Shanty Ol' Wagon]
+The first thing one can't help but notice upon entry of this large wagon is the overpowering stench of burning metals. To the right sits a giant kiln, its glory hole blazing fire ready for the next piece to be put in. Just in front of the kiln sits a large black anvil, a large piece of Terrak armor draped over its center. Along the other walls study mahogany tables sit covered in either half-finished weapons or various tools of the trade. Higher up on the walls, a few masterpieces hang amongst some perfectly crafted horseshoes. The floor is covered in soot making it seem almost black, footprints and scuff marks showing a bit of the brown wooden floor below.
+
+The area is illuminated.
+
+In this room you see: Jonathan the Cyrwian,  Beor the Rock Troll, 1st wolf cub
+In this room are: pig guts
+Obvious exits are: wooden wagon door with steps
+
+l
+
+[South Street]
+The road narrows slightly allowing room for a beautiful pond which sits on the eastern side of the road. Ducks paddle around leisurely and enjoy the tepid water. Brass lamp posts, with green glass lanterns, are situated around the pond keeping it lit even during the evening hours.
+
+The area is illuminated.
+
+In this room you see: Ad'in the Dragon,  Valhad the Mynarian,  Merau the Terrak, 1st city waste engineer, 2nd city waste engineer
+In this room are: small polished metal sign, sturdy shovel
+Obvious exits are: north, south, wooden wagon door with steps
+
+inv
+
+You are currently holding:
+ -pair of emerald green leggings (0.0 lbs)
+ -pair of white thigh high boots (0.0 lbs)
+ -gold belly chain (0.03 lbs)
+ -pewter pentagram (0.5 lbs)
+ -open black leather book bag (9.62 lbs)
+ -open black leather pack (15.19 lbs)
+ -open black leather pack (3.2702 lbs)
+ -open black leather pack (3.33 lbs)
+ -open black leather pack (3.33 lbs)
+ -gleaming silver haubergen (2.33 lbs)
+ -damaged simple wooden buckler (0.17 lbs)
+ -water logged wooden plank of destiny (1.33 lbs)
+ -simple wooden bow (1.33 lbs)
+ -standard lantern (0.33 lbs)
+ -orange handled leather whip (0.67 lbs)
+ -green turtle shell armor (2.67 lbs)
+ (44.1002 / 86.0 lbs being carried)
+
+mon
+ You currently have 53 marks and 360 crowns.
+
+You are currently carrying 360 Crowns and 53 Marks.
+This gives you a combined wealth of 36053 marks.
+
+The 2nd city waste engineer just wandered through wooden wagon door with steps.
+
+put lan in pac
+You put the standard lantern in your open black leather pack.
+
+ ** Juju Slithern just arrived in the world
+
+The city waste engineer happily picks up some trash on the side of the road.
+
+l
+
+[South Street]
+The road narrows slightly allowing room for a beautiful pond which sits on the eastern side of the road. Ducks paddle around leisurely and enjoy the tepid water. Brass lamp posts, with green glass lanterns, are situated around the pond keeping it lit even during the evening hours.
+
+The area is illuminated.
+
+In this room you see: Ad'in the Dragon,  Valhad the Mynarian,  Merau the Terrak, 1st city waste engineer
+In this room are: small polished metal sign, sturdy shovel
+Obvious exits are: north, south, wooden wagon door with steps
+
+lean en
+You lean on the city waste engineer.
+
+flirt at en
+I don't see what you are referring to.
+
+flirt en
+You flirt with the city waste engineer.
+
+The city waste engineer happily picks up some trash on the side of the road.
+
+snap
+You snap your fingers.
+
+l
+
+[South Street]
+The road narrows slightly allowing room for a beautiful pond which sits on the eastern side of the road. Ducks paddle around leisurely and enjoy the tepid water. Brass lamp posts, with green glass lanterns, are situated around the pond keeping it lit even during the evening hours.
+
+The area is illuminated.
+
+In this room you see: Ad'in the Dragon,  Valhad the Mynarian,  Merau the Terrak, 1st city waste engineer
+In this room are: small polished metal sign, sturdy shovel
+Obvious exits are: north, south, wooden wagon door with steps
+
+l at ad
+
+You see Ad'in the elderly Dragon.
+He is 49' 7" tall with a slender build, brilliant sapphire eyes, and dusky black scales.
+He bears no god mark.
+He is currently in a neutral mood.
+
+
+He is carrying:
+
+
+
+l at v
+
+You see Valhad the adolescent Mynarian.
+He is 3' 9" tall with a well toned build, pulled back, white hair, pale blue eyes, and tanned skin.
+He bears the mark of Throth.
+He is currently in a neutral mood.
+
+
+He is carrying:
+ -a simple cotton shirt  (torso)
+ -a pair of tattered cotton pants        (legs)
+ -a bloodstained stone wyrm embossed war greaves         (feet)
+ -a open black leather pack      (on back)
+
+
+
+l
+
+[South Street]
+The road narrows slightly allowing room for a beautiful pond which sits on the eastern side of the road. Ducks paddle around leisurely and enjoy the tepid water. Brass lamp posts, with green glass lanterns, are situated around the pond keeping it lit even during the evening hours.
+
+The area is illuminated.
+
+In this room you see: Ad'in the Dragon,  Valhad the Mynarian,  Merau the Terrak, 1st city waste engineer
+In this room are: small polished metal sign, sturdy shovel
+Obvious exits are: north, south, wooden wagon door with steps
+
+Ad'in whistles.
+
+lean ad
+You lean on Ad'in.
+
+Ad'in leans on you .
+
+say tell us a story
+You say, "tell us a story"
+
+The 1st city waste engineer just wandered south.
+
+nod yes to ad
+You nod your head up and down to Ad'in.
+
+A city waste engineer just entered through the wooden wagon door with steps.
+
+
+Merau says, "One day, i was feasting on dead baby Fey's......"
+
+
+Ad'in says, "Once upon a time, there was a Fey cleric."
+
+shri
+You shriek.
+
+say all these Fey stories
+You say, "all these Fey stories"
+
+grum
+You grumble.
+
+The city waste engineer happily picks up some trash on the side of the road.
+
+Merau bares her teeth, a deep gurgling growl emanating from deep in her throat.
+
+Merau's teeth begin to shine as they slowly elongate into the long piercing fangs of a Wolf.
+
+
+Ad'in says, "And there were gladiatorial games held. Now, as I'm sure I don't have to tell you, clerics are supposed to heal. But this Fey cleric killed everyone and took home the prize! The next day, her god mysteriously reduced her powers."
+
+alphasay tell us how Sammoth got his dingleberries cut off
+** ALPHA CHAT -- Kurapiira says, "tell us how Sammoth got his dingleberries cut off"
+
+list
+You listen intently.
+
+The 1st city waste engineer just wandered north.
+
+** ALPHA CHAT -- Juju says, "please don't"
+
+
+Ad'in says, "Stricken by this lack of power, the Terraks swarmed Fey villages, eating the children whole."
+
+shri to ad
+You shriek to Ad'in.
+
+** ALPHA CHAT -- Jonathan says, "What happened?"
+
+Ad'in nods his head up and down.
+
+cac
+You cackle.
+
+Merau nods.
+
+
+Merau says, "True story"
+
+alphasay pay no attention to the Fey behind the curtain
+** ALPHA CHAT -- Kurapiira says, "pay no attention to the Fey behind the curtain"
+
+gla at mer
+You glance at Merau.
+
+mum
+You mumble.
+
+l in pac
+Inside the open black leather pack you see: dragon hilted broadsword, green turtle shell armor, intricately carved bone bustier, ancient sapphire-veined walking staff, simple wooden buckler, acid tipped oak spear, green turtle shell armor, standard lantern
+
+l in 2 pac
+Inside the open black leather pack you see: simply carved wooden spiritualist staff, pewter pentagram, green and blue tartan scarf, bar of hardened cocoa, bar of hardened cocoa, jigger of whiskey, vial of black ink, skin of wine, jaunty fedora, handful of pumpkin shaped gummies, warm brown cotton cloak
+
+get sc from 2 pac
+You remove the green and blue tartan scarf from your open black leather pack.
+
+hol sc
+You hold the green and blue tartan scarf.
+
+ ** Sammoth Stoneclaw just arrived in the world
+
+beam to ad
+You beam to Ad'in.
+
+shri
+You shriek.
+
+hide
+** ALPHA CHAT -- Sammoth says, "Hey hey!"
+
+You fail to hide.
+[2 sec. delay]
+
+hide
+You fail to hide.
+[2 sec. delay]
+
+hide
+You fail to hide.
+[2 sec. delay]
+
+hide
+** ALPHA CHAT -- Juju says, "shhhhh - he's awake now"
+
+You fail to hide.
+[2 sec. delay]
+
+hide
+You slip into the shadows.
+[3 sec. delay]
+
+l
+
+[South Street]
+The road narrows slightly allowing room for a beautiful pond which sits on the eastern side of the road. Ducks paddle around leisurely and enjoy the tepid water. Brass lamp posts, with green glass lanterns, are situated around the pond keeping it lit even during the evening hours.
+
+The area is illuminated.
+
+In this room you see: Ad'in the Dragon,  Valhad the Mynarian,  Merau the Terrak
+In this room are: small polished metal sign, sturdy shovel
+Obvious exits are: north, south, wooden wagon door with steps
+
+Merau uncovers your hiding spot!
+
+Merau pokes you .
+
+alphasay nothing happened...honest Sammoth
+** ALPHA CHAT -- Kurapiira says, "nothing happened...honest Sammoth"
+
+mut
+You mutter.
+
+** ALPHA CHAT -- Jonathan says, "Kura tried to chop your dingles off in your sleep."
+
+Merau lets out a fierce snarl as their eyes turn a brilliant orange, their skin growing thick as black lines begin to appear.
+
+alphasay Hey!
+** ALPHA CHAT -- Kurapiira says, "Hey!"
+
+As the black lines appear, Merau's body mimics that of a tiger, quick and strong.
+
+hide
+You fail to hide.
+[2 sec. delay]
+
+hide
+You slip into the shadows.
+[3 sec. delay]
+
+l
+
+[South Street]
+The road narrows slightly allowing room for a beautiful pond which sits on the eastern side of the road. Ducks paddle around leisurely and enjoy the tepid water. Brass lamp posts, with green glass lanterns, are situated around the pond keeping it lit even during the evening hours.
+
+The area is illuminated.
+
+In this room you see: Ad'in the Dragon,  Valhad the Mynarian,  Merau the Terrak
+In this room are: small polished metal sign, sturdy shovel
+Obvious exits are: north, south, wooden wagon door with steps
+
+A refreshing breeze begins to blow through the area as Merau glows with a faint blue light.
+
+As the light fades, Merau lets out a relieved breath, looking rejuvenated.
+
+
+Merau says, "Nice, this spell works now"
+
+Valhad acts tauntingly towards Merau.
+
+diag all
+h
+You examine all the people in the room...
+
+You examine Ad'in. He appears to be in good health.
+You examine Valhad. He appears to be in good health.
+You examine Merau. She appears to be in good health.
+
+
+HP:  91/91  Ftg:  60/60  MP:  70/70
+
+
+spel
+The following are the spells you know:
+  1.) Cure Wounds
+  2.) Plague Touch
+  3.) Invigorate
+  4.) Minor Curse
+  5.) Mana Restoration
+  6.) Divine Restoration
+  7.) Fear of the Gods
+  8.) Inflict Wounds
+  9.) Holy Shield
+  10.) Holy Wrath
+  11.) Healing Aura
+  12.) Afflict Life
+  13.) Aura of Fortitude
+  14.) Afflict Movement
+  15.) Divine Bolt
+  16.) Greater Mana Restoration
+  17.) Holy Armor
+  18.) Healing Aura
+  19.) Holy Breath
+  20.) Cure Group
+
+
+Merau is influenced by Valhad's taunts.
+
+Merau retreats 4 units.
+
+Merau bites at Valhad, but he evades the strike.
+
+rai
+You step out of the shadows.
+
+You raise an eyebrow.
+
+Merau snickers.
+
+l
+
+[South Street]
+The road narrows slightly allowing room for a beautiful pond which sits on the eastern side of the road. Ducks paddle around leisurely and enjoy the tepid water. Brass lamp posts, with green glass lanterns, are situated around the pond keeping it lit even during the evening hours.
+
+The area is illuminated.
+
+In this room you see: Ad'in the Dragon,  Valhad the Mynarian,  Merau the Terrak
+In this room are: small polished metal sign, sturdy shovel
+Obvious exits are: north, south, wooden wagon door with steps
+
+Merau returns to normal as the black lines fade away.
+
+Valhad grins.
+
+tau ad
+You taunt Ad'in.
+
+
+Merau says, "Ah"
+
+Merau's teeth morph back into their original state.
+
+furr
+You furrow your brow.
+
+
+Merau says, "its short"
+
+Valhad's eyes glow red with a deep hate as a demonic spirit head grows above him.
+
+The head of the demon spirit roars loudly and bites at Merau in an attempt to frighten him.
+
+Merau's expression turns to one of horror!
+
+Merau calms down and returns to normal.
+
+Merau chuckles.
+
+Merau's face begins to contort into the shape of a terrible beast as she walks towards Valhad.
+
+Standing before Valhad, Merau unleashes a savage snarl, causing Valhad's eyes suddenly grow wide with an overwhelming fear.
+
+Valhad's expression turns to one of horror!
+
+Valhad calms down and returns to normal.
+
+alphasay Jack Sparrow is sellin armor in travers Sammoth
+** ALPHA CHAT -- Kurapiira says, "Jack Sparrow is sellin armor in travers Sammoth"
+
+** ALPHA CHAT -- Sammoth says, "Huh?"
+
+l
+
+[South Street]
+The road narrows slightly allowing room for a beautiful pond which sits on the eastern side of the road. Ducks paddle around leisurely and enjoy the tepid water. Brass lamp posts, with green glass lanterns, are situated around the pond keeping it lit even during the evening hours.
+
+The area is illuminated.
+
+In this room you see: Ad'in the Dragon,  Valhad the Mynarian,  Merau the Terrak
+In this room are: small polished metal sign, sturdy shovel
+Obvious exits are: north, south, wooden wagon door with steps
+
+Calling out the name of Throth, Valhad glares at Merau.
+
+alphasay er..Jack Valltrades i mean
+** ALPHA CHAT -- Kurapiira says, "er..Jack Valltrades i mean"
+
+** ALPHA CHAT -- Sammoth says, "Where?"
+
+A bolt of black lightning flies towards Merau, striking hard and leaving a scorch mark where it hit.
+
+** ALPHA CHAT -- Sammoth says, "I wanna buy armor too!"
+
+alphasay few south of travers tsc
+Merau chuckles.
+
+** ALPHA CHAT -- Kurapiira says, "few south of travers tsc"
+
+** ALPHA CHAT -- Jonathan says, "Not buy, not buy... just fix up the old stuff."
+
+** ALPHA CHAT -- Sammoth says, "Aight. Cool."
+
+** ALPHA CHAT -- Merau says, "Its alterations"
+
+l
+
+[South Street]
+The road narrows slightly allowing room for a beautiful pond which sits on the eastern side of the road. Ducks paddle around leisurely and enjoy the tepid water. Brass lamp posts, with green glass lanterns, are situated around the pond keeping it lit even during the evening hours.
+
+The area is illuminated.
+
+In this room you see: Ad'in the Dragon,  Valhad the Mynarian,  Merau the Terrak
+In this room are: small polished metal sign, sturdy shovel
+Obvious exits are: north, south, wooden wagon door with steps
+
+** ALPHA CHAT -- Sammoth says, "Wait.. what?"
+
+** ALPHA CHAT -- Valhad says, "We don't have anything sized for trolls sorry"
+
+** ALPHA CHAT -- Sammoth says, "What's the point of fixing up the store bought junk?"
+
+alphasay you can git a terrak skin shield tho
+** ALPHA CHAT -- Kurapiira says, "you can git a terrak skin shield tho"
+
+** ALPHA CHAT -- Merau says, "Pfft"
+
+** ALPHA CHAT -- Sammoth says, "I don't use shields. Berserker remember?"
+
+** ALPHA CHAT -- Jonathan says, "Make it look prettier."
+
+alphasay a merau skin shield mebbe
+** ALPHA CHAT -- Kurapiira says, "a merau skin shield mebbe"
+
+** ALPHA CHAT -- Valhad says, "It's the renaming thing, so you don't look as stupid in your cheap store stuff"
+
+** ALPHA CHAT -- Sammoth says, "So wait, I thought that was at 5?"
+
+** ALPHA CHAT -- Sammoth says, "So renaming BEFORE a peddle?"
+
+** ALPHA CHAT -- Valhad says, "Now and again at 5"
+
+** ALPHA CHAT -- Sammoth says, "That's kinda wierd."
+
+** ALPHA CHAT -- Jonathan says, "It's at noon and 5. The peddle isn't until 10."
+
+alphasay i'm gettin a Ad'in skin loincloth armor
+** ALPHA CHAT -- Kurapiira says, "i'm gettin a Ad'in skin loincloth armor"
+
+gla at ad
+You glance at Ad'in.
+
+duc
+You duck.
+
+hide
+You fail to hide.
+[2 sec. delay]
+
+hide
+You slip into the shadows.
+[3 sec. delay]
+
+** ALPHA CHAT -- Merau says, "read the sign"
+
+Merau uncovers your hiding spot!
+
+Merau pokes you .
+
+how
+You howl.
+
+** ALPHA CHAT -- Valhad says, "I think the sign specifically stats no Dragon materials"
+
+cur hiding
+You curse hiding.
+
+mut
+You mutter.
+
+l
+
+[South Street]
+The road narrows slightly allowing room for a beautiful pond which sits on the eastern side of the road. Ducks paddle around leisurely and enjoy the tepid water. Brass lamp posts, with green glass lanterns, are situated around the pond keeping it lit even during the evening hours.
+
+The area is illuminated.
+
+In this room you see: Ad'in the Dragon,  Valhad the Mynarian,  Merau the Terrak
+In this room are: small polished metal sign, sturdy shovel
+Obvious exits are: north, south, wooden wagon door with steps
+
+** ALPHA CHAT -- Valhad says, "So get Merau skin loincloth instead"
+
+alphasay kk
+** ALPHA CHAT -- Kurapiira says, "kk"
+
+gla at mer
+You glance at Merau.
+
+Merau laughs.
+
+pon
+You ponder a moment.
+
+** ALPHA CHAT -- Sammoth says, "So renaming junk from the shops, then later have the chance to buy better higher quality stuff?"
+
+** ALPHA CHAT -- Sammoth says, "Gotcha."
+
+alphasay yah!
+** ALPHA CHAT -- Kurapiira says, "yah!"
+
+** ALPHA CHAT -- Merau says, "possibly?"
+
+alphasay sweet..yes?
+** ALPHA CHAT -- Kurapiira says, "sweet..yes?"
+
+** ALPHA CHAT -- Jonathan says, "Don't ask me, I didn't plan it that way."
+
+alphasay and get RID of all that damn Crowns you got
+** ALPHA CHAT -- Kurapiira says, "and get RID of all that damn Crowns you got"
+
+** ALPHA CHAT -- Sammoth says, "Seems backwards, but hey I'm down.."
+
+** ALPHA CHAT -- Sammoth says, "haha"
+
+l
+
+[South Street]
+The road narrows slightly allowing room for a beautiful pond which sits on the eastern side of the road. Ducks paddle around leisurely and enjoy the tepid water. Brass lamp posts, with green glass lanterns, are situated around the pond keeping it lit even during the evening hours.
+
+The area is illuminated.
+
+In this room you see: Ad'in the Dragon,  Valhad the Mynarian,  Merau the Terrak
+In this room are: small polished metal sign, sturdy shovel
+Obvious exits are: north, south, wooden wagon door with steps
+
+alphasay Beor...how much stuff are you Gettin?
+** ALPHA CHAT -- Kurapiira says, "Beor...how much stuff are you Gettin?"
+
+Juju just entered from the north.
+
+cac
+You cackle.
+
+sal to j
+You salute to Juju.
+
+l at j
+
+You see Juju the adolescent Terrak.
+He is 6' 2" tall with a muscular build, bright yellow eyes, and telluric brown scales.
+He bears no god mark.
+He is currently in a neutral mood.
+
+
+He is carrying:
+ -a long staff   (right hand)
+ -a damaged simple wooden buckler        (left hand)
+
+
+
+Juju salutes.
+
+mon
+You are currently carrying 360 Crowns and 53 Marks.
+This gives you a combined wealth of 36053 marks.
+
+** ALPHA CHAT -- Valhad says, "He takes forever we learned that when he was trying to get his tutu made the other day"
+
+
+Juju asks, "list me?"
+
+** ALPHA CHAT -- Beor says, "4 piece and I'm almost finished... it takes a moment or two to be the best dressed troll in town"
+
+nod to j
+You nod to Juju.
+
+say the list is..Kurta, Merau, Valhad, Juju
+You say, "the list is..Kurta, Merau, Valhad, Juju"
+
+cou
+You cough.
+
+
+Merau says, "Kurta huh"
+
+
+Merau says, "guess im next"
+
+
+Juju says, "drat - take me off - gotta run"
+
+ ** Juju Slithern just left the world.
+
+say damn Jager
+You say, "damn Jager"
+
+cur Jager
+You curse Jager.
+
+
+Merau says, "i dont see any kurta's here"
+
+Valhad grins.
+
+** ALPHA CHAT -- Sammoth says, "I guess you gotta be when you're the worst skilled."
+
+** ALPHA CHAT -- Sammoth says, "*cackles*"
+
+alphasay heh...games tommorow..watch you tongue
+** ALPHA CHAT -- Kurapiira says, "heh...games tommorow..watch you tongue"
+
+** ALPHA CHAT -- Sammoth says, "Bring it."
+
+Sammoth just entered from the north.
+
+alphasay lol
+** ALPHA CHAT -- Kurapiira says, "lol"
+
+
+Sammoth says, "Oh."
+
+hide
+You slip into the shadows.
+[3 sec. delay]
+
+** ALPHA CHAT -- Valhad says, "Coming from the troll who gets mad when someone gives him a little love tap"
+
+Merau uncovers your hiding spot!
+
+Merau pokes you .
+
+** ALPHA CHAT -- Sammoth says, "haha"
+
+cur at mer silently, using words you've never heard before...
+sp a
+say damnit to a Taathian Hell!
+sp c
+say ha!
+You curse at Merau silently, using words you've never heard before....
+
+You are now speaking Ancestral.
+
+You exclaim in Ancestral, "damnit to a Taathian Hell!"
+
+You are now speaking Common.
+
+You exclaim, "ha!"
+
+gla at ad
+You glance at Ad'in.
+
+rai at ad
+You raise an eyebrow at Ad'in.
+
+Ad'in rolls his eyes.
+
+
+Sammoth says, "Can I pay when I'm done.. I'd rather not be carrying around a buncha gold with ..."
+
+rev sa
+tact
+Your target is too far away!
+
+You are currently standing 2 units behind center.
+
+Standing at center:
+Sammoth
+Standing in your rank:
+Kurapiira, Valhad, Merau
+Standing 1 units behind you:
+Ad'in
+
+
+Merau lets out a fierce snarl as their eyes turn a brilliant orange, their skin growing thick as black lines begin to appear.
+
+
+Ad'in says to Kurapiira in Ancestral, "yo yo yo"
+
+adv sa
+rev sa
+Sammoth glances around and leans in close...
+
+As the black lines appear, Merau's body mimics that of a tiger, quick and strong.
+
+You advance 2 units.
+
+
+Sammoth says, "Those people.."
+
+You start pulling on Sammoth, only to find nothing comes off!
+[10 sec. delay]
+
+Sammoth gestures around..
+
+say oooo
+
+Valhad says to Sammoth, "It's ok i haven't practiced that much lately."
+
+You say, "oooo"
+
+Merau bares her teeth, a deep gurgling growl emanating from deep in her throat.
+
+beam to ad
+You beam to Ad'in.
+
+Sammoth snickers.
+
+Merau's teeth begin to shine as they slowly elongate into the long piercing fangs of a Wolf.
+
+
+Ad'in asks to Kurapiira in Zhentalian, "az zv, Tzzzp?"
+
+Ad'in hums.
+
+list
+You listen intently.
+
+cur at ad
+
+Sammoth says, "So just armor and weapons.."
+
+You curse at Ad'in.
+
+
+Sammoth says, "Hrm.."
+
+Sammoth blinks.
+
+nod yes
+You nod your head up and down.
+
+Sammoth sheathes his ruby and emerald inlaid broadsword.
+
+l
+
+[South Street]
+The road narrows slightly allowing room for a beautiful pond which sits on the eastern side of the road. Ducks paddle around leisurely and enjoy the tepid water. Brass lamp posts, with green glass lanterns, are situated around the pond keeping it lit even during the evening hours.
+
+The area is illuminated.
+
+In this room you see: Ad'in the Dragon,  Valhad the Mynarian,  Merau the Terrak,  Sammoth the Rock Troll
+In this room are: small polished metal sign, sturdy shovel
+Obvious exits are: north, south, wooden wagon door with steps
+
+Merau returns to normal as the black lines fade away.
+
+** ALPHA CHAT -- Sammoth says, "Does that mean, durability can be restored to a weapon?"
+
+alphasay lol
+** ALPHA CHAT -- Kurapiira says, "lol"
+
+** ALPHA CHAT -- Sammoth says, "Or just it's flavor text?"
+
+** ALPHA CHAT -- Jonathan says, "If you're nice."
+
+alphasay you gotta kiss the wolf cub
+** ALPHA CHAT -- Kurapiira says, "you gotta kiss the wolf cub"
+
+l d
+
+[Shanty Ol' Wagon]
+The first thing one can't help but notice upon entry of this large wagon is the overpowering stench of burning metals. To the right sits a giant kiln, its glory hole blazing fire ready for the next piece to be put in. Just in front of the kiln sits a large black anvil, a large piece of Terrak armor draped over its center. Along the other walls study mahogany tables sit covered in either half-finished weapons or various tools of the trade. Higher up on the walls, a few masterpieces hang amongst some perfectly crafted horseshoes. The floor is covered in soot making it seem almost black, footprints and scuff marks showing a bit of the brown wooden floor below.
+
+The area is illuminated.
+
+In this room you see: Jonathan the Cyrwian,  Beor the Rock Troll, 1st wolf cub
+In this room are: pig guts
+Obvious exits are: wooden wagon door with steps
+
+poi at door
+I don't see what you are referring to.
+
+** ALPHA CHAT -- Valhad says, "He wants his over max damage prenerf weapons repaired to new"
+
+Merau whistles two tones loudly towards the sky.
+
+grin and pints at the door
+You grin and pints at the door.
+
+
+Merau exclaims, "pints!"
+
+gig to v
+You giggle to Valhad.
+
+A wolf cub enters the area and sits obediently next to Merau.
+
+cur pints
+You curse pints.
+
+Valhad squints at the 1st wolf cub.
+
+l
+
+[South Street]
+The road narrows slightly allowing room for a beautiful pond which sits on the eastern side of the road. Ducks paddle around leisurely and enjoy the tepid water. Brass lamp posts, with green glass lanterns, are situated around the pond keeping it lit even during the evening hours.
+
+The area is illuminated.
+
+In this room you see: Ad'in the Dragon,  Valhad the Mynarian,  Merau the Terrak,  Sammoth the Rock Troll, 1st wolf cub
+In this room are: small polished metal sign, sturdy shovel
+Obvious exits are: north, south, wooden wagon door with steps
+
+Merau pets the wolf cub.
+
+l d
+
+[Shanty Ol' Wagon]
+The first thing one can't help but notice upon entry of this large wagon is the overpowering stench of burning metals. To the right sits a giant kiln, its glory hole blazing fire ready for the next piece to be put in. Just in front of the kiln sits a large black anvil, a large piece of Terrak armor draped over its center. Along the other walls study mahogany tables sit covered in either half-finished weapons or various tools of the trade. Higher up on the walls, a few masterpieces hang amongst some perfectly crafted horseshoes. The floor is covered in soot making it seem almost black, footprints and scuff marks showing a bit of the brown wooden floor below.
+
+The area is illuminated.
+
+In this room you see: Jonathan the Cyrwian,  Beor the Rock Troll, 1st wolf cub
+In this room are: pig guts
+Obvious exits are: wooden wagon door with steps
+
+Valhad points towards Valhad and yells for Throth
+
+spel
+The following are the spells you know:
+  1.) Cure Wounds
+  2.) Plague Touch
+  3.) Invigorate
+  4.) Minor Curse
+  5.) Mana Restoration
+  6.) Divine Restoration
+  7.) Fear of the Gods
+  8.) Inflict Wounds
+  9.) Holy Shield
+  10.) Holy Wrath
+  11.) Healing Aura
+  12.) Afflict Life
+  13.) Aura of Fortitude
+  14.) Afflict Movement
+  15.) Divine Bolt
+  16.) Greater Mana Restoration
+  17.) Holy Armor
+  18.) Healing Aura
+  19.) Holy Breath
+  20.) Cure Group
+
+
+A black cloud surrounds Valhad.
+
+ ** Amras Alcarin just arrived in the world
+
+Valhad removes his slender black damascus dagger from his open black leather pack.
+
+Valhad draws his slender black damascus dagger.
+
+** ALPHA CHAT -- Sammoth says, "Of course. They're level appropriate now. :)"
+
+alphasay peddle at trvers..come one come all
+** ALPHA CHAT -- Kurapiira says, "peddle at trvers..come one come all"
+
+The black cloud surrounding Valhad disperses.
+
+Closing his eyes, a blue glow begins to swell around Valhad.
+
+** ALPHA CHAT -- Sammoth says, "Nah I've got the new one from the other day actually.."
+
+l
+
+[South Street]
+The road narrows slightly allowing room for a beautiful pond which sits on the eastern side of the road. Ducks paddle around leisurely and enjoy the tepid water. Brass lamp posts, with green glass lanterns, are situated around the pond keeping it lit even during the evening hours.
+
+The area is illuminated.
+
+In this room you see: Ad'in the Dragon,  Valhad the Mynarian,  Merau the Terrak,  Sammoth the Rock Troll, 1st wolf cub
+In this room are: small polished metal sign, sturdy shovel
+Obvious exits are: north, south, wooden wagon door with steps
+
+The blue glow envelops Valhad as he opens his eyes.
+
+say i Love the armor btw
+You say, "i Love the armor btw"
+
+pok sa
+You poke Sammoth.
+
+hu sa
+You hug Sammoth.
+
+
+Sammoth asks, "What armor?"
+
+Sammoth glances around.
+
+get ar from pac
+You remove the green turtle shell armor from your open black leather pack.
+
+get ar from pac
+You remove the green turtle shell armor from your open black leather pack.
+
+get ar from pac
+I don't see what you're referring to.
+
+Valhad grins.
+
+put ar in pac
+You put the green turtle shell armor in your open black leather pack.
+
+put ar in pac
+You put the green turtle shell armor in your open black leather pack.
+
+** ALPHA CHAT -- Amras says, "are there any free blunt weapons"
+
+get ar from  4 pac
+I don't see what you're referring to.
+
+The blue glow surrounding Valhad vanishes.
+
+Merau's teeth morph back into their original state.
+
+** ALPHA CHAT -- Sammoth says, "Yeah, should be a club in the training shop."
+
+** ALPHA CHAT -- Merau says, "Dead Fey's"
+
+alphasay in the free shop
+** ALPHA CHAT -- Kurapiira says, "in the free shop"
+
+A dark shimmer comes from Valhad's eyes and a black mist swirls around him.
+
+The black mist is absorbed into Valhad.
+
+pok me
+You poke Merau.
+
+** ALPHA CHAT -- Amras says, "training shop.. is that the company emporiuM?"
+
+Valhad picks up the sturdy shovel.
+
+Valhad just went north.
+
+alphasay thynk so
+** ALPHA CHAT -- Kurapiira says, "thynk so"
+
+** ALPHA CHAT -- Ad'in says, "Yes, it is."
+
+l
+
+[South Street]
+The road narrows slightly allowing room for a beautiful pond which sits on the eastern side of the road. Ducks paddle around leisurely and enjoy the tepid water. Brass lamp posts, with green glass lanterns, are situated around the pond keeping it lit even during the evening hours.
+
+The area is illuminated.
+
+In this room you see: Ad'in the Dragon,  Merau the Terrak,  Sammoth the Rock Troll, 1st wolf cub
+In this room are: small polished metal sign
+Obvious exits are: north, south, wooden wagon door with steps
+
+
+Sammoth says to Ad'in, "Hey."
+
+Beor just entered through the wooden wagon door with steps.
+
+
+Sammoth says to Ad'in, "HEY."
+
+
+Sammoth exclaims to Ad'in, "HEY!"
+
+
+Beor exclaims, "next!"
+
+Sammoth stomps.
+
+hw to b
+Unknown command "hw"
+
+Ad'in blinks.
+
+go d
+
+[Shanty Ol' Wagon]
+The first thing one can't help but notice upon entry of this large wagon is the overpowering stench of burning metals. To the right sits a giant kiln, its glory hole blazing fire ready for the next piece to be put in. Just in front of the kiln sits a large black anvil, a large piece of Terrak armor draped over its center. Along the other walls study mahogany tables sit covered in either half-finished weapons or various tools of the trade. Higher up on the walls, a few masterpieces hang amongst some perfectly crafted horseshoes. The floor is covered in soot making it seem almost black, footprints and scuff marks showing a bit of the brown wooden floor below.
+
+The area is illuminated.
+
+In this room you see: Jonathan the Cyrwian, 1st wolf cub
+In this room are: pig guts
+Obvious exits are: wooden wagon door with steps
+
+beam
+You beam.
+
+say hi
+You say, "hi"
+
+sal to j
+You salute to Jonathan.
+
+Jonathan smiles warmly at you.
+
+grin 
+Jonathan bows to you.
+
+You grin.
+
+curt
+You curtseies.
+
+l
+
+[Shanty Ol' Wagon]
+The first thing one can't help but notice upon entry of this large wagon is the overpowering stench of burning metals. To the right sits a giant kiln, its glory hole blazing fire ready for the next piece to be put in. Just in front of the kiln sits a large black anvil, a large piece of Terrak armor draped over its center. Along the other walls study mahogany tables sit covered in either half-finished weapons or various tools of the trade. Higher up on the walls, a few masterpieces hang amongst some perfectly crafted horseshoes. The floor is covered in soot making it seem almost black, footprints and scuff marks showing a bit of the brown wooden floor below.
+
+The area is illuminated.
+
+In this room you see: Jonathan the Cyrwian, 1st wolf cub
+In this room are: pig guts
+Obvious exits are: wooden wagon door with steps
+
+
+Jonathan asks to Kurapiira, "Hello, fine lady. What can I do for you today?"
+
+** ALPHA CHAT -- Valhad says, "The blunts are actually in Nezkeneer's Weapons and Armor"
+
+say well..
+You say, "well.."
+
+off h to j
+You offer the gleaming silver haubergen to Jonathan.
+
+Jonathan accepts your offer.
+
+** ALPHA CHAT -- Beor says, "oh I look good stand back I look too good"
+
+say can ya make this into a Blackened nagamaki
+You say, "can ya make this into a Blackened nagamaki"
+
+** ALPHA CHAT -- Amras says, "where is that"
+
+Jonathan nods slowly.
+
+beam
+You beam.
+
+
+Jonathan asks to Kurapiira, "Of course, of course... would you like to leave it silver?"
+
+** ALPHA CHAT -- Valhad says, "from outside the shop you were in go northwest then northeast"
+
+say okay
+You say, "okay"
+
+gla at pig
+I don't see what you are referring to.
+
+gla at gu
+You glance at the pig guts.
+
+shiv
+You shiver.
+
+Jonathan ponders a moment.
+
+smi
+You smile.
+
+** ALPHA CHAT -- Amras says, "what special abilities to clerics have"
+
+** ALPHA CHAT -- Sammoth says, "They have a huge AR progression"
+
+alphasay we kiss real good
+** ALPHA CHAT -- Kurapiira says, "we kiss real good"
+
+** ALPHA CHAT -- Amras says, "AR?"
+
+alphasay arrrrr g
+** ALPHA CHAT -- Kurapiira says, "arrrrr g"
+
+** ALPHA CHAT -- Ad'in says, "Sammoth, don't lie to new people."
+
+** ALPHA CHAT -- Sammoth says, "Oh new. My bad."
+
+Jonathan sheathes his well-worn blacksmithing hammer.
+
+** ALPHA CHAT -- Amras says, "attacker rating?"
+
+** ALPHA CHAT -- Sammoth says, "Clerics are the über healers of doom"
+
+gla at j
+You glance at Jonathan.
+
+** ALPHA CHAT -- Valhad says, "Clerics get decent heals for groups, that's about it"
+
+** ALPHA CHAT -- Beor says, "clerics are the only chars who can smite"
+
+wink at Jonathan
+grin at Jonathan softly, winking..
+Jonathan smiles at you softly.
+
+You wink at Jonathan.
+
+You grin at Jonathan softly, winking...
+
+** ALPHA CHAT -- Sammoth says, "Ftg spells, armor, heals, boosts, eventually, turn undead.."
+
+
+Jonathan says to Kurapiira, "Just trying to figure out how to go at it... Interesting change is all."
+
+** ALPHA CHAT -- Amras says, "how good do i have to be to smite"
+
+** ALPHA CHAT -- Sammoth says, "Resurrection.. uhmm.."
+
+** ALPHA CHAT -- Sammoth says, "Smite.."
+
+say anythyng is okay
+You say, "anythyng is okay"
+
+** ALPHA CHAT -- Beor says, "not sure Amras"
+
+Jonathan nods slowly as he turns around to work.
+
+gla at j
+You glance at Jonathan.
+
+** ALPHA CHAT -- Amras says, "is there anyway to switch to a fighter without having to reroll"
+
+stare
+You stare.
+
+say ooo
+You say, "ooo"
+
+** ALPHA CHAT -- Amras says, "or a barbarian"
+
+say ya got to hit it so hard with that hammer
+You say, "ya got to hit it so hard with that hammer"
+
+flai
+You flail your arms.
+
+** ALPHA CHAT -- Ad'in says, "No."
+
+** ALPHA CHAT -- Merau says, "newp"
+
+** ALPHA CHAT -- Amras says, "damnit"
+
+** ALPHA CHAT -- Ad'in says, "You can have 8 characters at once though, so try anything you like."
+
+** ALPHA CHAT -- Sammoth says, "It'll only take a second."
+
+alphasay you git 8 characters..jus have fun
+** ALPHA CHAT -- Kurapiira says, "you git 8 characters..jus have fun"
+
+** ALPHA CHAT -- Amras says, "yeah but i already have skills on this one.."
+
+** ALPHA CHAT -- Amras says, "Oh well, going to reroll"
+
+alphasay then GO for it
+** ALPHA CHAT -- Kurapiira says, "then GO for it"
+
+** ALPHA CHAT -- Amras says, ":waves"
+
+Jonathan smiles softly.
+
+acc offer from Jonathan
+sp
+say Thankies!
+smi at Jonathan gently, winking..
+hug Jonathan softly, her long long hair falling all over the place...
+time
+Jonathan offers you a blackened silver nakanaki.
+
+You accept Jonathan's offer.
+
+You know the following languages:
+  -Common
+  -Ancestral
+
+
+You exclaim, "Thankies!"
+
+file
+** ALPHA CHAT -- Beor says, "see ya soon heh"
+
+smi to j
+You smile at Jonathan gently, winking...
+
+You hug Jonathan softly, her long long hair falling all over the place....
+
+It is currently 03:33 PM.
+
+You smile to Jonathan.
+
+The wolf cub growls playfully as it lowers into a crouch, pausing a moment before pouncing your foot.
+
+ ** Amras Alcarin just left the world.
+
+off pla to j
+You offer the water logged wooden plank of destiny to Jonathan.
+
+The wolf cub sits down and scratches behind its ear for a minute.
+
+Jonathan accepts your offer.
+
+say perhaps a shield of Darkness?
+You ask, "perhaps a shield of Darkness?"
+
+Jonathan ponders a moment.
+
+pon ...darkness
+You ponder a moment ...darkness.
+
+grin 
+You grin.
+
+
+Jonathan asks, "With a style like that... make it an obsidian shield?"
+
+say kk
+You say, "kk"
+
+beam to j
+You beam to Jonathan.
+
+how
+You howl.
+
+dan softly
+You dance softly.
+
+Jonathan glances down at the plank, eyeing it appraisingly.
+
+grin 
+You grin.
+
+stare at the craftsman
+I don't see what you are referring to.
+
+Jonathan hums softly as he tosses the plank aside and lifts a large piece of obsidian on to his desk.
+
+The wolf cub sits down and scratches behind its ear for a minute.
+
+stare slowly at the Craftsman
+You stare slowly at the Craftsman.
+
+whist beneath her breath
+You whistle beneath her breath.
+
+ ** Amras Alcarin just arrived in the world
+
+** ALPHA CHAT -- Beor says, "be right back"
+
+inv
+
+You are currently holding:
+ -pair of emerald green leggings (0.0 lbs)
+ -pair of white thigh high boots (0.0 lbs)
+ -gold belly chain (0.03 lbs)
+ -pewter pentagram (0.5 lbs)
+ -open black leather book bag (9.62 lbs)
+ -open black leather pack (15.52 lbs)
+ -open black leather pack (3.2702 lbs)
+ -open black leather pack (3.33 lbs)
+ -open black leather pack (3.33 lbs)
+ -damaged simple wooden buckler (0.17 lbs)
+ -simple wooden bow (1.33 lbs)
+ -orange handled leather whip (0.67 lbs)
+ -green and blue tartan scarf (0.0 lbs)
+ -green turtle shell armor (2.67 lbs)
+ -blackened silver nakanaki (2.33 lbs)
+ (42.7702 / 86.0 lbs being carried)
+
+mon
+ You currently have 53 marks and 360 crowns.
+
+You are currently carrying 360 Crowns and 53 Marks.
+This gives you a combined wealth of 36053 marks.
+
+** ALPHA CHAT -- Amras says, "what's a blackguar"
+
+acc offer from Jonathan
+sp
+say Thankies!
+smi at Jonathan delicately , brushing back her kinky white hair
+hug Jonathan softly, her long long hair falling all over the place...
+time
+Jonathan offers you a a shimmering obsidian shield of Darkness.
+
+You accept Jonathan's offer.
+
+You know the following languages:
+  -Common
+  -Ancestral
+
+
+You exclaim, "Thankies!"
+
+file
+You smile at Jonathan delicately , brushing back her kinky white hair.
+
+say a dark cleric
+You hug Jonathan softly, her long long hair falling all over the place....
+
+It is currently 03:35 PM.
+
+You say, "a dark cleric"
+
+The wolf cub sits down and scratches behind its ear for a minute.
+
+
+Jonathan asks, "You like?"
+
+say ooo
+You say, "ooo"
+
+hol sh
+You hold the a shimmering obsidian shield of Darkness.
+
+** ALPHA CHAT -- Sammoth says, "A zealous paladin."
+
+beam to j
+You beam to Jonathan.
+
+off ar to j
+You offer the green turtle shell armor to Jonathan.
+
+Jonathan accepts your offer.
+
+** ALPHA CHAT -- Valhad says, "Like an evil paladin, hybrid fighter/evil priest i guess"
+
+Jonathan laughs softly as he looks at the armor.
+
+say can i git a black trollskin armor?
+You ask, "can i git a black trollskin armor?"
+
+gla slolwly at the forge
+You glance slolwly at the forge.
+
+** ALPHA CHAT -- Amras says, "are monks pretty goodd?"
+
+Jonathan nods slowly.
+
+beam
+You beam.
+
+** ALPHA CHAT -- Merau says, "I'd say they are pretty decent"
+
+** ALPHA CHAT -- Sammoth says, "Hell yeah."
+
+
+Jonathan says, "Would you like any alterations to the skin? Charred, scarred..."
+
+** ALPHA CHAT -- Valhad says, "They have their pros and cons like everything else but yeah pretty decent if you don't plan on fighting groups at a time"
+
+hol sh
+You hold the a shimmering obsidian shield of Darkness.
+
+Jonathan holds the green turtle shell armor and lifts it up to the light, turning it.
+
+beam
+You beam.
+
+** ALPHA CHAT -- Amras says, "How many stars for a stat is considered a good roll for a Garudan?"
+
+gla at j
+You glance at Jonathan.
+
+stare
+You stare.
+
+say ooo
+You say, "ooo"
+
+** ALPHA CHAT -- Sammoth says, "Hehe."
+
+
+Jonathan asks to Kurapiira, "Keeping it clean?"
+
+** ALPHA CHAT -- Sammoth says, "You'll probably wanna just reroll right now.."
+
+mutt softly
+You mutter softly.
+
+Jonathan ponders a moment.
+
+Jonathan chuckles.
+
+say okay?
+You ask, "okay?"
+
+gig
+
+Jonathan says, "I meant the troll skin..."
+
+You giggle.
+
+ ** Kaedoria Stormweaver just arrived in the world
+
+** ALPHA CHAT -- Amras says, "how come?"
+
+
+Jonathan says to Kurapiira, "Would you like it to be fresh new skin, or have some scars, some charring..."
+
+gig to j
+You giggle to Jonathan.
+
+say ooo
+You say, "ooo"
+
+say that sound good
+You say, "that sound good"
+
+beam to j
+** ALPHA CHAT -- Merau says, "7-8 stars is what you want to hit with all your important stats"
+
+You beam to Jonathan.
+
+Jonathan smiles.
+
+** ALPHA CHAT -- Sammoth says, "Well Garudens as a race don't really have any modifiers. They're like a small human."
+
+say scratchy
+You say, "scratchy"
+
+flai
+You flail your arms.
+
+Jonathan chuckles.
+
+gig
+You giggle.
+
+** ALPHA CHAT -- Sammoth says, "But if you're into the RP then DOMINATE!"
+
+** ALPHA CHAT -- Amras says, "Is Qui imporrtant?"
+
+** ALPHA CHAT -- Merau says, "yup"
+
+The wolf cub sits down and scratches behind its ear for a minute.
+
+** ALPHA CHAT -- Amras says, "what's it do"
+
+alphasay only fer bottom pinchers
+** ALPHA CHAT -- Kurapiira says, "only fer bottom pinchers"
+
+** ALPHA CHAT -- Merau says, "Quickness"
+
+** ALPHA CHAT -- Amras says, "What does it help with though"
+
+** ALPHA CHAT -- Valhad says, "Quickness, helps with evade and some other things but i don't remember what"
+
+** ALPHA CHAT -- Sammoth says, "It controls how fast you can move across a room"
+
+pet wol
+You pet the wolf cub.
+
+CARRY IS : wof 
+** ALPHA CHAT -- Sammoth says, "So each room is about ten steps across."
+
+caress wol
+You caress the wolf cub.
+
+** ALPHA CHAT -- Amras says, "Are there humans here?"
+
+CARRY IS : 3 pac
+** ALPHA CHAT -- Sammoth says, "With high quickness you can move all ten."
+
+** ALPHA CHAT -- Valhad says, "Cyrwians are your typical human"
+
+** ALPHA CHAT -- Sammoth says, "With low move only, 8 or 5, or 3."
+
+l
+
+[Shanty Ol' Wagon]
+The first thing one can't help but notice upon entry of this large wagon is the overpowering stench of burning metals. To the right sits a giant kiln, its glory hole blazing fire ready for the next piece to be put in. Just in front of the kiln sits a large black anvil, a large piece of Terrak armor draped over its center. Along the other walls study mahogany tables sit covered in either half-finished weapons or various tools of the trade. Higher up on the walls, a few masterpieces hang amongst some perfectly crafted horseshoes. The floor is covered in soot making it seem almost black, footprints and scuff marks showing a bit of the brown wooden floor below.
+
+The area is illuminated.
+
+In this room you see: Jonathan the Cyrwian, 1st wolf cub
+In this room are: pig guts
+Obvious exits are: wooden wagon door with steps
+
+** ALPHA CHAT -- Amras says, "I can only move 7"
+
+** ALPHA CHAT -- Sammoth says, "That's still good."
+
+** ALPHA CHAT -- Amras says, "But I have pretty good stats in str dex and con"
+
+Jonathan smiles.
+
+** ALPHA CHAT -- Sammoth says, "If you're using a twohander it's all you need."
+
+acc offer from Jonathan
+sp
+say Thankies!
+grin 
+You know the following languages:
+  -Common
+  -Ancestral
+
+
+You exclaim, "Thankies!"
+
+You grin.
+
+smi at Jonathan impishly, tossing her long soft hair back...
+hug Jonathan softly, her long long hair falling all over the place...
+file
+time
+You smile at Jonathan impishly, tossing her long soft hair back....
+
+You hug Jonathan softly, her long long hair falling all over the place....
+
+It is currently 03:37 PM.
+
+
+Jonathan asks, "Do you like?"
+
+say ooo
+You say, "ooo"
+
+hug j
+You hug Jonathan.
+
+Jonathan smiles softly.
+
+say some more??
+You ask, "some more??"
+
+say or should i go
+You say, "or should i go"
+
+grin to j
+You grin to Jonathan.
+
+
+Jonathan says, "You can do one more."
+
+wink at Jonathan
+grin at Jonathan delicately , blushing
+Jonathan smiles at you warmly.
+
+You wink at Jonathan.
+
+You grin at Jonathan delicately , blushing.
+
+say ooo
+You say, "ooo"
+
+say does it cost extra to resize?
+You ask, "does it cost extra to resize?"
+
+Jonathan shakes his head from side to side.
+
+** ALPHA CHAT -- Amras says, "Hmm"
+
+off bo to j
+You must unequip that before you can offer it.
+
+The wolf cub lays down and rolls over onto its back, playing dead.
+
+
+Jonathan says, "I'm in a good mood."
+
+unready bow
+I don't see what you're referring to.
+
+Jonathan smiles softly.
+
+beam
+You beam.
+
+off bowto j
+Invalid syntax: ie, offer <item | <#> <crowns | marks>> to <person>
+
+** ALPHA CHAT -- Amras says, "are any of these other skills important for a fighter?"
+
+off bow to j
+You offer the simple wooden bow to Jonathan.
+
+Jonathan accepts your offer.
+
+** ALPHA CHAT -- Amras says, "int, pie, per, cha, app, res"
+
+
+Jonathan asks, "You would like this resized as well, yes?"
+
+say perhaps a demon horn bow
+You say, "perhaps a demon horn bow"
+
+say for a troll please
+You say, "for a troll please"
+
+beam to j
+You beam to Jonathan.
+
+Jonathan nods once.
+
+** ALPHA CHAT -- Sammoth says, "What class?"
+
+** ALPHA CHAT -- Amras says, "fighter"
+
+** ALPHA CHAT -- Valhad says, "If your just a fighter then those are the main 4, resistance is nice for spell resists but not huge"
+
+** ALPHA CHAT -- Sammoth says, "Not really."
+
+stare at j
+You stare at Jonathan.
+
+inh
+You inhale.
+
+stif
+You stiffen.
+
+Jonathan furrows his brow.
+
+** ALPHA CHAT -- Valhad says, "piety and int are caster stats depending on the class"
+
+** ALPHA CHAT -- Sammoth says, "Resistance is a nice plus for dealing with mages."
+
+say you are So skilled
+You say, "you are So skilled"
+
+flai
+You flail your arms.
+
+Jonathan hums softly as he turns around, glancing at his collection of bows.
+
+wink at Jonathan
+grin at Jonathan wryly
+Jonathan smiles at you.
+
+You wink at Jonathan.
+
+You grin at Jonathan wryly.
+
+inv
+
+You are currently holding:
+ -pair of emerald green leggings (0.0 lbs)
+ -pair of white thigh high boots (0.0 lbs)
+ -gold belly chain (0.03 lbs)
+ -pewter pentagram (0.5 lbs)
+ -open black leather book bag (9.62 lbs)
+ -open black leather pack (15.52 lbs)
+ -open black leather pack (3.2702 lbs)
+ -open black leather pack (3.33 lbs)
+ -open black leather pack (3.33 lbs)
+ -damaged simple wooden buckler (0.17 lbs)
+ -orange handled leather whip (0.67 lbs)
+ -green and blue tartan scarf (0.0 lbs)
+ -blackened silver nakanaki (2.33 lbs)
+ -a shimmering obsidian shield of Darkness (1.33 lbs)
+ -thick black scarred Troll skin armor (2.67 lbs)
+ (42.7702 / 86.0 lbs being carried)
+
+mon
+ You currently have 53 marks and 360 crowns.
+
+You are currently carrying 360 Crowns and 53 Marks.
+This gives you a combined wealth of 36053 marks.
+
+wear na
+You draw your blackened silver nakanaki.
+[2 sec. delay]
+
+Jonathan puts his simple wooden bow in his black portable hole.
+
+Jonathan puts his simple wooden bow in his black portable hole.
+
+gla
+You glance.
+
+** ALPHA CHAT -- Amras says, "Can I switch gods after rolling?"
+
+stare
+You stare.
+
+** ALPHA CHAT -- Sammoth says, "Nah man."
+
+wear ar
+You buckle the thick black scarred Troll skin armor onto your torso. 
+[5 sec. delay]
+
+** ALPHA CHAT -- Sammoth says, "Not yet."
+
+Jonathan sighs softly as he shuffles through more bows, trying to find the right size.
+
+grin 
+You grin.
+
+Jonathan grunts.
+
+fid
+You fidget.
+
+inv
+
+You are currently holding:
+ -pair of emerald green leggings (0.0 lbs)
+ -pair of white thigh high boots (0.0 lbs)
+ -gold belly chain (0.03 lbs)
+ -pewter pentagram (0.5 lbs)
+ -open black leather book bag (9.62 lbs)
+ -open black leather pack (15.52 lbs)
+ -open black leather pack (3.2702 lbs)
+ -open black leather pack (3.33 lbs)
+ -open black leather pack (3.33 lbs)
+ -damaged simple wooden buckler (0.17 lbs)
+ -orange handled leather whip (0.67 lbs)
+ -green and blue tartan scarf (0.0 lbs)
+ -blackened silver nakanaki (2.33 lbs)
+ -a shimmering obsidian shield of Darkness (1.33 lbs)
+ -thick black scarred Troll skin armor (2.67 lbs)
+ (42.7702 / 86.0 lbs being carried)
+
+mon
+ You currently have 53 marks and 360 crowns.
+
+You are currently carrying 360 Crowns and 53 Marks.
+This gives you a combined wealth of 36053 marks.
+
+The wolf cub sits down and scratches behind its ear for a minute.
+
+** ALPHA CHAT -- Valhad says, "Good perception may be helpful for PvP but we haven't really tested it enough to confirm it yet, and i don't think anyways bothered to flat out ask the people who would know"
+
+Jonathan nods once.
+
+wear sh
+unready buc
+unready staf
+l
+You already have something equipped in your left hand.
+lite
+
+You unfasten your damaged simple wooden buckler.
+[2 sec. delay]
+
+
+[Shanty Ol' Wagon]
+The first thing one can't help but notice upon entry of this large wagon is the overpowering stench of burning metals. To the right sits a giant kiln, its glory hole blazing fire ready for the next piece to be put in. Just in front of the kiln sits a large black anvil, a large piece of Terrak armor draped over its center. Along the other walls study mahogany tables sit covered in either half-finished weapons or various tools of the trade. Higher up on the walls, a few masterpieces hang amongst some perfectly crafted horseshoes. The floor is covered in soot making it seem almost black, footprints and scuff marks showing a bit of the brown wooden floor below.
+
+The area is illuminated.
+
+In this room you see: Jonathan the Cyrwian, 1st wolf cub
+In this room are: pig guts
+Obvious exits are: wooden wagon door with steps
+
+I don't see what you're referring to.
+
+** ALPHA CHAT -- Valhad says, "err that anyone has bothered to"
+
+wear sh
+You fasten your a shimmering obsidian shield of Darkness to your arm.
+[3 sec. delay]
+
+** ALPHA CHAT -- Amras says, "are parry and shield the same thing?"
+
+Jonathan smiles softly.
+
+
+Jonathan asks to Kurapiira, "Is this good?"
+
+grin 
+You grin.
+
+** ALPHA CHAT -- Kaedoria says, "not really"
+
+acc offer from Jonathan
+sp
+say Thankies!
+smi at Jonathan gently, winking..
+hug Jonathan softly, her long long hair falling all over the place...
+time
+Jonathan offers you a rune-etched Demon horn long bow.
+
+You accept Jonathan's offer.
+
+You know the following languages:
+  -Common
+  -Ancestral
+
+
+You exclaim, "Thankies!"
+
+file
+You smile at Jonathan gently, winking...
+
+You hug Jonathan softly, her long long hair falling all over the place....
+
+It is currently 03:39 PM.
+
+say wow!
+** ALPHA CHAT -- Valhad says, "No, shield is for shield, parry is for defending with a weapon"
+
+You exclaim, "wow!"
+
+hug j
+You hug Jonathan.
+
+Jonathan smiles warmly.
+
+say how much do i owe ya
+You say, "how much do i owe ya"
+
+beam to j
+You beam to Jonathan.
+
+
+Jonathan says, "Two-ninety crowns."
+
+off 290 crowns to j
+You offer 290 Crowns to Jonathan.
+
+Jonathan accepts your offer.
+
+mon
+
+Jonathan says to Kurapiira, "My thanks, my thanks..."
+
+You are currently carrying 70 Crowns and 53 Marks.
+This gives you a combined wealth of 7053 marks.
+
+Jonathan bows gracefully.
+
+off 29 crowns to j
+You offer 29 Crowns to Jonathan.
+
+
+Jonathan asks to Kurapiira, "Have a wonderful day, and send in the next please?"
+
+Jonathan smiles.
+
+say fer yer troubles
+You say, "fer yer troubles"
+
+Jonathan accepts your offer.
+
+gig
+You giggle.
+
+** ALPHA CHAT -- Ad'in says, "If you came from DG, that was a misnomer there. ;)"
+
+
+Jonathan says to Kurapiira, "Thank you, kind lady."
+
+blow j
+You blow a kiss j.
+
+ ** Amras Alcarin just left the world.
+
+blow to j
+You blow a kiss to Jonathan.
+
+ ** Amras Alcarin just arrived in the world
+
+gig
+You giggle.
+
+wav
+You wave.
+
+Jonathan waves.
+
+say thank SOOO much
+You say, "thank SOOO much"
+
+beam
+You beam.
+
+ ** Amras Alcarin just left the world.
+
+Jonathan smiles brightly.
+
+go d
+
+[South Street]
+The road narrows slightly allowing room for a beautiful pond which sits on the eastern side of the road. Ducks paddle around leisurely and enjoy the tepid water. Brass lamp posts, with green glass lanterns, are situated around the pond keeping it lit even during the evening hours.
+
+The area is illuminated.
+
+In this room you see: Ad'in the Dragon,  Merau the Terrak,  Sammoth the Rock Troll,  Beor the Rock Troll,  Valhad the Mynarian
+In this room are: small polished metal sign
+Obvious exits are: north, south, wooden wagon door with steps
+
+ ** Amras Alcarin just arrived in the world
+
+ ** Amras Alcarin just left the world.
+
+smi at Sammoth
+Sammoth is looking at you.
+
+off bo to sa
+ ** Amras Alcarin just arrived in the world
+
+You smile at Sammoth.
+
+You must unequip that before you can offer it.
+
+ ** Amras Alcarin just left the world.
+
+ ** Amras Alcarin just arrived in the world
+
+smi at Beor
+Beor is looking at you.
+
+You smile at Beor.
+
+roff bow to sa
+Unknown command "roff"
+
+
+Merau says, "yay"
+
+off bow to sa
+You offer the rune-etched Demon horn long bow to Sammoth.
+
+ ** Amras Alcarin just left the world.
+
+ ** Amras Alcarin just arrived in the world
+
+smir
+You smirk.
+
+Merau just went through the wooden wagon door with steps.
+
+Sammoth snickers.
+
+Beor whistles.
+
+ ** Amras Alcarin just left the world.
+
+ ** Amras Alcarin just arrived in the world
+
+Sammoth removes his etched steel bastard sword from his well forged scabbard.
+
+Valhad just went north.
+
+** ALPHA CHAT -- Amras says, "what are war cries"
+
+Beor glares at you.
+
+how
+You howl.
+
+** ALPHA CHAT -- Sammoth says, "Warrior/berserker battle shouts."
+
+** ALPHA CHAT -- Valhad says, "Spells for fighters and barbarians more or less"
+
+** ALPHA CHAT -- Amras says, "how do i use those"
+
+** ALPHA CHAT -- Sammoth says, "They buff your AR, Damage, stun enemies. Things like that."
+
+say try it
+You say, "try it"
+
+
+Beor says to Kurapiira, "he better have already been dead"
+
+** ALPHA CHAT -- Valhad says, "type spell to see what you have"
+
+flai at sa
+You flail your arms at Sammoth.
+
+** ALPHA CHAT -- Amras says, "oh ok i see"
+
+Beor mutters.
+
+** ALPHA CHAT -- Sammoth says, "You type spell, then you, invoke (#)"
+
+** ALPHA CHAT -- Kaedoria says, "cast spell #"
+
+gig to b
+You giggle to Beor.
+
+smi at Beor
+Beor is looking at you.
+
+You smile at Beor.
+
+** ALPHA CHAT -- Valhad says, "then invoke (number slot for spell) target"
+
+l at b
+
+You see Beor the adolescent Rock Troll.
+He is 7' 0" tall with a muscular build, untamed, purplish black hair, violet eyes, and gray skin.
+He bears the mark of Boerhund.
+He is currently in a pensive mood.
+
+Description:
+Big, bad, buff, bulging, belching, behemoth.
+
+
+He is carrying:
+ -a short venom-dipped bone ritual spear         (right hand)
+ -a bone-handled pluronium kukri         (left hand)
+ -a bone plate covered rune-etched chainmail     (torso)
+ -a emerald ring         (finger)
+ -a divinely made fake ring      (finger)
+ -a gold chain   (around neck)
+ -a family crested multi-colored kilt    (legs)
+ -a pair of black combat boots   (feet)
+ -a leather bandolier    (on belt)
+
+
+
+Valhad just entered from the north.
+
+** ALPHA CHAT -- Amras says, "do the mage stats help for those?"
+
+say wow
+You say, "wow"
+
+stare at b
+You stare at Beor.
+
+** ALPHA CHAT -- Sammoth says, "Nah, it comes from your ftg."
+
+
+Beor says to Kurapiira, "I know I'm handsome"
+
+Beor gloats.
+
+cac
+You cackle.
+
+Beor slips on his horned war helmet.
+
+wh to sa accept
+You whisper "accept" to Sammoth.
+
+smi at Valhad
+Valhad is looking at you.
+
+You smile at Valhad.
+
+Sammoth accepts your offer.
+
+** ALPHA CHAT -- Kaedoria says, "same thing with shamans"
+
+l at k
+
+You see Kurapiira the young Fey.
+She is 1' 10" tall with a lithe build, dreadlocked, purplish black hair, forest green eyes, and lavendar skin.
+She bears the mark of Tevleh.
+She is currently in a calculating mood.
+
+Description:
+She has a tattoo of a fey with broken wyngs across her back.
+
+
+She is carrying:
+ -a blackened silver nakanaki    (right hand)
+ -a a shimmering obsidian shield of Darkness     (left hand)
+ -a thick black scarred Troll skin armor         (torso)
+ -a pewter pentagram     (around neck)
+ -a pair of emerald green leggings       (legs)
+ -a pair of white thigh high boots       (feet)
+ -a open black leather book bag  (on back)
+ -a gold belly chain     (around waist)
+
+
+
+
+Beor says to Kurapiira, "best dressed troll in town"
+
+Sammoth whispers to you, "I can't use bows."
+
+** ALPHA CHAT -- Amras says, ""
+
+gig
+You giggle.
+
+Beor flexes and struts around Sammoth.
+
+wh to sa damn!
+You whisper "damn!" to Sammoth.
+
+
+Valhad asks to Kurapiira, "Armor made out of a troll you forgot to heal?"
+
+** ALPHA CHAT -- Amras says, "so Int, Chha, Per, Pie, and App really dont do anything for a fighter?"
+
+nod yes to v
+You nod your head up and down to Valhad.
+
+Beor grits his teeth.
+
+** ALPHA CHAT -- Sammoth says, "Well.. not REALLY."
+
+
+Beor says to Kurapiira, "remind me to slit your throat later"
+
+** ALPHA CHAT -- Valhad says, "Perception might but like i said we haven't really verified that yet."
+
+Beor beams to you.
+
+cac
+You cackle.
+
+** ALPHA CHAT -- Sammoth says, "Perception is a search skill, hiding, stealth bonus."
+
+Beor smirks.
+
+
+Beor says to Kurapiira, "you have to sleep sometime"
+
+Sammoth just went north.
+
+** ALPHA CHAT -- Kaedoria says, "int is intelegence and that's a mana thing which is a mage thing"
+
+say i wasted a balcksmnithing
+You say, "i wasted a balcksmnithing"
+
+flai
+Beor pets the bone-handled pluronium kukri.
+
+You flail your arms.
+
+** ALPHA CHAT -- Kaedoria says, "i think"
+
+pok na
+You poke the blackened silver nakanaki.
+
+
+Beor says to Kurapiira, "that's nice too"
+
+grin 
+You grin.
+
+lean sh
+You lean on the a shimmering obsidian shield of Darkness.
+
+
+Beor says to Kurapiira, "will look good in my collection after I skin you"
+
+Beor grins toothily.
+
+** ALPHA CHAT -- Valhad says, "It will also apply to lockpicking and possibly other things in the future"
+
+shri
+You shriek.
+
+** ALPHA CHAT -- Valhad says, "But for the time being yeah i believe it's primarily limited to mancers"
+
+l
+
+[South Street]
+The road narrows slightly allowing room for a beautiful pond which sits on the eastern side of the road. Ducks paddle around leisurely and enjoy the tepid water. Brass lamp posts, with green glass lanterns, are situated around the pond keeping it lit even during the evening hours.
+
+The area is illuminated.
+
+In this room you see: Ad'in the Dragon,  Beor the Rock Troll,  Valhad the Mynarian
+In this room are: small polished metal sign
+Obvious exits are: north, south, wooden wagon door with steps
+
+say trolls don git bows?
+You ask, "trolls don git bows?"
+
+rai at ad
+You raise an eyebrow at Ad'in.
+
+Beor nods.
+
+** ALPHA CHAT -- Amras says, "all thats too complicated, that's why I'm stickin to fighter"
+
+Beor removes his simple wooden bow from his leather bandolier.
+
+Beor sheathes his bone-handled pluronium kukri.
+
+s' sounds like Castin
+Unknown command "s'"
+
+gla up
+You glance up.
+
+Beor sheathes his short venom-dipped bone ritual spear.
+
+Beor draws his simple wooden bow.
+
+say sounds like Castin
+You say, "sounds like Castin"
+
+gla up
+You glance up.
+
+Beor removes his quiver of wooden arrows from his leather bandolier.
+
+Beor fires his simple wooden bow at you, but you block the attack with your a shimmering obsidian shield of Darkness!
+
+Maneuvering your a shimmering obsidian shield of Darkness successfully cost you 1 fatigue.
+
+Beor mutters.
+
+Beor fires his simple wooden bow at you, but you block the attack with your a shimmering obsidian shield of Darkness!
+
+Maneuvering your a shimmering obsidian shield of Darkness successfully cost you 1 fatigue.
+
+cac
+You cackle.
+
+** ALPHA CHAT -- Valhad says, "They're pretty straight forward but require the most work in the long run"
+
+furr
+You furrow your brow.
+
+
+Beor says to Kurapiira, "I think I'll enjoy that shield too"
+
+Beor fires his simple wooden bow at you, but you block the attack with your a shimmering obsidian shield of Darkness!
+
+Maneuvering your a shimmering obsidian shield of Darkness successfully cost you 1 fatigue.
+
+Beor mutters.
+
+say what the
+You say, "what the"
+
+gla at sh
+I don't see what you are referring to.
+
+gla at sh
+I don't see what you are referring to.
+
+Beor blinks.
+
+gla at sh
+I don't see what you are referring to.
+
+Beor raises an eyebrow.
+
+l at k
+
+You see Kurapiira the young Fey.
+She is 1' 10" tall with a lithe build, dreadlocked, purplish black hair, forest green eyes, and lavendar skin.
+She bears the mark of Tevleh.
+She is currently in a calculating mood.
+
+Description:
+She has a tattoo of a fey with broken wyngs across her back.
+
+
+She is carrying:
+ -a blackened silver nakanaki    (right hand)
+ -a a shimmering obsidian shield of Darkness     (left hand)
+ -a thick black scarred Troll skin armor         (torso)
+ -a pewter pentagram     (around neck)
+ -a pair of emerald green leggings       (legs)
+ -a pair of white thigh high boots       (feet)
+ -a open black leather book bag  (on back)
+ -a gold belly chain     (around waist)
+
+
+
+pok sh
+You poke the a shimmering obsidian shield of Darkness.
+
+furr
+You furrow your brow.
+
+Beor glances.
+
+h
+
+HP:  91/91  Ftg:  60/60  MP:  70/70
+
+
+Sammoth just entered from the north.
+
+rai at sa
+You raise an eyebrow at Sammoth.
+
+smi at Sammoth
+Sammoth is looking at you.
+
+You smile at Sammoth.
+
+
+Beor says to Kurapiira, "I think the smithey missed a spot there"
+
+
+Sammoth says, "I had to go get some coins."
+
+l at sa
+
+You see Sammoth the adult Rock Troll.
+He is 6' 3" tall with a muscular build, dreadlocked, bluish black hair, ruby red eyes, and reddish brown skin.
+He bears the mark of Aypas.
+He is currently in a neutral mood.
+
+Description:
+This Troll has clearly seen battle before. Scars appear all over his body. Deep claw marks form an X across his upper torso..
+
+
+He is carrying:
+ -a sparkling pluronium chain mail       (torso)
+ -a intricately woven ceremonial warchief's headdress    (head)
+ -a black broadcloth trousers    (legs)
+ -a open black leather pack      (on back)
+ -a well forged scabbard         (on belt)
+
+
+
+smi at Sammoth
+Sammoth is looking at you.
+
+Ad'in mutters.
+
+You smile at Sammoth.
+
+grin to be
+You grin to Beor.
+
+
+Ad'in says in Zhentalian, "cztz'z zjnz zsz qrz gzu zzvpz v izyzz."
+
+smi to ad
+You smile to Ad'in.
+
+Beor blinks.
+
+list
+You listen intently.
+
+
+Ad'in says, "That's what you get for using a gypsy."
+
+Beor stares at Ad'in.
+
+cac
+You cackle.
+
+Ad'in nods.
+
+Beor snickers.
+
+
+Ad'in asks to Kurapiira, "Hand that to me?"
+
+say the shield?
+You ask, "the shield?"
+
+Ad'in nods.
+
+nod no
+You shake your head from side to side.
+
+ret 5
+You can only move backwards another 3 units in this room!
+
+You retreat 3 units.
+[3 sec. delay]
+
+cac
+You cackle.
+
+Beor rolls his eyes.
+
+of sh to ad
+You must unequip that before you can offer it.
+
+unready sh
+You unfasten your a shimmering obsidian shield of Darkness.
+[2 sec. delay]
+
+
+Beor says to Kurapiira, "well that's one way to get eaten"
+
+off sh to ad
+You offer the a shimmering obsidian shield of Darkness to Ad'in.
+
+Valhad laughs.
+
+Ad'in accepts your offer.
+
+Ad'in taps the a shimmering obsidian shield of Darkness.
+
+lau
+You laugh.
+
+say No Eat the Fey
+You say, "No Eat the Fey"
+
+flai
+You flail your arms.
+
+Ad'in taps the shimmer obsidian shield of Darkness.
+
+Ad'in taps the shimmering obsidian shield of Darkness.
+
+acc offer from Ad'in
+sp
+say Thankies!
+smi at Ad'in delicately , brushing back her kinky white hair
+hug Ad'in softly, her long long hair falling all over the place...
+time
+Ad'in offers you a shimmering obsidian shield of Darkness.
+
+You accept Ad'in's offer.
+
+You know the following languages:
+  -Common
+  -Ancestral
+
+
+You exclaim, "Thankies!"
+
+file
+You smile at Ad'in delicately , brushing back her kinky white hair.
+
+You hug Ad'in softly, her long long hair falling all over the place....
+
+It is currently 03:44 PM.
+
+gig
+You giggle.
+
+ ** Kaedoria Stormweaver just left the world.
+
+
+Beor says to Kurapiira, "hardly a mouthful, not even worth biting down on ye"
+
+flai
+You flail your arms.
+
+Sammoth snickers.
+
+hol sh
+You hold the shimmering obsidian shield of Darkness.
+
+ ** Nykyrian League just arrived in the world
+
+Sammoth mutters.
+
+say do trolls get bows?
+You ask, "do trolls get bows?"
+
+rai at ad
+You raise an eyebrow at Ad'in.
+
+
+Sammoth says, "They do."
+
+
+Beor says to Kurapiira, "I just stuck you with mine"
+
+Beor laughs.
+
+grin to b
+You grin to Beor.
+
+Beor fires his simple wooden bow at you, but you parry the blow with your blackened silver nakanaki!
+
+** ALPHA CHAT -- Amras says, "Do these chocolate truffles sell for much?"
+
+how
+You howl.
+
+duc left
+You duck left.
+
+
+Sammoth says, "But I'm a berserker. So I use throws."
+
+
+Valhad says, "They have to buy them like everyone else, no one just gives bows to trolls."
+
+gig to v
+You giggle to Valhad.
+
+Beor removes his open large bag from his open black leather pack.
+
+Sammoth removes his rune-etched Demon horn long bow from his open black leather pack.
+
+Sammoth hugs the rune-etched Demon horn long bow.
+
+Beor removes his tombstone shaped nougat filled piece of chocolate from his open large bag.
+
+Sammoth snickers.
+
+beam
+You beam.
+
+** ALPHA CHAT -- Jonathan says, "Not really. They are a treat for the Festival coming up soon."
+
+acc offer from Beor
+sp
+say Thankies!
+smi at Beor impishly, tossing her long soft hair back...
+hug Beor softly, her long long hair falling all over the place...
+time
+Beor offers you a tombstone shaped nougat filled piece of chocolate.
+
+You accept Beor's offer.
+
+You know the following languages:
+  -Common
+  -Ancestral
+
+
+You exclaim, "Thankies!"
+
+Sammoth draws his rune-etched Demon horn long bow.
+
+file
+You smile at Beor impishly, tossing her long soft hair back....
+
+You hug Beor softly, her long long hair falling all over the place....
+
+It is currently 03:44 PM.
+
+Sammoth just went north.
+
+eat ch
+I don't see what you're referring to.
+
+
+Beor says to Kurapiira, "need to fatten you up if I'm going to eat you"
+
+Beor nods.
+
+eat to
+I don't see what you're referring to.
+
+eat no
+You take a bite of your tombstone shaped nougat filled piece of chocolate.
+
+Sammoth just entered from the north.
+
+how
+You howl.
+
+Sammoth retreats 3 units.
+
+Beor grins to you.
+
+Sammoth fires his rune-etched Demon horn long bow at Beor, but he evades the strike.
+
+how and smacks her lips
+You howl and smacks her lips.
+
+
+Sammoth says, "Zerk me."
+
+Sammoth fires his rune-etched Demon horn long bow at Beor, but he evades the strike.
+
+Valhad raises his hand and concentrates as energy grows within it.
+
+k sa
+
+Beor says to Sammoth, "you're lucky I'm lazy"
+
+k c
+You perform a resounding smash with your blackened silver nakanaki at Sammoth, but he evades your strike.
+[5 sec. delay]
+
+As Valhad reaches towards Sammoth a dark spark jumps between them.
+
+Valhad raises his hand and concentrates as energy grows within it.
+
+k sa
+Sammoth fires his rune-etched Demon horn long bow at Beor, but he evades the strike.
+
+
+I don't see what you're referring to.
+
+k c
+You perform a resounding smash with your blackened silver nakanaki at Sammoth, but he evades your strike.
+[5 sec. delay]
+
+As Valhad reaches towards Sammoth a dark spark jumps between them.
+
+Valhad raises his hand and concentrates as energy grows within it.
+
+TARGET IS : sa 
+Sammoth fires his rune-etched Demon horn long bow at Beor!
+It is a solid blow to his left leg!
+
+
+k sa
+As Valhad reaches towards Sammoth a dark spark jumps between them.
+
+
+I don't see what you're referring to.
+
+k sa 
+You perform a powerful blow with your blackened silver nakanaki at Sammoth!
+It is a solid blow to the left leg!
+[5 sec. delay]
+
+Sammoth fires his rune-etched Demon horn long bow at Beor!
+It is a strong blow to his right leg!
+
+
+Valhad raises his hand and concentrates as energy grows within it.
+
+k sa 
+You perform a resounding smash with your blackened silver nakanaki at Sammoth!
+It is a powerful blow to the right leg!
+[5 sec. delay]
+
+howl too!
+Sammoth's eyes widen and his pupils constrict as he lets out a wild howl.
+
+You howl too!.
+
+As Valhad reaches towards Sammoth a dark spark jumps between them.
+
+Sammoth fires his rune-etched Demon horn long bow at Beor, but he evades the strike.
+
+q c
+Your command queue has been cleared.
+
+
+Sammoth says, "One more..."
+
+cac
+Sammoth fires his rune-etched Demon horn long bow at Beor!
+It is a glancing blow to his right leg!
+
+
+You cackle.
+
+
+Sammoth asks, "Wtf?"
+
+Sammoth fires his rune-etched Demon horn long bow at Beor, but he evades the strike.
+
+Valhad grins.
+
+
+Beor says, "when I get my hooded cloak and spiked gloves and boots I'm going to look too good for words"
+
+Sammoth fires his rune-etched Demon horn long bow at Beor!
+It is a solid blow to his right arm!
+
+
+chu
+You chuckle.
+
+Beor gloats.
+
+Sammoth fires his rune-etched Demon horn long bow at Beor, but he evades the strike.
+
+say it was a starter bw
+Sammoth fires his rune-etched Demon horn long bow at Beor!
+It is a solid blow to his right arm!
+
+
+You say, "it was a starter bw"
+
+flai
+You flail your arms.
+
+Sammoth fires his rune-etched Demon horn long bow at Beor, but he evades the strike.
+
+Sammoth fires his rune-etched Demon horn long bow at Beor!
+It is a powerful blow to his right leg!
+
+
+diag all
+h
+You examine all the people in the room...
+
+You examine Ad'in. He appears to be in good health.
+You examine Beor. He looks weakened.
+You examine Valhad. He appears to be in good health.
+You examine Sammoth. He looks weakened. He seems tired.
+He has the following wounds: a tiny contusion on his right leg
+
+
+HP:  91/91  Ftg:  60/60  MP:  70/70
+
+
+Sammoth fires his rune-etched Demon horn long bow at Beor, but he evades the strike.
+
+Sammoth puts his quiver of wooden arrows in his open black leather pack.
+
+
+Beor exclaims to Sammoth, "easy on the new armor!"
+
+Sammoth sheathes his rune-etched Demon horn long bow.
+
+Beor flails his arms.
+
+Sammoth puts his rune-etched Demon horn long bow in his open black leather pack.
+
+cac to b
+You cackle to Beor.
+
+Sammoth calms down and appears to regain his self control.
+
+Beor pets the bone plate covered rune-etched chainmail.
+
+hol ar
+You hold the thick black scarred Troll skin armor.
+
+Beor pets the bone plate covered rune-etched chainmail dusting it off and muttering at Sammoth.
+
+Beor grits his teeth at you.
+
+cac
+You cackle.
+
+hum  furie song
+You hum furie song.
+
+A city waste engineer just entered from the north.
+
+l at k
+
+You see Kurapiira the young Fey.
+She is 1' 10" tall with a lithe build, dreadlocked, purplish black hair, forest green eyes, and lavendar skin.
+She bears the mark of Tevleh.
+She is currently in a calculating mood.
+
+Description:
+She has a tattoo of a fey with broken wyngs across her back.
+
+
+She is carrying:
+ -a blackened silver nakanaki    (right hand)
+ -a thick black scarred Troll skin armor         (torso)
+ -a pewter pentagram     (around neck)
+ -a pair of emerald green leggings       (legs)
+ -a pair of white thigh high boots       (feet)
+ -a open black leather book bag  (on back)
+ -a gold belly chain     (around waist)
+
+
+
+Beor chuckles to you.
+
+Sammoth draws his etched steel bastard sword.
+
+Sammoth puts his ruby and emerald inlaid broadsword in his well forged scabbard.
+
+
+Ad'in says, "Oh, by the way."
+
+say i Wish i could go to the peddle\
+You say, "i Wish i could go to the peddle\"
+
+list o ad
+You listen intently o ad.
+
+
+Ad'in says, "The new flying stuff is in. Feedback appreciated - flaming not."
+
+Valhad chuckles.
+
+Beor flails his arms trying to fly.
+
+gig to ad
+You giggle to Ad'in.
+
+
+Beor says to Ad'in, "nope still cant fly"
+
+fly up 5
+grin , circling around and doing some aerial acrobatics
+With a small running start, you leap into the air and spread your wings!
+[5 sec. delay]
+
+You grin , circling around and doing some aerial acrobatics.
+
+h
+
+HP:  91/91  Ftg:  58/60  MP:  70/70
+
+
+say ooo
+You say, "ooo"
+
+h
+
+HP:  91/91  Ftg:  57/60  MP:  70/70
+
+
+** ALPHA CHAT -- Amras says, "going to reroll agian.. heh"
+
+say i am still losin ftg
+You say, "i am still losin ftg"
+
+ ** Amras Alcarin just left the world.
+
+h
+
+HP:  91/91  Ftg:  58/60  MP:  70/70
+
+
+
+Ad'in says, "I'll give the details when I do patch part 2 tomorrow or later today."
+
+Beor fires his simple wooden bow at you, but you parry the blow with your blackened silver nakanaki!
+
+cac
+You cackle.
+
+Beor fires his simple wooden bow at you, but you parry the blow with your blackened silver nakanaki!
+
+h
+
+HP:  91/91  Ftg:  56/60  MP:  70/70
+
+
+Beor squints.
+
+Beor fires his simple wooden bow at you, but you evade the strike!
+
+
+Ad'in says to Beor, "Geeze, you suck with that. I nerfed bow vs parry hardcore too."
+
+say need more out of combat health
+Ad'in snickers.
+
+You say, "need more out of combat health"
+
+nod yes to ad
+
+Beor says to Kurapiira, "slippery little sprite you are"
+
+You nod your head up and down to Ad'in.
+
+ ** Nykyrian League just left the world.
+
+Beor fires his simple wooden bow at Ad'in!
+It is a fair blow to his head!
+Ad'in is surrounded by a dull golden glow.
+
+Beor cackles.
+
+Ad'in shrieks.
+
+Valhad laughs.
+
+cac
+You cackle.
+
+h
+
+HP:  91/91  Ftg:  49/60  MP:  70/70
+
+
+Beor fires his simple wooden bow at you!
+It is a powerful blow to your right leg!
+Your thick black scarred Troll skin armor absorbs some of the damage.
+h
+You take 4 damage!
+
+
+HP:  87/91  Ftg:  52/60  MP:  70/70
+
+
+Beor gloats.
+
+sti
+You stick out your tongue.
+
+h
+
+HP:  87/91  Ftg:  46/60  MP:  70/70
+
+
+
+Beor says, "you both look like pin cushions"
+
+Beor chortles.
+
+say still losin ftg out o combat?
+You ask, "still losin ftg out o combat?"
+
+rai at ad
+You raise an eyebrow at Ad'in.
+
+
+Ad'in says to Kurapiira, "You should be able to manage your fatigue a lot better. It varies depending on weight carried, in combat or not, etc."
+
+Sammoth ponders a moment.
+
+nod
+
+Sammoth says, "Hrm.."
+
+You nod.
+
+inv
+
+You are currently holding:
+ -pair of emerald green leggings (0.0 lbs)
+ -pair of white thigh high boots (0.0 lbs)
+ -gold belly chain (0.03 lbs)
+ -pewter pentagram (0.5 lbs)
+ -open black leather book bag (9.62 lbs)
+ -open black leather pack (15.52 lbs)
+ -open black leather pack (3.2702 lbs)
+ -open black leather pack (3.33 lbs)
+ -open black leather pack (3.33 lbs)
+ -damaged simple wooden buckler (0.17 lbs)
+ -orange handled leather whip (0.67 lbs)
+ -green and blue tartan scarf (0.0 lbs)
+ -blackened silver nakanaki (2.33 lbs)
+ -thick black scarred Troll skin armor (2.67 lbs)
+ -shimmering obsidian shield of Darkness (1.33 lbs)
+ -tombstone shaped nougat filled piece of chocolate (0.0002 lbs)
+ (42.7704 / 86.0 lbs being carried)
+
+mon
+ You currently have 53 marks and 41 crowns.
+
+You are currently carrying 41 Crowns and 53 Marks.
+This gives you a combined wealth of 4153 marks.
+
+The city waste engineer happily picks up some trash on the side of the road.
+
+
+Sammoth asks, "What is a nakanaki?"
+
+Beor fires his simple wooden bow at Sammoth, but he evades the strike.
+
+say 42 / 86
+You say, "42 / 86"
+
+Beor fires his simple wooden bow at the 1st city waste engineer!
+It is a powerful blow to its head!
+
+
+
+Ad'in says to Kurapiira, "you lose fatigue while out of combat, but not faster than you regen it. It effectively just slows your regen."
+
+The 1st city waste engineer attacks Beor with its sturdy shovel!
+It is a solid blow to his right arm!
+
+
+Beor flails his arms.
+
+say a pole..japanese
+You say, "a pole..japanese"
+
+The 1st city waste engineer attacks Beor with its sturdy shovel, but he evades the strike.
+
+
+Beor exclaims to the city waste engineer, "you got in the way!"
+
+h
+
+HP:  91/91  Ftg:  49/60  MP:  70/70
+
+
+The 1st city waste engineer attacks Beor with its sturdy shovel!
+It is a solid blow to his right leg!
+
+
+
+Sammoth asks, "You sure?"
+
+Sammoth raises an eyebrow.
+
+The 1st city waste engineer attacks Beor with its sturdy shovel!
+It is a solid blow to his torso!
+
+
+nod yes
+Valhad's eyes glow red with a deep hate as a demonic spirit head grows above him.
+
+You nod your head up and down.
+
+The 1st city waste engineer attacks Beor with its sturdy shovel, but he evades the strike.
+
+
+Ad'in says to the city waste engineer, "KILL HIM"
+
+Beor salutes the engineer.
+
+The head of the demon spirit roars loudly and bites at the city waste engineer in an attempt to frighten him.
+
+city waste engineer's expression turns to one of horror!
+
+Beor cackles.
+
+The 1st city waste engineer turns and runs south.
+
+say pose dto be naga
+You say, "pose dto be naga"
+
+inv
+Beor flails his arms.
+
+
+You are currently holding:
+ -pair of emerald green leggings (0.0 lbs)
+ -pair of white thigh high boots (0.0 lbs)
+ -gold belly chain (0.03 lbs)
+ -pewter pentagram (0.5 lbs)
+ -open black leather book bag (9.62 lbs)
+ -open black leather pack (15.52 lbs)
+ -open black leather pack (3.2702 lbs)
+ -open black leather pack (3.33 lbs)
+ -open black leather pack (3.33 lbs)
+ -damaged simple wooden buckler (0.17 lbs)
+ -orange handled leather whip (0.67 lbs)
+ -green and blue tartan scarf (0.0 lbs)
+ -blackened silver nakanaki (2.33 lbs)
+ -thick black scarred Troll skin armor (2.67 lbs)
+ -shimmering obsidian shield of Darkness (1.33 lbs)
+ -tombstone shaped nougat filled piece of chocolate (0.0002 lbs)
+ (42.7704 / 86.0 lbs being carried)
+
+mon
+ You currently have 53 marks and 41 crowns.
+
+A city waste engineer just entered from the south.
+
+You are currently carrying 41 Crowns and 53 Marks.
+This gives you a combined wealth of 4153 marks.
+
+The 1st city waste engineer attacks Beor with its sturdy shovel!
+It is a solid blow to his torso!
+
+
+Ad'in howls at the 1st city waste engineer.
+
+Beor cackles.
+
+The 1st city waste engineer attacks Beor with its sturdy shovel, but he evades the strike.
+
+say naganaki
+You say, "naganaki"
+
+
+Valhad asks, "Naganati?"
+
+flai
+You flail your arms.
+
+The 1st city waste engineer attacks Beor with its sturdy shovel, but he evades the strike.
+
+chu
+You chuckle.
+
+
+Valhad says, "Err Naginata"
+
+The 1st city waste engineer attacks Beor with its sturdy shovel, but he evades the strike.
+
+Valhad mumbles.
+
+cac
+You cackle.
+
+The 1st city waste engineer attacks Beor with its sturdy shovel, but he evades the strike.
+
+Beor gloats and dance and weaves in and out of the engineer's blows.
+
+Sammoth laughs.
+
+say no more drinky
+You say, "no more drinky"
+
+The 1st city waste engineer attacks Beor with its sturdy shovel, but he evades the strike.
+
+gla to v
+You glance to Valhad.
+
+Sammoth laughs.
+
+Beor leans on the city waste engineer.
+
+
+Valhad says, "Long staff with a blade on the end."
+
+The 1st city waste engineer attacks Beor with its sturdy shovel!
+It is a solid blow to his left arm!
+
+
+nod yes
+You nod your head up and down.
+
+The 1st city waste engineer attacks Beor with its sturdy shovel!
+It is a solid blow to his head!
+
+
+Beor gestures rudely at the city waste engineer.
+
+The city waste engineer appears angered by Beor's goad.
+
+The 1st city waste engineer attacks Beor with its sturdy shovel, but he evades the strike.
+
+Beor just went north.
+
+A city waste engineer follows Beor.
+
+say Naginata is another one
+You say, "Naginata is another one"
+
+l
+
+[South Street]
+The road narrows slightly allowing room for a beautiful pond which sits on the eastern side of the road. Ducks paddle around leisurely and enjoy the tepid water. Brass lamp posts, with green glass lanterns, are situated around the pond keeping it lit even during the evening hours.
+
+The area is illuminated.
+
+In this room you see: Ad'in the Dragon,  Valhad the Mynarian,  Sammoth the Rock Troll
+In this room are: small polished metal sign
+Obvious exits are: north, south, wooden wagon door with steps
+
+poi at sa
+You point at Sammoth.
+
+say get good with bowes
+You say, "get good with bowes"
+
+nod yes
+You nod your head up and down.
+
+flex her wings, flittering softly in place...
+You flex her wings, flittering softly in place....
+
+h
+
+HP:  91/91  Ftg:  60/60  MP:  70/70
+
+
+
+Sammoth asks, "Yeah so I guess getting a throw is out of the question?"
+
+
+Ad'in says, "Oh, throws have bow reach now too."
+
+Merau just entered through the wooden wagon door with steps.
+
+cac
+
+Sammoth says, "Awesome."
+
+You cackle.
+
+Beor just entered from the north.
+
+
+Merau says, "NEXT"
+
+grin 
+You grin.
+
+Beor retreats 3 units.
+
+Valhad just went through the wooden wagon door with steps.
+
+poi at v
+I don't see what you are referring to.
+
+Beor performs a simple crush with his sturdy shovel at at Sammoth, but the blow is turned away by his etched steel bastard sword.
+
+
+Sammoth says, "Yeah, but they disappear so, getting one modified isn't really an option."
+
+
+Sammoth asks, "Right?"
+
+Beor performs a resounding smash with his sturdy shovel at at Sammoth, but the blow is turned away by his etched steel bastard sword.
+
+cac
+You cackle.
+
+
+Ad'in says, "You can refill them."
+
+Beor performs a resounding smash with his sturdy shovel at at Sammoth, but the blow is turned away by his etched steel bastard sword.
+
+Ad'in pokes Sammoth .
+
+
+Sammoth asks to Ad'in, "Whoa really?"
+
+
+Sammoth says, "Nice."
+
+Beor performs a simple crush with his sturdy shovel at at Sammoth, but the blow is turned away by his etched steel bastard sword.
+
+say jus be REAL creful
+You say, "jus be REAL creful"
+
+
+Ad'in asks, "Does nobody read my notes?"
+
+Ad'in sobs.
+
+Beor performs a uppercut with his sturdy shovel at at Sammoth, but the blow is turned away by his etched steel bastard sword.
+
+Beor performs a calculated strike with his bone-handled pluronium kukri at Sammoth!
+It is a flawless blow to his left arm, sending him reeling!
+Sammoth is knocked back!
+Sammoth stumbles and falls down!
+
+
+
+Sammoth says, "I read all of 'em."
+
+k b
+Sammoth stands up.
+
+tact
+Your target is too far away!
+
+Beor cackles.
+
+You are currently standing 3 units behind center.
+
+Standing 1 units in front of you:
+Sammoth
+Standing in your rank:
+Ad'in, Kurapiira, Merau, Beor
+
+
+ret b
+You cannot retreat any further!
+
+k b
+tact
+Your target is too far away!
+
+You are currently standing 3 units behind center.
+
+Standing 1 units in front of you:
+Sammoth
+Standing in your rank:
+Ad'in, Kurapiira, Merau, Beor
+
+
+Beor advances 6 units.
+
+adv b
+
+Sammoth says, "Heh. 6."
+
+You advance 6 units.
+
+k b
+tact
+Your target is too far away!
+
+You notice Beor slip into the shadows.
+
+You are currently standing 3 units ahead of center.
+
+Standing in your rank:
+Kurapiira, Beor
+Standing 5 units behind you:
+Sammoth
+Standing 6 units behind you:
+Ad'in, Merau
+
+
+fly down 15
+You trim your wings and descend 15 feet.
+[3 sec. delay]
+
+k b
+Merau pulls on you .
+
+You uncover Beor's hiding spot!
+
+k sa 
+You perform a reverse swing with your blackened silver nakanaki at Beor!
+It is a solid blow to the right arm!
+[5 sec. delay]
+
+how
+You howl.
+
+k m
+
+Beor exclaims to Sammoth, "die!"
+
+
+Beor exclaims to Kurapiira, "die!"
+
+tact
+Your target is too far away!
+
+You are currently standing 3 units ahead of center.
+
+Standing in your rank:
+Kurapiira, Beor
+Standing 5 units behind you:
+Sammoth
+Standing 6 units behind you:
+Ad'in, Merau
+
+
+tact
+Your target is too far away!
+
+You are currently standing 3 units ahead of center.
+
+Standing in your rank:
+Kurapiira, Beor
+Standing 5 units behind you:
+Sammoth
+Standing 6 units behind you:
+Ad'in, Merau
+
+
+
+Sammoth asks, "What?"
+
+ret m
+Beor gestures rudely at you.
+
+You retreat 6 units.
+[3 sec. delay]
+
+k m
+Sammoth advances 5 units.
+
+Sammoth performs a downwards laceration with his etched steel bastard sword at at Beor, but the blow is turned away by his bone-handled pluronium kukri.
+
+k sa 
+You perform a reverse swing with your blackened silver nakanaki at at Merau, but the attack is blocked by her Fey skin covered bone shield.
+[5 sec. delay]
+
+k m
+Beor cackles.
+
+Beor retreats 6 units.
+
+tact
+Your target is too far away!
+
+You are currently standing 3 units behind center.
+
+Standing 6 units in front of you:
+Sammoth
+Standing in your rank:
+Ad'in, Kurapiira, Merau, Beor
+
+
+k sa 
+You perform a uppercut with your blackened silver nakanaki at Merau!
+It is a decent blow to the right arm!
+[5 sec. delay]
+
+Beor gestures rudely at you.
+
+Sammoth retreats 5 units.
+
+Sammoth performs a downwards laceration with his etched steel bastard sword at Beor!
+It is a well executed blow to his left arm!
+
+
+fly up 5
+Beor advances 6 units.
+
+k sa 
+You perform a reverse swing with your blackened silver nakanaki at Sammoth, but he evades your strike.
+[5 sec. delay]
+
+how
+You howl.
+
+Sammoth advances 4 units.
+
+Sammoth performs a vicious hack with his etched steel bastard sword at at Beor, but the blow is turned away by his bone-handled pluronium kukri.
+
+Merau chuckles.
+
+Beor retreats 6 units.
+
+say bows people
+Merau bares her teeth, a deep gurgling growl emanating from deep in her throat.
+
+With a couple of powerful strokes, you rise 5 feet in the air!
+[5 sec. delay]
+
+You say, "bows people"
+
+Beor cackles.
+
+Sammoth retreats 4 units.
+
+Beor advances 6 units.
+
+flai
+You flail your arms.
+
+Sammoth advances 4 units.
+
+tact
+Your target is too far away!
+
+Beor retreats 6 units.
+
+You are currently standing 3 units behind center.
+
+Standing 5 units in front of you:
+Sammoth
+Standing in your rank:
+Ad'in, Kurapiira, Merau, Beor
+
+
+stat
+You are Kurapiira the Fey Cleric. You are 22 years old.
+You are currently a follower of Tevleh.
+You are so full you feel sick!
+You are dangerously dehydrated!
+
+Attack Rating: 56
+Max Tact Move: 8
+
+You are currently flying 10 feet above the ground.
+
+Str *******       | Dex *******       | 
+Qui *******       | Con ******        | 
+Pie ********      | Int *******       | 
+Per *********     | Cha **********    | 
+App ***           | Res *******       | 
+
+You are currently carrying:
+ -a blackened silver nakanaki    (right hand)
+ -a thick black scarred Troll skin armor    (torso)
+ -a pewter pentagram    (around neck)
+ -a pair of emerald green leggings    (legs)
+ -a pair of white thigh high boots    (feet)
+ -an open black leather book bag    (on back)
+ -a gold belly chain    (around waist)
+
+
+Merau's teeth begin to shine as they slowly elongate into the long piercing fangs of a Wolf.
+
+Merau lets out a fierce snarl as their eyes turn a brilliant orange, their skin growing thick as black lines begin to appear.
+
+Sammoth retreats 3 units.
+
+Beor howls at Sammoth.
+
+Beor advances 6 units.
+
+fly up 10
+With a couple of powerful strokes, you rise 10 feet in the air!
+[5 sec. delay]
+
+cac
+Sammoth advances 4 units.
+
+You cackle.
+
+Sammoth performs a downwards laceration with his etched steel bastard sword at Beor!
+It is a glancing blow to his head!
+
+
+Beor retreats 6 units.
+
+As the black lines appear, Merau's body mimics that of a tiger, quick and strong.
+
+
+Ad'in says, "I don't think there has been a single gathering that hasn't turned into a random melee yet."
+
+Beor mutters.
+
+Sammoth cackles.
+
+Sammoth retreats 4 units.
+
+ ** Nykyrian League just arrived in the world
+
+Beor advances 6 units.
+
+say lol
+You say, "lol"
+
+hug ad
+You hug Ad'in.
+
+
+Sammoth says, "THEY, started it."
+
+Merau hops.
+
+Sammoth gestures all around..
+
+nod yes sa
+You nod your head up and down sa.
+
+
+Beor exclaims to Ad'in, "I'm a tank I have to fight!"
+
+Sammoth advances 4 units.
+
+Sammoth performs a simple cut with his etched steel bastard sword at Beor!
+It is a well executed blow to his right arm!
+
+
+Merau gestures to the ground before quickly throwing her hand towards you.
+
+Sammoth performs a cross-body slash with his etched steel bastard sword at Beor, but he evades the strike.
+
+Beor retreats 6 units.
+
+Following Merau's hand large vines burst from the ground and surround you as large spikes burst from the vines, piercing your skin.
+
+Your thick black scarred Troll skin armor absorbs some of the damage.
+h
+You take 6 damage!
+
+Slowly, the vines and their spikes begin to brown and wither away.
+
+Beor performs a uppercut with his sturdy shovel at Ad'in!
+It is a well executed blow to his left leg!
+Ad'in is surrounded by a dull golden glow.
+
+Sammoth chokes the etched steel bastard sword.
+
+
+HP:  90/91  Ftg:  29/60  MP:  70/70
+
+
+Ad'in claws at at Beor, but the blow is turned away by his bone-handled pluronium kukri.
+
+Ad'in claws at Beor!
+It is a strong blow to his right arm!
+Beor is knocked back!
+
+
+l
+
+Sammoth says, "hehe.. choke bastard.."
+
+
+[South Street]
+The road narrows slightly allowing room for a beautiful pond which sits on the eastern side of the road. Ducks paddle around leisurely and enjoy the tepid water. Brass lamp posts, with green glass lanterns, are situated around the pond keeping it lit even during the evening hours.
+
+The area is illuminated.
+
+In this room you see: Ad'in the Dragon,  Sammoth the Rock Troll,  Merau the Terrak,  Beor the Rock Troll
+In this room are: small polished metal sign
+Obvious exits are: north, south, wooden wagon door with steps
+
+shri
+You shriek.
+
+Beor howls !.
+
+invo 19 k
+Sammoth chokes the etched steel bastard sword.
+
+A mystical wind blows through the area as you close your eyes and slowly releases your breath.
+Invoking this spell cost you 8 mana and 2 faith.
+[7 sec. delay]
+
+Sammoth chokes the etched steel bastard sword.
+
+Sammoth chokes the etched steel bastard sword.
+
+Merau laughs.
+
+Sammoth chokes the etched steel bastard sword.
+
+Sammoth chokes the etched steel bastard sword.
+
+diag all
+h
+As your breath leaves your mouth you is surrounded in a comforting glow, leaving you feeling refreshed.
+
+h
+h
+You feel energized!
+
+You examine all the people in the room...
+
+You examine Ad'in. He appears to be in good health. He seems tired.
+You examine Sammoth. He appears to be in good health.
+You examine Merau. She appears to be in good health. She seems tired.
+You examine Beor. He looks considerably hurt.
+He has the following wounds: a large laceration on his right arm
+
+
+HP:  90/91  Ftg:  55/60  MP:  66/70
+
+
+
+HP:  90/91  Ftg:  55/60  MP:  66/70
+
+
+
+HP:  90/91  Ftg:  55/60  MP:  66/70
+
+
+
+Beor says to Ad'in, "that'll leave a mark"
+
+Beor nods.
+
+A refreshing breeze begins to blow through the area as Merau glows with a faint blue light.
+
+Ad'in grins.
+
+Beor sits down.
+
+Beor tends to his wounds.
+
+Sammoth retreats 5 units.
+
+Beor snickers.
+
+As the light fades, Merau lets out a relieved breath, looking rejuvenated.
+
+foll b
+You follow Beor.
+
+invo 11
+You close your eyes in prayer as a warm, golden aura surrounds you.
+Invoking this spell cost you 10 mana and 1 faith.
+[8 sec. delay]
+
+Merau returns to normal as the black lines fade away.
+
+Sammoth performs a downwards laceration with his etched steel bastard sword at at Beor, but the blow is turned away by his bone-handled pluronium kukri.
+
+invo 11
+Beor glares at you.
+
+Sammoth performs a reverse slash with his etched steel bastard sword at Beor!
+It is a fair blow to his head!
+
+
+A refreshing breeze begins to blow through the area as Merau glows with a faint blue light.
+
+diag all
+h
+h
+The golden aura surrounding you expands to envelop you and your group mates, sparkles for a few moments and disappears.
+
+You feel healthier!
+
+You close your eyes in prayer as a warm, golden aura surrounds you.
+Invoking this spell cost you 10 mana and 1 faith.
+[8 sec. delay]
+
+You examine all the people in the room...
+
+You examine Ad'in. He appears to be in good health. He seems tired.
+You examine Sammoth. He appears to be in good health. He seems tired.
+You examine Merau. She appears to be in good health. She seems tired.
+You examine Beor. He looks injured.
+He has the following wounds: a small laceration on his right arm, a tiny laceration on his head
+
+
+HP:  91/91  Ftg:  55/60  MP:  54/70
+
+
+
+HP:  91/91  Ftg:  55/60  MP:  54/70
+
+
+As the light fades, Merau lets out a relieved breath, looking rejuvenated.
+
+Sammoth performs a downwards laceration with his etched steel bastard sword at Beor!
+It is a decent blow to his right arm!
+
+
+
+Beor says to Kurapiira, "don't tempt me furry"
+
+Merau lets out a fierce snarl as their eyes turn a brilliant orange, their skin growing thick as black lines begin to appear.
+
+Sammoth performs a vicious hack with his etched steel bastard sword at Beor!
+It is a decent blow to his right leg!
+
+
+Beor stands up.
+
+diag all
+h
+h
+The golden aura surrounding you expands to envelop you and your group mates, sparkles for a few moments and disappears.
+
+You feel healthier!
+
+You examine all the people in the room...
+
+You examine Ad'in. He appears to be in good health.
+You examine Sammoth. He appears to be in good health. He seems tired.
+You examine Merau. She appears to be in good health. She seems tired.
+You examine Beor. He looks injured.
+He has the following wounds: a medium laceration on his right arm, a tiny laceration on his head, a tiny laceration on his right leg
+
+
+HP:  91/91  Ftg:  57/60  MP:  58/70
+
+
+
+HP:  91/91  Ftg:  57/60  MP:  58/70
+
+
+Beor advances 6 units.
+
+invo 11
+You close your eyes in prayer as a warm, golden aura surrounds you.
+Invoking this spell cost you 10 mana and 1 faith.
+[8 sec. delay]
+
+As the black lines appear, Merau's body mimics that of a tiger, quick and strong.
+
+Beor calls out to Boerhund, but nothing seems to happen.
+
+Sammoth taps his foot.
+
+Beor calls out to Boerhund, but nothing seems to happen.
+
+diag all
+h
+h
+The golden aura surrounding you expands to envelop you and your group mates, sparkles for a few moments and disappears.
+
+You feel healthier!
+
+You examine all the people in the room...
+
+You examine Ad'in. He appears to be in good health.
+You examine Sammoth. He appears to be in good health. He seems tired.
+You examine Merau. She appears to be in good health. She seems tired.
+You examine Beor. He looks weakened.
+He has the following wounds: a medium laceration on his right arm, a tiny laceration on his head, a tiny laceration on his right leg
+
+
+HP:  91/91  Ftg:  55/60  MP:  52/70
+
+
+
+HP:  91/91  Ftg:  55/60  MP:  52/70
+
+
+Beor calls out to Boerhund, but nothing seems to happen.
+
+invo 11
+You close your eyes in prayer as a warm, golden aura surrounds you.
+Invoking this spell cost you 10 mana and 1 faith.
+[8 sec. delay]
+
+Beor calls out to Boerhund, but nothing seems to happen.
+
+say heh
+You say, "heh"
+
+Beor retreats 5 units.
+
+diag all
+h
+h
+The golden aura surrounding you expands to envelop you and your group mates, sparkles for a few moments and disappears.
+
+You feel healthier!
+
+You examine all the people in the room...
+
+You examine Ad'in. He appears to be in good health.
+You examine Sammoth. He appears to be in good health. He seems tired.
+You examine Merau. She appears to be in good health.
+You examine Beor. He appears to be in good health.
+He has the following wounds: a medium laceration on his right arm
+
+
+HP:  91/91  Ftg:  57/60  MP:  46/70
+
+
+
+HP:  91/91  Ftg:  57/60  MP:  46/70
+
+
+Beor gestures rudely at Sammoth.
+
+disb
+You are no longer following Beor.
+
+Sammoth appears angered by Beor's goad.
+
+
+Sammoth exclaims to Beor, "HEy!"
+
+
+Sammoth exclaims, "That was uncalled for!"
+
+Sammoth scoffs.
+
+l
+
+[South Street]
+The road narrows slightly allowing room for a beautiful pond which sits on the eastern side of the road. Ducks paddle around leisurely and enjoy the tepid water. Brass lamp posts, with green glass lanterns, are situated around the pond keeping it lit even during the evening hours.
+
+The area is illuminated.
+
+In this room you see: Ad'in the Dragon,  Sammoth the Rock Troll,  Merau the Terrak,  Beor the Rock Troll
+In this room are: small polished metal sign
+Obvious exits are: north, south, wooden wagon door with steps
+
+Beor nods to Sammoth.
+
+Sammoth curses in Troll..
+
+
+Beor says to Sammoth, "I know, I am rude and uncouth"
+
+Beor belches.
+
+say hey..can i ask a adult question?
+You ask, "hey..can i ask a adult question?"
+
+Beor retreats 1 units.
+
+Merau returns to normal as the black lines fade away.
+
+
+Beor says, "sure"
+
+
+Ad'in says, "This cna't be good."
+
+alphasay hoe PG is the boards?
+
+Merau says, "lol"
+
+** ALPHA CHAT -- Kurapiira says, "hoe PG is the boards?"
+
+
+Sammoth asks, "An adult question?"
+
+** ALPHA CHAT -- Merau says, "hoes?"
+
+
+Beor says, "wait make sammoth leave the room first"
+
+
+Ad'in asks, "In what sense?"
+
+
+Sammoth says, "She's been drinkin'."
+
+You notice Sammoth attempting to hide in the shadows.
+
+Beor advances 1 units.
+
+Beor performs a uppercut with his sturdy shovel at Sammoth, but he evades the strike.
+
+say i got a new tattoo..but it is NOT pg
+Beor performs a downwards laceration with his bone-handled pluronium kukri at at Sammoth, but the blow is turned away by his etched steel bastard sword.
+
+You say, "i got a new tattoo..but it is NOT pg"
+
+
+Sammoth says, "Nice."
+
+say can i post a shot of it?
+You ask, "can i post a shot of it?"
+
+rai
+You raise an eyebrow.
+
+
+Sammoth says, "I miss getting tattoos."
+
+
+Beor says to Sammoth, "shovel powah"
+
+Beor performs a uppercut with his sturdy shovel at Sammoth, but he evades the strike.
+
+Merau lets out a fierce snarl as their eyes turn a brilliant orange, their skin growing thick as black lines begin to appear.
+
+
+Ad'in asks, "What sort of PG are we talking about? PG-13? R? NC-17? Banned in most countries?"
+
+cac
+You cackle.
+
+
+Sammoth says to Beor, "Yeah.. it's.. "powerful" alright."
+
+Beor bats his eyes at Merau.
+
+As the black lines appear, Merau's body mimics that of a tiger, quick and strong.
+
+say pg..xxx
+Merau bites at Beor, but he evades the strike.
+
+You say, "pg..xxx"
+
+Beor cackles.
+
+Beor performs a reverse swing with his sturdy shovel at at Merau, but the attack is blocked by her Fey skin covered bone shield.
+
+Beor performs a reverse slash with his bone-handled pluronium kukri at Merau, but she evades the strike.
+
+Merau bites at Beor!
+It is a well executed blow to his left arm!
+
+
+Beor howls.
+
+
+Ad'in asks, "What is it?"
+
+
+Sammoth asks, "Is it a naked girly? Or in a sexy place?"
+
+cac
+You cackle.
+
+Beor performs a resounding smash with his sturdy shovel at Merau!
+It is a solid blow to her torso!
+
+
+Beor performs a cross-body slash with his bone-handled pluronium kukri at at Merau, but the attack is blocked by her Fey skin covered bone shield.
+
+Merau bites at Beor!
+It is a flawless blow to his torso, sending him reeling!
+Beor is knocked back!
+Beor stumbles and falls down!
+
+
+say a... fish?
+You ask, "a... fish?"
+
+Beor mutters.
+
+Beor sits up.
+
+Sammoth howls at Merau.
+
+say it is Where it is
+Beor tends to his wounds.
+
+You say, "it is Where it is"
+
+Merau smiles.
+
+
+Beor exclaims, "I'm too young to die!"
+
+Beor tends to his wounds.
+
+cac to b
+You cackle to Beor.
+
+Merau's teeth morph back into their original state.
+
+diag all
+h
+You examine all the people in the room...
+
+You examine Ad'in. He appears to be in good health.
+You examine Sammoth. He appears to be in good health.
+You examine Merau. She appears to be in good health. She seems tired.
+You examine Beor. He looks injured.
+He has the following wounds: a tiny laceration on his right arm, a tiny puncture on his left arm, a tiny puncture on his torso
+
+
+HP:  91/91  Ftg:  59/60  MP:  70/70
+
+
+foll b
+You follow Beor.
+
+Beor glares at you.
+
+invo 11
+You close your eyes in prayer as a warm, golden aura surrounds you.
+Invoking this spell cost you 10 mana and 1 faith.
+[8 sec. delay]
+
+Beor tends to his wounds.
+
+diag all
+h
+h
+The golden aura surrounding you expands to envelop you and your group mates, sparkles for a few moments and disappears.
+
+You feel healthier!
+
+You examine all the people in the room...
+
+You examine Ad'in. He appears to be in good health.
+You examine Sammoth. He appears to be in good health.
+You examine Merau. She appears to be in good health. She seems tired.
+You examine Beor. He looks weakened.
+He has the following wounds: a tiny puncture on his left arm
+
+
+HP:  91/91  Ftg:  59/60  MP:  64/70
+
+
+
+HP:  91/91  Ftg:  59/60  MP:  64/70
+
+
+Merau bares her teeth, a deep gurgling growl emanating from deep in her throat.
+
+ ** Amras Alcarin just arrived in the world
+
+invo 11
+You close your eyes in prayer as a warm, golden aura surrounds you.
+Invoking this spell cost you 10 mana and 1 faith.
+[8 sec. delay]
+
+Merau returns to normal as the black lines fade away.
+
+Merau's teeth begin to shine as they slowly elongate into the long piercing fangs of a Wolf.
+
+A refreshing breeze begins to blow through the area as Merau glows with a faint blue light.
+
+diag all
+h
+h
+The golden aura surrounding you expands to envelop you and your group mates, sparkles for a few moments and disappears.
+
+You feel healthier!
+
+You examine all the people in the room...
+
+You examine Ad'in. He appears to be in good health.
+You examine Sammoth. He appears to be in good health.
+You examine Merau. She looks weakened. She seems winded.
+You examine Beor. He appears to be in good health.
+He has the following wounds: a tiny puncture on his left arm
+
+
+HP:  91/91  Ftg:  60/60  MP:  58/70
+
+
+
+HP:  91/91  Ftg:  60/60  MP:  58/70
+
+
+Beor stands up.
+
+As the light fades, Merau lets out a relieved breath, looking rejuvenated.
+
+A refreshing breeze begins to blow through the area as Merau glows with a faint blue light.
+
+disb
+You are no longer following Beor.
+
+As the light fades, Merau lets out a relieved breath, looking rejuvenated.
+
+foll mer
+You follow Merau.
+
+invo 11
+You close your eyes in prayer as a warm, golden aura surrounds you.
+Invoking this spell cost you 10 mana and 1 faith.
+[8 sec. delay]
+
+diag all
+h
+h
+The golden aura surrounding you expands to envelop you and your group mates, sparkles for a few moments and disappears.
+
+You feel healthier!
+
+You examine all the people in the room...
+
+You examine Ad'in. He appears to be in good health.
+You examine Sammoth. He appears to be in good health.
+You examine Merau. She appears to be in good health.
+You examine Beor. He appears to be in good health.
+He has the following wounds: a tiny puncture on his left arm
+
+
+HP:  91/91  Ftg:  59/60  MP:  56/70
+
+
+
+HP:  91/91  Ftg:  59/60  MP:  56/70
+
+
+Beor sheathes his sturdy shovel.
+
+disb
+You are no longer following Merau.
+
+Beor throws his sturdy shovel a short distance onto the ground.
+
+Sammoth picks up the sturdy shovel.
+
+Beor rolls his eyes.
+
+Sammoth sheathes his etched steel bastard sword.
+
+
+Beor exclaims to Sammoth, "thief!"
+
+Sammoth draws his sturdy shovel.
+
+Merau rubs her arms while muttering a soft chant.
+
+** ALPHA CHAT -- Amras says, "okay.. got tired of rolling heh"
+
+Sammoth ponders a moment.
+
+say ill jus keep it off the boards
+
+Beor exclaims to Sammoth, "that's my shovel!"
+
+You say, "ill jus keep it off the boards"
+
+
+Sammoth says, "Naaahhh"
+
+grin to ad
+You grin to Ad'in.
+
+Merau's skin begins to grow very taught on her body and grows as hard as steel.
+
+Merau gives a sigh as their skin returns to normal.
+
+Merau calls out to the spirits of the wood as her skin begins to take on a dark brown hue, hardening and cracking in various places.
+
+Beor pokes Sammoth .
+
+Sammoth performs a resounding smash with his sturdy shovel at at Beor, but the blow is turned away by his bone-handled pluronium kukri.
+
+Beor snickers.
+
+
+Sammoth exclaims, "powah!"
+
+As her skin finishes hardening, forming into a thick skin of bark which covers Merau's entire body.
+
+Sammoth performs a reverse swing with his sturdy shovel at at Beor, but the blow is turned away by his bone-handled pluronium kukri.
+
+Beor draws his short venom-dipped bone ritual spear.
+
+Merau lets out a fierce snarl as their eyes turn a brilliant orange, their skin growing thick as black lines begin to appear.
+
+Sammoth performs a resounding smash with his sturdy shovel at at Beor, but the blow is turned away by his bone-handled pluronium kukri.
+
+As the black lines appear, Merau's body mimics that of a tiger, quick and strong.
+
+shri
+Merau bites at Sammoth!
+It is a solid blow to his torso!
+
+
+You shriek.
+
+Sammoth performs a powerful blow with his sturdy shovel at Merau!
+It is a solid blow to her left arm!
+A film of energy surrounds her left arm!
+Merau is surrounded by a dull golden glow.
+
+say sleep!
+You exclaim, "sleep!"
+
+Merau bites at at Sammoth, but the blow is turned away by his sturdy shovel.
+
+** ALPHA CHAT -- Amras says, "can Garudin's see in the dark?"
+
+Sammoth snickers.
+
+say yes
+Sammoth sheathes his sturdy shovel.
+
+You say, "yes"
+
+alphasay no
+** ALPHA CHAT -- Kurapiira says, "no"
+
+Sammoth offers something to Beor.
+
+Beor snickers.
+
+cac
+You cackle.
+
+l
+
+[South Street]
+The road narrows slightly allowing room for a beautiful pond which sits on the eastern side of the road. Ducks paddle around leisurely and enjoy the tepid water. Brass lamp posts, with green glass lanterns, are situated around the pond keeping it lit even during the evening hours.
+
+The area is illuminated.
+
+In this room you see: Ad'in the Dragon,  Sammoth the Rock Troll,  Merau the Terrak,  Beor the Rock Troll
+In this room are: small polished metal sign
+Obvious exits are: north, south, wooden wagon door with steps
+
+** ALPHA CHAT -- Amras says, "An elf... can not see in the dark? :O"
+
+
+Beor exclaims to Sammoth, "it's yours now!"
+
+
+Sammoth says, "I don't want it."
+
+alphasay a dark elf can
+** ALPHA CHAT -- Kurapiira says, "a dark elf can"
+
+** ALPHA CHAT -- Amras says, "What am I, a Usil elf?"
+
+
+Beor says to Sammoth, "give it to the terrak they collect everything"
+
+Beor winks at Merau.
+
+Sammoth withdraws his offer.
+
+chu
+You chuckle.
+
+Sammoth drops a sturdy shovel on the ground.
+
+Sammoth draws his etched steel bastard sword.
+
+l
+
+[South Street]
+The road narrows slightly allowing room for a beautiful pond which sits on the eastern side of the road. Ducks paddle around leisurely and enjoy the tepid water. Brass lamp posts, with green glass lanterns, are situated around the pond keeping it lit even during the evening hours.
+
+The area is illuminated.
+
+In this room you see: Ad'in the Dragon,  Sammoth the Rock Troll,  Merau the Terrak,  Beor the Rock Troll
+In this room are: small polished metal sign, sturdy shovel
+Obvious exits are: north, south, wooden wagon door with steps
+
+Merau returns to normal as the black lines fade away.
+
+
+Merau exclaims, "I can't use it!"
+
+Sammoth leans on the etched steel bastard sword.
+
+Merau mutters.
+
+Beor chuckles.
+
+alphasay a light elf
+** ALPHA CHAT -- Kurapiira says, "a light elf"
+
+** ALPHA CHAT -- Jonathan says, "Zhengi are Dark elves."
+
+A refreshing breeze begins to blow through the area as Merau glows with a faint blue light.
+
+As the light fades, Merau lets out a relieved breath, looking rejuvenated.
+
+A refreshing breeze begins to blow through the area as Merau glows with a faint blue light.
+
+As the light fades, Merau lets out a relieved breath, looking rejuvenated.
+
+** ALPHA CHAT -- Amras says, "Should make dark elves need to carry something to see in the light heh"
+
+alphasay eeep...got to sleep....Night all
+** ALPHA CHAT -- Kurapiira says, "eeep...got to sleep....Night all"
+
+quit
+
+ =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+  Welcome to Epoch: Age of Ascendence!
+        Version - ALPHA
+ =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+  
+  Please select your choice: 
+         1. ) Enter World
+         2. ) Create Character
+         3. ) Change Active Character
+         4. ) Delete Character
+         0. ) Exit
+                
+  Current Character -  Kurapiira 
+Kurapiira
+  
+0
