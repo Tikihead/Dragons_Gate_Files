@@ -1,0 +1,3676 @@
+l
+
+
+
+[Pearlean Pavilion.]
+
+A spacious pavilion lined with interlocking red and black stones surrounded by walls of white lattice and creeping vines.  Smells of lavender mixed with fragrant rose blooms and creeping jasmine permeate the area.  Separate patios extend to both the east and west, each one distinguished by the type of vine and shrubs woven between cross-patterned lattice walls.  Flat marble slabs cut into benches surround a small fountain with a statue of a female figure cloaked in robe at its center.  You notice an arrow-shaped wooden sign, a rose trellis, and a small marble fountain.
+
+Also here: Kreve the Argali, Geel the Gavial (seated) on a marble slab bench, Mavin the Sylph, Ciciliah the Sylph (flying), Trystan the Human, Requiem the Vukasin, Kais the Human, Eabo the Goblin, Ra'daji Garaven the Verdani (seated) on a marble slab bench, Kaiah the Human, Merchant Elmere the Human, Spits the Goblin (seated), and Emissary Rochiriel the Verdani (seated) on a marble slab bench 
+
+Obvious Exits: west, and south. 
+
+
+Elmere says, "Fine fine, we'll hold the peddle in this awful place."
+
+Rochiriel takes a drink from a cup of hot Tetherian-bean coffee.
+
+Elmere says, "I have here with me a crate that once stored pumpkins."
+
+Elmere says, "In this crate are many items for which you will bid upon, however, you will only see the apparel at face value. What is contained within will not be revealed until the end of the peddle."
+
+Eabo asks, "Allz du stuff smellz likez pumpkinz?"
+
+Ciciliah grins.
+
+Kaiah ponders.
+
+Elmere says, "While I won't require anyone to provide details of what they have procured, I do encourage you to share the excitement with everyone."
+
+Requiem asks Elmere, "You mean like bones and stuff, you get these cloaks and things from dead things?"
+
+Elmere sniffs a pumpkin crate.
+
+Elmere says to Eabo, "I don't smell anything but wood."
+
+Rochiriel says, "Perhaps he is refering to the stains or smells."
+
+Elmere says to Requiem, "Not quite, this isn't trash."
+
+Eabo sighs with a smile.
+
+Elmere says, "You take a risk with not knowing what is inside."
+
+Garaven ponders.
+say elm each piece of apparel has something inside?
+
+You ask Elmere, "Each piece of apparel has something inside?"
+
+Elmere says, "Because of this, monetary exchanges will conclude at the end the peddle."
+
+who
+[ARRIVALS] 'Argethor has logged on.'
+
+   Players Currently Online: 
+ =============================
+
+   Duron the Bolinau                                           
+   Eabo the Goblin                                             
+   Kreve the Argali                                            
+   Cascius the Human                                           
+   Spits the Goblin                                            
+   Kais the Human                                              
+   Skedge the Goblin                                           
+   Ciciliah the Sylph                                          
+   Requiem the Vukasin                                         
+   Mavin the Sylph                                             
+   Kaiah the Human                                             
+   Geel the Gavial                                             
+   Trystan the Human                                           
+   Elmere the Human                                            
+   Garaven the Verdani                                         
+   Rochiriel the Verdani                                       
+   Chihinn the Human                                           
+   Argethor the Nydine                                         
+
+
+Kaiah nods.
+sk
+   Skill Name                Uses Remaining   Level
+
+   Disguise                           496     7
+   Sneaking                           470     5
+   Unarmed Combat                     694     7
+   Climbing                           182     2
+   Close Combat                       1119    12
+   Dodge                              496     7
+   Hiding                             700     10
+   Wound Mending                      48      6
+   Ranged Combat                      497     5
+   Swimming                           0       100
+   Pilfering                          956     10
+
+
+ For more information, see PRAYERS, SPELLS, and TRADES.
+
+
+
+Elmere says to you, "Some do not, however, everything is special in one regard or another."
+nod
+
+You nod.
+
+Elmere says, "Customers will not go home unhappy."
+
+A town crier can be heard shouting in the distance, "Merchant Manske has just arrived for his peddle. It's not too late to make your way to the Pearlean Pavilion!"
+
+Elmere says, "Bidding increments will be a minimum of at one hundred until two thousand doubloons has been reached."
+
+Elmere says, "At that time, bidding will increase to five hundred until five thousand, where it goes up to a thousand."
+
+Elmere says, "Increments are subject to change at any time."
+
+Elmere asks, "Is Blink here?"
+
+Elmere peers around.
+
+Eabo glances around.
+
+Trystan shakes his head from side to side to Elmere.
+
+Elmere frowns.
+
+Rochiriel looks around for a sleeping bag.
+
+Elmere says, "I don't know that I have stated all the legal stuff required with this sort of peddle."
+
+Elmere grumbles.
+
+Elmere says, "All rules subject to change."
+
+Elmere nods firmly.
+
+Elmere says, "Okay! Let's begin."
+
+Mavin beams.
+
+Elmere peers at a pumpkin crate and reaches within.
+
+Mavin smiles at Ciciliah.
+
+Garaven takes a drink from a cup of hot Tetherian-bean coffee.
+
+Mavin takes a drink from a cup of hot Tetherian-bean coffee.
+
+Ciciliah rubs her hands together.
+
+Elmere gets a gold-buckled alligator skin scabbard from a pumpkin crate.
+
+Geel flicks his tongue.
+
+Elmere beams at a gold-buckled alligator skin scabbard.
+
+who
+[ARRIVALS] 'Duron has logged out.'
+   Players Currently Online: 
+ =============================
+
+   Eabo the Goblin                                             
+   Kreve the Argali                                            
+   Cascius the Human                                           
+   Spits the Goblin                                            
+   Kais the Human                                              
+   Skedge the Goblin                                           
+   Ciciliah the Sylph                                          
+   Requiem the Vukasin                                         
+   Mavin the Sylph                                             
+   Kaiah the Human                                             
+   Geel the Gavial                                             
+   Trystan the Human                                           
+   Elmere the Human                                            
+   Garaven the Verdani                                         
+   Rochiriel the Verdani                                       
+   Chihinn the Human                                           
+   Argethor the Nydine                                         
+
+
+Elmere peeks inside.
+
+Elmere smiles widely.
+
+Requiem asks Elmere, "Cake inside?"
+
+Elmere exclaims, "The bidding may commence!"
+
+Kreve says, "500."
+
+Elmere says to Requiem, "Maybe."
+l
+
+
+
+[Pearlean Pavilion.]
+
+A spacious pavilion lined with interlocking red and black stones surrounded by walls of white lattice and creeping vines.  Smells of lavender mixed with fragrant rose blooms and creeping jasmine permeate the area.  Separate patios extend to both the east and west, each one distinguished by the type of vine and shrubs woven between cross-patterned lattice walls.  Flat marble slabs cut into benches surround a small fountain with a statue of a female figure cloaked in robe at its center.  You notice an arrow-shaped wooden sign, a rose trellis, and a small marble fountain.
+
+Also here: Kreve the Argali, Geel the Gavial (seated) on a marble slab bench, Mavin the Sylph, Ciciliah the Sylph (flying), Trystan the Human, Requiem the Vukasin, Kais the Human, Eabo the Goblin, Ra'daji Garaven the Verdani (seated) on a marble slab bench, Kaiah the Human, Spits the Goblin (seated), Emissary Rochiriel the Verdani (seated) on a marble slab bench, and Merchant Elmere the Human 
+
+Obvious Exits: west, and south. 
+
+
+who
+[ARRIVALS] 'Ernest has logged on.'
+   Players Currently Online: 
+ =============================
+
+   Eabo the Goblin                                             
+   Kreve the Argali                                            
+   Cascius the Human                                           
+   Spits the Goblin                                            
+   Kais the Human                                              
+   Skedge the Goblin                                           
+   Ciciliah the Sylph                                          
+   Requiem the Vukasin                                         
+   Mavin the Sylph                                             
+   Kaiah the Human                                             
+   Geel the Gavial                                             
+   Trystan the Human                                           
+   Elmere the Human                                            
+   Ernest the Human                                            
+   Garaven the Verdani                                         
+   Rochiriel the Verdani                                       
+   Chihinn the Human                                           
+   Argethor the Nydine                                         
+
+
+Kaiah grins at Requiem.
+
+Mavin asks, "1000 Maybe?"
+
+Requiem says, "2000."
+
+Mavin gasps.
+
+Elmere says, "Bids at least five hundred doubloons now."
+
+Ciciliah grins at Mavin.
+
+Kreve says, "2500."
+
+Mavin smiles at Ciciliah.
+
+Requiem says, "3000."
+l kre
+
+Kreve looks like a stout 25 year old male Argali.
+He has amber eyes and uneven, shaggy, golden blonde fur.
+He is 8 foot tall and weighs 361 pounds.
+He has an aura of Pyrous.
+Kreve is in perfect health.
+
+
+
+He is wearing:
+
+Eyes            : a silver-trimmed black leather eyepatch
+Neck            : a ruby studded steel neck guard
+Neck            : a chain-bound rugged leather pyresian prayer book
+Body            : a silver-buckled leather satchel
+Body            : a silver-lined black velvet cape
+Torso           : an anvil-etched steel breastplate
+Torso           : a pitch black cotton doublet
+Hands           : some ruby encrusted steel gauntlets
+Waist           : a finely crafted silver and cobalt scale scabbard
+Legs            : some phoenix-etched steel ankle guards
+Legs            : some dark grey wool trousers
+
+
+Kreve says, "3500."
+
+Elmere listens.
+
+Elmere asks, "Do I have anymore bidders for this one of a kind scabbard?"
+
+Requiem says, "4000."
+
+Elmere nods to Requiem.
+
+who
+[ARRIVALS] 'Argethor has logged out.'
+   Players Currently Online: 
+ =============================
+
+   Eabo the Goblin                                             
+   Kreve the Argali                                            
+   Cascius the Human                                           
+   Spits the Goblin                                            
+   Kais the Human                                              
+   Skedge the Goblin                                           
+   Ciciliah the Sylph                                          
+   Requiem the Vukasin                                         
+   Mavin the Sylph                                             
+   Kaiah the Human                                             
+   Geel the Gavial                                             
+   Trystan the Human                                           
+   Elmere the Human                                            
+   Ernest the Human                                            
+   Garaven the Verdani                                         
+   Rochiriel the Verdani                                       
+   Chihinn the Human                                           
+
+
+Kreve ponders.
+
+Mavin says to Ciciliah, "I think I need to hunt more."
+
+Mavin nods.
+
+Elmere says, "Going once."
+
+Ciciliah nods to Mavin.
+
+Kreve says, "4500."
+
+Requiem says to Elmere, "Thats it for me, Mr short horns over there can have it."
+
+Elmere says, "Going once."
+
+Kreve chuckles.
+
+who
+[ARRIVALS] 'Wren has logged on.'
+   Players Currently Online: 
+ =============================
+
+   Eabo the Goblin                                             
+   Kreve the Argali                                            
+   Cascius the Human                                           
+   Spits the Goblin                                            
+   Kais the Human                                              
+   Skedge the Goblin                                           
+   Ciciliah the Sylph                                          
+   Requiem the Vukasin                                         
+   Mavin the Sylph                                             
+   Kaiah the Human                                             
+   Geel the Gavial                                             
+   Trystan the Human                                           
+   Elmere the Human                                            
+   Ernest the Human                                            
+   Garaven the Verdani                                         
+   Rochiriel the Verdani                                       
+   Chihinn the Human                                           
+   Wren the Human                                              
+
+
+Elmere says, "Going twice for a mere four and a half thousand."
+
+Elmere exclaims, "And sold!"
+
+Mavin smiles.
+
+Mavin leaves south.
+
+Elmere gets a crimson ribbon-tied black silk hooded cloak from a pumpkin crate.
+
+who
+[ARRIVALS] 'Mavin has logged out.'
+   Players Currently Online: 
+ =============================
+
+   Eabo the Goblin                                             
+   Kreve the Argali                                            
+   Cascius the Human                                           
+   Spits the Goblin                                            
+   Kais the Human                                              
+   Skedge the Goblin                                           
+   Ciciliah the Sylph                                          
+   Requiem the Vukasin                                         
+   Kaiah the Human                                             
+   Geel the Gavial                                             
+   Trystan the Human                                           
+   Elmere the Human                                            
+   Ernest the Human                                            
+   Garaven the Verdani                                         
+   Rochiriel the Verdani                                       
+   Chihinn the Human                                           
+   Wren the Human                                              
+
+
+Elmere peeks inside.
+
+Elmere beams.
+
+Elmere says, "I didn't pack these."
+
+Elmere says, "Bidding shall begin."
+
+Trystan says, "200."
+
+Rochiriel says, "300."
+
+Elmere says, "I provided some of my associates with materials, they produced the goods for me. I then hired others to fill each piece from my list."
+
+Trystan says, "500."
+
+Rochiriel says, "Six hundred."
+
+Requiem asks Elmere, "Care to share what that list was?"
+
+Elmere says, "Truly a conglomerate effort."
+
+Spits says to Elmere, "Eight hunnerts."
+
+Elmere says to Requiem, "You'll have to pay to play or hope the owner shares it with you."
+
+Kreve cheers Spits on.
+
+Rochiriel says, "Nine hundred."
+
+Requiem says, "I've heard that before."
+
+Elmere says to Spits, "No concerns, I do understand you."
+
+Spits says to Elmere, "Wun Tousands."
+
+Rochiriel says, "Fifteen hundred."
+
+Elmere nods.
+
+Wren leans on Kaiah.
+
+Spits says to Elmere, "Two Tousands."
+
+Elmere says to Wren, "Ahh, pleasure to see you both here."
+
+Elmere smiles at Kaiah.
+
+Kaiah nods to Elmere.
+
+Garaven takes a drink from a cup of hot Tetherian-bean coffee.
+
+Elmere says, "Bidding has increased."
+
+Rochiriel says, "Two thousand five hundred."
+
+Kaiah leans on Wren.
+
+Wren grins at Elmere wryly, lifting a hand to salute the man.
+
+Spits says to Elmere, "Tree Tousands."
+
+Kreve beams.
+
+who
+[ARRIVALS] 'Menfanous has logged on.'
+   Players Currently Online: 
+ =============================
+
+   Eabo the Goblin                                             
+   Kreve the Argali                                            
+   Cascius the Human                                           
+   Spits the Goblin                                            
+   Kais the Human                                              
+   Skedge the Goblin                                           
+   Ciciliah the Sylph                                          
+   Requiem the Vukasin                                         
+   Kaiah the Human                                             
+   Geel the Gavial                                             
+   Trystan the Human                                           
+   Elmere the Human                                            
+   Ernest the Human                                            
+   Garaven the Verdani                                         
+   Rochiriel the Verdani                                       
+   Chihinn the Human                                           
+   Wren the Human                                              
+   Menfanous the Dwarf                                         
+
+
+The jarring clang from a bell tower marks the top of the hour.
+
+The bell tower clangs for a second time.
+
+The bell tower clangs for a third time.
+
+Elmere says, "Hold please."
+
+The bell tower clangs for a fourth time.
+
+Elmere smiles.
+
+The bell tower clangs for a fifth time.
+
+The bell tower clangs for a sixth time.
+
+The bell tower clangs for a seventh time.
+
+Wren rolls her eyes.
+
+The bell tower clangs for an eighth time.
+
+Eabo grumbles.
+
+The bell tower clangs for a ninth time.
+
+Rochiriel says, "Three thousand five hundred."
+
+Elmere nods.
+
+Menfanous arrives from the south.
+
+Wren peers at Requiem through the corner of her eye.
+
+Spits says to Elmere, "Four Tousands."
+
+Menfanous sits quietly at the back of the room.
+
+Menfanous sits down.
+
+Kaiah waves to Menfanous.
+
+Rochiriel says, "Five thousand."
+
+Wren beams at Menfanous and waves to him.
+
+Menfanous beams.
+
+Menfanous waves.
+l men
+
+Menfanous looks like an able-bodied 35 year old male Dwarf.
+He has emerald green eyes, collar length, neatly kept, sandy blonde hair, and a triple tied, sandy blonde beard.
+He is 4 feet 1 inch tall and weighs 152 pounds.
+He has an aura of Astraeva.
+Menfanous is in perfect health.
+
+this dwarf is very tall for his race. He has hypnotic green eyes that appear to be kind and welcoming. He appears to be self confident but not arrogant. He has a small scar above his right eye.
+
+He is wearing:
+
+Neck            : a dangling gold-chained orange coral sun pendant
+Neck            : a two-crossed hammers-charmed gold herringbone chain
+Body            : a brass-buckled leather emissary satchel
+Torso           : some dwarven crafted blacksteel battle plate
+Torso           : a heavy black leather blacksmith's apron
+Torso           : a pitch black cotton doublet
+Hands           : some black heavy leather gloves
+Legs            : a brown leather-waisted green wool kilt
+Feet            : some ridged alligator skin boots
+Wield           : a bronze-hilted Pearl crest-engraved steel sword
+Held            : a cylindrical umbo-centered blacksteel knight's scutum
+
+
+Garaven nods to Menfanous.
+
+Menfanous smiles at Garaven.
+
+Spits says to Elmere, "I'z dun."
+
+Elmere nods.
+
+Menfanous stands up.
+
+Elmere says, "Going once at five thousand."
+
+Elmere says, "Going twice."
+
+Menfanous quetly makes his way around the pavillion stopping next to Kaiah.
+
+Elmere says, "And sold."
+
+Kaiah tilts her head to Menfanous.
+
+Elmere smiles.
+
+Wren applauds Rochiriel.
+
+Garaven says to Rochiriel, "Congratulations, verensa."
+
+Rochiriel says to Menfanous, "I have more bronze for you."
+
+Menfanous beams.
+
+Menfanous says to Rochiriel, "Thats great."
+
+Elmere gets a gray-banded black brushed sheepskin fedora from a pumpkin crate.
+
+Wren asks Menfanous, "Still on the hunt for bronze, ey?"
+
+Menfanous nods to Wren.
+
+Elmere asks, "Who here likes hats?"
+
+Wren asks Kais, "Perhaps we ought to go mine some for him, ey?"
+
+Elmere raises an eyebrow.
+
+Wren coughs.
+
+Kaiah stares at Wren.
+
+Elmere exclaims, "Great, everyone!"
+
+Spits chuckles.
+Wren says to Kaiah, "I told you I'd get you two mixed up."
+
+Kais chuckles.
+
+Kaiah scowls at Wren.
+
+Wren exclaims to Elmere, "Oh, ah, I like hats!"
+
+Elmere says, "This stylish fedora is a must have."
+
+Wren smiles broadly and seems to purposely avoid looking at Kaiah's scowling face.
+
+Kaiah nods to Menfanous.
+
+Elmere says, "Biddingmay begin."
+
+Wren asks, "Mm, two hundred?"
+
+Geel flicks his tongue.
+
+Wren says to Kaiah, "I don't think I even own any hats yet."
+
+Trystan says, "Five."
+
+Wren snaps her fingers.
+
+Kaiah smiles at Menfanous.
+
+Kaiah smirks at Wren.
+
+Elmere says to Wren, "You're a shoe in then."
+
+Wren exclaims to Elmere, "I hope you have plenty!"
+
+Elmere exclaims, "I may!"
+
+Wren gasps.
+
+Trystan says to Elmere, "You might want to explain things for those that came late."
+
+who
+[ARRIVALS] 'Cascius has logged out.'
+   Players Currently Online: 
+ =============================
+
+   Eabo the Goblin                                             
+   Kreve the Argali                                            
+   Spits the Goblin                                            
+   Kais the Human                                              
+   Skedge the Goblin                                           
+   Ciciliah the Sylph                                          
+   Requiem the Vukasin                                         
+   Kaiah the Human                                             
+   Geel the Gavial                                             
+   Trystan the Human                                           
+   Elmere the Human                                            
+   Ernest the Human                                            
+   Garaven the Verdani                                         
+   Rochiriel the Verdani                                       
+   Chihinn the Human                                           
+   Wren the Human                                              
+   Menfanous the Dwarf                                         
+
+
+Wren tilts her head to the side.
+
+Elmere says, "Bidding is at five hundred doubloons."
+
+Elmere asks, "Oh, whom has come late?"
+
+Wren stares at Elmere.
+
+Elmere says, "I'm looking down within this crate and sorting things."
+
+Wren exclaims to Elmere, "I did!"
+
+Menfanous says, "Ele I am ok I be gettin my instrutions already."
+
+Menfanous says, "El I am ok I be gettin my instrutions already."
+
+Elmere says, "I saw the merchant enter, but he's in the know."
+
+Elmere winks.
+
+Wren blinks at Menfanous.
+
+Menfanous says, "Too much ale."
+
+Menfanous nods.
+
+Kaiah grins.
+
+Wren chortles at Menfanous.
+
+Menfanous grins.
+
+Wren says to Menfanous, "You started without us, how rude."
+op bac
+
+You open an academy-issue canvas backpack.
+
+Elmere says, "We're a tight-knit company the ATC."
+l bac
+
+It looks like an academy-issue canvas backpack.  The letters NAA have been elaborately stitched into the flap.
+Inside you see:
+
+a yellowed linen chemise
+ a patched leather pelt sack
+ a multicolored-hem white cotton dress
+ a hardened leather earcuff
+ some grimy leather shoes
+ an ornate tin hairpin
+ some tattered grey cotton robes
+ a frayed hemp belt
+ some tattered grey cotton robes
+ a frayed blue silk scarf
+ a woven cotton cap
+ a woven cotton cap
+ a yellowed linen chemise
+ some raven black wool trousers
+ a raven black wool tunic
+ some muddy leather boots
+ a small adventurer's sack
+ a bundle of snapper
+ 
+
+Wren asks, "So what exactly needs explaining?"
+
+Menfanous says to Wren, "Me apologies...well not really."
+
+Menfanous grins.
+
+Wren smirks at Menfanous.
+
+Trystan glances at Wren and says, "There may or may not be something inside of all of these items."
+
+Wren asks, "Ohhh, a secret?"
+
+Menfanous beams.
+
+Trystan nods to Wren and grins.
+
+Elmere says, "The things for sale have some other benefit given to them."
+
+Wren says, "How exciting."
+
+Elmere says to Trystan, "Have little worry, each is special in some way."
+
+Elmere asks, "Now where were we?"
+
+Elmere points at a gray-banded black brushed sheepskin fedora.
+
+Wren says, "Hmm, six hundred then."
+
+Trystan says to Elmere, "Sold to me for five hundred."
+
+Elmere asks, "I recall five hundred?"
+
+Trystan says, "1000."
+
+Elmere listens.
+
+Rochiriel takes a drink from a cup of hot Tetherian-bean coffee.
+
+Wren says to Trystan, "It's yours. Probably looks better on me though."
+
+Trystan grins at Wren.
+
+Trystan says to Wren, "You're prolly right."
+
+Elmere says, "Going once."
+
+Wren winks at Trystan.
+
+Elmere says, "Going twice."
+
+Elmere says, "And sold for one thousand."
+
+Trystan says to Wren, "I'll let you borrow it for special occasions."
+<HP: 175/175 ST: 98/98>
+Elmere gets some long black silk lace gloves from a pumpkin crate.
+
+Wren says to Trystan, "Deal."
+
+Wren gasps at Elmere.
+
+Elmere says to Wren, "You may begin the bidding."
+
+Wren exclaims to Elmere, "Three hundred!"
+
+Kaiah chuckles.
+
+Wren grins at Kaiah sheepishly.
+
+Menfanous grins at Wren.
+
+Wren stares at Elmere intently.
+
+Menfanous says to Wren, "I think they would be lukin very gud on me, though I am afraid the heat of da forge may burn them to ash."
+
+Wren snorts at Menfanous and laughs.
+
+Trystan says, "And they would go with the hat."
+
+Elmere asks, "No other bids?"
+
+Wren says to Menfanous, "Tell you what, I'll buy you a sturdier pair for your birthday."
+
+Rochiriel says, "Five hundred."
+
+Menfanous beams.
+
+Wren exclaims, "Seven hundred!"
+
+Rochiriel says, "One thousand."
+
+Wren says, "Eleven hundred."
+
+Elmere points at some long black silk lace gloves.
+
+Rochiriel says, "One thousand five hundred."
+
+Wren says, "One thousand seven hundred."
+
+Rochiriel says, "Two thousand."
+
+Wren exclaims, "Twenty two hundred!"
+
+Rochiriel says, "Two thousand five hundred."
+
+Kaiah raises an eyebrow.
+
+Wren says, "Twenty seven hundred."
+
+Geel asks, "Are we not defying the rules?"
+
+Geel furrows his brow.
+
+Wren tilts her head to the side.
+
+Rochiriel says to Wren, "Increments of five hundred."
+
+Requiem exclaims to Wren, "You broke rule number 1, off with your head!"
+
+Wren says to Rochiriel, "Ah, no one mentioned."
+
+Wren grins at Requiem toothily.
+
+Requiem smirks.
+
+Elmere squints.
+
+Wren says, "Three thousand then."
+
+Kaiah says, "Would have had to be explained, first."
+
+Wren shrugs.
+
+Elmere says to Geel, "Thank you."
+Kaiah chuckles.
+
+Wren points at Kaiah.
+Geel says, "Ele apprently the Prelate was correct."
+
+Rochiriel says to Wren, "Had you arrived on time you would have heard the rules."
+
+Rochiriel chuckles.
+
+Trystan chuckles.
+
+Wren exclaims to Rochiriel, "Aye, but some delays can't be avoided. I never want to miss the start of these!"
+
+Kaiah snorts.
+
+Rochiriel says, "Three thousand five hundred."
+
+Wren says, "Four thousand."
+
+If you don't do something, you will be logged out in 10 minutes!
+
+You are now listed as AFK.
+
+Rochiriel asks Garaven, "I will get a different pair to match my cloak yes?"
+
+Wren chuckles at Rochiriel.
+Garaven says, "My word those are some expensive gloves."
+
+Menfanous laughs.
+
+Wren asks Rochiriel, "Silk, with red ribbons tied into bows at the ends?"
+
+Garaven says to Rochiriel, "Seems she may be more determined."
+
+Rochiriel raises an eyebrow.
+
+If you don't do something, you will be logged out in 9 minutes!
+l
+
+You are no longer AFK.
+
+
+
+[Pearlean Pavilion.]
+
+A spacious pavilion lined with interlocking red and black stones surrounded by walls of white lattice and creeping vines.  Smells of lavender mixed with fragrant rose blooms and creeping jasmine permeate the area.  Separate patios extend to both the east and west, each one distinguished by the type of vine and shrubs woven between cross-patterned lattice walls.  Flat marble slabs cut into benches surround a small fountain with a statue of a female figure cloaked in robe at its center.  You notice an arrow-shaped wooden sign, a rose trellis, and a small marble fountain.
+
+Also here: Kreve the Argali, Ciciliah the Sylph (flying), Trystan the Human, Requiem the Vukasin, Kais the Human, Eabo the Goblin, Ra'daji Garaven the Verdani (seated) on a marble slab bench, Kaiah the Human, Spits the Goblin (seated), Emissary Rochiriel the Verdani (seated) on a marble slab bench, Wren the Human, Geel the Gavial (seated), Emissary Menfanous the Dwarf, and Merchant Elmere the Human 
+
+Obvious Exits: west, and south. 
+
+
+Garaven takes a drink from a cup of hot Tetherian-bean coffee.
+
+Wren peers at Elmere.
+
+Geel flicks his tongue.
+
+Elmere asks, "Going once?"
+
+Rochiriel says, "Five thousand."
+
+Garaven smirks.
+
+Rochiriel smiles at Garaven.
+
+Wren says, "Six thousand."
+
+Rochiriel says, "Seven."
+
+Wren says, "Eight."
+
+Menfanous says, "Wow."
+
+Rochiriel says, "Nine."
+
+Wren says, "Ten."
+
+Eabo gulps.
+
+Menfanous glances at Kaiah.
+
+Elmere says to Wren, "I didn't want to stifle the numbers..."
+
+Rochiriel says to Elmere, "They are all hers."
+
+Trystan asks, "That's per glove, right?"
+
+Wren laughs at Trystan.
+
+Menfanous asks, "Maybe I need ta bemakin a silk dagger?"
+
+Elmere says, "Someone tell Merchant Zykiel there is a market for lace gloves."
+
+Menfanous ponders.
+
+Wren says to Trystan, "Try not to give the man ideas."
+
+Trystan says to Wren, "It was in the rules you missed."
+
+Elmere says, "Going once."
+
+Trystan gestures.
+
+Rochiriel asks Elmere, "Perhaps he may make some to match my cloak?"
+
+Wren says, "Where IS mister Blythe? I do miss him terribly."
+
+Elmere says to Wren, "Maybe dead."
+
+Rochiriel chuckles.
+
+Menfanous gasps.
+
+Menfanous flails his arms.
+
+Elmere says, "Going twice."
+
+Wren says to Elmere, "That would be a tragedy beyond all others."
+
+Elmere says, "And sold."
+
+Wren beams.
+
+Elmere gets a black leather-fringed steel scabbard from a pumpkin crate.
+
+Elmere says, "This is next."
+
+Menfanous exclaims, "Ahh metal!"
+
+Wren leans on Kaiah and slips an arm around the other woman's, grasping it lightly.
+
+Wren says to Menfanous, "It calls your name."
+
+Menfanous nods.
+
+Kaiah tilts her head to Wren.
+
+Wren smiles at Kaiah and winks.
+
+Kaiah smirks.
+
+Menfanous asks Elmere, "Whats in it?"
+
+Elmere ponders.
+
+Rochiriel says to Menfanous, "Air."
+
+Elmere exclaims to Menfanous, "Wouldn't you like to know!"
+
+Menfanous exclaims, "Thats why I asked!"
+
+Menfanous flails his arms.
+
+Wren chuckles.
+
+Elmere says, "This is why a different group of my associates packed them."
+
+Elmere winks.
+
+Menfanous mumbles.
+
+Trystan says, "Five hundred."
+
+Skedge exclaims to Elmere, "Five hundred!"
+
+Trystan gestures at Skedge.
+
+Menfanous exclaims, "1500!"
+
+Kreve says, "5000."
+
+Skedge says, "Twenty five hundred."
+
+Skedge grits his teeth.
+
+Menfanous says, "7500."
+
+Skedge grumbles.
+
+Wren whistles.
+
+Kreve says, "10000."
+
+Kaiah blinks.
+
+Eabo does a double take.
+
+Trystan says, "You'd think it was a pair of silk gloves."
+
+Eabo snickers.
+
+Menfanous laughs at Trystan.
+Garaven chuckles.
+
+Wren chortles at Trystan and covers her mouth with a hand.
+
+Rochiriel says to Trystan, "Not as nice."
+
+Menfanous asks, "What be the incrimentsnow?"
+
+Menfanous listens.
+
+Elmere says to Menfanous, "Large."
+
+Elmere gestures.
+
+Spits says to Menfanous, "Ten Tousand."
+
+Spits chuckles.
+
+Elmere says, "One thousand."
+
+Requiem says to Menfanous, "You need to offer food at this point."
+
+Menfanous nods.
+
+Menfanous says, "11000."
+
+Elmere blinks at Requiem.
+
+Requiem says to Elmere, "You are a skinny chap."
+
+Requiem shrugs.
+
+Elmere says to Requiem, "Don't you be thinking ol Ernest is getting in on this action."
+
+Menfanous asks Elmere, "Haggis?"
+
+Kreve says, "12000."
+
+Menfanous glances at Kreve.
+
+Elmere shakes his head from side to side to Menfanous and blanches.
+
+Requiem says to Elmere, "He has all the food he needs."
+
+Menfanous says, "13000."
+
+Elmere says to Requiem, "You'd think..."
+
+Kreve says, "13000."
+
+Kreve coughs.
+
+Kreve says, "15000."
+
+Skedge fidgets.
+
+Menfanous furrows his brow.
+
+Menfanous shakes his head from side to side.
+
+Elmere asks, "Anymore bids?"
+
+Elmere says, "Going once."
+
+Wren furrows her brow at Menfanous.
+
+who
+[ARRIVALS] 'Requiem has logged out.'
+   Players Currently Online: 
+ =============================
+
+   Eabo the Goblin                                             
+   Kreve the Argali                                            
+   Spits the Goblin                                            
+   Kais the Human                                              
+   Skedge the Goblin                                           
+   Ciciliah the Sylph                                          
+   Kaiah the Human                                             
+   Geel the Gavial                                             
+   Trystan the Human                                           
+   Elmere the Human                                            
+   Ernest the Human                                            
+   Garaven the Verdani                                         
+   Rochiriel the Verdani                                       
+   Chihinn the Human                                           
+   Wren the Human                                              
+   Menfanous the Dwarf                                         
+
+
+Kreve says, "Ive been swinging steel far to long and hope there is something new inside."
+
+Kreve chuckles.
+
+Eabo says, "Uh silkz glovez."
+
+Menfanous exclaims to Kreve, "Well the scabbard be steel andye may be swingin that!"
+Trystan grins at Eabo.
+
+Skedge cackles at Eabo.
+
+Menfanous grins.
+
+Kreve smirks.
+
+Elmere says, "Going twice."
+
+Trystan says, "Just prettier."
+
+Kreve says, "Its an expensive hope."
+
+Elmere says, "And sold."
+
+Kaiah asks Kreve, "You gamble much?"
+
+Kreve says, "A little here and there."
+
+Trystan chuckles softly.
+
+Wren eyes Kreve with a curious expression, her lips forming a smirk.
+
+Elmere taps .
+
+Elmere taps a small adventurer's rucksack.
+
+Elmere murmurs.
+
+Elmere flails his arms.
+
+Elmere points at a hardened rippled wyvernskin rucksack.
+
+Menfanous beams.
+
+Kaiah chuckles.
+
+Ciciliah blinks.
+
+Elmere exclaims, "This is next!"
+
+Skedge exclaims, "Five hundred!"
+
+Menfanous asks, "What is that be made of?"
+
+Elmere says, "I'll have you know this rucksack is special like no other."
+
+Eabo says, "I'z sayz 750."
+
+Kreve pulls Wren closer saying Remember the first fight tourny?
+
+Menfanous listens to Elmere.
+
+Kaiah ponders.
+
+Kreve smirks at Wren.
+
+Elmere says, "Not only is it made from stitched wyvern skin, it also remains-."
+
+Elmere pauses dramatically.
+
+Skedge squints.
+
+Spits leans forward.
+
+Wren raises an eyebrow at Kreve and tips her head to the side slightly, her grin widening.
+
+Elmere inhales.
+
+Elmere exclaims, "It remains open!"
+
+Wren says to Kreve, "More or less. I think you challenged me to a fight the last time we saw each other as well, while in a boastful mood."
+
+Menfanous ponders.
+
+Spits ponders.
+
+Elmere beams proudly.
+
+Menfanous asks, "It cant be bein closed?"
+
+Spits chuckles.
+
+Elmere says to Menfanous, "You are correct."
+
+Skedge paces back and forth counting his fingers.
+
+Kreve says to Wren, "Im a little rusty now, so you might be able to take me."
+
+Trystan says to Kreve, "Or not."
+
+Skedge says, "Thousand doubloons for it."
+
+Elmere says, "I am single-handily changing the world, I know."
+
+Trystan glances at Wren with a smirk on his face.
+
+Eabo grumbles.
+Kreve rubs his elbow.
+Skedge drops 1000 doubloons.
+
+Skedge gets 1000 doubloons.
+
+Menfanous laughs.
+
+Wren says to Kreve, "I'm confident I could have taken you then, too."
+
+Kaiah says, "Hmm. Two thousand."
+
+Kreve chuckles.
+
+Menfanous says, "Two.."
+
+Menfanous glances at Kaiah.
+
+Kaiah says to Menfanous, "What? I need a new pack. Old one is near worn through."
+
+Menfanous laughs.
+
+Spits says to Elmere, "Tree Tousands."
+
+Kaiah says, "I'm starting to patch the patches."
+
+Menfanous says, "Go ahead den lass I not gonna be stoppin ya."
+
+Menfanous gestures.
+
+Kaiah says, "Four thousand."
+
+Spits says to Elmere, "Five Tousands."
+
+Elmere nods to Spits.
+
+Kaiah says, "Five thousand five hundred."
+
+Kreve cheers Spits to keep going.
+
+Geel says to Elmere, "Perhaps the rules do not apply to your templemates."
+
+Spits chuckles.
+
+Elmere says, "At five thousand the increments increase to one thousand."
+
+Kaiah says, "Alright then. Eight thousand."
+
+Spits guffaws.
+
+Kaiah shrugs.
+
+Elmere says, "We needed Blink's help."
+
+Spits says to Elmere, "Ten Tousand."
+
+Geel says to Elmere, "What an odd concept."
+
+Trystan says to Geel, "I think he's still suffering from the worm incident."
+
+Wren asks Kaiah, "At least we're still polite, ey?"
+
+Kaiah says, "Fifteen thousand."
+
+Geel asks Trystan, "Blink or Manske?"
+
+Kaiah asks, "Let me know when the rules change again, yeah?"
+
+Trystan glances at Elmere.
+
+Elmere says to Kaiah, "Will do."
+
+Kaiah nods.
+
+Spits says to Elmere, "Sebenteen Tousands."
+
+Elmere says, "Going once."
+
+Elmere nods to Spits.
+
+Kaiah ponders.
+
+Kaiah says, "Twenty thousand."
+
+Skedge whistles.
+
+Garaven takes a drink from a cup of hot Tetherian-bean coffee.
+
+Wren peers at Garaven.
+
+Elmere says, "Going once."
+
+Wren says to Garaven, "I thought I smelled coffee."
+
+Spits says to Elmere, "I realyz wunt ta see wuts in da sack, but nots fer dat muches."
+
+Garaven says to Wren, "I never leave home without."
+
+Rochiriel peers into her empty cup.
+
+Wren says to Garaven, "Smart man."
+
+Rochiriel sighs.
+
+Elmere says, "Going twice."
+
+Garaven says to Wren, "Indeed."
+
+Rochiriel stands up.
+
+Rochiriel leaves south.
+
+If you don't do something, you will be logged out in 10 minutes!
+
+You are now listed as AFK.
+l
+
+You are no longer AFK.
+
+
+
+[Pearlean Pavilion.]
+
+A spacious pavilion lined with interlocking red and black stones surrounded by walls of white lattice and creeping vines.  Smells of lavender mixed with fragrant rose blooms and creeping jasmine permeate the area.  Separate patios extend to both the east and west, each one distinguished by the type of vine and shrubs woven between cross-patterned lattice walls.  Flat marble slabs cut into benches surround a small fountain with a statue of a female figure cloaked in robe at its center.  You notice an arrow-shaped wooden sign, a rose trellis, and a small marble fountain.
+
+Also here: Skedge the Goblin, Kreve the Argali, Ciciliah the Sylph (flying), Trystan the Human, Kais the Human, Eabo the Goblin, Ra'daji Garaven the Verdani (seated) on a marble slab bench, Kaiah the Human, Spits the Goblin (seated), Wren the Human, Geel the Gavial (seated), Emissary Menfanous the Dwarf, and Merchant Elmere the Human 
+
+Obvious Exits: west, and south. 
+
+
+Wren tilts her head to the side.
+
+Wren glances south.
+
+Elmere exclaims, "Sold!"
+
+Wren applauds Kaiah.
+
+Kaiah says, "Finally. I can retire that threadbare ruck before something important falls out."
+
+Wren chuckles.
+
+Menfanous smiles.
+
+Rochiriel arrives from the south.
+
+Rochiriel sits down on a marble slab bench.
+
+Skedge exclaims, "I accept hand me downs!"
+
+Skedge blinks at Kaiah.
+
+Kaiah asks Skedge, "I'll see what I got, yeah?"
+Elmere gets some soft knee-high black rabbit fur boots from a pumpkin crate.
+
+Elmere says, "This is next."
+
+Garaven raises an eyebrow at Rochiriel.
+
+Ciciliah tilts her head to the side.
+
+Menfanous furrows his brow.
+
+Rochiriel takes a drink from a cup of hot Tetherian-bean coffee.
+Skedge curses.
+
+Garaven asks Rochiriel, "Refills?"
+
+Menfanous says, "Maybe fer a gift."
+
+Menfanous nods.
+
+Menfanous says, "500."
+
+Kaiah says to Skedge, "I imagine there's something stuck in storage that'll suit you better than me."
+
+Rochiriel says to Garaven, "I consider it a perk of being a mage. Home is never more than a portal away."
+
+Rochiriel chuckles.
+
+Ciciliah smiles at Trystan.
+Skedge cheers for Kaiah.
+
+Garaven grins.
+
+Rochiriel takes a drink from a cup of hot Tetherian-bean coffee.
+
+Menfanous glances at Elmere.
+
+Elmere asks, "Are there any other bids?"
+
+Elmere points at some soft knee-high black rabbit fur boots.
+
+Wren ponders.
+
+Trystan winks at Ciciliah.
+
+Wren asks, "One thousand?"
+<HP: 175/175 ST: 98/98>
+Rochiriel says, "Six hundred."
+
+Wren coughs.
+
+Rochiriel chuckles.
+
+Menfanous exclaims, "1500!"
+
+Wren blinks at Menfanous.
+
+Rochiriel says, "Two thousand."
+
+Menfanous says, "3000."
+
+Elmere says, "Going once."
+
+Rochiriel says, "Four thousand."
+
+Elmere nods.
+
+Menfanous glances.
+
+Menfanous sighs.
+
+Menfanous says, "5000."
+
+Kaiah tilts her head to Menfanous.
+
+Rochiriel asks Menfanous, "Is there something you are not telling us?"
+
+Rochiriel chuckles.
+
+Menfanous grins.
+
+Menfanous says, "Gifts."
+
+Menfanous nods.
+
+Rochiriel says to Menfanous, "As long as you don't wear them..."
+
+Rochiriel smiles at Menfanous.
+
+Elmere peers at Menfanous.
+
+Menfanous says, "They wouldluk gud with me kilt."
+
+Menfanous nods.
+Rochiriel says, "El I'm out."
+
+Elmere says, "Going once."
+
+Wren chuckles at Menfanous.
+
+Menfanous grins.
+
+Elmere says, "Going twice."
+
+Elmere exclaims, "And sold!"
+
+Menfanous asks, "When we be exchngin?"
+
+Kaiah chuckles at Menfanous.
+
+who
+Elmere says, "For new arrivals, I had encouraged everyone to show what they may have received at the end of the peddle."
+   Players Currently Online: 
+ =============================
+
+   Eabo the Goblin                                             
+   Kreve the Argali                                            
+   Spits the Goblin                                            
+   Kais the Human                                              
+   Skedge the Goblin                                           
+   Ciciliah the Sylph                                          
+   Kaiah the Human                                             
+   Geel the Gavial                                             
+   Trystan the Human                                           
+   Elmere the Human                                            
+   Ernest the Human                                            
+   Garaven the Verdani                                         
+   Rochiriel the Verdani                                       
+   Chihinn the Human                                           
+   Wren the Human                                              
+   Menfanous the Dwarf                                         
+
+
+Menfanous nods.
+
+Trystan murmurs something about being awfully excited for a gift.
+
+Rochiriel says to Elmere, "In the future when someone suggests that you go over the rules again you may want to humor them."
+
+Elmere says, "All must wait to acquire their wares."
+
+Rochiriel asks Trystan, "Perhaps he has a lady friend?"
+
+Trystan tilts his head to Rochiriel.
+
+Rochiriel peers at Menfanous.
+
+Trystan asks Rochiriel, "And he wants to try them on first?"
+
+Menfanous ponders.
+
+Elmere gets a thin flowing emerald green silk cloak from a pumpkin crate.
+
+Rochiriel gapes.
+
+Skedge leaves south.
+
+Menfanous exclaims, "Green!"
+
+Rochiriel frowns.
+
+Menfanous taps a brown leather-waisted green wool kilt.
+
+Trystan chuckles softly.
+
+Rochiriel says to Garaven, "That one matches my dress better."
+
+Garaven chuckles.
+
+Menfanous says to Rochiriel, "Matches me kilt."
+
+Elmere says to Menfanous, "The cloak may be a bit long for you."
+
+Skedge arrives from the south.
+
+Menfanous glares at Elmere.
+
+Kreve chuckles.
+
+Rochiriel says to Menfanous, "Matches your dress better too."
+
+Rochiriel chuckles.
+
+Elmere says to Menfanous, "For the lady friend again."
+
+Menfanous asks, "You sayin I be short?"
+
+Rochiriel says to Menfanous, "Well...."
+
+Elmere says to Menfanous, "Not at all, the cloak is extra long compared to you though."
+
+Menfanous flails his arms.
+Trystan says to Menfanous, "Short as a dwarf."
+
+Garaven says to Rochiriel, "Perhaps you can offer a trade for the black one you purchased."
+
+Elmere says to Menfanous, "It is really the cloak's fault."
+
+Menfanous exclaims, "I will have you all know I am tall for a dwarf!"
+
+Elmere chuckles lightly.
+
+Trystan says to Elmere, "One thousand."
+
+Elmere says to Menfanous, "Right, I've heard that before."
+
+Menfanous measures himself up to Kaiah.
+
+Elmere nods to Trystan.
+
+Elmere asks, "Are there any other bids?"
+
+Rochiriel asks Menfanous, "When do we meet this lady friend of yours?"
+
+Garaven says to Rochiriel, "Or you can just buy out his whole inventory and call it good."
+
+Garaven smirks.
+
+Rochiriel chuckles.
+
+Elmere points at a thin flowing emerald green silk cloak.
+<HP: 175/175 ST: 98/98>
+Rochiriel kisses Garaven.
+
+Trystan asks Elmere, "Going twice?"
+l roc
+
+Rochiriel looks like an able-bodied 87 year old female Verdani.
+She has hazel eyes and very long, braided, golden blonde hair.
+She is 6 feet 3 inches tall and weighs 133 pounds.
+She has an aura of Tetherias.
+Rochiriel is in perfect health.
+
+
+
+She is wearing:
+
+Head            : an exquisitely-detailed trumpeting elephant ivory circlet
+Neck            : a delicate jade dragon-charmed gold necklace
+Body            : a silky ermine fur-lined green velvet satchel
+Torso           : a vine-embossed niello inlaid arcsilver corslet
+Torso           : a ruffle-collard brown silk blouse
+Left wrist      : a twisting leafy vine-patterned gold and bronze wrist wrap
+Right wrist     : a teak and amber-beaded bracelet
+Left finger     : an brilliant emerald-studded white gold ring
+Right finger    : an elegant hand-carved trumpeting elephant ivory mage ring
+Waist           : a leather weapon harness
+Waist           : a whittled bone knife sheath
+Legs            : a brown and copper vine-patterned brocade A-line skirt
+Held            : a niello-inlaid trumpeting elephant-etched persarium bouche
+
+
+Rochiriel says, "Two thousand."
+
+Rochiriel beams at Garaven.
+
+Garaven laughs.
+
+Trystan snaps his fingers.
+
+Kaiah tilts her head to Menfanous.
+
+Trystan glances at Menfanous.
+
+Rochiriel asks Garaven, "Althought most everything would look better on verdani than anyone else yes?"
+
+Skedge ponders briefly before scribbling a few notes on a piece of parchment.
+
+Garaven ponders.
+
+Trystan says, "Three thousand."
+
+Elmere nods.
+
+Garaven says to Rochiriel, "Obviously."
+
+Elmere says to Trystan, "I like to think I can sense the crowd."
+
+Trystan grins at Elmere.
+
+Elmere nods to Trystan sagely.
+
+Rochiriel says, "Four thousand."
+
+Trystan says, "Five."
+
+Elmere says, "Going once at four thousand."
+
+Elmere says, "At five now."
+
+Rochiriel says, "Six."
+
+Trystan says, "Seven."
+
+Menfanous says to Kaiah, "Think ya can be findin me some silk? Cause it be doin really well tanight."
+
+Kaiah ponders.
+
+Ciciliah nods her head up and down to Eabo.
+
+Kaiah asks Menfanous, "I'll see what I come across next time I leave for work, yeah?"
+
+Eabo nods to Ciciliah.
+
+Menfanous smiles.
+
+Menfanous says to Kaiah, "Thank ye."
+
+Elmere says, "Going once at seven thousand."
+
+Kaiah nods.
+
+Rochiriel says to Menfanous, "Silk is a very nice fabric."
+
+Geel flicks his tongue.
+
+Ciciliah grins slightly.
+
+Elmere says, "Going twice."
+
+Elmere exclaims, "And sold!"
+
+Eabo grins at Ciciliah wryly.
+
+Elmere gets some sleek fingerless black leather gloves from a pumpkin crate.
+
+Elmere says, "This is the next item us for bid."
+
+Skedge raises an eyebrow.
+
+Spits squints.
+
+Skedge paces towards the fountain and flips a doubloon into it.
+
+Skedge says, "Seven hundred doubloons."
+
+Skedge peers at Elmere.
+
+Elmere raises an eyebrow at Skedge.
+
+Elmere asks, "Are there any other bids?"
+l
+
+
+
+[Pearlean Pavilion.]
+
+A spacious pavilion lined with interlocking red and black stones surrounded by walls of white lattice and creeping vines.  Smells of lavender mixed with fragrant rose blooms and creeping jasmine permeate the area.  Separate patios extend to both the east and west, each one distinguished by the type of vine and shrubs woven between cross-patterned lattice walls.  Flat marble slabs cut into benches surround a small fountain with a statue of a female figure cloaked in robe at its center.  You notice an arrow-shaped wooden sign, a rose trellis, and a small marble fountain.
+
+Also here: Kreve the Argali, Ciciliah the Sylph (flying), Trystan the Human, Kais the Human, Eabo the Goblin, Ra'daji Garaven the Verdani (seated) on a marble slab bench, Kaiah the Human, Spits the Goblin (seated), Wren the Human, Geel the Gavial (seated), Emissary Menfanous the Dwarf, Merchant Elmere the Human, Emissary Rochiriel the Verdani (seated) on a marble slab bench, and Skedge the Goblin 
+
+Obvious Exits: west, and south. 
+
+
+Spits says to Elmere, "Wun Tousand."
+
+Elmere stares at Skedge.
+
+Elmere nods slowly.
+
+Skedge ponders.
+
+Elmere gloats a bit.
+
+The jarring clang from a bell tower marks the top of the hour.
+
+The bell tower clangs for a second time.
+
+Elmere says, "Please wait."
+
+Skedge shows a faded wanted poster to Spits.
+The bell tower clangs for a third time.
+
+The bell tower clangs for a fourth time.
+
+Skedge stares.
+<HP: 175/175 ST: 98/98>
+Menfanous sighs clapping his hands over his ears.
+
+The bell tower clangs for a fifth time.
+
+The bell tower clangs for a sixth time.
+
+Skedge says, "Three thousand doubloons."
+
+The bell tower clangs for a seventh time.
+
+Rochiriel asks Menfanous, "When did you say the new bell will be complete?"
+
+The bell tower clangs for an eighth time.
+
+The bell tower clangs for a ninth time.
+
+The bell tower clangs for a tenth time.
+
+Menfanous asks Rochiriel, "Huh?"
+
+Rochiriel asks Menfanous, "When did you say the new bell will be complete?"
+
+Elmere asks, "I think I heard a bid for three hundred thousand, yes?"
+
+Menfanous nods removing his hands from his ears.
+
+Skedge yells, "YES! THREE THOUSAND."
+
+Menfanous winces.
+
+Kaiah blinks.
+
+Elmere says, "The bid was goblin in origin."
+
+Skedge curses unintelligently.
+
+Elmere says to Skedge, "Oh, too bad."
+
+Kaiah shakes her head from side to side.
+
+Elmere says, "The bid is at three thousand."
+
+Menfanous says to Rochiriel, "Soon as I be habbin all the bronze..10 days."
+
+Spits says to Elmere, "Four Tousand."
+
+Skedge snorts.
+
+Elmere says, "You may not split the fingerless gloves and each take one."
+
+Elmere says, "Going once."
+
+Skedge says, "Yes!" to Kaiah.
+
+Menfanous furrows his brow.
+<HP: 175/175 ST: 98/98>
+Kaiah nods.
+
+Kaiah says, "Five thousand."
+
+Ciciliah chuckles softly.
+
+Kaiah asks Skedge, "We'll call it a favor, yeah?"
+
+Skedge nods his head up and down.
+
+Spits says to Elmere, "Seben Tousand."
+
+Elmere says to Menfanous, "That's strange. Someone put in an order for two thousand pounds of bronze some time before I picked up my orders."
+
+who
+[ARRIVALS] 'Duron has logged on.'
+   Players Currently Online: 
+ =============================
+
+   Eabo the Goblin                                             
+   Kreve the Argali                                            
+   Spits the Goblin                                            
+   Kais the Human                                              
+   Skedge the Goblin                                           
+   Ciciliah the Sylph                                          
+   Kaiah the Human                                             
+   Geel the Gavial                                             
+   Trystan the Human                                           
+   Elmere the Human                                            
+   Ernest the Human                                            
+   Garaven the Verdani                                         
+   Rochiriel the Verdani                                       
+   Chihinn the Human                                           
+   Wren the Human                                              
+   Menfanous the Dwarf                                         
+   Duron the Bolinau                                           
+
+
+Kaiah says, "Eight."
+
+Spits says to Elmere, "Nine Tousand."
+
+Skedge smirks.
+
+Duron arrives from the south.
+
+Kaiah says, "Ten."
+
+Eabo grins at Ciciliah.
+
+Menfanous says to Elmere, "We requested that the ATC be donatin the rest since the citizens did so much, so I guess they be listenin."
+
+Spits says to Elmere, "Twelb Tousand."
+blender & mesh & pic
+
+Huh?
+
+Skedge scowls at Spits.
+
+Elmere nods.
+
+Kaiah grunts and glances at Skedge.
+
+Skedge shrugs.
+
+Kreve chuckles.
+
+Elmere says, "Going once."
+
+Kreve says to Spits, "Nice purchase."
+
+Kaiah says, "They'd have to make him invisible before I spend more than ten on them."
+
+Duron strolls up quietly, standing in the back watching everyone.
+
+Kaiah says, "If they don't, it's a bad investment."
+
+Elmere says, "Going twice for twelve thousand doubloons."
+
+Elmere exclaims, "And sold!"
+
+Eabo shrugs.
+
+Elmere taps a battle-scarred troll bone bracer.
+
+Spits smiles.
+
+Kaiah shrugs at Eabo.
+
+Elmere exclaims, "Oh, this next!"
+
+Wren gasps at Elmere loudly.
+
+Menfanous says to Wren, "Trollbone."
+
+Kaiah says to Elmere, "You gone and done it now."
+
+Menfanous nods.
+
+Elmere says, "The damage sustained to it happened upon the troll's demise."
+
+Wren exclaims, "One thousand!!"
+
+Kaiah rolls her eyes.
+
+Trystan chuckles.
+
+Rochiriel asks Wren, "That will match nicely with your lace gloves yes?"
+
+Rochiriel chuckles.
+
+Wren chortles at Rochiriel.
+
+Wren says to Rochiriel, "I think I can make it work."
+
+Elmere says, "The bid is at one thousand for this bracer."
+
+Elmere asks, "Do I have any other bids?"
+
+Duron grins.
+
+Kreve says, "1500."
+
+Wren exclaims, "Two thousand!"
+
+Elmere raises an eyebrow at Kreve.
+
+Elmere glances at Wren.
+
+Elmere asks, "Going once?"
+
+Kreve says, "2500."
+
+Elmere nods.
+
+Wren exclaims, "Three thousand!"
+
+Elmere says, "Very well."
+
+Kreve says, "3500."
+
+Wren exclaims, "Four thousand!"
+
+Kreve says, "Alright now you can have it."
+
+Kreve winks at Wren.
+
+Elmere says, "Going once."
+
+Wren grins at Kreve wryly.
+
+Elmere says, "Going twice."
+
+Ciciliah opens a chartreuse silk gem pouch.
+
+Trystan says, "Five thousand."
+
+Elmere nods.
+
+Wren says, "Six thousand."
+
+Ciciliah closes a chartreuse silk gem pouch.
+
+who
+[ARRIVALS] 'Krusher has logged on.'
+   Players Currently Online: 
+ =============================
+
+   Eabo the Goblin                                             
+   Kreve the Argali                                            
+   Spits the Goblin                                            
+   Kais the Human                                              
+   Skedge the Goblin                                           
+   Ciciliah the Sylph                                          
+   Kaiah the Human                                             
+   Geel the Gavial                                             
+   Trystan the Human                                           
+   Elmere the Human                                            
+   Ernest the Human                                            
+   Garaven the Verdani                                         
+   Rochiriel the Verdani                                       
+   Chihinn the Human                                           
+   Wren the Human                                              
+   Menfanous the Dwarf                                         
+   Duron the Bolinau                                           
+   Krusher the Human                                           
+
+
+Elmere says, "Going once."
+
+Elmere says, "Going twice."
+
+Elmere exclaims, "And sold!"
+
+Wren squeals softly.
+
+Trystan asks Wren, "It was more exciting that way, yes?"
+
+Trystan grins at Wren.
+
+Menfanous blinks.
+
+Elmere gets a gray-veiled black crushed velvet hennin from a pumpkin crate.
+
+Menfanous asks Wren, "Excited much?"
+
+Wren says to Trystan, "I'm sure you thought so."
+
+Wren says to Menfanous, "A teeny tad."
+
+Kaiah rolls her eyes.
+
+Menfanous laughs.
+
+Duron chuckles.
+
+Trystan chuckles at Wren.
+
+Elmere says, "This would look splendid upon a lady's head."
+
+Wren says, "That's quite the headgear."
+say elm if you like cones on your head
+
+You say to Elmere, "If you like cones on your head."
+
+Kaiah snickers.
+smir
+
+You smirk.
+
+Duron sidles up to Wren slowly giving her a nod.
+l
+
+
+
+[Pearlean Pavilion.]
+
+A spacious pavilion lined with interlocking red and black stones surrounded by walls of white lattice and creeping vines.  Smells of lavender mixed with fragrant rose blooms and creeping jasmine permeate the area.  Separate patios extend to both the east and west, each one distinguished by the type of vine and shrubs woven between cross-patterned lattice walls.  Flat marble slabs cut into benches surround a small fountain with a statue of a female figure cloaked in robe at its center.  You notice an arrow-shaped wooden sign, a rose trellis, and a small marble fountain.
+
+Also here: Kreve the Argali, Ciciliah the Sylph (flying), Trystan the Human, Kais the Human, Eabo the Goblin, Ra'daji Garaven the Verdani (seated) on a marble slab bench, Kaiah the Human, Spits the Goblin (seated), Wren the Human, Geel the Gavial (seated), Emissary Menfanous the Dwarf, Emissary Rochiriel the Verdani (seated) on a marble slab bench, Skedge the Goblin, Duron the Bolinau, and Merchant Elmere the Human 
+
+Obvious Exits: west, and south. 
+
+l dur
+
+Duron looks like a slender 32 year old male Bolinau.
+He has dull black eyes and medium length, spiky, dull black hair.
+He is 3 feet 7 inches tall and weighs 85 pounds.
+He has an aura of Itzal.
+Duron is in perfect health.
+
+
+
+He is wearing:
+
+Torso           : some bulky hardened leather armor
+Torso           : a dark grey wool tunic
+Waist           : a leather weapon harness
+Legs            : some dark grey wool trousers
+Feet            : some dull black leather boots
+Wield           : a short ebony-handled steel dirk
+Held            : a fishing pole
+
+
+Elmere says to you, "Is it an emerging style. If Zykiel weren't dead, he could attest to that."
+
+Menfanous flails his arms at Elmere.
+
+Rochiriel says, "Five hundred."
+
+Skedge stretches his arms and interlocks his fingers, cracking his knuckles.
+
+Elmere nods to Rochiriel.
+emo leans back
+
+Chihinn leans back.
+
+Elmere says, "We are nearing the end of the peddle."
+
+Wren pouts.
+
+Duron grins.
+
+Duron pokes Wren.
+
+Elmere says, "Excuse me, the conclusion of the peddle."
+whisp wren nine of the faith here tonight?.. more than any meeting at temple?
+
+You whisper to Wren, "Nine of the faith here tonight?.. more than any meeting at temple?".
+
+Elmere beams.
+
+Skedge asks, "This was the conclusion or we are nearing the conclusion?"
+
+Wren tilts her head to you.
+
+Elmere says, "Going once for five thousand to a sole bidder."
+l
+
+
+
+[Pearlean Pavilion.]
+
+A spacious pavilion lined with interlocking red and black stones surrounded by walls of white lattice and creeping vines.  Smells of lavender mixed with fragrant rose blooms and creeping jasmine permeate the area.  Separate patios extend to both the east and west, each one distinguished by the type of vine and shrubs woven between cross-patterned lattice walls.  Flat marble slabs cut into benches surround a small fountain with a statue of a female figure cloaked in robe at its center.  You notice an arrow-shaped wooden sign, a rose trellis, and a small marble fountain.
+
+Also here: Kreve the Argali, Ciciliah the Sylph (flying), Trystan the Human, Kais the Human, Eabo the Goblin, Ra'daji Garaven the Verdani (seated) on a marble slab bench, Kaiah the Human, Spits the Goblin (seated), Wren the Human, Geel the Gavial (seated), Emissary Menfanous the Dwarf, Emissary Rochiriel the Verdani (seated) on a marble slab bench, Skedge the Goblin, Duron the Bolinau, and Merchant Elmere the Human 
+
+Obvious Exits: west, and south. 
+
+
+Menfanous ponders.
+
+Ciciliah glances.
+
+Menfanous says, "Huh?Z."
+
+Rochiriel says to Elmere, "Five hundred."
+
+Wren whispers to you, "Certainly more. Who might you be?".
+
+Duron raises an eyebrow at Wren.
+
+Wren peers at Duron and snickers.
+
+Kaiah says, "Ain't that a shame."
+
+Elmere says, "Forgive me, I can get ahead of myself."
+
+Elmere blushes at some black cotton socks.
+whisp wren no one special
+
+You whisper to Wren, "No one special.".
+
+Duron nods to Wren.
+
+Elmere says, "Going once for five hundred to a sole bidder."
+
+Wren whispers to you, "All of the faith are special to me.".
+
+Duron chuckles.
+
+Elmere asks, "There are no other bids?"
+
+Elmere says, "Going twice."
+
+Trystan says, "It's not silk."
+
+Trystan gestures.
+
+Menfanous shakes his head from side to side.
+
+Trystan grins at Menfanous.
+
+Elmere ponders.
+
+Ciciliah chuckles at Trystan.
+
+Kaiah says, "Or gloves."
+
+Elmere exclaims, "And sold!"
+
+Skedge nods his head up and down.
+
+Elmere gets some red and tan striped calf-high snakeskin boots from a pumpkin crate.
+
+Elmere says, "Bidding may begin."
+
+Duron grimaces.
+
+Duron says, "500."
+
+who
+[ARRIVALS] 'Pyratherndar has logged on.'
+
+   Players Currently Online: 
+ =============================
+
+   Eabo the Goblin                                             
+   Kreve the Argali                                            
+   Spits the Goblin                                            
+   Kais the Human                                              
+   Skedge the Goblin                                           
+   Ciciliah the Sylph                                          
+   Kaiah the Human                                             
+   Geel the Gavial                                             
+   Trystan the Human                                           
+   Elmere the Human                                            
+   Ernest the Human                                            
+   Garaven the Verdani                                         
+   Rochiriel the Verdani                                       
+   Chihinn the Human                                           
+   Wren the Human                                              
+   Menfanous the Dwarf                                         
+   Duron the Bolinau                                           
+   Krusher the Human                                           
+   Pyratherndar the Vukasin                                    
+
+
+Spits says to Elmere, "Wun Tousand."
+
+Duron grumbles at Spits.
+
+Duron sits down.
+
+Elmere asks, "Is more than ten items too many to pique your interests?"
+
+Elmere says, "Ah, yes. There is a counter bid."
+
+Kaiah ponders.
+
+Trystan says, "Fifteen hundred."
+
+Spits says to Elmere, "Two Tousand."
+
+Trystan gestures at Spits.
+
+Elmere says, "Going once."
+
+Ernest arrives from the south.
+Pyratherndar arrives from the south.
+
+Ernest says to Pyratherndar, "Aha, I was right."
+
+Wren beams at Ernest.
+
+Ernest gestures about.
+
+Elmere says, "Going tw-."
+
+Ciciliah smiles at Pyratherndar.
+
+Ernest exclaims, "I bid more than that person!"
+
+Wren asks Ernest, "Rounding up stragglers?"
+
+Elmere says to Ernest, "Hello, pal."
+
+Trystan chuckles.
+
+Ernest waves to Elmere.
+
+Pyratherndar blushes.
+
+Ernest asks, "What did I win?"
+
+Trystan smiles at Pyratherndar.
+
+Elmere says to Pyratherndar, "Welcome, this is the item up for bid."
+
+Menfanous laughs at Ernest.
+
+Elmere points at some red and tan striped calf-high snakeskin boots.
+
+Ernest whistles.
+
+Ernest waves to Wren.
+
+Elmere says, "Bid is at two thousand doubloons."
+
+Duron yawns.
+
+Elmere says, "It has been said that many items for sale in this peddle conceal another item or feature that is unknown."
+
+Elmere says, "Going twice at two thousand."
+
+Ernest asks, "There a snake in there?"
+
+Duron chuckles at Ernest.
+
+Kreve smirks.
+
+Menfanous laughs.
+
+Menfanous says, "2500."
+
+Ciciliah nods to Pyratherndar.
+
+Spits grunts.
+
+Ciciliah squints at Elmere curiously.
+
+who
+[ARRIVALS] 'Requiem has logged on.'
+
+   Players Currently Online: 
+ =============================
+
+   Eabo the Goblin                                             
+   Kreve the Argali                                            
+   Spits the Goblin                                            
+   Kais the Human                                              
+   Skedge the Goblin                                           
+   Ciciliah the Sylph                                          
+   Kaiah the Human                                             
+   Geel the Gavial                                             
+   Trystan the Human                                           
+   Elmere the Human                                            
+   Ernest the Human                                            
+   Garaven the Verdani                                         
+   Rochiriel the Verdani                                       
+   Chihinn the Human                                           
+   Wren the Human                                              
+   Menfanous the Dwarf                                         
+   Duron the Bolinau                                           
+   Krusher the Human                                           
+   Pyratherndar the Vukasin                                    
+   Requiem the Vukasin                                         
+
+
+Elmere says to Ernest, "Perhaps."
+
+Elmere says, "It could be worse."
+
+Ernest asks, "Yeah? what's worse than a snake in your boot?"
+
+Duron snickers.
+
+Kreve asks, "How many items are left in the crate?"
+
+Spits says to Elmere, "Tree Tousand."
+
+Elmere nods.
+
+Skedge exclaims to Ernest, "A hole in your coinpurse!"
+
+Ernest gapes at Skedge.
+
+Ernest says to Skedge, "Your truth cuts deep."
+
+Elmere says, "Bidding of at least five hundred now, until five thousand."
+
+Ernest grins at Pyratherndar.
+
+Skedge smirks at ernest.
+
+Elmere says, "There is one item left after this, then we get to see what everyone received, hopefully."
+
+Kreve nods.
+
+Menfanous says, "3500."
+
+Elmere says, "Going once."
+
+Spits says to Elmere, "Four Tousand."
+
+Ernest says to Pyratherndar, "The trick is to become friends with the people who bid the most."
+
+Elmere says, "Going once."
+
+Wren smirks at Ernest.
+
+Pyratherndar grins.
+Duron absentmindedly twirls his dirk in his hand.
+
+Elmere says, "Going twice."
+
+Elmere exclaims, "And sold!"
+
+Wren applauds Spits.
+
+Spits smiles.
+
+Elmere gets an electrum-riveted black leather scabbard from a pumpkin crate.
+
+Ernest grins at Elmere.
+
+Elmere says, "And our final item."
+
+Wren gasps.
+
+Kreve smiles.
+
+Pyratherndar says, "Ooo."
+
+Kaiah says to Menfanous, "That would be a good one for you."
+
+Menfanous nods.
+
+Menfanous says, "1000."
+
+Kreve says, "200."
+
+Elmere says, "The bidding starts at 1 doubloon, but-."
+
+Kreve says, "2000."
+
+Ernest blinks.
+
+Trystan asks Menfanous, "Can't you hear it whisper Trystan?"
+
+Skedge exclaims, "Thirty five hundred doubloons and a free haircut!"
+
+Kaiah blinks at Skedge.
+
+Wren snorts at Skedge.
+
+Wren chuckles.
+
+Eabo snickers.
+
+Menfanous laughs.
+<HP: 175/175 ST: 98/98>
+Skedge cackles.
+
+Kreve says, "5000."
+
+Pyratherndar blinks.
+
+Spits grins at Kreve.
+
+Menfanous says, "6000."
+Elmere asks Skedge, "You do hair?"
+
+Wren says to Trystan, "Don't think you've got a sword big enough for it."
+
+Rochiriel says to Menfanous, "That would bring out the green in your kilt."
+
+Elmere ponders.
+
+Elmere removes a black velvet top hat.
+
+Kreve says, "10000."
+
+Ciciliah rubs her chin.
+
+Skedge exclaims to Elmere, "Shave too!"
+
+Elmere whistles at Kreve.
+
+Trystan says, "12000."
+
+Menfanous says, "15000."
+
+Pyratherndar says, "To krav I want to know where you hunt."
+
+Elmere asks Skedge, "Do you have a card?"
+
+Trystan glances at Wren.
+<HP: 175/175 ST: 98/98>
+Ernest snickers.
+
+Kreve says, "16000."
+
+Trystan says to Wren, "Remind me and I'll show you later."
+
+Skedge says to Elmere, "I'll have to get back to you with that."
+
+Wren smiles at Trystan.
+
+Menfanous says, "22000."
+
+Kaiah raises an eyebrow.
+
+Ciciliah whistles low.
+
+Kreve says to Pyratherndar, "Ill take you to a few spots one day."
+
+Wren says to Trystan, "I'll ready myself for disappointment."
+
+Requiem smirks.
+
+Kaiah says to Trystan, "Might be careful showing anything, someone might just take it away."
+
+Trystan says to Wren, "It's actually kinda pretty."
+
+Pyratherndar says, "Thanks."
+
+Trystan says, "Twenty five."
+
+Wren chortles at Kaiah.
+
+Menfanous says, "27000."
+
+Ernest takes a drink from a steaming cup of creamed coffee.
+
+Ernest says, "That's a lot of coin."
+
+Ernest puts on some wire-wrapped ebony glasses.
+
+Trystan says, "30000."
+
+Pyratherndar gets an oak cask of aged whiskey from a purple leather-fringed cotton hand bag.
+
+Kreve pulls Pyratherndar closer to whisper something in her ear.
+
+Menfanous glances at Trystan.
+
+Trystan asks Menfanous, "Black leather scabbard? How can I resist?"
+
+Duron chuckles.
+
+Menfanous says, "35000."
+
+Trystan says, "Says the weapons smith."
+
+Trystan says, "40000."
+
+Duron laughs at Wren.
+
+Duron nods to Wren.
+
+Duron sighs.
+
+Wren winks at Duron.
+
+Rochiriel asks, "What was the item up for bid again?"
+
+If you don't do something, you will be logged out in 10 minutes!
+
+You are now listed as AFK.
+
+Elmere points at an electrum-riveted black leather scabbard.
+l
+
+You are no longer AFK.
+
+
+
+[Pearlean Pavilion.]
+
+A spacious pavilion lined with interlocking red and black stones surrounded by walls of white lattice and creeping vines.  Smells of lavender mixed with fragrant rose blooms and creeping jasmine permeate the area.  Separate patios extend to both the east and west, each one distinguished by the type of vine and shrubs woven between cross-patterned lattice walls.  Flat marble slabs cut into benches surround a small fountain with a statue of a female figure cloaked in robe at its center.  You notice an arrow-shaped wooden sign, a rose trellis, and a small marble fountain.
+
+Also here: Kreve the Argali, Trystan the Human, Kais the Human, Eabo the Goblin, Ra'daji Garaven the Verdani (seated) on a marble slab bench, Kaiah the Human, Spits the Goblin (seated), Wren the Human, Geel the Gavial (seated), Emissary Menfanous the Dwarf, Emissary Rochiriel the Verdani (seated) on a marble slab bench, Skedge the Goblin, Duron the Bolinau (seated), Merchant Elmere the Human, Ciciliah the Sylph (flying), Merchant Ernest the Human, Pyratherndar the Vukasin, and Requiem the Vukasin 
+
+Obvious Exits: west, and south. 
+
+
+Menfanous says, "41000."
+
+Kreve leaves south.
+
+Trystan chuckles.
+
+Rochiriel mumbles something about not being silk or gloves.
+
+Trystan says, "42000."
+
+Menfanous laughs.
+Garaven smirks.
+
+Menfanous says, "43000."
+
+Trystan asks Elmere, "You can wrap that in silk, right?"
+
+Elmere says, "At fifty thousand, the bidding will become increments of five thousand."
+
+Trystan says, "45000."
+
+Rochiriel says to Garaven, "That would not match my dress."
+
+Elmere says, "Should it go that high."
+
+Menfanous says, "48000."
+
+Kreve arrives from the south.
+
+Trystan gestures at Menfanous.
+
+Elmere says, "Going once."
+
+Requiem says, "50000."
+
+Skedge says, "I demand the King's tax adjuster to be present for this purchase."
+
+Wren whistles at Requiem.
+
+Menfanous blinks.
+
+Skedge curses under his breath about usury.
+Wren leans on Ernest.
+
+Requiem says to Wren, "I need something for my larger blade."
+
+Elmere says to Skedge, "Take it to the conclave."
+
+Ernest says to Skedge, "Don't say that."
+
+Garaven chuckles.
+<HP: 175/175 ST: 98/98>
+Spits snickers.
+
+Ernest cringes.
+
+Elmere says, "Going once."
+
+Rochiriel asks Skedge, "What do goblins know about taxes anyway?"
+
+Ernest nods.
+
+Rochiriel mumbles about filthy thieves.
+
+Garaven asks Rochiriel, "Ways to avoid them?"
+
+Skedge stares.
+
+Rochiriel nods her head up and down to Garaven.
+
+Elmere says, "Going twice."
+
+Kaiah raises an eyebrow at Menfanous.
+
+Skedge exclaims, "Hey I'll have you know I'm a well respected goblin!"
+
+Menfanous says, "55000."
+
+Ernest says to Rochiriel, "Now now, let's not make assumptions based on the actions of one rogue goblin."
+
+Rochiriel smirks at Skedge.
+
+Eabo says, "Weez knowz aboutz head taxz."
+
+Eabo grumbles.
+
+Duron grins at Eabo.
+
+Rochiriel says to Skedge, "No goblin will ever have my respect."
+
+Kaiah says, "Goblins have something similar to a tax within the tribes."
+
+Kaiah shrugs.
+
+Trystan nods to Eabo.
+
+Skedge asks Rochiriel, "How dare you speak to me like that?"
+
+Elmere says, "I know plenty of upstanding goblins."
+
+Garaven takes a drink from a cup of hot Tetherian-bean coffee.
+
+Trystan says to Eabo, "I wasn't going to mention it."
+l chi
+
+Chihinn looks like a husky 50 year old female Human.
+She has light brown eyes and long, tied back, light brown hair.
+She is 6 feet 9 inches tall and weighs 223 pounds.
+She has an aura of Itzal.
+Chihinn is in perfect health.
+
+.
+
+She is wearing:
+
+Head            : a ripped brown tweed hat
+Neck            : a frayed red silk scarf
+Back            : an academy-issue canvas backpack
+Body            : some tattered red cotton robes
+Torso           : a full-plate copper cuirass
+Waist           : a leather weapon harness
+Legs            : some blood-stained wool trousers
+Feet            : some dull black leather boots
+
+
+Requiem says, "60000."
+
+Kreve nods.
+
+Geel flicks his tongue.
+
+Rochiriel says to Skedge, "I will speak to you as I please."
+get dir harn 
+wear dir
+
+You get a short ebony-handled steel dirk from a leather weapon harness.
+You wield a short ebony-handled steel dirk.
+[Delay: 3.0 sec.]
+
+
+Skedge grits his teeth.
+
+Ernest says, "And they say we're the savages this time of year."
+
+Menfanous blinks.
+
+Garaven smirks.
+
+Menfanous shakes his head from side to side.
+l
+
+
+
+[Pearlean Pavilion.]
+
+A spacious pavilion lined with interlocking red and black stones surrounded by walls of white lattice and creeping vines.  Smells of lavender mixed with fragrant rose blooms and creeping jasmine permeate the area.  Separate patios extend to both the east and west, each one distinguished by the type of vine and shrubs woven between cross-patterned lattice walls.  Flat marble slabs cut into benches surround a small fountain with a statue of a female figure cloaked in robe at its center.  You notice an arrow-shaped wooden sign, a rose trellis, and a small marble fountain.
+
+Also here: Trystan the Human, Kais the Human, Eabo the Goblin, Ra'daji Garaven the Verdani (seated) on a marble slab bench, Kaiah the Human, Spits the Goblin (seated), Wren the Human, Geel the Gavial (seated), Emissary Menfanous the Dwarf, Emissary Rochiriel the Verdani (seated) on a marble slab bench, Skedge the Goblin, Duron the Bolinau (seated), Merchant Elmere the Human, Ciciliah the Sylph (flying), Merchant Ernest the Human, Pyratherndar the Vukasin, Requiem the Vukasin, and Kreve the Argali 
+
+Obvious Exits: west, and south. 
+
+
+Kaiah grins at Ernest.
+
+Duron sits up attentively at the hostility.
+
+Duron grins.
+
+Rochiriel says to Garaven, "Perhaps it just wants to pick pocket the tax gentleman."
+
+Wren glances at you quickly, stretching a hand out to hover it over the woman's armed one and shaking her head.
+
+Elmere says, "Going once at sixty thousand doubloons."
+
+Ernest says to Rochiriel, "Everyone is on edge, but your pal Ernest is taking charge and doing good instead of bad for the community. Not to worry."
+nod once
+
+You nod once.
+
+Garaven says to Rochiriel, "Verensa, they are hardly worth your consideration."
+
+Geel tilts his head to the side.
+
+Skedge exclaims to Rochiriel, "You will rue the day you ever crossed paths with the infamous Gadfly Macquick!"
+
+Geel glances at you.
+
+Kaiah says to Ernest, "Good money suddenly ain't so good around this time. Wouldn't be the first time a merchant's lost my money."
+
+Geel flicks his tongue.
+
+Ernest asks, "Who?"
+
+Gadfly cackles.
+
+Garaven says, "Skedg never head of you."
+
+Gadfly leaves south.
+
+Elmere blinks.
+
+Wren whispers to you, "It's not worth it, miss, believe me. Direct confrontation gets you nowhere.".
+
+Rochiriel chuckles.
+
+Garaven shrugs.
+
+Elmere says, "I know more goblins than I thought."
+
+Wren whispers to you, "Well, except in a prison cell.".
+
+Ernest chortles.
+
+Elmere says, "Going twice."
+grin wren
+
+You grin at Wren.
+
+Ernest says, "I like his style."
+
+Rochiriel says to Garaven, "Not even intelligent enough to keep from blowing his disguise."
+
+Elmere exclaims, "And sold!"
+
+Kaiah says, "I doubt it was an accident."
+Wren smiles at you and retracts her hand.
+
+Elmere says, "Before we complete the transactions, I would like to remind everyone to be safe next week and enjoy the longer nights."
+
+Kreve nods to Pyratherndar.
+
+Wren whispers to you, "Best put that knife away before any marshals decide to harass you.".
+
+Spits grins at Elmere.
+rem dir
+
+You remove a short ebony-handled steel dirk.
+[Delay: 3.0 sec.]
+
+
+Spits stands up.
+
+Elmere says, "The longest will culminate in exactly seven days time."
+
+Ernest says, "Big round of applause for Elmere. He donated a box of masks for the scavenger hunt I'm hosting next week."
+
+Pyratherndar smiles.
+Trystan applauds Elmere.
+
+Wren applauds Elmere.
+
+Eabo applauds.
+
+Kaiah nods.
+
+Elmere says, "Thank you, thank you."
+
+Pyratherndar applauds.
+
+Ciciliah claps quietly.
+
+Elmere says, "Thank you."
+
+Rochiriel says to Ernest, "I am glad one of yours is doing good for the community."
+
+Elmere says, "Thank you, thank you."
+
+Ernest says to Rochiriel, "Someone had to."
+<HP: 175/175 ST: 98/98>
+Rochiriel asks Ernest, "You are having a scavenger hunt?"
+
+Elmere listens.
+
+Menfanous applauds.
+
+Spits grins at Elmere.
+
+Rochiriel applauds.
+
+Elmere asks, "Anymore applause for me?"
+
+Menfanous says to Elmere, "Nice job."
+
+Elmere says to Rochiriel, "Thank you."
+
+Spits applauds Elmere.
+
+Elmere says, "Thank you, thank you."
+
+Ernest exclaims, "One week from tonight when the night is longest!"
+
+Elmere bows.
+
+Eabo exclaims to Elmere, "Tankz!"
+
+Menfanous asks, "Howmuch for the pumpkin?"
+
+Elmere exclaims, "Now let's get to seeing what folks are showing!"
+
+Wren blinks at Pyratherndar.
+
+Elmere says to Menfanous, "The crate? No no, it's not for sale."
+
+Menfanous flails his arms.
+
+Kaiah tilts her head to Wren.
+
+Wren points at Elmere.
+
+Elmere says, "Right now the pumpkins that were in it are being turned into Itz-o-lanterns."
+
+Elmere says, "I need it for when those are complete."
+
+Menfanous says, "Ok then."
+
+Menfanous sighs.
+
+Menfanous asks, "We exchangin funds at the bank?"
+
+Duron yawns.
+
+Duron stands up.
+
+Elmere says to Menfanous, "We do not."
+
+Menfanous leaves south.
+
+Duron leaves south.
+
+Elmere asks, "Who is up first?"
+
+Spits says to Elmere, "Backs shortlys."
+
+Garaven stands up.
+
+Spits leaves south.
+
+Elmere exclaims, "Let's see what you got!"
+
+Kreve says, "I."
+
+Ernest exclaims, "Watch out for Quickgad on your way to the bank!"
+
+Wren follows Kaiah.
+
+Requiem smirks.
+
+Garaven chuckles.
+
+Geel stands up.
+
+Wren leaves south.
+Kreve gives 19500 doubloons to Elmere.
+
+Rochiriel stands up.
+
+Trystan gets 2904 doubloons from a small black leather coinpouch.
+
+Rochiriel removes Garaven from her group.
+
+
+Rochiriel follows Garaven.
+
+Garaven leaves south.
+Rochiriel leaves south.
+
+Menfanous arrives from the south.
+
+Menfanous taps Elmere.
+
+Trystan asks Elmere, "You got that hat handy?"
+
+Ernest says to Pyratherndar, "Now we get to see what everyone spent their money on."
+
+Elmere gives a gold-buckled alligator skin scabbard to Kreve.
+
+Elmere gives a black leather-fringed steel scabbard to Kreve.
+
+Menfanous gives a small leather coinpouch to Elmere.
+
+Pyratherndar smiles.
+
+Elmere says to Kreve, "Now don't leave yet."
+Ciciliah peers.
+
+Requiem arrives in from the south.
+who
+[ARRIVALS] 'Duron has logged out.'
+
+   Players Currently Online: 
+ =============================
+
+   Eabo the Goblin                                             
+   Kreve the Argali                                            
+   Spits the Goblin                                            
+   Kais the Human                                              
+   Gadfly the Goblin                                           
+   Ciciliah the Sylph                                          
+   Kaiah the Human                                             
+   Geel the Gavial                                             
+   Trystan the Human                                           
+   Elmere the Human                                            
+   Ernest the Human                                            
+   Garaven the Verdani                                         
+   Rochiriel the Verdani                                       
+   Chihinn the Human                                           
+   Wren the Human                                              
+   Menfanous the Dwarf                                         
+   Krusher the Human                                           
+   Pyratherndar the Vukasin                                    
+   Requiem the Vukasin                                         
+
+
+Spits arrives from the south.
+
+Kreve gets a lattice knuckle-guarded arcsilver backsword from a gold-buckled alligator skin scabbard.
+
+Spits grins.
+
+Requiem arrives in from the south.
+
+Trystan says, "Nice."
+
+Kreve rubs his finger on the edge of the backsword.
+
+Garaven arrives from the south.
+Rochiriel arrives from the south.
+
+Elmere gives some soft knee-high black rabbit fur boots to Menfanous.
+
+Spits nods to Kreve.
+
+Kreve puts a lattice knuckle-guarded arcsilver backsword in a gold-buckled alligator skin scabbard.
+
+Spits says to Kreve, "Dat wuz a gud buys."
+
+Kreve smiles.
+
+Garaven gets 16110 doubloons from a large wolf-embroidered white leather haversack.
+
+Kreve says, "Indeed."
+
+Garaven gives 5500 doubloons to Elmere.
+
+Garaven puts 10610 doubloons in a large wolf-embroidered white leather haversack.
+
+Requiem gives 60000 doubloons to Elmere.
+
+Trystan gives 1000 doubloons to Elmere.
+
+Kreve gets a long thin cup-hilted blacksteel rapier from a black leather-fringed steel scabbard.
+
+Ernest whistles.
+
+Elmere gives a crimson ribbon-tied black silk hooded cloak to Rochiriel.
+
+Rochiriel says to Kreve, "Very nice."
+
+Kaiah arrives from the south.
+
+Trystan says to Kreve, "Very nice."
+
+Rochiriel says to Elmere, "Thank you."
+
+Ernest exclaims to Kreve, "You won!"
+
+Eabo says, "Nize rapierz."
+
+Elmere gives an electrum-riveted black leather scabbard to Requiem.
+
+Requiem cackles.
+
+Kreve removes a finely crafted silver and cobalt scale scabbard.
+
+Kreve puts on a black leather-fringed steel scabbard.
+Elmere says, "We can show them all in just a moment."
+
+Spits gets 16000 doubloons from a grimy snot-covered academy-issued canvas backpack.
+
+Spits gives 16000 doubloons to Elmere.
+
+Rochiriel wrinkles her nose.
+
+Elmere gives a gray-banded black brushed sheepskin fedora to Trystan.
+
+Garaven raises an eyebrow at Rochiriel.
+
+Trystan smiles at Elmere.
+
+Requiem says, "Thats a nice surprise."
+
+Ernest peers at Requiem.
+
+Rochiriel glances at Spits backpack.
+
+Elmere gives some sleek fingerless black leather gloves to Spits.
+
+Elmere gives some red and tan striped calf-high snakeskin boots to Spits.
+
+Spits grins.
+Kreve puts a long thin cup-hilted blacksteel rapier in a silver-buckled leather satchel.
+
+Spits cackles.
+
+Kreve gets a lattice knuckle-guarded arcsilver backsword from a gold-buckled alligator skin scabbard.
+
+Ciciliah glances at Spits.
+
+Kreve puts a finely crafted silver and cobalt scale scabbard in a silver-buckled leather satchel.
+
+Spits grins.
+
+Spits says, "Niz."
+
+Kreve puts a gold-buckled alligator skin scabbard in a silver-buckled leather satchel.
+
+Trystan puts on a gray-banded black brushed sheepskin fedora.
+
+Ciciliah whistles at Trystan.
+
+Spits gets a short side-handled arcsilver punch dagger from some sleek fingerless black leather gloves.
+
+Kaiah gives 20000 doubloons to Elmere.
+
+Kreve puts a lattice knuckle-guarded arcsilver backsword in a silver-buckled leather satchel.
+
+Trystan grins at Ciciliah.
+
+Wren gives 16000 doubloons to Elmere.
+
+Spits puts on some sleek fingerless black leather gloves.
+
+Kreve leaves south.
+
+Ciciliah says to Spits, "Oooh."
+
+Spits puts a short side-handled arcsilver punch dagger in some sleek fingerless black leather gloves.
+
+Trystan says to Elmere, "I'll be right back with more coin."
+
+Wren says to Spits, "Very fetching."
+
+Trystan glances at Spits.
+
+Spits grins at Wren.
+
+Elmere gives some long black silk lace gloves to Wren.
+<HP: 175/175 ST: 98/98>
+Trystan says, "Almost makes me wish I'd gotten a scabbard."
+
+Rochiriel asks Elmere, "I believe there was a hat as well?"
+
+Trystan leaves south.
+Elmere gives a battle-scarred troll bone bracer to Wren.
+
+Wren beams at Elmere.
+
+Kaiah says to Elmere, "You've got my money for the pack."
+
+Trystan arrives from the south.
+
+Spits checks some red and tan striped calf-high snakeskin boots for snakes.
+
+Elmere asks Kaiah, "You have given me too much?"
+
+Trystan gives 7000 doubloons to Elmere.
+
+Elmere gives a hardened rippled wyvernskin rucksack to Kaiah.
+
+Spits gets a short snakeskin-wrapped orichalcum misericorde from some red and tan striped calf-high snakeskin boots.
+
+Rochiriel gets a slender leather-gripped spiked orichalcum mace from a crimson ribbon-tied black silk hooded cloak.
+
+Spits grins.
+
+Trystan says to Spits, "Wow."
+
+Elmere gives a thin flowing emerald green silk cloak to Trystan.
+
+Spits says, "Vera niz."
+
+Kaiah says to Elmere, "Pretty sure I gave you the right amount."
+
+Trystan glances at Elmere and says, "Thank you."
+
+Rochiriel furrows her brow.
+
+Elmere gives a gray-veiled black crushed velvet hennin to Rochiriel.
+
+Kaiah shows a hardened rippled wyvernskin rucksack to Wren.
+
+Wren blinks at Rochiriel.
+
+Spits puts a short snakeskin-wrapped orichalcum misericorde in some red and tan striped calf-high snakeskin boots.
+
+Garaven grins at Rochiriel.
+
+Wren says to Rochiriel, "How does that even fit in there? Astounding."
+
+Spits removes some dull black leather boots.
+
+Wren laughs at Kaiah.
+
+Spits puts on some red and tan striped calf-high snakeskin boots.
+
+Rochiriel asks, "What is this?"
+
+Kaiah grins at Wren.
+
+Requiem asks Elmere, "Whoever you hired to fill these items, can you get me in touch with them?"
+
+Rochiriel touches one of the points and winces in pain.
+
+Ernest snickers at Requiem.
+
+Trystan gets a long swirl-etched electrum truncheon from a thin flowing emerald green silk cloak.
+
+Eabo glances at Kaiah.
+
+Wren shows a battle-scarred troll bone bracer to Kaiah.
+
+Elmere says to Requiem, "I diversify."
+
+Wren shows some long black silk lace gloves to Kaiah.
+
+Elmere raises an eyebrow at Rochiriel.
+
+Kaiah whistles at Wren.
+
+Elmere asks Rochiriel, "Have I made an error?"
+
+Kaiah shows a hardened rippled wyvernskin rucksack to Eabo.
+
+Ernest says, "I bet Elmere is trying to move up the ranks of the ATC."
+say req i believe you are supposed to "whip something out" ?
+
+You ask Requiem, "I believe you are supposed to "whip something out" ?"
+
+Eabo grins at Kaiah.
+
+Wren snorts at you and giggles.
+' and show us?
+
+You ask, "And show us?"
+
+Trystan asks Wren, "What did you find hiding in the gloves?"
+
+Wren says to you, "Careful with your wording."
+
+Wren says to Trystan, "This and that."
+
+Trystan smirks at Wren.
+
+Requiem says, "Chin I'm not sure I can lift it out by myself."
+smir
+
+You smirk.
+
+Kais leaves south.
+
+Menfanous flails his arms.
+
+Trystan puts 2000 doubloons in a small black leather coinpouch.
+gaze 
+
+You gaze.
+
+Rochiriel puts on a gray-veiled black crushed velvet hennin.
+
+Wren chuckles.
+
+Requiem gets an elaborate band-hilted electrum longsword from an electrum-riveted black leather scabbard.
+
+Rochiriel removes a gray-veiled black crushed velvet hennin.
+
+The jarring clang from a bell tower marks the top of the hour.
+
+Menfanous whistles at Requiem.
+
+The bell tower clangs for a second time.
+
+The bell tower clangs for a third time.
+
+The bell tower clangs for a fourth time.
+
+Eabo covers his ears.
+
+Requiem puts an elaborate band-hilted electrum longsword in an electrum-riveted black leather scabbard.
+
+The bell tower clangs for a fifth time.
+
+The bell tower clangs for a sixth time.
+
+Kaiah says to Requiem, "Very nice."
+
+The bell tower clangs for a seventh time.
+
+Requiem nods.
+
+The bell tower clangs for an eighth time.
+
+The bell tower clangs for a ninth time.
+
+Menfanous gets a short twisted leather-handled blacksteel stiletto from some soft knee-high black rabbit fur boots.
+
+The bell tower clangs for a tenth time.
+
+The bell tower clangs for an eleventh time.
+
+Elmere says, "No doubt you've all enjoyed yourselves at my peddle. You're welcome."
+
+Kaiah says to Elmere, "Not too bad, really."
+
+Wren exclaims to Elmere, "Aye, thank you for an exciting night mister Manske!"
+
+Trystan grins at Menfanous.
+<HP: 175/175 ST: 98/98>
+Requiem says to Elmere, "Many thanks, I shall put it to good use."
+
+Ernest whistles at Menfanous.
+
+Rochiriel says to Elmere, "Thank you."
+
+Trystan says to Menfanous, "Didn't see that coming."
+
+Menfanous smiles at Trystan.
+
+Wren asks Elmere, "Do you expect to be taking any orders soon?"
+
+Trystan says to Elmere, "Yes, thank you very much."
+
+Rochiriel asks Garaven, "What is this thing?"
+<HP: 175/175 ST: 98/98>
+Menfanous exclaims, "I didnt be seein it either!"
+
+Spits says to Elmere, "Wuz vera entertaininz. Tank you fer holdinz it."
+
+Rochiriel taps a slender leather-gripped spiked orichalcum mace.
+
+Garaven says to Rochiriel, "A mace. A very nice bludgeoning weapon."
+
+Elmere says to Wren, "That I do. You will be informed of it."
+
+Ernest asks Pyratherndar, "I've got to see to a city project after this. Do you know how to find your way out of here?"
+
+Menfanous taps a short twisted leather-handled blacksteel stiletto.
+
+Wren beams at Elmere.
+
+Pyratherndar says to Ernest, "'I do thank you."
+
+Garaven says to Rochiriel, "If you have no need for it, I would gladly claim it."
+
+Ernest exclaims, "Everyone come to my mask raid next week and let's behave together!"
+
+Trystan wrinkles his nose.
+
+Rochiriel says to Garaven, "Certainly tuvaren."
+
+Garaven says to Rochiriel, "You do seem to prefer the more stabbing type weaponry."
+
+Garaven smirks.
+
+Rochiriel says to Garaven, "I prefer to pierce or slash my victims. It is much more lady like."
+
+Garaven nods.
+
+Rochiriel chuckles.
+
+Rochiriel gives a slender leather-gripped spiked orichalcum mace to Garaven.
+
+Elmere says to Ernest, "Good of you to keep the townspeople preoccupied, they are so noisy for little reason otherwise."
+
+Ernest removes Pyratherndar from his group.
+
+
+Garaven says to Rochiriel, "Thank you verensa."
+
+Menfanous asks Kaiah, "Huntin?"
+
+Garaven wields a slender leather-gripped spiked orichalcum mace.
+
+Ernest says to Elmere, "Not this year. I'm tired of being blamed for everything that goes wrong."
+
+Kaiah says to Menfanous, "I may need an early turn in. Only my second day back in Pearl."
+
+Rochiriel asks Elmere, "Perhaps we may be seeing you soon for custom orders?"
+
+Menfanous mumbles.
+
+Menfanous flails his arms.
+Kaiah asks Menfanous, "But soon, yeah?"
+
+Menfanous nods to kaiah.
+
+Menfanous says, "You got it."
+who
+
+   Players Currently Online: 
+ =============================
+
+   Eabo the Goblin                                             
+   Kreve the Argali                                            
+   Spits the Goblin                                            
+   Kais the Human                                              
+   Gadfly the Goblin                                           
+   Ciciliah the Sylph                                          
+   Kaiah the Human                                             
+   Geel the Gavial                                             
+   Trystan the Human                                           
+   Elmere the Human                                            
+   Ernest the Human                                            
+   Garaven the Verdani                                         
+   Rochiriel the Verdani                                       
+   Chihinn the Human                                           
+   Wren the Human                                              
+   Krusher the Human                                           
+   Pyratherndar the Vukasin                                    
+   Requiem the Vukasin                                         
+   Menfanous the Dwarf                                         
+
+
+Kaiah says to Menfanous, "We'll go back to that tower, that was a good hunt."
+
+Menfanous nods.
+
+Spits draws a short side-handled arcsilver punch dagger from some sleek fingerless black leather gloves.
+
+Spits grins.
+
+Menfanous says, "Yes it was."
+
+Elmere says to Rochiriel, "I will send word. Perhaps in the next month."
+Trystan chuckles at Spits.
+Wren says to Menfanous, "Aye, I'd be eager for a hunt with you as well."
+
+Ernest says to Wren, "Was good seeing you, emissary."
+
+Rochiriel says to Geel, "Have a good night brother."
+
+Rochiriel removes a silky ermine fur-lined green velvet satchel.
+Rochiriel puts on a crimson ribbon-tied black silk hooded cloak.
+
+Trystan ponders.
+
+Wren says to Ernest, "Likewise, mister Bouldermoore. Take care."
+
+Menfanous smiles at Wren.
+Rochiriel beams at Garaven.
+
+Trystan gets a short rune-inscribed double edged arcsilver athame from a silver clasped black matte leather hooded cloak.
+
+Ernest waves to Elmere.
+
+Garaven smiles at Rochiriel.
+
+Garaven says to Rochiriel, "Very nice, indeed."
+
+Ernest says to Elmere, "Great show."
+
+Geel says to Rochiriel, "Good night emissary."
+
+Menfanous says, "Req I should have kept biddin."
+
+Elmere says to Ernest, "Good of you to join it."
+
+Geel bows to Garaven.
+
+Menfanous blinks.
+
+Rochiriel says to Garaven, "I still think the green one would look better."
+
+Garaven bows to Geel.
+
+Rochiriel chuckles.
+
+Ernest leaves south.
+
+Trystan puts a short rune-inscribed double edged arcsilver athame in a silver clasped black matte leather hooded cloak.
+say try was there a rabbit in the hat?
+
+You ask Trystan, "Was there a rabbit in the hat?"
+
+Trystan says to you, "Justa hat."
+
+Garaven says to Rochiriel, "Perhaps we can get it dyed."
+
+Spits snorts.
+
+Garaven shrugs.
+say try makes you smarter maybe?
+
+You ask Trystan, "Makes you smarter maybe?"
+
+Kaiah says to Menfanous, "Aye, you should have. I told you."
+
+Spits waves to Elmere.
+
+Trystan says to you, "More favor with the merchants."
+nod
+
+You nod.
+Spits leaves south.
+
+Menfanous nods to Kaiah.
+
+Rochiriel says to Trystan, "My hat makes even more good looking than I already am."
+
+Rochiriel chuckles.
+
+Garaven says to Rochiriel, "It does look rather nice."
+
+Trystan grins at Rochiriel.
+stat
+You are Chihinn the Novice, a 50 year old female Human Thief.
+You are 6 feet 9 inches tall and weigh 223 pounds.
+You are a follower of Itzal.
+You are carrying 124 of a maximum 497 pounds.
+You are in perfect health.
+You are fully rested.
+
+Attack: 22 | Defense: 102 | Position: Standing
+
+Strength       : 13/25
+Intelligence   : 14/25
+Dexterity      : 15/25
+Constitution   : 13/25
+Charisma       : 16/25
+Wisdom         : 12/25
+
+
+Head            : a ripped brown tweed hat
+Neck            : a frayed red silk scarf
+Back            : an academy-issue canvas backpack
+Body            : some tattered red cotton robes
+Torso           : a full-plate copper cuirass
+Waist           : a leather weapon harness
+Legs            : some blood-stained wool trousers
+Feet            : some dull black leather boots
+
+
+Garaven nods.
+
+Wren says to Rochiriel, "It's quite the fashion statement."
+
+Menfanous says to Elmere, "The tax collector will be habbin a field day with yer bank account after tanight1."
+
+Rochiriel nods her head up and down.
+
+Trystan says to Rochiriel, "Alcohol works for that too."
+
+Ciciliah descends to a few inches off the ground.
+Kaiah nods to Wren.
+
+Rochiriel says to Wren, "You heard the man it is an up and coming fashion."
+
+Wren grins at Rochiriel.
+
+Trystan grins.
+
+Wren says to Rochiriel, "I know what to order from Blythe next, then. Can't be seen with outdated clothes."
+
+Trystan says to Wren, "I heard he died."
+
+Menfanous says to Wren, "I be habbin an extrakilt."
+
+Ciciliah nods to Eabo.
+
+Eabo leaves south.
+l
+
+
+
+[Pearlean Pavilion.]
+
+A spacious pavilion lined with interlocking red and black stones surrounded by walls of white lattice and creeping vines.  Smells of lavender mixed with fragrant rose blooms and creeping jasmine permeate the area.  Separate patios extend to both the east and west, each one distinguished by the type of vine and shrubs woven between cross-patterned lattice walls.  Flat marble slabs cut into benches surround a small fountain with a statue of a female figure cloaked in robe at its center.  You notice an arrow-shaped wooden sign, a rose trellis, and a small marble fountain.
+
+Also here: Geel the Gavial, Ciciliah the Sylph (flying), Ra'daji Garaven the Verdani, Emissary Rochiriel the Verdani, Kaiah the Human, Wren the Human, Trystan the Human, Emissary Menfanous the Dwarf, Pyratherndar the Vukasin, and Merchant Elmere the Human 
+
+Obvious Exits: west, and south. 
+
+
+Menfanous says, "Always in style."
+
+Wren says to Trystan, "Pearl will be woefully unfashionable if he's gone."
+
+Trystan nods.
+
+Rochiriel says to Wren, "It won't do at all. One must keep up with society on these kinds of things."
+
+Wren says, "We already lost the last clothing merchant."
+
+Trystan says, "Prolly justa rumor."
+
+Trystan gestures.
+
+Wren says to Rochiriel, "Precisely, especially women in our position."
+
+Kaiah rolls her eyes.
+l chi
+
+Chihinn looks like a husky 50 year old female Human.
+She has light brown eyes and long, tied back, light brown hair.
+She is 6 feet 9 inches tall and weighs 223 pounds.
+She has an aura of Itzal.
+Chihinn is in perfect health.
+
+.
+
+She is wearing:
+
+Head            : a ripped brown tweed hat
+Neck            : a frayed red silk scarf
+Back            : an academy-issue canvas backpack
+Body            : some tattered red cotton robes
+Torso           : a full-plate copper cuirass
+Waist           : a leather weapon harness
+Legs            : some blood-stained wool trousers
+Feet            : some dull black leather boots
+
+
+Trystan chuckles.
+nod kaiah
+
+Wren says, "I do miss Onaipe, his sense of humor was.. unique."
+You nod to Kaiah.
+nod wren
+
+You nod to Wren.
+
+Trystan says, "A good note to leave on."
+wink elm
+
+You wink at Elmere.
+
+Trystan says to Elmere, "Thank you again, sir."
+Kaiah nods to you.
+
+Wren nods to you.
+
+Kaiah says to you, "Safe travels."
+Wren whispers to you, "Tread lightly, sister.".
+
+who
+[ARRIVALS] 'Krusher has logged out.'
+   Players Currently Online: 
+ =============================
+
+   Eabo the Goblin                                             
+   Kreve the Argali                                            
+   Spits the Goblin                                            
+   Kais the Human                                              
+   Gadfly the Goblin                                           
+   Ciciliah the Sylph                                          
+   Kaiah the Human                                             
+   Geel the Gavial                                             
+   Trystan the Human                                           
+   Elmere the Human                                            
+   Ernest the Human                                            
+   Garaven the Verdani                                         
+   Rochiriel the Verdani                                       
+   Chihinn the Human                                           
+   Wren the Human                                              
+   Pyratherndar the Vukasin                                    
+   Requiem the Vukasin                                         
+   Menfanous the Dwarf                                         
+
+whisp wren and you
+
+Rochiriel says to Trystan, "Perhaps you may ask that Arugala fellow to help track him."
+You whisper to Wren, "And you.".
+s
+
+
+
+[Pavilion Entrance.]
+
+Tall, well-manicured shrubs, shaped into a continuous wall, line either side of the entrance connecting the courtyard to the south with a garden area to the north.  Carved white pillars at the end of the hedges lead to a crossing white beam used to support the connecting arbor trellis that covers all of the pavilion.  You notice an open vine-covered steel gate.
+
+Obvious Exits: north. 
+
+s
+
+
+
+[Bayesian Court.]
+
+The outer walls of the courtyard part on either side of a vine-covered gate resting between a hedge-lined pathway to the north.  A tall white arbor trellis extends across a spacious pavilion, much of it covered in a colorful display of flowery vines and shrubs.  A sandstone archway to the west connects the courtyard to the housing district of town.  You notice an open vine-covered steel gate.
+
+Obvious Exits: southeast, west, east, and south. 
+
+w
+
+
+
+[Bayesian Court.]
+
+Beyond the sandstone wall to the northwest, a large sandstone pyramid rises high into the sky alone.  A bench sits against the wall for those whom wish to relax.  Along the opposite side of the paved way are some dogwood trees next to the backside of a building.
+
+Also here: a navy blue-robed constable 
+
+Obvious Exits: west, and east. 
+
+w
+
+
+
+[Bayesian Court, Archway.]
+
+In the northern sky, a large sandstone pyramid rises behind the opulent facades of lavish homes within the noble district, just beyond an archway leading northwest out of the court.  A narrow road heads off to the south, providing an alternative route for those avoiding the busy pavilion entrance.  You notice a sandstone archway.
+
+Obvious Exits: east, and south. 
+
+hide
+
+
+
+
+You conceal yourself from plain view.
+[Delay: 3.0 sec.]
+
+quit
+
+y
+Quit -- are you sure (Y/N)?You depart from the world.

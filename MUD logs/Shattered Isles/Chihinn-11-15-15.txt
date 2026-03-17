@@ -1,0 +1,2625 @@
+
+Mavin says to Eabo, "Hi there."
+
+Trystan nods to Geel.
+l
+
+
+
+[Pearlean Pavilion.]
+
+A spacious pavilion lined with interlocking red and black stones surrounded by walls of white lattice and creeping vines.  Smells of lavender mixed with fragrant rose blooms and creeping jasmine permeate the area.  Separate patios extend to both the east and west, each one distinguished by the type of vine and shrubs woven between cross-patterned lattice walls.  Flat marble slabs cut into benches surround a small fountain with a statue of a female figure cloaked in robe at its center.  You notice an arrow-shaped wooden sign, a rose trellis, and a small marble fountain.
+
+Also here: Mavin the Sylph, Seren the Avardi, Geel the Gavial (seated) on a marble slab bench, Emissary Thyia the Human, Lord Ayderias the Avardi, Trystan the Human, and Eabo the Goblin 
+
+Obvious Exits: west, and south. 
+
+
+Eabo says to Mavin, "Helloz."
+
+Eabo nods to Mavin.
+
+Trystan bows to Ayderias and then to Thyia.
+
+Thyia says to Trystan, "Prelate."
+
+Ayderias says to Trystan, "Prelate. So good of you to join us this evening."
+
+Spits arrives from the south.
+
+Spits spits.
+
+Spits sits down.
+
+Mavin says to Eabo, "It took me a long time but I found my way out."
+
+Trystan bows to Ayderias and then to Thyia.
+
+Trystan murmurs.
+
+Kaiah arrives from the south.
+
+Trystan says to Ayderias, "Thank you."
+
+Eabo asks Mavin, "Yooz finallyz fine dat old oak eh?"
+
+Mavin nods.
+
+Mavin says, "That wasnt the hard part."
+
+Mavin laughs.
+
+Kaiah puffs on a shiny black lacquered ebony pipe.
+
+Thyia smiles.
+
+Kaiah puffs on a shiny black lacquered ebony pipe.
+Eabo grins.
+
+Kaiah puffs on a shiny black lacquered ebony pipe.
+
+Ayderias smiles at Wren.
+
+Ayderias says to Wren, "My apologies. I did not see you arrive."
+
+Wren glances at Ayderias and offers a polite smile.
+
+Thyia blinks.
+
+Geel flicks his tongue.
+
+Wren says to Ayderias, "I'm sure most did not. I can be quite light on my feet."
+
+Ayderias asks Wren, "Interesting. Is there much reason to sneak into an event such as this?"
+
+who
+[ARRIVALS] 'Menfanous has logged on.'
+
+   Players Currently Online: 
+ =============================
+
+   Spits the Goblin                                            
+   Kaiah the Human                                             
+   Eabo the Goblin                                             
+   Wren the Human                                              
+   Seren the Avardi                                            
+   Mordecai the Human                                          
+   Rone the Devalin                                            
+   Ayderias the Avardi                                         
+   Geel the Gavial                                             
+   Mavin the Sylph                                             
+   Chihinn the Human                                           
+   Thyia the Human                                             
+   Telthus the Verdani                                         
+   Rochiriel the Verdani                                       
+   Trystan the Human                                           
+   Menfanous the Dwarf                                         
+
+Thyia says to Wren, "Quite so. At least I was not the only one to miss it."
+
+It is nighttime.
+
+Ayderias asks, "Are we dealing with assassins at the gates?"
+Wren chuckles at Thyia.
+The jarring clang from a bell tower marks the top of the hour.
+
+The bell tower clangs for a second time.
+
+The bell tower clangs for a third time.
+
+The bell tower clangs for a fourth time.
+
+The bell tower clangs for a fifth time.
+
+The bell tower clangs for a sixth time.
+
+The bell tower clangs for a seventh time.
+
+The bell tower clangs for an eighth time.
+
+The bell tower clangs for a ninth time.
+
+Wren says to Ayderias, "None at all, I'm just a creature of habit. I come from a rather rough town."
+
+A town crier can be heard shouting in the distance, "a public discussion on recent wyvern sightings, taking place in the Pearlean Pavilion, is getting underway now!"
+
+Ayderias nods to Wren.
+
+Kaiah removes a shiny black lacquered ebony pipe.
+
+Kaiah taps the shiny black lacquered ebony pipe against the heal of her boot.
+
+Kaiah puts a shiny black lacquered ebony pipe in a long black leather duster.
+
+Kaiah murmurs.
+
+Menfanous arrives from the south.
+
+Wren waves to Menfanous.
+
+Menfanous waves.
+
+Ayderias says, "Thank you all for coming. I must admit I expected more, but I realize now my expectations were misplaced as the people of this city have seen a great deal of threats in previous years."
+
+Menfanous smiles at Thyia.
+
+Thyia smiles at Menfanous.
+
+Kaiah grins at Menfanous.
+
+Menfanous asks Thyia, "You be bein well?"
+l
+
+
+
+[Pearlean Pavilion.]
+
+A spacious pavilion lined with interlocking red and black stones surrounded by walls of white lattice and creeping vines.  Smells of lavender mixed with fragrant rose blooms and creeping jasmine permeate the area.  Separate patios extend to both the east and west, each one distinguished by the type of vine and shrubs woven between cross-patterned lattice walls.  Flat marble slabs cut into benches surround a small fountain with a statue of a female figure cloaked in robe at its center.  You notice an arrow-shaped wooden sign, a rose trellis, and a small marble fountain.
+
+Also here: Mavin the Sylph, Seren the Avardi, Geel the Gavial (seated) on a marble slab bench, Emissary Thyia the Human, Lord Ayderias the Avardi, Trystan the Human, Eabo the Goblin, Spits the Goblin (seated), Kaiah the Human, Wren the Human, and Merchant Menfanous the Dwarf 
+
+Obvious Exits: west, and south. 
+
+who
+[ARRIVALS] 'Garaven has logged on.'
+   Players Currently Online: 
+ =============================
+
+   Spits the Goblin                                            
+   Kaiah the Human                                             
+   Eabo the Goblin                                             
+   Wren the Human                                              
+   Seren the Avardi                                            
+   Mordecai the Human                                          
+   Rone the Devalin                                            
+   Ayderias the Avardi                                         
+   Geel the Gavial                                             
+   Mavin the Sylph                                             
+   Chihinn the Human                                           
+   Thyia the Human                                             
+   Telthus the Verdani                                         
+   Rochiriel the Verdani                                       
+   Trystan the Human                                           
+   Menfanous the Dwarf                                         
+   Garaven the Verdani                                         
+
+
+Thyia says to Menfanous, "I am, thank you. It was a surprisingly eventful evening last night."
+
+Thyia says to Menfanous, "A pleasant change."
+
+Menfanous asks, "Was it?"
+
+Thyia smiles.
+
+Thyia nods to Menfanous.
+
+Menfanous says, "That be gud ta be hearin."
+
+Ayderias says, "The emissaries of conclave recently met and agreed that it was time to have a discussion on all we've learned about Wyverns. We wanted to have this hear and away from our chambers to encourage an informal discussion."
+
+Garaven arrives from the south.
+Rochiriel arrives from the south.
+
+Rochiriel smiles at Geel.
+
+Geel stands up.
+
+Geel bows to Garaven.
+
+Ayderias says to Rochiriel, "Emissary."
+Garaven bows to Geel.
+
+Rochiriel says to Ayderias, "Emissary."
+
+Geel says to Rochiriel, "Emissary."
+
+Geel sits down on a marble slab bench.
+
+Rochiriel sits down on a marble slab bench.
+
+Garaven says, "Good evening all."
+
+Thyia smiles.
+
+Ayderias smiles at Garaven politely.
+Garaven sits down on a marble slab bench.
+
+Garaven nods to Ayderias.
+
+Ayderias says, "Before we open up, I want to encourage everyone who has experienced a wyvern encounter to please come forward. This isn't a time to hide information that could benefit us all."
+
+Ayderias asks, "With that said, has anyone here ever seen or experienced any form of contact from these creatures?"
+
+Menfanous says, "They be gettin into my head two times that I can be rememberin."
+
+Rochiriel raises her hand.
+
+Trystan nods to Ayderias.
+
+Kaiah grunts.
+
+Eabo raises his hand.
+Kaiah says, "Aye."
+
+Spits shakes his head from side to side.
+
+Seren nods.
+
+Wren says, "I think it's safe to assume that by now, the majority of us have had an encounter of some kind."
+
+Garaven says, "Indeed. A few times."
+
+Ayderias says to Wren, "So it would seem."
+
+Wren says to Ayderias, "They're getting bolder, I suspect."
+
+Ayderias asks, "Those of you that said they've been in your head, can you share with us what that was like?"
+
+Eabo says, "Notz pleasent."
+
+Eabo grunts.
+
+Wren says, "An intrusion unlike any other, often accompanied by pain."
+
+Menfanous nods to Wren.
+
+Kaiah says, "Persistent."
+
+Seren says, "It was so long ago I dont remember what they said.. I told them to get out of my head and they havent been back since."
+
+Ayderias asks, "Are these thoughts coherent?"
+
+Trystan nods his head up and down.
+
+Menfanous says, "They be sayin ta me about something that they be needin."
+Garaven says to Ayderias, "Barely."
+
+Wren says, "Coherent enough, coming from a semi-sentient creature. They're a bit difficult to understand."
+
+Menfanous says, "We needs it, I be thinkin what they said."
+
+Trystan says, "Sometimes voies, sometimes images."
+
+Ayderias says, "Fascinating."
+
+Eabo says, "Dey sayz- we takez itz landz."
+
+Ayderias asks Menfanous, "What was it they needed?"
+
+Menfanous shrugs.
+
+Menfanous says, "I don't be knowin."
+
+Trystan says to Ayderias, "The spear that will kill dragons."
+
+Ayderias furrows his brow at Trystan.
+
+Eabo glances at Trystan.
+
+Garaven says, "Somethin to do with the spearhead the Kalesians acquired, I believe."
+
+Wren says, "That spear is likely still with its owners."
+
+Wren says, "Its pieces, that is."
+
+Trystan says, "They showed me an image of one intact."
+
+Thyia frowns.
+<HP: 175/175 ST: 98/98>
+Ayderias says to Trystan, "I see. This is troubling news."
+
+Trystan nods to Ayderias.
+
+Ayderias says, "It matches something I've come across while researching some armor found on the academy."
+
+Wren asks, "Was there something to this spear that made it special?"
+
+Wren listens to Ayderias intently.
+
+If you don't do something, you will be logged out in 10 minutes!
+
+You are now listed as AFK.
+
+Ayderias nods to Wren.
+
+Ayderias says, "I recently shared a story of a city from before the Shattering known as Pyetra."
+
+Kaiah tilts her head to Wren and nods.
+
+If you don't do something, you will be logged out in 9 minutes!
+
+Kaiah removes Wren from her group.
+
+
+Kaiah stares at Wren.
+
+Wren pouts at Kaiah.
+
+Kaiah sighs.
+
+Ayderias says, "This was a city largely occupied by Tetherians and Pyresians, located between the two present day isles."
+
+Kaiah nods.
+Kaiah leaves south.
+
+If you don't do something, you will be logged out in 8 minutes!
+l
+
+You are no longer AFK.
+
+
+
+[Pearlean Pavilion.]
+
+A spacious pavilion lined with interlocking red and black stones surrounded by walls of white lattice and creeping vines.  Smells of lavender mixed with fragrant rose blooms and creeping jasmine permeate the area.  Separate patios extend to both the east and west, each one distinguished by the type of vine and shrubs woven between cross-patterned lattice walls.  Flat marble slabs cut into benches surround a small fountain with a statue of a female figure cloaked in robe at its center.  You notice an arrow-shaped wooden sign, a rose trellis, and a small marble fountain.
+
+Also here: Mavin the Sylph, Seren the Avardi, Geel the Gavial (seated) on a marble slab bench, Emissary Thyia the Human, Trystan the Human, Eabo the Goblin, Spits the Goblin (seated), Wren the Human, Ra'daji Garaven the Verdani (seated) on a marble slab bench, Emissary Rochiriel the Verdani (seated) on a marble slab bench, Merchant Menfanous the Dwarf, and Lord Ayderias the Avardi 
+
+Obvious Exits: west, and south. 
+
+
+who
+[ARRIVALS] 'Blink has logged on.'
+
+   Players Currently Online: 
+ =============================
+
+   Spits the Goblin                                            
+   Kaiah the Human                                             
+   Eabo the Goblin                                             
+   Wren the Human                                              
+   Seren the Avardi                                            
+   Mordecai the Human                                          
+   Rone the Devalin                                            
+   Ayderias the Avardi                                         
+   Geel the Gavial                                             
+   Mavin the Sylph                                             
+   Chihinn the Human                                           
+   Thyia the Human                                             
+   Telthus the Verdani                                         
+   Rochiriel the Verdani                                       
+   Trystan the Human                                           
+   Menfanous the Dwarf                                         
+   Garaven the Verdani                                         
+   Blink the Avardi                                            
+
+
+Wren tilts her head to the side.
+
+Ayderias says, "The armor belonged to a particular legion of elves charged with the defense of Pyetra."
+
+Ayderias says, "But in my research I discovered they were also responsible for a unique relationship between elves and wyverns that together hunted dragons for their scales."
+
+Menfanous furrows his brow.
+
+who
+[ARRIVALS] 'Kristauf has logged on.'
+   Players Currently Online: 
+ =============================
+
+   Spits the Goblin                                            
+   Kaiah the Human                                             
+   Eabo the Goblin                                             
+   Wren the Human                                              
+   Seren the Avardi                                            
+   Mordecai the Human                                          
+   Rone the Devalin                                            
+   Ayderias the Avardi                                         
+   Geel the Gavial                                             
+   Mavin the Sylph                                             
+   Chihinn the Human                                           
+   Thyia the Human                                             
+   Telthus the Verdani                                         
+   Rochiriel the Verdani                                       
+   Trystan the Human                                           
+   Menfanous the Dwarf                                         
+   Garaven the Verdani                                         
+   Blink the Avardi                                            
+   Kristauf the Human                                          
+
+
+Ayderias says, "Their weapon of choice, a silverwood shafted spear etched with numerous glyhs."
+
+Blink arrives from the south.
+
+Blink says, "Huh."
+
+Ayderias asks Trystan, "Would you say this is similar in description to what you've seen?"
+
+Wren peers at Blink and smirks, saluting him.
+
+Blink waves to Wren.
+
+Trystan says, "It was like the one peddled off."
+
+Thyia frowns.
+
+Trystan says, "The one like that in our city fountain."
+
+Ayderias says to Trystan, "I'm afraid I do not stay up to date on the latest fashions sold."
+
+Blink says to Ayderias, "It's a new world. Feathers are all the rage."
+
+Blink pets some polychromatic feathered robes.
+
+Kaiah arrives from the south.
+
+Kaiah leans on Wren.
+
+Wren blinks at Blink.
+
+Wren grins at Kaiah.
+
+Kaiah gives a shimmering golden snakeskin wrapped diary to Wren.
+
+Wren beams at Kaiah.
+
+Kaiah follows Wren.
+
+Wren holds a shimmering golden snakeskin wrapped diary.
+
+Menfanous says to Wren, "That be shiny."
+
+Ayderias says, "I believe it is safe to say they are looking for assistance in the defeat of the dragon that has been spotted recently."
+
+Wren opens the diary and produces a quill from inside, propping the book along the underside of her arm and jotting a few things down on the first page.
+
+Eabo says, "I'z uh question.."
+
+Blink says, "It seems likely. The one was rifling my mind for knowledge of dragons."
+
+Ayderias nods to Eabo.
+
+Eabo asks, "Anyonez hearz see orz hear from wyverz since Longestz Nightz when du dragon flewz over?"
+
+Blink says, "I think my contact was just before that."
+
+Thyia ponders.
+
+Spits says, "It crashed inta da castlez."
+
+Wren says, "Aye it did, quite the sight."
+
+Ayderias asks Eabo, "Do you think they've been destroyed?"
+
+Eabo says, "Maybeez notz destroyz butz maybeez run off iffen deyz notz got whatz dey needed against du dragonz."
+
+Menfanous says to Eabo, "That be bein a gud thought."
+
+who
+[ARRIVALS] 'Kristauf has logged out.'
+   Players Currently Online: 
+ =============================
+
+   Spits the Goblin                                            
+   Kaiah the Human                                             
+   Eabo the Goblin                                             
+   Wren the Human                                              
+   Seren the Avardi                                            
+   Mordecai the Human                                          
+   Rone the Devalin                                            
+   Ayderias the Avardi                                         
+   Geel the Gavial                                             
+   Mavin the Sylph                                             
+   Chihinn the Human                                           
+   Thyia the Human                                             
+   Telthus the Verdani                                         
+   Rochiriel the Verdani                                       
+   Trystan the Human                                           
+   Menfanous the Dwarf                                         
+   Garaven the Verdani                                         
+   Blink the Avardi                                            
+
+
+Eabo nods to Menfanous.
+
+Ayderias says, "Based on what we learned in the past, we know they do not have arms to wield a spear with, so the spear alone will not help them."
+
+Menfanous says, "That dragon did seem quite........umm."
+
+Menfanous opens an academic leather-bound Common book.
+
+Menfanous says, "Irriatated."
+
+Rochiriel chuckles at Menfanous.
+
+who
+[ARRIVALS] 'Kristauf has logged on.'
+
+   Players Currently Online: 
+ =============================
+
+   Spits the Goblin                                            
+   Kaiah the Human                                             
+   Eabo the Goblin                                             
+   Wren the Human                                              
+   Seren the Avardi                                            
+   Mordecai the Human                                          
+   Rone the Devalin                                            
+   Ayderias the Avardi                                         
+   Geel the Gavial                                             
+   Mavin the Sylph                                             
+   Chihinn the Human                                           
+   Thyia the Human                                             
+   Telthus the Verdani                                         
+   Rochiriel the Verdani                                       
+   Trystan the Human                                           
+   Menfanous the Dwarf                                         
+   Garaven the Verdani                                         
+   Blink the Avardi                                            
+   Kristauf the Human                                          
+
+Kaiah says to Menfanous, "Irritated."
+
+Wren says, "So they're looking for a hunting partner, then. Ideally one with a spear."
+
+who
+[ARRIVALS] 'Mordecai has logged out.'
+   Players Currently Online: 
+ =============================
+
+   Spits the Goblin                                            
+   Kaiah the Human                                             
+   Eabo the Goblin                                             
+   Wren the Human                                              
+   Seren the Avardi                                            
+   Rone the Devalin                                            
+   Ayderias the Avardi                                         
+   Geel the Gavial                                             
+   Mavin the Sylph                                             
+   Chihinn the Human                                           
+   Thyia the Human                                             
+   Telthus the Verdani                                         
+   Rochiriel the Verdani                                       
+   Trystan the Human                                           
+   Menfanous the Dwarf                                         
+   Garaven the Verdani                                         
+   Blink the Avardi                                            
+   Kristauf the Human                                          
+
+
+Menfanous says, "Kaih yes thank ye."
+
+Menfanous smiles at Kaiah.
+Kaiah says to Menfanous, "Aye."
+
+Thyia smiles.
+
+Menfanous closes an academic leather-bound Common book.
+Ayderias asks, "Who else has witnessed the dragon?"
+
+Menfanous raises his hand.
+
+Geel flicks his tongue.
+
+Trystan nods.
+<HP: 175/175 ST: 98/98>
+Wren lifts her quill-bearing hand.
+
+Blink says, "Witnessed it? I never quite saw it. But I was at several encounters."
+
+Spits says, "Jes den on da longezt nightz."
+
+Menfanous nods to Spits.
+
+Blink says, "It was up in the sky. Like the time it burned a warship here in Pearl."
+
+Ayderias asks, "Can you all confirm its color?"
+
+Menfanous says, "It was bein a black dragon."
+Spits says, "Itz appeared ta be a black wun."
+
+Menfanous nods.
+
+Spits nods to Menfanous.
+
+Trystan asks Ayderias, "Which breathes fire?"
+
+Rochiriel says to Ayderias, "We have seen a black dragon on two occasions."
+Kaiah says, "It's always night when it comes."
+
+Wren says, "It was dark in coloration, but given the lack of lighting it's hard to say whether it was black, red, perhaps dark green.."
+
+Ayderias says to Trystan, "According to my books, both red and black ones do."
+
+Menfanous says to Kaiah, "Aye but on da longest night it cme pretty close."
+
+Rochiriel says to Ayderias, "It was a black fire breathing one that destroyed our home in Tetherias."
+
+Trystan says to Ayderias, "Then we've at least narrowed it down."
+
+Rochiriel glances at Garaven.
+
+Kristauf arrives from the south.
+
+Garaven raises an eyebrow at Rochiriel.
+
+Kristauf dips his head in a respectful nod.
+
+Ayderias nods to Kristauf.
+
+Blink says, "Kr hi."
+
+Kristauf says, "Apologies for my lateness."
+Blink says to Kristauf, "Hi."
+
+Wren peers at Kristauf with a flick of her eyes, regarding him only briefly.
+
+Ayderias says, "There isn't a lot written about wyverns and dragons fueding with one another, but I suppose it makes sense for there to be a fight for aerial supremacy."
+
+Menfanous says to Kristauf, "Gud evenin."
+
+Spits sheathes a short snakeskin-wrapped orichalcum misericorde in some red and tan striped calf-high snakeskin boots.
+
+Kristauf says to Menfanous, "Evening brother."
+
+Menfanous asks Ayderias, "The sky be bein a big place why be fuedin?"
+
+Ayderias says to Menfanous, "Maybe there was something in it for the wyverns of old besides scales."
+
+Kaiah says, "Predators compete for territory all the time."
+
+Blink says, "They feed on dragons. Mages as well. Our essence."
+
+Kristauf quietly takes a seat and listens to Ayderias.
+
+Thyia furrows her brow.
+
+Menfanous furrows his brow.
+
+Menfanous asks Blink, "Huh?"
+
+Ayderias says to Blink, "Perhaps."
+
+Rochiriel asks Ayderias, "They may have to fight Blink eventually for aerial supremacy yes?"
+
+Garaven smirks.
+
+Ayderias says to Rochiriel, "It is possible."
+
+Rochiriel smiles at Blink.
+
+Blink says, "Yeah once I shake off this earth magic holding me back."
+
+Ayderias says, "A great deal of our magic was lost with their departure. If one has returned, perhaps we will notice the effects."
+
+Garaven says to Blink, "It is for your own good."
+
+Wren reaches up to sweep a lock of hair from her eyes, unknowingly drawing a line across her cheek with the quill.
+
+Blink flaps his wings.
+
+Menfanous blinks.
+
+Wren raises an eyebrow at Menfanous.
+
+Blink says to Garaven, "It's me bringing me down, man. I got places to go up there."
+
+Blink grins.
+
+Kaiah glances at Wren.
+
+Garaven chuckles.
+
+Ayderias says, "In my opinion, the question is which one drew out the other from hiding."
+
+Kaiah peers at Wren.
+
+Garaven asks Ayderias, "Perhaps it was a third party that disturbed them both?"
+
+Blink says, "Yeah, it did seem at the same time nearly."
+
+Wren furrows her brow at Menfanous then glances at Kaiah.
+
+Ayderias says to Garaven, "That is an idea."
+
+Blink says, "Couple years ago."
+
+If you don't do something, you will be logged out in 10 minutes!
+
+You are now listed as AFK.
+
+Kristauf says to Ayderias, "Two things, Lord Ayderias.. In my experience.. either they have found, food... or a mate.. both of which would likely lead to bad tidings, all things considered."
+
+Wren tilts her head to Kristauf.
+
+Ayderias says to Kristauf, "That is the nature of these things, yet we've only seen one dragon."
+
+Ayderias says, "That we know of."
+
+Wren says, "There's evidence the wyverns are breeding, however."
+
+If you don't do something, you will be logged out in 9 minutes!
+
+Ayderias raises an eyebrow at Wren.
+
+Menfanous asks Wren, "Ye be findin babies?"
+
+Seren says, "I think the dragon is looking for something."
+
+Blink says, "There goes the neighborhood."
+
+Eabo asks, "Dey been tu du landz office?"
+
+Wren says to Ayderias, "Some time ago, myself and a few others found a large nest atop the mountain on the Academy. There were shell fragments inside, incredibly large and heavy ones."
+
+Kaiah grins at Eabo.
+
+Ayderias chuckles at Eabo softly.
+
+Thyia chuckles.
+
+Menfanous leaves west.
+
+If you don't do something, you will be logged out in 8 minutes!
+
+Ayderias says to Eabo, "Indeed. There is an easier way to go about it."
+
+Menfanous arrives in from the west.
+
+Ayderias blinks at Wren.
+
+Kristauf says, "If the Wyvern breed.. which some evidence suggests, we would be in a bad way... I can however offer up to all here, that in my travels, I scout the outlying areas that are affected by the plague.. Although I have not seen egg shells, or a wyvern persay, one can feel their thoughts pressing into your own mind from time to time.. This is why I believe that the Wyverns are indeed multiplying."
+
+Ayderias asks Wren, "Are you sure they were wyverns?"
+
+Eabo nods to Kristauf.
+
+If you don't do something, you will be logged out in 7 minutes!
+
+Wren says to Ayderias, "Given the sights and sounds that preceded this discovery, the size of the eggs, and the pool of unpleasant-smelling acid near the nest, I'm confident they were."
+
+If you don't do something, you will be logged out in 6 minutes!
+
+Blink asks, "Hmmmm. Unpleasant scent eh?"
+Kristauf tilts his head curiously.
+
+Eabo sniffs himself.
+Kristauf asks, "The scent? Where was it.. can you describe it?"
+
+Wren says, "Miss Brin was with us when we found it."
+
+Wren gestures at Seren.
+
+Seren nods.
+
+Blink says, "I suspect some of them may be lairing above the clocktower. I smelled something awful there recently at the top."
+
+Eabo says, "Du clocktower beez where du one landed when I'z seez it."
+
+Ayderias raises an eyebrow at Blink.
+Seren says, "Ive always thought the eggs were dragons eggs.. but I dont know.. just a feeling."
+
+If you don't do something, you will be logged out in 5 minutes!
+
+Kristauf says, "One would be surprised the bloody clock hasn't caused them to go mad if they are brooding up there."
+
+Wren says to Kristauf, "Like something toxic, and potentially caustic."
+
+Kristauf chuckles.
+
+Garaven ponders.
+
+Ayderias asks Blink, "What did it smell like? Anything familiar?"
+
+If you don't do something, you will be logged out in 4 minutes!
+
+Blink says, "Uh....like really acrid. Could definitely be called acidic."
+
+Wren furrows her brow at Blink.
+
+Blink says, "Never quited smelled the like."
+
+Wren asks Blink, "Is the smell always there?"
+Blink says, "I didn't see anything though."
+
+Thyia ponders.
+;l
+
+You are no longer AFK.
+
+Huh?
+
+Blink says, "I don't believe so. I've only been there once though."
+
+Blink says, "I was exploring."
+
+Wren says, "Strange. You'd think someone would have noticed animals that large coming and going if they're nesting there."
+
+Rochiriel asks Wren, "This was the mountain in the Academy?"
+
+Thyia asks Blink, "Have you smelled it anywhere else you may have explored?"
+
+Blink says, "Yeah, no physical signs either."
+
+Wren says to Rochiriel, "Aye, the one above the orc caves."
+
+Seren says to Rochiriel, "The nest is still there."
+
+Wren says, "I haven't been back in a good while to-."
+
+Wren asks Seren, "Is it?"
+
+Seren nods.
+
+Rochiriel asks Wren, "The liquid was there any color to it?"
+Blink says to Thyia, "Afraid not. I can't quite match it with a dead Wyvern scent either....I have seen a dead Wyvern after all."
+
+Spits says, "I wuz up der todayz. It'z still der. Sum old Argali sitz up der all da timez."
+
+Blink says to Thyia, "I was part of the autopsy on it."
+
+Thyia nods to Blink.
+
+Kristauf says, "A nest would remain unless we took it down.. why would they? If truth be told, if evidence is found of a nest it should be destroyed, otherwise they may return to their brooding grounds.. but this is just my opinion."
+
+Wren says to Rochiriel, "Mm, a sort of off-yellow color, and it was sizzling."
+
+Garaven says to Spits, "There is an argali up there? Maybe he has seen something then."
+
+Spits shrugs.
+
+Blink says, "Maybe it's not a nest, but a common perch."
+
+Rochiriel asks, "Do we know for sure that Wyverns are bad?"
+Spits says to Garaven, "Himz no talkz to mez."
+
+Seren asks Kristauf, "What if its a dragons nest?"
+
+Thyia says to Rochiriel, "If they hunt mages, I'm inclined to say they are."
+
+Wren says to Rochiriel, "We have only stories to go off of. I don't think there have been any actual attacks on citizens as of yet."
+
+Garaven says to Rochiriel, "Historically bad for you."
+
+Thyia says, "Of course, I may be biased."
+
+Kristauf says to Seren, "That would be quite bad for me then.."
+
+Kristauf chuckles.
+
+Rochiriel says to Thyia, "Do they actually kill mages though? I have only had them project thoughts into my mind."
+
+Blink says, "Well that depends on if you consider your mind being rifled an assault."
+
+Blink says, "It's not pleasant."
+
+Garaven gets a glass vial of slimy gray sludge from a large wolf-embroidered white leather haversack.
+
+Rochiriel says to Blink, "If it were then we would all be in trouble yes? I use my telepathy spell all the time."
+
+Thyia says to Rochiriel, "Given the stories, I imagine eating a mage's essence stands a good chance of killing the mage in question. Or, at least, making them wish they were killed."
+
+Wren says, "Well, to be fair the wyverns are a touch more aggressive about it than a mage's spell."
+
+Blink says to Rochiriel, "This wasn't thought communication. It was digging into my thoughts and pawing through them."
+
+Kristauf says to Ayderias, "If it is your desire, Lord Ayderias I will continue my scouting and report regularly to the Conclave on my findings. Should we indeed find a wyvern nest, one person could be in and out much more quietly than a group. As is my job to shield this city, with all the humility I have, I request this duty."
+
+Garaven says to Rochiriel, "Perhaps those you have violated are being kind to you in regards to the degree of assault."
+
+Wren raises an eyebrow at Kristauf.
+
+Wren turns her head towards the man, getting a more thorough look at him.
+
+Rochiriel says to Garaven, "I do try to be courteous."
+
+Garaven smiles at Rochiriel.
+
+Kristauf says to Wren, "Such is what I am good at, it would be irresponsible for me to allow others to possibly get injured or worse, should they stumble on something like a nest."
+
+Kaiah raises an eyebrow.
+
+Wren says to Kristauf, "Apologies, have you introduced yourself? I don't believe I've ever seen you before, certainly not at Conclave."
+
+Ayderias says to Kristauf, "I believe we would all love to hear of your findings at the next open meeting."
+
+Kaiah glances at Wren.
+
+Kristauf nods to Ayderias.
+
+Kristauf says to Wren, "I have had nothing definitive to deliver to conclave, I would not waste your time with maybes."
+
+Wren asks Kristauf, "Will you waste my time with offering your name at least, sir?"
+
+Rochiriel chuckles.
+
+Kristauf blinks briefly.
+
+Ayderias asks, "I'm curious. How many wyverns have been seen or heard at one time?"
+
+Kristauf says to Wren, "Apologies, for that.. Kristauf, ma'am."
+
+Garaven says to Kristauf, "Conclave is all about wasting time. Had you attended before, you would know such."
+
+Kristauf chuckles at Garaven.
+
+Trystan chuckles softly.
+
+Wren smiles at Kristauf thinly, offering a slight dip of her head.
+Menfanous sighs sightly.
+
+Blink says, "Has anyone ever seen two? I've only seen one at a time."
+
+Wren says to Kristauf, "I'm no ma'am, most call me Wren."
+
+Trystan says, "I've never seen more than one at a time, but when it's in your mind, it speaks as by saying we or us."
+Blink says, "Or usually felt them instead."
+
+Kristauf says to Ayderias, "I have heard at least two distinct thoughts.. One that was very, very angry.. and one that was almost.. childlike."
+
+Rochiriel asks Ayderias, "I'm not sure how one would tell?"
+
+Ayderias says to Rochiriel, "Other than witnessing two at once? I am not sure."
+
+Blink says, "There was the dead one, so of course there's been at least a few."
+
+Trystan says, "Two dead ones."
+
+Menfanous asks Ayderias, "I think what many of us be wonderin is how much trouble could these wyverns be causin us?"
+
+Blink says, "OH yeah."
+
+If you don't do something, you will be logged out in 10 minutes!
+
+You are now listed as AFK.
+
+who
+[ARRIVALS] 'Inubar has logged on.'
+
+You are no longer AFK.
+   Players Currently Online: 
+ =============================
+
+   Spits the Goblin                                            
+   Kaiah the Human                                             
+   Eabo the Goblin                                             
+   Wren the Human                                              
+   Seren the Avardi                                            
+   Rone the Devalin                                            
+   Ayderias the Avardi                                         
+   Geel the Gavial                                             
+   Mavin the Sylph                                             
+   Chihinn the Human                                           
+   Thyia the Human                                             
+   Telthus the Verdani                                         
+   Rochiriel the Verdani                                       
+   Trystan the Human                                           
+   Menfanous the Dwarf                                         
+   Garaven the Verdani                                         
+   Blink the Avardi                                            
+   Kristauf the Human                                          
+   Inubar the Dwarf                                            
+
+
+Trystan winks at Blink.
+
+Kaiah shrugs at Wren.
+
+Rochiriel says to Menfanous, "I wouldn't imagine any more than Xiija has."
+
+Ayderias asks Menfanous, "That is my concern as well. They've found no help that I can tell. How long before they stop asking and start attacking?"
+
+Eabo says, "I'z hearz dare screetchen. More den one uh demz fo surez."
+Blink says, "Just our luck. Several wyverns and not a single air elemental in town."
+Rochiriel chuckles.
+
+Ayderias asks Eabo, "More than one screech?"
+
+Wren smirks at Blink.
+
+Wren says to Blink, "Some day."
+
+Eabo says to Ayderias, "Onez screech answeredz by otherz."
+
+Menfanous says to Ayderias, "And if they do be attackin are we ready fer dem kinds of attacks."
+
+Ayderias furrows his brow.
+
+Rochiriel asks Eabo, "Was this within the city or outside the gates?"
+
+Ayderias says to Menfanous, "I am positive the knight marshals would tell you we are safe."
+
+Eabo says to Rochiriel, "Du one in du cityz an du otherz from allz aroun."
+
+Garaven chuckles at Ayderias.
+
+Menfanous says to Ayderias, "I be trustin the Knight Marshalls as long as they been provided what they be needin fer this kind of attacks should they be occurin."
+
+Ayderias says to Menfanous, "There have been at least two that have fallen, so perhaps there is hope."
+
+Garaven asks Ayderias, "And how did they die again?"
+
+Trystan chuckles.
+
+Blink says, "Dragon."
+
+Garaven asks, "So, we just need to make sure we have a dragon at hand then?"
+
+Garaven nods.
+
+Wren says, "Aye, they fell from the sky broken and mangled."
+
+Trystan says to Garaven, "Perfect solution."
+
+Blink says, "Either that or a Sylph attack squad."
+
+Wren chuckles at Blink.
+
+Menfanous says, "Garmaybe we could be goin ta the supply counter and be buyin one/."
+
+Garaven says to Trystan, "Simple enough."
+
+Eabo glances at Mavin.
+
+Wren asks Blink, "Lead by Xiija?"
+
+Trystan nods his head up and down.
+
+Blink grins.
+
+Rochiriel says to Wren, "She can be the bait."
+
+Blink says, "Yes, she can shrink their heads."
+
+Wren grins at Rochiriel wryly.
+
+Rochiriel says, "Dragon bait."
+
+Garaven chuckles.
+
+Mavin nods to Eabo.
+
+Rochiriel says to Trystan, "I hear she is good at being bait."
+
+Eabo says to Mavin, "Yooz be watchen when yooz flyin upz dare."
+
+Eabo winks at Mavin.
+
+Mavin says, "I will do that."
+
+Rochiriel asks, "Has anyone been able to respond to them?"
+
+The jarring clang from a bell tower marks the top of the hour.
+
+Eabo says, "Udder den cussen em outz fo pokin in myz head? Nah."
+
+Kaiah says, "Only to sod off. Ain't sure if they actually hear me or not."
+
+The bell tower clangs for a second time.
+
+Kaiah grins at Eabo.
+
+The bell tower clangs for a third time.
+
+The bell tower clangs for a fourth time.
+
+Menfanous sighs covering his ears.
+The bell tower clangs for a fifth time.
+who
+[ARRIVALS] 'Inubar has logged out.'
+   Players Currently Online: 
+ =============================
+
+   Spits the Goblin                                            
+   Kaiah the Human                                             
+   Eabo the Goblin                                             
+   Wren the Human                                              
+   Seren the Avardi                                            
+   Rone the Devalin                                            
+   Ayderias the Avardi                                         
+   Geel the Gavial                                             
+   Mavin the Sylph                                             
+   Chihinn the Human                                           
+   Thyia the Human                                             
+   Telthus the Verdani                                         
+   Rochiriel the Verdani                                       
+   Trystan the Human                                           
+   Menfanous the Dwarf                                         
+   Garaven the Verdani                                         
+   Blink the Avardi                                            
+   Kristauf the Human                                          
+
+
+Rochiriel winces.
+
+The bell tower clangs for a sixth time.
+
+The bell tower clangs for a seventh time.
+
+The bell tower clangs for an eighth time.
+
+The bell tower clangs for a ninth time.
+
+Blink says, "It was clear they heard me. They heard me talk about dragons somehow from far off. Which resulted in one rifling my head."
+
+The bell tower clangs for a tenth time.
+stat
+You are Chihinn the Novice, a 50 year old female Human Thief.
+You are 6 feet 9 inches tall and weigh 223 pounds.
+You are a follower of Itzal.
+You are carrying 124 of a maximum 497 pounds.
+You are in perfect health.
+You are fully rested.
+You are hidden.
+
+Attack: 22 | Defense: 102 | Position: Standing
+
+Strength       : 13/25
+Intelligence   : 14/25
+Dexterity      : 15/25
+Constitution   : 13/25
+Charisma       : 16/25
+Wisdom         : 12/25
+
+
+Head            : a ripped brown tweed hat
+Neck            : a frayed red silk scarf
+Back            : an academy-issue canvas backpack
+Body            : some tattered red cotton robes
+Torso           : a full-plate copper cuirass
+Waist           : a leather weapon harness
+Legs            : some blood-stained wool trousers
+Feet            : some dull black leather boots
+
+
+Kristauf pinches the bridge of his nose.
+
+Wren peers at Kaiah.
+
+Garaven asks Rochiriel, "Didn't you vote to have that thing destroyed?"
+
+Blink says, "It was clear it was looking for anything I knew on Dragons."
+
+who
+[ARRIVALS] 'Rone has logged out.'
+   Players Currently Online: 
+ =============================
+
+   Spits the Goblin                                            
+   Kaiah the Human                                             
+   Eabo the Goblin                                             
+   Wren the Human                                              
+   Seren the Avardi                                            
+   Ayderias the Avardi                                         
+   Geel the Gavial                                             
+   Mavin the Sylph                                             
+   Chihinn the Human                                           
+   Thyia the Human                                             
+   Telthus the Verdani                                         
+   Rochiriel the Verdani                                       
+   Trystan the Human                                           
+   Menfanous the Dwarf                                         
+   Garaven the Verdani                                         
+   Blink the Avardi                                            
+   Kristauf the Human                                          
+
+
+Menfanous says to Garaven, "I be almost done with the bell."
+
+Kaiah smirks at Wren.
+
+Trystan says, "And the image of the spear was during a discussion on the subject I was having with another."
+
+Wren grins at Kaiah toothily.
+
+Menfanous asks Trystan, "An you be sayin who?"
+
+Trystan says, "I think it was Aruskin."
+
+Menfanous nods.
+
+Ayderias asks, "I don't suppose we have any idea of how far away they can reach us from, do we?"
+
+Trystan shakes his head from side to side.
+
+Wren furrows her brow at Ayderias.
+
+Blink says, "Seems quite a distance, since they weren't usually anywhere to be seen. Yeah it could be miles and miles."
+
+Wren says to Ayderias, "Not a clue. Some times they contact people and are nowhere to be seen, or heard."
+
+Blink says, "Our own mental powers have incredible range though, and may be related."
+
+Garaven says to Ayderias, "For all we know, they are coontacting us from the Isle of Aerthane."
+
+Ayderias asks Wren, "How do we fight something that doesn't have to come near us to hurt us?"
+
+Menfanous says, "Or from in da shadows."
+
+Ayderias asks Garaven, "What are you implying?"
+
+Kristauf frowns thoughtfully.
+
+Garaven says to Ayderias, "That they seem to have no limit on range."
+
+Garaven shrugs.
+
+Ayderias nods lightly.
+
+Kristauf says, "My mental powers are limited to drinking a vial of sludge.."
+
+Kristauf chuckles mirthfully.
+
+Blink says to Ayderias, "Well I've yet to see them drain or physically harm from afar, so perhaps that is their limit. All they can really do is read minds."
+
+Wren says to Ayderias, "Good question. I suppose the best answer I can give is we go looking for it first."
+
+Blink says to Ayderias, "Well unpleasant, I have seen no sign there was brain damage."
+
+Blink says to Ayderias, "It does mean they may read any plans you make against them, however."
+
+Ayderias says to Blink, "That would be problematic."
+
+Blink says to Ayderias, "Perhaps someone should try to devise a means to block it."
+
+Ayderias says, "Our only solid defense seems to be from a dragon that we do not know if they are friendly or hostile toward us."
+
+Mavin leaves south.
+
+who
+[ARRIVALS] 'Mavin has logged out.'
+   Players Currently Online: 
+ =============================
+
+   Spits the Goblin                                            
+   Kaiah the Human                                             
+   Eabo the Goblin                                             
+   Wren the Human                                              
+   Seren the Avardi                                            
+   Ayderias the Avardi                                         
+   Geel the Gavial                                             
+   Chihinn the Human                                           
+   Thyia the Human                                             
+   Telthus the Verdani                                         
+   Rochiriel the Verdani                                       
+   Trystan the Human                                           
+   Menfanous the Dwarf                                         
+   Garaven the Verdani                                         
+   Blink the Avardi                                            
+   Kristauf the Human                                          
+
+
+Trystan says, "We're assuming the wyverns mean us harm."
+
+Kristauf asks Ayderias, "Only one way to really discern that, now isn't there mate?"
+
+Thyia says, "I believe that is a safe assumption, if mages are a food source to them."
+
+Thyia says, "I can't say the idea endears me to them in any way."
+
+Ayderias asks, "Does there seem to be any region of the isle they are spotted more often than others?"
+Menfanous asks Thyia, "Ye really think that bein the case?"
+
+Garaven says to Thyia, "I wonder what a food source is for a dragon, though."
+
+Thyia says to Garaven, "Everything."
+
+Kristauf says to Garaven, "Meat..."
+
+Menfanous says to Garaven, "Haggis."
+
+Wren says, "Anything with meat on it, at least."
+
+Menfanous nods.
+
+Blink says to Ayderias, "Not sure, but I have seen the Dragon fly out towards the Crowns."
+
+Garaven says to Thyia, "Which makes them just as much a threat by your definition."
+Thyia says, "However, when the dragons left, our magic weakened."
+
+Rochiriel asks, "How do we know their food source is mages?"
+
+Kristauf says to Ayderias, "Crowns and out by the statues."
+
+Ayderias says to Rochiriel, "We don't."
+
+Blink says to Ayderias, "Of course there is the eggs at Dragon Mountain."
+
+Blink says to Ayderias, "Egg shells I mean."
+
+Ayderias nods.
+
+Trystan says, "And I've seen a wyvern as far north as Stirling Forest."
+
+Ayderias asks, "Would any be brave enough to go on an expedition into the crowns in search of evidence if it could be arranged?"
+
+Kristauf says to Ayderias, "Aye."
+
+Kaiah nods.
+
+Eabo says to Ayderias, "Yupz."
+
+Ayderias says, "Communication seems the next step, but more information is needed."
+
+Menfanous nods his head up and down.
+
+Trystan says to Garaven, "You know they'll need us."
+
+Garaven chuckles at Trystan.
+
+Trystan grins at Garaven.
+Garaven says to Trystan, "Indeed."
+
+Blink says, "Sure. I'll just lose a few more pounds, so there is nothing to feast on."
+
+who
+[ARRIVALS] 'Pyratherndar has logged on.'
+
+   Players Currently Online: 
+ =============================
+
+   Spits the Goblin                                            
+   Kaiah the Human                                             
+   Eabo the Goblin                                             
+   Wren the Human                                              
+   Seren the Avardi                                            
+   Ayderias the Avardi                                         
+   Geel the Gavial                                             
+   Chihinn the Human                                           
+   Thyia the Human                                             
+   Telthus the Verdani                                         
+   Rochiriel the Verdani                                       
+   Trystan the Human                                           
+   Menfanous the Dwarf                                         
+   Garaven the Verdani                                         
+   Blink the Avardi                                            
+   Kristauf the Human                                          
+   Pyratherndar the Vukasin                                    
+
+
+Kristauf says to Blink, "Well.. You wouldn't really need to worry about that much, friend."
+
+Thyia says to Rochiriel, "I do believe Blink mentioned that they fed on dragons and the essence from mages."
+
+Garaven says to Blink, "They may require a good toothpick after devouring the rest of the party. You are not nessecarily safe."
+
+Rochiriel says to Thyia, "And Blink was guessing."
+
+Blink says, "I was not guessing. Recall why I was executed for treason."
+
+Trystan says to Garaven, "Our reputations might suffer a bit if that happened."
+
+Thyia says to Rochiriel, "Given he has first hand experience with the beasts, I think the guess is safe."
+
+Rochiriel says to Garaven, "They could be vegetarians."
+
+Garaven ponders.
+
+Thyia says, "I would rather assume they wish to devour me, and exercise caution, than to assume they want my aid and be unprepared to defend myself."
+
+Garaven says to Rochiriel, "Most unlikely given the reports of their incisors."
+
+Rochiriel says to Thyia, "Yes of course. One should never let their guard down."
+
+Thyia says to Rochiriel, "It could be very tragic."
+
+Thyia nods.
+
+Ayderias says, "You are all very brave to volunteer."
+
+Kristauf asks, "I will accompany any who wish to see what we can find.. If the consensus is that Dragon feed on magi essence.. it would likely be a better idea to keep our mage back and safe.. no?"
+
+Wren says to Ayderias, "Either that or very foolish, it's difficult to distinguish the two."
+
+Wren chuckles.
+
+Kaiah blinks at Kristauf.
+
+Ayderias says, "I shall speak with the marshals and see when that can be arranged. I suspect the crown will want to send a witness of their own."
+
+Kristauf nods to Ayderias.
+Ayderias says to Wren, "It is clear we must do something."
+
+Rochiriel says to Kristauf, "You may stay back and be a coward if you like."
+
+Seren says, "I dont believe dragons feed on mages."
+
+Pyratherndar arrives from the south.
+
+Eabo nods to Pyratherndar.
+
+Pyratherndar sits down.
+
+Kristauf says to Rochiriel, "Me? Never.. But thank you for the option."
+
+Kristauf smiles.
+
+Rochiriel says, "Kirstauf I will take my chances of being devoured."
+
+Kristauf says to Rochiriel, "And I will do my best to help that not happen."
+
+Thyia smiles pyra.
+
+Menfanous says to Rochiriel, "Ye be bein a bit up tight tanight."
+
+Wren rolls her eyes a little.
+
+Trystan chuckles.
+
+Garaven says to Rochiriel, "My. You have another protector it seems."
+
+Garaven smirks.
+
+Blink says to Seren, "Yeah that would really ruin the party."
+Thyia glances.
+
+Rochiriel says to Menfanous, "Perhaps it is this person whom nobody has ever seen implying that we cannot defend ourselves and need to be protected by him."
+
+Seren nods to Blink.
+
+Ayderias asks, "Any thoughts on how best to contact either beast, should we be faced with them?"
+
+Wren scratches a few more lines into her journal, then sets the quill between the pages and snaps it closed.
+
+Wren removes a shimmering golden snakeskin wrapped diary.
+
+Rochiriel says to Menfanous, "Mother provides all the protection I need."
+
+Trystan raises an eyebrow at Ayderias.
+
+Kristauf says, "Rochriel I never said you couldn't defend yourself.. merely being a logical thinker, sorry to have offended."
+
+Trystan says to Ayderias, "The wyverns seem to hear us speak, I can't say about the dragon."
+
+Wren says to Ayderias, "I started wondering if these telepathy potions could somehow be used to contact the creatures."
+
+Menfanous says to Rochiriel, "I be sure ye are capable lass."
+
+Menfanous smiles at Rochiriel.
+
+Blink says to Wren, "Generally it takes a name and a face to lock on someone."
+Garaven says to Ayderias, "Perhaps chanting over and over that we have the spear will get their attention."
+
+Wren nods to Blink.
+
+Wren says to Blink, "True."
+
+Wren says to Kaiah, "But we.."
+
+Blink says to Wren, "That's why I never really talked to them."
+Eabo says to Blink, "Yooz face tu face wit em... dat may do it."
+
+Trystan says, "Fireworks seemed to attract the dragon."
+
+Blink says to Trystan, "Oh neat. Let's have a fireworks party then."
+
+Trystan grins at Blink.
+
+Wren exclaims to Blink, "If we're lucky there'll be another fancy party in the upcoming month, with fireworks included!"
+
+Blink says, "Sweet deal."
+
+Rochiriel says to Menfanous, "Our house was burned to the ground by a black fire breathing dragon. Talk of dragons and wyverns I suppose is upsetting me a little."
+
+Pyratherndar arrives from the south.
+
+Pyratherndar sits down.
+
+Menfanous asks Wren, "And ye can be wearin a gown again?"
+
+Wren exclaims to Menfanous, "Of course!"
+
+Trystan glances at Pyratherndar and smiles.
+Kristauf greets Pyratherndar.
+
+Pyratherndar smiles.
+
+Blink says to Rochiriel, "Oh well, don't hold it against the lightning dragons. They didn't burn it."
+
+Pyratherndar greets Kristauf.
+
+Menfanous asks Rochiriel, "Well ifn I can be doin anythin ta ease yer mind jes be lettin me know, maybe haggis be helpin?"
+
+Garaven wrinkles his nose.
+
+Menfanous grins.
+
+Pyratherndar smiles at Trystan.
+
+Rochiriel stares at Menfanous.
+
+Thyia smiles at Pyratherndar.
+
+Rochiriel says to Menfanous, "I am not willing to kill myself over it."
+
+Rochiriel chuckles.
+
+Pyratherndar smiles at Thyia.
+
+Rochiriel says to Menfanous, "I believe that haggis stuff to be leathal to verdani."
+
+If you don't do something, you will be logged out in 10 minutes!
+
+You are now listed as AFK.
+
+Garaven says to Menfanous, "Verdani do not eat haggis."
+
+Blink grins.
+Menfanous asks, "Maybe ta wyverns too if need be?"
+
+Eabo nods thoughtfully.
+
+Wren says, "We can smear haggis on our mages to keep the wyverns at bay, perhaps."
+
+Rochiriel says to Blink, "I would never hold anything against a lightning dragon. Unless of course it zapped me."
+
+Wren nods to Kaiah.
+
+Rochiriel glances at Wren.
+
+Pyratherndar shivers.
+
+Garaven smirks.
+
+Rochiriel exclaims to Wren, "Don't even try it!"
+
+Wren winks at Rochiriel.
+
+Kaiah blinks.
+
+Kaiah smirks.
+
+If you don't do something, you will be logged out in 9 minutes!
+
+Wren exclaims to Rochiriel, "It could be the difference between life and death, miss Azahar!"
+
+Rochiriel says to Wren, "I will throw all the chocolate on you to distract them from myself."
+
+Wren laughs.
+
+Rochiriel nods her head up and down.
+
+Garaven says to Wren, "I would think death preferable in that situation."
+
+Wren says, "Don't think I'd mind being coated in chocolate either way."
+
+Rochiriel says to Seren, "Perhaps we can bribe them with some of your delicious cooking."
+
+Rochiriel smiles at Seren.
+
+If you don't do something, you will be logged out in 8 minutes!
+
+Spits groans and holds his head.
+
+Seren grins.
+
+Kaiah stares at Wren.
+
+Wren peers at Spits.
+Rochiriel glances at Spits.
+
+Spits yells, "GETZ OUTTA MYEZ HEAD!"
+l
+
+You are no longer AFK.
+
+
+
+[Pearlean Pavilion.]
+
+A spacious pavilion lined with interlocking red and black stones surrounded by walls of white lattice and creeping vines.  Smells of lavender mixed with fragrant rose blooms and creeping jasmine permeate the area.  Separate patios extend to both the east and west, each one distinguished by the type of vine and shrubs woven between cross-patterned lattice walls.  Flat marble slabs cut into benches surround a small fountain with a statue of a female figure cloaked in robe at its center.  You notice an arrow-shaped wooden sign, a rose trellis, and a small marble fountain.
+
+Also here: Seren the Avardi, Geel the Gavial (seated) on a marble slab bench, Emissary Thyia the Human, Trystan the Human, Spits the Goblin (seated), Wren the Human, Ra'daji Garaven the Verdani (seated) on a marble slab bench, Emissary Rochiriel the Verdani (seated) on a marble slab bench, Champion Blink the Avardi, Kaiah the Human, Merchant Menfanous the Dwarf, Eabo the Goblin, Pyratherndar the Vukasin (seated), Lord Ayderias the Avardi, and Kristauf the Human 
+
+Obvious Exits: west, and south. 
+
+
+Wren blinks.
+
+Eabo furrows his brow.
+
+Blink says, "Uhoh."
+
+Trystan grunts.
+
+Rochiriel asks Spits, "What is it?"
+Seren says, "We could leave an apple tart trail."
+
+Kaiah furrows her brow at Spits.
+
+Geel flicks his tongue.
+
+Spits moans.
+
+Geel nods his head up and down.
+
+Garaven says to Ayderias, "Well then. Seems the topic is at hand."
+
+Garaven glances at Spits.
+Wren grins at Kaiah sheepishly before her attention returns to Spits, her smile fading.
+
+Thyia frowns.
+
+Geel blinks rapidly.
+Rochiriel asks Spits, "What is it saying?"
+
+Spits says, "Deyz likez mez but itz in mine headz."
+
+Geel inhales slowly and deeply, his nostrils flaring slightly.
+Spits swoons.
+
+Wren tilts her head to the side.
+Geel stands up.
+
+Trystan sighs softly.
+Trystan sighs softly.
+
+Rochiriel glances at Geel.
+
+Seren asks Geel, "Are they talking to you now?"
+
+Trystan nods.
+
+Geel says to Seren, "Yes."
+
+Thyia nods to Pyratherndar.
+
+Seren sighs.
+
+Blink says to Geel, "Yikes."
+
+Rochiriel says to Seren, "Based on his nostrils flaring I would say yes."
+
+Spits stands up.
+
+Wren winces suddenly and lowers her head, hands reaching for either side of it.
+
+Spits leaves south.
+Geel swishes his tail aggressively from side to side as he growls deep within his throat.
+Wren says, "Agh.."
+
+Pyratherndar winces.
+
+Trystan asks Ayderias, "Ever hear of a connection with a fallen white?"
+Garaven prays to Tetherias, creating a protective shield around himself.
+Garaven looks protected!
+
+Ayderias rubs the back of his head.
+
+Kaiah peers at Wren.
+
+Kaiah asks Wren, "You?"
+
+Geel chuckles.
+
+Ayderias asks Trystan, "Why do you ask?"
+Geel sits down on a marble slab bench.
+
+Geel flicks his tongue.
+
+Wren asks, "What's..? Blood?"
+
+Wren nods to Kaiah slowly.
+
+Garaven prays to Tetherias, creating a protective shield around Rochiriel.
+Rochiriel looks protected!
+
+Trystan says to Ayderias, "It's the thought it just sent."
+
+Ayderias says to Trystan, "The story is wyverns were born from the death of a fallen white during the Shattering."
+
+Rochiriel smiles at Garaven.
+
+Trystan nods slowly.
+
+Spits arrives from the south.
+
+Ayderias says to Trystan, "Gharviskal the White."
+
+Kaiah furrows her brow at Wren.
+
+Menfanous ponders.
+
+Spits yells, "I'Z NO LIKEZ DA DRAGONZ. WHUT YUZ WANTZ WIT MEZ?"
+
+Wren frowns at Spits.
+
+Eabo growls.
+A piercing screech fills the air, followed by the leathery flapping of wings lifting off from somewhere nearby.
+
+Kaiah glances up.
+Trystan glances up.
+
+Garaven glances.
+Eabo growls.
+
+A faint hissing inside your head grabs ahold of your focus, filling your mind with a images of a large stone of lime with a fire raging inside.
+
+Menfanous glances up.
+
+Rochiriel glances around.
+
+Pyratherndar winces.
+
+Blink winces.
+
+Kaiah grunts and shakes her head.
+
+Geel winces.
+Garaven furrows his brow.
+Trystan closes his eyes.
+
+Geel grunts.
+
+Menfanous winces.
+
+The faint hissing lingers a moment, whispering, "Yessss. Find the dragon. Kill the dragon."
+Kristauf glances up and nocks an arrow, scanning the skies.
+
+Seren says, "Good grief."
+Blink opens a silver-buckled leather satchel.
+
+Pyratherndar put her hands to her head.
+
+Blink gets a lightning-etched multi-colored arcsilver lorica plumata from a silver-buckled leather satchel.
+
+Geel says, "I accept."
+
+Blink puts on a lightning-etched multi-colored arcsilver lorica plumata.
+
+Spits yells, "FURR."
+
+Rochiriel stands up.
+
+Wren glances sharply at the sound, then steps back slightly with a distracted look.
+Spits coughs.
+Seren says to Geel, "No."
+
+Blink wields an ancient bison bone-handled orichalcum skinning knife.
+Kaiah says, "Piss off."
+
+Blink gets a bamboo framed red silk kite from a silver-buckled leather satchel.
+
+Geel says to Seren, "I am what I am."
+
+Blink gets an ivory-horned thunderbird-crested arcsilver kite shield from a silver-buckled leather satchel.
+
+The wails and screeches of countless minds fill your head before the connecction is severed.
+
+Rochiriel says, "Its saying to kill the dragon."
+
+Blink holds an ivory-horned thunderbird-crested arcsilver kite shield.
+
+Seren says, "And so am I."
+
+Garaven stands up.
+
+Kaiah glances at Wren.
+
+Spits nods his head up and down.
+
+Blink says, "Yeah, it's tried this before."
+
+Rochiriel says, "It hurts my head."
+
+Trystan holds his head tight in his hands.
+
+Menfanous says, "I wont be killin no dragons tanight."
+
+Pyratherndar says, "It shows images."
+Menfanous shakes his head from side to side.
+
+Kristauf says, "It tries to force us to do its bidding..."
+
+Spits says, "Lotz of itz's."
+
+Kristauf says, "Interesting.."
+
+Ayderias inhales.
+
+Thyia sighs.
+
+Trystan glances at Kristauf.
+
+Menfanous asks Thyia, "Ye be ok?"
+Ayderias says, "It is safe to say this entire discussion has been observed."
+
+Thyia furrows her brow at Menfanous.
+
+Trystan says, "It asked for help, nothing forced beyond the thoughts and images."
+
+Thyia says to Menfanous, "I think I will be."
+
+Kaiah nods to Wren.
+
+Menfanous nods.
+
+Rochiriel says to Ayderias, "What if it want's to end the discussion before we figure too much out."
+
+Spits asks, "Whut imagez ya getz?"
+
+Seren says, "A large stone of lime with a fire raging inside."
+
+Wren nods to Kaiah firmly.
+
+Rochiriel nods her head up and down.
+
+Trystan gestures at Seren.
+
+Ayderias asks Geel, "While I applaud your resolve, the dragon has been the only thing to stop them. If it is removed, and mind you the practice was outlawed, what will the wyverns target next?"
+
+Spits nods his head up and down.
+
+Kaiah says, "Mages, I'll bet."
+
+Geel says to Ayderias, "Business is business Emissary."
+
+Kaiah says, "No dragon around to keep them occupied."
+
+Pyratherndar says, "It show lots of blood."
+
+Ayderias asks, "Did anyone see this fiery stone?"
+
+Menfanous nods.
+
+Thyia nods to Ayderias.
+
+Kaiah nods.
+
+Trystan nods.
+
+Wren says, "Aye."
+
+Rochiriel nods her head up and down.
+Seren nods.
+
+Spits says to Ayderias, "Yez."
+
+Pyratherndar nods her head up and down.
+
+Ayderias frowns.
+
+Blink nods to Ayderias.
+
+Ayderias says, "I am not familiar with it."
+Garaven says, "Indeed. An unfamiliar image."
+
+Trystan says, "The stone was lime."
+
+Ayderias asks, "As in limestone?"
+
+Trystan chuckles softly and nods.
+Eabo says, "Letz du dragonz livez..."
+
+Eabo glances at Spits sharply.
+
+Rochiriel asks, "Where is there limestone around here?"
+
+Ayderias smiles at Eabo softly.
+
+Pyratherndar says, "Cademy."
+
+Kaiah nods to Eabo.
+
+Kristauf says, "Orc cave.."
+
+Pyratherndar says, "Yes."
+
+Ayderias says to Rochiriel, "Only a guess, but our guest did not speak up until after we discussed an expedition into the crowns."
+Seren says, "And the mine here I believe."
+
+Kristauf says to Seren, "I only ever find gems, but I am not that great of a miner, admittedly."
+
+Blink asks, "Are there any volcanoes in the area?"
+
+Kristauf chuckles once more.
+
+Menfanous says to Kaiah, "Have you ever been minin up Limestone ere...fer some reasonI think I have."
+
+Ayderias shakes his head from side to side to Blink.
+
+Spits says, "I'z on'y ever seenz da limeystonez in da Orc cavez near da 'cademy."
+
+Blink says to Ayderias, "There was fire inside, is why I ask."
+Rochiriel says to Kristauf, "I have found metals and stone there as well."
+
+Blink says to Ayderias, "In the image."
+
+Kaiah says to Menfanous, "Aye, out of the mine under Broken Hill. Ain't explored much of the mine up in the mountain."
+
+Kristauf says to Rochiriel, "Aye, the only place ive found Limestone was in that orc cave."
+
+Pyratherndar says, "I have been there."
+
+Pyratherndar says, "I was with the orc's for over a day."
+
+Garaven asks, "There is also that collapsed mine near the Silverford mine. Who knows what lies within?"
+
+Ayderias asks, "We'll need time to plan a course of action for this expedition. Volunteers, when do you wish to leave?"
+Rochiriel asks Ayderias, "What could be in the crowns it doesn't want us to find?"
+
+If you don't do something, you will be logged out in 10 minutes!
+
+You are now listed as AFK.
+
+Kristauf says to Ayderias, "Immediatley I would assume, the longer we wait, the less likely we are to find anything."
+
+Pyratherndar says, "A dragon."
+
+Spits says to Ayderias, "Der be dat crevize at da back ends of da Zilverford minez."
+
+Ayderias says to Rochiriel, "I could be wrong, but I am not sure it is showing us something it doesn't want us to find."
+
+Ayderias says to Rochiriel, "I think, perhaps, we've been given a target."
+
+Wren asks, "Blood was being drawn from a wyvern's corpse.. why?"
+
+The holy shield surrounding Garaven fades.
+
+Trystan says, "I'd prefer at least a week to plan things."
+
+If you don't do something, you will be logged out in 9 minutes!
+
+Pyratherndar says, "Are we going to let something tell us what to do without learrning more about it first."
+
+Ayderias says, "Indeed. A week will give me time to research any large outcroppings of limestone on the isle."
+The holy shield surrounding Rochiriel fades.
+
+Rochiriel says to Ayderias, "That sounds to be a reasonable assumption."
+
+If you don't do something, you will be logged out in 8 minutes!
+
+Ayderias says to Pyratherndar, "I'm afraid our best way to learn is to investigate the area in which so many sightings have happened."
+
+Ayderias raises an eyebrow at Wren.
+
+Pyratherndar says to Ayderias, "That may be true be we have control over our actions when we are going there."
+
+Ayderias asks Wren, "What now? Did you see something different from the rest of us?"
+
+Wren peers at Ayderias as she catches his gaze.
+
+If you don't do something, you will be logged out in 7 minutes!
+
+Kaiah furrows her brow at Wren.
+
+Wren says to Ayderias, "I'm unsure who else may have seen it, but blood was being extracted from the mangled body of a wyvern. By whom, and for what, I've no idea."
+
+Kristauf ponders.
+
+Garaven puts a glass vial of slimy gray sludge in a large wolf-embroidered white leather haversack.
+
+Seren asks, "Poisons perhaps?"
+
+If you don't do something, you will be logged out in 6 minutes!
+
+Wren says, "Aye, could be. I'm sure it has properties some might find valuable."
+
+Pyratherndar says, "There have been people who have come in contact with the beast."
+l
+
+You are no longer AFK.
+
+
+
+[Pearlean Pavilion.]
+
+A spacious pavilion lined with interlocking red and black stones surrounded by walls of white lattice and creeping vines.  Smells of lavender mixed with fragrant rose blooms and creeping jasmine permeate the area.  Separate patios extend to both the east and west, each one distinguished by the type of vine and shrubs woven between cross-patterned lattice walls.  Flat marble slabs cut into benches surround a small fountain with a statue of a female figure cloaked in robe at its center.  You notice an arrow-shaped wooden sign, a rose trellis, and a small marble fountain.
+
+Also here: Seren the Avardi, Geel the Gavial (seated) on a marble slab bench, Emissary Thyia the Human, Trystan the Human, Wren the Human, Ra'daji Garaven the Verdani, Emissary Rochiriel the Verdani, Champion Blink the Avardi, Kaiah the Human, Merchant Menfanous the Dwarf, Eabo the Goblin, Pyratherndar the Vukasin (seated), Lord Ayderias the Avardi, Kristauf the Human, and Spits the Goblin 
+
+Obvious Exits: west, and south. 
+
+
+Wren says to Pyratherndar, "Only dead ones."
+
+Wren says, "So far."
+
+Pyratherndar shakes her head from side to side.
+
+Wren says, "There was that corpse we left near the palace.."
+
+Wren says, "I don't know how recent these visions we're being shown are."
+
+Geel grunts.
+
+Pyratherndar says, "Center of the city there was there of us and it was very much alive."
+
+Ayderias glances at Garaven.
+
+Eabo says to Pyratherndar, "Yupz, I."
+
+Ayderias says to Garaven, "That would make sense."
+
+Eabo says to Pyratherndar, "Sharez dat wit dem."
+
+Pyratherndar says, "If I may......"
+
+Thyia smiles at Pyratherndar.
+
+Ayderias listens.
+
+Wren says to Pyratherndar, "You said contact, I thought you meant up close and personal."
+
+Pyratherndar nods her head up and down.
+
+Pyratherndar says, "It was late one night, all had gone to rest except three of us, Eabo, myself and another, it started probing our minds."
+
+Pyratherndar says, "We went to the center of the city and ended up in the fountain."
+
+Pyratherndar says, "It perched over us."
+
+Rochiriel asks Ayderias, "In the past has Wyvern blood been used for anything?"
+
+Rochiriel says to Ayderias, "I am curious why anyone would extract it."
+
+Pyratherndar says, "It told us that we was going to kill the dragon or it was going to kill us."
+
+Pyratherndar says, "And the dragon was black."
+
+Ayderias says to Rochiriel, "Nothing I've ever read about, but the timing of the dead wyverns and the discovery of this bottled sludge seems suspect."
+
+Ayderias glances at Pyratherndar.
+
+Ayderias furrows his brow.
+
+Garaven ponders.
+
+Wren stares at Ayderias and makes a bit of a face.
+
+Pyratherndar says, "We have seen the dragon also."
+Wren says to Ayderias, "I hope you're wrong."
+
+Kaiah wrinkles her nose.
+
+Rochiriel asks Garaven, "You have a vial of that stuff yes?"
+
+Pyratherndar says, "As I said it was black."
+
+Garaven gets a glass vial of slimy gray sludge from a large wolf-embroidered white leather haversack.
+
+Rochiriel asks Garaven, "What does it smell like?"
+
+Wren says to Pyratherndar, "You can't know for sure unless you saw it in broad daylight."
+
+Garaven sniffs a glass vial of slimy gray sludge.
+
+Garaven wrinkles his nose.
+
+Pyratherndar says, "It was black because it breath its flame."
+
+Trystan says, "Pry reds can do that as well."
+
+Wren says, "Red dragons have fla-."
+
+Ayderias says to Pyratherndar, "I suppose that is a good source of light."
+
+Wren gestures at Trystan.
+
+Garaven says, "I am not sure what that smell is. Reminds me of rotting sewage."
+
+Rochiriel wrinkles her nose.
+
+Garaven gives a glass vial of slimy gray sludge to Rochiriel.
+
+Rochiriel sniffs a glass vial of slimy gray sludge.
+
+Rochiriel wrinkles her nose.
+
+Wren says, "No wonder it's so hard to choke down. I avoided getting a whiff of it in hopes that'd make it easier."
+
+Pyratherndar says, "That is mean stuff in your hand."
+
+Kaiah says to Garaven, "I think I would have preferred not to hear that kind of description."
+Kaiah chuckles.
+
+Garaven says, "Tastes even worse."
+
+Geel gets a glass vial of slimy gray sludge from some rugged brown leather pants.
+
+Pyratherndar says, "What it does to your head is even worse."
+
+Geel gives a glass vial of slimy gray sludge to Garaven.
+
+Geel says to Garaven, "I did not end up needing it."
+
+Blink says, "I wonder if their own poison harms them."
+
+Wren ponders.
+
+Garaven says to Geel, "Ah yes. I had forgotten. Thank you."
+
+Geel says to Garaven, "You are welcome, Ra'daji."
+
+Rochiriel says to Ayderias, "I have questioned the shopkeeper about the contents of the sludge. I have yet to get a straight answer."
+
+Ayderias says to Blink, "What a miserable life that would be."
+
+Blink says to Ayderias, "I was more thinking on if it could be used against them."
+
+Garaven says to Blink, "Typically species have a natural immunity or resistance to their own poison."
+
+Rochiriel gives a glass vial of slimy gray sludge to Garaven.
+
+Blink nods.
+
+Ayderias says to Blink, "Given the excitement in the air tonight, I would say perhaps we should not discuss means of harming them."
+
+Ayderias says to Blink, "But, I do wonder if it could be used to block their mental probing."
+
+Wren says to Garaven, "Are you sure? I don't think spiders are immune to their own, or snakes. Cannibalism in many species does happen."
+
+Eabo says to Blink, "Du only wayz I'z tink uf iz drink du stuff an den call dem namez an make um run off cryin."
+
+Ayderias chuckles at Eabo lightly.
+
+Ayderias says to Eabo, "You might be on to something."
+
+Eabo grins slightly.
+
+Rochiriel chuckles.
+
+If you don't do something, you will be logged out in 10 minutes!
+
+You are now listed as AFK.
+
+Garaven says, "Say wren I say typically, and included resistance as well as immunity. Poisons are not really my area of expertise though."
+
+Garaven shrugs.
+
+Blink says, "Yeah she does the gases."
+
+Blink gestures at Rochiriel.
+
+Wren says to Garaven, "Aye, I just don't want to give anyone crazy ideas. I'd be willing to wager they're at least resistant."
+
+Blink grins.
+
+Rochiriel smiles at Blink.
+
+If you don't do something, you will be logged out in 9 minutes!
+l
+
+You are no longer AFK.
+
+
+
+[Pearlean Pavilion.]
+
+A spacious pavilion lined with interlocking red and black stones surrounded by walls of white lattice and creeping vines.  Smells of lavender mixed with fragrant rose blooms and creeping jasmine permeate the area.  Separate patios extend to both the east and west, each one distinguished by the type of vine and shrubs woven between cross-patterned lattice walls.  Flat marble slabs cut into benches surround a small fountain with a statue of a female figure cloaked in robe at its center.  You notice an arrow-shaped wooden sign, a rose trellis, and a small marble fountain.
+
+Also here: Seren the Avardi, Geel the Gavial (seated) on a marble slab bench, Emissary Thyia the Human, Trystan the Human, Wren the Human, Ra'daji Garaven the Verdani, Emissary Rochiriel the Verdani, Champion Blink the Avardi, Kaiah the Human, Merchant Menfanous the Dwarf, Eabo the Goblin, Pyratherndar the Vukasin (seated), Spits the Goblin, Kristauf the Human, and Lord Ayderias the Avardi 
+
+Obvious Exits: west, and south. 
+
+
+Ayderias ponders.
+
+Ayderias says, "Goblins are particularly hardy against poisons as well."
+
+Seren says, "Well if the blood is used for a poison it would be in a recipie Id assume.."
+
+Ayderias says, "Perhaps you should enlist a few for the expedition."
+
+Seren says, "With other items."
+
+Rochiriel asks Ayderias, "Perhaps we should use Eabo as bait then yes?"
+
+Garaven chuckles.
+
+Ayderias glances at Eabo.
+<HP: 175/175 ST: 98/98>
+Rochiriel smiles at Eabo.
+
+Eabo grunts.
+
+Kaiah snorts.
+
+Wren says, "Ey now, back off. This goblin's ours."
+
+Wren leans on Eabo.
+
+Rochiriel says to Eabo, "You are rather nice smelling for a goblin."
+
+Ayderias says to Eabo, "As a scout, I'm sure you would see any danger approaching."
+
+Eabo says to Rochiriel, "I'z bathez."
+
+Wren gapes at Eabo.
+
+Spits stares at Eabo.
+
+Spits wrinkles his nose.
+
+Pyratherndar says, "He does indeed."
+
+Garaven says, "Amazing."
+
+Rochiriel says to Wren, "For a female I believe."
+
+Wren asks Eabo, "You're a marvel, you know that?"
+
+Rochiriel chuckles.
+
+Eabo says to Ayderias, "I'z go on expeditionz."
+
+Wren grins at Rochiriel.
+
+Wren asks Rochiriel, "Oh?"
+
+Thyia smiles at Pyratherndar.
+
+Eabo raises an eyebrow at Wren.
+
+Kristauf grins at Eabo.
+
+Kristauf says to Eabo, "This is a good thing, they say you don't stink."
+
+Eabo grumbles "I'z juz Eabo"
+
+Wren chuckles.
+
+Thyia nods to Pyratherndar.
+
+Ayderias says to Eabo, "You are an exceedingly extraordinary example of your race."
+
+Garaven asks Ayderias, "Perhaps there is room in the museum for this unusual abberation?"
+
+Pyratherndar nods yes in agreement about Eabo.
+
+Wren squints at Garaven.
+
+Rochiriel chuckles.
+
+Ayderias says, "The fact that you've remained engaged, you and the other Goblin, speaks volumes."
+
+Eabo asks, "I'z notz know aboutz dat... But when weez goin on dis expedition?"
+
+Ayderias says to Eabo, "It sounds like we've a week to plan."
+
+Kristauf nods.
+
+Pyratherndar asks Ayderias, "'Is everyone going to be in this plan?"
+
+Ayderias asks, "Would any object to spoiling Emissary Bouldermoore's pastry event?"
+
+Kristauf says to Eabo, "We should likely get to work fletching arrows and such over the course of the week."
+
+Eabo nods to Kristauf.
+
+Rochiriel says to Ayderias, "He likely will be eating his pie in front of everybody instead of sharing anyways."
+
+Trystan says to Ayderias, "Works for me."
+
+Rochiriel chuckles.
+
+Ayderias nods to Rochiriel.
+
+Eabo says to Ayderias, "Maybeez he letz us take dem fo provisionz."
+
+Rochiriel chuckles.
+
+Kaiah nods to Eabo.
+
+Ayderias says to Eabo, "Smart."
+
+Trystan says, "Or the day after."
+
+Trystan chuckles.
+
+Wren asks, "But.. don't we all want to go to a pie party?"
+l
+
+Wren pouts.
+
+
+[Pearlean Pavilion.]
+
+A spacious pavilion lined with interlocking red and black stones surrounded by walls of white lattice and creeping vines.  Smells of lavender mixed with fragrant rose blooms and creeping jasmine permeate the area.  Separate patios extend to both the east and west, each one distinguished by the type of vine and shrubs woven between cross-patterned lattice walls.  Flat marble slabs cut into benches surround a small fountain with a statue of a female figure cloaked in robe at its center.  You notice an arrow-shaped wooden sign, a rose trellis, and a small marble fountain.
+
+Also here: Seren the Avardi, Geel the Gavial (seated) on a marble slab bench, Emissary Thyia the Human, Trystan the Human, Wren the Human, Ra'daji Garaven the Verdani, Emissary Rochiriel the Verdani, Champion Blink the Avardi, Kaiah the Human, Merchant Menfanous the Dwarf, Eabo the Goblin, Pyratherndar the Vukasin (seated), Spits the Goblin, Kristauf the Human, and Lord Ayderias the Avardi 
+
+Obvious Exits: west, and south. 
+
+
+Menfanous gives a slice of whipped cream topped pumpkin pie to Wren.
+
+Pyratherndar says to Ayderias, "I'm sorry that didnt come out they way I ment it."
+
+Blink says to Wren, "I can not. I do not want to become a larger, fleshier target for Wyverns."
+
+Kaiah says to Wren, "Might be just you, Brighteyes."
+
+Wren gasps at Menfanous and squeals.
+
+Menfanous says, "I got that fer ya at the food peddle."
+
+Kaiah stares at Menfanous.
+
+Wren says to Blink, "I'll eat everyone's share, then."
+
+Wren beams at Menfanous.
+
+Kaiah sighs.
+
+Wren sniffs a slice of whipped cream topped pumpkin pie.
+
+Eabo asks Pyratherndar, "Yooz wanna goez on du expidition yez?"
+
+Kristauf says to Wren, "You have fun with that."
+
+Kristauf chuckles.
+
+Pyratherndar says, "Yes."
+Menfanous gives a slice of whipped cream topped pumpkin pie to Kaiah.
+Ayderias says to Pyratherndar, "I will have to speak with the King to inform him of the plan. He will want to send someone of his own I suspect."
+
+Wren says to Kristauf, "I always do."
+
+Kristauf gets a shiny black lacquered ebony pipe from a burlap-patched leather harvest satchel.
+
+Menfanous says to Kaiah, "And one fer you."
+
+Wren takes a bite of a slice of whipped cream topped pumpkin pie.
+
+Wren swoons.
+Ayderias says to Pyratherndar, "This will give me time to research the limestone structure."
+Kaiah blinks.
+
+Kaiah frowns.
+
+Kaiah sniffs a slice of whipped cream topped pumpkin pie.
+
+Kristauf opens a leaf-embroidered canvas smoking pouch.
+
+Rochiriel says to Blink, "I have a gift for you when we've finished here."
+Eabo nods his head up and down to Pyratherndar.
+
+Kristauf gets some sweet mulberry leaf pipe tobacco from a leaf-embroidered canvas smoking pouch.
+
+Kristauf closes a leaf-embroidered canvas smoking pouch.
+
+Trystan says, "Maybe his envoy will pick a different day than wednesday."
+
+Blink says to Rochiriel, "Oh wow."
+Menfanous says to Wren, "And Ernest was bein mad at me fer buyin dem pies."
+
+Pyratherndar says to Ayderias, "If I can be of help please call upon me."
+
+Blink says to Rochiriel, "I hope it's an air elemental summoning portal."
+
+Kristauf tamps the pipe againt his boot before packing a small amount of tobacco into it.
+
+Kristauf puts some sweet mulberry leaf pipe tobacco in a shiny black lacquered ebony pipe.
+
+Rochiriel says to Blink, "It is not."
+
+Blink snaps his fingers.
+
+Rochiriel chuckles.
+
+Ayderias says to Pyratherndar, "I am postive your strength will be called upon."
+
+Kristauf lights up a shiny black lacquered ebony pipe.
+
+Rochiriel says to Blink, "Sorry to disappoint you."
+
+Kristauf puffs on a shiny black lacquered ebony pipe.
+
+Blink says, "Or my roadrunner costume I've been waiting on."
+
+Rochiriel shakes her head from side to side.
+
+Kristauf says, "Should anyone want to hunt, and gather provisions before we head out.. seek me out. I will be around making arrows and the like for our fellowship as it is."
+
+Blink says, "Zykiel said the feathers are rare."
+
+Kristauf puffs on a shiny black lacquered ebony pipe.
+
+Ayderias says to Trystan, "I will post a notice in the post office for any not in attendance and the citizens can decide what works best."
+
+Trystan nods to Ayderias.
+
+Ayderias says to Trystan, "The written word may be to our advantage."
+
+Kristauf puffs on a shiny black lacquered ebony pipe.
+
+Spits sniffs and wipes his nose on his backpack.
+
+Spits snorts.
+
+Spits spits.
+
+Trystan says to Ayderias, "I'm not sure if it works that way, but it can't hurt."
+
+Spits leaves south.
+
+Kristauf puffs on a shiny black lacquered ebony pipe.
+
+Ayderias says to Trystan, "I could not say if Wyverns can read."
+
+Wren says to Blink, "I hope mister Blythe is alright, we haven't seen him in some time."
+The jarring clang from a bell tower marks the top of the hour.
+
+The bell tower clangs for a second time.
+
+Trystan says to Ayderias, "The look at your mind like images of your past."
+
+The bell tower clangs for a third time.
+
+Kristauf puffs on a shiny black lacquered ebony pipe.
+Menfanous mumbles covering his ears.
+The bell tower clangs for a fourth time.
+
+The bell tower clangs for a fifth time.
+Ayderias nods to Trystan.
+
+Trystan shrugs casually.
+
+The bell tower clangs for a sixth time.
+
+Ayderias says to Trystan, "That is a problem."
+
+The bell tower clangs for a seventh time.
+
+The bell tower clangs for an eighth time.
+
+The bell tower clangs for a ninth time.
+Trystan says, "I'm sure we'll walk into some kind of a trap."
+
+Menfanous asks Wren, "The pie gud?"
+The bell tower clangs for a tenth time.
+
+Kristauf says, "For now though, I will see you all during the week.. rest well."
+
+Kristauf leaves south.
+
+The bell tower clangs for an eleventh time.
+
+who
+[ARRIVALS] 'Kristauf has logged out.'
+   Players Currently Online: 
+ =============================
+
+   Spits the Goblin                                            
+   Kaiah the Human                                             
+   Eabo the Goblin                                             
+   Wren the Human                                              
+   Seren the Avardi                                            
+   Ayderias the Avardi                                         
+   Geel the Gavial                                             
+   Chihinn the Human                                           
+   Thyia the Human                                             
+   Telthus the Verdani                                         
+   Rochiriel the Verdani                                       
+   Trystan the Human                                           
+   Menfanous the Dwarf                                         
+   Garaven the Verdani                                         
+   Blink the Avardi                                            
+   Pyratherndar the Vukasin                                    
+
+
+Blink says to Wren, "He was here last month I think. I had someone go talk to him for me."
+
+Wren says to Menfanous, "Divine."
+
+Wren says to Blink, "Aye? Well that's a bit more reassuring at least."
+
+Ayderias says, "It is decided then. I will speak with our King and inform you all when the trip can be arranged."
+
+Kaiah nods.
+
+Wren nods to Ayderias.
+
+Rochiriel nods.
+
+Blink says to Ayderias, "Sounds good."
+
+Ayderias says, "As usual, we will go forth perhaps with his blessing, but at our own risk."
+
+Trystan chuckles.
+
+Trystan murmurs softly 'as usual'.
+
+Wren says, "Risk? Hah! I invite it."
+
+Wren takes a bite of a slice of whipped cream topped pumpkin pie.
+
+Blink says, "Yeah, it's rough, at least until I can achieve full mist form."
+
+Rochiriel says to Wren, "I would like a word with you after we are finished here."
+
+Menfanous gives a slice of whipped cream topped pumpkin pie to Wren.
+
+Wren blinks at Rochiriel after looking up from her pie.
+
+Wren says to Rochiriel, "Certainly, so long as it's quick. I've got to retire soon."
+
+Ayderias says, "Unless there is anything else to add, I see no reason to linger longer and invite further painful attacks of the mind."
+
+Thyia smiles at Menfanous and nods.
+
+Rochiriel says to Wren, "It will be."
+
+Geel stands up.
+
+Trystan says, "Agreed."
+Wren nods to Rochiriel.
+Menfanous smiles at Thyia.
+
+Blink says, "Yeah, good night everyone."
+
+Trystan waves to Blink.
+
+Geel swishes his tail.
+
+Blink bows and dips his beak.
+
+Wren says, "Good night all."
+
+Ayderias says to Geel, "Do let us know if you handle this all on your own."
+
+Trystan asks Ayderias, "Do you have a quick moment to talk?"
+
+Menfanous says to Wren, "Yer welcome and gud night."
+
+Blink follows Rochiriel.
+
+Rochiriel asks Blink, "Do you want your gift?"
+
+Wren beams at Menfanous.
+
+Blink exclaims to Rochiriel, "Yep!"
+
+Geel says to Ayderias, "You will be the first to know."
+
+Rochiriel chuckles.
+
+Pyratherndar nods to Thyia.
+
+Thyia smiles at Pyratherndar.
+
+Seren asks Geel, "Ready?"
+Wren asks Rochiriel, "Shall I meet you somewhere?"
+
+Ayderias nods to Trystan.
+
+Menfanous says to Kaiah, "See ya later lass."
+
+Ayderias follows Trystan.
+Geel says to Seren, "Yes."
+
+Geel bows to Garaven.
+
+Kaiah says to Menfanous, "Safe travels."
+
+Rochiriel says to Wren, "Just one moment."
+
+Seren says, "Night all."
+
+Garaven bows to Geel.
+<HP: 175/175 ST: 98/98>
+Wren nods.
+
+Geel says, "Good night."
+
+Seren leaves south.
+Geel leaves south.
+
+Ayderias says, "Thank you all for so bravely sharing your tales of encounter with the wyverns."
+Rochiriel gives a bowl of roasted butternut squash and black bean salad to Blink.
+Rochiriel gives a bowl of roasted butternut squash and black bean salad to Blink.(3)
+<HP: 175/175 ST: 98/98>
+Rochiriel gives a bowl of roasted butternut squash and black bean salad to Blink.
+Rochiriel gives a bowl of roasted butternut squash and black bean salad to Blink.(4)
+Menfanous says to Kaiah, "Ye tooo."
+Rochiriel gives a bowl of roasted butternut squash and black bean salad to Blink.
+
+Blink says, "Oh wow."
+
+Rochiriel gives a plate of garlic infused sesame peanut noodles to Blink.
+Rochiriel gives a plate of garlic infused sesame peanut noodles to Blink.(9)
+
+Blink says, "Yum."
+
+Trystan chuckles at Blink.
+
+Rochiriel says, "Those are dishes from Aerthane."
+Trystan says to Blink, "So much for your diet."
+
+Wren says to Ayderias, "Thank you for hosting this tonight, emissary Clarveau. It was beneficial, I think."
+
+Rochiriel says, "From the peddle the other night."
+time

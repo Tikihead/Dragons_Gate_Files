@@ -1,0 +1,2312 @@
+l mer
+
+Merovingian looks like a husky 50 year old male Human.
+He has light brown eyes and long, tied back, light brown hair.
+He is 6 feet 9 inches tall and weighs 223 pounds.
+He has an aura of Itzal.
+Merovingian is in perfect health.
+
+an intense fellow with a piercing gaze
+
+He is wearing:
+
+Head            : a ripped brown tweed hat
+Neck            : a frayed red silk scarf
+Back            : an academy-issue canvas backpack
+Body            : some tattered red cotton robes
+Torso           : a full-plate copper cuirass
+Waist           : a leather weapon harness
+Legs            : some blood-stained wool trousers
+Feet            : some dull black leather boots
+
+l
+
+
+
+[Palace Gazebo.]
+
+Smooth white oak rails supported by twisted iron posts line the outer walls of the gazebo.  An open-air gap between the outer rail and the ceiling above allows for the flowery aroma of the garden to waft through the gazebo.  An elevated platform at the center of the area allows for a speaker to address the encompassing crowd all at once.  You notice an ornate white wooden gazebo exit.
+
+Obvious Exits: none
+
+
+who
+[ARRIVALS] 'Trystan has logged on.'
+
+   Players Currently Online: 
+ =============================
+
+   Bihi the Bolinau                                            
+   Nykliox the Gargoyle                                        
+   Garaven the Verdani                                         
+   Kaiya the Avardi                                            
+   Kurda the Vukasin                                           
+   Seren the Avardi                                            
+   Geel the Gavial                                             
+   Merovingian the Human                                       
+   Trystan the Human                                           
+
+
+who
+[ARRIVALS] 'Lephierna has logged on.'
+
+   Players Currently Online: 
+ =============================
+
+   Bihi the Bolinau                                            
+   Nykliox the Gargoyle                                        
+   Garaven the Verdani                                         
+   Kaiya the Avardi                                            
+   Kurda the Vukasin                                           
+   Seren the Avardi                                            
+   Geel the Gavial                                             
+   Merovingian the Human                                       
+   Trystan the Human                                           
+   Lephierna the Verdani                                       
+
+
+Trystan arrives from the north.
+
+Trystan leaves north.
+
+Seren arrives from the north.
+
+Seren leaves north.
+l n
+
+Looking north you see...
+You can't see that!
+
+who
+[ARRIVALS] 'Blink has logged on.'
+   Players Currently Online: 
+ =============================
+
+   Bihi the Bolinau                                            
+   Nykliox the Gargoyle                                        
+   Garaven the Verdani                                         
+   Kaiya the Avardi                                            
+   Kurda the Vukasin                                           
+   Seren the Avardi                                            
+   Geel the Gavial                                             
+   Merovingian the Human                                       
+   Trystan the Human                                           
+   Lephierna the Verdani                                       
+   Blink the Avardi                                            
+
+
+Kaiya arrives from the north.
+
+Kaiya leaves north.
+
+Geel arrives from the north.
+
+Geel leaves north.
+
+who
+[ARRIVALS] 'Rochiriel has logged on.'
+
+   Players Currently Online: 
+ =============================
+
+   Bihi the Bolinau                                            
+   Nykliox the Gargoyle                                        
+   Garaven the Verdani                                         
+   Kaiya the Avardi                                            
+   Kurda the Vukasin                                           
+   Seren the Avardi                                            
+   Geel the Gavial                                             
+   Merovingian the Human                                       
+   Trystan the Human                                           
+   Lephierna the Verdani                                       
+   Blink the Avardi                                            
+   Rochiriel the Verdani                                       
+
+
+Lephierna arrives from the north.
+
+Nykliox arrives from the north.
+
+Garaven arrives from the north.
+
+Blink arrives from the north.
+
+Kaiya arrives from the north.
+
+Nykliox chuckles.
+
+Rochiriel arrives from the north.
+
+Seren arrives from the north.
+
+Geel arrives from the north.
+
+Geel sits on a white painted oak bench.
+
+Trystan arrives from the north.
+
+Garaven nods.
+
+Rochiriel smiles at Seren.
+
+Garaven says, "Excellent."
+Kaiya says, "Thankfully I'm the only scout here so far."
+
+Garaven sits on a white painted oak bench.
+
+Blink removes an ancient bison bone-handled orichalcum skinning knife.
+
+Kaiya twiddles her fingers.
+
+Seren smiles at Rochiriel.
+Nykliox raises an eyebrow at Kaiya.
+
+Blink gets a large plush blue twill sleeping bag from a silver-buckled leather satchel.
+
+Blink holds a large plush blue twill sleeping bag.
+
+Blink lies down.
+
+Nykliox says to Kaiya, "I beg to differ."
+
+Rochiriel says to Seren, "I appologize I didn't see you there."
+
+Kaiya asks, "Oh?"
+
+Nykliox smiles.
+
+Seren says, "Im always standing in the back."
+
+Seren chuckles.
+
+Rochiriel sits on a white painted oak bench.
+
+Kaiya says, "Ah well. Two is better than five."
+
+Kaiya nods firmly.
+
+Nykliox chuckles.
+
+Lephierna says, "This is preposterous."
+
+Lephierna says to Rochiriel, "There is no seating."
+
+Garaven glances at a white painted oak bench.
+
+Rochiriel taps a white painted oak bench.
+
+Rochiriel says, "Sure there is."
+
+Nykliox says, "We're all standing in front if it, mostly."
+
+Nykliox sits on a white painted oak bench.
+
+Lephierna says, "I will not be sitting on a simple bench."
+
+Blink says, "I bring my seating with me."
+
+Garaven says to Lephierna, "Around here any seating is rare."
+
+Garaven sighs.
+
+Lephierna says, "Let us begin."
+
+Kaiya claps excitedly.
+
+Bihi arrives from the north.
+
+Lephierna says, "First we have a set for an archer."
+
+Lephierna gets an extra-large quiver of steel broadhead yew arrows from a heavy burlap peddle bag.
+l
+
+
+
+[Palace Gazebo.]
+
+Smooth white oak rails supported by twisted iron posts line the outer walls of the gazebo.  An open-air gap between the outer rail and the ceiling above allows for the flowery aroma of the garden to waft through the gazebo.  An elevated platform at the center of the area allows for a speaker to address the encompassing crowd all at once.  You notice an ornate white wooden gazebo exit.
+
+Also here: Merchant Lephierna the Verdani, Nykliox the Gargoyle (seated) on a white painted oak bench, Ra'daji Garaven the Verdani (seated) on a white painted oak bench, Champion Blink the Avardi (lying down), Kaiya the Avardi, Emissary Rochiriel the Verdani (seated) on a white painted oak bench, Seren the Avardi, Geel the Gavial (seated) on a white painted oak bench, Trystan the Human, and Bihi the Bolinau 
+
+Obvious Exits: none
+
+
+Kaiya says, "Oooh."
+
+Lephierna gets a wide-limbed polished teak short-bow from a heavy burlap peddle bag.
+
+Geel winks at Seren.
+l lep
+
+Lephierna looks like a muscular 118 year old female Verdani.
+She has dark green eyes and very long, tied back, chestnut brown hair.
+She is 6 feet 3 inches tall and weighs 130 pounds.
+She has an aura of Tetherias.
+Lephierna is in perfect health.
+
+Proper when standing, this verdani seems out of place within the city. Her long hair is tied repeatedly down her hair in small sections. Her green eyes gaze through her parted bangs.
+
+She is wearing:
+
+Head            : a thin woven vine circlet
+Body            : a leather-fringed long green linen surcoat
+Torso           : a traditional leaf-embroidered brocade kurta
+Hands           : some tasseled tan elbow-length calf hide gloves
+Waist           : a snug brass-buckled leather scabbard
+Legs            : some green linen knee-breeches
+Feet            : some cross-laced tan calf hide knee boots
+
+
+Lephierna says, "There will be no minimum bid, however, bidding will begin in increments of one hundred doubloons."
+
+Kaiya says, "One hundred."
+
+Lephierna says to Kaiya, "Very well."
+
+Lephierna says, "The quiver holds many arrows."
+
+Nykliox raises an eyebrow.
+
+Nykliox says, "300."
+
+Kaiya says, "Five hundred."
+
+Lephierna says, "I shall let you two to it."
+
+Nykliox chuckles.
+
+Nykliox says to Lephierna, "Seven hundred."
+
+Kaiya says, "Eight."
+
+Nykliox says to Lephierna, "One thousand."
+
+Kaiya says, "Twelve hundred."
+
+Lephierna says, "Do inform me should you relent."
+
+Nykliox ponders.
+
+Lephierna gestures.
+
+Nykliox says to Lephierna, "One Thousand thirteen hundred."
+
+Nykliox ponders.
+
+Nykliox says, "You now what I mean."
+
+Kaiya says, "Fifteen."
+
+Nykliox grunts.
+
+Nykliox gestures at Kaiya.
+
+Kaiya claps.
+
+Nykliox says to Lephierna, "I do relent."
+
+Lephierna asks, "Very well. Do we have any other counter bids?"
+l
+
+
+
+[Palace Gazebo.]
+
+Smooth white oak rails supported by twisted iron posts line the outer walls of the gazebo.  An open-air gap between the outer rail and the ceiling above allows for the flowery aroma of the garden to waft through the gazebo.  An elevated platform at the center of the area allows for a speaker to address the encompassing crowd all at once.  You notice an ornate white wooden gazebo exit.
+
+Also here: Nykliox the Gargoyle (seated) on a white painted oak bench, Ra'daji Garaven the Verdani (seated) on a white painted oak bench, Champion Blink the Avardi (lying down), Kaiya the Avardi, Emissary Rochiriel the Verdani (seated) on a white painted oak bench, Seren the Avardi, Geel the Gavial (seated) on a white painted oak bench, Trystan the Human, Bihi the Bolinau, and Merchant Lephierna the Verdani 
+
+Obvious Exits: none
+
+
+Bihi says, "Sure. two thousand."
+
+Kaiya says, "Twenty two hundred."
+
+Bihi says, "Three."
+
+Kaiya says, "Thirty two hundred."
+
+Bihi asks, "May I hold the bow?"
+
+Lephierna gives a wide-limbed polished teak short-bow to Bihi.
+
+Bihi says, "Thank you."
+
+Lephierna says to Bihi, "You are welcome."
+
+Bihi gets an eagle-etched yew longbow from an academy-issue canvas backpack.
+
+Bihi says, "Thank you again."
+
+Bihi gives a wide-limbed polished teak short-bow to Lephierna.
+
+Bihi says, "No further bidding."
+
+Bihi says to Geel, "It IS teak."
+
+Lephierna says, "There appears to be no other bids."
+
+Geel says, "I am aware."
+
+Garaven chuckles.
+
+Lephierna says to Kaiya, "You have purchased the set and may pay at the conclusion of this peddle."
+
+Garaven takes a drink from a cup of hot Tetherian-bean coffee.
+
+Kaiya beams.
+
+Kaiya exclaims, "Thanks!"
+
+Lephierna gets a leather-padded green dragon-etched thoraxium arm guard from a heavy burlap peddle bag.
+
+Garaven says to Kaiya, "A very nice bow indeed."
+
+Kaiya smiles at Garaven.
+
+Kaiya says, "I need a back up. The quiver is more exciting to me."
+
+Garaven smirks.
+
+Lephierna says, "This next item will benefit those whom may still be learning the proper use of a bow."
+
+Blink says, "Oh, wow."
+
+Lephierna asks, "It is also considered by many to be...what is the word?"
+
+Kaiya says, "Pretty."
+
+Bihi says, "I'm perpetually learning the proper use of a bow."
+
+Lephierna says to Kaiya, "Or fashionable."
+
+Kaiya grins.
+
+Lephierna says, "The bidding may commence."
+
+Kaiya asks, "May I examine it?"
+
+Lephierna says to Kaiya, "You may do so."
+
+Lephierna gives a leather-padded green dragon-etched thoraxium arm guard to Kaiya.
+
+Kaiya asks, "What is thoraxium?"
+
+Nykliox says to Lephierna, "What is that...."
+
+Nykliox nods to Kaiya.
+
+Kaiya gives a leather-padded green dragon-etched thoraxium arm guard to Lephierna.
+
+Nykliox says, "My question exactly."
+
+Garaven says, "That may come in handy for my training."
+
+Kaiya removes a hardened leather archer bracer.
+
+Garaven rubs his forearm.
+Kaiya puts on a hardened leather archer bracer.
+
+Geel flicks his tongue.
+
+Kaiya says, "My bracer is a bit big for my little arm."
+
+Lephierna says, "Thoraxium is hardened chitin from a large insect."
+
+Kaiya says, "Oh nice."
+
+Kaiya says, "Three hundred."
+
+Garaven says, "A thousand."
+
+Blink says, "Yeah, you can get it off those centipedes in Stirling."
+
+Kaiya says, "I'll give up already. Know he can outbid me."
+
+Trystan says, "Two thousand."
+
+Garaven ponders.
+
+Garaven says to Trystan, "Didn't know you used a bow."
+
+Garaven says, "Three."
+
+Nykliox says to Garaven, "Arm protection is important. Using a flawed or poor quality arrow may cause the arrow shaft to break upon release. You don't want half a splintered arrow shaft being driven into your arm."
+
+Trystan says, "That's the point of the bid, time to learn for next years contest."
+
+Kaiya grins at Trystan.
+
+Trystan says, "Four thousand."
+
+If you don't do something, you will be logged out in 10 minutes!
+
+You are now listed as AFK.
+l
+
+You are no longer AFK.
+
+
+
+[Palace Gazebo.]
+
+Smooth white oak rails supported by twisted iron posts line the outer walls of the gazebo.  An open-air gap between the outer rail and the ceiling above allows for the flowery aroma of the garden to waft through the gazebo.  An elevated platform at the center of the area allows for a speaker to address the encompassing crowd all at once.  You notice an ornate white wooden gazebo exit.
+
+Also here: Nykliox the Gargoyle (seated) on a white painted oak bench, Ra'daji Garaven the Verdani (seated) on a white painted oak bench, Champion Blink the Avardi (lying down), Kaiya the Avardi, Emissary Rochiriel the Verdani (seated) on a white painted oak bench, Seren the Avardi, Geel the Gavial (seated) on a white painted oak bench, Trystan the Human, Bihi the Bolinau, and Merchant Lephierna the Verdani 
+
+Obvious Exits: none
+
+
+Garaven says to Trystan, "Didn't think wearing dead insect carcasses was your style."
+
+Garaven says, "Four and a half."
+
+Trystan says, "I actually have a set."
+
+Garaven smirks.
+
+Garaven says to Trystan, "I stand corrected."
+
+Trystan shakes his head from side to side to Lephierna.
+
+Lephierna asks, "Very well. Do we have any counter bids?"
+
+Garaven takes a drink from a cup of hot Tetherian-bean coffee.
+
+Lephierna says to Garaven, "You have purchased the arm guard."
+
+Garaven says to Lephierna, "Excellent."
+Kaiya claps for Garaven.
+
+Trystan claps.
+
+Lephierna gets a smooth mahogany-handled upswept palm blacksteel skinner from a heavy burlap peddle bag.
+
+Kaiya says, "Oooooh\."
+
+Kaiya says, "-Very- pretty."
+
+The jarring clang from a bell tower marks the top of the hour.
+
+Bihi asks, "May I see it as well?"
+
+The bell tower clangs for a second time.
+
+Lephierna says, "One should be able to efficiently use this to skin the largest of animals, provided they know how to do so."
+
+The bell tower clangs for a third time.
+
+The bell tower clangs for a fourth time.
+
+who
+[ARRIVALS] 'Omizer has logged on.'
+   Players Currently Online: 
+ =============================
+
+   Bihi the Bolinau                                            
+   Nykliox the Gargoyle                                        
+   Garaven the Verdani                                         
+   Kaiya the Avardi                                            
+   Kurda the Vukasin                                           
+   Seren the Avardi                                            
+   Geel the Gavial                                             
+   Merovingian the Human                                       
+   Trystan the Human                                           
+   Lephierna the Verdani                                       
+   Blink the Avardi                                            
+   Rochiriel the Verdani                                       
+   Omizer the Devalin                                          
+
+
+The bell tower clangs for a fifth time.
+
+The bell tower clangs for a sixth time.
+
+The bell tower clangs for a seventh time.
+
+The bell tower clangs for an eighth time.
+
+Lephierna says, "I would not expect it to make the process easier, but the cuts will be better aligned with its weighted tang."
+
+Bihi says, "I'm not sure what that means."
+
+Kaiya says, "It won't make you a better skinner than you already are."
+
+Kaiya says, "But the pelts will look nicer."
+
+Geel says to Bihi, "The tang is the part of the blade that extends into the handle of the knife."
+
+Lephierna says to Bihi, "Perhaps you should spend more time within the woods."
+
+Garaven asks Rochiriel, "It is a beautiful knife, isn't it?"
+
+Bihi says, "Perhaps you should attach the ajective cuts with noun."
+
+Lephierna says, "The bidding may commence."
+
+Rochiriel nods to Garaven.
+
+Kaiya says, "Three hundred."
+
+Garaven glances around.
+
+Garaven says, "Five hundred."
+
+Nykliox sits back, leaning against one of the gazebo posts, and watches the bidding contest.
+
+Kaiya says, "Seven."
+
+Garaven says, "Eight."
+
+Kaiya says, "Nine."
+
+Lephierna says to Bihi, "The upswept tip provides better leverage in my opinion."
+
+Garaven says, "One thousand."
+
+Kaiya says, "Twelve hundred."
+
+Trystan says, "Fifteen hundred."
+
+Kaiya scowls at Trystan.
+
+Nykliox chuckles softly.
+
+Garaven says, "Two thousand then."
+
+Kaiya says, "Twenty two hundred."
+
+Garaven says, "Twenty fie."
+
+Kaiya says, "Twenty eight."
+
+Garaven says, "Five thousand."
+
+Kaiya gestures to Garaven as she gives in.
+
+Lephierna says, "Unless we have any counter bids..."
+
+Trystan says, "Seven."
+
+Garaven smirks.
+
+Garaven says, "Was about to say that was cheap for blacksteel."
+
+Trystan says to Garaven, "She glared at me, I thought I should wait."
+
+Kaiya laughs.
+
+Garaven says, "Eight."
+
+Kaiya says, "It was a nice glare."
+
+Kaiya twiddles her fingers.
+
+Trystan chuckles at Kaiya.
+
+Trystan says, "Ten."
+
+Blink grins.
+
+Garaven ponders.
+
+Garaven leans over and whispers to Rochiriel.
+
+Garaven says, "Eleven."
+
+Trystan says, "Eleven thousand five hundred."
+
+Rochiriel nods to Garaven.
+
+Garaven says, "Twelve."
+
+Trystan gestures at Garaven.
+
+Kaiya claps for Garaven.
+
+Trystan asks Blink, "Have I mentioned I have some things I'd like you to skin?"
+
+Lephierna says, "It appears we may no longer have a counter bid."
+
+Blink says to Trystan, "Nope."
+
+Garaven says, "I am all right with that."
+
+Lephierna says to Garaven, "You have purchased the blacksteel skinner."
+
+Garaven says, "Wonderful."
+
+Trystan grins at Blink.
+
+Lephierna gets a bronze-buckled stretched elk hide satchel from a heavy burlap peddle bag.
+
+Rochiriel smiles at Garaven.
+
+If you don't do something, you will be logged out in 10 minutes!
+
+You are now listed as AFK.
+l
+
+You are no longer AFK.
+
+
+
+[Palace Gazebo.]
+
+Smooth white oak rails supported by twisted iron posts line the outer walls of the gazebo.  An open-air gap between the outer rail and the ceiling above allows for the flowery aroma of the garden to waft through the gazebo.  An elevated platform at the center of the area allows for a speaker to address the encompassing crowd all at once.  You notice an ornate white wooden gazebo exit.
+
+Also here: Nykliox the Gargoyle (seated) on a white painted oak bench, Ra'daji Garaven the Verdani (seated) on a white painted oak bench, Champion Blink the Avardi (lying down), Kaiya the Avardi, Emissary Rochiriel the Verdani (seated) on a white painted oak bench, Seren the Avardi, Geel the Gavial (seated) on a white painted oak bench, Trystan the Human, Bihi the Bolinau, and Merchant Lephierna the Verdani 
+
+Obvious Exits: none
+
+
+Lephierna says, "This satchel may be used to carry pelts. While it may not hold as much as a backpack, I sincerely hope none of you has used backpack for such."
+
+Garaven chuckles.
+
+Blink says, "Oh I wouldn't do that. That's where the dead gophers go."
+
+Rochiriel sighs.
+
+Lephierna says, "Given to me this morning, this pelt was created from an elk culled during the Big Game Hunt."
+
+Rochiriel smiles at Lephierna.
+
+Lephierna says, "One may own this bit of festival history."
+
+Lephierna says, "The bidding may commence."
+
+Rochiriel says, "Two hundred please."
+
+Garaven says to Rochiriel, "It will go well with your skinning knife."
+
+Garaven says, "Maybe we should change professions."
+
+Lephierna says to Rochiriel, "It would appear as though few are in need of a pelt satchel."
+
+Rochiriel says to Garaven, "Yes I will become a professional skinner instead of an Emissary."
+
+Rochiriel chuckles.
+
+Garaven says to Rochiriel, "I recommend it."
+
+Rochiriel glances around.
+
+Blink says to Rochiriel, "Yeah I've done both. It's definitely funner."
+
+Nykliox smiles.
+
+Rochiriel chuckles.
+
+Lephierna says, "Of course, one is not required to contain pelts within, one may store anything within."
+
+Rochiriel asks Blink, "Less blood shed?"
+
+Rochiriel chuckles.
+
+Blink says to Rochiriel, "Oh well the animal squeals hurt your ears less than all the speeches."
+
+Rochiriel laughs.
+
+Nykliox says, "Done correctly, the animals do not squeal much, if at all."
+
+Bihi says, "In conclave, one is far from the screams they are responsible for."
+
+Lephierna asks, "There are no counter bids?"
+
+Rochiriel says, "And yes so close."
+
+Lephierna points at a bronze-buckled stretched elk hide satchel.
+
+Rochiriel frowns at Bihi.
+
+Kaiya says, "And the streak continues."
+
+Garaven says to Lephierna, "Seems no one is in need of a decent satchel."
+
+Trystan chuckles at Kaiya.
+
+Nykliox smiles.
+
+Lephierna says, "Very well."
+
+Rochiriel says to Kaiya, "I was just starting the bid."
+
+Rochiriel chuckles.
+
+Trystan asks, "What's the bid?"
+
+Rochiriel says, "Two hundred."
+
+Bihi leaves north.
+
+Trystan says, "Five hundred."
+
+who
+[ARRIVALS] 'Omizer has logged out.'
+
+   Players Currently Online: 
+ =============================
+
+   Bihi the Bolinau                                            
+   Nykliox the Gargoyle                                        
+   Garaven the Verdani                                         
+   Kaiya the Avardi                                            
+   Kurda the Vukasin                                           
+   Seren the Avardi                                            
+   Geel the Gavial                                             
+   Merovingian the Human                                       
+   Trystan the Human                                           
+   Lephierna the Verdani                                       
+   Blink the Avardi                                            
+   Rochiriel the Verdani                                       
+
+
+Lephierna says to Trystan, "It does not appear there is a counter bid."
+
+Garaven shakes his head from side to side.
+
+Trystan asks Lephierna, "Mind if I pay for it now?"
+l
+
+
+
+[Palace Gazebo.]
+
+Smooth white oak rails supported by twisted iron posts line the outer walls of the gazebo.  An open-air gap between the outer rail and the ceiling above allows for the flowery aroma of the garden to waft through the gazebo.  An elevated platform at the center of the area allows for a speaker to address the encompassing crowd all at once.  You notice an ornate white wooden gazebo exit.
+
+Also here: Nykliox the Gargoyle (seated) on a white painted oak bench, Ra'daji Garaven the Verdani (seated) on a white painted oak bench, Champion Blink the Avardi (lying down), Kaiya the Avardi, Emissary Rochiriel the Verdani (seated) on a white painted oak bench, Seren the Avardi, Geel the Gavial (seated) on a white painted oak bench, Trystan the Human, and Merchant Lephierna the Verdani 
+
+Obvious Exits: none
+
+
+Rochiriel chuckles.
+
+Lephierna says to Trystan, "You may do so."
+
+Trystan gets 3510 doubloons from a small black leather coinpouch.
+
+Trystan gives 500 doubloons to Lephierna.
+
+Trystan puts 3000 doubloons in a small black leather coinpouch.
+
+Lephierna gives a bronze-buckled stretched elk hide satchel to Trystan.
+
+Trystan nods to Lephierna and says, "Thank you."
+
+Lephierna says to Trystan, "You are welcome."
+
+Lephierna gets a teak-hilted serrated back-edged crudesteel machete from a heavy burlap peddle bag.
+
+Garaven says to Trystan, "You can tell people you took it down yourself."
+
+Trystan grins at Garaven.
+
+Blink says to Trystan, "Oh wow. Good job."
+
+Kaiya eyes the machete and sighs.
+
+Rochiriel says to Lephierna, "That is nice."
+Trystan nods to Blink.
+
+Kaiya says, "That'd make wood chopping so much easier."
+
+Lephierna says, "While many of you may have little interest in crudesteel, this piece may be used for simple work."
+
+Blink says, "I did not in fact murder the cow for this."
+
+Blink pets a silver-buckled leather satchel.
+
+Kaiya says, "But if I bought it, I'd then have to start chopping wood agai."
+
+Lephierna says, "One may conserve their true blade by using this in its place."
+
+Lephierna says, "The bidding may commence."
+
+Blink says, "Okay 200."
+
+Rochiriel asks Kaiya, "At least it would be easier yes?"
+
+Nykliox says, "Three hundred."
+
+Blink says, "500."
+
+Nykliox says, "Seven hundred."
+
+Kaiya says to Rochiriel, "I'd still likely want to poke my eyes out."
+
+Blink says, "Oh well, I'll be poor if this keeps up. I relent."
+
+Blink says to Kaiya, "Oh well don't poke your eyes out. It is in fact hard to be an eyeless archer."
+
+Kaiya grins at Blink.
+
+Kaiya says to Blink, "But not impossible, I'm sure."
+
+Lephierna says to Nykliox, "You have the highest bid at the moment."
+
+Nykliox nods.
+
+Blink says, "Oh well it'll look good at contests I guess."
+
+Rochiriel says to Kaiya, "Not to mention trying to track without eyes."
+
+Lephierna says to Nykliox, "Quite a low one for crudesteel, but that does not surprise me."
+
+Kaiya says to Rochiriel, "Now that'd be difficult."
+l
+
+
+
+[Palace Gazebo.]
+
+Smooth white oak rails supported by twisted iron posts line the outer walls of the gazebo.  An open-air gap between the outer rail and the ceiling above allows for the flowery aroma of the garden to waft through the gazebo.  An elevated platform at the center of the area allows for a speaker to address the encompassing crowd all at once.  You notice an ornate white wooden gazebo exit.
+
+Also here: Nykliox the Gargoyle (seated) on a white painted oak bench, Ra'daji Garaven the Verdani (seated) on a white painted oak bench, Champion Blink the Avardi (lying down), Kaiya the Avardi, Emissary Rochiriel the Verdani (seated) on a white painted oak bench, Seren the Avardi, Geel the Gavial (seated) on a white painted oak bench, Trystan the Human, and Merchant Lephierna the Verdani 
+
+Obvious Exits: none
+
+
+Nykliox smiles.
+
+Kaiya asks, "How does crudesteel compare to other metals?"
+
+Blink says, "Better than steel."
+
+Garaven says, "Not quite blacksteel."
+
+Lephierna says to Kaiya, "I would value it more than steel if not for whom typically produces it."
+
+Kaiya nods.
+
+Kaiya says, "I'm surprised there wasn't more interest in it, then."
+
+Nykliox says to Kaiya, "Crudesteel is a Goblin made material."
+
+Kaiya says, "Ah."
+
+Lephierna says, "While you may gather wood with it, you may also use it for hunting."
+
+Lephierna says, "There appears to be no bid higher than seven hundred."
+
+Lephierna says to Nykliox, "You have purchased the crudesteel machete."
+
+Nykliox stands up.
+
+Nykliox bows to Lephierna.
+
+Kaiya claps for Nykliox.
+
+Nykliox says to Lephierna, "Conclude afterward if that is satisfactory."
+
+Lephierna gets a steel-riveted hardened leather bow sling from a heavy burlap peddle bag.
+
+Lephierna says to Nykliox, "It is."
+
+Nykliox nods.
+
+Nykliox sits on a white painted oak bench.
+
+Lephierna says, "With this one may store a bow upon his or her back."
+
+Kaiya claps.
+
+Blink says, "Oh, wow."
+
+Lephierna says, "The bidding may commence."
+
+Kaiya says, "Three hundred."
+
+Nykliox says, "Six hundred."
+
+Kaiya says, "Eight."
+
+Nykliox says, "One thousand."
+
+Kaiya says, "Fifteen hundred."
+
+Nykliox says, "Two thousand."
+
+Kaiya says, "Twenty five hundred."
+
+Nykliox ponders.
+
+Nykliox gestures at Kaiya.
+
+Nykliox leans back.
+
+Lephierna says, "There appears to be no counter bid."
+
+Lephierna says to Kaiya, "You have purchased the bow sling."
+
+Kaiya beams.
+
+Kaiya says, "Thank you."
+
+Lephierna gets a teak-handled vine-engraved electrum forest axe from a heavy burlap peddle bag.
+
+Nykliox raises an eyebrow.
+
+Blink says, "Oh, wow."
+Kaiya grins.
+
+Garaven whistles.
+
+Rochiriel smiles.
+
+Geel stands up.
+
+Geel swishes his tail.
+
+Lephierna says, "Like the machete, this axe can be used for gathering wood and defending yourself."
+
+Kaiya says, "What is it made from? I don't recognize the material."
+
+Rochiriel smiles at Geel.
+
+Garaven says to Kaiya, "That would be electrum."
+
+Rochiriel says to Kaiya, "It is one of the best materials I know of."
+
+Kaiya asks Garaven, "And where does that land in the scale of good metals?"
+
+Kaiya says, "Ah."
+
+Lephierna says to Kaiya, "Any smelter can teach you metals. It is a combination of hardened silver and gold--highly effective."
+
+Kaiya nods to Lephierna.
+
+If you don't do something, you will be logged out in 10 minutes!
+
+You are now listed as AFK.
+l
+
+You are no longer AFK.
+
+
+
+[Palace Gazebo.]
+
+Smooth white oak rails supported by twisted iron posts line the outer walls of the gazebo.  An open-air gap between the outer rail and the ceiling above allows for the flowery aroma of the garden to waft through the gazebo.  An elevated platform at the center of the area allows for a speaker to address the encompassing crowd all at once.  You notice an ornate white wooden gazebo exit.
+
+Also here: Nykliox the Gargoyle (seated) on a white painted oak bench, Ra'daji Garaven the Verdani (seated) on a white painted oak bench, Champion Blink the Avardi (lying down), Kaiya the Avardi, Emissary Rochiriel the Verdani (seated) on a white painted oak bench, Seren the Avardi, Geel the Gavial, Trystan the Human, and Merchant Lephierna the Verdani 
+
+Obvious Exits: none
+
+
+Geel says to Lephierna, "Ten thousand, please."
+
+Lephierna says, "One would think it soft, but the smelting process is modified to resolve that."
+
+Lephierna says to Geel, "Very well."
+
+Garaven says, "Hmmm."
+
+Geel removes a large black felt homburg hat.
+
+Lephierna says, "There appears to be no counter bid."
+
+Kaiya says, "Fifteen thousand."
+
+Geel asks Lephierna, "Seventeen please?"
+
+Kaiya says, "Twenty."
+
+Geel asks Lephierna, "Twenty two please?"
+
+Kaiya chews on her bottom lip as she thinks over how much wood chopping she'd have to do to make the axe worth the cost.
+
+Kaiya says, "Twenty four."
+
+Geel flicks his tongue.
+
+Geel scratches the top of his head.
+
+Geel says to Lephierna, "Twenty five, please."
+
+Kaiya says, "Twenty seven."
+
+Geel frowns.
+
+Geel narrows his eyes.
+
+Geel says to Lephierna, "Thirty, if you please."
+
+Kaiya sighs and gestures to Geel.
+
+Lephierna says, "There appears to be no counter bid."
+
+Lephierna says to Geel, "You have purchased the electrum axe."
+
+Geel says to Lephierna, "Thank you."
+
+Geel stares at Kaiya as he sits back down.
+
+Lephierna gets a green chitin-shielded warthog hide back scabbard from a heavy burlap peddle bag.
+
+Geel sits on a white painted oak bench.
+
+Kaiya raises an eyebrow at Geel.
+
+Garaven says to Geel, "A very nice buy indeed."
+
+Geel says to Garaven, "Yes I believe so as well."
+
+Lephierna says, "While the chitin here is less processed than thoraxium, it still retains its strength under pressure."
+
+Lephierna says, "The bidding may commence."
+
+Nykliox ponders.
+
+Nykliox says, "100."
+
+Nykliox glances around.
+
+Lephierna says, "This scabbard may hold a plethora of weapons, some at the same time."
+
+Lephierna says, "The bidding may commence."
+
+Nykliox raises an eyebrow.
+
+Lephierna says to Nykliox, "Forgive me."
+
+Nykliox says to Lephierna, "No need. It seems I am the only one who would prefer the item."
+
+who
+[ARRIVALS] 'Omizer has logged on.'
+   Players Currently Online: 
+ =============================
+
+   Bihi the Bolinau                                            
+   Nykliox the Gargoyle                                        
+   Garaven the Verdani                                         
+   Kaiya the Avardi                                            
+   Kurda the Vukasin                                           
+   Seren the Avardi                                            
+   Geel the Gavial                                             
+   Merovingian the Human                                       
+   Trystan the Human                                           
+   Lephierna the Verdani                                       
+   Blink the Avardi                                            
+   Rochiriel the Verdani                                       
+   Omizer the Devalin                                          
+
+
+Lephierna says to Nykliox, "You have placed a bid and there seems no bid to counter it."
+
+Nykliox nods.
+<HP: 175/175 ST: 98/98>
+Lephierna says to Nykliox, "You have purchased the back scabbard."
+
+Nykliox stands up.
+
+Nykliox bows to Lephierna.
+
+Nykliox sits on a white painted oak bench.
+
+Lephierna gets an extra-large quiver of steel bodkin head cedar arrows from a heavy burlap peddle bag.
+
+Nykliox says, "A bargain to be sure."
+
+who
+[ARRIVALS] 'Farquay has logged on.'
+
+   Players Currently Online: 
+ =============================
+
+   Bihi the Bolinau                                            
+   Nykliox the Gargoyle                                        
+   Garaven the Verdani                                         
+   Kaiya the Avardi                                            
+   Kurda the Vukasin                                           
+   Seren the Avardi                                            
+   Geel the Gavial                                             
+   Merovingian the Human                                       
+   Trystan the Human                                           
+   Lephierna the Verdani                                       
+   Blink the Avardi                                            
+   Rochiriel the Verdani                                       
+   Omizer the Devalin                                          
+   Farquay the Verdani                                         
+
+
+Lephierna says, "I will be selling these arrows by themselves."
+
+Kaiya claps.
+
+Lephierna says, "The quiver holds many arrows. The bodkin tips may be useful against certain prey, but I supposed few would notice."
+
+Nykliox ponders.
+
+Nykliox says, "A penetrating arrowhead."
+
+Blink asks, "Oh wow, so good for warthogs?"
+Nykliox says, "More than most."
+
+Kaiya says, "And giant sloths."
+
+Lephierna says, "Any benefit would be dependent on many factors, such as the size of the prey. I would not anticipate these to do any more damage than other arrows."
+
+Kaiya says, "My arrows mostly bounced off the sloth."
+
+Blink says, "Yeah, we taught that dumb sloth a lesson."
+
+Kaiya grins at Blink.
+
+Kaiya says, "Three hundred for the arrows."
+
+Lephierna says, "And if you were lucky enough, you wouldn't notice anyway."
+
+Lephierna says to Kaiya, "Very well."
+
+Geel says to Lephierna, "One thousand please."
+
+Kaiya says, "Two thousand."
+
+Geel says, "Leph, five please."
+
+Kaiya says, "Seven."
+
+Lephierna says to Kaiya, "Some would consider these fashionable for arrows."
+
+Geel says to Lephierna, "Ten, please."
+
+Kaiya grins at Lephierna.
+
+Nykliox asks, "How many arrows are we talking about?"
+
+Lephierna says, "Likely a thousand."
+
+Kaiya says, "I'll let Geel go ahead. I'm not strong enough yet to kill things that these arrows would be best for. Anything else would be a waste."
+
+Nykliox says, "Interesting."
+
+Lephierna says, "There appears to be no counter bid."
+
+Lephierna says to Geel, "You have purchased the bodkin head arrows."
+
+Geel says to Lephierna, "Thank you."
+
+A town crier can be heard shouting in the distance, "The harvest feast will begin in the Thalassa gardens at the conclusion of the woodland peddle. Enjoy a hay ride from the palace courtyard. It'll take you straight there!"
+
+Lephierna gets a ivory-gripped wolf-enscupted redwood recurve bow from a heavy burlap peddle bag.
+
+Geel flicks his tongue.
+
+Kaiya says, "Oooh."
+
+Lephierna gets an extra-large quiver of steel-barbed osage arrows from a heavy burlap peddle bag.
+
+Garaven raises an eyebrow.
+
+Blink says, "Oh, wow."
+
+Lephierna says, "This is one of the highlights of this Woodsman Peddle."
+practice tonight?
+
+Huh?
+
+Lephierna says, "This bow is true to the spirit of Archai's Renewal."
+
+Kaiya smiles.
+
+Lephierna says, "Made from resources gathered for its purpose."
+
+Lephierna says, "From ivory to wood, with metal barbed arrows as a set."
+
+Lephierna says, "The bidding may commence."
+
+Kaiya says, "Five thousand."
+
+Nykliox says to Lephierna, "Five thousand three hundred."
+
+Kaiya says, "Seven thousand."
+
+Nykliox chuckles.
+
+Nykliox leans back to enjoy the bidding.
+
+Garaven ponders.
+
+Garaven says, "Very tempting."
+
+Garaven says, "I do like my own bow though."
+
+Geel says to Lephierna, "Twenty five, please."
+
+Kaiya says, "Thirty."
+
+Kaiya says to Garaven, "Your bow is gorgeous."
+
+Nykliox says, "Nice jump."
+
+Garaven says to Kaiya, "Thank you."
+
+Nykliox smiles.
+
+Lephierna says, "There appears to be no counter bid."
+
+Lephierna says to Kaiya, "You have purchased the recurve bow and arrow set."
+
+Kaiya beams.
+
+Lephierna says, "Lastly..."
+
+Kaiya bounces on her feet a bit.
+
+Lephierna gets an extra-large quiver of steel-tipped hickory darts from a heavy burlap peddle bag.
+
+Lephierna gets an ornately-carved eagle feather-adorned teak blowgun from a heavy burlap peddle bag.
+
+Blink says, "Oh, wow."
+
+Nykliox ponders.
+
+Kaiya grins over at Geel, seeing the darts.
+
+Garaven says to Kaiya, "Now you have a nice bow as well it seems."
+
+Kaiya says, "Definitely better than anything I could carve."
+
+It is nighttime.
+
+The jarring clang from a bell tower marks the top of the hour.
+
+Kaiya beams at Garaven.
+
+The bell tower clangs for a second time.
+
+Lephierna says, "Before anyone leaves..."
+
+The bell tower clangs for a third time.
+
+Kaiya says to Garaven, "I'm super excited to use it."
+
+Lephierna pauses.
+The bell tower clangs for a fourth time.
+
+Lephierna raises an eyebrow.
+
+The bell tower clangs for a fifth time.
+
+who
+[ARRIVALS] 'Kurda has logged out.'
+   Players Currently Online: 
+ =============================
+
+   Bihi the Bolinau                                            
+   Nykliox the Gargoyle                                        
+   Garaven the Verdani                                         
+   Kaiya the Avardi                                            
+   Seren the Avardi                                            
+   Geel the Gavial                                             
+   Merovingian the Human                                       
+   Trystan the Human                                           
+   Lephierna the Verdani                                       
+   Blink the Avardi                                            
+   Rochiriel the Verdani                                       
+   Omizer the Devalin                                          
+   Farquay the Verdani                                         
+
+
+The bell tower clangs for a sixth time.
+
+The bell tower clangs for a seventh time.
+
+The bell tower clangs for an eighth time.
+
+The bell tower clangs for a ninth time.
+
+Lephierna says to Garaven, "That was quite obnoxious."
+
+Garaven says, "Damn bell."
+
+Garaven nods to Lephierna.
+
+Lephierna says to Garaven, "That was quite obnoxious."
+
+Lephierna asks, "Where was I?"
+
+Lephierna says, "Ah yes."
+
+Garaven says, "Indeed."
+
+Nykliox says to Lephierna, "'Before anyone leaves...."
+
+Garaven raises an eyebrow.
+
+Lephierna says, "Before anyone leaves, I have a supply of produce from the recent harvest for sale."
+
+Kaiya nods to Lephierna.
+
+Lephierna drops a large pine produce crate.
+
+Lephierna drops a large pine produce crate.
+
+Lephierna drops a large pine produce crate.
+
+Kaiya opens a small adventurer's sack.
+
+Lephierna drops a large pine produce crate.
+
+Nykliox raises an eyebrow.
+
+Lephierna drops a large pine produce crate.
+Kaiya closes a small adventurer's sack.
+
+Lephierna drops a large pine produce crate.
+l crate
+
+It looks like a large pine produce crate.
+Inside you see:
+
+some speckled yellow pears
+ some speckled yellow pears
+ some speckled yellow pears
+ some speckled yellow pears
+ some speckled yellow pears
+ some speckled yellow pears
+ some speckled yellow pears
+ some speckled yellow pears
+ some speckled yellow pears
+ some speckled yellow pears
+ some speckled yellow pears
+ some speckled yellow pears
+ some speckled yellow pears
+ some speckled yellow pears
+ some speckled yellow pears
+ some speckled yellow pears
+ some speckled yellow pears
+ some speckled yellow pears
+ some speckled yellow pears
+ some speckled yellow pears
+ some speckled yellow pears
+ some speckled yellow pears
+ some speckled yellow pears
+ some speckled yellow pears
+ some speckled yellow pears
+ some speckled yellow pears
+ some speckled yellow pears
+ some speckled yellow pears
+ some speckled yellow pears
+ some speckled yellow pears
+ some speckled yellow pears
+ some speckled yellow pears
+ some speckled yellow pears
+ some speckled yellow pears
+ some speckled yellow pears
+ some speckled yellow pears
+ some speckled yellow pears
+ some speckled yellow pears
+ some speckled yellow pears
+ some speckled yellow pears
+ some speckled yellow pears
+ some speckled yellow pears
+ some speckled yellow pears
+ some speckled yellow pears
+ some speckled yellow pears
+ some speckled yellow pears
+ some speckled yellow pears
+ some speckled yellow pears
+ some speckled yellow pears
+ some speckled yellow pears
+ some speckled yellow pears
+ some speckled yellow pears
+ some speckled yellow pears
+ some speckled yellow pears
+ some speckled yellow pears
+ some speckled yellow pears
+ some speckled yellow pears
+ some speckled yellow pears
+ some speckled yellow pears
+ some speckled yellow pears
+ some speckled yellow pears
+ some speckled yellow pears
+ some speckled yellow pears
+ some speckled yellow pears
+ some speckled yellow pears
+ some speckled yellow pears
+ some speckled yellow pears
+ some speckled yellow pears
+ some speckled yellow pears
+ some speckled yellow pears
+ some speckled yellow pears
+ some speckled yellow pears
+ some speckled yellow pears
+ some speckled yellow pears
+ some speckled yellow pears
+ some speckled yellow pears
+ some speckled yellow pears
+ some speckled yellow pears
+ some speckled yellow pears
+ some speckled yellow pears
+ some speckled yellow pears
+ some speckled yellow pears
+ some speckled yellow pears
+ some speckled yellow pears
+ some speckled yellow pears
+ some speckled yellow pears
+ some speckled yellow pears
+ some speckled yellow pears
+ some speckled yellow pears
+ some speckled yellow pears
+ some speckled yellow pears
+ some speckled yellow pears
+ some speckled yellow pears
+ some speckled yellow pears
+ some speckled yellow pears
+ some speckled yellow pears
+ some speckled yellow pears
+ some speckled yellow pears
+ some speckled yellow pears
+ some speckled yellow pears
+ 
+
+Lephierna drops a large pine produce crate.
+
+Lephierna drops a large pine produce crate.
+l
+
+
+
+[Palace Gazebo.]
+
+Smooth white oak rails supported by twisted iron posts line the outer walls of the gazebo.  An open-air gap between the outer rail and the ceiling above allows for the flowery aroma of the garden to waft through the gazebo.  An elevated platform at the center of the area allows for a speaker to address the encompassing crowd all at once.  You notice an ornate white wooden gazebo exit, a large pine produce crate, a large pine produce crate, a large pine produce crate, a large pine produce crate, a large pine produce crate, a large pine produce crate, a large pine produce crate, and a large pine produce crate.
+
+Also here: Nykliox the Gargoyle (seated) on a white painted oak bench, Ra'daji Garaven the Verdani (seated) on a white painted oak bench, Champion Blink the Avardi (lying down), Kaiya the Avardi, Emissary Rochiriel the Verdani (seated) on a white painted oak bench, Seren the Avardi, Geel the Gavial (seated) on a white painted oak bench, Trystan the Human, and Merchant Lephierna the Verdani 
+
+Obvious Exits: none
+
+<HP: 175/175 ST: 98/98>
+Lephierna drops a large pine produce crate.
+
+Blink says, "Oh wow, pears."
+
+Kaiya exclaims, "Pineapple!"
+
+Blink says, "Whaoh, red bananas."
+
+Kaiya says, "Oooh sage."
+
+Kaiya says, "That all looks delicious."
+
+Lephierna says, "I will not be selling any until the Woodsman Peddle concludes. The price for each piece is twenty-five doubloons, however one may pay one hundred doublons for five. Please keep your purchases to a reasonable limit."
+
+Garaven chuckles.
+
+Nykliox smiles.
+
+Lephierna points at an ornately-carved eagle feather-adorned teak blowgun.
+
+Blink says, "Darn. I wanted to buy it all."
+
+Nykliox says to Lephierna, "From the sound of it everyone is probably waiting on Geel's initial bid."
+
+Lephierna says, "The blowgun and darts are a set."
+
+Lephierna raises an eyebrow.
+
+Trystan says to Lephierna, "Five hundred."
+
+Lephierna says, "The bidding may..."
+
+Nykliox asks Trystan, "Trying to make a liar out of me?"
+
+Nykliox grins.
+<HP: 175/175 ST: 98/98>
+Seren says, "Five thousand."
+
+Trystan chuckles at Nykliox.
+
+Lephierna says, "There appears to be no counter bid."
+
+Nykliox says to Lephierna, "Five thousand three hundred."
+
+Garaven asks Seren, "Looking for a matching set of blowguns?"
+
+Seren says, "Six thousand."
+
+Geel says to Garaven, "Mine is ebony."
+
+Seren says, "Well I dont know how to hold a bow."
+
+Garaven says, "Ah."
+
+Nykliox asks, "I think you all know the remaaining balance of my bank account by now?"
+
+Nykliox sits back again to watch.
+
+Kaiya grins at Nykliox.
+
+Nykliox says to Kaiya, "It's not easy for us forester types to earn the coin."
+
+Kaiya says to Nykliox, "It is if you craft."
+
+Trystan smirks.
+
+Nykliox asks Kaiya, "Wood carving?"
+stat
+You are Chihinn the Novice, a 50 year old female Human Thief.
+You are 6 feet 9 inches tall and weigh 223 pounds.
+You are a follower of Itzal.
+You are carrying 124 of a maximum 497 pounds.
+You are in perfect health.
+You are fully rested.
+You are hidden.
+
+Attack: 22 | Defense: 102 | Position: Standing
+
+Strength       : 13/25
+Intelligence   : 14/25
+Dexterity      : 15/25
+Constitution   : 13/25
+Charisma       : 16/25
+Wisdom         : 12/25
+
+
+Head            : a ripped brown tweed hat
+Neck            : a frayed red silk scarf
+Back            : an academy-issue canvas backpack
+Body            : some tattered red cotton robes
+Torso           : a full-plate copper cuirass
+Waist           : a leather weapon harness
+Legs            : some blood-stained wool trousers
+Feet            : some dull black leather boots
+
+
+Lephierna asks Garaven, "The feast will wait, yes?"
+
+Garaven glances at Geel.
+
+Kaiya says to Nykliox, "All sorts of crafts. Glass blowing has been the most profitable so far."
+
+Garaven says to Lephierna, "Hopefully not too much longer."
+
+Geel says to Garaven, "I may halucinate."
+
+Lephierna says to Seren, "You appear to have the remaining bid at six thousand."
+
+Nykliox ponders.
+
+Blink says, "Oh the feast is here."
+
+Blink says, "Yum."
+
+Seren says, "Thank you."
+
+Garaven says to Lephierna, "We may all be on the menu if the feast is delayed too much longer, I fear."
+
+Seren says, "Excuse me."
+
+Seren leaves north.
+
+Geel says, "I am showing remarkable self-control, I think."
+
+Geel frowns.
+
+Garaven nods to Geel.
+
+Blink asks Lephierna, "Can I order?"
+
+Garaven says to Geel, "Indeed."
+
+Nykliox nods.
+
+Lephierna blinks.
+
+Blink gestures at a large pine produce crate.
+
+A town crier can be heard shouting in the distance, "Word is spreading around Pearl of a Gavial that may eat a few sylves and bolinaus if the feast doesn't begin soon!"
+
+Seren arrives from the north.
+
+Geel chuckles.
+
+Geel asks, "Only a few?"
+
+Blink says, "Oh, wow."
+
+Nykliox ponders.
+
+who
+[ARRIVALS] 'Bihi has logged out.'
+   Players Currently Online: 
+ =============================
+
+   Nykliox the Gargoyle                                        
+   Garaven the Verdani                                         
+   Kaiya the Avardi                                            
+   Seren the Avardi                                            
+   Geel the Gavial                                             
+   Merovingian the Human                                       
+   Trystan the Human                                           
+   Lephierna the Verdani                                       
+   Blink the Avardi                                            
+   Rochiriel the Verdani                                       
+   Omizer the Devalin                                          
+   Farquay the Verdani                                         
+
+Nykliox nods.
+
+Lephierna says to Seren, "I had been concerned a moment when you left."
+l
+
+
+
+[Palace Gazebo.]
+
+Smooth white oak rails supported by twisted iron posts line the outer walls of the gazebo.  An open-air gap between the outer rail and the ceiling above allows for the flowery aroma of the garden to waft through the gazebo.  An elevated platform at the center of the area allows for a speaker to address the encompassing crowd all at once.  You notice an ornate white wooden gazebo exit, a large pine produce crate, a large pine produce crate, a large pine produce crate, a large pine produce crate, a large pine produce crate, a large pine produce crate, a large pine produce crate, a large pine produce crate, and a large pine produce crate.
+
+Also here: Nykliox the Gargoyle (seated) on a white painted oak bench, Champion Blink the Avardi (lying down), Kaiya the Avardi, Emissary Rochiriel the Verdani (seated) on a white painted oak bench, Geel the Gavial (seated) on a white painted oak bench, Trystan the Human, Merchant Lephierna the Verdani, Ra'daji Garaven the Verdani (seated), and Seren the Avardi 
+
+Obvious Exits: none
+
+
+Seren says, "I wanted to retreave my coin."
+
+Garaven asks Seren, "Was that you talking to the town crier?"
+
+Seren chuckles.
+
+Seren says, "I wanted to stay out of the way."
+
+Geel says, "I am surprised anyone can hear the bids over my stomach rumbling."
+
+Lephierna asks, "Has there been a bid I have not heard?"
+
+Geel says, "I do not believe so."
+
+Lephierna asks Geel, "How are you to be sure?"
+
+Nykliox chuckles.
+
+Geel says to Lephierna, "I suppose I cannot."
+
+Geel says, "I mistakenly bought those arrows because I thought I could eat them."
+
+Geel grunts.
+
+Lephierna says to Seren, "If, in fact, you were the last to bid, then you would soon be the purchaser."
+
+who
+[ARRIVALS] 'Omizer has logged out.'
+
+   Players Currently Online: 
+ =============================
+
+   Nykliox the Gargoyle                                        
+   Garaven the Verdani                                         
+   Kaiya the Avardi                                            
+   Seren the Avardi                                            
+   Geel the Gavial                                             
+   Merovingian the Human                                       
+   Trystan the Human                                           
+   Lephierna the Verdani                                       
+   Blink the Avardi                                            
+   Rochiriel the Verdani                                       
+   Farquay the Verdani                                         
+
+
+Seren says, "Yes I believe so if there were no others."
+
+Lephierna says, "There appears to be no counter bid from what I can tell."
+
+who
+[ARRIVALS] 'Omizer has logged on.'
+
+   Players Currently Online: 
+ =============================
+
+   Nykliox the Gargoyle                                        
+   Garaven the Verdani                                         
+   Kaiya the Avardi                                            
+   Seren the Avardi                                            
+   Geel the Gavial                                             
+   Merovingian the Human                                       
+   Trystan the Human                                           
+   Lephierna the Verdani                                       
+   Blink the Avardi                                            
+   Rochiriel the Verdani                                       
+   Farquay the Verdani                                         
+   Omizer the Devalin                                          
+
+
+Lephierna says to Seren, "You have purchased the blowgun and dart set."
+
+Blink applauds.
+
+Nykliox smiles.
+
+Geel says to Seren, "That was a very smart purchase."
+
+Seren gives 6000 doubloons to Lephierna.
+
+Lephierna says, "Should anyone wish to buy produce, now is the time."
+
+Nykliox nods.
+
+Lephierna gives an ornately-carved eagle feather-adorned teak blowgun to Seren.
+
+Blink says to Lephierna, "I would like to."
+
+Lephierna gives an extra-large quiver of steel-tipped hickory darts to Seren.
+
+Nykliox says, "I do, but I must visit the bank first."
+
+Kaiya asks, "May I pay you for my items ow?"
+
+Seren says to Lephierna, "Thank you."
+
+Geel stands up.
+
+Nykliox says, "And to retreive the coin for my purchases."
+
+Geel leaves north.
+
+Nykliox says to Lephierna, "I shall be back shortly."
+
+Kaiya opens a small adventurer's sack.
+
+Nykliox stands up.
+
+Nykliox leaves north.
+
+Lephierna says, "Everyone whom has made purchases may pay now."
+
+Seren gives 100 doubloons to Lephierna.
+
+Blink says to Lephierna, "I would like 5 oranges, 5 peppers, 5 pears, and 10 bananas."
+
+Kaiya gets 50000 doubloons from a small adventurer's sack.
+
+Trystan says to Lephierna, "Thank you for sharing your wares with us this evening."
+
+Seren says, "I'd like five bananas."
+
+Kaiya gives 35700 doubloons to Lephierna.
+
+Kaiya puts 1 doubloon in a small adventurer's sack.
+
+Lephierna says to Seren, "Please do so."
+
+Kaiya puts 14299 doubloons in a small adventurer's sack.
+
+Kaiya closes a small adventurer's sack.
+
+Trystan glances at Blink and grins.
+
+Geel arrives from the north.
+
+Blink says to Trystan, "I'm taking it easy."
+
+Trystan says to Blink, "Careful, you might gain some weight."
+
+Geel asks Lephierna, "May we settle up now?"
+
+Lephierna gives a steel-riveted hardened leather bow sling to Kaiya.
+
+Blink says to Trystan, "This is choice stuff."
+
+Lephierna gives an extra-large quiver of steel broadhead yew arrows to Kaiya.
+
+Kaiya removes a leather weapon harness.
+
+Kaiya puts on a steel-riveted hardened leather bow sling.
+
+Trystan nods to Blink.
+Lephierna gives a wide-limbed polished teak short-bow to Kaiya.
+
+Seren gets some strikingly red bananas from a large pine produce crate.
+Seren gets some strikingly red bananas from a large pine produce crate.(4)
+
+Rochiriel stands up.
+
+Blink says to Trystan, "They ignore us vegitarians a lot."
+
+Kaiya opens an academy-issue canvas backpack.
+
+Lephierna asks Kaiya, "Was there more?"
+
+Kaiya puts an extra-large quiver of steel broadhead yew arrows in an academy-issue canvas backpack.
+
+Kaiya puts a wide-limbed polished teak short-bow in an academy-issue canvas backpack.
+
+Trystan chuckles softlyu.
+
+Trystan says to Blink, "See you at the banquest perhaps."
+
+Blink says to Trystan, "Okay."
+
+Garaven stands up.
+
+Trystan bows slightly before turning to leave.
+
+Lephierna says, "Anyone whom has purchase produce may take in from its crate."
+
+Blink says, "Oh."
+
+Trystan leaves north.
+
+Kaiya asks Lephierna, "And the recurve bow and arrows?"
+
+Blink gives 500 doubloons to Lephierna.
+
+Farquay arrives from the north.
+
+Nykliox arrives from the north.
+
+Kaiya waves to Farquay.
+
+Farquay smiles at Kaiya politely.
+
+Farquay asks Lephierna, "Do you not wish to eat?"
+
+Lephierna gives a ivory-gripped wolf-inscribed redwood recurve bow to Kaiya.
+
+Blink gets some strikingly red bananas from a large pine produce crate.
+
+Kaiya puts a ivory-gripped wolf-inscribed redwood recurve bow in a steel-riveted hardened leather bow sling.
+
+Blink gets some strikingly red bananas from a large pine produce crate.
+
+Blink gets some strikingly red bananas from a large pine produce crate.
+
+Blink gets some strikingly red bananas from a large pine produce crate.
+
+Blink gets some strikingly red bananas from a large pine produce crate.
+
+Blink gets some strikingly red bananas from a large pine produce crate.
+
+Lephierna smirks at Farquay coldly.
+Blink gets some strikingly red bananas from a large pine produce crate.
+
+Blink gets some strikingly red bananas from a large pine produce crate.
+
+Farquay says, "A year we've waited for this feast."
+
+Blink gets some strikingly red bananas from a large pine produce crate.
+
+Blink gets some strikingly red bananas from a large pine produce crate.
+
+Farquay taps his foot on the ground.
+
+Nykliox says to Lephierna, "Please let me know when you are ready to conclude our peddle business."
+
+Blink gets some speckled yellow pears from a large pine produce crate.
+
+Blink gets some speckled yellow pears from a large pine produce crate.
+
+Blink gets some speckled yellow pears from a large pine produce crate.
+
+Blink gets some speckled yellow pears from a large pine produce crate.
+
+Blink gets some speckled yellow pears from a large pine produce crate.
+
+Lephierna gives an extra-large quiver of steel-barbed osage arrows to Kaiya.
+
+Geel flicks his tongue.
+
+Kaiya thanks Lephierna.
+
+Kaiya puts an extra-large quiver of steel-barbed osage arrows in an academy-issue canvas backpack.
+
+Kaiya closes an academy-issue canvas backpack.
+
+Lephierna says to Geel, "Yes, please."
+
+Lephierna nods to Kaiya.
+
+Farquay asks, "The wagon just left. Let's make the next one and enjoy the meal and a bit of history?"
+
+Kaiya says to Lephierna, "It was a pleasure! Thank you for all of the nice things to bid on."
+
+Blink says, "Oh it's 1500."
+
+Kaiya leaves north.
+<HP: 175/175 ST: 98/98>
+Blink says, "Sorry."
+
+Blink gives 1000 doubloons to Lephierna.
+
+who
+[ARRIVALS] 'Ayderias has logged on.'
+
+   Players Currently Online: 
+ =============================
+
+   Nykliox the Gargoyle                                        
+   Garaven the Verdani                                         
+   Kaiya the Avardi                                            
+   Seren the Avardi                                            
+   Merovingian the Human                                       
+   Trystan the Human                                           
+   Lephierna the Verdani                                       
+   Blink the Avardi                                            
+   Rochiriel the Verdani                                       
+   Farquay the Verdani                                         
+   Omizer the Devalin                                          
+   Ayderias the Avardi                                         
+   Geel the Gavial                                             
+
+
+Rochiriel asks Lephierna, "How much do Garaven and I owe you?"
+
+Blink says, "I'm taking 30."
+
+Blink says, "No wait 25."
+
+Geel sits on a white painted oak bench.
+
+Blink gets some red and orange bell peppers from a large pine produce crate.
+
+Blink gets some red and orange bell peppers from a large pine produce crate.
+
+Farquay asks Geel, "How finds you the evening, Gavial?"
+
+Blink gets some red and orange bell peppers from a large pine produce crate.
+
+Blink gets some red and orange bell peppers from a large pine produce crate.
+
+Blink gets some red and orange bell peppers from a large pine produce crate.
+
+Geel says to Seren, "Once I conclude my business here we can head over to the feast."
+
+Nykliox ponders.
+
+Seren nods to Geel.
+
+Seren follows Geel.
+<HP: 175/175 ST: 98/98>
+Blink gets some vibrant dimpled oranges from a large pine produce crate.
+
+Blink gets some vibrant dimpled oranges from a large pine produce crate.
+
+Blink gets some vibrant dimpled oranges from a large pine produce crate.
+
+Blink gets some vibrant dimpled oranges from a large pine produce crate.
+
+Blink gets some vibrant dimpled oranges from a large pine produce crate.
+
+Geel asks Farquay, "I am well Huntsman, if a bit famished. You?"
+
+Nykliox says to Blink, "I believe it was 100 for 5. at 1000 that would be 50."
+
+Lephierna says to Rochiriel, "The skinner and arm guard are sixteen thousand."
+
+Garaven nods.
+Blink says, "Ny oh well it is a tip then."
+
+Farquay says to Geel, "Much the same. Looking forwar to the feast."
+
+Nykliox chuckles.
+
+Blink says to Lephierna, "Thanks for bringing this."
+
+Garaven says, "Be back shortly."
+
+Garaven leaves north.
+
+Blink says to Lephierna, "I almost starved to death."
+
+Geel says to Farquay, "I am anxious to try the sloth, I have never had it before."
+
+Geel stands up.
+
+Geel says to Lephierna, "If I may."
+
+Geel gives 40000 doubloons to Lephierna.
+
+Lephierna nods to Geel.
+
+Blink stands up.
+
+Blink removes a large plush blue twill sleeping bag.
+
+Blink leaves north.
+
+Farquay says, "Sloth? I imagine one would feed half of this city."
+
+Geel says to Farquay, "It tasted quite as I was biting it to death the other night."
+
+Lephierna gives an extra-large quiver of steel bodkin head cedar arrows to Geel.
+<HP: 175/175 ST: 98/98>
+Garaven arrives from the north.
+
+Farquay chuckles softly.
+
+Geel says to Lephierna, "Thank you."
+
+Garaven gets 20266 doubloons from a claw-clasped black dire wolf fur-lined leather backpack.
+
+Garaven gives 16000 doubloons to Lephierna.
+
+Lephierna gives a teak-handled vine-engraved electrum forest axe to Geel.
+
+Garaven puts 4266 doubloons in a claw-clasped black dire wolf fur-lined leather backpack.
+
+Geel wields a teak-handled vine-engraved electrum forest axe.
+
+Lephierna gives a smooth mahogany-handled upswept palm blacksteel skinner to Garaven.
+
+who
+[ARRIVALS] 'Trystan has logged out.'
+   Players Currently Online: 
+ =============================
+
+   Nykliox the Gargoyle                                        
+   Garaven the Verdani                                         
+   Kaiya the Avardi                                            
+   Seren the Avardi                                            
+   Merovingian the Human                                       
+   Lephierna the Verdani                                       
+   Blink the Avardi                                            
+   Rochiriel the Verdani                                       
+   Farquay the Verdani                                         
+   Omizer the Devalin                                          
+   Ayderias the Avardi                                         
+   Geel the Gavial                                             
+
+
+who
+[ARRIVALS] 'Omizer has logged out.'
+   Players Currently Online: 
+ =============================
+
+   Nykliox the Gargoyle                                        
+   Garaven the Verdani                                         
+   Kaiya the Avardi                                            
+   Seren the Avardi                                            
+   Merovingian the Human                                       
+   Lephierna the Verdani                                       
+   Blink the Avardi                                            
+   Rochiriel the Verdani                                       
+   Farquay the Verdani                                         
+   Ayderias the Avardi                                         
+   Geel the Gavial                                             
+
+
+Garaven gives a smooth mahogany-handled upswept palm blacksteel skinner to Rochiriel.
+
+Rochiriel asks Lephierna, "May we purchase our produce after the feast?"
+
+Lephierna gives a leather-padded green dragon-etched thoraxium arm guard to Garaven.
+
+Garaven puts on a leather-padded green dragon-etched thoraxium arm guard.
+
+Farquay says to Lephierna, "If you would like to continue selling produce after the feast, I can assist you with the crates."
+
+Lephierna nods.
+
+Geel says, "Very nice."
+
+Lephierna says to Farquay, "Please do."
+
+Farquay smiles.
+
+Rochiriel shrieks at Geel.
+
+Rochiriel chuckles.
+
+Rochiriel says to Geel, "I thought you were scary before."
+
+Nykliox smiles.
+
+Lephierna says to Nykliox, "Your coin please."
+
+Nykliox nods.
+
+Geel says to Rochiriel, "I am the think mammals tell their young will come in the night for them."
+
+Nykliox gets 1100 doubloons from an eagle talon clasped cotton quiver carryall.
+
+Farquay gets some speckled yellow pears from a large pine produce crate.
+
+Geel chuckles.
+
+Garaven gets a suede-gripped gold elven rune-etched ebony longbow from a large wolf-embroidered white leather haversack.
+
+Geel says, "And sometimes I even do."
+
+Farquay gives 10 doubloons to Lephierna.
+
+Geel asks Seren, "Shall we head over?"
+
+Nykliox gives 1100 doubloons to Lephierna.
+
+Garaven removes a long redwood walking stick.
+
+Nykliox says to Lephierna, "300 Is for produce."
+Garaven wields a suede-gripped gold elven rune-etched ebony longbow.
+
+Lephierna gives a green chitin-shielded warthog hide back scabbard to Nykliox.
+
+Seren says to Geel, "Yes im ready."
+
+Rochiriel asks Geel, "May we join you?"
+
+Garaven says, "Now I am ready to change professions."
+
+Lephierna gives a teak-hilted serrated back-edged crudesteel machete to Nykliox.
+
+Nykliox grins.
+
+Farquay smirks.
+
+Rochiriel removes a suede-gripped platinum elven rune-etched ebony longbow.
+
+Nykliox bows to Lephierna.
+
+Geel says to Farquay, "We will see you at the feast."
+
+Geel waves.
+
+Farquay nods.
+
+Geel leaves north.
+Seren leaves north.
+
+Nykliox says to Lephierna, "My thanks. An excellent peddle."
+
+Rochiriel follows Garaven.
+l
+
+
+
+[Palace Gazebo.]
+
+Smooth white oak rails supported by twisted iron posts line the outer walls of the gazebo.  An open-air gap between the outer rail and the ceiling above allows for the flowery aroma of the garden to waft through the gazebo.  An elevated platform at the center of the area allows for a speaker to address the encompassing crowd all at once.  You notice an ornate white wooden gazebo exit, a large pine produce crate, a large pine produce crate, a large pine produce crate, a large pine produce crate, a large pine produce crate, a large pine produce crate, a large pine produce crate, a large pine produce crate, and a large pine produce crate.
+
+Also here: Emissary Rochiriel the Verdani, Merchant Lephierna the Verdani, Farquay the Verdani, Nykliox the Gargoyle, and Ra'daji Garaven the Verdani 
+
+Obvious Exits: none
+
+
+Garaven asks, "Shall we?"
+prayers lep
+
+Valid schools/domains are: invocation/evocation, holy protection, healing, vexing, cursing, warding, corruption, restoration, neutralization, creation, communing
+
+   Prayer Name               Uses Remaining   Level
+
+
+
+
+Nykliox gets some succulent prickly pineapple from a large pine produce crate.
+
+Nykliox gets some succulent prickly pineapple from a large pine produce crate.
+
+Nykliox gets some succulent prickly pineapple from a large pine produce crate.
+
+Nykliox gets some succulent prickly pineapple from a large pine produce crate.
+
+Nykliox gets some succulent prickly pineapple from a large pine produce crate.
+Rochiriel asks Lephierna, "Would you care to come with us?"
+prayers lep
+
+Valid schools/domains are: invocation/evocation, holy protection, healing, vexing, cursing, warding, corruption, restoration, neutralization, creation, communing
+
+   Prayer Name               Uses Remaining   Level
+
+
+
+
+Farquay kneels beside a produce crate and begins securing the li.
+pilfer lep
+
+
+
+A magical enchantment prevents your aggressive act.
+[Delay: 4.0 sec.]
+
+Nykliox gets some speckled yellow pears from a large pine produce crate.
+
+Nykliox gets some speckled yellow pears from a large pine produce crate.
+
+Nykliox gets some speckled yellow pears from a large pine produce crate.
+
+Nykliox gets some speckled yellow pears from a large pine produce crate.
+
+Nykliox gets some speckled yellow pears from a large pine produce crate.
+n
+
+You reveal yourself from your hidden position.
+
+
+[Palace Gardens, Gazebo Entrance.]
+
+The beautiful palace garden is surrounded by perfectly manicured giant hedges.  The pathway throughout the garden is constructed of white marble that sparkles with flecks of gold.  There is a grand white wooden gazebo ornately carved of wood.  Ornamental grass surrounds the gazebo and sways with the smallest whisper of a breeze.  You notice an ornate white wooden gazebo.
+
+Also here: an excited verdani girl 
+
+Obvious Exits: northwest, northeast, and north. 
+
+n
+
+
+
+[Palace Gardens.]
+
+A large rectangular reflective pool sits flush with the ground.  It's in-laid edges made of polished white marble that sparkles like freshly cleaned glass.  Graceful swans glide noiselessly around the still waters.  You notice a pale green silk tent flap.
+
+Also here: a hooded green-robed priest 
+
+Obvious Exits: southeast, northwest, northeast, west, east, south, and north. 
+
+n
+
+
+
+[Palace Gardens.]
+
+An enormous three tiered fountain sculpted of white marble bubbles with a continuous flow of water.  Bears are carved into the outside base.  Golden leafed vines weave from the pool up to the first tier.  Doubloons litter the bottom of the otherwise spotless fountain.  You notice a three-tiered white marble fountain.
+
+Also here: a hooded green-robed priest, an excited verdani girl, and an eager-looking verdani boy 
+
+Obvious Exits: southwest, southeast, west, east, south, and north. 
+
+n
+
+
+
+[Palace Gardens.]
+
+A mighty oak tree stands in full splendor.  Under the tree is a quaint birdbath surrounded by pots of scarlet begonias.  The water within the white stone birdbath sparkles with the light from the sun or moon on cloudless days.  You notice a fur-lined canvas tent flap.
+
+Also here: a hooded green-robed priest 
+
+Obvious Exits: southwest, southeast, south, and north. 
+
+hide
+
+
+
+You fail your attempt to hide.
+[Delay: 3.0 sec.]
+
+hide
+
+
+
+You fail your attempt to hide.
+[Delay: 3.0 sec.]
+
+hide
+
+
+
+You fail your attempt to hide.
+[Delay: 3.0 sec.]
+
+hide
+
+
+
+
+You conceal yourself from plain view.
+[Delay: 3.0 sec.]
+
+quit
+
+y
+Quit -- are you sure (Y/N)?You depart from the world.
