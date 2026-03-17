@@ -1,0 +1,2143 @@
+time
+It is currently 09:03 AM.
+
+l
+
+[Sanctuary of Eyridane and Morana]
+The small path ends as the trees part, revealing a small clearing. Sunlight filters down from above, splashing the vibrant green grass and wildflowers. The noise of the central part of the grove all but fades away in this quiet sanctuary. An altar of stone rests in the center of the small clearing of verdant grass. Tangled vines have grown wild across the hard stone and though no markings can be seen, it is obvious that this is a place sacred to the twin goddesses of nature. Overhead the soft warbling of songbirds blends with the chirping crickets below into a sublime symphony of sounds. Small trinkets of adoration and worship have been left at the base of the altar, each one a symbol of devotion to their beloved gods.
+
+The area is illuminated.
+
+In this room are: simple stone altar
+Obvious exits are: west
+
+w
+
+[Pathway Through the Trees]
+A small gap through the tangled trees allows passage to the quiet haven of the Druids and the Twins' other worshipers. The path is narrow and vines hang low, entangling all but the most wary, or welcome visitors.
+
+The area is illuminated.
+
+In this room you see: 1st fox squirrel
+Obvious exits are: west, east
+
+w
+
+[Secluded Grove]
+Trees have grown into a natural wall, protecting the clearing from any unwanted visitors. Vines have been woven through the tangled branches of the trees, blocking the rest of the forest from view. Soft grass peppered with patches of clover grows underfoot, and a small, brown rabbit nibbles contentedly on the green stalks.  A small group of sturdy Galirrim has gathered around a small spring of crystal clear water. Enchanting scents of cooking food waft through the air from a painted-wood tavern, closely followed by the sound merry laughter.
+
+The area is illuminated.
+
+In this room you see: 1st fox squirrel, 2nd fox squirrel
+In this room are: small spring of crystal clear water
+Obvious exits are: west, east, painted wooden door, a gravel road, slender gap in the wall of trees
+
+l at sp
+As your peer into the small pond, you can see a small group of golden fish swimming just below the surface, darting between the dangling roots of a few, scarce water lilies.
+
+l in sp
+You cannot see inside that.
+
+ ** Trien Atriedes just arrived in the world
+
+A fox squirrel just entered from the east.
+
+The fox squirrel darts across the ground, his puffy tail arched, as he searches for fallen nuts.
+
+The fox squirrel darts across the ground, his puffy tail arched, as he searches for fallen nuts.
+
+w
+
+[Farmlands]
+Sprawling farmlands suddenly break the wall of trees and small houses dot the landscape. Farmers are hard at work in their fields, sweating beneath the heat of the sun as they gather their crops for sale at the markets of Urda. In the distance a pasture of cattle can be seen grazing at the close cropped grass of their enclosure.
+
+The area is illuminated.
+
+In this room you see: Asher the Duskwen, 1st fox squirrel
+In this room are: wickedly spiked footman's pike, heavy suit of iron armor
+Obvious exits are: west, east
+
+Asher picks up the heavy suit of iron armor.
+
+Asher picks up the wickedly spiked footman's pike.
+
+w
+
+[Elegant Villa, Exterior]
+A great stone villa is here, its sprawling form seeming to appear out of nowhere at the far end of an immense field. A statue of a man with noble features stands beside the iron-bound oak doors, in his hand he holds a two-handed broadsword with ease. Carefully tended trees frame the villa with bright, viridian foliage, masking the true size of the structure. Windows dot the rocky walls of the building, granting glimpses into the opulently decorated home. It's sealed iron-bound oak doors appear to be locked tightly.
+
+The area is illuminated.
+
+In this room you see: 1st estate knight
+Obvious exits are: east
+
+The estate knight makes a few practice swings with his pike, before resting the butt on the ground, and leaning on the sturdy weapon.
+
+ ** Fenrir Grimmfang just left the world.
+
+e
+
+[Farmlands]
+Sprawling farmlands suddenly break the wall of trees and small houses dot the landscape. Farmers are hard at work in their fields, sweating beneath the heat of the sun as they gather their crops for sale at the markets of Urda. In the distance a pasture of cattle can be seen grazing at the close cropped grass of their enclosure.
+
+The area is illuminated.
+
+Obvious exits are: west, east
+
+e
+
+[Secluded Grove]
+Trees have grown into a natural wall, protecting the clearing from any unwanted visitors. Vines have been woven through the tangled branches of the trees, blocking the rest of the forest from view. Soft grass peppered with patches of clover grows underfoot, and a small, brown rabbit nibbles contentedly on the green stalks.  A small group of sturdy Galirrim has gathered around a small spring of crystal clear water. Enchanting scents of cooking food waft through the air from a painted-wood tavern, closely followed by the sound merry laughter.
+
+The area is illuminated.
+
+In this room you see: Asher the Duskwen, 1st fox squirrel, 2nd fox squirrel
+In this room are: small spring of crystal clear water
+Obvious exits are: west, east, painted wooden door, a gravel road, slender gap in the wall of trees
+
+go door
+
+[Hero's Rest]
+Simple tables and benches have been set along the rough walls of the tavern. A large group of weary adventurers, some dressed in the simple robes of druids and the Twins, others baring the godmarks of Thaessilgan and Aederon, have gathered at a large, central table. Differences have been set aside, as they swap stories and drink deeply of the tavern's foamy ale. An innkeeper, his hefty girth hardly fitting behind the narrow bar, beams at a youthful Zacotl woman as she collects another tray of drinks waiting to be delivered. A set of stairs in the back of the room lead to the rooms on the upper level of the tavern but are blocked off with a thick piece of braided rope.
+
+The area is illuminated.
+
+In this room you see: 1st fox squirrel
+Obvious exits are: a painted wooden door
+
+train list
+You must be in a training area to train.
+
+The fox squirrel darts across the ground, his puffy tail arched, as he searches for fallen nuts.
+
+sear
+You begin searching the room...
+[15 sec. delay]
+
+sear
+You begin searching the room...
+[15 sec. delay]
+
+>
+
+A fox squirrel just entered through the painted wooden door.
+
+look through doo
+You look through the a painted wooden door...
+
+
+[Secluded Grove]
+Trees have grown into a natural wall, protecting the clearing from any unwanted visitors. Vines have been woven through the tangled branches of the trees, blocking the rest of the forest from view. Soft grass peppered with patches of clover grows underfoot, and a small, brown rabbit nibbles contentedly on the green stalks.  A small group of sturdy Galirrim has gathered around a small spring of crystal clear water. Enchanting scents of cooking food waft through the air from a painted-wood tavern, closely followed by the sound merry laughter.
+
+The area is illuminated.
+
+In this room you see: 1st fox squirrel
+In this room are: small spring of crystal clear water
+Obvious exits are: west, east, painted wooden door, a gravel road, slender gap in the wall of trees
+
+go door
+
+[Secluded Grove]
+Trees have grown into a natural wall, protecting the clearing from any unwanted visitors. Vines have been woven through the tangled branches of the trees, blocking the rest of the forest from view. Soft grass peppered with patches of clover grows underfoot, and a small, brown rabbit nibbles contentedly on the green stalks.  A small group of sturdy Galirrim has gathered around a small spring of crystal clear water. Enchanting scents of cooking food waft through the air from a painted-wood tavern, closely followed by the sound merry laughter.
+
+The area is illuminated.
+
+In this room you see: 1st fox squirrel
+In this room are: small spring of crystal clear water
+Obvious exits are: west, east, painted wooden door, a gravel road, slender gap in the wall of trees
+
+>
+
+A fox squirrel just entered through the a gravel path.
+
+go road
+
+[Traders Clearing]
+Wagon tracks run through the rocky road, ending just before a row of wooden cabins. Signs hang over the door of the three largest, revealing that they house various shops catering to both the residents of the estate and the many travelers that pass through. The sound of hammer meeting anvil come from the nearest, steel door, while bright lights dance behind the window of the closer wooden door. A simple sign above the far oaken door suggests that it leads to a bank. A display window beside the bank reveals that even a clothing shop is present.
+
+The area is illuminated.
+
+In this room you see: 1st fox squirrel, 2nd fox squirrel
+Obvious exits are: a gravel path, a white washed door, a simple wooden door, an oak door, a steel door
+
+go door
+
+[The Threaded Needle]
+A nimble handed Human woman sits at a low desk, her narrow fingers dancing across a sheet of fabric as she stitches a simple dress. A young girl watches the older women intently, her own fingers mirroring those of the seamstress, suggesting that she is a new apprentice.
+
+The area is illuminated.
+
+In this room you see: 1st estate knight
+Obvious exits are: open a white-washed door
+
+The estate knight makes a few practice swings with his pike, before resting the butt on the ground, and leaning on the sturdy weapon.
+
+shop list
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ #  Name                                              Wgt       Cost
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Clothing
+ 0  warm brown linen cloak                                      0.0     15 crown 0 mark
+ 1  pair of dusty leather pants                                 0.17    5 crown 0 mark
+ 2  simple beige tunic                                          0.02    2 crown 0 mark
+ 3  flowing green linen robe                                    0.17    10 crown 0 mark
+ 4  an intricately embroidered deep green silk dress            0.02    25 crown 0 mark
+ 5  pair of lovely silken slippers                              0.01    30 crown 0 mark
+
+
+The 1st estate knight just wandered through the open a white-washed door.
+
+go door
+
+[Traders Clearing]
+Wagon tracks run through the rocky road, ending just before a row of wooden cabins. Signs hang over the door of the three largest, revealing that they house various shops catering to both the residents of the estate and the many travelers that pass through. The sound of hammer meeting anvil come from the nearest, steel door, while bright lights dance behind the window of the closer wooden door. A simple sign above the far oaken door suggests that it leads to a bank. A display window beside the bank reveals that even a clothing shop is present.
+
+The area is illuminated.
+
+In this room you see: 1st fox squirrel, 1st estate knight
+Obvious exits are: a gravel path, a white washed door, a simple wooden door, an oak door, a steel door
+
+go 2 doo
+
+[Trinkets and Oddments]
+Lights glimmer behind glass cases and small trinkets and baubles rest on fine pillows, each set on perfect display to beckon any of the wealthy patrons of this small shop. A slim Silvarin woman balances on a sturdy wooden stool behind a tall counter, a welcoming smile plastered upon her comely face.
+
+The area is illuminated.
+
+Obvious exits are: open a simple wooden door
+
+shop list
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ #  Name                                              Wgt       Cost
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Misc
+ 0  bright shining ruby encrusted ring                          0.0     100 crown 0 mark
+ 1  delicate silver filigreed snowflake oak pendant             0.0     10 crown 0 mark
+ 2  cluster of polished thornbark bracelets                     0.0     5 crown 0 mark
+Lightsource
+ 3  tar soaked pine torch                                       0.02    10 crown 0 mark
+ 4  brass shutter lantern                                       1.67    17 crown 30 mark
+ 5  jar of softly glowing fireflies                             1.67    100 crown 0 mark
+ 6  luminous pot of moonflowers                                 1.67    150 crown 0 mark
+
+
+shop examine 6
+The clerk holds up the luminous pot of moonflowers for you to examine...
+
+It appears to be a luminous pot of moonflowers. It is in excellent condition.
+It looks like it is worn left your hand.
+It looks like it has about 1000 minutes worth of light.
+
+go door
+
+[Traders Clearing]
+Wagon tracks run through the rocky road, ending just before a row of wooden cabins. Signs hang over the door of the three largest, revealing that they house various shops catering to both the residents of the estate and the many travelers that pass through. The sound of hammer meeting anvil come from the nearest, steel door, while bright lights dance behind the window of the closer wooden door. A simple sign above the far oaken door suggests that it leads to a bank. A display window beside the bank reveals that even a clothing shop is present.
+
+The area is illuminated.
+
+In this room you see: Asher the Duskwen (flying 20 feet above the ground), 1st fox squirrel, 1st estate knight
+Obvious exits are: a gravel path, a white washed door, a simple wooden door, an oak door, a steel door
+
+go 3 doo
+
+[Secluded Grove Bank]
+A single Duskwen stands beside a row of solid, metal coffers locked securely, he greets an approaching Zacotl warmly, and accepts his heavy pouch of crowns as he makes a notation in his leather-bound ledger, before locking the golden coins away in one of his impenetrable chests. Meanwhile, a hulking Varanus is bent over a small coffer as he locks away precious treasures, lest they be stolen.
+
+The area is illuminated.
+
+Obvious exits are: an oak door
+
+shop list
+You are not in a store!
+
+bank bal
+You approach the bank teller and inquire about the balance of your account...
+
+You currently do not have an account with this branch.
+
+go door
+
+[Traders Clearing]
+Wagon tracks run through the rocky road, ending just before a row of wooden cabins. Signs hang over the door of the three largest, revealing that they house various shops catering to both the residents of the estate and the many travelers that pass through. The sound of hammer meeting anvil come from the nearest, steel door, while bright lights dance behind the window of the closer wooden door. A simple sign above the far oaken door suggests that it leads to a bank. A display window beside the bank reveals that even a clothing shop is present.
+
+The area is illuminated.
+
+In this room you see: Asher the Duskwen (flying 20 feet above the ground), 1st fox squirrel, 1st estate knight
+Obvious exits are: a gravel path, a white washed door, a simple wooden door, an oak door, a steel door
+
+Asher just went through the an oak door.
+
+A estate knight follows Asher.
+
+go 4 doo
+
+[Lenry's Smithy]
+A large, brawny Human, his face ruddy from the heat of the forge, easily lifts his massive hammer as he pounds a glowing red blade into shape. A younger boy sits behind a large counter, ready to help anyone interested in his master's wares.
+
+The area is illuminated.
+
+In this room you see: 1st fox squirrel
+Obvious exits are: a steel door
+
+shop list
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ #  Name                                              Wgt       Cost
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Ammo
+ 0   quiver of hardened steel bodkin-tipped arrows               1.67    17 mark
+ 1   quiver of copper-headed arrows                              1.67    34 mark
+ 2   quiver of iron broadhead arrows                             1.67    84 mark
+Armor
+ 3   boiled leather breastplate                                  3.33    4 crown 80 mark
+ 4   iron clad leather cuirass                                   3.33    12 crown 20 mark
+ 5   ivory inlaid steel chainmail                                3.33    42 crown 0 mark
+ 6   gem-embedded moonsilver great cuirass                       3.33    3500 crown 0 mark
+Bow
+ 7   plainly enscribed maple flatbow                             1.67    4 crown 80 mark
+ 8   heavy ash-wood short bow                                    1.67    17 crown 30 mark
+ 9   gracefully carved yew longbow                               1.67    42 crown 0 mark
+Spiritual Conduit
+ 10  superbly etched totem staff                                 1.67    8 crown 75 mark
+Throwing
+ 11  stack of wickedly sharpened iron throwing knives            1.67    17 crown 30 mark
+Blades
+ 12  simply engraved steel longsword                             1.67    8 crown 75 mark
+ 13  sinuously curved hardened steel glaive                      1.67    10 crown 0 mark
+ 14  polished steel hunting sword                                1.67    29 crown 0 mark
+ 15  hulking ash-handled iron bardiche                           3.33    14 crown 70 mark
+Polearms
+ 16  sturdy iron-shod staff                                      1.67    8 crown 75 mark
+ 17  powerful iron great-axe                                     3.33    42 crown 0 mark
+Thrusts
+ 18  pot iron pitchfork                                          1.67    3 crown 50 mark
+
+
+Asher just entered through the a steel door.
+
+nod
+You nod.
+
+shiv
+You shiver.
+
+l
+
+[Lenry's Smithy]
+A large, brawny Human, his face ruddy from the heat of the forge, easily lifts his massive hammer as he pounds a glowing red blade into shape. A younger boy sits behind a large counter, ready to help anyone interested in his master's wares.
+
+The area is illuminated.
+
+In this room you see: Asher the Duskwen (flying 20 feet above the ground), 1st fox squirrel
+Obvious exits are: a steel door
+
+go door
+
+[Traders Clearing]
+Wagon tracks run through the rocky road, ending just before a row of wooden cabins. Signs hang over the door of the three largest, revealing that they house various shops catering to both the residents of the estate and the many travelers that pass through. The sound of hammer meeting anvil come from the nearest, steel door, while bright lights dance behind the window of the closer wooden door. A simple sign above the far oaken door suggests that it leads to a bank. A display window beside the bank reveals that even a clothing shop is present.
+
+The area is illuminated.
+
+In this room you see: 1st fox squirrel
+Obvious exits are: a gravel path, a white washed door, a simple wooden door, an oak door, a steel door
+
+go pa
+
+[Secluded Grove]
+Trees have grown into a natural wall, protecting the clearing from any unwanted visitors. Vines have been woven through the tangled branches of the trees, blocking the rest of the forest from view. Soft grass peppered with patches of clover grows underfoot, and a small, brown rabbit nibbles contentedly on the green stalks.  A small group of sturdy Galirrim has gathered around a small spring of crystal clear water. Enchanting scents of cooking food waft through the air from a painted-wood tavern, closely followed by the sound merry laughter.
+
+The area is illuminated.
+
+In this room you see: 1st fox squirrel, 2nd fox squirrel, 1st estate knight
+In this room are: small spring of crystal clear water
+Obvious exits are: west, east, painted wooden door, a gravel road, slender gap in the wall of trees
+
+go gap
+ready tor
+It is too dark to see!
+
+l
+l
+l
+You light your wooden torch.
+lites on
+
+
+[Within the Hedge]
+Squeezing through the thick vines and surprisingly pliable trees, the outline of an open glade within a towering copse of trees can be seen. The shadows cast into the hedge make it difficult to discern whether it is day or night and the sounds of habitation can be heard more clearly.
+
+The area is illuminated.
+
+Obvious exits are: small outlet towards a clearing, slender gap in the wall of trees
+
+
+[Within the Hedge]
+Squeezing through the thick vines and surprisingly pliable trees, the outline of an open glade within a towering copse of trees can be seen. The shadows cast into the hedge make it difficult to discern whether it is day or night and the sounds of habitation can be heard more clearly.
+
+The area is illuminated.
+
+Obvious exits are: small outlet towards a clearing, slender gap in the wall of trees
+
+
+[Within the Hedge]
+Squeezing through the thick vines and surprisingly pliable trees, the outline of an open glade within a towering copse of trees can be seen. The shadows cast into the hedge make it difficult to discern whether it is day or night and the sounds of habitation can be heard more clearly.
+
+The area is illuminated.
+
+Obvious exits are: small outlet towards a clearing, slender gap in the wall of trees
+
+ ** Aelovin Aeridin just left the world.
+
+look through gap
+You look through the slender gap in the wall of trees...
+
+
+[Wall of Vines]
+Towering trees stand side by side, their branches entangled into a thick snarl. Vines have woven themselves through the gaps of the trees, seeking to stop any unwelcome travelers from continuing down the path. Muffled sounds of a large gathering can be heard coming from the far side of the wall of flora.
+
+The area is illuminated.
+
+Obvious exits are: east, slender gap in the wall of trees
+
+pok gap
+You poke the slender gap in the wall of trees.
+
+pok out
+You poke the small outlet towards a clearing.
+
+look through out
+You look through the small outlet towards a clearing...
+
+
+[Secluded Grove]
+Trees have grown into a natural wall, protecting the clearing from any unwanted visitors. Vines have been woven through the tangled branches of the trees, blocking the rest of the forest from view. Soft grass peppered with patches of clover grows underfoot, and a small, brown rabbit nibbles contentedly on the green stalks.  A small group of sturdy Galirrim has gathered around a small spring of crystal clear water. Enchanting scents of cooking food waft through the air from a painted-wood tavern, closely followed by the sound merry laughter.
+
+The area is illuminated.
+
+In this room you see: 1st fox squirrel, 1st estate knight
+In this room are: small spring of crystal clear water
+Obvious exits are: west, east, painted wooden door, a gravel road, slender gap in the wall of trees
+
+Asher just entered through the slender gap in the wall of trees.
+
+furr
+You furrow your brow.
+
+
+Asher asks Kurapiira, "Well, well, well, out here all alone are we?"
+
+Asher smiles.
+
+say um..
+You say, "um.."
+
+gla at as
+You glance at Asher.
+
+ ** Trien Atriedes just left the world.
+
+gulp
+You gulp.
+
+l
+
+[Within the Hedge]
+Squeezing through the thick vines and surprisingly pliable trees, the outline of an open glade within a towering copse of trees can be seen. The shadows cast into the hedge make it difficult to discern whether it is day or night and the sounds of habitation can be heard more clearly.
+
+The area is illuminated.
+
+In this room you see: Asher the Duskwen
+Obvious exits are: small outlet towards a clearing, slender gap in the wall of trees
+
+say i was just leaving
+You say, "i was just leaving"
+
+
+Asher says, "Pretty far from Urda"
+
+flai
+You flail your arms.
+
+Asher smiles.
+
+set mood scar
+Your mood is now scared.
+
+Asher pulls you.
+
+go gap
+
+[Wall of Vines]
+Towering trees stand side by side, their branches entangled into a thick snarl. Vines have woven themselves through the gaps of the trees, seeking to stop any unwelcome travelers from continuing down the path. Muffled sounds of a large gathering can be heard coming from the far side of the wall of flora.
+
+The area is illuminated.
+
+Obvious exits are: east, slender gap in the wall of trees
+
+hide
+You cannot hide while holding your wooden torch!
+
+Your wooden torch flickers for a few moments.
+
+unready tor
+You extinguish your wooden torch.
+
+hide
+You slip into the shadows.
+[3 sec. delay]
+
+l e
+You look east...
+
+
+[Wooded Path]
+The trees have begun to grow together tightly, making passage impossible but for the most stubborn adventurer. It almost seems as if the forest growth is attempting to make an impassible wall to keep unwanted visitors from entering.
+
+The area is illuminated.
+
+Obvious exits are: west, southeast
+
+wear tor
+You step out of the shadows.
+
+l
+l
+l
+You light your wooden torch.
+lites on
+
+
+[Wall of Vines]
+Towering trees stand side by side, their branches entangled into a thick snarl. Vines have woven themselves through the gaps of the trees, seeking to stop any unwelcome travelers from continuing down the path. Muffled sounds of a large gathering can be heard coming from the far side of the wall of flora.
+
+The area is illuminated.
+
+Obvious exits are: east, slender gap in the wall of trees
+
+
+[Wall of Vines]
+Towering trees stand side by side, their branches entangled into a thick snarl. Vines have woven themselves through the gaps of the trees, seeking to stop any unwelcome travelers from continuing down the path. Muffled sounds of a large gathering can be heard coming from the far side of the wall of flora.
+
+The area is illuminated.
+
+Obvious exits are: east, slender gap in the wall of trees
+
+
+[Wall of Vines]
+Towering trees stand side by side, their branches entangled into a thick snarl. Vines have woven themselves through the gaps of the trees, seeking to stop any unwelcome travelers from continuing down the path. Muffled sounds of a large gathering can be heard coming from the far side of the wall of flora.
+
+The area is illuminated.
+
+Obvious exits are: east, slender gap in the wall of trees
+
+ ** Milandawen Sakarawey just arrived in the world
+
+e
+
+[Wooded Path]
+The trees have begun to grow together tightly, making passage impossible but for the most stubborn adventurer. It almost seems as if the forest growth is attempting to make an impassible wall to keep unwanted visitors from entering.
+
+The area is illuminated.
+
+Obvious exits are: west, southeast
+
+se
+
+[Wooded Path]
+A large stone sits in the middle of the path, causing the trail to curve around it, hiding the rest of the path from view. Moss and creeping ivy have overtaken the boulder, hiding most of the gray stone from view.
+
+The area is illuminated.
+
+Obvious exits are: northwest, southwest
+
+sw
+
+[Wooded Path]
+Powerful feet stomp the ground, as a young, virile white-tailed buck strides across the trail, confident that nothing would dare threaten him. The stag arches his neck gracefully, as if his impressive rack of antlers weighed nearly nothing. Thin strips of soft velvet can still be seen on the newer growth, marking him as still young, despite his obvious confidence.
+
+The area is illuminated.
+
+In this room you see: 1st rabbit
+Obvious exits are: south, northeast
+
+s
+
+[Wooded Path]
+An innocent-faced chipmunk chatters loudly as he darts along the side of the pathway, his small tail upraised. Behind him a red-furred fox gives chance, desperately trying to catch the nimble rodent.
+
+The area is illuminated.
+
+Obvious exits are: east, north
+
+e
+
+[Wooded Path]
+The sound of rushing water can be heard nearby, but is hidden from view by the green carpet of ivy creeping across the ground. Loud splashing echoes through the forest, followed by the loud roar of an enraged bear.
+
+The area is illuminated.
+
+Obvious exits are: west, east
+
+e
+
+[Wooded Path]
+The remains of a recent campfire sits to one side of the trail, though the recent occupant made a token effort to smooth the dirt across the fire pit. A few charred animal bones can be seen in the ashes of the dead fire, suggesting that someone slept here within just the last few days.
+
+The area is illuminated.
+
+Obvious exits are: west, east
+
+e
+
+[Wooded Path]
+Footsteps along the small trail are becoming more common, it seems that a large group of travelers has come this way recently. An empty and discarded water canteen is sitting along the side of the narrowing path.
+
+The area is illuminated.
+
+Obvious exits are: west, northeast
+
+ne
+
+[Wooded Path]
+Rows of mushrooms spiral up the thick trunk of a birch tree, their orange flesh bright against the white, paper-like bark of the tree. The mushrooms grow larger near the tree's roots, their caps twisted open, spreading their infectious spores to the surrounding trees.
+
+The area is illuminated.
+
+Obvious exits are: southwest, north
+
+n
+
+[Wooded Path]
+A delicate leaved fern has found a home at the base of a mighty oak tree, its large fronds providing a secluded home for a lizard. The scaled creature's small head pokes out from beneath the leaves, wary of being made into lunch for some lucky bird.
+
+The area is illuminated.
+
+In this room you see: 1st squirrel
+Obvious exits are: south, north
+
+n
+
+[Wooded Path]
+Soft hissing can be heard coming from a tree limb arching overhead. A long, narrow snake has twined himself around the branch, his dark scales blending into the bark almost perfectly.
+
+The area is illuminated.
+
+Obvious exits are: south, north
+
+n
+
+[Wooded Path]
+Flecks of golden sunlight stream through the shifting foliage of the soaring trees, casting radiant green-tinged lights across the path. The shimmering illumination dances almost joyfully as a strong breeze blows through the treetops.
+
+The area is illuminated.
+
+Obvious exits are: south, north
+
+n
+
+[Wooded Path]
+The sound of something large rustling amongst the flora comes from the far side of the trail. After just a moment, a large brown bear reveals herself, her coat snarled and dirty. A small cub trails at her side, his small face gazing about the world with intense curiosity.
+
+The area is illuminated.
+
+Obvious exits are: south, north
+
+n
+
+[Wooded Path]
+A red fox squirrel darts by, his furry tail arced behind him as he rushes across the trail and leaps for a nearby tree. He expertly climbs the rough bark of the tree, disappearing into the thick foliage.
+
+The area is illuminated.
+
+Obvious exits are: south, northeast
+
+ne
+
+[Wooded Path]
+A small opossum sits in the crook of a short tree, her long claws digging deep into the bark. A small litter of 3 soft furred babies clutch at her back, their large, dark eyes glinting in the faint light of the forest.
+
+The area is illuminated.
+
+Obvious exits are: southwest, northeast
+
+ne
+
+[Wooded Path]
+A small bed of beautiful white flowers have sprung up in a patch of open sunlight. Their petals arch outward, their inner folds darkening into a golden radiance. A faint, sweet scent seems to emanate from their delicate blooms.
+
+The area is illuminated.
+
+Obvious exits are: southwest, northeast
+
+ne
+
+[Wooded Path]
+A pair of dark furred badgers waddle across the path, their white stripes bright against the dark soil of the trail. Though small, they walk slowly, unafraid of any predators that might be lurking nearby.
+
+The area is illuminated.
+
+Obvious exits are: southwest, northeast
+
+ne
+
+[Wooded Path]
+A pair of amber eyes gaze intently out from a row of concealing shrubbery. A low growl suddenly echoes in the forest, silencing the twittering birds and insects for just an instant.
+
+The area is illuminated.
+
+Obvious exits are: southwest, northeast
+
+ne
+
+[Wooded Path]
+The path curves more sharply to the west, avoiding a large wall of sharp thistle shrubs. A small hole at the base of the thicket suggests that some of the smaller animals of the forest have made their home among the roots of the wickedly sharp plants.
+
+The area is illuminated.
+
+Obvious exits are: southwest, east
+
+e
+
+[Wooded Path]
+A colossal tree has sprung up deep in the forest, its great boughs soaring far above those of its brothers and sisters. Trailing vines tumble down from its branches to sweep the lower treetops. The leaves of the great tree are unusual, like nothing else in the surrounding forest.
+
+The area is illuminated.
+
+Obvious exits are: west, east
+
+ ** Aethlyn Boreas just left the world.
+
+e
+
+[Wooded Path]
+Bright green pine needles contrast sharply beside the fading foliage of nearby red maples. As a stiff breeze causes the branches to sway, the forest almost seems to be afire.
+
+The area is illuminated.
+
+Obvious exits are: west, east
+
+e
+
+[Wooded Path]
+Oak, beech, and maple trees tower far overhead, their great boughs reaching toward the bright sun, and casting dark shadows on the thick undergrowth. Short shrubs vie desperately for the few flecks of sunlight able to penetrate the thick canopy above.
+
+The area is illuminated.
+
+Obvious exits are: west, east
+
+e
+
+[Wooded Path]
+The whistles of small songbirds abruptly end as something large passes through the trees just out of sight. In an instant the rustling of the fast moving predator ceases soon followed by the calls of birds, each chirping with renewed vigor as if to make up for their momentary pause.
+
+The area is illuminated.
+
+Obvious exits are: west, east
+
+e
+
+[Wooded Path]
+The path begins to narrow, making further passage more difficult. Overhead the tree's branches form an arcing tunnel, blocking all but the most stubborn sunlight from finding its way to the forest floor.
+
+The area is illuminated.
+
+In this room you see: 1st butterfly
+Obvious exits are: west, south
+
+s
+
+[Wooded Path]
+Vines hang freely from treetop branches, some growing so long that they brush the ground. A forgotten wool cap is tangled in one cluster of green vines, no doubt lost when an unwary traveler became entangled in the vegetation.
+
+The area is illuminated.
+
+Obvious exits are: south, north
+
+s
+
+[Wooded Path]
+Light streams through the thick foliage of the trees, and as the wind blows through the forest, flecks of light and shadow dance along the narrow path. A young doe, her coat still speckled with small white dots, creeps cautiously from the tree line, wary for predators.
+
+The area is illuminated.
+
+Obvious exits are: southeast, north
+
+se
+
+[Wooded Path]
+A fallen log blocks most of the path, its rotting bark covered in lush green moss. Scrapes mar the otherwise smooth carpet of moss, suggesting that the most determined travelers who could walk around the log, found a way over it.
+
+The area is illuminated.
+
+Obvious exits are: northwest, south
+
+s
+
+[Wooded Path]
+Far overhead a large winged hawk cries aloud with a piercing shriek, his rusty feathers glinting like copper in the light, as he glides easily through the air. With a startling suddenness, he tilts his wings and veers out of sight as a flock of dark crows abruptly fill the sky.
+
+The area is illuminated.
+
+Obvious exits are: south, north
+
+s
+
+[Wooded Path]
+Faint hoof prints dot the soft soil of the forest path, suggesting that this was once a simple game trail. A small stand of clover has managed to survive in the dim light and a pair of young rabbits nibble at the patch of vegetation.
+
+The area is illuminated.
+
+Obvious exits are: south, north
+
+s
+
+[Wooded Path]
+A small path breaks through a nearby stand of trees, leading deep into the woods. The trees loom far overhead, casting a dark shadow across the rocky terrain and the soft sounds of chirping insects and whistling birds can be heard coming from the shadowy forest.
+
+The area is illuminated.
+
+Obvious exits are: south, north
+
+s
+
+[Shady Tree Road]
+The sea of grasses and wildflowers suddenly breaks against the barrier of ancient trees, their height alone clue enough of the forest's age. The soft buzzing of a nearby beehive can be heard over the prolific twittering of songbirds within the forest.
+
+The area is illuminated.
+
+Obvious exits are: south, north
+
+s
+
+[Shady Tree Road]
+The wide path begins to narrow as it heads into the forest to the west. In the distance to the southeast, a large group of wagons, no doubt part of a merchant caravan, are gathered outside the gates of Urda.
+
+The area is illuminated.
+
+Obvious exits are: south, north
+
+s
+
+[Shady Tree Road]
+Short trees have begun to sprout up more commonly closer to the forest, their gnarled branches reaching for the sunlight. Some have found themselves beset by deer, who venture out of the nearby woods searching for the tender leaves of the short trees.
+
+The area is illuminated.
+
+Obvious exits are: south, north
+
+s
+
+[Shady Tree Road]
+A short snake, his scales ringed in green, red, and white, sits on a small rock beside the path, sunning himself on the warm stone. He seems surprisingly unconcerned about predators, no doubt his bright coloring warns most off.
+
+The area is illuminated.
+
+In this room you see: 1st wolf cub, 1st butterfly
+Obvious exits are: south, north
+
+s
+
+[Shady Tree Road]
+A golden eagle, his feathers shimmering brilliantly in the light, swoops at the ground, his great wings tucked back, as he dives for his prey, a nearby unlucky squirrel who ventured too far from the safety of the trees.
+
+The area is illuminated.
+
+Obvious exits are: east, north
+
+e
+
+[Shady Tree Road]
+The sweet scent of wild roses mingle with the cloying smell of honeysuckle into a wonderful perfume. A small hedgehog has buried himself amongst the nearby rosebushes, safely tucked behind the plant's thorny branches.
+
+The area is illuminated.
+
+Obvious exits are: west, east
+
+e
+
+[Shady Tree Road]
+A small bed of bright red flowers stand starkly out from the waves of pale pinks, purples, and yellows. Their delicate petals folded open, as if offering invitation to be smelled.
+
+The area is illuminated.
+
+Obvious exits are: west, east
+
+e
+
+[Shady Tree Road]
+A tawny colored feral cat, her eyes the color of saffron, crouches low in the field, staring intently at her prey, an unsuspecting vole. With shocking speed, the small cat leaps forward, and snaps up the vole in her mouth, devouring her meal in seconds.
+
+The area is illuminated.
+
+Obvious exits are: west, east
+
+e
+
+[Shady Tree Road]
+Fields of wildflowers grow right up to the wall of trees, their bright petals vying for the attention of the bees and butterflies that flit from flower to flower.
+
+The area is illuminated.
+
+In this room you see: 1st butterfly
+Obvious exits are: west, east
+
+e
+
+[Shady Tree Road]
+The edge of the thick forest is close enough that the sound of songbirds and crickets can be heard. A large flock of brown feathered doves suddenly burst from the cover of the trees in a cloud of frantically flapping wings.
+
+The area is illuminated.
+
+Obvious exits are: west, east
+
+e
+
+[Shady Tree Road]
+A group of knights clad in armor that once gleamed in the light, now dusty from the road, sit atop their powerful steeds, keeping a wary eye out for thieves and brigands. Their leader says something under his breath to the others, and they burst into laughter.
+
+The area is illuminated.
+
+Obvious exits are: west, east
+
+e
+
+[Shady Tree Road]
+Hoof beats can be heard in the distance to the west, followed by the clanking of metal. It sounds as if a small group of knights are patrolling the small road.
+
+The area is illuminated.
+
+Obvious exits are: west, east
+
+e
+
+[Shady Tree Road]
+The path arches up beside a towering tree, the roots pushing through the soil as if seeking to trip inattentive travelers. The skin of the thick root is scrapped and scared; obviously some have fallen for its trap.
+
+The area is illuminated.
+
+Obvious exits are: west, east
+
+e
+
+[Shady Tree Road]
+Rocks pepper the otherwise smooth surface of the dirt road. Faint wagon tracks cut through the loose soil, suggesting that traders have come this way before.
+
+The area is illuminated.
+
+Obvious exits are: west, south
+
+s
+
+[Shady Tree Road]
+Much of the tall grass here has been flattened by the passage of some bulky creature. A single footprint in the midst of the crushed greenery suggests it was far larger than an ordinary bear.
+
+The area is illuminated.
+
+In this room you see: 1st wolf cub
+Obvious exits are: south, north
+
+s
+
+[Shady Tree Road]
+A few, scattered trees have sprung up around the trail, though still young, the trees have already been claimed by various songbirds. A large pair of wings overhead cast a shadow on the ground, at first it seems to be nothing more than a bird of prey, but closer inspection reveals it to be a Zacotl on her way to the nearby city.
+
+The area is illuminated.
+
+Obvious exits are: south, north
+
+s
+
+[Shady Tree Road]
+The sound of softly shifting water can be heard from somewhere nearby, but the source can't be seen. A brightly colored cardinal flaps by overhead, his crimson feathers dazzling against the blue sky.
+
+The area is illuminated.
+
+In this room you see: 1st butterfly
+Obvious exits are: east, north
+
+e
+
+[Shady Tree Road]
+Fields of grass frame the pathway, wildflowers wave gently as a breeze blows by. A small mouse scuttles by, his long whiskers twitching.
+
+The area is illuminated.
+
+In this room you see: 1st butterfly, 1st snarling gray wolf
+Obvious exits are: west, southeast
+
+The 1st snarling gray wolf jumps up, baring its sharps fangs at you!
+It is a solid blow to your right leg!
+Your sturdy, light jerkin of scorpion carapaces absorbs some of the damage.
+h
+You take 6 damage!
+
+
+HP:  136/142  Ftg:  41/41  MP:  60/60
+
+
+se
+
+[Shady Tree Road]
+A long, winding path cuts away from the main road, the gravel giving way to rocky soil. In the far distance, the trail disappears beyond a thick line of trees.
+
+The area is illuminated.
+
+Obvious exits are: northwest, east
+
+e
+
+[Dirt Road]
+Some small weeds have taken purchase in the dirt on the eastern side of the road.  A few tall trees stand scattered about randomly; their long branches extending across the road.  A small curve in the path heads northwest around a very large stump.
+
+The area is illuminated.
+
+Obvious exits are: northwest, west, south
+
+s
+
+[Dirt Road]
+Small healthy trees stand a long side the road to the east and west.  The road grooved by what appears to be the wheels of wagons continues to the north and south. 
+
+The area is illuminated.
+
+Obvious exits are: south, north
+
+s
+
+[Dirt Road]
+The road continues north and south to the east a large forest outlines the horizon and extends out of site.  A small but functional wooden bench, roughly carved, sits on the western side of the road.
+
+The area is illuminated.
+
+Obvious exits are: south, north
+
+s
+
+[Dirt Road]
+The dirt road lined by small shrubs and wild flowers heads northward.  To the south, the northern gatehouse of Urda welcomes traders and patrons alike.
+
+The area is illuminated.
+
+Obvious exits are: north, gate
+
+go gate
+
+[Urda, Northern Gatehouse]
+Guards and soldiers stand near their guard tower, carefully scrutinizing entrants into the city. Carters, wagon trains, and small caravans speak to the guards before they are allowed to enter the city. Groups of people pass by the gatehouse quietly, anxious excitement in their eyes for the wares they will be able to buy and peddle.
+
+The area is illuminated.
+
+Obvious exits are: south, gate
+
+go gate
+
+[Dirt Road]
+The dirt road lined by small shrubs and wild flowers heads northward.  To the south, the northern gatehouse of Urda welcomes traders and patrons alike.
+
+The area is illuminated.
+
+Obvious exits are: north, gate
+
+n
+
+[Dirt Road]
+The road continues north and south to the east a large forest outlines the horizon and extends out of site.  A small but functional wooden bench, roughly carved, sits on the western side of the road.
+
+The area is illuminated.
+
+Obvious exits are: south, north
+
+n
+
+[Dirt Road]
+Small healthy trees stand a long side the road to the east and west.  The road grooved by what appears to be the wheels of wagons continues to the north and south. 
+
+The area is illuminated.
+
+Obvious exits are: south, north
+
+n
+
+[Dirt Road]
+Some small weeds have taken purchase in the dirt on the eastern side of the road.  A few tall trees stand scattered about randomly; their long branches extending across the road.  A small curve in the path heads northwest around a very large stump.
+
+The area is illuminated.
+
+Obvious exits are: northwest, west, south
+
+w
+
+[Shady Tree Road]
+A long, winding path cuts away from the main road, the gravel giving way to rocky soil. In the far distance, the trail disappears beyond a thick line of trees.
+
+The area is illuminated.
+
+In this room you see: 1st butterfly, 1st snarling gray wolf
+Obvious exits are: northwest, east
+
+nw
+
+[Shady Tree Road]
+Fields of grass frame the pathway, wildflowers wave gently as a breeze blows by. A small mouse scuttles by, his long whiskers twitching.
+
+The area is illuminated.
+
+Obvious exits are: west, southeast
+
+w
+
+[Shady Tree Road]
+The sound of softly shifting water can be heard from somewhere nearby, but the source can't be seen. A brightly colored cardinal flaps by overhead, his crimson feathers dazzling against the blue sky.
+
+The area is illuminated.
+
+Obvious exits are: east, north
+
+w
+I don't see what exit you're referring to.
+
+w
+I don't see what exit you're referring to.
+
+Your wooden torch sputters for a moment before going out.
+
+n
+ready tor
+It is too dark to see!
+
+You cannot use the expended wooden torch anymore.
+
+wear tor
+throw tor
+You cannot use the expended wooden torch anymore.
+
+You throw the expended wooden torch a short distance onto the ground.
+
+The expended wooden torch shatters on impact!
+
+get tor fromsh
+I don't see what you're referring to.
+
+get tor from bac
+You remove the wooden torch from your open damaged closed recruit backpack.
+
+wear tor
+l
+l
+l
+You light your wooden torch.
+lites on
+
+
+[Shady Tree Road]
+A few, scattered trees have sprung up around the trail, though still young, the trees have already been claimed by various songbirds. A large pair of wings overhead cast a shadow on the ground, at first it seems to be nothing more than a bird of prey, but closer inspection reveals it to be a Zacotl on her way to the nearby city.
+
+The area is illuminated.
+
+In this room you see: 1st butterfly
+Obvious exits are: south, north
+
+
+[Shady Tree Road]
+A few, scattered trees have sprung up around the trail, though still young, the trees have already been claimed by various songbirds. A large pair of wings overhead cast a shadow on the ground, at first it seems to be nothing more than a bird of prey, but closer inspection reveals it to be a Zacotl on her way to the nearby city.
+
+The area is illuminated.
+
+In this room you see: 1st butterfly
+Obvious exits are: south, north
+
+
+[Shady Tree Road]
+A few, scattered trees have sprung up around the trail, though still young, the trees have already been claimed by various songbirds. A large pair of wings overhead cast a shadow on the ground, at first it seems to be nothing more than a bird of prey, but closer inspection reveals it to be a Zacotl on her way to the nearby city.
+
+The area is illuminated.
+
+In this room you see: 1st butterfly
+Obvious exits are: south, north
+
+The 1st butterfly just wandered south.
+
+fly up 5
+gla down
+With a small running start, you leap into the air and spread your wings!
+[5 sec. delay]
+
+You glance down.
+
+n
+
+[Shady Tree Road]
+Much of the tall grass here has been flattened by the passage of some bulky creature. A single footprint in the midst of the crushed greenery suggests it was far larger than an ordinary bear.
+
+The area is illuminated.
+
+In this room you see: 1st wolf cub
+Obvious exits are: south, north
+
+n
+
+[Shady Tree Road]
+Rocks pepper the otherwise smooth surface of the dirt road. Faint wagon tracks cut through the loose soil, suggesting that traders have come this way before.
+
+The area is illuminated.
+
+Obvious exits are: west, south
+
+n
+I don't see what exit you're referring to.
+
+s
+
+[Shady Tree Road]
+Much of the tall grass here has been flattened by the passage of some bulky creature. A single footprint in the midst of the crushed greenery suggests it was far larger than an ordinary bear.
+
+The area is illuminated.
+
+In this room you see: 1st wolf cub
+Obvious exits are: south, north
+
+s
+
+[Shady Tree Road]
+A few, scattered trees have sprung up around the trail, though still young, the trees have already been claimed by various songbirds. A large pair of wings overhead cast a shadow on the ground, at first it seems to be nothing more than a bird of prey, but closer inspection reveals it to be a Zacotl on her way to the nearby city.
+
+The area is illuminated.
+
+Obvious exits are: south, north
+
+s
+
+[Shady Tree Road]
+The sound of softly shifting water can be heard from somewhere nearby, but the source can't be seen. A brightly colored cardinal flaps by overhead, his crimson feathers dazzling against the blue sky.
+
+The area is illuminated.
+
+In this room you see: 1st butterfly
+Obvious exits are: east, north
+
+s
+I don't see what exit you're referring to.
+
+e
+
+[Shady Tree Road]
+Fields of grass frame the pathway, wildflowers wave gently as a breeze blows by. A small mouse scuttles by, his long whiskers twitching.
+
+The area is illuminated.
+
+In this room you see: 1st butterfly, 1st snarling gray wolf
+Obvious exits are: west, southeast
+
+se
+A snarling gray wolf follows you into the room.
+
+
+[Shady Tree Road]
+A long, winding path cuts away from the main road, the gravel giving way to rocky soil. In the far distance, the trail disappears beyond a thick line of trees.
+
+The area is illuminated.
+
+In this room you see: 1st snarling gray wolf
+Obvious exits are: northwest, east
+
+e
+A snarling gray wolf follows you into the room.
+
+
+[Dirt Road]
+Some small weeds have taken purchase in the dirt on the eastern side of the road.  A few tall trees stand scattered about randomly; their long branches extending across the road.  A small curve in the path heads northwest around a very large stump.
+
+The area is illuminated.
+
+In this room you see: 1st snarling gray wolf
+Obvious exits are: northwest, west, south
+
+s
+
+[Dirt Road]
+Small healthy trees stand a long side the road to the east and west.  The road grooved by what appears to be the wheels of wagons continues to the north and south. 
+
+The area is illuminated.
+
+Obvious exits are: south, north
+
+s
+
+[Dirt Road]
+The road continues north and south to the east a large forest outlines the horizon and extends out of site.  A small but functional wooden bench, roughly carved, sits on the western side of the road.
+
+The area is illuminated.
+
+Obvious exits are: south, north
+
+s
+
+[Dirt Road]
+The dirt road lined by small shrubs and wild flowers heads northward.  To the south, the northern gatehouse of Urda welcomes traders and patrons alike.
+
+The area is illuminated.
+
+Obvious exits are: north, gate
+
+n
+
+[Dirt Road]
+The road continues north and south to the east a large forest outlines the horizon and extends out of site.  A small but functional wooden bench, roughly carved, sits on the western side of the road.
+
+The area is illuminated.
+
+Obvious exits are: south, north
+
+n
+
+[Dirt Road]
+Small healthy trees stand a long side the road to the east and west.  The road grooved by what appears to be the wheels of wagons continues to the north and south. 
+
+The area is illuminated.
+
+Obvious exits are: south, north
+
+n
+
+[Dirt Road]
+Some small weeds have taken purchase in the dirt on the eastern side of the road.  A few tall trees stand scattered about randomly; their long branches extending across the road.  A small curve in the path heads northwest around a very large stump.
+
+The area is illuminated.
+
+In this room you see: 1st snarling gray wolf
+Obvious exits are: northwest, west, south
+
+nw
+
+[Dirt Road]
+As the wagon marks continue the road, though still travelable is littered with deep holes, some old some new filled with grey rocks.  A small pile of grey rocks sits on the eastern side of the road. 
+
+The area is illuminated.
+
+Obvious exits are: northwest, southeast
+
+nw
+
+[Dirt Road]
+To the north, a large gate can be seen in the distance flanked by a large stone wall.  To the southeast a large stump sits beside the road. Large ruts in the word indicate that this road is traveled not only by foot but by wagon as well. A few potholes have formed on the eastern side of the path.
+
+The area is illuminated.
+
+Obvious exits are: southeast, north
+
+nw
+I don't see what exit you're referring to.
+
+n
+
+[Dirt Road]
+Small un-manicured shrubs line the roadway east and west growing so out of control that they intertwine roughly. Some branches have grown wildly across the road connecting with their opposing side creating a canopy. a small narrow overgrown path branches off to the west.
+
+The area is illuminated.
+
+Obvious exits are: west, south, north
+
+s
+
+[Dirt Road]
+To the north, a large gate can be seen in the distance flanked by a large stone wall.  To the southeast a large stump sits beside the road. Large ruts in the word indicate that this road is traveled not only by foot but by wagon as well. A few potholes have formed on the eastern side of the path.
+
+The area is illuminated.
+
+Obvious exits are: southeast, north
+
+s
+I don't see what exit you're referring to.
+
+s
+I don't see what exit you're referring to.
+
+se
+
+[Dirt Road]
+As the wagon marks continue the road, though still travelable is littered with deep holes, some old some new filled with grey rocks.  A small pile of grey rocks sits on the eastern side of the road. 
+
+The area is illuminated.
+
+Obvious exits are: northwest, southeast
+
+se
+
+[Dirt Road]
+Some small weeds have taken purchase in the dirt on the eastern side of the road.  A few tall trees stand scattered about randomly; their long branches extending across the road.  A small curve in the path heads northwest around a very large stump.
+
+The area is illuminated.
+
+In this room you see: 1st snarling gray wolf
+Obvious exits are: northwest, west, south
+
+s
+
+[Dirt Road]
+Small healthy trees stand a long side the road to the east and west.  The road grooved by what appears to be the wheels of wagons continues to the north and south. 
+
+The area is illuminated.
+
+Obvious exits are: south, north
+
+s
+
+[Dirt Road]
+The road continues north and south to the east a large forest outlines the horizon and extends out of site.  A small but functional wooden bench, roughly carved, sits on the western side of the road.
+
+The area is illuminated.
+
+Obvious exits are: south, north
+
+s
+
+[Dirt Road]
+The dirt road lined by small shrubs and wild flowers heads northward.  To the south, the northern gatehouse of Urda welcomes traders and patrons alike.
+
+The area is illuminated.
+
+Obvious exits are: north, gate
+
+go gate
+
+[Urda, Northern Gatehouse]
+Guards and soldiers stand near their guard tower, carefully scrutinizing entrants into the city. Carters, wagon trains, and small caravans speak to the guards before they are allowed to enter the city. Groups of people pass by the gatehouse quietly, anxious excitement in their eyes for the wares they will be able to buy and peddle.
+
+The area is illuminated.
+
+Obvious exits are: south, gate
+
+go gate
+
+[Dirt Road]
+The dirt road lined by small shrubs and wild flowers heads northward.  To the south, the northern gatehouse of Urda welcomes traders and patrons alike.
+
+The area is illuminated.
+
+Obvious exits are: north, gate
+
+n
+
+[Dirt Road]
+The road continues north and south to the east a large forest outlines the horizon and extends out of site.  A small but functional wooden bench, roughly carved, sits on the western side of the road.
+
+The area is illuminated.
+
+Obvious exits are: south, north
+
+n
+
+[Dirt Road]
+Small healthy trees stand a long side the road to the east and west.  The road grooved by what appears to be the wheels of wagons continues to the north and south. 
+
+The area is illuminated.
+
+Obvious exits are: south, north
+
+n
+
+[Dirt Road]
+Some small weeds have taken purchase in the dirt on the eastern side of the road.  A few tall trees stand scattered about randomly; their long branches extending across the road.  A small curve in the path heads northwest around a very large stump.
+
+The area is illuminated.
+
+In this room you see: 1st snarling gray wolf
+Obvious exits are: northwest, west, south
+
+w
+
+[Shady Tree Road]
+A long, winding path cuts away from the main road, the gravel giving way to rocky soil. In the far distance, the trail disappears beyond a thick line of trees.
+
+The area is illuminated.
+
+Obvious exits are: northwest, east
+
+nw
+
+[Shady Tree Road]
+Fields of grass frame the pathway, wildflowers wave gently as a breeze blows by. A small mouse scuttles by, his long whiskers twitching.
+
+The area is illuminated.
+
+In this room you see: 1st butterfly
+Obvious exits are: west, southeast
+
+w
+
+[Shady Tree Road]
+The sound of softly shifting water can be heard from somewhere nearby, but the source can't be seen. A brightly colored cardinal flaps by overhead, his crimson feathers dazzling against the blue sky.
+
+The area is illuminated.
+
+In this room you see: 1st butterfly
+Obvious exits are: east, north
+
+n
+
+[Shady Tree Road]
+A few, scattered trees have sprung up around the trail, though still young, the trees have already been claimed by various songbirds. A large pair of wings overhead cast a shadow on the ground, at first it seems to be nothing more than a bird of prey, but closer inspection reveals it to be a Zacotl on her way to the nearby city.
+
+The area is illuminated.
+
+Obvious exits are: south, north
+
+n
+
+[Shady Tree Road]
+Much of the tall grass here has been flattened by the passage of some bulky creature. A single footprint in the midst of the crushed greenery suggests it was far larger than an ordinary bear.
+
+The area is illuminated.
+
+In this room you see: 1st wolf cub
+Obvious exits are: south, north
+
+n
+
+[Shady Tree Road]
+Rocks pepper the otherwise smooth surface of the dirt road. Faint wagon tracks cut through the loose soil, suggesting that traders have come this way before.
+
+The area is illuminated.
+
+Obvious exits are: west, south
+
+ ** Milandawen Sakarawey just left the world.
+
+w
+
+[Shady Tree Road]
+The path arches up beside a towering tree, the roots pushing through the soil as if seeking to trip inattentive travelers. The skin of the thick root is scrapped and scared; obviously some have fallen for its trap.
+
+The area is illuminated.
+
+Obvious exits are: west, east
+
+w
+
+[Shady Tree Road]
+Hoof beats can be heard in the distance to the west, followed by the clanking of metal. It sounds as if a small group of knights are patrolling the small road.
+
+The area is illuminated.
+
+Obvious exits are: west, east
+
+w
+
+[Shady Tree Road]
+A group of knights clad in armor that once gleamed in the light, now dusty from the road, sit atop their powerful steeds, keeping a wary eye out for thieves and brigands. Their leader says something under his breath to the others, and they burst into laughter.
+
+The area is illuminated.
+
+Obvious exits are: west, east
+
+w
+
+[Shady Tree Road]
+The edge of the thick forest is close enough that the sound of songbirds and crickets can be heard. A large flock of brown feathered doves suddenly burst from the cover of the trees in a cloud of frantically flapping wings.
+
+The area is illuminated.
+
+Obvious exits are: west, east
+
+w
+
+[Shady Tree Road]
+Fields of wildflowers grow right up to the wall of trees, their bright petals vying for the attention of the bees and butterflies that flit from flower to flower.
+
+The area is illuminated.
+
+Obvious exits are: west, east
+
+w
+
+[Shady Tree Road]
+A tawny colored feral cat, her eyes the color of saffron, crouches low in the field, staring intently at her prey, an unsuspecting vole. With shocking speed, the small cat leaps forward, and snaps up the vole in her mouth, devouring her meal in seconds.
+
+The area is illuminated.
+
+In this room you see: 1st butterfly
+Obvious exits are: west, east
+
+w
+
+[Shady Tree Road]
+A small bed of bright red flowers stand starkly out from the waves of pale pinks, purples, and yellows. Their delicate petals folded open, as if offering invitation to be smelled.
+
+The area is illuminated.
+
+Obvious exits are: west, east
+
+w
+
+[Shady Tree Road]
+The sweet scent of wild roses mingle with the cloying smell of honeysuckle into a wonderful perfume. A small hedgehog has buried himself amongst the nearby rosebushes, safely tucked behind the plant's thorny branches.
+
+The area is illuminated.
+
+Obvious exits are: west, east
+
+w
+
+[Shady Tree Road]
+A golden eagle, his feathers shimmering brilliantly in the light, swoops at the ground, his great wings tucked back, as he dives for his prey, a nearby unlucky squirrel who ventured too far from the safety of the trees.
+
+The area is illuminated.
+
+Obvious exits are: east, north
+
+w
+I don't see what exit you're referring to.
+
+e
+
+[Shady Tree Road]
+The sweet scent of wild roses mingle with the cloying smell of honeysuckle into a wonderful perfume. A small hedgehog has buried himself amongst the nearby rosebushes, safely tucked behind the plant's thorny branches.
+
+The area is illuminated.
+
+Obvious exits are: west, east
+
+e
+
+[Shady Tree Road]
+A small bed of bright red flowers stand starkly out from the waves of pale pinks, purples, and yellows. Their delicate petals folded open, as if offering invitation to be smelled.
+
+The area is illuminated.
+
+Obvious exits are: west, east
+
+e
+
+[Shady Tree Road]
+A tawny colored feral cat, her eyes the color of saffron, crouches low in the field, staring intently at her prey, an unsuspecting vole. With shocking speed, the small cat leaps forward, and snaps up the vole in her mouth, devouring her meal in seconds.
+
+The area is illuminated.
+
+In this room you see: 1st butterfly
+Obvious exits are: west, east
+
+e
+
+[Shady Tree Road]
+Fields of wildflowers grow right up to the wall of trees, their bright petals vying for the attention of the bees and butterflies that flit from flower to flower.
+
+The area is illuminated.
+
+Obvious exits are: west, east
+
+e
+
+[Shady Tree Road]
+The edge of the thick forest is close enough that the sound of songbirds and crickets can be heard. A large flock of brown feathered doves suddenly burst from the cover of the trees in a cloud of frantically flapping wings.
+
+The area is illuminated.
+
+Obvious exits are: west, east
+
+e
+
+[Shady Tree Road]
+A group of knights clad in armor that once gleamed in the light, now dusty from the road, sit atop their powerful steeds, keeping a wary eye out for thieves and brigands. Their leader says something under his breath to the others, and they burst into laughter.
+
+The area is illuminated.
+
+Obvious exits are: west, east
+
+e
+
+[Shady Tree Road]
+Hoof beats can be heard in the distance to the west, followed by the clanking of metal. It sounds as if a small group of knights are patrolling the small road.
+
+The area is illuminated.
+
+Obvious exits are: west, east
+
+e
+
+[Shady Tree Road]
+The path arches up beside a towering tree, the roots pushing through the soil as if seeking to trip inattentive travelers. The skin of the thick root is scrapped and scared; obviously some have fallen for its trap.
+
+The area is illuminated.
+
+Obvious exits are: west, east
+
+e
+
+[Shady Tree Road]
+Rocks pepper the otherwise smooth surface of the dirt road. Faint wagon tracks cut through the loose soil, suggesting that traders have come this way before.
+
+The area is illuminated.
+
+Obvious exits are: west, south
+
+w
+
+[Shady Tree Road]
+The path arches up beside a towering tree, the roots pushing through the soil as if seeking to trip inattentive travelers. The skin of the thick root is scrapped and scared; obviously some have fallen for its trap.
+
+The area is illuminated.
+
+Obvious exits are: west, east
+
+w
+
+[Shady Tree Road]
+Hoof beats can be heard in the distance to the west, followed by the clanking of metal. It sounds as if a small group of knights are patrolling the small road.
+
+The area is illuminated.
+
+Obvious exits are: west, east
+
+w
+
+[Shady Tree Road]
+A group of knights clad in armor that once gleamed in the light, now dusty from the road, sit atop their powerful steeds, keeping a wary eye out for thieves and brigands. Their leader says something under his breath to the others, and they burst into laughter.
+
+The area is illuminated.
+
+Obvious exits are: west, east
+
+w
+
+[Shady Tree Road]
+The edge of the thick forest is close enough that the sound of songbirds and crickets can be heard. A large flock of brown feathered doves suddenly burst from the cover of the trees in a cloud of frantically flapping wings.
+
+The area is illuminated.
+
+Obvious exits are: west, east
+
+w
+
+[Shady Tree Road]
+Fields of wildflowers grow right up to the wall of trees, their bright petals vying for the attention of the bees and butterflies that flit from flower to flower.
+
+The area is illuminated.
+
+Obvious exits are: west, east
+
+w
+
+[Shady Tree Road]
+A tawny colored feral cat, her eyes the color of saffron, crouches low in the field, staring intently at her prey, an unsuspecting vole. With shocking speed, the small cat leaps forward, and snaps up the vole in her mouth, devouring her meal in seconds.
+
+The area is illuminated.
+
+In this room you see: 1st butterfly
+Obvious exits are: west, east
+
+w
+
+[Shady Tree Road]
+A small bed of bright red flowers stand starkly out from the waves of pale pinks, purples, and yellows. Their delicate petals folded open, as if offering invitation to be smelled.
+
+The area is illuminated.
+
+Obvious exits are: west, east
+
+w
+
+[Shady Tree Road]
+The sweet scent of wild roses mingle with the cloying smell of honeysuckle into a wonderful perfume. A small hedgehog has buried himself amongst the nearby rosebushes, safely tucked behind the plant's thorny branches.
+
+The area is illuminated.
+
+Obvious exits are: west, east
+
+w
+
+[Shady Tree Road]
+A golden eagle, his feathers shimmering brilliantly in the light, swoops at the ground, his great wings tucked back, as he dives for his prey, a nearby unlucky squirrel who ventured too far from the safety of the trees.
+
+The area is illuminated.
+
+Obvious exits are: east, north
+
+n
+
+[Shady Tree Road]
+A short snake, his scales ringed in green, red, and white, sits on a small rock beside the path, sunning himself on the warm stone. He seems surprisingly unconcerned about predators, no doubt his bright coloring warns most off.
+
+The area is illuminated.
+
+In this room you see: 1st wolf cub
+Obvious exits are: south, north
+
+n
+
+[Shady Tree Road]
+Short trees have begun to sprout up more commonly closer to the forest, their gnarled branches reaching for the sunlight. Some have found themselves beset by deer, who venture out of the nearby woods searching for the tender leaves of the short trees.
+
+The area is illuminated.
+
+In this room you see: 1st butterfly
+Obvious exits are: south, north
+
+n
+
+[Shady Tree Road]
+The wide path begins to narrow as it heads into the forest to the west. In the distance to the southeast, a large group of wagons, no doubt part of a merchant caravan, are gathered outside the gates of Urda.
+
+The area is illuminated.
+
+Obvious exits are: south, north
+
+n
+
+[Shady Tree Road]
+The sea of grasses and wildflowers suddenly breaks against the barrier of ancient trees, their height alone clue enough of the forest's age. The soft buzzing of a nearby beehive can be heard over the prolific twittering of songbirds within the forest.
+
+The area is illuminated.
+
+Obvious exits are: south, north
+
+n
+
+[Wooded Path]
+A small path breaks through a nearby stand of trees, leading deep into the woods. The trees loom far overhead, casting a dark shadow across the rocky terrain and the soft sounds of chirping insects and whistling birds can be heard coming from the shadowy forest.
+
+The area is illuminated.
+
+Obvious exits are: south, north
+
+n
+
+[Wooded Path]
+Faint hoof prints dot the soft soil of the forest path, suggesting that this was once a simple game trail. A small stand of clover has managed to survive in the dim light and a pair of young rabbits nibble at the patch of vegetation.
+
+The area is illuminated.
+
+Obvious exits are: south, north
+
+n
+
+[Wooded Path]
+Far overhead a large winged hawk cries aloud with a piercing shriek, his rusty feathers glinting like copper in the light, as he glides easily through the air. With a startling suddenness, he tilts his wings and veers out of sight as a flock of dark crows abruptly fill the sky.
+
+The area is illuminated.
+
+Obvious exits are: south, north
+
+n
+
+[Wooded Path]
+A fallen log blocks most of the path, its rotting bark covered in lush green moss. Scrapes mar the otherwise smooth carpet of moss, suggesting that the most determined travelers who could walk around the log, found a way over it.
+
+The area is illuminated.
+
+Obvious exits are: northwest, south
+
+nw
+
+[Wooded Path]
+Light streams through the thick foliage of the trees, and as the wind blows through the forest, flecks of light and shadow dance along the narrow path. A young doe, her coat still speckled with small white dots, creeps cautiously from the tree line, wary for predators.
+
+The area is illuminated.
+
+Obvious exits are: southeast, north
+
+n
+
+[Wooded Path]
+Vines hang freely from treetop branches, some growing so long that they brush the ground. A forgotten wool cap is tangled in one cluster of green vines, no doubt lost when an unwary traveler became entangled in the vegetation.
+
+The area is illuminated.
+
+Obvious exits are: south, north
+
+n
+
+[Wooded Path]
+The path begins to narrow, making further passage more difficult. Overhead the tree's branches form an arcing tunnel, blocking all but the most stubborn sunlight from finding its way to the forest floor.
+
+The area is illuminated.
+
+Obvious exits are: west, south
+
+w
+
+[Wooded Path]
+The whistles of small songbirds abruptly end as something large passes through the trees just out of sight. In an instant the rustling of the fast moving predator ceases soon followed by the calls of birds, each chirping with renewed vigor as if to make up for their momentary pause.
+
+The area is illuminated.
+
+Obvious exits are: west, east
+
+w
+
+[Wooded Path]
+Oak, beech, and maple trees tower far overhead, their great boughs reaching toward the bright sun, and casting dark shadows on the thick undergrowth. Short shrubs vie desperately for the few flecks of sunlight able to penetrate the thick canopy above.
+
+The area is illuminated.
+
+Obvious exits are: west, east
+
+w
+
+[Wooded Path]
+Bright green pine needles contrast sharply beside the fading foliage of nearby red maples. As a stiff breeze causes the branches to sway, the forest almost seems to be afire.
+
+The area is illuminated.
+
+In this room you see: 1st butterfly
+Obvious exits are: west, east
+
+w
+
+[Wooded Path]
+A colossal tree has sprung up deep in the forest, its great boughs soaring far above those of its brothers and sisters. Trailing vines tumble down from its branches to sweep the lower treetops. The leaves of the great tree are unusual, like nothing else in the surrounding forest.
+
+The area is illuminated.
+
+Obvious exits are: west, east
+
+w
+
+[Wooded Path]
+The path curves more sharply to the west, avoiding a large wall of sharp thistle shrubs. A small hole at the base of the thicket suggests that some of the smaller animals of the forest have made their home among the roots of the wickedly sharp plants.
+
+The area is illuminated.
+
+Obvious exits are: southwest, east
+
+sw
+
+[Wooded Path]
+A pair of amber eyes gaze intently out from a row of concealing shrubbery. A low growl suddenly echoes in the forest, silencing the twittering birds and insects for just an instant.
+
+The area is illuminated.
+
+Obvious exits are: southwest, northeast
+
+sw
+
+[Wooded Path]
+A pair of dark furred badgers waddle across the path, their white stripes bright against the dark soil of the trail. Though small, they walk slowly, unafraid of any predators that might be lurking nearby.
+
+The area is illuminated.
+
+Obvious exits are: southwest, northeast
+
+sw
+
+[Wooded Path]
+A small bed of beautiful white flowers have sprung up in a patch of open sunlight. Their petals arch outward, their inner folds darkening into a golden radiance. A faint, sweet scent seems to emanate from their delicate blooms.
+
+The area is illuminated.
+
+Obvious exits are: southwest, northeast
+
+sw
+
+[Wooded Path]
+A small opossum sits in the crook of a short tree, her long claws digging deep into the bark. A small litter of 3 soft furred babies clutch at her back, their large, dark eyes glinting in the faint light of the forest.
+
+The area is illuminated.
+
+Obvious exits are: southwest, northeast
+
+sw
+
+[Wooded Path]
+A red fox squirrel darts by, his furry tail arced behind him as he rushes across the trail and leaps for a nearby tree. He expertly climbs the rough bark of the tree, disappearing into the thick foliage.
+
+The area is illuminated.
+
+Obvious exits are: south, northeast
+
+s
+
+[Wooded Path]
+The sound of something large rustling amongst the flora comes from the far side of the trail. After just a moment, a large brown bear reveals herself, her coat snarled and dirty. A small cub trails at her side, his small face gazing about the world with intense curiosity.
+
+The area is illuminated.
+
+Obvious exits are: south, north
+
+s
+
+[Wooded Path]
+Flecks of golden sunlight stream through the shifting foliage of the soaring trees, casting radiant green-tinged lights across the path. The shimmering illumination dances almost joyfully as a strong breeze blows through the treetops.
+
+The area is illuminated.
+
+Obvious exits are: south, north
+
+s
+
+[Wooded Path]
+Soft hissing can be heard coming from a tree limb arching overhead. A long, narrow snake has twined himself around the branch, his dark scales blending into the bark almost perfectly.
+
+The area is illuminated.
+
+Obvious exits are: south, north
+
+s
+
+[Wooded Path]
+A delicate leaved fern has found a home at the base of a mighty oak tree, its large fronds providing a secluded home for a lizard. The scaled creature's small head pokes out from beneath the leaves, wary of being made into lunch for some lucky bird.
+
+The area is illuminated.
+
+In this room you see: 1st squirrel
+Obvious exits are: south, north
+
+s
+
+[Wooded Path]
+Rows of mushrooms spiral up the thick trunk of a birch tree, their orange flesh bright against the white, paper-like bark of the tree. The mushrooms grow larger near the tree's roots, their caps twisted open, spreading their infectious spores to the surrounding trees.
+
+The area is illuminated.
+
+Obvious exits are: southwest, north
+
+sw
+
+[Wooded Path]
+Footsteps along the small trail are becoming more common, it seems that a large group of travelers has come this way recently. An empty and discarded water canteen is sitting along the side of the narrowing path.
+
+The area is illuminated.
+
+Obvious exits are: west, northeast
+
+w
+
+[Wooded Path]
+The remains of a recent campfire sits to one side of the trail, though the recent occupant made a token effort to smooth the dirt across the fire pit. A few charred animal bones can be seen in the ashes of the dead fire, suggesting that someone slept here within just the last few days.
+
+The area is illuminated.
+
+Obvious exits are: west, east
+
+w
+
+[Wooded Path]
+The sound of rushing water can be heard nearby, but is hidden from view by the green carpet of ivy creeping across the ground. Loud splashing echoes through the forest, followed by the loud roar of an enraged bear.
+
+The area is illuminated.
+
+Obvious exits are: west, east
+
+w
+
+[Wooded Path]
+An innocent-faced chipmunk chatters loudly as he darts along the side of the pathway, his small tail upraised. Behind him a red-furred fox gives chance, desperately trying to catch the nimble rodent.
+
+The area is illuminated.
+
+Obvious exits are: east, north
+
+n
+
+[Wooded Path]
+Powerful feet stomp the ground, as a young, virile white-tailed buck strides across the trail, confident that nothing would dare threaten him. The stag arches his neck gracefully, as if his impressive rack of antlers weighed nearly nothing. Thin strips of soft velvet can still be seen on the newer growth, marking him as still young, despite his obvious confidence.
+
+The area is illuminated.
+
+Obvious exits are: south, northeast
+
+ne
+
+[Wooded Path]
+A large stone sits in the middle of the path, causing the trail to curve around it, hiding the rest of the path from view. Moss and creeping ivy have overtaken the boulder, hiding most of the gray stone from view.
+
+The area is illuminated.
+
+In this room you see: 1st rabbit
+Obvious exits are: northwest, southwest
+
+nw
+
+[Wooded Path]
+The trees have begun to grow together tightly, making passage impossible but for the most stubborn adventurer. It almost seems as if the forest growth is attempting to make an impassible wall to keep unwanted visitors from entering.
+
+The area is illuminated.
+
+Obvious exits are: west, southeast
+
+w
+You are flying too high to go there. You must fly down first.
+
+fly down 10
+You trim your wings and descend 10 feet.
+[3 sec. delay]
+
+l
+
+[Wooded Path]
+The trees have begun to grow together tightly, making passage impossible but for the most stubborn adventurer. It almost seems as if the forest growth is attempting to make an impassible wall to keep unwanted visitors from entering.
+
+The area is illuminated.
+
+Obvious exits are: west, southeast
+
+w
+
+[Wall of Vines]
+Towering trees stand side by side, their branches entangled into a thick snarl. Vines have woven themselves through the gaps of the trees, seeking to stop any unwelcome travelers from continuing down the path. Muffled sounds of a large gathering can be heard coming from the far side of the wall of flora.
+
+The area is illuminated.
+
+Obvious exits are: east, slender gap in the wall of trees
+
+e
+
+[Wooded Path]
+The trees have begun to grow together tightly, making passage impossible but for the most stubborn adventurer. It almost seems as if the forest growth is attempting to make an impassible wall to keep unwanted visitors from entering.
+
+The area is illuminated.
+
+Obvious exits are: west, southeast
+
+fly up `0
+Invalid amount. Use 'help fly' for more information.
+
+fly up 10
+With a couple of powerful strokes, you rise 10 feet in the air!
+[5 sec. delay]
+
+l
+
+[Wooded Path]
+The trees have begun to grow together tightly, making passage impossible but for the most stubborn adventurer. It almost seems as if the forest growth is attempting to make an impassible wall to keep unwanted visitors from entering.
+
+The area is illuminated.
+
+Obvious exits are: west, southeast
+
+se
+
+[Wooded Path]
+A large stone sits in the middle of the path, causing the trail to curve around it, hiding the rest of the path from view. Moss and creeping ivy have overtaken the boulder, hiding most of the gray stone from view.
+
+The area is illuminated.
+
+In this room you see: 1st rabbit
+Obvious exits are: northwest, southwest
+
+nw
+
+[Wooded Path]
+The trees have begun to grow together tightly, making passage impossible but for the most stubborn adventurer. It almost seems as if the forest growth is attempting to make an impassible wall to keep unwanted visitors from entering.
+
+The area is illuminated.
+
+Obvious exits are: west, southeast
+
+w
+You are flying too high to go there. You must fly down first.
+
+land
+Diving downwards, you deftly extend your wings and touch down gracefully.
+
+unready tor
+You extinguish your wooden torch.
+
+hide
+You slip into the shadows.
+[3 sec. delay]
+
+ ** Jordan Rencliffe just left the world.
+
+time

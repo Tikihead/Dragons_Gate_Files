@@ -1,0 +1,1063 @@
+time
+It is currently 08:56 AM.
+
+
+Desmond says, "we picked up the guards items and sold them to get the items out of our possession and out of the temple"
+
+l
+
+[Basket Weaver's Thrift Association]
+Behind the crooked wooden door, a small room has been squeezed into the space between two crumbling sewer walls. Old wooden crates have been stacked in alternating heights, holding up a small selection of wares for rogues of the quick-fingered persuasion. A rusted old scale sits on a makeshift counter, one side filled with law books, the other side weighed down heavily by a few bars of gold. A bright-eyed Aka'thri sits behind the counter, seemingly ignoring the presence of many of the patrons.
+
+The area is illuminated.
+
+In this room you see: Desmond the Silvarin
+Obvious exits are: closed small crooked door
+
+nod to d
+You nod to Desmond.
+
+
+Desmond says, "we didn't want the guard's death pinned on us"
+
+say i see
+You say, "i see"
+
+nod softly
+You nod softly.
+
+say to prevent the framing
+You say, "to prevent the framing"
+
+nod
+You nod.
+
+
+Desmond says, "but apparently that action is what did more damage"
+
+ ** Maibe Bahiti just left the world.
+
+rai at d
+You raise an eyebrow at Desmond.
+
+say it did?
+You ask, "it did?"
+
+
+Desmond says, "so I was confronted by Thurmdall shortly after..."
+
+
+Desmond says, "said one of his guards didn't report for duty"
+
+ ** Daelor Kethmar just left the world unexpectedly.
+
+say did the store owner report guard items being sold in their shop?
+You ask, "did the store owner report guard items being sold in their shop?"
+
+furr
+You furrow your brow.
+
+
+Desmond says, "I could have explained what happened but considering what I had just found on the ground, I was reluctant to do so"
+
+nod to d
+You nod to Desmond.
+
+
+Desmond says, "I found a bloody piece of parchment"
+
+say on the ground...the guards items?
+You ask, "on the ground...the guards items?"
+
+
+Desmond says, "with Baelros' name on it"
+
+say oh my!
+You exclaim, "oh my!"
+
+
+Desmond says, "just outside our temple"
+
+stare
+You stare.
+
+
+Desmond says, "it contained a name"
+
+list
+You listen intently.
+
+
+Desmond says, "well part of a name..."
+
+set mood secr
+Your mood is now secretive.
+
+
+Desmond says, "the blood made it hard to read"
+
+ ** Maria Saldis just arrived in the world
+
+nod to d
+You nod to Desmond.
+
+
+Desmond says, "but I could make out the letters ..dall"
+
+furr
+You furrow your brow.
+
+say Dall
+You say, "Dall"
+
+pon
+You ponder a moment.
+
+
+Desmond says, "with a lowercase d"
+
+
+Desmond says, "as in Thurmdall"
+
+say not the beginning, just a fragment?
+You ask, "not the beginning, just a fragment?"
+
+furr to d
+You furrow your brow to Desmond.
+
+Desmond nods to you.
+
+say oh my!
+You exclaim, "oh my!"
+
+
+Desmond says to Kurapiira, "I didn't know what to make of it"
+
+
+Desmond says, "it could mean that Thurmdall is involved with Baelros"
+
+pon 
+You ponder a moment.
+
+
+Desmond says, "or it could mean that he was a target"
+
+say that wouldbe...
+You say, "that wouldbe..."
+
+stare
+You stare.
+
+
+Desmond says, "reluctantly, I turned it into Thurmdall later that evening"
+
+ ** Maria Saldis just left the world.
+
+nod to d
+You nod to Desmond.
+
+
+Desmond says, "but I'm not so sure I trust him fully"
+
+ ** Muraco Whitemoon just arrived in the world
+
+nod softly
+You nod softly.
+
+
+Desmond says, "and the next thing I know, we are being blamed for the death of the guard"
+
+furr
+You furrow your brow.
+
+say how odd
+You say, "how odd"
+
+nod
+You nod.
+
+
+Desmond says to Kurapiira, "very"
+
+say perhaps the temple johara should investigate this
+You say, "perhaps the temple johara should investigate this"
+
+
+Desmond says to Kurapiira, "especially considering the fact that I had someone remove the items from the shop"
+
+nod to d
+You nod to Desmond.
+
+
+Desmond says, "and the items were destroyed"
+
+
+Desmond says, "there is no evidence at all"
+
+nod to d
+You nod to Desmond.
+
+
+Desmond says, "other than what the shopkeeper says"
+
+
+Desmond says, "but get this..."
+
+
+Desmond says, "right after that guard was killed by the one in the shadows.."
+
+nod
+You nod.
+
+
+Desmond says, "after we stripped the body, another one walked in"
+
+
+Desmond says, "and we warned him to leave"
+
+say another guard?
+You ask, "another guard?"
+
+Desmond nods to you.
+
+stare
+You stare.
+
+
+Desmond says, "then Thurmdall walks in"
+
+
+Desmond says, "very strange"
+
+pon
+You ponder a moment.
+
+
+Desmond says, "all of it"
+
+nod to d
+You nod to Desmond.
+
+say very
+You say, "very"
+
+say and close timing
+You say, "and close timing"
+
+nod
+You nod.
+
+l
+
+[Basket Weaver's Thrift Association]
+Behind the crooked wooden door, a small room has been squeezed into the space between two crumbling sewer walls. Old wooden crates have been stacked in alternating heights, holding up a small selection of wares for rogues of the quick-fingered persuasion. A rusted old scale sits on a makeshift counter, one side filled with law books, the other side weighed down heavily by a few bars of gold. A bright-eyed Aka'thri sits behind the counter, seemingly ignoring the presence of many of the patrons.
+
+The area is illuminated.
+
+In this room you see: Desmond the Silvarin
+Obvious exits are: closed small crooked door
+
+
+Desmond says to Kurapiira, "I need to speak with some other temple members"
+
+nod to d
+You nod to Desmond.
+
+
+Desmond says to Kurapiira, "we wish to address it but must be careful in our choice of words"
+
+
+Desmond says, "claiming that it is a conspiracy will certainly not help our cause"
+
+
+Desmond says, "even though I fear that may be the case"
+
+say the Temple Eyranas will hold a meeting soon, perhaps tommorrow...would you have any word carried to our temple leader?
+You ask, "the Temple Eyranas will hold a meeting soon, perhaps tommorrow...would you have any word carried to our temple leader?"
+
+ ** Aethlyn Boreas just left the world.
+
+
+Desmond says to Kurapiira, "If the merchant's council has such power to do this to us, think of what they could do to them"
+
+nod to d
+You nod to Desmond.
+
+
+Desmond says to Kurapiira, "Joharan's temple had no representation"
+
+say perhaps the long silent religious council should convene
+You say, "perhaps the long silent religious council should convene"
+
+nod
+You nod.
+
+
+Desmond says to Kurapiira, "perhaps"
+
+say there is one thyng that bothers me tho
+You say, "there is one thyng that bothers me tho"
+
+
+Desmond says to Kurapiira, "this would prevent the merchant council from acting on assumptions"
+
+nod to d
+You nod to Desmond.
+
+Desmond raises an eyebrow at you.
+
+say the council member i spoke with assured me there was reliable information about the facts tho...
+You say, "the council member i spoke with assured me there was reliable information about the facts tho..."
+
+say the one i spoke with is...well..
+You say, "the one i spoke with is...well.."
+
+shru
+You shrug.
+
+
+Desmond says, "and I spoke with Thurmdall on those so-called facts"
+
+
+Desmond says, "they are basing their decision on the fact that the items were sold"
+
+ ** Laro Blinthe just left the world.
+
+nod
+You nod.
+
+
+Desmond says, "meanwhile, there are others who have killed guards out in the open"
+
+stare
+You stare.
+
+say assassins?
+You ask, "assassins?"
+
+
+Desmond says, "citizens"
+
+stare
+You stare.
+
+bla
+You blanch.
+
+say oh my!
+You exclaim, "oh my!"
+
+
+Desmond says, "yet when Thurmdall was told...he asked where our proof was"
+
+Desmond mutters.
+
+furr
+You furrow your brow.
+
+say how odd..to persecute only one group
+You say, "how odd..to persecute only one group"
+
+furr
+You furrow your brow.
+
+Desmond nods to you.
+
+nod thoughtfully
+You nod thoughtfully.
+
+
+Desmond says, "there is something to it"
+
+You hear a crack of thunder in the distance.
+
+nod to d
+You nod to Desmond.
+
+say so it seems
+You say, "so it seems"
+
+
+Desmond says, "and this council member that spoke to you and supposedly a member of our temple is neck deep in all of it"
+
+stare
+You stare.
+
+pon thoughtfully
+You ponder a moment thoughtfully.
+
+ ** Cansa Sortas just left the world.
+
+
+Desmond says to Kurapiira, "that is all for now"
+
+say will temple Johara pay the fine?
+You ask, "will temple Johara pay the fine?"
+
+
+Desmond says to Kurapiira, "that is not an option"
+
+nod
+You nod.
+
+say the religious council could put a motion before the Merchant council...perhaps a wise choice, but the Temple Eyranas resides outcide the city...
+You say, "the religious council could put a motion before the Merchant council...perhaps a wise choice, but the Temple Eyranas resides outcide the city..."
+
+say so our support may be...
+You say, "so our support may be..."
+
+shru
+You shrug.
+
+say lacking?
+You ask, "lacking?"
+
+
+Desmond says to Kurapiira, "and that is something we are also considering"
+
+nod to d
+You nod to Desmond.
+
+
+Desmond says, "perhaps even a boycott"
+
+nod
+You nod.
+
+Desmond shrugs.
+
+ ** Aethlyn Boreas just arrived in the world
+
+
+Desmond says, "we will not be made an example of"
+
+
+Desmond says, "not in this way"
+
+nod to d
+You nod to Desmond.
+
+say so, is there anyhtyng i can print for you or your temple?
+You ask, "so, is there anyhtyng i can print for you or your temple?"
+
+furr
+You furrow your brow.
+
+
+Desmond says to Kurapiira, "I do not speak for my temple so I will have to get back to you on that"
+
+*** Evening all. In preparation for tonight's patches, please find a cozy spot to log off. It should be down for no more than 15 minutes after the last person leaves. The notes have been posted on the website. Thanks.
+
+*** Evening all. In preparation for tonight's patches, please find a cozy spot to log off. It should be down for no more than 15 minutes after the last person leaves. The notes have been posted on the website. Thanks.
+
+
+Desmond says to Kurapiira, "I just feel that you should know that information"
+
+ ** Nav Kerlak just left the world.
+
+ ** Muraco Whitemoon just left the world.
+
+say does johara have a respone  they wish to publicize?
+ ** Salevos Fereni just left the world.
+
+You ask, "does johara have a respone they wish to publicize?"
+
+
+Desmond says to Kurapiira, "so that you will understand why another article must be written"
+
+ ** Aethlyn Boreas just left the world.
+
+ ** Seren Prilos just left the world.
+
+Desmond mutters.
+
+nod to d
+You nod to Desmond.
+
+ ** Aegys Redbow just left the world.
+
+ ** Kassi Boyd just left the world.
+
+
+Desmond says, "yes, I will get back to you"
+
+Desmond sighs.
+
+grit
+You grit your teeth.
+
+nod to d
+You nod to Desmond.
+
+Desmond opens the closed small crooked door.
+
+Desmond's group just went through the open small crooked door.
+
+You follow Desmond...
+
+
+[Travers Sewer]
+Several crates lie among the ground in a semi circle as if placed there for a meeting place.  Each of the four walls is decorated by well crafted iron lanterns which glow brightly casting bright light to this area of the sewers. A small crooked wooden door, slightly concealed by a tattered pennant of Johara, is illuminated by the lanterns.
+
+The area is illuminated.
+
+In this room you see: Desmond the Silvarin, 1st vagabond
+Obvious exits are: southwest, southeast, east, northeast, small crooked door
+
+Desmond's group just went east.
+
+You follow Desmond...
+
+
+[Travers Sewers]
+Several makeshift beds line the walls accompanied by dirty pieces of cloth.  Several empty wrappers of what appears to be food litter the ground.
+
+The area is illuminated.
+
+In this room you see: Desmond the Silvarin
+Obvious exits are: northwest, west, southwest, southeast
+
+Desmond's group just went west.
+
+You follow Desmond...
+
+
+[Travers Sewer]
+Several crates lie among the ground in a semi circle as if placed there for a meeting place.  Each of the four walls is decorated by well crafted iron lanterns which glow brightly casting bright light to this area of the sewers. A small crooked wooden door, slightly concealed by a tattered pennant of Johara, is illuminated by the lanterns.
+
+The area is illuminated.
+
+In this room you see: Desmond the Silvarin, 1st vagabond
+Obvious exits are: southwest, southeast, east, northeast, small crooked door
+
+Desmond's group just went southeast.
+
+You follow Desmond...
+
+
+[Travers Sewers]
+The walls of the tunnel contain what appear to be detailed chalk drawings of different floorplans, some of which contain heavily penned X's among them.
+
+The area is illuminated.
+
+In this room you see: Desmond the Silvarin
+Obvious exits are: northwest, west, southwest, southeast, east, northeast
+
+Desmond's group just went southeast.
+
+You follow Desmond...
+
+
+[Travers Sewers]
+Part of the ceiling has crumbled and fallen to the ground making passage difficult. Small rodents pass through stopping momentarily to investigate the contents of the tunnel for any scraps of food.
+
+The area is illuminated.
+
+In this room you see: Desmond the Silvarin, 1st frail beggar
+Obvious exits are: northwest, west, east, northeast
+
+Desmond's group just went east.
+
+You follow Desmond...
+
+It is too dark to see!
+
+Desmond's group just went northwest.
+
+who
+You follow Desmond...
+
+
+[Travers Sewers]
+The tunnel though consumed in darkness widens slightly allowing for easier passage. Large drops of water drip from the ceiling onto the unusually soft ground which gives way underfoot leaving impressions within it.  Several boxes lie broken upon the ground some of which appear to have locks that may have been tampered with at one time.
+
+The area is illuminated.
+
+In this room you see: Desmond the Silvarin
+Obvious exits are: northwest, west, southwest, southeast
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+    Currently Connected
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+Desmond Delavan
+Harru Shadowstalker
+Asher Leshrak
+Dernum Stonebrow
+Kurapiira Mako
+
+    [5 total]
+
+Desmond's group just went northwest.
+
+You follow Desmond...
+
+
+[Travers Sewers]
+Several makeshift beds line the walls accompanied by dirty pieces of cloth.  Several empty wrappers of what appears to be food litter the ground.
+
+The area is illuminated.
+
+In this room you see: Desmond the Silvarin
+Obvious exits are: northwest, west, southwest, southeast
+
+Desmond's group just went northwest.
+
+You follow Desmond...
+
+It is too dark to see!
+
+Desmond's group just went north.
+
+You follow Desmond...
+
+
+[Travers Sewer]
+The remains of a small campfire smolders on the western wall, several sticks which have been sharpened lean against the eastern wall, some of which still contain the half eaten carcasses of what appears to be rats.
+
+The area is illuminated.
+
+In this room you see: Desmond the Silvarin
+Obvious exits are: west, south
+
+Desmond's group just went west.
+
+You follow Desmond...
+
+
+[Barracks]
+Several beds lay the walls, there dirty and torn sheets hang to the filthy dirty floor.  The stagnant air hovers heavily above the cold floor creating a light mist about the area.
+
+The area is illuminated.
+
+In this room you see: Desmond the Silvarin
+Obvious exits are: west, east
+
+Desmond's group just went west.
+
+You follow Desmond...
+
+
+[Barracks]
+More beds line the walls, the ground littered with footprints indicates that this area is heavily utilized. A strong odor hovers above, resonating relentlessly.
+
+The area is illuminated.
+
+In this room you see: Desmond the Silvarin
+Obvious exits are: east, north
+
+ ** Harru Shadowstalker just left the world.
+
+Desmond's group just went north.
+
+You follow Desmond...
+
+
+[Barracks]
+Seven wooden barrels which contain black colored water flank the north and south walls.  A small tray beside them plays host to several dirty cloths which appear to have been washed and smell of mildew.
+
+The area is illuminated.
+
+In this room you see: Desmond the Silvarin
+Obvious exits are: south, east
+
+Desmond's group just went east.
+
+You follow Desmond...
+
+
+[Barracks]
+Several inches of water cover the soft muddy ground;the result of the trickling water coming from the crumbling stone walls.
+
+The area is illuminated.
+
+In this room you see: Desmond the Silvarin, 1st apprentice thief
+Obvious exits are: west, east
+
+Desmond's group just went east.
+
+You follow Desmond...
+
+
+[Barracks]
+Roots from a large tree penetrate the stone ceiling. Small insects which have made the moist roots home frolic among the many tangles and braids.
+
+The area is illuminated.
+
+In this room you see: Desmond the Silvarin
+Obvious exits are: west, roots
+
+Desmond's group just went through the roots.
+
+You follow Desmond...
+
+It is too dark to see!
+
+Desmond's group just went southwest.
+
+You follow Desmond...
+
+
+[Lightning Forest]
+To the northeast a tree towers above all others.  The canopy extending upwards as far as the eye can see.  Large thick pine cones the size of a goblin decorate the branches.  Large mushrooms are scattered about in all directions and dark green grass rustles in a slight forest breeze. A large dark hole in the ground whistles ominously with the forest breeze.
+
+
+The area is illuminated.
+
+In this room you see: Desmond the Silvarin
+Obvious exits are: west, northeast, hole
+
+Desmond's group just went west.
+
+You follow Desmond...
+
+
+[Lightning Forest]
+An underground water source dampens the ground, the moisture creating a flourish of moss, mushrooms and flowers. Darting through the ground cover both dragonflies and other flying bugs maneuver as if charting the stars themselves. The pine trees tower majestically above the star dance below allow a bit of light to break through, as if a tease of what is above.
+
+The area is illuminated.
+
+In this room you see: Desmond the Silvarin
+Obvious exits are: west, south, east
+
+Desmond's group just went west.
+
+You follow Desmond...
+
+
+[Lightning Forest]
+To the north the sound of rushing water can be faintly heard. The ground is slightly moist creating a path covered in spongy green moss. Those who walk through this portion of the forest leave well defined footprints. Occasionally the aerial grace of a multi-colored dragonfly can be discerned as it circles the massive trees.
+
+
+The area is illuminated.
+
+In this room you see: Desmond the Silvarin
+Obvious exits are: west, east, north
+
+Desmond's group just went west.
+
+wear tor
+You follow Desmond...
+
+
+[Lightning Forest]
+Overgrown pines grow so close together they have created a path that, instead of going straight east, zigzags through the trees. The thick boughs above dismiss the light of both the sun and moon, as if it was just a nuisance. An occasional squirrel runs down one of the trees and quickly grabs a dropped nut taking it directly back to his perch.
+
+The area is illuminated.
+
+In this room you see: Desmond the Silvarin
+Obvious exits are: west, east
+
+Desmond's group just went west.
+
+You follow Desmond...
+
+
+[Lightning Forest]
+Brightly colored mushrooms dot the burned out tree trunks. Insects diligently go about their business, attempting to weave in and out of the mushroom city. High above birds chirp in anger at having their home disturbed by those who pass through here. Occasionally one of the braver females will land and quickly pull a worm out of the moist ground to take back to her babies.
+
+The area is illuminated.
+
+In this room you see: Desmond the Silvarin
+Obvious exits are: west, east
+
+I don't see what you're referring to.
+
+Desmond's group just went west.
+
+You follow Desmond...
+
+
+[Lightning Forest]
+Something has taken its toll upon the majestic pines in this portion of the forest. Half of the trees are either dead or dying. Those that remain standing have be reduced to leaning posts for the many that have not yet crashed to the forest floor. Poking their head out of the dead trees, mushrooms grow plentiful in a myriad of different shapes, colors, and sizes.
+
+
+The area is illuminated.
+
+In this room you see: Desmond the Silvarin
+Obvious exits are: west, east
+
+Desmond's group just went west.
+
+You follow Desmond...
+
+
+[Lightning Forest]
+The pine trees have gained a foothold in this fertile portion of the forest. They grow so close together it is often difficult for even the smallest Troll to continue on without having to negotiate the best path before moving. Throughout the area the sounds of loud cracks can be heard, often accompanied by odd flashes of light.
+
+The area is illuminated.
+
+In this room you see: Desmond the Silvarin
+Obvious exits are: west, east
+
+Desmond's group just went west.
+
+You follow Desmond...
+
+
+[Lightning Forest]
+The powerful odor of burnt bark floats through the area giving off a pungent punch. Charred pine needles drift to the ground from high above, landing with a crunch atop the other burnt needles. The darkened pine tree canopy indicates a large conflagration overwhelmed the area some time recently. From the south is the disturbing sound of buzzing. 
+
+
+The area is illuminated.
+
+In this room you see: Desmond the Silvarin
+Obvious exits are: west, south, east
+
+Desmond's group just went west.
+
+You follow Desmond...
+
+
+[Lightning Forest]
+The stand of pines grow thicker. Those who walk through here can hear a resounding crunch as their feet step upon the very thick bed of pine needles. An occasional flower struggles to reach light after breaking through the thick needles, yet their colors remain muted as no relief is found in their struggle. On occasion a glimpse of light flashes from the south, but either direction on the barely discernible path remains dark.
+
+The area is illuminated.
+
+In this room you see: Desmond the Silvarin
+Obvious exits are: west, east
+
+Desmond's group just went west.
+
+You follow Desmond...
+
+
+[Lightning Forest]
+The large pine trees grow in abundance creating a canopy of green above. The thick foliage causes an illusion of dusk on the forest floor, even when the sun shines brightly above. As night falls, even the moon is obliterated by the pine trees and darkness turns to the deep pitch black of nightmares. Wafting through the air on and off is the acrid smell of charred bark.
+
+
+The area is illuminated.
+
+In this room you see: Desmond the Silvarin
+Obvious exits are: west, east
+
+Desmond's group just went west.
+
+You follow Desmond...
+
+
+[Lightning Forest]
+A soft breeze rustles the pine trees that grow to amazing heights. Pine needles float down from their branches, creating a soft luscious bed. Large cones lie cradled carefully in the bed of pine needles that have gathered on the ground, as if put there for that exact purpose. Some of the pine cones have grown to be the size of watermelons and would take two or more Fae to carry them.
+
+The area is illuminated.
+
+In this room you see: Desmond the Silvarin
+In this room are: pig guts
+Obvious exits are: east, gate
+
+Desmond's group just went through the gate.
+
+You follow Desmond...
+
+
+[Eastern Gate]
+A large black iron gate, its doors slightly ajar, stands sentinel over whatever resides beyond it. Affixed to the surrounding marble wall are two golden signs, one reads "EAST GATE," and the other reads "ENTER at your own RISK." A City guard, his uniform in perfect order, stands proudly beside the large gate.
+
+The area is illuminated.
+
+In this room you see: Desmond the Silvarin, 1st lightning newt
+Obvious exits are: west, gate
+
+Desmond's group just went west.
+
+You follow Desmond...
+
+
+[East Street]
+An eastern pointing wooden sign stands sturdily on the south side of the street. Etched in common are the words, "Lightning Forest, BEWARE." A tall lamp post, one of the few in this area that continue to function, glows brightly casting a bright light which illuminates the street.
+
+
+The area is illuminated.
+
+In this room you see: Desmond the Silvarin, 1st lightning newt
+Obvious exits are: west, east
+
+Desmond's group just went west.
+
+You follow Desmond...
+
+
+[East Street]
+Wild green grass grows in haphazard clumps at the side of the road. Every so often a flower of pink or purple protrudes gracefully out of the center of one of the grassy clumps. The wild flowers have a pungent scent and every so often an occasional butterfly stops to feed on their nectar.
+
+
+The area is illuminated.
+
+In this room you see: Desmond the Silvarin, 1st lightning orc, 1st lightning newt, 1st lightning elemental
+Obvious exits are: west, east
+
+The 1st lightning elemental flies up to 10 feet.
+
+The 1st lightning newt concentrates as an arc of lightning charges over its tail, and whips its tail at Desmond, but he evades the strike.
+
+Desmond's group just went west.
+
+You follow Desmond...
+
+
+[East Street]
+A wheel barrel, filled with ash, has been put on display at the side of the road. Somebody has placed a pile of rakes and brooms next to it. A tall and intact lamp post, holding a silver and black lantern, stands directly across the road. An apple tree, harboring fruits of red, yellow and green, grows strong and wild next to the lamp post.
+
+
+The area is illuminated.
+
+In this room you see: Desmond the Silvarin
+Obvious exits are: west, east
+
+ ** Asher Leshrak just left the world.
+
+Desmond's group just went west.
+
+You follow Desmond...
+
+
+[East Street]
+A black lamp post lies on its side in the middle of the cobblestone path. It is bent almost in half and what is left of the shattered lantern litters the ground. Strange occasional sounds of cracking can be heard coming from an easterly direction.
+
+
+The area is illuminated.
+
+In this room you see: Desmond the Silvarin
+Obvious exits are: west, east
+
+Desmond's group just went west.
+
+You follow Desmond...
+
+
+[East Street]
+The remains of a three room shack lie scattered about the ground, what pieces are left show evidence of a violent fire. A patch of charred grass surrounds the ruins. Strangely enough in the center of the burned out area a bright yellow sunflower grows outward and upwards toward the sky.
+
+The area is illuminated.
+
+In this room you see: Desmond the Silvarin
+Obvious exits are: west, east
+
+Desmond's group just went west.
+
+You follow Desmond...
+
+
+[East Street]
+A large metal barrel, that someone has began using as a make shift trash can, leans up against what is left of the curb. Directly across the street from the barrel is a tall lamp post displaying a brilliantly crafted iron post and a beautifully etched glass lantern.  It stays lit throughout the day and night and it brightens the way both during the darkness and on dreary days.
+
+The area is illuminated.
+
+In this room you see: Desmond the Silvarin
+Obvious exits are: west, east
+
+Desmond's group just went west.
+
+You follow Desmond...
+
+
+[East Street]
+An overgrown magnolia tree stands on the south side of the road. Huge out of control branches extend completely across the road. Their thick leaves shield both the sun and the moon from view. Several of the branches droop into the street, making passing through difficult for anything larger than a small ox cart.
+
+The area is illuminated.
+
+In this room you see: Desmond the Silvarin
+Obvious exits are: west, east
+
+ ** Dernum Stonebrow just left the world.
+
+Desmond's group just went west.
+
+You follow Desmond...
+
+
+[East Street]
+The remains of a large and abandoned shed can be seen to the north of the road. The windows are shattered and not a single pane of glass remains. Someone has decorated the dilapidated building with graffiti that predominately questions birth legitimacy and the family history of those who run the town. A heavy black wooden door hangs half way off its heavy iron hinges, but is still open enough to pass through.
+
+The area is illuminated.
+
+In this room you see: Desmond the Silvarin
+Obvious exits are: west, east
+
+Desmond's group just went west.
+
+You follow Desmond...
+
+
+[East Street]
+Worn and crumbling cobblestone marks the path heading east of the square. A tall black lamp post, with a broken lantern a top it, stands firmly on the south side of the road.  On the northern side of the road there is the remains of a wooden barrel.
+
+The area is illuminated.
+
+In this room you see: Desmond the Silvarin
+Obvious exits are: west, east
+
+Desmond's group just went west.
+
+You follow Desmond...
+
+
+[Travers Town Square]
+Small marble benches are scattered neatly about the square welcoming travelers to take a seat or to possibly empty pebbles from their boots. Cobblestone streets decorate the square alternating from browns to reds in a random pattern. Small statues of the world's races stand behind each bench as if standing sentinel. Tall lamp posts with wrought iron lanterns look down on the neat and clean streets. An occasional waste engineer wanders through, sweeping up dirt and trash into tin dustpans. Tucked away in a corner is an old door leading to a rundown store. The loud echoing of dripping water can be heard coming from a metal grate which is recessed into the street.
+
+The area is illuminated.
+
+In this room you see: Desmond the Silvarin, 1st city waste engineer, 2nd city waste engineer
+op door
+Obvious exits are: northwest, south, southeast, east, northeast, north, closed grate, closed off-center wooden door
+
+You open the closed off-center wooden door.
+
+Desmond nods.
+
+nod
+You nod.
+
+Desmond disbands his group.
+
+The city waste engineer happily picks up some trash on the side of the road.
+
+say till later
+You say, "till later"
+
+nod
+You nod.
+
+l
+
+[Travers Town Square]
+Small marble benches are scattered neatly about the square welcoming travelers to take a seat or to possibly empty pebbles from their boots. Cobblestone streets decorate the square alternating from browns to reds in a random pattern. Small statues of the world's races stand behind each bench as if standing sentinel. Tall lamp posts with wrought iron lanterns look down on the neat and clean streets. An occasional waste engineer wanders through, sweeping up dirt and trash into tin dustpans. Tucked away in a corner is an old door leading to a rundown store. The loud echoing of dripping water can be heard coming from a metal grate which is recessed into the street.
+
+The area is illuminated.
+
+In this room you see: Desmond the Silvarin, 1st city waste engineer, 2nd city waste engineer
+Obvious exits are: northwest, south, southeast, east, northeast, north, closed grate, open off-center wooden door
+
+Desmond nods.
+
+ ** Desmond Delavan just left the world.
+
+go door
+
+[Human Trading Company Emporium]
+At the back of the room a dusty oak counter sits in front of a long line of glass windows. Behind it stands a weary-looking woman wearing the blue and white uniform of the Human Trading Company, attentively waiting behind the counter. Along the walls on either side of the room are a variety of basic goods, meticulously divided into sections according to their function. A simple chandelier hangs from the ceiling giving off a dim yet sufficient amount of light, casting shadows over the various objects hanging from the walls.
+
+The area is illuminated.
+
+Obvious exits are: open off-center wooden door
+
+quit
+
+ =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+  Welcome to Isles of Aedin!
+        Version - BETA
+ =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+  
+  Please select your choice: 
+         1. ) Enter World
+         2. ) Create Character
+         3. ) Change Active Character
+         4. ) Delete Character
+         0. ) Exit
+                
+  Current Character -  Kurapiira 
+Kurapiira
+  
+Logname: Kurapiira
+0
+Closed Kurapiira-offerings.txt on file 1

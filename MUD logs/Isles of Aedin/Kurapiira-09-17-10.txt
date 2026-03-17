@@ -1,0 +1,3067 @@
+time
+It is currently 10:50 PM.
+
+l at b
+The 1st Throbbing Tentacled Brain pulses with motes of electricity and swings its tentacles at you!
+It is a solid blow to your right leg!
+Your coral plated lionskin jerkin absorbs some of the damage.
+h
+Your magical armor absorbs some of the damage!
+h
+You take 14 damage!
+
+You see a Throbbing Tentacled Brain.
+
+A massive pulsating brain is nestled amongst a tangled net of writhing appendages. Electricity crackles across the surface of the brain as its powerful synapses trigger. A glimmering magical aura surrounds the twisted tissue of the flesh creature's cerebrum as it senses your presence. A thunderous moan echoes painfully in your ears as the creature cries out in hunger and fury, and lashes out with its grotesque limbs.
+
+It appears to be carrying: 
+         closed embossed iron chest
+
+
+It looks to be in perfect health.
+It looks aggressive.
+It looks like it will be nearly impossible for you to hit.
+
+
+HP:  116/142  Ftg:  47/48  MP:  75/75
+Your wounds are: a small burn on your right leg
+
+
+
+HP:  116/142  Ftg:  47/48  MP:  75/75
+Your wounds are: a small burn on your right leg
+
+
+invo 21 k
+You kneel and begin a prayer to Eyranas. A small ray of light begins to shine from above on Kurapiira.
+Invoking this spell cost you 8 mana.
+[6 sec. delay]
+
+The 1st Throbbing Tentacled Brain pulses with motes of electricity and swings its tentacles at you!
+It is a solid blow to your head!
+Your coral plated lionskin jerkin absorbs some of the damage.
+h
+Your magical armor absorbs some of the damage!
+h
+You take 11 damage!
+
+
+HP:  105/142  Ftg:  46/48  MP:  69/75
+Your wounds are: a tiny burn on your head, a small burn on your right leg
+
+
+
+HP:  105/142  Ftg:  46/48  MP:  69/75
+Your wounds are: a tiny burn on your head, a small burn on your right leg
+
+
+The ray of light shining on Kurapiira strengthens and intensifies, gleaming brilliant once before fading away. In its wake, Kurapiira's skin adopts a faint glow.
+
+go lad
+h
+You feel healthier!
+
+
+[Dremsyl's Tower, Shrine to Karishta]
+A massive tiled mosaic of a ten-head hydra in the throes of casting some grand, unimaginable spell covers the entire far wall and ceiling of the room. Some tiles have fallen from the image and shattered upon the stony floor, but much of the fantastic masterpiece has survived through the ages. A cracked amethyst altar sits in the center of the room, the worn image of a black rook is carved into the surface of the immense piece of semi-precious stone. Surprisingly, the tower's flesh creature has left much of this room free of its corrupting touch, rather only a few broad tube-like tentacles have attached themselves to the ceiling and have twined around the amethyst altar and disappeared into the base of the deep purple stone.
+
+The area is illuminated.
+
+In this room you see: 1st monstrous feasting tentacle
+In this room are: worn rook-engraved amethyst altar
+Obvious exits are: west, north, fleshy tentacle ladder
+
+
+HP:  120/142  Ftg:  48/48  MP:  71/75
+Your wounds are: a tiny burn on your head, a small burn on your right leg
+
+
+w
+
+[Dremsyl's Tower, Third Floor Hallway]
+Small gashes in the pulsing flesh quiver and whistle as they greedily gulp in air, leaving the air thin and difficult to breath. With each shuddering inhalation, the room seems to shake from the strength of the meaty muscles causing small showers of dust and tiny stones to crumble down from the decrepit ceiling.
+
+The area is illuminated.
+
+Obvious exits are: west, east
+
+You exert an additional 1 mana maintaining the Revival.
+
+h
+You feel healthier!
+
+
+HP:  131/142  Ftg:  47/48  MP:  72/75
+Your wounds are: a tiny burn on your head, a small burn on your right leg
+
+
+e
+
+[Dremsyl's Tower, Shrine to Karishta]
+A massive tiled mosaic of a ten-head hydra in the throes of casting some grand, unimaginable spell covers the entire far wall and ceiling of the room. Some tiles have fallen from the image and shattered upon the stony floor, but much of the fantastic masterpiece has survived through the ages. A cracked amethyst altar sits in the center of the room, the worn image of a black rook is carved into the surface of the immense piece of semi-precious stone. Surprisingly, the tower's flesh creature has left much of this room free of its corrupting touch, rather only a few broad tube-like tentacles have attached themselves to the ceiling and have twined around the amethyst altar and disappeared into the base of the deep purple stone.
+
+The area is illuminated.
+
+In this room you see: 1st monstrous feasting tentacle
+In this room are: worn rook-engraved amethyst altar
+Obvious exits are: west, north, fleshy tentacle ladder
+
+l at t
+You see a monstrous feasting tentacle.
+
+A massive blubbery limb of the giant fleshy beast that has overtaken the derelict tower has noticed your presence. It slithers across the ground, and then rears up to reveal a gaping, circular maw filled with rows of gnashing teeth. A long string of sap-like saliva drips from the cavernous mouth as it suddenly lunges forward, attempting to swallow you whole.
+
+It appears to be carrying: 
+         closed tarnished silver box
+
+
+It looks to be in perfect health.
+It looks aggressive.
+It looks like it will be nearly impossible for you to hit.
+
+You exert an additional 1 mana maintaining the Holy Armor.
+
+w
+
+[Dremsyl's Tower, Third Floor Hallway]
+Small gashes in the pulsing flesh quiver and whistle as they greedily gulp in air, leaving the air thin and difficult to breath. With each shuddering inhalation, the room seems to shake from the strength of the meaty muscles causing small showers of dust and tiny stones to crumble down from the decrepit ceiling.
+
+The area is illuminated.
+
+Obvious exits are: west, east
+
+You exert an additional 1 mana maintaining the Revival.
+
+h
+You feel healthier!
+
+
+HP:  142/142  Ftg:  46/48  MP:  72/75
+Your wounds are: a tiny burn on your head, a small burn on your right leg
+
+
+w
+
+[Dremsyl's Tower, Third Floor Hallway]
+A thin layer of glowing skin has spread across the entire hallway, stretched across the floor and reaching to the ceiling where a large carbuncle protrudes from the fleshy mass. A forest of short, slender tentacle-like papillae wave slowly as if in an invisible wind, seeking the exquisite taste of living flesh for the monster to consume. An unfortunate mouse crawls across one of the protruding limbs, and the large mass of flesh overhead opens, revealing a massive blood-shot orb. The flesh of the tower creature shudders in anticipation as the mouse scurries further down the hallway toward a waiting mouthed appendage.
+
+The area is illuminated.
+
+Obvious exits are: west, east
+
+You exert an additional 1 mana maintaining the Revival.
+
+h
+You feel healthier!
+
+
+HP:  142/142  Ftg:  48/48  MP:  73/75
+Your wounds are: a tiny burn on your head, a small burn on your right leg
+
+
+w
+
+[Dremsyl's Tower, Third Floor Landing]
+A thin layer of rubbery skin covers the entire room, from floor to ceiling. Short tentacles wave slowly in a vile smelling breeze coming from the east. The rooms to the north are disturbingly silent compared to the rest of the floor. A slimy, flesh lined staircase leads back down to the second floor.
+
+The area is illuminated.
+
+Obvious exits are: west, east, north, spiraling fleshy staircase
+
+You exert an additional 1 mana maintaining the Revival.
+
+go st
+h
+You feel healthier!
+
+The healthy glow in Kurapiira's skin fades away.
+
+
+[Dremsyl's Tower, Second Floor Stairwell]
+The spiraling stone staircase leading up to the third floor has become overgrown with a thin layer of fleshy skin. It pulses grotesquely as its glowing blue and red veins glimmer with magical energy. A low humming seems to be coming from the upper floor, through the tunnel of luminescent meat.
+
+The area is illuminated.
+
+Obvious exits are: west, east, fleshy spiraling staircase
+
+
+HP:  142/142  Ftg:  47/48  MP:  74/75
+Your wounds are: a tiny burn on your head, a small burn on your right leg
+
+
+w
+w
+
+[Dremsyl's Tower, Second Floor Hallway]
+To the south is what is left of the dormitories of the mages and alchemists that once populated the tower. A soft thumping sound is coming from further down the hallway to the east. The fleshy monster overhead pulses grotesquely, its shapeless body has cemented itself to the stone with hundreds of thousands of hair-like limbs, each ending in an oozing sore. The sap-like fluid seeping from the sores acts like an adhesive, cementing the formless beast to the stone.
+
+The area is illuminated.
+
+Obvious exits are: west, south, east
+
+
+[Dremsyl's Tower, Second Floor Landing]
+The nauseating, sweet scent of death fills the air thickly. Coppery scented blood drips from the ceiling in a constant flow, pooling into a depression on the rocky floor. Above, the source of the streaming blood is an immense pulsing blob of shapeless, living flesh. It extends across the entire ceiling, and far into the next rooms. Thick veins of glowing red and blue run through the creature's blubbery flesh, giving off enough light to illuminate the room.
+
+The area is illuminated.
+
+Obvious exits are: west, east, spiraling stone staircase
+
+ARMOR DOWN IN 5
+go st
+
+[Dremsyl's Tower, First Floor Stairwell]
+The incessant sound of dripping water echoes through the small room as small rivulets of brackish water force their way through tiny cracks in the stone walls, and slowly trickle down to the sodden floor. Rust has run down the walls from the ceiling above and an unidentifiable odor wafts through the area, overpowering even the mildew. A spiraling set of stone steps leads further into the heights of the tower, daring any adventurer who has survived this long, to venture further into the perverted tower.
+
+The area is illuminated.
+
+Obvious exits are: west, east, spiraling stone staircase
+
+You exert an additional 1 mana maintaining the Holy Armor.
+
+The holy armor surrounding you flickers and then disappears.
+
+invo 13
+You fold your hands in front of you in silent prayer.
+Invoking this spell cost you 6 mana.
+[4 sec. delay]
+
+An ethereal suit of glimmering armor surrounds you in a holy glow.
+Y
+
+Your wooden torch flickers for a few moments.
+
+You exert an additional 1 mana maintaining the Holy Armor.
+
+A deformed scaled zacotl just entered from the west.
+
+The 1st deformed scaled zacotl expands its wings and gives a powerful thrust, strafing at you!
+It is a solid blow to your head!
+Your coral plated lionskin jerkin absorbs some of the damage.
+h
+Your magical armor absorbs some of the damage!
+h
+You take 7 damage!
+
+
+HP:  135/142  Ftg:  47/48  MP:  75/75
+Your wounds are: a small burn on your right leg
+
+
+
+HP:  135/142  Ftg:  47/48  MP:  75/75
+Your wounds are: a small burn on your right leg
+
+
+The 1st deformed scaled zacotl expands its wings and gives a powerful thrust, strafing at you!
+It is a solid blow to your right leg!
+Your coral plated lionskin jerkin absorbs some of the damage.
+h
+Your magical armor absorbs some of the damage!
+h
+You take 10 damage!
+
+
+HP:  128/142  Ftg:  48/48  MP:  75/75
+Your wounds are: a small burn on your right leg
+
+
+
+HP:  128/142  Ftg:  48/48  MP:  75/75
+Your wounds are: a small burn on your right leg
+
+
+l
+
+[Dremsyl's Tower, First Floor Stairwell]
+The incessant sound of dripping water echoes through the small room as small rivulets of brackish water force their way through tiny cracks in the stone walls, and slowly trickle down to the sodden floor. Rust has run down the walls from the ceiling above and an unidentifiable odor wafts through the area, overpowering even the mildew. A spiraling set of stone steps leads further into the heights of the tower, daring any adventurer who has survived this long, to venture further into the perverted tower.
+
+The area is illuminated.
+
+In this room you see: 1st deformed scaled zacotl
+Obvious exits are: west, east, spiraling stone staircase
+
+You exert an additional 1 mana maintaining the Holy Armor.
+
+e
+
+[Dremsyl's Tower, First Floor Hallway]
+A powerful stench permeates the hallway, revolting enough to make even a strong-stomached Goblin cringe. The water here is thick with dirt, making footing unsure. Strange orange moss has begun to cover the walls, and gives off a weak ambient glow which only serves to accentuate the foreboding darkness of the rest of the hallway.
+
+The area is illuminated.
+
+Obvious exits are: west, east
+
+e
+
+[Dremsyl's Tower, First Floor Hallway]
+The sound of screams echoes off the bare stone walls, making it impossible to tell which direction they're coming from. Muddy water rushes through the room in a shallow stream from the west, obscuring the floor. A single stone bookcase remains in the room, unusual only because it seems strangely untouched by the passage of time, free of even the faintest hint of grime. A single small statue rests upon the large shelves; it is of a multi-headed hydra surrounded by a black spiral.
+
+The area is illuminated.
+
+In this room are: hydra statuette
+Obvious exits are: west, east
+
+e
+
+[Dremsyl's Tower, First Floor Hallway]
+Broken wooden beams have fallen from the ceiling, and landed in the center of this room, somewhat blocking the flow of water from the west. Mud has piled against the beams, creating a natural dam and a perfect home of all sorts of small creatures. Even a frog or two has made its way down here and grown fat off the abundant insects living in the muddy mess.
+
+The area is illuminated.
+
+Obvious exits are: west, east, north
+
+e
+
+[Dremsyl's Tower, Dining Room]
+Wooden tables running the length of the room have become swollen with moisture from the thin stream of water running across the floor to the kitchens. Benches lay overturned on the ground, and cracked clay dishes have been forgotten on the tabletops. The dark blur of an enslaved goblin darts across the room occasionally, a strange white hat on its head, gathering mushrooms and fungus from moldering tapestries which still desperately cling to the stone walls. The occasional angry croak or chirp, suggests that fungus isn't the only thing the goblin is interested in.
+
+The area is illuminated.
+
+Obvious exits are: west, south, east
+
+e
+
+[Dremsyl's Tower, Kitchen]
+A massive stone oven rests against the far wall, a fire burns hotly below it as a goblin stands before the flames with a long stick, roasting various mushrooms, frogs, and insects. The goblin seems more disheveled than the average goblin, its hair is wild, grayed, and falling out in clumps and its skin is pallid, suggesting that the poor creature has never seen the sun before. It seems intent on its dinner, and is oblivious to everything else around it.
+
+The area is illuminated.
+
+Obvious exits are: west, south
+
+e
+I don't see what exit you're referring to.
+
+s
+
+[Dremsyl's Tower, Kitchen]
+Counter tops line the walls, space for chefs to work to prepare food for the ancient inhabitants of the tower. In the center of the space is a large pile of grimy blankets, the scent of unwashed bodies emanates from the pile, suggesting that this is the sleeping place of the goblins and has been for a very long time. Young goblins scamper around the pile of filthy fabrics, obviously the unlivable condition of the tower hasn't stopped the goblins from rampant breeding.
+
+The area is illuminated.
+
+In this room you see: 1st enslaved goblin cook
+Obvious exits are: south, north
+
+s
+
+[Dremsyl's Tower, Storage Pantry]
+Long ago this room would have likely held various foods and utensils for the tower's cooks to use to prepare meals for the inhabitants. Now the food is long since gone. The shelves have cracked and fallen and a thick layer of dust covers the entire area. Small paw prints mar the otherwise even sheets of dust, suggesting that some small rodents have made a nest nearby. A cellar door leads to some stairs headed down, likely to a root cellar.
+
+The area is illuminated.
+
+Obvious exits are: north, cellar stairs
+
+go st
+
+[Dremsyl's Tower, Root Cellar]
+The smell of rat droppings is overpowering here and the occasional over-sized rat skitters by across the dirty floor. The air is stale and surprisingly cold; the occasional puff of frozen breath appears before the glinting eyes of a vicious rodent sitting along the broken shelves, watching carefully for new prey unwary enough to wander into their home. A steep stone staircase leads up to the main floor's kitchen pantry, offering an inviting escape from the claustrophobia of the basement.
+
+The area is illuminated.
+
+Obvious exits are: south, cellar stairs
+
+s
+
+[Dremsyl's Tower, Root Cellar]
+Tangled roots have forced themselves through the walls and knocked down most of shelving. Mud and dirt, pushed through the now gaping walls by the stubborn roots has piled against the walls. A layer of soil has fallen strangely at the southern end of the room, suggesting that there was once another way out of this tightly confining space.
+
+The area is illuminated.
+
+In this room you see: 1st bog water elemental
+Obvious exits are: north
+
+n
+
+[Dremsyl's Tower, Root Cellar]
+The smell of rat droppings is overpowering here and the occasional over-sized rat skitters by across the dirty floor. The air is stale and surprisingly cold; the occasional puff of frozen breath appears before the glinting eyes of a vicious rodent sitting along the broken shelves, watching carefully for new prey unwary enough to wander into their home. A steep stone staircase leads up to the main floor's kitchen pantry, offering an inviting escape from the claustrophobia of the basement.
+
+The area is illuminated.
+
+Obvious exits are: south, cellar stairs
+
+s
+
+[Dremsyl's Tower, Root Cellar]
+Tangled roots have forced themselves through the walls and knocked down most of shelving. Mud and dirt, pushed through the now gaping walls by the stubborn roots has piled against the walls. A layer of soil has fallen strangely at the southern end of the room, suggesting that there was once another way out of this tightly confining space.
+
+The area is illuminated.
+
+In this room you see: 1st bog water elemental
+Obvious exits are: north
+
+n
+
+[Dremsyl's Tower, Root Cellar]
+The smell of rat droppings is overpowering here and the occasional over-sized rat skitters by across the dirty floor. The air is stale and surprisingly cold; the occasional puff of frozen breath appears before the glinting eyes of a vicious rodent sitting along the broken shelves, watching carefully for new prey unwary enough to wander into their home. A steep stone staircase leads up to the main floor's kitchen pantry, offering an inviting escape from the claustrophobia of the basement.
+
+The area is illuminated.
+
+Obvious exits are: south, cellar stairs
+
+You exert an additional 1 mana maintaining the Holy Armor.
+
+diag all
+h
+You examine all the people in the room...
+
+
+
+HP:  131/142  Ftg:  47/48  MP:  74/75
+Your wounds are: a small burn on your right leg
+
+
+invo 10 k
+You close your eyes in prayer to Eyranas as a warm, golden aura surrounds you.
+Invoking this spell cost you 8 mana.
+[6 sec. delay]
+
+invo 10 k
+You close your eyes in prayer to Eyranas as a warm, golden aura surrounds you.
+Invoking this spell cost you 8 mana.
+[6 sec. delay]
+
+The golden aura surrounding you spreads to envelop Kurapiira, rapidly mending her wounds before fading away in a shimmer.
+
+diag all
+h
+You examine all the people in the room...
+
+
+
+HP:  134/142  Ftg:  48/48  MP:  61/75
+
+
+ARMOR DOWN IN 5
+The golden aura surrounding you spreads to envelop Kurapiira, rapidly mending her wounds before fading away in a shimmer.
+
+You exert an additional 1 mana maintaining the Holy Armor.
+
+The holy armor surrounding you flickers and then disappears.
+
+invo 13
+You fold your hands in front of you in silent prayer.
+Invoking this spell cost you 6 mana.
+[4 sec. delay]
+
+invo 25 Kura
+You start to vocalize a request to Eyranas. After the first word, a large white wolf begins to appear on the ground underneath Kurapiira.
+Invoking this spell cost you 5 mana and 1 faith.
+[4 sec. delay]
+
+An ethereal suit of glimmering armor surrounds you in a holy glow.
+Y
+
+diag all
+h
+You examine all the people in the room...
+
+
+
+HP:  141/142  Ftg:  48/48  MP:  55/75
+
+
+invo 21 k
+You kneel and begin a prayer to Eyranas. A small ray of light begins to shine from above on Kurapiira.
+Invoking this spell cost you 8 mana.
+[6 sec. delay]
+
+The white wolf underneath Kurapiira begins to glow a radiant blue for a few moments before fading back into obscurity.
+
+h
+You feel replenished!
+
+
+HP:  141/142  Ftg:  47/48  MP:  68/75
+
+
+l
+
+[Dremsyl's Tower, Root Cellar]
+The smell of rat droppings is overpowering here and the occasional over-sized rat skitters by across the dirty floor. The air is stale and surprisingly cold; the occasional puff of frozen breath appears before the glinting eyes of a vicious rodent sitting along the broken shelves, watching carefully for new prey unwary enough to wander into their home. A steep stone staircase leads up to the main floor's kitchen pantry, offering an inviting escape from the claustrophobia of the basement.
+
+The area is illuminated.
+
+Obvious exits are: south, cellar stairs
+
+go st
+
+[Dremsyl's Tower, Storage Pantry]
+Long ago this room would have likely held various foods and utensils for the tower's cooks to use to prepare meals for the inhabitants. Now the food is long since gone. The shelves have cracked and fallen and a thick layer of dust covers the entire area. Small paw prints mar the otherwise even sheets of dust, suggesting that some small rodents have made a nest nearby. A cellar door leads to some stairs headed down, likely to a root cellar.
+
+The area is illuminated.
+
+Obvious exits are: north, cellar stairs
+
+The ray of light shining on Kurapiira strengthens and intensifies, gleaming brilliant once before fading away. In its wake, Kurapiira's skin adopts a faint glow.
+
+h
+You feel healthier!
+
+
+HP:  142/142  Ftg:  46/48  MP:  70/75
+
+
+go st
+
+[Dremsyl's Tower, Root Cellar]
+The smell of rat droppings is overpowering here and the occasional over-sized rat skitters by across the dirty floor. The air is stale and surprisingly cold; the occasional puff of frozen breath appears before the glinting eyes of a vicious rodent sitting along the broken shelves, watching carefully for new prey unwary enough to wander into their home. A steep stone staircase leads up to the main floor's kitchen pantry, offering an inviting escape from the claustrophobia of the basement.
+
+The area is illuminated.
+
+Obvious exits are: south, cellar stairs
+
+You exert an additional 1 mana maintaining the Revival.
+
+s
+h
+You feel healthier!
+
+
+HP:  142/142  Ftg:  48/48  MP:  71/75
+
+
+
+[Dremsyl's Tower, Root Cellar]
+Tangled roots have forced themselves through the walls and knocked down most of shelving. Mud and dirt, pushed through the now gaping walls by the stubborn roots has piled against the walls. A layer of soil has fallen strangely at the southern end of the room, suggesting that there was once another way out of this tightly confining space.
+
+The area is illuminated.
+
+In this room you see: 1st bog water elemental
+Obvious exits are: north
+
+sear
+You begin searching the room...
+[15 sec. delay]
+
+The 1st bog water elemental advances towards you.
+
+You exert an additional 1 mana maintaining the Holy Armor.
+
+You exert an additional 1 mana maintaining the Revival.
+
+h
+You feel healthier!
+
+
+HP:  142/142  Ftg:  47/48  MP:  71/75
+
+
+l at e
+You see a bog water elemental.
+
+Swirling dirty, greenish waters form the body of this hulking monstrosity. Foaming scum forms the semblance of a face in the center of this limbless wave of water, but the effect is a nauseating image of constantly shifting eyes and mouth.
+
+It appears to be carrying: 
+         closed forged steel coffer
+
+
+It looks to be in perfect health.
+It looks aggressive.
+It looks like it will be nearly impossible for you to hit.
+
+The 1st bog water elemental advances towards you.
+
+You exert an additional 1 mana maintaining the Revival.
+
+h
+You feel healthier!
+
+
+HP:  142/142  Ftg:  46/48  MP:  72/75
+
+
+turn e
+The 1st bog water elemental swirls into a churning tsunami and fires a blast of water at you!
+It is a solid blow to your left leg!
+Your coral plated lionskin jerkin absorbs some of the damage.
+h
+Your magical armor absorbs some of the damage!
+h
+You take 13 damage!
+
+
+HP:  129/142  Ftg:  46/48  MP:  72/75
+Your wounds are: a tiny puncture on your left leg
+
+
+
+HP:  129/142  Ftg:  46/48  MP:  72/75
+Your wounds are: a tiny puncture on your left leg
+
+
+You exert an additional 1 mana maintaining the Revival.
+
+h
+You feel healthier!
+
+The healthy glow in Kurapiira's skin fades away.
+
+
+HP:  142/142  Ftg:  48/48  MP:  73/75
+Your wounds are: a tiny puncture on your left leg
+
+
+The bog water elemental is not undead!
+
+The 1st bog water elemental swirls into a churning tsunami and fires a blast of water at you!
+It is a solid blow to your head!
+Your coral plated lionskin jerkin absorbs some of the damage.
+h
+Your magical armor absorbs some of the damage!
+h
+You take 7 damage!
+
+
+HP:  135/142  Ftg:  47/48  MP:  75/75
+Your wounds are: a tiny puncture on your left leg
+
+
+
+HP:  135/142  Ftg:  47/48  MP:  75/75
+Your wounds are: a tiny puncture on your left leg
+
+
+turn e
+The bog water elemental is not undead!
+
+adv 9
+You advance 9 units.
+[1 sec. delay]
+
+The 1st bog water elemental advances towards you.
+
+sear
+You begin searching the room...
+  You find a obscured wine cellar door!
+[15 sec. delay]
+
+You exert an additional 1 mana maintaining the Holy Armor.
+
+The 1st bog water elemental swirls into a churning tsunami and fires a blast of water at you!
+It is a solid blow to your left leg!
+Your coral plated lionskin jerkin absorbs some of the damage.
+h
+Your magical armor absorbs some of the damage!
+h
+You take 12 damage!
+
+go d
+
+HP:  127/142  Ftg:  48/48  MP:  75/75
+Your wounds are: a tiny puncture on your left leg
+
+
+
+HP:  127/142  Ftg:  48/48  MP:  75/75
+Your wounds are: a tiny puncture on your left leg
+
+
+The 1st bog water elemental swirls into a churning tsunami and fires a blast of water at you!
+It is a solid blow to your left leg!
+Your coral plated lionskin jerkin absorbs some of the damage.
+h
+Your magical armor absorbs some of the damage!
+h
+You take 14 damage!
+
+
+HP:  113/142  Ftg:  47/48  MP:  75/75
+Your wounds are: a small puncture on your left leg
+
+
+
+HP:  113/142  Ftg:  47/48  MP:  75/75
+Your wounds are: a small puncture on your left leg
+
+
+de
+You may act in 3 seconds
+You are in combat for another 17 second(s).
+
+A bog water elemental follows you into the room.
+
+
+[Dremsyl's Tower, Wine Cellar]
+Row upon row of dusty glass bottles line the walls. Undisturbed dust coats the floor, suggesting that no one has found their way in here in decades. A few of the precious bottles of expensive wine have fallen to the floor and shattered, likely when the tower began its sinking into the mire, but many of the bottles have remained safely in place. Just a single bottle of such ancient wine would likely fetch an extraordinary price in Urda's merchant district.
+
+The area is illuminated.
+
+In this room you see: 1st bog water elemental
+In this room are: large dusty wooden wine case
+Obvious exits are: wooden door
+
+The 1st bog water elemental swirls into a churning tsunami and fires a blast of water at you!
+It is a solid blow to your right arm!
+Your coral plated lionskin jerkin absorbs some of the damage.
+h
+Your magical armor absorbs some of the damage!
+h
+You take 14 damage!
+
+
+HP:  99/142  Ftg:  46/48  MP:  75/75
+Your wounds are: a tiny puncture on your right arm, a small puncture on your left leg
+
+
+
+HP:  99/142  Ftg:  46/48  MP:  75/75
+Your wounds are: a tiny puncture on your right arm, a small puncture on your left leg
+
+
+go door
+A bog water elemental follows you into the room.
+
+
+[Dremsyl's Tower, Root Cellar]
+Tangled roots have forced themselves through the walls and knocked down most of shelving. Mud and dirt, pushed through the now gaping walls by the stubborn roots has piled against the walls. A layer of soil has fallen strangely at the southern end of the room, suggesting that there was once another way out of this tightly confining space.
+
+The area is illuminated.
+
+In this room you see: 1st bog water elemental
+Obvious exits are: north, obscured wine cellar door
+
+go door
+A bog water elemental follows you into the room.
+
+
+[Dremsyl's Tower, Wine Cellar]
+Row upon row of dusty glass bottles line the walls. Undisturbed dust coats the floor, suggesting that no one has found their way in here in decades. A few of the precious bottles of expensive wine have fallen to the floor and shattered, likely when the tower began its sinking into the mire, but many of the bottles have remained safely in place. Just a single bottle of such ancient wine would likely fetch an extraordinary price in Urda's merchant district.
+
+The area is illuminated.
+
+In this room you see: 1st bog water elemental
+In this room are: large dusty wooden wine case
+Obvious exits are: wooden door
+
+(You suffer 2 damage from your wounds.)
+
+go door
+A bog water elemental follows you into the room.
+
+
+[Dremsyl's Tower, Root Cellar]
+Tangled roots have forced themselves through the walls and knocked down most of shelving. Mud and dirt, pushed through the now gaping walls by the stubborn roots has piled against the walls. A layer of soil has fallen strangely at the southern end of the room, suggesting that there was once another way out of this tightly confining space.
+
+The area is illuminated.
+
+In this room you see: 1st bog water elemental
+Obvious exits are: north, obscured wine cellar door
+
+go door
+
+[Dremsyl's Tower, Wine Cellar]
+Row upon row of dusty glass bottles line the walls. Undisturbed dust coats the floor, suggesting that no one has found their way in here in decades. A few of the precious bottles of expensive wine have fallen to the floor and shattered, likely when the tower began its sinking into the mire, but many of the bottles have remained safely in place. Just a single bottle of such ancient wine would likely fetch an extraordinary price in Urda's merchant district.
+
+The area is illuminated.
+
+In this room are: large dusty wooden wine case
+Obvious exits are: wooden door
+
+You exert an additional 1 mana maintaining the Holy Armor.
+
+A bog water elemental just entered through the obscured wine cellar door.
+
+clo doo
+You can't close the wooden door.
+
+go door
+The 1st bog water elemental swirls into a churning tsunami and fires a blast of water at you!
+It is a solid blow to your torso!
+Your coral plated lionskin jerkin absorbs some of the damage.
+h
+Your magical armor absorbs some of the damage!
+h
+You take 14 damage!
+
+
+[Dremsyl's Tower, Root Cellar]
+Tangled roots have forced themselves through the walls and knocked down most of shelving. Mud and dirt, pushed through the now gaping walls by the stubborn roots has piled against the walls. A layer of soil has fallen strangely at the southern end of the room, suggesting that there was once another way out of this tightly confining space.
+
+The area is illuminated.
+
+Obvious exits are: north, obscured wine cellar door
+
+
+HP:  83/142  Ftg:  47/48  MP:  75/75
+Your wounds are: a tiny puncture on your left leg, a tiny puncture on your torso
+
+
+
+HP:  83/142  Ftg:  47/48  MP:  75/75
+Your wounds are: a tiny puncture on your left leg, a tiny puncture on your torso
+
+
+w
+I don't see what exit you're referring to.
+
+w
+I don't see what exit you're referring to.
+
+w
+I don't see what exit you're referring to.
+
+n
+
+[Dremsyl's Tower, Root Cellar]
+The smell of rat droppings is overpowering here and the occasional over-sized rat skitters by across the dirty floor. The air is stale and surprisingly cold; the occasional puff of frozen breath appears before the glinting eyes of a vicious rodent sitting along the broken shelves, watching carefully for new prey unwary enough to wander into their home. A steep stone staircase leads up to the main floor's kitchen pantry, offering an inviting escape from the claustrophobia of the basement.
+
+The area is illuminated.
+
+Obvious exits are: south, cellar stairs
+
+go st
+ARMOR DOWN IN 5
+
+[Dremsyl's Tower, Storage Pantry]
+Long ago this room would have likely held various foods and utensils for the tower's cooks to use to prepare meals for the inhabitants. Now the food is long since gone. The shelves have cracked and fallen and a thick layer of dust covers the entire area. Small paw prints mar the otherwise even sheets of dust, suggesting that some small rodents have made a nest nearby. A cellar door leads to some stairs headed down, likely to a root cellar.
+
+The area is illuminated.
+
+In this room you see: 1st enslaved goblin cook
+Obvious exits are: north, cellar stairs
+
+w
+I don't see what exit you're referring to.
+
+n
+
+[Dremsyl's Tower, Kitchen]
+Counter tops line the walls, space for chefs to work to prepare food for the ancient inhabitants of the tower. In the center of the space is a large pile of grimy blankets, the scent of unwashed bodies emanates from the pile, suggesting that this is the sleeping place of the goblins and has been for a very long time. Young goblins scamper around the pile of filthy fabrics, obviously the unlivable condition of the tower hasn't stopped the goblins from rampant breeding.
+
+The area is illuminated.
+
+In this room you see: 1st deformed scaled zacotl
+Obvious exits are: south, north
+
+The 1st deformed scaled zacotl expands its wings and gives a powerful thrust, strafing at you!
+It is a solid blow to your right arm!
+Your coral plated lionskin jerkin absorbs some of the damage.
+h
+Your magical armor absorbs some of the damage!
+h
+You take 5 damage!
+
+w
+
+HP:  79/142  Ftg:  47/48  MP:  75/75
+Your wounds are: a tiny puncture on your left leg
+
+
+
+HP:  79/142  Ftg:  47/48  MP:  75/75
+Your wounds are: a tiny puncture on your left leg
+
+
+n
+I don't see what exit you're referring to.
+
+
+[Dremsyl's Tower, Kitchen]
+A massive stone oven rests against the far wall, a fire burns hotly below it as a goblin stands before the flames with a long stick, roasting various mushrooms, frogs, and insects. The goblin seems more disheveled than the average goblin, its hair is wild, grayed, and falling out in clumps and its skin is pallid, suggesting that the poor creature has never seen the sun before. It seems intent on its dinner, and is oblivious to everything else around it.
+
+The area is illuminated.
+
+In this room you see: 1st winged homunculus
+Obvious exits are: west, south
+
+You exert an additional 1 mana maintaining the Holy Armor.
+
+The holy armor surrounding you flickers and then disappears.
+
+w
+
+[Dremsyl's Tower, Dining Room]
+Wooden tables running the length of the room have become swollen with moisture from the thin stream of water running across the floor to the kitchens. Benches lay overturned on the ground, and cracked clay dishes have been forgotten on the tabletops. The dark blur of an enslaved goblin darts across the room occasionally, a strange white hat on its head, gathering mushrooms and fungus from moldering tapestries which still desperately cling to the stone walls. The occasional angry croak or chirp, suggests that fungus isn't the only thing the goblin is interested in.
+
+The area is illuminated.
+
+Obvious exits are: west, south, east
+
+invo 13
+You fold your hands in front of you in silent prayer.
+Invoking this spell cost you 6 mana.
+[4 sec. delay]
+
+diag all
+h
+You examine all the people in the room...
+
+
+
+HP:  79/142  Ftg:  46/48  MP:  70/75
+Your wounds are: a tiny puncture on your left leg
+
+
+invo 21 k
+You kneel and begin a prayer to Eyranas. A small ray of light begins to shine from above on Kurapiira.
+Invoking this spell cost you 8 mana.
+[6 sec. delay]
+
+An enslaved goblin cook just entered the room 7 units behind you.
+
+An ethereal suit of glimmering armor surrounds you in a holy glow.
+Y
+
+l
+
+[Dremsyl's Tower, Dining Room]
+Wooden tables running the length of the room have become swollen with moisture from the thin stream of water running across the floor to the kitchens. Benches lay overturned on the ground, and cracked clay dishes have been forgotten on the tabletops. The dark blur of an enslaved goblin darts across the room occasionally, a strange white hat on its head, gathering mushrooms and fungus from moldering tapestries which still desperately cling to the stone walls. The occasional angry croak or chirp, suggests that fungus isn't the only thing the goblin is interested in.
+
+The area is illuminated.
+
+In this room you see: 1st enslaved goblin cook
+Obvious exits are: west, south, east
+
+The ray of light shining on Kurapiira strengthens and intensifies, gleaming brilliant once before fading away. In its wake, Kurapiira's skin adopts a faint glow.
+
+h
+You feel healthier!
+
+
+HP:  97/142  Ftg:  47/48  MP:  66/75
+
+
+The enslaved Goblin cook cackles madly as it swings its rolling pin wildly above its head and munches on a glowing pink spotted toadstool.
+
+w
+The 1st enslaved goblin cook just wandered west.
+
+
+[Dremsyl's Tower, First Floor Hallway]
+Broken wooden beams have fallen from the ceiling, and landed in the center of this room, somewhat blocking the flow of water from the west. Mud has piled against the beams, creating a natural dam and a perfect home of all sorts of small creatures. Even a frog or two has made its way down here and grown fat off the abundant insects living in the muddy mess.
+
+The area is illuminated.
+
+In this room you see: 1st enslaved goblin cook, 2nd enslaved goblin cook
+Obvious exits are: west, east, north
+
+w
+w
+
+[Dremsyl's Tower, First Floor Hallway]
+The sound of screams echoes off the bare stone walls, making it impossible to tell which direction they're coming from. Muddy water rushes through the room in a shallow stream from the west, obscuring the floor. A single stone bookcase remains in the room, unusual only because it seems strangely untouched by the passage of time, free of even the faintest hint of grime. A single small statue rests upon the large shelves; it is of a multi-headed hydra surrounded by a black spiral.
+
+The area is illuminated.
+
+In this room are: hydra statuette
+Obvious exits are: west, east
+
+
+[Dremsyl's Tower, First Floor Hallway]
+A powerful stench permeates the hallway, revolting enough to make even a strong-stomached Goblin cringe. The water here is thick with dirt, making footing unsure. Strange orange moss has begun to cover the walls, and gives off a weak ambient glow which only serves to accentuate the foreboding darkness of the rest of the hallway.
+
+The area is illuminated.
+
+In this room you see: 1st deformed scaled zacotl
+Obvious exits are: west, east
+
+w
+A deformed scaled zacotl follows you into the room.
+
+w
+
+[Dremsyl's Tower, First Floor Stairwell]
+The incessant sound of dripping water echoes through the small room as small rivulets of brackish water force their way through tiny cracks in the stone walls, and slowly trickle down to the sodden floor. Rust has run down the walls from the ceiling above and an unidentifiable odor wafts through the area, overpowering even the mildew. A spiraling set of stone steps leads further into the heights of the tower, daring any adventurer who has survived this long, to venture further into the perverted tower.
+
+The area is illuminated.
+
+In this room you see: 1st deformed scaled zacotl
+Obvious exits are: west, east, spiraling stone staircase
+
+A deformed scaled zacotl follows you into the room.
+
+
+[Dremsyl's Tower, First Floor Entryway]
+A few inches of cold water ripples across the floor and plant roots run down the walls and into the dirty water, making footing treacherous. Piles of broken stone are scattered across the room and a few small splotches of neon orange moss are creeping across the jagged surfaces. Moldy chairs and tables around the room, suggest that this room was once used as a meeting place.
+
+The area is illuminated.
+
+In this room you see: 1st deformed scaled zacotl
+Obvious exits are: west, east
+
+The 1st deformed scaled zacotl advances towards you.
+
+w
+w
+w
+A deformed scaled zacotl follows you into the room.
+
+w
+
+[Dremsyl's Tower, First Floor Entryway]
+Water has begun to find its way through the cracking stones and has pooled along the walls. The powerful scent of mildew fills the room, masking any other aroma. Piles of useless furniture line the walls, the wood decayed and the metal rusted beyond use. The ceiling above is cracked and some of the rock has fallen, allowing glimpses into the above floor and revealing only more darkness. Strange fleshy tentacles have pushed through the small gaps in the ceiling and now creep along the stone, ending only a few feet short of the walls.
+
+The area is illuminated.
+
+In this room you see: 1st deformed scaled zacotl, 2nd deformed scaled zacotl
+Obvious exits are: south, east
+
+I don't see what exit you're referring to.
+
+You exert an additional 1 mana maintaining the Revival.
+
+h
+You feel healthier!
+
+I don't see what exit you're referring to.
+
+
+HP:  111/142  Ftg:  46/48  MP:  67/75
+
+
+I don't see what exit you're referring to.
+
+s
+A deformed scaled zacotl follows you into the room.
+
+s
+
+[Dremsyl's Tower, First Floor Entryway]
+The enclosed entrance opens up into a wide, rounded room. The walls are made of large stone blocks stacked precariously upon one another and determined plant life has forced its way through the mortar between the rocks and now grows unchecked across the walls and toward the towering ceiling. The floor here is steeply angled down toward the east, not surprising considering that the tower's foundation has begun to crumble from age and neglect.
+
+The area is illuminated.
+
+In this room you see: 1st deformed scaled zacotl, 2nd deformed scaled zacotl
+Obvious exits are: south, north
+
+The 1st deformed scaled zacotl advances towards you.
+
+s
+A deformed scaled zacotl follows you into the room.
+
+
+[Tower Entrance]
+The tower is far more dilapidated on the inside than the outside first suggested. The scent of molding wood hangs heavy and oppressive in the motionless air. The air is moist and humid, and thousands of tiny insects have made their homes in the rotting wooden beams overhead, causing the stone ceiling to bow alarmingly. Watery mud drips into the room from the gaping hole in the rotting wooden doors, suggesting that the only way out is to dig through layers of muck. Muddy foot prints lead further into the ominous tower.
+
+The area is illuminated.
+
+In this room you see: 1st deformed scaled zacotl
+Obvious exits are: north, closed pair of massive steel-banded rotten wood doors
+
+s
+I don't see what exit you're referring to.
+
+I don't see what exit you're referring to.
+
+The 1st deformed scaled zacotl expands its wings and gives a powerful thrust, strafing at you!
+It is a solid blow to your torso!
+Your coral plated lionskin jerkin absorbs some of the damage.
+h
+Your magical armor absorbs some of the damage!
+h
+You take 5 damage!
+
+
+HP:  106/142  Ftg:  46/48  MP:  67/75
+
+
+
+HP:  106/142  Ftg:  46/48  MP:  67/75
+
+
+op doo
+You open the closed pair of massive steel-banded rotten wood doors.
+
+You exert an additional 1 mana maintaining the Revival.
+
+h
+You feel healthier!
+
+
+HP:  124/142  Ftg:  48/48  MP:  68/75
+
+
+l at z
+You see a deformed scaled zacotl.
+
+Massive leathery wings jut awkwardly from thin shoulders. Small hook-like hands extend from the ends of the wings, rendering this creation unable to use its hands while in flight. Instead, it uses its scaled talons and wickedly hooked beak as deadly weapons. Feather-like scales cover the deformed Zacotl's body, suggesting that something went horribly wrong when the wizard Dremsyl formed this creature from magic and wild mountain birds. A golden collar is wrapped tightly around the unfortunate's throat, likely a magical device to keep it under control.
+
+It appears to be carrying: 
+         closed elegantly carved rosewood box
+
+
+It looks to be in perfect health.
+It looks aggressive.
+It looks like it will be nearly impossible for you to hit.
+
+The 1st deformed scaled zacotl expands its wings and gives a powerful thrust, strafing at you, but you parry the blow with your ceremonial knife!
+
+You exert an additional 1 mana maintaining the Revival.
+
+go door
+h
+You feel healthier!
+
+A deformed scaled zacotl follows you into the room.
+
+
+[Chaskan Swamp]
+A large break in the trees reveals an expansive muddy area which appears to be tinted green. All plant life on the perimeter seems to have wilted and died -- why still remains a mystery. Several footprints lie imprinted in the muck, their destinations unknown.
+sear door
+
+The area is illuminated.
+
+In this room you see: 1st deformed scaled zacotl
+Obvious exits are: northwest, west, southwest, south, north
+
+
+HP:  138/142  Ftg:  47/48  MP:  69/75
+
+
+You exert an additional 1 mana maintaining the Holy Armor.
+
+w
+A deformed scaled zacotl follows you into the room.
+
+
+[Chaskan Swamp]
+a large pool of water stained bright green accentuates the black smelly muck.  Small birds and animals walk to the shoreline to drink but run away after just one small sip.
+
+The area is illuminated.
+
+In this room you see: 1st deformed scaled zacotl
+Obvious exits are: northwest, west, southwest, south, southeast, east, northeast, north
+
+e
+A deformed scaled zacotl follows you into the room.
+
+
+[Chaskan Swamp]
+A large break in the trees reveals an expansive muddy area which appears to be tinted green. All plant life on the perimeter seems to have wilted and died -- why still remains a mystery. Several footprints lie imprinted in the muck, their destinations unknown.
+sear door
+
+The area is illuminated.
+
+In this room you see: 1st deformed scaled zacotl
+Obvious exits are: northwest, west, southwest, south, north
+
+w
+
+[Chaskan Swamp]
+a large pool of water stained bright green accentuates the black smelly muck.  Small birds and animals walk to the shoreline to drink but run away after just one small sip.
+
+The area is illuminated.
+
+Obvious exits are: northwest, west, southwest, south, southeast, east, northeast, north
+
+You exert an additional 1 mana maintaining the Revival.
+
+e
+h
+You feel healthier!
+
+The healthy glow in Kurapiira's skin fades away.
+
+
+[Chaskan Swamp]
+A large break in the trees reveals an expansive muddy area which appears to be tinted green. All plant life on the perimeter seems to have wilted and died -- why still remains a mystery. Several footprints lie imprinted in the muck, their destinations unknown.
+sear door
+
+The area is illuminated.
+
+In this room you see: 1st deformed scaled zacotl
+Obvious exits are: northwest, west, southwest, south, north
+
+
+HP:  142/142  Ftg:  46/48  MP:  69/75
+
+
+w
+A deformed scaled zacotl follows you into the room.
+
+
+[Chaskan Swamp]
+a large pool of water stained bright green accentuates the black smelly muck.  Small birds and animals walk to the shoreline to drink but run away after just one small sip.
+
+The area is illuminated.
+
+In this room you see: 1st deformed scaled zacotl
+Obvious exits are: northwest, west, southwest, south, southeast, east, northeast, north
+
+e
+A deformed scaled zacotl follows you into the room.
+
+
+[Chaskan Swamp]
+A large break in the trees reveals an expansive muddy area which appears to be tinted green. All plant life on the perimeter seems to have wilted and died -- why still remains a mystery. Several footprints lie imprinted in the muck, their destinations unknown.
+sear door
+
+The area is illuminated.
+
+In this room you see: 1st deformed scaled zacotl
+Obvious exits are: northwest, west, southwest, south, north
+
+w
+A deformed scaled zacotl follows you into the room.
+
+
+[Chaskan Swamp]
+a large pool of water stained bright green accentuates the black smelly muck.  Small birds and animals walk to the shoreline to drink but run away after just one small sip.
+
+The area is illuminated.
+
+In this room you see: 1st deformed scaled zacotl
+Obvious exits are: northwest, west, southwest, south, southeast, east, northeast, north
+
+The 1st deformed scaled zacotl expands its wings and gives a powerful thrust, strafing at you, but you parry the blow with your ceremonial knife!
+
+e
+
+[Chaskan Swamp]
+A large break in the trees reveals an expansive muddy area which appears to be tinted green. All plant life on the perimeter seems to have wilted and died -- why still remains a mystery. Several footprints lie imprinted in the muck, their destinations unknown.
+sear door
+
+The area is illuminated.
+
+Obvious exits are: northwest, west, southwest, south, north
+
+diag all
+h
+You examine all the people in the room...
+
+
+
+HP:  142/142  Ftg:  48/48  MP:  71/75
+
+
+fly up 5
+With a couple of powerful strokes, you rise 5 feet in the air!
+[5 sec. delay]
+
+You exert an additional 1 mana maintaining the Holy Armor.
+
+fly down 5
+You trim your wings and descend 5 feet.
+[3 sec. delay]
+
+w
+w
+
+[Chaskan Swamp]
+a large pool of water stained bright green accentuates the black smelly muck.  Small birds and animals walk to the shoreline to drink but run away after just one small sip.
+
+The area is illuminated.
+
+In this room you see: 1st deformed scaled zacotl
+Obvious exits are: northwest, west, southwest, south, southeast, east, northeast, north
+
+s
+The 1st deformed scaled zacotl expands its wings and gives a powerful thrust, strafing at you!
+It is a solid blow to your torso!
+Your coral plated lionskin jerkin absorbs some of the damage.
+h
+Your magical armor absorbs some of the damage!
+h
+You take 7 damage!
+
+A deformed scaled zacotl follows you into the room.
+
+
+[Chaskan Swamp]
+Unusually large insects crawl up and down the all but petrified trees.  Upon closer inspection of one of the indigenous beetles it appears as if it has a long reptilian like tongue!
+
+The area is illuminated.
+
+In this room you see: 1st deformed scaled zacotl
+Obvious exits are: south, southeast, east, northeast, north
+
+
+HP:  135/142  Ftg:  45/48  MP:  75/75
+
+
+s
+
+HP:  135/142  Ftg:  45/48  MP:  75/75
+
+
+A deformed scaled zacotl follows you into the room.
+
+
+[Chaskan Swamp]
+As the path widens the ground slurps as if parched and taking in water. The subtle sounds of humming and croaking, can be heard coming from the north.
+
+The area is illuminated.
+
+In this room you see: 1st deformed scaled zacotl
+Obvious exits are: south, east, northeast, north
+
+s
+
+[Chaskan Swamp]
+Several trees lie on their sides on the western side of the path, now completely overgrown with sharp thorny vines.
+
+The area is illuminated.
+
+Obvious exits are: south, north
+
+s
+
+[Chaskan Swamp]
+Deep impressions in the ground collect water and provide a swimming hole for many types of wildlife which make the swamp home.
+
+The area is illuminated.
+
+Obvious exits are: south, north
+
+s
+
+[Chaskan Swamp]
+The path though wide is a bit overgrown and muddy. The canopy of the trees obstructs light from the sun and the moon from making contact with the ground.
+
+The area is illuminated.
+
+Obvious exits are: south, north
+
+sw
+
+[Chaskan Swamp]
+Large trees line the east and west of the path, their long branches reaching across covering it, as if leading somewhere.
+
+The area is illuminated.
+
+Obvious exits are: southwest, south, southeast, north
+
+w
+
+[Chaskan Swamp]
+As the path widens, the subtle smell of Videnbeury flower wafts passed coming from the east.
+
+The area is illuminated.
+
+Obvious exits are: west, southeast, east, northeast
+
+w
+
+[Chaskan Swamp]
+The wet mud gurgles and sputters from small mounds which line the path, like a volcano preparing to explode.  The ground churns and ripples eagerly as the insects which inhabit it frolic and dance in a state of uninterrupted bliss.
+
+The area is illuminated.
+
+In this room you see: 1st crockosnakel
+Obvious exits are: west, east
+
+w
+
+[Chaskan Swamp]
+The canopy of tall malformed trees impedes the sun from casting its light upon the area, resulting in an almost un-natural chill to the air; the leaves of the trees shutter above as if speaking to one another in a foreign tongue.
+
+The area is illuminated.
+
+In this room you see: 1st giant firefly, 1st bog reaver
+Obvious exits are: west, east
+
+w
+
+[Chaskan Swamp]
+Various shades of, green, yellow and red, indicative of the local molds and fungi of this area, decorate the trees and bushes which line the narrow path.
+
+The area is illuminated.
+
+In this room you see: 1st bumblebird, 1st bog reaver, 1st giant firefly
+Obvious exits are: west, east
+
+w
+A bumblebird follows you into the room.
+
+
+[Chaskan Swamp]
+Thick undergrowth consisting of braided vines and creeping weeds entangle and snare whatever passes through, as if to warn of the dangers that may lie ahead.  The cold wet soil abrades the thunderous silence, as it squishes and crunches below.
+
+The area is illuminated.
+
+In this room you see: 1st bumblebird
+Obvious exits are: west, east
+
+sw
+
+[Chaskan Swamp]
+Tall trees displaying large leaves sway to and fro, creaking and cracking in unison with the transient winds; as the soft, wet mud underfoot grabs on tightly as if to warn of dangers that may exist ahead.
+
+The area is illuminated.
+
+Obvious exits are: southwest, east
+
+se
+
+[Tehhoggs Trail]
+Dewy mist floats in the air, collecting on the higher leaves of the tall trees and slowly running down towards the leafy shrubs. Where the vines have overtaken the trees, thick carpets of moss have overrun the forest floor.
+
+The area is illuminated.
+
+Obvious exits are: southeast, northeast
+
+sw
+
+[Tehhoggs Trail]
+Thick vines coil around the trees, fleshy and fat with the weight of water. Waxy-looking fronds sprout from the vines, reaching out towards adjacent trees and creating a mesh-like veil across a vastness of canopy.
+
+The area is illuminated.
+
+Obvious exits are: northwest, southwest
+
+sw
+
+[Tehhoggs Trail]
+The sopping earth beneath foot sucks and slurps as adventurers traverse through it. As footprints are left behind, they are instantly filled with films of water. The stench of putrid water and animal droppings wafts through the air. Dung beetles scurry about the forest floor.
+
+The area is illuminated.
+
+Obvious exits are: southwest, northeast
+
+w
+
+[Tehhoggs Trail]
+One could almost believe the air to be tangible as the path continues to the northeast, still and heavy with water. The putrid stench of swamp hangs in the air, moved only by passersby or animals as they trek along the path and the dense forest.
+
+The area is illuminated.
+
+Obvious exits are: west, northeast
+
+w
+
+[Tehhoggs Trail]
+Birds, bathed in the colors of the sun and the sky, dart playfully from tree to tree, intent on each other and the swarming insects of the humid area. Minute sprouts of grass, sunken into the earth, appear wilting and dying from submersion in the water.
+
+The area is illuminated.
+
+Obvious exits are: west, east
+
+w
+
+[Tehhoggs Trail]
+Deep holes, burrowed from the earth around the roots of the dense trees, dot the area. The very shadows they create alert travelers to the depth of their tunnels. Rivulets of water stream into the tunnels, creating a muddy slime that coats the bellies of many of the larger animals.
+
+The area is illuminated.
+
+Obvious exits are: west, east
+
+nw
+
+[Tehhoggs Trail]
+The pleasant scent of the rich earth mixes with the aromas of brackish water and decaying plant and animal matter. Animal droppings seem prolific, sweating in the humidity and feasted on by the many insects within the area.
+
+The area is illuminated.
+
+Obvious exits are: northwest, east
+
+w
+
+[Tehhoggs Trail]
+Incredibly tiny paw prints mar the path, the imprints collecting water almost immediately. The prints don't appear to be moving in any discernible direction, as they wind in circles and back over top of themselves.
+
+The area is illuminated.
+
+Obvious exits are: west, southeast
+
+sw
+
+[Tehhoggs Trail]
+The intense heat can only be outdone by the stagnant smell of swamp and decay. Cypress trees, willows, and mandrakes make up the most in variety of trees, wending their snake-like roots over the top of the earth and within the many large pools of water.
+
+The area is illuminated.
+
+Obvious exits are: southwest, east
+
+se
+
+[Tehhoggs Trail]
+A beautiful, stark-white jasmine tree stands at the side of the path, surrounded by the dark leafy trees and hunter-green shrubs. The tree seems rather unusual in that it appears to be blooming both night and day. Small white flower petals from the tree float atop water puddles in the earth.
+
+The area is illuminated.
+
+Obvious exits are: southeast, northeast
+
+sw
+
+[Tehhoggs Trail]
+Just off the path, the bone handle of a sword sweats from the heat and moisture of the air. The blade lies rusting and green, deteriorating quickly in this climate of water and warmth. A line of ants march quickly over the rusting blade, intent on a decaying fruit nut not far from it.
+
+The area is illuminated.
+
+Obvious exits are: northwest, southwest
+
+w
+
+[Tehhoggs Trail]
+The path, given light only by the power of the sun, almost cuts a swatch through the darkness of the trees and their heavy leaves. Everything -- plant, animal, and otherwise -- is covered in the constantly-dripping water of the air.
+
+The area is illuminated.
+
+Obvious exits are: west, northeast
+
+w
+
+[Tehhoggs Trail]
+The rustling of leaves mixes with the slithering noises of land-bound reptiles. A flash of bright green in the canopy of the trees, carefully coiled around the bough of a tree, seems almost out of place. A pair of shimmering black eyes can be seen on the backdrop of yellow-green scales.
+
+The area is illuminated.
+
+Obvious exits are: west, east
+
+s
+
+[Tehhoggs Trail]
+As insects fly through the air, they can almost be seen to be cutting through the very air itself. Molecules of water, suspended and small, seem to part as the insects pass by. The stench of trapped water moves in pockets through the oppressively humid air.
+
+The area is illuminated.
+
+Obvious exits are: south, east
+
+s
+
+[Tehhoggs Trail]
+Fruit litters the ground, fallen from the trees and munched on by the small inhabitants of the forest. The fruit is bruised, discolored, and teeming with slowly-wriggling white maggots, feasting on the flesh of the rotting.
+
+The area is illuminated.
+
+Obvious exits are: south, north
+
+se
+
+[Tehhoggs Trail]
+A large, moist mound of dirt lies piled beside the trunk of a tree, its roots unceremoniously dug from the ground and gnawed on. The tree looks almost sickly, draped in its funeral shroud of mossy vines and crumpling leaves.
+
+The area is illuminated.
+
+Obvious exits are: southeast, north
+
+sw
+
+[Tehhoggs Trail]
+Webbed footprints, edged in rings of water, streak across the path. Knowing that there is not a large body of water in the forest begs the question of why any water fowl would be walking around here. The constant chorus of birds, frogs, and buzzing insects drips through the air like the water on the leaves of the trees.
+
+The area is illuminated.
+
+Obvious exits are: northwest, southwest
+
+se
+
+[Tehhoggs Trail]
+Near the side of the path, a water-rotted rope lies beside the carcass of a small, tusked hog. Nearly picked to the bones, all that remains of the carcass is the decaying flesh not able to be ripped from the tendons.
+
+The area is illuminated.
+
+Obvious exits are: southeast, northeast
+
+s
+
+[Tehhoggs Trail]
+The incredible stillness of the air clings to the trees like the fronds of the vines, dripping with the sweat of the water-heavy air. The smell of plant decay mixes with the watery air, holding the scent within the nostrils of travelers.
+
+The area is illuminated.
+
+Obvious exits are: northwest, south
+
+s
+
+[Tehhoggs Trail]
+Animal calls and swift movement seem to hang in the humid air before slowly falling to the ground. Sound is almost tangible, as the air hangs so heavy. The ground seems constantly wet, pocked with larger and wider pools of water as the path continues north.
+
+The area is illuminated.
+
+Obvious exits are: south, north
+
+sw
+
+[Tehhoggs Trail]
+The fronds of the furry vines, clinging to the stability of the trees, dip down from the branches and into the watery pools on the forest floor. Many of the tree limbs appear to be draped with shawls, moss green and thriving on the humid air and stillness within the forest.
+
+The area is illuminated.
+
+Obvious exits are: southwest, north
+
+sw
+
+[Tehhoggs Trail]
+The near whistle-like noise of small frogs croaks through the forest, ending just as abruptly as they begin. The incredible swarm and variety of insects makes this area hospitable to the frogs. Splashing can be heard in the distance, along with the silence of frog song.
+
+The area is illuminated.
+
+Obvious exits are: southwest, northeast
+
+w
+
+[Tehhoggs Trail]
+A large slime trail cuts across the path, leading into the leafy underbrush of dark shrubs. Stiff, waxy, crimson flowers grow on the shrubs, shining like snake scales. The slow crunch of dirt can be heard in the direction that the slime trail leads to.
+
+The area is illuminated.
+
+Obvious exits are: west, northeast
+
+w
+
+[Tehhoggs Trail]
+The forest floor, sun-starved and saturated with water, seems to shift endlessly underfoot. Roving carpets of blue-green moss cover the dirt in tufts, growing onto the lower trunks of the trees in their search for constant moisture and warmth.
+
+The area is illuminated.
+
+Obvious exits are: west, east
+
+w
+A hairless khalagrinn just entered the room 4 units behind you.
+
+A hairless khalagrinn follows you into the room.
+
+
+[Tehhoggs Trail]
+The sound of splashing bounces off the trees, caused by small, colorful birds bathing in the small pools of water. They flutter about, weaving between the maze of tree roots to get to the little handfuls of water. Many pools ripple in the wake of the little birds as they dash off into the forest again.
+
+The area is illuminated.
+
+In this room you see: 1st hairless khalagrinn
+Obvious exits are: west, east
+
+nw
+
+[Tehhoggs Trail]
+Small pools of water collect in the saturated earth among tree roots, clear and still. The drip-drop of collected moisture falls into the pools, sending out echoes like little tinkering bells. The tree canopies, weighed down with moisture, rustle in the wind and cause rainfalls of the collected humidity.
+
+The area is illuminated.
+
+Obvious exits are: northwest, east
+
+n
+
+[Tehhoggs Trail]
+The trees, veiled in fuzzy-looking meshes of vine, seem to pant beneath the oppressive, heavy heat in the air, dripping dew in rivulets down their trunks and limbs. Leaves, detached from their trees, fall heavy with the weight of water instead of floating gently to the ground.
+
+The area is illuminated.
+
+Obvious exits are: southeast, north
+
+nw
+
+[Tehhoggs Trail]
+The intense, dark green of the forest seems to meld together, broken only by periodic splashes of bright red, cornflower blue, or sunny yellow wherever flowers have bloomed. The scent of still water, decaying and dirty, wafts in from the north. Fruit flies dance on the humid wind, lazily circling about as if swimming in the moisture in the air.
+
+The area is illuminated.
+
+Obvious exits are: northwest, south
+
+You exert an additional 1 mana maintaining the Holy Armor.
+
+nw
+
+[Tehhoggs Trail]
+Large fans of white fungus curl up the sides of a fuzzy bark tree. The small half circles of fungus, growing out of the tree trunk, seem to curve around the tree as if they were steps -- leading high into the branches of the tree.
+
+The area is illuminated.
+
+Obvious exits are: northwest, southeast
+
+w
+
+[Tehhoggs Trail]
+Enormous tree roots spread over the top of the ground, causing a detour to the path. Small nests of grasses and leaves dot the labyrinth of roots, creating homes for the smaller ground creatures of this area. The canopies of the trees crowd the sky, choking the light before it reaches the forest floor.
+
+The area is illuminated.
+
+Obvious exits are: west, southeast
+
+w
+
+[Tehhoggs Trail]
+Along a bend of the path, a large tree limb stretches out, reaching the other side of the forest that the path cuts through. Dangling from its branch, a small bee hive becomes the center of activity in this part of the woods.
+
+The area is illuminated.
+
+Obvious exits are: west, east
+
+w
+
+[Tehhoggs Trail]
+A large fern, with leaves as big as fans, grows closely to a smooth-bark tree. The leaves of the fern seem to grow up the trunk of the tree, reaching towards its branches. The constant buzz of insects and the movement of critters creates an almost soothing background noise.
+
+The area is illuminated.
+
+Obvious exits are: west, east
+
+sw
+
+[Tehhoggs Trail]
+The air is nearly as dense as the forest, appearing almost as mist due to the large amount of moisture it carries. Trees, shrubs, and waxy-looking flowers seem to sweat in the heat and humidity of the forest.
+
+The area is illuminated.
+
+Obvious exits are: southwest, east
+
+s
+
+[Tehhoggs Trail]
+Big leafy plants, huddled closely to the forest floor, collect large amounts of dew and moisture from the air on their dark green leaves. The occasional dripping of water causes PLUNK noises on the mossy ground, or fallen tree limbs.
+
+The area is illuminated.
+
+Obvious exits are: south, northeast
+
+s
+
+[Tehhoggs Trail]
+The dense wilderness of trees, rooted soil, and underbrush seem far removed from the cities of civilized folk. Although an enormous redwood can easily be home to over fifty creatures, the lack of roads, water systems, and buildings leaves a civilized adventurer feeling out of place.
+
+The area is illuminated.
+
+In this room you see: 1st oozing mud mass
+Obvious exits are: south, north
+
+sw
+
+[Tehhoggs Trail]
+The inevitable stillness of trees -- settling their roots into the earth and proclaiming it theirs -- leaves a momentary silence on the path. A pair of blue butterflies, dancing spiritedly on the wind, flutter through the open space of the path and land, ever so swiftly, on two large yellow flowers.
+
+The area is illuminated.
+
+In this room you see: 1st towering, hairy hochigan
+Obvious exits are: southwest, north
+
+sw
+
+[Tehhoggs Trail]
+The musty smell of stagnant water drifts in from the north, carrying with it a swarm of buzzing mosquitoes. A tree branch, not far from the path, detaches from its host and crashes to the ground at a dizzying speed, modifying the air currents of the bugs and sending them away -- almost as if the tree meant to rid itself of the flying pests.
+
+The area is illuminated.
+
+Obvious exits are: southwest, northeast
+
+w
+
+[Tehhoggs Trail]
+Silvery-green vines cling to the trees as the path continues northward. Tiny, delicate leaves sprout from the vines, curling upwards towards trickling bits of sun that has broken through the forest's canopy. What little light streaks through bounces off of the leaves, creating a shimmering in the air akin to heat waves.
+
+The area is illuminated.
+
+Obvious exits are: west, northeast
+
+w
+
+[Tehhoggs Trail]
+Songbirds call out from the depths of the adjoining forests, their cries echoing off of the stalwart wooden soldiers, their branches creaking with minute movement. Every so often a rustle, unprovoked by the wind, sends a shudder through the trees in a wave of motion.
+
+The area is illuminated.
+
+Obvious exits are: west, east
+
+n
+
+[Tehhoggs Trail]
+The loamy scent of earth wafts from the trees, carried by the thick, warm air. All manner of insects swarm about in tiny clumps, dipping and moving as if one amorphous body. Pollen sifts from the flowers on the trees, creating cascading clouds of green in the air.
+
+The area is illuminated.
+
+Obvious exits are: east, north
+
+nw
+
+[Tehhoggs Trail]
+The path begins to incline at a very easy pace, winding its way northeast between thick greenery. Fungi crowds the base of numerous trees, some bland brown, others spotted colorfully. Bright blue flowers grow in spurts in the tall grass.
+
+The area is illuminated.
+
+In this room you see: 1st oozing mud mass
+Obvious exits are: northwest, south
+
+nw
+
+[Tehhoggs Trail]
+The road travels east and west along the treeline. The bushes rustle with wildlife and trees sing with the songs of birds. During the day, the sun shines brightly through the wide openings of the trees; during the night, the trees seem to close in, darkening the road so much that even those with the best of eyesight have to feel around.
+
+The area is illuminated.
+
+Obvious exits are: northwest, southeast
+
+w
+
+[Tehhoggs Trail]
+Occasionally, something cracks and pops in the distance, causing the trees to violently shake as roosting birds take to the air. Their warbling sounds more like the warnings of 'beware, beware.' A glance to the west reveals nothing remarkable -- only a thick barricade of trees on each side and a slowly shifting path winding through them.
+
+The area is illuminated.
+
+Obvious exits are: west, southeast
+
+w
+
+[Tehhoggs Trail]
+A massive mound of dirt has been pushed aside of the roadway. A hole, large enough to stick a foot into, slowly devours any loose dirt that happens to trickle inside of it. From within this hole, eyes of an ephemeral emerald green play hide and seek, watching -- even waiting.
+
+The area is illuminated.
+
+Obvious exits are: west, east
+
+sw
+
+[Tehhoggs Trail]
+Glowing eyes of various sizes and colors peer out from the dark crevices of the underbrush that threatens to devour the road leading west and northeast. The trees sway in an uncommonly, or perhaps unnaturally, warm wind blowing from the northwest. A pathway mysteriously appears and disappears from sight with every footfall, always leading into the deeper forest.
+
+The area is illuminated.
+
+Obvious exits are: southwest, east
+
+sw
+
+[Tehhoggs Trail]
+The path widens as the trees begin to spread out to reveal the denser forest beyond. Tiny critters scamper past, into the underbrush that shakes and shimmies from something possibly much larger.
+
+The area is illuminated.
+
+Obvious exits are: southwest, northeast
+
+s
+
+[Tehhoggs Trail]
+Trees block traveler's visions to north, south, and west. A well traveled road wends its way northeast, and, though it seems an impossible feat to cross, a thinner pathway, near hidden by grass diverts and shifts its course in a northwesterly fashion at each step.
+
+The area is illuminated.
+
+Obvious exits are: south, northeast
+
+s
+
+[Tehhoggs Trail]
+Listening hard enough, the lucky traveler can hear their name whispered on the wind, followed by the sound of 'innocent' laughter. The only thing visible behind the trees sidling the path are more trees that appear to move, leaves rustling.
+
+The area is illuminated.
+
+Obvious exits are: south, north
+
+s
+
+[Tehhoggs Trail]
+Light filters dimly through the umbrella of trees. Branches interlock tightly, trying to choke the little bit of natural light the already thick blockade of trees swallow. Shadows dance and skitter across the leaf littered path. A few even scurry up a northwestern path.
+
+The area is illuminated.
+
+Obvious exits are: south, north
+
+go gate
+
+[Tehhoggs Trail]
+A wide path winds its way northward between a thick, green canopy of trees. Leaves litter the floor, and huddle together in the corners and in between the slats of a massive gate to the south. Whoops, barks and cries of animals echo past the bundled trees and sound close enough to pose a danger.
+
+The area is illuminated.
+
+Obvious exits are: north, massive, moldy oak gate
+
+w
+
+[Goblin Village]
+Children play contently among large piles of garbage which line the north and south sides of the wide dirt path. Ferrel cats and stray dogs lie comfortably beneath the litter hissing and barking as the children get close to them. Swarms of flies make there way from pile to pile trying to find sustenance in the morning sun. A moldy, oak gate, standing massive and covered in streaks of mud, leads to a path in the north.
+
+The area is illuminated.
+
+Obvious exits are: west, massive, moldy oak gate
+
+w
+
+[Goblin Village]
+A small hut accompanied by one slightly larger sit side by side on the northern side of the dirt path adjoined by a lean to made of sticks. A small barrel which appears to be leaking slightly stands in the center of the lean too, displaying small droplets of water.
+
+The area is illuminated.
+
+Obvious exits are: northwest, west, east
+
+sw
+
+[Goblin Village]
+Three huts sit beside each other, a large fence constructed with sticks surrounding them. A small dog lies comfortably beneath a large dogwood tree beside the hut in the center. A small garden landscaped in the sandy ground appears to be successfully growing what appears to be herbs of some sort, a mild sweet smell emanating from them. Two torches mounted into the ground appear to act as street lights when its dark.
+
+The area is illuminated.
+
+Obvious exits are: southwest, east, northeast
+
+sw
+
+[Goblin Village]
+A stack of burnt out wood lies in the center of the area still warm with glowing embers. A fresh pile wood stacked neatly on the side of the path indicates this area is frequently utilized and replenished. Long sharpened sticks lie on the ground, some with burnt carcasses of lizards, and large insects still impailed upon them.
+
+The area is illuminated.
+
+Obvious exits are: southwest, northeast
+
+sw
+
+[Village Square]
+Six small benches provide for a resting place for villagers and guests. two small gardens planted on the eastern and western sides of the square display the growth of the seasons most aromatic weeds.  The sounds of barking dogs and goblin children at play can be heard in the disntance. The occasional squeal of a pig resonates from the southeast. Torches mounted in the ground provide adequate light during the evening hours.
+
+The area is illuminated.
+
+Obvious exits are: northwest, southwest, southeast, northeast
+
+sw
+
+[Goblin Village]
+Rats, mice and flies feast on the carcass's of gutted and skinned animals which lie piled on all sides of the dirt path. Tangled undergrowth extends accross the path making for difficult footing for those who pass through.
+
+The area is illuminated.
+
+Obvious exits are: southwest, northeast
+
+sw
+
+[Goblin Village]
+Several huts constructed with mud, hay and sticks, sit closely together among thick but trimmed undergrowth. Several trees which house loudly chirping birds, stand scattered along the eastern and western sides of the path.
+
+The area is illuminated.
+
+Obvious exits are: southwest, northeast
+
+se
+
+[Goblin Village]
+A large shack constructed with sticks marks the command station of the village guard. Loud voices speaking in broken common can be heard coming from the large structure. A wooden weapon rack sits beside the building holding long spears and bows within it.
+
+The area is illuminated.
+
+Obvious exits are: southeast, northeast
+
+go gate
+
+[Goblin Village]
+A large Gate constructed of hay and sticks towers high above the walls of this small village. Two torches mounted on each side of the gate provide ample light to the area. A small pen which houses several pigs, emits a strong stench to the area. A small but neatly kept dirt path leads northwest.
+
+The area is illuminated.
+
+Obvious exits are: northwest, gate
+
+sw
+
+[Village Gate]
+A large gate made from sticks and hay marks entry to a small village. Village guards adorned in leather armor holding sharpened spears flank each side of the gate, occasionally blowing there noses into their hands and laughing uncontrollably.
+
+The area is illuminated.
+
+Obvious exits are: southwest, gate
+
+sw
+
+[Northeast Road]
+A small dirt area lies to the west, which includes what appears to be a tie up station for horses, made of thick wooden limbs. Small piles of maneur lies scattered about the dirt clearing. A small sign mounted on the tie up station reads "Pleaz beez kurteez andz kleenz up afterz yer petz".  A small lantern hangs from a post on the weastern side of the road providing for dim illumination in the night.
+
+The area is illuminated.
+
+Obvious exits are: southwest, northeast
+
+sw
+
+[Northeast Road]
+In the distance to the northeast a small gate constructed with sticks and hay can been seen towering above what appears to be a small village. A small sign on the eastern side of the road mounted upon a wooden stake reads "Fudz and Waterz aheadz" beneath the words an arrow points northeast.
+
+The area is illuminated.
+
+Obvious exits are: southwest, northeast
+
+sw
+
+[Northeast Road]
+A small indentation in the ground to the east has accumulated water from the most recent rains. Stagnant and a dark brown, the water emits a foul stench that wafts through the area.
+
+The area is illuminated.
+
+Obvious exits are: southwest, northeast
+
+sw
+
+[Northeast Road]
+a small rustic bench strategically placed beneath a large oak tree sits beside the road welcoming travlers to rest. What appears to be a small village can be seen to the northeast.
+
+The area is illuminated.
+
+Obvious exits are: southwest, northeast
+
+sw
+
+[Northeast Road]
+A small garden that has been recently planted marks the eastern side of the gravel road.  A small wooden fence which surrounds it frames a small wooden gate; A small chain and lock tightly secures the gate prohibiting access.
+
+The area is illuminated.
+
+Obvious exits are: southwest, northeast
+
+sw
+
+[Northeast Road]
+Narrowing slightly the road appears to be recently leveled. A broken hoe and metal rake sit beside the road to the west.
+
+The area is illuminated.
+
+Obvious exits are: southwest, northeast
+
+sw
+
+[Northeast Road]
+Small evergreen seedlings spring forth on the western side of the road. A small irrigation ditch appears to have been recently dug extending northeasterly, and ending at a small hole.
+
+The area is illuminated.
+
+Obvious exits are: southwest, northeast
+
+sw
+
+[Northeast Road]
+Red clay dust has setteled upon the thin undergrowth that flanks each side of the road. Clean gray gravel is neatly spread, allowing for easy travels both by foot or by animal.
+
+The area is illuminated.
+
+Obvious exits are: southwest, northeast
+
+sw
+
+[Northeast Road]
+Gravel scattered about the roadway makes for level footing, the red clay beneath it still visible.
+
+The area is illuminated.
+
+Obvious exits are: southwest, northeast
+
+sw
+
+[Northeast Road]
+The well maintained road continues southwest and northeast. Patches of grass grow sparsely and display the occasional wildflower.
+
+The area is illuminated.
+
+Obvious exits are: southwest, northeast
+
+sw
+
+[Eastern Pass Road]
+Large footprints of bare feet mark the ground. The road is well maintained and small piles of burnt wood on the side of the road indicate travelers stop and rest in this area.
+
+The area is illuminated.
+
+Obvious exits are: southwest, northeast
+
+w
+
+[Eastern Pass Road]
+A few bushes have managed to take purchase in the hard ground. Ruts in the road are filled with gray gravel to avoid tripping.
+
+The area is illuminated.
+
+Obvious exits are: west, northeast
+
+sw
+
+[Eastern Pass Road]
+The road appears to have been recently packed and hardened. Some fresh piles of gray gravel sit beside the road.
+
+The area is illuminated.
+
+Obvious exits are: southwest, east
+
+sw
+
+[Eastern Pass Road]
+Several ruts on the roads surface indicates wagon travel to the east. The road seems to curve slightly to the southwest and northeast
+
+The area is illuminated.
+
+Obvious exits are: southwest, northeast
+
+w
+
+[Eastern Pass Road]
+Small seedlings of evergreen trees poke through the hard surface of the ground. Footprints in the dirt indicate recent activity. The remains of a wooden cart lie rotting on the northern side of the road. The road curves slightly northeast.
+
+The area is illuminated.
+
+Obvious exits are: west, northeast
+
+w
+
+[Eastern Pass Road]
+The cracked dirt road crumbles underfoot before firming up again. Small patches of dark red clay, can be seen below the crumbling surface.
+
+The area is illuminated.
+
+Obvious exits are: west, east
+
+w
+
+[Eastern Pass Road]
+The dry road is cracked and small weeds have taken purchase within them.
+
+The area is illuminated.
+
+Obvious exits are: west, east
+
+sw
+
+[Eastern Pass Road]
+Passing winds churn the road into twisting dust storms impeding vision.
+
+The area is illuminated.
+
+Obvious exits are: southwest, east
+
+w
+
+[Eastern Pass Road]
+The dusty road shows signs of wear.  Large ruts created by frequent passage hinders travel slightly.  A few piles of gravel lie beside the road. The road appears to curve northeast.
+
+The area is illuminated.
+
+Obvious exits are: west, northeast
+
+sw
+
+[Eastern Pass Road]
+The narrow road dips slightly, the skeletal remains of a small animal is pressed into the ground at the center of the dip.
+
+The area is illuminated.
+
+Obvious exits are: southwest, east
+
+w
+
+[Eastern Pass Road]
+Small holes dot the surface of the road.  Small ants carrying little bits of food swarm in and out of the holes. Foot prints from what appear to be small birds litter the ground concentrated around the ants holes. The road appears to curve slightly northeast.
+
+The area is illuminated.
+
+Obvious exits are: west, northeast
+
+w
+
+[Eastern Pass Road]
+A small seedling of an evergreen tree has taken purchase on the northern side of the road, its tiny green needles projecting the slight scent of pine. A small birds nest made of dirt and mud has been constructed amongst the small branches.
+
+The area is illuminated.
+
+Obvious exits are: west, east
+
+w
+
+[Eastern Pass Road]
+Deep divots in the road caused by rain erosion make for difficult footing. Small piles of disintegrating horse patties lie scattered about, hosting the resting place of an occasional fly.
+
+The area is illuminated.
+
+Obvious exits are: west, east
+
+w
+
+[Eastern Pass Road]
+The dirt road continues east and west, linear indentations which lie parallel to one another indicate wagon passage in the recent past. Several tangles of weeds, flourish on the northern side of the road
+
+The area is illuminated.
+
+Obvious exits are: west, east
+
+w
+
+[Eastern Pass Road]
+Thick undergrowth which weaves itself across the wide dirt road makes for difficult passage. Splinters of wood lie molding, atop the entangling growth.
+
+The area is illuminated.
+
+Obvious exits are: west, east
+
+go gate
+
+[Eastern Pass Road]
+The rubble of a large wooden fence bound together with rope, lies open amongst thick undergrowth.
+
+The area is illuminated.
+
+Obvious exits are: east, gate
+
+w
+
+[Ghost Town Road]
+Broken cobblestones are scattered about. A broken gate hangs crookedly to the side unable to be open or closed.
+
+The area is illuminated.
+
+Obvious exits are: west, gate
+
+ARMOR DOWN IN 5
+w
+
+[Ghost Town Road]
+The road runs east and west.  To the southwest is a rusty iron fence, brambles twined in and out is visible. Over the fencing and shrubs, a large chimney can be seen.
+
+The area is illuminated.
+
+Obvious exits are: west, east
+
+w
+
+[Entry Gate]
+An ornate iron gate, with an elaborate swirled design with the letter H in the middle, sits on the south side of the road. Pitted with rust and bird droppings, it creaks back and forth in the wind.
+
+The area is illuminated.
+
+Obvious exits are: west, east, gate
+
+w
+
+[Ghost Town Road]
+To the southeast a rusted iron fence can be seen. Part of the fence sags as if it is going to fall over at any moment. The rungs are barely held up by the twisted shrubbery which surrounds it. Several squirrels chatter as they run across the wobbling fence, seemingly unafraid of their precarious perch.
+
+The area is illuminated.
+
+Obvious exits are: west, east
+
+w
+
+[Ghost Town Road]
+This portion of the cobblestone road has been maintained. The cobblestones all remain in place and those worn out by travel have been replaced. Oddly though, the tall shrubs on either side of the road grow wild, their branches tangled and overgrown.
+
+The area is illuminated.
+
+Obvious exits are: west, east
+
+s
+
+[Ghost Town Square]
+A short obelisk leans crookedly across the rubble of square stones. Black thick water emanates a strong odor and indicates that this must have been a fountain at one time. There is writing on the obelisk but unfortunately it is too worn to read.
+
+The area is illuminated.
+
+Obvious exits are: west, south, east, north
+
+s
+
+[Ghost Town Road]
+Missing cobblestones have created large potholes in this old road. A variety of weeds and flowers have made these potholes their home. Water from both rain and heavy mists has collected within the holes creating a perfect environment for growth. 
+
+The area is illuminated.
+
+Obvious exits are: south, north
+
+s
+
+[Ghost Town Road]
+The weed laden cobblestone road runs both towards the north and the south. A small dirt footpath heads off in a westerly direction. The ground around the path is littered with the imprints of many different animals. A single wagon wheel is embedded firmly into the ground at the side of the road, it is almost as if the wagon lost the wheel and just continued on without ever noticing the bumpy ride.
+
+The area is illuminated.
+
+Obvious exits are: south, north, path
+
+s
+
+[Ghost Town Road]
+The stones of the old cobblestone road are cracked and chipped. Several are lose and create a hazard for those passing through. Weeds and flowers fight to gain a foothold amongst the cracks in the stones.
+
+The area is illuminated.
+
+Obvious exits are: south, north
+
+go gate
+
+[Entry Fence]
+Along the eastern side of the cobblestone path sits an ornately designed fence, the tops covered in intricate swirls and spirals; in the middle of which is an expertly crafted sculpture showing two playful Fey. Beyond the fence grows weeds thick enough that if anything shorter than it were to enter, it would simply disappear. Just inside the wild yard one can see a small parting, showing that somewhere inside the dense growth sits a pathway to some sort of residence. The south side of the road displays a large gate with rusted hinges.
+
+The area is illuminated.
+
+Obvious exits are: north, gate, fence
+
+s
+
+[Ghost Town Entrance]
+The dirt road ends at an ornate iron gate. The gate swings slowly back and forth upon rusted hinges. Just beyond the gate is a cobblestone road. At one time both the gate and the cobblestone road led to a town that was inhabited and well kept, but that was long ago. The city beyond lies in ruins, the rusted hinges of the gate just a small sign of what is beyond.
+
+The area is illuminated.
+
+Obvious exits are: south, gate
+
+s
+
+[Dirt Road]
+The gate of what appears to a city stands rusting to the north accompanied by a tangle of rampant vines.
+
+The area is illuminated.
+
+Obvious exits are: south, north
+
+s
+
+[Dirt Road]
+Stakes in the ground flanking the east and west of the roadway sport the rotting bodies of disemboweled humanoids.  A strong odor resonates, and flies swarm violently about.
+
+The area is illuminated.
+
+Obvious exits are: south, north
+
+s
+
+[Dirt Road]
+To the north, the walls of a city rise high in the sky battered and beaten its remnants piled beside it in the form of dust and rubble. 
+
+The area is illuminated.
+
+Obvious exits are: south, north
+
+s
+
+[Dirt Road]
+Dying grass accompanies the road as it continues north and south.  Insects swarm about, zig-zagging back and forth .
+
+The area is illuminated.
+
+Obvious exits are: south, north
+
+s
+
+[Dirt Road]
+Large unfilled holes litter the road making for treacherous footing.  A large rotting tree on the western side of the road crawls with insects, dead animals rotting beside it swarm with flies.
+
+The area is illuminated.
+
+Obvious exits are: south, north
+
+s
+
+[Dirt Road]
+Uneven footing emphasizes the roads poor condition. Tangled weeds and rotting trees dot the landscape; a strange smell hovers in the air.
+
+The area is illuminated.
+
+Obvious exits are: south, north
+
+s
+
+[Dirt Road]
+Small un-manicured shrubs line the roadway east and west growing so out of control that they intertwine roughly. Some branches have grown wildly across the road connecting with their opposing side creating a canopy. a small narrow overgrown path branches off to the west.
+
+The area is illuminated.
+
+Obvious exits are: west, south, north
+
+se
+
+[Dirt Road]
+To the north, a large gate can be seen in the distance flanked by a large stone wall.  To the southeast a large stump sits beside the road. Large ruts in the word indicate that this road is traveled not only by foot but by wagon as well. A few potholes have formed on the eastern side of the path.
+
+The area is illuminated.
+
+Obvious exits are: southeast, north
+
+se
+
+[Dirt Road]
+As the wagon marks continue the road, though still travelable is littered with deep holes, some old some new filled with grey rocks.  A small pile of grey rocks sits on the eastern side of the road. 
+
+The area is illuminated.
+
+Obvious exits are: northwest, southeast
+
+s
+
+[Dirt Road]
+Some small weeds have taken purchase in the dirt on the eastern side of the road.  A few tall trees stand scattered about randomly; their long branches extending across the road.  A small curve in the path heads northwest around a very large stump.
+
+The area is illuminated.
+
+Obvious exits are: northwest, west, south
+
+s
+
+[Dirt Road]
+Small healthy trees stand a long side the road to the east and west.  The road grooved by what appears to be the wheels of wagons continues to the north and south. 
+
+The area is illuminated.
+
+Obvious exits are: south, north
+
+You exert an additional 1 mana maintaining the Holy Armor.
+
+The holy armor surrounding you flickers and then disappears.
+
+s
+
+[Dirt Road]
+The road continues north and south to the east a large forest outlines the horizon and extends out of site.  A small but functional wooden bench, roughly carved, sits on the western side of the road.
+
+The area is illuminated.
+
+Obvious exits are: south, north
+
+go gate
+
+[Dirt Road]
+The dirt road lined by small shrubs and wild flowers heads northward.  To the south, the northern gatehouse of Urda welcomes traders and patrons alike.
+
+The area is illuminated.
+
+Obvious exits are: north, gate
+
+s
+
+[Urda, Northern Gatehouse]
+Guards and soldiers stand near their guard tower, carefully scrutinizing entrants into the city. Carters, wagon trains, and small caravans speak to the guards before they are allowed to enter the city. Groups of people pass by the gatehouse quietly, anxious excitement in their eyes for the wares they will be able to buy and peddle.
+
+The area is illuminated.
+
+Obvious exits are: south, gate
+
+s
+
+[Northern Cross Road]
+The smooth stone walkway of the main road continues to the north, leading outside of the city of Urda. Pedestrians and wagons bustle by towards the south, venturing to the heart of the city and the thriving trading central of the Merchant Run.
+
+The area is illuminated.
+
+Obvious exits are: west, south, east, north
+
+s
+
+[Northern Cross Road]
+The road has cracked here in the main stretch, seemingly from the pressure of severe heat against severe cooling. Guards frown at the crack as they investigate the scene, noting a few spent runestones on the side of the road. Pedestrians walk by without a second thought.
+
+The area is illuminated.
+
+Obvious exits are: south, north
+
+s
+
+[Northern Cross Road]
+As the road continues to the north, closer to the outskirts of the city, a faint path can be seen to the west, leading into Thorntree Hill. Not much can be seen down the densely packed forested road, but travelers move off to the east to go to their homes.
+
+
+The area is illuminated.
+
+Obvious exits are: west, south, east, north
+
+s
+
+[Northern Cross Road]
+Two benches sit on the eastern side of the main road, poised before a stone table where a chessboard has been left. The players seem to have gone for the day, leaving behind an unfinished game. Travelers walk to the north with their parcels and purchases in hand, as others move swiftly to the south for unfinished business.
+
+The area is illuminated.
+
+Obvious exits are: south, north
+
+s
+
+[Northern Cross Road]
+The quiet pathway of North Lorimar Square opens to the west, as some denizens amble towards their homes or unfinished properties. A few carters bring shipments of stone, mortar, and wood to the landowners, transporting it all the way from the southern countryside. A few guards walk slowly along the main road, nodding politely to passersby.
+
+The area is illuminated.
+
+Obvious exits are: west, south, north
+
+s
+
+[Northern Cross Road]
+The quietness of the road in the north is almost astounding, compared to the bustle and boisterous activity in the south of the city. Still, occasional street vendors range up and down the Northern Cross Road, tempting pedestrians as they go on their way home.
+
+The area is illuminated.
+
+Obvious exits are: south, north
+
+s
+
+[Northern Cross Road]
+The reverberating song of chanting, hymnals, and prayer can be heard to the east where the great temples lie. A massive marble arch beckons parishioners from the main road to the places of worship beyond. To the west, South Lorimar Square offers some landowners a place of rest if their new homes are completed.
+
+The area is illuminated.
+
+In this room you see: 1st roving stray dog, 1st debonair nobleman
+Obvious exits are: west, south, east, north
+
+s
+
+[Northern Cross Road]
+The smooth cobblestones of the main road are marked with wagon ruts, worn into the stone over time of carting goods in and out of the city proper. The road is less congested to the north, as tired patrons amble home after a busy day of shopping in the south Merchant Run. Guards eyeball a few Goblins who scamper from the town square.
+
+The area is illuminated.
+
+In this room you see: 1st urdaian junior guard
+Obvious exits are: south, north
+
+s
+
+[Northern Cross Road]
+The bustle and activity of the city square echoes from the south, as well as the not-too-far-off noises of the Merchant Run. To the north, pedestrians amble on their way home up to the residential districts of the city. Town criers dash from place to place, as guards, soldiers, merchants, and inhabitants alike rush about on their business.
+
+The area is illuminated.
+
+Obvious exits are: south, north
+
+
+[Urda Town Square Center]
+The former site of a fierce battle for control of this great city was waged here, and on this site is where it's citizens celebrate that victory. Statues of the fallen heroes, and great leaders of the alliance adorn the tops of grand marble archways leading in all directions. They stand ever vigilant against any unseen enemy. The people of Urda flock here to barter and trade, to converse with friends, or just relax near the fountain and have a game of chess. Benches and tables dot the landscape near the edge of the fountain. Hawkers of all type roll through this area with their wares, hoping to make a few coins. Languages of all races are spoken here. The sheer din of the crowd reverberates throughout the area. Passersby stop to admire the detail of the arches as they enter and exit the city square.
+
+The area is illuminated.
+
+In this room are: eastern monument, southwestern monument, northwestern monument, southern monument, large wooden bulletin board, southeastern monument, northern monument, western monument, northeastern monument
+Obvious exits are: west, southwest, south, east, north
+
+diag all
+h
+You examine all the people in the room...
+
+
+
+HP:  142/142  Ftg:  46/48  MP:  75/75
+
+
+cur
+You curse.
+
+l at jer
+Many red opal scorpion carapaces have been sanded and fit together to make one piece of seamless armor.
+The sturdy, light jerkin of scorpion carapaces is practically in perfect condition.
+
+l at 2 jer
+It looks like a set of armor plated with white coral for extra protection.
+The coral plated lionskin jerkin has a couple of dings on it, but otherwise seems okay.
+
+mumb something beneath her breath
+You mumble something beneath her breath.
+
+l
+
+[Urda Town Square Center]
+The former site of a fierce battle for control of this great city was waged here, and on this site is where it's citizens celebrate that victory. Statues of the fallen heroes, and great leaders of the alliance adorn the tops of grand marble archways leading in all directions. They stand ever vigilant against any unseen enemy. The people of Urda flock here to barter and trade, to converse with friends, or just relax near the fountain and have a game of chess. Benches and tables dot the landscape near the edge of the fountain. Hawkers of all type roll through this area with their wares, hoping to make a few coins. Languages of all races are spoken here. The sheer din of the crowd reverberates throughout the area. Passersby stop to admire the detail of the arches as they enter and exit the city square.
+
+The area is illuminated.
+
+In this room are: eastern monument, southwestern monument, northwestern monument, southern monument, large wooden bulletin board, southeastern monument, northern monument, western monument, northeastern monument
+Obvious exits are: west, southwest, south, east, north
+
+who
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+    Currently Connected
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+Tyrias Valdain
+Baern Raell
+Ansley Maybeth
+Eridan Volant
+Lyranna Tolias
+Asher Leshrak
+Seren Prilos
+Aegys Redbow
+Fenrir Grimmfang
+Aethlyn Boreas
+Vandit Nights
+Rigel Betelgeuze
+Desmond Delavan
+Kurapiira Mako
+Dernum Stonebrow
+
+    [15 total]
+
+n
+n
+
+[Northern Cross Road]
+The bustle and activity of the city square echoes from the south, as well as the not-too-far-off noises of the Merchant Run. To the north, pedestrians amble on their way home up to the residential districts of the city. Town criers dash from place to place, as guards, soldiers, merchants, and inhabitants alike rush about on their business.
+
+The area is illuminated.
+
+Obvious exits are: south, north
+
+n
+
+[Northern Cross Road]
+The smooth cobblestones of the main road are marked with wagon ruts, worn into the stone over time of carting goods in and out of the city proper. The road is less congested to the north, as tired patrons amble home after a busy day of shopping in the south Merchant Run. Guards eyeball a few Goblins who scamper from the town square.
+
+The area is illuminated.
+
+In this room you see: 1st urdaian junior guard, 1st roving stray dog
+Obvious exits are: south, north
+
+n
+
+[Northern Cross Road]
+The reverberating song of chanting, hymnals, and prayer can be heard to the east where the great temples lie. A massive marble arch beckons parishioners from the main road to the places of worship beyond. To the west, South Lorimar Square offers some landowners a place of rest if their new homes are completed.
+
+The area is illuminated.
+
+Obvious exits are: west, south, east, north
+
+n
+
+[Northern Cross Road]
+The quietness of the road in the north is almost astounding, compared to the bustle and boisterous activity in the south of the city. Still, occasional street vendors range up and down the Northern Cross Road, tempting pedestrians as they go on their way home.
+
+The area is illuminated.
+
+Obvious exits are: south, north
+
+n
+
+[Northern Cross Road]
+The quiet pathway of North Lorimar Square opens to the west, as some denizens amble towards their homes or unfinished properties. A few carters bring shipments of stone, mortar, and wood to the landowners, transporting it all the way from the southern countryside. A few guards walk slowly along the main road, nodding politely to passersby.
+
+The area is illuminated.
+
+Obvious exits are: west, south, north
+
+n
+
+[Northern Cross Road]
+Two benches sit on the eastern side of the main road, poised before a stone table where a chessboard has been left. The players seem to have gone for the day, leaving behind an unfinished game. Travelers walk to the north with their parcels and purchases in hand, as others move swiftly to the south for unfinished business.
+
+The area is illuminated.
+
+Obvious exits are: south, north
+
+n
+
+[Northern Cross Road]
+As the road continues to the north, closer to the outskirts of the city, a faint path can be seen to the west, leading into Thorntree Hill. Not much can be seen down the densely packed forested road, but travelers move off to the east to go to their homes.
+
+
+The area is illuminated.
+
+Obvious exits are: west, south, east, north
+
+n
+
+[Northern Cross Road]
+The road has cracked here in the main stretch, seemingly from the pressure of severe heat against severe cooling. Guards frown at the crack as they investigate the scene, noting a few spent runestones on the side of the road. Pedestrians walk by without a second thought.
+
+The area is illuminated.
+
+Obvious exits are: south, north
+
+n
+
+[Northern Cross Road]
+The smooth stone walkway of the main road continues to the north, leading outside of the city of Urda. Pedestrians and wagons bustle by towards the south, venturing to the heart of the city and the thriving trading central of the Merchant Run.
+
+The area is illuminated.
+
+Obvious exits are: west, south, east, north
+
+go gate
+
+[Urda, Northern Gatehouse]
+Guards and soldiers stand near their guard tower, carefully scrutinizing entrants into the city. Carters, wagon trains, and small caravans speak to the guards before they are allowed to enter the city. Groups of people pass by the gatehouse quietly, anxious excitement in their eyes for the wares they will be able to buy and peddle.
+
+The area is illuminated.
+
+Obvious exits are: south, gate
+
+n
+
+[Dirt Road]
+The dirt road lined by small shrubs and wild flowers heads northward.  To the south, the northern gatehouse of Urda welcomes traders and patrons alike.
+
+The area is illuminated.
+
+Obvious exits are: north, gate
+
+n
+
+[Dirt Road]
+The road continues north and south to the east a large forest outlines the horizon and extends out of site.  A small but functional wooden bench, roughly carved, sits on the western side of the road.
+
+The area is illuminated.
+
+Obvious exits are: south, north
+
+n
+
+[Dirt Road]
+Small healthy trees stand a long side the road to the east and west.  The road grooved by what appears to be the wheels of wagons continues to the north and south. 
+
+The area is illuminated.
+
+Obvious exits are: south, north
+
+w
+
+[Dirt Road]
+Some small weeds have taken purchase in the dirt on the eastern side of the road.  A few tall trees stand scattered about randomly; their long branches extending across the road.  A small curve in the path heads northwest around a very large stump.
+
+The area is illuminated.
+
+Obvious exits are: northwest, west, south
+
+nw
+
+[Shady Tree Road]
+A long, winding path cuts away from the main road, the gravel giving way to rocky soil. In the far distance, the trail disappears beyond a thick line of trees.
+
+The area is illuminated.
+
+Obvious exits are: northwest, east
+
+w
+
+[Shady Tree Road]
+Fields of grass frame the pathway, wildflowers wave gently as a breeze blows by. A small mouse scuttles by, his long whiskers twitching.
+
+The area is illuminated.
+
+Obvious exits are: west, southeast
+
+n
+
+[Shady Tree Road]
+The sound of softly shifting water can be heard from somewhere nearby, but the source can't be seen. A brightly colored cardinal flaps by overhead, his crimson feathers dazzling against the blue sky.
+
+The area is illuminated.
+
+Obvious exits are: east, north
+
+n
+
+[Shady Tree Road]
+A few, scattered trees have sprung up around the trail, though still young, the trees have already been claimed by various songbirds. A large pair of wings overhead cast a shadow on the ground, at first it seems to be nothing more than a bird of prey, but closer inspection reveals it to be a Zacotl on her way to the nearby city.
+
+The area is illuminated.
+
+Obvious exits are: south, north
+
+n
+
+[Shady Tree Road]
+Much of the tall grass here has been flattened by the passage of some bulky creature. A single footprint in the midst of the crushed greenery suggests it was far larger than an ordinary bear.
+
+The area is illuminated.
+
+Obvious exits are: south, north
+
+w
+
+[Shady Tree Road]
+Rocks pepper the otherwise smooth surface of the dirt road. Faint wagon tracks cut through the loose soil, suggesting that traders have come this way before.
+
+The area is illuminated.
+
+Obvious exits are: west, south
+
+w
+
+[Shady Tree Road]
+The path arches up beside a towering tree, the roots pushing through the soil as if seeking to trip inattentive travelers. The skin of the thick root is scrapped and scared; obviously some have fallen for its trap.
+
+The area is illuminated.
+
+Obvious exits are: west, east
+
+w
+
+[Shady Tree Road]
+Hoof beats can be heard in the distance to the west, followed by the clanking of metal. It sounds as if a small group of knights are patrolling the small road.
+
+The area is illuminated.
+
+Obvious exits are: west, east
+
+w
+
+[Shady Tree Road]
+A group of knights clad in armor that once gleamed in the light, now dusty from the road, sit atop their powerful steeds, keeping a wary eye out for thieves and brigands. Their leader says something under his breath to the others, and they burst into laughter.
+
+The area is illuminated.
+
+Obvious exits are: west, east
+
+w
+
+[Shady Tree Road]
+The edge of the thick forest is close enough that the sound of songbirds and crickets can be heard. A large flock of brown feathered doves suddenly burst from the cover of the trees in a cloud of frantically flapping wings.
+
+The area is illuminated.
+
+Obvious exits are: west, east
+
+w
+
+[Shady Tree Road]
+Fields of wildflowers grow right up to the wall of trees, their bright petals vying for the attention of the bees and butterflies that flit from flower to flower.
+
+The area is illuminated.
+
+Obvious exits are: west, east
+
+w
+
+[Shady Tree Road]
+A tawny colored feral cat, her eyes the color of saffron, crouches low in the field, staring intently at her prey, an unsuspecting vole. With shocking speed, the small cat leaps forward, and snaps up the vole in her mouth, devouring her meal in seconds.
+
+The area is illuminated.
+
+Obvious exits are: west, east
+
+w
+
+[Shady Tree Road]
+A small bed of bright red flowers stand starkly out from the waves of pale pinks, purples, and yellows. Their delicate petals folded open, as if offering invitation to be smelled.
+
+The area is illuminated.
+
+Obvious exits are: west, east
+
+w
+
+[Shady Tree Road]
+The sweet scent of wild roses mingle with the cloying smell of honeysuckle into a wonderful perfume. A small hedgehog has buried himself amongst the nearby rosebushes, safely tucked behind the plant's thorny branches.
+
+The area is illuminated.
+
+Obvious exits are: west, east
+
+n
+
+[Shady Tree Road]
+A golden eagle, his feathers shimmering brilliantly in the light, swoops at the ground, his great wings tucked back, as he dives for his prey, a nearby unlucky squirrel who ventured too far from the safety of the trees.
+
+The area is illuminated.
+
+Obvious exits are: east, north
+
+n
+
+[Shady Tree Road]
+A short snake, his scales ringed in green, red, and white, sits on a small rock beside the path, sunning himself on the warm stone. He seems surprisingly unconcerned about predators, no doubt his bright coloring warns most off.
+
+The area is illuminated.
+
+Obvious exits are: south, north
+
+n
+
+[Shady Tree Road]
+Short trees have begun to sprout up more commonly closer to the forest, their gnarled branches reaching for the sunlight. Some have found themselves beset by deer, who venture out of the nearby woods searching for the tender leaves of the short trees.
+
+The area is illuminated.
+
+In this room you see: 1st hissing wolf spider
+Obvious exits are: south, north
+
+n
+A hissing wolf spider follows you into the room.
+
+
+[Shady Tree Road]
+The wide path begins to narrow as it heads into the forest to the west. In the distance to the southeast, a large group of wagons, no doubt part of a merchant caravan, are gathered outside the gates of Urda.
+
+The area is illuminated.
+
+In this room you see: 1st hissing wolf spider
+Obvious exits are: south, north
+
+n
+
+[Shady Tree Road]
+The sea of grasses and wildflowers suddenly breaks against the barrier of ancient trees, their height alone clue enough of the forest's age. The soft buzzing of a nearby beehive can be heard over the prolific twittering of songbirds within the forest.
+
+The area is illuminated.
+
+Obvious exits are: south, north
+
+n
+
+[Wooded Path]
+A small path breaks through a nearby stand of trees, leading deep into the woods. The trees loom far overhead, casting a dark shadow across the rocky terrain and the soft sounds of chirping insects and whistling birds can be heard coming from the shadowy forest.
+
+The area is illuminated.
+
+Obvious exits are: south, north
+
+n
+
+[Wooded Path]
+Faint hoof prints dot the soft soil of the forest path, suggesting that this was once a simple game trail. A small stand of clover has managed to survive in the dim light and a pair of young rabbits nibble at the patch of vegetation.
+
+The area is illuminated.
+
+Obvious exits are: south, north
+
+n
+
+[Wooded Path]
+Far overhead a large winged hawk cries aloud with a piercing shriek, his rusty feathers glinting like copper in the light, as he glides easily through the air. With a startling suddenness, he tilts his wings and veers out of sight as a flock of dark crows abruptly fill the sky.
+
+The area is illuminated.
+
+Obvious exits are: south, north
+
+nw
+
+[Wooded Path]
+A fallen log blocks most of the path, its rotting bark covered in lush green moss. Scrapes mar the otherwise smooth carpet of moss, suggesting that the most determined travelers who could walk around the log, found a way over it.
+
+The area is illuminated.
+
+Obvious exits are: northwest, south
+
+n
+
+[Wooded Path]
+Light streams through the thick foliage of the trees, and as the wind blows through the forest, flecks of light and shadow dance along the narrow path. A young doe, her coat still speckled with small white dots, creeps cautiously from the tree line, wary for predators.
+
+The area is illuminated.
+
+Obvious exits are: southeast, north
+
+n
+
+[Wooded Path]
+Vines hang freely from treetop branches, some growing so long that they brush the ground. A forgotten wool cap is tangled in one cluster of green vines, no doubt lost when an unwary traveler became entangled in the vegetation.
+
+The area is illuminated.
+
+Obvious exits are: south, north
+
+w
+
+[Wooded Path]
+The path begins to narrow, making further passage more difficult. Overhead the tree's branches form an arcing tunnel, blocking all but the most stubborn sunlight from finding its way to the forest floor.
+
+The area is illuminated.
+
+Obvious exits are: west, south
+
+w
+
+[Wooded Path]
+The whistles of small songbirds abruptly end as something large passes through the trees just out of sight. In an instant the rustling of the fast moving predator ceases soon followed by the calls of birds, each chirping with renewed vigor as if to make up for their momentary pause.
+
+The area is illuminated.
+
+Obvious exits are: west, east
+
+w
+
+[Wooded Path]
+Oak, beech, and maple trees tower far overhead, their great boughs reaching toward the bright sun, and casting dark shadows on the thick undergrowth. Short shrubs vie desperately for the few flecks of sunlight able to penetrate the thick canopy above.
+
+The area is illuminated.
+
+Obvious exits are: west, east
+
+w
+
+[Wooded Path]
+Bright green pine needles contrast sharply beside the fading foliage of nearby red maples. As a stiff breeze causes the branches to sway, the forest almost seems to be afire.
+
+The area is illuminated.
+
+Obvious exits are: west, east
+
+w
+
+[Wooded Path]
+A colossal tree has sprung up deep in the forest, its great boughs soaring far above those of its brothers and sisters. Trailing vines tumble down from its branches to sweep the lower treetops. The leaves of the great tree are unusual, like nothing else in the surrounding forest.
+
+The area is illuminated.
+
+Obvious exits are: west, east
+
+sw
+
+[Wooded Path]
+The path curves more sharply to the west, avoiding a large wall of sharp thistle shrubs. A small hole at the base of the thicket suggests that some of the smaller animals of the forest have made their home among the roots of the wickedly sharp plants. A small pond, fed from a creek ravine, offers solace from thirst for the the woodland creatures.
+
+The area is illuminated.
+
+Obvious exits are: southwest, east, small pond
+
+sw
+
+[Wooded Path]
+A pair of amber eyes gaze intently out from a row of concealing shrubbery. A low growl suddenly echoes in the forest, silencing the twittering birds and insects for just an instant.
+
+The area is illuminated.
+
+Obvious exits are: southwest, northeast
+
+sw
+
+[Wooded Path]
+A pair of dark furred badgers waddle across the path, their white stripes bright against the dark soil of the trail. Though small, they walk slowly, unafraid of any predators that might be lurking nearby.
+
+The area is illuminated.
+
+Obvious exits are: southwest, northeast
+
+sw
+
+[Wooded Path]
+A small bed of beautiful white flowers have sprung up in a patch of open sunlight. Their petals arch outward, their inner folds darkening into a golden radiance. A faint, sweet scent seems to emanate from their delicate blooms.
+
+The area is illuminated.
+
+Obvious exits are: southwest, northeast
+
+sw
+s
+s
+s
+s
+s
+sw
+w
+w
+w
+n
+ne
+nw
+w
+
+[Wooded Path]
+A small opossum sits in the crook of a short tree, her long claws digging deep into the bark. A small litter of 3 soft furred babies clutch at her back, their large, dark eyes glinting in the faint light of the forest.
+
+The area is illuminated.
+
+In this room you see: 1st butterfly
+Obvious exits are: southwest, northeast
+
+Queue full - skipping command
+
+Queue full - skipping command
+
+Queue full - skipping command
+
+Queue full - skipping command
+
+Queue full - skipping command
+
+Queue full - skipping command
+
+Queue full - skipping command
+
+Queue full - skipping command
+
+Queue full - skipping command
+
+
+[Wooded Path]
+A red fox squirrel darts by, his furry tail arced behind him as he rushes across the trail and leaps for a nearby tree. He expertly climbs the rough bark of the tree, disappearing into the thick foliage.
+
+The area is illuminated.
+
+Obvious exits are: south, northeast
+
+
+[Wooded Path]
+The sound of something large rustling amongst the flora comes from the far side of the trail. After just a moment, a large brown bear reveals herself, her coat snarled and dirty. A small cub trails at her side, his small face gazing about the world with intense curiosity.
+
+The area is illuminated.
+
+Obvious exits are: south, north
+
+
+[Wooded Path]
+Flecks of golden sunlight stream through the shifting foliage of the soaring trees, casting radiant green-tinged lights across the path. The shimmering illumination dances almost joyfully as a strong breeze blows through the treetops.
+
+The area is illuminated.
+
+Obvious exits are: south, north
+
+
+[Wooded Path]
+Soft hissing can be heard coming from a tree limb arching overhead. A long, narrow snake has twined himself around the branch, his dark scales blending into the bark almost perfectly.
+
+The area is illuminated.
+
+Obvious exits are: south, north
+
+
+[Wooded Path]
+A delicate leaved fern has found a home at the base of a mighty oak tree, its large fronds providing a secluded home for a lizard. The scaled creature's small head pokes out from beneath the leaves, wary of being made into lunch for some lucky bird.
+
+The area is illuminated.
+
+Obvious exits are: south, north
+
+time

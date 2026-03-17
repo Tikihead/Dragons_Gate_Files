@@ -1,0 +1,2853 @@
+time
+It is currently 07:29 PM.
+
+l
+
+[Sanctuary of Eyridane and Morana]
+The small path ends as the trees part, revealing a small clearing. Sunlight filters down from above, splashing the vibrant green grass and wildflowers. The noise of the central part of the grove all but fades away in this quiet sanctuary. An altar of stone rests in the center of the small clearing of verdant grass. Tangled vines have grown wild across the hard stone and though no markings can be seen, it is obvious that this is a place sacred to the twin goddesses of nature. Overhead the soft warbling of songbirds blends with the chirping crickets below into a sublime symphony of sounds. Small trinkets of adoration and worship have been left at the base of the altar, each one a symbol of devotion to their beloved gods.
+
+The area is illuminated.
+
+In this room you see: Kyra the Silvarin (sitting down),  Harru the Galirrim,  Soreth the Galirrim,  Tyrias the Silvarin,  Bjeorn the Galirrim (sitting down)
+In this room are: simple stone altar
+Obvious exits are: west, an arch of twisting branches
+
+
+Soreth says, "I would ask that all speech be done in common, here"
+
+
+Soreth says, "We have no secrets from each other."
+
+nod softly
+You nod softly.
+
+Kyra glances at Soreth.
+
+l at k
+
+You see Kyra the adolescent Silvarin.
+She is 5' 1" tall with a lithe build, braided, white hair, dark green eyes, and lightly tanned skin.
+She bears the mark of Eyranas.
+She is currently in a neutral mood.
+
+A marking of a green wolf's head surrounded by sparrow wings is tattooed on her right shoulder
+
+Description:
+This young Monk seems to be fresh from the forest wilds. Wearing simple monk garments she tries to exude an air of calmness but it is obvious she is full of emotion.
+
+
+She is carrying:
+ -a set of emerald leaf-wreathed mahogany panpipes          (both hands)
+ -a damaged iron clad leather cuirass                       (torso)
+ -a green cotton tunic                                      (torso)
+ -a pair of green cotton pants                              (legs)
+ -a pair of tanned moccasins                                (feet)
+ -an open recruit backpack                                   (on back)
+ -a some wolf-carved grayish petrified wood prayer beads    (around waist)
+
+
+
+
+Soreth says to Tyrias, "If you've been attacked, we will deal with that."
+
+
+Bjeorn asks in Revolle, "pzzzzyn rzzzzh?"
+
+Bjeorn smirks.
+
+Tyrias glances at Soreth.
+
+
+Tyrias says, "I certainly hope so."
+
+
+Kyra says, "I am sorry, but I felt it best to speak peaceably with my Brother here."
+
+Kyra stands up.
+
+l at ha
+
+You see Harru the adolescent Galirrim.
+He is 9' 3" tall with a muscular build, white fur, orangish red eyes, and gray skin.
+He bears the mark of Eyranas.
+He is currently in a neutral mood.
+
+
+He is carrying:
+ -a wooden bo staff                  (both hands)
+ -a pair of tattered cotton pants    (legs)
+
+
+
+Soreth nods.
+
+l at so
+
+You see Soreth the adult Galirrim.
+He is 9' 4" tall with a muscular build, white fur, hazel eyes, and gray skin.
+He bears the mark of Eyranas.
+He is currently in a neutral mood.
+
+Description:
+Coated in silvery-white fur, this Galirrim adorns himself with holy symbols of the Eyranas. His eyes flash with intensity and intelligence.
+
+
+He is carrying:
+ -a long pointed wooden spear        (both hands)
+ -a simple cotton shirt              (torso)
+ -a pair of tattered cotton pants    (legs)
+
+
+
+
+Soreth says, "All right. It is now time to begin."
+
+l at b
+
+You see Bjeorn the adolescent Galirrim.
+He is 10' 6" tall with a muscular build, white fur, hazel eyes, and tan skin.
+He bears the mark of Eyranas.
+He is currently in a chagrined mood.
+
+Description:
+A towering lupine youth. His wolven head is pushed forward in full sensory mode, while rows of canines glisten wetly within his open maw. His fur fades to gray down his back and along his tail.
+
+
+He is carrying:
+ -a silvery nickel chain                  (around neck)
+ -a crown of stag horns                   (head)
+ -a tight red leather warrior's briefs    (legs)
+ -a wide black leather baldric            (on back)
+ -a leather bandolier                     (on belt)
+
+
+
+Kyra frowns slightly as she places her panpipes in a carrier before placing them in her backpack.
+
+Bjeorn bats his eyes at you.
+
+A blue jay just entered from the west.
+
+grin 
+You grin.
+
+l at t
+
+You see Tyrias the young Silvarin.
+He is 5' 6" tall with a well toned build, braided, golden hair, deep blue eyes, and tanned skin.
+He bears the mark of Eyranas.
+He is currently in a neutral mood.
+
+
+He is carrying:
+ -a sharp nickel skinning knife       (right hand)
+ -a chipped quartz parrying dagger    (left hand)
+ -a heavy suit of iron armor          (torso)
+ -a simple cotton shirt               (torso)
+ -a pair of tattered cotton pants     (legs)
+
+
+
+Kyra removes her set of emerald leaf-wreathed mahogany panpipes.
+
+l at ku
+
+You see Kurapiira the elderly Fae.
+She is 1' 10" tall with a lithe build, dreadlocked, white hair, deep blue eyes, and black skin.
+She bears the mark of Eyranas.
+She is currently in a wary mood.
+
+A sleeve of multi-colored dragons twists down her left arm from shoulder to wrist.
+
+Description:
+She seems kind of sleepy
+
+
+She is carrying:
+ -a charred tin dagger                                                (right hand)
+ -an etched silver targe                                               (left hand)
+ -a sturdy, light jerkin of scorpion carapaces                        (torso)
+ -an elegantly laced black cotton bustier                              (torso)
+ -a pair of sleek black cotton leggings                               (legs)
+ -a golden brass belly chain                                          (around waist)
+ -a luminous amethyst and moonsilver crescent-shaped hoop earrings    (on ears)
+ -a jade and yellow gold sun nose stud                                (on nose)
+ -a smooth silver lip ring                                            (on face)
+
+
+
+Kyra puts her set of emerald leaf-wreathed mahogany panpipes in her open recruit backpack.
+
+l
+
+[Sanctuary of Eyridane and Morana]
+The small path ends as the trees part, revealing a small clearing. Sunlight filters down from above, splashing the vibrant green grass and wildflowers. The noise of the central part of the grove all but fades away in this quiet sanctuary. An altar of stone rests in the center of the small clearing of verdant grass. Tangled vines have grown wild across the hard stone and though no markings can be seen, it is obvious that this is a place sacred to the twin goddesses of nature. Overhead the soft warbling of songbirds blends with the chirping crickets below into a sublime symphony of sounds. Small trinkets of adoration and worship have been left at the base of the altar, each one a symbol of devotion to their beloved gods.
+
+The area is illuminated.
+
+In this room you see: Kyra the Silvarin,  Harru the Galirrim,  Soreth the Galirrim,  Tyrias the Silvarin,  Bjeorn the Galirrim (sitting down), 1st blue jay
+In this room are: simple stone altar
+Obvious exits are: west, an arch of twisting branches
+
+The blue jay lands on a nearby branch, his feathers puffing up as he tilts his head to the side and studies his surroundings intently.
+
+who
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+    Currently Connected
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+Kyra Lunaris
+Jyxax Vermiculor
+Daelor Kethmar
+Liseti Maradar
+Reis Antilles
+Soreth Greymoon
+Asher Leshrak
+Eridan Volant
+Maltrinus Milforge
+Bjeorn Bayouwolf
+Tyrias Valdain
+Kurapiira Mako
+Harru Shadowstalker
+Jerosii Nirahn
+Kassi Boyd
+Laro Blinthe
+Gast Ironmaw
+Seren Prilos
+Maibe Bahiti
+Desmond Delavan
+Goro Dreadmouth
+Cansa Sortas
+
+    [22 total]
+
+
+Soreth says, "Welcome, all of you. I am Soreth Greymoon, the White Wolf, Knight of the Forest"
+
+ ** Raabilis Moonreaver just arrived in the world
+
+ ** Jerosii Nirahn just left the world.
+
+
+Soreth says, "I know my brothers, and I've met Kurapiira"
+
+l
+
+[Sanctuary of Eyridane and Morana]
+The small path ends as the trees part, revealing a small clearing. Sunlight filters down from above, splashing the vibrant green grass and wildflowers. The noise of the central part of the grove all but fades away in this quiet sanctuary. An altar of stone rests in the center of the small clearing of verdant grass. Tangled vines have grown wild across the hard stone and though no markings can be seen, it is obvious that this is a place sacred to the twin goddesses of nature. Overhead the soft warbling of songbirds blends with the chirping crickets below into a sublime symphony of sounds. Small trinkets of adoration and worship have been left at the base of the altar, each one a symbol of devotion to their beloved gods.
+
+The area is illuminated.
+
+In this room you see: Kyra the Silvarin,  Harru the Galirrim,  Soreth the Galirrim,  Tyrias the Silvarin,  Bjeorn the Galirrim (sitting down), 1st blue jay
+In this room are: simple stone altar
+Obvious exits are: west, an arch of twisting branches
+
+
+Soreth says, "But I've not met either of the two silvarin"
+
+
+Bjeorn exclaims to the blue jay, "shhhh!"
+
+nod softly
+You nod softly.
+
+
+Soreth asks, "Could you introduce yourselves?"
+
+Tyrias nods.
+
+The blue jay lands on a nearby branch, his feathers puffing up as he tilts his head to the side and studies his surroundings intently.
+
+
+Tyrias says, "You may call me Tyrias, as I said I am a Knight of the Eyranas"
+
+ ** Reis Antilles just left the world.
+
+Kyra bows deeply to those present, her right fist pressed to her left palm. "I am Kyra, a Monk of the Honored Eyranas.".
+
+The blue jay lands on a nearby branch, his feathers puffing up as he tilts his head to the side and studies his surroundings intently.
+
+The 1st blue jay just wandered west.
+
+Soreth nods.
+
+
+Soreth says, "Welcome."
+
+Raabilis just entered from the west.
+
+
+Soreth says, "We have all gathered because I have called you here, but the reason goes beyond that"
+
+Bjeorn howls at Raabilis.
+
+Kyra smiles and bows to Raabilis.
+
+ ll r
+Unknown command "ll"
+
+Raabilis howls softly.
+
+l at r
+
+You see Raabilis the adolescent Galirrim.
+She is 10' 5" tall with a gaunt build, chestnut brown fur, amber eyes, and gray skin.
+She bears the mark of Eyranas.
+She is currently in a neutral mood.
+
+A vicious red scar snakes from the tip of her half-missing left ear and skims above the left brow, across the bridge of her muzzle and through the right eye, blinding it and leaving it a milky hue.
+
+Description:
+She looks abnormally skinny and lanky for a Galirrim, her bony limbs and ribs nearly visible through her fur as she moves. Slightly off-colored streaks of fur now cover old scars on her body.
+
+
+She is carrying:
+ -a stack of wooden throwing darts                   (both hands)
+ -a tiny sparrow skull on a cord of knotted sinew    (around neck)
+ -a plush twin-tailed white wolf fur cloak           (cloak)
+
+
+
+
+Soreth says, "Surely you all have seen it"
+
+
+Bjeorn asks, "lack of food?"
+
+Raabilis is looking at you.
+
+
+Soreth says, "There is strength in unity, and right now the following of the Great and Holy Eyranas is not unified"
+
+l
+
+[Sanctuary of Eyridane and Morana]
+The small path ends as the trees part, revealing a small clearing. Sunlight filters down from above, splashing the vibrant green grass and wildflowers. The noise of the central part of the grove all but fades away in this quiet sanctuary. An altar of stone rests in the center of the small clearing of verdant grass. Tangled vines have grown wild across the hard stone and though no markings can be seen, it is obvious that this is a place sacred to the twin goddesses of nature. Overhead the soft warbling of songbirds blends with the chirping crickets below into a sublime symphony of sounds. Small trinkets of adoration and worship have been left at the base of the altar, each one a symbol of devotion to their beloved gods.
+
+The area is illuminated.
+
+In this room you see: Kyra the Silvarin,  Harru the Galirrim,  Soreth the Galirrim,  Tyrias the Silvarin,  Bjeorn the Galirrim (sitting down),  Raabilis the Galirrim
+In this room are: simple stone altar
+Obvious exits are: west, an arch of twisting branches
+
+
+Soreth says, "Whereas there are others who do enjoy such unity, and prey upon the rest"
+
+
+Soreth says, "We cannot afford to remain scattered, disorganized"
+
+A blue jay just entered from the west.
+
+
+Soreth says, "Our role as guardians of the Great Balance means that we do not often gather in any one place"
+
+
+Soreth says, "But we must not be strangers to each other either"
+
+Raabilis gazes at Soreth quietly, her good ear ocillating from side to side.
+
+The blue jay lands on a nearby branch, his feathers puffing up as he tilts his head to the side and studies his surroundings intently.
+
+
+Soreth says, "The Galirrim stand together, as we always have, but I confess I am unfamiliar with most of the rest of the Faithful"
+
+Daelor's thoughts enter your mind: 'Desmond wishes your audience in Urda Town Square, Fae.'
+
+smi to so
+You smile to Soreth.
+
+
+Soreth says, "I have called us here that we may meet and understand one another better"
+
+The blue jay lands on a nearby branch, his feathers puffing up as he tilts his head to the side and studies his surroundings intently.
+
+Bjeorn leans on you and whispers loudly, "Can I eat the bird?".
+
+gla at b
+You glance at Bjeorn.
+
+Bjeorn mutters.
+
+Raabilis glances to Bjeorn through her good eye.
+
+The 1st blue jay just wandered west.
+
+l
+
+[Sanctuary of Eyridane and Morana]
+The small path ends as the trees part, revealing a small clearing. Sunlight filters down from above, splashing the vibrant green grass and wildflowers. The noise of the central part of the grove all but fades away in this quiet sanctuary. An altar of stone rests in the center of the small clearing of verdant grass. Tangled vines have grown wild across the hard stone and though no markings can be seen, it is obvious that this is a place sacred to the twin goddesses of nature. Overhead the soft warbling of songbirds blends with the chirping crickets below into a sublime symphony of sounds. Small trinkets of adoration and worship have been left at the base of the altar, each one a symbol of devotion to their beloved gods.
+
+The area is illuminated.
+
+In this room you see: Kyra the Silvarin,  Harru the Galirrim,  Soreth the Galirrim,  Tyrias the Silvarin,  Bjeorn the Galirrim (sitting down),  Raabilis the Galirrim
+In this room are: simple stone altar
+Obvious exits are: west, an arch of twisting branches
+
+
+Soreth says, "I have said that I am willing to take the mantle of leadership, but I will not command you against your wills"
+
+
+Soreth says, "All that I do, I do in Their name"
+
+
+Soreth says, "The Galirrim were created to preserve the duality, and to attend to the wishes of the Great and Holy ones"
+
+
+Soreth says, "I have no interest beyond that."
+
+
+Harru says, "I suggest we all introduce ourselves"
+
+Soreth nods.
+
+nod softly
+You nod softly.
+
+
+Soreth says, "As I said, we are here to get to know each other better"
+
+A blue jay just entered from the west.
+
+
+Soreth says, "I would like to hear from each of you"
+
+nod to so
+You nod to Soreth.
+
+
+Tyrias says, "Yes, I would like to know my name of the one who nearly killed me."
+
+Tyrias stares at Harru.
+
+Raabilis blinks.
+
+Kyra exhales as she quietly speaks. "I do not like...how you made only the Silvarin introduce ourselves, truthfully, what if we did not know the others...".
+
+stand
+You stand up.
+
+say forgive me
+You say, "forgive me"
+
+bow
+You bow.
+
+
+Harru says to Tyrias, "this is not the time or the place for this"
+
+
+Kyra says, "As if we are not equal followers of the Great ones..."
+
+The blue jay lands on a nearby branch, his feathers puffing up as he tilts his head to the side and studies his surroundings intently.
+
+
+Soreth says to Kyra, "I asked you to introduce yourselves to /me/. We were all going to introduce ourselves eventually"
+
+Raabilis furrows her brow.
+
+
+Soreth says to Kyra, "Had Kurapiira been unknown to me, I would have asked her as well"
+
+nod softly
+You nod softly.
+
+
+Soreth says to Kyra, "I asked because I'd not met either of you, it had nothing to do with your races"
+
+say may I
+You say, "may I"
+
+rai at so
+You raise an eyebrow at Soreth.
+
+ ** Desmond Delavan just left the world unexpectedly.
+
+Soreth nods.
+
+smi
+You smile.
+
+
+Soreth says, "Go ahead"
+
+ ** Desmond Delavan just arrived in the world
+
+I am Kurapiira Mako, Cleric and temporary scribe of the Temple, and the Merchant council, and owner of the Evening Star..
+
+You are currently holding:
+
+ ====== Containers ======
+  -open recruit backpack x3 (21.56 total lbs)
+
+ ====== Weapons ======
+  -splintered wooden club (1.67 lbs)
+  -charred tin dagger (0.33 lbs)
+
+ ====== Other ======
+  -jade and yellow gold sun nose stud (0.0 lbs)
+  -luminous amethyst and moonsilver crescent-shaped hoop earrings (0.0 lbs)
+  -golden brass belly chain x2 (0.1 total lbs)
+  -etched silver targe (1.67 lbs)
+  -simple wooden buckler (0.17 lbs)
+  -smooth silver lip ring (0.01 lbs)
+  -damaged simple tin lockpick (0.03 lbs)
+
+ ====== Lights ======
+  -jar of lightning bugs (0.05 lbs)
+
+ ====== Clothing ======
+  -elegantly laced black cotton bustier (0.03 lbs)
+  -pair of sleek black cotton leggings (0.03 lbs)
+
+ ====== Armors ======
+  -sturdy, light jerkin of scorpion carapaces (3.33 lbs)
+
+ (28.98 / 104 lbs being carried)
+
+ You currently have 57 marks and 1 crowns.
+
+say I am Kurapiira Mako, Cleric and temporary scribe of the Temple, and the Merchant council, and owner of the Evening Star..
+You say, "I am Kurapiira Mako, Cleric and temporary scribe of the Temple, and the Merchant council, and owner of the Evening Star.."
+
+curt
+You curtsey.
+
+say well met all
+You say, "well met all"
+
+smi
+You smile.
+
+sit
+You sit down.
+
+Raabilis nods at you lightly.
+
+nod to r
+You nod to Raabilis.
+
+The blue jay lands on a nearby branch, his feathers puffing up as he tilts his head to the side and studies his surroundings intently.
+
+The 1st blue jay just wandered west.
+
+Soreth smiles at you.
+
+
+Soreth says to Harru, "Bjeorn, Raabilis, something from each of you"
+
+smi to so
+You smile to Soreth.
+
+ ** Sorian Kabal just arrived in the world
+
+Soreth coughs.
+
+
+Harru says, "I am Harru Shadowstalker"
+
+ ** Jerosii Nirahn just arrived in the world
+
+Harru nods to Bjeorn.
+
+Bjeorn nods to Harru.
+
+l
+
+[Sanctuary of Eyridane and Morana]
+The small path ends as the trees part, revealing a small clearing. Sunlight filters down from above, splashing the vibrant green grass and wildflowers. The noise of the central part of the grove all but fades away in this quiet sanctuary. An altar of stone rests in the center of the small clearing of verdant grass. Tangled vines have grown wild across the hard stone and though no markings can be seen, it is obvious that this is a place sacred to the twin goddesses of nature. Overhead the soft warbling of songbirds blends with the chirping crickets below into a sublime symphony of sounds. Small trinkets of adoration and worship have been left at the base of the altar, each one a symbol of devotion to their beloved gods.
+
+The area is illuminated.
+
+In this room you see: Kyra the Silvarin,  Harru the Galirrim,  Soreth the Galirrim,  Tyrias the Silvarin,  Bjeorn the Galirrim (sitting down),  Raabilis the Galirrim
+In this room are: simple stone altar
+Obvious exits are: west, an arch of twisting branches
+
+Bjeorn grins toothily.
+
+Raabilis tilts her head to one side as she gazes silently toward Bjeorn.
+
+
+Bjeorn exclaims, "oh I'm next!"
+
+smi to b
+You smile to Bjeorn.
+
+Harru grins.
+
+
+Harru says, "he leads with his head in combat"
+
+Raabilis grimaces in a wolfish grin.
+
+
+Bjeorn says, "I am Bjeorn, I was left to die in the stonelands, a witch saved me and brought me here, and I serve the temple"
+
+smi
+You smile.
+
+Bjeorn kicks Harru.
+
+list to r
+You listen intently to Raabilis.
+
+Raabilis grunts softly.
+
+
+Raabilis says, "I am Raabilis of the Hunters Moonreaver, a tribe of the pine mountains of Ei'tal. Some of you may know me as OneEyed, but you may all know me as Sister in duty to our faith."
+
+ ** Wood Fisher just arrived in the world
+
+smi to r
+You smile to Raabilis.
+
+Desmond just entered from the west.
+
+Raabilis glances.
+
+Bjeorn growls.
+
+gla
+You glance.
+
+Desmond nods to you.
+
+nod
+You nod.
+
+
+Bjeorn says to Desmond, "leave"
+
+say in a while
+You say, "in a while"
+
+Raabilis snarls.
+
+Desmond just went west.
+
+Bjeorn grits his teeth.
+
+
+Soreth asks, "Who was that?"
+
+say forgive that
+You say, "forgive that"
+
+blu
+You blush.
+
+Tyrias glances at Bjeorn.
+
+Raabilis squints at you.
+
+
+Bjeorn says, "a joharan thief"
+
+say i have business with that one 
+You say, "i have business with that one"
+
+Raabilis furrows her brow.
+
+ ** Kyris Verloren just arrived in the world
+
+bow her head
+You bow her head.
+
+
+Bjeorn says to Kurapiira, "it's not your fault he slithers in here"
+
+Harru whispers to you, "so you switched sides"
+
+nod softly
+You nod softly.
+
+wh to h heh
+You whisper "heh" to Harru.
+
+Raabilis snorts gruffly, her massive shoulders rolling back as the fur settles along her spine.
+
+l
+
+[Sanctuary of Eyridane and Morana]
+The small path ends as the trees part, revealing a small clearing. Sunlight filters down from above, splashing the vibrant green grass and wildflowers. The noise of the central part of the grove all but fades away in this quiet sanctuary. An altar of stone rests in the center of the small clearing of verdant grass. Tangled vines have grown wild across the hard stone and though no markings can be seen, it is obvious that this is a place sacred to the twin goddesses of nature. Overhead the soft warbling of songbirds blends with the chirping crickets below into a sublime symphony of sounds. Small trinkets of adoration and worship have been left at the base of the altar, each one a symbol of devotion to their beloved gods.
+
+The area is illuminated.
+
+In this room you see: Kyra the Silvarin,  Harru the Galirrim,  Soreth the Galirrim,  Tyrias the Silvarin,  Bjeorn the Galirrim (sitting down),  Raabilis the Galirrim
+In this room are: simple stone altar
+Obvious exits are: west, an arch of twisting branches
+
+Soreth mutters.
+
+
+Soreth says, "All right"
+
+Harru searches the room carefully.
+
+inv
+
+You are currently holding:
+
+ ====== Containers ======
+  -open recruit backpack x3 (21.56 total lbs)
+
+ ====== Weapons ======
+  -splintered wooden club (1.67 lbs)
+  -charred tin dagger (0.33 lbs)
+
+ ====== Other ======
+  -jade and yellow gold sun nose stud (0.0 lbs)
+  -luminous amethyst and moonsilver crescent-shaped hoop earrings (0.0 lbs)
+  -golden brass belly chain x2 (0.1 total lbs)
+  -etched silver targe (1.67 lbs)
+  -simple wooden buckler (0.17 lbs)
+  -smooth silver lip ring (0.01 lbs)
+  -damaged simple tin lockpick (0.03 lbs)
+
+ ====== Lights ======
+  -jar of lightning bugs (0.05 lbs)
+
+ ====== Clothing ======
+  -elegantly laced black cotton bustier (0.03 lbs)
+  -pair of sleek black cotton leggings (0.03 lbs)
+
+ ====== Armors ======
+  -sturdy, light jerkin of scorpion carapaces (3.33 lbs)
+
+ (28.98 / 104 lbs being carried)
+
+ You currently have 57 marks and 1 crowns.
+
+
+Bjeorn says, "and he heals those joharans who atempt to steal from our young"
+
+
+Raabilis says to Tyrias, "I have not heard your name, Redeemed."
+
+Raabilis stares at Tyrias through her good eye.
+
+Tyrias glances at Raabilis.
+
+
+Tyrias says to Raabilis, "I keep to myself."
+
+
+Raabilis says to Tyrias, "Be that as it may, you are here with us now."
+
+Raabilis sniffs at Tyrias.
+
+A blue jay just entered from the west.
+
+'r, they spoke earlier..when the meeting began
+You say to Raabilis, "they spoke earlier..when the meeting began"
+
+smi to r
+You smile to Raabilis.
+
+Tyrias furrows his brow and takes a step back from Raabilis.
+
+
+Raabilis says to Kurapiira, "And yet I was not here."
+
+say why were you late?
+You ask, "why were you late?"
+
+smi to r
+You smile to Raabilis.
+
+
+Raabilis asks Kurapiira, "Is it a challenge for the Redeemed to give me his name?"
+
+chu softly , stretching a strong tattoo'd arm to the sky...
+You chuckle softly , stretching a strong tattoo'd arm to the sky....
+
+say as you will
+You say, "as you will"
+
+
+Bjeorn says to Raabilis, "you were fashionably late oh beautiful sister kin"
+
+
+Tyrias says to Raabilis, "If you are asking for my name, then just do so... It is Tyrias"
+
+gest to t
+You gesture to Tyrias.
+
+Bjeorn winks.
+
+The blue jay lands on a nearby branch, his feathers puffing up as he tilts his head to the side and studies his surroundings intently.
+
+
+Raabilis asks Tyrias, "That was not so hard, now was it?"
+
+Raabilis grimaces in a wolfish grin.
+
+l
+
+[Sanctuary of Eyridane and Morana]
+The small path ends as the trees part, revealing a small clearing. Sunlight filters down from above, splashing the vibrant green grass and wildflowers. The noise of the central part of the grove all but fades away in this quiet sanctuary. An altar of stone rests in the center of the small clearing of verdant grass. Tangled vines have grown wild across the hard stone and though no markings can be seen, it is obvious that this is a place sacred to the twin goddesses of nature. Overhead the soft warbling of songbirds blends with the chirping crickets below into a sublime symphony of sounds. Small trinkets of adoration and worship have been left at the base of the altar, each one a symbol of devotion to their beloved gods.
+
+The area is illuminated.
+
+In this room you see: Kyra the Silvarin,  Harru the Galirrim,  Soreth the Galirrim,  Tyrias the Silvarin,  Bjeorn the Galirrim (sitting down),  Raabilis the Galirrim, 1st blue jay
+In this room are: simple stone altar
+Obvious exits are: west, an arch of twisting branches
+
+
+Raabilis says to Bjeorn in Ululari, "M zxwzze e ztzz ezytezdw."
+
+Bjeorn nods.
+
+gla at so
+You glance at Soreth.
+
+
+Soreth says to Raabilis, "Could we keep this in common? I've asked for the benefit of all"
+
+The blue jay lands on a nearby branch, his feathers puffing up as he tilts his head to the side and studies his surroundings intently.
+
+The 1st blue jay just wandered west.
+
+l
+
+[Sanctuary of Eyridane and Morana]
+The small path ends as the trees part, revealing a small clearing. Sunlight filters down from above, splashing the vibrant green grass and wildflowers. The noise of the central part of the grove all but fades away in this quiet sanctuary. An altar of stone rests in the center of the small clearing of verdant grass. Tangled vines have grown wild across the hard stone and though no markings can be seen, it is obvious that this is a place sacred to the twin goddesses of nature. Overhead the soft warbling of songbirds blends with the chirping crickets below into a sublime symphony of sounds. Small trinkets of adoration and worship have been left at the base of the altar, each one a symbol of devotion to their beloved gods.
+
+The area is illuminated.
+
+In this room you see: Kyra the Silvarin,  Harru the Galirrim,  Soreth the Galirrim,  Tyrias the Silvarin,  Bjeorn the Galirrim (sitting down),  Raabilis the Galirrim
+In this room are: simple stone altar
+Obvious exits are: west, an arch of twisting branches
+
+ ** Maibe Bahiti just left the world unexpectedly.
+
+l w
+You look west...
+
+
+[Pathway Through the Trees]
+A small gap through the tangled trees allows passage to the quiet haven of the Druids and the Twins' other worshipers. The path is narrow and vines hang low, entangling all but the most wary, or welcome visitors.
+
+The area is illuminated.
+
+In this room you see: 1st blue jay
+Obvious exits are: west, east
+
+
+Raabilis says to Soreth, "Surely those comments made to my kin on a personal matter may be left as such."
+
+ ** Maibe Bahiti just arrived in the world
+
+say you may whisper all you wish
+You say, "you may whisper all you wish"
+
+smi to r
+You smile to Raabilis.
+
+
+Raabilis says to Soreth, "Unless the entire congregation must know that I had to walk a long distance to be here"
+
+
+Soreth says, "I suppose"
+
+Soreth nods.
+
+
+Bjeorn says to Kyra, "she was commenting on my rugged good looks"
+
+Bjeorn gloats to Raabilis.
+
+tac
+You are currently standing 4 units behind center.
+
+Standing in your rank:
+Harru, Soreth, Tyrias, Kurapiira, Bjeorn, Raabilis
+Standing 1 units behind you:
+Kyra
+
+
+Raabilis snorts at Bjeorn.
+
+Kyra chuckles softly.
+
+Bjeorn chortles throatily.
+
+l
+
+[Sanctuary of Eyridane and Morana]
+The small path ends as the trees part, revealing a small clearing. Sunlight filters down from above, splashing the vibrant green grass and wildflowers. The noise of the central part of the grove all but fades away in this quiet sanctuary. An altar of stone rests in the center of the small clearing of verdant grass. Tangled vines have grown wild across the hard stone and though no markings can be seen, it is obvious that this is a place sacred to the twin goddesses of nature. Overhead the soft warbling of songbirds blends with the chirping crickets below into a sublime symphony of sounds. Small trinkets of adoration and worship have been left at the base of the altar, each one a symbol of devotion to their beloved gods.
+
+The area is illuminated.
+
+In this room you see: Kyra the Silvarin,  Harru the Galirrim,  Soreth the Galirrim,  Tyrias the Silvarin,  Bjeorn the Galirrim (sitting down),  Raabilis the Galirrim
+In this room are: simple stone altar
+Obvious exits are: west, an arch of twisting branches
+
+'s, please continue 
+You say to Soreth, "please continue"
+
+smi to so
+You smile to Soreth.
+
+A blue jay just entered from the west.
+
+The blue jay lands on a nearby branch, his feathers puffing up as he tilts his head to the side and studies his surroundings intently.
+
+Soreth ponders a moment.
+
+
+Soreth says, "All of you are entitled to know anything you wish to know about me"
+
+nod to so
+You nod to Soreth.
+
+
+Soreth says, "I have put my name forth for leader, I will answer any questions any of you may have"
+
+The blue jay lands on a nearby branch, his feathers puffing up as he tilts his head to the side and studies his surroundings intently.
+
+raiseh to s
+You raise a hand to Soreth.
+
+Raabilis seems thoughtful.
+
+Bjeorn grins stupidly.
+
+
+Tyrias asks, "There are only 3 who have pledged their services to the Eyranas present, correct?"
+
+Tyrias raises an eyebrow.
+
+The 1st blue jay just wandered west.
+
+Raabilis tilts her head to one side.
+
+
+Bjeorn says, "I will pledge to lead temple hunts for the coffers of our faith"
+
+
+Soreth says, "As far as I know you and I are the only two Templars present, and Kurapiira is a Cleric."
+
+
+Tyrias says, "As in... members of the temple clergy"
+
+Raabilis chortles in a high-pitched series of dog-like yips.
+
+ ** Liseti Maradar just left the world.
+
+Tyrias nods.
+
+
+Bjeorn exclaims to Raabilis, "what? I'm young! it's all I can pledge!"
+
+say can you tell us about your background..your people?
+You ask, "can you tell us about your background..your people?"
+
+rai at s
+You raise an eyebrow at Soreth.
+
+
+Raabilis asks Bjeorn, "You pledge to solemnly lead head-first into whatever pit-trap your limbs will take you to?"
+
+Raabilis grimaces in a wolfish grin.
+
+
+Bjeorn says to Raabilis, "yes....err no...hrmmm"
+
+Kyra exhales slowly as she leans against Harru and closes her eyes..
+
+
+Soreth says to Kurapiira, "I've lived in the woods surrounding this settlement for many years now"
+
+Bjeorn ponders a moment thoughtlessly.
+
+nod to so
+You nod to Soreth.
+
+A blue jay just entered from the west.
+
+l
+
+[Sanctuary of Eyridane and Morana]
+The small path ends as the trees part, revealing a small clearing. Sunlight filters down from above, splashing the vibrant green grass and wildflowers. The noise of the central part of the grove all but fades away in this quiet sanctuary. An altar of stone rests in the center of the small clearing of verdant grass. Tangled vines have grown wild across the hard stone and though no markings can be seen, it is obvious that this is a place sacred to the twin goddesses of nature. Overhead the soft warbling of songbirds blends with the chirping crickets below into a sublime symphony of sounds. Small trinkets of adoration and worship have been left at the base of the altar, each one a symbol of devotion to their beloved gods.
+
+The area is illuminated.
+
+In this room you see: Kyra the Silvarin,  Harru the Galirrim,  Soreth the Galirrim,  Tyrias the Silvarin,  Bjeorn the Galirrim (sitting down),  Raabilis the Galirrim, 1st blue jay
+In this room are: simple stone altar
+Obvious exits are: west, an arch of twisting branches
+
+
+Bjeorn says, "pardon me all I must rest a bit, nice to meet you all"
+
+Bjeorn salutes.
+
+ ** Bjeorn Bayouwolf just left the world.
+
+nod softly
+You nod softly.
+
+ ** Maibe Bahiti just left the world unexpectedly.
+
+ ** Maibe Bahiti just arrived in the world
+
+
+Soreth says to Kurapiira, "My people were charged with protecting this sanctuary"
+
+nod to so
+You nod to Soreth.
+
+
+Soreth says to Kurapiira, "I take that duty very seriously."
+
+bow her head in respect
+Kyra laughs at Harru and shakes her head..
+
+You bow her head in respect.
+
+The blue jay lands on a nearby branch, his feathers puffing up as he tilts his head to the side and studies his surroundings intently.
+
+who
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+    Currently Connected
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+Kyra Lunaris
+Jyxax Vermiculor
+Maibe Bahiti
+Daelor Kethmar
+Raabilis Moonreaver
+Sorian Kabal
+Soreth Greymoon
+Asher Leshrak
+Eridan Volant
+Maltrinus Milforge
+Tyrias Valdain
+Kurapiira Mako
+Harru Shadowstalker
+Wood Fisher
+Kassi Boyd
+Laro Blinthe
+Desmond Delavan
+Gast Ironmaw
+Seren Prilos
+Kyris Verloren
+Jerosii Nirahn
+Goro Dreadmouth
+Cansa Sortas
+
+    [23 total]
+
+The 1st blue jay just wandered west.
+
+ ** Vandit Nights just arrived in the world
+
+
+Harru says, "Many of our temple mates have not made it"
+
+nod
+You nod.
+
+
+Harru says, "May suggest we get to know more of each and then wait until more from the temple can help decide"
+
+say some have not even placed names in the register
+You say, "some have not even placed names in the register"
+
+furr
+You furrow your brow.
+
+A blue jay just entered from the west.
+
+
+Raabilis says to Kurapiira, "Not all can read or write."
+
+The blue jay lands on a nearby branch, his feathers puffing up as he tilts his head to the side and studies his surroundings intently.
+
+'s, do you know most of the Gallirrim?
+You ask Soreth, "do you know most of the Gallirrim?"
+
+
+Harru says, "so they will not feel left out"
+
+nod to r
+You nod to Raabilis.
+
+
+Soreth says, "I do, yes"
+
+
+Tyrias says, "If people wish to be heard they should be present."
+
+say can you ask them to make their mark in the registry?
+You ask, "can you ask them to make their mark in the registry?"
+
+
+Soreth says, "I agree, my note was posted days in advance"
+
+nod
+You nod.
+
+
+Tyrias says, "If they cannot be present, there are ways to address that."
+
+
+Soreth says, "Only one person bothered to reply saying they wouldn't be there"
+
+The blue jay lands on a nearby branch, his feathers puffing up as he tilts his head to the side and studies his surroundings intently.
+
+say are there many who worship the twins, but are distant from the Temple itself?
+You ask, "are there many who worship the twins, but are distant from the Temple itself?"
+
+furr
+You furrow your brow.
+
+The blue jay lands on a nearby branch, his feathers puffing up as he tilts his head to the side and studies his surroundings intently.
+
+The 1st blue jay just wandered west.
+
+
+Soreth says to Kurapiira, "I would hope not"
+
+ ** Maltrinus Milforge just left the world.
+
+
+Soreth says to Kurapiira, "The purpose of this meeting was for us to come together"
+
+nod to so
+You nod to Soreth.
+
+who
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+    Currently Connected
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+Kyra Lunaris
+Jyxax Vermiculor
+Maibe Bahiti
+Daelor Kethmar
+Raabilis Moonreaver
+Sorian Kabal
+Soreth Greymoon
+Asher Leshrak
+Eridan Volant
+Tyrias Valdain
+Vandit Nights
+Kurapiira Mako
+Harru Shadowstalker
+Wood Fisher
+Kassi Boyd
+Laro Blinthe
+Desmond Delavan
+Gast Ironmaw
+Seren Prilos
+Kyris Verloren
+Jerosii Nirahn
+Goro Dreadmouth
+Cansa Sortas
+
+    [23 total]
+
+ ** Feir Cousat just arrived in the world
+
+l
+
+[Sanctuary of Eyridane and Morana]
+The small path ends as the trees part, revealing a small clearing. Sunlight filters down from above, splashing the vibrant green grass and wildflowers. The noise of the central part of the grove all but fades away in this quiet sanctuary. An altar of stone rests in the center of the small clearing of verdant grass. Tangled vines have grown wild across the hard stone and though no markings can be seen, it is obvious that this is a place sacred to the twin goddesses of nature. Overhead the soft warbling of songbirds blends with the chirping crickets below into a sublime symphony of sounds. Small trinkets of adoration and worship have been left at the base of the altar, each one a symbol of devotion to their beloved gods.
+
+The area is illuminated.
+
+In this room you see: Kyra the Silvarin,  Harru the Galirrim,  Soreth the Galirrim,  Tyrias the Silvarin,  Raabilis the Galirrim
+In this room are: simple stone altar
+Obvious exits are: west, an arch of twisting branches
+
+ ** Maltrinus Milforge just arrived in the world
+
+l w
+You look west...
+
+
+[Pathway Through the Trees]
+A small gap through the tangled trees allows passage to the quiet haven of the Druids and the Twins' other worshipers. The path is narrow and vines hang low, entangling all but the most wary, or welcome visitors.
+
+The area is illuminated.
+
+In this room you see: 1st blue jay
+Obvious exits are: west, east
+
+l
+
+[Sanctuary of Eyridane and Morana]
+The small path ends as the trees part, revealing a small clearing. Sunlight filters down from above, splashing the vibrant green grass and wildflowers. The noise of the central part of the grove all but fades away in this quiet sanctuary. An altar of stone rests in the center of the small clearing of verdant grass. Tangled vines have grown wild across the hard stone and though no markings can be seen, it is obvious that this is a place sacred to the twin goddesses of nature. Overhead the soft warbling of songbirds blends with the chirping crickets below into a sublime symphony of sounds. Small trinkets of adoration and worship have been left at the base of the altar, each one a symbol of devotion to their beloved gods.
+
+The area is illuminated.
+
+In this room you see: Kyra the Silvarin,  Harru the Galirrim,  Soreth the Galirrim,  Tyrias the Silvarin,  Raabilis the Galirrim
+In this room are: simple stone altar
+Obvious exits are: west, an arch of twisting branches
+
+
+Soreth says, "I would like to hear what each of you would hope to gain from our unity"
+
+nod to so
+You nod to Soreth.
+
+
+Soreth says, "Personally, I'd like to see us able to counter the influence of the Joharans who prey on the young"
+
+
+Raabilis says to Soreth, "That does not often seem to be a temple matter, but a racial one, brother."
+
+
+Harru says, "we can do that anyway"
+
+ ** Maltrinus Milforge just left the world.
+
+say I am unaware of such dealings...can you elaborate?
+You ask, "I am unaware of such dealings...can you elaborate?"
+
+furr
+You furrow your brow.
+
+
+Soreth says to Raabilis, "It's not a racial matter either, I'm fairly certain they are indiscriminate in their targeting"
+
+
+Raabilis says to Soreth, "I have heard no account of the Joharans attacking the Faithful on account of their religious affiliation, but of their being Galirrim, only."
+
+ ** Maltrinus Milforge just arrived in the world
+
+ ** Rak Heirdar just arrived in the world
+
+Kyra exhales as she folds her arms. "Should we not be a temple of balance? I can see protecting the young...but to descriminate against one temple...we should be between, and yet, above all..
+
+
+Raabilis asks Soreth, "They have attacked Faithful who are not Galirrim?"
+
+Harru whispers to you, "so they won you over...the Johonkins"
+
+
+Soreth says to Kyra, "We are a temple of duality. The Joharans have gained great unity and threaten to topple the balance"
+
+
+Soreth says to Kyra, "I want to place a counterweight on the scale"
+
+wh to h heh..i deal with all temples equally
+You whisper "heh..i deal with all temples equally" to Harru.
+
+ ** Maltrinus Milforge just left the world.
+
+
+Soreth says, "It is not precisely discrimination"
+
+ ** Maibe Bahiti just left the world.
+
+
+Soreth says, "I don't want to see any faction gain too much power, ours included"
+
+
+Tyrias asks, "Isn't that more the role for someone else...? Such as the Thaessilgan followers?"
+
+
+Kyra says, "It is not for us to decide. It is for the Honored Eyranas."
+
+
+Soreth says to Tyrias, "They care for nothing but order."
+
+
+Soreth says, "I'm not asking you all to /fight/ the Joharans."
+
+ ** Maltrinus Milforge just arrived in the world
+
+
+Soreth says, "If they are picking a fight with the Galirrim, the Galirrim will respond. My desire is only to create a unified force to counter their influence"
+
+
+Tyrias says, "I don't believe it is our place to get involved as a temple in this matter. Protecting our own is one thing, but I, for one, have not had any conflicts as of yet"
+
+
+Raabilis asks Soreth, "Have they attacked any of the Faithful that are not Galirrim?"
+
+
+Tyrias says, "Save from another Galirrim"
+
+Tyrias smirks.
+
+
+Soreth says, "I just said I wasn't going to ask you to fight them."
+
+
+Tyrias asks, "Then what, exactly, are you proposing?"
+
+
+Soreth says, "That we become more of a presence"
+
+
+Tyrias says, "If you wish us to stand in opposition to them, that is the same thing in the end."
+
+
+Soreth says to Tyrias, "There are more ways to enforce balance than direct conflict"
+
+nod to so
+You nod to Soreth.
+
+
+Soreth asks Tyrias, "The Joharans are damaging the balance today, who is to say who the threat will be tomorrow?"
+
+
+Soreth says, "My goal is to create organization, unity"
+
+
+Soreth says, "Not an army"
+
+Raabilis furrows her brow.
+
+
+Soreth says, "The Galirrim are the only army the Great and Holy ones need"
+
+A blue jay just entered from the west.
+
+Kyra frowns deeply..
+
+
+Tyrias asks, "Perhaps I'm simply not aware, but I don't much concern myself with the conflicts afflicting cities. What exactly are the Joharans doing?"
+
+The blue jay lands on a nearby branch, his feathers puffing up as he tilts his head to the side and studies his surroundings intently.
+
+
+Raabilis says to Tyrias, "It is not afflicting cities, Redeemed. They are stealing from and otherwise attacking young Galirrim."
+
+
+Soreth says, "Indiscrimintely"
+
+
+Raabilis says to Tyrias, "It is not, to my knowledge, a temple matter."
+
+
+Soreth says, "It's not."
+
+
+Soreth says, "I never said it was an assault on the Twins, specifically"
+
+Tyrias shrugs.
+
+
+Tyrias says, "Then I don't see why it is an issue"
+
+The blue jay lands on a nearby branch, his feathers puffing up as he tilts his head to the side and studies his surroundings intently.
+
+The 1st blue jay just wandered west.
+
+
+Soreth asks Tyrias, "You don't see a problem with only one of the Temples being organized and all the others being scattered to the wind?"
+
+
+Tyrias says, "Our organization has very little to do with Joharan organization."
+
+
+Soreth says, "It has everything to do with the state of the world's balance"
+
+
+Tyrias says, "Let me phrase this another way then..."
+
+
+Tyrias asks, "Are we organizing for the sake of organization? Or was there another motive?"
+
+
+Soreth says, "For the sake of organization."
+
+
+Tyrias asks, "Then what do the Joharans have to do with that?"
+
+A blue jay just entered from the west.
+
+
+Soreth says, "You are making far too much of it"
+
+
+Soreth says, "We need to organize because we can't afford not to be while others are"
+
+nod
+You nod.
+
+stand
+You stand up.
+
+bow
+You bow.
+
+
+Soreth says, "I was not attempting to demonize the Joharans"
+
+
+Kyra asks, "Are we? You have already stated, that the Galirrim are the only army that Eyranas needs...so what is my purpose here?"
+
+Raabilis glances to Kyra.
+
+say if I may?
+You ask, "if I may?"
+
+rai at so
+You raise an eyebrow at Soreth.
+
+The blue jay lands on a nearby branch, his feathers puffing up as he tilts his head to the side and studies his surroundings intently.
+
+
+Soreth asks Kyra, "Are you suggesting that the Great and Holy ones need no followers save soldiers?"
+
+
+Kyra says, "I am just stating, what you said. I am a monk, a warrior of my own right."
+
+l
+
+[Sanctuary of Eyridane and Morana]
+The small path ends as the trees part, revealing a small clearing. Sunlight filters down from above, splashing the vibrant green grass and wildflowers. The noise of the central part of the grove all but fades away in this quiet sanctuary. An altar of stone rests in the center of the small clearing of verdant grass. Tangled vines have grown wild across the hard stone and though no markings can be seen, it is obvious that this is a place sacred to the twin goddesses of nature. Overhead the soft warbling of songbirds blends with the chirping crickets below into a sublime symphony of sounds. Small trinkets of adoration and worship have been left at the base of the altar, each one a symbol of devotion to their beloved gods.
+
+The area is illuminated.
+
+In this room you see: Kyra the Silvarin,  Harru the Galirrim,  Soreth the Galirrim,  Tyrias the Silvarin,  Raabilis the Galirrim, 1st blue jay
+In this room are: simple stone altar
+Obvious exits are: west, an arch of twisting branches
+
+The 1st blue jay just wandered west.
+
+
+Kyra says, "And will stand to protect all who follow the great ones, and teach them if need be."
+
+
+Tyrias says, "I think she is saying there is more to Their might than just the Galirrim."
+
+nod to ky
+You nod to Kyra.
+
+
+Kyra says, "What makes me born, does not makes me less."
+
+Harru nods.
+
+sit
+You sit down.
+
+Soreth grits his teeth.
+
+set mood ?
+The following is a list of moods you can select from:
+absent-minded, affectionate, aloof, ambivalent, amused, angry, annoyed, apathetic, bashful, bemused, benevolent, black, blissful, blue, bored, calculating, calm, cautious, chagrined, chaotic, chivalrous, closed, cold, condescending, confused, covert, creative, dark, despairing, desperate, distant, dominating, dreamy, driven, ecstatic, edgy, flaming-mad, flirtatious, frantic, friendly, frightened, frustrated, furious, giving, governing, grim, grumpy, happy, hesitant, hopeful, hopeless, impatient, jocular, joking, joyful, lazy, leery, lethargic, loving, malevolent, malicious, manic, masked, mirthful, mischievous, negative, nervous, neutral, objective, open, orderly, panicky, partying, passionate, patient, pensive, petrified, placid, playful, positive, productive, prophetic, raving-mad, reserved, sad, scared, scared, scatter-brained, secretive, seductive, self-loathing, sensual, shy, silly, sleepy, snippy, snotty, spurned, stressed-out, submissive, tentative, thoughtful, tired, troubled, upset, vengeful, wary, whiny, willy-nilly, wrathful
+
+
+Soreth says, "I am being willfully misunderstood, I fear"
+
+
+Kyra says, "Not willfully."
+
+
+Kyra says, "I have heard what you said."
+
+Tyrias shrugs.
+
+
+Raabilis says, "Certainly there is more to the Sisters than her Servants. We all, everything around us, all creatures, are part of them and necessary to their balance."
+
+nod to r
+You nod to Raabilis.
+
+Kyra nods to Raabilis.
+
+
+Kyra says, "I agree."
+
+
+Soreth says, "I never suggested otherwise"
+
+wh to h apparently i have nothing to say...heh
+You whisper "apparently i have nothing to say...heh" to Harru.
+
+
+Raabilis says, "I do not believe my Brother meant to say that Galirrim are above any who follow the Sisters, who uphold their teachings, who fight for them -- be it claw or fist."
+
+Harru whispers to you, "say what you will"
+
+
+Tyrias says, "I think you are poorly choosing your words, which is leaving some interpretation you're not intending..."
+
+A blue jay just entered from the west.
+
+The blue jay lands on a nearby branch, his feathers puffing up as he tilts his head to the side and studies his surroundings intently.
+
+l
+
+[Sanctuary of Eyridane and Morana]
+The small path ends as the trees part, revealing a small clearing. Sunlight filters down from above, splashing the vibrant green grass and wildflowers. The noise of the central part of the grove all but fades away in this quiet sanctuary. An altar of stone rests in the center of the small clearing of verdant grass. Tangled vines have grown wild across the hard stone and though no markings can be seen, it is obvious that this is a place sacred to the twin goddesses of nature. Overhead the soft warbling of songbirds blends with the chirping crickets below into a sublime symphony of sounds. Small trinkets of adoration and worship have been left at the base of the altar, each one a symbol of devotion to their beloved gods.
+
+The area is illuminated.
+
+In this room you see: Raabilis the Galirrim,  Kyra the Silvarin,  Soreth the Galirrim,  Harru the Galirrim,  Tyrias the Silvarin, 1st blue jay
+In this room are: simple stone altar
+Obvious exits are: west, an arch of twisting branches
+
+
+Soreth asks Tyrias, "Have you made a single constructive statement since you arrived or did you decide to come here solely for the purpose of attacking me?"
+
+Harru whispers to you, "free the twins"
+
+pok j
+You poke the blue jay.
+
+Raabilis glances to Soreth.
+
+Tyrias raises an eyebrow.
+
+ ** Nav Kerlak just arrived in the world
+
+wh to h i will!
+You whisper "i will!" to Harru.
+
+Kyra frowns deeply.
+
+
+Tyrias says to Soreth, "That wasn't an attack against you."
+
+
+Raabilis says to Soreth, "Brother, your challenge is not needed."
+
+Soreth nods.
+
+Raabilis shakes her head from side to side.
+
+
+Soreth says, "I am /trying/ to understand."
+
+l
+
+[Sanctuary of Eyridane and Morana]
+The small path ends as the trees part, revealing a small clearing. Sunlight filters down from above, splashing the vibrant green grass and wildflowers. The noise of the central part of the grove all but fades away in this quiet sanctuary. An altar of stone rests in the center of the small clearing of verdant grass. Tangled vines have grown wild across the hard stone and though no markings can be seen, it is obvious that this is a place sacred to the twin goddesses of nature. Overhead the soft warbling of songbirds blends with the chirping crickets below into a sublime symphony of sounds. Small trinkets of adoration and worship have been left at the base of the altar, each one a symbol of devotion to their beloved gods.
+
+The area is illuminated.
+
+In this room you see: Raabilis the Galirrim,  Kyra the Silvarin,  Soreth the Galirrim,  Harru the Galirrim,  Tyrias the Silvarin, 1st blue jay
+In this room are: simple stone altar
+Obvious exits are: west, an arch of twisting branches
+
+Tyrias sighs.
+
+The blue jay lands on a nearby branch, his feathers puffing up as he tilts his head to the side and studies his surroundings intently.
+
+
+Tyrias asks, "May I be blunt then?"
+
+
+Tyrias says, "I can sort this much more easily that way."
+
+
+Raabilis asks Tyrias, "You have been otherwise?"
+
+Raabilis grimaces in a wolfish grin.
+
+
+Soreth says, "You've been blunt the whole evening."
+
+Raabilis chuckles lightly in a rumbling, breathy growl.
+
+stat
+You are Kurapiira Mako the Fae Cleric. You are 50 years old.
+You are currently a follower of Eyranas.
+You are starving!
+You are dangerously dehydrated!
+
+Attack Rating: 21
+Max Tact Move: 9
+Current Stance: neutral
+
+You are currently seated.
+
+Str ****            | Dex *****           | 
+Qui ********        | Con *****           | 
+Pie ********        | Int ******          | 
+Per ***             | Wil *******         | 
+
+You are currently carrying:
+ -a charred tin dagger    (right hand)
+ -an etched silver targe    (left hand)
+ -a sturdy, light jerkin of scorpion carapaces    (torso)
+ -an elegantly laced black cotton bustier    (torso)
+ -a pair of sleek black cotton leggings    (legs)
+ -a golden brass belly chain    (around waist)
+ -a luminous amethyst and moonsilver crescent-shaped hoop earrings    (on ears)
+ -a jade and yellow gold sun nose stud    (on nose)
+ -a smooth silver lip ring    (on face)
+
+
+l
+
+[Sanctuary of Eyridane and Morana]
+The small path ends as the trees part, revealing a small clearing. Sunlight filters down from above, splashing the vibrant green grass and wildflowers. The noise of the central part of the grove all but fades away in this quiet sanctuary. An altar of stone rests in the center of the small clearing of verdant grass. Tangled vines have grown wild across the hard stone and though no markings can be seen, it is obvious that this is a place sacred to the twin goddesses of nature. Overhead the soft warbling of songbirds blends with the chirping crickets below into a sublime symphony of sounds. Small trinkets of adoration and worship have been left at the base of the altar, each one a symbol of devotion to their beloved gods.
+
+The area is illuminated.
+
+In this room you see: Raabilis the Galirrim,  Kyra the Silvarin,  Soreth the Galirrim,  Harru the Galirrim,  Tyrias the Silvarin, 1st blue jay
+In this room are: simple stone altar
+Obvious exits are: west, an arch of twisting branches
+
+
+Tyrias says, "The comment that the Galirrim are the only army the Eyranas need is offensive, especially to myself and Kyra"
+
+The 1st blue jay just wandered west.
+
+stand
+You stand up.
+
+
+Tyrias says, "I believe it was simply mispoken"
+
+w
+
+[Pathway Through the Trees]
+A small gap through the tangled trees allows passage to the quiet haven of the Druids and the Twins' other worshipers. The path is narrow and vines hang low, entangling all but the most wary, or welcome visitors.
+
+The area is illuminated.
+
+In this room you see: 1st blue jay
+Obvious exits are: west, east
+
+k j
+tact
+Your target is too far away!
+
+You are currently standing 4 units behind center.
+
+Standing 6 units in front of you:
+blue jay
+Standing in your rank:
+Kurapiira
+
+
+adv j
+You advance 6 units.
+[1 sec. delay]
+
+k j
+You perform a cross-body slash with your charred tin dagger at the 1st blue jay!
+The attack misses!
+[4 sec. delay]
+
+The 1st blue jay bites at you, but you parry the blow with your charred tin dagger!
+
+w
+
+[Secluded Grove]
+Trees have grown into a natural wall, protecting the clearing from any unwanted visitors. Vines have been woven through the tangled branches of the trees, blocking the rest of the forest from view. Soft grass peppered with patches of clover grows underfoot, and a small, brown rabbit nibbles contentedly on the green stalks.  A small group of sturdy Galirrim has gathered around a small spring of crystal clear water. Enchanting scents of cooking food waft through the air from a painted-wood tavern, closely followed by the sound merry laughter.
+
+The area is illuminated.
+
+In this room you see: 1st blue jay, 2nd blue jay, 3rd blue jay, 1st fox squirrel
+In this room are: small spring of crystal clear water
+Obvious exits are: west, east, painted wooden door, a gravel road, slender gap in the wall of trees
+
+The 3rd blue jay just wandered through the a gravel road.
+
+e
+
+[Pathway Through the Trees]
+A small gap through the tangled trees allows passage to the quiet haven of the Druids and the Twins' other worshipers. The path is narrow and vines hang low, entangling all but the most wary, or welcome visitors.
+
+The area is illuminated.
+
+In this room you see: 1st blue jay
+Obvious exits are: west, east
+
+l at j
+You see a blue jay.
+
+The sound of cheerful chirping cuts through the air as this vibrantly colored bird glides through the air. His outstretched wings gleam with dozens of shades of blue, contrasting sharply with the alabaster feathers of his breast.
+
+It appears to be carrying: 
+         some marks
+         small cluster of bright red berries
+
+
+It looks to be in perfect health.
+It looks non-aggressive.
+It looks like it will be moderately difficult for you to hit.
+
+The 1st blue jay bites at you, but you evade the strike!
+
+k j
+You perform a reverse slash with your charred tin dagger at the 1st blue jay!
+The attack misses!
+[4 sec. delay]
+
+The 1st blue jay bites at you, but you block the attack with your etched silver targe!
+
+k j
+You perform a downwards laceration with your charred tin dagger at the 1st blue jay!
+It is a decent blow to its tail!
+[4 sec. delay]
+
+k j
+The 1st blue jay bites at you, but you block the attack with your etched silver targe!
+
+You perform a simple cut with your charred tin dagger at the 1st blue jay!
+The attack misses!
+[4 sec. delay]
+
+k j
+ ** Maria Saldis just arrived in the world
+
+You perform a simple cut with your charred tin dagger at the 1st blue jay!
+It is a glancing blow to its right talon!
+[4 sec. delay]
+
+k j
+The 1st blue jay bites at you!
+It is a solid blow to your head!
+Your sturdy, light jerkin of scorpion carapaces absorbs some of the damage.
+h
+You take 4 damage!
+
+
+HP:  138/142  Ftg:  39/45  MP:  73/73
+
+
+l at j
+You see a blue jay.
+
+The sound of cheerful chirping cuts through the air as this vibrantly colored bird glides through the air. His outstretched wings gleam with dozens of shades of blue, contrasting sharply with the alabaster feathers of his breast.
+
+It appears to be carrying: 
+         some marks
+         small cluster of bright red berries
+
+
+It looks slightly wounded.
+It looks non-aggressive.
+It looks like it will be moderately difficult for you to hit.
+
+You perform a simple cut with your charred tin dagger at the 1st blue jay!
+The attack misses!
+[4 sec. delay]
+
+k j
+The 1st blue jay bites at you, but you block the attack with your etched silver targe!
+
+You perform a cross-body slash with your charred tin dagger at the 1st blue jay!
+It is a solid blow to its right leg!
+[4 sec. delay]
+
+k j
+k j
+You perform a calculated strike with your charred tin dagger at the 1st blue jay!
+It is a solid blow to its right wing!
+[4 sec. delay]
+
+k j
+The 1st blue jay bites at you, but you evade the strike!
+
+ ** Maria Saldis just left the world.
+
+You perform a calculated strike with your charred tin dagger at the 1st blue jay!
+It is a powerful blow to its right leg!
+[4 sec. delay]
+
+k j
+k j
+l at j
+You see a blue jay.
+
+The sound of cheerful chirping cuts through the air as this vibrantly colored bird glides through the air. His outstretched wings gleam with dozens of shades of blue, contrasting sharply with the alabaster feathers of his breast.
+
+It appears to be carrying: 
+         some marks
+         small cluster of bright red berries
+
+
+It looks slightly wounded.
+It looks non-aggressive.
+It looks like it will be moderately difficult for you to hit.
+
+The 1st blue jay bites at you, but you block the attack with your etched silver targe!
+
+You perform a vicious hack with your charred tin dagger at the 1st blue jay!
+The attack misses!
+[4 sec. delay]
+
+k j
+You perform a reverse slash with your charred tin dagger at the 1st blue jay!
+The attack misses!
+[4 sec. delay]
+
+The 1st blue jay bites at you, but you evade the strike!
+
+You perform a simple cut with your charred tin dagger at the 1st blue jay!
+It is a decent blow to its right talon!
+[4 sec. delay]
+
+unready tri from 2 bac
+The 1st blue jay bites at you, but you block the attack with your etched silver targe!
+
+You perform a downwards laceration with your charred tin dagger at the 1st blue jay!
+The attack misses!
+[4 sec. delay]
+
+que
+
+Commands in Queue
+-----------------
+ unready tri from 2 bac
+
+
+I don't see what you're referring to.
+
+The 1st blue jay bites at you, but you parry the blow with your charred tin dagger!
+
+get tri from 2 bac
+You remove the serpent bladed war trident from your open recruit backpack.
+
+unready dag
+You sheathe your charred tin dagger.
+[2 sec. delay]
+
+unready tar
+The 1st blue jay bites at you!
+It is a solid blow to your right arm!
+Your sturdy, light jerkin of scorpion carapaces absorbs some of the damage.
+h
+You take 3 damage!
+
+
+HP:  139/142  Ftg:  35/45  MP:  73/73
+
+
+You unfasten your etched silver targe.
+[2 sec. delay]
+
+wear tri
+You draw your serpent bladed war trident.
+[2 sec. delay]
+
+k j
+You perform a quick thrust with your serpent bladed war trident at the 1st blue jay!
+The attack misses!
+[5 sec. delay]
+
+k j
+The 1st blue jay bites at you, but you parry the blow with your serpent bladed war trident!
+
+l at j
+You see a blue jay.
+
+The sound of cheerful chirping cuts through the air as this vibrantly colored bird glides through the air. His outstretched wings gleam with dozens of shades of blue, contrasting sharply with the alabaster feathers of his breast.
+
+It appears to be carrying: 
+         some marks
+         small cluster of bright red berries
+
+
+It looks slightly wounded.
+It looks non-aggressive.
+It looks like it will be moderately difficult for you to hit.
+
+k j
+You perform a powerful impaling strike with your serpent bladed war trident at the 1st blue jay!
+The attack misses!
+[5 sec. delay]
+
+k j
+The 1st blue jay bites at you!
+It is a solid blow to your right leg!
+Your sturdy, light jerkin of scorpion carapaces absorbs some of the damage.
+h
+You take 4 damage!
+
+
+HP:  138/142  Ftg:  29/45  MP:  73/73
+
+
+You perform a quick thrust with your serpent bladed war trident at the 1st blue jay!
+It is a solid blow to its right wing!
+  The blue jay is knocked back!
+[5 sec. delay]
+
+k j
+l at j
+You see a blue jay.
+
+The sound of cheerful chirping cuts through the air as this vibrantly colored bird glides through the air. His outstretched wings gleam with dozens of shades of blue, contrasting sharply with the alabaster feathers of his breast.
+
+It appears to be carrying: 
+         some marks
+         small cluster of bright red berries
+
+
+It looks slightly wounded.
+It looks non-aggressive.
+It looks like it will be moderately difficult for you to hit.
+
+The 1st blue jay bites at you, but you evade the strike!
+
+k j
+You perform a quick thrust with your serpent bladed war trident at the 1st blue jay!
+The attack misses!
+[5 sec. delay]
+
+k j
+The 1st blue jay bites at you, but you parry the blow with your serpent bladed war trident!
+
+You perform a stab with your serpent bladed war trident at the 1st blue jay!
+It is a fair blow to its left wing!
+[5 sec. delay]
+
+k j
+l at j
+You see a blue jay.
+
+The sound of cheerful chirping cuts through the air as this vibrantly colored bird glides through the air. His outstretched wings gleam with dozens of shades of blue, contrasting sharply with the alabaster feathers of his breast.
+
+It appears to be carrying: 
+         some marks
+         small cluster of bright red berries
+
+
+It looks wounded.
+It looks non-aggressive.
+It looks like it will be moderately difficult for you to hit.
+
+You perform a quick thrust with your serpent bladed war trident at the 1st blue jay!
+The attack misses!
+[5 sec. delay]
+
+k j
+The 1st blue jay bites at you, but you evade the strike!
+
+You perform a powerful impaling strike with your serpent bladed war trident at the 1st blue jay!
+The attack misses!
+[5 sec. delay]
+
+k j
+The 1st blue jay bites at you, but you evade the strike!
+
+You perform a quick thrust with your serpent bladed war trident at the 1st blue jay!
+The attack misses!
+[5 sec. delay]
+
+invo 7 k
+k j
+The 1st blue jay bites at you, but you evade the strike!
+
+You perform a fast lunge with your serpent bladed war trident at the 1st blue jay!
+It is a glancing blow to its left leg!
+  The blue jay is knocked back!
+[5 sec. delay]
+
+l at j
+You see a blue jay.
+
+The sound of cheerful chirping cuts through the air as this vibrantly colored bird glides through the air. His outstretched wings gleam with dozens of shades of blue, contrasting sharply with the alabaster feathers of his breast.
+
+It appears to be carrying: 
+         some marks
+         small cluster of bright red berries
+
+
+It looks severely wounded.
+It looks non-aggressive.
+It looks like it will be moderately difficult for you to hit.
+
+The 1st blue jay advances towards you.
+
+h
+You are too tired to do that!
+
+
+HP:  142/142  Ftg:  2/45  MP:  73/73
+LOW FTG
+
+
+A gleaming aura of light comes into existence around Kurapiira as you pontificate a request to Eyranas.
+Invoking this spell cost you 6 mana.
+[5 sec. delay]
+
+The 1st blue jay bites at you, but you evade the strike!
+
+k j
+You perform a powerful impaling strike with your serpent bladed war trident at the 1st blue jay!
+It is a glancing blow to its tail!
+[5 sec. delay]
+
+The gleaming aura around Kurapiira vanishes in a burst of light. Moments later, Kurapiira's eyes begin to glow with an inner zeal.
+
+The blue jay screeches loudly, and he crumbles to the ground as his feathered wings cease their frantic beating.
+
+invo 11 k
+l
+h
+You are too tired to do that!
+
+
+[Pathway Through the Trees]
+A small gap through the tangled trees allows passage to the quiet haven of the Druids and the Twins' other worshipers. The path is narrow and vines hang low, entangling all but the most wary, or welcome visitors.
+
+The area is illuminated.
+
+In this room you see: 1st blue jay corpse (laying on the ground)
+Obvious exits are: west, east
+
+
+HP:  142/142  Ftg:  1/45  MP:  71/73
+LOW FTG
+
+
+You call out to Eyranas and raise your hands slightly upwards.
+Invoking this spell cost you 5 mana.
+[4 sec. delay]
+
+diag all
+h
+A magnificent green and blue aura surrounds Kurapiira in a revitalizing swirl of energy before disappearing.
+
+h
+You feel energized!
+
+You examine all the people in the room...
+
+
+
+HP:  142/142  Ftg:  12/45  MP:  68/73
+LOW FTG
+
+
+
+HP:  142/142  Ftg:  12/45  MP:  68/73
+LOW FTG
+
+
+unready tri
+You sheathe your serpent bladed war trident.
+[2 sec. delay]
+
+put tri in 2 bac
+You put the serpent bladed war trident in your open recruit backpack.
+
+e
+
+[Sanctuary of Eyridane and Morana]
+The small path ends as the trees part, revealing a small clearing. Sunlight filters down from above, splashing the vibrant green grass and wildflowers. The noise of the central part of the grove all but fades away in this quiet sanctuary. An altar of stone rests in the center of the small clearing of verdant grass. Tangled vines have grown wild across the hard stone and though no markings can be seen, it is obvious that this is a place sacred to the twin goddesses of nature. Overhead the soft warbling of songbirds blends with the chirping crickets below into a sublime symphony of sounds. Small trinkets of adoration and worship have been left at the base of the altar, each one a symbol of devotion to their beloved gods.
+
+The area is illuminated.
+
+In this room you see: Raabilis the Galirrim,  Kyra the Silvarin,  Soreth the Galirrim,  Harru the Galirrim,  Tyrias the Silvarin
+In this room are: simple stone altar
+Obvious exits are: west, an arch of twisting branches
+
+sit
+You sit down.
+
+You exert an additional 1 mana maintaining the Bolster.
+
+
+Soreth says, "I am not trying to offend anyway"
+
+
+Raabilis says to Tyrias, "Our way of speaking... our very culture is different from what you might know yourself, it is not meant offensively."
+
+
+Soreth says, "anyone, excuse me"
+
+You exert an additional 1 mana maintaining the Bolster.
+
+wh to h Morana called the blue jay home
+Harru is too far away to whisper to.
+
+Tyrias glances at Raabilis.
+
+tac
+You are currently standing 2 units ahead of center.
+
+Standing in your rank:
+Kurapiira
+Standing 6 units behind you:
+Raabilis, Soreth, Harru, Tyrias
+Standing 7 units behind you:
+Kyra
+
+
+You exert an additional 1 mana maintaining the Bolster.
+
+Raabilis furrows her brow.
+
+stand
+You stand up.
+
+ret h
+You retreat 6 units.
+[3 sec. delay]
+
+sit
+You sit down.
+
+wh to h Morana called the blue jay home
+You whisper "Morana called the blue jay home" to Harru.
+
+ ** Jyxax Vermiculor just left the world.
+
+l
+
+[Sanctuary of Eyridane and Morana]
+The small path ends as the trees part, revealing a small clearing. Sunlight filters down from above, splashing the vibrant green grass and wildflowers. The noise of the central part of the grove all but fades away in this quiet sanctuary. An altar of stone rests in the center of the small clearing of verdant grass. Tangled vines have grown wild across the hard stone and though no markings can be seen, it is obvious that this is a place sacred to the twin goddesses of nature. Overhead the soft warbling of songbirds blends with the chirping crickets below into a sublime symphony of sounds. Small trinkets of adoration and worship have been left at the base of the altar, each one a symbol of devotion to their beloved gods.
+
+The area is illuminated.
+
+In this room you see: Raabilis the Galirrim,  Kyra the Silvarin,  Soreth the Galirrim,  Harru the Galirrim,  Tyrias the Silvarin
+In this room are: simple stone altar
+Obvious exits are: west, an arch of twisting branches
+
+Bolster DOWN
+You exert an additional 1 mana maintaining the Bolster.
+
+Harru whispers to you, "with hel["
+
+
+Soreth says, "I didn't want the Galirrim to exist separate from the rest of the Faithful"
+
+nod to h
+You nod to Harru.
+
+
+Soreth says, "That was the purpose of this meeting"
+
+
+Soreth says, "The fact that we can't even be in the same room without apparently de-evolving into taking offense at each others words isn't encouraging"
+
+
+Soreth says, "Yes, perhaps my words were poorly chosen."
+
+
+Soreth says, "This is only the first meeting, and I have not met either of you before"
+
+ ** Galen Marek just arrived in the world
+
+l
+
+[Sanctuary of Eyridane and Morana]
+The small path ends as the trees part, revealing a small clearing. Sunlight filters down from above, splashing the vibrant green grass and wildflowers. The noise of the central part of the grove all but fades away in this quiet sanctuary. An altar of stone rests in the center of the small clearing of verdant grass. Tangled vines have grown wild across the hard stone and though no markings can be seen, it is obvious that this is a place sacred to the twin goddesses of nature. Overhead the soft warbling of songbirds blends with the chirping crickets below into a sublime symphony of sounds. Small trinkets of adoration and worship have been left at the base of the altar, each one a symbol of devotion to their beloved gods.
+
+The area is illuminated.
+
+In this room you see: Raabilis the Galirrim,  Kyra the Silvarin,  Soreth the Galirrim,  Harru the Galirrim,  Tyrias the Silvarin
+In this room are: simple stone altar
+Obvious exits are: west, an arch of twisting branches
+
+
+Soreth says, "I'm not trying to alienate anyone"
+
+Raabilis growls lowly as she peers at Harru, the fur along her spine beginning to rise..
+
+
+Soreth says, "But so far all I've gotten is criticism, not positive suggestions"
+
+Raabilis seems annoyed.
+
+
+Soreth says, "I'm hoping that will change at some point."
+
+nod to so
+You nod to Soreth.
+
+
+Kyra says, "Perhaps, it is the fact, that as followers of Eyranas, we are separate from our kind, as as followers of the Great ones, separate from others. We are always alienated, so perhaps we are suspicious. And if your words meant otherwise, the forgive me. But so far, I almost seem like...one such as"
+
+ ** Gast Ironmaw just left the world.
+
+
+Kyra says, "I am not needed."
+
+A fox squirrel just entered from the west.
+
+
+Soreth says to Kyra, "All of us are needed, or I wouldn't have called us here and would be content to live among only the Galirrim"
+
+
+Tyrias says to Kyra, "I believe his heart is in the right place, so to speak... even if some things strike me as insensitive. That may be from a lack of understanding and knowing each other."
+
+The fox squirrel darts across the ground, his puffy tail arched, as he searches for fallen nuts.
+
+
+Raabilis says to Kyra, "The wood worms that break down the fallen trees are no less needed than the seed that grows the mighty oak."
+
+Tyrias sighs.
+
+
+Soreth says to Tyrias, "That lack is why I called us here"
+
+
+Soreth says to Tyrias, "It needed to be rectified, and fast"
+
+The 1st fox squirrel just wandered west.
+
+
+Tyrias says to Raabilis, "That is a very good example of what I just mentioned, considering what I just mentioned..."
+
+
+Soreth says to Tyrias, "We can't afford to be ignorant of each other."
+
+Tyrias coughs.
+
+Tyrias babbles.
+
+
+Tyrias says, "Let me rephrase that"
+
+
+Kyra says, "These things, I understand. But I am a Monk, a warrior, and a scholar. Our ways our old. I would teach, or even fight. But as of now, I am undecided of this temple. Others I have seen with my Master, were different."
+
+
+Raabilis says to Tyrias, "I do not know how you find fault or insensitivity in those words, Redeemed."
+
+
+Tyrias says to Raabilis, "That is a very good example of what I just mentioned, considering what we are speaking of"
+
+set mood ?
+The following is a list of moods you can select from:
+absent-minded, affectionate, aloof, ambivalent, amused, angry, annoyed, apathetic, bashful, bemused, benevolent, black, blissful, blue, bored, calculating, calm, cautious, chagrined, chaotic, chivalrous, closed, cold, condescending, confused, covert, creative, dark, despairing, desperate, distant, dominating, dreamy, driven, ecstatic, edgy, flaming-mad, flirtatious, frantic, friendly, frightened, frustrated, furious, giving, governing, grim, grumpy, happy, hesitant, hopeful, hopeless, impatient, jocular, joking, joyful, lazy, leery, lethargic, loving, malevolent, malicious, manic, masked, mirthful, mischievous, negative, nervous, neutral, objective, open, orderly, panicky, partying, passionate, patient, pensive, petrified, placid, playful, positive, productive, prophetic, raving-mad, reserved, sad, scared, scared, scatter-brained, secretive, seductive, self-loathing, sensual, shy, silly, sleepy, snippy, snotty, spurned, stressed-out, submissive, tentative, thoughtful, tired, troubled, upset, vengeful, wary, whiny, willy-nilly, wrathful
+
+set mood pet
+Your mood is now petrified.
+
+
+Raabilis says to Tyrias, "If you are not content with your place in the world, that is hardly the fault of others, but of your own lack of understanding."
+
+ ** Wood Fisher just left the world.
+
+sigh softly
+You sigh softly.
+
+A blue jay just entered from the west.
+
+Harru whispers to you, "I thought I was supposed to be the one getting stiff?"
+
+gla
+You glance.
+
+
+Tyrias says, "I wish... to drop this topic. It is not productive and I do not think it is as big an issue as we are making it to be."
+
+wh to h heh
+You whisper "heh" to Harru.
+
+
+Tyrias says, "But by all accounts, I believe more tolerance for some words..."
+
+Kyra exhales as she leans back against Harru.
+
+A fox squirrel just entered from the west.
+
+l w
+You look west...
+
+
+[Pathway Through the Trees]
+A small gap through the tangled trees allows passage to the quiet haven of the Druids and the Twins' other worshipers. The path is narrow and vines hang low, entangling all but the most wary, or welcome visitors.
+
+The area is illuminated.
+
+In this room you see: 1st blue jay corpse (laying on the ground)
+Obvious exits are: west, east
+
+Tyrias glances at Kyra.
+
+
+Kyra says, "harru They are not listening to me..."
+
+
+Tyrias says, "And more sensitivity for others..."
+
+The fox squirrel darts across the ground, his puffy tail arched, as he searches for fallen nuts.
+
+Raabilis tilts her head to one side.
+
+
+Tyrias says, "Would be prudent."
+
+wh to h i have offended the forrest spirits..now More animals come!
+You whisper "i have offended the forrest spirits..now More animals come!" to Harru.
+
+l
+
+[Sanctuary of Eyridane and Morana]
+The small path ends as the trees part, revealing a small clearing. Sunlight filters down from above, splashing the vibrant green grass and wildflowers. The noise of the central part of the grove all but fades away in this quiet sanctuary. An altar of stone rests in the center of the small clearing of verdant grass. Tangled vines have grown wild across the hard stone and though no markings can be seen, it is obvious that this is a place sacred to the twin goddesses of nature. Overhead the soft warbling of songbirds blends with the chirping crickets below into a sublime symphony of sounds. Small trinkets of adoration and worship have been left at the base of the altar, each one a symbol of devotion to their beloved gods.
+
+The area is illuminated.
+
+In this room you see: Raabilis the Galirrim,  Kyra the Silvarin,  Soreth the Galirrim,  Harru the Galirrim,  Tyrias the Silvarin, 1st blue jay, 1st fox squirrel
+In this room are: simple stone altar
+Obvious exits are: west, an arch of twisting branches
+
+The blue jay lands on a nearby branch, his feathers puffing up as he tilts his head to the side and studies his surroundings intently.
+
+pet j
+You pet the blue jay.
+
+ ** Nav Kerlak just left the world.
+
+
+Tyrias asks, "Agreed?"
+
+pet s
+You pet Soreth.
+
+bla
+You blanch.
+
+pet sq
+You pet the fox squirrel.
+
+Tyrias raises an eyebrow at Soreth.
+
+
+Soreth says to Tyrias, "Yes"
+
+The fox squirrel darts across the ground, his puffy tail arched, as he searches for fallen nuts.
+
+
+Harru says, "May I suggest we take a break and possibly meet again later when words are more thought out"
+
+
+Tyrias says, "I object to such."
+
+The 1st blue jay just wandered west.
+
+
+Soreth says to Harru, "That would accomplish nothing."
+
+
+Soreth says, "We are just starting to make progress"
+
+'so, may i put forward a point?
+You ask Soreth, "may i put forward a point?"
+
+Harru whispers to you, "you are just wild"
+
+
+Soreth says to Kurapiira, "Of course"
+
+Soreth nods.
+
+Soreth listens intently to you.
+
+smi
+You smile.
+
+stand
+You stand up.
+
+The 1st fox squirrel just wandered west.
+
+bow to all
+I don't see what you are referring to.
+
+bow
+You bow.
+
+Kyra exhales as she closes her eyes.
+
+say Temple Eyranas must be unified, and our leader must have our strength behind them, ...as this leader will be our representative on the Religious Council.
+You say, "Temple Eyranas must be unified, and our leader must have our strength behind them, ...as this leader will be our representative on the Religious Council."
+
+' the Temple should be able to add to it's coffers to help the young, and present a united front in the face of danger or political aspirations against us.
+You say, "the Temple should be able to add to it's coffers to help the young, and present a united front in the face of danger or political aspirations against us."
+
+say shold this not be our mission here today?
+You ask, "shold this not be our mission here today?"
+
+bow
+You bow.
+
+
+Tyrias says, "A question..."
+
+sit
+You sit down.
+
+list
+You listen intently.
+
+
+Tyrias asks, "Why must our leader also represent us on the Coucil?"
+
+say this is the law
+You say, "this is the law"
+
+nod to t
+You nod to Tyrias.
+
+Raabilis scoffs.
+
+ ** Aegys Redbow just arrived in the world
+
+
+Raabilis says to Kurapiira, "The law of Cities"
+
+furr
+You furrow your brow.
+
+
+Tyrias says, "The skills for leadership and diplomacy are different."
+
+A blue jay just entered from the west.
+
+
+Tyrias says to Kurapiira, "And we are not within the city."
+
+say you wish for a position other than High Priest to handle such affairs?
+You ask, "you wish for a position other than High Priest to handle such affairs?"
+
+rai
+You raise an eyebrow.
+
+
+Raabilis says to Kurapiira, "I certainly do not wish for any Galirrim to put itself on a council of Cities."
+
+The blue jay lands on a nearby branch, his feathers puffing up as he tilts his head to the side and studies his surroundings intently.
+
+Harru whispers to you, "this is a mistake"
+
+Raabilis shakes her head from side to side.
+
+
+Raabilis says, "That is not our place"
+
+
+Tyrias says, "I am merely saying that it may not always be a good idea for the two posts to be held by the same person."
+
+
+Raabilis says, "We do not belong there any more than the laws of Cities belong in Nature."
+
+say so all are agreed then?
+You ask, "so all are agreed then?"
+
+say then we have just made our first progress
+You say, "then we have just made our first progress"
+
+smi to so
+You smile to Soreth.
+
+The 1st blue jay just wandered west.
+
+Soreth nods.
+
+
+Soreth says, "Good"
+
+nod once
+You nod once.
+
+ ** Aethlyn Boreas just arrived in the world
+
+ ** Jerosii Nirahn just left the world unexpectedly.
+
+ ** Jerosii Nirahn just arrived in the world
+
+
+Soreth says, "I will not mince words, I am not a great orator or a great diplomat, but I am steadfast in my faith and I am capable of organizing"
+
+
+Soreth says, "I believe I can do this, with help"
+
+
+Soreth says, "None of us should have to stand alone in any event"
+
+
+Soreth says, "When winter comes, the lone wolf dies, the pack survives."
+
+l
+
+[Sanctuary of Eyridane and Morana]
+The small path ends as the trees part, revealing a small clearing. Sunlight filters down from above, splashing the vibrant green grass and wildflowers. The noise of the central part of the grove all but fades away in this quiet sanctuary. An altar of stone rests in the center of the small clearing of verdant grass. Tangled vines have grown wild across the hard stone and though no markings can be seen, it is obvious that this is a place sacred to the twin goddesses of nature. Overhead the soft warbling of songbirds blends with the chirping crickets below into a sublime symphony of sounds. Small trinkets of adoration and worship have been left at the base of the altar, each one a symbol of devotion to their beloved gods.
+
+The area is illuminated.
+
+In this room you see: Raabilis the Galirrim,  Kyra the Silvarin,  Soreth the Galirrim,  Harru the Galirrim,  Tyrias the Silvarin
+In this room are: simple stone altar
+Obvious exits are: west, an arch of twisting branches
+
+nod
+You nod.
+
+A blue jay just entered from the west.
+
+A blue jay just entered from the west.
+
+The blue jay lands on a nearby branch, his feathers puffing up as he tilts his head to the side and studies his surroundings intently.
+
+say since there are only three of us not of the Gallirrim peoples...will any step forward to accept the postion of representative to the Religious Council?
+You ask, "since there are only three of us not of the Gallirrim peoples...will any step forward to accept the postion of representative to the Religious Council?"
+
+The blue jay lands on a nearby branch, his feathers puffing up as he tilts his head to the side and studies his surroundings intently.
+
+gla at ky
+You glance at Kyra.
+
+Raabilis nods to Harru.
+
+gla at t
+You glance at Tyrias.
+
+
+Soreth says to Harru, "Can you stop with the whispering? If you want to be heard, be heard."
+
+The blue jay lands on a nearby branch, his feathers puffing up as he tilts his head to the side and studies his surroundings intently.
+
+
+Tyrias says, "I am not particularly disposed either way. Truthfully I'm not sure how city dealings matter to those of the Eyranas"
+
+
+Harru says, "leaders lead by deeds not words"
+
+The 2nd blue jay just wandered west.
+
+
+Soreth asks Harru, "And what "deeds" are you proposing?"
+
+
+Tyrias says to Harru, "You are not one to speak of deeds"
+
+'ky and yourself?
+You ask, "ky and yourself?"
+
+gla at ky
+You glance at Kyra.
+
+The 1st blue jay just wandered west.
+
+cou
+You cough.
+
+Raabilis furrows her brow as she watches Tyrias and Harru.
+
+
+Harru says to Tyrias, "you were the one to taunt and start our comflict"
+
+
+Harru says, "you spit on me and I told you to go away"
+
+list to ky
+You listen intently to Kyra.
+
+
+Tyrias says to Harru, "That is a most... colorful representation of the events that transpired"
+
+
+Harru says, "you then later chose to drag prey over me as I was healing"
+
+
+Harru says, "I came to you and struck your weapon"
+
+
+Kyra says to Kurapiira, "I was raised in the forest as a nomad. I am not one for cities. I would if needed to, for it is my wish to serve the temple. That is what my Master sent me to do, no matter my feelings."
+
+
+Harru says, "you chose to swing back"
+
+Tyrias ignores Harru.
+
+Soreth grits his teeth.
+
+
+Tyrias says, "For those who are not aware of the circumstances"
+
+
+Harru says, "you hit me and kept hitting me while I stood there"
+
+nod to ky
+You nod to Kyra.
+
+
+Kyra says to Kurapiira, "If that is how I would serve...so be it."
+
+
+Harru says, "Once I raged I clawed you And let you leave"
+
+A blue jay just entered from the west.
+
+
+Harru says, "I did not kill you"
+
+ ** Gast Ironmaw just arrived in the world
+
+
+Harru says, "I then offered to consider it over amd you spit on me"
+
+
+Tyrias says, "I happened upon Harru as he was tending his wounds while an imp was beating on him. I observed him for some time and and when he questioned what I was doing I told him such and left him."
+
+The blue jay lands on a nearby branch, his feathers puffing up as he tilts his head to the side and studies his surroundings intently.
+
+
+Harru says, "after spitting on me and taunting"
+
+l
+
+[Sanctuary of Eyridane and Morana]
+The small path ends as the trees part, revealing a small clearing. Sunlight filters down from above, splashing the vibrant green grass and wildflowers. The noise of the central part of the grove all but fades away in this quiet sanctuary. An altar of stone rests in the center of the small clearing of verdant grass. Tangled vines have grown wild across the hard stone and though no markings can be seen, it is obvious that this is a place sacred to the twin goddesses of nature. Overhead the soft warbling of songbirds blends with the chirping crickets below into a sublime symphony of sounds. Small trinkets of adoration and worship have been left at the base of the altar, each one a symbol of devotion to their beloved gods.
+
+The area is illuminated.
+
+In this room you see: Raabilis the Galirrim,  Kyra the Silvarin,  Soreth the Galirrim,  Harru the Galirrim,  Tyrias the Silvarin, 1st blue jay
+In this room are: simple stone altar
+Obvious exits are: west, an arch of twisting branches
+
+
+Harru says, "and called me a mongrel"
+
+
+Tyrias says to Harru, "Lying is not becoming and will you be silent? I believe you've explained your side of the story."
+
+Raabilis frowns.
+
+
+Harru says, "if you wish to challenge then feel free"
+
+The 1st blue jay just wandered west.
+
+Soreth grits his teeth.
+
+
+Tyrias says, "I passed him later, as to whether I was followed or not, I honestly do not know."
+
+Kyra frowns and speaks quietly. "With such animosity...there can be no unity...perhaps, if we can say both are at fault for some things and others, and shake hands and paws in forgiveness?.
+
+comf so
+You comfort Soreth.
+
+nod to ky
+You nod to Kyra.
+
+
+Tyrias says, "What I do know is that moments later, he came in and began to assail me. I fought back, as anyone would do naturally, and had I not fled he would have killed me."
+
+ ** Kassi Boyd just left the world unexpectedly.
+
+ ** Jerosii Nirahn just left the world unexpectedly.
+
+
+Raabilis says to Kyra, "When my people are wronged, we fight. Once the aggression has passed, that is the end of the conflict."
+
+ ** Wrath Elson just arrived in the world
+
+ ** Jerosii Nirahn just arrived in the world
+
+tac
+You are currently standing 4 units behind center.
+
+Standing in your rank:
+Raabilis, Soreth, Harru, Tyrias, Kurapiira
+Standing 1 units behind you:
+Kyra
+
+
+
+Kyra says, "Seems to me, both made wrong decisions."
+
+ ** Kassi Boyd just arrived in the world
+
+who
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+    Currently Connected
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+Rak Heirdar
+Laro Blinthe
+Daelor Kethmar
+Cansa Sortas
+Sorian Kabal
+Machete Hammer
+Asher Leshrak
+Raabilis Moonreaver
+Wrath Elson
+Vandit Nights
+Kurapiira Mako
+Aethlyn Boreas
+Kyra Lunaris
+Jerosii Nirahn
+Kassi Boyd
+Soreth Greymoon
+Kyris Verloren
+Gast Ironmaw
+Galen Marek
+Harru Shadowstalker
+Aegys Redbow
+Eridan Volant
+Desmond Delavan
+Tyrias Valdain
+Feir Cousat
+Seren Prilos
+Maltrinus Milforge
+
+    [27 total]
+
+
+Tyrias says, "At which time, I retreated to tend to my wounds. He followed after me and we exchanged words. Forgive me if I do not immediately try to reconcile with a feral beast who just attempted to take my life."
+
+ ** Rak Heirdar just left the world.
+
+
+Soreth asks Kyra, "What would you say was Tyrias's wrong decision?"
+
+ ** Rak Heirdar just arrived in the world
+
+
+Tyrias says, "At which point, I told him such, sat at his feet, not on him to be sure, and left."
+
+
+Harru asks Tyrias, "did you spit at me?"
+
+A blue jay just entered from the west.
+
+Raabilis furrows her brow.
+
+
+Kyra says, "For one, insults."
+
+The blue jay lands on a nearby branch, his feathers puffing up as he tilts his head to the side and studies his surroundings intently.
+
+
+Kyra says, "And one did spit on Harru, then that is also a wrong decision."
+
+ ** Laro Blinthe just left the world.
+
+
+Harru asks Tyrias, "did you call me a mongrel without even knowing me?"
+
+
+Raabilis says, "Both stories are sorely different..."
+
+
+Kyra says, "If one did spit."
+
+
+Tyrias says to Kyra, "I will not deny spitting at his feet before I left him, but this was after we came to blows, not before."
+
+The blue jay lands on a nearby branch, his feathers puffing up as he tilts his head to the side and studies his surroundings intently.
+
+l
+
+[Sanctuary of Eyridane and Morana]
+The small path ends as the trees part, revealing a small clearing. Sunlight filters down from above, splashing the vibrant green grass and wildflowers. The noise of the central part of the grove all but fades away in this quiet sanctuary. An altar of stone rests in the center of the small clearing of verdant grass. Tangled vines have grown wild across the hard stone and though no markings can be seen, it is obvious that this is a place sacred to the twin goddesses of nature. Overhead the soft warbling of songbirds blends with the chirping crickets below into a sublime symphony of sounds. Small trinkets of adoration and worship have been left at the base of the altar, each one a symbol of devotion to their beloved gods.
+
+The area is illuminated.
+
+In this room you see: Raabilis the Galirrim,  Kyra the Silvarin,  Soreth the Galirrim,  Harru the Galirrim,  Tyrias the Silvarin, 1st blue jay
+In this room are: simple stone altar
+Obvious exits are: west, an arch of twisting branches
+
+
+Tyrias says, "And I do not deny calling him a mongrel, but again, this was after he struck me."
+
+Tyrias shrugs.
+
+chu gently, winking..
+You chuckle gently, winking...
+
+set mood ?
+The following is a list of moods you can select from:
+absent-minded, affectionate, aloof, ambivalent, amused, angry, annoyed, apathetic, bashful, bemused, benevolent, black, blissful, blue, bored, calculating, calm, cautious, chagrined, chaotic, chivalrous, closed, cold, condescending, confused, covert, creative, dark, despairing, desperate, distant, dominating, dreamy, driven, ecstatic, edgy, flaming-mad, flirtatious, frantic, friendly, frightened, frustrated, furious, giving, governing, grim, grumpy, happy, hesitant, hopeful, hopeless, impatient, jocular, joking, joyful, lazy, leery, lethargic, loving, malevolent, malicious, manic, masked, mirthful, mischievous, negative, nervous, neutral, objective, open, orderly, panicky, partying, passionate, patient, pensive, petrified, placid, playful, positive, productive, prophetic, raving-mad, reserved, sad, scared, scared, scatter-brained, secretive, seductive, self-loathing, sensual, shy, silly, sleepy, snippy, snotty, spurned, stressed-out, submissive, tentative, thoughtful, tired, troubled, upset, vengeful, wary, whiny, willy-nilly, wrathful
+
+The 1st blue jay just wandered west.
+
+set mood aloof
+Your mood is now aloof.
+
+stand
+You stand up.
+
+'so, I shall represent our temple in the Religious Council if no other steps forward 
+'t, please add your name to the temple registry if you so choose..
+You say to Soreth, "I shall represent our temple in the Religious Council if no other steps forward"
+
+You say to Tyrias, "please add your name to the temple registry if you so choose.."
+
+bow
+You bow.
+
+Tyrias nods to you.
+
+w
+
+[Pathway Through the Trees]
+A small gap through the tangled trees allows passage to the quiet haven of the Druids and the Twins' other worshipers. The path is narrow and vines hang low, entangling all but the most wary, or welcome visitors.
+
+The area is illuminated.
+
+In this room you see: 1st blue jay corpse (laying on the ground), 2nd blue jay
+Obvious exits are: west, east
+
+w
+w
+
+[Secluded Grove]
+Trees have grown into a natural wall, protecting the clearing from any unwanted visitors. Vines have been woven through the tangled branches of the trees, blocking the rest of the forest from view. Soft grass peppered with patches of clover grows underfoot, and a small, brown rabbit nibbles contentedly on the green stalks.  A small group of sturdy Galirrim has gathered around a small spring of crystal clear water. Enchanting scents of cooking food waft through the air from a painted-wood tavern, closely followed by the sound merry laughter.
+
+The area is illuminated.
+
+In this room are: small spring of crystal clear water
+Obvious exits are: west, east, painted wooden door, a gravel road, slender gap in the wall of trees
+
+w
+
+[Farmlands]
+Sprawling farmlands suddenly break the wall of trees and small houses dot the landscape. Farmers are hard at work in their fields, sweating beneath the heat of the sun as they gather their crops for sale at the markets of Urda. In the distance a pasture of cattle can be seen grazing at the close cropped grass of their enclosure.
+
+The area is illuminated.
+
+In this room you see: 1st blue jay, 2nd blue jay
+Obvious exits are: west, east
+
+
+[Elegant Villa, Exterior]
+A great stone villa is here, its sprawling form seeming to appear out of nowhere at the far end of an immense field. A statue of a man with noble features stands beside the iron-bound oak doors, in his hand he holds a two-handed broadsword with ease. Carefully tended trees frame the villa with bright, viridian foliage, masking the true size of the structure. Windows dot the rocky walls of the building, granting glimpses into the opulently decorated home. It's sealed iron-bound oak doors appear to be locked tightly.
+
+The area is illuminated.
+
+Obvious exits are: east
+
+w
+I don't see what exit you're referring to.
+
+e
+
+[Farmlands]
+Sprawling farmlands suddenly break the wall of trees and small houses dot the landscape. Farmers are hard at work in their fields, sweating beneath the heat of the sun as they gather their crops for sale at the markets of Urda. In the distance a pasture of cattle can be seen grazing at the close cropped grass of their enclosure.
+
+The area is illuminated.
+
+In this room you see: 1st blue jay, 2nd blue jay
+Obvious exits are: west, east
+
+e
+
+[Secluded Grove]
+Trees have grown into a natural wall, protecting the clearing from any unwanted visitors. Vines have been woven through the tangled branches of the trees, blocking the rest of the forest from view. Soft grass peppered with patches of clover grows underfoot, and a small, brown rabbit nibbles contentedly on the green stalks.  A small group of sturdy Galirrim has gathered around a small spring of crystal clear water. Enchanting scents of cooking food waft through the air from a painted-wood tavern, closely followed by the sound merry laughter.
+
+The area is illuminated.
+
+In this room are: small spring of crystal clear water
+Obvious exits are: west, east, painted wooden door, a gravel road, slender gap in the wall of trees
+
+go g
+It is too dark to see!
+
+go g
+
+[Wall of Vines]
+Towering trees stand side by side, their branches entangled into a thick snarl. Vines have woven themselves through the gaps of the trees, seeking to stop any unwelcome travelers from continuing down the path. Muffled sounds of a large gathering can be heard coming from the far side of the wall of flora.
+
+The area is illuminated.
+
+Obvious exits are: east, slender gap in the wall of trees
+
+fly up 5
+gla down
+With a small running start, you leap into the air and spread your wings!
+[5 sec. delay]
+
+You glance down.
+
+time
