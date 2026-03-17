@@ -1,0 +1,360 @@
+time
+Sammoth's group just went north.
+
+You follow Sammoth...
+
+
+[Ghost Town Road]
+The stones of the old cobblestone road are cracked and chipped. Several are lose and create a hazard for those passing through. Weeds and flowers fight to gain a foothold amongst the cracks in the stones.
+
+
+In this room you see: Sammoth the Rock Troll
+Obvious exits are: north, south
+
+It is currently 12:07 PM.
+
+
+Sammoth asks, "Huh?"
+
+Sammoth's group just went north.
+
+You follow Sammoth...
+
+
+[Ghost Town Road]
+The weed laden cobblestone road runs both towards the north and the south. A small dirt footpath heads off in a westerly direction. The ground around the path is littered with the imprints of many different animals. A single wagon wheel is embedded firmly into the ground at the side of the road, it is almost as if the wagon lost the wheel and just continued on without ever noticing the bumpy ride.
+
+
+In this room you see: Sammoth the Rock Troll
+Obvious exits are: north, south, path
+
+Sammoth's group just went north.
+
+You follow Sammoth...
+
+
+[Ghost Town Road]
+Missing cobblestones have created large potholes in this old road. A variety of weeds and flowers have made these potholes their home. Water from both rain and heavy mists has collected within the holes creating a perfect environment for growth. 
+
+
+In this room you see: Sammoth the Rock Troll
+Obvious exits are: north, south
+
+Sammoth's group just went north.
+
+You follow Sammoth...
+
+
+[Ghost Town Square]
+A short obelisk leans crookedly across the rubble of square stones. Black thick water emanates a strong odor and indicates that this must have been a fountain at one time. There is writing on the obelisk but unfortunately it is too worn to read.
+
+
+In this room you see: Sammoth the Rock Troll
+Obvious exits are: north, east, south, west
+
+Sammoth's group just went north.
+
+You follow Sammoth...
+
+
+[Ghost Town Road]
+The cobblestone road has been overrun by the natural grasses which dominate the area. Much of the dry brown grass, is attempting to reach for available light to assist it in taking purchase. Several unbroken stones have been stacked on the side of the road. 
+
+
+In this room you see: Sammoth the Rock Troll
+Obvious exits are: north, south
+
+'ghost town
+Sammoth's group just went north.
+
+You follow Sammoth...
+
+
+[Ghost Town Road]
+A lattice arbor, covered with tangled white roses, resides on the east side of the road. Only a hearty wild rose would survive in this neglected spot. The old cobblestone road leads both north and south.
+
+
+In this room you see: Sammoth the Rock Troll
+Obvious exits are: north, south, arbor
+
+You say, "ghost town"
+
+Sammoth's group just went north.
+
+You follow Sammoth...
+
+
+[Ghost Town Road]
+Down the southern walkway it is quite obvious that the cobblestone road has seen better days. As it heads further south it is hard to think of it as anything more than a grassy road punctuated by a few broken-up cobblestones. Somebody, perhaps young children just having fun, have spent hours throwing pottery against what few cobblestones are left. The hundreds of broken shards that scatter the pathway make any travel by horse or foot hazardous.
+
+
+In this room you see: Sammoth the Rock Troll
+Obvious exits are: north, south
+
+Sammoth's group just went north.
+
+You follow Sammoth...
+
+
+[Ghost Town ]
+Down the length of the cobblestones path two divets are worn deep into the stones where wagon wheels once traveled, showing that at one point there must have been heavy traffic through these streets. Towards the west is a small wooden building that is missing its two front windows as well as its door that seemed to have been torn out, giving it the gloomy appearance of a frowning face. A little to the left sits the entrance gate to the ghost city, which from this side is now practically unnoticable due to the thick brush that surrounds it.
+
+
+In this room you see: Sammoth the Rock Troll
+Obvious exits are: south, door
+
+
+Sammoth says, "Ahh"
+
+Sammoth's group just went through the door.
+
+You follow Sammoth...
+
+
+[Dilapidated House]
+All around you dust and debris coats the floor, various streaks are left through the dust where it seems small animals have made their way through this pathetic looking house. Several broken wooden tables lie scattered across the floor along with the shattered remains of various other pieces of furniture.  A long plank of wood sits on one wall in a sort of makeshit shelf, lined with fly-specked glasses and white crockery. Spider webs decorate the doorway to the west, mildly threatning anything that dares to pass through.
+
+
+In this room you see: Sammoth the Rock Troll
+Obvious exits are: west, door
+
+Sammoth's group just went through the door.
+
+You follow Sammoth...
+
+
+[Ghost Town ]
+Down the length of the cobblestones path two divets are worn deep into the stones where wagon wheels once traveled, showing that at one point there must have been heavy traffic through these streets. Towards the west is a small wooden building that is missing its two front windows as well as its door that seemed to have been torn out, giving it the gloomy appearance of a frowning face. A little to the left sits the entrance gate to the ghost city, which from this side is now practically unnoticable due to the thick brush that surrounds it.
+
+
+In this room you see: Sammoth the Rock Troll
+Obvious exits are: south, door
+
+l
+
+[Ghost Town ]
+Down the length of the cobblestones path two divets are worn deep into the stones where wagon wheels once traveled, showing that at one point there must have been heavy traffic through these streets. Towards the west is a small wooden building that is missing its two front windows as well as its door that seemed to have been torn out, giving it the gloomy appearance of a frowning face. A little to the left sits the entrance gate to the ghost city, which from this side is now practically unnoticable due to the thick brush that surrounds it.
+
+
+In this room you see: Sammoth the Rock Troll
+Obvious exits are: south, door
+
+l at s
+
+You see Sammoth the adult Rock Troll.
+He is 6' 3" tall with a muscular build, dreadlocked, bluish black hair, ruby red eyes, and reddish brown skin.
+He bears the mark of Aypas.
+He is currently in a neutral mood.
+
+Description:
+This Troll has clearly seen battle before. Scars appear all over his body. Deep claw marks form an X across his upper torso..
+
+
+He is carrying:
+ -a dragon hilted broadsword     (both hands)
+ -a dark golden battle mail      (torso)
+ -a black broadcloth trousers    (legs)
+ -a pair of black combat boots   (feet)
+ -a open simple leather backpack         (on back)
+ -a black leather belt   (around waist)
+ -a well forged scabbard         (on belt)
+
+
+
+Sammoth taps his foot.
+
+Sammoth's group just went south.
+
+You follow Sammoth...
+
+
+[Ghost Town Road]
+Down the southern walkway it is quite obvious that the cobblestone road has seen better days. As it heads further south it is hard to think of it as anything more than a grassy road punctuated by a few broken-up cobblestones. Somebody, perhaps young children just having fun, have spent hours throwing pottery against what few cobblestones are left. The hundreds of broken shards that scatter the pathway make any travel by horse or foot hazardous.
+
+
+In this room you see: Sammoth the Rock Troll
+Obvious exits are: north, south
+
+Sammoth's group just went south.
+
+You follow Sammoth...
+
+
+[Ghost Town Road]
+A lattice arbor, covered with tangled white roses, resides on the east side of the road. Only a hearty wild rose would survive in this neglected spot. The old cobblestone road leads both north and south.
+
+
+In this room you see: Sammoth the Rock Troll
+Obvious exits are: north, south, arbor
+
+Sammoth's group just went south.
+
+You follow Sammoth...
+
+
+[Ghost Town Road]
+The cobblestone road has been overrun by the natural grasses which dominate the area. Much of the dry brown grass, is attempting to reach for available light to assist it in taking purchase. Several unbroken stones have been stacked on the side of the road. 
+
+
+In this room you see: Sammoth the Rock Troll
+Obvious exits are: north, south
+
+Sammoth's group just went south.
+
+You follow Sammoth...
+
+
+[Ghost Town Square]
+A short obelisk leans crookedly across the rubble of square stones. Black thick water emanates a strong odor and indicates that this must have been a fountain at one time. There is writing on the obelisk but unfortunately it is too worn to read.
+
+
+In this room you see: Sammoth the Rock Troll
+Obvious exits are: north, east, south, west
+
+Sammoth's group just went south.
+
+You follow Sammoth...
+
+
+[Ghost Town Road]
+Missing cobblestones have created large potholes in this old road. A variety of weeds and flowers have made these potholes their home. Water from both rain and heavy mists has collected within the holes creating a perfect environment for growth. 
+
+
+In this room you see: Sammoth the Rock Troll
+Obvious exits are: north, south
+
+Sammoth's group just went south.
+
+You follow Sammoth...
+
+
+[Ghost Town Road]
+The weed laden cobblestone road runs both towards the north and the south. A small dirt footpath heads off in a westerly direction. The ground around the path is littered with the imprints of many different animals. A single wagon wheel is embedded firmly into the ground at the side of the road, it is almost as if the wagon lost the wheel and just continued on without ever noticing the bumpy ride.
+
+
+In this room you see: Sammoth the Rock Troll
+Obvious exits are: north, south, path
+
+Sammoth's group just went south.
+
+You follow Sammoth...
+
+
+[Ghost Town Road]
+The stones of the old cobblestone road are cracked and chipped. Several are lose and create a hazard for those passing through. Weeds and flowers fight to gain a foothold amongst the cracks in the stones.
+
+
+In this room you see: Sammoth the Rock Troll
+Obvious exits are: north, south
+
+Sammoth's group just went south.
+
+You follow Sammoth...
+
+
+[Entry fence]
+Along the eastern side of the cobblestone path sits an ornately designed fence, the tops covered in intricate swirls and spirals; in the middle of which is an expertly crafted sculpture showing two playful Fey. Beyond the fence grows weeds thick enough that if anything shorter than it were to enter, it would simply disappear. Just inside the wild yard one can see a small parting, showing that somewhere inside the dense growth sits a pathway to some sort of residence. The south side of the road displays a large gate with rusted hinges.
+
+
+In this room you see: Sammoth the Rock Troll
+Obvious exits are: north, fence, gate
+
+Sammoth's group just went north.
+
+You follow Sammoth...
+
+
+[Ghost Town Road]
+The stones of the old cobblestone road are cracked and chipped. Several are lose and create a hazard for those passing through. Weeds and flowers fight to gain a foothold amongst the cracks in the stones.
+
+
+In this room you see: Sammoth the Rock Troll
+Obvious exits are: north, south
+
+Sammoth's group just went north.
+
+You follow Sammoth...
+
+
+[Ghost Town Road]
+The weed laden cobblestone road runs both towards the north and the south. A small dirt footpath heads off in a westerly direction. The ground around the path is littered with the imprints of many different animals. A single wagon wheel is embedded firmly into the ground at the side of the road, it is almost as if the wagon lost the wheel and just continued on without ever noticing the bumpy ride.
+
+
+In this room you see: Sammoth the Rock Troll
+Obvious exits are: north, south, path
+
+Sammoth's group just went north.
+
+You follow Sammoth...
+
+
+[Ghost Town Road]
+Missing cobblestones have created large potholes in this old road. A variety of weeds and flowers have made these potholes their home. Water from both rain and heavy mists has collected within the holes creating a perfect environment for growth. 
+
+
+In this room you see: Sammoth the Rock Troll
+Obvious exits are: north, south
+
+Sammoth's group just went north.
+
+You follow Sammoth...
+
+
+[Ghost Town Square]
+A short obelisk leans crookedly across the rubble of square stones. Black thick water emanates a strong odor and indicates that this must have been a fountain at one time. There is writing on the obelisk but unfortunately it is too worn to read.
+
+
+In this room you see: Sammoth the Rock Troll
+Obvious exits are: north, east, south, west
+
+Sammoth's group just went north.
+
+You follow Sammoth...
+
+
+[Ghost Town Road]
+The cobblestone road has been overrun by the natural grasses which dominate the area. Much of the dry brown grass, is attempting to reach for available light to assist it in taking purchase. Several unbroken stones have been stacked on the side of the road. 
+
+
+In this room you see: Sammoth the Rock Troll
+Obvious exits are: north, south
+
+Sammoth's group just went north.
+
+You follow Sammoth...
+
+
+[Ghost Town Road]
+A lattice arbor, covered with tangled white roses, resides on the east side of the road. Only a hearty wild rose would survive in this neglected spot. The old cobblestone road leads both north and south.
+
+
+In this room you see: Sammoth the Rock Troll
+Obvious exits are: north, south, arbor
+
+Sammoth's group just went north.
+
+You follow Sammoth...
+
+
+[Ghost Town Road]
+Down the southern walkway it is quite obvious that the cobblestone road has seen better days. As it heads further south it is hard to think of it as anything more than a grassy road punctuated by a few broken-up cobblestones. Somebody, perhaps young children just having fun, have spent hours throwing pottery against what few cobblestones are left. The hundreds of broken shards that scatter the pathway make any travel by horse or foot hazardous.
+
+
+In this room you see: Sammoth the Rock Troll
+Obvious exits are: north, south
+
+Sammoth's group just went north.
+
+You follow Sammoth...
+
+
+[Ghost Town ]
+Down the length of the cobblestones path two divets are worn deep into the stones where wagon wheels once traveled, showing that at one point there must have been heavy traffic through these streets. Towards the west is a small wooden building that is missing its two front windows as well as its door that seemed to have been torn out, giving it the gloomy appearance of a frowning face. A little to the left sits the entrance gate to the ghost city, which from this side is now practically unnoticable due to the thick brush that surrounds it.
+
+
+In this room you see: Sammoth the Rock Troll
+Obvious exits are: south, door
+
+A wandering soul just entered the room 5 units in front of you.
+
+time
