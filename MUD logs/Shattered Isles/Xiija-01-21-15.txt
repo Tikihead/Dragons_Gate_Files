@@ -1,0 +1,3168 @@
+
+Percival arrives through a thick ebony door.
+
+Ayderias removes a brass-buckled leather emissary satchel.
+l
+
+
+
+[Conciliatory Chamber.]
+
+A long, oval table stretches the width of the room, behind it sit rigid, ebony chairs aligned in a row.  In front of the council table is an ebony podium at which those addressing the conclave may stand.  A large, crystal chandelier hangs down at the center, its glow providing ample light during proceedings.  A portrait of the king sitting upon his throne overlooks the chamber from the back wall.  You notice an ebony podium, an open thick ebony door, an engraved cylindrical brass dispenser, and a carved cherrywood cabinet.
+
+Also here: Merchant Ernest the Human (seated) at an oval ebony table, Merchant Menfanous the Dwarf, Trystan the Human, Emissary Wren the Human (seated) at an oval ebony table, Emissary Visyn the Devalin (seated) at an oval ebony table, Champion Blink the Avardi, Emissary Eleanora the Dwarf, Khalsat Faran the Nydine (seated) at an oval ebony table, Emissary Ayderias the Avardi, and Knight Marshal Percival the Human 
+
+Obvious Exits: none
+
+l ern
+
+Ernest looks like a portly 49 year old male Human.
+He has dark brown eyes and is bald.
+He is 5 feet 6 inches tall and weighs 253 pounds.
+He has an aura of Itzal.
+Ernest is in perfect health.
+
+A human of considerable girth and lacking the height needed to distribute such weight. His clothing is almost always soiled, stained, or otherwise blemished. Plump cheeks support ebony-framed glasses, each side wrapped in wire to hold them together where the wood has broken.
+
+He is wearing:
+
+Eyes            : some wire-wrapped ebony glasses
+Body            : a brass-buckled leather emissary satchel
+Body            : a gold-tasseled dark purple wool overcoat
+Torso           : a loose-fitting beige wool tunic
+Waist           : a gold tasseled steel scabbard
+Waist           : a stitched-leather sleeve brass ring
+Waist           : a ship emblazoned square leather case
+Legs            : some tattered black wool dress pants
+Feet            : some scuffed black leather shoes
+
+
+Ayderias says, "Good evening to you all."
+l men
+
+Menfanous looks like an able-bodied 35 year old male Dwarf.
+He has emerald green eyes, collar length, neatly kept, sandy blonde hair, and a triple tied, sandy blonde beard.
+He is 4 feet 1 inch tall and weighs 152 pounds.
+He has an aura of Astraeva.
+Menfanous is in perfect health.
+
+this dwarf is very tall for his race. He has hypnotic green eyes that appear to be kind and welcoming. He appears to be self confident but not arrogant. He has a small scar above his right eye.
+
+He is wearing:
+
+Torso           : a two-toned starch-collared brown twill vest
+Torso           : a pitch black cotton doublet
+Legs            : a brown leather-waisted green wool kilt
+Feet            : some ridged alligator skin boots
+Wield           : a short ebony-handled steel dirk
+
+
+Ayderias sits at an oval ebony table.
+l try
+
+Trystan looks like a muscular 24 year old male Human.
+He has deep blue eyes and shoulder length, neatly kept, dull black hair.
+He is 6 feet 2 inches tall and weighs 188 pounds.
+He has an aura of Aerthane.
+Trystan is in perfect health.
+
+A tall young man with a casual manner. Dark hair highlights a pair of deep blue eyes that give you a quick notice before quickly turning to something else.
+
+He is wearing:
+
+Neck            : a black braided-leather corded silver medallion
+Body            : a silver clasped black matte leather hooded cloak
+Torso           : an arcsilver whirlwind-inlaid blacksteel breastplate
+Torso           : a black emerald green-striped light cotton gambeson
+Left wrist      : a blacksteel and silver braided wristband
+Right wrist     : a smooth leaf-carved silverwood bracelet
+Waist           : a small black leather coinpouch
+Waist           : a silver buckled black leather belt
+Legs            : some dark grey wool trousers
+Feet            : some smoky grey half-heeled elephant skin jackboots
+
+Wren says to Ayderias, "And to you, Emissary Clarveau."
+
+Seren arrives through a thick ebony door.
+l wre
+
+Wren peers at Percival.
+<HP: 155/155 ST: 120/120>
+Wren looks like a lean 26 year old female Human.
+She has hazel eyes and long, straight, glossy black hair.
+She is 5 feet 11 inches tall and weighs 137 pounds.
+She has an aura of Itzal.
+Wren is in perfect health.
+
+The woman's obsidian tresses are wound into a tight, messy knot at the back of her head, loose strands fanning out from it in all directions. Intense gold eyes lined in charcoal complement a pleasing face, framed by side-swept locks of hair that curl just beneath her jaw. A thin pink scar is visible at the base of her throat, curving around the right side of her neck.
+
+She is wearing:
+
+Ears            : a small dangling feather silver earcuff
+Neck            : a dragon-engraved onyx choker
+Body            : a short onyx-clasped white dire wolf fur paenula
+Body            : a fitted black cotton dress
+Torso           : an underbust rose-patterned maroon satin corset
+Hands           : some fingerless black silk opera gloves
+Waist           : an etched obsidian sheath
+Feet            : some ankle-strapped peep toe black suede stilettos
+
+Eleanora says to Visyn, "Hello there."
+l vis
+
+Visyn looks like a slender 95 year old male Devalin.
+He has scarlet red eyes and short, neatly kept, dull black hair.
+He is 5 feet 8 inches tall and weighs 152 pounds.
+He has an aura of Pyrous.
+Visyn is in perfect health.
+
+His fiery, scarlet eyes gaze around. His dark grey skin is rough and worn from years of living outdoors. He appears to be deep in thought as evident by his quiet and calculating demeanor.
+
+He is wearing:
+
+Neck            : a smooth bloodstone flame necklace
+Back            : a crimson canvas archer's pack
+Body            : a hardened silk-lined deep scarlet leather bow case
+Body            : a loose-fitting hooded black wool longcoat
+Torso           : some black-enameled thoraxium armor
+Torso           : a collared button-down crimson satin dress shirt
+Arms            : some phoenix-engraved hardened leather archer bracers
+Left finger     : a traditional silverwood-banded jade and amber ring
+Right finger    : a wolf-engraved jade archer's thumb ring
+Waist           : a finely crafted silver and cobalt scale scabbard
+Legs            : some rugged black wool pants
+Feet            : some dull black leather boots
+
+
+Seren leaves through a thick ebony door.
+l bli
+
+Blink looks like a skinny 32 year old male Avardi.
+He has light gray eyes and medium length, spiky, silvery gray hair.
+He is 6 foot tall and weighs 98 pounds.
+He has an aura of Aerthane.
+Blink is in perfect health.
+
+Tall and skinny, with a slight stoop. His gray eyes take in the world calmly above the gold persarium beak of his helm. He smells of cigarette smoke.
+
+He is wearing:
+
+Head            : a horned and beaked persarium helm
+Eyes            : some cobalt-framed round bifocal glass spectacles
+Neck            : a simple white crystal air symbol
+Back            : some huge spread out polychromatic feathered wings
+Body            : a silver-buckled leather satchel
+Body            : some polychromatic feathered robes
+Torso           : an oversized white flowered blue cotton tourist shirt
+Hands           : some curved blacksteel eagle talons
+Waist           : some polychromatic tail feathers
+Legs            : some fitted rugged khaki pants
+Wield           : a short wire-wrapped sharkskin-hilted steel stiletto
+Held            : a small round wooden shield
+Face            : a smoking horned multi-colored feather thunderbird mask
+
+
+Wren says to Percival, "Knight Marshal."
+l ele
+
+Eleanora looks like a stocky 52 year old female Dwarf.
+She has pale blue eyes, long, neatly parted, dark blonde hair, and a spiral wrapped, dark blonde beard.
+She is 3 feet 9 inches tall and weighs 157 pounds.
+She has an aura of Astraeva.
+Eleanora is in perfect health.
+
+A pair of soft blue eyes peer from within her blonde-framed face. On her rosy cheeks, her dark blonde beard descends, decoratively wrapped by a wide, gold ribbon. Her hair falls past her broad shoulders, reaching halfway down her torso.
+
+She is wearing:
+
+Head            : an intricately-designed gold headband
+Body            : a brass-buckled leather emissary satchel
+Torso           : a white button-down cashmere blouse
+Legs            : a gold spun gray wool skirt
+Feet            : a pair of gold-tasseled black leather loafers
+
+l far
+
+Faran looks like a lean 66 year old female Nydine.
+She has dark green eyes and uneven, wavy, purplish black hair.
+She is 6 feet 9 inches tall and weighs 162 pounds.
+She has an aura of Kaleith.
+Faran is in perfect health.
+
+Layers of varied blues, silver and white drape a willowy gamine figure, punctuated by a coral sash girding a slender waist. A kabney swaths her body diagonally and hangs loose over her right hip, affixed at the left shoulder by a fibula. Dark, vivid moss green eyes peer out from an angular elven face with high cheekbones, framed by wavy, unevenly cut violet hair, the right tresses cascading to mid-shoulder. An ancient spearhead dangles noticeably from a long silver chain around her neck down to her navel.
+
+She is wearing:
+
+Head            : a sparkling sapphire-encrusted ivory hairpin
+Head            : a filigreed persarium tri-point crested kbang diadem
+Ears            : some vivid blue lapis and pearl water lilies
+Neck            : a silver-threaded dark orchid cashmere scarf
+Neck            : an ancient silver-stranded electrum spearhead
+Neck            : an engraved paraiba topaz-adorned slivered electrum apple
+Body            : a smalt byssus-lined snow white polar bear fur samghati
+Body            : a draped arctic fox fur-fringed lapis blue brocade kabney
+Body            : a waterfall-draped silvery triangular byssus antarvasa
+Torso           : a woven smalt and celadon cape-sleeved mohair uttarasanga
+Torso           : a penannular ouroboros arcsilver archmage fibula
+Left wrist      : some nautical constellation-stamped electrum cuffs
+Right wrist     : an antique rainbow-patina silver sea-serpent bangle
+Left finger     : a gelid ice crystal-inlaid electrum ouroboros eternity band
+Left finger     : a sapphire-veined silver sinuous sea-serpent
+Waist           : a tide-smoothed gilt glyph-marked driftwood crescent sheath
+Waist           : an eagle feather-tasseled woven leather belt sheath
+Waist           : an engraved arcsilver around-the-waist urumi scabbard
+Waist           : some faceted sea-serpent etched sapphire prayer beads
+Waist           : a dewy silver and gold knotted coral samite sash
+Legs            : some tapered shearling-lined blue merle sealskin leggings
+Feet            : some moon embroidered misty blue polar bear fur-lined gutul
+
+
+Seren arrives through a thick ebony door.
+l ayd
+
+Ayderias looks like a lean 160 year old male Avardi.
+He has light gray eyes and long, straight, silvery gray hair.
+He is 6 feet 1 inch tall and weighs 133 pounds.
+He has an aura of Aerthane.
+Ayderias is in perfect health.
+
+Long, perfectly straight hair of a silvery color frames a slender face. Pointed ears break through on either side without disrupting the flow of his hair. Light gray eyes almost blue in appearance stand out from his milky-white pale skin.
+
+He is wearing:
+
+Head            : a diamond-encrusted silver circlet
+Body            : a diamond-clasped grey wool cloak
+Torso           : a silver-threaded white brocade tunic
+Waist           : a slender elven crafted leather scabbard
+Legs            : some loose fitting white linen trousers
+Feet            : some white-buckled grey leather boots
+
+l per
+
+Percival looks like a sinewy 23 year old male Human.
+He has dark green eyes and collar length, disheveled, light blonde hair.
+He is 5 feet 8 inches tall and weighs 140 pounds.
+He has an aura of Itzal.
+Percival is in perfect health.
+
+Though not overly tall or robust, this Knight Marshal gazes at others nearby with a watchful eye. His uniform is neatly pressed and in order. Proud in stature, his armor displays a bit of his past as it is gouged near his heart.
+
+He is wearing:
+
+Torso           : some marred battle worn blacksteel armor
+Torso           : a gold-buttoned purple wool uniform
+Waist           : a gold-buckled black leather belt
+Legs            : some black wool trousers
+Feet            : some gold-clasped black leather boots
+
+Eleanora sits at an oval ebony table.
+
+Ayderias places his emissary satchel beside his chair.
+
+Menfanous salutes to Percival.
+
+Percival says to Wren, "Hello to you."
+l ser
+
+Seren looks like an athletic 25 year old female Avardi.
+She has bluish gray eyes and long, unbridled, light blonde hair.
+She is 5 feet 8 inches tall and weighs 118 pounds.
+She has an aura of Aerthane.
+Seren is in perfect health.
+
+Long hair swirls around her head partially covering an artisian mark behind her left ear.
+
+She is wearing:
+
+Ears            : some tiny silver feather earrings
+Neck            : a brushed silver feather necklace
+Body            : a grey leather craftsman satchel
+Body            : a feather trimmed white silk dress
+Torso           : a studded blacksteel cuirass
+Left wrist      : a smooth walnut bracelet
+Left finger     : a hammered gold wedding band
+Left finger     : a flour dusted silver ring
+Feet            : some white silk high heels
+Held            : a large ebony shield
+
+l xii
+
+Xiija looks like a slender 55 year old female Sylph.
+She has silvery eyes and very long, dreaded, platinum blonde hair.
+She is 1 feet 9 inches tall and weighs 19 pounds.
+She has an aura of Aerthane.
+Xiija is in perfect health.
+
+Dirty silvery dreadlocks fall across her face, obscuring intense eyes, one white, one silvery-grey,from your view
+
+Visible Tattoos:
+
+A sleeve of multi-colored dragons twists down her left arm from shoulder to wrist.
+A small deep blue pentagram is tattooed upon her neck.
+On her left cheek is a small tribal tattoo.
+Centered on her forehead is tattooed the Mark of Aerthane.
+Up the inside of her right forearm is a tattoo of a black Caduceus with bloody wings.
+
+She appears to be in a mischievous mood
+
+She is wearing:
+
+Head            : a gold-beaded white cotton headscarf
+Ears            : a blackened cursed vampire bone earring
+Neck            : a formal Sylvan batik erimaki hemp scarf
+Neck            : a tiny silver locket
+Body            : a silver-buckled leather satchel
+Body            : a dark brown formal Sylvan batik itai
+Torso           : some fur-lined steel scalemail
+Torso           : a patched tribal shaman's silk sarkari
+Left wrist      : a leather-braided wristband
+Left finger     : a smooth ebony ring
+Waist           : a leather weapon harness
+Waist           : a patched leather pelt sack
+Waist           : some falcon feather-adorned ivory prayer beads
+Feet            : some weathered woven hemp moccasins
+Wield           : a battered teak baji totem staff
+Held            : a small round wooden shield
+Face            : a blackened leather shaman's wyvern-head death mask
+Face            : a smooth silver lip ring
+Nose            : a tribal-scrimshawed bone septum piercing
+
+Wren nods to Percival politely.
+l
+
+
+
+[Conciliatory Chamber.]
+
+A long, oval table stretches the width of the room, behind it sit rigid, ebony chairs aligned in a row.  In front of the council table is an ebony podium at which those addressing the conclave may stand.  A large, crystal chandelier hangs down at the center, its glow providing ample light during proceedings.  A portrait of the king sitting upon his throne overlooks the chamber from the back wall.  You notice an ebony podium, an open thick ebony door, an engraved cylindrical brass dispenser, and a carved cherrywood cabinet.
+
+Also here: Merchant Ernest the Human (seated) at an oval ebony table, Merchant Menfanous the Dwarf, Trystan the Human, Emissary Wren the Human (seated) at an oval ebony table, Emissary Visyn the Devalin (seated) at an oval ebony table, Champion Blink the Avardi, Emissary Eleanora the Dwarf (seated) at an oval ebony table, Khalsat Faran the Nydine (seated) at an oval ebony table, Emissary Ayderias the Avardi (seated) at an oval ebony table, Knight Marshal Percival the Human, and Seren the Avardi 
+
+Obvious Exits: none
+
+
+Ernest waves to Percival.
+smi ser
+
+You smile at Seren.
+
+Percival nods to Menfanous slowly.
+
+Ernest says to Percival, "There must be something important going on if you're here."
+
+grin Seren softly, winking..
+Seren smiles at you.
+You grin at Seren softly, winking..
+
+Wren asks Ernest, "Is it your birthday?"
+
+who
+[ARRIVALS] 'Rochiriel has logged on.'
+   Players Currently Online: 
+ =============================
+
+   Yiri the Goblin                                             
+   Wren the Human                                              
+   Ayderias the Avardi                                         
+   Flynt the Sylph                                             
+   Menfanous the Dwarf                                         
+   Faran the Nydine                                            
+   Xiija the Sylph                                             
+   Ernest the Human                                            
+   Blink the Avardi                                            
+   Seren the Avardi                                            
+   Trystan the Human                                           
+   Salus the Vukasin                                           
+   Visyn the Devalin                                           
+   Eleanora the Dwarf                                          
+   Percival the Human                                          
+   Nikolas the Human                                           
+   Rochiriel the Verdani                                       
+
+
+Ernest ponders briefly.
+
+Wren squints at Ernest.
+Ernest shakes his head from side to side.
+
+Menfanous says to Wren, "Da man dere be understandin gud haggis."
+
+Menfanous points at Ernest.
+
+Wren blinks at Menfanous.
+
+Percival says to Ernest, "There seems never a dull day."
+
+Wren says to Percival, "Certainly not in your line of work, I imagine."
+
+Blink says to Menfanous, "Same here. I am in fact a vegitarian."
+
+Ernest asks Percival, "There's been terrible blasts of noise throughout the city. Have you caused it to stop?"
+
+Faran furrows her brow.
+
+who
+[ARRIVALS] 'Garaven has logged on.'
+   Players Currently Online: 
+ =============================
+
+   Yiri the Goblin                                             
+   Wren the Human                                              
+   Ayderias the Avardi                                         
+   Flynt the Sylph                                             
+   Menfanous the Dwarf                                         
+   Faran the Nydine                                            
+   Xiija the Sylph                                             
+   Ernest the Human                                            
+   Blink the Avardi                                            
+   Seren the Avardi                                            
+   Trystan the Human                                           
+   Salus the Vukasin                                           
+   Visyn the Devalin                                           
+   Eleanora the Dwarf                                          
+   Percival the Human                                          
+   Rochiriel the Verdani                                       
+   Nikolas the Human                                           
+   Garaven the Verdani                                         
+
+say try so odd that Temple Aerthane seems the only one whose members regularly attend these thyngs...
+
+You say to Trystan, "So odd that Temple Aerthane seems the only one whose members regularly attend these thyngs..."
+pon
+
+You ponder.
+
+grin Ayderias delicately , blushing
+Ayderias smiles at you softly.
+You grin at Ayderias delicately , blushing.
+l
+
+
+
+[Conciliatory Chamber.]
+
+A long, oval table stretches the width of the room, behind it sit rigid, ebony chairs aligned in a row.  In front of the council table is an ebony podium at which those addressing the conclave may stand.  A large, crystal chandelier hangs down at the center, its glow providing ample light during proceedings.  A portrait of the king sitting upon his throne overlooks the chamber from the back wall.  You notice an ebony podium, an open thick ebony door, an engraved cylindrical brass dispenser, and a carved cherrywood cabinet.
+
+Also here: Merchant Ernest the Human (seated) at an oval ebony table, Merchant Menfanous the Dwarf, Trystan the Human, Emissary Wren the Human (seated) at an oval ebony table, Emissary Visyn the Devalin (seated) at an oval ebony table, Champion Blink the Avardi, Emissary Eleanora the Dwarf (seated) at an oval ebony table, Khalsat Faran the Nydine (seated) at an oval ebony table, Emissary Ayderias the Avardi (seated) at an oval ebony table, Knight Marshal Percival the Human, and Seren the Avardi 
+
+Obvious Exits: none
+
+
+Trystan gestures and says, "Except for when we don't"
+wink try
+
+You wink at Trystan.
+
+Wren says to you, "It may have something to do with your numbers."
+
+Trystan chuckles at you.
+nod wren thoughtfully
+
+You nod to Wren thoughtfully.
+
+Blink gets a large plush multi-colored thunderbird from a silver-buckled leather satchel.
+
+Blink gets a large plush electric-blue and gold cotton thunderbird from a silver-buckled leather satchel.
+grin bli
+
+You grin at Blink.
+
+Percival says to Ernest, "It is nothing with which you should concern yourself. Any suspects will be apprehended and questioned."
+say bli do they count too?
+
+You ask Blink, "Do they count too?"
+
+Blink says, "Of course."
+nod softly
+
+You nod softly.
+
+Visyn shakes his head from side to side.
+
+Ernest exclaims to Percival, "It's concerning when I'm trying to sleep!"
+' oo 
+
+You say, "Oo."
+flai
+
+You flail your arms.
+go door
+
+
+
+[Conciliatory Chamber, Entrance.]
+
+The marble-floored hallway leads to an thick ebony door with a polished brass lock, a sign upon it proclaims what lies on the other side.  A pair of brass sconces illuminate the wall.  An ornate brass plaque hangs in the light next to the chamber, each of the fourteen representatives engraved on small granite slabs or a blank spot indicating a slot to be filled.  You notice an open thick ebony door.
+
+Obvious Exits: west. 
+
+w
+
+
+
+[Conclave, Grand Foyer.]
+
+The wide open design of the foyer is enhanced by stately white floors and walls, streaks of deep gray running throughout the marble.  Smooth ebony railings and rungs run down either side of the large stairway as it turns, leading to the next floor up.  On the curved wall at the top of the stairs is a large portrait of the king on his throne with a gold scepter at his side.  You notice an open gold-paneled oak door, and a spiraling marble staircase.
+
+Obvious Exits: northwest, east, and south. 
+
+s
+
+
+
+[Conclave Scribe.]
+
+A short winding path, shaped by leaning stacks of paper, leads to the scribe's desk.  On the desk lies piles of vellum and other sheets for writing upon.  A sign rests on the desk indicating the prices for service and writing supplies.  You notice an ornate rosewood desk sign.
+
+Also here: a frazzled scribe, and Nikolas the Human 
+
+Obvious Exits: north. 
+
+n
+
+
+
+[Conclave, Grand Foyer.]
+
+The wide open design of the foyer is enhanced by stately white floors and walls, streaks of deep gray running throughout the marble.  Smooth ebony railings and rungs run down either side of the large stairway as it turns, leading to the next floor up.  On the curved wall at the top of the stairs is a large portrait of the king on his throne with a gold scepter at his side.  You notice an open gold-paneled oak door, and a spiraling marble staircase.
+
+Obvious Exits: northwest, east, and south. 
+
+go door
+
+
+
+[Conclave Courtyard.]
+
+The white stone building, home to the conclave, serves as a central location for the diplomatic offices of each of the six religions on Archai.  Of sound dwarven design, the architectural feat is built across the road that runs northeast to the main city gate.  You notice an open gold-paneled oak door.
+
+Obvious Exits: south. 
+
+
+It is very cold. 
+s
+
+
+
+[Conclave Courtyard.]
+
+The stone-paved courtyard leads toward a tall, white stone building. Stone columns on either side of the entrance support a steel gateway connecting the secluded structure to the rest of the city.  A number of windows can be seen to the northeast and far to the north.  The structure stands over a tunnel for the street that passes underneath and exits the city.  Manicured hedges decorate each end of the building.  You notice an open towering reinforced steel gate.
+
+Obvious Exits: north. 
+
+s
+
+
+
+[Victory Tunnel, Entrance.]
+
+A sandstone structure of dwarven design hunches over the road to the northeast, creating a tunnel.  The arched entrance is framed with symmetrical sandstone squares that meet at a decorative keystone.  Potted ferns sit at the base of the building on either side of the street.  The center of the city opens up to the southwest.  You notice an open towering reinforced steel gate.
+
+Also here: a cheerful young bolinau 
+
+Obvious Exits: southwest, northeast, and west. 
+
+go gate
+
+
+[Conclave Courtyard.]
+
+The stone-paved courtyard leads toward a tall, white stone building. Stone columns on either side of the entrance support a steel gateway connecting the secluded structure to the rest of the city.  A number of windows can be seen to the northeast and far to the north.  The structure stands over a tunnel for the street that passes underneath and exits the city.  Manicured hedges decorate each end of the building.  You notice an open towering reinforced steel gate.
+
+Obvious Exits: north. 
+
+s
+
+
+
+[Victory Tunnel, Entrance.]
+
+A sandstone structure of dwarven design hunches over the road to the northeast, creating a tunnel.  The arched entrance is framed with symmetrical sandstone squares that meet at a decorative keystone.  Potted ferns sit at the base of the building on either side of the street.  The center of the city opens up to the southwest.  You notice an open towering reinforced steel gate.
+
+Also here: a cheerful young bolinau 
+
+Obvious Exits: southwest, northeast, and west. 
+
+s
+You can't go that way.
+sw
+
+
+
+[City of Pearl, Center.]
+
+Granting an uninhibited view of the bustling shipping industry, a stone seawall bevels out behind a long crescent bench and creates a half-moon addition to the congested crossroads at the heart of the city.  The vast water of the bay expands beyond the southern stone wall.  Ships of all sizes pass by the seafront as they make their way in and out of the harbor to the south.  The streets head in many directions, as well as a tunnel to the northeast.  At the center of the intersection is an elegantly carved monument of a giant pearl atop a tall obelisk.  The base of the centerpiece rests at the bottom of a shallow fountain that has a burning spear pointing down into the water.  A small stone sundial has been carved on the rim of the fountain.  You notice a wooden directional signpost.
+
+Obvious Exits: southwest, southeast, northwest, northeast, west, east, and north. 
+
+nw
+
+
+
+[Bayesian Court, Bank Entrance.]
+
+Along the entrance of the bank are massive stone pillars that create a lavish backdrop to the busy courtyard.  Interlocking stone pavers, laid out in extravagant patterns, stretch out in every direction.  Iron lamp posts and transplanted dogwood trees lie evenly spread out along the plaza with flat slabs of marble serving as benches between them.  You notice an open engraved silver door.
+
+Obvious Exits: southeast, and north. 
+
+nw
+
+
+
+[New Archai Depository.]
+
+A well-dressed bank teller sits comfortably behind a counter at the center of the room.  Just beyond the teller, a paneled half-wall separates the customer area from a large circular steel vault door built into the rear of the building.  You notice an open engraved silver door, and a closed large circular steel vault.
+
+Also here: a well-dressed bank teller 
+
+Obvious Exits: none
+
+with floor
+
+You withdraw a large sky blue dragon-embroidered cotton floor cushion from your account with a well-dressed bank teller.
+A well-dressed bank teller says to you,  "Thank you for your trust."
+se
+
+
+
+[Bayesian Court, Bank Entrance.]
+
+Along the entrance of the bank are massive stone pillars that create a lavish backdrop to the busy courtyard.  Interlocking stone pavers, laid out in extravagant patterns, stretch out in every direction.  Iron lamp posts and transplanted dogwood trees lie evenly spread out along the plaza with flat slabs of marble serving as benches between them.  You notice an open engraved silver door.
+
+Obvious Exits: southeast, and north. 
+
+
+It is very cold. 
+se
+
+
+
+[City of Pearl, Center.]
+
+Granting an uninhibited view of the bustling shipping industry, a stone seawall bevels out behind a long crescent bench and creates a half-moon addition to the congested crossroads at the heart of the city.  The vast water of the bay expands beyond the southern stone wall.  Ships of all sizes pass by the seafront as they make their way in and out of the harbor to the south.  The streets head in many directions, as well as a tunnel to the northeast.  At the center of the intersection is an elegantly carved monument of a giant pearl atop a tall obelisk.  The base of the centerpiece rests at the bottom of a shallow fountain that has a burning spear pointing down into the water.  A small stone sundial has been carved on the rim of the fountain.  You notice a wooden directional signpost.
+
+Also here: Rochiriel the Verdani, and Ra'daji Garaven the Verdani 
+
+Obvious Exits: southwest, southeast, northwest, northeast, west, east, and north. 
+
+ne
+
+
+
+[Victory Tunnel, Entrance.]
+
+A sandstone structure of dwarven design hunches over the road to the northeast, creating a tunnel.  The arched entrance is framed with symmetrical sandstone squares that meet at a decorative keystone.  Potted ferns sit at the base of the building on either side of the street.  The center of the city opens up to the southwest.  You notice an open towering reinforced steel gate.
+
+Also here: a cheerful young bolinau 
+
+Obvious Exits: southwest, northeast, and west. 
+
+n
+
+
+
+[Conclave Courtyard.]
+
+The stone-paved courtyard leads toward a tall, white stone building. Stone columns on either side of the entrance support a steel gateway connecting the secluded structure to the rest of the city.  A number of windows can be seen to the northeast and far to the north.  The structure stands over a tunnel for the street that passes underneath and exits the city.  Manicured hedges decorate each end of the building.  You notice an open towering reinforced steel gate.
+
+Obvious Exits: north. 
+
+n
+
+
+
+[Conclave Courtyard.]
+
+The white stone building, home to the conclave, serves as a central location for the diplomatic offices of each of the six religions on Archai.  Of sound dwarven design, the architectural feat is built across the road that runs northeast to the main city gate.  You notice an open gold-paneled oak door.
+
+Obvious Exits: south. 
+
+n
+
+You can't go that way.
+go door
+
+
+
+[Conclave, Grand Foyer.]
+
+The wide open design of the foyer is enhanced by stately white floors and walls, streaks of deep gray running throughout the marble.  Smooth ebony railings and rungs run down either side of the large stairway as it turns, leading to the next floor up.  On the curved wall at the top of the stairs is a large portrait of the king on his throne with a gold scepter at his side.  You notice an open gold-paneled oak door, and a spiraling marble staircase.
+
+Obvious Exits: northwest, east, and south. 
+
+e
+
+
+
+[Conciliatory Chamber, Entrance.]
+
+The marble-floored hallway leads to an thick ebony door with a polished brass lock, a sign upon it proclaims what lies on the other side.  A pair of brass sconces illuminate the wall.  An ornate brass plaque hangs in the light next to the chamber, each of the fourteen representatives engraved on small granite slabs or a blank spot indicating a slot to be filled.  You notice an open thick ebony door.
+
+Obvious Exits: west. 
+
+go door
+
+
+
+[Conciliatory Chamber.]
+
+A long, oval table stretches the width of the room, behind it sit rigid, ebony chairs aligned in a row.  In front of the council table is an ebony podium at which those addressing the conclave may stand.  A large, crystal chandelier hangs down at the center, its glow providing ample light during proceedings.  A portrait of the king sitting upon his throne overlooks the chamber from the back wall.  You notice an ebony podium, an open thick ebony door, an engraved cylindrical brass dispenser, and a carved cherrywood cabinet.
+
+Also here: Merchant Ernest the Human (seated) at an oval ebony table, Merchant Menfanous the Dwarf, Trystan the Human, Emissary Wren the Human (seated) at an oval ebony table, Emissary Visyn the Devalin (seated) at an oval ebony table, Champion Blink the Avardi, Emissary Eleanora the Dwarf (seated) at an oval ebony table, Khalsat Faran the Nydine (seated) at an oval ebony table, Emissary Ayderias the Avardi (seated) at an oval ebony table, Knight Marshal Percival the Human, and Seren the Avardi 
+
+Obvious Exits: none
+
+
+Ayderias nods to Percival.
+drop floor 
+sit floor 
+sit floor
+
+You drop a large sky blue dragon-embroidered cotton floor cushion.
+
+land
+You must land first.
+
+land
+You must land first.
+land
+
+You aren't flying.
+emo flitters her multicolored wings softly before folding them closed...
+
+Xiija flitters her multicolored wings softly before folding them closed...
+sit floor
+
+You sit on a large sky blue dragon-embroidered cotton floor cushion.
+furl gently.
+
+You furl your wings gently.
+
+Ayderias asks, "Shall we begin?"
+
+Faran nods.
+
+Percival says to Ayderias, "Please do."
+
+Wren leans far back into her seat, lifting one leg over the other and propping a heel against the edge of the table.
+
+Eleanora glances at Percival and furrows her brow.
+
+Wren says to Ayderias, "Aye."
+
+Menfanous sits down.
+l
+
+
+
+[Conciliatory Chamber.]
+
+A long, oval table stretches the width of the room, behind it sit rigid, ebony chairs aligned in a row.  In front of the council table is an ebony podium at which those addressing the conclave may stand.  A large, crystal chandelier hangs down at the center, its glow providing ample light during proceedings.  A portrait of the king sitting upon his throne overlooks the chamber from the back wall.  You notice an ebony podium, an open thick ebony door, an engraved cylindrical brass dispenser, a carved cherrywood cabinet, and a large sky blue dragon-embroidered cotton floor cushion.
+
+Also here: Merchant Ernest the Human (seated) at an oval ebony table, Merchant Menfanous the Dwarf (seated), Trystan the Human, Emissary Wren the Human (seated) at an oval ebony table, Emissary Visyn the Devalin (seated) at an oval ebony table, Champion Blink the Avardi, Emissary Eleanora the Dwarf (seated) at an oval ebony table, Khalsat Faran the Nydine (seated) at an oval ebony table, Emissary Ayderias the Avardi (seated) at an oval ebony table, Knight Marshal Percival the Human, and Seren the Avardi 
+
+Obvious Exits: none
+
+
+Ayderias says, "I hope everyone enjoyed their break away from the politics of Pearl."
+
+Wren says to Ayderias, "Perhaps a little."
+
+Ayderias says, "We face a new year of challenges, with old problems still needing to be resolved."
+
+Ayderias says, "As always, we start by opening the floor to the citizens of Pearl."
+
+Blink raieses his hand.
+
+Wren glances out towards the crowd, her gaze flicking from one individual to the other.
+
+Ayderias nods to Blink.
+
+Wren listens to Blink.
+Ayderias smiles.
+
+Blink steps forward.
+
+Blink says, "Hi."
+
+Visyn tilts his head to the side.
+
+Blink grins.
+
+Nikolas arrives through a thick ebony door.
+
+Blink says, "I wanted to ask about the pirates."
+
+Blink asks, "Who were they? How did they get so far into the city?"
+
+Percival raises an eyebrow.
+
+Wren glances at the open door, frowning lightly.
+l door
+
+It looks like an open thick ebony door.
+Menfanous stands up.
+l w
+
+You don't see anything that way.
+
+Menfanous closes a thick ebony door.
+
+Menfanous sits down.
+
+Wren smiles at Menfanous.
+
+Menfanous smiles.
+
+Percival glances at Menfanous.
+
+Percival opens a thick ebony door.
+glan at men, seeing up his kilt accidentally...
+
+You glance at men, seeing up his kilt accidentally...
+blu
+
+You blush.
+
+Wren stares at Percival blandly before her attention returns to Blink.
+glan down
+
+You glance down.
+
+Percival says to Blink, "He matter is being resolved. They were a diversion while another group tried to infiltrate the palace."
+
+Blink says to Percival, "Weird."
+
+Wren raises an eyebrow at Percival.
+
+Ayderias furrows his brow.
+
+Percival says, "The palace was not breached."
+
+Blink says to Percival, "Okay. thanks for the information."
+
+Blink says, "That's all I need."
+
+Blink returns to the crowd.
+
+Wren asks Percival, "We do not yet know their origins or whom they were lead by?"
+
+Percival says to Wren, "They were pirates they claimed no affiliations."
+
+Wren says to Percival, "Of course, Knight Marshal. Thank you."
+
+Ayderias says, "They seemed to have picked an opportunistic evening for their failed attempt."
+
+Wren nods to Ayderias.
+
+Ayderias smiles at Blink.
+
+Ayderias says to Blink, "Thank you for your concern for your city."
+
+Wren says to Ayderias, "It's not unusual for such tactics to be used."
+
+Blink smiles at Ayderias.
+
+Wren asks, "Has anyone a proposal to make this evening?"
+
+Ernest says, "I propose we make the winter break a permanent part of conclave."
+
+Ernest nods firmly.
+
+Wren smirks at Ernest.
+
+Nikolas raises his hand.
+
+Wren says to Ernest, "But then we w-."
+
+Wren glances at Nikolas.
+
+Wren nods to Nikolas.
+
+Nikolas slips off his cap as he approaches the table.
+
+Ayderias listens to Nikolas.
+
+Nikolas removes a thick fur-lined royal blue wool cap.
+
+Wren slips her heel back to the floor, straightening her chair and shifting it forward some.
+
+Nikolas says, "Emissaries, I approach you today on the matter of representation. It is not one which I take lightly. I trust some of you may have suspected I have wanted to do this for some time."
+
+Wren tilts her head to the side.
+
+Nikolas begins to hand out various envelopes and plates across the table.
+
+Nikolas gives an ebony plate to Wren.
+
+Nikolas gives an ebony plate to Ernest.
+
+Nikolas gives a Pearl-stamped paper envelope to Ayderias.
+
+Nikolas gives a Pearl-stamped paper envelope to Visyn.
+
+Ernest raises an eyebrow.
+
+Nikolas gives a Pearl-stamped paper envelope to Eleanora.
+
+Visyn tilts his head to the side.
+
+who
+[ARRIVALS] 'Geel has logged on.'
+
+   Players Currently Online: 
+ =============================
+
+   Yiri the Goblin                                             
+   Wren the Human                                              
+   Ayderias the Avardi                                         
+   Flynt the Sylph                                             
+   Menfanous the Dwarf                                         
+   Xiija the Sylph                                             
+   Ernest the Human                                            
+   Blink the Avardi                                            
+   Seren the Avardi                                            
+   Trystan the Human                                           
+   Salus the Vukasin                                           
+   Visyn the Devalin                                           
+   Eleanora the Dwarf                                          
+   Percival the Human                                          
+   Rochiriel the Verdani                                       
+   Nikolas the Human                                           
+   Garaven the Verdani                                         
+   Faran the Nydine                                            
+   Geel the Gavial                                             
+
+
+Visyn smirks slightly.
+
+Eleanora opens a Pearl-stamped paper envelope.
+
+Ernest says to Nikolas, "Yes."
+
+Nikolas says to Percival, "If you would hand the first envelope to Emissary -."
+
+Nikolas nods to Ernest.
+
+Wren grins at Nikolas then flicks her eyes to Faran where they linger a moment.
+
+Nikolas says to Percival, "To Emissary Tietjen when he is next seen. The second envelope if for you."
+
+Eleanora gets a business document from a Pearl-stamped paper envelope.
+
+Nikolas gives a Pearl-stamped paper envelope to Percival.
+
+Nikolas gives a Pearl-stamped paper envelope to Percival.
+
+Eleanora reads a business document.
+
+Nikolas gives a Pearl-stamped paper envelope to Faran.
+
+Visyn opens a Pearl-stamped paper envelope.
+
+Wren gets a Pearl-stamped paper envelope from an ebony plate.
+
+Faran tilts her head to Wren.
+
+Wren reads a Pearl-stamped paper envelope.
+
+who
+[ARRIVALS] 'Jerem has logged on.'
+   Players Currently Online: 
+ =============================
+
+   Yiri the Goblin                                             
+   Wren the Human                                              
+   Ayderias the Avardi                                         
+   Flynt the Sylph                                             
+   Menfanous the Dwarf                                         
+   Xiija the Sylph                                             
+   Ernest the Human                                            
+   Blink the Avardi                                            
+   Seren the Avardi                                            
+   Trystan the Human                                           
+   Salus the Vukasin                                           
+   Visyn the Devalin                                           
+   Eleanora the Dwarf                                          
+   Percival the Human                                          
+   Rochiriel the Verdani                                       
+   Nikolas the Human                                           
+   Garaven the Verdani                                         
+   Faran the Nydine                                            
+   Geel the Gavial                                             
+   Jerem the Human                                             
+
+
+Wren opens a Pearl-stamped paper envelope.
+
+Visyn gets a business document from a Pearl-stamped paper envelope.
+
+Wren gets a business document from a Pearl-stamped paper envelope.
+
+Wren reads a business document.
+
+Ernest gets a Pearl-stamped paper envelope from an ebony plate.
+
+Visyn reads a business document.
+
+Ernest gets an apple tart from an ebony plate.
+
+Ernest takes a bite of an apple tart.
+
+whisp try i bet  if he is applying for a seat, he will not wait as long as others...
+
+You whisper to Trystan, "I bet if he is applying for a seat, he will not wait as long as others...".
+
+Blink takes a drink from a cold glass of milk.
+
+Nikolas says, "As requested by Emissary O'Hara quite some time ago, I will now read my proposal aloud for those inside the chamber."
+
+Menfanous listens.
+
+Trystan whispers to you, "We'll see.".
+
+Ayderias opens a Pearl-stamped paper envelope.
+who
+[ARRIVALS] 'Flynt has logged out.'
+
+   Players Currently Online: 
+ =============================
+
+   Yiri the Goblin                                             
+   Wren the Human                                              
+   Ayderias the Avardi                                         
+   Menfanous the Dwarf                                         
+   Xiija the Sylph                                             
+   Ernest the Human                                            
+   Blink the Avardi                                            
+   Seren the Avardi                                            
+   Trystan the Human                                           
+   Salus the Vukasin                                           
+   Visyn the Devalin                                           
+   Eleanora the Dwarf                                          
+   Percival the Human                                          
+   Rochiriel the Verdani                                       
+   Nikolas the Human                                           
+   Garaven the Verdani                                         
+   Faran the Nydine                                            
+   Geel the Gavial                                             
+   Jerem the Human                                             
+
+
+Ernest opens a Pearl-stamped paper envelope.
+
+Trystan whispers to you, "He's applying.".
+
+Nikolas says, "The document presented has been prepared by myself, Nikolas Suyessod-Taqqi, and covers the combined topic of business, food and representation."
+
+Ayderias furrows his brow at a Pearl-stamped paper envelope.
+
+Ayderias puts a Pearl-stamped paper envelope in a brass-buckled leather emissary satchel.
+whisp try hmmm
+
+You whisper to Trystan, "Hmmm.".
+
+Ayderias opens a Pearl-stamped paper envelope.
+whisp try food?
+
+You whisper to Trystan, "Food?".
+
+
+Ayderias gets a business document from a Pearl-stamped paper envelope.
+
+Nikolas says, "Over the course of the last several months the city has seen itself play host to two festivals. As summer faded, there was first Archai's Renewal within the month of Tenebrous brought forth new bonds between the isle of Tetherias and New Archai."
+
+Wren glances up from the document as Nikolas speaks, setting it down on the table in front of her.
+
+Trystan whispers to you, "I really don't want to know, but I guess we have to find out.".
+
+Nikolas says, "Within the winter month of Kale we witnessed the joint venture of those of Kaleith and the followers of Astraeva to celebrate the Feast of the Great Eye, a cultural festival and history brought to this isle from the Isle of Kaleith by Emisasry Fairuz-Taqqi."
+
+Nikolas says, "Both saw attendance from a number of those in and around the city of Pearl. Perhaps the most beloved aspect of each festival was the offerings of food. A small selection from the Archai's Renewal and the plentiful dishes offered for those whom attended the Feast of the Great Eye, a celebration with a love and reverence for the bounty and life-sustaining qualities of the gift of food."
+
+Nikolas says, "In this regard it is presented to the Conclave a request to have the following proposal forwarded to the Archai Trading Company:."
+
+Ernest listens to Nikolas.
+
+Nikolas says, "For a cook, one whom would also call themselves a baker, to make themselves available to the general public to field requests of foods either from home isles or around the isle of New Archai. Many find themselves unable to travel to homelands long since left, and the comfort of food from cultures from which they grew up is is a treat not offered with any regularity for all."
+
+Nikolas says, "The good will the Archai Trading Company would offer those stranded, or to those whom would wish to learn of different cultures and lives, would be well received."
+
+Wren peers at Ernest from the corner of her eye.
+
+Nikolas says, "It would generate business, as it is trusted such a service would be met with enthusiasm, and in the future perhaps even lend itself to the foundation of a new shop with such goods offered year round for appropriate prices."
+
+Nikolas says, "The added doubloons to the economy would benefit both merchants and city funds alike. It would offer growth and open possibilities for apprenticeships for aspiring merchants."
+
+Menfanous nods slowly as he listens.
+
+Nikolas says, "It is hoped the Conclave will see the merit in such a proposal and forward it to the Archai Trading Company."
+
+Nikolas says, "Thank you."
+appl nik softly
+
+You applaud Nikolas softly.
+
+Faran smiles at Nikolas.
+
+Nikolas smiles at Faran softly and nods to Xiija.
+
+who
+[ARRIVALS] 'Thyia has logged on.'
+   Players Currently Online: 
+ =============================
+
+   Yiri the Goblin                                             
+   Wren the Human                                              
+   Ayderias the Avardi                                         
+   Menfanous the Dwarf                                         
+   Xiija the Sylph                                             
+   Ernest the Human                                            
+   Blink the Avardi                                            
+   Seren the Avardi                                            
+   Trystan the Human                                           
+   Salus the Vukasin                                           
+   Visyn the Devalin                                           
+   Eleanora the Dwarf                                          
+   Percival the Human                                          
+   Rochiriel the Verdani                                       
+   Nikolas the Human                                           
+   Garaven the Verdani                                         
+   Faran the Nydine                                            
+   Geel the Gavial                                             
+   Jerem the Human                                             
+   Thyia the Human                                             
+
+
+Ayderias gazes at a business document briefly before looking up.
+
+Wren says to Nikolas, "Thank you for your proposal, and the dishes along with it."
+
+Wren gets an apple tart from an ebony plate.
+
+Ayderias says, "I think it is a wonderful proposal."
+
+Nikolas nods to Wren.
+
+Wren sniffs an apple tart.
+
+Wren sighs happily.
+
+Ernest takes a bite of an apple tart.
+
+
+Wren says, "I have been hoping to see a baker here within Pearl ever since I discovered there is no sweet bread to be found here. I think this would be even better."
+
+Visyn gets a brass-buckled leather emissary satchel from a rugged iron-buckled leather haversack.
+grin wre wryly
+
+You grin at Wren wryly.
+
+Visyn opens a brass-buckled leather emissary satchel.
+
+Faran gets a coral kraken-clasped viridian suede crossbody satchel from a polar bear fur sailor's slingbag.
+
+Faran opens a coral kraken-clasped viridian suede crossbody satchel.
+
+Ernest says, "I'd like the record to reflect that my vote is in favor regardless of if I attend the closed door meeting or not."
+
+Wren grins at Ernest toothily.
+
+Wren eats the last of an apple tart.
+
+
+Faran puts a Pearl-stamped paper envelope in a coral kraken-clasped viridian suede crossbody satchel.
+
+Eleanora says to Nikolas, "Your submission be sound, I have no questions."
+
+Nikolas nods.
+
+Ayderias reads a business document.
+
+Nikolas says, "If there are no more questions I will take my seat as the hour is late and I trust all here would prefer we not linger."
+
+Faran eyes Wren with a slight smirk.
+
+Trystan whispers to you, "I like being wrong.".
+
+Ayderias smiles at Nikolas.
+
+Faran closes a coral kraken-clasped viridian suede crossbody satchel.
+
+Nikolas nods to Ayderias.
+
+Wren says to Nikolas, "I've none."
+whisp try hehe, everyone likes food, how could he go wrong..
+
+You whisper to Trystan, "Hehe, everyone likes food, how could he go wrong..".
+
+Ayderias says to Nikolas, "Thank you for the thorough proposal."
+
+Nikolas nods as he slips on his cap and steps to the back of the chamber.
+
+Nikolas puts on a thick fur-lined royal blue wool cap.
+
+Visyn says, "Nor do I. I appreciated all of the effort by those that prepared the food at the recent festival. I should hope to see more of that in the future."
+
+Wren catches Faran's glance and grins sheepishly, brushing a few crumbs from the corner of her mouth.
+
+Visyn puts a business document in a Pearl-stamped paper envelope.
+
+Ernest eats the last of an apple tart.
+
+
+Eleanora says to Nikolas, "And for stating aloud as all proposals should be."
+Visyn puts a Pearl-stamped paper envelope in a brass-buckled leather emissary satchel.
+
+Faran leans towards Wren, her hand placed dangerously close to the woman's plate, near an apple tart.
+
+Wren says, "Aye, and it may be beneficial for citizens with interest in the culinary arts."
+glan ser
+
+You glance at Seren.
+who
+
+   Players Currently Online: 
+ =============================
+
+   Yiri the Goblin                                             
+   Wren the Human                                              
+   Ayderias the Avardi                                         
+   Menfanous the Dwarf                                         
+   Xiija the Sylph                                             
+   Ernest the Human                                            
+   Blink the Avardi                                            
+   Seren the Avardi                                            
+   Trystan the Human                                           
+   Salus the Vukasin                                           
+   Visyn the Devalin                                           
+   Eleanora the Dwarf                                          
+   Percival the Human                                          
+   Rochiriel the Verdani                                       
+   Nikolas the Human                                           
+   Garaven the Verdani                                         
+   Faran the Nydine                                            
+   Geel the Gavial                                             
+   Jerem the Human                                             
+   Thyia the Human                                             
+
+
+Thyia arrives through a thick ebony door.
+smi thy
+
+You smile at Thyia.
+
+Menfanous stands up.
+
+Thyia slips in quietly through the door and moves towards the back of the room to stand.
+
+Wren sends a swift hand out to gently flick Faran's away, shooting a playful glare towards her.
+Thyia smiles.
+
+Menfanous bows to Thyia.
+
+Faran leans back into her chair, tapping a finger near Wren's plate.
+
+Faran snickers at Wren.
+l thy
+
+Thyia looks like a lean 27 year old female Human.
+She has emerald green eyes and medium length, unbridled, fiery red hair.
+She is 5 feet 6 inches tall and weighs 115 pounds.
+She has an aura of Pyrous.
+Thyia is in perfect health.
+
+Intense green eyes study the world around her from under a head of fiery hair. The high cheekbones and narrow face only help to reinforce the sharp, predatory look about her. Now and then, she can be seen turning the gold band around the middle finger of her left hand absently.
+
+She is wearing:
+
+Neck            : a fiery ruby-inlaid woven black satin choker
+Body            : an obsidian phoenix-clasped brown leather satchel
+Body            : a long leather cord-bound tan linen chiton
+Right wrist     : a wide rune-engraved copper bracelet
+Left finger     : an obsidian-studded gold band
+Waist           : an obsidian-buckled woven leather belt
+Feet            : some calf length woven leather sandals
+
+l
+
+
+
+[Conciliatory Chamber.]
+
+A long, oval table stretches the width of the room, behind it sit rigid, ebony chairs aligned in a row.  In front of the council table is an ebony podium at which those addressing the conclave may stand.  A large, crystal chandelier hangs down at the center, its glow providing ample light during proceedings.  A portrait of the king sitting upon his throne overlooks the chamber from the back wall.  You notice an ebony podium, an open thick ebony door, an engraved cylindrical brass dispenser, a carved cherrywood cabinet, and a large sky blue dragon-embroidered cotton floor cushion.
+
+Also here: Merchant Ernest the Human (seated) at an oval ebony table, Merchant Menfanous the Dwarf, Trystan the Human, Emissary Wren the Human (seated) at an oval ebony table, Emissary Visyn the Devalin (seated) at an oval ebony table, Champion Blink the Avardi, Emissary Eleanora the Dwarf (seated) at an oval ebony table, Emissary Ayderias the Avardi (seated) at an oval ebony table, Knight Marshal Percival the Human, Seren the Avardi, Nikolas the Human, Khalsat Faran the Nydine (seated) at an oval ebony table, and Ambassador Thyia the Human 
+
+Obvious Exits: none
+
+
+Menfanous says to Thyia, "Gud ta be ssein ya ambassador."
+
+Menfanous sits down.
+
+Visyn smiles.
+
+Wren says to Thyia, "Welcome, Ambassador."
+
+Thyia says, "Shhh, don't let me interrupt."
+
+Thyia holds a finger up against her lips.
+
+Wren chuckles.
+
+Wren says to Thyia, "Impossible."
+
+Wren tilts her head to Faran and peers down into the platter, curiously prodding at one of the items on it.
+Ayderias asks, "Are there any other questions or proposals?"
+
+Wren gets some cranberry clafouti from an ebony plate.
+
+who
+[ARRIVALS] 'Requiem has logged on.'
+   Players Currently Online: 
+ =============================
+
+   Yiri the Goblin                                             
+   Wren the Human                                              
+   Ayderias the Avardi                                         
+   Menfanous the Dwarf                                         
+   Xiija the Sylph                                             
+   Ernest the Human                                            
+   Blink the Avardi                                            
+   Seren the Avardi                                            
+   Trystan the Human                                           
+   Salus the Vukasin                                           
+   Visyn the Devalin                                           
+   Eleanora the Dwarf                                          
+   Percival the Human                                          
+   Rochiriel the Verdani                                       
+   Nikolas the Human                                           
+   Garaven the Verdani                                         
+   Faran the Nydine                                            
+   Geel the Gavial                                             
+   Jerem the Human                                             
+   Thyia the Human                                             
+   Requiem the Vukasin                                         
+
+
+Wren says to Ayderias, "I've a proposal to revisit, but I think I will reserve it for the closed meeting. It has already been expressed to the public."
+
+Nikolas smiles to himself as Wren pulls out the clafouti.
+
+Wren waves a hand dismissively.
+
+Menfanous listens to Wren.
+
+Wren sniffs some cranberry clafouti.
+
+Ayderias nods to Wren.
+
+Visyn ponders.
+
+Wren lifts the treat to her mouth, pausing mid-bite as she notes Menfanous' attention on her.
+
+Wren coughs.
+
+Ayderias asks, "I have something similar, though I would share it with the public tonight if there is no one else?"
+
+Wren says to Ayderias, "Please."
+
+Trystan whispers to you, "I was about to bring up the broken street lamps, but it seems silly.".
+
+Wren takes a bite of some cranberry clafouti.
+
+whisp try it IS odd tho..
+
+You whisper to Trystan, "It IS odd tho..".
+
+Visyn asks Wren, "I would like to see if there are any questions regarding your proposal by those present. Perhaps after Emissary Clarveu has shared with us?"
+
+Trystan whispers to you, "And it may serve to leave them unlit for the moment.".
+whisp try perhaps the criminals are freer to act with them broken?
+
+You whisper to Trystan, "Perhaps the criminals are freer to act with them broken?".
+
+Ayderias says to Wren, "I can certainly wait."
+
+Trystan whispers to you, "Or those that hover over them.".
+whisp try oooo
+
+You whisper to Trystan, "Oooo.".
+
+Wren says to Visyn, "Perhaps, though I shouldn't think there are. The proposal remains the same, and it is the table I must convince of its worth."
+
+Visyn nods to Wren.
+
+Visyn shrugs.
+
+Trystan whispers to you, "I'm guessing the bathhouse this time.".
+
+Wren grins at Visyn wryly.
+whisp try water...ugh
+
+You whisper to Trystan, "Water...ugh.".
+
+Wren says to Ayderias, "Please, Emissary Clarveau. If there is time at the meeting's conclusion I will touch on it briefly, but it is not terribly important."
+
+Ayderias says, "I believe most here know that as a Conclave we serve the crown by serving the people of Pearl. Individually, we represent the interests of those of similar faith."
+
+Eleanora nods to Ayderias.
+
+Wren listens to Ayderias while hovering over her platter, picking off bits of the clafouti.
+
+Eleanora says to Ayderias, "All be aware."
+
+Wren takes a bite of some cranberry clafouti.
+
+
+Ayderias says, "Beyond that, I am not sure many of the citizens of this city truly know what it is their emissaries and Conclave can do for them."
+
+Menfanous furrows his brow.
+
+Faran grins at Wren.
+
+Wren winks at Faran.
+
+Wren eats the last of some cranberry clafouti.
+
+
+Ayderias says, "In the last year alone we've seen huge advancements that many are unfamiliar with."
+listen ayd
+
+You listen to Ayderias.
+
+Ayderias says, "I would see this Conclave put together a document that defines these responsibilities so that all citizens of Pearl know exactly what they can come to us for."
+
+Visyn smiles.
+
+Ayderias glances at Percival.
+appl ayd softly
+
+You applaud Ayderias softly.
+
+Ayderias says, "Doing so with respect to the authority the King has granted us."
+
+Wren gets an apple tart from an ebony plate.
+
+Eleanora says to Ayderias, "It seems much to do about something folks already be knowing."
+
+Ayderias asks Eleanora, "I'm not so sure they do. How many requests were brought to you during your last hours?"
+
+Wren lifts a tart and holds it teasingly close to Ernest's nose for a moment, her attention remaining on Ayderias.
+
+Eleanora says to Ayderias, "If your temple mates don't be knowing what you can offer them, they be an issue on that level."
+
+Ernest bares his teeth.
+whisp try she really doesn't want anyone to  know of the Conclaves powers
+
+You whisper to Trystan, "She really doesn't want anyone to know of the Conclaves powers.".
+
+Ayderias says to Eleanora, "This would be to the benefit of us all I would imagine."
+
+Eleanora says to Ayderias, "My temple mates be content with the current dealings."
+
+Wren glances between Ayderias and Eleanora.
+
+Trystan whispers to you, "Making a document doesn't even require a discussion, but here it will take months of talking and then forgot.".
+
+Ayderias says, "It's not something I expect us to settle on in a short amount of time, but I think it would greatly benefit the citizens who don't know where to go with their ideas for improving Pearl."
+whisp try truetrue
+
+You whisper to Trystan, "Truetrue.".
+nod ayd
+
+You nod to Ayderias.
+
+who
+[ARRIVALS] 'Rochiriel has logged out.'
+   Players Currently Online: 
+ =============================
+
+   Yiri the Goblin                                             
+   Wren the Human                                              
+   Ayderias the Avardi                                         
+   Menfanous the Dwarf                                         
+   Xiija the Sylph                                             
+   Ernest the Human                                            
+   Blink the Avardi                                            
+   Seren the Avardi                                            
+   Trystan the Human                                           
+   Salus the Vukasin                                           
+   Visyn the Devalin                                           
+   Eleanora the Dwarf                                          
+   Percival the Human                                          
+   Nikolas the Human                                           
+   Garaven the Verdani                                         
+   Faran the Nydine                                            
+   Geel the Gavial                                             
+   Jerem the Human                                             
+   Thyia the Human                                             
+   Requiem the Vukasin                                         
+
+
+Wren says to Eleanora, "Perhaps a very simple outline of Conclave's services to the citizens would be acceptable, Emissary O'Hara? Especially for those new to the city."
+nod wre
+
+You nod to Wren.
+
+who
+[ARRIVALS] 'Bocon has logged on.'
+
+   Players Currently Online: 
+ =============================
+
+   Yiri the Goblin                                             
+   Wren the Human                                              
+   Ayderias the Avardi                                         
+   Menfanous the Dwarf                                         
+   Xiija the Sylph                                             
+   Ernest the Human                                            
+   Blink the Avardi                                            
+   Seren the Avardi                                            
+   Trystan the Human                                           
+   Salus the Vukasin                                           
+   Visyn the Devalin                                           
+   Eleanora the Dwarf                                          
+   Percival the Human                                          
+   Nikolas the Human                                           
+   Garaven the Verdani                                         
+   Faran the Nydine                                            
+   Geel the Gavial                                             
+   Jerem the Human                                             
+   Thyia the Human                                             
+   Requiem the Vukasin                                         
+   Bocon the Devalin                                           
+
+
+Wren listens to Eleanora.
+
+Eleanora says, "As a citizen, it be up to them to learn from us. You may as not be holding offices hours any longer with this proposal."
+
+Ayderias says to Eleanora, "A subject a much debate I am sure. I intended for the people to know what I hope to achieve as a Conclave now that we are back to work."
+
+Wren says to Eleanora, "I disagree, Emissary O'Hara. Many are not even aware of what they should go to an Emissary's hours for to begin with, as they're ignorant to what we exist for."
+
+Menfanous ponders.
+
+Wren says, "They might hear that an Emissary is holding hours, and have no idea what it means."
+
+Ayderias says, "Even fewer know they can visit the office of any emissary for council, not just their own representative."
+
+Wren nods to Ayderias.
+rai ayd
+
+You raise an eyebrow at Ayderias.
+
+Wren takes a bite of an apple tart.
+
+
+Visyn asks, "I am sure that as Emissaries, will have an opportunity to offer our input at the closed meeting. Do any others present wish to express their sentiments on this idea?"
+hand
+
+You raise your hand.
+
+Blink raises a hand.
+
+Wren says to you, "Speak."
+
+grin Visyn wryly
+Visyn smiles at you.
+You grin at Visyn wryly.
+' If the information is not a secret, i see no reason to conceal it?
+
+You ask, "If the information is not a secret, I see no reason to conceal it?"
+' done
+
+You say, "Done."
+
+Ernest glances at Eleanora.
+
+Visyn says to you, "Thank you."
+
+Ernest takes a bite of some boiled turnip-wrapped haggis.
+
+Ernest gets an apple tart from an ebony plate.
+
+Visyn glances to Blink.
+
+Blink nods to Visyn.
+
+Ernest says to Nikolas, "These are nice plates."
+
+Ernest takes a bite of an apple tart.
+
+<HP: 155/155 ST: 120/120>
+Wren asks Nikolas, "Oh, yes. Will you be wanting them back after?"
+
+Wren taps an ebony plate.
+
+Visyn listens to Blink.
+
+Wren glances at Blink.
+
+Blink says, "Many do not seem aware that they can take an Emissary into questioning with them. I believe when the law was passed, the intention was to make citizens aware of this."
+
+Blink says, "That's all."
+
+Wren smiles at Blink slightly.
+
+Visyn says to Blink, "Thank you for your input."
+
+Blink nods to Visyn.
+
+Wren says, "Aye, a good reminder."
+
+Eleanora says to Blink, "It be too bad your emissary has failed to inform ye. That be something to speak with him about at his office hours."
+
+Ernest eats the last of some sugar coated orange wedges.
+
+Bocon arrives through a thick ebony door.
+
+Nikolas tilts his head to the side.
+smi boc
+
+You smile at Bocon.
+
+Wren glances at Bocon briefly.
+
+Ayderias glances at Eleanora.
+
+Trystan nods to Bocon.
+
+Visyn nods to Bocon.
+
+Bocon nods to tryst.
+
+Blink raises his hand.
+
+Bocon nods to vis.
+
+Ayderias says to Eleanora, "We must think to the future, Emissary O'hara."
+
+Wren asks Blink, "Yes?"
+
+Blink says, "I did not need to be informed."
+
+Blink says, "I submitted the law."
+Wren chuckles.
+
+Eleanora asks Ayderias, "Write it on your desk?"
+
+Thyia smiles at Bocon.
+
+Ayderias says to Eleanora, "I am pleased to know you will be there to ensure nothing is added that isn't already common practice."
+l boc
+
+Bocon looks like a lean 99 year old male Devalin.
+He has glowing red eyes and very long, tied back, reddish black hair.
+He is 6 feet 4 inches tall and weighs 115 pounds.
+He has an aura of Pyrous.
+Bocon is in perfect health.
+
+
+
+He is wearing:
+
+Head            : a white-trimmed polished black thoraxium y-slit barbute
+Head            : a jagged blackened steel crown of flames
+Neck            : an ivory-trimmed blood and ash vial-embedded iron amulet
+Neck            : a smooth bloodstone flame necklace
+Back            : a small volcano-clasped flame-embroidered canvas rucksack
+Body            : a crimson flame-embroidered ceremonial cotton priest's robe
+Body            : a long flame-embroidered hooded crimson silk cape
+Torso           : a highly-detailed bone-trimmed umber thoraxium breastplate
+Arms            : some white-trimmed polished black thoraxium bracers
+Hands           : some deep crimson soft leather flame-embroidered gloves
+Right finger    : a rounded glittering crystal ring
+Waist           : some polished black thoraxium segmented tassets
+Waist           : a holy fire symbol-etched blacksteel scroll case
+Legs            : some white-trimmed polished black thoraxium greaves
+Legs            : some dark red-threaded flame-stitched linen trousers
+Feet            : some thick-soled blacksteel spiked deep red leather warboots
+Held            : a large ebony shield
+Face            : a full-faced deep red garnet encrusted arcsilver flame mask
+Left ear        : a flame-etched banded blacksteel earcuff
+Shoulders       : a polished black thoraxium segmented spaulder
+
+l
+
+
+
+[Conciliatory Chamber.]
+
+A long, oval table stretches the width of the room, behind it sit rigid, ebony chairs aligned in a row.  In front of the council table is an ebony podium at which those addressing the conclave may stand.  A large, crystal chandelier hangs down at the center, its glow providing ample light during proceedings.  A portrait of the king sitting upon his throne overlooks the chamber from the back wall.  You notice an ebony podium, an open thick ebony door, an engraved cylindrical brass dispenser, a carved cherrywood cabinet, and a large sky blue dragon-embroidered cotton floor cushion.
+
+Also here: Merchant Ernest the Human (seated) at an oval ebony table, Merchant Menfanous the Dwarf (seated), Trystan the Human, Emissary Wren the Human (seated) at an oval ebony table, Emissary Visyn the Devalin (seated) at an oval ebony table, Champion Blink the Avardi, Emissary Eleanora the Dwarf (seated) at an oval ebony table, Emissary Ayderias the Avardi (seated) at an oval ebony table, Knight Marshal Percival the Human, Seren the Avardi, Nikolas the Human, Khalsat Faran the Nydine (seated) at an oval ebony table, Ambassador Thyia the Human, and Empyrion Bocon the Devalin 
+
+Obvious Exits: none
+
+
+who
+[ARRIVALS] 'Geel has logged out.'
+
+   Players Currently Online: 
+ =============================
+
+   Yiri the Goblin                                             
+   Wren the Human                                              
+   Ayderias the Avardi                                         
+   Menfanous the Dwarf                                         
+   Xiija the Sylph                                             
+   Ernest the Human                                            
+   Blink the Avardi                                            
+   Seren the Avardi                                            
+   Trystan the Human                                           
+   Salus the Vukasin                                           
+   Visyn the Devalin                                           
+   Eleanora the Dwarf                                          
+   Percival the Human                                          
+   Nikolas the Human                                           
+   Garaven the Verdani                                         
+   Faran the Nydine                                            
+   Jerem the Human                                             
+   Thyia the Human                                             
+   Requiem the Vukasin                                         
+   Bocon the Devalin                                           
+
+
+Wren says to Eleanora, "Your input will be invaluable."
+
+Thyia nods to Bocon.
+
+Ernest raises his hand.
+
+Wren leans on Ernest.
+
+Bocon nods.
+
+Trystan follows Bocon.
+
+Bocon leaves through a thick ebony door.
+Trystan leaves through a thick ebony door.
+
+Ernest says, "Got a bit of news, that's all."
+
+Visyn tilts his head to the side.
+
+Nikolas glances towards the door.
+
+Ayderias nods to Ernest.
+
+Thyia peers at an open thick ebony door before glancing briefly at Visyn.
+
+Eleanora glances at Ernest and ignores him.
+
+Eleanora says, "The conclave is not for someone that be avoided learning the ropes. We don't want people with little understanding of the workings to be submitting requests prior to meeting with council of any type."
+
+Wren listens to Ernest intently.
+
+who
+[ARRIVALS] 'Alexis has logged on.'
+   Players Currently Online: 
+ =============================
+
+   Yiri the Goblin                                             
+   Wren the Human                                              
+   Ayderias the Avardi                                         
+   Menfanous the Dwarf                                         
+   Xiija the Sylph                                             
+   Ernest the Human                                            
+   Blink the Avardi                                            
+   Seren the Avardi                                            
+   Trystan the Human                                           
+   Salus the Vukasin                                           
+   Visyn the Devalin                                           
+   Eleanora the Dwarf                                          
+   Percival the Human                                          
+   Nikolas the Human                                           
+   Garaven the Verdani                                         
+   Faran the Nydine                                            
+   Jerem the Human                                             
+   Thyia the Human                                             
+   Requiem the Vukasin                                         
+   Bocon the Devalin                                           
+   Alexis the Human                                            
+
+
+Eleanora says, "Ye be giving them a list, they be showing up here with each listed sumission."
+
+Eleanora says, "May as well take any list you make and pull names from a hat to choose whom be getting to propose it."
+
+Wren asks Eleanora, "Then perhaps we ought to mention in this list that citizens ought to bring their proposals to one or multiple Emissaries prior to submission to discuss it?"
+
+Wren says, "Not obligatory, but suggested."
+
+Visyn says to Eleanora, "Yes, that would be wise to put information of that sort in such a document."
+
+Wren shrugs lightly.
+
+Eleanora says to Wren, "If that was the only suggestion on the list, I support the proposal."
+
+Eleanora says, "That be the only one needed."
+
+Wren says to Eleanora, "It very well may be, as this list is not intended to have multiple suggestions, it is to highlight what we offer."
+
+Ernest shakes his head from side to side slowly.
+
+Ernest says, "Dwarves..."
+
+Faran says to Eleanora, "I think the idea is to make it more accessible and standard, so each emissary does not have to repeat themselves over and over and the populace is informed of the clear ideas uninterpreted individually by each representative. The citizens are more informed when they come to speak with us, and therefore we can help more citizens in fewer hours rather than repeat the same information over and over."
+
+Wren gestures at Faran.
+
+Faran says to Eleanora, "It is a matter of efficiency and standard."
+
+Eleanora says, "And laziness."
+
+Visyn smiles.
+
+Nikolas raises an eyebrow at Eleanora.
+
+Ayderias says, "It would be lazy not to do this for the people of this city."
+
+Wren says to Eleanora, "Not at all, Emissary O'Hara."
+
+Nikolas raises his hand.
+
+Wren says to Ayderias, "I agree."
+
+Wren nods to Nikolas.
+
+Faran says to Eleanora, "Work smarter, not harder, Emissary O'Hara. Plus, having a standard document helps those less stalwart such as yourself remain within the bounds of the oversighted document."
+
+Visyn listens to Nikolas.
+
+Faran says to Eleanora, "A sort of checks and balances."
+
+Nikolas says to Eleanora, "Emissary O'Hara, if you hold the impression a list would encourage laziness, then I would ask why it is you who insisted quite vehemently that people bring paperwork for each individual emissary in addition to reading their propsals aloud."
+
+who
+[ARRIVALS] 'Geel has logged on.'
+   Players Currently Online: 
+ =============================
+
+   Yiri the Goblin                                             
+   Wren the Human                                              
+   Ayderias the Avardi                                         
+   Menfanous the Dwarf                                         
+   Xiija the Sylph                                             
+   Ernest the Human                                            
+   Blink the Avardi                                            
+   Seren the Avardi                                            
+   Trystan the Human                                           
+   Salus the Vukasin                                           
+   Visyn the Devalin                                           
+   Eleanora the Dwarf                                          
+   Percival the Human                                          
+   Nikolas the Human                                           
+   Garaven the Verdani                                         
+   Faran the Nydine                                            
+   Jerem the Human                                             
+   Thyia the Human                                             
+   Requiem the Vukasin                                         
+   Bocon the Devalin                                           
+   Alexis the Human                                            
+   Geel the Gavial                                             
+
+
+Wren's lip twitches into a wry grin.
+
+Eleanora says to Nikolas, "It be my opinion that those whom be lazy have a problem with work."
+
+Faran says to Eleanora, "This document would not negate work, but make it instead more accurate work and effective work."
+
+Ayderias nods to Faran.
+
+Ayderias says, "Something I have used to my advantage due to a lack of such a document."
+
+Wren says to Eleanora, "Please do not misunderstand the intention behind this proposal, Emissary O'Hara. I believe we all desire to serve the King, the city and its citizens with the utmost efficiency."
+
+Ernest takes a bite of an apple tart.
+
+
+Nikolas asks Eleanora, "Yet you do not read the propsals aloud and instead ask others to submit it paperwork for each individual emissary to cut down on the work for the representatives. The Conclave uses the scribe services to tack missives for notes. By using the service of the scribe instead of writing the notes yourself, are you not being lazy in a manner, Emissary O'Hara?"
+<HP: 155/155 ST: 120/120>
+Eleanora says, "I don't be having any questions about it."
+
+Wren glances at Ernest and reaches for some more clafouti.
+
+Wren gets some cranberry clafouti from an ebony plate.
+
+Wren takes a bite of some cranberry clafouti.
+
+
+Salus arrives in through a thick ebony door.
+
+Wren peers at Salus and narrows her eyes slightly.
+nod sal
+
+You nod to Salus.
+
+Faran glances at Wren.
+
+Salus says to Wren, "Is hi."
+
+Nikolas tilts his head to the side.
+
+who
+[ARRIVALS] 'Flynt has logged on.'
+
+   Players Currently Online: 
+ =============================
+
+   Yiri the Goblin                                             
+   Wren the Human                                              
+   Ayderias the Avardi                                         
+   Menfanous the Dwarf                                         
+   Xiija the Sylph                                             
+   Ernest the Human                                            
+   Blink the Avardi                                            
+   Seren the Avardi                                            
+   Trystan the Human                                           
+   Salus the Vukasin                                           
+   Visyn the Devalin                                           
+   Eleanora the Dwarf                                          
+   Percival the Human                                          
+   Nikolas the Human                                           
+   Garaven the Verdani                                         
+   Faran the Nydine                                            
+   Jerem the Human                                             
+   Thyia the Human                                             
+   Requiem the Vukasin                                         
+   Bocon the Devalin                                           
+   Alexis the Human                                            
+   Geel the Gavial                                             
+   Flynt the Sylph                                             
+
+
+Wren nods to Salus.
+
+Wren says to Salus, "Good evening."
+
+Ayderias asks Eleanora, "If that's all for now, I believe Emissary Bouldermoore had some news?"
+
+Ayderias glances at Ernest.
+listen ern
+
+You listen to Ernest.
+
+Wren listens to Ernest.
+
+Eleanora says to Nikolas, "I don't feel the conclave notes be needing to be posted, those attending the open meeting know what has occurred and is to come for the closed meeting."
+
+Nikolas nods to Eleanora.
+
+Nikolas says, "Of course, Emissary O'Hara."
+
+Ernest eats the last of an apple tart.
+
+
+Ernest says, "Well..."
+
+An oval ebony table zaps Salus, making him jump up!
+
+Ernest chortles.
+
+Visyn smirks.
+
+Faran blinks.
+Wren laughs.
+Nikolas blinks.
+
+Faran frowns.
+glan sal ^/very strangely
+
+You glance at Salus very strangely.
+
+Blink says, "Weird."
+Ernest says, "Night wasn't a waste after all."
+
+Menfanous says, "Odd."
+
+Salus says, "Is hurt."
+
+Wren grins at Ernest toothily.
+
+Wren says to Salus, "Happens. Walk it off."
+
+Thyia coughs and raises a hand to her mouth to cover a small amused smiled.
+
+Eleanora asks Ernest, "The vukasin is here to finally replace you?"
+
+Eleanora says to Ernest, "I be giving him a fair chance."
+
+Eleanora says to Salus, "State your case."
+
+Wren asks Ernest, "What was it you had to say, mister Bouldermoore?"
+
+Salus says, "Is not have case."
+
+Ernest says, "Oh, nothing important."
+
+Ernest says, "My loggers in the north have cut through to another path. They said there's some critters but if you leave 'em be they won't bother you. Lot of good spruce coming out of there for building."
+rai ern
+
+You raise an eyebrow at Ernest.
+pon that
+
+You ponder that.
+
+Blink says, "Oh, neat."
+
+Faran asks Ernest, "Ample resources for the museum?"
+whisp bli more animals to skin!
+
+You whisper to Blink, "More animals to skin!".
+
+Ernest says to Faran, "More than enough for whatever the next project ends up being. Designs for the museum have already been submitted and materials secured."
+
+Blink whispers to you, "My thoughts exactly.".
+
+Faran nods.
+
+Faran tilts her head to Wren.
+
+Wren peers at Faran.
+
+Ernest says, "I dont know what else is in those woods. Most reports say animals have been slowly returning since the plague was lifted."
+nod  thoughtfully
+
+You nod thoughtfully.
+
+Faran nods lightly.
+
+Nikolas raises an eyebrow curiously.
+
+Wren says to Ernest, "I would very much like to speak with you briefly on project-related matters if you have time at this meeting's conclusion, mister Bouldermoore."
+
+Ernest asks Wren, "Would it require city approval?"
+
+Wren says to Ernest, "It would, but I need information first."
+
+Ernest nods.
+help sing
+
+Though anyone may claim to be a bard, singing as a command has not yet been implemented.
+
+Ayderias asks Ernest, "Was that all then?"
+
+Ernest nods.
+
+Wren says to Ernest, "My- our office is available, when we are ready to leave."
+ help actions
+
+Command : ACTIONS
+Usage   : ACTIONS
+Example : actions
+Lists each action available, as well as some examples and pointers.
+sctions
+
+Huh?
+actions
+
+ADJUST          AGREE           APPLAUD         BABBLE          BARE            BARK            BAT             
+BEAM            BECKON          BEG             BELCH           BLANCH          BLINK           BLOW            
+BLUSH           BOUNCE          BOW             BRISTLE         BURP            CACKLE          CARESS          
+CHEER           CHOKE           CHORTLE         CHUCKLE         CLAP            COMFORT         CONSOLE         
+COUGH           COWER           CRACK           CRINGE          CROSS           CRY             CURSE           
+DANCE           DISAGREE        DROOL           DUCK            EXHALE          EYE             FAN             
+FIDGET          FIST            FLAIL           FLEX            FLICK           FLINCH          FLIRT           
+FROWN           FURL            FURROW          GAG             GAPE            GASP            GAZE            
+GESTURE         GIGGLE          GLANCE          GLARE           GLOAT           GLOWER          GNASH           
+GREET           GRIMACE         GRIN            GRIT            GROAN           GROVEL          GROWL           
+GRUMBLE         GRUNT           GUFFAW          GULP            GUSH            HAND            HICCUP          
+HISS            HOP             HOVER           HOWL            HUG             HUM             IGNORE          
+INHALE          LAUGH           LEAN            LEER            LICK            LISTEN          MOAN            
+MUMBLE          MURMUR          MUTTER          NARROW          NOD             NOD NO          NOD YES         
+NUDGE           PACE            PANT            PAT             PEER            PESTER          PET             
+PINCH           POINT           POKE            PONDER          POUT            PROD            PURR            
+RAISE           RAMBLE          ROLL            RUB             RUMBLE          SALUTE          SCOFF           
+SCOWL           SCRATCH         SHAKE           SHIVER          SHRIEK          SHRUG           SHUDDER         
+SHUFFLE         SIGH            SLAP            SMILE           SNAP            SNARL           SNICKER         
+SNIFFLE         SNORT           SNUGGLE         SOB             SPIT            SQUEAL          SQUINT          
+SQUIRM          STARE           STOMP           STRETCH         SWISH           SWOON           TAP             
+TAP FOOT        TAUNT           TICKLE          TILT            TOUCH           TWITCH          UNFURL          
+WAVE            WHIMPER         WHINE           WHISTLE         WINCE           WINK            WRINKLE         
+YAWN
+
+
+Some unique examples:
+
+BARE            - You bare your teeth...
+BAT             - You bat your eyes...
+CRACK           - You crack your knuckles...
+CROSS           - You cross your fingers...
+FIST            - You shake your fist...
+FLAIL           - You flail your arms...
+FLICK           - You flick your tongue...
+GNASH           - You gnash your teeth...
+GRIT            - You grit your teeth...
+HAND            - You raise your hand...
+NARROW          - You narrow your eyes...
+NOD NO/DISAGREE - You shake your head from side to side...
+NOD YES/AGREE   - You nod your head up and down...
+RAISE           - You raise an eyebrow...
+ROLL            - You roll your eyes...
+SHAKE           - You shake...
+TAP FOOT        - You tap your foot on the ground...
+TILT            - You tilt your head to the side...
+TWITCH          - You twitch your tail...
+WRINKLE         - You wrinkle your nose...
+
+To target with an action, type: [ACTION NAME] [TARGET NAME] [ADDITIONAL DESCRIPTIVE TEXT].
+Note that prepositions (AT, TO, and ON) are NOT required to target something or someone.
+
+Most ACTIONS are open ended, players are encouraged to enter additional text following a target or action.
+
+IMPORTANT:  Players must stay In Character with actions.  It is available to help enhance RP and must be 
+used responsibly.  Do not act out something your character is not capable of doing, such as giving an item
+to another player, attacking them, or otherwise mimicking game commands.  Abuse will result in severe
+player discipline, including, but not limited to, potential loss of account, banning, or even the loss of
+the command for the entire community.
+
+Ernest says to Wren, "I was ready an hour ago."
+
+Faran asks Ernest, "Only an hour?"
+
+who
+[ARRIVALS] 'Aedin has logged on.'
+
+   Players Currently Online: 
+ =============================
+
+   Yiri the Goblin                                             
+   Wren the Human                                              
+   Ayderias the Avardi                                         
+   Menfanous the Dwarf                                         
+   Xiija the Sylph                                             
+   Ernest the Human                                            
+   Blink the Avardi                                            
+   Seren the Avardi                                            
+   Trystan the Human                                           
+   Salus the Vukasin                                           
+   Visyn the Devalin                                           
+   Eleanora the Dwarf                                          
+   Percival the Human                                          
+   Nikolas the Human                                           
+   Garaven the Verdani                                         
+   Faran the Nydine                                            
+   Jerem the Human                                             
+   Thyia the Human                                             
+   Requiem the Vukasin                                         
+   Bocon the Devalin                                           
+   Alexis the Human                                            
+   Geel the Gavial                                             
+   Flynt the Sylph                                             
+   Aedin the Human                                             
+
+
+Faran says to Ernest, "Impressive."
+
+Nikolas chuckles softly before he covers his mouth.
+
+Ernest says to Faran, "Sure sure. It's good to put in a few hand shakes and head nods."
+
+Wren grins at Ernest.
+
+Faran grins at Ernest.
+
+Eleanora gazes at Ernest and smirks slightly.
+
+Wren peers at Nikolas.
+
+Ayderias asks, "Was there any other business to discuss?"
+
+Salus says, "Is hi."
+
+Wren stares at Salus.
+
+Faran furrows her brow at Salus.
+
+Ayderias says to Salus, "Welcome."
+
+Salus says, "Am Salus, have question for emissares."
+
+Visyn smiles at Salus.
+
+Nikolas tilts his head to the side.
+
+Faran nods.
+
+Faran listens to Salus.
+
+Wren listens to Salus.
+
+Salus asks, "Is important conclave meeting?"
+
+Faran says to Salus, "It is the open meeting where citizens can discuss relevant proposals and information with emissaries in a public forum, yes. According to Emissary O'Hara, this is the meeting everyone should attend if they wish to know information."
+Ayderias says to Salus, "It would seem there's some debate to that."
+
+Salus nods.
+
+Salus asks, "Is if important an all attend, is why trystan garven roachriol an devlin skip an meet byselves? why not all is come?"
+
+Thyia raises an eyebrow slightly.
+
+Eleanora raises an eyebrow.
+
+Faran frowns briefly.
+
+Wren says to Salus, "I'm sure they had important business of their own to discuss."
+
+Wren glances at Faran with a quick flick of her eyes.
+who
+
+   Players Currently Online: 
+ =============================
+
+   Yiri the Goblin                                             
+   Wren the Human                                              
+   Ayderias the Avardi                                         
+   Menfanous the Dwarf                                         
+   Xiija the Sylph                                             
+   Ernest the Human                                            
+   Blink the Avardi                                            
+   Seren the Avardi                                            
+   Trystan the Human                                           
+   Salus the Vukasin                                           
+   Visyn the Devalin                                           
+   Eleanora the Dwarf                                          
+   Percival the Human                                          
+   Nikolas the Human                                           
+   Garaven the Verdani                                         
+   Faran the Nydine                                            
+   Jerem the Human                                             
+   Thyia the Human                                             
+   Requiem the Vukasin                                         
+   Bocon the Devalin                                           
+   Alexis the Human                                            
+   Geel the Gavial                                             
+   Flynt the Sylph                                             
+   Aedin the Human                                             
+
+Faran says to Salus, "The Prelate and the Empyrion were present briefly."
+
+Salus nods.
+
+Faran catches Wren's glance.
+
+Salus says, "Is see down road go, is not understan why, is thanks."
+
+Wren tilts her head to the side.
+
+Ayderias says to Salus, "That is an interesting observation. Yes, I am sure they had other matters to discuss that did not need to be done so here."
+
+Thyia frowns.
+
+Salus nods.
+
+Nikolas arches a brow sceptically as he glances towards the door.
+
+Faran purses her lips slightly.
+
+Wren says, "There is likely no need for us to worry on the personal lives of a select few citizens. It is no crime to walk the streets with others."
+murm xii
+
+You murmur to yourself.
+
+Wren asks, "Shall we adjourn?"
+
+Ernest says, "Let's hope the voice of Pearl doesn't catch wind of it and turn it into something bigger than it is."
+
+Eleanora says to Ayderias, "Make sure you be listing "Go to meeting" as second on your suggestion."
+
+Wren peers at Ernest and seems to consider something, before glancing away.
+
+Ayderias asks Eleanora, "With first being?"
+
+Eleanora says, "Go to office hours."
+
+Eleanora says, "That should cover it."
+chu softly
+
+You chuckle softly.
+
+Percival glances at Eleanora and shakes his head side to side slowly.
+<HP: 155/155 ST: 120/120>
+Ayderias says to Eleanora, "I'm certain the line at your door next month will be twice what it normally is with that kind of information to look forward to."
+
+Wren pushes her chair back and stands, whisking her document from the table to tuck it away gently.
+
+Wren stands up.
+
+Wren puts a business document in an academy-issue canvas backpack.
+
+Wren stretches.
+
+Ernest grabs his hat from the table.
+
+Ernest puts on a feather-adorned black leather tricorne.
+
+Ernest stands up.
+
+Faran follows Wren's cue as she scoots her own chair back and rises.
+
+Faran stands up.
+
+Nikolas smiles at Faran softly.
+
+Ernest says, "Good folks of Pearl."
+
+Eleanora stands up.
+
+Visyn ponders.
+
+Ernest bows lightly.
+
+Faran says, "Fair tides."
+
+Faran follows Nikolas.
+
+Ernest follows Wren.
+Menfanous stands up.
+Nikolas nods.
+
+Eleanora says, "Evenin'."
+<HP: 155/155 ST: 120/120>
+Nikolas says, "Emissaries."
+
+Menfanous bows.
+
+Nikolas leaves through a thick ebony door.
+Faran leaves through a thick ebony door.
+
+Eleanora curtsies.
+Visyn says, "Good evening."
+
+Visyn stands up.
+
+Wren says, "Good evening, all."
+smi
+
+You smile.
+
+Wren bows.
+
+Eleanora leaves through a thick ebony door.
+l
+
+
+
+[Conciliatory Chamber.]
+
+A long, oval table stretches the width of the room, behind it sit rigid, ebony chairs aligned in a row.  In front of the council table is an ebony podium at which those addressing the conclave may stand.  A large, crystal chandelier hangs down at the center, its glow providing ample light during proceedings.  A portrait of the king sitting upon his throne overlooks the chamber from the back wall.  You notice an ebony podium, an open thick ebony door, an engraved cylindrical brass dispenser, a carved cherrywood cabinet, and a large sky blue dragon-embroidered cotton floor cushion.
+
+Also here: Merchant Ernest the Human, Merchant Menfanous the Dwarf, Emissary Wren the Human, Emissary Visyn the Devalin, Champion Blink the Avardi, Emissary Ayderias the Avardi (seated) at an oval ebony table, Knight Marshal Percival the Human, Seren the Avardi, and Ambassador Thyia the Human 
+
+Obvious Exits: none
+
+
+Thyia smiles and bows.
+
+Visyn tilts his head to the side.
+
+Wren leaves through a thick ebony door.
+Ernest leaves through a thick ebony door.
+
+Ayderias stands up.
+
+Blink asks Ayderias, "May I have a word Emissary?"
+Menfanous smiles at Thyia.
+
+Ayderias nods to Blink.
+say bli does it seems they are all fleeing?
+
+You ask Blink, "Does it seems they are all fleeing?"
+
+Seren leaves through a thick ebony door.
+chu softly
+
+You chuckle softly.
+
+Blink follows Ayderias.
+l
+
+
+
+[Conciliatory Chamber.]
+
+A long, oval table stretches the width of the room, behind it sit rigid, ebony chairs aligned in a row.  In front of the council table is an ebony podium at which those addressing the conclave may stand.  A large, crystal chandelier hangs down at the center, its glow providing ample light during proceedings.  A portrait of the king sitting upon his throne overlooks the chamber from the back wall.  You notice an ebony podium, an open thick ebony door, an engraved cylindrical brass dispenser, a carved cherrywood cabinet, and a large sky blue dragon-embroidered cotton floor cushion.
+
+Also here: Merchant Menfanous the Dwarf, Emissary Visyn the Devalin, Champion Blink the Avardi, Emissary Ayderias the Avardi, Knight Marshal Percival the Human, and Ambassador Thyia the Human 
+
+Obvious Exits: none
+
+
+Visyn asks you, "It does seem so, does it not?"
+stand 
+get floor
+
+You stand up.
+You get a large sky blue dragon-embroidered cotton floor cushion.
+nod  thoughtfully
+
+You nod thoughtfully.
+
+Blink says to you, "Oh they may be going north. I'm eager to get out there myself."
+
+Ayderias grins at you.
+
+Thyia says to Visyn, "I apologize for being late. A colleague stopped me on my way out and I was delayed."
+put floo sat
+
+You put a large sky blue dragon-embroidered cotton floor cushion in a silver-buckled leather satchel.
+nod bli
+
+You nod to Blink.
+Ayderias leaves through a thick ebony door.
+Blink leaves through a thick ebony door.
+
+Visyn says to Thyia, "It is always a pleasure to see you."
+l
+
+
+
+[Conciliatory Chamber.]
+
+A long, oval table stretches the width of the room, behind it sit rigid, ebony chairs aligned in a row.  In front of the council table is an ebony podium at which those addressing the conclave may stand.  A large, crystal chandelier hangs down at the center, its glow providing ample light during proceedings.  A portrait of the king sitting upon his throne overlooks the chamber from the back wall.  You notice an ebony podium, an open thick ebony door, an engraved cylindrical brass dispenser, and a carved cherrywood cabinet.
+
+Also here: Merchant Menfanous the Dwarf, Emissary Visyn the Devalin, Knight Marshal Percival the Human, and Ambassador Thyia the Human 
+
+Obvious Exits: none
+
+
+Thyia smiles.
+bow to all
+
+You bow to all.
+fly
+
+emo fans her multicolored wings swiftly, hovering...
+You launch into the air with a powerful downward thrust of your wings.
+
+Xiija fans her multicolored wings swiftly, hovering...
+go door
+
+
+
+[Conciliatory Chamber, Entrance.]
+
+The marble-floored hallway leads to an thick ebony door with a polished brass lock, a sign upon it proclaims what lies on the other side.  A pair of brass sconces illuminate the wall.  An ornate brass plaque hangs in the light next to the chamber, each of the fourteen representatives engraved on small granite slabs or a blank spot indicating a slot to be filled.  You notice an open thick ebony door.
+
+Obvious Exits: west. 
+
+w
+
+
+
+[Conclave, Grand Foyer.]
+
+The wide open design of the foyer is enhanced by stately white floors and walls, streaks of deep gray running throughout the marble.  Smooth ebony railings and rungs run down either side of the large stairway as it turns, leading to the next floor up.  On the curved wall at the top of the stairs is a large portrait of the king on his throne with a gold scepter at his side.  You notice an open gold-paneled oak door, and a spiraling marble staircase.
+
+Also here: Salus the Vukasin 
+
+Obvious Exits: northwest, east, and south. 
+
+go door
+
+
+
+[Conclave Courtyard.]
+
+The white stone building, home to the conclave, serves as a central location for the diplomatic offices of each of the six religions on Archai.  Of sound dwarven design, the architectural feat is built across the road that runs northeast to the main city gate.  You notice an open gold-paneled oak door.
+
+Also here: a lavishly dressed merchant 
+
+Obvious Exits: south. 
+
+
+It is very cold. 
+go door
+
+
+
+[Conclave, Grand Foyer.]
+
+The wide open design of the foyer is enhanced by stately white floors and walls, streaks of deep gray running throughout the marble.  Smooth ebony railings and rungs run down either side of the large stairway as it turns, leading to the next floor up.  On the curved wall at the top of the stairs is a large portrait of the king on his throne with a gold scepter at his side.  You notice an open gold-paneled oak door, and a spiraling marble staircase.
+
+Also here: Salus the Vukasin 
+
+Obvious Exits: northwest, east, and south. 
+
+cac
+
+You cackle.
+go door
+
+
+
+[Conclave Courtyard.]
+
+The white stone building, home to the conclave, serves as a central location for the diplomatic offices of each of the six religions on Archai.  Of sound dwarven design, the architectural feat is built across the road that runs northeast to the main city gate.  You notice an open gold-paneled oak door.
+
+Also here: a lavishly dressed merchant 
+
+Obvious Exits: south. 
+
+
+It is very cold. 
+s
+
+
+
+[Conclave Courtyard.]
+
+The stone-paved courtyard leads toward a tall, white stone building. Stone columns on either side of the entrance support a steel gateway connecting the secluded structure to the rest of the city.  A number of windows can be seen to the northeast and far to the north.  The structure stands over a tunnel for the street that passes underneath and exits the city.  Manicured hedges decorate each end of the building.  You notice an open towering reinforced steel gate.
+
+Obvious Exits: north. 
+
+go gate
+
+
+
+[Victory Tunnel, Entrance.]
+
+A sandstone structure of dwarven design hunches over the road to the northeast, creating a tunnel.  The arched entrance is framed with symmetrical sandstone squares that meet at a decorative keystone.  Potted ferns sit at the base of the building on either side of the street.  The center of the city opens up to the southwest.  You notice an open towering reinforced steel gate.
+
+Also here: a white-helmed marshal 
+
+Obvious Exits: southwest, northeast, and west. 
+
+sw
+
+
+
+[City of Pearl, Center.]
+
+Granting an uninhibited view of the bustling shipping industry, a stone seawall bevels out behind a long crescent bench and creates a half-moon addition to the congested crossroads at the heart of the city.  The vast water of the bay expands beyond the southern stone wall.  Ships of all sizes pass by the seafront as they make their way in and out of the harbor to the south.  The streets head in many directions, as well as a tunnel to the northeast.  At the center of the intersection is an elegantly carved monument of a giant pearl atop a tall obelisk.  The base of the centerpiece rests at the bottom of a shallow fountain that has a burning spear pointing down into the water.  A small stone sundial has been carved on the rim of the fountain.  You notice a wooden directional signpost.
+
+Also here: a white-robed constable 
+
+Obvious Exits: southwest, southeast, northwest, northeast, west, east, and north. 
+
+nw
+
+
+
+[Bayesian Court, Bank Entrance.]
+
+Along the entrance of the bank are massive stone pillars that create a lavish backdrop to the busy courtyard.  Interlocking stone pavers, laid out in extravagant patterns, stretch out in every direction.  Iron lamp posts and transplanted dogwood trees lie evenly spread out along the plaza with flat slabs of marble serving as benches between them.  You notice an open engraved silver door.
+
+Obvious Exits: southeast, and north. 
+
+nw
+
+
+
+[New Archai Depository.]
+
+A well-dressed bank teller sits comfortably behind a counter at the center of the room.  Just beyond the teller, a paneled half-wall separates the customer area from a large circular steel vault door built into the rear of the building.  You notice an open engraved silver door, and a closed large circular steel vault.
+
+Also here: a well-dressed bank teller, a navy blue-helmed marshal, Flynt the Sylph, and Jerem the Human 
+
+Obvious Exits: none
+
+
+Flynt howls at you.
+get floo sat
+
+You get a large sky blue dragon-embroidered cotton floor cushion from a silver-buckled leather satchel.
+dep flo
+
+Jerem says, "Have about 2400 total."
+
+You deposit a large sky blue dragon-embroidered cotton floor cushion into your account with a well-dressed bank teller.
+A well-dressed bank teller says to you,  "Thank you, a large sky blue dragon-embroidered cotton floor cushion is safe with us."
+how fly
+
+You howl at Flynt.
+
+Flynt grins.
+l jer
+
+Jerem looks like an athletic 45 year old male Human.
+He has bluish gray eyes and very short, neatly kept, light brown hair.
+He is 6 feet 7 inches tall and weighs 133 pounds.
+He has an aura of Tetherias.
+Jerem is in perfect health.
+
+
+
+He is wearing:
+
+Head            : a light green cotton keffiyeh
+Neck            : a frayed blue silk scarf
+Body            : a long fur-lined cotton coat
+Body            : a green and brown camouflage cotton hunter's cloak
+Torso           : some hardened leather armor
+Torso           : a dark grey wool tunic
+Left wrist      : a leather-braided wristband
+Waist           : a leather weapon harness
+Legs            : some dark grey wool trousers
+Feet            : some dull black leather boots
+Wield           : a short ebony-handled steel dirk
+
+
+Jerem smiles.
+
+Flynt asks Jerem, "Xiija helped me. So if I give you the difference you get the armor, yes?"
+
+Jerem exclaims to Flynt, "Sure!"
+
+Flynt chuckles.
+who
+[ARRIVALS] 'Thyia has logged out.'
+   Players Currently Online: 
+ =============================
+
+   Yiri the Goblin                                             
+   Wren the Human                                              
+   Ayderias the Avardi                                         
+   Menfanous the Dwarf                                         
+   Xiija the Sylph                                             
+   Ernest the Human                                            
+   Blink the Avardi                                            
+   Seren the Avardi                                            
+   Trystan the Human                                           
+   Salus the Vukasin                                           
+   Visyn the Devalin                                           
+   Eleanora the Dwarf                                          
+   Percival the Human                                          
+   Nikolas the Human                                           
+   Garaven the Verdani                                         
+   Faran the Nydine                                            
+   Jerem the Human                                             
+   Requiem the Vukasin                                         
+   Bocon the Devalin                                           
+   Alexis the Human                                            
+   Geel the Gavial                                             
+   Flynt the Sylph                                             
+   Aedin the Human                                             
+
+
+Jerem reviews his account with a well-dressed bank teller.
+
+A well-dressed bank teller gives 976 doubloons to Jerem.
+Jerem withdraws 976 doubloons from his account with a well-dressed bank teller.
+
+A well-dressed bank teller gives 1500 doubloons to Flynt.
+
+Flynt withdraws 1500 doubloons from his account with a well-dressed bank teller.
+
+Flynt grins.
+
+Jerem grins.
+
+Flynt waves to you.
+wav
+
+You wave.
+grin
+
+You grin.
+
+Jerem waves.
+
+Flynt says, "Let's get you outfitted."
+beam
+
+You beam.
+
+Flynt leaves through an engraved silver door.
+Jerem leaves through an engraved silver door.
+l
+
+
+
+[New Archai Depository.]
+
+A well-dressed bank teller sits comfortably behind a counter at the center of the room.  Just beyond the teller, a paneled half-wall separates the customer area from a large circular steel vault door built into the rear of the building.  You notice an open engraved silver door, and a closed large circular steel vault.
+
+Also here: a well-dressed bank teller, and a navy blue-helmed marshal 
+
+Obvious Exits: none
+
+inv
+Inventory:
+
+(nothing you can see right now)
+
+Carrying: 61 items (71.0 | 81.0) lbs.
+
+l xii
+
+Xiija looks like a slender 55 year old female Sylph.
+She has silvery eyes and very long, dreaded, platinum blonde hair.
+She is 1 feet 9 inches tall and weighs 19 pounds.
+She has an aura of Aerthane.
+Xiija is in perfect health.
+
+Dirty silvery dreadlocks fall across her face, obscuring intense eyes, one white, one silvery-grey,from your view
+
+Visible Tattoos:
+
+A sleeve of multi-colored dragons twists down her left arm from shoulder to wrist.
+A small deep blue pentagram is tattooed upon her neck.
+On her left cheek is a small tribal tattoo.
+Centered on her forehead is tattooed the Mark of Aerthane.
+Up the inside of her right forearm is a tattoo of a black Caduceus with bloody wings.
+
+She appears to be in a mischievous mood
+
+She is wearing:
+
+Head            : a gold-beaded white cotton headscarf
+Ears            : a blackened cursed vampire bone earring
+Neck            : a formal Sylvan batik erimaki hemp scarf
+Neck            : a tiny silver locket
+Body            : a silver-buckled leather satchel
+Body            : a dark brown formal Sylvan batik itai
+Torso           : some fur-lined steel scalemail
+Torso           : a patched tribal shaman's silk sarkari
+Left wrist      : a leather-braided wristband
+Left finger     : a smooth ebony ring
+Waist           : a leather weapon harness
+Waist           : a patched leather pelt sack
+Waist           : some falcon feather-adorned ivory prayer beads
+Feet            : some weathered woven hemp moccasins
+Wield           : a battered teak baji totem staff
+Held            : a small round wooden shield
+Face            : a blackened leather shaman's wyvern-head death mask
+Face            : a smooth silver lip ring
+Nose            : a tribal-scrimshawed bone septum piercing
+
+l sat
+
+It looks like a silver-buckled leather satchel.
+Inside you see:
+
+a small raven black seven demon silk bag
+ a long cherrywood fishing pole
+ a bamboo-sheathed osage blowgun
+ a quiver of feather-adorned darts
+ a supple black leather apothecary bag
+ 
+get fish pel
+
+You get a loosely-tied leather fish sack from a patched leather pelt sack.
+get all fish
+
+You get some herring from a loosely-tied leather fish sack.
+You get some herring from a loosely-tied leather fish sack.(7)
+You get some flounder from a loosely-tied leather fish sack.
+You get some flounder from a loosely-tied leather fish sack.(3)
+drop all herr 
+bundle all herr
+
+You drop some herring.
+You drop some herring.(7)
+
+land
+You must land first.
+
+stand
+emo curses softly, shaking her multicolored wings into order...
+furl angrily.
+You dive out of the air, but tumble haphazardly and crash to the ground.
+
+You stand up.
+
+Xiija curses softly, shaking her multicolored wings into order...
+You furl your wings angrily.
+bundle all her
+
+You bundle some herring.
+drop all flou
+
+You drop some flounder.
+You drop some flounder.(3)
+bundle all flou
+
+You bundle some flounder.
+get all
+
+You can't get an open engraved silver door.
+You can't get a closed large circular steel vault.
+You get a bundle of herring.
+You get a bundle of flounder.
+dep herr
+
+You deposit a bundle of herring into your account with a well-dressed bank teller.
+A well-dressed bank teller says to you,  "Thank you, a bundle of herring is safe with us."
+dep flou
+
+You deposit a bundle of flounder into your account with a well-dressed bank teller.
+A well-dressed bank teller says to you,  "Thank you, a bundle of flounder is safe with us."
+inv
+Inventory:
+
+a loosely-tied leather fish sack (1.0 lb)
+ 
+
+Carrying: 49 items (59.0 | 81.0) lbs.
+
+put fish pel
+
+You put a loosely-tied leather fish sack in a patched leather pelt sack.
+inv
+Inventory:
+
+(nothing you can see right now)
+
+Carrying: 49 items (59.0 | 81.0) lbs.
+
+Current Bank Balances: Xiija
+Pearl    27007
+RumVillage    1900
+TOTAL: 28907
+get coin sat
+
+You don't see 'coin' in a silver-buckled leather satchel.
+l coin
+
+You don't see that here!
+l sat
+
+It looks like a silver-buckled leather satchel.
+Inside you see:
+
+a small raven black seven demon silk bag
+ a long cherrywood fishing pole
+ a bamboo-sheathed osage blowgun
+ a quiver of feather-adorned darts
+ a supple black leather apothecary bag
+ 
+l pel
+
+It looks like a patched leather pelt sack is made of large pieces of tanned skins.
+Inside you see:
+
+a loosely-tied leather fish sack
+ a circular-cut garnet
+ a small luminous agate
+ a beautiful rose quartz
+ a circular-cut garnet
+ a chipped pink quartz
+ a milky white opal
+ a beautiful rose quartz
+ a lustrous purple garnet
+ a pristine white opal
+ a large shimmering turquoise
+ a smooth light green turquoise
+ a smooth light green turquoise
+ a chipped pink quartz
+ 
+get bag sat
+
+You get a small raven black seven demon silk bag from a silver-buckled leather satchel.
+l bag
+
+It looks like a small raven black seven demon silk bag.
+Inside you see:
+
+a small jade demonic Xiija figurine
+ 
+put bag sat
+
+You put a small raven black seven demon silk bag in a silver-buckled leather satchel.
+get apo sat
+
+You get a supple black leather apothecary bag from a silver-buckled leather satchel.
+l apo
+
+It looks like a supple black leather apothecary bag.
+Inside you see:
+
+a small green-labeled glass bottle
+ a glass bottle of blue elixir
+ a glass bottle of red elixir
+ a glass bottle of red elixir
+ a glass bottle of blue elixir
+ a glass bottle of blue elixir
+ a small yellow-labeled glass bottle
+ a glass vial of red elixir
+ 
+put apo sat
+
+You put a supple black leather apothecary bag in a silver-buckled leather satchel.
+furr
+
+You furrow your brow.
+with coin
+
+A well-dressed bank teller says to you,  "I'm sorry, this bank operates on the doubloons standard."
+with coinp
+
+You withdraw an embossed leather coinpouch from your account with a well-dressed bank teller.
+A well-dressed bank teller says to you,  "Thank you for your trust."
+put coinp sat
+
+You put an embossed leather coinpouch in a silver-buckled leather satchel.
+grunt
+
+You grunt.
+l
+
+
+
+[New Archai Depository.]
+
+A well-dressed bank teller sits comfortably behind a counter at the center of the room.  Just beyond the teller, a paneled half-wall separates the customer area from a large circular steel vault door built into the rear of the building.  You notice an open engraved silver door, and a closed large circular steel vault.
+
+Also here: a well-dressed bank teller, and a navy blue-helmed marshal 
+
+Obvious Exits: none
+
+inv
+Inventory:
+
+(nothing you can see right now)
+
+Carrying: 50 items (60.0 | 81.0) lbs.
+
+se
+
+
+
+[Bayesian Court, Bank Entrance.]
+
+Along the entrance of the bank are massive stone pillars that create a lavish backdrop to the busy courtyard.  Interlocking stone pavers, laid out in extravagant patterns, stretch out in every direction.  Iron lamp posts and transplanted dogwood trees lie evenly spread out along the plaza with flat slabs of marble serving as benches between them.  You notice an open engraved silver door.
+
+Also here: a white-robed constable 
+
+Obvious Exits: southeast, and north. 
+
+
+It is very cold. 
+se
+
+
+
+[City of Pearl, Center.]
+
+Granting an uninhibited view of the bustling shipping industry, a stone seawall bevels out behind a long crescent bench and creates a half-moon addition to the congested crossroads at the heart of the city.  The vast water of the bay expands beyond the southern stone wall.  Ships of all sizes pass by the seafront as they make their way in and out of the harbor to the south.  The streets head in many directions, as well as a tunnel to the northeast.  At the center of the intersection is an elegantly carved monument of a giant pearl atop a tall obelisk.  The base of the centerpiece rests at the bottom of a shallow fountain that has a burning spear pointing down into the water.  A small stone sundial has been carved on the rim of the fountain.  You notice a wooden directional signpost.
+
+Also here: Merchant Menfanous the Dwarf 
+
+Obvious Exits: southwest, southeast, northwest, northeast, west, east, and north. 
+
+
+Menfanous smiles.
+smi men
+
+You smile at Menfanous.
+
+A white-robed constable arrives from the southwest.
+who
+[ARRIVALS] 'Eleanora has logged out.'
+
+   Players Currently Online: 
+ =============================
+
+   Yiri the Goblin                                             
+   Wren the Human                                              
+   Ayderias the Avardi                                         
+   Menfanous the Dwarf                                         
+   Xiija the Sylph                                             
+   Ernest the Human                                            
+   Blink the Avardi                                            
+   Seren the Avardi                                            
+   Trystan the Human                                           
+   Salus the Vukasin                                           
+   Visyn the Devalin                                           
+   Percival the Human                                          
+   Nikolas the Human                                           
+   Garaven the Verdani                                         
+   Faran the Nydine                                            
+   Jerem the Human                                             
+   Requiem the Vukasin                                         
+   Bocon the Devalin                                           
+   Alexis the Human                                            
+   Geel the Gavial                                             
+   Flynt the Sylph                                             
+   Aedin the Human                                             
+
+' anythyng fun goin on?
+You ask, "Anythyng fun goin on?"
+
+Menfanous ponders.
+
+Menfanous says, "I be eaten haggis, dat be ebin fun."
+
+Menfanous nods.
+wrink slightly, wiggling a tribal-scrimshawed bone septum piercing.
+
+You wrinkle your nose slightly, wiggling a tribal-scrimshawed bone septum piercing.
+; eww?
+
+Huh?
+' eww?
+
+You ask, "Eww?"
+grin softly
+
+You grin softly.
+
+Menfanous shakes his head from side to side.
+l
+
+
+
+[City of Pearl, Center.]
+
+Granting an uninhibited view of the bustling shipping industry, a stone seawall bevels out behind a long crescent bench and creates a half-moon addition to the congested crossroads at the heart of the city.  The vast water of the bay expands beyond the southern stone wall.  Ships of all sizes pass by the seafront as they make their way in and out of the harbor to the south.  The streets head in many directions, as well as a tunnel to the northeast.  At the center of the intersection is an elegantly carved monument of a giant pearl atop a tall obelisk.  The base of the centerpiece rests at the bottom of a shallow fountain that has a burning spear pointing down into the water.  A small stone sundial has been carved on the rim of the fountain.  You notice a wooden directional signpost.
+
+Also here: Merchant Menfanous the Dwarf, and a white-robed constable 
+
+Obvious Exits: southwest, southeast, northwest, northeast, west, east, and north. 
+
+
+Menfanous says to you, "Ye be marryin me ye better learnhow ta bemakinit."
+
+Flynt arrives from the southwest.
+Jerem arrives from the southwest.
+
+Flynt leaves northwest.
+Jerem leaves northwest.
+cac men
+
+You cackle at Menfanous.
+
+Menfanous laughs.
+' i will then!
+
+You exclaim, "I will then!"
+beam men
+
+You beam at Menfanous.
+
+Menfanous says, "And eat it."
+' er...
+
+You say, "Er..."
+glan
+
+You glance.
+
+Menfanous gets some boiled haggis from a brown paper food bag.
+murm softly
+
+You murmur softly.
+shri
+
+You shriek.
+u
+
+fly
+u
+You need wings to fly in that direction.
+
+emo fans her multicolored wings swiftly, hovering...
+You launch into the air with a powerful downward thrust of your wings.
+
+
+
+[Above City of Pearl.]
+
+A stone seawall bevels out from the street below, creating a half-moon addition to the always congested crossroads at the heart of the city.  The vast water of the bay expands beyond that southern stone wall.  Ships of all sizes pass by the seafront as they make their way in and out of the harbor to the south.  At the center of the intersection is an elegantly carved monument of a giant pearl atop a tall obelisk.  The base of the centerpiece rests at the bottom of a fountain.
+A stone seawall bevels out from the street below, creating a half-moon addition to the always congested crossroads at the heart of the city.  The vast water of the bay expands beyond that southern stone wall.  Ships of all sizes pass by the seafront as they make their way in and out of the harbor to the south.  At the center of the intersection is an elegantly carved monument of a giant pearl atop a tall obelisk.  The base of the centerpiece rests at the bottom of a fountain.
+A stone seawall bevels out from the street below, creating a half-moon addition to the always congested crossroads at the heart of the city.  The vast water of the bay expands beyond that southern stone wall.  Ships of all sizes pass by the seafront as they make their way in and out of the harbor to the south.  At the center of the intersection is an elegantly carved monument of a giant pearl atop a tall obelisk.  The base of the centerpiece rests at the bottom of a fountain.
+A stone seawall bevels out from the street below, creating a half-moon addition to the always congested crossroads at the heart of the city.  The vast water of the bay expands beyond that southern stone wall.  Ships of all sizes pass by the seafront as they make their way in and out of the harbor to the south.  At the center of the intersection is an elegantly carved monument of a giant pearl atop a tall obelisk.  The base of the centerpiece rests at the bottom of a fountain.
+A stone seawall bevels out from the street below, creating a half-moon addition to the always congested crossroads at the heart of the city.  The vast water of the bay expands beyond that southern stone wall.  Ships of all sizes pass by the seafront as they make their way in and out of the harbor to the south.  At the center of the intersection is an elegantly carved monument of a giant pearl atop a tall obelisk.  The base of the centerpiece rests at the bottom of a fountain.
+
+Obvious Exits: southwest, southeast, northwest, northeast, down, up, west, east, and north. 
+
+
+Xiija fans her multicolored wings swiftly, hovering...
+cac
+
+You cackle.
+d
+
+
+
+[City of Pearl, Center.]
+
+Granting an uninhibited view of the bustling shipping industry, a stone seawall bevels out behind a long crescent bench and creates a half-moon addition to the congested crossroads at the heart of the city.  The vast water of the bay expands beyond the southern stone wall.  Ships of all sizes pass by the seafront as they make their way in and out of the harbor to the south.  The streets head in many directions, as well as a tunnel to the northeast.  At the center of the intersection is an elegantly carved monument of a giant pearl atop a tall obelisk.  The base of the centerpiece rests at the bottom of a shallow fountain that has a burning spear pointing down into the water.  A small stone sundial has been carved on the rim of the fountain.  You notice a wooden directional signpost.
+
+Also here: Merchant Menfanous the Dwarf, and a white-robed constable 
+
+Obvious Exits: southwest, southeast, northwest, northeast, west, east, and north. 
+
+sniff men
+
+You sniff Menfanous.
+wrink slightly, wiggling a tribal-scrimshawed bone septum piercing.
+
+You wrinkle your nose slightly, wiggling a tribal-scrimshawed bone septum piercing.
+
+Menfanous asks, "Be smellin gud right?"
+' well..
+
+You say, "Well.."
+gulp
+
+You gulp.
+hum softly
+
+You hum softly.
+l
+
+
+
+[City of Pearl, Center.]
+
+Granting an uninhibited view of the bustling shipping industry, a stone seawall bevels out behind a long crescent bench and creates a half-moon addition to the congested crossroads at the heart of the city.  The vast water of the bay expands beyond the southern stone wall.  Ships of all sizes pass by the seafront as they make their way in and out of the harbor to the south.  The streets head in many directions, as well as a tunnel to the northeast.  At the center of the intersection is an elegantly carved monument of a giant pearl atop a tall obelisk.  The base of the centerpiece rests at the bottom of a shallow fountain that has a burning spear pointing down into the water.  A small stone sundial has been carved on the rim of the fountain.  You notice a wooden directional signpost.
+
+Also here: Merchant Menfanous the Dwarf, and a white-robed constable 
+
+Obvious Exits: southwest, southeast, northwest, northeast, west, east, and north. 
+
+
+Menfanous laughs.
+grin impishly
+
+You grin impishly.
+
+Menfanous says, "Xiijamaybe ya need ta be marryin a vegitarian."
+
+Menfanous nods.
+chu men
+
+You chuckle at Menfanous.
+' perhaps... how do you feel about... green food?
+
+You ask, "Perhaps... how do you feel about... green food?"
+rai men
+
+You raise an eyebrow at Menfanous.
+
+A white-robed constable leaves northwest.
+
+Menfanous asks, "Fer example?"
+
+Flynt arrives from the northwest.
+Jerem arrives from the northwest.
+
+Flynt leaves southwest.
+Jerem leaves southwest.
+' Kale... spinach... leafy stuff
+
+You say, "Kale... spinach... leafy stuff."
+grin
+
+You grin.
+l
+
+
+
+[City of Pearl, Center.]
+
+Granting an uninhibited view of the bustling shipping industry, a stone seawall bevels out behind a long crescent bench and creates a half-moon addition to the congested crossroads at the heart of the city.  The vast water of the bay expands beyond the southern stone wall.  Ships of all sizes pass by the seafront as they make their way in and out of the harbor to the south.  The streets head in many directions, as well as a tunnel to the northeast.  At the center of the intersection is an elegantly carved monument of a giant pearl atop a tall obelisk.  The base of the centerpiece rests at the bottom of a shallow fountain that has a burning spear pointing down into the water.  A small stone sundial has been carved on the rim of the fountain.  You notice a wooden directional signpost.
+
+Also here: Merchant Menfanous the Dwarf 
+
+Obvious Exits: southwest, southeast, northwest, northeast, west, east, and north. 
+
+time

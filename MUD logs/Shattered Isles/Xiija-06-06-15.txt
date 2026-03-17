@@ -1,0 +1,668 @@
+
+Geel puts a wolf-shaped single-hole bronze cigar cutter in an ornate silverwood tree-embossed cedar travel humidor.
+l
+
+
+
+[Burning Bandit Tavern.]
+
+Several tables and chairs form a circle around the large hearth.  A roaring fire fills its cavity most evenings, providing guests warmth as they enjoy the food and beverages served.  A long bar opposite the fireplace hooks in front of the door, giving the barkeep a clear view of the door.  You notice an octagonal pine card table, a long mahogany bar, and a tall wicker trashcan.
+
+Also here: a tavern owner, Kaiya the Avardi (seated) at an octagonal pine card table, Ra'daji Garaven the Verdani, Aruskin the Avardi (seated) at an octagonal pine card table, Champion Blink the Avardi (seated) at an octagonal pine card table, Seren the Avardi, Emissary Rochiriel the Verdani, Trystan the Human, and Geel the Gavial (seated) at an octagonal pine card table 
+
+Obvious Exits: west. 
+
+
+Blink puffs on a tobacco leaf-rolled fragrant burgundy cigar.
+
+Geel asks, "I am sorry did I miss anyone?"
+
+Blink asks, "So are these roc and midget roc bets serious?"
+
+Geel glances at around the room.
+chu bli
+
+You chuckle at Blink.
+
+Geel taps an ornate silverwood tree-embossed cedar travel humidor.
+
+Seren says to Blink, "Of course they are."
+
+Garaven says, "I believe at least the roc was."
+
+Blink puffs on a tobacco leaf-rolled fragrant burgundy cigar.
+
+Aruskin says to Blink, "No, if I'm going to bet, put me down for goblin army."
+Blink says to Seren, "I do hope you are right."
+<HP: 157/157 ST: 123/123>
+Trystan says to Aruskin, "If we could only find a group of priests and mages."
+say bli big birds n little nes?
+
+You ask Blink, "Big birds n little nes?"
+
+Rochiriel says to Blink, "You keep saying roc and I keep hearing roch."
+
+Kaiya rubs her eyes and yawns, lifting her head.
+
+Blink asks Aruskin, "Well are you betting?"
+
+Trystan chuckles at Rochiriel.
+
+Geel closes an ornate silverwood tree-embossed cedar travel humidor.
+
+Geel puts an ornate silverwood tree-embossed cedar travel humidor in a large canvas traveler's pack.
+
+Blink laughs.
+
+Aruskin says to Blink, "Might as well."
+
+Geel lights up a tobacco leaf-rolled fragrant burgundy cigar.
+
+Blink puffs on a tobacco leaf-rolled fragrant burgundy cigar.
+
+Blink says to Rochiriel, "Oh well they are these huge muscular birds."
+
+Blink says to Rochiriel, "So you may be related."
+
+Geel puffs on a tobacco leaf-rolled fragrant burgundy cigar.
+
+Rochiriel says to Blink, "I am not a bird."
+
+Blink says to Rochiriel, "No but the muscle thing you got going."
+
+Rochiriel chuckles.
+
+Rochiriel flexes.
+<HP: 157/157 ST: 123/123>
+Blink puffs on a tobacco leaf-rolled fragrant burgundy cigar.
+
+Blink says to Rochiriel, "They carry off elephants supposedly."
+
+Geel removes an open hinged blacksteel close helm.
+
+Geel puts an open hinged blacksteel close helm in a large canvas traveler's pack.
+
+Aruskin ponders.
+l xii
+
+Xiija looks like a slender 55 year old female Sylph.
+She has silvery eyes and very long, dreaded, platinum blonde hair.
+She is 1 feet 9 inches tall and weighs 19 pounds.
+She has an aura of Aerthane.
+Xiija is in perfect health.
+
+Dirty silvery dreadlocks fall across her face, obscuring intense eyes, one white, one silvery-grey from your view
+
+Visible Tattoos:
+
+A sleeve of multi-colored dragons twists down her left arm from shoulder to wrist.
+A small deep blue pentagram is tattooed upon her neck.
+On her left cheek is a small tribal tattoo.
+Centered on her forehead is tattooed the Mark of Aerthane.
+Up the inside of her right forearm is a tattoo of a black Caduceus with bloody wings.
+Across her back is tattoo'd - 'Revenge'.
+
+She is wearing:
+
+Head            : a gold-beaded white cotton headscarf
+Head            : some purple thread-tied blessed silver charms
+Ears            : a blackened cursed vampire bone earring
+Body            : a silver-buckled leather satchel
+Body            : a golden feather-embossed moss green samite chipao
+Torso           : some fur-lined steel scalemail
+Waist           : a tooled leather sailors weapon harness
+Waist           : a patched leather pelt sack
+Feet            : a tinkling silver-belled jade anklet
+Wield           : a battered teak baji totem staff
+Held            : a small round wooden shield
+Face            : a smooth silver lip ring
+Nose            : a tribal-scrimshawed bone septum piercing
+
+Geel puffs on a tobacco leaf-rolled fragrant burgundy cigar.
+
+Blink says to Rochiriel, "That was the picture I saw."
+
+Garaven says to Rochiriel, "You do carry around an elephant often."
+
+Aruskin says, "Maybe it was a midget elephant."
+l
+
+
+
+[Burning Bandit Tavern.]
+
+Several tables and chairs form a circle around the large hearth.  A roaring fire fills its cavity most evenings, providing guests warmth as they enjoy the food and beverages served.  A long bar opposite the fireplace hooks in front of the door, giving the barkeep a clear view of the door.  You notice an octagonal pine card table, a long mahogany bar, and a tall wicker trashcan.
+
+Also here: a tavern owner, Kaiya the Avardi (seated) at an octagonal pine card table, Ra'daji Garaven the Verdani, Aruskin the Avardi (seated) at an octagonal pine card table, Champion Blink the Avardi (seated) at an octagonal pine card table, Seren the Avardi, Emissary Rochiriel the Verdani, Trystan the Human, and Geel the Gavial (seated) at an octagonal pine card table 
+
+Obvious Exits: west. 
+
+
+Blink says, "Yeah if there is one thing in life I really must see, it is a roc."
+l gar
+
+Garaven looks like a lean 88 year old male Verdani.
+He has sage green eyes and long, tied back, dark blonde hair.
+He is 6 feet 2 inches tall and weighs 113 pounds.
+He has an aura of Tetherias.
+Garaven is in perfect health.
+
+His visage appears mostly stoic and flawless, while his sage eyes bear deep lines about the edges. His lean form is largely shrouded by well-tailored yet loose-fitting clothing. He seems to favor his left leg slightly, but otherwise holds himself with great poise.
+
+He is wearing:
+
+Neck            : a niello-inlaid silverwood tree-engraved silver medallion
+Back            : a claw-clasped black dire wolf fur-lined leather backpack
+Back            : a large wolf-embroidered white leather haversack
+Body            : a silver-buckled leather satchel
+Body            : a thick russet wolf fur-lined hunter green wool overcoat
+Torso           : an elegant vine-patterned light green satin kurta
+Left finger     : a thin gold band
+Waist           : a small horseshoe keychain
+Waist           : a leather weapon harness
+Waist           : some etched wooden prayer beads
+Legs            : some brown wool trousers
+Feet            : some stout russet wolf fur-lined leather boots
+
+
+Rochiriel taps a niello-inlaid trumpeting elephant-etched persarium bouche.
+l roc
+Rochiriel looks like an able-bodied 86 year old female Verdani.
+She has hazel eyes and very long, braided, golden blonde hair.
+She is 6 feet 3 inches tall and weighs 133 pounds.
+She has an aura of Tetherias.
+Rochiriel is in perfect health.
+
+
+
+She is wearing:
+
+Head            : an exquisitely-detailed trumpeting elephant ivory circlet
+Neck            : a niello-inlaid silverwood tree-engraved silver medallion
+Body            : a silky ermine fur-lined green velvet satchel
+Body            : a soft white ermine fur-lined emerald green wool overcoat
+Body            : some gold rune embroidered flowing carmine satin robes
+Torso           : a glistening black crudesteel haubergeon
+Left wrist      : a smooth mesquite bracelet
+Left finger     : an brilliant emerald-studded white gold ring
+Right finger    : an elegant hand-carved trumpeting elephant ivory mage ring
+Right finger    : an amethyst-encrusted silver ring
+Waist           : a nautical-knotted leather key chain
+Waist           : a leather weapon harness
+Feet            : some black dire-wolf fur-lined leather boots
+Wield           : an embossed obsidian-handled ridged orichalcum baselard
+Held            : a niello-inlaid trumpeting elephant-etched persarium bouche
+
+l try
+
+Trystan looks like a muscular 25 year old male Human.
+He has deep blue eyes and shoulder length, neatly kept, dull black hair.
+He is 6 feet 2 inches tall and weighs 188 pounds.
+He has an aura of Aerthane.
+Trystan is in perfect health.
+
+A tall young man with a casual manner. Dark hair highlights a pair of deep blue eyes that give you a quick notice before quickly turning to something else.
+
+He is wearing:
+
+Neck            : a black braided-leather corded silver medallion
+Body            : a silver clasped black matte leather hooded cloak
+Torso           : an arcsilver whirlwind-inlaid blacksteel breastplate
+Torso           : a black and silver braided stitched white leather doublet
+Left wrist      : a blacksteel and silver braided wristband
+Right wrist     : a black leather-braided wristband
+Waist           : a small black leather coinpouch
+Waist           : a silver buckled black leather belt
+Legs            : some black leather trousers
+Feet            : some black leather thigh-high boots
+Held            : a hollow spiral-routed silverwood staff
+
+l bli
+
+Blink looks like a skinny 32 year old male Avardi.
+He has light gray eyes and short, spiky, silvery gray hair.
+He is 6 foot tall and weighs 98 pounds.
+He has an aura of Aerthane.
+Blink is in perfect health.
+
+Tall and skinny, with a slight stoop. His gray eyes take in the world calmly above the gold persarium of his beak.
+
+He is wearing:
+
+Head            : a horned and beaked persarium helm
+Eyes            : some cobalt-framed round bifocal glass spectacles
+Mouth           : a tobacco leaf-rolled fragrant burgundy cigar (burning)
+Neck            : a simple white crystal air symbol
+Body            : a silver-buckled leather satchel
+Torso           : a leather-winged blacksteel breastplate
+Torso           : an oversized white flowered blue cotton tourist shirt
+Arms            : some light winged arcsilver bracers
+Hands           : some curved blacksteel eagle talons
+Legs            : some lightning-etched blacksteel greaves
+Legs            : some fitted rugged khaki pants
+Wield           : a short wire-wrapped sharkskin-hilted steel stiletto
+Held            : an ivory-horned thunderbird-crested arcsilver kite shield
+
+l aru
+
+Aruskin looks like a slender 68 year old male Avardi.
+He has bluish gray eyes and short, curly, sandy blonde hair.
+He is 5 feet 10 inches tall and weighs 122 pounds.
+He has an aura of Aerthane.
+Aruskin is in perfect health.
+
+He appears quietly friendly and a bit too serious for his own good.
+
+He is wearing:
+
+Head            : a wide-brimmed felt hat
+Back            : an academy-issue canvas backpack
+Body            : a falcon painted grey and brown leather quiver-bag
+Torso           : a falcon-etched steel chestplate
+Torso           : a dark grey wool tunic
+Hands           : a soft three-fingered leather archer glove
+Waist           : a leather weapon harness
+Legs            : some dark grey wool trousers
+Feet            : some dull black leather boots
+Left arm        : a hardened leather archer bracer
+
+
+Blink puffs on a tobacco leaf-rolled fragrant burgundy cigar.
+l kai
+
+Kaiya looks like a sinewy 52 year old female Avardi.
+She has steel gray eyes and collar length, disheveled, platinum blonde hair.
+She is 6 foot tall and weighs 116 pounds.
+She has an aura of Aerthane.
+Kaiya is in perfect health.
+
+
+
+She is wearing:
+
+Head            : a feather-pinned velvet fedora
+Neck            : a smooth ivory arrow head-charmed silver necklace
+Back            : an academy-issue canvas backpack
+Torso           : some fur-lined steel scalemail
+Torso           : a dark grey wool tunic
+Hands           : a soft three-fingered leather archer glove
+Waist           : a leather weapon harness
+Legs            : some dark grey wool trousers
+Feet            : some dull black leather boots
+Wield           : a short cobalt hatchet
+Left arm        : a hardened leather archer bracer
+
+l gee
+
+Geel looks like a husky 50 year old male Gavial.
+He has golden eyes and bluish black scales.
+He is 8 feet 9 inches tall and weighs 367 pounds.
+He has an aura of Tetherias.
+Geel is in perfect health.
+
+Thick lenses magnify a pair of golden eyes that shine with an almost preternatural light, the thin frames of which are tucked into the scales above his ear-holes. A faint rope burn can be seen on the scales of his neck while the movement of his long tail carves a sinuous wave along the ground behind him.
+
+He is wearing:
+
+Eyes            : some thin gold-framed brown-tinted glass spectacles
+Mouth           : a tobacco leaf-rolled fragrant burgundy cigar (burning)
+Neck            : an Isle of Tetherias-carved silverwood medallion
+Back            : a large canvas traveler's pack
+Torso           : some heavily embossed blacksteel plate armor
+Torso           : a billowy collared khaki great coat
+Hands           : some gold-embossed elbow length blacksteel gauntlets
+Left finger     : a hammered gold wedding band
+Right finger    : an onyx troll eye-inlaid silver ring
+Right finger    : a jade-inlaid gold signet ring
+Waist           : a thick steel-ringed black leather axe frog
+Waist           : an oiled square leather smoking pouch
+Waist           : some etched wooden prayer beads
+Legs            : some gold-embossed blacksteel greaves
+Legs            : some rugged brown leather pants
+Held            : a hammered arcsilver kite shield
+Shoulders       : some bone-trimmed black hardened leather pauldrons
+
+l
+
+Blink laughs.
+
+
+[Burning Bandit Tavern.]
+
+Several tables and chairs form a circle around the large hearth.  A roaring fire fills its cavity most evenings, providing guests warmth as they enjoy the food and beverages served.  A long bar opposite the fireplace hooks in front of the door, giving the barkeep a clear view of the door.  You notice an octagonal pine card table, a long mahogany bar, and a tall wicker trashcan.
+
+Also here: a tavern owner, Kaiya the Avardi (seated) at an octagonal pine card table, Ra'daji Garaven the Verdani, Aruskin the Avardi (seated) at an octagonal pine card table, Champion Blink the Avardi (seated) at an octagonal pine card table, Seren the Avardi, Emissary Rochiriel the Verdani, Trystan the Human, and Geel the Gavial (seated) at an octagonal pine card table 
+
+Obvious Exits: west. 
+
+l ser
+
+Seren looks like an athletic 44 year old female Avardi.
+She has bluish gray eyes and long, unbridled, light blonde hair.
+She is 5 feet 8 inches tall and weighs 118 pounds.
+She has an aura of Aerthane.
+Seren is in perfect health.
+
+Unruly blond hair swirls in the slightest breeze as the scent of cinnamon and apples waft from her basket when she walks by.
+
+She is wearing:
+
+Ears            : some narrow gold hoop earrings
+Neck            : a delicate cloud-shaped gold locket
+Body            : a rose-embroidered black velvet satchel
+Torso           : a rose etched polished blacksteel breastplate
+Torso           : a rose-embossed grey silk blouse
+Left wrist      : a wispy diamond-encrusted gold bracelet
+Left finger     : a hammered gold wedding band
+Left finger     : a flour dusted silver ring
+Legs            : some fitted cloud grey leather leggings
+Feet            : some supple grey leather high-heeled boots
+Wield           : a short silverwood-handled steel boning knife
+Held            : a wooden handled basket
+
+Garaven exclaims to Rochiriel, "Aha!"
+
+Geel puffs on a tobacco leaf-rolled fragrant burgundy cigar.
+
+Geel exhales slowly as he blows a loosely formed smoke ring.
+
+Rochiriel taps an exquisitely-detailed trumpeting elephant ivory circlet.
+
+Rochiriel says, "There too."
+
+Blink says, "Wow, that's amazing."
+
+Blink puffs on a tobacco leaf-rolled fragrant burgundy cigar.
+
+Garaven asks Rochiriel, "Perhaps a hiden meaning in your name, verensa?"
+
+Blink asks, "Maybe her parents saw one?"
+
+Geel puffs on a tobacco leaf-rolled fragrant burgundy cigar.
+
+Rochiriel ponders.
+
+Rochiriel says to Blink, "Perhaps."
+
+Blink puffs on a tobacco leaf-rolled fragrant burgundy cigar.
+
+Blink says, "Yeah I'd get a roc costume, but my wasted body would not do it justice."
+
+Geel puffs on a tobacco leaf-rolled fragrant burgundy cigar.
+
+Rochiriel asks Geel, "How have you been?"
+
+Geel says to Rochiriel, "I have been much the same as I ever was."
+
+Blink puffs on a tobacco leaf-rolled fragrant burgundy cigar.
+
+Geel asks Rochiriel, "And you?"
+
+Geel puffs on a tobacco leaf-rolled fragrant burgundy cigar.
+
+Rochiriel says to Geel, "I am the same as well."
+
+Blink says, "Maybe if a Dragon moves into Pearl I'll ask them to dress as one."
+
+Trystan raises an eyebrow at Blink.
+
+Blink puffs on a tobacco leaf-rolled fragrant burgundy cigar.
+
+Geel says to Rochiriel, "There is much to be said for consistancy."
+
+Garaven says to Blink, "I would pay to see that."
+
+Trystan says, "Once."
+
+Geel puffs on a tobacco leaf-rolled fragrant burgundy cigar.
+
+Rochiriel says to Geel, "Yes there is."
+
+Blink puffs on a tobacco leaf-rolled fragrant burgundy cigar.
+
+Geel puffs on a tobacco leaf-rolled fragrant burgundy cigar.
+
+Blink says, "A BFG."
+
+Blink says, "Big fucking bird."
+
+Geel furrows his brow.
+
+Geel asks, "How do you spell Bird?"
+
+Blink puffs on a tobacco leaf-rolled fragrant burgundy cigar.
+
+Blink says, "Bird."
+
+Geel puffs on a tobacco leaf-rolled fragrant burgundy cigar.
+
+Blink says, "B, I, r, d."
+
+Trystan asks, "Sparrow?"
+
+Geel says, "I do not hear the G in that."
+
+Blink says, "Oh you are right."
+
+Blink puffs on a tobacco leaf-rolled fragrant burgundy cigar.
+
+Blink says, "I messed it up."
+
+Blink says, "Bfb."
+
+Geel chuckles.
+
+Blink says, "Or bfa."
+
+Geel puffs on a tobacco leaf-rolled fragrant burgundy cigar.
+
+Blink says, "Big fucking Avian."
+l
+
+
+
+[Burning Bandit Tavern.]
+
+Several tables and chairs form a circle around the large hearth.  A roaring fire fills its cavity most evenings, providing guests warmth as they enjoy the food and beverages served.  A long bar opposite the fireplace hooks in front of the door, giving the barkeep a clear view of the door.  You notice an octagonal pine card table, a long mahogany bar, and a tall wicker trashcan.
+
+Also here: a tavern owner, Kaiya the Avardi (seated) at an octagonal pine card table, Ra'daji Garaven the Verdani, Aruskin the Avardi (seated) at an octagonal pine card table, Champion Blink the Avardi (seated) at an octagonal pine card table, Seren the Avardi, Emissary Rochiriel the Verdani, Trystan the Human, and Geel the Gavial (seated) at an octagonal pine card table 
+
+Obvious Exits: west. 
+
+
+Geel asks, "Big fucking Avardi?"
+
+Blink puffs on a tobacco leaf-rolled fragrant burgundy cigar.
+
+Geel says, "That would be a sight."
+
+Geel puffs on a tobacco leaf-rolled fragrant burgundy cigar.
+
+Blink says, "As you can see, I skipped class a lot."
+
+Rochiriel asks, "Big fucking geel?"
+
+Blink says, "I majored in candy sales."
+Geel says to Rochiriel, "Redundant."
+
+Trystan chuckles.
+
+Blink puffs on a tobacco leaf-rolled fragrant burgundy cigar.
+say kai the cigars come out , and the language goes to ...
+
+You say to Kaiya, "The cigars come out , and the language goes to ..."
+cou
+
+You cough.
+
+Blink laughs.
+
+Kaiya grins at you.
+
+Geel puffs on a tobacco leaf-rolled fragrant burgundy cigar.
+
+Rochiriel says, "I have one for you."
+
+Trystan hiccups.
+Trystan takes a drink from a mug of honey mead.
+
+Rochiriel says, "Say eye spell map say ness."
+
+Trystan glances at you.
+
+Blink puffs on a tobacco leaf-rolled fragrant burgundy cigar.
+
+Trystan whispers to you, "The joke I told earlier except with Verdani?".
+
+Geel puffs on a tobacco leaf-rolled fragrant burgundy cigar.
+grin try
+
+You grin at Trystan.
+
+Blink puffs on a tobacco leaf-rolled fragrant burgundy cigar.
+
+Blink says, "Huh."
+
+Kaiya says, "Alright, I think I'm going to get back to my carving."
+wav kai
+
+You wave to Kaiya.
+
+Geel puffs on a tobacco leaf-rolled fragrant burgundy cigar.
+
+Kaiya says to Rochiriel, "Thank you again for the arrows."
+say kai Blessed Be
+
+You say to Kaiya, "Blessed Be."
+
+Geel says to Kaiya, "I told you you would never get anywhere."
+
+Blink says to Kaiya, "Well thanks for dropping by. We got your bet down."
+
+Kaiya exclaims, "It was very nice seeing all of you!"
+
+Kaiya squints at Geel.
+l
+
+
+
+[Burning Bandit Tavern.]
+
+Several tables and chairs form a circle around the large hearth.  A roaring fire fills its cavity most evenings, providing guests warmth as they enjoy the food and beverages served.  A long bar opposite the fireplace hooks in front of the door, giving the barkeep a clear view of the door.  You notice an octagonal pine card table, a long mahogany bar, and a tall wicker trashcan.
+
+Also here: a tavern owner, Kaiya the Avardi (seated) at an octagonal pine card table, Ra'daji Garaven the Verdani, Aruskin the Avardi (seated) at an octagonal pine card table, Champion Blink the Avardi (seated) at an octagonal pine card table, Seren the Avardi, Emissary Rochiriel the Verdani, Trystan the Human, and Geel the Gavial (seated) at an octagonal pine card table 
+
+Obvious Exits: west. 
+
+
+Geel chuckles.
+Blink puffs on a tobacco leaf-rolled fragrant burgundy cigar.
+l kai
+
+Kaiya looks like a sinewy 52 year old female Avardi.
+She has steel gray eyes and collar length, disheveled, platinum blonde hair.
+She is 6 foot tall and weighs 116 pounds.
+She has an aura of Aerthane.
+Kaiya is in perfect health.
+
+
+
+She is wearing:
+
+Head            : a feather-pinned velvet fedora
+Neck            : a smooth ivory arrow head-charmed silver necklace
+Back            : an academy-issue canvas backpack
+Torso           : some fur-lined steel scalemail
+Torso           : a dark grey wool tunic
+Hands           : a soft three-fingered leather archer glove
+Waist           : a leather weapon harness
+Legs            : some dark grey wool trousers
+Feet            : some dull black leather boots
+Wield           : a short cobalt hatchet
+Left arm        : a hardened leather archer bracer
+
+Kaiya says to Geel, "I think I may learn it tonight."
+
+Trystan nods to Kaiya.
+
+Kaiya hmohs.
+
+Seren smiles at Kaiya.
+
+Geel puffs on a tobacco leaf-rolled fragrant burgundy cigar.
+say kai try on the boots 
+
+You say to Kaiya, "Try on the boots."
+
+Geel says to Kaiya, "That is what you said last night."
+emo sticks her tongue out
+
+Xiija sticks her tongue out.
+
+Blink laughs.
+
+Kaiya says, "Oh someone gave me boots."
+
+Kaiya exclaims to Geel, "No, that was today!"
+
+Blink puffs on a tobacco leaf-rolled fragrant burgundy cigar.
+Kaiya removes some dull black leather boots.
+Kaiya puts on some side-laced black leather boots.
+
+Kaiya says, "Ooooh."
+
+Geel asks Kaiya, "Or was it?"
+
+Blink says, "Oh nice."
+nod kai
+
+You nod to Kaiya.
+
+Geel puffs on a tobacco leaf-rolled fragrant burgundy cigar.
+
+Kaiya asks, "Who gave these to me?"
+
+Kaiya says to Geel, "It was."
+poi try
+
+You point at Trystan.
+chu  delicately , brushing back her long kinky dreadlocked silvery hair
+
+You chuckle delicately , brushing back her long kinky dreadlocked silvery hair.
+
+Kaiya beams at Trystan.
+
+Blink puffs on a tobacco leaf-rolled fragrant burgundy cigar.
+
+Trystan chuckles at you.
+
+Blink says, "Oh I thought it was your Sylph grandmother."
+
+Geel says to Kaiya, "I think you are wrong."
+
+Geel puffs on a tobacco leaf-rolled fragrant burgundy cigar.
+
+Kaiya asks Trystan, "Thank you! Is this repayment for giving you a thousand doubloons and running away?"
+chu try softly
+
+Kaiya says to Blink, "I pulled a Trystan on Trystan."
+You chuckle at Trystan softly.
+Blink says, "Er Sylph godmother."
+
+Blink says, "That's what they are called."
+
+Trystan says to Kaiya, "That is still to come."
+Blink puffs on a tobacco leaf-rolled fragrant burgundy cigar.
+
+Kaiya grins at Trystan.
+
+Geel puffs on a tobacco leaf-rolled fragrant burgundy cigar.
+
+Trystan says to Kaiya, "There is a story behind that."
+
+Blink laughs.
+
+Blink puffs on a tobacco leaf-rolled fragrant burgundy cigar.
+
+Geel puffs on a tobacco leaf-rolled fragrant burgundy cigar.
+time

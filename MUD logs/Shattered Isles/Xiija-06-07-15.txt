@@ -1,0 +1,2696 @@
+
+Wren leans on a wooden directional signpost and crosses her arms.
+l
+
+
+
+[City of Pearl, Center.]
+
+Granting an uninhibited view of the bustling shipping industry, a stone seawall bevels out behind a long crescent bench and creates a half-moon addition to the congested crossroads at the heart of the city.  The vast water of the bay expands beyond the southern stone wall.  Ships of all sizes pass by the seafront as they make their way in and out of the harbor to the south.  The streets head in many directions, as well as a tunnel to the northeast.  At the center of the intersection is an elegantly carved monument of a giant pearl atop a tall obelisk.  The base of the centerpiece rests at the bottom of a shallow fountain that has a burning spear pointing down into the water.  A small stone sundial has been carved on the rim of the fountain.  You notice a wooden directional signpost.
+
+Also here: a well-dressed dwarf, Emissary Rochiriel the Verdani, Wren the Human, Knight Marshal Cascius the Human, Champion Blink the Avardi, Flynt the Sylph (flying), Nikolas the Human, Ra'daji Garaven the Verdani, a cheerful young bolinau, a white-helmed marshal, Emissary Faran the Nydine, and Kaiya the Avardi 
+
+Obvious Exits: southwest, southeast, northwest, northeast, west, east, and north. 
+
+
+Cascius says, "Firs and foremost, the King thanks you for your willingness to explore the mountain pass."
+smi
+
+You smile.
+
+A bolt of lightning streaks across the sky as the pounding rain soaks you!
+
+Rochiriel glances up.
+
+Garaven gets a hook-handled canvas umbrella from a thick russet wolf fur-lined hunter green wool overcoat.
+
+Blink peers.
+l ruc
+
+It looks like a dark brown canvas prospectors rucksack.
+Inside you see:
+
+a flat bottom flare-sided steel mining pan
+ a royal crested niello-trimmed silver oil lantern
+ a hickory-handled steel excavation trowel
+ some extra spicy bison jerky
+ a small cedar canteen
+ 
+
+Garaven removes a long redwood walking stick.
+
+Garaven opens a hook-handled canvas umbrella.
+
+Wren glances at Garaven.
+
+Cascius says, "As many of you know, The Archai Trading Company has seen its supply of silver diminish in recent months."
+
+Garaven holds a hook-handled canvas umbrella.
+nod  thoughtfully
+
+You nod thoughtfully.
+
+Garaven holds the umbrella over himself and Rochiriel.
+
+Rochiriel smiles gently at Garaven.
+
+Cascius says, "Initial reports from scouts indicate the plague has not been spotted in two months and signs of life have returned to the mountains."
+beam
+
+You beam.
+
+Cascius says, "Unfortunately this includes an unknown population of ogres prowling the pass."
+win
+
+You wince.
+glan bli
+
+You glance at Blink.
+
+Flynt prays to Tetherias, tracing a protective outline around himself.
+
+Cascius says, "From what we know, they are engaged in an ongoing territorial feud with mountain trolls, but the information is dated."
+' ohmy
+
+You say, "Ohmy."
+
+Cascius says, "One report indicated they are primarily in the southern hills. Proceed that direction with caution."
+
+Rochiriel says to Garaven, "I am glad I brought my good shield."
+
+Garaven nods.
+
+Cascius says, "You'll also encounter a northern trail that leads up to the village of Molkreak, or commonly known as the Gnome Village."
+
+Faran listens.
+
+Cascius says, "The city of Pearl has a long standing treaty with them. Do not cross into their lands uninvited and do not mine beyond their village gate."
+
+The ferry heading to the academy drops below the horizon.
+
+Wren tilts her head to the side.
+nod  thoughtfully
+
+You nod thoughtfully.
+
+Cascius says, "One last request from the King before you go."
+
+Cascius says, "If you should find any silver or anything of significant value, it is asked that you turn these items over to the trading company, or donate them to the museum."
+furr
+
+You furrow your brow.
+
+Cascius says, "If you are not generous enough to do so freely, a price will be offered for the silver."
+beam
+
+You beam.
+
+Kaiya grins at you.
+
+Blink says to Cascius, "One question if you would, Knight Marshal."
+
+Kaiya raises a hand.
+
+Cascius says, "On behalf of King Sauntere, Eighth of his name, I wish you all a safe journey."
+say cas i will donate mine .. whom will collect for the Company?
+
+You ask Cascius, "I will donate mine .. whom will collect for the Company?"
+
+Cascius says, "Yes."
+
+Flynt prays to Tetherias, tracing a protective outline around himself.
+clap a hand to her mouth
+
+You clap a hand to her mouth.
+nod kai
+
+You nod to Kaiya.
+Blink asks Cascius, "Are allowed to go as tourists to this gnome village after these official missions are over?"
+
+Cascius says to you, "Any reputable merchant or authority figure can do so."
+nod cas
+
+You nod to Cascius.
+
+who
+[ARRIVALS] 'Trystan has logged on.'
+
+   Players Currently Online: 
+ =============================
+
+   Gant the Human                                              
+   Seren the Avardi                                            
+   Kaiya the Avardi                                            
+   Atmadja the Goblin                                          
+   Cascius the Human                                           
+   Kaiah the Human                                             
+   Blink the Avardi                                            
+   Garaven the Verdani                                         
+   Rochiriel the Verdani                                       
+   Valco the Nydine                                            
+   Geel the Gavial                                             
+   Wren the Human                                              
+   Faran the Nydine                                            
+   Nikolas the Human                                           
+   Xiija the Sylph                                             
+   Flynt the Sylph                                             
+   Makith the Devalin                                          
+   Trystan the Human                                           
+
+l
+
+
+
+[City of Pearl, Center.]
+
+Granting an uninhibited view of the bustling shipping industry, a stone seawall bevels out behind a long crescent bench and creates a half-moon addition to the congested crossroads at the heart of the city.  The vast water of the bay expands beyond the southern stone wall.  Ships of all sizes pass by the seafront as they make their way in and out of the harbor to the south.  The streets head in many directions, as well as a tunnel to the northeast.  At the center of the intersection is an elegantly carved monument of a giant pearl atop a tall obelisk.  The base of the centerpiece rests at the bottom of a shallow fountain that has a burning spear pointing down into the water.  A small stone sundial has been carved on the rim of the fountain.  You notice a wooden directional signpost.
+
+Also here: a well-dressed dwarf, Emissary Rochiriel the Verdani, Wren the Human, Knight Marshal Cascius the Human, Champion Blink the Avardi, Flynt the Sylph (flying), Nikolas the Human, Ra'daji Garaven the Verdani, a cheerful young bolinau, a white-helmed marshal, Emissary Faran the Nydine, and Kaiya the Avardi 
+
+Obvious Exits: southwest, southeast, northwest, northeast, west, east, and north. 
+
+
+Cascius says to Blink, "I cannot say for certain. You will be held responsible for your actions if you cross the line."
+
+Blink says, "Oh, wow."
+
+Cascius says, "If not by the gnomes then by the city upon your return."
+
+Cascius asks, "Anything else?"
+
+Trystan arrives from the southwest.
+
+Blink says, "It is a bad day indeed when they do not welcome spending tourists."
+
+Kaiya says, "I have a question."
+
+A white-helmed marshal ponders a moment.
+
+Cascius nods to Kaiya.
+
+A white-helmed marshal shakes her head from side to side.
+
+Kaiya says, "Though it might sound a bit dumb."
+
+Cascius says to Kaiya, "Most likely."
+
+Kaiya asks, "I'm not quite clear on the purpose of the trip. Is it to kill the ogres? Mine for silver? Or see if the plague is gone? Or some combination of all three?"
+
+Faran says to Cascius, "Unnecessary, Knight Marshal."
+
+Cascius glances at Faran sharply.
+
+Cascius shrugs.
+
+Rochiriel chuckles.
+
+Cascius says to Kaiya, "You are accomplishing a number of those, both for yourselves and for the city."
+say cas do the gnomes have a ferry to the isle of Blalkreak at all?
+
+You ask Cascius, "Do the gnomes have a ferry to the isle of Blalkreak at all?"
+
+Kaiya nods slowly.
+
+Cascius says, "If you return, there will be future expeditions to begin mining the area once more."
+
+Kaiya says, "So we wander about the Crowns willy nilly doing what the group wants to do. Got it."
+
+Cascius says, "If anyone shoul encounter the plague, the group is encouraged to leave them behind."
+chu kai
+
+You chuckle at Kaiya.
+
+Wren frowns lightly.
+get apo sat
+
+You get a supple black leather apothecary bag from a silver-buckled leather satchel.
+Rochiriel chuckles.
+get yell apo
+
+Flynt grunts.
+<HP: 157/157 ST: 123/123>
+You get a small yellow-labeled glass bottle from a supple black leather apothecary bag.
+get gree apo
+
+You get a small green-labeled glass bottle from a supple black leather apothecary bag.
+
+Flynt grins at you.
+give yell gar
+
+You give a small yellow-labeled glass bottle to Garaven.
+
+Cascius says, "May Astraeva light your way."
+give gree gar
+
+You give a small green-labeled glass bottle to Garaven.
+
+Cascius says, "Emissaries, citizens."
+
+Rochiriel says to Cascius, "I believe we have enough priests to rid us of any contaminants."
+
+Cascius bows.
+stand
+
+You stand up.
+
+Blink bows and dips his beak.
+curt cas
+
+You curtsy to Cascius.
+Kaiya says to you, "I have a bunch of yellows, don't need to give me any."
+
+Cascius says to Rochiriel, "The crown certainly hopes so."
+
+Garaven nods to Cascius.
+
+Flynt prays to Tetherias, tracing a protective outline around himself.
+nod kai
+
+You nod to Kaiya.
+
+Rochiriel asks, "Who is leading?"
+
+Faran says to Cascius, "Do take care you don't fall down some dark hole as Astraeva lends us her light. I'd hate for you to scuff your shoes."
+say bli who had ogres?
+
+You ask Blink, "Who had ogres?"
+rai bli
+
+You raise an eyebrow at Blink.
+
+Wren smirks at Faran.
+
+Cascius smiles at Faran pleasantly.
+
+Kaiya says, "Don't think anyone had ogres."
+furr
+
+You furrow your brow.
+
+Cascius says to Faran, "Your concern is touching."
+
+Faran says to Cascius, "I know."
+
+Blink says to you, "Oh well we'll have to discuss that later, but I was certainly the closest."
+grunt bli
+
+Nikolas says, "The scuffed shoes are an unfortunate look."
+<HP: 157/157 ST: 123/123>
+You grunt at Blink.
+
+Blink says to you, "There was some debate on if I got all 3 of those things."
+
+Cascius asks, "Does everyone have one of these city funded mining sacks?"
+
+Kaiya asks, "Can we get a leader and head out?"
+chu bli
+
+You chuckle at Blink.
+
+Faran asks Blink, "Will you be leading the expedition?"
+
+Blink says to Faran, "Sure."
+foll bli
+
+You follow Blink.
+
+Faran nods.
+
+Flynt asks Trystan, "Did you get a rucksack full of supplies?"
+
+Kaiya follows Blink.
+Garaven follows Blink.
+give clov try
+
+You give a fresh four leaf clover to Trystan.
+
+Flynt follows Blink.
+inv
+Inventory:
+
+a supple black leather apothecary bag (3.0 lbs)
+ a dark brown canvas prospectors rucksack (5.0 lbs)
+ a fresh four leaf clover (1.0 lb)
+ 
+Currency: 53 doubloons
+
+Carrying: 84 items (62.0 | 81.0) lbs.
+
+
+Trystan says to Flynt, "No."
+
+Cascius gets a dark brown canvas prospectors rucksack from a large cedar crowns expedition trunk.
+
+Cascius gives a dark brown canvas prospectors rucksack to Trystan.
+
+Flynt nods.
+
+Wren pushes off the signpost and steps up towards Blink.
+
+Trystan nods to Cascius.
+Wren follows Blink.
+<HP: 157/157 ST: 123/123>
+Flynt smiles at Cascius.
+
+Rochiriel smiles.
+
+Rochiriel follows Garaven.
+say try merry Meet Prelate
+You say to Trystan, "Merry Meet Prelate."
+
+Trystan follows Blink.
+
+Nikolas follows Blink.
+diag
+
+Xiija's group:
+
+Faran is in perfect health and is fully rested.
+Flynt is in perfect health and is fully rested.
+Xiija is in perfect health and is fully rested.
+Nikolas is in perfect health and is fully rested.
+Wren is in perfect health and is fully rested.
+Garaven is in perfect health and is fully rested.
+Blink is in perfect health and is fully rested.
+Rochiriel is in perfect health and is fully rested.
+Kaiya is in perfect health and is fully rested.
+Trystan is in perfect health and is barely winded.
+
+Blink asks, "Oh yeah, is anyone allergic to gates or cows?"
+
+grin Trystan wryly
+Trystan smiles at you.
+You grin at Trystan wryly.
+
+Wren glances at Trystan.
+
+Cascius says to you, "Do try and avoid the falling rocks."
+glan cas
+
+You glance at Cascius.
+Rochiriel puts on a dark brown canvas prospectors rucksack.
+chu  delicately , brushing back her long kinky dreadlocked silvery hair
+
+You chuckle delicately , brushing back her long kinky dreadlocked silvery hair.
+
+Blink says, "Gates as in the spell."
+
+who
+[ARRIVALS] 'Atmadja has logged out.'
+say cas i shall endeavor to perservere
+   Players Currently Online: 
+ =============================
+
+   Gant the Human                                              
+   Seren the Avardi                                            
+   Kaiya the Avardi                                            
+   Cascius the Human                                           
+   Kaiah the Human                                             
+   Blink the Avardi                                            
+   Garaven the Verdani                                         
+   Rochiriel the Verdani                                       
+   Valco the Nydine                                            
+   Geel the Gavial                                             
+   Wren the Human                                              
+   Faran the Nydine                                            
+   Nikolas the Human                                           
+   Xiija the Sylph                                             
+   Flynt the Sylph                                             
+   Makith the Devalin                                          
+   Trystan the Human                                           
+
+You say to Cascius, "I shall endeavor to perservere."
+wink cas
+
+You wink at Cascius.
+Garaven removes a claw-clasped black dire wolf fur-lined leather backpack.
+
+Rochiriel says to Blink, "I don't care to gate inside of cows but other than that."
+
+Garaven gets a cup of hot Tetherian-bean coffee from a claw-clasped black dire wolf fur-lined leather backpack.
+
+Blink says to Rochiriel, "No no, just to them."
+<HP: 157/157 ST: 123/123>
+Kaiya grins at Rochiriel.
+
+Rochiriel nods.
+
+Garaven gets a cup of hot Tetherian-bean coffee from a claw-clasped black dire wolf fur-lined leather backpack.
+
+Garaven puts a claw-clasped black dire wolf fur-lined leather backpack in a large wolf-embroidered white leather haversack.
+
+Garaven removes a large wolf-embroidered white leather haversack.
+Garaven puts on a dark brown canvas prospectors rucksack.
+
+
+The holy shield surrounding Trystan fades.
+l
+
+
+
+[City of Pearl, Center.]
+
+Granting an uninhibited view of the bustling shipping industry, a stone seawall bevels out behind a long crescent bench and creates a half-moon addition to the congested crossroads at the heart of the city.  The vast water of the bay expands beyond the southern stone wall.  Ships of all sizes pass by the seafront as they make their way in and out of the harbor to the south.  The streets head in many directions, as well as a tunnel to the northeast.  At the center of the intersection is an elegantly carved monument of a giant pearl atop a tall obelisk.  The base of the centerpiece rests at the bottom of a shallow fountain that has a burning spear pointing down into the water.  A small stone sundial has been carved on the rim of the fountain.  You notice a wooden directional signpost.
+
+Also here: a well-dressed dwarf, Emissary Rochiriel the Verdani, Wren the Human, Knight Marshal Cascius the Human, Champion Blink the Avardi, Flynt the Sylph (flying), Nikolas the Human, Ra'daji Garaven the Verdani, a cheerful young bolinau, a white-helmed marshal, Emissary Faran the Nydine, Kaiya the Avardi, and Trystan the Human 
+
+Obvious Exits: southwest, southeast, northwest, northeast, west, east, and north. 
+
+
+Garaven removes a dark brown canvas prospectors rucksack.
+Garaven puts on a large wolf-embroidered white leather haversack.
+<HP: 157/157 ST: 123/123>
+Rochiriel removes some black dire-wolf fur-lined leather boots.
+
+Garaven mutters.
+
+Rochiriel puts on some double leather-reinforced elk skin hiking boots.
+
+Blink says, "Okay hold on to your hats."
+
+Thin, opalescent runes form an illuminated gate in front of Faran before she steps through it and disappears.
+A translucent barrier surges with energy as an incantation is disrupted.
+Thin, opalescent runes form an illuminated gate in front of Flynt before he steps through it and disappears.
+A translucent barrier surges with energy as an incantation is disrupted.
+Thin, opalescent runes form an illuminated gate in front of you before you steps through it and disappears.
+A translucent barrier surges with energy as an incantation is disrupted.
+
+
+
+
+
+[Barnyard.]
+
+Tall green grass ripples like water in the wind and covers the whole of the yard, save for small patches of dark earth.  Clumps of cow dung have been left in hidden spots throughout the grass.  The shadow of the barn slides across the yard at the start of every sunny day.
+
+Also here: a brown cow, Emissary Faran the Nydine, and Flynt the Sylph (flying) 
+
+Obvious Exits: northeast, east, and north. 
+
+Thin, opalescent runes form an illuminated gate as Nikolas steps through it.
+Thin, opalescent runes form an illuminated gate as Wren steps through it.
+Thin, opalescent runes form an illuminated gate as Garaven steps through it.
+Thin, opalescent runes form an illuminated gate as Blink steps through it.
+Thin, opalescent runes form an illuminated gate as Rochiriel steps through it.
+Thin, opalescent runes form an illuminated gate as Kaiya steps through it.
+Thin, opalescent runes form an illuminated gate as Trystan steps through it.
+
+Blink says, "Whoah."
+Garaven removes a large wolf-embroidered white leather haversack.
+Garaven puts on a dark brown canvas prospectors rucksack.
+Rochiriel puts some black dire-wolf fur-lined leather boots in a dark brown canvas prospectors rucksack.
+Rochiriel puts a short hickory-handled niello rock pick in a dark brown canvas prospectors rucksack.
+Rochiriel puts a flat bottom flare-sided steel mining pan in a dark brown canvas prospectors rucksack.
+Rochiriel puts a royal crested niello-trimmed silver oil lantern in a dark brown canvas prospectors rucksack.
+Rochiriel puts a hickory-handled steel excavation trowel in a dark brown canvas prospectors rucksack.
+Rochiriel puts some extra spicy bison jerky in a dark brown canvas prospectors rucksack.
+Rochiriel puts a small cedar canteen in a dark brown canvas prospectors rucksack.
+Rochiriel puts a fresh four leaf clover in a dark brown canvas prospectors rucksack.
+
+Wren blinks.
+
+Garaven puts a large wolf-embroidered white leather haversack in a dark brown canvas prospectors rucksack.
+
+Blink asks, "We got everyone?"
+l
+
+
+
+[Barnyard.]
+
+Tall green grass ripples like water in the wind and covers the whole of the yard, save for small patches of dark earth.  Clumps of cow dung have been left in hidden spots throughout the grass.  The shadow of the barn slides across the yard at the start of every sunny day.
+
+Also here: a brown cow, Emissary Faran the Nydine, Flynt the Sylph (flying), Nikolas the Human, Wren the Human, Ra'daji Garaven the Verdani, Champion Blink the Avardi, Emissary Rochiriel the Verdani, Kaiya the Avardi, and Trystan the Human 
+
+Obvious Exits: northeast, east, and north. 
+
+
+Garaven takes a drink from a cup of hot Tetherian-bean coffee.
+
+Rochiriel says to a brown cow, "Hello."
+
+Kaiya pets a brown cow.
+
+Blink pets a brown cow.
+
+Blink asks, "Armor check?"
+grunt
+
+You grunt.
+pray holyshield
+
+
+
+You pray to Aerthane, creating a protective shield around yourself.
+You look protected!
+[Delay: 5.0 sec.]
+
+
+Wren narrows her eyes and peers back towards where they had stepped through.
+pray divine crowns
+
+
+
+A translucent barrier surges with energy as an incantation is disrupted.
+[Delay: 6.0 sec.]
+
+pray divine crowns
+Garaven removes a hook-handled canvas umbrella.
+
+Trystan prays to Aerthane, creating a protective shield around himself.
+Trystan looks protected!
+
+
+
+A translucent barrier surges with energy as an incantation is disrupted.
+[Delay: 6.0 sec.]
+
+
+Garaven puts a hook-handled canvas umbrella in a thick russet wolf fur-lined hunter green wool overcoat.
+pray divine crowns
+
+
+
+A translucent barrier surges with energy as an incantation is disrupted.
+[Delay: 6.0 sec.]
+
+
+Rochiriel draws an embossed obsidian-handled ridged orichalcum baselard from a leather weapon harness.
+pray divine crown
+
+Nikolas removes a hook-handled canvas umbrella.
+
+Garaven holds a niello-inlaid silverwood tree-embossed persarium bouche.
+
+
+A translucent barrier surges with energy as an incantation is disrupted.
+[Delay: 6.0 sec.]
+
+
+Nikolas puts a hook-handled canvas umbrella in an academy-issue canvas backpack.
+pray divine crown
+
+Blink says, "Weapons, and so on."
+
+
+
+A translucent barrier surges with energy as an incantation is disrupted.
+[Delay: 6.0 sec.]
+
+pray divine crown
+
+Flynt prays to Tetherias, tracing a protective outline around himself.
+
+
+
+You pray to Aerthane for divine passage, but the request goes unanswered.
+[Delay: 6.0 sec.]
+
+pray divine crown
+
+Rochiriel invokes a shield of Earth upon herself.
+Rochiriel looks protected!
+
+
+
+You pray to Aerthane for divine passage, but the request goes unanswered.
+[Delay: 6.0 sec.]
+
+
+Blink asks Flynt, "Got a shield?"
+pray divine crown
+
+Flynt nods his head up and down.
+
+
+
+You pray to Aerthane for a blinding, divine gateway here.
+A blinding, divine pathway appears here.
+15 sec
+A translucent barrier surges with energy as an incantation is disrupted.
+[Delay: 6.0 sec.]
+
+
+Blink says to Flynt, "Nice boots by the way."
+Garaven puts a small yellow-labeled glass bottle in a dark brown canvas prospectors rucksack.
+Garaven puts a small green-labeled glass bottle in a dark brown canvas prospectors rucksack.
+l here
+
+Looking there you see...
+
+
+[Crowned Doubloon Way.]
+
+The sides of the road are lined with protective barriers.  The bay side railing is missing a section of fencing, though a granite memorial of an elderly man and a donkey blocks the gap.  The view to the west overlooks a bustling shipping port and a cluttered sea of buildings.  You notice a granite statue. 
+
+Obvious Exits: southwest, northeast, and there. 
+
+
+[Crowned Doubloon Way.]
+
+The sides of the road are lined with protective barriers.  The bay side railing is missing a section of fencing, though a granite memorial of an elderly man and a donkey blocks the gap.  The view to the west overlooks a bustling shipping port and a cluttered sea of buildings.  You notice a granite statue.
+
+
+Flynt holds a small round wooden shield.
+10 sec
+
+Flynt grins.
+
+Garaven puts a long redwood walking stick in a dark brown canvas prospectors rucksack.
+
+Flynt says to Blink, "Thank you."
+5 sec
+
+Garaven draws a walnut-shafted pyramid-tipped steel pilum from a leather weapon harness.
+time up...
+
+The divine path fades.
+pray divine crown pass
+
+You don't know of a place called 'crown pass'.
+[Delay: 6.0 sec.]
+
+
+Blink leaves east.
+You follow Blink east.
+
+
+[Barnyard.]
+
+Lush green grass covers the entire yard, with the occasional patch of exposed earth.  Numerous piles of still-wet dung litter the ground, their pungent smell mixed with that of the soil and vegetation.  The barn casts a fat, moving shadow on the yard throughout the day.
+
+Also here: Champion Blink the Avardi 
+
+Obvious Exits: northwest, west, east, and north. 
+
+Kaiya arrives from the west.
+Garaven arrives from the west.
+Rochiriel arrives from the west.
+Flynt flies in from the west.
+Trystan arrives from the west.
+Nikolas arrives from the west.
+Faran arrives from the west.
+
+Blink leaves east.
+You follow Blink east.
+
+
+[Barn, Livestock Entrance.]
+
+Wooden stalls line both sides of the barn, each complete with a heavy sack of grain against a wall.  Bales of straw lie stacked on either side of the entrance to the yard, while a track of dung leads out to the lawn visible through the opening.  Sleepy sunlight pours in from the west at dusk, and the air smells rank and fresh with grass at the same time.  You notice a weathered hazard sign.
+
+Also here: Champion Blink the Avardi 
+
+Obvious Exits: west, and east. 
+
+Kaiya arrives from the west.
+Garaven arrives from the west.
+Rochiriel arrives from the west.
+Flynt flies in from the west.
+Wren arrives from the west.
+Trystan arrives from the west.
+Nikolas arrives from the west.
+Faran arrives from the west.
+
+Blink leaves east.
+You follow Blink east.
+
+
+[Barn.]
+
+The inside of the barn is stale and musty, filled with the droning buzz of gnats and horseflies.  Bolted loosely above the entrance is a pair of off-kilter bull horns.  Against the far wall is a crude wooden hand rake with curved teeth, and next to it sits a wheelbarrow half-full of hay, missing one of its back wheels.  All the putrescent smells associated with an active barn hang heavy in the air.  You notice a wooden ladder, and an open sliding pine barn door.
+
+Also here: Champion Blink the Avardi 
+
+Obvious Exits: up, and west. 
+
+Kaiya arrives from the west.
+Garaven arrives from the west.
+Rochiriel arrives from the west.
+Flynt flies in from the west.
+Trystan arrives from the west.
+Nikolas arrives from the west.
+Faran arrives from the west.
+
+Blink leaves through a sliding pine barn door.
+You follow Blink south.
+
+
+[Farmyard.]
+
+The thick wood planks that make up this average-sized barn are red as blood, while its main door is painted bone-white and only slightly peeling.  All the shutters appear new and clean, and every hinge is rust-free.  A makeshift wheelbarrow overflowing with hay sits near the front of the barn.  The stench of livestock and manure rolls out from the shadowed interior.  You notice an open sliding pine barn door.
+
+Also here: Champion Blink the Avardi 
+
+Obvious Exits: south. 
+
+Kaiya arrives through a sliding pine barn door.
+Garaven arrives through a sliding pine barn door.
+Rochiriel arrives through a sliding pine barn door.
+Flynt flies in through a sliding pine barn door.
+Wren arrives through a sliding pine barn door.
+Trystan arrives through a sliding pine barn door.
+Nikolas arrives through a sliding pine barn door.
+Faran arrives through a sliding pine barn door.
+
+Blink leaves south.
+You follow Blink south.
+
+
+[Farmyard.]
+
+A freshly painted farmhouse stands to the west, a blood-red barn casts a shifting shadow to the north, and a farm of various crops and greenery can be seen south of here.  Gentle winds bring all sorts of smells to this intersection, of vegetables and loose soil and livestock excretions.  The occasional mooing can be heard from the nearby barnyard.  You notice an open wooden farm gate.
+
+Also here: Champion Blink the Avardi 
+
+Obvious Exits: west, south, and north. 
+
+Kaiya arrives from the north.
+Garaven arrives from the north.
+Rochiriel arrives from the north.
+Flynt flies in from the north.
+Wren arrives from the north.
+Trystan arrives from the north.
+Nikolas arrives from the north.
+Faran arrives from the north.
+
+Blink leaves through a wooden farm gate.
+Nikolas puts on a silver and gold dragon-entwined blacksteel manica.
+You follow Blink east.
+
+
+[Farm.]
+
+The weed-spotted ground at the start of this yard sparkles with dew.  All the rich and rowdy smells of a farm trundle across the grass from the west, where a large barn partially blocks the view of a rustic farmhouse.  Crickets in hiding can be heard muttering their collective song.  You notice an open wooden farm gate.
+
+Also here: Champion Blink the Avardi 
+
+Obvious Exits: east. 
+
+Kaiya arrives through a wooden farm gate.
+Garaven arrives through a wooden farm gate.
+Rochiriel arrives through a wooden farm gate.
+Flynt flies in through a wooden farm gate.
+Wren arrives through a wooden farm gate.
+Trystan arrives through a wooden farm gate.
+Nikolas arrives through a wooden farm gate.
+Faran arrives through a wooden farm gate.
+
+Blink leaves east.
+You follow Blink east.
+
+
+[Dalarey Road.]
+
+A narrow path splits off to the west, while the main road curves at its intersection. The property is lined with a wooden post fence, designed to keep passerby's from wandering into the crops.
+
+Also here: Champion Blink the Avardi 
+
+Obvious Exits: southeast, northeast, and west. 
+
+Kaiya arrives from the west.
+<HP: 157/157 ST: 105/123>
+Garaven arrives from the west.
+Rochiriel arrives from the west.
+Flynt flies in from the west.
+Wren arrives from the west.
+Trystan arrives from the west.
+Nikolas arrives from the west.
+Faran arrives from the west.
+
+Blink leaves northeast.
+You follow Blink northeast.
+
+
+[Dalarey Road.]
+
+The smooth road stretches out for a considerable distance, flowers providing a beautiful change of scenery here and there.  In the distance, some edges of wooden structures can be viewed.  You notice a puddle of water.
+
+Also here: Champion Blink the Avardi 
+
+Obvious Exits: southwest, and north. 
+
+Kaiya arrives from the southwest.
+Garaven arrives from the southwest.
+Rochiriel arrives from the southwest.
+Flynt flies in from the southwest.
+Wren arrives from the southwest.
+Trystan arrives from the southwest.
+Nikolas arrives from the southwest.
+Faran arrives from the southwest.
+
+Blink leaves north.
+You follow Blink north.
+
+
+[Dalarey Road.]
+
+Trees line the distant horizon, providing a view of beautiful colors and different shapes and sizes. A few ruts from wagon wheels mark the otherwise smooth road.
+
+Also here: Champion Blink the Avardi 
+
+Obvious Exits: south, and north. 
+
+Kaiya arrives from the south.
+Garaven arrives from the south.
+Rochiriel arrives from the south.
+Flynt flies in from the south.
+Wren arrives from the south.
+Trystan arrives from the south.
+Nikolas arrives from the south.
+Faran arrives from the south.
+
+Blink leaves north.
+You follow Blink north.
+
+
+[Dalarey Road.]
+
+A few trees lay fallen against the side of the path, strangely placed on top of each other. A small anthill juts out of the grass in the distance.  You notice a wooden property marker.
+
+Also here: Champion Blink the Avardi 
+
+Obvious Exits: south, and north. 
+
+Kaiya arrives from the south.
+Garaven arrives from the south.
+Rochiriel arrives from the south.
+Flynt flies in from the south.
+Wren arrives from the south.
+Trystan arrives from the south.
+Nikolas arrives from the south.
+Faran arrives from the south.
+
+Blink leaves north.
+You follow Blink north.
+
+
+[Dalarey Road.]
+
+A broken wagon wheel rests against the side of the path, bits of it rotten.  The rest of the path is smooth, if a bit hard.
+
+Also here: Champion Blink the Avardi 
+
+Obvious Exits: northwest, and south. 
+
+Kaiya arrives from the south.
+Garaven arrives from the south.
+Rochiriel arrives from the south.
+Flynt flies in from the south.
+Wren arrives from the south.
+Trystan arrives from the south.
+Nikolas arrives from the south.
+Faran arrives from the south.
+
+Blink leaves northwest.
+You follow Blink northwest.
+
+
+[Dalarey Road.]
+
+A series of small hills can be viewed in the distance, dotted with numerous trees.  Some rocks are set deep within the road, a few of them chipped.
+
+Also here: Champion Blink the Avardi 
+
+Obvious Exits: southeast, and west. 
+
+Kaiya arrives from the southeast.
+Garaven arrives from the southeast.
+Rochiriel arrives from the southeast.
+Flynt flies in from the southeast.
+Wren arrives from the southeast.
+Trystan arrives from the southeast.
+Nikolas arrives from the southeast.
+Faran arrives from the southeast.
+
+Blink leaves west.
+You follow Blink west.
+
+
+[Dalarey Road.]
+
+A few flowers are scattered in the grass along the dirt road.  Off to the side is a small clearing, several rocks having been arranged into a circular formation.
+
+Also here: Champion Blink the Avardi 
+
+Obvious Exits: northwest, and east. 
+
+Kaiya arrives from the east.
+Garaven arrives from the east.
+Rochiriel arrives from the east.
+Flynt flies in from the east.
+Wren arrives from the east.
+Trystan arrives from the east.
+Nikolas arrives from the east.
+Faran arrives from the east.
+
+Blink leaves northwest.
+You follow Blink northwest.
+
+
+[Dalarey Road.]
+
+There is a deep dip on the side of the road, though the rest of the path remains even.  Small shards of glass and strips of bark litter patches of the grass.
+
+Also here: Champion Blink the Avardi 
+
+Obvious Exits: southeast, and north. 
+
+Kaiya arrives from the southeast.
+Garaven arrives from the southeast.
+Rochiriel arrives from the southeast.
+Flynt flies in from the southeast.
+Wren arrives from the southeast.
+Trystan arrives from the southeast.
+Nikolas arrives from the southeast.
+Faran arrives from the southeast.
+
+Blink leaves north.
+You follow Blink north.
+
+
+[Dalarey Road, White Gate.]
+
+A smooth dirt path parts the grassy foothills, leading up a small mountain to a stone structure at its peak.  The path's entrance shows signs of being maintained.  The fence posts bordering the road are painted white, with a matching painted iron gate crossing the path.  You notice an open white painted iron gate.
+Aerthane Gate ( aer2 to go to pearl)
+
+Also here: Champion Blink the Avardi 
+
+Obvious Exits: northwest, and south. 
+
+Kaiya arrives from the south.
+Garaven arrives from the south.
+Rochiriel arrives from the south.
+Flynt flies in from the south.
+Trystan arrives from the south.
+Nikolas arrives from the south.
+Faran arrives from the south.
+
+Blink leaves northwest.
+You follow Blink northwest.
+<HP: 157/157 ST: 105/123>
+
+
+[Dalarey Road.]
+
+Fields of grass grow freely, no flowers or trees in sight, outside the smooth, dirt road.  A broken piece of fence can be seen in the distance, a nest sitting precariously atop it.
+
+Also here: Champion Blink the Avardi 
+
+Obvious Exits: southeast, and northwest. 
+
+Kaiya arrives from the southeast.
+Garaven arrives from the southeast.
+Rochiriel arrives from the southeast.
+Flynt flies in from the southeast.
+Trystan arrives from the southeast.
+Nikolas arrives from the southeast.
+Faran arrives from the southeast.
+
+Blink leaves northwest.
+You follow Blink northwest.
+
+
+[Dalarey Road.]
+
+A smooth dirt road stretches out between fields of grass, marred only by the occasional mark of a wagon wheel.  A torn strap of leather wrapped around a snapped off piece of bone juts out of the dirt, where it meets the grass, just off the path.
+
+Also here: Champion Blink the Avardi 
+
+Obvious Exits: southeast, and northwest. 
+
+Kaiya arrives from the southeast.
+Garaven arrives from the southeast.
+Rochiriel arrives from the southeast.
+Flynt flies in from the southeast.
+Trystan arrives from the southeast.
+Nikolas arrives from the southeast.
+Faran arrives from the southeast.
+
+Blink leaves northwest.
+You follow Blink northwest.
+
+
+[Dalarey Road.]
+
+Towering trees line this stretch of road, providing a dense but brief canopy.  A large, smooth boulder offers itself as a resting place, the grass beneath it worn into the dirt.  You notice a wooden property marker, and a puddle of water.
+
+Also here: Champion Blink the Avardi 
+
+Obvious Exits: southeast, and northwest. 
+
+Kaiya arrives from the southeast.
+Garaven arrives from the southeast.
+Rochiriel arrives from the southeast.
+Flynt flies in from the southeast.
+Wren arrives from the southeast.
+Trystan arrives from the southeast.
+Nikolas arrives from the southeast.
+Faran arrives from the southeast.
+fly
+
+emo fans her multicolored wings swiftly, hovering...
+You launch into the air with a powerful downward thrust of your wings.
+
+Blink leaves northwest.
+You follow Blink northwest.
+
+
+[Dalarey Road.]
+
+The road cuts across the valley and farmlands.  Patches of grass grow bravely along the center of the road.  Muddy ruts along either side show signs of complications for passing wagons during inclement weather.
+The road cuts across the valley and farmlands.  Patches of grass grow bravely along the center of the road.  Muddy ruts along either side show signs of complications for passing wagons during inclement weather.
+
+Also here: Champion Blink the Avardi 
+
+Obvious Exits: southeast, and north. 
+
+Kaiya arrives from the southeast.
+Garaven arrives from the southeast.
+Rochiriel arrives from the southeast.
+Flynt flies in from the southeast.
+Trystan arrives from the southeast.
+Nikolas arrives from the southeast.
+Faran arrives from the southeast.
+
+Xiija fans her multicolored wings swiftly, hovering...
+
+Blink leaves north.
+You follow Blink north.
+
+
+[Dalarey Road.]
+
+The road opens up to the northwest as it intersects with the main road that runs across the valley.  Flowers of all colors grow a safe distance from the road, with a few trees scattered amongst them.
+
+Also here: Champion Blink the Avardi 
+
+Obvious Exits: northwest, and south. 
+
+Kaiya arrives from the south.
+Garaven arrives from the south.
+Rochiriel arrives from the south.
+Flynt flies in from the south.
+Trystan arrives from the south.
+Nikolas arrives from the south.
+Faran arrives from the south.
+
+Blink leaves northwest.
+You follow Blink northwest.
+
+
+[Old Heart Crossing.]
+
+Wooden arrows, now severely weathered and grayed, are nailed onto a post that guides travelers to their destinations.  The main road from the west heads northeast, while another road bisects it from the southeast.  Standing to the east, a popular tavern services passerby's looking to rest their lips on a mug.  A pair of wheel ruts runs toward the tavern into a carriage stall just north of it.  You notice a wooden directional signpost, and a crumbling engraved stone marker.
+
+Also here: Champion Blink the Avardi 
+
+Obvious Exits: southeast, northeast, west, and east. 
+
+Kaiya arrives from the southeast.
+Garaven arrives from the southeast.
+Rochiriel arrives from the southeast.
+Flynt flies in from the southeast.
+Trystan arrives from the southeast.
+Nikolas arrives from the southeast.
+Faran arrives from the southeast.
+rai bli
+
+You raise an eyebrow at Blink.
+
+Blink leaves northeast.
+<HP: 157/157 ST: 109/123>
+You follow Blink northeast.
+
+
+[Archai Divide.]
+
+The weather-beaten dirt road is pockmarked with several holes, a testament to how much it has been traveled.  Grassy plains extend outward to the east, stopped only by the mountains supported by the horizon.
+
+Also here: Champion Blink the Avardi 
+
+Obvious Exits: southwest, and north. 
+
+Kaiya arrives from the southwest.
+Garaven arrives from the southwest.
+Rochiriel arrives from the southwest.
+Flynt flies in from the southwest.
+Trystan arrives from the southwest.
+Nikolas arrives from the southwest.
+Faran arrives from the southwest.
+
+Blink leaves north.
+You follow Blink north.
+
+
+[Archai Divide.]
+
+Very large holes pockmark the road, leaving only a narrow walkway north and south.  The remains of a wooden wagon litter the western side of the road, some of its pieces penetrate the ground and stand vertically as if dropped from high above.  Several obliterated trees lie piled on the eastern side of the road.  They frame the snow covered mountains visible on the eastern horizon.
+
+Also here: Champion Blink the Avardi 
+
+Obvious Exits: south, and north. 
+
+Kaiya arrives from the south.
+Garaven arrives from the south.
+Rochiriel arrives from the south.
+Flynt flies in from the south.
+Wren arrives from the south.
+Trystan arrives from the south.
+Nikolas arrives from the south.
+Faran arrives from the south.
+pray divine crowns
+
+Blink leaves north.
+You follow Blink north.
+
+
+[Archai Divide.]
+
+The western side of the road has collapsed, the soil has almost petrified.  Large weeds, some well over 10 feet tall, indicate that this road has been in this condition for quite some time.  A large patch of grass on the eastern side of the road is scorched and barren.  The vast flatlands to the west draw attention to twin conjoined trees whose silhouette stand out against the landscape.
+
+Also here: Champion Blink the Avardi 
+
+Obvious Exits: northeast, and south. 
+
+Kaiya arrives from the south.
+Garaven arrives from the south.
+Rochiriel arrives from the south.
+Flynt flies in from the south.
+Trystan arrives from the south.
+Nikolas arrives from the south.
+Faran arrives from the south.
+
+
+
+You pray to Aerthane for divine passage, but the request goes unanswered.
+A translucent barrier surges with energy as an incantation is disrupted.
+[Delay: 6.0 sec.]
+
+
+Blink leaves northeast.
+You follow Blink northeast.
+
+
+[Archai Divide.]
+
+A large stone structure lies collapsed on the eastern side of the road, its pieces scattered outward as far as the eyes can see.  Several weeds and brambles have taken residence within the pile of rubble, twisting and weaving in and out before extending across the road.
+
+Also here: Champion Blink the Avardi 
+
+Obvious Exits: southwest, and north. 
+
+Kaiya arrives from the southwest.
+Garaven arrives from the southwest.
+Rochiriel arrives from the southwest.
+Flynt flies in from the southwest.
+
+Wren arrives from the southwest.
+Trystan arrives from the southwest.
+Nikolas arrives from the southwest.
+Faran arrives from the southwest.
+pray divine crowns
+
+Blink leaves north.
+You follow Blink north.
+
+
+[Archai Divide.]
+
+A small patch of red and green wildflowers grows on the side of the road, a reminder that with destruction comes new life.  Several insects jet through the patch of flowers collecting their essence before buzzing off to deposit that essence elsewhere.
+
+Also here: Champion Blink the Avardi 
+
+Obvious Exits: south, and north. 
+
+Kaiya arrives from the south.
+Garaven arrives from the south.
+Rochiriel arrives from the south.
+Flynt flies in from the south.
+Wren arrives from the south.
+Trystan arrives from the south.
+Nikolas arrives from the south.
+Faran arrives from the south.
+
+Nikolas puts on a silver apple-embossed blacksteel laminar chestplate.
+
+Blink leaves north.
+You follow Blink north.
+
+
+[Archai Divide.]
+
+A small wooden structure stands on the eastern side of the road; its roof and northern wall have collapsed inward.  The front porch of the structure displays some large holes in the floorboards and a wooden porch swing hangs lopsided from a single strand of rotting rope.
+
+Also here: Champion Blink the Avardi 
+
+Obvious Exits: south, and north. 
+
+Kaiya arrives from the south.
+Garaven arrives from the south.
+
+Rochiriel arrives from the south.
+Flynt flies in from the south.
+Trystan arrives from the south.
+Nikolas arrives from the south.
+Faran arrives from the south.
+
+
+
+A translucent barrier surges with energy as an incantation is disrupted.
+[Delay: 6.0 sec.]
+
+<HP: 157/157 ST: 99/123>
+Blink leaves north.
+You follow Blink north.
+
+
+[Archai Divide.]
+
+Small saplings, approximately three feet tall, line the sides of the road.  Several boot marks are pressed into the dirt, indicating recent movement.  The remains of a small fire sit at the northwestern edge.  A faint odor indicates it was recently extinguished.
+
+Also here: Champion Blink the Avardi 
+
+Obvious Exits: northwest, and south. 
+
+Kaiya arrives from the south.
+Garaven arrives from the south.
+Rochiriel arrives from the south.
+Flynt flies in from the south.
+Trystan arrives from the south.
+Nikolas arrives from the south.
+Faran arrives from the south.
+
+Blink leaves northwest.
+You follow Blink northwest.
+pray divine crowns
+
+
+[Archai Divide.]
+
+A wide, deep hole blocks the middle of the road.  To the east, a sea of grass extends outward as far as the snow capped mountains.  Recent wagon tracks curve around the edge of the hole and continue north.  A foul smell resonates across the area originating from the hole.  Upon closer inspection the bottom of the hole cannot be seen from here.
+
+Also here: Champion Blink the Avardi 
+
+Obvious Exits: southeast, and north. 
+
+Kaiya arrives from the southeast.
+Garaven arrives from the southeast.
+Rochiriel arrives from the southeast.
+Flynt flies in from the southeast.
+Wren arrives from the southeast.
+Trystan arrives from the southeast.
+Nikolas arrives from the southeast.
+Faran arrives from the southeast.
+
+Blink leaves north.
+You follow Blink north.
+
+
+[Archai Divide.]
+
+The skeletal remains of a large animal sit on the western side and play host to several small insects which scurry up and down the bones.  Several holes in the road have become overgrown with thick brown weeds.  A very large, downed tree lines the eastern side and extends several hundred paces into the wiry grassy plains.  You notice a puddle of water.
+
+Also here: Champion Blink the Avardi 
+
+Obvious Exits: south, and north. 
+
+Kaiya arrives from the south.
+Garaven arrives from the south.
+Rochiriel arrives from the south.
+Flynt flies in from the south.
+Trystan arrives from the south.
+Nikolas arrives from the south.
+Faran arrives from the south.
+
+Blink leaves north.
+You follow Blink north.
+
+
+[Archai Divide.]
+
+Several piles of wooden rubble line the eastern side as if recently placed there.  Heavy boot prints of varying shapes and sizes scuff the dirt.  A small wooden wagon in an extreme state of disrepair rests against a large tree that shades the western side of the road.
+
+Also here: Champion Blink the Avardi 
+
+Obvious Exits: south, and north. 
+
+Kaiya arrives from the south.
+Garaven arrives from the south.
+Rochiriel arrives from the south.
+Flynt flies in from the south.
+Trystan arrives from the south.
+<HP: 157/157 ST: 105/123>
+Nikolas arrives from the south.
+Faran arrives from the south.
+
+
+You pray to Aerthane for divine passage, but the request goes unanswered.
+A translucent barrier surges with energy as an incantation is disrupted.
+[Delay: 6.0 sec.]
+
+
+A distant guttural growl can be heard coming from the forests to the northeast.
+<HP: 157/157 ST: 99/123>
+Blink leaves north.
+You follow Blink north.
+
+
+[Stirling Crossing.]
+NE to wolves
+
+The road splits into two at the intersection below.  The crumbling northwest route continues toward the colossal ruins of a great city, while the northeast wraps around the outer eastern banks of a serene lake a ways to the north.  The cobblestones of the crossing have been paved in a large circle, a signpost stands at its center.  A human skull sits atop the directional signpost, offering no advice to travelers searching for direction.  You notice a wooden directional signpost.
+
+Also here: Champion Blink the Avardi 
+
+Obvious Exits: northwest, northeast, and south. 
+
+Kaiya arrives from the south.
+Garaven arrives from the south.
+Rochiriel arrives from the south.
+Flynt flies in from the south.
+Trystan arrives from the south.
+Nikolas arrives from the south.
+Faran arrives from the south.
+pray divine crowns
+
+Flynt blinks.
+
+
+A translucent barrier surges with energy as an incantation is disrupted.
+[Delay: 6.0 sec.]
+
+
+Blink asks, "Hear that?"
+
+Flynt says, "Yep."
+
+Flynt prays to Tetherias, creating a protective shield around himself.
+Flynt looks protected!
+
+Faran nods to Blink.
+Blink says, "Maybe the wolves is all."
+Nikolas puts on a sea serpent-embossed blue-plumed blacksteel hoplite helm.
+pray holyshield kai
+
+Nikolas holds a roiling sea electrum-enameled blacksteel salawaku.
+
+Blink says, "Seemed loud though."
+
+
+
+You pray to Aerthane, creating a protective shield around Kaiya.
+Kaiya looks protected!
+[Delay: 5.0 sec.]
+
+l
+
+
+
+[Stirling Crossing.]
+NE to wolves
+
+The road splits into two at the intersection below.  The crumbling northwest route continues toward the colossal ruins of a great city, while the northeast wraps around the outer eastern banks of a serene lake a ways to the north.  The cobblestones of the crossing have been paved in a large circle, a signpost stands at its center.  A human skull sits atop the directional signpost, offering no advice to travelers searching for direction.  You notice a wooden directional signpost.
+
+Also here: Champion Blink the Avardi, Kaiya the Avardi, Ra'daji Garaven the Verdani, Emissary Rochiriel the Verdani, Flynt the Sylph (flying), Wren the Human, Trystan the Human, Nikolas the Human, and Emissary Faran the Nydine 
+
+Obvious Exits: northwest, northeast, and south. 
+
+
+Garaven prays to Tetherias, creating a protective shield around himself.
+Garaven looks protected!
+
+Kaiya thanks you.
+pray holyshield nik
+
+
+
+You pray to Aerthane, but your prayers go unanswered.
+[Delay: 5.0 sec.]
+
+pray holyshield nik
+beam
+
+You beam.
+
+
+
+You pray to Aerthane, creating a protective shield around Nikolas.
+Nikolas looks protected!
+[Delay: 5.0 sec.]
+
+pray holyshield wre
+
+
+
+You pray to Aerthane, creating a protective shield around Wren.
+Wren looks protected!
+[Delay: 5.0 sec.]
+
+
+Blink leaves northeast.
+You follow Blink northeast.
+
+
+[Stirling Road.]
+
+The snow capped mountains to the east present an extraordinary skyline even though the view is minimized by the destruction present in the surrounding landscape.  Several wooden structures lie collapsed on both sides of the road, their remains overgrown by heavy grass and weeds which have managed to grow unhindered.  Large holes in the ground have been filled by thick sand seemingly brought in from the mines, as evidenced by the heavy wagon marks which litter the area.
+
+Also here: Champion Blink the Avardi 
+
+Obvious Exits: southwest, and northeast. 
+
+Kaiya arrives from the southwest.
+Garaven arrives from the southwest.
+Rochiriel arrives from the southwest.
+Flynt flies in from the southwest.
+Wren arrives from the southwest.
+Trystan arrives from the southwest.
+Nikolas arrives from the southwest.
+Faran arrives from the southwest.
+
+Blink leaves southwest.
+You follow Blink southwest.
+
+
+[Stirling Crossing.]
+NE to wolves
+
+The road splits into two at the intersection below.  The crumbling northwest route continues toward the colossal ruins of a great city, while the northeast wraps around the outer eastern banks of a serene lake a ways to the north.  The cobblestones of the crossing have been paved in a large circle, a signpost stands at its center.  A human skull sits atop the directional signpost, offering no advice to travelers searching for direction.  You notice a wooden directional signpost.
+
+Also here: Champion Blink the Avardi 
+
+Obvious Exits: northwest, northeast, and south. 
+
+Kaiya arrives from the northeast.
+Garaven arrives from the northeast.
+Rochiriel arrives from the northeast.
+Flynt flies in from the northeast.
+Wren arrives from the northeast.
+Trystan arrives from the northeast.
+Nikolas arrives from the northeast.
+Faran arrives from the northeast.
+
+Blink leaves northeast.
+You follow Blink northeast.
+
+
+[Stirling Road.]
+
+The snow capped mountains to the east present an extraordinary skyline even though the view is minimized by the destruction present in the surrounding landscape.  Several wooden structures lie collapsed on both sides of the road, their remains overgrown by heavy grass and weeds which have managed to grow unhindered.  Large holes in the ground have been filled by thick sand seemingly brought in from the mines, as evidenced by the heavy wagon marks which litter the area.
+
+Also here: Champion Blink the Avardi 
+
+Obvious Exits: southwest, and northeast. 
+
+Kaiya arrives from the southwest.
+Garaven arrives from the southwest.
+Rochiriel arrives from the southwest.
+Flynt flies in from the southwest.
+Trystan arrives from the southwest.
+Nikolas arrives from the southwest.
+Faran arrives from the southwest.
+
+Blink leaves northeast.
+You follow Blink northeast.
+
+
+[Stirling Road.]
+
+A small mound of dirt next to a hole in the earth flanks the eastern side of the road.  The skeletal remains of the intended owner of the hole lie propped up next to a wooden post spiked deep into the ground.  A tinted glass bottle, its base cleanly broken and turned upright in the dirt, lies just out of arms length from the skeleton's hand.  You notice a puddle of water.
+
+Also here: Champion Blink the Avardi 
+
+Obvious Exits: southwest, and east. 
+
+Kaiya arrives from the southwest.
+Garaven arrives from the southwest.
+Rochiriel arrives from the southwest.
+Flynt flies in from the southwest.
+Trystan arrives from the southwest.
+Nikolas arrives from the southwest.
+Faran arrives from the southwest.
+
+Kaiya gets a glass vial of red elixir from an academy-issue canvas backpack.
+
+Kaiya gets a glass flask of red elixir from an academy-issue canvas backpack.
+
+Blink leaves east.
+You follow Blink east.
+
+
+[Stirling Road.]
+
+Large holes scar the road, leaving a narrow path barely wide enough for a wagon.  Small trees, under-grown with heavy brambles, are lined up against the edge of the dirt.  The occasional birdsong resonates in the air, echoing out from the treetops.
+
+Also here: Champion Blink the Avardi 
+
+Obvious Exits: northeast, and west. 
+
+Kaiya arrives from the west.
+Garaven arrives from the west.
+Rochiriel arrives from the west.
+Flynt flies in from the west.
+<HP: 157/157 ST: 85/123>
+Trystan arrives from the west.
+Nikolas arrives from the west.
+Faran arrives from the west.
+
+Kaiya gets a glass flask of red elixir from an academy-issue canvas backpack.
+
+Blink leaves northeast.
+You follow Blink northeast.
+
+
+[Stirling Road.]
+
+Firmly planted boot prints stamped in clay have hardened over time.  Grassy plains grow wild at the edge of the road to either side.  Snow-capped mountains in the eastern sky are surrounded by a thicket of trees.  You notice a puddle of water.
+
+Also here: Champion Blink the Avardi 
+
+Obvious Exits: southwest, and east. 
+
+Kaiya arrives from the southwest.
+Garaven arrives from the southwest.
+Rochiriel arrives from the southwest.
+Flynt flies in from the southwest.
+Trystan arrives from the southwest.
+Nikolas arrives from the southwest.
+Faran arrives from the southwest.
+Kaiya gets a glass flask of red elixir from an academy-issue canvas backpack.
+
+Blink leaves east.
+You follow Blink east.
+
+
+[Stirling Road.]
+
+Following the southern side of the trail, several paths zigzag through the grass in a constantly changing maze.  Larger, more permanent paths have been flattened by hooved animals and stalking predators.  Rich green grass spreads out and provides an abundant source of food for other wild creatures of the plains.
+
+Also here: Champion Blink the Avardi 
+
+Obvious Exits: northeast, and west. 
+
+Kaiya arrives from the west.
+Garaven arrives from the west.
+Rochiriel arrives from the west.
+Flynt flies in from the west.
+
+Trystan arrives from the west.
+Nikolas arrives from the west.
+Faran arrives from the west.
+
+Blink leaves northeast.
+You follow Blink northeast.
+
+
+[Stirling Road.]
+
+The waves of grass grow tall as the road turns to avoid a stand of large pine trees.  The dirt and rock appear uneven on the path, dips and grooves here and there.  Several piles of dead weeds, grass, and pine needles litter the western side of the road as it slopes with a small hill.
+
+Also here: Champion Blink the Avardi 
+
+Obvious Exits: southwest, and northeast. 
+
+Kaiya arrives from the southwest.
+Garaven arrives from the southwest.
+Rochiriel arrives from the southwest.
+Flynt flies in from the southwest.
+Wren arrives from the southwest.
+Trystan arrives from the southwest.
+Nikolas arrives from the southwest.
+Faran arrives from the southwest.
+
+Blink leaves northeast.
+You follow Blink northeast.
+
+
+[Stirling Road.]
+
+Further uphill, the road travels through the heavy grasslands.  Small shrubs and trees dot the landscape like outcasts amongst the open plains.  The rich green color of the grass transitions paler as the growth moves further away from the more fertile soil.
+
+Also here: Champion Blink the Avardi 
+
+Obvious Exits: southwest, and northeast. 
+
+Kaiya arrives from the southwest.
+Garaven arrives from the southwest.
+Rochiriel arrives from the southwest.
+Flynt flies in from the southwest.
+
+Trystan arrives from the southwest.
+Nikolas arrives from the southwest.
+Faran arrives from the southwest.
+
+Blink leaves northeast.
+You follow Blink northeast.
+
+
+[Stirling Road.]
+
+The heavy scent of pine resonates within the area, the origin being a gathering of small pine trees alongside the road.  The wide plains stretch out, consuming all visible landmarks, with the single exception of large lake visible in the distance.
+
+Also here: Champion Blink the Avardi 
+
+Obvious Exits: southwest, and northeast. 
+
+Kaiya arrives from the southwest.
+Garaven arrives from the southwest.
+Rochiriel arrives from the southwest.
+Flynt flies in from the southwest.
+Wren arrives from the southwest.
+Trystan arrives from the southwest.
+Nikolas arrives from the southwest.
+Faran arrives from the southwest.
+
+Blink leaves northeast.
+You follow Blink northeast.
+
+
+[Stirling Road, Crowns Pass Intersection.]
+
+A small trail slopes downward to the east, leading away from the lush greens of the plains and into the rocky terrain that disappears into the mountains.  A second road rises slightly to the north around the outer banks of a lake.  The intersection is littered with debris from wagons that underestimated the turns and slopes of the connecting roads.  You notice a puddle of water.
+
+Also here: Champion Blink the Avardi 
+
+Obvious Exits: southwest, east, and north. 
+
+Kaiya arrives from the southwest.
+Garaven arrives from the southwest.
+Rochiriel arrives from the southwest.
+Flynt flies in from the southwest.
+Trystan arrives from the southwest.
+Nikolas arrives from the southwest.
+Faran arrives from the southwest.
+
+who
+[ARRIVALS] 'Oland has logged on.'
+   Players Currently Online: 
+ =============================
+
+   Gant the Human                                              
+   Seren the Avardi                                            
+   Kaiya the Avardi                                            
+   Cascius the Human                                           
+   Kaiah the Human                                             
+   Blink the Avardi                                            
+   Garaven the Verdani                                         
+   Rochiriel the Verdani                                       
+   Valco the Nydine                                            
+   Geel the Gavial                                             
+   Wren the Human                                              
+   Faran the Nydine                                            
+   Nikolas the Human                                           
+   Xiija the Sylph                                             
+   Flynt the Sylph                                             
+   Makith the Devalin                                          
+   Trystan the Human                                           
+   Oland the Dwarf                                             
+
+
+Blink leaves east.
+You follow Blink east.
+
+
+[Crowns Pass.]
+
+The narrow road expands as it ascends toward the intersection to the west.  The lush landscape further uphill is distinctly different from the mountainous trails sloping away to the east.  Sparse vegetation grows in the shadows of larger rocks that prevent the plains from growing farther into the mountains.
+
+Also here: a gold and white royal armored guard, a gold and white royal armored guard, and Champion Blink the Avardi 
+
+Obvious Exits: west, and east. 
+
+Kaiya arrives from the west.
+Garaven arrives from the west.
+Rochiriel arrives from the west.
+Flynt flies in from the west.
+Wren arrives from the west.
+Trystan arrives from the west.
+Nikolas arrives from the west.
+Faran arrives from the west.
+
+Blink says to a gold and white royal armored guard, "Hi guys."
+nod
+
+You nod.
+
+Rochiriel looks around curiously.
+
+Wren peers at a gold and white royal armored guard.
+u
+
+
+
+[Above Crowns Pass.]
+
+Below, the narrow road expands as it ascends toward the intersection to the west.  The lush landscape farther uphill is distinctly different from the mountainous trails sloping away to the east.  Sparse vegetation grows in the shadows of larger rocks that prevent the plains from growing farther into the mountains.
+
+Obvious Exits: down, and west. 
+
+e
+
+You can't go that way.
+d
+
+
+
+[Crowns Pass.]
+
+The narrow road expands as it ascends toward the intersection to the west.  The lush landscape further uphill is distinctly different from the mountainous trails sloping away to the east.  Sparse vegetation grows in the shadows of larger rocks that prevent the plains from growing farther into the mountains.
+
+Also here: a gold and white royal armored guard, a gold and white royal armored guard, Champion Blink the Avardi, Kaiya the Avardi, Ra'daji Garaven the Verdani, Emissary Rochiriel the Verdani, Flynt the Sylph (flying), Wren the Human, Trystan the Human, Nikolas the Human, and Emissary Faran the Nydine 
+
+Obvious Exits: west, and east. 
+
+
+Blink greets a gold and white royal armored guard.
+
+A gold and white royal armored guard nods to Blink.
+grunt
+
+You grunt.
+
+Blink says to a gold and white royal armored guard, "We're the tourists the King sent."
+
+Faran asks Blink, "Do take care as we continue? Perhaps let us get our bearings in unfamiliar territory a bit?"
+l e
+
+Looking east you see...
+
+
+[Crowns Pass.]
+
+Heading sharply towards the east, the steep road continues its steady, gradual ascent.  The surrounding terrain is bleak as the vegetation continues to thin.  Only the hardest of vegetation thrives in the almost barren gravel underfoot, adding yet another element of caution to the already difficult trail.  You notice a puddle of water. 
+
+Obvious Exits: west, and east. 
+
+<HP: 157/157 ST: 101/123>
+Rochiriel nods her head up and down.
+
+Blink says to Faran, "Sure."
+
+Wren nods her head up and down.
+l
+
+
+
+[Crowns Pass.]
+
+The narrow road expands as it ascends toward the intersection to the west.  The lush landscape further uphill is distinctly different from the mountainous trails sloping away to the east.  Sparse vegetation grows in the shadows of larger rocks that prevent the plains from growing farther into the mountains.
+
+Also here: a gold and white royal armored guard, a gold and white royal armored guard, Champion Blink the Avardi, Kaiya the Avardi, Ra'daji Garaven the Verdani, Emissary Rochiriel the Verdani, Flynt the Sylph (flying), Wren the Human, Trystan the Human, Nikolas the Human, and Emissary Faran the Nydine 
+
+Obvious Exits: west, and east. 
+
+flai try
+
+You flail your arms at Trystan.
+
+Trystan tilts his head to you.
+
+Blink leaves east.
+You follow Blink east.
+
+
+[Crowns Pass.]
+
+Heading sharply towards the east, the steep road continues its steady, gradual ascent.  The surrounding terrain is bleak as the vegetation continues to thin.  Only the hardest of vegetation thrives in the almost barren gravel underfoot, adding yet another element of caution to the already difficult trail.  You notice a puddle of water.
+
+Also here: Champion Blink the Avardi 
+
+Obvious Exits: west, and east. 
+
+Kaiya arrives from the west.
+Garaven arrives from the west.
+Rochiriel arrives from the west.
+Flynt flies in from the west.
+Trystan arrives from the west.
+Nikolas arrives from the west.
+Faran arrives from the west.
+<HP: 157/157 ST: 105/123>
+Wren says, "Aye, never know when we might miss something exciting."
+e
+
+
+
+[Crowns Pass.]
+
+The road continues to change direction as it continues farther along, turning sharply west and northeast.  Large rocks line either side, giving a prominent border between the passageway and its surroundings.  The dried, hard packed earth is covered in fine layer of sand and small broken stones.
+
+Obvious Exits: northeast, and west. 
+
+ne
+
+
+
+[Crowns Pass.]
+
+The hard packed road slopes slightly as it continues turning.  The sand and broken stones which make up the trail are unevenly piled and spread out.  A few of the large rocks lining the edges have shifted and made their way into the middle.
+
+Obvious Exits: southwest, and northeast. 
+
+ne
+
+
+
+[Crowns Pass.]
+
+The pass narrows and continues to slope slightly, inclining to the east.  Some thick brambles grow just beyond the rocks along the sides and reach above them, threatening to make purchase beyond.  The sand and broken rocks covering the road give way slightly underfoot as they compress into the soil below.  You notice a puddle of water.
+
+Obvious Exits: southwest, and east. 
+
+e
+
+
+
+[Crowns Pass.]
+
+Small green bushes accompanied by heavy undergrowth rustle with the gusts of the transient mountain winds.  The broken stones of the road appear to have been compressed into the soil indicating prior heavy traffic.  A single blue wildflower grows on the eastern side of the path between two large rocks as if planted there intentionally.
+
+Obvious Exits: southeast, and west. 
+
+se
+
+
+
+[Crowns Pass.]
+
+For some reason this portion of the road is almost completely devoid of any sand or stones.  Footprints of various shapes and sizes can be seen in the soil, mostly heading north.  Amongst the rocks along the eastern side is the fossilized exoskeleton of a large scorpion.  You notice a puddle of water.
+
+Obvious Exits: southeast, and northwest. 
+
+se
+
+
+
+[Crowns Pass.]
+
+The passage widens slightly as it curves south towards the tall mountains.  Several splinters of wood, which appear to be from the wheel of a wagon, are scattered randomly across the road.  Wagon tracks, though barely visible, extend northwest.  You notice a puddle of water.
+
+Obvious Exits: northwest, and south. 
+
+s
+
+
+
+[Crowns Pass.]
+
+Thick brambles have found a way to grow between each of the rocks which line the road, forming a wall of their own.  A small burnt area is on the southern side, a relic of a past campfire.  A large stone on the eastern side appears to have been painted red; the reason for this cannot be ascertained.
+
+Obvious Exits: southeast, and north. 
+
+se
+
+
+
+[Crowns Pass.]
+
+An indentation in the middle of the path has gathered water from previous rains that have passed through the area.  Small foot prints of what appears to be a rabbit can be seen in the mud around the puddle, indicating that the creature had been drinking from it.  Several of the rocks that line the road appear to have shifted, causing them to roll northward where they have settled.
+
+Obvious Exits: northwest, and east. 
+
+ne
+
+You can't go that way.
+e
+
+
+
+[Crowns Pass.]
+
+Several narrow cracks in the road extending eastward make passage challenging.  Upon closer inspection, the fissures seem to carry deeply into the ground, despite their width.  Off to the southeast, the remnants of a stone bridge can be seen.
+
+Obvious Exits: southeast, and west. 
+
+se
+
+
+
+[Crowns Pass, Bridge Landing.]
+
+The stone bridge to the southeast has been devastated by flooding.  The majority of the stone was swept west along the shallow ravine.  Most of what appears to have remained is the original pillars that supported the crossing and a precarious stretch across.  Beyond the gap, the flat landscape fluctuates with hills as the imposing mountains loom in the distance.  You notice a stone bridge, and a puddle of water.
+
+Obvious Exits: northwest. 
+
+inv
+Inventory:
+
+a supple black leather apothecary bag (3.0 lbs)
+ a dark brown canvas prospectors rucksack (5.0 lbs)
+ a fresh four leaf clover (1.0 lb)
+ 
+Currency: 53 doubloons
+
+Carrying: 84 items (62.0 | 81.0) lbs.
+
+drop clov
+
+You drop a fresh four leaf clover.
+e
+
+You can't go that way.
+se
+
+You can't go that way.
+ne
+
+You can't go that way.
+s
+
+You can't go that way.
+n
+
+You can't go that way.
+nw
+
+
+[Crowns Pass.]
+
+Several narrow cracks in the road extending eastward make passage challenging.  Upon closer inspection, the fissures seem to carry deeply into the ground, despite their width.  Off to the southeast, the remnants of a stone bridge can be seen.
+
+Obvious Exits: southeast, and west. 
+
+se
+
+
+
+[Crowns Pass, Bridge Landing.]
+
+The stone bridge to the southeast has been devastated by flooding.  The majority of the stone was swept west along the shallow ravine.  Most of what appears to have remained is the original pillars that supported the crossing and a precarious stretch across.  Beyond the gap, the flat landscape fluctuates with hills as the imposing mountains loom in the distance.  You notice a stone bridge, a puddle of water, and a fresh four leaf clover.
+
+Obvious Exits: northwest. 
+
+s
+
+You can't go that way.
+sw
+
+You can't go that way.
+list is: 
+l n
+
+You don't see anything that way.
+l ne
+
+You don't see anything that way.
+l e
+
+You don't see anything that way.
+l se
+
+Looking southeast you see...
+You can't see that!
+l s
+
+You don't see anything that way.
+l sw
+
+You don't see anything that way.
+l w
+
+You don't see anything that way.
+l nw
+l u
+
+Looking northwest you see...
+
+
+[Crowns Pass.]
+
+Several narrow cracks in the road extending eastward make passage challenging.  Upon closer inspection, the fissures seem to carry deeply into the ground, despite their width.  Off to the southeast, the remnants of a stone bridge can be seen.
+
+Obvious Exits: southeast, and west. 
+
+Looking up you see...
+You can't see that!
+l d
+
+You don't see anything that way.
+done - Scanlist = southeast|northwest|up
+
+
+
+
+
+l
+<HP: 157/157 ST: 119/123><HP: 157/157 ST: 119/123><HP: 157/157 ST: 119/123><HP: 157/157 ST: 119/123>
+
+
+[Crowns Pass, Bridge Landing.]
+
+The stone bridge to the southeast has been devastated by flooding.  The majority of the stone was swept west along the shallow ravine.  Most of what appears to have remained is the original pillars that supported the crossing and a precarious stretch across.  Beyond the gap, the flat landscape fluctuates with hills as the imposing mountains loom in the distance.  You notice a stone bridge, a puddle of water, and a fresh four leaf clover.
+
+Obvious Exits: northwest. 
+
+se
+
+You can't go that way.
+go brid
+
+You can't go that way.
+u
+
+
+
+[Above Crowns Pass.]
+
+Below, the stone bridge to the southeast has been devastated by flooding.  The majority of the stone was swept west along the shallow ravine.  Most of what appears to have remained is the original pillars that supported the crossing and a precarious stretch across.  Beyond the gap, the flat landscape fluctuates with hills as the imposing mountains loom in the distance.
+
+Obvious Exits: southeast, northwest, and down. 
+
+se
+
+
+
+[Above Crowns Pass, Stone Bridge.]
+
+Small stones break away from the fragmented remains of the dilapidated bridge below.  Large portions of the structure can be seen westward, casualties of numerous past inundations.  Below it, the water rushes by swiftly, threatening to rise again and assault the bridge once more.
+
+Obvious Exits: southeast, northwest, and down. 
+
+d
+
+
+
+[Crowns Pass, Stone Bridge.]
+
+Small stones break away from the fragmented remains of the dilapidated bridge.  The remaining narrow walkway only occasionally provides support with sections of handrail, cracked and somewhat unsound.  Large portions of the structure can be seen westward, casualties of numerous past inundations.  Below, the water rushes by swiftly, threatening to rise again and assault the bridge once more.
+
+Obvious Exits: southeast, and northwest. 
+
+l nw
+
+Looking northwest you see...
+
+
+[Crowns Pass, Bridge Landing.]
+
+The stone bridge to the southeast has been devastated by flooding.  The majority of the stone was swept west along the shallow ravine.  Most of what appears to have remained is the original pillars that supported the crossing and a precarious stretch across.  Beyond the gap, the flat landscape fluctuates with hills as the imposing mountains loom in the distance.  You notice a stone bridge, a puddle of water, and a fresh four leaf clover. 
+
+Obvious Exits: northwest. 
+
+l
+
+
+
+[Crowns Pass, Stone Bridge.]
+
+Small stones break away from the fragmented remains of the dilapidated bridge.  The remaining narrow walkway only occasionally provides support with sections of handrail, cracked and somewhat unsound.  Large portions of the structure can be seen westward, casualties of numerous past inundations.  Below, the water rushes by swiftly, threatening to rise again and assault the bridge once more.
+
+Obvious Exits: southeast, and northwest. 
+
+
+Blink thinks to you, "Hey get back here."
+
+
+Blink thinks to you, "We saw ogre tracks."
+
+nw
+
+
+
+[Crowns Pass, Bridge Landing.]
+
+The stone bridge to the southeast has been devastated by flooding.  The majority of the stone was swept west along the shallow ravine.  Most of what appears to have remained is the original pillars that supported the crossing and a precarious stretch across.  Beyond the gap, the flat landscape fluctuates with hills as the imposing mountains loom in the distance.  You notice a stone bridge, a puddle of water, and a fresh four leaf clover.
+
+nw
+Obvious Exits: northwest. 
+
+
+
+
+[Crowns Pass.]
+
+Several narrow cracks in the road extending eastward make passage challenging.  Upon closer inspection, the fissures seem to carry deeply into the ground, despite their width.  Off to the southeast, the remnants of a stone bridge can be seen.
+
+Obvious Exits: southeast, and west. 
+
+se
+
+
+
+[Crowns Pass, Bridge Landing.]
+
+The stone bridge to the southeast has been devastated by flooding.  The majority of the stone was swept west along the shallow ravine.  Most of what appears to have remained is the original pillars that supported the crossing and a precarious stretch across.  Beyond the gap, the flat landscape fluctuates with hills as the imposing mountains loom in the distance.  You notice a stone bridge, a puddle of water, and a fresh four leaf clover.
+
+Obvious Exits: northwest. 
+
+se
+
+You can't go that way.
+u
+
+
+
+[Above Crowns Pass.]
+
+Below, the stone bridge to the southeast has been devastated by flooding.  The majority of the stone was swept west along the shallow ravine.  Most of what appears to have remained is the original pillars that supported the crossing and a precarious stretch across.  Beyond the gap, the flat landscape fluctuates with hills as the imposing mountains loom in the distance.
+
+Obvious Exits: southeast, northwest, and down. 
+
+se
+
+
+
+[Above Crowns Pass, Stone Bridge.]
+
+Small stones break away from the fragmented remains of the dilapidated bridge below.  Large portions of the structure can be seen westward, casualties of numerous past inundations.  Below it, the water rushes by swiftly, threatening to rise again and assault the bridge once more.
+
+Obvious Exits: southeast, northwest, and down. 
+
+d
+
+
+
+[Crowns Pass, Stone Bridge.]
+
+Small stones break away from the fragmented remains of the dilapidated bridge.  The remaining narrow walkway only occasionally provides support with sections of handrail, cracked and somewhat unsound.  Large portions of the structure can be seen westward, casualties of numerous past inundations.  Below, the water rushes by swiftly, threatening to rise again and assault the bridge once more.
+
+Obvious Exits: southeast, and northwest. 
+
+se
+
+
+
+[Crowns Pass, Bridge Landing.]
+
+The narrow dirt road is riddled with large holes and erosion ruts which have been left to harden over the years under the intense summer sun and harsh winter cold.  Patches of heavy green and brown weeds are scattered sparsely amongst the trail, evidence of how rarely it is traveled.  The occasional bush sprouts from the side of the trail, its scraggly branches reaching close to its edge.  A stone bridge to the northwest appears mostly dilapidated.  You notice a stone bridge.
+
+Obvious Exits: east. 
+
+nw
+
+
+
+[Crowns Pass, Stone Bridge.]
+
+Small stones break away from the fragmented remains of the dilapidated bridge.  The remaining narrow walkway only occasionally provides support with sections of handrail, cracked and somewhat unsound.  Large portions of the structure can be seen westward, casualties of numerous past inundations.  Below, the water rushes by swiftly, threatening to rise again and assault the bridge once more.
+
+Obvious Exits: southeast, and northwest. 
+
+nw
+
+
+
+[Crowns Pass, Bridge Landing.]
+
+The stone bridge to the southeast has been devastated by flooding.  The majority of the stone was swept west along the shallow ravine.  Most of what appears to have remained is the original pillars that supported the crossing and a precarious stretch across.  Beyond the gap, the flat landscape fluctuates with hills as the imposing mountains loom in the distance.  You notice a stone bridge, a puddle of water, and a fresh four leaf clover.
+
+Obvious Exits: northwest. 
+
+se
+
+You can't go that way.
+nw
+
+
+
+[Crowns Pass.]
+
+Several narrow cracks in the road extending eastward make passage challenging.  Upon closer inspection, the fissures seem to carry deeply into the ground, despite their width.  Off to the southeast, the remnants of a stone bridge can be seen.
+
+Obvious Exits: southeast, and west. 
+
+w
+
+
+
+[Crowns Pass.]
+
+An indentation in the middle of the path has gathered water from previous rains that have passed through the area.  Small foot prints of what appears to be a rabbit can be seen in the mud around the puddle, indicating that the creature had been drinking from it.  Several of the rocks that line the road appear to have shifted, causing them to roll northward where they have settled.
+
+Obvious Exits: northwest, and east. 
+
+nw
+
+
+
+[Crowns Pass.]
+
+Thick brambles have found a way to grow between each of the rocks which line the road, forming a wall of their own.  A small burnt area is on the southern side, a relic of a past campfire.  A large stone on the eastern side appears to have been painted red; the reason for this cannot be ascertained.
+
+Obvious Exits: southeast, and north. 
+
+u
+
+
+
+[Above Crowns Pass.]
+
+Thick brambles have found a way to grow between each of the rocks which line the road below, forming a wall of their own.  A small burnt area is on the southern side, a relic of a past campfire.  A large stone on the eastern side appears to have been painted red; the reason for this cannot be ascertained.
+
+Obvious Exits: southeast, down, and north. 
+
+n
+
+
+
+[Above Crowns Pass.]
+
+Below, the passage widens slightly as it curves south towards the tall mountains.  Several splinters of wood, which appear to be from the wheel of a wagon, are scattered randomly across the road.  Wagon tracks, though barely visible, extend northwest.
+
+Obvious Exits: northwest, down, and south. 
+
+l d
+
+Looking down you see...
+
+
+[Crowns Pass.]
+
+The passage widens slightly as it curves south towards the tall mountains.  Several splinters of wood, which appear to be from the wheel of a wagon, are scattered randomly across the road.  Wagon tracks, though barely visible, extend northwest.  You notice a puddle of water. 
+
+Obvious Exits: northwest, and south. 
+
+d
+
+
+
+[Crowns Pass.]
+
+The passage widens slightly as it curves south towards the tall mountains.  Several splinters of wood, which appear to be from the wheel of a wagon, are scattered randomly across the road.  Wagon tracks, though barely visible, extend northwest.  You notice a puddle of water.
+
+Obvious Exits: northwest, and south. 
+
+nw
+
+
+
+[Crowns Pass.]
+
+For some reason this portion of the road is almost completely devoid of any sand or stones.  Footprints of various shapes and sizes can be seen in the soil, mostly heading north.  Amongst the rocks along the eastern side is the fossilized exoskeleton of a large scorpion.  You notice a puddle of water.
+
+Obvious Exits: southeast, and northwest. 
+
+nw
+
+
+
+[Crowns Pass.]
+
+Small green bushes accompanied by heavy undergrowth rustle with the gusts of the transient mountain winds.  The broken stones of the road appear to have been compressed into the soil indicating prior heavy traffic.  A single blue wildflower grows on the eastern side of the path between two large rocks as if planted there intentionally.
+
+Obvious Exits: southeast, and west. 
+
+w
+
+
+
+[Crowns Pass.]
+
+The pass narrows and continues to slope slightly, inclining to the east.  Some thick brambles grow just beyond the rocks along the sides and reach above them, threatening to make purchase beyond.  The sand and broken rocks covering the road give way slightly underfoot as they compress into the soil below.  You notice a puddle of water.
+
+Obvious Exits: southwest, and east. 
+
+sw
+
+
+
+[Crowns Pass.]
+
+The hard packed road slopes slightly as it continues turning.  The sand and broken stones which make up the trail are unevenly piled and spread out.  A few of the large rocks lining the edges have shifted and made their way into the middle.
+
+Obvious Exits: southwest, and northeast. 
+
+sw
+
+
+
+[Crowns Pass.]
+
+The road continues to change direction as it continues farther along, turning sharply west and northeast.  Large rocks line either side, giving a prominent border between the passageway and its surroundings.  The dried, hard packed earth is covered in fine layer of sand and small broken stones.
+
+Also here: Champion Blink the Avardi, Kaiya the Avardi, Ra'daji Garaven the Verdani, Emissary Rochiriel the Verdani, Flynt the Sylph (flying), Wren the Human, Trystan the Human, Nikolas the Human, and Emissary Faran the Nydine 
+
+Obvious Exits: northeast, and west. 
+
+' the bridge may be out
+
+You say, "The bridge may be out."
+
+Blink says to you, "Stay together."
+grunt
+
+You grunt.
+Kaiya says to Faran, "I'm surprised I can, to be honest."
+
+Faran chuckles.
+
+Wren smirks at Kaiya.
+say fly fly up when ya come to it
+
+You say to Flynt, "Fly up when ya come to it."
+
+Blink says to you, "You've got the plague cure."
+agree fly , smiling...
+
+You nod your head up and down to Flynt , smiling...
+
+Wren says to Kaiya, "Don't doubt your skills."
+
+Rochiriel says to Faran, "They are all quite large."
+l
+
+
+
+[Crowns Pass.]
+
+The road continues to change direction as it continues farther along, turning sharply west and northeast.  Large rocks line either side, giving a prominent border between the passageway and its surroundings.  The dried, hard packed earth is covered in fine layer of sand and small broken stones.
+
+Also here: Champion Blink the Avardi, Kaiya the Avardi, Ra'daji Garaven the Verdani, Emissary Rochiriel the Verdani, Flynt the Sylph (flying), Wren the Human, Trystan the Human, Nikolas the Human, and Emissary Faran the Nydine 
+
+Obvious Exits: northeast, and west. 
+
+
+Kaiya nods to Wren firmly.
+ne
+
+
+
+[Crowns Pass.]
+
+The hard packed road slopes slightly as it continues turning.  The sand and broken stones which make up the trail are unevenly piled and spread out.  A few of the large rocks lining the edges have shifted and made their way into the middle.
+
+Obvious Exits: southwest, and northeast. 
+
+ne
+
+
+
+[Crowns Pass.]
+
+The pass narrows and continues to slope slightly, inclining to the east.  Some thick brambles grow just beyond the rocks along the sides and reach above them, threatening to make purchase beyond.  The sand and broken rocks covering the road give way slightly underfoot as they compress into the soil below.  You notice a puddle of water.
+
+Obvious Exits: southwest, and east. 
+
+e
+
+
+
+[Crowns Pass.]
+
+Small green bushes accompanied by heavy undergrowth rustle with the gusts of the transient mountain winds.  The broken stones of the road appear to have been compressed into the soil indicating prior heavy traffic.  A single blue wildflower grows on the eastern side of the path between two large rocks as if planted there intentionally.
+
+Obvious Exits: southeast, and west. 
+
+se
+
+
+
+[Crowns Pass.]
+
+For some reason this portion of the road is almost completely devoid of any sand or stones.  Footprints of various shapes and sizes can be seen in the soil, mostly heading north.  Amongst the rocks along the eastern side is the fossilized exoskeleton of a large scorpion.  You notice a puddle of water.
+
+Obvious Exits: southeast, and northwest. 
+
+se
+
+
+
+[Crowns Pass.]
+
+The passage widens slightly as it curves south towards the tall mountains.  Several splinters of wood, which appear to be from the wheel of a wagon, are scattered randomly across the road.  Wagon tracks, though barely visible, extend northwest.  You notice a puddle of water.
+
+Obvious Exits: northwest, and south. 
+
+s
+
+
+
+[Crowns Pass.]
+
+Thick brambles have found a way to grow between each of the rocks which line the road, forming a wall of their own.  A small burnt area is on the southern side, a relic of a past campfire.  A large stone on the eastern side appears to have been painted red; the reason for this cannot be ascertained.
+
+Obvious Exits: southeast, and north. 
+
+se
+
+
+
+[Crowns Pass.]
+
+An indentation in the middle of the path has gathered water from previous rains that have passed through the area.  Small foot prints of what appears to be a rabbit can be seen in the mud around the puddle, indicating that the creature had been drinking from it.  Several of the rocks that line the road appear to have shifted, causing them to roll northward where they have settled.
+
+Obvious Exits: northwest, and east. 
+
+e
+
+
+
+[Crowns Pass.]
+
+Several narrow cracks in the road extending eastward make passage challenging.  Upon closer inspection, the fissures seem to carry deeply into the ground, despite their width.  Off to the southeast, the remnants of a stone bridge can be seen.
+
+Obvious Exits: southeast, and west. 
+
+se
+
+
+
+[Crowns Pass, Bridge Landing.]
+
+The stone bridge to the southeast has been devastated by flooding.  The majority of the stone was swept west along the shallow ravine.  Most of what appears to have remained is the original pillars that supported the crossing and a precarious stretch across.  Beyond the gap, the flat landscape fluctuates with hills as the imposing mountains loom in the distance.  You notice a stone bridge, a puddle of water, and a fresh four leaf clover.
+
+Obvious Exits: northwest. 
+
+se
+
+You can't go that way.
+
+who
+[ARRIVALS] 'Valco has logged out.'
+   Players Currently Online: 
+ =============================
+
+   Gant the Human                                              
+   Seren the Avardi                                            
+   Kaiya the Avardi                                            
+   Cascius the Human                                           
+   Kaiah the Human                                             
+   Blink the Avardi                                            
+   Garaven the Verdani                                         
+   Rochiriel the Verdani                                       
+   Geel the Gavial                                             
+   Wren the Human                                              
+   Faran the Nydine                                            
+   Nikolas the Human                                           
+   Xiija the Sylph                                             
+   Flynt the Sylph                                             
+   Makith the Devalin                                          
+   Trystan the Human                                           
+   Oland the Dwarf                                             
+
+list is: 
+l n
+
+You don't see anything that way.
+l ne
+
+You don't see anything that way.
+l e
+You don't see anything that way.
+l se
+
+Looking southeast you see...
+You can't see that!
+l s
+
+You don't see anything that way.
+l sw
+
+You don't see anything that way.
+l w
+
+You don't see anything that way.
+l nw
+
+Looking northwest you see...
+
+
+[Crowns Pass.]
+
+Several narrow cracks in the road extending eastward make passage challenging.  Upon closer inspection, the fissures seem to carry deeply into the ground, despite their width.  Off to the southeast, the remnants of a stone bridge can be seen.
+
+Obvious Exits: southeast, and west. 
+
+l u
+
+Looking up you see...
+You can't see that!
+l d
+
+You don't see anything that way.
+done - Scanlist = southeast|northwest|up
+
+
+
+
+
+l
+<HP: 157/157 ST: 123/123><HP: 157/157 ST: 123/123><HP: 157/157 ST: 123/123><HP: 157/157 ST: 123/123>
+
+
+[Crowns Pass, Bridge Landing.]
+
+The stone bridge to the southeast has been devastated by flooding.  The majority of the stone was swept west along the shallow ravine.  Most of what appears to have remained is the original pillars that supported the crossing and a precarious stretch across.  Beyond the gap, the flat landscape fluctuates with hills as the imposing mountains loom in the distance.  You notice a stone bridge, a puddle of water, and a fresh four leaf clover.
+
+Obvious Exits: northwest. 
+
+u
+
+
+
+[Above Crowns Pass.]
+
+Below, the stone bridge to the southeast has been devastated by flooding.  The majority of the stone was swept west along the shallow ravine.  Most of what appears to have remained is the original pillars that supported the crossing and a precarious stretch across.  Beyond the gap, the flat landscape fluctuates with hills as the imposing mountains loom in the distance.
+
+Obvious Exits: southeast, northwest, and down. 
+
+assist your crowns bridge may be broken?
+
+Your assist message has been sent.  Thank you.
+quit
+
+y
+Quit -- are you sure (Y/N)?You depart from the world.
+Closed Xiija-offerings.txt on file 1
+l
+
+
+
+[Crowns Pass.]
+
+Rocks of varying shapes and sizes lie scattered randomly upon the road making travel with wagon or cart difficult.  The large cliff faces of the mountain stand proudly above the road as if boasting their existence to travelers.  Large footprints, perhaps left by ogre or troll, can be seen imprinted in the dirt.
+
+Obvious Exits: southeast, and west. 
+
+
+who
+[ARRIVALS] 'Nymerhoena has logged out.'
+l xii
+
+   Players Currently Online: 
+ =============================
+
+   Xiija the Sylph                                             
+   Adalmus the Human                                           
+
+Xiija looks like a slender 55 year old female Sylph.
+She has silvery eyes and very long, dreaded, platinum blonde hair.
+She is 1 feet 9 inches tall and weighs 19 pounds.
+She has an aura of Aerthane.
+Xiija is in perfect health.
+
+Dirty silvery dreadlocks fall across her face, obscuring intense eyes, one white, one silvery-grey from your view
+
+Visible Tattoos:
+
+A sleeve of multi-colored dragons twists down her left arm from shoulder to wrist.
+A small deep blue pentagram is tattooed upon her neck.
+On her left cheek is a small tribal tattoo.
+Centered on her forehead is tattooed the Mark of Aerthane.
+Up the inside of her right forearm is a tattoo of a black Caduceus with bloody wings.
+Across her back is tattoo'd - 'Revenge'.
+
+She is wearing:
+
+Head            : a ragged eagle feather and goat fur headdress
+Head            : some purple thread-tied blessed silver charms
+Ears            : a blackened cursed vampire bone earring
+Body            : a silver-buckled leather satchel
+Body            : a golden feather-embossed moss green samite chipao
+Torso           : some fur-lined steel scalemail
+Waist           : a tooled leather sailors weapon harness
+Waist           : a patched leather pelt sack
+Feet            : some double leather-reinforced elk skin hiking boots
+Wield           : a short ebony-handled steel dirk
+Held            : a small round wooden shield
+Face            : a smooth silver lip ring
+Nose            : a tribal-scrimshawed bone septum piercing
+
+l sat
+
+It looks like a silver-buckled leather satchel.
+Inside you see:
+
+a loosely-tied leather fish sack
+ a gold-beaded white cotton headscarf
+ a supple black leather apothecary bag
+ a long cherrywood fishing pole
+ a transcribed recipe
+ a battered teak baji totem staff
+ a small fur-covered prayer book
+ a small raven black seven demon silk bag
+ a fresh four leaf clover
+ a dark brown canvas prospectors rucksack
+ a short hickory-handled niello rock pick
+ a hunk of sunstone
+ a short hickory-handled niello rock pick
+ some moonstone
+ a short nickel mining pick
+ some pike
+ some pike
+ some pike
+ 
+l pelt
+
+It looks like a patched leather pelt sack is made of large pieces of tanned skins.
+Inside you see:
+
+a large shimmering turquoise
+ a small luminous agate
+ a beautiful rose quartz
+ a cloudy green turquoise
+ a small luminous agate
+ a swirled agate
+ a small luminous agate
+ a black-spotted opal
+ a cloudy rainbow opal
+ a beautiful rose quartz
+ a lustrous purple garnet
+ a pristine white opal
+ a smooth purple quartz
+ a translucent pink quartz
+ a beautiful rose quartz
+ an uncut beige quartz
+ an uncut rainbow opal
+ an uncut beige quartz
+ a chipped pink quartz
+ a chipped blue turquoise
+ a cloudy rainbow opal
+ an uncut beige quartz
+ a small faceted garnet
+ a black-spotted opal
+ a deep red garnet
+ a dark red garnet
+ a black-spotted opal
+ a beautiful rose quartz
+ an uncut rainbow opal
+ a chipped pink quartz
+ a small luminous agate
+ a circular-cut garnet
+ a milky white opal
+ a smooth purple quartz
+ a small luminous agate
+ a milky white opal
+ a chipped pink quartz
+ a milky white opal
+ a cloudy green turquoise
+ a chipped pink quartz
+ a small glimmering turquoise
+ a cloudy rainbow opal
+ a chintzy tin lockpick
+ an uncut rainbow opal
+ some shimmering remnants
+ 
+l
+
+
+
+[Crowns Pass.]
+
+Rocks of varying shapes and sizes lie scattered randomly upon the road making travel with wagon or cart difficult.  The large cliff faces of the mountain stand proudly above the road as if boasting their existence to travelers.  Large footprints, perhaps left by ogre or troll, can be seen imprinted in the dirt.
+
+Obvious Exits: southeast, and west. 
+
+time

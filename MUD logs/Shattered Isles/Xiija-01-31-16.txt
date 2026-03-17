@@ -1,0 +1,525 @@
+l
+
+
+
+[High in the Sky Ballroom.]
+
+A translucent floor overlooks the festival grounds and provides a bird's eye view of the surrounding valley.  Crackling surges of electricity pulsate through the floor to stabilize the hovering platform.  Patches of fog drift across the floor, briefly obscuring its occupants.  Floating orbs of light play on the passing winds as they trail along the ballroom, brightening the skies.  The cloud is floating below.  You notice a silver serving tray, and a silver drink tray.
+
+Also here: Lord Ayderias the Avardi, Seren the Avardi, Champion Blink the Avardi, Trystan the Human, Eabo the Goblin, Aruskin the Avardi, Kaiah the Human, Wren the Human, Emissary Visyn the Devalin, Empyrion Bocon the Devalin, Merchant Zykiel the Human, Ciciliah the Sylph (flying), Pyratherndar the Vukasin, Merchant Menfanous the Dwarf, Luinor the Nydine, and Flynt the Sylph (flying) 
+
+Obvious Exits: none
+
+
+Luinor gets a glass bottle of Kalesian rum from a supple shark tooth-clasped leather satchel.
+
+Blink says, "Wooooooosh."
+l ayd
+
+Ayderias looks like a lean 161 year old male Avardi.
+He has light gray eyes and long, straight, silvery gray hair.
+He is 6 feet 1 inch tall and weighs 133 pounds.
+He has an aura of Aerthane.
+Ayderias is in perfect health.
+
+Long, perfectly straight hair of a silvery color frames a slender face. Pointed ears break through on either side without disrupting the flow of his hair. Light gray eyes almost blue in appearance stand out from his milky-white pale skin.
+
+He is wearing:
+
+Head            : a diamond-encrusted silver circlet
+Body            : a diamond-clasped grey wool cloak
+Torso           : a silver-threaded white brocade tunic
+Waist           : a slender elven crafted leather scabbard
+Legs            : some loose fitting white linen trousers
+Feet            : some white-buckled grey leather boots
+
+
+Ciciliah rubs her chin thoughtfully.
+Luinor exhales a sigh of relief.
+l seren
+
+Seren looks like an athletic 44 year old female Avardi.
+She has bluish gray eyes and long, unbridled, light blonde hair.
+She is 5 feet 8 inches tall and weighs 118 pounds.
+She has an aura of Aerthane.
+Seren is in perfect health.
+
+Unruly blond hair swirls in the slightest breeze as the scent of cinnamon lingers in the air when she walks by.
+
+She is wearing:
+
+Ears            : some diamond-encrusted silver snowflake earrings
+Neck            : a sparkling diamond snowflake pendant
+Body            : a white fox trimmed velvet cloak
+Body            : a trim white velvet gown
+Left finger     : a hammered gold wedding band
+Left finger     : a flour dusted silver ring
+Feet            : some soft velvet high heels
+
+
+Ayderias says to Blink, "Perhaps if this does not work."
+l bli
+
+Blink looks like a skinny 32 year old male Avardi.
+He has light gray eyes and short, spiky, silvery gray hair.
+He is 6 foot tall and weighs 98 pounds.
+He has an aura of Aerthane.
+Blink is in perfect health.
+
+Tall and skinny, with a slight stoop. His gray eyes take in the world calmly above the gold persarium of his beak. He is dressed as some sort of polychromatic bird.
+
+He is wearing:
+
+Head            : a horned and beaked persarium helm
+Head            : a bright blue wool stocking cap
+Eyes            : some cobalt-framed round bifocal glass spectacles
+Neck            : a smooth red roadrunner-shaped garnet medallion
+Neck            : a simple white crystal air symbol
+Back            : some huge spread out polychromatic feathered wings
+Body            : a silver-buckled leather satchel
+Body            : some polychromatic feathered robes
+Torso           : a lightning-etched multi-colored arcsilver lorica plumata
+Torso           : a sky blue cable knit cashmere sweater
+Arms            : some light winged arcsilver bracers
+Left wrist      : a wide sparrow-engraved silver cuff
+Hands           : some curved blacksteel eagle talons
+Left finger     : an interlocking blacksteel and platinum lightning bolt ring
+Right finger    : a hawk claw talon wrap platinum ring
+Waist           : some polychromatic tail feathers
+Waist           : an antique silver-chained pocket sundial
+Legs            : some lightning-etched blacksteel greaves
+Legs            : some fitted rugged khaki pants
+Feet            : some large sharp yellow bone talons
+Feet            : some striped cotton socks
+Wield           : an ancient bison bone-handled orichalcum skinning knife
+Held            : a polished nickel lightning rod
+Face            : a smoking horned multi-colored feather thunderbird mask
+Shoulders       : some blacksteel-spiked lightning-etched arcsilver pauldrons
+
+l try
+
+Trystan looks like a muscular 25 year old male Human.
+He has deep blue eyes and shoulder length, neatly kept, dull black hair.
+He is 6 feet 2 inches tall and weighs 188 pounds.
+He has an aura of Aerthane.
+Trystan is in perfect health.
+
+A winged lion
+
+He is wearing:
+
+Head            : a beautiful long eagle feather headdress
+Neck            : a white braided-leather corded blacksteel medallion
+Body            : a blacksteel clasped white matte leather hooded cloak
+Torso           : a polished silver whirlwind-inlaid steel breastplate
+Torso           : a bishop-sleeved white silk pirate shirt
+Left wrist      : a white leather-braided wristband
+Waist           : a rune etched arcsilver-inlaid steel scabbard
+Waist           : a small white leather coinpouch
+Waist           : a blacksteel buckled white leather belt
+Legs            : some white matte leather pants
+Feet            : some thigh-high white leather boots
+Wield           : an intricately designed arcsilver scepter
+Face            : an amber-eyed heavily maned golden fur lion mask
+
+l
+
+
+
+[High in the Sky Ballroom.]
+
+A translucent floor overlooks the festival grounds and provides a bird's eye view of the surrounding valley.  Crackling surges of electricity pulsate through the floor to stabilize the hovering platform.  Patches of fog drift across the floor, briefly obscuring its occupants.  Floating orbs of light play on the passing winds as they trail along the ballroom, brightening the skies.  The cloud is floating below.  You notice a silver serving tray, and a silver drink tray.
+
+Also here: Lord Ayderias the Avardi, Seren the Avardi, Champion Blink the Avardi, Trystan the Human, Eabo the Goblin, Aruskin the Avardi, Kaiah the Human, Wren the Human, Emissary Visyn the Devalin, Empyrion Bocon the Devalin, Merchant Zykiel the Human, Ciciliah the Sylph (flying), Pyratherndar the Vukasin, Merchant Menfanous the Dwarf, Luinor the Nydine, and Flynt the Sylph (flying) 
+
+Obvious Exits: none
+
+l eab
+
+Eabo looks like an able-bodied 30 year old male Goblin.
+He has dull black eyes and is bald.
+He is 2 feet 11 inches tall and weighs 97 pounds.
+He has an aura of Itzal.
+Eabo is in perfect health.
+
+
+
+He is wearing:
+
+Head            : a tall black silk top hat
+Neck            : a simple cobalt chain
+Neck            : a panther head-etched ebony charm
+Body            : a medium gray cotton courier bag
+Body            : an ebony panther-inlaid oak sling
+Torso           : a faded raven-feathered buckskin tunic
+Left wrist      : a smooth ebony bracelet
+Waist           : a leather weapon harness
+Waist           : a patched leather pelt sack
+Legs            : a fur-lined buckskin loincloth
+Feet            : some tan buckskin moccasins
+Face            : an attentive-eared hunting black panther mask
+Left arm        : a hardened leather archer bracer
+
+l aru
+
+Aruskin looks like a slender 68 year old male Avardi.
+He has bluish gray eyes and short, curly, sandy blonde hair.
+He is 5 feet 10 inches tall and weighs 122 pounds.
+He has an aura of Aerthane.
+Aruskin is in perfect health.
+
+He appears quietly friendly and a bit too serious for his own good.
+
+He is wearing:
+
+Head            : a dark green patched-up wide-brimmed felt hat
+Body            : a falcon painted grey and brown leather quiver-bag
+Body            : a blue and dapple gray cotton explorer cloak
+Torso           : a formal double-breasted storm gray wool vest
+Torso           : a starch-collared slate gray button up linen dress shirt
+Hands           : a soft three-fingered leather archer glove
+Left finger     : a hawk-engraved walnut archers thumb ring
+Waist           : a leather weapon harness
+Legs            : some dark grey wool trousers
+Feet            : some stylish perfectly-polished black leather dress shoes
+
+l kaia
+
+Blink grins.
+<HP: 157/157 ST: 130/130>
+Kaiah looks like a muscular 29 year old female Human.
+She has steel gray eyes and very long, braided, dark blonde hair.
+She is 6 feet 6 inches tall and weighs 172 pounds.
+She has an aura of Itzal.
+Kaiah is in perfect health.
+
+This tall, tanned woman's impassive expression and cold, disinterested gaze passes you by with hardly any acknowledgement. Her long braid, tightened and bound by lengths of dark linen, hangs down her back and past her waist. The clothing she wears prevents any skin from being exposed save her neck, and the dark ink that curls around each side. The hood of her bridge coat is down.
+
+She is wearing:
+
+Ears            : a skull-carved troll bone earring
+Neck            : a howling wolf's head-carved bone necklace
+Body            : a slate gray-accented hooded black wool bridge coat
+Torso           : a silver-trimmed black velvet vest
+Torso           : a ruffled bell-sleeved beige batiste blouse
+Left wrist      : a soaring crow-etched ivory cuff
+Waist           : a blacksteel ribbed leather kidney belt
+Waist           : some sapphire skull adorned onyx prayer beads
+Legs            : some richly woven creased sable merino slacks
+Feet            : some tall silver-buckled bucket top onyx black leather boots
+Left arm        : a smooth onyx and sapphire-embedded platinum armband
+Right arm       : an etched blacksteel armband
+
+l wre
+
+Wren looks like a lean 26 year old female Human.
+She has hazel eyes and long, straight, glossy black hair.
+She is 5 feet 11 inches tall and weighs 137 pounds.
+She has an aura of Itzal.
+Wren is in perfect health.
+
+Neatly pinned up in sections along the top and middle of her head, her hair falls in a single narrow tail between her shoulders. The gown's length trails behind her, stark black at the top and gradually fading to pale grey at the bottom. A hooked beak covers her nose and curls just above her ruby lips, a collection of silvery falcon feathers encircling her face while thick black plumage on her shoulders and across her chest augment the image of a predatory bird.
+
+She is wearing:
+
+Body            : a corset top onyx and platinum ombre tulle silk trumpet gown
+Legs            : a black-laced leather garter
+Feet            : some ankle-strapped peep toe black suede stilettos
+Feet            : some lace-trimmed sheer black silk stockings
+Held            : a silver-trimmed maple flute
+Face            : a falcon feather-rimmed jet black avian half-mask
+Shoulders       : a black silk ribbon-tied crow feather capelet
+
+l
+
+
+
+[High in the Sky Ballroom.]
+
+A translucent floor overlooks the festival grounds and provides a bird's eye view of the surrounding valley.  Crackling surges of electricity pulsate through the floor to stabilize the hovering platform.  Patches of fog drift across the floor, briefly obscuring its occupants.  Floating orbs of light play on the passing winds as they trail along the ballroom, brightening the skies.  The cloud is floating below.  You notice a silver serving tray, and a silver drink tray.
+
+Also here: Lord Ayderias the Avardi, Seren the Avardi, Champion Blink the Avardi, Trystan the Human, Eabo the Goblin, Aruskin the Avardi, Kaiah the Human, Wren the Human, Emissary Visyn the Devalin, Empyrion Bocon the Devalin, Merchant Zykiel the Human, Ciciliah the Sylph (flying), Pyratherndar the Vukasin, Merchant Menfanous the Dwarf, Luinor the Nydine, and Flynt the Sylph (flying) 
+
+Obvious Exits: none
+
+
+Wren peers at Kaiah.
+
+Ayderias says to Blink, "It seems obvious you might have separated us from it with your summoning of lightning."
+<HP: 157/157 ST: 130/130>
+Pyratherndar whispers to you, "Befre you go poof for the night I need you to tell me how to put my tattoo back.".
+l vis
+
+Visyn looks like a slender 95 year old male Devalin.
+He has scarlet red eyes and is bald.
+He is 5 feet 8 inches tall and weighs 152 pounds.
+He has an aura of Pyrous.
+Visyn is in perfect health.
+
+A dark mask conceals his face, only revealing a pair of piercing scarlet red eyes.
+
+The top of his left hand has large, deep scarring that mangles and lumps over the entirety of the surface. The blackened skin looks to have been horribly charred.
+
+He is wearing:
+
+Neck            : a white silk bowtie
+Body            : a slimming black pin-striped wool tuxedo
+Torso           : a collared button-down crimson satin dress shirt
+Left finger     : a traditional silverwood-banded jade and amber ring
+Right finger    : a wolf-engraved jade archer's thumb ring
+Legs            : some black pin-striped wool trousers
+Face            : a contoured blacksteel hunter's face mask
+
+
+Eabo ponders.
+l boc
+
+Bocon looks like a lean 99 year old male Devalin.
+He has glowing red eyes and very long, tied back, reddish black hair.
+He is 6 feet 4 inches tall and weighs 115 pounds.
+He has an aura of Pyrous.
+Bocon is in perfect health.
+
+
+
+He is wearing:
+
+Head            : a pristine garnet and ruby-jeweled gold crown
+Neck            : an ivory-trimmed blood and ash vial-embedded iron amulet
+Neck            : a smooth bloodstone flame necklace
+Body            : a crimson flame-embroidered holy ceremonial cotton robe
+Hands           : some deep crimson soft leather flame-embroidered gloves
+Left finger     : a wide pyrargyrite-inlaid brushed blacksteel ring
+Right finger    : a rounded glittering crystal ring
+Legs            : some dark red-threaded flame-stitched linen trousers
+Feet            : some thick-soled blacksteel spiked deep red leather warboots
+Face            : a wickedly-spiked molded blacksteel laughing demon's mask
+Left ear        : a flame-etched banded blacksteel earcuff
+
+
+Ayderias asks Blink, "Perhaps another strike would bring it back?"
+
+Blink says, "Oh, wow. Sorry."
+l zyk
+
+Zykiel looks like a slim 24 year old male Human.
+He has light green eyes and short, neatly kept, dark brown hair.
+He is 6 feet 5 inches tall and weighs 188 pounds.
+He has an aura of Astraeva.
+Zykiel is in perfect health.
+
+A tall, lanky human showing all the signs of a youth in his prime. He radiates confidence from the neatness of his hair to the crease in his pants.
+
+He is wearing:
+
+Head            : a white-feathered adorned brown leather tricorne
+Body            : a hooded gold-threaded samite cloak
+Torso           : a bear sigil-crested fitted white wool tunic
+Right wrist     : a pearl-embedded leather wristband
+Waist           : a gold-buckled braided leather belt
+Legs            : some creased beige linen trousers
+Feet            : some brown leather calf-high boots
+
+l
+
+
+
+[High in the Sky Ballroom.]
+
+A translucent floor overlooks the festival grounds and provides a bird's eye view of the surrounding valley.  Crackling surges of electricity pulsate through the floor to stabilize the hovering platform.  Patches of fog drift across the floor, briefly obscuring its occupants.  Floating orbs of light play on the passing winds as they trail along the ballroom, brightening the skies.  The cloud is floating below.  You notice a silver serving tray, and a silver drink tray.
+
+Also here: Lord Ayderias the Avardi, Seren the Avardi, Champion Blink the Avardi, Trystan the Human, Eabo the Goblin, Aruskin the Avardi, Kaiah the Human, Wren the Human, Emissary Visyn the Devalin, Empyrion Bocon the Devalin, Merchant Zykiel the Human, Ciciliah the Sylph (flying), Pyratherndar the Vukasin, Merchant Menfanous the Dwarf, Luinor the Nydine, and Flynt the Sylph (flying) 
+
+Obvious Exits: none
+
+
+Blink says, "Oh, if you're sure."
+l cic
+
+Ciciliah looks like a wiry 19 year old female Sylph.
+She has silvery eyes and long, wavy, platinum blonde hair.
+She is 2 foot tall and weighs 13 pounds.
+She has an aura of Aerthane.
+Ciciliah is in perfect health.
+
+Suspended in effortless flight, softly crackling sparks twinkle periodically like stars upon the skin of perhaps the slightest of sprites you've ever seen. 
+
+Visible Tattoos:
+
+A long sinuous pale blue Dragon with silvery metalic shaded undertones is tattooed upon her entire body, the tail wrapped around her right ankle and curling around her thigh. Its body crosses her hip and wraps around her stomach with wings outstretched across her chest, its head nestled behind her ear.
+
+She is wearing:
+
+Head            : a sparkling diamond-encrusted ivory hairpin
+Ears            : some platinum-tipped turquoise arrow head earrings
+Neck            : a diamond-studded silver choker
+Body            : a cloud-embroidered sky blue satin satchel
+Body            : a long flowing rune embroidered hooded white silk magi cloak
+Left wrist      : a leather-braided wristband
+Right wrist     : an intricately-entwined rose hued satin ribbon
+Hands           : some beaded elbow-length white satin gloves
+Left finger     : a multicolored gem-adorned birch ring
+Waist           : a leather weapon harness
+Waist           : a chartreuse silk gem pouch
+Feet            : some handmade braided hemp sandals
+Face            : a dainty diamond-trimmed silver satin butterfly wing mask
+
+l pyr
+
+Pyratherndar looks like a stout 26 year old female Vukasin.
+She has light gray eyes and very long, wavy, honey brown fur.
+She is 7 feet 3 inches tall and weighs 271 pounds.
+She has an aura of Pyrous.
+Pyratherndar is in perfect health.
+
+Her fur has been brushed to a pristine shine and now you can see the natural waves in her fur. She has scars that resemble three claw marks on each arm.
+
+She is wearing:
+
+Head            : a delicate dragonfly pewter tiara
+Ears            : a hardened leather earcuff
+Neck            : a ruby-studded silver choker
+Back            : a purple leather-fringed canvas backpack
+Body            : a long flowing white netting-backed purple damask gown
+Right wrist     : a cloud-etched alabaster bangle bracelet
+Face            : a red flying phoenix-feathered mask
+
+l men
+
+Menfanous looks like an able-bodied 35 year old male Dwarf.
+He has emerald green eyes, collar length, neatly kept, sandy blonde hair, and a triple tied, sandy blonde beard.
+He is 4 feet 1 inch tall and weighs 152 pounds.
+He has an aura of Astraeva.
+Menfanous is in perfect health.
+
+this dwarf is very tall for his race. He has hypnotic green eyes that appear to be kind and welcoming. He appears to be self confident but not arrogant. He has a small scar above his right eye.
+
+He is wearing:
+
+Neck            : a dangling gold-chained orange coral sun pendant
+Torso           : a red cotton doublet
+Waist           : a niello-buckled black leather belt
+Legs            : a brown leather-waisted green wool kilt
+Feet            : some shiny silver-buckled black leather shoes
+Face            : a gold crossed-hammer embossed green leather mask
+
+
+Blink says, "I'm always down for some zapping."
+l
+
+
+
+[High in the Sky Ballroom.]
+
+A translucent floor overlooks the festival grounds and provides a bird's eye view of the surrounding valley.  Crackling surges of electricity pulsate through the floor to stabilize the hovering platform.  Patches of fog drift across the floor, briefly obscuring its occupants.  Floating orbs of light play on the passing winds as they trail along the ballroom, brightening the skies.  The cloud is floating below.  You notice a silver serving tray, and a silver drink tray.
+
+Also here: Lord Ayderias the Avardi, Seren the Avardi, Champion Blink the Avardi, Trystan the Human, Eabo the Goblin, Aruskin the Avardi, Kaiah the Human, Wren the Human, Emissary Visyn the Devalin, Empyrion Bocon the Devalin, Merchant Zykiel the Human, Ciciliah the Sylph (flying), Pyratherndar the Vukasin, Merchant Menfanous the Dwarf, Luinor the Nydine, and Flynt the Sylph (flying) 
+
+Obvious Exits: none
+
+
+Kaiah says to Luinor, "That's a shame. It might make our situation tolerable."
+l lui
+
+Luinor looks like a strapping 148 year old male Nydine.
+He has deep blue eyes and very long, tied back, glossy black hair.
+He is 6 foot tall and weighs 129 pounds.
+He has an aura of Kaleith.
+Luinor is in perfect health.
+
+A slightly tall nydine with long black hair stands before you, an air of intelligence and sagely wisdom exudes off of him as he greets the world with unabashed curiosity.
+
+He is wearing:
+
+Neck            : a sea serpent-etched aquamarine amulet
+Body            : a supple shark tooth-clasped leather satchel
+Body            : some runic embossed heavy leather war-mage robes
+Torso           : a polished silver crescent moon-embossed steel cuirass
+Arms            : some kraken-engraved hardened leather bracers
+Left finger     : a citrine-encrusted silver ring
+Right finger    : an amethyst-encrusted silver ring
+Waist           : a snakeskin-wrapped cobalt keyring
+Waist           : a small silver-threaded satin herb pouch
+Waist           : some coral and walrus tusk prayer beads
+Legs            : some rugged black canvas trousers
+Feet            : some steel-cuffed black leather boots
+Wield           : a clawed sapphire-embedded polished steel gauntlet
+Held            : a clawed sapphire-palmed polished steel gauntlet
+
+
+Luinor offers the bottle to Kaiah with a questioning look.
+l fly
+
+Flynt looks like a strapping 28 year old male Sylph.
+He has sapphire blue eyes and short, spiky, platinum blonde hair.
+He is 1 feet 9 inches tall and weighs 23 pounds.
+He has an aura of Tetherias.
+Flynt is in perfect health.
+
+a large knot on the back of his head is showing the purple and yellow of a healing bruise through his short, spiky hair.
+
+He is wearing:
+
+Head            : a tasseled burgundy wool fez
+Neck            : a double-sided wolf and silverwood tree silver medallion
+Torso           : a light cotton jerkin
+Legs            : some burgundy-threaded black linen pants
+Feet            : a red and charcoal black fire trollskin boots
+Face            : a bushy yellowish-white furred pink-faced yeti mask
+
+
+Menfanous asks, "Cant someone jes be callin the cloud back?"
+l xii
+
+Xiija looks like a slender 55 year old female Sylph.
+She has silvery eyes and very long, dreaded, platinum blonde hair.
+She is 1 feet 9 inches tall and weighs 19 pounds.
+She has an aura of Aerthane.
+Xiija is in perfect health.
+
+Dirty silvery dreadlocks fall across her face, obscuring intense eyes, one white, one silvery-grey from your view
+
+Visible Tattoos:
+
+A sleeve of multi-colored dragons twists down her left arm from shoulder to wrist.
+A small deep blue pentagram is tattooed upon her neck.
+On her left cheek is a small tribal tattoo.
+Centered on her forehead is tattooed the Mark of Aerthane.
+Up the inside of her right forearm is a tattoo of a black Caduceus with bloody wings.
+Across her back is tattoo'd - 'Revenge'.
+
+She is wearing:
+
+Head            : some purple thread-tied blessed silver charms
+Neck            : a diamond-studded silver choker
+Body            : an elegant fur-collared ecru-patterned raw silk evening gown
+Legs            : some sheer white thigh-high spidersilk garter stockings
+Feet            : some black leather stilettos
+Feet            : a tinkling silver-belled jade anklet
+Face            : a silver-dusted bleached teak tribal white dragon mask
+Face            : a smooth silver lip ring
+Nose            : a tribal-scrimshawed bone septum piercing
+Shoulders       : an elegant white dragon-embroidered gray silk shawl
+
+
+Visyn says to Zykiel, "The phantom mask for me, the white satin mask for the Sylph and the black-feathered mask for Wren."
+
+Ayderias says to Blink, "I am not certain, but it did not bring us down the first time so I think we can withdstand it."
+
+Luinor says to Kaiah, "Found it."
+
+Luinor gives a glass bottle of Kalesian rum to Kaiah.
+Kaiah ponders.
+
+Wren exclaims, "Well, the black-feathered one is most certainly my favorite. It goes with my esemble!"
+
+Zykiel exclaims to Visyn, "Okay!"
+
+Blink summons a thunderous bolt of lightning that strikes the ground beneath him.
+
+Wren laughs at Visyn.
+
+Blink says, "Zzzzzzzzzzt."
+
+Kaiah says to Luinor, "We'll celebrate when we're on the ground."
+time

@@ -1,0 +1,4909 @@
+l
+
+
+
+[Pillars of Aerthane.]
+
+The overlooking corner of the stone slab descends into a square auditorium with wide steps suitable for seating. The rows of steps face a white marble topped altar at the center.  A swirled gray and white marble pillar stands at the corner with a supporting trellis connecting it to evenly spaced pillars along the perimeter.  Each pillar has been polished on one side to a brilliant side, with the opposite side facing the valley depicting intricately carved totems of fierce birds of prey.  You notice an arcsilver-veined white marble topped altar.
+
+Also here: Trystan the Human, Champion Blink the Avardi, Aruskin the Avardi, Seren the Avardi, Emissary Ayderias the Avardi, and an Aerthanian templar (seated) on some wide marble steps 
+
+Obvious Exits: east. 
+
+l ayd
+
+Ayderias looks like a lean 160 year old male Avardi.
+He has light gray eyes and long, straight, silvery gray hair.
+He is 6 feet 1 inch tall and weighs 133 pounds.
+He has an aura of Aerthane.
+Ayderias is in perfect health.
+
+Long, perfectly straight hair of a silvery color frames a slender face. Pointed ears break through on either side without disrupting the flow of his hair. Light gray eyes almost blue in appearance stand out from his milky-white pale skin.
+
+He is wearing:
+
+Head            : a diamond-encrusted silver circlet
+Body            : a diamond-clasped grey wool cloak
+Torso           : a silver-threaded white brocade tunic
+Waist           : a slender elven crafted leather scabbard
+Legs            : some loose fitting white linen trousers
+Feet            : some white-buckled grey leather boots
+
+l try
+
+Trystan looks like a muscular 24 year old male Human.
+He has deep blue eyes and shoulder length, neatly kept, dull black hair.
+He is 6 feet 2 inches tall and weighs 188 pounds.
+He has an aura of Aerthane.
+Trystan is in perfect health.
+
+A tall young man with a casual manner. Dark hair highlights a pair of deep blue eyes that give you a quick notice before quickly turning to something else.
+
+He is wearing:
+
+Neck            : a black braided-leather corded silver medallion
+Body            : a silver clasped black matte leather hooded cloak
+Torso           : an arcsilver whirlwind-inlaid blacksteel breastplate
+Torso           : a black emerald green-striped light cotton gambeson
+Left wrist      : a blacksteel and silver braided wristband
+Right wrist     : a smooth leaf-carved silverwood bracelet
+Waist           : a small black leather coinpouch
+Waist           : a silver buckled black leather belt
+Legs            : some dark grey wool trousers
+Feet            : some smoky grey half-heeled elephant skin jackboots
+Held            : a hollow spiral-routed silverwood staff
+
+l bli
+
+Blink looks like a skinny 32 year old male Avardi.
+He has light gray eyes and medium length, spiky, silvery gray hair.
+He is 6 foot tall and weighs 98 pounds.
+He has an aura of Aerthane.
+Blink is in perfect health.
+
+Tall and skinny, with a slight stoop. His gray eyes take in the world calmly above the gold persarium beak of his helm. He smells of cigarette smoke.
+
+He is wearing:
+
+Head            : a horned and beaked persarium helm
+Head            : a pointed misty gray brocade air wizard hat
+Eyes            : some cobalt-framed round bifocal glass spectacles
+Neck            : a simple white crystal air symbol
+Back            : some huge spread out polychromatic feathered wings
+Body            : a silver-buckled leather satchel
+Body            : some polychromatic feathered robes
+Torso           : an oversized white flowered blue cotton tourist shirt
+Waist           : some polychromatic tail feathers
+Legs            : some fitted rugged khaki pants
+Feet            : some large sharp yellow bone talons
+Wield           : a short wire-wrapped sharkskin-hilted steel stiletto
+Held            : a small round wooden shield
+Face            : a smoking horned multi-colored feather thunderbird mask
+Face            : a silvery gray fake human beard
+
+l ser
+
+Seren looks like an athletic 25 year old female Avardi.
+She has bluish gray eyes and long, unbridled, light blonde hair.
+She is 5 feet 8 inches tall and weighs 118 pounds.
+She has an aura of Aerthane.
+Seren is in perfect health.
+
+Long hair swirls around her head partially covering an artisian mark behind her left ear.
+
+She is wearing:
+
+Ears            : some tiny silver feather earrings
+Neck            : a brushed silver feather necklace
+Body            : a grey leather craftsman satchel
+Body            : a feather trimmed white silk dress
+Torso           : a studded blacksteel cuirass
+Left wrist      : a smooth walnut bracelet
+Left finger     : a hammered gold wedding band
+Left finger     : a flour dusted silver ring
+Feet            : some white silk high heels
+Wield           : a short silverwood-handled steel boning knife
+Held            : a large ebony shield
+
+
+Blink says, "This Goblin is probably the same one that desecrated our temple before. the lodge wasn't here then."
+l aru
+
+Aruskin looks like a slender 68 year old male Avardi.
+He has bluish gray eyes and short, curly, sandy blonde hair.
+He is 5 feet 10 inches tall and weighs 122 pounds.
+He has an aura of Aerthane.
+Aruskin is in perfect health.
+
+He appears quietly friendly and a bit too serious for his own good.
+
+He is wearing:
+
+Head            : a wide-brimmed felt hat
+Back            : an academy-issue canvas backpack
+Torso           : some fur-lined steel scalemail
+Torso           : a dark grey wool tunic
+Hands           : a soft three-fingered leather archer glove
+Waist           : a leather weapon harness
+Legs            : some dark grey wool trousers
+Feet            : some dull black leather boots
+Left arm        : a hardened leather archer bracer
+
+l xii
+
+Xiija looks like a slender 55 year old female Sylph.
+She has silvery eyes and very long, dreaded, platinum blonde hair.
+She is 1 feet 9 inches tall and weighs 19 pounds.
+She has an aura of Aerthane.
+Xiija is in perfect health.
+
+Dirty silvery dreadlocks fall across her face, obscuring intense eyes, one white, one silvery-grey,from your view
+
+Visible Tattoos:
+
+A sleeve of multi-colored dragons twists down her left arm from shoulder to wrist.
+A small deep blue pentagram is tattooed upon her neck.
+On her left cheek is a small tribal tattoo.
+Centered on her forehead is tattooed the Mark of Aerthane.
+Up the inside of her right forearm is a tattoo of a black Caduceus with bloody wings.
+
+She appears to be in a mischievous mood
+
+She is wearing:
+
+Head            : a strung feather headdress
+Ears            : a blackened cursed vampire bone earring
+Neck            : a formal Sylvan batik erimaki hemp scarf
+Neck            : a tiny silver locket
+Body            : a silver-buckled leather satchel
+Body            : a dark brown formal Sylvan batik itai
+Torso           : a patched tribal shaman's silk sarkari
+Left wrist      : a leather-braided wristband
+Left finger     : a smooth ebony ring
+Waist           : some etched wooden prayer beads
+Waist           : a leather weapon harness
+Waist           : a patched leather pelt sack
+Feet            : some weathered woven hemp moccasins
+Wield           : a battered teak baji totem staff
+Face            : a blackened leather shaman's wyvern-head death mask
+Face            : a smooth silver lip ring
+Nose            : a tribal-scrimshawed bone septum piercing
+
+
+Blink shrugs.
+nod
+
+You nod.
+
+Ayderias sits on some wide marble steps.
+
+Ayderias says, "Coming here would not be wise."
+
+Ayderias asks Blink, "I assume you can slow their progress should they enter?"
+l
+
+
+
+[Pillars of Aerthane.]
+
+The overlooking corner of the stone slab descends into a square auditorium with wide steps suitable for seating. The rows of steps face a white marble topped altar at the center.  A swirled gray and white marble pillar stands at the corner with a supporting trellis connecting it to evenly spaced pillars along the perimeter.  Each pillar has been polished on one side to a brilliant side, with the opposite side facing the valley depicting intricately carved totems of fierce birds of prey.  You notice an arcsilver-veined white marble topped altar.
+
+Also here: Trystan the Human, Champion Blink the Avardi, Aruskin the Avardi, Seren the Avardi, Emissary Ayderias the Avardi (seated) on some wide marble steps, and an Aerthanian templar (seated) on some wide marble steps 
+
+Obvious Exits: east. 
+
+
+Blink says, "That Vukasin is the one that tried to murder Mr. Fork. and yes I'd be happy to."
+' and the Prelate  can give em Pustules...
+
+You say, "And the Prelate can give em Pustules..."
+grin wryly
+
+You grin wryly.
+
+Ayderias asks, "And another of you of younger age is capable of reaching the door before they do?"
+
+Trystan smirks.
+nod ayd
+
+You nod to Ayderias.
+
+Seren says, "Of course."
+
+Currents of air begin to gather around Blink, building a zephyr around the area as Blink's eyes turn a milky white.
+
+The soft zephyr fades as Blink's eyes return to normal.
+
+Blink says, "Looks clear. I'm not the best at this spell though."
+
+Ayderias says, "Then we needn't worry. We are amongst our own and should rejoice."
+
+Blink smiles.
+smi
+
+You smile.
+
+Blink says to Trystan, "I have something for you two. I keep forgetting to give it."
+
+Blink gestures at you.
+
+An Aerthanian templar says, "Let them come."
+
+Blink gives some falcon feather-adorned ivory prayer beads to Trystan.
+grin temp
+
+You grin at an Aerthanian templar.
+
+Blink gives some falcon feather-adorned ivory prayer beads to you.
+rai bli
+
+You raise an eyebrow at Blink.
+
+Trystan glances at a small black leather coinpouch and mumbles something under his breath.
+
+Blink says, "I've had them for a while. I just forgot til today."
+
+Trystan looks up at Blink.
+
+Ayderias takes a drink from a steaming cup of creamed coffee.
+
+Blink says, "My bank box is in fact a huge mess."
+
+Trystan chuckles at Blink.
+chu bli
+
+You chuckle at Blink.
+say bli thank you
+
+You say to Blink, "Thank you."
+
+Trystan says, "Thank you."
+
+Blink says, "Anytime."
+
+Ayderias says to Blink, "What a delightful problem to have."
+nod ayd
+
+You nod to Ayderias.
+
+Trystan gets an ancient hollowed out leather-bound Aerthanian tome from a silver clasped black matte leather hooded cloak.
+
+Blink says, "Yeah, it is rough being rich. I got this crazy tax guy trying to tax me, too."
+grin
+
+Ayderias smiles at Trystan.
+You grin.
+
+Seren says, "Excuse me a moment."
+
+Seren leaves east.
+
+Seren arrives from the east.
+
+Blink takes a drink from a cold glass of milk.
+
+Ayderias says to Blink, "You are a landowner now. I'd expect to see more of that."
+
+Trystan asks Blink, "So you're back into hiding?"
+
+Blink asks, "Back into hiding?"
+
+Ayderias smiles at Seren.
+
+who
+[ARRIVALS] 'Malvyr has logged out.'
+   Players Currently Online: 
+ =============================
+
+   Seren the Avardi                                            
+   Jerem the Human                                             
+   Yiri the Goblin                                             
+   Xiija the Sylph                                             
+   Flynt the Sylph                                             
+   Salus the Vukasin                                           
+   Geel the Gavial                                             
+   Blink the Avardi                                            
+   Kaiah the Human                                             
+   Rochiriel the Verdani                                       
+   Garaven the Verdani                                         
+   Trystan the Human                                           
+   Aruskin the Avardi                                          
+   Ayderias the Avardi                                         
+   Wren the Human                                              
+
+
+
+
+
+
+The holy shield surrounding you fades.
+
+Blink asks, "Oh from the tax guy?"
+
+Blink says, "Good idea. I'll hide on that roof."
+
+Seren asks Blink, "Why is he taxing you?"
+
+Blink says, "Oh he just threatened it. I never got a bill."
+
+Blink says, "Meat sales."
+
+Seren nods.
+
+Seren says, "Ahh."
+
+Blink says, "It seems he only taxes on the sales end of a transaction."
+
+Trystan chuckles.
+l
+
+
+
+[Pillars of Aerthane.]
+
+The overlooking corner of the stone slab descends into a square auditorium with wide steps suitable for seating. The rows of steps face a white marble topped altar at the center.  A swirled gray and white marble pillar stands at the corner with a supporting trellis connecting it to evenly spaced pillars along the perimeter.  Each pillar has been polished on one side to a brilliant side, with the opposite side facing the valley depicting intricately carved totems of fierce birds of prey.  You notice an arcsilver-veined white marble topped altar.
+
+Also here: Trystan the Human, Champion Blink the Avardi, Aruskin the Avardi, Emissary Ayderias the Avardi (seated) on some wide marble steps, an Aerthanian templar (seated) on some wide marble steps, and Seren the Avardi 
+
+Obvious Exits: east. 
+
+
+Trystan says, "So to this book."
+
+Trystan taps an ancient hollowed out leather-bound Aerthanian tome.
+
+Blink says, "Huh."
+
+Trystan says, "This was bought by our own dear Blink."
+beam
+
+You beam.
+l
+
+
+
+[Pillars of Aerthane.]
+
+The overlooking corner of the stone slab descends into a square auditorium with wide steps suitable for seating. The rows of steps face a white marble topped altar at the center.  A swirled gray and white marble pillar stands at the corner with a supporting trellis connecting it to evenly spaced pillars along the perimeter.  Each pillar has been polished on one side to a brilliant side, with the opposite side facing the valley depicting intricately carved totems of fierce birds of prey.  You notice an arcsilver-veined white marble topped altar.
+
+Also here: Trystan the Human, Champion Blink the Avardi, Aruskin the Avardi, Emissary Ayderias the Avardi (seated) on some wide marble steps, an Aerthanian templar (seated) on some wide marble steps, and Seren the Avardi 
+
+Obvious Exits: east. 
+
+
+Trystan says, "And I'd like to have it put on display in the library if there's no objections."
+smi try
+
+You smile at Trystan.
+
+Seren says, "Wonderful."
+
+Trystan gives an ancient hollowed out leather-bound Aerthanian tome to Seren.
+
+Seren smiles.
+
+Seren gives an ancient hollowed out leather-bound Aerthanian tome to you.
+op boo
+
+You don't see 'boo' here.
+
+Seren says, "Its beautiful."
+
+Trystan says, "I know some of you haven't had a chance to take a close look at it since that peddle."
+op tom
+
+You open an ancient hollowed out leather-bound Aerthanian tome.
+read tom
+
+There is nothing written on an ancient hollowed out leather-bound Aerthanian tome.
+l tom
+
+It looks like an ancient hollowed out leather-bound Aerthanian tome.  The cover remains stark white after all these years, though the writing on many of the yellowed sheets has faded.  Within the cut pages lies the wingtip of a hawk.
+Inside you see:
+a sparsely-feathered bone wingtip of a hawk
+
+clo tom
+
+You close an ancient hollowed out leather-bound Aerthanian tome.
+give tom aru
+
+You give an ancient hollowed out leather-bound Aerthanian tome to Aruskin.
+nod  thoughtfully
+
+You nod thoughtfully.
+
+Ayderias asks, "How do you plan to display it? By itself or with other artifacts like it?"
+l
+
+
+
+[Pillars of Aerthane.]
+
+The overlooking corner of the stone slab descends into a square auditorium with wide steps suitable for seating. The rows of steps face a white marble topped altar at the center.  A swirled gray and white marble pillar stands at the corner with a supporting trellis connecting it to evenly spaced pillars along the perimeter.  Each pillar has been polished on one side to a brilliant side, with the opposite side facing the valley depicting intricately carved totems of fierce birds of prey.  You notice an arcsilver-veined white marble topped altar.
+
+Also here: Trystan the Human, Champion Blink the Avardi, Aruskin the Avardi, Emissary Ayderias the Avardi (seated) on some wide marble steps, an Aerthanian templar (seated) on some wide marble steps, and Seren the Avardi 
+
+Obvious Exits: east. 
+
+
+Aruskin gives an ancient hollowed out leather-bound Aerthanian tome to Ayderias.
+inv
+Inventory:
+
+some fur-lined steel scalemail (20.0 lbs)
+ a small round wooden shield (1.0 lb)
+ a luminous crescent moon-embroidered wool blanket (1.0 lb)
+ some falcon feather-adorned ivory prayer beads (1.0 lb)
+ 
+Currency: 117 doubloons
+
+Carrying: 41 items (62.0 | 81.0) lbs.
+
+
+Ayderias smiles at Aruskin.
+wear blank
+
+You must remove a silver-buckled leather satchel first.
+You are already wearing a dark brown formal Sylvan batik itai on your body.
+[Delay: 3.0 sec.]
+
+
+Trystan says, "I would think in its own case unless others have things they'd like to donate."
+put blank sat
+
+You put a luminous crescent moon-embroidered wool blanket in a silver-buckled leather satchel.
+l sat
+
+It looks like a silver-buckled leather satchel.
+Inside you see:
+
+an embossed leather coinpouch
+ a small raven black seven demon silk bag
+ a braided gold ribbon-handled shiny silver cotton gift tote
+ a long cherrywood fishing pole
+ a luminous crescent moon-embroidered wool blanket
+ a large sky blue dragon-embroidered cotton floor cushion
+ 
+l coinp
+
+You don't see that here!
+l coinp
+
+You don't see that here!
+l coin
+
+It looks like 117 doubloons.
+l emb
+
+You don't see that here!
+op coinp
+
+You don't see 'coinp' here.
+
+Aruskin ponders.
+
+The cold snap comes to an end. Grey and gloomy clouds obscure the sky.
+
+Ayderias says to Trystan, "I would be happy to see that this is done if you'd entrust me with the task."
+get coinp sat
+You get an embossed leather coinpouch from a silver-buckled leather satchel.
+
+Aruskin asks Trystan, "You can display it in such a way that it can't be stolen, yes?"
+put 177 coinp
+
+You don't seem to be carrying that.
+put 117 coinp
+
+An embossed leather coinpouch is closed.
+op coinp
+
+You open an embossed leather coinpouch.
+
+Trystan says to Aruskin, "I was planning on making that Bouldermoores problem."
+put 117 coinp
+
+You put 117 doubloons in an embossed leather coinpouch.
+put coinp sat
+
+You put an embossed leather coinpouch in a silver-buckled leather satchel.
+nod try
+
+You nod to Trystan.
+
+Trystan says to Aruskin, "But that was the hope."
+
+Seren says, "Im sure he can do that."
+l
+
+
+
+[Pillars of Aerthane.]
+
+The overlooking corner of the stone slab descends into a square auditorium with wide steps suitable for seating. The rows of steps face a white marble topped altar at the center.  A swirled gray and white marble pillar stands at the corner with a supporting trellis connecting it to evenly spaced pillars along the perimeter.  Each pillar has been polished on one side to a brilliant side, with the opposite side facing the valley depicting intricately carved totems of fierce birds of prey.  You notice an arcsilver-veined white marble topped altar.
+
+Also here: Trystan the Human, Champion Blink the Avardi, Aruskin the Avardi, Emissary Ayderias the Avardi (seated) on some wide marble steps, an Aerthanian templar (seated) on some wide marble steps, and Seren the Avardi 
+
+Obvious Exits: east. 
+
+
+Trystan raises an eyebrow at Seren.
+
+Blink asks, "Might be better if our Emissary did it? Then Ernest doesn't have to go in here?"
+
+Seren says, "Make it so no one can take it."
+
+Trystan says, "Not after watching Salus unlock our gate with little effort."
+win
+
+You wince.
+
+Trystan says to Blink, "He's offering to see to it, not build it himself."
+
+Blink says, "Oh."
+
+Seren says, "Wouldnt he have to build the case."
+
+Trystan grins at Seren.
+
+Trystan asks, "How do we feel about others in our temple?"
+<HP: 155/155 ST: 120/120>
+Aruskin says, "At least we are now saved the trouble of locking the gate."
+l
+
+
+
+[Pillars of Aerthane.]
+
+The overlooking corner of the stone slab descends into a square auditorium with wide steps suitable for seating. The rows of steps face a white marble topped altar at the center.  A swirled gray and white marble pillar stands at the corner with a supporting trellis connecting it to evenly spaced pillars along the perimeter.  Each pillar has been polished on one side to a brilliant side, with the opposite side facing the valley depicting intricately carved totems of fierce birds of prey.  You notice an arcsilver-veined white marble topped altar.
+
+Also here: Trystan the Human, Champion Blink the Avardi, Aruskin the Avardi, Emissary Ayderias the Avardi (seated) on some wide marble steps, an Aerthanian templar (seated) on some wide marble steps, and Seren the Avardi 
+
+Obvious Exits: east. 
+
+
+Trystan nods to Aruskin.
+
+Trystan says, "Well, lets not advertise this."
+say try three strike system?
+
+You ask Trystan, "Three strike system?"
+
+Trystan chuckles at you.
+cac
+
+You cackle.
+
+Blink says, "Oh well I don't really care. I make an exception for Salus though."
+' one , two , POW
+
+You say, "One , two , POW."
+
+Ayderias gives an ancient hollowed out leather-bound Aerthanian tome to Trystan.
+
+Blink says, "He is the one person I don't want in here."
+
+Blink says, "He is in fact a thunderbird murderer."
+
+Trystan asks, "Has everyone had a chance to look at this?"
+agree try , dreadlocks softly falling over a shoulder ...
+
+You nod your head up and down to Trystan , dreadlocks softly falling over a shoulder ...
+
+Seren nods.
+
+Blink says, "I have not in a long time."
+
+Ayderias takes a drink from a steaming cup of creamed coffee.
+
+Blink says, "Let me see."
+
+Trystan gives an ancient hollowed out leather-bound Aerthanian tome to Blink.
+
+Blink says, "Thanks."
+
+Blink says, "Oh wow."
+
+Blink gives an ancient hollowed out leather-bound Aerthanian tome to Trystan.
+pray detect disease
+
+
+
+You pray to Aerthane for divine sight.
+narr
+squin
+Your eyes begin to glow as you study your surroundings.
+[Delay: 4.0 sec.]
+
+
+You narrow your eyes.
+
+You do not sense any disease.
+
+You squint.
+
+murm softly as she rubs her eyes....
+Your eyes adjust as the divine detection fades.
+
+Currents of air begin to gather around Blink, building a zephyr around the area as Blink's eyes turn a milky white.
+
+You murmur softly as she rubs her eyes....
+
+The soft zephyr fades as Blink's eyes return to normal.
+
+Blink asks you, "See something?"
+nod no
+
+You shake your head from side to side.
+snif
+
+You sniff around.
+l
+
+
+
+[Pillars of Aerthane.]
+
+The overlooking corner of the stone slab descends into a square auditorium with wide steps suitable for seating. The rows of steps face a white marble topped altar at the center.  A swirled gray and white marble pillar stands at the corner with a supporting trellis connecting it to evenly spaced pillars along the perimeter.  Each pillar has been polished on one side to a brilliant side, with the opposite side facing the valley depicting intricately carved totems of fierce birds of prey.  You notice an arcsilver-veined white marble topped altar.
+
+Also here: Trystan the Human, Champion Blink the Avardi, Aruskin the Avardi, Emissary Ayderias the Avardi (seated) on some wide marble steps, an Aerthanian templar (seated) on some wide marble steps, and Seren the Avardi 
+
+Obvious Exits: east. 
+
+
+Ayderias gazes up at the evening sky, frowning slightly at the gloomy sight of clouds.
+
+Seren asks, "Oh what was all the commotion last night?"
+
+Trystan says to Ayderias, "I think you're best suited to treat the tome with the respect it deserves."
+rai ser
+
+You raise an eyebrow at Seren.
+
+Trystan gives an ancient hollowed out leather-bound Aerthanian tome to Ayderias.
+say ser commotions?
+
+You ask Seren, "Commotions?"
+furr
+
+You furrow your brow.
+
+Blink says, "Oh yes. By the way. Both me and Geel were harassed by the Wyvern."
+rai bli
+
+You raise an eyebrow at Blink.
+
+Blink says, "It seemed to be going through my mind and taking memories."
+
+Trystan says to Ayderias, "Though I wouldn't mind if you sent me a note with the design before having it placed."
+shiv
+
+You shiver.
+
+Seren says, "Something about two emmisarries almost comming to blows."
+
+Ayderias says to Trystan, "I will see that it is done."
+pon that
+
+You ponder that.
+
+Trystan glances at Seren.
+
+Blink says, "Oh yeah, that did sound weird."
+
+Ayderias says, "My, sounds like quite the evening."
+
+Seren says, "Interesting anyway."
+
+Trystan says, "O'hara had something stolen I think."
+
+Ayderias asks, "Which Emissaries?"
+' mebbe Visyn and Wren?
+
+You ask, "Mebbe Visyn and Wren?"
+
+Blink says, "Of Itzal and Astraeva was the rumor."
+
+Trystan nods to Blink.
+
+Seren says, "Good lord."
+
+Trystan says, "And Salus was their..."
+
+Trystan gestures and says, "go figure."
+chu
+
+You chuckle.
+
+Blink says, "I can't see Eleanora drawing, and I don't think Wren is that unwise."
+
+Blink shrugs.
+
+Trystan says, "So to a little business."
+nod
+
+You nod.
+
+Trystan says, "Now that the temple is complete, their is one thing that I'd like to see changed or at least discussed."
+
+Trystan points at the trellis.
+listen
+
+You listen.
+l
+
+
+
+[Pillars of Aerthane.]
+
+The overlooking corner of the stone slab descends into a square auditorium with wide steps suitable for seating. The rows of steps face a white marble topped altar at the center.  A swirled gray and white marble pillar stands at the corner with a supporting trellis connecting it to evenly spaced pillars along the perimeter.  Each pillar has been polished on one side to a brilliant side, with the opposite side facing the valley depicting intricately carved totems of fierce birds of prey.  You notice an arcsilver-veined white marble topped altar.
+
+Also here: Trystan the Human, Champion Blink the Avardi, Aruskin the Avardi, Emissary Ayderias the Avardi (seated) on some wide marble steps, an Aerthanian templar (seated) on some wide marble steps, and Seren the Avardi 
+
+Obvious Exits: east. 
+
+scale
+
+Huh?
+list is: 
+l n
+
+You don't see anything that way.
+l ne
+
+You don't see anything that way.
+l e
+
+Looking east you see...
+
+
+[Pillars of Aerthane.]
+
+Two marble busts sit atop pedestals resting between the perimeter of pillars.  Each bust displays detailed sculpting highlighting every facial feature of the immortalized figures.  A framed archway extends between two columns to the east with a stone slab across the top.  To the west, steps descend into an auditorium that overlooks much of the countryside.  You notice a carved marble archway. 
+
+Obvious Exits: west, and south. 
+
+l se
+
+You don't see anything that way.
+l s
+
+You don't see anything that way.
+l sw
+
+You don't see anything that way.
+l w
+
+You don't see anything that way.
+l nw
+
+You don't see anything that way.
+Trystan says, "I'm not fond of the trellis."
+l u
+
+You don't see anything that way.
+l d
+
+You don't see anything that way.
+done - Scanlist = east
+
+
+
+
+
+l
+<HP: 155/155 ST: 120/120><HP: 155/155 ST: 120/120><HP: 155/155 ST: 120/120><HP: 155/155 ST: 120/120>
+
+
+[Pillars of Aerthane.]
+
+The overlooking corner of the stone slab descends into a square auditorium with wide steps suitable for seating. The rows of steps face a white marble topped altar at the center.  A swirled gray and white marble pillar stands at the corner with a supporting trellis connecting it to evenly spaced pillars along the perimeter.  Each pillar has been polished on one side to a brilliant side, with the opposite side facing the valley depicting intricately carved totems of fierce birds of prey.  You notice an arcsilver-veined white marble topped altar.
+
+Also here: Trystan the Human, Champion Blink the Avardi, Aruskin the Avardi, Emissary Ayderias the Avardi (seated) on some wide marble steps, an Aerthanian templar (seated) on some wide marble steps, and Seren the Avardi 
+
+Obvious Exits: east. 
+
+
+Blink peers.
+l trel
+
+You don't see that here!
+chu
+
+You chuckle.
+
+Blink asks, "What's wrong with it?"
+
+Trystan says, "I liked the open air feel myself."
+
+Blink says, "Oh."
+
+Ayderias asks, "Do we not still feel the wind and the rain?"
+
+Blink says, "I'm fine as long as you don't remove the birds."
+grin
+
+You grin.
+
+Ayderias says to Trystan, "Seems easy enough to remove from the tops of the pillars."
+
+Trystan asks, "Any other opinions?"
+
+A small parchment flies in from the east.
+
+Ayderias says, "Though I wouldn't consider it closed in."
+
+Trystan gestures at Aruskin.
+stand
+
+You stand up.
+e
+
+
+[Pillars of Aerthane.]
+
+Two marble busts sit atop pedestals resting between the perimeter of pillars.  Each bust displays detailed sculpting highlighting every facial feature of the immortalized figures.  A framed archway extends between two columns to the east with a stone slab across the top.  To the west, steps descend into an auditorium that overlooks much of the countryside.  You notice a carved marble archway.
+
+Also here: Salus the Vukasin 
+
+Obvious Exits: west, and south. 
+
+
+Blink arrives from the west.
+
+Salus throws a lead-filled brass paperweight to the west.
+foll sal
+
+You follow Salus.
+
+Salus says, "Is hi, is show letter."
+
+Salus says, "Is go back to gate."
+
+Salus leaves south.
+You follow Salus south.
+
+
+[Pillars of Aerthane.]
+
+Tiered ceilings of marble cascade into a vaulted dome over the entrance.  The square foyer extends separately from the white tower with no connecting doorways.  The north and south walls are arched from corner to corner, allowing the wind to pass through freely.  You notice an open white oak door.
+
+Also here: Salus the Vukasin 
+
+Obvious Exits: south, and north. 
+
+
+Salus leaves through a white oak door.
+You follow Salus west.
+
+
+[Aerthane Path.]
+
+Pillars swirled with gray and white marble extend out across a smooth stone platform atop the hill.  The slab of stone rises several feet from the earth, with a wide staircase leading upto a small enclosed entrance.  At its center, a white stone tower rises from the pillars.  You notice an open white oak door.
+
+Also here: Salus the Vukasin 
+
+Obvious Exits: west. 
+
+
+Grey and gloomy clouds obscure the sky.
+
+Salus asks, "Is come?"
+foll sal
+
+You are already a member of Salus's group!
+nod
+
+You nod.
+
+Salus nods.
+
+Salus leaves west.
+You follow Salus west.
+
+
+[Aerthane Path.]
+
+The climb up the mountain ends at a slight incline directly into the heart of its peak.  A wide stone platform levels the summit, providing a solid base for tall, marble pillars surrounding a gleaming, white tower.  To the southwest, the faint outlines of a large port city are visible through the fog that often creeps along the valley floor.
+
+Also here: Salus the Vukasin 
+
+Obvious Exits: east, and south. 
+
+
+Salus leaves south.
+You follow Salus south.
+
+
+[Aerthane Path.]
+
+Evenly paired and spaced carved marble monuments line the road in its ascent to the summit.  In addition to smooth pillars, totems of fierce birds face outward, overlooking the valley.  A tall white tower can be seen further up the path as it curves back into the hillside.
+
+Also here: a gray-robed priest, and Salus the Vukasin 
+
+Obvious Exits: southeast, and north. 
+
+
+Salus leaves southeast.
+You follow Salus southeast.
+
+
+[Aerthane Path, Entrance.]
+
+The road curves sharply around the southern edge of the hilltop.  The view of the countryside is checkered with patches of crops and fields for livestock.  Marble pillars on either side of the road contain no markings or etchings of any kind.  They have only a smooth cylindrical appearance.  You notice some smooth cylindrical marble columns.
+
+Also here: Salus the Vukasin 
+
+Obvious Exits: northwest, and east. 
+
+
+Salus leaves east.
+You follow Salus east.
+
+
+[Hillside Trail.]
+
+The connecting trail between the path to the west and the downward slope to the east provides travelers with a brief, leveled spot to catch their breaths.  Dogwood trees seasonally bloom roadside on a narrow strip of flat terrain.  Mountains to the east block the sun's early morning rays from view.
+
+Also here: Salus the Vukasin 
+
+Obvious Exits: west, and east. 
+
+foll sal
+
+You are already a member of Salus's group!
+
+Salus leaves east.
+You follow Salus east.
+
+
+[Hillside Trail.]
+
+The trail wraps around the hillside with its edge yielding to a sharp drop off down the hill into the valley.  A pair of columns to the west stand high over an entrance to a path well-tended in comparison to the hillside trail.  A white tower looms overhead.
+
+Also here: Salus the Vukasin 
+
+Obvious Exits: northeast, and west. 
+
+
+Salus leaves northeast.
+You follow Salus northeast.
+
+
+[Hillside Trail.]
+
+Rocky terrain extends outward from the outer walls of the lower cliff.  It narrows into jagged spires that form a natural defense against climbers.  Weathered boards bound by tattered rope lay across a small gap in the ridge.  An aged white oak leans away from the hillside with its roots strongly secured, as if offering an assisting hand to those in need.  You notice a leaning white oak tree, and a wooden property marker.
+
+Also here: Salus the Vukasin 
+
+Obvious Exits: southwest, and northeast. 
+
+
+Salus leaves northeast.
+You follow Salus northeast.
+
+
+[Hillside Trail.]
+
+The path narrows with each passing incline, making travel for anything larger than a mule difficult.  The inner face of the hill leans heavily against the road's edge.  White oak trees lie sporadically placed from summit to valley.
+
+Also here: Salus the Vukasin 
+
+Obvious Exits: southwest, and northwest. 
+
+foll sal
+
+You are already a member of Salus's group!
+diag
+
+Xiija's group:
+
+Salus is in perfect health and is fully rested.
+Xiija is in perfect health and is fully rested.
+
+<HP: 155/155 ST: 120/120>
+Salus leaves northwest.
+You follow Salus northwest.
+
+
+[Hillside Trail.]
+
+A crooked set of fence posts, set into the outer edge of the road, support wooden cross beams designed to protect travelers from the steep drop-off created by the bend in the path.  To the east, a dense forest surrounds white-capped mountains.
+
+Also here: Salus the Vukasin 
+
+Obvious Exits: southeast, and northwest. 
+
+
+Salus leaves northwest.
+You follow Salus northwest.
+
+
+[Hillside Trail, Intersection.]
+
+A smooth dirt trail widens slightly in its descent west, and begins to narrow as it continues up the small mound of earth.  Despite being well-tended to, the road lacks any signs of heavy travel.  A narrow path forks off into the hillside toward a cedar lodge.
+
+Also here: Salus the Vukasin 
+
+Obvious Exits: southeast, west, and south. 
+
+
+Salus leaves west.
+You follow Salus west.
+
+
+[Hillside Trail.]
+
+A dense forest of evergreens to the north conceals the base of snow-capped mountains rising behind them.  The sloping hillside rolls into a sea of tall grass that protests loudly with each passing gust of wind.  A roadside fence to the west leads toward the valley road.
+
+Also here: Salus the Vukasin 
+
+Obvious Exits: west, and east. 
+
+
+Salus leaves west.
+You follow Salus west.
+
+
+[Hillside Trail.]
+
+Lush green fields of grass, mixed with patches of pale yellow wheat, extend in all directions.  The road is void of rocks or holes, yet shows little sign of traffic.  A white fence on either side of the road slopes to an end, yielding to the elevated landscape to the east.
+
+Also here: Salus the Vukasin 
+
+Obvious Exits: southwest, and east. 
+
+
+Salus leaves southwest.
+You follow Salus southwest.
+
+
+[Hillside Trail.]
+
+Colorful wildflowers grow in between the posts supporting a white fence that runs along side the trail toward the gated entrance.  A large mound of earth appears more like a hill than mountain compared to the towering snowcapped peaks to the east.
+
+Also here: Salus the Vukasin 
+
+Obvious Exits: southwest, and northeast. 
+
+
+Salus leaves southwest.
+You follow Salus southwest.
+
+
+[Aerthane Hill, Gate.]
+
+A white wooden fence at the edge of both sides of the road divides the smooth, compacted dirt from the grassy foothills extending in either direction.  The path ascends around a steeper hill toward a structure at its summit.  You notice an open white painted iron gate.
+
+Also here: Salus the Vukasin 
+
+Obvious Exits: northeast. 
+
+
+Salus leaves through a white painted iron gate.
+You follow Salus southwest.
+
+
+[Dalarey Road.]
+
+A smooth dirt path parts the grassy foothills, leading up a small mountain to a stone structure at its peak.  The path's entrance shows signs of being maintained.  The fence posts bordering the road are painted white, with a matching painted iron gate crossing the path.  You notice an open white painted iron gate.
+Aerthane Gate ( aer2 to go to pearl)
+
+Also here: Salus the Vukasin 
+
+Obvious Exits: northwest, and south. 
+
+nod
+
+You nod.
+
+who
+[ARRIVALS] 'Malvyr has logged on.'
+   Players Currently Online: 
+ =============================
+
+   Seren the Avardi                                            
+   Jerem the Human                                             
+   Yiri the Goblin                                             
+   Xiija the Sylph                                             
+   Flynt the Sylph                                             
+   Salus the Vukasin                                           
+   Geel the Gavial                                             
+   Blink the Avardi                                            
+   Kaiah the Human                                             
+   Rochiriel the Verdani                                       
+   Garaven the Verdani                                         
+   Trystan the Human                                           
+   Aruskin the Avardi                                          
+   Ayderias the Avardi                                         
+   Wren the Human                                              
+   Malvyr the Gargoyle                                         
+
+
+Salus nods.
+whisp sal i may have work for you someday
+
+You whisper to Salus, "I may have work for you someday.".
+wink
+
+You wink.
+leave
+
+You stop following Salus.
+go gate
+
+
+
+[Aerthane Hill, Gate.]
+
+A white wooden fence at the edge of both sides of the road divides the smooth, compacted dirt from the grassy foothills extending in either direction.  The path ascends around a steeper hill toward a structure at its summit.  You notice an open white painted iron gate.
+
+Obvious Exits: northeast. 
+
+clo gate
+
+You close a white painted iron gate.
+loc gate
+
+You lock a white painted iron gate.
+fly
+
+curse in Sylvan.
+stand
+fly
+You attempt to launch into flight, but stumble and fall down.
+You curse in Sylvan.
+
+You stand up.
+
+curse in Sylvan.
+stand
+fly
+You attempt to launch into flight, but stumble and fall down.
+You curse in Sylvan.
+
+You stand up.
+
+ne
+ne
+emo fans her multicolored wings swiftly, hovering...
+You launch into the air with a powerful downward thrust of your wings.
+
+
+
+[Hillside Trail.]
+
+Colorful wildflowers grow in between the posts supporting a white fence that runs along side the trail toward the gated entrance.  A large mound of earth appears more like a hill than mountain compared to the towering snowcapped peaks to the east.
+Colorful wildflowers grow in between the posts supporting a white fence that runs along side the trail toward the gated entrance.  A large mound of earth appears more like a hill than mountain compared to the towering snowcapped peaks to the east.
+Colorful wildflowers grow in between the posts supporting a white fence that runs along side the trail toward the gated entrance.  A large mound of earth appears more like a hill than mountain compared to the towering snowcapped peaks to the east.
+
+Obvious Exits: southwest, and northeast. 
+
+Xiija fans her multicolored wings swiftly, hovering...
+e
+
+
+[Hillside Trail.]
+
+Lush green fields of grass, mixed with patches of pale yellow wheat, extend in all directions.  The road is void of rocks or holes, yet shows little sign of traffic.  A white fence on either side of the road slopes to an end, yielding to the elevated landscape to the east.
+
+Obvious Exits: southwest, and east. 
+
+e
+se
+
+
+[Hillside Trail.]
+
+A dense forest of evergreens to the north conceals the base of snow-capped mountains rising behind them.  The sloping hillside rolls into a sea of tall grass that protests loudly with each passing gust of wind.  A roadside fence to the west leads toward the valley road.
+
+Obvious Exits: west, and east. 
+
+se
+
+
+[Hillside Trail, Intersection.]
+
+A smooth dirt trail widens slightly in its descent west, and begins to narrow as it continues up the small mound of earth.  Despite being well-tended to, the road lacks any signs of heavy travel.  A narrow path forks off into the hillside toward a cedar lodge.
+
+Obvious Exits: southeast, west, and south. 
+
+
+
+
+[Hillside Trail.]
+
+A crooked set of fence posts, set into the outer edge of the road, support wooden cross beams designed to protect travelers from the steep drop-off created by the bend in the path.  To the east, a dense forest surrounds white-capped mountains.
+
+Obvious Exits: southeast, and northwest. 
+
+
+
+
+[Hillside Trail.]
+
+The path narrows with each passing incline, making travel for anything larger than a mule difficult.  The inner face of the hill leans heavily against the road's edge.  White oak trees lie sporadically placed from summit to valley.
+
+Obvious Exits: southwest, and northwest. 
+
+sw
+
+
+
+[Hillside Trail.]
+
+Rocky terrain extends outward from the outer walls of the lower cliff.  It narrows into jagged spires that form a natural defense against climbers.  Weathered boards bound by tattered rope lay across a small gap in the ridge.  An aged white oak leans away from the hillside with its roots strongly secured, as if offering an assisting hand to those in need.  You notice a leaning white oak tree, and a wooden property marker.
+
+Obvious Exits: southwest, and northeast. 
+
+sw
+
+
+[Hillside Trail.]
+
+The trail wraps around the hillside with its edge yielding to a sharp drop off down the hill into the valley.  A pair of columns to the west stand high over an entrance to a path well-tended in comparison to the hillside trail.  A white tower looms overhead.
+
+Obvious Exits: northeast, and west. 
+
+w
+
+
+
+[Hillside Trail.]
+
+The connecting trail between the path to the west and the downward slope to the east provides travelers with a brief, leveled spot to catch their breaths.  Dogwood trees seasonally bloom roadside on a narrow strip of flat terrain.  Mountains to the east block the sun's early morning rays from view.
+
+Obvious Exits: west, and east. 
+
+n
+
+You can't go that way.
+e
+
+
+[Hillside Trail.]
+
+The trail wraps around the hillside with its edge yielding to a sharp drop off down the hill into the valley.  A pair of columns to the west stand high over an entrance to a path well-tended in comparison to the hillside trail.  A white tower looms overhead.
+
+Obvious Exits: northeast, and west. 
+
+w
+
+
+
+[Hillside Trail.]
+
+The connecting trail between the path to the west and the downward slope to the east provides travelers with a brief, leveled spot to catch their breaths.  Dogwood trees seasonally bloom roadside on a narrow strip of flat terrain.  Mountains to the east block the sun's early morning rays from view.
+
+Obvious Exits: west, and east. 
+
+w
+
+
+
+[Aerthane Path, Entrance.]
+
+The road curves sharply around the southern edge of the hilltop.  The view of the countryside is checkered with patches of crops and fields for livestock.  Marble pillars on either side of the road contain no markings or etchings of any kind.  They have only a smooth cylindrical appearance.  You notice some smooth cylindrical marble columns.
+
+Obvious Exits: northwest, and east. 
+
+nw
+
+
+
+[Aerthane Path.]
+
+Evenly paired and spaced carved marble monuments line the road in its ascent to the summit.  In addition to smooth pillars, totems of fierce birds face outward, overlooking the valley.  A tall white tower can be seen further up the path as it curves back into the hillside.
+
+Also here: a gray-robed priest 
+
+Obvious Exits: southeast, and north. 
+
+nw
+
+You can't go that way.
+n
+
+
+
+[Aerthane Path.]
+
+The climb up the mountain ends at a slight incline directly into the heart of its peak.  A wide stone platform levels the summit, providing a solid base for tall, marble pillars surrounding a gleaming, white tower.  To the southwest, the faint outlines of a large port city are visible through the fog that often creeps along the valley floor.
+
+Obvious Exits: east, and south. 
+
+e
+
+
+
+[Aerthane Path.]
+
+Pillars swirled with gray and white marble extend out across a smooth stone platform atop the hill.  The slab of stone rises several feet from the earth, with a wide staircase leading upto a small enclosed entrance.  At its center, a white stone tower rises from the pillars.  You notice an open white oak door.
+
+Obvious Exits: west. 
+
+e
+
+
+
+[Pillars of Aerthane.]
+
+Tiered ceilings of marble cascade into a vaulted dome over the entrance.  The square foyer extends separately from the white tower with no connecting doorways.  The north and south walls are arched from corner to corner, allowing the wind to pass through freely.  You notice an open white oak door.
+
+Obvious Exits: south, and north. 
+
+n
+
+
+
+[Pillars of Aerthane.]
+
+Two marble busts sit atop pedestals resting between the perimeter of pillars.  Each bust displays detailed sculpting highlighting every facial feature of the immortalized figures.  A framed archway extends between two columns to the east with a stone slab across the top.  To the west, steps descend into an auditorium that overlooks much of the countryside.  You notice a carved marble archway.
+
+Obvious Exits: west, and south. 
+
+
+Grey and gloomy clouds obscure the sky.
+w
+
+
+
+[Pillars of Aerthane.]
+
+The overlooking corner of the stone slab descends into a square auditorium with wide steps suitable for seating. The rows of steps face a white marble topped altar at the center.  A swirled gray and white marble pillar stands at the corner with a supporting trellis connecting it to evenly spaced pillars along the perimeter.  Each pillar has been polished on one side to a brilliant side, with the opposite side facing the valley depicting intricately carved totems of fierce birds of prey.  You notice an arcsilver-veined white marble topped altar, and a lead-filled brass paperweight.
+
+Also here: Trystan the Human, Aruskin the Avardi, Emissary Ayderias the Avardi (seated) on some wide marble steps, an Aerthanian templar (seated) on some wide marble steps, Seren the Avardi, and Champion Blink the Avardi 
+
+Obvious Exits: east. 
+
+murm
+
+You murmur.
+land
+
+Ayderias says to Seren, "Many an Avardi has gone mad trying to study the reasoning behind a goblin's decisions."
+stand
+touch alt
+
+You touch an arcsilver-veined white marble topped altar.
+emo curses softly, shaking her multicolored wings into order...
+furl angrily.
+Xiija curses softly, shaking her multicolored wings into order...
+You furl your wings angrily.
+sit
+
+You sit down.
+
+who
+[ARRIVALS] 'Rochiriel has logged out.'
+
+   Players Currently Online: 
+ =============================
+
+   Seren the Avardi                                            
+   Jerem the Human                                             
+   Yiri the Goblin                                             
+   Xiija the Sylph                                             
+   Flynt the Sylph                                             
+   Salus the Vukasin                                           
+   Geel the Gavial                                             
+   Blink the Avardi                                            
+   Kaiah the Human                                             
+   Garaven the Verdani                                         
+   Trystan the Human                                           
+   Aruskin the Avardi                                          
+   Ayderias the Avardi                                         
+   Wren the Human                                              
+   Malvyr the Gargoyle                                         
+
+
+Blink says, "I doubt it's a coincidence they are both here."
+
+Blink says, "Both thieves and known harassers of Itzal."
+
+Blink shrugs.
+
+Trystan says, "I found it odd that Wren and Kaiah were getting along so well with Salus yesterday."
+nod
+
+You nod.
+
+Blink asks, "Actually, wasn't Yiri in trouble with the knights?"
+
+Trystan asks, "Itzal saves the day?"
+
+Blink asks, "Over that Verdani thing?"
+lean temp
+
+You lean on an Aerthanian templar.
+
+Trystan nods to Blink.
+
+Trystan says, "Anyway."
+
+Seren says, "He stole a basket I think."
+
+Trystan says, "In the construction the temple donation box was moved to the atrium I think. I'd like to see it at the front door, again, this is open for discussion."
+nod
+
+You nod.
+' inside or outside?
+
+You ask, "Inside or outside?"
+
+Trystan says, "Inside."
+nod
+
+You nod.
+' soubds good
+
+You say, "Soubds good."
+hic
+
+You hiccup.
+
+Blink says, "Yeah it should be easy to find."
+
+Blink nods.
+l
+
+
+
+[Pillars of Aerthane.]
+
+The overlooking corner of the stone slab descends into a square auditorium with wide steps suitable for seating. The rows of steps face a white marble topped altar at the center.  A swirled gray and white marble pillar stands at the corner with a supporting trellis connecting it to evenly spaced pillars along the perimeter.  Each pillar has been polished on one side to a brilliant side, with the opposite side facing the valley depicting intricately carved totems of fierce birds of prey.  You notice an arcsilver-veined white marble topped altar, and a lead-filled brass paperweight.
+
+Also here: Trystan the Human, Aruskin the Avardi, Emissary Ayderias the Avardi (seated) on some wide marble steps, an Aerthanian templar (seated) on some wide marble steps, Seren the Avardi, and Champion Blink the Avardi 
+
+Obvious Exits: east. 
+
+
+Ayderias nods to Blink.
+
+Blink says, "Maybe even a sign."
+
+Trystan says, "I died a little when Aruskin asked about it last time."
+
+Ayderias asks, "It is warded, yes?"
+
+Trystan grins at Aruskin.
+
+Trystan says, "No."
+furr
+
+You furrow your brow.
+
+Trystan says, "I asked for it to be, but it isn't."
+
+Ayderias asks, "Anyone can get something from it?"
+
+Trystan says, "Unless something has changed, yes."
+
+Trystan asks, "Shall I invite Salus up to test it?"
+
+Blink takes a bite of some buttered sage carrots.
+smir
+
+You smirk.
+
+Aruskin chuckles.
+
+Trystan smirks.
+
+who
+[ARRIVALS] 'Garaven has logged out.'
+   Players Currently Online: 
+ =============================
+
+   Seren the Avardi                                            
+   Jerem the Human                                             
+   Yiri the Goblin                                             
+   Xiija the Sylph                                             
+   Flynt the Sylph                                             
+   Salus the Vukasin                                           
+   Geel the Gavial                                             
+   Blink the Avardi                                            
+   Kaiah the Human                                             
+   Trystan the Human                                           
+   Aruskin the Avardi                                          
+   Ayderias the Avardi                                         
+   Wren the Human                                              
+   Malvyr the Gargoyle                                         
+
+
+Trystan says, "Or just ask him, he probably already has the answer."
+
+Trystan gestures.
+pray detect disease
+
+
+
+You pray to Aerthane for divine sight.
+narr
+squin
+Your eyes begin to glow as you study your surroundings.
+[Delay: 4.0 sec.]
+
+
+You narrow your eyes.
+
+You do not sense any disease.
+
+You squint.
+
+murm softly as she rubs her eyes....
+Your eyes adjust as the divine detection fades.
+
+You murmur softly as she rubs her eyes....
+l
+
+
+
+[Pillars of Aerthane.]
+
+The overlooking corner of the stone slab descends into a square auditorium with wide steps suitable for seating. The rows of steps face a white marble topped altar at the center.  A swirled gray and white marble pillar stands at the corner with a supporting trellis connecting it to evenly spaced pillars along the perimeter.  Each pillar has been polished on one side to a brilliant side, with the opposite side facing the valley depicting intricately carved totems of fierce birds of prey.  You notice an arcsilver-veined white marble topped altar, and a lead-filled brass paperweight.
+
+Also here: Trystan the Human, Aruskin the Avardi, Emissary Ayderias the Avardi (seated) on some wide marble steps, an Aerthanian templar (seated) on some wide marble steps, Seren the Avardi, and Champion Blink the Avardi 
+
+Obvious Exits: east. 
+
+
+Currents of air begin to gather around Blink, building a zephyr around the area as Blink's eyes turn a milky white.
+
+The soft zephyr fades as Blink's eyes return to normal.
+rai bli
+
+You raise an eyebrow at Blink.
+
+Blink says, "Nothing."
+nod
+
+You nod.
+
+Trystan says, "And the last architectural item is a locked door I'd like moved just a touch... and perhaps a peek inside."
+
+A light snow falls from the sky.
+A light snow falls from the sky.
+Snowflakes fall lightly on you.
+
+Trystan glances up.
+shiv
+
+You shiver.
+
+Trystan smiles softly.
+
+Trystan says, "Nice winter."
+
+Blink asks, "Oh yeah can we tour your office?"
+
+Aruskin ponders.
+l paper
+
+It looks like a lead-filled brass paperweight.
+
+Trystan says to Blink, "If you can get in, I'm all for it."
+smir
+
+You smirk.
+
+Aruskin says to Trystan, "Y'know, if we had a door to this area, we could close it for meetings."
+
+Blink asks, "You can't get in? Or you won't let tour it?"
+nod aru
+
+You nod to Aruskin.
+
+Aruskin says to Trystan, "Then we'd know if someone tried to sneak in."
+
+Ayderias asks Trystan, "I thought you elected against an office for the Prelate?"
+
+Trystan says to Blink, "It's locked."
+
+Trystan says to Ayderias, "I'm still curious as to what's on the other side."
+
+Trystan grins at Ayderias.
+
+Blink says, "Yeah that makes us wonder what is in there if there was no office of a Prelate."
+
+Blink says, "Weird."
+
+Ayderias says, "I wish I knew. Given the position in the tower, it can't be more than a cramped alcove."
+
+Blink says, "Probably more bird real estate."
+
+Trystan chuckles.
+hum
+
+You hum.
+
+Ayderias asks Trystan, "Are you planning to have Ernest move the chest?"
+
+Ayderias says, "If so you may wish to ask him to rekey the lock."
+
+Trystan nods to Ayderias.
+
+Trystan asks Ayderias, "Who has the key?"
+l
+
+
+
+[Pillars of Aerthane.]
+
+The overlooking corner of the stone slab descends into a square auditorium with wide steps suitable for seating. The rows of steps face a white marble topped altar at the center.  A swirled gray and white marble pillar stands at the corner with a supporting trellis connecting it to evenly spaced pillars along the perimeter.  Each pillar has been polished on one side to a brilliant side, with the opposite side facing the valley depicting intricately carved totems of fierce birds of prey.  You notice an arcsilver-veined white marble topped altar, and a lead-filled brass paperweight.
+
+Also here: Trystan the Human, Aruskin the Avardi, Emissary Ayderias the Avardi (seated) on some wide marble steps, an Aerthanian templar (seated) on some wide marble steps, Seren the Avardi, and Champion Blink the Avardi 
+
+Obvious Exits: east. 
+
+
+Ayderias says to Trystan, "I'm not sure anyone does."
+
+Trystan glances at Aruskin and says, "You don't always notice a door opening or closing."
+
+Trystan nods to Ayderias.
+
+Ayderias says, "A grand quest to find it then."
+
+Trystan chuckles.
+
+Blink grins.
+
+Trystan says, "Just what I need."
+
+Trystan points at you.
+grunt
+
+You grunt.
+
+Seren says, "Maybe any key fits."
+
+Trystan says to you, "Your coming too."
+
+Trystan shakes his head from side to side.
+chu
+
+You chuckle.
+
+Trystan says, "I tried all mine."
+
+Trystan says, "Okay then."
+
+Seren nods.
+
+Ayderias ponders.
+
+Trystan asks, "Anyone have anything before Ayderias?"
+
+Blink says, "Yeah I got something briefly."
+
+Trystan nods to Blink.
+
+Blink says, "It appears Kiriath may not be returning for at least half a year. It sounded like a long long time."
+nod softly
+
+You nod softly.
+who
+
+   Players Currently Online: 
+ =============================
+
+   Seren the Avardi                                            
+   Jerem the Human                                             
+   Yiri the Goblin                                             
+   Xiija the Sylph                                             
+   Flynt the Sylph                                             
+   Salus the Vukasin                                           
+   Geel the Gavial                                             
+   Blink the Avardi                                            
+   Kaiah the Human                                             
+   Trystan the Human                                           
+   Aruskin the Avardi                                          
+   Ayderias the Avardi                                         
+   Wren the Human                                              
+   Malvyr the Gargoyle                                         
+
+
+Aruskin raises an eyebrow.
+
+Ayderias says, "That is a shame. She has a way of bringing us together."
+nod ayd
+
+You nod to Ayderias.
+
+Trystan removes a hollow spiral-routed silverwood staff.
+
+Blink says, "Her grandma is a bit nuts."
+
+Trystan sits on some wide marble steps.
+
+Blink says, "She is keeping her locked up basically."
+win
+
+You wince.
+
+Trystan fidgets at some falcon feather-adorned ivory prayer beads.
+
+Ayderias says to Blink, "The details aren't important. I'm sure we all wish her a swift return."
+nod
+
+You nod.
+
+Aruskin asks, "Who was our candidate for the Conclave?"
+' Aerthane be with her
+
+You say, "Aerthane be with her."
+say aru you are now
+
+You say to Aruskin, "You are now."
+appl aru
+
+You applaud Aruskin.
+
+Trystan glances at Aruskin and says, "it was Kiriath."
+
+Aruskin says to you, "No, you."
+cac
+
+You cackle.
+rai ser 
+appl ser
+
+You raise an eyebrow at Seren.
+You applaud Seren.
+
+Aruskin says to Trystan, "Seriously, I'd suggest Xiija as our candidate."
+smir
+
+You smirk.
+
+Seren says, "Id get too angry."
+
+Ayderias says, "That is something I wished to bring up given Kiriath's absence."
+grin ser
+
+You grin at Seren.
+
+Trystan says to Aruskin, "Then you can seriously convince her."
+
+Aruskin says to you, "What's the problem, they'll never let you in."
+' what about a lawyer emissary? 
+glan bli
+
+who
+[ARRIVALS] 'Alexis has logged on.'
+You ask, "What about a lawyer emissary?"
+You glance at Blink.
+   Players Currently Online: 
+ =============================
+
+   Seren the Avardi                                            
+   Jerem the Human                                             
+   Yiri the Goblin                                             
+   Xiija the Sylph                                             
+   Flynt the Sylph                                             
+   Salus the Vukasin                                           
+   Geel the Gavial                                             
+   Blink the Avardi                                            
+   Kaiah the Human                                             
+   Trystan the Human                                           
+   Aruskin the Avardi                                          
+   Ayderias the Avardi                                         
+   Wren the Human                                              
+   Malvyr the Gargoyle                                         
+   Alexis the Human                                            
+
+
+Aruskin says to you, "Just give you a great chance to tell them what you think of them."
+chu
+
+You chuckle.
+
+Trystan gestures and says, "She does that now."
+' it's politics, we need a lawyer
+
+You say, "It's politics, we need a lawyer."
+
+Trystan winks at you.
+poi bli
+
+You point at Blink.
+grin
+
+You grin.
+
+Aruskin says to Trystan, "And after the way they treated Kiriath, they deserve it."
+
+Trystan nods to Aruskin.
+chu aru
+
+You chuckle at Aruskin.
+
+Blink says, "I'm hesitant to do the work, but I'll apply if no one else will."
+appl bli
+
+You applaud Blink.
+how
+
+You howl.
+l
+
+
+
+[Pillars of Aerthane.]
+
+The overlooking corner of the stone slab descends into a square auditorium with wide steps suitable for seating. The rows of steps face a white marble topped altar at the center.  A swirled gray and white marble pillar stands at the corner with a supporting trellis connecting it to evenly spaced pillars along the perimeter.  Each pillar has been polished on one side to a brilliant side, with the opposite side facing the valley depicting intricately carved totems of fierce birds of prey.  You notice an arcsilver-veined white marble topped altar, and a lead-filled brass paperweight.
+
+Also here: Trystan the Human (seated) on some wide marble steps, Aruskin the Avardi, Emissary Ayderias the Avardi (seated) on some wide marble steps, an Aerthanian templar (seated) on some wide marble steps, Seren the Avardi, and Champion Blink the Avardi 
+
+Obvious Exits: east. 
+
+
+Ayderias says, "It would be to our advantage to send someone, even if we know the result may be no."
+
+Trystan asks Ayderias, "Is there any rules against a convicted criminal on Conclave?"
+Blink says, "I think it's too late to mount a serious attempt this month."
+
+Ayderias says, "That someone could always step down if Kiriath returned or another stepped forward."
+say bli yer kind famous already, mebbe you will only have to wait two months
+
+You say to Blink, "Yer kind famous already, mebbe you will only have to wait two months."
+chu
+
+You chuckle.
+
+Blink says, "Whoever goes needs to go to every Emissary hours."
+
+Blink says, "First."
+nod bli
+
+Ayderias says to Blink, "Actually, I would going to suggest the opposite."
+You nod to Blink.
+rai ayd
+
+You raise an eyebrow at Ayderias.
+
+Blink says to Ayderias, "They'll say we didn't put the work in. I recall Eleanora voting to allow Kiriath a vote simply because she HAD put the work in."
+
+Ayderias says, "Emissary Fairuz-Taqqi rarely holds office hours and has been known to skip the open meetings only to attend the close door sessions to ensure her vote is cast."
+pon
+
+You ponder.
+
+Trystan says to Blink, "It depends on who you are."
+
+Blink nods to Ayderias.
+
+Trystan says to Ayderias, "Another flaw in the system."
+
+Blink says to Ayderias, "Yes and so far Conclave rules allow such chicanery."
+
+Ayderias says to Trystan, "Or an opportunity."
+
+Blink raises an eyebrow.
+
+Ayderias says, "Those among us tonight may not be interested in politics, so this flaw in the system could also be your escape from it."
+
+Trystan says to Ayderias, "Only for corruptness."
+
+Ayderias says, "What matters is being represented to the best of our ability."
+
+Aruskin ponders.
+
+Trystan asks, "And how do you see that happening?"
+
+Aruskin says, "I'm not sure that's true."
+
+Blink says, "My cocnern is that not visting the Emimssaries before applying will ruin our already slim chances."
+
+Ayderias says to Aruskin, "Another voice in our favor right now could allow us to push through some ideas we've been discussing as a temple."
+
+Trystan raises an eyebrow.
+
+Trystan asks, "What ideas are those?"
+
+Aruskin asks Ayderias, "Which ideas?"
+pon
+
+You ponder.
+
+Ayderias says to Blink, "You're likely right. There is that work to be put in. It all depends on the candidate."
+
+Aruskin says to Ayderias, "I've been to the last few meetings, don't recall any."
+
+Trystan says to Blink, "And Faran hates you."
+
+Trystan grins at Aruskin.
+
+Blink asks Ayderias, "So you'd agree that in two months would be better?"
+
+Trystan asks Blink, "Are you willing to apply?"
+pray detect disease
+
+
+
+You pray to Aerthane for divine sight.
+narr
+squin
+Your eyes begin to glow as you study your surroundings.
+[Delay: 4.0 sec.]
+
+
+You narrow your eyes.
+
+You do not sense any disease.
+
+You squint.
+
+murm softly as she rubs her eyes....
+Your eyes adjust as the divine detection fades.
+
+You murmur softly as she rubs her eyes....
+
+Ayderias says to Aruskin, "There's always ideas floating about. There's been support building for a pantheon that operated outside the conclave."
+
+Blink says, "I'm willing if no one else is. I'm not exactly eager anymore."
+
+Aruskin chuckles.
+nod ayd
+
+You nod to Ayderias.
+
+Trystan nods to Blink.
+
+Aruskin asks Ayderias, "And you think the Conclave would be persuaded to agree to this idea?"
+
+Ayderias says to Blink, "I think you'd be a great fit, but a poor candidate."
+
+Trystan chuckles.
+
+Aruskin asks Ayderias, "It would vote to relinquish power?"
+
+Trystan asks, "No rules against a convicted criminal applying?"
+
+Ayderias says to Aruskin, "No of course not."
+
+Blink says, "Wren is a criminal."
+
+Blink says, "So no."
+
+Blink says, "I asked our Emissary about that months ago."
+
+Blink gestures at Ayderias.
+
+Trystan asks Blink, "I know she's a liar, but is she a convicted criminal?"
+
+Seren says, "Yes she is."
+
+Ayderias says to Aruskin, "Our Prelate could give you more details on the purpose behind the pantheon. It's just one example of an idea that needs more support to become a reality."
+Blink says, "It is possible though that me applying could get cause Nikolas to join."
+
+Blink says, "As we are both former traitors."
+pon
+
+You ponder.
+
+Aruskin says to Ayderias, "My point is the Conclave would never approve a Pantheon that had any real power."
+
+Aruskin says, "Never."
+
+Ayderias says to Blink, "That would hurt you individually with each vote, but not rule you out completely."
+
+Ayderias says to Aruskin, "As I often have to explain to those in conclave, these things must be done in stages to accomplish the larger goal."
+nod  thoughtfully
+
+You nod thoughtfully.
+
+Ayderias says, "All that matters is establishing it first."
+
+Ayderias says, "All that mattered was getting the opportunity to govern our own religious lands."
+
+Trystan says, "That will be done by the temple leaders, not conclave."
+
+Trystan says, "But to Blink."
+
+Aruskin says, "Institutions can be relied upon not to commit suicide."
+
+Trystan says to Blink, "You must want this, brother."
+
+Trystan glances at Aruskin and grins.
+
+Blink says, "I expect the vote to fail."
+
+Trystan says, "I don't."
+
+It is no longer snowing.
+
+Ayderias says to Trystan, "At some point you will need conclave to recognize the pantheon."
+nod
+
+You nod.
+
+Trystan says, "I will need them to approve a building that their temple leaders are behind."
+
+Ayderias says to you, "My dear, I believe you would be our best hope presently."
+chu  impishly, rubbing her nose...
+
+You chuckle impishly, rubbing her nose...
+
+Aruskin grins.
+say ayd frighten em to death?
+
+You ask Ayderias, "Frighten em to death?"
+
+Ayderias says to you, "You would get votes Blink could not."
+
+Trystan raises an eyebrow at Ayderias.
+pon
+
+You ponder.
+' mebbe different ones, but not more
+
+You say, "Mebbe different ones, but not more."
+chu
+
+You chuckle.
+
+Trystan says to Blink, "Is established."
+' an HE just opend a huge Lodge
+
+You say, "An HE just opend a huge Lodge."
+grin bli
+
+You grin at Blink.
+
+Ayderias says to Blink, "I would certainly not discourage you from trying."
+
+Trystan says, "I don't see Xiija being approved because of a simple lack of experience."
+say ayd would it look strong, or weak if we ALL applied?
+
+You ask Ayderias, "Would it look strong, or weak if we ALL applied?"
+
+who
+[ARRIVALS] 'Yiri has logged out.'
+   Players Currently Online: 
+ =============================
+
+   Seren the Avardi                                            
+   Jerem the Human                                             
+   Xiija the Sylph                                             
+   Flynt the Sylph                                             
+   Salus the Vukasin                                           
+   Geel the Gavial                                             
+   Blink the Avardi                                            
+   Kaiah the Human                                             
+   Trystan the Human                                           
+   Aruskin the Avardi                                          
+   Ayderias the Avardi                                         
+   Wren the Human                                              
+   Malvyr the Gargoyle                                         
+   Alexis the Human                                            
+
+nod try
+
+You nod to Trystan.
+
+Aruskin chuckles.
+poi try
+
+You point at Trystan.
+
+Ayderias says, "My goal is to accomplish things within the city that favor Aerthanians."
+
+Trystan says, "It took Visyn eight months and three applications to be approved."
+win
+
+You wince.
+nod ayd
+
+You nod to Ayderias.
+
+Blink says, "With present membership, I don't see a route to any of us getting voted in, honestly."
+
+Aruskin exclaims to you, "Sounds like fun!"
+
+Blink asks, "You know what often happened with Visyn?"
+chu
+
+You chuckle.
+
+Trystan says to Blink, "You have a chance."
+
+Blink says, "There'd be a tie and the Astraevan knight would vote against."
+
+Trystan chuckles.
+win
+
+You wince.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+who
+[ARRIVALS] 'Yiri has logged on.'
+
+
+
+
+
+
+
+
+
+
+   Players Currently Online: 
+ =============================
+
+   Seren the Avardi                                            
+   Jerem the Human                                             
+   Xiija the Sylph                                             
+   Flynt the Sylph                                             
+   Salus the Vukasin                                           
+   Geel the Gavial                                             
+   Blink the Avardi                                            
+   Kaiah the Human                                             
+   Trystan the Human                                           
+   Aruskin the Avardi                                          
+   Ayderias the Avardi                                         
+   Wren the Human                                              
+   Malvyr the Gargoyle                                         
+   Alexis the Human                                            
+   Yiri the Goblin                                             
+
+
+Blink says, "I get the feeling Wren will vote against me as well."
+
+Seren says, "Might not after this last nights fussing."
+
+Trystan says, "He could threaten to cut off the bone trade."
+
+Blink says, "So do the numbers."
+
+Trystan raises an eyebrow at Blink.
+say bli doesn
+t Wren have a room at yer lodge?
+
+You say to Blink, "Doesn."
+You don't seem to have a 'Wren have a room at yer'!
+[Delay: 4.0 sec.]
+
+
+Blink says, "Convincing the Astraevans would be the only way."
+stare bli
+
+You stare at Blink.
+
+Ayderias says to Blink, "Either way, I agree it should be something we do at the next open meeting. Not the upcoming one."
+say bli doesn' Wren have a room at yer lodge?
+
+You ask Blink, "Doesn' Wren have a room at yer lodge?"
+
+Blink says, "She does. That doesn't mean she wouldn't be a nice sharp knife in my back."
+
+Trystan says, "Lets leave it at this...."
+
+Ayderias asks, "Perhaps we could all give it some thought and meet again at the end of the month?"
+
+Blink says, "She did vote against Visyn."
+nod
+
+You nod.
+
+Trystan says, "The position of Emissary is open and we'll be taking all applications at the next meeting."
+nod
+
+You nod.
+
+Seren says, "Says one thing and does another."
+
+Blink says to Ayderias, "We should decide early actually, so the candidate can get to work."
+
+Trystan says, "As in the temple meeting of course."
+grin ser
+
+You grin at Seren.
+
+Ayderias says, "It would be fitting to gather again at the conclusion of Aerian."
+
+Trystan nods to Ayderias.
+
+Blink says, "Okay."
+say bli start goin to em now
+
+You say to Blink, "Start goin to em now."
+nod bli
+
+You nod to Blink.
+
+Blink says, "I guess there are no Emissary hours before that."
+
+Trystan says, "Think on if you want the position."
+
+Trystan nods to you.
+
+Trystan says, "The temple will be hosting Alumni Day in about three weeks, your support there would be greatly appreciated."
+
+Ayderias says to Aruskin, "To better answer your question, I plan to bring to the table an important issue of defining conclave's reach once we resume our meetings."
+
+Blink says, "Visyn has hours Sunday."
+beam try
+
+You beam at Trystan.
+nod bli
+
+You nod to Blink.
+
+Blink asks, "Conclave's reach?"
+
+Trystan asks Ayderias, "Their reach?"
+
+Trystan gestures at Blink.
+
+Trystan whispers to you, "Stick around later if you can?".
+nod
+
+You nod.
+Ayderias says, "Their powers. Both as a Conclave and as emissaries."
+
+Aruskin says, "Certainly doesn't sound like an idea discussed by the temple."
+l
+
+
+
+[Pillars of Aerthane.]
+
+The overlooking corner of the stone slab descends into a square auditorium with wide steps suitable for seating. The rows of steps face a white marble topped altar at the center.  A swirled gray and white marble pillar stands at the corner with a supporting trellis connecting it to evenly spaced pillars along the perimeter.  Each pillar has been polished on one side to a brilliant side, with the opposite side facing the valley depicting intricately carved totems of fierce birds of prey.  You notice an arcsilver-veined white marble topped altar, and a lead-filled brass paperweight.
+
+Also here: Trystan the Human (seated) on some wide marble steps, Aruskin the Avardi, Emissary Ayderias the Avardi (seated) on some wide marble steps, an Aerthanian templar (seated) on some wide marble steps, Seren the Avardi, and Champion Blink the Avardi 
+
+Obvious Exits: east. 
+
+
+Trystan asks, "I didn't realize Conclave had any power other than to present ideas to the King or city officials?"
+
+Ayderias says, "In the last year alone a lot has been established that many don't fully understand. There's few that know what they can come to us for. It's not a religious matter, I realize, but it's a delicate one that can go poorly. That is why I will require a second voice."
+
+Trystan seems confused.
+
+Aruskin asks Ayderias, "Perhaps you might explain to the temple what has been established that we don't understand?"
+
+Blink says to Trystan, "They actually pass laws. Until their is pushback from the Crown."
+
+Trystan shakes his head from side to side to Blink.
+
+Currents of air begin to gather around Seren, building a zephyr around the area as Seren's eyes turn a milky white.
+
+The soft zephyr fades as Seren's eyes return to normal.
+
+Ayderias says, "We have no power to create or enforce law. That was stripped of us because of overachievers."
+ria ser
+
+Huh?
+rai ser
+
+You raise an eyebrow at Seren.
+
+Seren says, "Its fine."
+smi
+
+You smile.
+nod ayd
+
+You nod to Ayderias.
+
+Ayderias says, "Where we made gains is in what an Emissary can do when a member of their temple is wanted for questioning or arrested for a crime."
+
+Trystan says, "And I see the payment for that as being high."
+
+Blink asks, "Can you modify that particular law?"
+say ayd is there a book of the Laws anywhere?
+
+You ask Ayderias, "Is there a book of the Laws anywhere?"
+
+Ayderias says, "And of course the biggest advance was sovereignty over our religious lands."
+
+Trystan says, "And I see the payment for that as being high."
+
+Blink says to Trystan, "It wasn't that law that caused it."
+
+Trystan says to you, "No."
+nod
+
+You nod.
+
+Ayderias says to you, "Precisely my point."
+
+Blink says to Trystan, "It was the attempt to set up Conclave as a separate Kingdom basically."
+nod  thoughtfully
+
+You nod thoughtfully.
+
+Blink says, "Which naturally the Crown rejected forcefully."
+
+Ayderias says, "I'm not keen to the idea of restricting what can and can't be done, which I fear others on Conclave will strive for."
+nod
+
+You nod.
+
+Ayderias says, "This information needs to be out there, but not defined to the point of angering the King again."
+
+Ayderias says, "It will be a battle. Another voice would help the cause of seeing this done with aerthanians in mind as much as possible."
+nod ayd
+
+You nod to Ayderias.
+
+Trystan says, "We need an applicant, there's no doubt of that, but I don't see this for the faint of heart."
+
+Ayderias says to Trystan, "Forgive me, I hadn't planned to get into the full plan. We can move on to the Alumni days that are fast approaching."
+smi
+
+You smile.
+
+Trystan says, "I'd be happy to get into a full plan, but I don't see that as possible right now."
+
+Aruskin ponders.
+
+Trystan says, "Too many variables."
+
+Aruskin asks Trystan, "Then when?"
+say ser they may need a cooking demonstration on Alumni day !
+
+You exclaim to Seren, "They may need a cooking demonstration on Alumni day !"
+Ayderias takes a drink from a steaming cup of creamed coffee.
+beam ser
+
+You beam at Seren.
+
+Blink grins at Seren.
+
+Ayderias asks Seren, "Did you do that before?"
+
+Trystan says, "Just the temple support at Alumni Day is all that's needed."
+grin
+
+You grin.
+
+Seren asks, "Another one?"
+hum
+
+You hum.
+
+Trystan says to Seren, "In 3 weeks."
+
+Blink says to Seren, "Yes, for vegitarians this time."
+
+Seren says, "Yes I wasnt very good at it."
+
+Trystan says, "The seventh of Astraven."
+
+Trystan chuckles at Seren.
+
+Blink asks, "What time is it at?"
+say aru and a toymaker?
+
+You ask Aruskin, "And a toymaker?"
+bat aru
+
+You bat your eyes at Aruskin.
+
+Trystan says, "I'm hoping for 9 in the evening."
+
+Trystan glances at Ayderias.
+
+Blink says, "Oh yeah toy orders and furniture. Two great peddles."
+
+The clouds begin to dissipate.
+
+Aruskin says to you, "Toymaking is just elementary woodcarving."
+nod aru
+
+You nod to Aruskin.
+say aru show it off!
+
+You exclaim to Aruskin, "Show it off!"
+beam aru
+
+You beam at Aruskin.
+
+Trystan asks Ayderias, "No great issue with that time?"
+
+Blink removes a small round wooden shield.
+Blink holds a small electric blue leather-covered yarn ball.
+
+Ayderias says to Trystan, "I'll be there."
+
+Blink says to Aruskin, "This is in fact made of yarn."
+
+Aruskin says to Blink, "And leather."
+
+Blink plays catch.
+
+Trystan chuckles at Ayderias.
+
+Trystan says to Ayderias, "I will keep a scout on hand just in case."
+l alt
+
+It looks like an arcsilver-veined white marble topped altar supported by fluted pedestals at each corner. The face has been relief carved with two white dragons clutching each others talons as they tumble in a midair dance. Arcsilver veins running through crushed black granite backdrop the sculpture, bursting into a flash of lightning as it catches any errant ray of light.
+
+Trystan asks, "Anything else?"
+
+Ayderias asks Trystan, "Why am I there again?"
+grin
+
+You grin.
+
+Trystan says to Ayderias, "The great story teller of New Archai."
+chu
+
+You chuckle.
+' oo
+
+You say, "Oo."
+' my property marker will be moved, hopefully tomorrow
+
+You say, "My property marker will be moved, hopefully tomorrow."
+nod
+
+You nod.
+
+Ayderias says, "Of course. Perhaps a selection from the Shattering."
+
+Trystan chuckles at Ayderias.
+grin ayd
+
+You grin at Ayderias.
+
+Trystan says, "I'm still waiting on a story about dragons."
+
+Blink says, "He told one about dragons last time I thought."
+
+Trystan asks, "So where are we at with visitors in the temple? Yes or no?"
+pon
+
+You ponder.
+
+Blink says, "Oh I'm for it. If it's not Salus or a Goblin."
+
+Aruskin says to Trystan, "Visitors aren't bad in themselves, so long as they are respectful."
+
+Blink says, "I just don't care."
+
+Trystan raises an eyebrow at Seren.
+Ayderias says to Trystan, "I am firmly against, as I suspect most would be. Where do we draw that line those as far as holy grounds? The lodge exposes us to some dangers."
+
+Trystan nods to Ayderias.
+
+Seren says, "It depends on the visitors."
+
+Seren says, "Good visitors dont hide in the altar room."
+' have the gate moved to the old tree
+
+You say, "Have the gate moved to the old tree."
+shru
+
+Trystan says, "I will be speaking with Bouldermoore to put in a second gate above the lodge."
+You shrug.
+nod
+
+You nod.
+
+Ayderias says to Seren, "If they are escorted in they would be considered a guest. That is a different issue."
+
+Trystan says, "But it won't keep everyone out."
+
+Aruskin says to Trystan, "If it has the same lock, it won't be much use."
+
+Seren says, "Yes."
+
+Trystan gestures at Aruskin.
+
+Trystan asks, "So with escort only?"
+
+Aruskin ponders.
+
+An Aerthanian templar listens.
+
+Blink says, "Honestly, almost no one violates temples nonchalantly."
+
+Blink says, "It's mostly these two fools that will do it."
+
+Trystan says, "Oh..."
+
+Trystan glances at Blink.
+<HP: 155/155 ST: 120/120>
+Aruskin asks, "Can't we just keep track of those we don't want to allow in?"
+
+who
+[ARRIVALS] 'Bocon has logged on.'
+
+   Players Currently Online: 
+ =============================
+
+   Seren the Avardi                                            
+   Jerem the Human                                             
+   Xiija the Sylph                                             
+   Flynt the Sylph                                             
+   Salus the Vukasin                                           
+   Geel the Gavial                                             
+   Blink the Avardi                                            
+   Kaiah the Human                                             
+   Trystan the Human                                           
+   Aruskin the Avardi                                          
+   Ayderias the Avardi                                         
+   Wren the Human                                              
+   Malvyr the Gargoyle                                         
+   Alexis the Human                                            
+   Yiri the Goblin                                             
+   Bocon the Devalin                                           
+
+
+Blink says, "People like Geel or Wren don't want others in their temple and thus won't do it to others."
+
+Trystan says, "At least on purpose."
+
+Trystan says, "With escort only at the moment."
+
+Trystan gestures at an Aerthanian templar.
+
+Seren says, "Wren has been in here."
+
+Aruskin says, "I don't think we need to adopt the territoriality of a Tetherian."
+
+Trystan says, "We gated an entire hunting party here."
+
+Trystan asks Ayderias, "I'm guessing the grounds have been warded, do you know anything about that?"
+
+Seren says, "That gate spell causes trouble."
+chu
+
+You chuckle.
+
+Ayderias says to Trystan, "I was going to ask how everyone felt about that."
+
+Blink says, "Yeah, they are warded."
+
+Blink says, "You can't teleport in, but you can out."
+' you can get ot real easy tho
+
+You say, "You can get ot real easy tho."
+' out
+
+You say, "Out."
+
+Blink says, "And you can teleport within."
+aff
+ 
+You are affected by: Nothing!
+stat
+You are Xiija Anzu, a 55 year old female Sylph Priest.
+You are 1 feet 9 inches tall and weigh 19 pounds.
+You are a follower of Aerthane.
+You are carrying 62 of a maximum 81 pounds.
+You are in perfect health.
+You are fully rested.
+
+Attack: 57 | Defense: 158 | Position: Sitting
+
+Strength       : 12/25
+Intelligence   : 19/25
+Dexterity      : 15/25
+Constitution   : 12/25
+Charisma       : 16/25
+Wisdom         : 15/25
+
+
+Head            : a strung feather headdress
+Ears            : a blackened cursed vampire bone earring
+Neck            : a formal Sylvan batik erimaki hemp scarf
+Neck            : a tiny silver locket
+Body            : a silver-buckled leather satchel
+Body            : a dark brown formal Sylvan batik itai
+Torso           : a patched tribal shaman's silk sarkari
+Left wrist      : a leather-braided wristband
+Left finger     : a smooth ebony ring
+Waist           : some etched wooden prayer beads
+Waist           : a leather weapon harness
+Waist           : a patched leather pelt sack
+Feet            : some weathered woven hemp moccasins
+Wield           : a battered teak baji totem staff
+Face            : a blackened leather shaman's wyvern-head death mask
+Face            : a smooth silver lip ring
+Nose            : a tribal-scrimshawed bone septum piercing
+
+
+Trystan says, "I feel being asked first would have been preferred."
+
+Blink says, "I teleported from the path into the temple."
+
+Ayderias says, "They can be disenchanted if we want to teleport into the temple, but others will be able to as well."
+
+Blink says, "Oh I'd rather have it off."
+
+Trystan ponders.
+
+Blink says, "Most of us can teleport."
+say bli may as well have no gates or locks then?
+
+You ask Blink, "May as well have no gates or locks then?"
+furr
+
+You furrow your brow.
+
+Trystan asks, "I wonder if the lock on the gate has been damaged?"
+
+Ayderias says to you, "It's an intriguing thought."
+nod try
+
+You nod to Trystan.
+
+Trystan ponders.
+
+Blink says, "The lock was never much of a security measure."
+Ayderias asks, "You'd wish to open it all up?"
+
+Ayderias smiles softly.
+smi
+
+You smile.
+
+Seren asks, "I dont mind haveing this warded... we all know the way around here yes?"
+
+Trystan says, "Things to think about before our next meeting."
+' if nothing is off limits, no one will care about  breaking in
+
+You say, "If nothing is off limits, no one will care about breaking in."
+cac
+
+You cackle.
+
+Trystan grins at you.
+
+Blink asks, "How about the ward just extending to the temple?"
+
+grin Ayderias delicately , blushing
+Ayderias smiles at you.
+You grin at Ayderias delicately , blushing.
+
+Trystan says, "I'm not a fan of the ward."
+
+Blink says, "The two most likely to come in here can't event teleport."
+
+Trystan says, "Exactly."
+
+Blink says, "I know all the mages in town. They just would not purposely do it."
+say try get us all keys to the temple, and un ward and ungate the rest?
+
+You ask Trystan, "Get us all keys to the temple, and un ward and ungate the rest?"
+
+Trystan says, "And I the priests."
+
+Trystan grins at you.
+smir
+
+You smirk.
+
+Aruskin ponders.
+
+Seren says, "If a kalistian wanted to gate to you and you were in here then they'd come in."
+win ser
+
+You wince at Seren.
+pet temp
+
+You pet an Aerthanian templar.
+cac
+
+You cackle.
+
+Seren says, "Thats exactly what happened to me.."
+nod  thoughtfully
+
+You nod thoughtfully.
+
+Aruskin says to Trystan, "You are assuming continued peaceful relations among the temples, I think."
+
+Seren says, "Gating to Garaven."
+
+Blink nods.
+
+Blink asks, "How about just wards on the temple then?"
+
+Aruskin says to Trystan, "The wards might be useful if relations were to deteriorate."
+
+Trystan says to Aruskin, "You make a good point."
+
+Blink says, "It isn't like these same mages can't just walk in."
+
+An Aerthanian templar says, "We will defend against intruders as necessary."
+
+Blink says, "They can."
+
+Blink says to an Aerthanian templar, "Oh thanks."
+
+Blink grins at an Aerthanian templar.
+say ayd she was kissing a priest when the shadowspaw broke in
+
+You say to Ayderias, "She was kissing a priest when the shadowspaw broke in."
+flai ayd
+
+You flail your arms at Ayderias.
+
+Trystan asks Ayderias, "How hard is it to put the wards in place and remove them again?"
+Blink says to an Aerthanian templar, "There is a Vukasin and a Goblin that are likely to invade."
+
+An Aerthanian templar says, "I will order them to leave."
+chu temp
+
+You chuckle at an Aerthanian templar.
+
+Blink grins.
+
+Blink says to an Aerthanian templar, "Oh well remind me to piss you off."
+
+Ayderias says, "Something else to consider before the next meeting."
+
+Trystan raises an eyebrow at Ayderias.
+
+Ayderias asks, "What do we consider to be holy grounds?"
+
+Aruskin nods.
+nod
+
+You nod.
+
+Trystan says, "That would be wherever we are."
+grin
+
+You grin.
+
+Ayderias grins at Trystan.
+
+Trystan chuckles softly.
+
+Trystan asks, "Anything more?"
+
+Blink says, "Yeah one thing."
+
+Trystan nods to Blink.
+chu
+
+You chuckle.
+
+Blink says, "I'm holding a party Tuesday for the Lodge grand opening."
+' you said that last tyme
+
+You say, "You said that last tyme."
+smi
+
+You smile.
+
+Blink says, "At 9."
+
+Trystan grins at Blink.
+how bli
+
+You howl at Blink.
+
+Ayderias says to you, "I've been told to ask you a rather delicate question."
+
+Blink says, "The actual party is at the Bandit."
+grin ayd
+
+You grin at Ayderias.
+
+Blink says, "We're meeting in Pearl square for a tour of the lodge. You can go directly to the Bandit and wait though."
+
+Blink says, "There'll be a notice soon."
+nod bli
+
+You nod to Blink.
+beam
+
+You beam.
+
+Blink says, "It's on the official schedule already."
+list ays
+
+You don't see anyone here buying or selling.
+listen ayd
+
+You listen to Ayderias.
+
+Ayderias says to you, "Forgive me if this is too forward or implies anything."
+
+Ayderias coughs quietly.
+chu
+
+You chuckle.
+
+Trystan chuckles.
+
+Ayderias asks you, "Are you married?"
+cac
+
+You cackle.
+
+Blink says, "Several times."
+
+Seren chuckles.
+
+Blink laughs.
+' not yet!.. still lookin for a rich one!
+
+You exclaim, "Not yet!.. still lookin for a rich one!"
+lau
+
+You laugh.
+
+Blink says to Ayderias, "She keeps proposing to rich guys."
+
+Trystan asks, "Always room for a third husband, right?"
+how
+
+You howl.
+agree try thoughtfully
+
+You nod your head up and down to Trystan thoughtfully.
+l
+
+
+
+[Pillars of Aerthane.]
+
+The overlooking corner of the stone slab descends into a square auditorium with wide steps suitable for seating. The rows of steps face a white marble topped altar at the center.  A swirled gray and white marble pillar stands at the corner with a supporting trellis connecting it to evenly spaced pillars along the perimeter.  Each pillar has been polished on one side to a brilliant side, with the opposite side facing the valley depicting intricately carved totems of fierce birds of prey.  You notice an arcsilver-veined white marble topped altar, and a lead-filled brass paperweight.
+
+Also here: Trystan the Human (seated) on some wide marble steps, Aruskin the Avardi, Emissary Ayderias the Avardi (seated) on some wide marble steps, an Aerthanian templar (seated) on some wide marble steps, Seren the Avardi, and Champion Blink the Avardi 
+
+Obvious Exits: east. 
+
+hum softl
+
+You hum softl.
+
+Ayderias says, "It seems Bouldermoore was correct. That indeed was worth a good laugh."
+hum softly
+
+You hum softly.
+
+Trystan chuckles.
+
+Blink grins.
+grin
+
+You grin.
+
+Ayderias opens a brass-buckled leather emissary satchel.
+
+Ayderias puts an ancient hollowed out leather-bound Aerthanian tome in a brass-buckled leather emissary satchel.
+
+Ayderias stands up.
+
+Ayderias puts on a brass-buckled leather emissary satchel.
+
+Ayderias says to Trystan, "I will have some designs done up soon for you to review."
+
+Trystan says to Ayderias, "I was thinking a narrative on a plaque as to the purpose of that book would be nice."
+
+Blink asks you, "Would you care to help the cause of science?"
+
+Blink removes a small electric blue leather-covered yarn ball.
+Blink holds a water-filled glass thermoscope tube.
+
+Trystan stands up.
+chu bli
+
+You chuckle at Blink.
+poi ser
+
+You point at Seren.
+agree bli , smiling...
+
+You nod your head up and down to Blink , smiling...
+
+Trystan says to Ayderias, "We can exchange scrolls later."
+
+Blink says, "Huh. this tube may be too big."
+
+Ayderias says to Trystan, "A splendid idea."
+
+Blink peers at you.
+
+Ayderias nods to Trystan.
+
+Trystan asks, "Shall we close with a prayer?"
+stand
+
+You stand up.
+nod
+
+You nod.
+bow her head
+
+You bow her head.
+l
+
+
+
+[Pillars of Aerthane.]
+
+The overlooking corner of the stone slab descends into a square auditorium with wide steps suitable for seating. The rows of steps face a white marble topped altar at the center.  A swirled gray and white marble pillar stands at the corner with a supporting trellis connecting it to evenly spaced pillars along the perimeter.  Each pillar has been polished on one side to a brilliant side, with the opposite side facing the valley depicting intricately carved totems of fierce birds of prey.  You notice an arcsilver-veined white marble topped altar, and a lead-filled brass paperweight.
+
+Also here: Trystan the Human, Aruskin the Avardi, Emissary Ayderias the Avardi, an Aerthanian templar (seated) on some wide marble steps, Seren the Avardi, and Champion Blink the Avardi 
+
+Obvious Exits: east. 
+
+
+Aruskin bows his head.
+
+Blink steeples his fingers.
+
+Trystan says, "Goddess, we thank you for the gift of breath and the chance to meet and do your good works."
+
+Blink removes a short wire-wrapped sharkskin-hilted steel stiletto.
+
+Trystan says, "Guide us in our travels and lets be reminded of you with each beath we take."
+
+Trystan says, "Amen."
+' namaste
+
+You say, "Namaste."
+
+Seren smiles.
+
+Ayderias smiles softly as he raises his head.
+
+Blink asks, "Xij nama stay?"
+nod
+
+You nod.
+' peace
+
+You say, "Peace."
+
+Blink says to you, "Weird."
+grin bli
+
+You grin at Blink.
+
+Aruskin says to Trystan, "By the way, I have a question about your Pantheon project."
+
+Ayderias glances at a lead-filled brass paperweight.
+
+Trystan nods to Aruskin.
+
+Trystan says to Aruskin, "A moment please."
+
+Ayderias says, "It seems we've survived our first invasion. Well done everyone."
+
+Trystan glances at you.
+chu
+
+You chuckle.
+foll try
+
+You follow Trystan.
+
+Blink snickers.
+
+Trystan asks you, "Can I count on your help at Alumni Day?"
+agree try , her tribal-scrimshawed bone septum piercing winking in the light..
+
+You nod your head up and down to Trystan , her tribal-scrimshawed bone septum piercing winking in the light..
+
+Trystan asks you, "Just help pass out some things?"
+say try do i have to be good again?
+
+You ask Trystan, "Do I have to be good again?"
+
+grin Trystan wryly
+Trystan smiles at you.
+You grin at Trystan wryly.
+
+Trystan says, "Not at all."
+how
+
+You howl.
+
+Trystan exclaims to you, "Fly little one! fly!"
+fly
+
+curse in Sylvan.
+stand
+fly
+You attempt to launch into flight, but stumble and fall down.
+You curse in Sylvan.
+
+You stand up.
+
+emo fans her multicolored wings swiftly, hovering...
+You launch into the air with a powerful downward thrust of your wings.
+
+Xiija fans her multicolored wings swiftly, hovering...
+
+Trystan says, "And drop whatever you want."
+get bag sat
+
+You get a small raven black seven demon silk bag from a silver-buckled leather satchel.
+get orc bag
+
+A small raven black seven demon silk bag is closed.
+
+Trystan chuckles.
+glan orc glan try
+
+You glance orc glan try.
+grit
+
+You grit your teeth.
+op bag
+
+You open a small raven black seven demon silk bag.
+get orc bag
+
+You get a glass vial of orc-rot from a small raven black seven demon silk bag.
+glan orc
+
+You glance at a glass vial of orc-rot.
+Trystan nods to Aruskin.
+glan try
+
+You glance at Trystan.
+cac
+
+You cackle.
+put orv bag
+
+You don't seem to be carrying that.
+put bag sat
+
+You put a small raven black seven demon silk bag in a silver-buckled leather satchel.
+
+Trystan looks up at Xiija and laughs.
+get bag sat
+
+You get a small raven black seven demon silk bag from a silver-buckled leather satchel.
+put orc bag
+
+You put a glass vial of orc-rot in a small raven black seven demon silk bag.
+put bag sat
+
+You put a small raven black seven demon silk bag in a silver-buckled leather satchel.
+
+Blink says to Trystan, "Oh I'm out of trivia, but I could do a skinning lecture."
+
+Aruskin asks Trystan, "Just wondering if you'd considered starting with something less formal?"
+Trystan murmurs 'we're in so much trouble.'.
+appl bli
+
+You applaud Blink.
+l
+
+
+
+[Pillars of Aerthane.]
+
+The overlooking corner of the stone slab descends into a square auditorium with wide steps suitable for seating. The rows of steps face a white marble topped altar at the center.  A swirled gray and white marble pillar stands at the corner with a supporting trellis connecting it to evenly spaced pillars along the perimeter.  Each pillar has been polished on one side to a brilliant side, with the opposite side facing the valley depicting intricately carved totems of fierce birds of prey.  You notice an arcsilver-veined white marble topped altar, and a lead-filled brass paperweight.
+
+Also here: Trystan the Human, Aruskin the Avardi, Emissary Ayderias the Avardi, an Aerthanian templar (seated) on some wide marble steps, Seren the Avardi, and Champion Blink the Avardi 
+
+Obvious Exits: east. 
+
+
+Ayderias chuckles softly.
+
+Trystan says to Aruskin, "I had thought the building to be that, but you drew the obvious conclusion of a council."
+
+Trystan says to Aruskin, "And at the moment, less formal is me hunting with two other temple leaders."
+
+Trystan says, "And an occasional emissary."
+
+Aruskin asks Trystan, "What I mean is, why not start by trying to get regular meetings of the Temple leaders, either at a neutral location, or rotating among the temples?"
+
+Trystan nods to Aruskin.
+
+Aruskin says to Trystan, "Get that established first, then go for the building."
+
+Trystan says, "That starts with me hunting with them."
+
+Aruskin nods.
+
+Trystan says, "Now that we're talking and developed a little respect for eachother..."
+
+Trystan says, "I can ask for the meetings you've described."
+
+Trystan gestures and says, "Hopefully... ."
+
+Blink says, "Yeah then the exchange of prisoners begins."
+
+Trystan grins at Blink.
+
+Trystan says to Blink, "We've already done that."
+
+Trystan says to Blink, "I got you."
+
+Blink says to Trystan, "Weird."
+
+Trystan chuckles at Blink.
+
+Blink removes a horned and beaked persarium helm.
+Blink puts on a widely grinning leather human mask.
+
+Trystan says to Aruskin, "There's a couple emissaries that are hard to get in front of, but I haven't lessened my desire to see this happen."
+
+Blink says, "Oh weird. I have two masks on."
+
+Blink removes a smoking horned multi-colored feather thunderbird mask.
+
+Aruskin says to Trystan, "Well, I think your best chance is to put the Conclave in a position where it can't say no."
+
+Trystan nods to Aruskin.
+
+Trystan says, "Agreed."
+<HP: 155/155 ST: 120/120>
+Ayderias says to Blink, "If you could find Tian you might find your tiebreaker vote."
+
+Aruskin says to Trystan, "Rather than try to play politics within the Conclave."
+
+Trystan says to Aruskin, "Always a losing proposition."
+
+Aruskin nods his head up and down.
+
+Trystan says, "And Tian is gone missing again."
+
+Trystan chuckles.
+
+Blink says to Ayderias, "Well that'd get me up to three. I don't honestly know what Ernest would do, but Wren might sway him."
+
+Trystan ponders.
+
+Trystan glances at you.
+l
+
+
+
+[Pillars of Aerthane.]
+
+The overlooking corner of the stone slab descends into a square auditorium with wide steps suitable for seating. The rows of steps face a white marble topped altar at the center.  A swirled gray and white marble pillar stands at the corner with a supporting trellis connecting it to evenly spaced pillars along the perimeter.  Each pillar has been polished on one side to a brilliant side, with the opposite side facing the valley depicting intricately carved totems of fierce birds of prey.  You notice an arcsilver-veined white marble topped altar, and a lead-filled brass paperweight.
+
+Also here: Trystan the Human, Aruskin the Avardi, Emissary Ayderias the Avardi, an Aerthanian templar (seated) on some wide marble steps, Seren the Avardi, and Champion Blink the Avardi 
+
+Obvious Exits: east. 
+
+rai
+
+You raise an eyebrow.
+
+Trystan asks you, "Are you married?"
+cac
+
+You cackle.
+
+Trystan grins at you.
+flic try
+
+You flick your tongue at Trystan.
+
+Trystan says to you, "Don't bother teasing me, I'm not rich."
+smir
+
+You smirk.
+
+Trystan chuckles.
+
+Ayderias says to Blink, "Someone is going to make a play at a second chair. Might as well be us."
+
+Trystan bows politely.
+l try
+
+Trystan looks like a muscular 24 year old male Human.
+He has deep blue eyes and shoulder length, neatly kept, dull black hair.
+He is 6 feet 2 inches tall and weighs 188 pounds.
+He has an aura of Aerthane.
+Trystan is in perfect health.
+
+A tall young man with a casual manner. Dark hair highlights a pair of deep blue eyes that give you a quick notice before quickly turning to something else.
+
+He is wearing:
+
+Neck            : a black braided-leather corded silver medallion
+Body            : a silver clasped black matte leather hooded cloak
+Torso           : an arcsilver whirlwind-inlaid blacksteel breastplate
+Torso           : a black emerald green-striped light cotton gambeson
+Left wrist      : a blacksteel and silver braided wristband
+Right wrist     : a smooth leaf-carved silverwood bracelet
+Waist           : a small black leather coinpouch
+Waist           : a silver buckled black leather belt
+Legs            : some dark grey wool trousers
+Feet            : some smoky grey half-heeled elephant skin jackboots
+
+emo presses her palms together before her, bowing slightly to Trystan
+one: try
+trg: Trystan
+
+Xiija presses her palms together before her, bowing slightly to Trystan.
+
+Trystan says, "I'm going to talk to Salus if anyone cares to keep me company."
+
+Ayderias says, "The Pyresians may already have something in the works."
+
+Blink says, "Oh wow."
+
+Aruskin follows Trystan.
+
+Blink says, "I didn't now they had someone."
+l
+
+
+
+[Pillars of Aerthane.]
+
+The overlooking corner of the stone slab descends into a square auditorium with wide steps suitable for seating. The rows of steps face a white marble topped altar at the center.  A swirled gray and white marble pillar stands at the corner with a supporting trellis connecting it to evenly spaced pillars along the perimeter.  Each pillar has been polished on one side to a brilliant side, with the opposite side facing the valley depicting intricately carved totems of fierce birds of prey.  You notice an arcsilver-veined white marble topped altar, and a lead-filled brass paperweight.
+
+Also here: Trystan the Human, Aruskin the Avardi, Emissary Ayderias the Avardi, an Aerthanian templar (seated) on some wide marble steps, Seren the Avardi, and Champion Blink the Avardi 
+
+Obvious Exits: east. 
+
+
+Blink says, "Know."
+
+Trystan says, "Be safe all."
+
+Blink ponders.
+
+Ayderias says, "I dont know for sure. They've been quiet."
+hug ser
+
+You are too far away.
+
+Ayderias bows to Trystan.
+beam ser
+
+You beam at Seren.
+
+Trystan waves.
+beam ayd
+
+You beam at Ayderias.
+
+Trystan leaves east.
+You follow Trystan east.
+
+
+[Pillars of Aerthane.]
+
+Two marble busts sit atop pedestals resting between the perimeter of pillars.  Each bust displays detailed sculpting highlighting every facial feature of the immortalized figures.  A framed archway extends between two columns to the east with a stone slab across the top.  To the west, steps descend into an auditorium that overlooks much of the countryside.  You notice a carved marble archway, and some snow.
+
+Also here: an Aerthanian templar, a gray-robed priest, and Trystan the Human 
+
+Obvious Exits: west, and south. 
+
+Aruskin arrives from the west.
+
+Trystan leaves south.
+You follow Trystan south.
+
+
+[Pillars of Aerthane.]
+
+Tiered ceilings of marble cascade into a vaulted dome over the entrance.  The square foyer extends separately from the white tower with no connecting doorways.  The north and south walls are arched from corner to corner, allowing the wind to pass through freely.  You notice an open white oak door.
+
+Also here: Trystan the Human 
+
+Obvious Exits: south, and north. 
+
+Aruskin arrives from the north.
+lead temp
+
+You don't see 'temp' here.
+
+Trystan leaves through a white oak door.
+You follow Trystan west.
+
+
+[Aerthane Path.]
+
+Pillars swirled with gray and white marble extend out across a smooth stone platform atop the hill.  The slab of stone rises several feet from the earth, with a wide staircase leading upto a small enclosed entrance.  At its center, a white stone tower rises from the pillars.  You notice an open white oak door.
+
+Also here: Trystan the Human 
+
+Obvious Exits: west. 
+
+Aruskin arrives through a white oak door.
+
+Trystan leaves west.
+You follow Trystan west.
+
+
+[Aerthane Path.]
+
+The climb up the mountain ends at a slight incline directly into the heart of its peak.  A wide stone platform levels the summit, providing a solid base for tall, marble pillars surrounding a gleaming, white tower.  To the southwest, the faint outlines of a large port city are visible through the fog that often creeps along the valley floor.
+
+Also here: Trystan the Human 
+
+Obvious Exits: east, and south. 
+
+Aruskin arrives from the east.
+diag
+
+Xiija's group:
+
+Trystan is in perfect health and is fully rested.
+Aruskin is in perfect health and is fully rested.
+Xiija is in perfect health and is fully rested.
+
+pray holyshield
+
+
+
+You pray to Aerthane, creating a protective shield around yourself.
+You look protected!
+[Delay: 5.0 sec.]
+
+wear shie
+
+Aruskin asks, "Why is Salus in particular so interested in the temple?"
+
+You hold a small round wooden shield.
+[Delay: 3.0 sec.]
+
+wear scalem
+
+You put on some fur-lined steel scalemail.
+[Delay: 3.0 sec.]
+
+
+Trystan says to Aruskin, "I'm not sure."
+
+Trystan says, "Are he's been respectful to me though."
+' he was to blink, till the moment he robbed him
+
+You say, "He was to blink, till the moment he robbed him."
+cac
+
+You cackle.
+
+Aruskin says, "Don't think I've had any dealings with him."
+
+Aruskin gets a polished osage recurve bow from a leather weapon harness.
+
+Trystan leaves south.
+You follow Trystan south.
+
+
+[Aerthane Path.]
+
+Evenly paired and spaced carved marble monuments line the road in its ascent to the summit.  In addition to smooth pillars, totems of fierce birds face outward, overlooking the valley.  A tall white tower can be seen further up the path as it curves back into the hillside.
+
+Also here: a gray-robed priest, and Trystan the Human 
+
+Obvious Exits: southeast, and north. 
+
+Aruskin arrives from the north.
+
+Trystan leaves southeast.
+You follow Trystan southeast.
+
+
+[Aerthane Path, Entrance.]
+
+The road curves sharply around the southern edge of the hilltop.  The view of the countryside is checkered with patches of crops and fields for livestock.  Marble pillars on either side of the road contain no markings or etchings of any kind.  They have only a smooth cylindrical appearance.  You notice some smooth cylindrical marble columns.
+
+Also here: Trystan the Human 
+
+Obvious Exits: northwest, and east. 
+
+Aruskin arrives from the northwest.
+
+Trystan leaves east.
+You follow Trystan east.
+
+
+[Hillside Trail.]
+
+The connecting trail between the path to the west and the downward slope to the east provides travelers with a brief, leveled spot to catch their breaths.  Dogwood trees seasonally bloom roadside on a narrow strip of flat terrain.  Mountains to the east block the sun's early morning rays from view.
+
+Also here: Trystan the Human 
+
+Obvious Exits: west, and east. 
+
+Aruskin arrives from the west.
+
+Trystan leaves east.
+You follow Trystan east.
+
+
+[Hillside Trail.]
+
+The trail wraps around the hillside with its edge yielding to a sharp drop off down the hill into the valley.  A pair of columns to the west stand high over an entrance to a path well-tended in comparison to the hillside trail.  A white tower looms overhead.
+
+Also here: Trystan the Human 
+
+Obvious Exits: northeast, and west. 
+
+Aruskin arrives from the west.
+
+Trystan leaves northeast.
+You follow Trystan northeast.
+
+
+[Hillside Trail.]
+
+Rocky terrain extends outward from the outer walls of the lower cliff.  It narrows into jagged spires that form a natural defense against climbers.  Weathered boards bound by tattered rope lay across a small gap in the ridge.  An aged white oak leans away from the hillside with its roots strongly secured, as if offering an assisting hand to those in need.  You notice a leaning white oak tree, and a wooden property marker.
+
+Also here: Trystan the Human 
+
+Obvious Exits: southwest, and northeast. 
+
+Aruskin arrives from the southwest.
+
+Trystan leaves northeast.
+You follow Trystan northeast.
+
+
+[Hillside Trail.]
+
+The path narrows with each passing incline, making travel for anything larger than a mule difficult.  The inner face of the hill leans heavily against the road's edge.  White oak trees lie sporadically placed from summit to valley.
+
+Also here: Trystan the Human 
+
+Obvious Exits: southwest, and northwest. 
+
+Aruskin arrives from the southwest.
+
+Trystan leaves northwest.
+You follow Trystan northwest.
+
+
+[Hillside Trail.]
+
+A crooked set of fence posts, set into the outer edge of the road, support wooden cross beams designed to protect travelers from the steep drop-off created by the bend in the path.  To the east, a dense forest surrounds white-capped mountains.
+
+Also here: Trystan the Human 
+
+Obvious Exits: southeast, and northwest. 
+
+Aruskin arrives from the southeast.
+
+Trystan leaves northwest.
+You follow Trystan northwest.
+
+
+[Hillside Trail, Intersection.]
+
+A smooth dirt trail widens slightly in its descent west, and begins to narrow as it continues up the small mound of earth.  Despite being well-tended to, the road lacks any signs of heavy travel.  A narrow path forks off into the hillside toward a cedar lodge.
+
+Also here: Trystan the Human 
+
+Obvious Exits: southeast, west, and south. 
+
+Aruskin arrives from the southeast.
+
+Trystan leaves west.
+You follow Trystan west.
+
+
+[Hillside Trail.]
+
+A dense forest of evergreens to the north conceals the base of snow-capped mountains rising behind them.  The sloping hillside rolls into a sea of tall grass that protests loudly with each passing gust of wind.  A roadside fence to the west leads toward the valley road.
+
+Also here: Trystan the Human 
+
+Obvious Exits: west, and east. 
+
+Aruskin arrives from the east.
+
+Trystan leaves west.
+You follow Trystan west.
+
+
+[Hillside Trail.]
+
+Lush green fields of grass, mixed with patches of pale yellow wheat, extend in all directions.  The road is void of rocks or holes, yet shows little sign of traffic.  A white fence on either side of the road slopes to an end, yielding to the elevated landscape to the east.
+
+Also here: Trystan the Human 
+
+Obvious Exits: southwest, and east. 
+
+Aruskin arrives from the east.
+
+Trystan leaves southwest.
+You follow Trystan southwest.
+
+
+[Hillside Trail.]
+
+Colorful wildflowers grow in between the posts supporting a white fence that runs along side the trail toward the gated entrance.  A large mound of earth appears more like a hill than mountain compared to the towering snowcapped peaks to the east.
+
+Also here: Trystan the Human 
+
+Obvious Exits: southwest, and northeast. 
+
+Aruskin arrives from the northeast.
+
+Trystan leaves southwest.
+You follow Trystan southwest.
+
+
+[Aerthane Hill, Gate.]
+
+A white wooden fence at the edge of both sides of the road divides the smooth, compacted dirt from the grassy foothills extending in either direction.  The path ascends around a steeper hill toward a structure at its summit.  You notice a closed white painted iron gate.
+
+Also here: Trystan the Human 
+
+Obvious Exits: northeast. 
+
+Aruskin arrives from the northeast.
+
+Trystan unlocks a white painted iron gate.
+
+Trystan opens a white painted iron gate.
+
+Trystan leaves through a white painted iron gate.
+You follow Trystan southwest.
+
+
+[Dalarey Road.]
+
+A smooth dirt path parts the grassy foothills, leading up a small mountain to a stone structure at its peak.  The path's entrance shows signs of being maintained.  The fence posts bordering the road are painted white, with a matching painted iron gate crossing the path.  You notice an open white painted iron gate.
+Aerthane Gate ( aer2 to go to pearl)
+
+Also here: Salus the Vukasin, and Trystan the Human 
+
+Obvious Exits: northwest, and south. 
+
+Aruskin arrives through a white painted iron gate.
+
+Trystan closes a white painted iron gate.
+
+Salus says, "Is hi."
+
+Trystan locks a white painted iron gate.
+
+Trystan nods to Salus.
+
+Trystan says to Salus, "Good evening."
+hum
+
+You hum.
+
+Trystan ponders.
+
+Trystan unlocks a white painted iron gate.
+
+Trystan opens a white painted iron gate.
+
+Salus follows Trystan.
+diag
+
+Xiija's group:
+
+Salus is in perfect health and is fully rested.
+Trystan is in perfect health and is fully rested.
+Aruskin is in perfect health and is fully rested.
+Xiija is in perfect health and is barely winded.
+
+
+Trystan leaves through a white painted iron gate.
+You follow Trystan northeast.
+
+
+[Aerthane Hill, Gate.]
+
+A white wooden fence at the edge of both sides of the road divides the smooth, compacted dirt from the grassy foothills extending in either direction.  The path ascends around a steeper hill toward a structure at its summit.  You notice an open white painted iron gate.
+
+Also here: Trystan the Human 
+
+Obvious Exits: northeast. 
+
+Aruskin arrives through a white painted iron gate.
+Salus arrives through a white painted iron gate.
+
+Trystan closes a white painted iron gate.
+
+Trystan says, "Easier to talk here."
+nod
+
+You nod.
+
+Trystan asks Salus, "Can you tell my why you're interested in visiting the temple on the hill?"
+
+Salus says, "Is want listen."
+
+Trystan asks Salus, "To what end?"
+
+Salus says, "Is good to know, is not want die."
+
+Trystan nods.
+
+Salus says, "Is have question for small meal."
+
+Trystan says, "Can't argue that."
+
+Salus glances at Aruskin.
+l
+
+
+
+[Aerthane Hill, Gate.]
+
+A white wooden fence at the edge of both sides of the road divides the smooth, compacted dirt from the grassy foothills extending in either direction.  The path ascends around a steeper hill toward a structure at its summit.  You notice a closed white painted iron gate.
+
+Also here: Trystan the Human, Aruskin the Avardi, and Salus the Vukasin 
+
+Obvious Exits: northeast. 
+
+
+Salus asks, "Is trust? is not talk?"
+
+Trystan says to Salus, "Questions are answered freely."
+
+Trystan says to Salus, "They're just here to listen as well."
+
+Salus asks you, "Is poison Kaiah?"
+
+Aruskin raises an eyebrow.
+
+Trystan glances at you.
+
+Trystan asks you, "Poisoning folks?"
+
+Salus says, "Is not care if do, is want to know if find poison under village."
+whist
+
+You whistle.
+agree sal , dreadlocks softly falling over a shoulder ...
+
+You nod your head up and down to Salus , dreadlocks softly falling over a shoulder ...
+
+Trystan chuckles at Salus.
+
+Trystan says to Salus, "Found but not able to get."
+
+Salus says to Trystan, "Am able to get."
+
+Trystan nods to Salus.
+
+Salus says, "Is not know which one used."
+say sal five hundreds i pay of orc rot you bring
+
+You say to Salus, "Five hundreds I pay of orc rot you bring."
+
+Trystan says to Salus, "He doesn't like me."
+
+Salus nods.
+nod
+
+You nod.
+
+Trystan says to you, "It's the other that you like."
+
+Salus says, "If is buy poisons for Salus, is also buy any from shop for you."
+cac try
+
+You cackle at Trystan.
+' shh
+
+You say, "Shh."
+
+Trystan tilts his head to Salus.
+say try i almos got Alexis killed with that
+
+You say to Trystan, "I almos got Alexis killed with that."
+win
+
+You wince.
+
+Trystan nods and says, "Thank you." sal.
+
+Trystan says to Salus, "Thank you."
+
+Salus nods.
+
+Salus says, "Is take and is buy now."
+
+Trystan says to Salus, "As far as the temple on the hill, I'd ask you to not go in without someone like me with you."
+
+Salus nods to Trystan.
+
+Salus says, "Is not go."
+say sal you could sell pipeweed from that shop to many smokers... make profit
+
+You say to Salus, "You could sell pipeweed from that shop to many smokers... make profit."
+chu
+
+You chuckle.
+
+Trystan says to Salus, "I can take you another time if you bother to find me."
+
+Salus nods.
+
+Trystan says to Salus, "I didn't understand you wanted to listen as well."
+
+
+
+
+
+The holy shield surrounding you fades.
+
+Trystan says, "But I'll look into that."
+
+Salus nods.
+
+Salus says, "Is thanks."
+
+Trystan nods to Salus.
+pray holyshield
+
+
+
+You pray to Aerthane, creating a protective shield around yourself.
+You look protected!
+[Delay: 5.0 sec.]
+
+
+Trystan asks Salus, "How are things between you and Wren now?"
+hov aru
+
+You hover aru.
+
+Salus says, "Is not like Salus."
+hover by Aruskin
+
+You hover by Aruskin.
+
+Trystan says to Salus, "I will hold to my promises if you need me to."
+
+Salus nods to Trystan.
+
+who
+[ARRIVALS] 'Ayderias has logged out.'
+
+   Players Currently Online: 
+ =============================
+
+   Seren the Avardi                                            
+   Jerem the Human                                             
+   Xiija the Sylph                                             
+   Flynt the Sylph                                             
+   Salus the Vukasin                                           
+   Geel the Gavial                                             
+   Blink the Avardi                                            
+   Kaiah the Human                                             
+   Trystan the Human                                           
+   Aruskin the Avardi                                          
+   Wren the Human                                              
+   Malvyr the Gargoyle                                         
+   Alexis the Human                                            
+   Yiri the Goblin                                             
+   Bocon the Devalin                                           
+
+
+who
+[ARRIVALS] 'Blink has logged out.'
+
+   Players Currently Online: 
+ =============================
+
+   Seren the Avardi                                            
+   Jerem the Human                                             
+   Xiija the Sylph                                             
+   Flynt the Sylph                                             
+   Salus the Vukasin                                           
+   Geel the Gavial                                             
+   Kaiah the Human                                             
+   Trystan the Human                                           
+   Aruskin the Avardi                                          
+   Wren the Human                                              
+   Malvyr the Gargoyle                                         
+   Alexis the Human                                            
+   Yiri the Goblin                                             
+   Bocon the Devalin                                           
+
+
+Trystan asks, "I have to be going... anything else I can answer?"
+
+Trystan raises an eyebrow at Salus.
+l
+
+
+
+[Aerthane Hill, Gate.]
+
+A white wooden fence at the edge of both sides of the road divides the smooth, compacted dirt from the grassy foothills extending in either direction.  The path ascends around a steeper hill toward a structure at its summit.  You notice a closed white painted iron gate.
+
+Also here: Trystan the Human, Aruskin the Avardi, and Salus the Vukasin 
+
+Obvious Exits: northeast. 
+
+
+Salus says, "Is no."
+
+Trystan nods.
+
+Salus asks you, "Is small meal want orc rot now?"
+
+Trystan asks, "Can you two see him safely out?"
+nod
+
+You nod.
+
+Trystan ponders.
+leave
+
+You stop following Trystan.
+
+Trystan glances at you.
+
+Salus stops following Trystan.
+say sal get when ya can
+
+You say to Salus, "Get when ya can."
+shru
+
+You shrug.
+
+Trystan asks you, "You're small meal?"
+cac try
+
+You cackle at Trystan.
+
+Trystan chuckles.
+Aruskin says to Trystan, "Seems so."
+' one byte
+
+You say, "One byte."
+beam
+
+You beam.
+
+Trystan removes Aruskin from his group.
+
+
+Salus says to you, "Is take to village an is buy now if is giv coins."
+
+Trystan bows slightly before turning to leave.
+say sal is you buy, i pay when you bring
+
+inv
+You say to Salus, "Is you buy, I pay when you bring."
+Inventory:
+
+some falcon feather-adorned ivory prayer beads (1.0 lb)
+ 
+
+Carrying: 41 items (62.0 | 81.0) lbs.
+
+
+Trystan leaves northeast.
+put bead sat
+
+You put some falcon feather-adorned ivory prayer beads in a silver-buckled leather satchel.
+
+who
+[ARRIVALS] 'Trystan has logged out.'
+   Players Currently Online: 
+ =============================
+
+   Seren the Avardi                                            
+   Jerem the Human                                             
+   Xiija the Sylph                                             
+   Flynt the Sylph                                             
+   Salus the Vukasin                                           
+   Geel the Gavial                                             
+   Kaiah the Human                                             
+   Aruskin the Avardi                                          
+   Wren the Human                                              
+   Malvyr the Gargoyle                                         
+   Alexis the Human                                            
+   Yiri the Goblin                                             
+   Bocon the Devalin                                           
+
+grin
+
+You grin.
+l
+
+
+
+[Aerthane Hill, Gate.]
+
+A white wooden fence at the edge of both sides of the road divides the smooth, compacted dirt from the grassy foothills extending in either direction.  The path ascends around a steeper hill toward a structure at its summit.  You notice a closed white painted iron gate.
+
+Also here: Aruskin the Avardi, and Salus the Vukasin 
+
+Obvious Exits: northeast. 
+
+pray divine Rum Village, Bank Entrance
+
+
+
+You pray to Aerthane for a blinding, divine gateway here.
+A translucent barrier surges with energy as an incantation is disrupted.
+A translucent barrier surges with energy as an incantation is disrupted.(4)
+A blinding, divine pathway appears here.
+A translucent barrier surges with energy as an incantation is disrupted.
+[Delay: 6.0 sec.]
+
+
+Salus says to you, "Is buy poison for Salus, is buy all want for small meal with small meal coin."
+' there is path
+
+You say, "There is path."
+poi
+
+You point.
+diag
+
+Xiija's group:
+
+Xiija is in perfect health and is barely winded.
+
+go here
+
+
+
+[Rum Village, Bank Entrance.]
+
+The harbor pier hooks around the bay to the southeast, connecting to the village roads at the entrance to a weathered building.  A sign above the door has been painted with a set of scales tilted out of balance.  Barrels of grain and rum are steadily moved from outside the building to the main warehouse at the end of the docks.  You notice an open weathered pine door.
+
+Obvious Exits: northwest, there, and east. 
+
+
+The divine path fades.
+
+A gray-haired seasoned hunter arrives through a weathered pine door.
+who
+
+   Players Currently Online: 
+ =============================
+
+   Seren the Avardi                                            
+   Jerem the Human                                             
+   Xiija the Sylph                                             
+   Flynt the Sylph                                             
+   Salus the Vukasin                                           
+   Geel the Gavial                                             
+   Kaiah the Human                                             
+   Aruskin the Avardi                                          
+   Wren the Human                                              
+   Malvyr the Gargoyle                                         
+   Alexis the Human                                            
+   Yiri the Goblin                                             
+   Bocon the Devalin                                           
+
+l
+
+
+
+[Rum Village, Bank Entrance.]
+
+The harbor pier hooks around the bay to the southeast, connecting to the village roads at the entrance to a weathered building.  A sign above the door has been painted with a set of scales tilted out of balance.  Barrels of grain and rum are steadily moved from outside the building to the main warehouse at the end of the docks.  You notice an open weathered pine door.
+
+Also here: a gray-haired seasoned hunter 
+
+Obvious Exits: northwest, and east. 
+
+
+Swirling clouds of snow buffet you.
+nw
+
+
+
+[Rum Village, Square.]
+
+A chiseled granite statue of two twisted fish stands tall at the center of the village.  The beginnings of a long pier lead south toward a large warehouse.  Small cottages sit atop the cliffs overlooking the bay.  A weathered wooden platform rises above the square with a tattered banner flying in the ocean breeze above.  You notice a granite statue of a twisted fish.
+
+Also here: a tattoo-covered hardened sailor 
+
+Obvious Exits: southeast, northeast, and west. 
+
+w
+
+
+
+[Rum Village.]
+
+A neatly kept, small, white wooden house with black shutters sits beside the road.  Several nicely kept green shrubs line the front of the house just below the window and provide a convenient resting place for the small birds common to the area.  The shrubs sing with the chirping of birds occasionally seen jetting in and out of them playfully.  A clean swept set of wooden stairs provides access to a door.  You notice a closed weathered pine door.
+
+Obvious Exits: northwest, west, and east. 
+
+w
+
+
+
+[Rum Village, Cliffside.]
+
+Evenly distributed crushed seashells form a widened path along the cliff's edge.  The view overlooks a secluded bay of water, concealed from ships approaching from the south by a mountainous peninsula across the channel.  The rhythmic beat of water crashing against the base of the cliffs drowns out the sounds of woodland creatures from the nearby forests.  You notice a wooden sign, and a wooden construction cart.
+
+Obvious Exits: east. 
+
+e
+
+
+
+[Rum Village.]
+
+A neatly kept, small, white wooden house with black shutters sits beside the road.  Several nicely kept green shrubs line the front of the house just below the window and provide a convenient resting place for the small birds common to the area.  The shrubs sing with the chirping of birds occasionally seen jetting in and out of them playfully.  A clean swept set of wooden stairs provides access to a door.  You notice a closed weathered pine door.
+
+Obvious Exits: northwest, west, and east. 
+
+nw
+
+
+
+[Rum Village.]
+
+A heavily weathered cottage with a stick roof sits beside the road.  Several poorly kept, green and brown shrubs line the front of the house just below the window; the ground beneath the shrubs is littered with withered foliage.  A discolored, dusty set of wooden stairs provides access to the door.  You notice an open weathered pine door.
+
+Obvious Exits: southeast, and north. 
+
+go door
+
+
+
+[Cottage.]
+
+A small, wooden table with a broken leg sits with two rickety chairs against the western wall.  Against the northern wall rests a ripped and torn sofa for two, one of its cushions completely devoid of filling.  Each side of the sofa displays a wobbly, worn pine end table that plays host to a candle holder providing dim light to the room.  A small kitchen with a rotting, pine cabinet and cracked, ceramic washing bowl sits against the southern wall.  The knotty pine floors creek heavily underfoot and are stained by mold and covered with dust and grime.  You notice an open weathered pine door.
+
+Obvious Exits: none
+
+go door
+
+
+
+[Rum Village.]
+
+A heavily weathered cottage with a stick roof sits beside the road.  Several poorly kept, green and brown shrubs line the front of the house just below the window; the ground beneath the shrubs is littered with withered foliage.  A discolored, dusty set of wooden stairs provides access to the door.  You notice an open weathered pine door.
+
+Obvious Exits: southeast, and north. 
+
+
+A thunderous blizzard pours down from above.
+n
+
+
+
+[Rum Village.]
+
+A heavily weathered, wooden building sits beside the road.  A pair of black shutters flank the single large window on the eastern side of the building, one hangs slightly askew.  Four small bushes, two on each side of the steps, grow wildly; some of the branches extend onto the pathway.  You notice a closed weathered pine door.
+
+Also here: a tattoo-covered hardened sailor 
+
+Obvious Exits: south, and north. 
+
+go door
+
+unl door
+op doo
+The weathered pine door is closed.
+
+The weathered pine door is not locked.
+
+You open a weathered pine door.
+go door
+
+
+
+[Empty Building.]
+
+Thin, wooden boards crisscross the walls, patching old holes and breaks.  The sawdust that lies upon the floor displays boot prints of different shapes and sizes.  Some small scraps of food beside a dirty, ripped, cotton blanket grow yellow and green mold.  You notice an open weathered pine door.
+
+Also here: an elderly villager 
+
+Obvious Exits: south. 
+
+go door
+
+
+
+[Rum Village.]
+
+A heavily weathered, wooden building sits beside the road.  A pair of black shutters flank the single large window on the eastern side of the building, one hangs slightly askew.  Four small bushes, two on each side of the steps, grow wildly; some of the branches extend onto the pathway.  You notice an open weathered pine door.
+
+Also here: a tattoo-covered hardened sailor 
+
+Obvious Exits: south, and north. 
+
+
+A thunderous blizzard pours down from above.
+n
+
+
+
+[Rum Village, Tavern Entrance.]
+
+A slightly weathered, white wooden building with dark green shutters stands on the eastern side of the road.  Its large bay window is accented by a planting box which extends its full length and displays several different varieties of flowers.  Soft, white smoke billows from a polished rock chimney atop the western side of the roof.  You notice an open weathered pine door.
+
+Obvious Exits: south. 
+
+s
+
+
+
+[Rum Village.]
+
+A heavily weathered, wooden building sits beside the road.  A pair of black shutters flank the single large window on the eastern side of the building, one hangs slightly askew.  Four small bushes, two on each side of the steps, grow wildly; some of the branches extend onto the pathway.  You notice an open weathered pine door.
+
+Also here: a tattoo-covered hardened sailor 
+
+Obvious Exits: south, and north. 
+
+s
+
+
+
+[Rum Village.]
+
+A heavily weathered cottage with a stick roof sits beside the road.  Several poorly kept, green and brown shrubs line the front of the house just below the window; the ground beneath the shrubs is littered with withered foliage.  A discolored, dusty set of wooden stairs provides access to the door.  You notice an open weathered pine door.
+
+Obvious Exits: southeast, and north. 
+
+se
+
+
+
+[Rum Village.]
+
+A neatly kept, small, white wooden house with black shutters sits beside the road.  Several nicely kept green shrubs line the front of the house just below the window and provide a convenient resting place for the small birds common to the area.  The shrubs sing with the chirping of birds occasionally seen jetting in and out of them playfully.  A clean swept set of wooden stairs provides access to a door.  You notice a closed weathered pine door.
+
+Obvious Exits: northwest, west, and east. 
+
+nw
+
+
+
+[Rum Village.]
+
+A heavily weathered cottage with a stick roof sits beside the road.  Several poorly kept, green and brown shrubs line the front of the house just below the window; the ground beneath the shrubs is littered with withered foliage.  A discolored, dusty set of wooden stairs provides access to the door.  You notice an open weathered pine door.
+
+Obvious Exits: southeast, and north. 
+
+go door
+
+
+
+[Cottage.]
+
+A small, wooden table with a broken leg sits with two rickety chairs against the western wall.  Against the northern wall rests a ripped and torn sofa for two, one of its cushions completely devoid of filling.  Each side of the sofa displays a wobbly, worn pine end table that plays host to a candle holder providing dim light to the room.  A small kitchen with a rotting, pine cabinet and cracked, ceramic washing bowl sits against the southern wall.  The knotty pine floors creek heavily underfoot and are stained by mold and covered with dust and grime.  You notice an open weathered pine door.
+
+Obvious Exits: none
+
+land
+
+hide
+emo flitters her multicolored wings softly before folding them closed...
+
+Xiija flitters her multicolored wings softly before folding them closed...
+
+
+
+
+You conceal yourself from plain view.
+[Delay: 3.0 sec.]
+
+furl gently.
+
+You furl your wings gently.
+You reveal yourself from your hidden position.
+
+who
+[ARRIVALS] 'Seren has logged out.'
+
+   Players Currently Online: 
+ =============================
+
+   Jerem the Human                                             
+   Xiija the Sylph                                             
+   Flynt the Sylph                                             
+   Salus the Vukasin                                           
+   Geel the Gavial                                             
+   Kaiah the Human                                             
+   Aruskin the Avardi                                          
+   Wren the Human                                              
+   Malvyr the Gargoyle                                         
+   Alexis the Human                                            
+   Yiri the Goblin                                             
+   Bocon the Devalin                                           
+
+
+
+
+
+
+The holy shield surrounding you fades.
+l
+
+
+
+[Cottage.]
+
+A small, wooden table with a broken leg sits with two rickety chairs against the western wall.  Against the northern wall rests a ripped and torn sofa for two, one of its cushions completely devoid of filling.  Each side of the sofa displays a wobbly, worn pine end table that plays host to a candle holder providing dim light to the room.  A small kitchen with a rotting, pine cabinet and cracked, ceramic washing bowl sits against the southern wall.  The knotty pine floors creek heavily underfoot and are stained by mold and covered with dust and grime.  You notice an open weathered pine door.
+
+Obvious Exits: none
+
+go door
+
+
+
+[Rum Village.]
+
+A heavily weathered cottage with a stick roof sits beside the road.  Several poorly kept, green and brown shrubs line the front of the house just below the window; the ground beneath the shrubs is littered with withered foliage.  A discolored, dusty set of wooden stairs provides access to the door.  You notice an open weathered pine door.
+
+Obvious Exits: southeast, and north. 
+
+
+A thunderous blizzard pours down from above.
+n
+
+
+
+[Rum Village.]
+
+A heavily weathered, wooden building sits beside the road.  A pair of black shutters flank the single large window on the eastern side of the building, one hangs slightly askew.  Four small bushes, two on each side of the steps, grow wildly; some of the branches extend onto the pathway.  You notice an open weathered pine door.
+
+Also here: a tattoo-covered hardened sailor 
+
+Obvious Exits: south, and north. 
+
+go door
+
+
+
+[Empty Building.]
+
+Thin, wooden boards crisscross the walls, patching old holes and breaks.  The sawdust that lies upon the floor displays boot prints of different shapes and sizes.  Some small scraps of food beside a dirty, ripped, cotton blanket grow yellow and green mold.  You notice an open weathered pine door.
+
+Also here: an elderly villager 
+
+Obvious Exits: south. 
+
+go door
+
+
+
+[Rum Village.]
+
+A heavily weathered, wooden building sits beside the road.  A pair of black shutters flank the single large window on the eastern side of the building, one hangs slightly askew.  Four small bushes, two on each side of the steps, grow wildly; some of the branches extend onto the pathway.  You notice an open weathered pine door.
+
+Also here: a tattoo-covered hardened sailor 
+
+Obvious Exits: south, and north. 
+
+
+A thunderous blizzard pours down from above.
+n
+
+
+
+[Rum Village, Tavern Entrance.]
+
+A slightly weathered, white wooden building with dark green shutters stands on the eastern side of the road.  Its large bay window is accented by a planting box which extends its full length and displays several different varieties of flowers.  Soft, white smoke billows from a polished rock chimney atop the western side of the roof.  You notice an open weathered pine door.
+
+Obvious Exits: south. 
+
+go door
+
+
+
+[Tavache's Tavern.]
+
+Several wooden tables with matching wooden chairs stand scattered about the tavern.  A polished, wooden counter on the western side of the building is accompanied by several wooden bar stools.  A heavy, wrought iron chandelier casts light to the center of the tavern while small oil lamps sit upon the tables and cast light outward, providing a semi-relaxed atmosphere.  You notice an open weathered pine door.
+
+Also here: a red-bearded tavern owner 
+
+Obvious Exits: none
+
+list
+
+You review a red-bearded tavern owner's inventory.
+
+    Item Description                                         Price     
+
+a glass of rose water                                        [   10] db
+a glass of sage water                                        [   39] db
+a cup of strong black tea                                    [   16] db
+a cup of honey sweetened barley tea                          [   24] db
+a mug of watered-down ale                                    [   27] db
+a mug of bitter Kalesian grog                                [   54] db
+a red bow-tied bottle of choice light bumbo                  [  522] db
+a liberated bottle of naval-rationed rum                     [ 1219] db
+some boiled peeled shrimp                                    [   20] db
+some stuffed crab dumplings                                  [   24] db
+some shucked oysters                                         [   31] db
+some cedar-roasted salmon jerky                              [   37] db
+some thin leek and chicken soup                              [   38] db
+some roasted onion-tipped potato and venison kabobs          [   44] db
+a filet of cedar-smoked halibut                              [   44] db
+some hickory-smoked salmon                                   [   46] db
+a lemon butter-broiled halibut steak                         [   54] db
+some abalone and okra chowder                                [   82] db
+
+For more information, use BUY, SELL, APPRAISE, VIEW, or LIST.
+buy dump
+
+A red-bearded tavern owner says, "You can't afford to buy some stuffed crab dumplings." to you.
+inv
+Inventory:
+
+(nothing you can see right now)
+
+Carrying: 41 items (62.0 | 81.0) lbs.
+
+get coinp sat
+
+You get an embossed leather coinpouch from a silver-buckled leather satchel.
+get 100 coinp
+
+You don't see '100' in an embossed leather coinpouch.
+get doub coinp
+
+You get 117 doubloons from an embossed leather coinpouch.
+buy dumpl
+
+inv
+You buy some stuffed crab dumplings from a red-bearded tavern owner.
+Inventory:
+
+an embossed leather coinpouch (1.0 lb)
+ some stuffed crab dumplings (1.0 lb)
+ 
+Currency: 93 doubloons
+
+Carrying: 42 items (63.0 | 81.0) lbs.
+
+buy dumpl
+
+inv
+You buy some stuffed crab dumplings from a red-bearded tavern owner.
+Inventory:
+
+an embossed leather coinpouch (1.0 lb)
+ some stuffed crab dumplings (1.0 lb)
+ some stuffed crab dumplings (1.0 lb)
+ 
+Currency: 69 doubloons
+
+Carrying: 43 items (64.0 | 81.0) lbs.
+
+put dump sat
+
+You put some stuffed crab dumplings in a silver-buckled leather satchel.
+put dump sat
+
+You put some stuffed crab dumplings in a silver-buckled leather satchel.
+put 69 coin
+
+You put 69 doubloons in an embossed leather coinpouch.
+put coin sat
+
+You put an embossed leather coinpouch in a silver-buckled leather satchel.
+list
+
+You review a red-bearded tavern owner's inventory.
+
+    Item Description                                         Price     
+
+a glass of rose water                                        [   10] db
+a glass of sage water                                        [   39] db
+a cup of strong black tea                                    [   16] db
+a cup of honey sweetened barley tea                          [   24] db
+a mug of watered-down ale                                    [   27] db
+a mug of bitter Kalesian grog                                [   54] db
+a red bow-tied bottle of choice light bumbo                  [  522] db
+a liberated bottle of naval-rationed rum                     [ 1219] db
+some boiled peeled shrimp                                    [   20] db
+some stuffed crab dumplings                                  [   24] db
+some shucked oysters                                         [   31] db
+some cedar-roasted salmon jerky                              [   37] db
+some thin leek and chicken soup                              [   38] db
+some roasted onion-tipped potato and venison kabobs          [   44] db
+a filet of cedar-smoked halibut                              [   44] db
+some hickory-smoked salmon                                   [   46] db
+a lemon butter-broiled halibut steak                         [   54] db
+some abalone and okra chowder                                [   82] db
+
+For more information, use BUY, SELL, APPRAISE, VIEW, or LIST.
+
+who
+[ARRIVALS] 'Alexis has logged out.'
+   Players Currently Online: 
+ =============================
+
+   Jerem the Human                                             
+   Xiija the Sylph                                             
+   Flynt the Sylph                                             
+   Salus the Vukasin                                           
+   Geel the Gavial                                             
+   Kaiah the Human                                             
+   Aruskin the Avardi                                          
+   Wren the Human                                              
+   Malvyr the Gargoyle                                         
+   Yiri the Goblin                                             
+   Bocon the Devalin                                           
+
+l
+
+
+
+[Tavache's Tavern.]
+
+Several wooden tables with matching wooden chairs stand scattered about the tavern.  A polished, wooden counter on the western side of the building is accompanied by several wooden bar stools.  A heavy, wrought iron chandelier casts light to the center of the tavern while small oil lamps sit upon the tables and cast light outward, providing a semi-relaxed atmosphere.  You notice an open weathered pine door.
+
+Also here: a red-bearded tavern owner 
+
+Obvious Exits: none
+
+go door
+
+
+
+[Rum Village, Tavern Entrance.]
+
+A slightly weathered, white wooden building with dark green shutters stands on the eastern side of the road.  Its large bay window is accented by a planting box which extends its full length and displays several different varieties of flowers.  Soft, white smoke billows from a polished rock chimney atop the western side of the roof.  You notice an open weathered pine door, and some snow.
+
+Obvious Exits: south. 
+
+
+It is very cold. 
+s
+
+
+
+[Rum Village.]
+
+A heavily weathered, wooden building sits beside the road.  A pair of black shutters flank the single large window on the eastern side of the building, one hangs slightly askew.  Four small bushes, two on each side of the steps, grow wildly; some of the branches extend onto the pathway.  You notice an open weathered pine door.
+
+Obvious Exits: south, and north. 
+
+s
+
+
+
+[Rum Village.]
+
+A heavily weathered cottage with a stick roof sits beside the road.  Several poorly kept, green and brown shrubs line the front of the house just below the window; the ground beneath the shrubs is littered with withered foliage.  A discolored, dusty set of wooden stairs provides access to the door.  You notice an open weathered pine door.
+
+Obvious Exits: southeast, and north. 
+
+se
+
+
+
+[Rum Village.]
+
+A neatly kept, small, white wooden house with black shutters sits beside the road.  Several nicely kept green shrubs line the front of the house just below the window and provide a convenient resting place for the small birds common to the area.  The shrubs sing with the chirping of birds occasionally seen jetting in and out of them playfully.  A clean swept set of wooden stairs provides access to a door.  You notice a closed weathered pine door.
+
+Obvious Exits: northwest, west, and east. 
+
+w
+
+
+
+[Rum Village, Cliffside.]
+
+Evenly distributed crushed seashells form a widened path along the cliff's edge.  The view overlooks a secluded bay of water, concealed from ships approaching from the south by a mountainous peninsula across the channel.  The rhythmic beat of water crashing against the base of the cliffs drowns out the sounds of woodland creatures from the nearby forests.  You notice a wooden sign, a wooden construction cart, and some snow.
+
+Obvious Exits: east. 
+
+e
+
+
+
+[Rum Village.]
+
+A neatly kept, small, white wooden house with black shutters sits beside the road.  Several nicely kept green shrubs line the front of the house just below the window and provide a convenient resting place for the small birds common to the area.  The shrubs sing with the chirping of birds occasionally seen jetting in and out of them playfully.  A clean swept set of wooden stairs provides access to a door.  You notice a closed weathered pine door.
+
+Obvious Exits: northwest, west, and east. 
+
+e
+
+
+
+[Rum Village, Square.]
+
+A chiseled granite statue of two twisted fish stands tall at the center of the village.  The beginnings of a long pier lead south toward a large warehouse.  Small cottages sit atop the cliffs overlooking the bay.  A weathered wooden platform rises above the square with a tattered banner flying in the ocean breeze above.  You notice a granite statue of a twisted fish.
+
+Obvious Exits: southeast, northeast, and west. 
+
+ne
+
+
+
+[Rum Village, Gate.]
+
+A heavy wooden gate towers above the village as if standing watch for any threat.  It is placed within a wooden wall that runs east and west.  The heavily-packed dirt path extends southwest, riddled with patches of small weeds that have avoided becoming trampled from here to the gate.  Several trees line the eastern and northern sides of the path.  You notice a closed weathered pine gate.
+
+Obvious Exits: southwest. 
+
+go gate
+
+unlock gate
+open gate
+go gate
+The weathered pine gate is closed.
+
+You don't seem to have the right key.
+
+The weathered pine gate is locked.
+u
+
+unlock gate
+open gate
+go gate
+The weathered pine gate is closed.
+
+fly
+u
+You need wings to fly in that direction.
+
+You don't seem to have the right key.
+
+The weathered pine gate is locked.
+
+unlock gate
+open gate
+go gate
+The weathered pine gate is closed.
+
+fly
+
+
+
+[Above Rum Village, Gate.]
+
+A heavy wooden gate towers above the village below as if standing watch for any threat.  It is placed within a wooden wall that runs east and west.  The heavily-packed, dirt path extends southwest, riddled with patches of small weeds that have avoided becoming trampled from here to the gate.  Several trees line the eastern and northern sides of the path.
+
+Obvious Exits: southwest, and down. 
+
+
+You don't see 'gate' here.
+emo fans her multicolored wings swiftly, hovering...
+
+Xiija fans her multicolored wings swiftly, hovering...
+q c
+
+
+
+Your command queue has been cleared.
+u
+
+You can't go that way.
+l
+
+
+
+[Above Rum Village, Gate.]
+
+A heavy wooden gate towers above the village below as if standing watch for any threat.  It is placed within a wooden wall that runs east and west.  The heavily-packed, dirt path extends southwest, riddled with patches of small weeds that have avoided becoming trampled from here to the gate.  Several trees line the eastern and northern sides of the path.
+
+Obvious Exits: southwest, and down. 
+
+sw
+
+
+
+[Above Rum Village, Square.]
+
+Below, a chiseled granite statue of two twisted fish stands tall at the center of the village.  The beginnings of a long pier lead southeasterly toward a large warehouse.  Small cottages sit atop the cliffs overlooking the bay.  A weathered wooden platform rises above the square with a tattered banner flying in the ocean breeze.
+
+Obvious Exits: southeast, northeast, down, and west. 
+
+w
+
+
+
+[Above Rum Village.]
+
+A neatly kept, small, white wooden house with black shutters sits beside the road below.  Several nicely kept green shrubs line the front of the house just below the window and provide a convenient resting place for the small birds common to the area.  The shrubs sing with the chirping of birds occasionally seen jetting in and out of them playfully.  A clean swept set of wooden stairs provides access to a door.
+
+Obvious Exits: northwest, down, and east. 
+
+d
+
+
+
+[Rum Village.]
+
+A neatly kept, small, white wooden house with black shutters sits beside the road.  Several nicely kept green shrubs line the front of the house just below the window and provide a convenient resting place for the small birds common to the area.  The shrubs sing with the chirping of birds occasionally seen jetting in and out of them playfully.  A clean swept set of wooden stairs provides access to a door.  You notice a closed weathered pine door.
+
+Obvious Exits: northwest, west, and east. 
+
+u
+
+
+
+[Above Rum Village.]
+
+A neatly kept, small, white wooden house with black shutters sits beside the road below.  Several nicely kept green shrubs line the front of the house just below the window and provide a convenient resting place for the small birds common to the area.  The shrubs sing with the chirping of birds occasionally seen jetting in and out of them playfully.  A clean swept set of wooden stairs provides access to a door.
+
+Obvious Exits: northwest, down, and east. 
+
+w
+
+You can't go that way.
+sw
+
+You can't go that way.
+n
+
+You can't go that way.
+s
+
+You can't go that way.
+ne
+
+You can't go that way.
+se
+
+You can't go that way.
+nw
+
+
+
+[Above Rum Village.]
+
+Below, a heavily weathered cottage with a stick roof sits beside the road.  Several poorly kept, green and brown shrubs line the front of the house just below the window; the ground beneath the shrubs is littered with withered foliage.  A discolored, dusty set of wooden stairs provides access to the door.
+
+Obvious Exits: southeast, down, and north. 
+
+d
+
+
+
+[Rum Village.]
+
+A heavily weathered cottage with a stick roof sits beside the road.  Several poorly kept, green and brown shrubs line the front of the house just below the window; the ground beneath the shrubs is littered with withered foliage.  A discolored, dusty set of wooden stairs provides access to the door.  You notice an open weathered pine door.
+
+Obvious Exits: southeast, and north. 
+
+u
+
+
+
+[Above Rum Village.]
+
+Below, a heavily weathered cottage with a stick roof sits beside the road.  Several poorly kept, green and brown shrubs line the front of the house just below the window; the ground beneath the shrubs is littered with withered foliage.  A discolored, dusty set of wooden stairs provides access to the door.
+
+Obvious Exits: southeast, down, and north. 
+
+n
+
+
+
+[Above Rum Village.]
+
+Below, a heavily weathered, wooden building sits beside the road.  A pair of black shudders flank the single large window on the eastern side of the building, one hangs slightly askew.  Four small bushes, two on each side of the steps, grow wildly, some of the branches extend onto the pathway.
+
+Obvious Exits: down, south, and north. 
+
+n
+
+
+
+[Above Rum Village, Tavern Entrance.]
+
+A slightly weathered, white wooden building with dark green shutters stands on the eastern side of the road below.  Its large bay window is accented by a planting box which extends its full length and displays several different varieties of flowers.  Soft, white smoke billows from a polished rock chimney atop the western side of the roof.
+
+Obvious Exits: down, and south. 
+
+n
+
+You can't go that way.
+nw
+
+You can't go that way.
+ne
+You can't go that way.
+w
+
+You can't go that way.
+e
+You can't go that way.
+sw
+se
+
+You can't go that way.
+
+You can't go that way.
+s
+
+
+
+[Above Rum Village.]
+
+Below, a heavily weathered, wooden building sits beside the road.  A pair of black shudders flank the single large window on the eastern side of the building, one hangs slightly askew.  Four small bushes, two on each side of the steps, grow wildly, some of the branches extend onto the pathway.
+
+Obvious Exits: down, south, and north. 
+
+s
+
+
+
+[Above Rum Village.]
+
+Below, a heavily weathered cottage with a stick roof sits beside the road.  Several poorly kept, green and brown shrubs line the front of the house just below the window; the ground beneath the shrubs is littered with withered foliage.  A discolored, dusty set of wooden stairs provides access to the door.
+
+Obvious Exits: southeast, down, and north. 
+
+se
+
+
+
+[Above Rum Village.]
+
+A neatly kept, small, white wooden house with black shutters sits beside the road below.  Several nicely kept green shrubs line the front of the house just below the window and provide a convenient resting place for the small birds common to the area.  The shrubs sing with the chirping of birds occasionally seen jetting in and out of them playfully.  A clean swept set of wooden stairs provides access to a door.
+
+Obvious Exits: northwest, down, and east. 
+
+d
+
+
+
+[Rum Village.]
+
+A neatly kept, small, white wooden house with black shutters sits beside the road.  Several nicely kept green shrubs line the front of the house just below the window and provide a convenient resting place for the small birds common to the area.  The shrubs sing with the chirping of birds occasionally seen jetting in and out of them playfully.  A clean swept set of wooden stairs provides access to a door.  You notice a closed weathered pine door.
+
+Obvious Exits: northwest, west, and east. 
+
+e
+
+
+
+[Rum Village, Square.]
+
+A chiseled granite statue of two twisted fish stands tall at the center of the village.  The beginnings of a long pier lead south toward a large warehouse.  Small cottages sit atop the cliffs overlooking the bay.  A weathered wooden platform rises above the square with a tattered banner flying in the ocean breeze above.  You notice a granite statue of a twisted fish.
+
+Obvious Exits: southeast, northeast, and west. 
+
+who
+
+   Players Currently Online: 
+ =============================
+
+   Jerem the Human                                             
+   Xiija the Sylph                                             
+   Flynt the Sylph                                             
+   Salus the Vukasin                                           
+   Geel the Gavial                                             
+   Kaiah the Human                                             
+   Aruskin the Avardi                                          
+   Wren the Human                                              
+   Malvyr the Gargoyle                                         
+   Yiri the Goblin                                             
+   Bocon the Devalin                                           
+
+pray divine Bayesian Court
+
+
+
+You pray to Aerthane for a blinding, divine gateway here.
+A translucent barrier surges with energy as an incantation is disrupted.
+A blinding, divine pathway appears here.
+A translucent barrier surges with energy as an incantation is disrupted.
+[Delay: 6.0 sec.]
+
+go here
+
+
+
+[Bayesian Court.]
+
+Several lines of rope run from the corner of the bank to the top of the outer sandstone wall.  Colorful beads and strands of ribbon hang from the ropes, welcoming visitors to the open-air market that surrounds the depository.  Potted foliage lines either side of the opening.
+
+Obvious Exits: there, south, and north. 
+
+s
+
+
+
+[Bayesian Court, Bank Entrance.]
+
+Along the entrance of the bank are massive stone pillars that create a lavish backdrop to the busy courtyard.  Interlocking stone pavers, laid out in extravagant patterns, stretch out in every direction.  Iron lamp posts and transplanted dogwood trees lie evenly spread out along the plaza with flat slabs of marble serving as benches between them.  You notice an open engraved silver door.
+
+Obvious Exits: southeast, and north. 
+
+l se
+
+Looking southeast you see...
+
+
+[City of Pearl, Center.]
+
+Granting an uninhibited view of the bustling shipping industry, a stone seawall bevels out behind a long crescent bench and creates a half-moon addition to the congested crossroads at the heart of the city.  The vast water of the bay expands beyond the southern stone wall.  Ships of all sizes pass by the seafront as they make their way in and out of the harbor to the south.  The streets head in many directions, as well as a tunnel to the northeast.  At the center of the intersection is an elegantly carved monument of a giant pearl atop a tall obelisk.  The base of the centerpiece rests at the bottom of a shallow fountain that has a burning spear pointing down into the water.  A small stone sundial has been carved on the rim of the fountain.  You notice a wooden directional signpost. 
+
+Also here: a portly town crier
+
+Obvious Exits: southwest, southeast, northwest, northeast, west, east, and north. 
+
+se
+
+
+
+[City of Pearl, Center.]
+
+Granting an uninhibited view of the bustling shipping industry, a stone seawall bevels out behind a long crescent bench and creates a half-moon addition to the congested crossroads at the heart of the city.  The vast water of the bay expands beyond the southern stone wall.  Ships of all sizes pass by the seafront as they make their way in and out of the harbor to the south.  The streets head in many directions, as well as a tunnel to the northeast.  At the center of the intersection is an elegantly carved monument of a giant pearl atop a tall obelisk.  The base of the centerpiece rests at the bottom of a shallow fountain that has a burning spear pointing down into the water.  A small stone sundial has been carved on the rim of the fountain.  You notice a wooden directional signpost.
+
+Also here: a portly town crier 
+
+Obvious Exits: southwest, southeast, northwest, northeast, west, east, and north. 
+
+hover around quietly in a small circle
+
+You hover around quietly in a small circle.
+u
+
+The strong winds inhibit your progress.
+u
+
+The strong winds inhibit your progress.
+u
+
+The strong winds inhibit your progress.
+u
+
+The strong winds inhibit your progress.
+
+who
+[ARRIVALS] 'Wren has logged out.'
+u
+
+   Players Currently Online: 
+ =============================
+
+   Jerem the Human                                             
+   Xiija the Sylph                                             
+   Flynt the Sylph                                             
+   Salus the Vukasin                                           
+   Geel the Gavial                                             
+   Kaiah the Human                                             
+   Aruskin the Avardi                                          
+   Malvyr the Gargoyle                                         
+   Yiri the Goblin                                             
+   Bocon the Devalin                                           
+
+
+
+[Above City of Pearl.]
+
+A stone seawall bevels out from the street below, creating a half-moon addition to the always congested crossroads at the heart of the city.  The vast water of the bay expands beyond that southern stone wall.  Ships of all sizes pass by the seafront as they make their way in and out of the harbor to the south.  At the center of the intersection is an elegantly carved monument of a giant pearl atop a tall obelisk.  The base of the centerpiece rests at the bottom of a fountain.
+
+Obvious Exits: southwest, southeast, northwest, northeast, down, up, west, east, and north. 
+
+weath
+
+
+It is the 16th day of Aerian, 437 AoM.
+It is nighttime.
+It is winter.
+There is a full moon in the sky.
+
+A cold wind blows from the east.
+l
+
+
+
+[Above City of Pearl.]
+
+A stone seawall bevels out from the street below, creating a half-moon addition to the always congested crossroads at the heart of the city.  The vast water of the bay expands beyond that southern stone wall.  Ships of all sizes pass by the seafront as they make their way in and out of the harbor to the south.  At the center of the intersection is an elegantly carved monument of a giant pearl atop a tall obelisk.  The base of the centerpiece rests at the bottom of a fountain.
+
+Obvious Exits: southwest, southeast, northwest, northeast, down, up, west, east, and north. 
+
+weath
+
+
+It is the 16th day of Aerian, 437 AoM.
+It is nighttime.
+It is winter.
+There is a full moon in the sky.
+
+A cold wind

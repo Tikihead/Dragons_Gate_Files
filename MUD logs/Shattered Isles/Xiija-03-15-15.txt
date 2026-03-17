@@ -1,0 +1,2226 @@
+
+Blink says, "Well this may shock you, but one is in the room."
+
+Trystan says, "I'd like to hear your version of what."
+grin
+
+You grin.
+
+Blink says, "In addition to a Champion, I might add."
+
+Ayderias says to you, "I would consider Wren second, because that approach would likely mean something less than lawful."
+
+Blink says, "There are like lots of celebrities here."
+grin
+You grin.
+nod ayd
+
+You nod to Ayderias.
+l
+
+
+
+[Pillars of Aerthane.]
+
+The overlooking corner of the stone slab descends into a square auditorium with wide steps suitable for seating. The rows of steps face a white marble topped altar at the center.  A swirled gray and white marble pillar stands at the corner with a supporting trellis connecting it to evenly spaced pillars along the perimeter.  Each pillar has been polished on one side to a brilliant side, with the opposite side facing the valley depicting intricately carved totems of fierce birds of prey.  You notice an arcsilver-veined white marble topped altar.
+
+Also here: Champion Blink the Avardi, Emissary Ayderias the Avardi (seated) on some wide marble steps, Trystan the Human (seated) on some wide marble steps, Seren the Avardi, Bihi the Bolinau (seated), and an Aerthanian templar (seated) on some wide marble steps 
+
+Obvious Exits: east. 
+
+
+Blink says, "Even an outlaw and a cartographer."
+' and a Master Chef!
+
+You exclaim, "And a Master Chef!"
+grin ser
+
+You grin at Seren.
+
+Blink grins at Seren.
+
+Seren says, "Who didnt bring snacks."
+
+Blink asks, "Oh that reminds me. Would anyone like some cinnamon rolls?"
+say ser cook up some sweets for Wren?
+
+You ask Seren, "Cook up some sweets for Wren?"
+
+Seren shuffles her feet.
+cac
+
+You cackle.
+
+Blink peers at a frosted glass Delightful Delectables box.
+say bli where is that from?
+
+You ask Blink, "Where is that from?"
+
+Trystan asks Blink, "Did you have anything else to share?"
+<HP: 157/157 ST: 122/122>
+who
+[ARRIVALS] 'Rochiriel has logged out.'
+   Players Currently Online: 
+ =============================
+
+   Flynt the Sylph                                             
+   Jerrund the Dwarf                                           
+   Bocon the Devalin                                           
+   Seren the Avardi                                            
+   Alexis the Human                                            
+   Garaven the Verdani                                         
+   Xiija the Sylph                                             
+   Elmere the Human                                            
+   Blink the Avardi                                            
+   Bihi the Bolinau                                            
+   Ayderias the Avardi                                         
+   Wren the Human                                              
+   Trystan the Human                                           
+   Ovan the Human                                              
+   Kaiah the Human                                             
+
+
+Blink says, "There was a chef merchant."
+
+who
+[ARRIVALS] 'Garaven has logged out.'
+
+   Players Currently Online: 
+ =============================
+
+   Flynt the Sylph                                             
+   Jerrund the Dwarf                                           
+   Bocon the Devalin                                           
+   Seren the Avardi                                            
+   Alexis the Human                                            
+   Xiija the Sylph                                             
+   Elmere the Human                                            
+   Blink the Avardi                                            
+   Bihi the Bolinau                                            
+   Ayderias the Avardi                                         
+   Wren the Human                                              
+   Trystan the Human                                           
+   Ovan the Human                                              
+   Kaiah the Human                                             
+
+nod
+
+You nod.
+pray detect disease
+
+
+
+You pray to Aerthane for divine sight.
+narr
+squin
+Your eyes begin to glow as you study your surroundings.
+[Delay: 4.0 sec.]
+
+
+You narrow your eyes.
+
+You squint.
+
+You do not sense any disease.
+
+murm softly as she rubs her eyes....
+Your eyes adjust as the divine detection fades.
+
+You murmur softly as she rubs her eyes....
+
+Blink says, "That was basically it. If you have any suggestions for the proposal, or arguments for it, I'd appreciate it."
+' will we seek a second seat?
+
+You ask, "Will we seek a second seat?"
+
+Blink says, "I will naturally make sure Ernest gets some cinnamon rolls when I present this."
+
+Ayderias says to you, "There is no better time."
+
+Ayderias says, "The Pyresians slipped in a candidate due to low attendance. Typical of them to seize the opportunity."
+
+Trystan raises an eyebrow.
+
+Trystan asks, "Who?"
+
+Ayderias says, "The Ambassador from Pyrous."
+' the older lady ?
+
+You ask, "The older lady ?"
+
+Trystan asks, "Was she passed?"
+nod
+
+You nod.
+
+Ayderias nods to Trystan.
+
+who
+[ARRIVALS] 'Geel has logged on.'
+
+   Players Currently Online: 
+ =============================
+
+   Flynt the Sylph                                             
+   Jerrund the Dwarf                                           
+   Bocon the Devalin                                           
+   Seren the Avardi                                            
+   Alexis the Human                                            
+   Xiija the Sylph                                             
+   Elmere the Human                                            
+   Blink the Avardi                                            
+   Bihi the Bolinau                                            
+   Ayderias the Avardi                                         
+   Wren the Human                                              
+   Trystan the Human                                           
+   Ovan the Human                                              
+   Kaiah the Human                                             
+   Geel the Gavial                                             
+
+
+Trystan chuckles.
+say ayd so fast!
+
+You exclaim to Ayderias, "So fast!"
+stare
+
+You stare.
+
+Trystan asks Ayderias, "I'm curious if Wren brought up the bathhouse at the last closed meeting and how it stands?"
+
+Ayderias says, "She will be sworn in this next meeting."
+
+Bihi rolls his eyes.
+gape
+
+You gape.
+
+Ayderias says to Trystan, "I think we avoided that one this time."
+
+Trystan grins at Ayderias.
+
+Ayderias says, "To which I owe Emissary Fairuz-Taqqi for leaving as quickly as possible."
+
+Trystan says, "She'll use the ambassador to push it thru now."
+
+Trystan says, "She's a fan."
+
+Trystan shrugs casually.
+
+Ayderias says, "Regardless of the timing, I feel this temple needs to fill its second seat as I have come to realize I do not represent a majority of you."
+
+Bihi asks, "Oh?"
+say ayd you represent us quite well i thynk
+
+You say to Ayderias, "You represent us quite well I thynk."
+smi ayd
+
+You smile at Ayderias.
+
+Bihi asks Ayderias, "What makes you say that?"
+say ayd you are the most educated of the Conclave too
+
+You say to Ayderias, "You are the most educated of the Conclave too."
+
+Ayderias says to you, "That is kind of you to say, but we all know it is not true. You all are my only interest in all that I do, but my views differ from a great many of you. You all need an equal voice."
+nod softly
+
+You nod softly.
+
+Bihi says, "I do not know it is not true."
+
+Trystan says, "The thought of filling the seat has been at issue for many months."
+
+Trystan raises an eyebrow at Blink.
+
+Trystan glances at you.
+' we here represent a majority of the Temple, may we not choose  officially now?
+
+You ask, "We here represent a majority of the Temple, may we not choose officially now?"
+
+Ayderias says, "Our best candidates traditionally eliminate themselves."
+
+Trystan says, "I see all are so eager to step forward for this."
+nod
+
+You nod.
+
+Blink says, "I will apply if the temple wants me to."
+
+The rain is soaking you!
+
+Trystan leans on an academy-issue canvas backpack.
+
+Bihi pushes the templar forward.
+l sat
+
+It looks like a silver-buckled leather satchel.
+Inside you see:
+
+a loosely-tied leather fish sack
+ a small raven black seven demon silk bag
+ a supple black leather apothecary bag
+ a long cherrywood fishing pole
+ a fresh four leaf clover
+ a transcribed recipe
+ a battered teak baji totem staff
+ a pitch black cotton doublet
+ 
+
+Ayderias says to you, "We can submit someone for the upcoming meeting. If attendance is similar to last month, and with the ambassador's potential vote, it's a good time."
+nod ayd
+
+You nod to Ayderias.
+
+Seren says to Blink, "You know whats going on."
+grin ser
+
+You grin at Seren.
+
+An Aerthanian templar says, "I have but one job and that is to defend those that seek the safety of these pillars."
+
+Bihi says to an Aerthanian templar, "Just joking."
+
+Blink says to an Aerthanian templar, "Oh that's too bad. You'd be a shoo in."
+
+Bihi says, "As much as I would enjoy observing the effect Blink would have on conclave meetings-- I might even try to sell tickets-- I'm not sure Blink would be happy in the position."
+
+Trystan says, "I don't think the position comes with happiness."
+Do we have any volunteers ?
+
+stand
+You need to stand first.
+
+Seren says, "I think he would be."
+
+You stand up.
+' Do we have any volunteers ?
+
+You ask, "Do we have any volunteers ?"
+glan around
+
+You glance around.
+sit
+
+You sit down.
+
+Trystan says, "Just Blink."
+
+Blink says, "Oh well I can make bird noises anywhere."
+
+Bihi says to Blink, "Are you sure you want to do this? You always said otherwise in the past."
+
+Ayderias says, "As the seats fill, it's only a matter of time before a motion is made to delegate our vote to the other sitting meeting if only one were to show."
+nod
+
+You nod.
+
+Ayderias says, "Pardon, the other sitting member."
+
+Trystan says, "I have some ideas on that."
+
+Blink says, "OH well, I have come to realize that all the lawyers have died.d."
+
+Bihi says, "I nominate Seren."
+
+Seren says to Bihi, "I decline."
+
+Trystan chuckles at Seren.
+
+Bihi exclaims, "Second and pass this before she notices!"
+
+Ayderias smiles at Seren.
+
+Seren says, "Id end up bolting someone."
+
+Bihi asks, "And Blink won't?"
+
+Blink says, "I do not bolt people normally."
+
+Ayderias says, "Some nights require a great deal of patience."
+
+Seren says, "Then where would we be... no he wouldnt."
+chu softly
+
+You chuckle softly.
+l
+
+
+
+[Pillars of Aerthane.]
+
+The overlooking corner of the stone slab descends into a square auditorium with wide steps suitable for seating. The rows of steps face a white marble topped altar at the center.  A swirled gray and white marble pillar stands at the corner with a supporting trellis connecting it to evenly spaced pillars along the perimeter.  Each pillar has been polished on one side to a brilliant side, with the opposite side facing the valley depicting intricately carved totems of fierce birds of prey.  You notice an arcsilver-veined white marble topped altar.
+
+Also here: Champion Blink the Avardi, Emissary Ayderias the Avardi (seated) on some wide marble steps, Trystan the Human (seated) on some wide marble steps, Seren the Avardi, Bihi the Bolinau (seated), and an Aerthanian templar (seated) on some wide marble steps 
+
+Obvious Exits: east. 
+
+
+Blink says, "I'm not yet a fully grown thunderbird."
+
+Trystan asks Blink, "You know that emissaries have a tendency of disappearing, right?"
+
+Seren says to Ayderias, "Exactly."
+
+Bihi asks, "Why not Prelate Trystan?"
+
+Trystan wrinkles his nose.
+
+Blink says, "We actually have a temple rule against that."
+chu
+
+You chuckle.
+
+Blink says, "Believe it or not."
+
+Trystan says to Blink, "That wouldn't be violated."
+
+Blink says, "We vote it last year."
+
+Bihi asks, "OUR temple has rules of what we may and may not do? OUR Temple?"
+
+Trystan glances at Bihi and says, "But only the King himself would get me on that council."
+
+Ayderias says to Bihi, "It is a bit strange, but at the time it was decided in the interest of balance."
+
+Bihi asks, "Could you turn an undead into a temporary follower before every session?"
+
+Trystan says to Blink, "But I won't be the one to stand in your way, so feel free."
+grin
+
+You grin.
+
+Blink says, "I will apply, if the temple will support me."
+
+Bihi says to Ayderias, "I think some of the delegates already do that."
+
+The rain tapers off.
+
+Ayderias says to Blink, "I think with this solid proposal of yours, you would be showing you not only care, but are willing to step up to see it through."
+
+Seren nods to Ayderias.
+
+A town crier can be heard shouting in the distance, "Last call for Merchant Manske taking orders for custom containers at his Arkwright Shop within King's Port."
+say bli you may not be the only one applying this time either
+
+You say to Blink, "You may not be the only one applying this time either."
+
+Blink says, "I've heard rumors of the Tetherians considering it."
+
+Ayderias says to Blink, "I think there's an outside chance you may open the door for a tough opposition down the road, but we can't decide based on that."
+
+Blink says, "And Menfanous has been talking about it."
+ nod
+
+You nod.
+' we'll see who gets ryte in, and who has to wait
+
+You say, "We'll see who gets ryte in, and who has to wait."
+smir
+
+You smirk.
+
+Ayderias asks Blink, "Can you be prepared in three days?"
+
+Trystan chuckles.
+
+Blink says, "Yeah, I can. I'll just put aside some of my training."
+
+Blink says, "I've been trying to get tough. Yeah I got some good news from Zykiel, actually."
+
+Ayderias says to Blink, "There's always next month if you need to think about it. This is a lot of pressure all at once."
+
+Blink says, "There are in fact mastadons on the Bison Plains he says."
+
+Blink says, "They are furry elephants."
+grin
+
+You grin.
+
+Bihi asks, "You met someone who's been there?"
+
+Ayderias says to Blink, "Let's hope they still thrive there."
+say ayd why have there been no meeting notes posted in five months?
+
+You ask Ayderias, "Why have there been no meeting notes posted in five months?"
+Blink says, "I guess he has. He seemed to know."
+
+Trystan asks Blink, "How did you explain things to Aruskin last night?"
+
+Blink asks Trystan, "I don't remember. Why?"
+
+Ayderias says to you, "No one cares enough to do it with any consistency it would seem."
+win
+
+You wince.
+
+Trystan says to Blink, "It's an issue that needs working out, my patience is at its end."
+
+Blink says to Ayderias, "It seems the best time to strike is all."
+
+Ayderias says, "Only when there's an opportunity to throw a jab does someone write up the meeting notes."
+
+Bihi asks, "What's this about now?"
+
+Blink says, "I will send Visyn a note and get his help."
+
+Trystan tilts his head to Blink.
+grunt
+
+You grunt.
+
+Trystan says to Blink, "You know it reaches further than that."
+
+Blink asks, "So, will the temple vote me in?"
+
+Ayderias ponders thoughtfully.
+
+Seren says, "I vote for you."
+
+Blink says to Seren, "Oh neat, thanks."
+' a call for votes... all for ?
+
+You ask, "A call for votes... all for ?"
+' Aye
+
+You say, "Aye."
+glan
+
+You glance.
+l
+
+
+
+[Pillars of Aerthane.]
+
+The overlooking corner of the stone slab descends into a square auditorium with wide steps suitable for seating. The rows of steps face a white marble topped altar at the center.  A swirled gray and white marble pillar stands at the corner with a supporting trellis connecting it to evenly spaced pillars along the perimeter.  Each pillar has been polished on one side to a brilliant side, with the opposite side facing the valley depicting intricately carved totems of fierce birds of prey.  You notice an arcsilver-veined white marble topped altar, and a puddle of water.
+
+Also here: Champion Blink the Avardi, Emissary Ayderias the Avardi (seated) on some wide marble steps, Trystan the Human (seated) on some wide marble steps, Seren the Avardi, Bihi the Bolinau (seated), and an Aerthanian templar (seated) on some wide marble steps 
+
+Obvious Exits: east. 
+
+
+Bihi says to Blink, "I'm going to abstain, as I think you'll come to regret this decision."
+' any opposed?
+
+You ask, "Any opposed?"
+
+Ayderias asks Blink, "I think you'd represent a lot of liked minded members of this temple and no citizen has proposed more before conclave. Who better?"
+
+Blink smiles at Ayderias.
+
+Ayderias says to Blink, "Also, Bihi is likely right."
+' thats three For, None against, one Abstain ?
+
+You ask, "Thats three For, None against, one Abstain ?"
+
+Trystan says to Blink, "I wish you luck."
+
+Blink gets a large plush multi-colored thunderbird from a silver-buckled leather satchel.
+
+Blink gets a large plush electric-blue and gold cotton thunderbird from a silver-buckled leather satchel.
+
+Blink says, "Oh well, Mr. Fork and Sparky are for it."
+grin
+
+You grin.
+
+Bihi says to Blink, "On the other hand, you'll probably bring chaos to the conclave, so I can't bring myself to vote AGAINST that."
+<HP: 157/157 ST: 122/122>
+Blink says, "Thanks guys."
+
+Trystan chuckles softly.
+chu bih
+
+You chuckle at Bihi.
+
+Ayderias says to Blink, "Keep your application short. Don't volunteer any excuses or explanations for the past willingly."
+nod ayd
+
+You nod to Ayderias.
+
+Trystan chuckles at Ayderias.
+
+Blink says to Ayderias, "Okay. Good advice."
+
+Ayderias says, "Someone will pry, but let them do it first."
+say bli i can't be there wednesday, but i'm with you in spirit
+
+You say to Blink, "I can't be there wednesday, but I'm with you in spirit."
+
+Blink says, "I was thinking "d mostly say I'd like to be judged on the entirety of my time here.""
+
+Trystan says to Blink, "Don't asked to be judged."
+
+Blink nods.
+
+Ayderias chuckles softly.
+Trystan says to Blink, "Just be you."
+
+Trystan says, "They all know who you are."
+your debts to the Crown have been paid in full anyways
+
+Trystan says, "Stand silently and wait."
+Huh?
+' your debts to the Crown have been paid in full anyways
+
+Bihi says, "I feel you make a better contribution to the world organizing drink nights and group hunts."
+You say, "Your debts to the Crown have been paid in full anyways."
+
+Ayderias says, "I would lead with the proposal first."
+
+Trystan nods his head up and down.
+
+Blink says, "Yeah I planned that."
+
+Blink nods his head up and down.
+
+Ayderias says, "Then follow it up with your commitment to seeing it through."
+nod
+
+You nod.
+
+Trystan says, "And pray many are missing."
+chu
+
+You chuckle.
+say ayd you need sweets to grease up Wren and Ernest with?
+
+You ask Ayderias, "You need sweets to grease up Wren and Ernest with?"
+smir
+
+You smirk.
+glan ser
+
+You glance at Seren.
+
+Ayderias says, "Can't hurt your cause."
+beam
+
+You beam.
+
+Blink says, "I happen to have just ordered many sweets."
+Seren says, "I can cook you up something."
+hum softly
+
+You hum softly.
+
+Blink says, "Cinnamon rolls and ice cream in fact."
+
+Seren says, "Yes the bakery is wonderful."
+' get em all fat n happy before the thyng comes to order
+
+You say, "Get em all fat n happy before the thyng comes to order."
+chu
+
+You chuckle.
+
+Blink says, "And peanut butter, but I ate that."
+l
+
+
+
+[Pillars of Aerthane.]
+
+The overlooking corner of the stone slab descends into a square auditorium with wide steps suitable for seating. The rows of steps face a white marble topped altar at the center.  A swirled gray and white marble pillar stands at the corner with a supporting trellis connecting it to evenly spaced pillars along the perimeter.  Each pillar has been polished on one side to a brilliant side, with the opposite side facing the valley depicting intricately carved totems of fierce birds of prey.  You notice an arcsilver-veined white marble topped altar, and a puddle of water.
+
+Also here: Champion Blink the Avardi, Emissary Ayderias the Avardi (seated) on some wide marble steps, Trystan the Human (seated) on some wide marble steps, Seren the Avardi, Bihi the Bolinau (seated), and an Aerthanian templar (seated) on some wide marble steps 
+
+Obvious Exits: east. 
+
+
+Ayderias says, "I will speak with Emissary O'Hara for you, but I am not optimistic."
+pon
+
+You ponder.
+say ayd promise her your support for somethyng she wants?
+
+You ask Ayderias, "Promise her your support for somethyng she wants?"
+
+Blink says to Ayderias, "I appreciate it. Yeah, it is a tough case. But the fact that Wren might oppose me, might help."
+chu
+
+You chuckle.
+
+Trystan says, "And Faran."
+
+Ayderias says to you, "That doesn't work well with Astraevans or Dwarves."
+nod
+
+You nod.
+
+Bihi yells, "AHHHH! I HATE CONCLAVE POLITICS TALK!"
+Blink says, "I wouldn't lie that anyway."
+cac bih
+
+You cackle at Bihi.
+Trystan flinches.
+
+Blink says, "I wouldn't lie that way anyway."
+
+An Aerthanian templar arrives from the east.
+say bih i hope none of the murder victims was a ... relative?
+
+You ask Bihi, "I hope none of the murder victims was a ... relative?"
+rai bih
+
+You raise an eyebrow at Bihi.
+
+Ayderias asks Bihi, "You're right, we've dominated this conversation with talks of politics. What is on your mind?"
+
+Bihi says, "Some were friends I waved at every time I saw them."
+nod sadly
+
+You nod sadly.
+say try how is the Temple shop comming?
+
+You ask Trystan, "How is the Temple shop comming?"
+
+Bihi says to Ayderias, "Just let folks know my race wants justice for the murders."
+nod bih
+
+You nod to Bihi.
+
+Blink asks, "Oh yeah did we get item suggestions in?"
+
+Trystan says, "We did not."
+' well, then we need to dooo it! ... now?
+
+You ask, "Well, then we need to dooo it! ... now?"
+Seren says to Trystan, "I thought we had a meeting about it."
+
+Blink says, "I thought we sent them to Kiriath or something."
+nod bli
+
+You nod to Blink.
+' redo em tonyte?
+
+You ask, "Redo em tonyte?"
+
+Ayderias says to Bihi, "They've made it clear. We lost two conclave scribes last week who left for Rum Village."
+
+Trystan murmurs.
+win ayd
+
+You wince at Ayderias.
+
+Ayderias says, "Both Bolinau."
+nod  thoughtfully
+
+You nod thoughtfully.
+who
+[ARRIVALS] 'Geel has logged out.'
+
+   Players Currently Online: 
+ =============================
+
+   Flynt the Sylph                                             
+   Jerrund the Dwarf                                           
+   Bocon the Devalin                                           
+   Seren the Avardi                                            
+   Alexis the Human                                            
+   Xiija the Sylph                                             
+   Elmere the Human                                            
+   Blink the Avardi                                            
+   Bihi the Bolinau                                            
+   Ayderias the Avardi                                         
+   Wren the Human                                              
+   Trystan the Human                                           
+   Ovan the Human                                              
+   Kaiah the Human                                             
+
+
+Bihi says, "I might go join them."
+
+Trystan asks Blink, "May I speak with you outside for a moment?"
+smi
+
+You smile.
+l
+
+
+
+[Pillars of Aerthane.]
+
+The overlooking corner of the stone slab descends into a square auditorium with wide steps suitable for seating. The rows of steps face a white marble topped altar at the center.  A swirled gray and white marble pillar stands at the corner with a supporting trellis connecting it to evenly spaced pillars along the perimeter.  Each pillar has been polished on one side to a brilliant side, with the opposite side facing the valley depicting intricately carved totems of fierce birds of prey.  You notice an arcsilver-veined white marble topped altar, and a puddle of water.
+
+Also here: Champion Blink the Avardi, Emissary Ayderias the Avardi (seated) on some wide marble steps, Trystan the Human (seated) on some wide marble steps, Seren the Avardi, Bihi the Bolinau (seated), an Aerthanian templar (seated) on some wide marble steps, and an Aerthanian templar 
+
+Obvious Exits: east. 
+
+
+Blink asks Trystan, "All right. Can they come?"
+
+Blink gestures at a large plush multi-colored thunderbird.
+
+Trystan stands up.
+
+Trystan says to Blink, "Of course not."
+
+Blink says, "Huh."
+
+Blink puts a large plush multi-colored thunderbird in a silver-buckled leather satchel.
+
+Blink puts a large plush electric-blue and gold cotton thunderbird in a silver-buckled leather satchel.
+
+Trystan leaves east.
+' So.. what kinds of items do we want in our shop?
+
+You ask, "So.. what kinds of items do we want in our shop?"
+
+Blink says, "Inside guys."
+
+Blink closes a silver-buckled leather satchel.
+
+Blink leaves east.
+
+Ayderias raises an eyebrow.
+' clothes for new members?
+
+You ask, "Clothes for new members?"
+
+Seren says, "I can't remembe what all we talked about."
+nod ser
+
+You nod to Seren.
+' I thynk Kiriath had the notes.. we must start over?
+
+You ask, "I thynk Kiriath had the notes.. we must start over?"
+Bihi says, "I have several maps I'll put in the shop."
+
+Seren asks, "That and arrows and weapons?"
+beam bih
+
+You beam at Bihi.
+nod ser
+
+You nod to Seren.
+
+Seren says, "Some food or drinks maybe."
+good idea
+
+Huh?
+' good idea
+
+You say, "Good idea."
+
+Bihi says, "Things made of walnut, our wood."
+
+Seren says, "And jewelry."
+' i'd like some token of our Goddess?
+
+You ask, "I'd like some token of our Goddess?"
+nod ser
+
+You nod to Seren.
+
+Seren says, "Yes."
+
+who
+[ARRIVALS] 'Elmere has logged out.'
+
+   Players Currently Online: 
+ =============================
+
+   Flynt the Sylph                                             
+   Jerrund the Dwarf                                           
+   Bocon the Devalin                                           
+   Seren the Avardi                                            
+   Alexis the Human                                            
+   Xiija the Sylph                                             
+   Blink the Avardi                                            
+   Bihi the Bolinau                                            
+   Ayderias the Avardi                                         
+   Wren the Human                                              
+   Trystan the Human                                           
+   Ovan the Human                                              
+   Kaiah the Human                                             
+
+
+Seren says, "Something for each."
+
+Ayderias says, "An assortment of hawks, falcons, eagles, and such would be nice."
+<HP: 157/157 ST: 122/122>
+Seren says, "Priests warriors mages scouts etc."
+
+Seren says, "Yes."
+' ok, does anyone want to arrange the list? ... someone we can send out ideas to?.. or so we just list em all now?
+
+You ask, "Ok, does anyone want to arrange the list? ... someone we can send out ideas to?.. or so we just list em all now?"
+
+Ayderias says, "As well as the most pristine of all the dragons."
+
+Bihi says, "I have a collection of stuffed birds. Some very rare, like psychotic killer turkey."
+smi ayd
+
+You smile at Ayderias.
+grin bih
+
+You grin at Bihi.
+
+Ayderias says, "I believe Trystan has a good relationship with Merchant Blythe."
+nod
+
+You nod.
+
+Blink arrives from the east.
+
+Bihi says, "Everything in the shop should be made by Aerthanes."
+
+Trystan arrives from the east.
+
+An Aerthanian templar nods to Trystan.
+nod bih
+
+You nod to Bihi.
+
+Trystan glances at an Aerthanian templar and nods.
+
+Trystan sits on some wide marble steps.
+
+Ayderias says, "Some leather and steel armor would be beneficial if engraved or branded accordingly."
+say try is there a limit to what the shop may hold?.. armor , weapons, potions?
+
+You ask Trystan, "Is there a limit to what the shop may hold?.. armor , weapons, potions?"
+
+Seren says to Trystan, "If you let us... we'd like to send you our lists of shop items."
+nod ayd
+
+You nod to Ayderias.
+
+Trystan raises an eyebrow at Seren.
+
+Blink says, "Yeah, Master Silverforge offered to make steel armor if we give him a design."
+' nice
+
+You say, "Nice."
+
+Bihi says, "I think it should be a religious shop, focusing on items with a connection to aerthane in some way, like our wood, our stone, birds, etc."
+' we have such a list?
+
+You ask, "We have such a list?"
+rai bih
+
+You raise an eyebrow at Bihi.
+
+Bihi says, "And I think it should be an outlet for Aerthane craftspeople."
+
+Blink says, "Yeah lots of birds."
+
+Ayderias says, "I will find us a collection of books."
+
+Blink asks, "How about some jays?"
+
+Blink says, "Oh neat, books."
+
+Blink cheers.
+
+Ayderias ponders thoughtfully.
+
+Blink asks, "How about some good detective novels?"
+chu
+
+You chuckle.
+
+Ayderias closes his eyes and focuses on the sounds of the surrounding area.  Extending his hand up to Ayderias's temple, Ayderias releases a controlled surge of energy into Ayderias's mind.
+
+
+' a basic scroll for Mages, Priests, etc?
+
+You ask, "A basic scroll for Mages, Priests, etc?"
+
+Blink says, "Air mages. We only have those."
+' one on the arts of woodcraft
+
+You say, "One on the arts of woodcraft."
+
+Trystan tilts his head to the side.
+
+Trystan says, "You will excuse me for a moment."
+nod 
+
+You nod.
+Blink asks, "Oh yeah, how about a book on tornados?"
+Trystan stands up.
+
+Trystan leaves east.
+pray detect disease
+
+
+
+You pray to Aerthane for divine sight.
+narr
+squin
+Your eyes begin to glow as you study your surroundings.
+[Delay: 4.0 sec.]
+
+Blink says, "We're still trying to summon those."
+
+You narrow your eyes.
+<HP: 157/157 ST: 120/122>
+You do not sense any disease.
+
+Seren says, "Perhaps some containers or satchels and that."
+
+You squint.
+Blink gestures at Seren.
+
+murm softly as she rubs her eyes....
+Your eyes adjust as the divine detection fades.
+beam ser
+
+You murmur softly as she rubs her eyes....
+You beam at Seren.
+
+Bihi says, "Unless Master Silverforge is of our faith, I don't think we need his things in our shop."
+
+Blink says, "He's the best smith in town."
+say bih he can craft items with our symbol tho
+
+You say to Bihi, "He can craft items with our symbol tho."
+
+Seren says, "Ive given up on tornadoes... for now anyway."
+grin ser
+
+You grin at Seren.
+
+Bihi says, "Yes, but that's too commercial for a faith based shop."
+
+Blink says to Seren, "Nooooooo. Do not do that."
+
+Blink says to Seren, "They are like fun."
+
+Seren chuckles.
+
+Seren says to Bihi, "Theres no one else who could make those things.."
+
+Ayderias says, "An appropriately crested shield is essential to our templars."
+
+Seren nods to Ayderias.
+
+Bihi says, "Fine, for the templars, but not to sell to tourists and visitors."
+
+Bihi says, "The shop should support our faith and our faithful in every way it can, not just make money."
+
+Seren says, "Tourists and visitors wont be shopping here."
+say bih no one but Aerthanians can enter here
+
+You say to Bihi, "No one but Aerthanians can enter here."
+
+Blink says, "You'd be surprised. Tourists would love official templar shields."
+
+Bihi says, "The gate isn't locked."
+' i found that out when i went into kaeith's temple
+
+You say, "I found that out when I went into kaeith's temple."
+win
+
+You wince.
+
+Ayderias says to Bihi, "The shopkeeper will have expenses, but I am sure a good portion of it will be put back into the stock."
+
+Bihi says, "Cover expenses yes, but the shop on our grounds should be focused on faith, not profit."
+
+Ayderias says to Bihi, "They can refuse to serve others if we so desire. We aren't creating a new bazaar up here for the entire valley."
+
+Seren asks Bihi, "Would you walk into itzals temple and buy something?"
+
+Bihi says, "I'm just saying the shop should have helping the faith and the faithful as it's first priority."
+
+Seren says, "It will."
+
+Ayderias says to Bihi, "I think we are all in agreement on that."
+
+Blink grins.
+smi
+
+You smile.
+
+Bihi says, "So a good rule would be to sell crafted items only from people of our faith."
+
+Bihi says, "Such items will have a special blessing."
+
+Blink says, "I don't understand why we'd turn down the best armor smith in town, however."
+
+Bihi says to Blink, "Go to his shop and buy his armor there. Our shop should be about faith."
+
+Ayderias says to Bihi, "It would be difficult to refuse the offer the master dwarf has made, but merchants like Zykiel can take Trystan's orders to specific merchants if requested."
+' So.. Whyte Dragonds, Falcons, Hawks, for our sigils...Arcsilver, Diamonds, and milky-whyte Opals ...
+
+You say, "So.. Whyte Dragonds, Falcons, Hawks, for our sigils...Arcsilver, Diamonds, and milky-whyte Opals ..."
+nod  thoughtfully
+
+You nod thoughtfully.
+
+who
+[ARRIVALS] 'Jerrund has logged out.'
+' Walnut & marble
+
+   Players Currently Online: 
+ =============================
+
+   Flynt the Sylph                                             
+   Bocon the Devalin                                           
+   Seren the Avardi                                            
+   Alexis the Human                                            
+   Xiija the Sylph                                             
+   Blink the Avardi                                            
+   Bihi the Bolinau                                            
+   Ayderias the Avardi                                         
+   Wren the Human                                              
+   Trystan the Human                                           
+   Ovan the Human                                              
+   Kaiah the Human                                             
+
+
+You say, "Walnut & marble."
+
+Bihi nods to Xiija.
+
+Seren says, "I think we need good items for all of us..."
+' a good start
+
+You say, "A good start."
+
+Blink says, "Tornados would be nice. It works for Trystan."
+nod ser
+
+You nod to Seren.
+
+Ayderias says, "All commonly used amongst the faith, yes."
+
+Seren says, "Alabaster."
+l
+
+
+
+[Pillars of Aerthane.]
+
+The overlooking corner of the stone slab descends into a square auditorium with wide steps suitable for seating. The rows of steps face a white marble topped altar at the center.  A swirled gray and white marble pillar stands at the corner with a supporting trellis connecting it to evenly spaced pillars along the perimeter.  Each pillar has been polished on one side to a brilliant side, with the opposite side facing the valley depicting intricately carved totems of fierce birds of prey.  You notice an arcsilver-veined white marble topped altar, and a puddle of water.
+
+Also here: Emissary Ayderias the Avardi (seated) on some wide marble steps, Seren the Avardi, Bihi the Bolinau (seated), an Aerthanian templar (seated) on some wide marble steps, an Aerthanian templar, and Champion Blink the Avardi 
+
+Obvious Exits: east. 
+
+
+Bihi says, "The shop should be special: unique, and entirely focused on building up our faith, not profit."
+
+Blink asks, "How about some of those sugar cookies?"
+
+Trystan arrives from the east.
+
+Seren says, "Oh yes... cloud shapped sugar cookies."
+grin
+
+You grin.
+Blink grins.
+
+Bihi says, "If Seren makes them, then they belong in our shop."
+nod bih
+
+You nod to Bihi.
+
+Seren says to Ayderias, "Those were the ones you brought."
+
+Bihi says, "It's not the cookie, it's the faith connection that makes them special."
+
+Blink says to Ayderias, "Yeah those were good. I was surprised that you were in fact a baker."
+' we are not posting this on our temple message boards?... by mail only?
+
+You ask, "We are not posting this on our temple message boards?... by mail only?"
+
+Ayderias says to Blink, "I most certainly could handle it, but no, I had those made."
+
+Blink grins.
+say try all is well?
+
+You ask Trystan, "All is well?"
+
+Ayderias listens to Trystan.
+
+Trystan furrows his brow at you.
+
+Trystan says, "I have been shown that I need to keep looking for patience."
+
+Trystan chuckles at you.
+
+Trystan says to you, "After that, take a walk to the atrium before you leave tonight."
+
+Blink says, "Perhaps the board? It might stir up interest from others of our kind."
+grin
+
+You grin.
+nod bli
+
+You nod to Blink.
+smi try
+
+You smile at Trystan.
+
+Trystan asks Ayderias, "Did you say you were going to be at both the open and closed meetings coming up?"
+
+Ayderias says to Trystan, "I will be there."
+
+Trystan nods to Ayderias.
+smi
+
+You smile.
+
+A light wind blows from the west.
+inh
+
+You inhale.
+
+Blink says, "Oh wow. The Lady is saying hi."
+
+Ayderias says, "My temple needs me there, I am there."
+nod bli
+
+You nod to Blink.
+
+Blink says, "Yeah we could use some beak masks, too."
+
+Bihi asks Ayderias, "Have you heard rumors of a prison island the King is establishing?"
+pon
+
+You ponder.
+
+Trystan says to Ayderias, "Look for a letter in the next week or two."
+
+Trystan says to Blink, "I found a little more patience a moment ago. I will see you later."
+
+Ayderias says to Bihi, "Establish? No. Times would need to be pretty tough to open up Blalkreak again."
+<HP: 157/157 ST: 122/122>
+Trystan bows politely before turning to leave.
+
+Blink says to Trystan, "Okay. Have fun."
+
+Trystan leaves east.
+nod  thoughtfully
+
+Blink asks, "What is that?"
+<HP: 157/157 ST: 122/122>
+You nod thoughtfully.
+
+Ayderias asks Blink, "Is there something I am suppose to make of that?"
+
+Bihi says to Ayderias, "The Bolinau see times as pretty tough."
+
+Blink says to Ayderias, "I'm not sure. He wanted to talk to you though I think."
+
+Ayderias says to Blink, "He did not say as much."
+hum softly
+
+You hum softly.
+
+Blink says, "He's been quite upset lately. I guess I may as well tell everyone. He is considering stepping down."
+l
+
+
+
+[Pillars of Aerthane.]
+
+The overlooking corner of the stone slab descends into a square auditorium with wide steps suitable for seating. The rows of steps face a white marble topped altar at the center.  A swirled gray and white marble pillar stands at the corner with a supporting trellis connecting it to evenly spaced pillars along the perimeter.  Each pillar has been polished on one side to a brilliant side, with the opposite side facing the valley depicting intricately carved totems of fierce birds of prey.  You notice an arcsilver-veined white marble topped altar, and a puddle of water.
+
+Also here: Emissary Ayderias the Avardi (seated) on some wide marble steps, Seren the Avardi, Bihi the Bolinau (seated), an Aerthanian templar (seated) on some wide marble steps, an Aerthanian templar, and Champion Blink the Avardi 
+
+Obvious Exits: east. 
+
+nod bli
+
+You nod to Blink.
+
+Blink says, "I've been trying to talk him out of it."
+
+Bihi says to Blink, "I don't think you can just 'step down' after being struck by lightning."
+' i hope he doesn't ..
+
+You say, "I hope he doesn't .."
+
+Bihi says, "Mandates from heaven carry some weight."
+say bih are you a Mage or Priest?
+
+You ask Bihi, "Are you a Mage or Priest?"
+
+Blink says, "Well our last Prelate stepped down and wandered off into the plague lands."
+furr
+
+You furrow your brow.
+win bli
+
+You wince at Blink.
+
+who
+[ARRIVALS] 'Trystan has logged out.'
+   Players Currently Online: 
+ =============================
+
+   Flynt the Sylph                                             
+   Bocon the Devalin                                           
+   Seren the Avardi                                            
+   Alexis the Human                                            
+   Xiija the Sylph                                             
+   Blink the Avardi                                            
+   Bihi the Bolinau                                            
+   Ayderias the Avardi                                         
+   Wren the Human                                              
+   Ovan the Human                                              
+   Kaiah the Human                                             
+
+l bih
+
+Bihi looks like a sturdy 25 year old male Bolinau.
+He has light brown eyes and uneven, shaggy, chestnut brown hair.
+He is 3 feet 7 inches tall and weighs 107 pounds.
+He has an aura of Aerthane.
+Bihi is in perfect health.
+
+
+
+He is wearing:
+
+Head            : a fitted steel helm
+Back            : an academy-issue canvas backpack
+Body            : a long fur-lined cotton coat
+Body            : a green and brown camouflage cotton hunter's cloak
+Torso           : a gleaming wolf-inscribed steel chestplate
+Hands           : some soft buckskin gloves
+Left finger     : a smooth balsa ring
+Legs            : some dark grey wool trousers
+Feet            : some dull black leather boots
+Held            : a fishing pole
+
+Bihi asks you, "No, why do you ask?"
+glan ser
+
+You glance at Seren.
+
+Blink says to you, "He is in fact a cartographer."
+
+Blink says to you, "It's like a tourist, but he can draw."
+
+Seren says, "A scout."
+' if he Does step down, and Ayderias and Blink are on the Conclave.. we need a Mage or Priest to lead us...
+
+You say, "If he Does step down, and Ayderias and Blink are on the Conclave.. we need a Mage or Priest to lead us..."
+glan ser
+
+You glance at Seren.
+rai ser
+
+You raise an eyebrow at Seren.
+l
+
+
+
+[Pillars of Aerthane.]
+
+The overlooking corner of the stone slab descends into a square auditorium with wide steps suitable for seating. The rows of steps face a white marble topped altar at the center.  A swirled gray and white marble pillar stands at the corner with a supporting trellis connecting it to evenly spaced pillars along the perimeter.  Each pillar has been polished on one side to a brilliant side, with the opposite side facing the valley depicting intricately carved totems of fierce birds of prey.  You notice an arcsilver-veined white marble topped altar, and a puddle of water.
+
+Also here: Emissary Ayderias the Avardi (seated) on some wide marble steps, Seren the Avardi, Bihi the Bolinau (seated), an Aerthanian templar (seated) on some wide marble steps, an Aerthanian templar, and Champion Blink the Avardi 
+
+Obvious Exits: east. 
+
+
+Seren says, "Im sure we'll deal with that if it happens."
+nod  thoughtfully
+
+You nod thoughtfully.
+
+Seren says, "Im hoping trystan stays."
+' we all need to give him a hug
+
+You say, "We all need to give him a hug."
+chu  impishly, rubbing her nose...
+
+You chuckle impishly, rubbing her nose...
+Bihi says to you, "Most of us were here when he got his mandate, I don't know if one just 'steps down' when the God appoints."
+nod bih
+
+You nod to Bihi.
+
+Ayderias says to Blink, "He's shared very little of this with me. Emotions were high after our last gathering, or lack thereof, but I would have thought by now he realizes there are storms to weather."
+
+Blink says, "Oh, I do not usually hug. Except maybe Seren."
+
+Bihi says to Blink, "I've seen you hug your thunderbirds."
+chu
+
+You chuckle.
+
+Blink hugs a smoking horned multi-colored feather thunderbird mask.
+
+Blink says, "Oops."
+
+Seren says, "Time will help I hope."
+Blink says, "I hugged myself."
+nod softly
+
+You nod softly.
+
+Bihi exclaims to Blink, "Save it for conclave!"
+
+Ayderias says to Bihi, "If he felt it in the temple's best interest, that is a choice he'd have to make on his own. If there are consequences, he would face them knowingly."
+
+Ayderias says, "That is the freedom of choice."
+nod ayd
+
+You nod to Ayderias.
+
+The wind gusts around you.
+inh
+
+You inhale.
+
+Bihi nods to Ayderias.
+
+A light breeze blows in from the west, swirling around the altar as it transforms into a translucent cyclone of air.
+
+Blink says, "Yeah, it is not something...."
+
+Blink says, "Whoah."
+glan
+
+You glance.
+stand
+
+You stand up.
+fly
+emo fans her multicolored wings swiftly, hovering...
+You launch into the air with a powerful downward thrust of your wings.
+
+Blink cheers.
+
+Xiija fans her multicolored wings swiftly, hovering...
+
+Bihi stands up.
+
+Blink asks, "I forget. Am I allowed let off lightning storms in here?"
+emo tilts her head back, letting the wind hit her face..
+
+Xiija tilts her head back, letting the wind hit her face..
+
+Bihi exclaims to Blink, "Save it for conclave!"
+chu bih
+
+You chuckle at Bihi.
+
+The whirlwind slowly leaves the altar, spiraling rapidly aound the steps, gently passing through you.
+hum softly
+
+You hum softly.
+
+Blink says, "Whooooooah."
+
+Blink swoons.
+
+Seren says, "The lady always hears us."
+
+Blink says, "Darn. I don't have my anemoter here."
+' the Lady is watching over us, all will be well
+
+You say, "The Lady is watching over us, all will be well."
+nod ser
+
+You nod to Seren.
+
+Ayderias smiles at Seren softly.
+
+Ayderias asks Seren, "You felt it as well?"
+
+Blink asks, "Did someone get the wind speed?"
+
+Seren smiles.
+chu
+
+You chuckle.
+' oo . has anyone ever heard... voices in their head before?
+
+You ask, "Oo . has anyone ever heard... voices in their head before?"
+furr
+
+You furrow your brow.
+
+Bihi looks to Blink.
+
+Blink says to you, "Yes many times. Uhoh."
+
+Ayderias closes his eyes and focuses on the sounds of the surrounding area.  Extending his hand up to your temple, Ayderias releases a controlled surge of energy into your mind.
+
+
+Your mind is filled with the whispered thoughts of those around you.
+
+Bihi nods.
+chu
+
+You chuckle.
+
+Blink asks you, "Are the Wyverns talking to you?"
+say i was hunting the other nyte
+
+You say, "I was hunting the other nyte."
+' and i heard a hiss in my head
+
+You say, "And I heard a hiss in my head."
+furr
+
+You furrow your brow.
+
+Blink says, "Oh no."
+
+Seren says, "I belive the dragon was talking to me once."
+
+Blink says, "It sounds like them."
+' it said , do you have it>? ... we Need it!
+
+You exclaim, "It said , do you have it>? ... we Need it!"
+
+Blink says, "They sound kinda like Goblins."
+
+Seren says, "The hissing I believe are the wyverns."
+
+Blink says, "Yep that is the wyverns."
+rai ser
+
+You raise an eyebrow at Seren.
+
+Seren says, "Or one wyvern."
+' ohmy
+
+You say, "Ohmy."
+shiv softly all over
+
+You shiver softly all over.
+
+Blink says, "I think they want that spear Nick has."
+' ahh
+
+You say, "Ahh."
+nod
+
+You nod.
+
+Blink says, "It may be a dragon slayer weapon or something."
+
+Ayderias asks Seren, "You believe a dragon spoke to you?"
+
+The voices in your mind slowly fade.
+
+Seren says to Ayderias, "I believe so."
+
+Seren says, "We were all having voices in our heads talking to us and I had the wyvern at first."
+listen ser
+
+You listen to Seren.
+
+Seren says, "But another voice came in.. I know it wasnt the wyvern."
+
+Seren says, "It was sad."
+
+Ayderias asks, "Could you make anything out?"
+
+Seren says, "Not really but it was like it was so sad ... thoughts of sadness... and I think it has to do with the nest on dragons peak."
+rai ser
+
+You raise an eyebrow at Seren.
+Ayderias furrows his brow.
+
+Bihi asks, "Dragon's peak? Where's that?"
+say bih academy isle
+
+You say to Bihi, "Academy isle."
+
+Ayderias says to Seren, "That must have been quite an experience."
+
+Seren says, "I think the wyvern killed the dragons eggs.."
+
+Seren says, "I was there and saw the egg shells and the pool of poison."
+
+Blink scowls.
+
+Blink says, "Stupid Wyverns."
+
+Ayderias frowns.
+
+Seren says, "And heard them in the air."
+shiv
+
+You shiver.
+
+Seren says, "And I think thats why the dragon killed the wyvern here."
+
+Ayderias says, "It's all rather hard to accept as reality."
+nod  thoughtfully
+
+You nod thoughtfully.
+
+Seren says, "Yes I know but I believe it."
+
+Bihi says, "Maybe it's a metaphor."
+
+Seren says, "Its just how I feel... hard to explain it."
+
+Seren says, "Ive seen things and heard things."
+
+Ayderias says, "These are the stories I've grown up reading...but to experience them first hand is...it's the unknown for me."
+<HP: 157/157 ST: 122/122>
+The wind gusts die down.
+
+Seren shrugs.
+hov
+
+You hover.
+
+Blink says, "Yeah I've been at several of the events. I saw a warship torched, a very large one."
+
+Ayderias says to Seren, "I do not doubt your feeling one bit. I fear for what may be next."
+
+Seren says, "I believe we'll find out whats what eventualy."
+
+Blink says, "Yeah hopefully we get some lightning dragons in here."
+flai bli
+
+You flail your arms at Blink.
+
+Blink says, "It's just what this town needs."
+l
+
+
+
+[Pillars of Aerthane.]
+
+The overlooking corner of the stone slab descends into a square auditorium with wide steps suitable for seating. The rows of steps face a white marble topped altar at the center.  A swirled gray and white marble pillar stands at the corner with a supporting trellis connecting it to evenly spaced pillars along the perimeter.  Each pillar has been polished on one side to a brilliant side, with the opposite side facing the valley depicting intricately carved totems of fierce birds of prey.  You notice an arcsilver-veined white marble topped altar, and a puddle of water.
+
+Also here: Emissary Ayderias the Avardi (seated) on some wide marble steps, Seren the Avardi, Bihi the Bolinau, an Aerthanian templar (seated) on some wide marble steps, an Aerthanian templar, and Champion Blink the Avardi 
+
+Obvious Exits: east. 
+
+
+Ayderias says to Blink, "We should not assume their return would be good for us."
+rai ayd
+
+You raise an eyebrow at Ayderias.
+
+Blink says to Ayderias, "Oh well I'm cool with all lightning creatures."
+
+Bihi says to Blink, "Save them for conclave."
+
+Ayderias says, "They did not leave on good terms after all."
+nod
+
+You nod.
+
+Ayderias says, "We don't know how many or for what purpose. Far too many unknowns."
+<HP: 157/157 ST: 122/122>
+Blink says, "I'm hoping to start a club. Like mages, dragons, and thunderbirds. Maybe some air elementals."
+
+Ayderias says to Seren, "I am glad you were safe during this encounter."
+
+Seren says, "I didnt feel in danger at all... the only thing I didnt like were the wyverns telling me what to do."
+nod
+
+You nod.
+
+Blink says, "Oh yeah. The Wyverns seemed to be searching my mind one night too. It was not fun."
+
+Bihi says, "Probably lost."
+
+Seren says, "Yes geels too."
+Blink says, "They didn't like what they found."
+
+Blink says, "So I perhaps did not know what they wanted."
+pon
+
+You ponder.
+
+Blink says, "They probably got like the names of a bunch of tourists."
+
+Ayderias asks, "Is it possible to block their thoughts?"
+rai ayd
+
+You raise an eyebrow at Ayderias.
+pon that
+
+You ponder that.
+
+Blink says to Ayderias, "Is it? I don't know how."
+' a steel helm?
+
+You ask, "A steel helm?"
+
+Seren says, "Well since what I think was the dragon was in my mind they've left me alone."
+
+Ayderias says, "I've never read of such."
+
+Bihi says, "I'm so happy I've never had to deal with such events."
+
+Blink says, "I was wearing a persarium helm."
+
+Blink taps a horned and beaked persarium helm.
+nod bih
+
+You nod to Bihi.
+
+Ayderias asks Bihi, "Don't want anyone messing around in your head?"
+say bih don't say it too loud
+
+You say to Bihi, "Don't say it too loud."
+snic bih
+
+You snicker at Bihi.
+
+Blink says to Bihi, "Oh I could send you some messages."
+<HP: 157/157 ST: 122/122>
+Seren says, "Or maybe they realized telling me what to do wasnt a good idea."
+
+Bihi says to Ayderias, "No, not especially. Blink is sufficient."
+
+Ayderias chuckles at Bihi.
+grin ser
+
+You grin at Seren.
+
+Ayderias says to Blink, "I thank you for what has been a rejuvenating meeting, but I'm afraid I must be off."
+
+Bihi says, "Changing the subject, maybe I should put all my scouting skills to work to discover the whereabouts of one Yiri Goblin."
+
+Blink says to Seren, "Oh I almost forgot. I'm afraid we are off for three days on the training."
+
+Blink says to Seren, "I gotta focus on the task at hand."
+smi ayd
+
+You smile at Ayderias.
+
+Seren says to Blink, "Thats fine.. yes thats more important."
+
+Blink says to Seren, "We'll start again Thursday."
+
+Seren nods.
+say ayd thank you for all you do!
+
+You exclaim to Ayderias, "Thank you for all you do!"
+
+Seren says, "A vacation."
+beam ayd
+
+You beam at Ayderias.
+
+Blink says, "If you call writing resumes a vacation, yes."
+
+Seren says, "Aydrias yes thank you."
+
+Ayderias says to you, "Be safe. We will find a way out of this."
+
+Blink says, "I would prefer to try this Human activity of camping instead."
+' everyone remember to  write a post on Temple shop items please
+
+You say, "Everyone remember to write a post on Temple shop items please."
+beam ayd
+
+You beam at Ayderias.
+
+Seren says to Blink, "You will be fine."
+nod ser
+
+You nod to Seren.
+grin bli
+
+You grin at Blink.
+
+Bihi says to an Aerthanian templar, "See you later."
+smi bih
+
+You smile at Bihi.
+Ayderias says to Blink, "Perhaps you can arrange a safe meeting between Visyn and Xiija outside the city."
+
+Blink says to Ayderias, "It's pretty weird. Humans go sleep in the forest, like they no longer have houses."
+
+An Aerthanian templar stands up.
+
+An Aerthanian templar salutes to Bihi.
+
+Bihi salutes.
+smi
+
+You smile.
+l
+
+
+
+[Pillars of Aerthane.]
+
+The overlooking corner of the stone slab descends into a square auditorium with wide steps suitable for seating. The rows of steps face a white marble topped altar at the center.  A swirled gray and white marble pillar stands at the corner with a supporting trellis connecting it to evenly spaced pillars along the perimeter.  Each pillar has been polished on one side to a brilliant side, with the opposite side facing the valley depicting intricately carved totems of fierce birds of prey.  You notice an arcsilver-veined white marble topped altar, and a puddle of water.
+
+Also here: Emissary Ayderias the Avardi (seated) on some wide marble steps, Seren the Avardi, Bihi the Bolinau, an Aerthanian templar, an Aerthanian templar, and Champion Blink the Avardi 
+
+Obvious Exits: east. 
+
+
+Blink says to Ayderias, "Okay I'll try. I was going to try to meet him anyway."
+
+Blink says, "Perhaps I can combine the meeting."
+<HP: 157/157 ST: 122/122>
+Ayderias stands up.
+
+Bihi says to Blink, "They like to pretend they are scouts for a day."
+smi softly
+
+You smile softly.
+
+Blink says to Bihi, "Oh yeah that does sound like fun. Be part of Visyn's merry band."
+
+Bihi asks, "Someone zip me back to pearl?"
+glan
+
+You glance.
+
+Blink says, "Sure thing."
+grin
+
+You grin.
+
+Blink asks, "Want to show me your house?"
+
+Bihi follows Blink.
+
+Bihi nods.
+
+Blink says, "Neat."
+
+Ayderias leaves east.
+l
+
+
+
+[Pillars of Aerthane.]
+
+The overlooking corner of the stone slab descends into a square auditorium with wide steps suitable for seating. The rows of steps face a white marble topped altar at the center.  A swirled gray and white marble pillar stands at the corner with a supporting trellis connecting it to evenly spaced pillars along the perimeter.  Each pillar has been polished on one side to a brilliant side, with the opposite side facing the valley depicting intricately carved totems of fierce birds of prey.  You notice an arcsilver-veined white marble topped altar, and a puddle of water.
+
+Also here: Seren the Avardi, Bihi the Bolinau, an Aerthanian templar, an Aerthanian templar, and Champion Blink the Avardi 
+
+Obvious Exits: east. 
+
+
+Blink says, "Good night everyone. thanks for your votes."
+
+Seren says, "Good night."
+
+Bihi waves.
+' good nyte!
+
+You exclaim, "Good nyte!"
+
+Blink says, "I will kiss the babies later."
+
+Seren leaves east.
+say ser keep it in mynd?
+
+You ask, "Ser keep it in mynd?"
+snap
+
+You snap your fingers.
+l
+
+
+
+[Pillars of Aerthane.]
+
+The overlooking corner of the stone slab descends into a square auditorium with wide steps suitable for seating. The rows of steps face a white marble topped altar at the center.  A swirled gray and white marble pillar stands at the corner with a supporting trellis connecting it to evenly spaced pillars along the perimeter.  Each pillar has been polished on one side to a brilliant side, with the opposite side facing the valley depicting intricately carved totems of fierce birds of prey.  You notice an arcsilver-veined white marble topped altar, and a puddle of water.
+
+Also here: Bihi the Bolinau, an Aerthanian templar, an Aerthanian templar, and Champion Blink the Avardi 
+
+Obvious Exits: east. 
+
+chu  softly , stretching a wirey tattoo'd arm to the sky...
+
+You chuckle softly , stretching a wirey tattoo'd arm to the sky...
+
+Bihi asks, "Xiiji any hints on finding Yiri?"
+say bih can an outlaw see your home?
+
+You ask Bihi, "Can an outlaw see your home?"
+say bih look in dark places?
+
+You ask Bihi, "Look in dark places?"
+chu  gently
+
+You chuckle gently.
+
+Bihi nods.
+
+Blink says, "That may be a bad idea right now."
+
+Bihi says, "I know of several."
+nod bli
+
+You nod to Blink.
+grin bih
+
+You grin at Bihi.
+
+Bihi says, "He's killing my kin and friends."
+win
+
+You wince.
+
+Blink says, "As a former lawyer, I'd advise against that."
+
+who
+[ARRIVALS] 'Seren has logged out.'
+
+   Players Currently Online: 
+ =============================
+
+   Flynt the Sylph                                             
+   Bocon the Devalin                                           
+   Alexis the Human                                            
+   Xiija the Sylph                                             
+   Blink the Avardi                                            
+   Bihi the Bolinau                                            
+   Ayderias the Avardi                                         
+   Wren the Human                                              
+   Ovan the Human                                              
+   Kaiah the Human                                             
+
+
+Blink says, "I will tell you about it though."
+smi
+
+You smile.
+
+Bihi says, "Blink, or you could help. Securing a wanted criminal... what better way to assure yourself a conclave seat."
+' you two have fun then
+
+You say, "You two have fun then."
+
+Blink chuckles.
+
+Blink says, "Tricky."
+
+Bihi asks you, "Want to come?"
+' i better not
+
+You say, "I better not."
+chu
+
+You chuckle.
+
+Blink says, "I knew you scouts were about more than bows and tight pants."
+chu bli
+
+You chuckle at Blink.
+l
+
+
+
+[Pillars of Aerthane.]
+
+The overlooking corner of the stone slab descends into a square auditorium with wide steps suitable for seating. The rows of steps face a white marble topped altar at the center.  A swirled gray and white marble pillar stands at the corner with a supporting trellis connecting it to evenly spaced pillars along the perimeter.  Each pillar has been polished on one side to a brilliant side, with the opposite side facing the valley depicting intricately carved totems of fierce birds of prey.  You notice an arcsilver-veined white marble topped altar, and a puddle of water.
+
+Also here: Bihi the Bolinau, an Aerthanian templar, an Aerthanian templar, and Champion Blink the Avardi 
+
+Obvious Exits: east. 
+
+
+Blink says to you, "Good night."
+' Nyte
+
+You say, "Nyte."
+Bihi waves.
+wav
+
+You wave.
+e
+
+
+
+[Pillars of Aerthane.]
+
+Two marble busts sit atop pedestals resting between the perimeter of pillars.  Each bust displays detailed sculpting highlighting every facial feature of the immortalized figures.  A framed archway extends between two columns to the east with a stone slab across the top.  To the west, steps descend into an auditorium that overlooks much of the countryside.  You notice a carved marble archway.
+
+Obvious Exits: west, and south. 
+
+e
+
+
+
+[Aerthane Atrium, Entrance.]
+
+Smoothed walls of alabaster rest between the marble pillars which form a foundation for the ceiling.  Between the western pillars, marble has been chiseled and smoothed into an arched entryway that connects the enclosed area with the rest of the temple.  Marble slabs line the eastern wall.  Carved into steps up to a doorway above.  To the south, the narrow hallway expands into an open air library atrium.  You notice a carved marble archway, some marble steps, and a wooden posting board.
+
+Also here: a gray-robed priest 
+
+Obvious Exits: south. 
+
+e
+
+You can't go that way.
+s
+
+
+
+[Aerthane Atrium.]
+
+A spacious glass atrium with blue sky ferns and white carnation flowers in stone pots surrounding a fountain at its center.  The fountain's base is octagonal-shaped and made of polished grey marble streaked with white veins.  Water trickles down a jagged rock formation at its center, resembling the steep cliffs of a mountain rising out of the ocean.  Benches carved of walnut and bound with polished iron surround the outer walls of the atrium, atop floors of white and gray mosaic tile.  Above, a wooden loft runs around the base of the dome ceiling, with intricately carved alcoves containing countless volumes and tomes.  More alcoves are set further up the wall towards the atrium skylight where books showing more obvious signs of age are stored.  The atrium's skylight consists of large triangular panels, some clear glass, some frosted, while others are empty in a pattern.  At its center, a large circular opening allows for sun and moonlight to illuminate the area, as well as access for winged visitors.  You notice a gray and white marble fountain, and a satin-draped pedestaled glass display case.
+
+Obvious Exits: east, and north. 
+
+u
+
+
+
+[Atrium Library.]
+
+Alcoves cut deep into the tower walls have been aligned around the tower, connected by a railed wooden walkway.  The center of the room is left open, providing a view of the fountain below as well as an unobstructed view of the skylight above from ground level.  Each alcove is lined with shelves containing a wealth of literature.  Small walnut writing desks pressed against the wall between the shelves provide quiet places to read from the nearby collection.  You notice an open carved walnut door.
+
+Obvious Exits: none
+
+u
+
+
+
+[High in the Sky.]
+
+Below the top of the tower, alcoves cut deep into the tower walls have been aligned, connected by a railed wooden walkway.  The center of the room is left open, providing a view of the fountain as well as an unobstructed view of the skylight above from ground level.
+
+Obvious Exits: west. 
+
+w
+
+
+
+[High in the Sky.]
+
+Far below, marble pillars extend out across a stone platform atop the hill.  The slab of stone rises several feet from the earth, with a wide staircase leading up to a small enclosed entrance.  At its center, a white stone tower rises from the pillars.
+
+Obvious Exits: down, west, and east. 
+
+w
+
+
+
+[High in the Sky.]
+
+A white fence at the edge of both sides of the road far below divides the dirt from the grassy foothills extending in either direction.  The path ascends around a steeper hill toward a structure at its summit.
+
+Obvious Exits: down, and east. 
+
+w
+
+You can't go that way.
+d
+
+
+
+[Above Aerthane Hill, Gate.]
+
+A white wooden fence at the edge of both sides of the road below divides the smooth, compacted dirt from the grassy foothills extending in either direction.  The path ascends around a steeper hill toward a structure at its summit.
+
+Obvious Exits: northeast, and down. 
+
+d
+
+
+
+[Aerthane Hill, Gate.]
+
+A white wooden fence at the edge of both sides of the road divides the smooth, compacted dirt from the grassy foothills extending in either direction.  The path ascends around a steeper hill toward a structure at its summit.  You notice a closed white painted iron gate.
+
+Obvious Exits: northeast. 
+
+go gate
+
+unlock gate
+open gate
+go gate
+The white painted iron gate is closed.
+
+who
+[ARRIVALS] 'Flynt has logged out.'
+You unlock a white painted iron gate.
+
+   Players Currently Online: 
+ =============================
+
+   Bocon the Devalin                                           
+   Alexis the Human                                            
+   Xiija the Sylph                                             
+   Blink the Avardi                                            
+   Bihi the Bolinau                                            
+   Ayderias the Avardi                                         
+   Wren the Human                                              
+   Ovan the Human                                              
+   Kaiah the Human                                             
+
+You open a white painted iron gate.
+
+
+
+[Dalarey Road.]
+
+A smooth dirt path parts the grassy foothills, leading up a small mountain to a stone structure at its peak.  The path's entrance shows signs of being maintained.  The fence posts bordering the road are painted white, with a matching painted iron gate crossing the path.  You notice a closed white painted iron gate.
+Aerthane Gate ( aer2 to go to pearl)
+
+Obvious Exits: northwest, and south. 
+
+clo gat
+
+You close a white painted iron gate.
+loc gat
+
+You lock a white painted iron gate.
+u
+
+
+
+[Above Dalarey Road.]
+
+Below, a smooth dirt path parts the grassy foothills, leading up a small mountain to a stone structure at is peak.  The path's entrance shows signs of being maintained.  The fence posts bordering the road are painted white, with a matching painted iron gate crossing the path.
+Aerthane Gate ( aer2 to go to pearl)
+
+Obvious Exits: northwest, down, and south. 
+
+u
+
+You can't go that way.
+nw
+
+
+
+[Above Dalarey Road.]
+
+Fields of grass grow freely, no flowers or trees in sight, outside the smooth, dirt road below.  A broken piece of fence can be seen in the distance, a nest sitting precariously atop it.
+
+nw
+Obvious Exits: southeast, northwest, down, and up. 
+
+nw
+nw
+
+
+[Above Dalarey Road.]
+
+A smooth dirt road stretches out between fields of grass below, marred only by the occasional mark of a wagon wheel.  A torn strap of leather wrapped around a snapped off piece of bone juts out of the dirt, where it meets the grass, just off the path.
+
+Obvious Exits: southeast, northwest, and down. 
+
+
+
+[Above Dalarey Road.]
+
+Towering trees line this stretch of road below, providing a dense but brief canopy.  A large, smooth boulder offers itself as a resting place, the grass beneath it worn into the dirt.
+
+Obvious Exits: southeast, northwest, and down. 
+
+
+
+
+[Above Dalarey Road.]
+
+The road cuts across the valley and farmlands below.  Patches of grass grow bravely along the center of the road.  Muddy ruts along either side show signs of complications for passing wagons during inclement weather.
+
+Obvious Exits: southeast, down, up, and north. 
+
+n
+
+
+
+[Above Dalarey Road.]
+
+Below, the road opens up to the northwest as it intersects with the main road that runs across the valley.  Flowers of all colors grow a safe distance from the road, with a few trees scattered amongst them.
+
+Obvious Exits: northwest, down, and south. 
+
+nw
+
+
+
+[Above Old Heart Crossing.]
+
+Wooden arrows, now severely weathered and grayed, are nailed onto a post below that guides travelers to their destinations.  The main road from the west heads northeast, while another road bisects it from the southeast.  Standing to the east, a popular tavern services passersby looking to rest their lips on a mug.  A pair of wheel ruts loops north of the roadway.
+
+Obvious Exits: southeast, northeast, down, up, west, and east. 
+
+u
+
+
+
+[High in the Sky.]
+
+Wooden arrows, now severely weathered and grayed, are nailed onto a post far below that guides travelers to their destinations.  The main road from the west heads northeast, while another road bisects it from the southeast.  Standing to the east, a popular tavern services passersby looking to rest their lips on a mug.  A pair of wheel ruts loops north of the roadway.
+
+Obvious Exits: southwest, and down. 
+
+pray holyshield
+
+
+You pray to Aerthane, but your prayers go unanswered.
+[Delay: 5.0 sec.]
+
+pray holyshield
+
+
+
+You pray to Aerthane, creating a protective shield around yourself.
+You look protected!
+[Delay: 5.0 sec.]
+
+
+who
+[ARRIVALS] 'Ayderias has logged out.'
+
+   Players Currently Online: 
+ =============================
+
+   Bocon the Devalin                                           
+   Alexis the Human                                            
+   Xiija the Sylph                                             
+   Blink the Avardi                                            
+   Bihi the Bolinau                                            
+   Wren the Human                                              
+   Ovan the Human                                              
+   Kaiah the Human                                             
+
+
+
+
+The holy shield surrounding you fades.
+sk
+   Skill Name                Uses Remaining   Level
+
+   Defending                          50      2
+   Climbing                           900     10
+   Close Combat                       844     13
+   Hiding                             1562    13
+   Wound Mending                      305     5
+   Ranged Combat                      580     6
+   Shield Block                       745     21
+   Turn Undead                        1655    14
+   Unarmed Combat                     462     6
+
+
+
+prayer
+   Prayer Name               Uses Remaining   Level
+
+   Cure Disease                       339     22
+   Cure Poison                        2586    21
+   Detect Disease                     848     10
+   Disease Ward                       832     10
+   Divine Path                        1629    14
+   Healing Touch                      3473    28
+   Holy Shield                        1851    20
+   Inflict Plague                     2413    20
+   Mending Aura                       494     5
+   Rejuvenation                       1494    35
+   Revoke                             1345    19
+   Holy Strike                        3475    28
+
+
+ For more information, see PRAYERS, SPELLS, and TRADES.
+
+quit
+
+y
+Quit -- are you sure (Y/N)?You depart from the world.
+Closed Xiija-offerings.txt on file 1

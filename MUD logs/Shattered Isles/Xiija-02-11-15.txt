@@ -1,0 +1,3513 @@
+l
+
+
+
+[Palace Courtyard.]
+
+Well-traveled, stone bricks cover the ground in an amazing circular pattern leading to the center of the courtyard.  The two-story castle walls are made of huge blocks of smooth white stone.  A gigantic, humbling iron door gleams the reflection of the statue to the south.  Affixed to stone columns on both sides of the door are lanterns brightly burning day and night.  You notice a closed polished iron door, and an elevated white stone balcony.
+
+Also here: Trystan the Human, Champion Blink the Avardi, Geel the Gavial, Seren the Avardi, Merchant Menfanous the Dwarf, Kaiah the Human, Wren the Human, Etsul the Vukasin, Jerem the Human, Flynt the Sylph, and Whitman the Gavial 
+
+Obvious Exits: southwest, southeast, and south. 
+
+
+Flynt puffs on a shiny black lacquered ebony pipe.
+
+[Above...] Allais arrives through a wide stained-glass double doorway.
+appl lightly
+
+You applaud lightly.
+
+Flynt grins.
+
+
+The holy shield surrounding Whitman fades.
+
+Flynt puffs on a shiny black lacquered ebony pipe.
+yell Huzzah!
+
+Flynt applauds too.
+You yell, "HUZZAH!"
+
+Whitman cheers.
+glan
+
+You glance.
+
+Wren brings her hands together in polite applause, then lowers her head.
+
+[Above...] Allais waves slowly towards the crowd, smiling confidently.
+wav
+
+You wave.
+
+Flynt puffs on a shiny black lacquered ebony pipe.
+l u
+
+You don't see anything that way.
+
+Kaiah brings her hands together in a steady clap before they return to the pockets of her duster.
+
+[Above...] Ochir peers at down to the courtyard studying the crowd.
+
+[Above...] Allais says, "Good citizens, I know the hour is late and the weather cold."
+
+Flynt puffs on a shiny black lacquered ebony pipe.
+hov behind Trystan
+
+You must be flying to do that.
+
+Whitman nods.
+duck behind Trystan
+
+You duck behind Trystan.
+
+Flynt puffs on a shiny black lacquered ebony pipe.
+
+Wren slips her hands into the pockets of her paenula to warm them.
+Whitman snickers at Xiija.
+
+Whitman coughs.
+
+Flynt puffs on a shiny black lacquered ebony pipe.
+
+[Above...] Allais says, "Recent events have created a need to speak to you all directly, and so I will be addressing the crisis in the Academy and how it will impact us all here in Pearl."
+
+A gold and white royal armored guard arrives from the south.
+listen intently
+
+You listen intently.
+l
+
+
+
+[Palace Courtyard.]
+
+Well-traveled, stone bricks cover the ground in an amazing circular pattern leading to the center of the courtyard.  The two-story castle walls are made of huge blocks of smooth white stone.  A gigantic, humbling iron door gleams the reflection of the statue to the south.  Affixed to stone columns on both sides of the door are lanterns brightly burning day and night.  You notice a closed polished iron door, and an elevated white stone balcony.
+
+Also here: Trystan the Human, Champion Blink the Avardi, Geel the Gavial, Seren the Avardi, Merchant Menfanous the Dwarf, Kaiah the Human, Wren the Human, Etsul the Vukasin, Jerem the Human, Flynt the Sylph, Whitman the Gavial, and a gold and white royal armored guard 
+
+Obvious Exits: southwest, southeast, and south. 
+
+
+Flynt puffs on a shiny black lacquered ebony pipe.
+
+[Above...] Cascius waves his hand in front of his face to avoid the rising smoke.
+
+Whitman whispers to you, "Another guard's here now, and I don't think it's the one you bribed.".
+
+Jerem glances at Flynt.
+
+Etsul's eyes narrow lighty, his ears turn forward in attention.
+
+Flynt chuckles.
+
+Whitman glances at guards.
+
+Flynt removes a shiny black lacquered ebony pipe.
+whisp whitm i hope its not a setup to Get me
+
+You whisper to Whitman, "I hope its not a setup to Get me.".
+
+
+
+The holy shield surrounding you fades.
+pray holyshield
+
+
+
+You pray to Aerthane, creating a protective shield around yourself.
+You look protected!
+[Delay: 5.0 sec.]
+
+
+Flynt listens with intent interest.
+
+[Above...] Allais says, "As all should know by know, our Academy has suffered a cataclysmic event."
+l
+
+
+
+[Palace Courtyard.]
+
+Well-traveled, stone bricks cover the ground in an amazing circular pattern leading to the center of the courtyard.  The two-story castle walls are made of huge blocks of smooth white stone.  A gigantic, humbling iron door gleams the reflection of the statue to the south.  Affixed to stone columns on both sides of the door are lanterns brightly burning day and night.  You notice a closed polished iron door, and an elevated white stone balcony.
+
+Also here: Trystan the Human, Champion Blink the Avardi, Geel the Gavial, Seren the Avardi, Merchant Menfanous the Dwarf, Kaiah the Human, Wren the Human, Etsul the Vukasin, Jerem the Human, Flynt the Sylph, Whitman the Gavial, and a gold and white royal armored guard 
+
+Obvious Exits: southwest, southeast, and south. 
+
+list is: 
+l n
+
+Looking north you see...
+
+l ne
+l e
+
+You don't see anything that way.
+
+You don't see anything that way.
+l se
+
+Looking southeast you see...
+
+
+[Palace Courtyard.]
+
+Smooth pale stone bricks cover the ground.  The bricks are laid in a flowing circular pattern leading to the center of the courtyard.   A white marble bench sits between potted miniature trees blazing with color.
+
+Obvious Exits: southwest, northwest, and west. 
+
+l s
+l sw
+
+Looking south you see...
+
+
+[Palace Courtyard.]
+
+Smooth, pale stone bricks lead to the center of the courtyard.  Placed in the center is a very romanticized version of a past king.  Standing tall and and very well-built, his detailed marble face rivals those of gods.  You notice a marble statue. 
+
+Also here: a white-armored sentry, and a gold and white royal armored guard
+
+Obvious Exits: west, east, and north. 
+
+Whitman whispers to you, "They wouldn't want to do anything to disturb the prince's speech, but if I were you, I might slip out a little early, mmkay?".
+l w
+
+Looking southwest you see...
+
+
+[Palace Courtyard.]
+
+A flowing circular pattern of smooth pale stone bricks make up the ground.  The bricks lead the eye to the center of the courtyard where a statue of a tall man stands.   A white marble bench sits between potted miniature trees blazing with color.  You notice an open iron lattice royal garden gate. 
+
+Obvious Exits: southeast, northeast, and east. 
+
+<HP: 157/157 ST: 117/121>
+You don't see anything that way.
+l nw
+
+You don't see anything that way.
+l u
+l d
+
+You don't see anything that way.
+
+You don't see anything that way.
+done - Scanlist = north|southeast|south|southwest
+
+
+
+
+
+l
+<HP: 157/157 ST: 121/121><HP: 157/157 ST: 121/121><HP: 157/157 ST: 121/121><HP: 157/157 ST: 121/121>
+
+
+[Palace Courtyard.]
+
+Well-traveled, stone bricks cover the ground in an amazing circular pattern leading to the center of the courtyard.  The two-story castle walls are made of huge blocks of smooth white stone.  A gigantic, humbling iron door gleams the reflection of the statue to the south.  Affixed to stone columns on both sides of the door are lanterns brightly burning day and night.  You notice a closed polished iron door, and an elevated white stone balcony.
+
+Also here: Trystan the Human, Champion Blink the Avardi, Geel the Gavial, Seren the Avardi, Merchant Menfanous the Dwarf, Kaiah the Human, Wren the Human, Etsul the Vukasin, Jerem the Human, Flynt the Sylph, Whitman the Gavial, and a gold and white royal armored guard 
+
+Obvious Exits: southwest, southeast, and south. 
+
+
+Whitman smirks.
+
+[Above...] Ochir nods slowly.
+l balc
+
+
+
+[Palace Balcony.]
+
+Supported by the columns at the entrance of the palace, the balcony overlooks the courtyard.  Symmetrical stonework decorate the covered walkway, keeping the elements at bay.  The city's denizens can easily be addressed from up here.  The stained-glass doorway behind the balcony depicts a vibrant sun amid parting clouds that seem to reflect brightly.  You notice an open wide stained-glass double doorway.
+
+Also here: Lord Marshal Montague the Human, Knight Marshal Ochir the Argali, Knight Marshal Cascius the Human, and King Allais the Human 
+
+l
+
+
+
+[Palace Courtyard.]
+
+Well-traveled, stone bricks cover the ground in an amazing circular pattern leading to the center of the courtyard.  The two-story castle walls are made of huge blocks of smooth white stone.  A gigantic, humbling iron door gleams the reflection of the statue to the south.  Affixed to stone columns on both sides of the door are lanterns brightly burning day and night.  You notice a closed polished iron door, and an elevated white stone balcony.
+
+Also here: Trystan the Human, Champion Blink the Avardi, Geel the Gavial, Seren the Avardi, Merchant Menfanous the Dwarf, Kaiah the Human, Wren the Human, Etsul the Vukasin, Jerem the Human, Flynt the Sylph, Whitman the Gavial, and a gold and white royal armored guard 
+
+Obvious Exits: southwest, southeast, and south. 
+
+
+A gold and white royal armored guard leaves southeast.
+
+[Above...] Allais says, "There's been much debate as to why this happened. Talks of creatures long forgotten, others recently returned, and of course the most obvious of conclusions being that this was simply a natural disaster."
+
+Whitman whispers to you, "One just left, I think you're okay.".
+nod whitm
+
+You nod to Whitman.
+
+Jerem shakes his head from side to side.
+
+Kaiah furrows her brow.
+
+[Above...] Allais says, "My charge as your King is to see that the Bayesian Doctrine is upheld. A promise that the royal family will always put aside its differences in order to serve and protect the Academy."
+appl lightly
+
+You applaud lightly.
+
+Whitman cheers.
+
+Kaiah nods.
+
+[Above...] Allais asks, "Likewise, Pearl demands the same of its citizens. If Shadow and Light cannot coexist together, or the elements outside our home, how can we protect a place where all are welcome?"
+
+Whitman nods.
+
+Etsul twitches his whiskers.
+
+Trystan raises an eyebrow.
+l
+
+
+
+[Palace Courtyard.]
+
+Well-traveled, stone bricks cover the ground in an amazing circular pattern leading to the center of the courtyard.  The two-story castle walls are made of huge blocks of smooth white stone.  A gigantic, humbling iron door gleams the reflection of the statue to the south.  Affixed to stone columns on both sides of the door are lanterns brightly burning day and night.  You notice a closed polished iron door, and an elevated white stone balcony.
+
+Also here: Trystan the Human, Champion Blink the Avardi, Geel the Gavial, Seren the Avardi, Merchant Menfanous the Dwarf, Kaiah the Human, Wren the Human, Etsul the Vukasin, Jerem the Human, Flynt the Sylph, and Whitman the Gavial 
+
+Obvious Exits: southwest, southeast, and south. 
+
+<HP: 157/157 ST: 119/121>
+[Above...] Allais says, "This was no natural disaster, Astraeva knows."
+
+Wren smiles thinly, casting a swift glance to those around her before her eyes return to the King.
+
+Whitman frowns.
+listen intently
+
+You listen intently.
+
+[Above...] Ochir nods slowly.
+
+A gold and white royal armored guard arrives from the southeast.
+
+Whitman whispers to you, "Uh-oh, looks like that ones back.".
+fidg
+
+You fidget.
+
+Whitman glances at the guards.
+
+[Above...] Allais says, "The stories of a beast awakened are indeed true, but only as a result of the rude awakening it suffered. It was also not the cause of the harm done to our Academy."
+
+Whitman sighs.
+
+[Above...] Allais says, "No, this falls squarely on our inability to work together. We have not lived up to the promises made by King Bayesian. We've not honored the wishes of the Gods."
+
+Trystan furrows his brow.
+
+Kaiah frowns.
+glan
+
+You glance.
+
+Menfanous ponders.
+
+Jerem raises an eyebrow.
+' the royal We?
+
+You ask, "The royal We?"
+glan up
+
+You glance up.
+
+Whitman shrugs.
+
+Etsul raises an eyebrow.
+
+[Above...] Allais says, "Our beloved founder and first King believed the Academy was spared for a reason. If part of it has been lost, we must look within to determine what we have done to anger the Gods so."
+
+Wren raises an eyebrow at you.
+
+A shadow stands up off the ground.
+glan
+
+You glance.
+
+Jerem blinks.
+hide
+
+
+
+You fail your attempt to hide.
+[Delay: 3.0 sec.]
+
+Kaiah tilts her head to the side.
+
+[Above...] Cascius gaze over the rail, glaring in the direction of the crowd.
+hide
+
+
+
+You fail your attempt to hide.
+[Delay: 3.0 sec.]
+
+
+Menfanous blinks.
+hide
+
+
+
+You fail your attempt to hide.
+[Delay: 3.0 sec.]
+
+hide
+
+
+
+You fail your attempt to hide.
+[Delay: 3.0 sec.]
+
+
+Etsul blinks.
+Trystan glances at Nocturn.
+l
+
+
+
+[Palace Courtyard.]
+
+Well-traveled, stone bricks cover the ground in an amazing circular pattern leading to the center of the courtyard.  The two-story castle walls are made of huge blocks of smooth white stone.  A gigantic, humbling iron door gleams the reflection of the statue to the south.  Affixed to stone columns on both sides of the door are lanterns brightly burning day and night.  You notice a closed polished iron door, and an elevated white stone balcony.
+
+Also here: Trystan the Human, Champion Blink the Avardi, Geel the Gavial, Seren the Avardi, Merchant Menfanous the Dwarf, Kaiah the Human, Wren the Human, Etsul the Vukasin, Jerem the Human, Flynt the Sylph, Whitman the Gavial, a gold and white royal armored guard, and Nocturn the Shadow 
+
+Obvious Exits: southwest, southeast, and south. 
+
+
+Whitman frowns and backs up.
+
+Trystan says, "Odd."
+stare noc
+
+You stare at Nocturn.
+
+A white-helmed marshal arrives from the southeast.
+l noc
+
+Nocturn looks like a translucent 0 year old male Shadow.
+He has shadowy eyes.
+He is 10 foot tall and weighs 0 pounds.
+He has an aura of Itzal.
+Nocturn is in perfect condition.
+
+A large looming shapeless mass of darkness.  All light in the area seems to be drawn into the void and extinguished.
+
+He is wearing:
+
+Wield           : a shadowy cloud of energy
+Held            : a fishing pole
+
+blan
+
+You blanch.
+
+Jerem looks up at Nocturn.
+
+Whitman whispers to you, "Another marshal just showed up.".
+Etsul's nose twitches as he tastes the air from the new arrival.
+' what Is that?
+
+You ask, "What Is that?"
+
+Menfanous stares Nocturn.
+poi shad
+
+You point shad.
+poi noc
+
+You point noc.
+l
+
+
+
+[Palace Courtyard.]
+
+Well-traveled, stone bricks cover the ground in an amazing circular pattern leading to the center of the courtyard.  The two-story castle walls are made of huge blocks of smooth white stone.  A gigantic, humbling iron door gleams the reflection of the statue to the south.  Affixed to stone columns on both sides of the door are lanterns brightly burning day and night.  You notice a closed polished iron door, and an elevated white stone balcony.
+
+Also here: Trystan the Human, Champion Blink the Avardi, Geel the Gavial, Seren the Avardi, Merchant Menfanous the Dwarf, Kaiah the Human, Wren the Human, Etsul the Vukasin, Jerem the Human, Flynt the Sylph, Whitman the Gavial, a gold and white royal armored guard, and a white-helmed marshal 
+
+Obvious Exits: southwest, southeast, and south. 
+
+furr
+
+You furrow your brow.
+[Above...] Allais says, "These are the very shadows that plague us."
+
+Trystan says, "Some shadow creature."
+<HP: 157/157 ST: 117/121>
+
+
+The holy shield surrounding you fades.
+pray holyshield
+
+
+
+You pray to Aerthane, creating a protective shield around yourself.
+You look protected!
+[Delay: 5.0 sec.]
+
+
+[Above...] Allais says, "Shifting around us, causing problems where none existed before."
+
+Wren says to you, "I think what ever you've been smoking has spread to others."
+
+Jerem blinks.
+nod wre
+
+You nod to Wren.
+
+Etsul glances at Wren.
+l balc
+
+
+
+[Palace Balcony.]
+
+Supported by the columns at the entrance of the palace, the balcony overlooks the courtyard.  Symmetrical stonework decorate the covered walkway, keeping the elements at bay.  The city's denizens can easily be addressed from up here.  The stained-glass doorway behind the balcony depicts a vibrant sun amid parting clouds that seem to reflect brightly.  You notice an open wide stained-glass double doorway.
+
+Also here: Lord Marshal Montague the Human, Knight Marshal Ochir the Argali, Knight Marshal Cascius the Human, and King Allais the Human 
+
+
+Flynt Gaze once again up toward the balcony.
+l
+
+
+
+[Palace Courtyard.]
+
+Well-traveled, stone bricks cover the ground in an amazing circular pattern leading to the center of the courtyard.  The two-story castle walls are made of huge blocks of smooth white stone.  A gigantic, humbling iron door gleams the reflection of the statue to the south.  Affixed to stone columns on both sides of the door are lanterns brightly burning day and night.  You notice a closed polished iron door, and an elevated white stone balcony.
+
+Also here: Trystan the Human, Champion Blink the Avardi, Geel the Gavial, Seren the Avardi, Merchant Menfanous the Dwarf, Kaiah the Human, Wren the Human, Etsul the Vukasin, Jerem the Human, Flynt the Sylph, Whitman the Gavial, a gold and white royal armored guard, and a white-helmed marshal 
+
+Obvious Exits: southwest, southeast, and south. 
+
+
+Kaiah fixes her attention on the balcony, listening.
+
+[Above...] Allais says, "The Academy's severing serves as a warning. We must make a change, or we are doomed to repeat the failures of those that came before us."
+
+Etsul's eyes remain fixed on the shadow.
+
+A white-helmed marshal glances over her shoulder. 
+
+[Above...] Allais says, "That being said, we are faced with an intriguing situation."
+
+Wren tilts her head to the side.
+
+Whitman coughs.
+l
+
+
+
+[Palace Courtyard.]
+
+Well-traveled, stone bricks cover the ground in an amazing circular pattern leading to the center of the courtyard.  The two-story castle walls are made of huge blocks of smooth white stone.  A gigantic, humbling iron door gleams the reflection of the statue to the south.  Affixed to stone columns on both sides of the door are lanterns brightly burning day and night.  You notice a closed polished iron door, and an elevated white stone balcony.
+
+Also here: Trystan the Human, Champion Blink the Avardi, Geel the Gavial, Seren the Avardi, Merchant Menfanous the Dwarf, Kaiah the Human, Wren the Human, Etsul the Vukasin, Jerem the Human, Flynt the Sylph, Whitman the Gavial, a gold and white royal armored guard, and a white-helmed marshal 
+
+Obvious Exits: southwest, southeast, and south. 
+
+
+Whitman asks, "Sorry, but why does the shadow have a fishing pole?"
+
+Kaiah raises an eyebrow at Whitman.
+l
+
+
+
+[Palace Courtyard.]
+
+Well-traveled, stone bricks cover the ground in an amazing circular pattern leading to the center of the courtyard.  The two-story castle walls are made of huge blocks of smooth white stone.  A gigantic, humbling iron door gleams the reflection of the statue to the south.  Affixed to stone columns on both sides of the door are lanterns brightly burning day and night.  You notice a closed polished iron door, and an elevated white stone balcony.
+
+Also here: Trystan the Human, Champion Blink the Avardi, Geel the Gavial, Seren the Avardi, Merchant Menfanous the Dwarf, Kaiah the Human, Wren the Human, Etsul the Vukasin, Jerem the Human, Flynt the Sylph, Whitman the Gavial, a gold and white royal armored guard, and a white-helmed marshal 
+
+Obvious Exits: southwest, southeast, and south. 
+
+
+[Above...] Allais says to Ochir, "If there is another mention of a shadow, remove them from my palace immediately."
+
+Kaiah says to Whitman, "You might want to step away from the sylph, I think you're seeing things."
+
+Kaiah mutters.
+
+Whitman shrugs.
+Wren says, "Aye, stop interrupting the King."
+
+[Above...] Allais raises his hand and clutches it into a fist.
+
+Whitman backs away from Xiija.
+
+Wren quiets.
+
+Kaiah returns her attention to the balcony above.
+
+Etsul blinks, his eyes scaning the courtyard for the shadow.
+l n
+
+Looking north you see...
+
+
+[Above...] Allais says, "I fear these inabilities to focus on the current state of events in our world are what have led us to this grave place."
+
+Whitman whispers to you, "I don't see any graves here... oh wait.".
+
+[OOC TELL] Austere tells you, "Forgive the interruption, please do not post Nocturn's name in any posts, he is on staff."
+reply gotcha :P
+
+[OOC TELL] You tell Austere, "Gotcha :P."
+
+[Above...] Allais says, "Rest assured, the academy remains very much operational and intact. I believe these individuals who chose to forsake their education and live on the outskirts of the Academy, living off its protection and offering nothing in return, ultimately led to their removal."
+
+Grey and gloomy clouds obscure the sky.
+
+A gold and white royal armored guard arrives from the southeast.
+
+A gold and white royal armored guard glances at a faded wanted poster.
+
+A gold and white royal armored guard surveys the area, pausing to examine someone closer.
+
+[Above...] Allais says, "We shall honor the Bayesian name by working together to protect what remains at whatever cost."
+
+Whitman scowls at the clouds.
+
+Wren glances at a gold and white royal armored guard briefly.
+
+Kaiah frowns.
+
+[Above...] Allais says, "As for the newly created island..."
+
+[Above...] Allais says, "I feel it is my duty to bring this lost township and its surrounding areas under the rule of Pearl. Dolorous Island will be established as a new trade colony once adequate additions can be made to the farming community there."
+
+[Above...] Allais says, "The ATC already has a foothold there, which they will be expanding upon at once."
+nod  thoughtfully
+
+You nod thoughtfully.
+
+Etsul's ears twitch.
+who
+
+   Players Currently Online: 
+ =============================
+
+   Blink the Avardi                                            
+   Wren the Human                                              
+   Jerem the Human                                             
+   Xiija the Sylph                                             
+   Seren the Avardi                                            
+   Etsul the Vukasin                                           
+   Geel the Gavial                                             
+   Kaiah the Human                                             
+   Flynt the Sylph                                             
+   Trystan the Human                                           
+   Menfanous the Dwarf                                         
+   Whitman the Gavial                                          
+   Allais the Human                                            
+   Montague the Human                                          
+   Cascius the Human                                           
+   Ochir the Argali                                            
+
+
+
+
+The holy shield surrounding you fades.
+
+[Above...] Allais says, "Through proper guidance, we hope to see this neglected section of the world integrated with modern civilization, and give us all a reason to come together and show the Gods we do not need another lesson. The message was well received."
+
+[Above...] Allais says, "It is the Bayesian way."
+
+[Above...] Allais nods to Cascius.
+
+[Above...] Ochir peers down, studying the crowd.
+
+[Above...] Cascius says, "Citizens, thank you for your time this evening. It is advised that you travel to Dolorous Island in numbers and report any signs of strange activity back to the Marshals at once."
+appl lightly
+
+You applaud lightly.
+
+Flynt ponders.
+
+Flynt nods slowly.
+
+[Above...] Allais says, "The King will not be taking questions. We've all been warned. We all share in stopping this from spreading."
+
+Wren salutes.
+l balc
+
+
+
+[Palace Balcony.]
+
+Supported by the columns at the entrance of the palace, the balcony overlooks the courtyard.  Symmetrical stonework decorate the covered walkway, keeping the elements at bay.  The city's denizens can easily be addressed from up here.  The stained-glass doorway behind the balcony depicts a vibrant sun amid parting clouds that seem to reflect brightly.  You notice an open wide stained-glass double doorway.
+
+Also here: Lord Marshal Montague the Human, Knight Marshal Ochir the Argali, Knight Marshal Cascius the Human, and King Allais the Human 
+
+
+[Above...] Allais follows Montague.
+
+[Above...] Montague nods to Allais.
+
+Kaiah slips her hands from the pockets of her duster to clap briefly.
+
+Menfanous claps.
+
+Wren applauds.
+
+Flynt applauds lightly.
+l
+
+
+
+[Palace Courtyard.]
+
+Well-traveled, stone bricks cover the ground in an amazing circular pattern leading to the center of the courtyard.  The two-story castle walls are made of huge blocks of smooth white stone.  A gigantic, humbling iron door gleams the reflection of the statue to the south.  Affixed to stone columns on both sides of the door are lanterns brightly burning day and night.  You notice a closed polished iron door, and an elevated white stone balcony.
+
+Also here: Trystan the Human, Champion Blink the Avardi, Geel the Gavial, Seren the Avardi, Merchant Menfanous the Dwarf, Kaiah the Human, Wren the Human, Etsul the Vukasin, Jerem the Human, Flynt the Sylph, Whitman the Gavial, a gold and white royal armored guard, a white-helmed marshal, and a gold and white royal armored guard 
+
+Obvious Exits: southwest, southeast, and south. 
+
+
+[Above...] Allais says, "There will always be light after darkness."
+
+Etsul exhales through is nose in a short, sudden burst.
+
+[Above...] Montague leaves through a wide stained-glass double doorway.
+[Above...] Ochir leaves through a wide stained-glass double doorway.
+[Above...] Cascius leaves through a wide stained-glass double doorway.
+[Above...] Allais leaves through a wide stained-glass double doorway.
+rai try
+
+You raise an eyebrow at Trystan.
+Trystan murmurs something about being doomed as he brings his hands together in a soft clap.
+
+Wren says, "Mm. Long may He reign."
+[Above...] The wide stained-glass double doorway to the north closes.
+
+Blink says, "Weird."
+
+Flynt says, "Well. I am not sure what to make of that."
+
+Kaiah nods to Wren.
+
+who
+[ARRIVALS] 'Montague has logged out.'
+
+   Players Currently Online: 
+ =============================
+
+   Blink the Avardi                                            
+   Wren the Human                                              
+   Jerem the Human                                             
+   Xiija the Sylph                                             
+   Seren the Avardi                                            
+   Etsul the Vukasin                                           
+   Geel the Gavial                                             
+   Kaiah the Human                                             
+   Flynt the Sylph                                             
+   Trystan the Human                                           
+   Menfanous the Dwarf                                         
+   Whitman the Gavial                                          
+   Allais the Human                                            
+   Cascius the Human                                           
+   Ochir the Argali                                            
+
+
+Geel chuckles at Seren.
+
+Wren peers at Kaiah and grins widely, her teeth gleaming.
+
+Geel shakes his head from side to side.
+<HP: 157/157 ST: 121/121>
+Seren grins.
+
+Blink asks, "IT's like he wants us to hunt ice trolls?"
+
+Kaiah asks Wren, "Shall we?"
+say that didn't take long.... a new island is formed, he snatches it up and names it and... Boom, taxes!
+
+You exclaim, "That didn't take long.... a new island is formed, he snatches it up and names it and... Boom, taxes!"
+cac
+
+You cackle.
+
+Kaiah winks at Wren.
+chu bli
+
+Currents of air begin to gather around Seren, building a zephyr around the area as Seren's eyes turn a milky white.
+You chuckle at Blink.
+Geel says to Seren, "Well that is time stolen we will never be able to reclaim."
+
+Wren chuckles at Kaiah softly.
+
+Menfanous smiles.
+
+The soft zephyr fades as Seren's eyes return to normal.
+
+Wren glances at Menfanous.
+
+Blink says, "Oh wow. Poor trolls. They are not used to taxes."
+
+Wren squints at Menfanous.
+
+Jerem says to you, "I think he must have been using the royal We."
+l
+
+
+
+[Palace Courtyard.]
+
+Well-traveled, stone bricks cover the ground in an amazing circular pattern leading to the center of the courtyard.  The two-story castle walls are made of huge blocks of smooth white stone.  A gigantic, humbling iron door gleams the reflection of the statue to the south.  Affixed to stone columns on both sides of the door are lanterns brightly burning day and night.  You notice a closed polished iron door, and an elevated white stone balcony.
+
+Also here: Trystan the Human, Champion Blink the Avardi, Geel the Gavial, Seren the Avardi, Merchant Menfanous the Dwarf, Kaiah the Human, Wren the Human, Etsul the Vukasin, Jerem the Human, Flynt the Sylph, Whitman the Gavial, a gold and white royal armored guard, a white-helmed marshal, and a gold and white royal armored guard 
+
+Obvious Exits: southwest, southeast, and south. 
+
+
+Menfanous asks Wren, "What?"
+grin jer
+
+You grin at Jerem.
+
+Trystan shakes his head from side to side.
+
+Wren blinks at Menfanous and averts her gaze.
+
+Kaiah grins at Menfanous.
+
+Menfanous flails his arms.
+
+Kaiah says to Menfanous, "You got something she fancies."
+
+Kaiah waves to Menfanous.
+
+Flynt taps his shiny black lacquered ebony pipe to clear it of ash.
+
+Menfanous asks, "What?"
+
+Wren murmurs.
+
+Kaiah leaves southeast.
+Wren leaves southeast.
+
+Blink chuckles.
+
+Menfanous flails his arms.
+
+Menfanous mumbles.
+
+Blink says to Menfanous, "She wants your haggis."
+grim
+
+You grimace.
+<HP: 157/157 ST: 121/121>
+A polished iron door to the north is unlocked from the other side.
+
+Menfanous exclaims, "I knew it!"
+
+The polished iron door to the north opens.
+
+Whitman blinks.
+
+Cascius arrives through a polished iron door.
+Trystan asks, "So this was brought on by who again?"
+glan
+
+You glance.
+Flynt says to Jerem, "Head back to the bank please, when you are ready."
+
+Ochir arrives through a polished iron door.
+
+Cascius closes a polished iron door.
+
+Cascius locks a polished iron door.
+
+Menfanous bows to Cascius.
+say try us?
+
+You ask Trystan, "Us?"
+
+Cascius glances around.
+
+Geel says to Trystan, "I believe he said it was you."
+
+Geel grins at Trystan.
+
+Cascius says to Ochir, "That's the one."
+
+Trystan nods slowly.
+
+Cascius points at you.
+s
+
+
+
+[Palace Courtyard.]
+
+Smooth, pale stone bricks lead to the center of the courtyard.  Placed in the center is a very romanticized version of a past king.  Standing tall and and very well-built, his detailed marble face rivals those of gods.  You notice a marble statue.
+
+s
+Also here: a white-armored sentry 
+
+Obvious Exits: west, east, and north. 
+
+se
+se
+se
+You can't go that way.
+se
+e
+You can't go that way.
+
+You can't go that way.
+
+You can't go that way.
+
+You can't go that way.
+
+
+
+[Palace Courtyard.]
+
+Smooth pale stone bricks cover the ground.  The bricks are laid in a flowing circular pattern leading to the center of the courtyard.   A white marble bench sits between potted miniature trees blazing with color.
+
+Obvious Exits: southwest, northwest, and west. 
+
+hide
+
+
+
+
+You conceal yourself from plain view.
+[Delay: 3.0 sec.]
+
+l w
+
+Looking west you see...
+
+
+[Palace Courtyard.]
+
+Smooth, pale stone bricks lead to the center of the courtyard.  Placed in the center is a very romanticized version of a past king.  Standing tall and and very well-built, his detailed marble face rivals those of gods.  You notice a marble statue. 
+
+Also here: a white-armored sentry, Knight Marshal Ochir the Argali, and Knight Marshal Cascius the Human
+
+Obvious Exits: west, east, and north. 
+
+l sw
+
+Looking southwest you see...
+
+
+[Palace Courtyard Entrance.]
+
+A continuous row of manicured hedges to the north wrap around this side of the courtyard.  Rising up behind the hedges is the smooth white stone of the castle walls.  The pathway is made of pale stone bricks circling around the hedges.  You notice an open reinforced wrought iron gate. 
+
+Also here: a gold and white royal armored guard
+
+Obvious Exits: northwest, and northeast. 
+
+
+Ochir arrives from the west.
+Cascius arrives from the west.
+
+Ochir leaves southwest.
+Cascius leaves southwest.
+
+Trystan arrives from the northwest.
+Blink arrives from the northwest.
+
+Trystan leaves southwest.
+Blink leaves southwest.
+You follow Trystan southwest.
+You reveal yourself from your hidden position.
+
+
+[Palace Courtyard Entrance.]
+
+A continuous row of manicured hedges to the north wrap around this side of the courtyard.  Rising up behind the hedges is the smooth white stone of the castle walls.  The pathway is made of pale stone bricks circling around the hedges.  You notice an open reinforced wrought iron gate.
+
+Also here: a gold and white royal armored guard, Trystan the Human, and Champion Blink the Avardi 
+
+Obvious Exits: northwest, and northeast. 
+
+
+Trystan leaves through a reinforced wrought iron gate.
+Blink leaves through a reinforced wrought iron gate.
+You follow Trystan south.
+
+
+[Palace Gate.]
+
+The brick walls that line the way narrow slightly as they bisect with the taller stone wall that makes up the outer defense of the royal palace.  A tall wrought-iron gate stretches across the road, its bars so closely aligned that little can be seen through it.  Royal guards patrol the gateway at all hours, making sure no ill-intent visitors slip through onto the palace grounds.  You notice an open reinforced wrought iron gate.
+
+Also here: Trystan the Human, and Champion Blink the Avardi 
+
+Obvious Exits: south. 
+
+
+Trystan leaves south.
+Blink leaves south.
+You follow Trystan south.
+
+
+[Covington Lane.]
+
+The towering oaks that line much of the road from the center of Pearl stop before reaching the palace gates.  The last of the stand is too far from the wall for anyone to climb in an attempt to jump over to the north.  An imposing portcullis can be seen down the western bend of the path.  Stone pillars at either corner of the northern wall mark the end of each divider that connect to the looming palace walls.
+
+Also here: Trystan the Human, and Champion Blink the Avardi 
+
+Obvious Exits: west, south, and north. 
+
+cac
+
+You cackle.
+Trystan leaves south.
+Blink leaves south.
+You follow Trystan south.
+
+
+[Covington Lane.]
+
+Statues of angelic design are contrasted by a few randomly placed and oddly positioned gargoyle figures as they peer down at the road from atop the mausoleum along the east.  Traffic this far north is sparse, as the northern end nears the palace gates.
+
+Also here: a white-helmed marshal, Trystan the Human, and Champion Blink the Avardi 
+
+Obvious Exits: south, and north. 
+
+
+Trystan leaves south.
+Blink leaves south.
+You follow Trystan south.
+
+
+[Covington Lane.]
+
+Beyond the line of oak trees is a towering sandstone pyramid rising in the west above the elegant homes that make up the noble district.  The red and grey cobblestone roadway is lined with oaks, shrubbery, and a narrow strips of well-manicured grass.  Workers tend to the greenery daily, making sure it is always presentable should any member of the royal family decide to venture south from the palace.
+
+Also here: a gold and white royal armored guard, Knight Marshal Ochir the Argali, Knight Marshal Cascius the Human, Trystan the Human, and Champion Blink the Avardi 
+
+Obvious Exits: south, and north. 
+
+
+Trystan leaves south.
+' run dammit
+Blink leaves south.
+You follow Trystan south.
+
+
+[Covington Lane.]
+
+The bustling sounds of Bayesian Court can be heard beyond an inner wall to the west.  Sturdy oaks limit the view on either side of the road, from the wall to the back of the city's stone mausoleum on the eastern side.  It serves as the final resting place for the kings and queens of old.  Access to the regal crypt is granted at the opposite side along the city wall, as there is no entrance here.  Further up the road to the north, a tall gate stands at the edge of the palace grounds.
+
+Also here: Trystan the Human, and Champion Blink the Avardi 
+
+Obvious Exits: east, south, and north. 
+
+You say, "Run dammit."
+
+Ochir arrives from the north.
+Cascius arrives from the north.
+
+Trystan leaves south.
+Blink leaves south.
+You follow Trystan south.
+
+
+[Covington Lane.]
+
+Massive oaks have been evenly spaced along both sides of the road.  Their branches arch across the street, giving it a tunnel effect as they speckle the ground with shadowy patches of shade during the daytime.  The royal palace rises up across the northern horizon as the road inclines with the contours of the land.  The salty smell of ocean water drifts in from the bay to the south.
+
+Also here: a bolinau letter courier, Trystan the Human, and Champion Blink the Avardi 
+
+Obvious Exits: south, and north. 
+
+
+Ochir arrives from the north.
+Cascius arrives from the north.
+<HP: 157/157 ST: 121/121>
+Trystan leaves south.
+Blink leaves south.
+You follow Trystan south.
+
+
+[Covington Lane.]
+
+A small brick wall provides a western border along the road, just beyond some tall oak trees.  The trees provide adequate shade for a narrow stretch of grass on that side.  The city's conclave chambers stand to the east, accessible from the next street over, this side of the tunnel.
+
+Also here: Trystan the Human, and Champion Blink the Avardi 
+
+Obvious Exits: south, and north. 
+
+
+Ochir arrives from the north.
+Cascius arrives from the north.
+Trystan leaves south.
+Blink leaves south.
+You follow Trystan south.
+
+
+[Covington Lane.]
+
+The long reaching branches of tall oaks stretch out across the road from either side.  Heading north toward the royal palace is a decorative roadway of alternating red and grey bricks interlocked in horizontal and vertical positions.  The multi-colored stones begin at the edge of a intersection, where a circular plaza unites the many roads of the port city.
+
+Also here: Trystan the Human, and Champion Blink the Avardi 
+
+Obvious Exits: east, south, and north. 
+
+
+Ochir arrives from the north.
+Cascius arrives from the north.
+<HP: 157/157 ST: 121/121>
+Trystan leaves south.
+Blink leaves south.
+You follow Trystan south.
+
+
+[City of Pearl, Center.]
+
+Granting an uninhibited view of the bustling shipping industry, a stone seawall bevels out behind a long crescent bench and creates a half-moon addition to the congested crossroads at the heart of the city.  The vast water of the bay expands beyond the southern stone wall.  Ships of all sizes pass by the seafront as they make their way in and out of the harbor to the south.  The streets head in many directions, as well as a tunnel to the northeast.  At the center of the intersection is an elegantly carved monument of a giant pearl atop a tall obelisk.  The base of the centerpiece rests at the bottom of a shallow fountain that has a burning spear pointing down into the water.  A small stone sundial has been carved on the rim of the fountain.  You notice a wooden directional signpost.
+
+Also here: Trystan the Human, and Champion Blink the Avardi 
+
+Obvious Exits: southwest, southeast, northwest, northeast, west, east, and north. 
+
+Ochir arrives from the north.
+Cascius arrives from the north.
+
+Trystan leaves northeast.
+Blink leaves northeast.
+You follow Trystan northeast.
+
+
+[Victory Tunnel, Entrance.]
+
+A sandstone structure of dwarven design hunches over the road to the northeast, creating a tunnel.  The arched entrance is framed with symmetrical sandstone squares that meet at a decorative keystone.  Potted ferns sit at the base of the building on either side of the street.  The center of the city opens up to the southwest.  You notice an open towering reinforced steel gate.
+
+Also here: Trystan the Human, and Champion Blink the Avardi 
+
+Obvious Exits: southwest, northeast, and west. 
+
+
+Trystan leaves west.
+Blink leaves west.
+You follow Trystan west.
+
+
+[Covington Lane.]
+
+The long reaching branches of tall oaks stretch out across the road from either side.  Heading north toward the royal palace is a decorative roadway of alternating red and grey bricks interlocked in horizontal and vertical positions.  The multi-colored stones begin at the edge of a intersection, where a circular plaza unites the many roads of the port city.
+
+Also here: Trystan the Human, and Champion Blink the Avardi 
+
+Obvious Exits: east, south, and north. 
+
+u
+
+fly
+u
+You need wings to fly in that direction.
+
+fly
+hover around quietly in a small circle
+You are already flying.
+emo fans her multicolored wings swiftly, hovering...
+
+[Below...] Trystan asks, "Why?"
+You hover around quietly in a small circle.
+Xiija fans her multicolored wings swiftly, hovering...
+u
+
+You can't go that way.
+Sentries take their positions across the city, blocking points of entry
+
+[Below...] Blink says, "I don't know."
+l d
+
+Looking down you see...
+
+
+[Covington Lane.]
+
+The long reaching branches of tall oaks stretch out across the road from either side.  Heading north toward the royal palace is a decorative roadway of alternating red and grey bricks interlocked in horizontal and vertical positions.  The multi-colored stones begin at the edge of a intersection, where a circular plaza unites the many roads of the port city.
+
+Also here: Trystan the Human, and Champion Blink the Avardi
+
+Obvious Exits: east, south, and north. 
+
+
+[Below...] Trystan glances at Blink.
+
+[Below...] Jerem arrives from the north.
+d
+[Below...] Whitman arrives from the north.
+[Below...] Flynt arrives from the north.
+
+
+
+[Covington Lane.]
+
+The long reaching branches of tall oaks stretch out across the road from either side.  Heading north toward the royal palace is a decorative roadway of alternating red and grey bricks interlocked in horizontal and vertical positions.  The multi-colored stones begin at the edge of a intersection, where a circular plaza unites the many roads of the port city.
+
+Also here: Trystan the Human, Champion Blink the Avardi, Jerem the Human, Whitman the Gavial, and Flynt the Sylph 
+
+Obvious Exits: east, south, and north. 
+
+u
+
+
+
+[Above Covington Lane.]
+
+Below, the long reaching branches of tall oaks stretch out across the road from either side.  Heading north toward the royal palace is a decorative roadway of alternating red and grey bricks interlocked in horizontal and vertical positions.  The multi-colored stones begin at the edge of a intersection, where a circular plaza unites the many roads of the port city.
+
+Obvious Exits: down, south, and north. 
+
+
+[Below...] Geel arrives from the north.
+d
+[Below...] Seren arrives from the north.
+
+
+
+[Covington Lane.]
+
+The long reaching branches of tall oaks stretch out across the road from either side.  Heading north toward the royal palace is a decorative roadway of alternating red and grey bricks interlocked in horizontal and vertical positions.  The multi-colored stones begin at the edge of a intersection, where a circular plaza unites the many roads of the port city.
+
+Also here: Trystan the Human, Champion Blink the Avardi, Jerem the Human, Whitman the Gavial, Flynt the Sylph, Geel the Gavial, and Seren the Avardi 
+
+Obvious Exits: east, south, and north. 
+
+
+Flynt says, "I guess she has made the official fugitive list."
+
+Trystan shakes his head from side to side.
+
+Ochir arrives from the south.
+Cascius arrives from the south.
+
+Flynt says, "Xiija."
+' what. the . hell
+
+You say, "What. the . hell."
+
+Whitman says to you, "I warned you."
+
+Geel leaves south.
+Seren leaves south.
+
+Jerem chuckles.
+u
+
+
+
+[Above Covington Lane.]
+
+Below, the long reaching branches of tall oaks stretch out across the road from either side.  Heading north toward the royal palace is a decorative roadway of alternating red and grey bricks interlocked in horizontal and vertical positions.  The multi-colored stones begin at the edge of a intersection, where a circular plaza unites the many roads of the port city.
+
+Obvious Exits: down, south, and north. 
+
+[Below...] Ochir points xii.
+l d
+
+[Below...] Cascius grits his teeth.
+Looking down you see...
+
+
+[Covington Lane.]
+
+The long reaching branches of tall oaks stretch out across the road from either side.  Heading north toward the royal palace is a decorative roadway of alternating red and grey bricks interlocked in horizontal and vertical positions.  The multi-colored stones begin at the edge of a intersection, where a circular plaza unites the many roads of the port city.
+
+Also here: Trystan the Human, Champion Blink the Avardi, Jerem the Human, Whitman the Gavial, Flynt the Sylph, Knight Marshal Ochir the Argali, and Knight Marshal Cascius the Human
+
+Obvious Exits: east, south, and north. 
+
+
+[Below...] Ochir glances up.
+
+[Below...] Menfanous arrives from the north.
+yell i was given tyme!
+
+You yell, "I WAS GIVEN TYME!"
+
+[Below...] Menfanous leaves south.
+
+[Below...] Trystan asks, "Something amiss?"
+l sat
+
+It looks like a silver-buckled leather satchel.
+Inside you see:
+
+a loosely-tied leather fish sack
+ a small raven black seven demon silk bag
+ a supple black leather apothecary bag
+ a long cherrywood fishing pole
+ a transcribed recipe
+ a fresh four leaf clover
+ a white paper sack
+ a glass hookah
+ 
+
+[Below...] Ochir glances at Trystan quickly.
+
+[Below...] Ochir peers up.
+
+[Below...] Flynt says, "It would seem that the time is up."
+
+who
+[ARRIVALS] 'Alexis has logged on.'
+
+   Players Currently Online: 
+ =============================
+
+   Blink the Avardi                                            
+   Wren the Human                                              
+   Jerem the Human                                             
+   Xiija the Sylph                                             
+   Seren the Avardi                                            
+   Etsul the Vukasin                                           
+   Geel the Gavial                                             
+   Kaiah the Human                                             
+   Flynt the Sylph                                             
+   Trystan the Human                                           
+   Menfanous the Dwarf                                         
+   Whitman the Gavial                                          
+   Allais the Human                                            
+   Cascius the Human                                           
+   Ochir the Argali                                            
+   Alexis the Human                                            
+
+
+[Below...] Cascius says to Ochir, "If she will not subject to questioning, force will be required."
+
+[Below...] Jerem blinks.
+
+[Below...] Jerem winces.
+
+[Below...] Trystan asks, "What of Emissary Clarveu?"
+yell my Emissary will see me this week!
+
+You yell, "MY EMISSARY WILL SEE ME THIS WEEK!"
+[Below...] Etsul arrives from the north.
+
+who
+[ARRIVALS] 'Steragnus has logged on.'
+
+   Players Currently Online: 
+ =============================
+
+   Blink the Avardi                                            
+   Wren the Human                                              
+   Jerem the Human                                             
+   Xiija the Sylph                                             
+   Seren the Avardi                                            
+   Etsul the Vukasin                                           
+   Geel the Gavial                                             
+   Kaiah the Human                                             
+   Flynt the Sylph                                             
+   Trystan the Human                                           
+   Menfanous the Dwarf                                         
+   Whitman the Gavial                                          
+   Allais the Human                                            
+   Steragnus the Gargoyle                                      
+   Cascius the Human                                           
+   Ochir the Argali                                            
+   Alexis the Human                                            
+
+
+[Below...] Etsul glances north.
+
+[Below...] Blink stops following Trystan.
+
+[Below...] Blink leaves north.
+l d
+
+Looking down you see...
+
+
+[Covington Lane.]
+
+The long reaching branches of tall oaks stretch out across the road from either side.  Heading north toward the royal palace is a decorative roadway of alternating red and grey bricks interlocked in horizontal and vertical positions.  The multi-colored stones begin at the edge of a intersection, where a circular plaza unites the many roads of the port city.
+
+Also here: Trystan the Human, Jerem the Human, Whitman the Gavial, Flynt the Sylph, Knight Marshal Ochir the Argali, Knight Marshal Cascius the Human, and Etsul the Vukasin
+
+Obvious Exits: east, south, and north. 
+
+
+[Below...] Etsul glances at the crowd, his eyes resting on the Marshals.
+
+[Below...] Etsul leaves south.
+
+Blink thinks to you, "They said they will have to use force if you don't go to questioning. I suggest you do it. It will cause far more trouble if you don't."
+
+l
+
+
+
+[Above Covington Lane.]
+
+Below, the long reaching branches of tall oaks stretch out across the road from either side.  Heading north toward the royal palace is a decorative roadway of alternating red and grey bricks interlocked in horizontal and vertical positions.  The multi-colored stones begin at the edge of a intersection, where a circular plaza unites the many roads of the port city.
+
+Obvious Exits: down, south, and north. 
+
+
+[Below...] Cascius yells, "WE'VE LOST PATIENCE WITH YOUR EMISSARY. COME WITH US AT ONCE, OR BE CONSIDERED AN OUTLAW OF THE CITY."
+You hear someone yell below, "WE'VE LOST PATIENCE WITH YOUR EMISSARY. COME WITH US AT ONCE, OR BE CONSIDERED AN OUTLAW OF THE CITY."
+
+[Below...] Ochir says to Cascius, "The gargoyle will be to be summoned."
+
+[Below...] Cascius nods to Ochir.
+
+[Below...] Whitman grimaces.
+
+[Below...] Trystan says, "I spose it's been a few months since a Knight Marshal was hung."
+
+[Below...] Menfanous arrives from the south.
+
+[Below...] Blink arrives from the north.
+
+[Below...] Cascius glances at Trystan.
+
+[Below...] Menfanous glances.
+yell i will meet with you on Aerthanes temple lands
+
+You yell, "I WILL MEET WITH YOU ON AERTHANES TEMPLE LANDS."
+
+who
+[ARRIVALS] 'Etsul has logged out.'
+   Players Currently Online: 
+ =============================
+
+   Blink the Avardi                                            
+   Wren the Human                                              
+   Jerem the Human                                             
+   Xiija the Sylph                                             
+   Seren the Avardi                                            
+   Geel the Gavial                                             
+   Kaiah the Human                                             
+   Flynt the Sylph                                             
+   Trystan the Human                                           
+   Menfanous the Dwarf                                         
+   Whitman the Gavial                                          
+   Allais the Human                                            
+   Steragnus the Gargoyle                                      
+   Cascius the Human                                           
+   Ochir the Argali                                            
+   Alexis the Human                                            
+
+
+[Below...] Cascius says to Trystan, "We have nooses for all kinds, I assure you."
+
+[Below...] Trystan nods to Cascius.
+
+[Below...] Blink leaves south.
+
+[Below...] Trystan says to Cascius, "And you would not be the first either."
+
+[Below...] Cascius yells, "YOUR LANDS ARE OUTSIDE OUR JURISDICTION AND YOU KNOW IT. IF THIS IS YOUR CHOICE, THEN WE HAVE TO ASSUME YOU ARE RUNNING WITH INTENT OF AVOIDING THE KING'S JUSTICE."
+You hear someone yell below, "YOUR LANDS ARE OUTSIDE OUR JURISDICTION AND YOU KNOW IT. IF THIS IS YOUR CHOICE, THEN WE HAVE TO ASSUME YOU ARE RUNNING WITH INTENT OF AVOIDING THE KING'S JUSTICE."
+
+Blink thinks to you, "I just went back in. And he was saying to Trystan....We have nooses for all kinds, I assure you."
+
+
+[Below...] Cascius raises an eyebrow at Trystan sharply.
+
+[Below...] Trystan asks, "Justice?"
+
+Blink thinks to you, "That's what is likely to happen if you don't go in now."
+
+
+[Below...] Cascius asks Trystan, "You wish to take her place then?"
+
+[Below...] Trystan asks, "Were you not just at his speach?"
+yell what justice, i thought it was just some questions you had to ask?
+
+You yell, "WHAT JUSTICE, I THOUGHT IT WAS JUST SOME QUESTIONS YOU HAD TO ASK?"
+
+[Below...] a white-robed constable arrives from the south.
+
+[Below...] a white-robed constable glances Xiija.
+
+Blink thinks to you, "I should know better than most."
+
+
+[Below...] Trystan asks, "The land slips away and we wonder why?"
+
+[Below...] Trystan shakes his head from side to side.
+
+[Below...] a white-robed constable glances at a faded wanted poster.
+
+[Below...] a white-robed constable narrows his eyes Xiija.
+
+[Below...] Ochir whispers to a white-robed constable.
+l
+
+
+
+[Above Covington Lane.]
+
+Below, the long reaching branches of tall oaks stretch out across the road from either side.  Heading north toward the royal palace is a decorative roadway of alternating red and grey bricks interlocked in horizontal and vertical positions.  The multi-colored stones begin at the edge of a intersection, where a circular plaza unites the many roads of the port city.
+
+Obvious Exits: down, south, and north. 
+
+
+[Below...] a white-robed constable nods to Ochir.
+
+[Below...] Blink arrives from the south.
+
+[Below...] a white-robed constable glances at a faded wanted poster.
+
+[Below...] a white-robed constable surveys the area, pausing to examine someone closer.
+
+[Below...] a white-robed constable leaves north.
+u
+
+You can't go that way.
+l
+
+
+
+[Above Covington Lane.]
+
+Below, the long reaching branches of tall oaks stretch out across the road from either side.  Heading north toward the royal palace is a decorative roadway of alternating red and grey bricks interlocked in horizontal and vertical positions.  The multi-colored stones begin at the edge of a intersection, where a circular plaza unites the many roads of the port city.
+
+Obvious Exits: down, south, and north. 
+
+l n
+
+Looking north you see...
+
+
+[Above Covington Lane.]
+
+A small brick wall provides a western border along the road below, just beyond some tall oak trees.  The city's conclave chambers stand to the east, accessible from the next street over, this side of the tunnel.
+
+Obvious Exits: down, south, and north. 
+
+l s
+
+Looking south you see...
+
+
+[Above City of Pearl.]
+
+A stone seawall bevels out from the street below, creating a half-moon addition to the always congested crossroads at the heart of the city.  The vast water of the bay expands beyond that southern stone wall.  Ships of all sizes pass by the seafront as they make their way in and out of the harbor to the south.  At the center of the intersection is an elegantly carved monument of a giant pearl atop a tall obelisk.  The base of the centerpiece rests at the bottom of a fountain.
+
+Obvious Exits: southwest, southeast, northwest, northeast, down, up, west, east, and north. 
+
+l
+
+
+
+[Above Covington Lane.]
+
+Below, the long reaching branches of tall oaks stretch out across the road from either side.  Heading north toward the royal palace is a decorative roadway of alternating red and grey bricks interlocked in horizontal and vertical positions.  The multi-colored stones begin at the edge of a intersection, where a circular plaza unites the many roads of the port city.
+
+Obvious Exits: down, south, and north. 
+
+l d
+
+Looking down you see...
+
+
+[Covington Lane.]
+
+The long reaching branches of tall oaks stretch out across the road from either side.  Heading north toward the royal palace is a decorative roadway of alternating red and grey bricks interlocked in horizontal and vertical positions.  The multi-colored stones begin at the edge of a intersection, where a circular plaza unites the many roads of the port city.
+
+Also here: Trystan the Human, Jerem the Human, Whitman the Gavial, Flynt the Sylph, Knight Marshal Ochir the Argali, Knight Marshal Cascius the Human, Merchant Menfanous the Dwarf, and Champion Blink the Avardi
+
+Obvious Exits: east, south, and north. 
+
+
+[Below...] Trystan says to Blink, "If you'd share you spell with me, please."
+
+[Below...] Blink says, "Oh sure."
+
+[Below...] Blink closes his eyes and focuses on the sounds of the surrounding area.  Extending his hand up to Trystan's temple, Blink releases a controlled surge of energy into Trystan's mind.
+
+
+
+[Below...] Cascius says to Ochir, "Very well, send out the order. Time for questioning has ran out. Dead or alive will do."
+
+Trystan thinks to you, "Run for the temple."
+
+
+[Below...] Flynt gapes.
+s
+
+
+
+[Above City of Pearl.]
+
+A stone seawall bevels out from the street below, creating a half-moon addition to the always congested crossroads at the heart of the city.  The vast water of the bay expands beyond that southern stone wall.  Ships of all sizes pass by the seafront as they make their way in and out of the harbor to the south.  At the center of the intersection is an elegantly carved monument of a giant pearl atop a tall obelisk.  The base of the centerpiece rests at the bottom of a fountain.
+
+Obvious Exits: southwest, southeast, northwest, northeast, down, up, west, east, and north. 
+
+s
+
+You can't go that way.
+ne
+
+
+
+[Above Victory Tunnel.]
+
+A government building of dwarven design to the northeast hunches over the road below like a bridge over a river.  The arched tunnel entrance is framed with symmetrical sandstone squares that meet at a decorative keystone.
+
+ne
+Also here: Knight Marshal Steragnus the Gargoyle (flying) 
+
+Obvious Exits: southwest, northeast, down, and north. 
+
+ne
+
+
+[Above Victory Tunnel.]
+
+Statues honoring Astraeva are set in front of murals depicting her influence over historic battles on the ledge above the tunnel entrance below.  The tunnel has been constructed to cut through the middle of a large sandstone government building to the southwest.
+
+Obvious Exits: southwest, northeast, and down. 
+
+
+
+
+[Above Victory March.]
+
+A pair of walls runs the length of the roadway on either side below, guiding travelers directly into the heart of the city.  The pristine white stone buildings of the mausoleum complex stand to the northwest, while the tops of animal cages are visible beyond the wall to the southeast.
+
+ne
+Obvious Exits: southwest, northeast, and down. 
+
+ne
+ne
+
+
+[Above Victory March.]
+
+The mausoleum, with its bright white facade, stands to the center of a few smaller buildings beyond a wall along the northwest roadside below.  The memorial area is much quieter than its neighbor's animal inhabitants across the road.
+
+ne
+Obvious Exits: southwest, northeast, and down. 
+
+ne
+ne
+ne
+
+
+[Above Victory March.]
+
+Below, the road passes by a two-story, marble mausoleum that pays tribute to fallen kings, queens, and knights of old.  Beyond the southeastern edge of the road lies a stone wall.  The menagerie houses a variety of species, as evidenced by the array of calls and other animalistic sounds.
+
+ne
+Obvious Exits: southwest, northeast, and down. 
+
+ne
+
+
+[Above City of Pearl, Main Gate.]
+
+The road widens considerably as it intersects with a narrow street below.  The crossing forms a small, circular courtyard that stops in front of an arched gateway that appears to have been cut into the outer city wall.  The opening is guarded by a heavy wooden gate that swings from large hinges set into the thick stone walls.  The stone structures on either side serve as watch towers for the busy entrance.
+
+Obvious Exits: southwest, southeast, northwest, northeast, and down. 
+
+<HP: 157/157 ST: 121/121>
+
+
+[Above City of Pearl, Main Gate.]
+
+Fortified sandstone walls wrap around the city protectively, below.  Turrets extend out at an even spacing, giving city archers and watchmen a clear view of the surrounding lands.  A large arched opening has been cut into the stone.  Rows of stalls beneath a thatched roof provide boarding for travelers' mounts to the northwest, while a stone paved loop runs southeast around a shelter.
+
+Obvious Exits: southwest, northeast, and down. 
+
+
+
+
+[Above Pearl Road.]
+
+A well-traveled dirt road heads to and from the city gate, wide enough to accommodate any size carriage or wagon.  The towering, white walls loom over the flatland surrounding the city.
+
+Obvious Exits: southwest, northeast, and down. 
+
+
+
+
+[Above Pearl Road.]
+
+Below, the shoulder on either side of the road rises just above the height of a wagon wheel.  Covered in moss at the sides, the roadway continues to cut deeper into the earth with each passing year of heavy travel.  Turned away vagabonds scan the eyes of arriving travelers for assistance getting within the gate of the magnificent city.
+
+Obvious Exits: southwest, northeast, and down. 
+
+
+
+
+[Above Pearl Road.]
+
+A wrought-iron fence blends in with the taller weeds along the eastern side of the road, below.  Within its confines lies a small cemetery plot.  During the day, the sun's light reflects off the white city walls to the southwest.
+
+ne
+Obvious Exits: southwest, northeast, and down. 
+
+ne
+ne
+
+
+[Above Pearl Road.]
+
+The northern road bends slightly to the southwest as it continues toward a large white-walled city.  At the bend in the road, an arched gateway and iron fence surround a small graveyard, below.  The majority of the plots are marked with wooden stakes, some tied and others nailed, along with hanging mementos.
+
+Obvious Exits: southwest, southeast, down, and north. 
+
+
+You can't go that way.
+
+You can't go that way.
+n
+n
+You can't go that way.
+
+You can't go that way.
+
+
+
+[Above Pearl Road.]
+
+Having already worn the path below down lower over time, ruts in the road continue to worsen with every downpour.  Abandoned wagon wheels, many with broken spokes, lie discarded in the grass.  White walls rise up from the southern sea of grass.
+
+Obvious Exits: down, south, and north. 
+
+
+
+
+[Above Pearl Road.]
+
+The road north widens, connecting with a circular intersection; a tall signpost stands at its center.  Travelers linger near the northern intersection, waiting for others to arrive.  Below, the southern slope leads to a large city surrounded by a long, white wall.
+
+Obvious Exits: down, south, and north. 
+
+n
+
+
+[Above Crows' Crossing.]
+nw Teth
+
+Below, the road from the south ends as it reaches the highest crest in the hillside, many landmarks in the surrounding countryside are visible.  Thick woodlands stand far to the northeast, like a great, unwavering wall beyond the flatland.  Thin plumes of smoke trail up from chimneys in the distance to the south, while a hill sits high to the north with a road winding up to the top.  Far off to the east rise the snowcapped peaks of the majestic mountain range.
+
+n
+Obvious Exits: northwest, northeast, down, and south. 
+
+
+You can't go that way.
+ne
+
+
+
+[Above Archai Divide.]
+
+A large rocky mound of earth rises to the north.  A trail ascends around it, up to a flat top.  Below, grassland stretches out in all directions from the road, like a sea-green carpet.
+
+Obvious Exits: southwest, northeast, and down. 
+
+ne
+
+
+
+[Above Archai Divide.]
+
+A strip of grass grows down the center of the road below, parting it evenly.  The packed dirt slopes downward in either direction of the grass divider.  The occasional mastodon pack passes through the northern valley, grazing on the tall grass in the distance.  A flattened trail through the prairie indicates their migration patterns.
+
+Obvious Exits: southwest, northeast, and down. 
+
+ne
+
+
+
+[Above Archai Divide.]
+
+A steep embankment to the north causes the road to turn sharply to the east.  The top of the incline forms a small overhang over itself, providing a miniscule amount of protection from the elements.  Below, deep grooves in the dirt harden in the afternoon sun after each passing rain.
+
+Obvious Exits: southwest, down, and east. 
+
+e
+
+
+
+[Above Archai Divide.]
+
+The northern cliff along the edge of the road below is roughly five to six feet tall.  The view to the south expands to a white-walled city in the distance.  A large tree sits off the side of the road to the north, its roots visible in the moss-covered clay that makes up the hillside.
+
+Obvious Exits: down, west, and east. 
+
+e
+
+
+
+[Above Archai Divide.]
+
+To the north, a large hill rises up from the sea of grass that expands in every direction below.  A narrow trail can be seen snaking around it.  The grass on the slope yields to rock and compacted earth as it climbs skyward.
+
+Obvious Exits: northeast, down, and west. 
+
+ne
+
+
+
+[Above Archai Divide.]
+
+The flat valley extends in every direction.  The only distinguishable feature, other than the city far to the south and the distant, easterly mountain range, is a large hill to the north.  Below, a bleached white mastodon skull lies half exposed in the spiky expanse of grass to the west of the road.
+
+Obvious Exits: southwest, down, and north. 
+
+n
+
+
+
+[Above Archai Divide.]
+
+Below, a small wagon has been set up next to a massive circular patch of flattened grass off the road.  There is a small sign affixed to the front of the wagon.
+
+Obvious Exits: northwest, down, and south. 
+
+nw
+
+
+
+[Above Archai Divide.]
+
+The road continues to snake through the sea-green meadow below that blankets the flat valley floor.  Winds rip through the valley, giving the appearance of a giant predators stalking through the grass.
+
+Obvious Exits: southeast, northeast, and down. 
+
+ne
+
+
+
+[Above Archai Divide.]
+
+To the north, a large mound of grass-covered rock rises up from the flat valley below.  A less-traveled trail breaks off the roadway toward the hill, disappearing behind it as it slowly inclines toward the top.
+
+Obvious Exits: southwest, northeast, and down. 
+
+ne
+
+
+
+[Above Archai Divide.]
+
+Below, a sloping trail ascends northwesterly along the outer base of a large hill.  At the top, the weathered remains of a stone structure lie crumbled on the lone mountain.
+
+Obvious Exits: southwest, down, and east. 
+
+e
+
+
+
+[Above Archai Divide.]
+
+The road narrows slightly as it winds its way by a large hill.  Broken pillars, on either side of the road below, are a reminder of its splendor long ago.
+
+Obvious Exits: northeast, down, and west. 
+
+ne
+
+
+
+[Above Archai Divide.]
+
+Below, a few rocks sit to the side of the road with spiky grass popping up between them.  In the crevice of the largest stone is a small straw bird's nest.
+
+Obvious Exits: southwest, northeast, and down. 
+
+ne
+
+
+
+[Above Archai Divide.]
+
+Below, deep gouges in the compacted earth take shape after each heavy rain.  The constant traffic exiting the crossing to the east has taken its toll on the roadway.  To the west, a sloped hill stands alone along the valley floor.
+
+Obvious Exits: southwest, down, and east. 
+
+e
+
+
+
+[Above Old Heart Crossing.]
+
+Wooden arrows, now severely weathered and grayed, are nailed onto a post below that guides travelers to their destinations.  The main road from the west heads northeast, while another road bisects it from the southeast.  Standing to the east, a popular tavern services passersby looking to rest their lips on a mug.  A pair of wheel ruts loops north of the roadway.
+
+Obvious Exits: southeast, northeast, down, west, and east. 
+
+d
+
+
+
+[Old Heart Crossing.]
+
+Wooden arrows, now severely weathered and grayed, are nailed onto a post that guides travelers to their destinations.  The main road from the west heads northeast, while another road bisects it from the southeast.  Standing to the east, a popular tavern services passersby looking to rest their lips on a mug.  A pair of wheel ruts runs toward the tavern into a carriage stall just north of it.  You notice a wooden directional signpost, and a crumbling engraved stone marker.
+
+Obvious Exits: southeast, northeast, west, and east. 
+
+se
+
+
+
+[Dalarey Road.]
+
+The road opens up to the northwest as it intersects with the main road that runs across the valley.  Flowers of all colors grow a safe distance from the road, with a few trees scattered amongst them.
+
+Obvious Exits: northwest, and south. 
+
+s
+
+
+
+[Dalarey Road.]
+
+The road cuts across the valley and farmlands.  Patches of grass grow bravely along the center of the road.  Muddy ruts along either side show signs of complications for passing wagons during inclimate weather.
+
+Obvious Exits: southeast, and north. 
+
+se
+
+
+
+[Dalarey Road.]
+
+Towering trees line this stretch of road, providing a dense but brief canopy.  A large, smooth boulder offers itself as a resting place, the grass beneath it worn into the dirt.  You notice a wooden property marker.
+
+se
+Obvious Exits: southeast, and northwest. 
+
+se
+se
+se
+
+
+[Dalarey Road.]
+
+A smooth dirt road stretches out between fields of grass, marred only by the occasional mark of a wagon wheel.  A torn strap of leather wrapped around a snapped off piece of bone juts out of the dirt, where it meets the grass, just off the path.
+
+Obvious Exits: southeast, and northwest. 
+
+
+
+
+[Dalarey Road.]
+
+Fields of grass grow freely, no flowers or trees in sight, outside the smooth, dirt road.  A broken piece of fence can be seen in the distance, a nest sitting precariously atop it.
+
+Obvious Exits: southeast, and northwest. 
+
+
+
+
+[Dalarey Road.]
+
+A smooth dirt path parts the grassy foothills, leading up a small mountain to a stone structure at its peak.  The path's entrance shows signs of being maintained.  The fence posts bordering the road are painted white, with a matching painted iron gate crossing the path.  You notice a closed white painted iron gate.
+Aerthane Gate ( aer2 to go to pearl)
+
+Obvious Exits: northwest, and south. 
+
+
+You can't go that way.
+go gate
+unlock gate
+open gate
+go gate
+The white painted iron gate is closed.
+
+You unlock a white painted iron gate.
+
+You open a white painted iron gate.
+
+
+
+[Aerthane Hill, Gate.]
+
+A white wooden fence at the edge of both sides of the road divides the smooth, compacted dirt from the grassy foothills extending in either direction.  The path ascends around a steeper hill toward a structure at its summit.  You notice an open white painted iron gate.
+
+Obvious Exits: northeast. 
+
+clo gat
+
+You close a white painted iron gate.
+loc gat
+
+You lock a white painted iron gate.
+ne
+
+
+
+[Hillside Trail.]
+
+Colorful wildflowers grow in between the posts supporting a white fence that runs along side the trail toward the gated entrance.  A large mound of earth appears more like a hill than mountain compared to the towering snowcapped peaks to the east.
+
+Obvious Exits: southwest, and northeast. 
+
+ne
+
+
+
+[Hillside Trail.]
+
+Lush green fields of grass, mixed with patches of pale yellow wheat, extend in all directions.  The road is void of rocks or holes, yet shows little sign of traffic.  A white fence on either side of the road slopes to an end, yielding to the elevated landscape to the east.
+
+Obvious Exits: southwest, and east. 
+
+e
+
+
+
+[Hillside Trail.]
+
+A dense forest of evergreens to the north conceals the base of snow-capped mountains rising behind them.  The sloping hillside rolls into a sea of tall grass that protests loudly with each passing gust of wind.  A roadside fence to the west leads toward the valley road.
+
+Obvious Exits: west, and east. 
+
+e
+
+
+
+[Hillside Trail, Intersection.]
+
+A smooth dirt trail widens slightly in its descent west, and begins to narrow as it continues up the small mound of earth.  Despite being well-tended to, the road lacks any signs of heavy travel.  A narrow path forks off into the hillside toward a cedar lodge.
+
+Obvious Exits: southeast, west, and south. 
+
+se
+
+
+
+[Hillside Trail.]
+
+A crooked set of fence posts, set into the outer edge of the road, support wooden cross beams designed to protect travelers from the steep drop-off created by the bend in the path.  To the east, a dense forest surrounds white-capped mountains.
+
+Obvious Exits: southeast, and northwest. 
+
+se
+
+
+
+[Hillside Trail.]
+
+The path narrows with each passing incline, making travel for anything larger than a mule difficult.  The inner face of the hill leans heavily against the road's edge.  White oak trees lie sporadically placed from summit to valley.
+
+Obvious Exits: southwest, and northwest. 
+
+sw
+
+
+
+[Hillside Trail.]
+
+Rocky terrain extends outward from the outer walls of the lower cliff.  It narrows into jagged spires that form a natural defense against climbers.  Weathered boards bound by tattered rope lay across a small gap in the ridge.  An aged white oak leans away from the hillside with its roots strongly secured, as if offering an assisting hand to those in need.  You notice a leaning white oak tree, and a wooden property marker.
+
+Obvious Exits: southwest, and northeast. 
+
+sw
+
+
+
+[Hillside Trail.]
+
+The trail wraps around the hillside with its edge yielding to a sharp drop off down the hill into the valley.  A pair of columns to the west stand high over an entrance to a path well-tended in comparison to the hillside trail.  A white tower looms overhead.
+
+Obvious Exits: northeast, and west. 
+
+w
+
+
+
+[Hillside Trail.]
+
+The connecting trail between the path to the west and the downward slope to the east provides travelers with a brief, leveled spot to catch their breaths.  Dogwood trees seasonally bloom roadside on a narrow strip of flat terrain.  Mountains to the east block the sun's early morning rays from view.
+
+Obvious Exits: west, and east. 
+
+w
+
+
+
+[Aerthane Path, Entrance.]
+
+The road curves sharply around the southern edge of the hilltop.  The view of the countryside is checkered with patches of crops and fields for livestock.  Marble pillars on either side of the road contain no markings or etchings of any kind.  They have only a smooth cylindrical appearance.  You notice some smooth cylindrical marble columns.
+
+Obvious Exits: northwest, and east. 
+
+nw
+
+
+
+[Aerthane Path.]
+
+Evenly paired and spaced carved marble monuments line the road in its ascent to the summit.  In addition to smooth pillars, totems of fierce birds face outward, overlooking the valley.  A tall white tower can be seen further up the path as it curves back into the hillside.
+
+Also here: a gray-robed priest 
+
+Obvious Exits: southeast, and north. 
+
+n
+
+
+
+[Aerthane Path.]
+
+The climb up the mountain ends at a slight incline directly into the heart of its peak.  A wide stone platform levels the summit, providing a solid base for tall, marble pillars surrounding a gleaming, white tower.  To the southwest, the faint outlines of a large port city are visible through the fog that often creeps along the valley floor.
+
+Obvious Exits: east, and south. 
+
+e
+
+
+
+[Aerthane Path.]
+
+Pillars swirled with gray and white marble extend out across a smooth stone platform atop the hill.  The slab of stone rises several feet from the earth, with a wide staircase leading upto a small enclosed entrance.  At its center, a white stone tower rises from the pillars.  You notice an open white oak door.
+
+Obvious Exits: west. 
+
+e
+
+
+
+[Pillars of Aerthane.]
+
+Tiered ceilings of marble cascade into a vaulted dome over the entrance.  The square foyer extends separately from the white tower with no connecting doorways.  The north and south walls are arched from corner to corner, allowing the wind to pass through freely.  You notice an open white oak door.
+
+Also here: a gray-robed priest 
+
+Obvious Exits: south, and north. 
+
+clo doo 
+
+You close a white oak door.
+loc doo
+
+There is no lock.
+n
+
+
+
+[Pillars of Aerthane.]
+
+Two marble busts sit atop pedestals resting between the perimeter of pillars.  Each bust displays detailed sculpting highlighting every facial feature of the immortalized figures.  A framed archway extends between two columns to the east with a stone slab across the top.  To the west, steps descend into an auditorium that overlooks much of the countryside.  You notice a carved marble archway.
+
+Obvious Exits: west, and south. 
+
+
+shiv softly, rubbing her arms...
+It is very cold. 
+
+You shiver softly, rubbing her arms...
+w
+
+
+
+[Pillars of Aerthane.]
+
+The overlooking corner of the stone slab descends into a square auditorium with wide steps suitable for seating. The rows of steps face a white marble topped altar at the center.  A swirled gray and white marble pillar stands at the corner with a supporting trellis connecting it to evenly spaced pillars along the perimeter.  Each pillar has been polished on one side to a brilliant side, with the opposite side facing the valley depicting intricately carved totems of fierce birds of prey.  You notice an arcsilver-veined white marble topped altar.
+
+Obvious Exits: east. 
+
+land
+
+hide
+emo flitters her multicolored wings softly before folding them closed...
+
+Xiija flitters her multicolored wings softly before folding them closed...
+
+
+
+
+You conceal yourself from plain view.
+[Delay: 3.0 sec.]
+
+furl gently.
+
+You furl your wings gently.
+You reveal yourself from your hidden position.
+hide
+
+
+
+
+You conceal yourself from plain view.
+[Delay: 3.0 sec.]
+
+e
+
+You reveal yourself from your hidden position.
+
+
+[Pillars of Aerthane.]
+
+Two marble busts sit atop pedestals resting between the perimeter of pillars.  Each bust displays detailed sculpting highlighting every facial feature of the immortalized figures.  A framed archway extends between two columns to the east with a stone slab across the top.  To the west, steps descend into an auditorium that overlooks much of the countryside.  You notice a carved marble archway.
+
+Obvious Exits: west, and south. 
+
+s
+
+
+
+[Pillars of Aerthane.]
+
+Tiered ceilings of marble cascade into a vaulted dome over the entrance.  The square foyer extends separately from the white tower with no connecting doorways.  The north and south walls are arched from corner to corner, allowing the wind to pass through freely.  You notice a closed white oak door.
+
+Also here: a gray-robed priest 
+
+Obvious Exits: south, and north. 
+
+s
+
+
+
+[Pillars of Aerthane.]
+
+Prominent marble busts of famous Aerthanians are displayed between the surrounding pillars.  Despite signs of age and being weathered, the details of each face are still intact.  Sheets of cloth suspended between the columns often flutter in the passing breeze.  Only during a brief calmness of the wind does the material settle into any sort of divider.
+
+Also here: an Aerthanian templar 
+
+Obvious Exits: west, east, and north. 
+
+
+shiv softly, rubbing her arms...
+It is very cold. 
+
+You shiver softly, rubbing her arms...
+e
+
+
+
+[Pillars of Aerthane.]
+
+Open to the sky, howling winds kiss grey veined marbled pillars that surround the marble floors.  Between the pillars, a sheer drop plunges down the side of the mountain with no railing to offer protection.  On top of the columns, shallow cupped platforms have become homes to large nests of twigs and straw.  A marble pedestal at the center of the room holds a large crystal sphere.  You notice a white feather, and an altar.
+
+Obvious Exits: west. 
+
+who
+[ARRIVALS] 'Seren has logged out.'
+
+   Players Currently Online: 
+ =============================
+
+   Blink the Avardi                                            
+   Wren the Human                                              
+   Jerem the Human                                             
+   Xiija the Sylph                                             
+   Geel the Gavial                                             
+   Kaiah the Human                                             
+   Flynt the Sylph                                             
+   Trystan the Human                                           
+   Menfanous the Dwarf                                         
+   Whitman the Gavial                                          
+   Allais the Human                                            
+   Steragnus the Gargoyle                                      
+   Cascius the Human                                           
+   Ochir the Argali                                            
+   Alexis the Human                                            
+
+u
+
+You can't go that way.
+fly
+
+u
+
+You can't go that way.
+emo fans her multicolored wings swiftly, hovering...
+
+Xiija fans her multicolored wings swiftly, hovering...
+w
+
+
+
+[Pillars of Aerthane.]
+
+Prominent marble busts of famous Aerthanians are displayed between the surrounding pillars.  Despite signs of age and being weathered, the details of each face are still intact.  Sheets of cloth suspended between the columns often flutter in the passing breeze.  Only during a brief calmness of the wind does the material settle into any sort of divider.
+
+Also here: an Aerthanian templar 
+
+Obvious Exits: west, east, and north. 
+
+w
+
+
+
+[Pillars of Aerthane.]
+
+Wind chimes hanging from the oak planks of a trellis produce a different melody with each passing breeze.  Smooth columns of marble support the slatted roof at each corner.  A small oak counter lined on three sides at the center of the pillars offers a modest selection of religious wares.
+
+Also here: an avardi shopkeeper 
+
+Obvious Exits: east. 
+
+u
+
+You can't go that way.
+list
+
+An avardi shopkeeper appears to be ignoring you.
+e
+
+
+
+[Pillars of Aerthane.]
+
+Prominent marble busts of famous Aerthanians are displayed between the surrounding pillars.  Despite signs of age and being weathered, the details of each face are still intact.  Sheets of cloth suspended between the columns often flutter in the passing breeze.  Only during a brief calmness of the wind does the material settle into any sort of divider.
+
+Also here: an Aerthanian templar 
+
+Obvious Exits: west, east, and north. 
+
+n
+
+
+
+[Pillars of Aerthane.]
+
+Tiered ceilings of marble cascade into a vaulted dome over the entrance.  The square foyer extends separately from the white tower with no connecting doorways.  The north and south walls are arched from corner to corner, allowing the wind to pass through freely.  You notice a closed white oak door.
+
+Also here: a gray-robed priest 
+
+Obvious Exits: south, and north. 
+
+n
+
+
+
+[Pillars of Aerthane.]
+
+Two marble busts sit atop pedestals resting between the perimeter of pillars.  Each bust displays detailed sculpting highlighting every facial feature of the immortalized figures.  A framed archway extends between two columns to the east with a stone slab across the top.  To the west, steps descend into an auditorium that overlooks much of the countryside.  You notice a carved marble archway.
+
+Obvious Exits: west, and south. 
+
+
+Grey and gloomy clouds obscure the sky.
+u
+
+You can't go that way.
+go ar
+
+
+
+[Aerthane Atrium, Entrance.]
+
+Smoothed walls of alabaster rest between the marble pillars which form a foundation for the ceiling.  Between the western pillars, marble has been chiseled and smoothed into an arched entryway that connects the enclosed area with the rest of the temple.  Marble slabs line the eastern wall.  Carved into steps up to a doorway above.  To the south, the narrow hallway expands into an open air library atrium.  You notice a carved marble archway, some marble steps, and a wooden posting board.
+
+Obvious Exits: south. 
+
+u
+
+
+
+[Atrium Library, Entrance.]
+
+A narrow opening in the stone floor nearest the eastern edge of the platform provides access to a staircase.  A door set into the side of a whitewashed stone tower to the south connects the small enclosure atop the pillars.  A dome of metal framing and glass panels covers the tower in place of a rooftop.  Sections of the tower swell outward like the scales of a dragon, overlapping one another.  You notice an open carved walnut door, and some marble steps.
+
+Obvious Exits: none
+
+u
+
+You can't go that way.
+go door
+
+
+
+[Atrium Library.]
+
+Alcoves cut deep into the tower walls have been aligned around the tower, connected by a railed wooden walkway.  The center of the room is left open, providing a view of the fountain below as well as an unobstructed view of the skylight above from ground level.  Each alcove is lined with shelves containing a wealth of literature.  Small walnut writing desks pressed against the wall between the shelves provide quiet places to read from the nearby collection.  You notice an open carved walnut door.
+
+Also here: an Aerthanian templar 
+
+Obvious Exits: none
+
+
+Grey and gloomy clouds obscure the sky.
+u
+
+
+
+[High in the Sky.]
+
+Below the top of the tower, alcoves cut deep into the tower walls have been aligned, connected by a railed wooden walkway.  The center of the room is left open, providing a view of the fountain as well as an unobstructed view of the skylight above from ground level.
+
+Obvious Exits: west. 
+
+d
+
+
+
+[Atrium Library.]
+
+Alcoves cut deep into the tower walls have been aligned around the tower, connected by a railed wooden walkway.  The center of the room is left open, providing a view of the fountain below as well as an unobstructed view of the skylight above from ground level.  Each alcove is lined with shelves containing a wealth of literature.  Small walnut writing desks pressed against the wall between the shelves provide quiet places to read from the nearby collection.  You notice an open carved walnut door.
+
+Also here: an Aerthanian templar 
+
+Obvious Exits: none
+
+go door
+
+
+
+[Atrium Library, Entrance.]
+
+A narrow opening in the stone floor nearest the eastern edge of the platform provides access to a staircase.  A door set into the side of a whitewashed stone tower to the south connects the small enclosure atop the pillars.  A dome of metal framing and glass panels covers the tower in place of a rooftop.  Sections of the tower swell outward like the scales of a dragon, overlapping one another.  You notice an open carved walnut door, and some marble steps.
+
+Obvious Exits: none
+
+d
+
+
+
+[Aerthane Atrium, Entrance.]
+
+Smoothed walls of alabaster rest between the marble pillars which form a foundation for the ceiling.  Between the western pillars, marble has been chiseled and smoothed into an arched entryway that connects the enclosed area with the rest of the temple.  Marble slabs line the eastern wall.  Carved into steps up to a doorway above.  To the south, the narrow hallway expands into an open air library atrium.  You notice a carved marble archway, some marble steps, and a wooden posting board.
+
+Obvious Exits: south. 
+
+s
+
+
+
+[Aerthane Atrium.]
+
+A spacious glass atrium with blue sky ferns and white carnation flowers in stone pots surrounding a fountain at its center.  The fountain's base is octagonal-shaped and made of polished grey marble streaked with white veins.  Water trickles down a jagged rock formation at its center, resembling the steep cliffs of a mountain rising out of the ocean.  Benches carved of walnut and bound with polished iron surround the outer walls of the atrium, atop floors of white and gray mosaic tile.  Above, a wooden loft runs around the base of the dome ceiling, with intricately carved alcoves containing countless volumes and tomes.  More alcoves are set further up the wall towards the atrium skylight where books showing more obvious signs of age are stored.  The atrium's skylight consists of large triangular panels, some clear glass, some frosted, while others are empty in a pattern.  At its center, a large circular opening allows for sun and moonlight to illuminate the area, as well as access for winged visitors.  You notice a gilded silver chest, and a closed polished walnut door.
+
+Also here: a gray-robed priest 
+
+Obvious Exits: north. 
+
+
+Grey and gloomy clouds obscure the sky.
+n
+
+
+
+[Aerthane Atrium, Entrance.]
+
+Smoothed walls of alabaster rest between the marble pillars which form a foundation for the ceiling.  Between the western pillars, marble has been chiseled and smoothed into an arched entryway that connects the enclosed area with the rest of the temple.  Marble slabs line the eastern wall.  Carved into steps up to a doorway above.  To the south, the narrow hallway expands into an open air library atrium.  You notice a carved marble archway, some marble steps, and a wooden posting board.
+
+Obvious Exits: south. 
+
+go ar
+
+
+
+[Pillars of Aerthane.]
+
+Two marble busts sit atop pedestals resting between the perimeter of pillars.  Each bust displays detailed sculpting highlighting every facial feature of the immortalized figures.  A framed archway extends between two columns to the east with a stone slab across the top.  To the west, steps descend into an auditorium that overlooks much of the countryside.  You notice a carved marble archway.
+
+Also here: a gray-robed priest 
+
+Obvious Exits: west, and south. 
+
+
+Grey and gloomy clouds obscure the sky.
+w
+
+
+
+[Pillars of Aerthane.]
+
+The overlooking corner of the stone slab descends into a square auditorium with wide steps suitable for seating. The rows of steps face a white marble topped altar at the center.  A swirled gray and white marble pillar stands at the corner with a supporting trellis connecting it to evenly spaced pillars along the perimeter.  Each pillar has been polished on one side to a brilliant side, with the opposite side facing the valley depicting intricately carved totems of fierce birds of prey.  You notice an arcsilver-veined white marble topped altar.
+
+Obvious Exits: east. 
+
+pray holyshield
+
+
+
+You pray to Aerthane, creating a protective shield around yourself.
+You look protected!
+[Delay: 5.0 sec.]
+
+say xii bloody fools!
+
+You exclaim to yourself, "Bloody fools!"
+
+Trystan thinks to you, "I'll meet you at the temple."
+
+
+Blink thinks to you, "They just said you have 5 minutes. They just brought in a Gargoyle knight, so they can fly at you now. Menfanous wants to talk to you he said. Right now. In the pavillion. I think he truly wants to help you. He was pleading with the knights for your life."
+
+l
+
+
+
+[Pillars of Aerthane.]
+
+The overlooking corner of the stone slab descends into a square auditorium with wide steps suitable for seating. The rows of steps face a white marble topped altar at the center.  A swirled gray and white marble pillar stands at the corner with a supporting trellis connecting it to evenly spaced pillars along the perimeter.  Each pillar has been polished on one side to a brilliant side, with the opposite side facing the valley depicting intricately carved totems of fierce birds of prey.  You notice an arcsilver-veined white marble topped altar.
+
+Obvious Exits: east. 
+
+hover around quietly in a small circle
+
+You hover around quietly in a small circle.
+
+Trystan arrives from the east.
+flai try
+
+You flail your arms at Trystan.
+
+Trystan sighs softly.
+' what the hell!
+
+You exclaim, "What the hell!"
+
+Trystan says, "They want you dead or alive now."
+stare
+
+You stare.
+
+Trystan leaves east.
+You follow Trystan east.
+
+
+[Pillars of Aerthane.]
+
+Two marble busts sit atop pedestals resting between the perimeter of pillars.  Each bust displays detailed sculpting highlighting every facial feature of the immortalized figures.  A framed archway extends between two columns to the east with a stone slab across the top.  To the west, steps descend into an auditorium that overlooks much of the countryside.  You notice a carved marble archway.
+
+Also here: a gray-robed priest, and Trystan the Human 
+
+Obvious Exits: west, and south. 
+
+
+Trystan leaves south.
+You follow Trystan south.
+
+
+[Pillars of Aerthane.]
+
+Tiered ceilings of marble cascade into a vaulted dome over the entrance.  The square foyer extends separately from the white tower with no connecting doorways.  The north and south walls are arched from corner to corner, allowing the wind to pass through freely.  You notice a closed white oak door.
+
+Also here: Trystan the Human 
+
+Obvious Exits: south, and north. 
+
+
+Trystan leaves south.
+You follow Trystan south.
+
+
+[Pillars of Aerthane.]
+
+Prominent marble busts of famous Aerthanians are displayed between the surrounding pillars.  Despite signs of age and being weathered, the details of each face are still intact.  Sheets of cloth suspended between the columns often flutter in the passing breeze.  Only during a brief calmness of the wind does the material settle into any sort of divider.
+
+Also here: Trystan the Human 
+
+Obvious Exits: west, east, and north. 
+
+
+Grey and gloomy clouds obscure the sky.
+
+Trystan leaves east.
+You follow Trystan east.
+
+
+[Pillars of Aerthane.]
+
+Open to the sky, howling winds kiss grey veined marbled pillars that surround the marble floors.  Between the pillars, a sheer drop plunges down the side of the mountain with no railing to offer protection.  On top of the columns, shallow cupped platforms have become homes to large nests of twigs and straw.  A marble pedestal at the center of the room holds a large crystal sphere.  You notice a white feather, and an altar.
+
+Also here: Trystan the Human 
+
+Obvious Exits: west. 
+
+
+Trystan leaves west.
+You follow Trystan west.
+
+
+[Pillars of Aerthane.]
+
+Prominent marble busts of famous Aerthanians are displayed between the surrounding pillars.  Despite signs of age and being weathered, the details of each face are still intact.  Sheets of cloth suspended between the columns often flutter in the passing breeze.  Only during a brief calmness of the wind does the material settle into any sort of divider.
+
+Also here: Trystan the Human 
+
+Obvious Exits: west, east, and north. 
+
+
+Trystan leaves west.
+' Ayderias said i had tyme... the Knight Marshal scribe did too
+You follow Trystan west.
+
+
+[Pillars of Aerthane.]
+
+Wind chimes hanging from the oak planks of a trellis produce a different melody with each passing breeze.  Smooth columns of marble support the slatted roof at each corner.  A small oak counter lined on three sides at the center of the pillars offers a modest selection of religious wares.
+
+Also here: an avardi shopkeeper, an Aerthanian templar, and Trystan the Human 
+
+Obvious Exits: east. 
+
+You say, "Ayderias said I had tyme... the Knight Marshal scribe did too."
+
+An Aerthanian templar nods to Xiija.
+
+Trystan nods to you.
+
+Trystan says to an Aerthanian templar, "If Kight Marshals come into the temple, just kill'm without warning."
+nod try
+
+You nod to Trystan.
+
+An Aerthanian templar raises an eyebrow.
+
+Trystan says, "They are without reason."
+roll
+
+You roll your eyes.
+
+who
+[ARRIVALS] 'Trowa has logged on.'
+
+   Players Currently Online: 
+ =============================
+
+   Blink the Avardi                                            
+   Wren the Human                                              
+   Jerem the Human                                             
+   Xiija the Sylph                                             
+   Geel the Gavial                                             
+   Kaiah the Human                                             
+   Flynt the Sylph                                             
+   Trystan the Human                                           
+   Menfanous the Dwarf                                         
+   Whitman the Gavial                                          
+   Allais the Human                                            
+   Steragnus the Gargoyle                                      
+   Cascius the Human                                           
+   Ochir the Argali                                            
+   Alexis the Human                                            
+   Trowa the Human                                             
+
+' at least they respect the  temple land
+
+You say, "At least they respect the temple land."
+
+Trystan says to you, "You will have to make a greater effort to get in touch with Ayderias."
+
+Trystan says to you, "We'll see."
+' his office hours are this week?
+
+You ask, "His office hours are this week?"
+
+Trystan says to you, "That has not been tested yet."
+nod try
+
+You nod to Trystan.
+
+Trystan raises an eyebrow at you.
+
+Trystan says to you, "If you're willing to wait."
+
+who
+[ARRIVALS] 'Jerem has logged out.'
+   Players Currently Online: 
+ =============================
+
+   Blink the Avardi                                            
+   Wren the Human                                              
+   Xiija the Sylph                                             
+   Geel the Gavial                                             
+   Kaiah the Human                                             
+   Flynt the Sylph                                             
+   Trystan the Human                                           
+   Menfanous the Dwarf                                         
+   Whitman the Gavial                                          
+   Allais the Human                                            
+   Steragnus the Gargoyle                                      
+   Cascius the Human                                           
+   Ochir the Argali                                            
+   Alexis the Human                                            
+   Trowa the Human                                             
+
+who
+[ARRIVALS] 'Whitman has logged out.'
+
+   Players Currently Online: 
+ =============================
+
+   Blink the Avardi                                            
+   Wren the Human                                              
+   Xiija the Sylph                                             
+   Geel the Gavial                                             
+   Kaiah the Human                                             
+   Flynt the Sylph                                             
+   Trystan the Human                                           
+   Menfanous the Dwarf                                         
+   Allais the Human                                            
+   Steragnus the Gargoyle                                      
+   Cascius the Human                                           
+   Ochir the Argali                                            
+   Alexis the Human                                            
+   Trowa the Human                                             
+
+' till tomorrow?
+
+You ask, "Till tomorrow?"
+
+Trystan says, "Blink wasn't, he just had to come out of hiding and ended up paying for it with his life."
+nod
+
+You nod.
+' it's not like i did a crime.. can i just pay a fine?
+
+You ask, "It's not like I did a crime.. can I just pay a fine?"
+
+Trystan says, "I will see about speaking with him first and then figuring out how to get you two together without a run in with the marshals."
+nod tr
+
+You nod .
+' thank you
+
+You say, "Thank you."
+
+Trystan says, "I will need Blink for that I guess."
+nod  thoughtfully
+
+You nod thoughtfully.
+
+Trystan glances at you and shakes his head.
+sigh
+
+You sigh.
+' i was told to wait for Ayderias
+
+You say, "I was told to wait for Ayderias."
+grunt
+
+You grunt.
+
+Trystan says, "I agree."
+
+Trystan leaves east.
+<HP: 157/157 ST: 121/121>
+You follow Trystan east.
+
+
+[Pillars of Aerthane.]
+
+Prominent marble busts of famous Aerthanians are displayed between the surrounding pillars.  Despite signs of age and being weathered, the details of each face are still intact.  Sheets of cloth suspended between the columns often flutter in the passing breeze.  Only during a brief calmness of the wind does the material settle into any sort of divider.
+
+Also here: Trystan the Human 
+
+Obvious Exits: west, east, and north. 
+
+
+Trystan leaves north.
+You follow Trystan north.
+
+
+[Pillars of Aerthane.]
+
+Tiered ceilings of marble cascade into a vaulted dome over the entrance.  The square foyer extends separately from the white tower with no connecting doorways.  The north and south walls are arched from corner to corner, allowing the wind to pass through freely.  You notice a closed white oak door.
+
+Also here: Trystan the Human 
+
+Obvious Exits: south, and north. 
+
+
+Trystan leaves north.
+You follow Trystan north.
+
+
+[Pillars of Aerthane.]
+
+Two marble busts sit atop pedestals resting between the perimeter of pillars.  Each bust displays detailed sculpting highlighting every facial feature of the immortalized figures.  A framed archway extends between two columns to the east with a stone slab across the top.  To the west, steps descend into an auditorium that overlooks much of the countryside.  You notice a carved marble archway.
+
+Also here: a gray-robed priest, and Trystan the Human 
+
+Obvious Exits: west, and south. 
+
+
+Grey and gloomy clouds obscure the sky.
+' i'm not goin in with them alone
+
+You say, "I'm not goin in with them alone."
+
+Trystan leaves west.
+You follow Trystan west.
+
+
+[Pillars of Aerthane.]
+
+The overlooking corner of the stone slab descends into a square auditorium with wide steps suitable for seating. The rows of steps face a white marble topped altar at the center.  A swirled gray and white marble pillar stands at the corner with a supporting trellis connecting it to evenly spaced pillars along the perimeter.  Each pillar has been polished on one side to a brilliant side, with the opposite side facing the valley depicting intricately carved totems of fierce birds of prey.  You notice an arcsilver-veined white marble topped altar.
+
+Also here: Trystan the Human 
+
+Obvious Exits: east. 
+
+
+Trystan nods again.
+hover around quietly in a small circle
+
+You hover around quietly in a small circle.
+
+Trystan says, "Lets all get along speach followed by kill the sylph."
+cac try
+
+You cackle at Trystan.
+
+Trystan shakes his head from side to side.
+' i know, ryte?
+
+You ask, "I know, ryte?"
+stare
+
+You stare.
+
+Trystan nods.
+
+Trystan asks, "You want cooperation?"
+
+Trystan says, "Quit killing my temple mates."
+listen
+
+You listen.
+
+Trystan smirks at you.
+nod try
+
+You nod to Trystan.
+chu
+
+You chuckle.
+
+Trystan says, "Stay in the temple and know where the templars are."
+' i wonder if rochiriel will be next?
+
+You ask, "I wonder if rochiriel will be next?"
+nod try
+
+You nod to Trystan.
+
+Trystan gestures and says, "That's the best advice I can give you for the moment."
+' sounds good
+
+You say, "Sounds good."
+who
+
+   Players Currently Online: 
+ =============================
+
+   Blink the Avardi                                            
+   Wren the Human                                              
+   Xiija the Sylph                                             
+   Geel the Gavial                                             
+   Kaiah the Human                                             
+   Flynt the Sylph                                             
+   Trystan the Human                                           
+   Menfanous the Dwarf                                         
+   Allais the Human                                            
+   Steragnus the Gargoyle                                      
+   Cascius the Human                                           
+   Ochir the Argali                                            
+   Alexis the Human                                            
+   Trowa the Human                                             
+
+
+
+
+The holy shield surrounding you fades.
+pray holyshield
+
+
+
+You pray to Aerthane, but your prayers go unanswered.
+[Delay: 5.0 sec.]
+
+pray holyshield
+
+
+
+You pray to Aerthane, creating a protective shield around yourself.
+You look protected!
+[Delay: 5.0 sec.]
+
+
+Trystan says, "If they kill you, I will not be happy."
+' me either!
+
+You exclaim, "Me either!"
+stare
+
+You stare.
+
+Trystan says, "They're all waiting for you in the sqaure."
+
+Trystan chuckles.
+
+Trystan says, "They thought you'd go see Menfanous."
+' go tell em i said get stuffed?
+
+You ask, "Go tell em I said get stuffed?"
+
+Trystan says, "I already did."
+beam
+
+You beam.
+
+Trystan tilts his head to you.
+
+Trystan asks, "You didn't hear my big speaches?"
+' i did
+
+You say, "I did."
+cac
+
+You cackle.
+
+Trystan grins at you.
+' till you told me to run
+
+You say, "Till you told me to run."
+
+Trystan says, "They'll hate me more now for sure."
+' i flew ryte past the gargoyle commin for me
+
+You say, "I flew ryte past the gargoyle commin for me."
+shiv
+
+You shiver.
+
+Trystan says, "I told them thier reputation for killing prisoners is well known."
+
+Trystan grins at you.
+chu try
+
+You chuckle at Trystan.
+' they fear you i thynk
+
+You say, "They fear you I thynk."
+
+Trystan sighs heavily.
+
+Trystan says, "I gave them no reason to come for me."
+nod
+
+You nod.
+
+Trystan says, "The last killed by them was a Knight Marshal in fact."
+' oh?
+
+You ask, "Oh?"
+
+Trystan says, "Former obviously."
+' a traitor?
+
+You ask, "A traitor?"
+' ah
+
+You say, "Ah."
+
+Trystan says, "And then there's Nik who fell from their grace and should have been hung."
+
+Blink arrives from the east.
+
+Trystan gestures.
+nod
+
+You nod.
+nod bli
+
+Trystan nods to Blink.
+You nod to Blink.
+Blink says, "This is your last chance pretty much."
+
+Trystan shakes his head from side to side.
+grunt
+
+You grunt.
+
+Blink says, "They are in the square alone."
+
+Blink says, "They have a flier now."
+
+Blink says, "A gargoyle knight."
+say bli and my meeting is tomorrow
+
+You say to Blink, "And my meeting is tomorrow."
+sigh
+
+You sigh.
+
+Blink says, "It doesn't matter."
+
+Blink says, "You'll be an outlaw tomorrow."
+
+Trystan says, "Sure it does."
+
+Blink says, "You will have a chance perhaps with an appeal."
+
+Blink shrugs.
+
+Trystan asks, "Appeal?"
+
+Blink says, "But you'll go to jail for several days."
+grunt
+
+You grunt.
+Trystan shakes his head from side to side.
+
+Blink says to Trystan, "They are saying she will get hanged."
+
+Blink says, "That means she has a right to an appeal."
+' i'll live here till the forget me
+You say, "I'll live here till the forget me."
+
+Blink says, "I really don't trust that they will respect this place."
+grit
+
+You grit your teeth.
+
+Trystan says, "And I'll become something unpleasant if they harm or jail her."
+
+Blink says, "At best I think they'll lean on Trystan."
+
+Blink says, "At worse, they will charge in."
+nod
+
+You nod.
+say bli i will need to get hold of Ayderias
+
+You say to Blink, "I will need to get hold of Ayderias."
+rai bli
+
+You raise an eyebrow at Blink.
+
+Trystan asks Blink, "Will you be at his hours tomorrow night?"
+
+Blink says, "Yeah."
+
+Trystan nods.
+
+Blink says, "Mail me a message if you want."
+
+Blink says, "I can give it to him."
+' i'll be here after ten bells then
+
+You say, "I'll be here after ten bells then."
+
+Trystan says, "Between the three of us, maybe we can work this out."
+nod
+
+You nod.
+
+Blink says, "Very well. I'll ask him to come out here after."
+
+Trystan whispers to you, "He means me, he'll confuse things most likely.".
+
+Trystan raises an eyebrow.
+
+Blink says, "I think it may be too late though."
+nod softly
+
+You nod softly.
+
+Trystan says, "I was thinking we'd talk with him in his office."
+
+Blink says, "I mean I'll ask him to come out here after his hours."
+
+Trystan says, "If we can work it out, we'll send for Xiija."
+
+Blink says, "So it might be later."
+nod try
+
+You nod to Trystan.
+
+Blink says, "Yeah but the thing is she'll be already an outlaw by then."
+
+Blink says, "I've never heard of anyone coming back from that."
+
+Trystan sighs.
+
+Trystan says, "Then prepare for darker days."
+' all for answering some stupid questions
+
+You say, "All for answering some stupid questions."
+grunt
+
+You grunt.
+' and Rochiriel too?
+
+You ask, "And Rochiriel too?"
+
+Blink says, "Yeah it's how they do."
+
+Blink says, "Her too."
+nod
+
+You nod.
+
+Blink says, "I've done it 3 times."
+
+Trystan asks, "I thought they spoke with her already?"
+grunt
+
+You grunt.
+say try did they?
+
+You ask Trystan, "Did they?"
+
+Blink says, "Only died one of the three."
+
+Trystan asks, "Didn't they?"
+Blink says, "Not a bad record."
+nod bli
+
+You nod to Blink.
+shiv
+
+You shiver.
+
+Blink says, "I don't know if they have."
+
+Blink says, "I strongly advise going in now though."
+
+Trystan shakes his head from side to side.
+
+Blink says, "These aren't the same knights as the old ones."
+
+Trystan says, "Says you."
+' i wanna know why they need to  ask Me?.. what  evidence made em choose me?
+
+You ask, "I wanna know why they need to ask Me?.. what evidence made em choose me?"
+
+Blink says, "I'd go in if it was me."
+
+Blink says, "And I hate jail."
+
+
+
+The holy shield surrounding you fades.
+pray holyshield
+
+
+
+You pray to Aerthane, creating a protective shield around yourself.
+You look protected!
+[Delay: 5.0 sec.]
+
+
+Blink says to you, "Well either you are suspected, or they need info on a crime."
+
+Blink says, "Those are the only two reasons they'd kill you over it."
+' why would I have info?
+
+You ask, "Why would I have info?"
+
+Blink says, "It's a crime not to cooperate."
+grunt
+
+You grunt.
+
+Blink says, "They obviously know about the Goblin killing the bolinau."
+
+Blink says, "And that you were there."
+roll
+
+You roll your eyes.
+' i saw no killing
+
+You say, "I saw no killing."
+disagree bli
+
+You shake your head from side to side to Blink.
+
+Blink says, "They either think you had a part in it, or think you can give info on it."
+
+Blink says, "Well Roch claims you did."
+
+who
+[ARRIVALS] 'Flynt has logged out.'
+   Players Currently Online: 
+ =============================
+
+   Blink the Avardi                                            
+   Wren the Human                                              
+   Xiija the Sylph                                             
+   Geel the Gavial                                             
+   Kaiah the Human                                             
+   Trystan the Human                                           
+   Menfanous the Dwarf                                         
+   Allais the Human                                            
+   Steragnus the Gargoyle                                      
+   Cascius the Human                                           
+   Ochir the Argali                                            
+   Alexis the Human                                            
+   Trowa the Human                                             
+
+
+Blink says, "And I'm sure that is why they wanted to speak to her."
+roll
+
+You roll your eyes.
+
+Trystan removes Xiija from his group.
+
+
+Trystan leaves east.
+' weird
+
+You say, "Weird."
+nod
+
+You nod.
+l
+
+
+
+[Pillars of Aerthane.]
+
+The overlooking corner of the stone slab descends into a square auditorium with wide steps suitable for seating. The rows of steps face a white marble topped altar at the center.  A swirled gray and white marble pillar stands at the corner with a supporting trellis connecting it to evenly spaced pillars along the perimeter.  Each pillar has been polished on one side to a brilliant side, with the opposite side facing the valley depicting intricately carved totems of fierce birds of prey.  You notice an arcsilver-veined white marble topped altar.
+
+Also here: Champion Blink the Avardi 
+
+Obvious Exits: east. 
+
+l e
+
+Looking east you see...
+
+
+[Pillars of Aerthane.]
+
+Two marble busts sit atop pedestals resting between the perimeter of pillars.  Each bust displays detailed sculpting highlighting every facial feature of the immortalized figures.  A framed archway extends between two columns to the east with a stone slab across the top.  To the west, steps descend into an auditorium that overlooks much of the countryside.  You notice a carved marble archway. 
+
+Obvious Exits: west, and south. 
+
+l
+
+
+
+[Pillars of Aerthane.]
+
+The overlooking corner of the stone slab descends into a square auditorium with wide steps suitable for seating. The rows of steps face a white marble topped altar at the center.  A swirled gray and white marble pillar stands at the corner with a supporting trellis connecting it to evenly spaced pillars along the perimeter.  Each pillar has been polished on one side to a brilliant side, with the opposite side facing the valley depicting intricately carved totems of fierce birds of prey.  You notice an arcsilver-veined white marble topped altar.
+
+Also here: Champion Blink the Avardi 
+
+Obvious Exits: east. 
+
+
+Blink says, "Yep."
+
+Trystan arrives from the east.
+
+Trystan glances up.
+u
+
+You can't go that way.
+
+Trystan says, "Aerthane protect us."
+nod try
+
+You nod to Trystan.
+
+Trystan touches an arcsilver-veined white marble topped altar softly with the tips of his fingers.
+hum softly
+
+You hum softly.
+
+Trystan asks you, "What's your choice?"
+say try i wait for Ayderias tomorrow
+
+You say to Trystan, "I wait for Ayderias tomorrow."
+nod
+
+You nod.
+
+Trystan nods.
+' we got Emissaries for a reason
+
+You say, "We got Emissaries for a reason."
+chu
+
+Trystan says, "Then I will return to the center of town and bother them some before turning in."
+You chuckle.
+beam try
+
+You beam at Trystan.
+
+Trystan shakes his head from side to side.
+<HP: 157/157 ST: 119/121>
+Blink chuckles.
+
+Trystan says, "Maybe sense will work its way in."
+
+Blink says, "I'm going to hide if that is okay."
+
+Trystan nods.
+' thanks to both of you.... so much
+
+You say, "Thanks to both of you.... so much."
+Blink says, "Yikes."
+
+Trystan says to you, "Stay safe."
+
+Trystan leaves east.
+
+Blink chirps.
+
+Blink says, "Good luck."
+' tanks
+
+You say, "Tanks."
+grin
+
+You grin.
+l
+
+
+
+[Pillars of Aerthane.]
+
+The overlooking corner of the stone slab descends into a square auditorium with wide steps suitable for seating. The rows of steps face a white marble topped altar at the center.  A swirled gray and white marble pillar stands at the corner with a supporting trellis connecting it to evenly spaced pillars along the perimeter.  Each pillar has been polished on one side to a brilliant side, with the opposite side facing the valley depicting intricately carved totems of fierce birds of prey.  You notice an arcsilver-veined white marble topped altar.
+
+Also here: Champion Blink the Avardi 
+
+Obvious Exits: east. 
+
+
+Blink says, "If you can't stay here, perhaps try the shelter near ice trolls."
+
+Blink says, "I think it'll stop gating."
+nod bli
+
+You nod to Blink.
+
+Blink says, "And it's not quite under Pearl law yet."
+
+Blink salutes.
+sal
+
+You salute.
+l
+
+
+
+[Pillars of Aerthane.]
+
+The overlooking corner of the stone slab descends into a square auditorium with wide steps suitable for seating. The rows of steps face a white marble topped altar at the center.  A swirled gray and white marble pillar stands at the corner with a supporting trellis connecting it to evenly spaced pillars along the perimeter.  Each pillar has been polished on one side to a brilliant side, with the opposite side facing the valley depicting intricately carved totems of fierce birds of prey.  You notice an arcsilver-veined white marble topped altar.
+
+Also here: Champion Blink the Avardi 
+
+Obvious Exits: east. 
+
+Blink leaves east.
+e
+
+
+
+[Pillars of Aerthane.]
+
+Two marble busts sit atop pedestals resting between the perimeter of pillars.  Each bust displays detailed sculpting highlighting every facial feature of the immortalized figures.  A framed archway extends between two columns to the east with a stone slab across the top.  To the west, steps descend into an auditorium that overlooks much of the countryside.  You notice a carved marble archway.
+
+Obvious Exits: west, and south. 
+
+list is: 
+l n
+
+You don't see anything that way.
+l ne
+
+You don't see anything that way.
+l e
+
+Looking east you see...
+You can't see that!
+l se
+
+You don't see anything that way.
+l s
+
+Looking south you see...
+
+
+[Pillars of Aerthane.]
+
+Tiered ceilings of marble cascade into a vaulted dome over the entrance.  The square foyer extends separately from the white tower with no connecting doorways.  The north and south walls are arched from corner to corner, allowing the wind to pass through freely.  You notice a closed white oak door. 
+
+Obvious Exits: south, and north. 
+
+l sw
+
+You don't see anything that way.
+l w
+l nw
+
+Looking west you see...
+
+
+[Pillars of Aerthane.]
+
+The overlooking corner of the stone slab descends into a square auditorium with wide steps suitable for seating. The rows of steps face a white marble topped altar at the center.  A swirled gray and white marble pillar stands at the corner with a supporting trellis connecting it to evenly spaced pillars along the perimeter.  Each pillar has been polished on one side to a brilliant side, with the opposite side facing the valley depicting intricately carved totems of fierce birds of prey.  You notice an arcsilver-veined white marble topped altar. 
+
+Obvious Exits: east. 
+
+
+You don't see anything that way.
+l u
+
+You don't see anything that way.
+l d
+
+You don't see anything that way.
+done - Scanlist = east|south|west
+
+
+
+
+
+l
+<HP: 157/157 ST: 119/121><HP: 157/157 ST: 119/121><HP: 157/157 ST: 119/121>
+
+
+[Pillars of Aerthane.]
+
+Two marble busts sit atop pedestals resting between the perimeter of pillars.  Each bust displays detailed sculpting highlighting every facial feature of the immortalized figures.  A framed archway extends between two columns to the east with a stone slab across the top.  To the west, steps descend into an auditorium that overlooks much of the countryside.  You notice a carved marble archway.
+
+Obvious Exits: west, and south. 
+
+e
+
+
+
+[Aerthane Atrium, Entrance.]
+
+Smoothed walls of alabaster rest between the marble pillars which form a foundation for the ceiling.  Between the western pillars, marble has been chiseled and smoothed into an arched entryway that connects the enclosed area with the rest of the temple.  Marble slabs line the eastern wall.  Carved into steps up to a doorway above.  To the south, the narrow hallway expands into an open air library atrium.  You notice a carved marble archway, some marble steps, and a wooden posting board.
+
+Also here: an Aerthanian templar 
+
+Obvious Exits: south. 
+
+u
+
+
+
+[Atrium Library, Entrance.]
+
+A narrow opening in the stone floor nearest the eastern edge of the platform provides access to a staircase.  A door set into the side of a whitewashed stone tower to the south connects the small enclosure atop the pillars.  A dome of metal framing and glass panels covers the tower in place of a rooftop.  Sections of the tower swell outward like the scales of a dragon, overlapping one another.  You notice an open carved walnut door, and some marble steps.
+
+Obvious Exits: none
+
+go door
+
+
+
+[Atrium Library.]
+
+Alcoves cut deep into the tower walls have been aligned around the tower, connected by a railed wooden walkway.  The center of the room is left open, providing a view of the fountain below as well as an unobstructed view of the skylight above from ground level.  Each alcove is lined with shelves containing a wealth of literature.  Small walnut writing desks pressed against the wall between the shelves provide quiet places to read from the nearby collection.  You notice an open carved walnut door.
+
+Obvious Exits: none
+
+
+Grey and gloomy clouds obscure the sky.
+u
+
+
+
+[High in the Sky.]
+
+Below the top of the tower, alcoves cut deep into the tower walls have been aligned, connected by a railed wooden walkway.  The center of the room is left open, providing a view of the fountain as well as an unobstructed view of the skylight above from ground level.
+
+Obvious Exits: west. 
+
+shiv
+
+You shiver.
+who
+
+   Players Currently Online: 
+ =============================
+
+   Blink the Avardi                                            
+   Wren the Human                                              
+   Xiija the Sylph                                             
+   Geel the Gavial                                             
+   Kaiah the Human                                             
+   Trystan the Human                                           
+   Menfanous the Dwarf                                         
+   Allais the Human                                            
+   Steragnus the Gargoyle                                      
+   Cascius the Human                                           
+   Ochir the Argali                                            
+   Alexis the Human                                            
+   Trowa the Human                                             
+
+l w
+
+Looking west you see...
+
+
+[High in the Sky.]
+
+Clouds the size of towering mountains continuously float across clear patches of blue sky like glaciers across icy waters.  Brief gaps in the clouds provide glimpses of the vast landscape below, as if looking through a portal into another world.  The massive heights of the cloud banks cast varying colors throughout, ranging from snow-white to steel gray.  A blurry haze rises up from the perimeter of the clouds, circling the area like a protective halo.
+
+Obvious Exits: down, west, and east. 
+
+l
+
+
+
+[High in the Sky.]
+
+Below the top of the tower, alcoves cut deep into the tower walls have been aligned, connected by a railed wooden walkway.  The center of the room is left open, providing a view of the fountain as well as an unobstructed view of the skylight above from ground level.
+
+Obvious Exits: west. 
+
+l d
+
+Looking down you see...
+You can't see that!
+d
+
+
+
+[Atrium Library.]
+
+Alcoves cut deep into the tower walls have been aligned around the tower, connected by a railed wooden walkway.  The center of the room is left open, providing a view of the fountain below as well as an unobstructed view of the skylight above from ground level.  Each alcove is lined with shelves containing a wealth of literature.  Small walnut writing desks pressed against the wall between the shelves provide quiet places to read from the nearby collection.  You notice an open carved walnut door.
+
+Obvious Exits: none
+
+u
+
+
+
+[High in the Sky.]
+
+Below the top of the tower, alcoves cut deep into the tower walls have been aligned, connected by a railed wooden walkway.  The center of the room is left open, providing a view of the fountain as well as an unobstructed view of the skylight above from ground level.
+
+Obvious Exits: west. 
+
+prayer
+   Prayer Name               Uses Remaining   Level
+
+   Cure Disease                       2386    22
+   Cure Poison                        2586    21
+   Detect Disease                     860     10
+   Disease Ward                       872     10
+   Divine Path                        1461    12
+   Healing Touch                      1878    26
+   Holy Shield                        2376    20
+   Inflict Plague                     553     16
+   Mending Aura                       500     5
+   Rejuvenation                       1952    34
+   Revoke                             1788    19
+   Holy Strike                        1382    27
+
+
+ For more information, see PRAYERS, SPELLS, and TRADES.
+
+time
